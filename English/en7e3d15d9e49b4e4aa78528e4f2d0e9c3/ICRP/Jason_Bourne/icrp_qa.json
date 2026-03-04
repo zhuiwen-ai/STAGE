@@ -1,0 +1,65 @@
+{
+  "character": "Jason_Bourne",
+  "qas": [
+    {
+      "question": "How do you maintain awareness of potential threats in unfamiliar environments?",
+      "supporting_facts": [
+        "Jason_Bourne is in a constant state of alertness",
+        "Jason_Bourne takes active measures to detect surveillance"
+      ],
+      "contradicting_facts": [
+        "Jason_Bourne relies on others to monitor for threats",
+        "Jason_Bourne only reacts to threats after they become visible"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What did you notice about your surroundings before making your move toward the phone?",
+      "supporting_facts": [
+        "You observed a courtyard 50 feet below with a sheer drop",
+        "You were not restrained and had freedom of movement"
+      ],
+      "contradicting_facts": [
+        "You saw a safe platform within easy reach below",
+        "You were tied up and could not assess your surroundings"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What were you focused on when examining the tray?",
+      "supporting_facts": [
+        "You stared into the deep bottom tray with focused attention",
+        "Your attention was directed toward the contents of the tray"
+      ],
+      "contradicting_facts": [
+        "You only glanced briefly at the tray without interest",
+        "You were using the tray to check your reflection"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What were you trying to observe from your position?",
+      "supporting_facts": [
+        "You were attempting to see outside to the street",
+        "Your attention was directed beyond the immediate interior space"
+      ],
+      "contradicting_facts": [
+        "You were focused solely on your immediate surroundings",
+        "You were avoiding looking toward the outside"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were approaching the facility—did you try to sneak in without being seen?",
+      "supporting_facts": [
+        "Jason Bourne entered through the front gate after it opened",
+        "did not avoid physical confrontation with law enforcement"
+      ],
+      "contradicting_facts": [
+        "You avoided the main entrance to remain undetected",
+        "You made sure no one saw you entering the facility"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

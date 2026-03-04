@@ -1,0 +1,5782 @@
+[
+  {
+    "id": "rel_ep_ep_96630872833e",
+    "subject_id": "ep_13d27741414592a2",
+    "object_id": "ep_b301729648b0ca52",
+    "relation_type": "precedes",
+    "reason": "揭露黄志强的房地产野心并提出收买发生在徐太浪挑战黄志强对峙之前，根据相关事件序列，黄志强先提出招募，随后徐太浪拒绝并挑衅，导致冲突升级。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3a1dfc9cd319",
+    "subject_id": "ep_540614d5dabc1619",
+    "object_id": "ep_384d1e4d3df587a5",
+    "relation_type": "precedes",
+    "reason": "进入包厢并开始唱歌发生在罗力突袭之前，根据描述，三人先进入包厢开始娱乐，随后罗力带人突入，事件顺序明确。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_24_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_310e9bda34e3",
+    "subject_id": "ep_540614d5dabc1619",
+    "object_id": "ep_0431975e118bc1e3",
+    "relation_type": "precedes",
+    "reason": "根据描述，'进入包厢并开始唱歌'标志着聚会的娱乐环节正式开始，而'引入陪唱女孩并引发争议'发生在之后，涉及对陪唱规则的讨论和选择陪唱对象，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_24_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bf9da1b84cc4",
+    "subject_id": "ep_a9bddaa46813af38",
+    "object_id": "ep_e2b5e629dd6d8841",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合‘正太帮入会对话 (scene_14)’中，根据叙事逻辑和典型对话流程，交换姓名并调侃起名智慧发生在质问盗窃并劝其改过之前，属于同一场景内的先后顺序。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cc5531fb0789",
+    "subject_id": "ep_a9bddaa46813af38",
+    "object_id": "ep_da5375a346ab8e75",
+    "relation_type": "precedes",
+    "reason": "在正太帮入会对话场景中，徐太浪先透露名字并被调侃，随后徐正太质疑其动机并要求反问名字，徐太浪才改口询问全名，叙事顺序明确支持前者在时间上先于后者。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4439039ef833",
+    "subject_id": "ep_13d27741414592a2",
+    "object_id": "ep_439a11b1bf14a361",
+    "relation_type": "causes",
+    "reason": "黄志强提出收买被徐正太吐唾沫羞辱后，随即下令废掉二人并实施暴力。客体情节是主体情节中收买失败的直接后果，文本明确支持这一因果链。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_08f941cae0dd",
+    "subject_id": "ep_384d1e4d3df587a5",
+    "object_id": "ep_efad20a2688be131",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'应对罗力突袭与地盘威胁'中罗力下达最后通牒并离开后，紧接着三人围坐商议应对策略，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_24_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_be19ed3eacf1",
+    "subject_id": "ep_9e124fc7a123e29e",
+    "object_id": "ep_34315a4467c1232e",
+    "relation_type": "precedes",
+    "reason": "突袭并控制现场在撤离被绑的小马之前发生，因为只有在制服对方小弟并控制现场后，徐太浪和徐正太才能抬走被绑的小马执行撤离。描述中的动作顺序和逻辑依赖支持这一时间先后关系。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_93c8d8a55b1a",
+    "subject_id": "ep_b301729648b0ca52",
+    "object_id": "ep_439a11b1bf14a361",
+    "relation_type": "causes",
+    "reason": "徐太浪和徐正太的挑衅与公开羞辱行为（吐唾沫）直接导致黄志强下令废掉二人并实施暴力，描述中明确指出‘在被徐正太吐唾沫羞辱后，黄志强改变原有计划，下令打手将徐太浪和徐正太废掉’，构成直接因果关系。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_152506635e65",
+    "subject_id": "ep_32f55ef54f992bbd",
+    "object_id": "ep_378e155cbc77d97f",
+    "relation_type": "precedes",
+    "reason": "徐太浪在采访中向父亲致谢并揭示家庭情感后，紧接着结束采访并重新投入庆祝，父亲默默离开。两个情节均发生在scene_4，且描述中的动作顺序表明前者在叙事时间上直接早于后者。",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0fd496281cf2",
+    "subject_id": "ep_6413ae3f67b5daf7",
+    "object_id": "ep_e2f62e466ffe91e7",
+    "relation_type": "precedes",
+    "reason": "六一闯入办公室并质问黄志强发生在黄志强应对持剑攻击并准备防卫之前，根据相关事件序列，六一质问后拔剑冲向黄志强，触发后续防卫准备，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_51_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ae4da4005912",
+    "subject_id": "ep_6413ae3f67b5daf7",
+    "object_id": "ep_33639bfc7068a41a",
+    "relation_type": "precedes",
+    "reason": "六一闯入办公室并质问黄志强发生在其发出最后通牒并升级冲突之前，因为质问是冲突升级的前置步骤，且两个情节均发生在同一场景（scene_51），叙事顺序上先质问后提出最后通牒。",
+    "source_documents": [
+      "scene_51_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_98f7d2e0dd2a",
+    "subject_id": "ep_fe3f40e59452ad4a",
+    "object_id": "ep_ad20f676825f5b0b",
+    "relation_type": "precedes",
+    "reason": "在聚餐场合中，为小马规划未来职业并引发分歧的情节包含小马表达自卑并提议加入BB机计划，随后在三人干杯庆祝后，小马于深夜悄然离开。相关事件在scene_34中按时间顺序展开，规划未来与分歧发生在干杯和离别之前，因此该关系在叙事顺序上明确支持precedes。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f79f3edda977",
+    "subject_id": "ep_e56eebdf15022768",
+    "object_id": "ep_ebba3063752de9ee",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'前往电影院并抵达目的地'发生在scene_20，而'徐正太向小花求婚并获接受'发生在scene_21，表明前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3891a147f6cb",
+    "subject_id": "ep_a9bddaa46813af38",
+    "object_id": "ep_5337973d9108680b",
+    "relation_type": "precedes",
+    "reason": "交换姓名并调侃起名智慧发生在徐正太介绍正太帮并邀请入会之前，因为名字对比为后续命名正太帮和邀请入会提供了上下文和动机，且两个情节共享同一场合'正太帮入会对话 (scene_14)'，表明它们在相同场景中按顺序发生。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c625cca0191e",
+    "subject_id": "ep_b0dd51b76d593634",
+    "object_id": "ep_e56eebdf15022768",
+    "relation_type": "contrasts_with",
+    "reason": "六一为佳依取玫瑰并表白的情节以失败告终，展现其情感努力的笨拙与挫折；而徐正太向小花求婚的情节则成功且自然，形成情感结果上的鲜明对比。两个情节在相同场合中并置，通过成败对照强化叙事张力，且描述中明确指出后者‘形成与六一失败表白的鲜明对比’。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_87fb6f3ccfbd",
+    "subject_id": "ep_0b966450e21b961d",
+    "object_id": "ep_ad20f676825f5b0b",
+    "relation_type": "precedes",
+    "reason": "在描述中，批评小马的生存能力并对比社会生活方式的情节发生在聚餐期间，随后在相同场合下三人干杯并小马悄然离别。相关事件的时间顺序表明前者在叙事上先于后者，且小马在受到批评后表达自卑并最终离开，支持该时间序列。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b5ff94e3539d",
+    "subject_id": "ep_ebba3063752de9ee",
+    "object_id": "ep_b0dd51b76d593634",
+    "relation_type": "precedes",
+    "reason": "前往电影院并抵达目的地（ep_ebba3063752de9ee）发生在六一为佳依取玫瑰并表白（ep_b0dd51b76d593634）之前，因为五人抵达电影院是后续在观影厅内发生表白情节的前提。相关事件的时间顺序和场景编号（scene_20 在 scene_21 之前）支持这一叙事先后关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_48d774be7921",
+    "subject_id": "ep_4200d5bc94e5d36b",
+    "object_id": "ep_23e64f4b3c2746b7",
+    "relation_type": "causes",
+    "reason": "‘重申世界不变与必将改变的信念’中，徐正太与六一重现‘世界不会变’的台词表演直接触发了六一在楼边情不自禁哭泣的情感反应，文本明确描述六一‘受情绪感染’而哭泣，构成直接因果关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ea1dd696bd0b",
+    "subject_id": "ep_0431975e118bc1e3",
+    "object_id": "ep_384d1e4d3df587a5",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合'Ktv包厢聚会 (scene_24)'中，且根据描述顺序，'引入陪唱女孩并引发争议'在叙事上先发生：徐正太招呼女孩进入并安排陪唱，随后罗力带人突入包厢实施威胁。事件序列在文本中呈现为连续动作，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_24_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4ff5d3c11845",
+    "subject_id": "ep_825d7cc83da4ce34",
+    "object_id": "ep_384d1e4d3df587a5",
+    "relation_type": "precedes",
+    "reason": "实体 #2 '观察院子并识别威胁' 发生在屋顶观察罗力持枪并讨论其威胁，而实体 #1 '应对罗力突袭与地盘威胁' 是罗力实际进入包厢实施威胁的事件。根据叙事逻辑和事件发展，观察行为必须在突袭发生之前，以建立对罗力的识别和危险预判，因此 #2 在时间顺序上先于 #1。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_24_part_2",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2bfe6236ab74",
+    "subject_id": "ep_4200d5bc94e5d36b",
+    "object_id": "ep_ad20f676825f5b0b",
+    "relation_type": "precedes",
+    "reason": "根据描述，'重申世界不变与必将改变的信念' 中徐太浪与徐正太、六一互动并安慰小马，随后在'三人干杯与小马悄然离别'中，三人干杯庆祝，小马最终离开。两个情节均发生在同一场合（庆祝救出小马的聚餐），且事件序列显示对话与情绪铺垫先于干杯与离别行为，叙事顺序支持前者早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ad1194f29225",
+    "subject_id": "ep_5337973d9108680b",
+    "object_id": "ep_da5375a346ab8e75",
+    "relation_type": "precedes",
+    "reason": "根据描述，'介绍正太帮并接受入会'中徐正太先介绍自己并邀请徐太浪入会，随后在'回应质疑并完成入会询问'中徐太浪改口询问其全名，完成礼节性转折。两个情节共享同一场合'正太帮入会对话 (scene_14)'，且叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e87d07d8e939",
+    "subject_id": "ep_5337973d9108680b",
+    "object_id": "ep_e2b5e629dd6d8841",
+    "relation_type": "precedes",
+    "reason": "根据描述，徐太浪先同意加入正太帮，随后徐正太才带他到阳台质问其盗窃行为并劝其改过。两个情节均发生在同一场合（正太帮入会对话）中，且事件顺序在叙述中呈现为先入会后质问，因此‘介绍正太帮并接受入会’在叙事顺序上早于‘质问盗窃并劝其改过’。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f5cdc87048c0",
+    "subject_id": "ep_4200d5bc94e5d36b",
+    "object_id": "ep_fe3f40e59452ad4a",
+    "relation_type": "elaborates",
+    "reason": "两个情节均发生在同一场合‘庆祝救出小马的聚餐 (scene_34)’中，且围绕小马的未来展开。‘重申世界不变与必将改变的信念’中徐太浪提出世界会变、小马终将离开，为后续‘为小马规划未来职业并引发分歧’提供了动机和背景。后者通过具体职业建议和分歧进一步扩展了前者关于变化与出路的主题，构成对信念陈述的具象化补充。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_242de84e4841",
+    "subject_id": "ep_81fa90294411c349",
+    "object_id": "ep_ad20f676825f5b0b",
+    "relation_type": "precedes",
+    "reason": "‘响应小马被绑的紧急情况’描述了营救行动的开始，发生在小马被救出之前；而‘三人干杯与小马悄然离别’发生在救出小马后的庆祝聚餐中，并以小马深夜离开结束。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_74ac3b718774",
+    "subject_id": "ep_da5375a346ab8e75",
+    "object_id": "ep_e2b5e629dd6d8841",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合'正太帮入会对话 (scene_14)'中，且根据描述顺序，'回应质疑并完成入会询问'涉及徐太浪询问徐正太名字并完成礼节性转折，紧随其后的是'质问盗窃并劝其改过'，即徐正太带徐太浪到阳台进行质问和道德引导。文本中事件的叙述顺序支持前者在叙事时间上先于后者。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d19c11d4ceee",
+    "subject_id": "ep_81fa90294411c349",
+    "object_id": "ep_34315a4467c1232e",
+    "relation_type": "precedes",
+    "reason": "‘响应小马被绑的紧急情况’描述了徐正太和徐太浪得知绑架后立即出发展开营救的初步行动，而‘撤离被绑的小马’则是他们在控制现场后执行的后续救援步骤。根据叙事顺序，响应紧急情况发生在撤离行动之前，且两个情节共享营救小马的短期目标，构成连贯的情节序列。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_be9cfce4b979",
+    "subject_id": "ep_ed6596e636e49ffe",
+    "object_id": "ep_ff4b16530a65fe22",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_35，但根据描述，徐太浪在响应小花的亲密邀请并产生内心怀疑后，才发生回应小花改名愿望并因‘张素贞’退缩的情节。具体来说，他先走向小花并产生怀疑，随后在即将亲吻时因听到‘张素贞’而退缩，表明前者在叙事顺序上紧接在后者之前。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ba7c62aa2b0b",
+    "subject_id": "ep_4200d5bc94e5d36b",
+    "object_id": "ep_7a908701078b78fe",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合‘庆祝救出小马的聚餐 (scene_34)’中，但根据描述顺序和事件流，‘重申世界不变与必将改变的信念’中徐太浪与徐正太、六一的对话及对小马的劝离先发生，随后才是‘向小马敬酒并探讨通讯技术的未来’中的敬酒与技术讨论，叙事顺序支持前者早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6170fccf581b",
+    "subject_id": "ep_7a908701078b78fe",
+    "object_id": "ep_fe3f40e59452ad4a",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合'庆祝救出小马的聚餐 (scene_34)'中，根据描述顺序和事件流，'向小马敬酒并探讨通讯技术的未来'中徐太浪敬酒、小马提出构想、徐正太质疑等事件逻辑上先于'为小马规划未来职业并引发分歧'中小马表达迷茫、众人提出职业建议等后续发展，叙事顺序清晰，支持precedes关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_05d1a223055d",
+    "subject_id": "ep_d69f3437829d30d3",
+    "object_id": "ep_e56eebdf15022768",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'徐太浪询问张素贞引发唱名误会' 是一个短暂的对话插曲，发生在电影院观影聚会的早期阶段，而 '徐正太向小花求婚并获接受' 发生在安慰六一之后，属于同一场景中后续发展的高潮事件。两者共享同一场合 (scene_21)，且叙事顺序上前者为开场小插曲，后者为后续情感发展，因此存在明确的时间先后关系。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_694924f22fe6",
+    "subject_id": "ep_cee907859232ccad",
+    "object_id": "ep_fe3f40e59452ad4a",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合'庆祝救出小马的聚餐 (scene_34)'中，但根据描述顺序和事件流，'追问小马项目进展并揭示其身份'包含徐太浪对小马身份的震惊反应，这自然发生在'为小马规划未来职业并引发分歧'之前，因为身份揭示是后续讨论其未来路径的前提。文本中事件的叙述顺序和逻辑依赖支持该时间先后关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_49cf4ba88935",
+    "subject_id": "ep_160d6ccd100931de",
+    "object_id": "ep_58e19ddcd00aecfb",
+    "relation_type": "precedes",
+    "reason": "根据描述，徐太浪在小巷中追捕小偷并重拾勇气的情节发生在与持刀小偷对峙的过程中，而摩托车突然冲入打断对峙是紧接着发生的事件。related_events 中的 scene_10 时间顺序表明追逐和重拾勇气先于摩托车打断对峙，因此 ep_160d6ccd100931de 在叙事顺序上早于 ep_58e19ddcd00aecfb。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_04d5ab094923",
+    "subject_id": "ep_96504acd6cf46eee",
+    "object_id": "ep_ff4b16530a65fe22",
+    "relation_type": "precedes",
+    "reason": "根据描述，'营造暧昧氛围并选定《白蛇传》节目' 发生在徐太浪操作遥控器停留在《白蛇传》频道，随后小花表达对白素贞的认同并提出改名，徐太浪在亲吻前因听到‘张素贞’而退缩。两个情节均发生在 scene_35，但事件序列显示换台完成后才讨论《白蛇传》内容，因此存在明确的叙事时序先后。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6d043935be96",
+    "subject_id": "ep_0b966450e21b961d",
+    "object_id": "ep_4200d5bc94e5d36b",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节中徐正太批评小马缺乏生存能力，而徐太浪则欣赏无科技的简单生活，体现对现代社会适应性的不同态度；第二个情节中徐正太和六一坚持‘世界不会变’，而徐太浪则坚定认为‘世界会变’，小马终将离开，形成信念上的直接对立。两个情节在价值观和对未来态度上形成明显对比，且发生在同一场合中并置呈现，支持contrasts_with关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3f696e19920b",
+    "subject_id": "ep_7a908701078b78fe",
+    "object_id": "ep_ad20f676825f5b0b",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合'庆祝救出小马的聚餐 (scene_34)'中。根据描述，徐太浪向小马敬酒并探讨通讯技术的未来发生在前，随后徐正太提议干杯，最终小马在深夜悄然离开。叙事顺序上，敬酒与讨论先于干杯与离别，因此ep_7a908701078b78fe在话语顺序上早于ep_ad20f676825f5b0b。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7de1c9e4e90e",
+    "subject_id": "ep_888d07fa9076001b",
+    "object_id": "ep_ed6596e636e49ffe",
+    "relation_type": "precedes",
+    "reason": "根据描述，'推进亲密接触并建立情感共鸣' 中的事件（如小花抚摸徐太浪大腿、两人对视、徐太浪安慰小花）发生在 '响应小花的亲密邀请并产生内心怀疑' 之前，后者包含徐太浪在亲密互动过程中逐渐产生怀疑的心理转变。两个情节均发生在 scene_35，但前者聚焦情感连接的建立，后者聚焦徐太浪从响应亲密到内心决意解决小花的转折，叙事顺序上具有明确先后。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8523459fc15c",
+    "subject_id": "ep_0b966450e21b961d",
+    "object_id": "ep_fe3f40e59452ad4a",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中徐正太批评小马缺乏生存能力，徐太浪则表达对简单生活的欣赏，六一附和；第二个情节在此基础上展开，小马表达迷茫后，众人提出不同未来规划，徐正太坚持放片员建议，六一提出BB机计划，徐太浪劝导坚持自我。第二个情节通过具体职业建议和分歧深化了第一个情节中关于生存方式与社会适应的讨论，提供了更详细的后续发展和立场延伸，因此主体情节为客体情节提供了背景和语境上的扩展。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f55ecd38da24",
+    "subject_id": "ep_5337973d9108680b",
+    "object_id": "ep_42cb6387f8838c8f",
+    "relation_type": "precedes",
+    "reason": "根据描述，徐正太介绍正太帮并邀请徐太浪入会，徐太浪同意入会后，才表达对母亲的渴望并转移话题至婚姻。两个情节均发生在scene_14，且‘同意加入正太帮’是两个情节共享的related_event，但叙事顺序上，入会动机（见大嫂）先于后续对话的转移。因此，‘介绍正太帮并接受入会’在话语顺序上先于‘表达寻母渴望并转移话题至婚姻’。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3f8bd229c02b",
+    "subject_id": "ep_33639bfc7068a41a",
+    "object_id": "ep_e2f62e466ffe91e7",
+    "relation_type": "precedes",
+    "reason": "六一发出最后通牒并升级冲突（ep_33639bfc7068a41a）包含事件'六一宣称黄志强的腿作为兄弟婚礼的彩礼'，紧随其后是六一拔剑冲向黄志强，触发黄志强应对持剑攻击并准备防卫（ep_e2f62e466ffe91e7）。相关事件序列在scene_51中按时间顺序明确展开，前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_51_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1c2a511f1f66",
+    "subject_id": "ep_888d07fa9076001b",
+    "object_id": "ep_ff4b16530a65fe22",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_35，但第一个情节描述小花抚摸徐太浪大腿、对视、被扶上床、表达父爱缺失及情感连接建立，而第二个情节描述徐太浪在即将亲吻时因听到‘张素贞’名字而退缩，表明情感推进之后才出现因改名提议导致的中断，叙事顺序上前者紧接后者，因此ep_888d07fa9076001b在叙事时序上先于ep_ff4b16530a65fe22。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f732ed88e1a5",
+    "subject_id": "ep_34315a4467c1232e",
+    "object_id": "ep_ad20f676825f5b0b",
+    "relation_type": "precedes",
+    "reason": "撤离被绑的小马发生在三人干杯与小马悄然离别之前，因为救援行动完成后才进行庆祝聚餐，且小马在聚餐后深夜离开，叙事顺序明确。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b19b1a338281",
+    "subject_id": "ep_85ae77fa614545de",
+    "object_id": "ep_a7ac0f2b34db4e93",
+    "relation_type": "contrasts_with",
+    "reason": "徐太浪请求徐正太避免惹事体现对规则和克制的强调，而徐正太破戒饮酒与父子情绪共鸣则展现情感突破与行为失控，两者在行为约束与情感释放之间形成对比。",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_eb8e8ad8c264",
+    "subject_id": "ep_651b5deb0a832aa4",
+    "object_id": "ep_005338f9fb3c1916",
+    "relation_type": "precedes",
+    "reason": "启动搜寻木木行动描述的是搜寻的初期阶段，包括在大街小巷呼喊木木的名字和徐正太责备六一，而响应狗叫发现线索则是在搜寻过程中听到狗叫并定位线索的后续转折点。两个情节均发生在scene_15，但搜寻行动在叙事逻辑和时间顺序上先于对狗叫的响应，因此主体情节在顺序上早于客体情节。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1541d0298257",
+    "subject_id": "ep_825d7cc83da4ce34",
+    "object_id": "ep_57b1d4a0dd7ef04d",
+    "relation_type": "precedes",
+    "reason": "在观察院子并识别威胁后，随着罗力离开，紧张气氛缓解，徐正太才邀请众人去吃饭，行动目标从监视转向社交。两个情节发生在同一场景（scene_16），且描述中存在明确的时间顺序：先识别威胁，后提议社交聚会。",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_69eaae484132",
+    "subject_id": "ep_34315a4467c1232e",
+    "object_id": "ep_fe3f40e59452ad4a",
+    "relation_type": "precedes",
+    "reason": "撤离被绑的小马发生在庆祝救出小马的聚餐之前，而为小马规划未来职业并引发分歧的情节明确发生在该聚餐场合中（related_occasions: '庆祝救出小马的聚餐 (scene_34)'），因此'撤离被绑的小马'在叙事顺序上早于'为小马规划未来职业并引发分歧'。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a3d85c45a073",
+    "subject_id": "ep_2bd4f0c2ee0a9663",
+    "object_id": "ep_85ae77fa614545de",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_39，且根据描述，徐太浪先提出操办婚礼并延伸育儿请求，随后提出请求徐正太避免惹事，二者在对话中连续发生，存在明确的叙事顺序。因此，'徐太浪主动操办婚礼并延伸育儿请求'在话语顺序上早于'徐太浪请求徐正太避免惹事'。",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3afd49d05549",
+    "subject_id": "ep_7a7833ff46eb0cc7",
+    "object_id": "ep_fbc04e1ec67bec99",
+    "relation_type": "elaborates",
+    "reason": "两个情节均发生在同一场景（scene_46），围绕徐太浪对小花怀孕的反应展开。'徐太浪亲近胎儿引发冲突' 描述了其亲昵举动导致的直接冲突，而 '围绕胎儿性别的家庭互动' 进一步扩展了该情境下的家庭讨论和情绪反应，提供了关于人物态度和关系的额外细节，因此后者对前者进行了内容上的补充和扩展。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4391cb99a579",
+    "subject_id": "ep_f16b9e9524bb2ac7",
+    "object_id": "ep_6d6d2d7781ff8800",
+    "relation_type": "elaborates",
+    "reason": "主体情节展示徐正太试图说服徐太浪投资录像厅，客体情节中徐太浪反思父亲当年的投入是家庭经济困难的根源，后者通过提供徐太浪的心理反应和背景理解，扩展了前者的情感与后果层面。两个情节共享同一场景（scene_26）且客体在叙事上紧随主体之后，提供了对主体中行为的深层解读。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7d0e3e66f687",
+    "subject_id": "ep_f16b9e9524bb2ac7",
+    "object_id": "ep_3aab6a2755f65f06",
+    "relation_type": "precedes",
+    "reason": "在叙事顺序中，徐正太首先展示录像厅并试图说服徐太浪投资（ep_f16b9e9524bb2ac7），随后徐太浪反驳该投资建议并主张转向电影院（ep_3aab6a2755f65f06）。两个情节均发生在同一场景（scene_26），且描述中显示前者为劝说行为，后者为直接回应，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_05f07e112b81",
+    "subject_id": "ep_5337973d9108680b",
+    "object_id": "ep_c9d62776f3ec36e1",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_14，且‘介绍正太帮并接受入会’在叙事顺序上先于‘共同呼唤木木并启动搜寻任务’。徐太浪先同意入会，随后才指出有会员投河并启动搜寻，事件序列在描述中呈现清晰的时间先后。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_57d7578e8636",
+    "subject_id": "ep_4c46092b643c0878",
+    "object_id": "ep_e56eebdf15022768",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'质疑并确认父亲与小花的婚事'发生在scene_17，而'徐正太向小花求婚并获接受'发生在scene_21，scene_17在叙事顺序上早于scene_21，因此该关系为precedes。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_70caa79db52f",
+    "subject_id": "ep_55bf1f67d39bca1e",
+    "object_id": "ep_f16b9e9524bb2ac7",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'进入小巷讨论感情观并准备如厕' 发生在厕所场景中，徐太浪在门口准备发表人生见解；而 '展示录像厅优势并说服徐太浪投资' 发生在录像厅内外，涉及徐太浪随徐正太离开后的互动。related_events 中提到 '徐太浪戴上墨镜后随徐正太离开录像厅' 表明该情节发生在离开小巷之后。因此，小巷如厕情节在叙事顺序上早于录像厅投资说服情节。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_75d3c60d33db",
+    "subject_id": "ep_3aab6a2755f65f06",
+    "object_id": "ep_6d6d2d7781ff8800",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中，徐太浪与徐正太就录像厅与电影院的未来展开争论，凸显代际分歧；第二个情节中，徐正太透露继续投资录像厅的计划，而徐太浪通过观察街边汽车反思家庭经济困难的根源。第二个情节通过揭示徐正太的实际行动和徐太浪的情感认知，进一步扩展和深化了第一个情节中的冲突和主题，提供了关于决策后果和家庭影响的额外背景。因此，第二个情节对第一个情节起到了解释和补充作用。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a41a7ab3818d",
+    "subject_id": "ep_18aff0806d4018e2",
+    "object_id": "ep_e56eebdf15022768",
+    "relation_type": "contrasts_with",
+    "reason": "‘展现夫妻亲密互动’与‘徐正太向小花求婚并获接受’在叙事上形成对比：前者表现徐正太与小花日常恩爱互动并引发徐太浪注视，后者则直接呈现求婚成功的情节，并明确指出该情节与六一的失败表白形成鲜明对比。虽然对比焦点在六一与徐正太之间，但‘徐正太与小花的亲密关系发展’作为整体情感线索的一部分，在两个情节中持续构成成功求爱与失败表白之间的张力，因此两情节在情感结果上具有对比功能。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_496c59c28ff5",
+    "subject_id": "ep_4a40d6f66def948a",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "elaborates",
+    "reason": "情节'揭露考验真相并确认徐太浪通过品性测试'解释了'三人组海边散步遭遇冲突'的真实性质，揭示该冲突是正太帮设计的品性考验，提供了后者事件的背景和目的，从而扩展并重新定义了前一情节的意义。",
+    "source_documents": [
+      "scene_45__2_part_1",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_29df94798b8c",
+    "subject_id": "ep_4c46092b643c0878",
+    "object_id": "ep_98b0a21bc95e9aa4",
+    "relation_type": "precedes",
+    "reason": "质疑并确认父亲与小花的婚事发生在婚前谈话场景中，而筹备婚礼并拍摄婚纱照发生在后续的婚礼筹备场合，叙事上前者在时间顺序上早于后者，构成婚事确认后进入实际准备阶段的自然推进。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_45__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b9e3b3ff8185",
+    "subject_id": "ep_165ce0e8f78d6d5a",
+    "object_id": "ep_eb74d252b5b32731",
+    "relation_type": "contrasts_with",
+    "reason": "徐正太抱起小花奔跑体现主动、紧急或情感驱动的行为，而小花扶徐正太行走则显示被动、恢复性与依赖状态，两者在角色动态和身体状态上形成明显对比，可能反映关系或情境的逆转。",
+    "source_documents": [
+      "scene_45__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ccdc221a091a",
+    "subject_id": "ep_4c46092b643c0878",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "elaborates",
+    "reason": "质疑并确认父亲与小花的婚事为后续揭露考验真相的情节提供了情感和叙事基础，后者通过揭示整个婚事为品性考验的一部分，扩展并重新诠释了前一情节的背景和动机，构成对前一情节的解释性深化。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ffc75c6e5025",
+    "subject_id": "ep_384d1e4d3df587a5",
+    "object_id": "ep_4a40d6f66def948a",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在KTV包厢内，涉及罗力的突袭和最后通牒，而第二个情节是三人组在海边散步时遭遇打手冲突。根据叙事连贯性，地盘威胁事件（ep_384d1e4d3df587a5）建立紧张局势，随后在海边（ep_4a40d6f66def948a）爆发进一步冲突，表明前者在时间顺序上早于后者。两个情节均涉及外部暴力威胁和三人组的应对，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_24_part_2",
+      "scene_45__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1021366b7378",
+    "subject_id": "ep_18aff0806d4018e2",
+    "object_id": "ep_d9b5ca34d4ab7a82",
+    "relation_type": "elaborates",
+    "reason": "两个情节均发生在同一场合'家庭晚餐聚会 (scene_17)'，且都描述徐正太与小花之间的亲昵互动。'展现夫妻亲密互动'聚焦于互相喂菜的行为，而'徐正太与小花展示日常默契'通过处理水壶和飞吻进一步扩展了他们情感互动的细节，提供了额外的日常默契表现，从而对主体情节进行补充和细化。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5a969eb591d3",
+    "subject_id": "ep_0431975e118bc1e3",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "elaborates",
+    "reason": "第一个情节引入陪唱女孩并引发徐太浪的质疑，第二个情节揭示整个情境是正太帮设计的品性考验，小花宣布徐太浪通过考验，徐正太现身解释其目的。因此，第二个情节提供了对第一个情节背后真实意图和背景的解释，扩展并阐明了前一情节的深层含义。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_24_part_2",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_67073f9030b6",
+    "subject_id": "ep_461f43a12e70be84",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "elaborates",
+    "reason": "确立正太帮传承暗号的情节中，三人练习交叉手指动作以确保组织延续；而在揭露考验真相的情节中，徐正太说明正太帮的传承考虑，进一步解释了此前建立暗号的深层目的。后者通过揭示组织对传承的系统性规划，为前一情节提供了背景和扩展说明。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_24_part_2",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_de4642b8de60",
+    "subject_id": "ep_0b966450e21b961d",
+    "object_id": "ep_7a908701078b78fe",
+    "relation_type": "precedes",
+    "reason": "在庆祝救出小马的聚餐场景中，徐正太批评小马的生存能力并对比社会生活方式的情节先于徐太浪向小马敬酒并探讨通讯技术的未来的情节。两个情节共享同一场合，且描述中的事件顺序表明批评与对比发生在敬酒与技术讨论之前。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ada9bb2fc9cd",
+    "subject_id": "ep_4200d5bc94e5d36b",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "precedes",
+    "reason": "实体#1发生在庆祝救出小马的聚餐场景（scene_34），而实体#2发生在正太帮的品性考验仪式（scene_35），scene_34在叙事顺序上早于scene_35，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4e3d23e3b028",
+    "subject_id": "ep_ad20f676825f5b0b",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "precedes",
+    "reason": "情节 '三人干杯与小马悄然离别' 发生在 '揭露考验真相并确认徐太浪通过品性测试' 之前，依据是前者发生在 scene_34，后者发生在 scene_35，文档顺序和场景编号表明明确的叙事时间先后。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9d33086b27f7",
+    "subject_id": "ep_0e94f46a14eaff37",
+    "object_id": "ep_45795803de995699",
+    "relation_type": "precedes",
+    "reason": "徐太浪提出集体行动策略以应对被跟踪的威胁（ep_0e94f46a14eaff37）发生在三人遭突袭失去意识（ep_45795803de995699）之前，且两个情节均发生在scene_44中，叙事顺序明确。",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aa4ae7c92876",
+    "subject_id": "ep_42cb6387f8838c8f",
+    "object_id": "ep_da5375a346ab8e75",
+    "relation_type": "precedes",
+    "reason": "在正太帮入会对话中，徐太浪先表达寻母渴望并转移话题至婚姻，随后徐正太回应质疑并完成入会询问，叙事顺序明确支持前者在时间上先于后者。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9ff0f2b95bf3",
+    "subject_id": "ep_42cb6387f8838c8f",
+    "object_id": "ep_e2b5e629dd6d8841",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合'正太帮入会对话 (scene_14)'中，根据描述顺序，徐太浪先表达寻母渴望并转移话题至婚姻，随后徐正太带其到阳台质问盗窃行为，叙事顺序支持前者在先。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_05af1b723286",
+    "subject_id": "ep_673f86cc694e0454",
+    "object_id": "ep_6dbc9eafc0f75579",
+    "relation_type": "elaborates",
+    "reason": "执行高难度漂移驾驶并实时监控车辆状态描述了徐太浪进行漂移及领航员监控车辆状态的整体场景，而协同调整车辆性能以支持极限驾驶进一步提供了关于如何通过提升涡轮压力和开启Anti-Lag系统来优化车辆性能的细节，扩展了前者的技术执行层面，体现了对同一驾驶情境下操作协同的深化说明。",
+    "source_documents": [
+      "scene_2__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_7d1268d06908",
+    "subject_id": "ep_4319f06f8e3b71fb",
+    "object_id": "ep_f1a9196a0c8de379",
+    "relation_type": "elaborates",
+    "reason": "‘开启对话并表达牵挂’建立了徐太浪与小花之间的情感交流场景，而‘分享家庭创伤与成长伤痛’在此基础上深入展开，通过两人讲述家庭痛苦经历进一步深化情感共鸣，提供了更深层的心理背景和情感细节，因此前者为后者提供了情感铺垫和对话框架，后者对前者进行内容扩展和深化。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4e3372e05dde",
+    "subject_id": "ep_9ccce371670389d9",
+    "object_id": "ep_def580b98e9d27ba",
+    "relation_type": "precedes",
+    "reason": "徐太浪计划介入并邀约小花发生在追问并揭示小花全名之前。根据相关事件序列，徐太浪先邀请小花看电影并获得同意，随后在互动中追问其全名，叙事顺序明确支持该时间先后关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_70210f399b26",
+    "subject_id": "ep_4319f06f8e3b71fb",
+    "object_id": "ep_95f937b8e5d2fadd",
+    "relation_type": "precedes",
+    "reason": "根据描述，'开启对话并表达牵挂' 发生在两人开始交谈并表达关心的阶段，而 '情感共鸣后寻求慰藉' 描述的是在倾诉伤痛后共同仰望天空并结束对话的场景。两个情节均发生在 scene_38，但前者为对话的开端，后者为情感交流的结束，叙事顺序上存在明确先后关系。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eadb4ea45347",
+    "subject_id": "ep_24caf4224f5140c6",
+    "object_id": "ep_28c654beebc69be1",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_35，但根据描述顺序，徐太浪先应对小花的坐姿质疑并询问正太行踪，随后才进入房间确认电视故障并修复。叙事顺序支持前者在时间上早于后者。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e7041c6cc730",
+    "subject_id": "ep_540614d5dabc1619",
+    "object_id": "ep_ca1bb414017429cf",
+    "relation_type": "precedes",
+    "reason": "三人先进入包厢并开始唱歌，随后六一安排佳依离开包厢以确保安全，叙事顺序明确，前者标志着娱乐环节开始，后者为密谈创造条件，时间上先后清晰。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_24_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d4176c899a25",
+    "subject_id": "ep_735be6a4109cef2b",
+    "object_id": "ep_32f55ef54f992bbd",
+    "relation_type": "precedes",
+    "reason": "根据描述，徐太浪在赛后采访中首先感谢团队和领航员（ep_735be6a4109cef2b），随后转向父亲表达情感并回应母亲早逝的问题（ep_32f55ef54f992bbd），两个情节均发生在scene_4，且叙述顺序表明前者在时间上先于后者。",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6575dc2c1c46",
+    "subject_id": "ep_f1a9196a0c8de379",
+    "object_id": "ep_95f937b8e5d2fadd",
+    "relation_type": "precedes",
+    "reason": "在叙事顺序上，徐太浪与小花分享家庭创伤与成长伤痛（ep_f1a9196a0c8de379）发生在情感共鸣后寻求慰藉（ep_95f937b8e5d2fadd）之前。描述中显示，两人先讲述各自的痛苦经历并产生共鸣，随后才共同仰望天空、给予安慰并结束对话，构成明确的时间先后顺序。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e384d32cbc52",
+    "subject_id": "ep_c2932f9d76f471ac",
+    "object_id": "ep_6322352034571ebf",
+    "relation_type": "precedes",
+    "reason": "根据事件序列，'应对徐太浪出现引发的关系危机'中警察带徐太浪与徐正太对质、试探两人关系，直接发生在'应对金所长对家庭细节的核查'之前。相关事件如金所长追问真实关系、徐正太改称徐太浪为弟并提及祭日，为后续金所长进一步核查家庭细节（如遗像、电视机品牌）提供了动机和上下文。两个情节均发生在scene_13，但关系危机的互动在叙事顺序上先于对家庭细节的验证，构成执法审查的递进过程。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fc19971bb69d",
+    "subject_id": "ep_18aff0806d4018e2",
+    "object_id": "ep_9ccce371670389d9",
+    "relation_type": "precedes",
+    "reason": "在家庭晚餐聚会场景中，徐正太和小花互相喂菜的亲密互动先发生，引起徐太浪的注视，随后徐太浪决定介入并邀请小花看电影。叙事顺序上，展现夫妻亲密互动在前，徐太浪计划介入并邀约小花在后，且两者共享同一场合(scene_17)，时间顺序明确。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7e22d4bdd4cd",
+    "subject_id": "ep_28c654beebc69be1",
+    "object_id": "ep_96504acd6cf46eee",
+    "relation_type": "precedes",
+    "reason": "根据描述，徐太浪先确认电视故障并修复，随后小花开窗返回并与徐太浪互动，选定《白蛇传》节目，两个情节发生在同一场景（scene_35）内，且事件顺序显示修复电视在换台选择节目之前，因此存在明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d50d9aae119c",
+    "subject_id": "ep_28c654beebc69be1",
+    "object_id": "ep_ed6596e636e49ffe",
+    "relation_type": "precedes",
+    "reason": "根据描述，徐太浪先确认电视故障并修复，随后小花邀请他靠近，徐太浪在响应邀请时产生内心怀疑。两个情节均发生在scene_35，但事件序列显示修复电视和提议看电视发生在小花妩媚邀请之前，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e01fee83c92f",
+    "subject_id": "ep_0431975e118bc1e3",
+    "object_id": "ep_ca1bb414017429cf",
+    "relation_type": "precedes",
+    "reason": "引入陪唱女孩并引发争议发生在六一安排佳依离开包厢之前，根据描述中的叙事顺序，先有徐正太招呼女孩进入并讨论陪唱规则，随后六一才采取行动让佳依离开，因此该关系在时间顺序上明确支持。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_24_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_149f64f1ce50",
+    "subject_id": "ep_ca1bb414017429cf",
+    "object_id": "ep_384d1e4d3df587a5",
+    "relation_type": "precedes",
+    "reason": "根据事件时序，六一安排佳依离开包厢发生在罗力突袭并下达最后通牒之前，为后续密谈创造安全环境，因此'安排佳依离开以确保安全'在叙事顺序上早于'应对罗力突袭与地盘威胁'。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_24_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1d00d11f8089",
+    "subject_id": "ep_24e0bb62dbaf92c7",
+    "object_id": "ep_324d45ca65733e5c",
+    "relation_type": "elaborates",
+    "reason": "共进日餐并交流生活愿景是发生在晚餐过程中的整体情节，而罗力献唱表达爱与愧疚是其中的一个具体行为，通过歌曲进一步扩展和深化了两人之间的情感交流，因此该情节为前一情节提供了情感上的细节和补充。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f23ed738647e",
+    "subject_id": "ep_ca1bb414017429cf",
+    "object_id": "ep_efad20a2688be131",
+    "relation_type": "precedes",
+    "reason": "六一安排佳依离开包厢以确保安全，随后三人才能围坐商议应对危机的策略。文本中‘示意所有女孩离开包厢’为‘三人围坐讨论’创造了条件，表明前者在叙事顺序上直接早于后者，且共享同一场合Ktv包厢聚会(scene_24)。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_24_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a76652b08b1c",
+    "subject_id": "ep_2e453ea4e0047974",
+    "object_id": "ep_be5d33bec5c6d05a",
+    "relation_type": "precedes",
+    "reason": "在叙事顺序中，罗力纠正越界提议并重申谈判原则后，紧接着小弟才提出当前唯一可行动目标只剩一人，且罗力以沉默表示认可。相关事件均发生在scene_25，且逻辑上否决不当提议先于重新聚焦可行策略。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_25_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d8afcc2ede08",
+    "subject_id": "ep_0edeaf6c7ebf15d9",
+    "object_id": "ep_18aff0806d4018e2",
+    "relation_type": "precedes",
+    "reason": "完成并上桌家常鱼菜发生在家庭晚餐聚会中上菜阶段，而展现夫妻亲密互动发生在菜上桌后的用餐过程中，两者共享同一场合且描述中事件顺序暗示上菜完成之后才进入互动环节，因此存在明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_84c106a99567",
+    "subject_id": "ep_96504acd6cf46eee",
+    "object_id": "ep_888d07fa9076001b",
+    "relation_type": "precedes",
+    "reason": "营造暧昧氛围并选定《白蛇传》节目发生在推进亲密接触并建立情感共鸣之前，因为小花先通过甩发、对视和换台等行为营造暧昧，随后在选定《白蛇传》后进一步发展为抚摸大腿、贴近对视和情感分享，叙事顺序在scene_35内连续且明确。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_59e3eb1b875d",
+    "subject_id": "ep_24caf4224f5140c6",
+    "object_id": "ep_ed6596e636e49ffe",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，徐太浪先应对小花的坐姿质疑并询问正太行踪，随后才响应小花的亲密邀请并产生内心怀疑。两个情节均发生在scene_35，但前者涉及对正太行踪的询问，后者转向对小花的怀疑与心理决断，叙事上存在明确先后顺序。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_71a9a860c214",
+    "subject_id": "ep_0e9a6492fcb521f9",
+    "object_id": "ep_9986d152b7c15a62",
+    "relation_type": "precedes",
+    "reason": "根据描述和相关事件序列，'蝙蝠侠介入制服小偷'中的所有事件（如蝙蝠侠踢倒小偷、压在其身上）在时间上先于'揭露身份与警察介入'中的事件（如蝙蝠侠摘下头盔、警察赶到）。两个情节均发生在scene_10，但制服小偷的动作完成后，才发生摘头盔、认亲、警察质问等后续动作，叙事顺序明确。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5367a3abedd5",
+    "subject_id": "ep_24caf4224f5140c6",
+    "object_id": "ep_96504acd6cf46eee",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，徐太浪先应对小花的坐姿质疑并询问正太行踪，随后小花开窗返回并与徐太浪互动营造暧昧氛围并选定《白蛇传》节目。两个情节均发生在scene_35，但事件序列显示前者中的询问正太去向后无进一步行动，接着进入后者的一系列互动，表明时间上的先后顺序。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b360a8a9ac33",
+    "subject_id": "ep_7a908701078b78fe",
+    "object_id": "ep_cee907859232ccad",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合'庆祝救出小马的聚餐 (scene_34)'中，但根据描述，徐太浪先向小马敬酒并讨论通讯技术构想，随后才追问项目进展并揭示身份。事件序列在叙事顺序上呈现清晰的先后关系，支持'向小马敬酒并探讨通讯技术的未来'在前，'追问小马项目进展并揭示其身份'在后。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b867c467ddf6",
+    "subject_id": "ep_c37093555d9965fb",
+    "object_id": "ep_a1a861a52da47a21",
+    "relation_type": "precedes",
+    "reason": "‘冲向起火的家’描述徐正太发现火灾并冲向火场，而‘冲入火场救人’描述抵达门口后进入火场展开救援，二者在叙事顺序上紧密衔接，前者为后者直接前置动作，时间逻辑清晰。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_10ca70ce9a5a",
+    "subject_id": "ep_28c654beebc69be1",
+    "object_id": "ep_888d07fa9076001b",
+    "relation_type": "precedes",
+    "reason": "根据描述，'确认电视故障并修复'发生在徐太浪进入房间后，小花提议一起看电视，随后的情节是两人推进亲密接触并建立情感共鸣。两个情节均发生在scene_35，且'确认电视故障并修复'在叙事顺序上先于'推进亲密接触并建立情感共鸣'，因为电视修复后才开始观看《白蛇传》，进而引发后续情感互动。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_83cf8850dea1",
+    "subject_id": "ep_96504acd6cf46eee",
+    "object_id": "ep_ed6596e636e49ffe",
+    "relation_type": "precedes",
+    "reason": "根据描述，'营造暧昧氛围并选定《白蛇传》节目' 中的事件（如换台至《白蛇传》）发生在小花邀请徐太浪靠近之前，属于同一场景（scene_35）中的前置互动；随后徐太浪才缓慢走向小花并产生内心怀疑。因此，该情节在叙事顺序上明确早于'响应小花的亲密邀请并产生内心怀疑'。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7d6408e632cd",
+    "subject_id": "ep_ab1ceaa2dad885cd",
+    "object_id": "ep_853707328d1843f0",
+    "relation_type": "precedes",
+    "reason": "局长首先质问徐太浪的身份来历并核对证件真实性，随后在徐太浪无法提供令人信服证明的情况下，才威胁将其带至精神病医院施加压力。两个情节发生在同一场景（scene_12），且逻辑与审讯流程支持先验证身份再施加压力的时间顺序。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0d5c5ac82a53",
+    "subject_id": "ep_c182972bda4f98ea",
+    "object_id": "ep_d2d7fccf9b71609a",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节描绘徐太浪在成年后亲密关系中的孤独与情感疏离，通过按摩店的短暂互动体现情感冷漠；第二个情节则展现他与同一按摩女重建联系，并由此获得新机遇，从低谷走向积极转折。两者在情感状态和叙事结果上形成明显逆转与对比：前者是疏离与空虚，后者是连接与希望，构成对同一人物关系动态的前后对照。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_139c1f13655f",
+    "subject_id": "ep_6322352034571ebf",
+    "object_id": "ep_50b6ce355c81af47",
+    "relation_type": "precedes",
+    "reason": "根据描述，'应对金所长对家庭细节的核查' 包含金所长带人进屋核实信息、确认细节属实、指责徐太浪不孝并最终离开屋内，随后徐正太与徐太浪道别。紧接着，金所长离开后，'徐正太与徐太浪在危机后重新建立控制' 发生，徐正太质问徐太浪并拿起BB机招呼对方。两个情节共享 scene_13 的事件序列，且后者明确在执法审查压力解除后开始，说明其发生在前者之后。因此，'应对金所长对家庭细节的核查' 在叙事顺序上直接早于'徐正太与徐太浪在危机后重新建立控制'。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e2776a025b93",
+    "subject_id": "ep_6f03c1d36f962771",
+    "object_id": "ep_d1bf26d67872bac5",
+    "relation_type": "precedes",
+    "reason": "根据描述，'尝试追击逃离车辆'发生在徐正太驾车离开时，而'应对徐正太逃离后的突发持枪对峙'明确发生在徐正太驾车离开后，且两个情节共享同一场景（scene_33）的时间流。因此，主体情节在叙事顺序上紧接在前，客体情节随后发生。",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_db7446b2aa67",
+    "subject_id": "ep_41c5c79771908fd8",
+    "object_id": "ep_ad20f676825f5b0b",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合'庆祝救出小马的聚餐 (scene_34)'中。根据描述，'讨论未带六一参与行动的原因'包含六一表达遗憾和徐太浪解释原因，逻辑上发生在三人干杯之前，因为情绪铺垫和角色反应（六一窃喜）为后续庆祝和小马的离别行为提供上下文。叙事顺序上，解释与接受使命在前，庆祝与离别在后，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_27b36294ebaa",
+    "subject_id": "ep_3272f734214f9a21",
+    "object_id": "ep_853707328d1843f0",
+    "relation_type": "precedes",
+    "reason": "根据描述，局长先通过询问出生年份并结合日历揭示时间矛盾，随后在徐太浪无法提供身份证明的情况下威胁将其带至精神病医院。两个情节发生在同一场景（scene_12），但逻辑和叙事顺序上，追问出生年份以揭露矛盾在前，威胁带离施加压力在后。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e110475f7ead",
+    "subject_id": "ep_2e453ea4e0047974",
+    "object_id": "ep_636285567db86513",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均发生在同一场景（scene_25），涉及罗力对下属极端提议的压制，但焦点不同：前者强调维护谈判原则和体面形象，反对绑架女性、儿童和对方老大；后者强调不能杀人，以避免法律后果和失控。两者并置突显罗力在不同越界行为面前所坚持的控制与底线之间的细微差别，形成在行为类型和反应强度上的对比。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_25_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_04e5d913dab4",
+    "subject_id": "ep_23e64f4b3c2746b7",
+    "object_id": "ep_ad20f676825f5b0b",
+    "relation_type": "precedes",
+    "reason": "根据描述，'六一情感爆发与集体告别'发生在徐正太与六一完成台词表演后，六一在楼边哭泣，而'三人干杯与小马悄然离别'包含三人干杯庆祝及小马深夜离开的事件。两者共享同一场合'庆祝救出小马的聚餐'，且情感爆发紧接在表演后，干杯和离别发生在聚餐过程中及之后，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e45dd49b6757",
+    "subject_id": "ep_4e3d46054a2c35c9",
+    "object_id": "ep_a1a861a52da47a21",
+    "relation_type": "precedes",
+    "reason": "徐太浪托付徐正太等待并离开发生在徐正太冲入火场之前，根据叙事顺序，徐太浪离开后徐正太才抵达门口并冲入火场，因此该情节在话语顺序上早于冲入火场救人。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6f8c2f9b5287",
+    "subject_id": "ep_24caf4224f5140c6",
+    "object_id": "ep_888d07fa9076001b",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'应对小花的坐姿质疑并询问正太行踪' 发生在徐太浪与小花互动的初期阶段，包括其起身和询问正太去向；而 '推进亲密接触并建立情感共鸣' 包含后续的亲密行为和情感交流，如抚摸、扶上床、呼唤名字和分享个人情感，这些动作在叙事顺序上明显晚于前者。两个情节均基于 scene_35，但事件序列显示前者为后者铺垫，具有清晰的时间先后关系。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0b89d27f7f84",
+    "subject_id": "ep_a1a861a52da47a21",
+    "object_id": "ep_079048f9811979d3",
+    "relation_type": "precedes",
+    "reason": "冲入火场救人发生在兄弟逃生并确认彼此安全之前，因为徐正太和徐太浪先进入火场展开救援，之后才从火灾现场逃至桥头并确认安全。叙事顺序和事件逻辑支持这一时间先后关系。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5be019094927",
+    "subject_id": "ep_2342aa1c4ff852c5",
+    "object_id": "ep_c2932f9d76f471ac",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'处理小马的身份盘查'发生在警察对小马进行身份询问并命令其离开的阶段，而'应对徐太浪出现引发的关系危机'紧随其后，涉及警察将徐太浪带入现场并追问其与徐正太的关系。两个情节共享同一场景（scene_13）且事件序列连续，前者结束于小马被命令离开，后者开始于新角色徐太浪的引入和关系盘查升级，表明存在明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_60d079ae434f",
+    "subject_id": "ep_5fe4f64a85c31bb9",
+    "object_id": "ep_a1a861a52da47a21",
+    "relation_type": "precedes",
+    "reason": "徐太浪在公交车内入睡并中断搜寻行动，徐正太在原地等待，发生在两人后续冲入火场救人之前。根据叙事顺序，疲惫中陷入睡眠与环境等待（ep_5fe4f64a85c31bb9）在时间上早于冲入火场救人（ep_a1a861a52da47a21），且文档ID（doc_35 vs doc_39）支持该时序。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4a935d828773",
+    "subject_id": "ep_4e3d46054a2c35c9",
+    "object_id": "ep_c37093555d9965fb",
+    "relation_type": "precedes",
+    "reason": "徐太浪托付徐正太等待并离开发生在徐正太发现家中着火并冲向火场之前，根据叙事顺序，徐太浪离开后徐正太才冲向起火的家，因此该关系在时间顺序上明确支持。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4a10f2bbc06b",
+    "subject_id": "ep_5fe4f64a85c31bb9",
+    "object_id": "ep_c37093555d9965fb",
+    "relation_type": "precedes",
+    "reason": "徐太浪在公交车内入睡并中断搜寻、徐正太原地等待的情节发生在天黑后，而徐正太发现家中着火并冲向火场的情节发生在后续场景，文档顺序和事件发展逻辑表明前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f192b431d8d9",
+    "subject_id": "ep_c37093555d9965fb",
+    "object_id": "ep_079048f9811979d3",
+    "relation_type": "precedes",
+    "reason": "情节'冲向起火的家'描述徐正太发现家中着火并冲向火场，徐太浪紧随其后；而情节'兄弟逃生并确认彼此安全'描述两人从火灾现场逃至桥头并确认安全。根据事件顺序，冲向火场必然发生在逃生之前，因此前者在叙事时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0f1c9cea6656",
+    "subject_id": "ep_80c7d484716ff7d2",
+    "object_id": "ep_d1bf26d67872bac5",
+    "relation_type": "precedes",
+    "reason": "追击徐正太以报复溅水（ep_80c7d484716ff7d2）发生在徐正太驾车离开派出所之前，而应对徐正太逃离后的突发持枪对峙（ep_d1bf26d67872bac5）明确以徐正太驾车离开为起点。因此，主体情节在叙事顺序上直接早于客体情节。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_efb0df377234",
+    "subject_id": "ep_81fa90294411c349",
+    "object_id": "ep_9e124fc7a123e29e",
+    "relation_type": "precedes",
+    "reason": "主体情节'响应小马被绑的紧急情况'描述了徐正太和徐太浪在得知绑架后立即驾车离开现场，这是营救行动的初步响应；客体情节'突袭并控制现场'则描述了他们到达现场后展开的突袭和械斗。根据叙事顺序，响应紧急情况发生在突袭现场之前，且相关事件分别位于文档26和29，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c0584589cf50",
+    "subject_id": "ep_c12aa8c41f2c5ad4",
+    "object_id": "ep_ebba3063752de9ee",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'前往电影院并抵达目的地'发生在scene_20，而'探讨帮派考验与成员资格'发生在scene_21，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_136127404931",
+    "subject_id": "ep_98b0a21bc95e9aa4",
+    "object_id": "ep_bea986e2557beaeb",
+    "relation_type": "precedes",
+    "reason": "筹备婚礼并拍摄婚纱照发生在婚礼进行之前，而回应新娘对致辞的不满发生在婚礼进行期间，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_45__2_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b3de6d94e8a1",
+    "subject_id": "ep_079048f9811979d3",
+    "object_id": "ep_651b5deb0a832aa4",
+    "relation_type": "precedes",
+    "reason": "兄弟逃生并确认彼此安全发生在火灾现场之后，而启动搜寻木木行动是在城市街道中展开的后续活动。根据叙事常理，逃生是紧急生存反应，搜寻宠物是次生目标驱动行为，且两者无重叠事件或场景，支持前者在时间顺序上早于后者。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fb5b609fe5c0",
+    "subject_id": "ep_5337973d9108680b",
+    "object_id": "ep_651b5deb0a832aa4",
+    "relation_type": "precedes",
+    "reason": "介绍正太帮并接受入会发生在文档 doc_12 的 scene_14，而启动搜寻木木行动发生在文档 doc_13 的 scene_15，叙事顺序上前者早于后者，且两个情节分别属于连续场景，无插入其他事件，因此支持 'precedes' 关系。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5e677195325b",
+    "subject_id": "ep_005338f9fb3c1916",
+    "object_id": "ep_c9d62776f3ec36e1",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'共同呼唤木木并启动搜寻任务'（scene_14）发生在'响应狗叫发现线索'（scene_15）之前。scene_14中的行动导致木木开始搜寻，随后在scene_15中四人抵达河边并听到狗叫，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ece9ff317362",
+    "subject_id": "ep_c9d62776f3ec36e1",
+    "object_id": "ep_651b5deb0a832aa4",
+    "relation_type": "precedes",
+    "reason": "‘共同呼唤木木并启动搜寻任务’发生在场景14，其中木木被指派去寻找六一，标志着搜寻行动的正式开始；而‘启动搜寻木木行动’发生在场景15，描述的是徐正太等人在大街小巷主动寻找木木，时间顺序上紧随其后。因此，客体情节在叙事顺序上晚于主体情节，支持‘precedes’关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b29298e12cd5",
+    "subject_id": "ep_651b5deb0a832aa4",
+    "object_id": "ep_5fe4f64a85c31bb9",
+    "relation_type": "precedes",
+    "reason": "启动搜寻木木行动（ep_651b5deb0a832aa4）发生在徐太浪和徐正太仍在积极寻找木木的阶段，而疲惫中陷入睡眠与环境等待（ep_5fe4f64a85c31bb9）描述的是徐太浪因疲惫中断搜寻并在公交车内入睡、徐正太在原地等待的状态，表明搜寻行动已暂停。根据叙事逻辑和事件发展顺序，搜寻行动在先，因疲惫而中断并进入等待状态在后，因此前者在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f88092747654",
+    "subject_id": "ep_4c46092b643c0878",
+    "object_id": "ep_bea986e2557beaeb",
+    "relation_type": "precedes",
+    "reason": "质疑并确认父亲与小花的婚事发生在徐正太与小花的婚前谈话场景中（scene_17），而回应新娘对致辞的不满发生在婚礼进行期间（scene_50），scene_17在叙事顺序上早于scene_50，因此该关系为precedes。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_184771504c37",
+    "subject_id": "ep_9e124fc7a123e29e",
+    "object_id": "ep_439a11b1bf14a361",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，'突袭并控制现场'发生在黄志强下令废掉二人之前，因为突袭是徐太浪和徐正太主动行动以夺取控制权，而暴力事件是在他们被制服后由黄志强下令实施的，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1541ba95ad31",
+    "subject_id": "ep_9e124fc7a123e29e",
+    "object_id": "ep_b301729648b0ca52",
+    "relation_type": "precedes",
+    "reason": "根据描述，'突袭并控制现场' 情节中双方小弟爆发械斗并被制服，为后续徐太浪直接挑战黄志强并导致冲突升级提供了前提和叙事顺序基础。'对抗升级：徐太浪挑战黄志强对峙' 发生在控制现场之后，是冲突进一步深化的阶段，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_011726740b64",
+    "subject_id": "ep_825d7cc83da4ce34",
+    "object_id": "ep_d1bf26d67872bac5",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在四人小组在屋顶观察院子时，识别出罗力持枪并讨论潜在威胁；第二个情节发生在徐正太驾车离开后，罗力出现在派出所门口持枪对峙，随后被金所长化解。根据事件顺序，观察与识别威胁发生在后续对峙之前，且两个情节涉及同一人物（罗力）的持枪行为，前者为后者提供了前置情境。因此，主体情节在叙事时间上早于客体情节。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_847b41dec98e",
+    "subject_id": "ep_c2932f9d76f471ac",
+    "object_id": "ep_d1bf26d67872bac5",
+    "relation_type": "precedes",
+    "reason": "根据事件时序，'应对徐太浪出现引发的关系危机' 发生在派出所内，涉及徐太浪与徐正太的身份对质，而后续 '应对徐正太逃离后的突发持枪对峙' 明确以徐正太驾车离开为开端。related_events 中 '徐正太驾车离开派出所门口' 标志前一情节结束并触发后一情节，因此主体情节在叙事顺序上直接早于客体情节。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c57641b6886d",
+    "subject_id": "ep_5337973d9108680b",
+    "object_id": "ep_e7b2c549aa831f34",
+    "relation_type": "precedes",
+    "reason": "主体情节'介绍正太帮并接受入会'发生在场景scene_14，而客体情节'确认相亲活动进展并应对突发状况'发生在场景scene_48，scene_14在叙事顺序上早于scene_48，因此该关系为precedes。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d2f74affc0d0",
+    "subject_id": "ep_5337973d9108680b",
+    "object_id": "ep_57b1d4a0dd7ef04d",
+    "relation_type": "precedes",
+    "reason": "‘介绍正太帮并接受入会’发生在 scene_14，而‘转为社交聚会的提议与接受’发生在 scene_16，scene_14 在叙事顺序上早于 scene_16，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ee29ff6cf009",
+    "subject_id": "ep_57b1d4a0dd7ef04d",
+    "object_id": "ep_18aff0806d4018e2",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和场景编号，'转为社交聚会的提议与接受'发生在scene_16，而'展现夫妻亲密互动'发生在scene_17，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_01b92cd0516a",
+    "subject_id": "ep_384d1e4d3df587a5",
+    "object_id": "ep_57b1d4a0dd7ef04d",
+    "relation_type": "precedes",
+    "reason": "情节'应对罗力突袭与地盘威胁'中罗力离开后，紧张气氛缓解，紧接着徐正太提出去他女友家吃饭，标志着目标转向社交，因此该情节在叙事顺序上直接早于'转为社交聚会的提议与接受'。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_24_part_2",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ed312fe0da95",
+    "subject_id": "ep_079048f9811979d3",
+    "object_id": "ep_4e3d46054a2c35c9",
+    "relation_type": "precedes",
+    "reason": "兄弟逃生并确认彼此安全发生在徐太浪托付徐正太等待并离开之前，因为逃生是两人抵达安全地点后的初步互动，而托付与分离是后续发生的叙事动作，时间顺序明确。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c506bf1c4614",
+    "subject_id": "ep_4e3d46054a2c35c9",
+    "object_id": "ep_a7ac0f2b34db4e93",
+    "relation_type": "precedes",
+    "reason": "徐太浪托付徐正太等待并离开发生在徐正太破戒饮酒与父子情绪共鸣之前，因为徐正太是在徐太浪离开后等待一整晚才重新饮酒，且两个情节的事件分别位于scene_36和scene_39，具有明确的时序先后。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4a58c85ed998",
+    "subject_id": "ep_4e3d46054a2c35c9",
+    "object_id": "ep_85ae77fa614545de",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'徐太浪托付徐正太等待并离开' 发生在 scene_36，而 '徐太浪请求徐正太避免惹事' 发生在 scene_39，scene_36 在叙事顺序上早于 scene_39，因此前者在时间顺序上先于后者。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4b6674b76014",
+    "subject_id": "ep_4e3d46054a2c35c9",
+    "object_id": "ep_5fe4f64a85c31bb9",
+    "relation_type": "precedes",
+    "reason": "徐太浪托付徐正太等待并离开（ep_4e3d46054a2c35c9）发生在徐太浪在公交车内入睡、徐正太原地徘徊等待的场景（ep_5fe4f64a85c31bb9）之前。根据相关事件的时间顺序，徐太浪离开后才在公交车上睡着，同时徐正太开始等待，因此该关系在叙事顺序上明确支持 precedes。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7de1278ad2ad",
+    "subject_id": "ep_433009f8c5b5e8f3",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间和场景信息，'揭露考验真相并确认徐太浪通过品性测试'（scene_35）发生在'六一解释躲柜经历并寻求认可'（scene_36）之前。ep_c8478b93cf60a43a中六一从柜子出现并含泪离场，而ep_433009f8c5b5e8f3中六一从高台现身并解释躲柜经历，表明后者在叙事顺序上紧随前者，因此前者在时间上先于后者。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aaf56fdf7f8b",
+    "subject_id": "ep_4200d5bc94e5d36b",
+    "object_id": "ep_4e3d46054a2c35c9",
+    "relation_type": "precedes",
+    "reason": "实体 #1 发生在场景 scene_34，而实体 #2 发生在场景 scene_36，根据相关事件的场景编号顺序，'重申世界不变与必将改变的信念' 在叙事顺序上早于 '徐太浪托付徐正太等待并离开'。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_67990820ac3c",
+    "subject_id": "ep_0a420d7c27528ac5",
+    "object_id": "ep_5fe4f64a85c31bb9",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节并置展现了徐正太和徐太浪在分离状态下的不同等待方式：徐正太在黑暗中主动通过打火机动作维持清醒等待，而徐太浪因疲惫入睡，中断搜寻。这种行为对比突出了两人在相同分离情境下的状态差异，构成心理与行为上的对比。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_0ff515fe08c7",
+    "subject_id": "ep_5fe4f64a85c31bb9",
+    "object_id": "ep_a7ac0f2b34db4e93",
+    "relation_type": "precedes",
+    "reason": "徐太浪在公交车内入睡并中断搜寻、徐正太原地等待的情节（ep_5fe4f64a85c31bb9）发生在天黑后的等待场景中，而徐正太破戒饮酒与父子情绪共鸣的情节（ep_a7ac0f2b34db4e93）发生在徐正太等待一整晚之后的船上场景（scene_39），文本明确支持前者在时间顺序上早于后者。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_478265a04798",
+    "subject_id": "ep_85ae77fa614545de",
+    "object_id": "ep_439a11b1bf14a361",
+    "relation_type": "precedes",
+    "reason": "徐太浪请求徐正太避免惹事发生在黄志强下令废掉二人之前，因为前者是出于对徐正太安全的担忧而提出的预防性劝说，而后者是徐正太在之后实际惹事（吐唾沫羞辱黄志强）所导致的直接后果。叙事逻辑和事件顺序支持这一时间先后关系。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aa8109863558",
+    "subject_id": "ep_b301729648b0ca52",
+    "object_id": "ep_e56eebdf15022768",
+    "relation_type": "contrasts_with",
+    "reason": "对抗升级情节中，徐太浪与黄志强的冲突以公开羞辱和紧张对峙为特征，而徐正太向小花求婚情节则呈现情感联结的成功建立，并被描述为与六一的失败表白形成对比。两个情节在情感基调（敌对 vs. 亲密）和结果（冲突激化 vs. 关系达成）上形成明显反差，且文本明确使用对比结构描述类似情境，支持二者构成对比关系。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ecb84b9b6703",
+    "subject_id": "ep_b301729648b0ca52",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "elaborates",
+    "reason": "情节'对抗升级：徐太浪挑战黄志强对峙'中徐太浪的激烈反应为后续'揭露考验真相并确认徐太浪通过品性测试'提供了行为依据，后者通过小花和徐正太的揭示说明前者是一场品性考验，从而解释前一情节的背景和目的，构成对前一情节的扩展与说明。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_774bb9cece12",
+    "subject_id": "ep_079048f9811979d3",
+    "object_id": "ep_757530cea7f232b5",
+    "relation_type": "precedes",
+    "reason": "根据描述，徐太浪和徐正太从火灾现场逃至桥头并确认彼此安全后，六一才出现并接受徐正太的责问。两个情节均发生在scene_43，但逃生与安全确认在逻辑和叙事顺序上先于六一的出现和质问互动。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3c8928979dc4",
+    "subject_id": "ep_439a11b1bf14a361",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "elaborates",
+    "reason": "情节'黄志强下令废掉二人并实施暴力'描述了徐太浪和徐正太遭受暴力的过程，而'揭露考验真相并确认徐太浪通过品性测试'揭示该暴力事件实为正太帮设计的品性考验，提供了前者行为背后的意图和背景，从而扩展并重新诠释了前一情节的意义。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f75f2841063e",
+    "subject_id": "ep_079048f9811979d3",
+    "object_id": "ep_c9d62776f3ec36e1",
+    "relation_type": "precedes",
+    "reason": "兄弟逃生并确认彼此安全发生在火灾现场之后，而共同呼唤木木并启动搜寻任务发生在正太帮入会对话场景中，根据事件序列，逃生确认安全在时间上早于启动搜寻任务，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9dbe697d9efa",
+    "subject_id": "ep_079048f9811979d3",
+    "object_id": "ep_c2932f9d76f471ac",
+    "relation_type": "precedes",
+    "reason": "兄弟逃生并确认彼此安全发生在火灾现场，是两人共同出现的初始事件；随后在应对徐太浪出现引发的关系危机中，警察介入并开始询问两人关系，逻辑和叙事顺序上紧随其后。逃生后两人状态紧张但安全，为后续身份伪装和执法盘问提供了前提，且两情节共享同一角色对和连续时间流，支持明确的先后顺序。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e64276b36b6e",
+    "subject_id": "ep_2bd4f0c2ee0a9663",
+    "object_id": "ep_98b0a21bc95e9aa4",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述徐太浪在对话中提出操办婚礼并揭示童年创伤，客体情节描述实际筹备婚礼和拍摄婚纱照的具体行动。客体情节通过展示婚礼筹备的实践细节，扩展和具体化了主体情节中提到的操办婚礼承诺，构成对主体情节中‘家庭承诺’主题的进一步阐述。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_45__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_fcd832786fa8",
+    "subject_id": "ep_4c46092b643c0878",
+    "object_id": "ep_2bd4f0c2ee0a9663",
+    "relation_type": "precedes",
+    "reason": "质疑并确认父亲与小花的婚事（scene_17）发生在徐太浪主动操办婚礼并延伸育儿请求（scene_39）之前，两个情节均围绕徐正太与小花的婚事展开，且scene_17在文档时序上早于scene_39，构成明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f744669eef99",
+    "subject_id": "ep_7a7833ff46eb0cc7",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "elaborates",
+    "reason": "徐太浪亲近胎儿引发冲突的情节是品性考验的一部分，后续揭露该情境为设计的测试并确认徐太浪通过，说明后者为前者提供了解释和背景，扩展了前一情节的意义。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f9a2d7f712be",
+    "subject_id": "ep_4c46092b643c0878",
+    "object_id": "ep_7a7833ff46eb0cc7",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'质疑并确认父亲与小花的婚事' 发生在徐正太与小花的婚前谈话场景（scene_17），而 '徐太浪亲近胎儿引发冲突' 发生在场景 scene_46，scene_17 在叙事顺序上早于 scene_46，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7444c6592809",
+    "subject_id": "ep_5337973d9108680b",
+    "object_id": "ep_2e0f9a29289e6377",
+    "relation_type": "precedes",
+    "reason": "介绍正太帮并接受入会（scene_14）发生在揭示团伙的使命与目标之前，因为徐太浪需先加入正太帮，随后才参与后续关于职责和任务的对话（scene_22）。文档时序和场景编号支持这一顺序。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_121f90d464b9",
+    "subject_id": "ep_2e0f9a29289e6377",
+    "object_id": "ep_384d1e4d3df587a5",
+    "relation_type": "precedes",
+    "reason": "情节 '揭示团伙的使命与目标' 发生在徐太浪询问职责并由徐正太说明任务的场景中（scene_22），而 '应对罗力突袭与地盘威胁' 发生在后续的KTV包厢聚会场景（scene_24），两个情节在叙事顺序上明确先后发生，且scene_22早于scene_24，因此主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_24_part_1",
+      "scene_24_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_099b597dcf6c",
+    "subject_id": "ep_4793c417a981e264",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "elaborates",
+    "reason": "质疑晋升与权力结构的情节中，徐太浪对突然晋升表示怀疑，而揭露考验真相的情节则明确解释该晋升是正太帮设计的品性考验，提供了前者所质疑的背景和原因，从而扩展并阐明了前一情节的深层动机和组织意图。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_aeca83d5b4d2",
+    "subject_id": "ep_3aab6a2755f65f06",
+    "object_id": "ep_fe3f40e59452ad4a",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均涉及徐正太为他人规划未来路径（徐太浪拒绝其投资建议、小马的职业安排），并展现徐正太坚持己见的态度。两者通过相似人物动机（代际规划）并置，凸显其在不同情境下对未来的不同判断（录像厅 vs. 电影院，放片员 vs. 自我道路），形成主题性对比，强调代际认知差异的持续冲突。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_624eb23b52d1",
+    "subject_id": "ep_c2932f9d76f471ac",
+    "object_id": "ep_e2b5e629dd6d8841",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'应对徐太浪出现引发的关系危机'发生在scene_13，而'质问盗窃并劝其改过'发生在scene_14，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fda13415bcc0",
+    "subject_id": "ep_6322352034571ebf",
+    "object_id": "ep_e2b5e629dd6d8841",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'应对金所长对家庭细节的核查'（scene_13）发生在'质问盗窃并劝其改过'（scene_14）之前。两个情节分别属于连续的场景编号，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0f1a105b07f7",
+    "subject_id": "ep_a9bddaa46813af38",
+    "object_id": "ep_461f43a12e70be84",
+    "relation_type": "precedes",
+    "reason": "交换姓名并调侃起名智慧发生在Ktv包厢聚会之前，根据相关场合scene_14早于scene_24的叙事顺序，该情节在时间上先于确立正太帮传承暗号。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_24_part_2",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_825b1d10ad1c",
+    "subject_id": "ep_5337973d9108680b",
+    "object_id": "ep_540614d5dabc1619",
+    "relation_type": "precedes",
+    "reason": "介绍正太帮并接受入会发生在KTV包厢聚会之前，因为入会是进入娱乐环节的前提，且叙事上三人先完成入会对话后才进入包厢开始唱歌。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_24_part_1",
+      "scene_24_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2449a2ac0711",
+    "subject_id": "ep_5337973d9108680b",
+    "object_id": "ep_461f43a12e70be84",
+    "relation_type": "precedes",
+    "reason": "介绍正太帮并接受入会（scene_14）发生在确立正太帮传承暗号（scene_24）之前，根据相关场景编号的叙事顺序，scene_14早于scene_24，因此该关系在时间顺序上明确支持。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_24_part_2",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b7a0f06ae4ee",
+    "subject_id": "ep_5337973d9108680b",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "elaborates",
+    "reason": "第一个情节介绍正太帮并邀请徐太浪入会，第二个情节揭示该入会过程包含一个设计好的品性考验，并解释其目的，从而为前一情节的动机和背景提供扩展说明。因此，第二个情节对第一个情节进行了内容上的深化和解释。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e258a85f18ad",
+    "subject_id": "ep_c2932f9d76f471ac",
+    "object_id": "ep_da5375a346ab8e75",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在警察局内，围绕徐太浪与徐正太的身份伪装和执法追问展开，相关事件标记为scene_13；客体情节发生在正太帮入会对话中，徐太浪改口询问徐正太全名，相关事件标记为scene_14。scene_13在叙事顺序上早于scene_14，因此主体情节在话语顺序上先于客体情节。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_28dc358dea5d",
+    "subject_id": "ep_c2932f9d76f471ac",
+    "object_id": "ep_c9d62776f3ec36e1",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在警察询问徐正太和徐太浪关系的场景（scene_13），而第二个情节发生在后续的会员投河及呼唤木木的场景（scene_14），文档中scene_13在scene_14之前，因此该关系在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_98e0a9c9ab80",
+    "subject_id": "ep_5337973d9108680b",
+    "object_id": "ep_c12aa8c41f2c5ad4",
+    "relation_type": "precedes",
+    "reason": "主体情节'介绍正太帮并接受入会'发生在徐太浪刚被邀请并同意入会时，而客体情节'探讨帮派考验与成员资格'涉及徐太浪询问是否已通过考验并被告知处于试用期，表明成员资格尚未正式确立。两个情节共享同一叙事线索，且试用期的讨论逻辑上紧随入会之后，因此主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_421a10ce7a78",
+    "subject_id": "ep_c12aa8c41f2c5ad4",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "elaborates",
+    "reason": "第一个情节探讨帮派考验的标准和徐太浪的试用期状态，第二个情节揭示该考验的真相并确认徐太浪通过，提供了对前一情节中所设考验的解释和扩展，说明其为品性测试并揭示设计意图，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d46a381707c7",
+    "subject_id": "ep_d9b5ca34d4ab7a82",
+    "object_id": "ep_e56eebdf15022768",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节展示徐正太与小花在日常琐事中的亲昵互动，体现稳定的情感默契；第二个情节中徐正太向小花求婚并成功，形成与六一失败表白的鲜明对比。两个情节虽无直接时间或因果联系，但均通过情感互动的成败并置，强化了情感关系发展的对比基调。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a006367eaee2",
+    "subject_id": "ep_2ce0a9ce2a0e2715",
+    "object_id": "ep_e56eebdf15022768",
+    "relation_type": "contrasts_with",
+    "reason": "六一在房顶呼喊表达情绪，而徐正太与徐太浪在下方碰杯，形成情感与空间的对比；随后徐正太成功向小花求婚并获接受，与六一此前失败的表白形成明确的结果性对比。描述中明确指出该情节‘形成与六一失败表白的鲜明对比’，支持两个情节之间存在对比关系。",
+    "source_documents": [
+      "scene_45__2_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_683e75e20d29",
+    "subject_id": "ep_540614d5dabc1619",
+    "object_id": "ep_71ab248d4a5a2fd6",
+    "relation_type": "elaborates",
+    "reason": "实体#1描述三人进入KTV包厢并开始唱歌，标志着娱乐环节的开始；实体#2聚焦徐正太和徐太浪兄弟二人在KTV中的互动与情感联结。实体#2提供了对实体#1中部分人物（兄弟二人）在相同场合下的更深层次行为与关系背景，扩展了原始情节的情感维度，因此构成elaborates关系。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_24_part_2",
+      "scene_45__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2be372eb95c8",
+    "subject_id": "ep_71ab248d4a5a2fd6",
+    "object_id": "ep_c2932f9d76f471ac",
+    "relation_type": "contrasts_with",
+    "reason": "兄弟二人在KTV共度时光呈现轻松、亲密的情感联结，而应对徐太浪出现引发的关系危机则展现紧张、伪装与执法压力下的尴尬和对峙。两者在基调（轻松娱乐 vs. 紧张审问）和互动状态（自然情感流露 vs. 身份掩饰）上形成明显对比，反映同一关系在不同情境下的反差。",
+    "source_documents": [
+      "scene_45__2_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_a0f4c91d64cc",
+    "subject_id": "ep_4c46092b643c0878",
+    "object_id": "ep_d9b5ca34d4ab7a82",
+    "relation_type": "elaborates",
+    "reason": "质疑并确认父亲与小花的婚事 描述了徐太浪对婚事的质疑及徐正太与小花回应相识多年，而 徐正太与小花展示日常默契 通过水壶事件和飞吻展现了两人长期关系中的情感亲昵，后者为前者中所述的婚姻合理性提供了情感和行为上的补充细节，从而扩展了对两人关系稳定性的理解。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_aed62837e4d7",
+    "subject_id": "ep_5337973d9108680b",
+    "object_id": "ep_c2932f9d76f471ac",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，'介绍正太帮并接受入会'发生在徐太浪刚加入正太帮的场景中，而'应对徐太浪出现引发的关系危机'则涉及警察和金所长对两人关系的当场盘问，逻辑上必须在入会之后发生。related_events中的scene_14（入会）在scene_13（盘问）之后出现，表明叙事顺序上前者晚于后者。因此，'介绍正太帮并接受入会'在叙事顺序上晚于'应对徐太浪出现引发的关系危机'，故关系为object precedes subject，即subject在时间上晚于object，因此relation_type为precedes（subject <- object），但根据方向性定义，precedes是directed，应表示为object -> subject。由于输入顺序是subject: ep_5337973d9108680b, object: ep_c2932f9d76f471ac，而实际时间顺序是object precedes subject，因此不能正确表达为subject precedes object。由于precedes具有方向性且此处方向相反，不能强行倒置。因此，不能合法使用precedes。无其他支持关系，故输出NONE。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a9d0d63fe943",
+    "subject_id": "ep_7a908701078b78fe",
+    "object_id": "ep_e682eebae89b5632",
+    "relation_type": "precedes",
+    "reason": "在聚餐场合中，徐太浪向小马敬酒并探讨通讯技术的未来，随后徐正太发起庆祝救出小马并宣告制霸亭林镇。两个情节共享同一场合和场景编号（scene_34），但敬酒与技术讨论发生在庆祝提议之前，依据叙事常规中个人发言先于集体 toast 的顺序。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_33bdf46cc386",
+    "subject_id": "ep_2422980aed483c12",
+    "object_id": "ep_76e1384ee1987a1e",
+    "relation_type": "precedes",
+    "reason": "徐太浪惊险停车并邀请父亲上车发生在小镇街道延续漂移动作之前，根据场景顺序（scene_6 在 scene_6__2 之前），且事件流显示停车接触尝试后才进入街道继续漂移，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_6__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cad83c0f7bab",
+    "subject_id": "ep_9ccce371670389d9",
+    "object_id": "ep_ebba3063752de9ee",
+    "relation_type": "precedes",
+    "reason": "徐太浪计划介入并邀约小花发生在家庭晚餐聚会上，他邀请小花看电影并获得同意；随后，五人共同前往电影院并抵达目的地。叙事顺序上，邀约成功是出行的前提，且相关事件在不同文档中按时间推进，支持该关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ad45c21e2975",
+    "subject_id": "ep_55bf1f67d39bca1e",
+    "object_id": "ep_0e94f46a14eaff37",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'进入小巷讨论感情观并准备如厕'（scene_26）发生在'应对被跟踪的威胁'（scene_44）之前，scene_26在文档中早于scene_44，因此该关系在叙事顺序上成立。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_59bd1800ed40",
+    "subject_id": "ep_af0baf2368abf0db",
+    "object_id": "ep_e99d3797e56c0c37",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述徐太浪成年后与父亲对峙并揭露家庭创伤，客体情节通过回忆片段揭示童年时期父子冲突的根源。客体情节提供了主体情节中情绪爆发和矛盾背景的深层解释，扩展了父亲长期控制与暴力行为的历史，因此客体情节为主体情节的成因和情感张力提供了背景性补充。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cf7936627899",
+    "subject_id": "ep_32f55ef54f992bbd",
+    "object_id": "ep_af0baf2368abf0db",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '向父亲致谢并揭示家庭情感' 展现徐太浪在公开场合以克制和成功姿态表达对父亲的复杂情感，而情节 '徐太浪与父亲对峙并揭露家庭创伤' 则呈现私密场景中情绪激烈、矛盾爆发的直接冲突。两者在情感表达方式、场合公开性与互动基调上形成明显对比，构成情感状态与人际动态的逆转。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ac3ab045adc3",
+    "subject_id": "ep_41c5c79771908fd8",
+    "object_id": "ep_45795803de995699",
+    "relation_type": "precedes",
+    "reason": "讨论未带六一参与行动的原因发生在庆祝救出小马的聚餐场景（scene_34），而三人遭突袭失去意识的情节发生在scene_44，scene_34在叙事顺序上早于scene_44，因此该关系为precedes。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_15a65b1db147",
+    "subject_id": "ep_0e94f46a14eaff37",
+    "object_id": "ep_4a40d6f66def948a",
+    "relation_type": "precedes",
+    "reason": "情节'应对被跟踪的威胁'发生在小巷中，徐太浪提出集体行动策略以避免被绑架；而'三人组海边散步遭遇冲突'发生在海边，是三人实际遭遇打手并爆发冲突的场景。根据叙事顺序，避免被绑架的策略讨论早于实际冲突事件的发生，且两情节均涉及三人共同行动的安全问题，具有连续性。因此，前者在时间与叙事顺序上直接先于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_45__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_be895dd70a33",
+    "subject_id": "ep_384d1e4d3df587a5",
+    "object_id": "ep_45795803de995699",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对罗力突袭与地盘威胁'发生在KTV包厢内，涉及罗力的最后通牒和三人踩碎眼镜的反抗；客体情节'三人遭突袭失去意识'描述的是三人随后被麻袋套头并失去意识，时间上紧随其后且无中间事件介入，叙事顺序明确支持前者早于后者。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_24_part_2",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_908b4d9a034f",
+    "subject_id": "ep_5ff188baecb92184",
+    "object_id": "ep_57b1d4a0dd7ef04d",
+    "relation_type": "precedes",
+    "reason": "在'应对紧张局势中的人员变动'中，罗力离开是该情节的一部分；随后，随着紧张气氛缓解，徐正太提出社交聚会并被接受，构成'转为社交聚会的提议与接受'。文本明确描述了罗力离开后气氛缓解，进而引发邀请，支持前一情节在叙事顺序上早于后一情节。",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dc71b7b35a35",
+    "subject_id": "ep_e99d3797e56c0c37",
+    "object_id": "ep_eb0132209a90f79c",
+    "relation_type": "contrasts_with",
+    "reason": "‘揭示童年父子冲突’展现徐太浪童年时期因父亲压制而遭受的暴力与压抑，而‘向父亲展示飞车特技’则呈现成年徐太浪主动在父亲面前展示驾驶能力，尽管父亲表现出不适仍坚持表演。两个情节在父子权力关系、情感基调和行为主动性上形成明显逆转与对比：前者是被动承受、压抑与否定，后者是主动展示、张扬与挑战，构成叙事上的对比关系。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2",
+      "scene_6__2_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_a42d29e3ff45",
+    "subject_id": "ep_9ccce371670389d9",
+    "object_id": "ep_f1a9196a0c8de379",
+    "relation_type": "precedes",
+    "reason": "徐太浪计划介入并邀约小花发生在家庭晚餐聚会期间（scene_17），而分享家庭创伤与成长伤痛的情节发生在后续场景（scene_38）。根据相关事件的时间戳，前者在叙事顺序上明确早于后者，因此支持 'precedes' 关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_55d5c40ed55b",
+    "subject_id": "ep_4319f06f8e3b71fb",
+    "object_id": "ep_888d07fa9076001b",
+    "relation_type": "precedes",
+    "reason": "主体情节'开启对话并表达牵挂'发生在超市门口的交谈场景中，为后续情感发展建立基础；客体情节'推进亲密接触并建立情感共鸣'发生在更私密的场景中，包含身体接触和深层情感交流。根据叙事逻辑和情感递进，前者在时间顺序和关系发展上早于后者，构成直接的前序步骤。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5d0755c12a8b",
+    "subject_id": "ep_ed6596e636e49ffe",
+    "object_id": "ep_f1a9196a0c8de379",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'响应小花的亲密邀请并产生内心怀疑' 发生在 scene_35，而 '分享家庭创伤与成长伤痛' 发生在 scene_38，scene_35 在叙事顺序上早于 scene_38，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a10744a2a5ed",
+    "subject_id": "ep_24caf4224f5140c6",
+    "object_id": "ep_f1a9196a0c8de379",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'应对小花的坐姿质疑并询问正太行踪' 发生在 scene_35，而 '分享家庭创伤与成长伤痛' 发生在 scene_38，scene_35 在叙事顺序上早于 scene_38，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7f49557dfd26",
+    "subject_id": "ep_9ccce371670389d9",
+    "object_id": "ep_95f937b8e5d2fadd",
+    "relation_type": "precedes",
+    "reason": "根据相关事件发生场景的顺序，'徐太浪计划介入并邀约小花' 发生在场景17，而 '情感共鸣后寻求慰藉' 发生在场景38，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d8063eaaf3fd",
+    "subject_id": "ep_96504acd6cf46eee",
+    "object_id": "ep_95f937b8e5d2fadd",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'营造暧昧氛围并选定《白蛇传》节目' 发生在场景35，而 '情感共鸣后寻求慰藉' 发生在场景38，场景编号的递增表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c94a35a46a57",
+    "subject_id": "ep_888d07fa9076001b",
+    "object_id": "ep_f1a9196a0c8de379",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中，小花表达对父爱缺失的伤感，徐太浪回应自身经历，建立初步情感连接；第二个情节在此基础上展开更深入的家庭创伤分享，包括母亲自杀、父亲出狱等细节，扩展并深化了前一情节的情感背景。因此，第二个情节对第一个情节进行了内容上的扩展和深化，符合elaborates关系。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_23183783c1ad",
+    "subject_id": "ep_85ae77fa614545de",
+    "object_id": "ep_9f58d3988cba7ea8",
+    "relation_type": "precedes",
+    "reason": "根据描述，徐太浪请求徐正太避免惹事发生在对话过程中，而发现徐正太家方向冒烟发生在对话尾声，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_373f21545a0c",
+    "subject_id": "ep_079048f9811979d3",
+    "object_id": "ep_b3d364ea8c9f0fe7",
+    "relation_type": "precedes",
+    "reason": "兄弟逃生并确认彼此安全发生在桥头，而徐太浪带六一离开现场是在此之后的同一场景中的后续动作，叙事顺序上前者早于后者，且两者共享同一场景编号(scene_43)，表明时间上的先后衔接。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dbe3e9882b0a",
+    "subject_id": "ep_2bd4f0c2ee0a9663",
+    "object_id": "ep_9f58d3988cba7ea8",
+    "relation_type": "precedes",
+    "reason": "根据描述，'徐太浪主动操办婚礼并延伸育儿请求' 发生在对话过程中，而 '徐太浪发现徐正太家方向冒烟' 明确发生在对话尾声，标志着情境突变。因此，前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8431ff4bc034",
+    "subject_id": "ep_735be6a4109cef2b",
+    "object_id": "ep_378e155cbc77d97f",
+    "relation_type": "precedes",
+    "reason": "‘启动赛后采访并感谢团队’在叙事顺序上早于‘结束采访并继续庆祝’，因为采访的开始自然先于其结束，且两个情节均发生在同一场景（scene_4）中，构成连续的事件流。",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_470b24f54fe1",
+    "subject_id": "ep_888d07fa9076001b",
+    "object_id": "ep_95f937b8e5d2fadd",
+    "relation_type": "precedes",
+    "reason": "主体情节描述小花与徐太浪在《白蛇传》节目中的亲密互动及情感连接建立，发生在场景35；客体情节描述两人在倾诉伤痛后共同仰望天空并结束交流，发生在场景38。根据相关事件的场景编号顺序（scene_35 → scene_38），主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6992b0c65a25",
+    "subject_id": "ep_5ccd39f984e68a62",
+    "object_id": "ep_735be6a4109cef2b",
+    "relation_type": "precedes",
+    "reason": "庆祝徐太浪赢得比赛的情节包括他下车与领航员拥抱，而启动赛后采访并感谢团队的情节紧随其后，包括记者递话筒和徐太浪在镜头前发言。两个情节均发生在scene_4，且庆祝行为在叙事顺序上先于采访开始，符合precedes关系的定义。",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3418b64a1fa9",
+    "subject_id": "ep_20d07913cf4db066",
+    "object_id": "ep_fbc04e1ec67bec99",
+    "relation_type": "precedes",
+    "reason": "‘揭示怀孕以劝阻复仇’发生在‘围绕胎儿性别的家庭互动’之前，因为只有在小花揭示怀孕后，众人才能围绕胎儿性别展开讨论。两个情节均发生在scene_46，但逻辑和叙事顺序上，揭示怀孕是讨论性别的前提。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8bdf324674f6",
+    "subject_id": "ep_065644456672566c",
+    "object_id": "ep_32f55ef54f992bbd",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节展现徐太浪在父亲安排下工作失败并遭受否定，体现父子关系的紧张与挫败；第二个情节中徐太浪在公开场合向父亲致谢并平静揭示家庭伤痛，展现情感和解与个人成长。两个情节在情感基调和父子关系状态上形成明显对比，构成叙事上的逆转。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_dbda45d13268",
+    "subject_id": "ep_5ccd39f984e68a62",
+    "object_id": "ep_32f55ef54f992bbd",
+    "relation_type": "precedes",
+    "reason": "庆祝徐太浪赢得比赛的情节发生在向父亲致谢并揭示家庭情感之前，根据描述中的事件顺序：赛车抵达终点、焰火升起、观众庆祝、领航员庆贺、徐太浪下车拥抱团队，随后在采访中转向父亲表达情感并回应母亲早逝。这些事件均发生在同一场景（scene_4），但庆祝胜利的事件序列在叙事顺序上先于采访和情感揭示。",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4518c06ef1c1",
+    "subject_id": "ep_32f55ef54f992bbd",
+    "object_id": "ep_e99d3797e56c0c37",
+    "relation_type": "contrasts_with",
+    "reason": "‘向父亲致谢并揭示家庭情感’展现徐太浪成年后在公开场合对父亲表达复杂情感并坦然面对母亲早逝，情感基调趋于和解与成熟；而‘揭示童年父子冲突’通过回忆展现童年时期父亲的压抑与暴力，构成情感与关系状态的强烈逆转。两者并置形成情感状态与父子关系的鲜明对比，支持contrasts_with关系。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d02e98f80006",
+    "subject_id": "ep_079048f9811979d3",
+    "object_id": "ep_a14763736381744a",
+    "relation_type": "precedes",
+    "reason": "根据描述，'兄弟逃生并确认彼此安全'发生在火灾现场逃至桥头后，是初步安全确认阶段；而'徐太浪表达对徐正太的敬意'基于徐正太在火场抢救父亲遗像的行为，该行为应发生在逃生过程中或之后，但情感表达在叙事顺序上紧随安全确认之后。两个情节均关联scene_43，但逃生与确认安全在逻辑和叙事时序上先于敬意表达，因此主体情节在顺序上早于客体情节。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b81e6fc9ab57",
+    "subject_id": "ep_888d07fa9076001b",
+    "object_id": "ep_20d07913cf4db066",
+    "relation_type": "precedes",
+    "reason": "情节 '推进亲密接触并建立情感共鸣' 发生在徐正太得知小花怀孕之前，是两人情感发展的前期阶段，文本中该情节的事件（scene_35）在文档顺序和叙事逻辑上早于揭示怀孕的情节（scene_46），因此支持 'precedes' 关系。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ecd9c40e5627",
+    "subject_id": "ep_20d07913cf4db066",
+    "object_id": "ep_7a7833ff46eb0cc7",
+    "relation_type": "precedes",
+    "reason": "在情节'揭示怀孕以劝阻复仇'中，小花向徐正太透露怀孕，徐太浪表现出关切；随后在情节'徐太浪亲近胎儿引发冲突'中，徐太浪将头贴在小花肚子上导致徐正太将其踹倒。两个情节均发生在scene_46，但揭示怀孕的行为在叙述顺序上先于徐太浪的亲昵举动及其引发的冲突，文本中事件序列支持明确的时间先后。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8f05e0606ffc",
+    "subject_id": "ep_24caf4224f5140c6",
+    "object_id": "ep_20d07913cf4db066",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件上下文，'应对小花的坐姿质疑并询问正太行踪'（doc_33）发生在'揭示怀孕以劝阻复仇'（doc_44）之前，且徐正太的行踪被询问时他已外出，而后续情节中他被直接告知怀孕消息并放弃复仇，表明前者在叙事时间线上早于后者。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2555a7c9232c",
+    "subject_id": "ep_2422980aed483c12",
+    "object_id": "ep_af0baf2368abf0db",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，徐太浪惊险停车并邀请父亲上车（scene_6）发生在徐太浪与父亲对峙并揭露家庭创伤（scene_5）之后的叙事顺序中。然而，scene_5在doc_4中，scene_6在doc_5中，文档顺序表明ep_af0baf2368abf0db（doc_4）在ep_2422980aed483c12（doc_5）之前发生。因此，主体情节在叙事时间上晚于客体情节，支持'precedes'关系为客体在先、主体在后，即客体ep_af0baf2368abf0db precedes 主体ep_2422980aed483c12。但由于关系方向由subject -> object定义，此处应为object precedes subject，故不能成立subject precedes object。重新判断：若无明确文本指出时间顺序，则不能断定。但doc_id和scene编号一致地递增，scene_5在前，scene_6在后，因此ep_af0baf2368abf0db（scene_5）在ep_2422980aed483c12（scene_6）之前。因此，作为subject的ep_2422980aed483c12并不在时间上先于object，故不能成立precedes。其他关系：无因果证据（causes），无并置对比（contrasts_with），无解释扩展（elaborates）。因此，尽管存在时间顺序，但方向为object precedes subject，而关系模式precedes是定向的，不能反向使用。因此，无法以支持的方向建立precedes。其他关系均无证据。最终，无充分支持的允许关系。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2ff31766f5ea",
+    "subject_id": "ep_0ef6e73529e90b4d",
+    "object_id": "ep_b0dd51b76d593634",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均围绕爱情表白及其失败展开，但徐太浪的初恋萌芽与终结是被动接受情感终结，而六一主动追求却遭拒绝，二者在情感主动性与叙事情境上形成对比，凸显不同角色在类似情感挫折中的不同处境。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_43c8df7955d5",
+    "subject_id": "ep_55bf1f67d39bca1e",
+    "object_id": "ep_6b21aca769859416",
+    "relation_type": "precedes",
+    "reason": "根据描述，'进入小巷讨论感情观并准备如厕' 情节中徐太浪正在准备讲述人生观点，紧接着在'徐太浪遭突袭绑架'情节中他被麻袋套头拖走。related_events 和描述均表明前者在叙事顺序上紧接在后者之前发生，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_17e2f8731944",
+    "subject_id": "ep_9ccce371670389d9",
+    "object_id": "ep_e56eebdf15022768",
+    "relation_type": "precedes",
+    "reason": "徐太浪计划介入并邀约小花发生在家庭晚餐聚会场景（scene_17），而徐正太向小花求婚并获接受发生在电影院观影聚会场景（scene_21），scene_17在叙事顺序上早于scene_21，因此该关系为precedes。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_770f2985141a",
+    "subject_id": "ep_58e19ddcd00aecfb",
+    "object_id": "ep_0e9a6492fcb521f9",
+    "relation_type": "precedes",
+    "reason": "摩托车突现打断对峙发生在蝙蝠侠介入制服小偷之前，因为摩托车的出现迫使徐太浪和小偷躲避，中断了对峙，随后蝙蝠侠才介入并制服小偷。事件序列在scene_10中按时间顺序明确支持这一先后关系。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_76f50944e96d",
+    "subject_id": "ep_42cb6387f8838c8f",
+    "object_id": "ep_c9d62776f3ec36e1",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在 '正太帮入会对话 (scene_14)' 这一相同场合中。根据描述，徐太浪先表达寻母渴望并转移话题至婚姻，随后才指出有会员投河并启动对木木的呼唤和搜寻任务。叙事顺序上，前者在话语和动作上早于后者，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_965a485c195d",
+    "subject_id": "ep_96504acd6cf46eee",
+    "object_id": "ep_e56eebdf15022768",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节描绘小花与徐太浪之间暧昧、克制的互动，而第二个情节展示徐正太向小花直接求婚并成功，两者在情感表达方式和结果上形成鲜明对比：一个是含蓄的试探，另一个是公开的承诺，且后者还被明确描述为与六一的失败表白形成对比，暗示该情节具有结构性对比功能。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e46d3e977f00",
+    "subject_id": "ep_def580b98e9d27ba",
+    "object_id": "ep_888d07fa9076001b",
+    "relation_type": "precedes",
+    "reason": "追问并揭示小花的全名发生在家庭晚餐聚会场景（scene_17），而推进亲密接触并建立情感共鸣发生在后续的节目观看场景（scene_35），根据相关事件的时间顺序，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4e3f8fcfd6a0",
+    "subject_id": "ep_4c46092b643c0878",
+    "object_id": "ep_def580b98e9d27ba",
+    "relation_type": "precedes",
+    "reason": "在场景 scene_17 中，徐太浪先质疑并确认父亲与小花的婚事，随后才追问小花的全名。两个情节均发生在同一场合（婚前谈话与家庭晚餐聚会），但叙事顺序上前者先发生，构成明确的时间先后关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_44aab4171efc",
+    "subject_id": "ep_888d07fa9076001b",
+    "object_id": "ep_e56eebdf15022768",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节描述徐太浪与小花之间通过情感共鸣建立亲密关系，而第二个情节中徐正太向小花求婚并成功，形成情感发展路径的并置。两个情节在人物关系进展方式上呈现对比：一个是通过深层情感交流逐步建立连接，另一个是通过戏剧性求婚获得承诺，且后者明确提到与六一表白失败形成对比，暗示叙事中存在对不同求爱结果的对照设计。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_d40f57ac1541",
+    "subject_id": "ep_def580b98e9d27ba",
+    "object_id": "ep_ff4b16530a65fe22",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中徐太浪追问小花全名并引发关于名字认同的对话，为第二个情节中小花提出改名为‘张素贞’并表达对白素贞的认同提供了背景和铺垫。第二个情节扩展并深化了名字与身份认同的主题，因此主体情节为客体情节提供了进一步阐释的语境。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_171492bdc890",
+    "subject_id": "ep_4c46092b643c0878",
+    "object_id": "ep_9ccce371670389d9",
+    "relation_type": "precedes",
+    "reason": "质疑并确认父亲与小花的婚事发生在徐太浪计划介入并邀约小花之前，两者均发生在scene_17，但根据描述顺序和逻辑流程，徐太浪在家庭对话中表达质疑后，才决定介入并邀请小花看电影，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_72843a6c1306",
+    "subject_id": "ep_9ccce371670389d9",
+    "object_id": "ep_98b0a21bc95e9aa4",
+    "relation_type": "precedes",
+    "reason": "徐太浪计划介入并邀约小花（ep_9ccce371670389d9）发生在家庭晚餐聚会场景（scene_17），而筹备婚礼并拍摄婚纱照（ep_98b0a21bc95e9aa4）发生在饭店大厅场景（scene_45__2），scene_17在文档时序上早于scene_45__2，因此该关系在叙事顺序上成立。",
+    "source_documents": [
+      "scene_45__2_part_1",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_610125f89be8",
+    "subject_id": "ep_18aff0806d4018e2",
+    "object_id": "ep_96504acd6cf46eee",
+    "relation_type": "contrasts_with",
+    "reason": "展现夫妻亲密互动的情节强调徐正太与小花之间的公开恩爱，而营造暧昧氛围并选定《白蛇传》节目则表现小花与徐太浪之间的私下张力和情感挑逗。两个情节通过家庭场景中不同人物关系的情感基调形成对比：一个是稳定夫妻间的亲密，另一个是潜在禁忌情感的萌发，构成叙事上的对比关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4cad1bef38b1",
+    "subject_id": "ep_160d6ccd100931de",
+    "object_id": "ep_0e9a6492fcb521f9",
+    "relation_type": "precedes",
+    "reason": "根据相关事件序列，徐太浪在小巷中追捕小偷并重拾勇气的情节（ep_160d6ccd100931de）发生在蝙蝠侠介入制服小偷的情节（ep_0e9a6492fcb521f9）之前。具体事件如‘小偷从徐太浪面前跑过引发追逐’和‘徐太浪因已死过一次而重拾勇气转身面对小偷’均出现在scene_10的早期阶段，紧随其后的是蝙蝠侠出现并介入冲突。因此，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f927173cd26f",
+    "subject_id": "ep_9ccce371670389d9",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "precedes",
+    "reason": "徐太浪计划介入并邀约小花发生在品性考验之前，根据叙事顺序，邀约行为为后续考验情境的展开提供了前提，且两个情节分别位于scene_17和scene_35，表明明确的时间先后关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b62db6c30c3a",
+    "subject_id": "ep_24caf4224f5140c6",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中徐太浪询问正太行踪，第二个情节揭示正太实际在场并参与设计了整个考验情境，因此第二个情节通过揭示隐藏背景和解释动机，扩展并阐明了第一个情节中的事件。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d89316b8c6f7",
+    "subject_id": "ep_065644456672566c",
+    "object_id": "ep_b70365a380a6c392",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均围绕徐太浪的职业失败展开，但一个发生在父亲安排的传统职业（救护车工作）中，另一个发生在其自主选择的赛车生涯中，二者在职业路径选择与失败情境上形成并置对比，凸显其在不同社会角色中的共同挫败。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_6f7aab71749a",
+    "subject_id": "ep_9ccce371670389d9",
+    "object_id": "ep_ed6596e636e49ffe",
+    "relation_type": "precedes",
+    "reason": "徐太浪计划介入并邀约小花（ep_9ccce371670389d9）发生在家庭晚餐聚会场景（scene_17），而响应小花的亲密邀请并产生内心怀疑（ep_ed6596e636e49ffe）发生在scene_35，scene_17在叙事顺序上早于scene_35，因此前者在时间顺序上先于后者。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1b22835b85c9",
+    "subject_id": "ep_0b966450e21b961d",
+    "object_id": "ep_23e64f4b3c2746b7",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_34，且描述中显示徐正太与六一先完成台词表演（属于批评小马生存能力的延续），随后六一在楼边哭泣，情感爆发紧随其后，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_32a0bbb74638",
+    "subject_id": "ep_96504acd6cf46eee",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序和场景一致性，'营造暧昧氛围并选定《白蛇传》节目'中的所有事件（如换台至《白蛇传》）发生在'揭露考验真相并确认徐太浪通过品性测试'之前，后者包含柜子打开、徐正太现身及宣布考验通过等后续发展，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fd4e893af1d5",
+    "subject_id": "ep_c6cc30ec60fd6e4c",
+    "object_id": "ep_c1e76ef4b68345f1",
+    "relation_type": "precedes",
+    "reason": "根据描述，'应对车辆被撞与外部威胁' 包含车辆被撞、检查车损和被男子质问等事件，这些构成冲突的高潮部分；而 '安抚妻子并结束当前场景' 描述的是冲突结束后的情感收束与撤离行动。因此，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5d4f7cfa3e00",
+    "subject_id": "ep_af0baf2368abf0db",
+    "object_id": "ep_4a5baf07fdbbd46d",
+    "relation_type": "elaborates",
+    "reason": "情节 '徐太浪与父亲对峙并揭露家庭创伤' 包含了父亲沉默回应的事件，而 '父亲以沉默和动作回应儿子的控诉' 进一步扩展了该行为的情感内涵和细微动作，提供了更深层的心理状态描述，因此前者被后者所详述。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9068183b112b",
+    "subject_id": "ep_065644456672566c",
+    "object_id": "ep_e99d3797e56c0c37",
+    "relation_type": "elaborates",
+    "reason": "情节'接受父亲安排的工作并遭遇失败'展现了徐太浪在成年后与父亲关系的延续性失败，而'揭示童年父子冲突'通过回忆片段提供了童年时期父权压制的背景，解释了当前父子互动模式的根源。后者为前者的情感张力和行为模式提供了深层心理和叙事背景，构成对主体情节的扩展性阐释。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2371ff114f5d",
+    "subject_id": "ep_089953d6e0e2d677",
+    "object_id": "ep_9d15f67d644a4b2d",
+    "relation_type": "elaborates",
+    "reason": "男子潜入监控室暗中观察提供了关于监控比赛并指挥冲刺情节的额外背景，揭示了除领航员外还有第三方关注比赛实况，从而扩展了该情境的观察维度。",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_79b35d76f419",
+    "subject_id": "ep_433009f8c5b5e8f3",
+    "object_id": "ep_91dc0fbbccf9fd38",
+    "relation_type": "precedes",
+    "reason": "六一解释躲柜经历并寻求认可的情节中，六一仍在与徐正太互动并寻求他人对其优点的肯定；随后在追寻自我价值的觉醒情节中，六一因烟花声顿悟并立誓证明自己，标志着情绪和行动的转折。两个情节均发生在scene_36，但解释与寻求认可发生在前，追寻自我价值的觉醒紧随其后，具有明确的叙事时序先后。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4dd824563f3b",
+    "subject_id": "ep_0a420d7c27528ac5",
+    "object_id": "ep_a1a861a52da47a21",
+    "relation_type": "precedes",
+    "reason": "徐正太在黑暗中等待徐太浪的到来，随后二人相继冲入火场救人，表明等待情节在时间顺序上早于救援行动。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0402a36115b8",
+    "subject_id": "ep_9ccce371670389d9",
+    "object_id": "ep_888d07fa9076001b",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，徐太浪计划介入并邀约小花（ep_9ccce371670389d9）发生在家庭晚餐后，以看电影为由邀请小花见面；而推进亲密接触并建立情感共鸣（ep_888d07fa9076001b）发生在两人独处时，包括抚摸大腿、对视、扶上床等亲密行为。文本中相关事件的场景编号（scene_17 先于 scene_35）支持该时间顺序，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_69beef935293",
+    "subject_id": "ep_888d07fa9076001b",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间和叙述顺序，'推进亲密接触并建立情感共鸣'中的事件（如小花抚摸徐太浪大腿、两人对视、徐太浪安慰小花等）发生在'揭露考验真相并确认徐太浪通过品性测试'之前，后者以徐太浪情绪激动地质问开始，随后小花宣布考验通过。两个情节共享同一场景编号(scene_35)，但前一情节构建情感张力，后一情节释放并揭示其为测试，符合叙事上的先后顺序。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_995fcadd35dc",
+    "subject_id": "ep_636285567db86513",
+    "object_id": "ep_8b48a6d10f29a81a",
+    "relation_type": "precedes",
+    "reason": "在罗力通过暴力手段制止杀人提议并强调不能杀人之后，小马才表达感谢。事件顺序在同一场景（scene_25）中明确：罗力的行动先发生，小马的回应紧随其后，因此‘压制极端提议以维持控制’在叙事顺序上早于‘人质表达感激以缓和关系’。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_25_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b03bf9fa604e",
+    "subject_id": "ep_9ccce371670389d9",
+    "object_id": "ep_d9b5ca34d4ab7a82",
+    "relation_type": "contrasts_with",
+    "reason": "徐太浪计划介入并邀约小花以破坏父亲婚事，表现出功利和干预意图；而徐正太与小花展示日常默契的情节则呈现二人自然、亲昵的情感状态。两个情节在同一场合（家庭晚餐聚会）中并置，通过情感真实性与人为干预的对立形成对比，强调关系间的张力。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_7580f7152105",
+    "subject_id": "ep_636285567db86513",
+    "object_id": "ep_b557a77fcf0c1509",
+    "relation_type": "precedes",
+    "reason": "在描述中，两个情节均发生在scene_25，但'压制极端提议以维持控制'包含罗力踹倒小弟和朝地开枪的行为，而'处理意外走火恢复秩序'涉及罗力拍桌导致枪支走火后的反应。根据事件顺序，罗力在制止极端提议时已开枪（朝地），随后因情绪激动拍桌导致再次走火，因此前者在叙事时间上先于后者。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_25_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6e188520d19a",
+    "subject_id": "ep_3b882828e2682c17",
+    "object_id": "ep_9997c7d91605d189",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述老板结算欠款并将十块钱交给徐正太，完成财务往来；第二个情节揭示这笔钱被称作‘保护费’，并进一步指出其实际用途类似于物业费。第二个情节通过解释这笔钱的社会含义和语境荒诞性，扩展了第一个情节的经济互动，提供了更深层的解读，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c4d8b1ba7cca",
+    "subject_id": "ep_757530cea7f232b5",
+    "object_id": "ep_e496aa8094383942",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件逻辑，'目睹火灾并撤离现场'（doc_40, scene_42）发生在火灾发生时，而'六一出现并接受责问'（doc_41, scene_43）发生在火灾之后，徐正太被救出并受到六一关心的场景。因此，'目睹火灾并撤离现场'在叙事顺序上早于'六一出现并接受责问'。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fc84f7b11c8a",
+    "subject_id": "ep_8b48a6d10f29a81a",
+    "object_id": "ep_a5118bec70404a5d",
+    "relation_type": "precedes",
+    "reason": "根据描述，'人质表达感激以缓和关系'发生在罗力明确表示不杀人之后，而'开始审问并建立控制'包含罗力摘眼罩、喂饭和小马请求归还眼镜等初始互动，构成情节的开端。因此，'开始审问并建立控制'在叙事顺序上早于'人质表达感激以缓和关系'，前者为后者提供了行为前提。尽管两个情节均发生在同一场景（scene_25），但建立控制的行为逻辑上先于感激表达，支持precedes关系。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_25_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4526fb8cbfcf",
+    "subject_id": "ep_a1a861a52da47a21",
+    "object_id": "ep_e682eebae89b5632",
+    "relation_type": "precedes",
+    "reason": "‘冲入火场救人’是救援行动的开始，逻辑上必须在成功救出小马之后才能进行庆祝，因此该情节在叙事顺序上早于‘庆祝救出小马并宣告制霸亭林镇’。尽管文档ID不同，但事件的因果和时间顺序在描述中具有明确的先后结构。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c650831dc3e7",
+    "subject_id": "ep_378e155cbc77d97f",
+    "object_id": "ep_5ccd39f984e68a62",
+    "relation_type": "precedes",
+    "reason": "根据描述，'结束采访并继续庆祝'发生在徐太浪赢得比赛之后，是庆祝活动的延续，且采访结束时比赛结果已确定，因此该情节在叙事顺序上晚于'庆祝徐太浪赢得比赛'。但由于主体是'结束采访'，而客体是'庆祝胜利'，庆祝胜利在先，结束采访并重新投入庆祝在后，故主体情节在时间上后于客体情节，因此关系应为客体 precedes 主体。但因 relation_type 为有向关系，且题目要求判断主体与客体之间的关系，此处主体 ep_378e155cbc77d97f 发生在客体 ep_5ccd39f984e68a62 之后，因此主体并不 precedes 客体，反向才成立。由于不能反向输出，且其他关系无足够支持，故判断为 NONE 更安全。然而，重新分析：'庆祝徐太浪赢得比赛'包含他下车与领航员拥抱，而'结束采访'发生在之后，说明比赛庆祝已开始，采访结束是后续行为，因此'庆祝赢得比赛'在先，'结束采访并继续庆祝'实为重新加入已开始的庆祝，故主体情节在时间上晚于客体，即客体 precedes 主体。但题目要求的是主体对客体的关系，因此主体并不 precedes 客体，也不能反向使用。综上，正确的时间顺序是客体在前、主体在后，因此主体不能 precedes 客体，也不能 causes 或 elaborates，两者无对比基调，故无有效有向关系成立。最终判断：NONE。",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b7e063f0c139",
+    "subject_id": "ep_757530cea7f232b5",
+    "object_id": "ep_a1a861a52da47a21",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，'冲入火场救人'（ep_a1a861a52da47a21）发生在火灾现场的紧急救援行动，而'六一出现并接受责问'（ep_757530cea7f232b5）涉及六一在火灾期间缺席后的现身与质问，暗示该情节发生在救援行动之后。因此，'冲入火场救人'在叙事时间上早于'六一出现并接受责问'，支持precedes关系（object precedes subject）。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d646a1e3ca48",
+    "subject_id": "ep_0b4ee964bb7a8d2b",
+    "object_id": "ep_71ab248d4a5a2fd6",
+    "relation_type": "precedes",
+    "reason": "安抚同伴以准备进入KTV聚会发生在进入KTV包厢之前，为兄弟二人在KTV共度时光创造前提条件和氛围，时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_45__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_db774d601d41",
+    "subject_id": "ep_0b4ee964bb7a8d2b",
+    "object_id": "ep_540614d5dabc1619",
+    "relation_type": "precedes",
+    "reason": "安抚同伴以准备进入KTV聚会发生在进入包厢并开始唱歌之前，前者为后者创造轻松氛围，且两个情节均关联到KTV包厢聚会这一场合，叙事顺序明确。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_24_part_1",
+      "scene_24_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_17d7226cd0bd",
+    "subject_id": "ep_0a420d7c27528ac5",
+    "object_id": "ep_c37093555d9965fb",
+    "relation_type": "precedes",
+    "reason": "徐正太在黑暗中等待徐太浪的到来，随后发现家中着火并冲向火场，叙事顺序上前者早于后者，且等待结束后立即发生火灾响应行动。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d00a0737ce51",
+    "subject_id": "ep_0b4ee964bb7a8d2b",
+    "object_id": "ep_384d1e4d3df587a5",
+    "relation_type": "precedes",
+    "reason": "安抚同伴以准备进入KTV聚会发生在KTV包厢内，而应对罗力突袭与地盘威胁发生在同一场合的后续场景中（scene_24），且相关事件序列显示前者为聚会初期的准备行为，后者为外部冲突的介入，叙事顺序上明确前者早于后者。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_24_part_1",
+      "scene_24_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0ed67649946e",
+    "subject_id": "ep_0b4ee964bb7a8d2b",
+    "object_id": "ep_0431975e118bc1e3",
+    "relation_type": "precedes",
+    "reason": "情节 '安抚同伴以准备进入KTV聚会' 发生在KTV聚会开始前（scene_23），而 '引入陪唱女孩并引发争议' 发生在KTV包厢聚会中（scene_24），scene_23在叙事顺序上早于scene_24，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_24_part_2",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_654b9e978d75",
+    "subject_id": "ep_079048f9811979d3",
+    "object_id": "ep_e496aa8094383942",
+    "relation_type": "precedes",
+    "reason": "根据描述，'目睹火灾并撤离现场'（ep_e496aa8094383942）发生在火灾初期，由旁观者观察到房屋起火后离开；而'兄弟逃生并确认彼此安全'（ep_079048f9811979d3）发生在火灾之后，涉及从火灾现场逃出并确认幸存。因此，'兄弟逃生'情节在叙事顺序上紧随'目睹火灾'之后，支持'目睹火灾'先于'兄弟逃生'。方向为 object -> subject，但关系类型'precedes'为有向，故取 subject -> object 的反向不成立；此处应为 object precedes subject，但因 subject 是给定的主语，无法反转关系方向，故不成立。重新评估：两个情节之间无明确文本指出时间衔接或因果链，仅能推断大致时序。由于缺乏直接话语顺序或共同上下文支持明确先后，置信度下调，最终判断为无充分证据支持任何特定关系。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e6fe55011672",
+    "subject_id": "ep_c37093555d9965fb",
+    "object_id": "ep_757530cea7f232b5",
+    "relation_type": "precedes",
+    "reason": "情节'冲向起火的家'描述徐正太发现家中着火并冲向火场，而'六一出现并接受责问'发生在火灾之后，六一关心徐正太安危并被质问其在火灾期间的缺席。因此，'冲向起火的家'在叙事时间顺序上明确早于'六一出现并接受责问'。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6dd94b5f13f1",
+    "subject_id": "ep_81fa90294411c349",
+    "object_id": "ep_d1bf26d67872bac5",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'响应小马被绑的紧急情况'中的事件（如徐正太驾车离开现场）发生在'scene_28'，而'应对徐正太逃离后的突发持枪对峙'中的事件发生在'scene_33'，scene_28早于scene_33，因此该情节在叙事顺序上先于另一个。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_628a622dd5dd",
+    "subject_id": "ep_81fa90294411c349",
+    "object_id": "ep_e682eebae89b5632",
+    "relation_type": "precedes",
+    "reason": "‘响应小马被绑的紧急情况’描述了营救行动的开始，涉及徐正太和徐太浪立即驾车离开以应对绑架；而‘庆祝救出小马并宣告制霸亭林镇’发生在后续聚餐场合，明确纪念救出小马和击败对手。因此，响应情节在叙事顺序上早于庆祝情节。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_700f40a86e2c",
+    "subject_id": "ep_80c7d484716ff7d2",
+    "object_id": "ep_50b6ce355c81af47",
+    "relation_type": "precedes",
+    "reason": "追击徐正太以报复溅水（ep_80c7d484716ff7d2）发生在金所长离开之后，而徐正太与徐太浪重新建立控制（ep_50b6ce355c81af47）明确始于金所长离开后。因此，追击情节在叙事时间上先于重新建立控制的情节。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_48625c74aab8",
+    "subject_id": "ep_50b6ce355c81af47",
+    "object_id": "ep_651b5deb0a832aa4",
+    "relation_type": "precedes",
+    "reason": "徐正太与徐太浪在危机后重新建立控制的情节发生在执法审查压力解除后，人物转向内部调整；随后，徐正太等人启动对木木的搜寻行动。叙事顺序上，控制权重新确认先于搜寻行动的展开，且两情节分别位于不同文档（doc_11 vs doc_13），支持时间先后关系。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5bda132eba40",
+    "subject_id": "ep_2bd4f0c2ee0a9663",
+    "object_id": "ep_bea986e2557beaeb",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在徐正太和小花的婚礼场合中，且主体情节'徐太浪主动操办婚礼并延伸育儿请求'涉及婚礼前的准备与请求，客体情节'回应新娘对致辞的不满'发生在婚礼进行期间的致辞环节，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_77a87043d3b4",
+    "subject_id": "ep_9e124fc7a123e29e",
+    "object_id": "ep_d1bf26d67872bac5",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'突袭并控制现场'中的事件发生在scene_31，而'应对徐正太逃离后的突发持枪对峙'中的事件发生在scene_33，scene_31早于scene_33，因此前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a800e6f242a6",
+    "subject_id": "ep_0a420d7c27528ac5",
+    "object_id": "ep_9e124fc7a123e29e",
+    "relation_type": "precedes",
+    "reason": "徐正太在黑暗中等待徐太浪的到来，随后徐太浪与徐正太一同驾车突袭现场并控制局势。等待情节在时间上早于突袭行动，且等待的结束与突袭的开始存在叙事连贯性，支持'precedes'关系。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6352db75c4c2",
+    "subject_id": "ep_9e124fc7a123e29e",
+    "object_id": "ep_e682eebae89b5632",
+    "relation_type": "precedes",
+    "reason": "突袭并控制现场发生在庆祝救出小马并宣告制霸亭林镇之前，因为控制现场是实现制霸的前提，且庆祝情节明确提及救出小马和击败对手的结果，这些结果在突袭情节中达成。叙事顺序上，先有突袭制胜，后有聚餐庆祝。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_46c6a53fcdac",
+    "subject_id": "ep_34315a4467c1232e",
+    "object_id": "ep_e682eebae89b5632",
+    "relation_type": "precedes",
+    "reason": "撤离被绑的小马是救援行动的执行阶段，而庆祝救出小马并宣告制霸亭林镇发生在聚餐场合，包含碰杯纪念成功救出和击败对手，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c53fc3e33cc0",
+    "subject_id": "ep_9e124fc7a123e29e",
+    "object_id": "ep_50b6ce355c81af47",
+    "relation_type": "precedes",
+    "reason": "情节'突袭并控制现场'描述了徐正太和徐太浪通过暴力手段夺取现场控制权的行动，而'徐正太与徐太浪在危机后重新建立控制'则发生在执法压力解除之后，聚焦于内部关系调整。根据叙事逻辑，暴力控制现场必须先于后续的内部权力再确认，因此前者在时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_648d2c37513b",
+    "subject_id": "ep_0a420d7c27528ac5",
+    "object_id": "ep_e7b2c549aa831f34",
+    "relation_type": "precedes",
+    "reason": "徐正太在黑暗中等待徐太浪的到来，之后三人在走廊尽头会合讨论相亲活动进展，表明等待情节在时间上早于会合与应对突发状况的情节。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_06864e963549",
+    "subject_id": "ep_50b6ce355c81af47",
+    "object_id": "ep_57b1d4a0dd7ef04d",
+    "relation_type": "precedes",
+    "reason": "徐正太与徐太浪在危机后重新建立控制的情节发生在转为社交聚会的提议与接受之前。文档中描述的顺序显示，执法审查压力解除并重新掌握局面后，才转向社交活动的提议，叙事时间线上存在明确先后顺序。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_833df3f13557",
+    "subject_id": "ep_57b1d4a0dd7ef04d",
+    "object_id": "ep_ef20c3934d867f3b",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述徐正太邀请众人去他女友家吃饭并被接受，行动目标转向社交；第二个情节发生在家庭晚餐聚会中，徐正太为徐太浪盛饭。根据事件顺序，提议与接受社交聚会发生在实际用餐之前，且第二个情节的场合（家庭晚餐聚会）依赖于第一个情节的接受结果。因此，第一个情节在叙事顺序上明确早于第二个情节。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d4deeff8f76e",
+    "subject_id": "ep_50b6ce355c81af47",
+    "object_id": "ep_e7b2c549aa831f34",
+    "relation_type": "precedes",
+    "reason": "徐正太与徐太浪在危机后重新建立控制发生在金所长离开后，人物重新掌握局面；而确认相亲活动进展并应对突发状况发生在后续场景中，涉及小花、徐正太和徐太浪在走廊会合讨论活动安排。两个情节在叙事顺序上连续，前者为后者中人物互动的前提，且无证据表明后者影响前者，因此支持前者在叙事上早于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_20b87112b80d",
+    "subject_id": "ep_57b1d4a0dd7ef04d",
+    "object_id": "ep_e682eebae89b5632",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述徐正太邀请众人去他女友家吃饭，徐太浪同意，标志着行动目标转向社交；第二个情节发生在聚餐场合中，徐正太发起庆祝并四人碰杯，纪念救出小马和制霸亭林镇。根据叙事顺序，社交聚会的提议与接受发生在庆祝活动之前，且庆祝是在该聚餐场合中展开的，因此前者在话语和事件序列上早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b0aa6a5cbc45",
+    "subject_id": "ep_4e3d46054a2c35c9",
+    "object_id": "ep_757530cea7f232b5",
+    "relation_type": "precedes",
+    "reason": "徐太浪托付徐正太等待并离开发生在六一出现并接受责问之前，因为徐正太在徐太浪离开后原地等待，随后六一才出现并引发质问，叙事顺序明确。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_779d187ae297",
+    "subject_id": "ep_0a420d7c27528ac5",
+    "object_id": "ep_e2b5e629dd6d8841",
+    "relation_type": "precedes",
+    "reason": "徐正太在黑暗中等待徐太浪的到来，随后将其带到阳台进行质问和劝导。根据描述，等待行为发生在质问之前，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_24c8bdd0450b",
+    "subject_id": "ep_4e3d46054a2c35c9",
+    "object_id": "ep_0a420d7c27528ac5",
+    "relation_type": "precedes",
+    "reason": "徐太浪托付徐正太等待并离开（ep_4e3d46054a2c35c9）在叙事顺序上先发生，随后徐正太在黑暗中通过打火机点火又吹灭来打发时间以维持等待状态（ep_0a420d7c27528ac5），后者是前者承诺等待的延续行为，时间顺序明确。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_535ee4e1c11f",
+    "subject_id": "ep_0a420d7c27528ac5",
+    "object_id": "ep_757530cea7f232b5",
+    "relation_type": "precedes",
+    "reason": "徐正太在黑暗中通过打火机打发时间、等待徐太浪的到来，发生在六一出现并被责问之前。根据叙事逻辑，等待状态先于六一的突然现身和随之而来的质问互动，因此该关系在时间顺序上明确支持 'precedes'。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_72a7540a1574",
+    "subject_id": "ep_0a420d7c27528ac5",
+    "object_id": "ep_a7ac0f2b34db4e93",
+    "relation_type": "precedes",
+    "reason": "徐正太在黑暗中通过打火机打发时间等待徐太浪，发生在徐太浪到达后两人互动并饮酒之前。描述中表明等待状态先于父子情绪共鸣事件，且两个情节分别位于不同文档场景（scene_37 vs scene_39），支持叙事上的先后顺序。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_50f5e73a17ce",
+    "subject_id": "ep_433009f8c5b5e8f3",
+    "object_id": "ep_e56eebdf15022768",
+    "relation_type": "precedes",
+    "reason": "根据描述，六一解释躲柜经历并寻求认可的情节发生在scene_36，而徐正太向小花求婚并获接受的情节发生在scene_21。尽管文档ID不同，但scene编号表明scene_21在scene_36之前发生。然而，徐正太在ep_e56eebdf15022768的描述中提到‘在安慰六一后’才求婚，这明确表明ep_433009f8c5b5e8f3（包含徐正太安慰六一）在ep_e56eebdf15022768之前发生。因此，主体情节在叙事顺序上先于客体情节。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6663f8fb7626",
+    "subject_id": "ep_0a420d7c27528ac5",
+    "object_id": "ep_50b6ce355c81af47",
+    "relation_type": "precedes",
+    "reason": "徐正太在黑暗中打火机点火又吹灭的场景（scene_37）发生在金所长离开后徐正太与徐太浪重新建立控制（scene_13）之前，根据文档上下文的时间线索，等待行为先于危机解除后的互动，因此该情节在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fec268876b12",
+    "subject_id": "ep_0a420d7c27528ac5",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述徐正太在黑暗中通过打火机动作打发时间，等待徐太浪，而客体情节揭示该情境是正太帮设计的品性考验，包含柜子打开后徐正太现身并解释其目的。客体情节提供了主体情节的背景和解释，说明等待行为是考验的一部分，因此客体情节为主体情节提供了扩展性说明。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_36f2ea0d64a7",
+    "subject_id": "ep_079048f9811979d3",
+    "object_id": "ep_50b6ce355c81af47",
+    "relation_type": "precedes",
+    "reason": "主体情节描述徐太浪和徐正太从火灾现场逃生并确认彼此安全，发生在桥头场景，属于危机中的生存确认；客体情节描述金所长离开后，徐正太质问徐太浪并拿起BB机试图重新掌握局面，标志着执法压力解除后的权力再确认。根据叙事逻辑，逃生与安全确认必须在执法审查结束及后续互动之前完成，因此主体情节在时间顺序上先于客体情节。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a98b254caa89",
+    "subject_id": "ep_78a4f869d97c757f",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "elaborates",
+    "reason": "徐正太揭示藏钱真相为徐太浪通过品性考验的情节提供了动机背景，说明其行为并非出于孝心而是保护财产，从而扩展了对考验情境中人物动机的理解。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_050930239adb",
+    "subject_id": "ep_0a420d7c27528ac5",
+    "object_id": "ep_c2932f9d76f471ac",
+    "relation_type": "precedes",
+    "reason": "徐正太在黑暗中打火机点火又吹灭的事件（scene_37）发生在doc_35，而应对徐太浪出现引发的关系危机中的事件（scene_13）发生在doc_11。根据文档编号和场景编号的顺序，scene_37在scene_13之后，但通常文档编号可能反映叙事顺序，且scene_13的事件逻辑上发生在徐太浪被带到现场时，而徐正太在黑暗中等待的行为应发生在此前。因此，基于叙事逻辑和场景上下文，'黑暗中打发时间维持等待状态'在时间上先于'应对徐太浪出现引发的关系危机'，构成直接的前序等待行为。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6321a60c760e",
+    "subject_id": "ep_50b6ce355c81af47",
+    "object_id": "ep_85ae77fa614545de",
+    "relation_type": "precedes",
+    "reason": "徐正太与徐太浪在危机后重新建立控制的情节发生在执法审查压力解除后，人物开始调整内部关系；随后徐太浪请求徐正太避免惹事，以约束其未来行为。叙事顺序上，先有重新掌握局面的行动，再有对后续行为的劝诫，因此前者在话语和事件序列上早于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4f1849bbe147",
+    "subject_id": "ep_7a7833ff46eb0cc7",
+    "object_id": "ep_d9b5ca34d4ab7a82",
+    "relation_type": "contrasts_with",
+    "reason": "徐太浪亲近胎儿引发冲突展现紧张对峙，而徐正太与小花展示日常默契则呈现亲密和谐的互动，两者在情感基调和互动状态上形成明显对比。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_648309ace909",
+    "subject_id": "ep_50b6ce355c81af47",
+    "object_id": "ep_6d6d2d7781ff8800",
+    "relation_type": "precedes",
+    "reason": "徐正太与徐太浪在危机后重新建立控制发生在金所长离开后，人物立即互动以重新掌握局面；而透露经营计划并引发家庭反思涉及后续的经营决策和徐太浪的沉思，叙事上明显在前者之后展开，具有清晰的时间顺序。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_27e848c2f331",
+    "subject_id": "ep_50b6ce355c81af47",
+    "object_id": "ep_f16b9e9524bb2ac7",
+    "relation_type": "precedes",
+    "reason": "徐正太与徐太浪在危机后重新建立控制的情节发生在执法压力解除后，人物转向内部关系调整；随后，徐正太在录像厅向徐太浪展示经营成果并试图说服其投资。叙事顺序上，先有重新建立控制，再有投资说服行为，时间上连贯且无间隙，支持'precedes'关系。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_45ecccc50852",
+    "subject_id": "ep_50b6ce355c81af47",
+    "object_id": "ep_a9bddaa46813af38",
+    "relation_type": "precedes",
+    "reason": "根据描述，'徐正太与徐太浪在危机后重新建立控制'发生在金所长离开后，徐正太确认安全并拿起BB机招呼徐太浪，而'交换姓名并调侃起名智慧'发生在后续对话场景中（scene_14），具有明确的叙事顺序。因此，主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bcac7e8320e3",
+    "subject_id": "ep_35b68af8642b6f2f",
+    "object_id": "ep_c9d62776f3ec36e1",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对六一遇警跳河事件'发生在场景13，客体情节'共同呼唤木木并启动搜寻任务'发生在场景14，根据related_events中的场景编号顺序，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c5eaaba32722",
+    "subject_id": "ep_50b6ce355c81af47",
+    "object_id": "ep_e2b5e629dd6d8841",
+    "relation_type": "precedes",
+    "reason": "根据描述，'徐正太与徐太浪在危机后重新建立控制'发生在金所长离开后，徐正太确认安全并拿起BB机招呼对方；紧接着，他将徐太浪带到阳台进行质问与劝导。'质问盗窃并劝其改过'发生在重新建立控制之后，具有明确的叙事时序推进。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_de260e03b422",
+    "subject_id": "ep_50b6ce355c81af47",
+    "object_id": "ep_da5375a346ab8e75",
+    "relation_type": "precedes",
+    "reason": "徐正太与徐太浪在危机后重新建立控制（ep_50b6ce355c81af47）发生在金所长离开后，人物立即转向内部互动；随后在回应质疑并完成入会询问（ep_da5375a346ab8e75）中，对话进一步展开并完成礼节性转折。两个情节共享连续的对话场景，且前者为后者提供了情境起点，叙事顺序明确。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a94a093dcce6",
+    "subject_id": "ep_50b6ce355c81af47",
+    "object_id": "ep_5337973d9108680b",
+    "relation_type": "precedes",
+    "reason": "根据描述，'徐正太与徐太浪在危机后重新建立控制'发生在金所长离开后，徐正太确认安全并拿起BB机招呼徐太浪；而'介绍正太帮并接受入会'发生在后续场景中，徐正太主动介绍帮会并邀请徐太浪入会。两个情节共享连续的互动上下文，且前者为后者提供叙事上的直接前置条件，表明存在明确的时间顺序。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_63b2c108f41e",
+    "subject_id": "ep_50b6ce355c81af47",
+    "object_id": "ep_c9d62776f3ec36e1",
+    "relation_type": "precedes",
+    "reason": "根据描述，'徐正太与徐太浪在危机后重新建立控制'发生在金所长离开后，人物重新掌握局面；而'共同呼唤木木并启动搜寻任务'发生在徐太浪指出有会员投河之后，属于后续行动。related_events中的scene_13早于scene_14，表明前一情节在叙事顺序上先于后一情节。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0ce9c70dd603",
+    "subject_id": "ep_c2932f9d76f471ac",
+    "object_id": "ep_50b6ce355c81af47",
+    "relation_type": "precedes",
+    "reason": "根据描述，'应对徐太浪出现引发的关系危机'发生在金所长在场并追问两人关系的过程中，而'徐正太与徐太浪在危机后重新建立控制'明确发生在金所长离开之后，且以危机解除为前提。因此，前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f8843d744a2f",
+    "subject_id": "ep_35b68af8642b6f2f",
+    "object_id": "ep_50b6ce355c81af47",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_13，但'应对六一遇警跳河事件'包含警察在场时的互动，而'徐正太与徐太浪在危机后重新建立控制'发生在金所长离开之后，表明前者在叙事顺序上先于后者。文本中'金所长离开后'这一时间标记明确支持顺序关系。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7dd17f47c74e",
+    "subject_id": "ep_9f58d3988cba7ea8",
+    "object_id": "ep_a1a861a52da47a21",
+    "relation_type": "precedes",
+    "reason": "徐太浪发现徐正太家方向冒烟这一情节在叙事顺序上早于冲入火场救人，烟雾的发现引发悬念并直接导向后续的救援行动，时间顺序明确且由情节发展支持。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a349a96276d7",
+    "subject_id": "ep_a1a861a52da47a21",
+    "object_id": "ep_a14763736381744a",
+    "relation_type": "causes",
+    "reason": "徐正太冲入火场抢救父亲遗像的行为被徐太浪目睹，直接导致徐太浪改变对其成见并表达敬意，文本明确将救援行动作为态度转变和表达敬意的触发点。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_79b0f04f57d7",
+    "subject_id": "ep_33e9e2349f4b935f",
+    "object_id": "ep_a1a861a52da47a21",
+    "relation_type": "precedes",
+    "reason": "根据描述，'寻找徐正太并搜查其住所' 发生在徐太浪主动搜寻徐正太的过程中，而 '冲入火场救人' 是徐正太和徐太浪随后共同参与的救援行动。叙事上，找到徐正太是进入火场救援的前提，因此前者在时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a93622e33c20",
+    "subject_id": "ep_9f58d3988cba7ea8",
+    "object_id": "ep_c37093555d9965fb",
+    "relation_type": "causes",
+    "reason": "徐太浪发现徐正太家方向冒烟这一情节直接引发后续冲向起火的家的情节。描述中指出，发现冒烟后徐正太确认家中着火并立即冲向火场，徐太浪紧随其后，表明前者是后者的直接触发事件，具有明确的因果时序和行为响应。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ba139ce4cafd",
+    "subject_id": "ep_33e9e2349f4b935f",
+    "object_id": "ep_c37093555d9965fb",
+    "relation_type": "precedes",
+    "reason": "根据描述，'寻找徐正太并搜查其住所' 发生在徐太浪主动搜寻徐正太的过程中，而 '冲向起火的家' 发生在徐正太发现房屋着火后立即行动。两个情节的事件分别位于 scene_37 和 scene_40，文档顺序和叙事流程表明前者在时间上早于后者，因此支持 'precedes' 关系。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_885e774baf9b",
+    "subject_id": "ep_c37093555d9965fb",
+    "object_id": "ep_a14763736381744a",
+    "relation_type": "precedes",
+    "reason": "徐正太冲向起火的家（ep_c37093555d9965fb）发生在徐太浪表达对徐正太的敬意（ep_a14763736381744a）之前，因为徐太浪的敬意是基于徐正太冲进火场抢救父亲遗像的行为而产生的，该行为在时间顺序和叙事逻辑上先于敬意表达。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_39202efdc471",
+    "subject_id": "ep_d2080d433129bdce",
+    "object_id": "ep_ebba3063752de9ee",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对突如其来的重逢'发生在场景19，客体情节'前往电影院并抵达目的地'发生在场景20，根据文档顺序和相关事件的时间序列，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1b5625c2b9ba",
+    "subject_id": "ep_3e27a1f95a8a7ffe",
+    "object_id": "ep_d2080d433129bdce",
+    "relation_type": "precedes",
+    "reason": "徐太浪静坐于小巷中观察人群的情节描述其处于停滞或沉思状态，随后在看到父亲及同伴时情绪发生剧烈变化，表现出直接的叙事先后顺序。相关事件在文档中按时间顺序排列，支持该关系。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7060a4f4d207",
+    "subject_id": "ep_33e9e2349f4b935f",
+    "object_id": "ep_d2080d433129bdce",
+    "relation_type": "precedes",
+    "reason": "根据描述，'寻找徐正太并搜查其住所' 表现为徐太浪主动搜寻徐正太的过程，而 '应对突如其来的重逢' 则发生在徐太浪实际看到徐正太及其同伴的瞬间。逻辑上，搜寻行为必须在重逢发生之前完成，因此该关系在叙事顺序上为前者早于后者，且文本中相关事件的时间上下文支持这一顺序。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9a5fe2702f8d",
+    "subject_id": "ep_5fe4f64a85c31bb9",
+    "object_id": "ep_d2080d433129bdce",
+    "relation_type": "precedes",
+    "reason": "徐太浪在公交车内入睡并中断搜寻行动（ep_5fe4f64a85c31bb9）发生在天黑后徐正太原地徘徊等待的场景中；而徐太浪看到父亲徐正太及同伴并情绪波动（ep_d2080d433129bdce）发生在后续场景（scene_19），表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ea1250622b09",
+    "subject_id": "ep_a914b7463da0267f",
+    "object_id": "ep_d2080d433129bdce",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，徐太浪先确认时间错位并接受穿越现实（scene_10），之后才在scene_19中遭遇父亲及同伴并产生情绪波动，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_42584c7a78df",
+    "subject_id": "ep_486aa1e58315f98f",
+    "object_id": "ep_d2080d433129bdce",
+    "relation_type": "contrasts_with",
+    "reason": "徐太浪独自静思船头风景表现出孤独宁静的心理状态，而应对突如其来的重逢则展现他情绪剧烈波动，两者在心理状态和情绪基调上形成明显对比。",
+    "source_documents": [
+      "scene_45__2_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8dfc86dfdcb2",
+    "subject_id": "ep_d2080d433129bdce",
+    "object_id": "ep_e56eebdf15022768",
+    "relation_type": "contrasts_with",
+    "reason": "‘应对突如其来的重逢’描绘徐太浪面对父亲和同伴时的内心波动，而‘徐正太向小花求婚并获接受’则展现徐正太主动表达情感并成功获得回应，两者在情感表达方式和结果上形成对比：前者压抑、内敛，后者外放、成功，且后者情节描述中明确提到与六一失败表白形成对比，暗示本场景具有对比性叙事功能。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_c782a65e359e",
+    "subject_id": "ep_d2080d433129bdce",
+    "object_id": "ep_c2932f9d76f471ac",
+    "relation_type": "precedes",
+    "reason": "根据事件的时间顺序，'应对突如其来的重逢'（徐太浪看到父亲等人并情绪波动）发生在'应对徐太浪出现引发的关系危机'（警察介入并追问关系）之前。related_events中的scene_19早于scene_13，表明该情节在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_edcbb52b4849",
+    "subject_id": "ep_d2080d433129bdce",
+    "object_id": "ep_e99d3797e56c0c37",
+    "relation_type": "elaborates",
+    "reason": "情节'应对突如其来的重逢'描绘了徐太浪面对父亲时的即时情绪反应，而'揭示童年父子冲突'通过回忆片段提供了其情感反应的背景和深层原因，说明当前情绪状态源于过去的压抑与冲突，因此后者为前者提供了心理动因的扩展解释。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a27873cbeb11",
+    "subject_id": "ep_673f86cc694e0454",
+    "object_id": "ep_ab7bd35f8afde9c9",
+    "relation_type": "elaborates",
+    "reason": "执行高难度漂移驾驶并实时监控车辆状态提供了完成高速山路驾驶挑战的更多技术细节和协作机制，具体展示了车手与领航员在高风险驾驶中的实时互动，从而扩展了后者的情节内容。",
+    "source_documents": [
+      "scene_2__2_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b6e05d5c2cbf",
+    "subject_id": "ep_ab7bd35f8afde9c9",
+    "object_id": "ep_735be6a4109cef2b",
+    "relation_type": "precedes",
+    "reason": "完成高速山路驾驶挑战是比赛过程中的情节，发生在赛后采访之前。根据常规赛事流程和描述内容，比赛结束后才会进行赛后采访，因此该情节在叙事顺序上早于启动赛后采访并感谢团队。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b86808ce500e",
+    "subject_id": "ep_6dbc9eafc0f75579",
+    "object_id": "ep_ab7bd35f8afde9c9",
+    "relation_type": "elaborates",
+    "reason": "协同调整车辆性能以支持极限驾驶这一情节提供了关于如何通过技术调优和协作优化驾驶表现的额外细节，扩展了完成高速山路驾驶挑战中的协作与性能维持目标。两个情节共享车手与领航员协作的核心主题，且前者聚焦于具体技术支持行为，后者描述整体驾驶挑战，因此构成解释性补充关系。",
+    "source_documents": [
+      "scene_2__2_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_54fa372e6e7f",
+    "subject_id": "ep_ab7bd35f8afde9c9",
+    "object_id": "ep_c3c6f3f4bd912134",
+    "relation_type": "precedes",
+    "reason": "完成高速山路驾驶挑战发生在赢得比赛后遭遇车祸之前，根据叙事顺序，驾驶挑战是比赛过程的一部分，而车祸发生在比赛结束后，因此该情节在话语顺序上明确早于苏醒情节。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2fa19f3e3dfb",
+    "subject_id": "ep_ab7bd35f8afde9c9",
+    "object_id": "ep_b70365a380a6c392",
+    "relation_type": "contrasts_with",
+    "reason": "完成高速山路驾驶挑战体现徐太浪与领航员协作成功、目标达成的高光时刻，而遭遇赛车生涯的失败与抛弃则展现合作关系破裂与职业挫折，两者在成果、关系状态和情绪基调上形成明显逆转与对比。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bc7ed75f06b9",
+    "subject_id": "ep_2422980aed483c12",
+    "object_id": "ep_c2932f9d76f471ac",
+    "relation_type": "precedes",
+    "reason": "徐太浪惊险停车并邀请父亲上车（ep_2422980aed483c12）发生在故事早期场景（scene_6），而应对徐太浪出现引发的关系危机（ep_c2932f9d76f471ac）发生在后续场景（scene_13），其中两人已被警察拦截并开始盘问。文本中scene编号明确支持时间顺序，且该顺序符合叙事发展逻辑：先接触父亲，再处理身份暴露危机。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a5afbcd024ca",
+    "subject_id": "ep_301e18d451c0433a",
+    "object_id": "ep_3b3706b1045baaf2",
+    "relation_type": "causes",
+    "reason": "徐太浪驾驶车辆飞跃铁轨时发现火车逼近，即将发生碰撞，构成直接导致车祸的情节；后续情节描述徐太浪因车祸重伤被抢救，并揭示事故余情。车祸是抢救场景的直接原因，文本中两个情节通过因果链紧密连接，且时间与逻辑顺序一致。",
+    "source_documents": [
+      "scene_6__2_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_11f3a2e2c47e",
+    "subject_id": "ep_76e1384ee1987a1e",
+    "object_id": "ep_3b3706b1045baaf2",
+    "relation_type": "precedes",
+    "reason": "情节'在小镇街道延续漂移动作'描述徐太浪正在进行高风险驾驶，而'抢救徐太浪并揭示事故余情'描述车祸后紧急抢救的场景，逻辑上漂移行为导致车祸，因此该情节在叙事顺序上先于抢救情节。相关事件中前者涉及驾驶行为和父亲不适，后者涉及生命垂危和医疗干预，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_6__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_77545bae9849",
+    "subject_id": "ep_065644456672566c",
+    "object_id": "ep_3b3706b1045baaf2",
+    "relation_type": "precedes",
+    "reason": "情节'接受父亲安排的工作并遭遇失败'发生在救护车翻车事故当时，直接导致徐太浪重伤；而'抢救徐太浪并揭示事故余情'描述的是事故后在医疗场景中对徐太浪的抢救，时间上紧随其后。因此，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_55a00906cc91",
+    "subject_id": "ep_3b3706b1045baaf2",
+    "object_id": "ep_d2d7fccf9b71609a",
+    "relation_type": "precedes",
+    "reason": "抢救徐太浪并揭示事故余情发生在医院紧急救治场景中，涉及车祸后的生命维持和信息揭示；而重建与按摩女的联系并开启新机遇始于徐太浪醉酒摔倒后被按摩女在医院照顾，时间线上紧随前者，且后者依赖于前者中徐太浪已被送医的前提。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d6fb43fa81f0",
+    "subject_id": "ep_45795803de995699",
+    "object_id": "ep_c8a40e51ff8098f0",
+    "relation_type": "precedes",
+    "reason": "三人遭突袭失去意识发生在徐太浪制造混乱并夺回车辆控制之前，因为突袭是绑架的起始事件，而反抗行为是在被控制后发生的后续行动，叙事顺序上明确先后。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_997e59111da2",
+    "subject_id": "ep_0e94f46a14eaff37",
+    "object_id": "ep_c8a40e51ff8098f0",
+    "relation_type": "precedes",
+    "reason": "情节 '应对被跟踪的威胁' 描述了徐太浪在被绑架前察觉危险并提出集体行动策略，而 '徐太浪制造混乱并夺回车辆控制' 描述了其在被绑架过程中反抗并夺取车辆控制权的行动。根据叙事逻辑和事件发展顺序，察觉被跟踪并试图避免绑架的行为发生在被绑架并反抗之前，因此前者在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f1802f15d3ef",
+    "subject_id": "ep_c3c6f3f4bd912134",
+    "object_id": "ep_3b3706b1045baaf2",
+    "relation_type": "precedes",
+    "reason": "情节'经历致命车祸并苏醒'描述徐太浪在车祸中受伤后于医院苏醒，而'抢救徐太浪并揭示事故余情'描述医生在抢救过程中努力维持其意识并提及车上另一人，表明抢救发生在苏醒之前。因此，'经历致命车祸并苏醒'在叙事顺序上早于'抢救徐太浪并揭示事故余情'，尽管苏醒是抢救的结果，但根据事件序列，车祸和苏醒构成后续状态，抢救行为应发生于苏醒前的昏迷阶段，故抢救情节在时间线上紧随车祸之后、苏醒之前。结合描述，'经历致命车祸并苏醒'包含苏醒事件，而抢救情节聚焦于苏醒前的抢救过程，因此前者整体在时间上先于后者完成，支持'precedes'关系。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_94cadd3b9376",
+    "subject_id": "ep_6b21aca769859416",
+    "object_id": "ep_c8a40e51ff8098f0",
+    "relation_type": "precedes",
+    "reason": "徐太浪遭突袭绑架发生在其制造混乱并夺回车辆控制之前，根据事件顺序，绑架是后续反抗和夺车情节的前提，且两个情节共享连续的叙事上下文。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3de8bb888686",
+    "subject_id": "ep_651b5deb0a832aa4",
+    "object_id": "ep_b3d364ea8c9f0fe7",
+    "relation_type": "precedes",
+    "reason": "‘启动搜寻木木行动’中徐正太责备六一，随后‘徐太浪带六一离开现场’作为对责备的响应，情节在叙事顺序上紧随其后，体现出明确的时间先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a7a911957128",
+    "subject_id": "ep_651b5deb0a832aa4",
+    "object_id": "ep_3e27a1f95a8a7ffe",
+    "relation_type": "precedes",
+    "reason": "启动搜寻木木行动包含在大街小巷中呼喊木木名字的活动，表现出主动搜寻行为；而静坐于小巷中观察人群描述的是徐太浪的停滞或沉思状态，暗示搜寻暂停。叙事上，主动搜寻很可能在前，随后转为静止观察，构成情节上的时间顺序。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_34e753508014",
+    "subject_id": "ep_33e9e2349f4b935f",
+    "object_id": "ep_af987658ea40696a",
+    "relation_type": "precedes",
+    "reason": "寻找徐正太并搜查其住所发生在徐太浪与徐正太关系修复之前，而婚礼致辞明确建立在两人和解的基础上，因此搜寻情节在叙事顺序上早于婚礼致辞情节。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7d7e7ea6c2e3",
+    "subject_id": "ep_a14763736381744a",
+    "object_id": "ep_af987658ea40696a",
+    "relation_type": "precedes",
+    "reason": "徐太浪表达对徐正太的敬意发生在婚礼致辞之前，因为敬意表达是兄弟关系转变的早期标志，而婚礼致辞明确回顾了从敌对到兄弟的关系转变过程，表明情感认可早于公开演讲。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1e070c460d1e",
+    "subject_id": "ep_85ae77fa614545de",
+    "object_id": "ep_af987658ea40696a",
+    "relation_type": "precedes",
+    "reason": "徐太浪请求徐正太避免惹事发生在徐正太和小花的婚礼之前，因为该请求针对的是未来几个月的行为约束，而婚礼是此后发生的场合，因此该情节在叙事时间顺序上早于婚礼致辞情节。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3a888c749844",
+    "subject_id": "ep_2bd4f0c2ee0a9663",
+    "object_id": "ep_af987658ea40696a",
+    "relation_type": "precedes",
+    "reason": "徐太浪提出操办婚礼并请求未来不要踹孩子的脸（ep_2bd4f0c2ee0a9663）发生在婚礼致辞之前，根据相关场景编号scene_39早于scene_50，且两个情节均围绕徐正太和小花的婚礼这一场合展开，叙事顺序上前者先于后者发生。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ff50d5e14a7e",
+    "subject_id": "ep_7a7833ff46eb0cc7",
+    "object_id": "ep_af987658ea40696a",
+    "relation_type": "precedes",
+    "reason": "徐太浪亲近胎儿引发冲突发生在徐正太与小花婚礼之前，根据叙事时间顺序，该冲突事件早于婚礼致辞情节。相关场景（scene_46 vs scene_50）支持这一时间先后关系。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7d9391a46629",
+    "subject_id": "ep_98b0a21bc95e9aa4",
+    "object_id": "ep_af987658ea40696a",
+    "relation_type": "precedes",
+    "reason": "筹备婚礼并拍摄婚纱照发生在婚礼举行之前，而婚礼致辞是在婚礼进行时发表的，因此筹备活动在叙事顺序上早于致辞情节。",
+    "source_documents": [
+      "scene_45__2_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aacb8862a02b",
+    "subject_id": "ep_20d07913cf4db066",
+    "object_id": "ep_af987658ea40696a",
+    "relation_type": "precedes",
+    "reason": "情节'揭示怀孕以劝阻复仇'发生在徐正太和小花婚礼之前，因为该情节中徐正太放弃复仇是婚礼得以举行的前提；而'完成婚礼致辞并表达情感转变'发生在婚礼上，属于后续事件。叙事时间线上，劝阻复仇直接为婚礼创造条件，因此前者在顺序上早于后者。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6a30fd4ff952",
+    "subject_id": "ep_4c46092b643c0878",
+    "object_id": "ep_af987658ea40696a",
+    "relation_type": "precedes",
+    "reason": "质疑并确认父亲与小花的婚事发生在徐正太与小花婚礼之前，而完成婚礼致辞是婚礼上的行为，因此前者在叙事时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a997f5749a51",
+    "subject_id": "ep_9ccce371670389d9",
+    "object_id": "ep_af987658ea40696a",
+    "relation_type": "precedes",
+    "reason": "徐太浪计划介入并邀约小花发生在徐正太和小花婚礼之前，根据叙事时间顺序，邀请小花是早期行动，而婚礼致辞是后续事件，因此该关系在时间线上明确早于。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d064f979499a",
+    "subject_id": "ep_e56eebdf15022768",
+    "object_id": "ep_af987658ea40696a",
+    "relation_type": "precedes",
+    "reason": "徐正太向小花求婚并获接受（ep_e56eebdf15022768）发生在婚礼之前，而完成婚礼致辞（ep_af987658ea40696a）发生在婚礼上，根据常识和叙事逻辑，求婚成功是婚礼举行的先决条件，因此该关系在时间顺序上明确支持precedes。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_de94a6f6f55e",
+    "subject_id": "ep_af987658ea40696a",
+    "object_id": "ep_c182972bda4f98ea",
+    "relation_type": "contrasts_with",
+    "reason": "完成婚礼致辞并表达情感转变展现徐太浪在亲密关系中的情感升华与真诚连接，而体验成年后的亲密关系空虚则揭示其在成人世界中情感疏离与孤独；两个情节通过情感状态的对立（充实 vs 空虚）形成对比。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_837ff63a0f83",
+    "subject_id": "ep_9e124fc7a123e29e",
+    "object_id": "ep_b3d364ea8c9f0fe7",
+    "relation_type": "precedes",
+    "reason": "根据描述，'突袭并控制现场' 发生在桥头械斗并制服对手，而 '徐太浪带六一离开现场' 是在之后将六一带离桥头，标志着场景转移。两个情节共享桥头这一地点上下文，且控制现场后才可能进行人员带离，因此存在明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_269757230763",
+    "subject_id": "ep_33e9e2349f4b935f",
+    "object_id": "ep_9e124fc7a123e29e",
+    "relation_type": "precedes",
+    "reason": "主体情节'寻找徐正太并搜查其住所'描述了徐太浪主动寻找徐正太的过程，而客体情节'突袭并控制现场'则涉及徐正太出现并参与行动。逻辑上，必须先找到徐正太才能共同行动，且寻找行为在叙事上早于突袭行动的执行，因此主体情节在时间顺序上先于客体情节。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a269b892b15d",
+    "subject_id": "ep_9e124fc7a123e29e",
+    "object_id": "ep_20d07913cf4db066",
+    "relation_type": "precedes",
+    "reason": "情节'突袭并控制现场'（ep_9e124fc7a123e29e）发生在徐正太仍致力于复仇的阶段，而'揭示怀孕以劝阻复仇'（ep_20d07913cf4db066）直接导致他放弃复仇，表明前者在叙事顺序上早于后者。文档中的事件序列支持这一时间先后关系。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6a5810fb6996",
+    "subject_id": "ep_71ab248d4a5a2fd6",
+    "object_id": "ep_af0baf2368abf0db",
+    "relation_type": "contrasts_with",
+    "reason": "兄弟二人在KTV共度时光体现轻松情感联结，而徐太浪与父亲对峙并揭露家庭创伤则呈现紧张冲突与情绪爆发，两者在基调和情感状态上形成明显对比。",
+    "source_documents": [
+      "scene_45__2_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9c64115a0acb",
+    "subject_id": "ep_adca5b419cfed726",
+    "object_id": "ep_af0baf2368abf0db",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '追寻母亲形象与家庭缺失' 聚焦于徐太浪对母爱的象征性追忆，情感内敛且具反思性；而 '徐太浪与父亲对峙并揭露家庭创伤' 则表现为与父亲之间激烈、直接的情绪爆发，两者在情感表达方式和互动对象上形成并置对比，共同揭示家庭关系中缺失与冲突的不同面向。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_7bfc33f1385c",
+    "subject_id": "ep_ab1ceaa2dad885cd",
+    "object_id": "ep_6322352034571ebf",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和审讯流程，局长质问徐太浪身份并核对证件（ep_ab1ceaa2dad885cd）发生在金所长进一步核查家庭细节（ep_6322352034571ebf）之前。related_events 中的场景编号（scene_12 先于 scene_13）明确支持该时间顺序。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9f7c181d3ff6",
+    "subject_id": "ep_b3d364ea8c9f0fe7",
+    "object_id": "ep_0e94f46a14eaff37",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'徐太浪带六一离开现场' 发生在场景43，而 '应对被跟踪的威胁' 发生在场景44，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d591bc93a9ea",
+    "subject_id": "ep_0e94f46a14eaff37",
+    "object_id": "ep_6b21aca769859416",
+    "relation_type": "precedes",
+    "reason": "情节'应对被跟踪的威胁'中，徐太浪察觉被跟踪并提出集体行动策略，发生在'徐太浪遭突袭绑架'之前，后者描述他在厕所门口被突然套袋拖走。根据叙事顺序，防范威胁的行为先于绑架事件的发生，且两事件在时间与因果链上紧密衔接，前者未能阻止后者，但时间先后关系明确。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_94d7ac3148e6",
+    "subject_id": "ep_0e94f46a14eaff37",
+    "object_id": "ep_13d27741414592a2",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对被跟踪的威胁'发生在小巷中，徐太浪提出集体行动策略以避免被绑架；客体情节'揭露黄志强的房地产野心并提出收买'发生在徐太浪和徐正太被绑架之后，黄志强在场景45中阐明其计划。根据相关事件的场景编号（scene_44 先于 scene_45），主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_963f62b5a113",
+    "subject_id": "ep_673f86cc694e0454",
+    "object_id": "ep_76e1384ee1987a1e",
+    "relation_type": "precedes",
+    "reason": "徐太浪在盘山公路上执行漂移驾驶后，将车辆驶入小镇街道继续漂移，叙事上存在明确的顺序推进，且两个情节共享驾驶特技展示的延续性，但目标和场景发生变化。",
+    "source_documents": [
+      "scene_2__2_part_1",
+      "scene_6__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0e9b60b8312b",
+    "subject_id": "ep_673f86cc694e0454",
+    "object_id": "ep_735be6a4109cef2b",
+    "relation_type": "precedes",
+    "reason": "执行高难度漂移驾驶并实时监控车辆状态发生在赛后采访之前，因为漂移驾驶是比赛中的行为，而赛后采访是在比赛结束后进行的，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_2__2_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6b8fc40752f9",
+    "subject_id": "ep_6dbc9eafc0f75579",
+    "object_id": "ep_5ccd39f984e68a62",
+    "relation_type": "precedes",
+    "reason": "协同调整车辆性能以支持极限驾驶发生在比赛过程中，为徐太浪赢得比赛提供技术支持，庆祝胜利发生在比赛结束后，叙事顺序上明显在后。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_2__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1c67e0e73b8e",
+    "subject_id": "ep_673f86cc694e0454",
+    "object_id": "ep_5ccd39f984e68a62",
+    "relation_type": "precedes",
+    "reason": "执行高难度漂移驾驶并实时监控车辆状态发生在比赛中段（doc_2, scene_2__2），而庆祝徐太浪赢得比赛发生在比赛结束之后（doc_3, scene_4），文本中事件顺序明确，漂移驾驶与监控为比赛过程，庆祝为结果，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_2__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f6076d1b9b12",
+    "subject_id": "ep_6b21aca769859416",
+    "object_id": "ep_45795803de995699",
+    "relation_type": "precedes",
+    "reason": "徐太浪遭突袭绑架（ep_6b21aca769859416）发生在厕所门口，而三人遭突袭失去意识（ep_45795803de995699）描述的是在徐太浪强调集体行动后随即发生的集体绑架事件。根据叙事顺序，徐太浪单独被袭在前，随后是三人集体被套麻袋，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c459c8ef392b",
+    "subject_id": "ep_301e18d451c0433a",
+    "object_id": "ep_76e1384ee1987a1e",
+    "relation_type": "precedes",
+    "reason": "徐太浪在乡间飞跃中发现火车逼近后，紧接着将车辆驶入小镇街道延续漂移动作，两个情节在叙事顺序上连续，且描述中均来自同一场景(scene_6__2)，但事件逻辑上前者为紧急避险动作，后者为后续驾驶行为的延续，因此存在明确的时间先后关系。",
+    "source_documents": [
+      "scene_6__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5c5ce75ca62b",
+    "subject_id": "ep_76e1384ee1987a1e",
+    "object_id": "ep_c3c6f3f4bd912134",
+    "relation_type": "precedes",
+    "reason": "主体情节'在小镇街道延续漂移动作'发生在比赛胜利后、车祸之前的情节序列中，而客体情节'经历致命车祸并苏醒'明确描述了比赛后的车祸及后续苏醒，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_6__2_part_1",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_861dab29dcf9",
+    "subject_id": "ep_301e18d451c0433a",
+    "object_id": "ep_c3c6f3f4bd912134",
+    "relation_type": "precedes",
+    "reason": "‘乡间飞跃中发现火车逼近’描述了徐太浪在车祸发生前的瞬间情境，而‘经历致命车祸并苏醒’包含了火车撞击车辆及后续苏醒的情节。根据叙事顺序，发现火车逼近发生在车祸之前，构成直接的时间先后关系。",
+    "source_documents": [
+      "scene_6__2_part_1",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_57e72b835806",
+    "subject_id": "ep_57b1d4a0dd7ef04d",
+    "object_id": "ep_9f58d3988cba7ea8",
+    "relation_type": "precedes",
+    "reason": "根据描述，'转为社交聚会的提议与接受' 发生在对话过程中，而 '徐太浪发现徐正太家方向冒烟' 明确发生在 '对话尾声'，表明后者在叙事顺序上紧随前者之后。因此，主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1608300dc53e",
+    "subject_id": "ep_1457dd244727e011",
+    "object_id": "ep_4319f06f8e3b71fb",
+    "relation_type": "precedes",
+    "reason": "徐太浪在城市中继续搜寻并短暂休息发生在他在超市门口与小花开启对话之前，搜寻过程是找到小花的前提，且叙事上休息后前往超市符合时间顺序。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1e879309d8ed",
+    "subject_id": "ep_5fe4f64a85c31bb9",
+    "object_id": "ep_4319f06f8e3b71fb",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，徐太浪在公交车内入睡（scene_37）发生在徐太浪与小花在超市门口交谈（scene_38）之前，因此‘疲惫中陷入睡眠与环境等待’在叙事顺序上早于‘开启对话并表达牵挂’。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3ed13d4fe0db",
+    "subject_id": "ep_4319f06f8e3b71fb",
+    "object_id": "ep_2bd4f0c2ee0a9663",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'开启对话并表达牵挂'发生在scene_38，而'徐太浪主动操办婚礼并延伸育儿请求'发生在scene_39，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d0cbbdf5a788",
+    "subject_id": "ep_4319f06f8e3b71fb",
+    "object_id": "ep_9f58d3988cba7ea8",
+    "relation_type": "precedes",
+    "reason": "根据描述，'开启对话并表达牵挂' 发生在超市门口的交谈过程中，而 '徐太浪发现徐正太家方向冒烟' 明确发生在对话尾声，标志着该对话情节结束后的环境变化。因此，主体情节在叙事顺序上直接早于客体情节。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d392097d6c74",
+    "subject_id": "ep_3e27a1f95a8a7ffe",
+    "object_id": "ep_4319f06f8e3b71fb",
+    "relation_type": "precedes",
+    "reason": "徐太浪在小巷中静坐观察人群（ep_3e27a1f95a8a7ffe）发生在其与小花在超市门口开启对话之前，描述中暗示了搜寻暂停后的停滞状态，而后续情节（ep_4319f06f8e3b71fb）中他表达了一整晚寻找小花的行为，表明静坐是寻找过程中的一个阶段，之后才发展为与小花的实际对话。因此，静坐情节在叙事顺序上早于开启对话情节。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d873aa3d601b",
+    "subject_id": "ep_adca5b419cfed726",
+    "object_id": "ep_f1a9196a0c8de379",
+    "relation_type": "elaborates",
+    "reason": "主体情节'追寻母亲形象与家庭缺失'通过徐太浪对母亲模糊面容的凝视，象征性地表达了他对母爱的渴望；客体情节'分享家庭创伤与成长伤痛'则进一步揭示了母亲自杀的具体创伤事实，并扩展了父亲出狱后变化的背景。后者在对话中提供了更完整的家庭缺失背景，从而对前者的情感状态进行了深化和解释，构成信息上的扩展关系。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_13247d8366c6",
+    "subject_id": "ep_95f937b8e5d2fadd",
+    "object_id": "ep_9f58d3988cba7ea8",
+    "relation_type": "precedes",
+    "reason": "情感共鸣后寻求慰藉发生在徐太浪与小花的对话场景（scene_38），而徐太浪发现徐正太家方向冒烟发生在下一场景（scene_39），根据文档顺序和场景编号，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8c0d6098a95d",
+    "subject_id": "ep_95f937b8e5d2fadd",
+    "object_id": "ep_c182972bda4f98ea",
+    "relation_type": "contrasts_with",
+    "reason": "情感共鸣后寻求慰藉展现了徐太浪与小花之间深刻、真诚的情感连接，而体验成年后的亲密关系空虚则揭示了他在成人世界中亲密关系的孤独与疏离。两者在情感质量与人际关系深度上形成明显对比，一个提供真实慰藉，另一个凸显情感冷漠。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6510023a5b55",
+    "subject_id": "ep_4e3d46054a2c35c9",
+    "object_id": "ep_9f58d3988cba7ea8",
+    "relation_type": "precedes",
+    "reason": "徐太浪托付徐正太等待并离开发生在对话场景中（scene_36），而徐太浪发现徐正太家方向冒烟发生在后续场景（scene_39），根据文档顺序和场景编号，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bd3baa893b76",
+    "subject_id": "ep_4e3d46054a2c35c9",
+    "object_id": "ep_a914b7463da0267f",
+    "relation_type": "precedes",
+    "reason": "徐太浪托付徐正太等待并离开发生在KTV内，随后他离开并察觉环境异常，通过与陈老师的对话确认时间为1998年。根据事件序列，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dbfcc3d391d0",
+    "subject_id": "ep_4e3d46054a2c35c9",
+    "object_id": "ep_486aa1e58315f98f",
+    "relation_type": "precedes",
+    "reason": "徐太浪托付徐正太等待并离开的情节发生在船头静思之前，因为托付行为包含离开动作，而静思始于其后在船头的独处状态，叙事上存在明确的时间推进顺序。",
+    "source_documents": [
+      "scene_45__2_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fb37060f4a47",
+    "subject_id": "ep_4e3d46054a2c35c9",
+    "object_id": "ep_6b21aca769859416",
+    "relation_type": "precedes",
+    "reason": "徐太浪托付徐正太等待并离开发生在徐太浪遭突袭绑架之前，根据叙事顺序，徐太浪在离开前安排徐正太原地等待，随后在另一场景中被麻袋套头拖走，事件在时间线上连续且顺序明确。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b896ccd31eb1",
+    "subject_id": "ep_2bd4f0c2ee0a9663",
+    "object_id": "ep_f1a9196a0c8de379",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'分享家庭创伤与成长伤痛'（scene_38）发生在'徐太浪主动操办婚礼并延伸育儿请求'（scene_39）之前。因此，从叙事顺序看，客体情节在主体情节之前发生，支持'precedes'关系（object -> subject），但因关系为有向且要求主体->对象方向，此处主体情节并未在时间上先于客体，故不成立。然而，scene_38在scene_39之前，表明ep_f1a9196a0c8de379在ep_2bd4f0c2ee0a9663之前发生，因此若以主体为ep_2bd4f0c2ee0a9663、对象为ep_f1a9196a0c8de379，则主体并未先于对象。故正确方向应为对象先于主体，但'precedes'要求主体->对象方向，因此不能成立。综上，无支持的有向关系，输出NONE。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_13ceb6d10e89",
+    "subject_id": "ep_24caf4224f5140c6",
+    "object_id": "ep_4e3d46054a2c35c9",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'应对小花的坐姿质疑并询问正太行踪' 发生在 scene_35，而 '徐太浪托付徐正太等待并离开' 发生在 scene_36，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0b9389700ae2",
+    "subject_id": "ep_4e3d46054a2c35c9",
+    "object_id": "ep_33e9e2349f4b935f",
+    "relation_type": "precedes",
+    "reason": "徐太浪托付徐正太等待并离开（ep_4e3d46054a2c35c9）发生在徐太浪冲进徐正太家发现无人并开始搜寻（ep_33e9e2349f4b935f）之前，因为托付后徐太浪离开，随后才出现寻找徐正太的情节，叙事顺序明确。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e44b0d61cd07",
+    "subject_id": "ep_4e3d46054a2c35c9",
+    "object_id": "ep_3e27a1f95a8a7ffe",
+    "relation_type": "precedes",
+    "reason": "徐太浪托付徐正太等待并离开（ep_4e3d46054a2c35c9）包含徐太浪表达寻找母亲的愿望并离开的行动，随后静坐于小巷中观察人群（ep_3e27a1f95a8a7ffe）描述其在小巷中的停滞或沉思状态，叙事顺序上前者为后者的前置行动，具有明确的时间推进逻辑。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_edb06495483e",
+    "subject_id": "ep_4e3d46054a2c35c9",
+    "object_id": "ep_1457dd244727e011",
+    "relation_type": "precedes",
+    "reason": "徐太浪托付徐正太等待并离开（ep_4e3d46054a2c35c9）发生在其继续在城市中搜寻的过程中，而搜寻途中在小桥休息（ep_1457dd244727e011）是后续的间歇状态。根据叙事逻辑，离开托付后才进入持续搜寻及休息阶段，因此前者在时间顺序上先于后者。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7dc81c62c1bf",
+    "subject_id": "ep_33e9e2349f4b935f",
+    "object_id": "ep_079048f9811979d3",
+    "relation_type": "precedes",
+    "reason": "徐太浪寻找徐正太并搜查其住所发生在兄弟从火灾中逃生之前，因为搜寻行为是出于对徐正太下落的未知，而逃生后两人已重逢并确认安全，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ceb39c440f97",
+    "subject_id": "ep_33e9e2349f4b935f",
+    "object_id": "ep_3e27a1f95a8a7ffe",
+    "relation_type": "precedes",
+    "reason": "徐太浪先冲进徐正太家并奔跑搜寻（寻找徐正太并搜查其住所），随后静坐于小巷中观察人群（静坐于小巷中观察人群），表现出从主动搜寻到停滞沉思的状态转变，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_17ebb1788c1d",
+    "subject_id": "ep_33e9e2349f4b935f",
+    "object_id": "ep_5fe4f64a85c31bb9",
+    "relation_type": "precedes",
+    "reason": "徐太浪先冲进徐正太家中并四处奔跑搜寻，随后因疲惫在公交车内入睡，同时徐正太开始原地徘徊等待；两个情节共享scene_37的上下文，且搜寻行动的中断自然引出后续的睡眠与等待状态，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4e0b0e886e59",
+    "subject_id": "ep_33e9e2349f4b935f",
+    "object_id": "ep_85ae77fa614545de",
+    "relation_type": "precedes",
+    "reason": "根据描述，徐太浪先冲进徐正太家中并四处搜寻（ep_33e9e2349f4b935f），之后才找到徐正太并请求他避免惹事（ep_85ae77fa614545de）。在叙事顺序上，寻找行为发生在劝说之前，且related_events中的scene_37早于scene_39，支持该时间顺序。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a9b34957c886",
+    "subject_id": "ep_33e9e2349f4b935f",
+    "object_id": "ep_1457dd244727e011",
+    "relation_type": "precedes",
+    "reason": "徐太浪冲进徐正太家发现无人后在大街小巷奔跑搜寻，构成‘寻找徐正太并搜查其住所’情节；随后在搜寻过程中途经小桥短暂休息并看到飞机飞过，属于‘在城市中继续搜寻并短暂休息’情节。两个情节共享持续搜寻的上下文，且搜查住所和奔跑搜寻在叙事上早于中途休息的间歇状态，因此前者在话语顺序上先于后者。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e198e08bd735",
+    "subject_id": "ep_33e9e2349f4b935f",
+    "object_id": "ep_9f58d3988cba7ea8",
+    "relation_type": "precedes",
+    "reason": "根据描述，'寻找徐正太并搜查其住所' 发生在徐太浪冲进家中和大街小巷奔跑寻找的场景中（scene_37），而 '徐太浪发现徐正太家方向冒烟' 发生在 scene_39，且在对话尾声被注意到。scene_37 在叙事顺序上早于 scene_39，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_43ee378ddd18",
+    "subject_id": "ep_33e9e2349f4b935f",
+    "object_id": "ep_f16b9e9524bb2ac7",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，徐太浪首先需要找到徐正太并搜查其住所（ep_33e9e2349f4b935f），之后才能在录像厅场景中与徐正太互动并被其说服投资（ep_f16b9e9524bb2ac7）。因此，'寻找徐正太并搜查其住所'在叙事顺序上明确早于'展示录像厅优势并说服徐太浪投资'。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7067da0434bb",
+    "subject_id": "ep_33e9e2349f4b935f",
+    "object_id": "ep_c9d62776f3ec36e1",
+    "relation_type": "precedes",
+    "reason": "根据描述，'寻找徐正太并搜查其住所' 中徐太浪冲进徐正太家发现无人，并在大街小巷奔跑搜寻，表现出急切的寻找行为；而'共同呼唤木木并启动搜寻任务'则发生在找到徐正太后，二人共同行动并启动木木执行任务。因此，'寻找徐正太'这一情节在叙事顺序上早于'共同呼唤木木并启动搜寻任务'，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_504595c73480",
+    "subject_id": "ep_24caf4224f5140c6",
+    "object_id": "ep_33e9e2349f4b935f",
+    "relation_type": "precedes",
+    "reason": "徐太浪在得知正太已外出后，随即展开对其的搜寻。情节'应对小花的坐姿质疑并询问正太行踪'中包含询问正太去向的事件，直接引出后续'寻找徐正太并搜查其住所'的情节，叙事顺序明确，且时间上紧密衔接。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_46f1fb52adc2",
+    "subject_id": "ep_1457dd244727e011",
+    "object_id": "ep_9f58d3988cba7ea8",
+    "relation_type": "precedes",
+    "reason": "徐太浪在城市中继续搜寻并短暂休息发生在其发现徐正太家方向冒烟之前，根据叙事顺序，休息期间抬头看到飞机飞过是搜寻过程中的间歇状态，而发现冒烟标志着后续的情境突变，因此该情节在时间顺序上先于后者。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f5ac36420fdd",
+    "subject_id": "ep_1457dd244727e011",
+    "object_id": "ep_5fe4f64a85c31bb9",
+    "relation_type": "precedes",
+    "reason": "徐太浪在小桥上短暂休息（ep_1457dd244727e011）后，因疲惫在公交车内入睡（ep_5fe4f64a85c31bb9），两个情节均发生在同一场景（scene_37），但休息行为在时间上先于入睡，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e31db25ea1b6",
+    "subject_id": "ep_33e9e2349f4b935f",
+    "object_id": "ep_c2932f9d76f471ac",
+    "relation_type": "precedes",
+    "reason": "主体情节'寻找徐正太并搜查其住所'描述了徐太浪主动寻找徐正太的过程，发生在大街小巷中奔跑搜寻的阶段；客体情节'应对徐太浪出现引发的关系危机'则发生在警察介入、两人被当面质问关系的场景。根据叙事逻辑，必须先找到徐正太，才能发生后续的身份对质与关系追问，因此主体情节在时间顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b875d3e52149",
+    "subject_id": "ep_33e9e2349f4b935f",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "causes",
+    "reason": "主体情节'寻找徐正太并搜查其住所'中徐太浪的急切搜寻行为直接导致了客体情节'揭露考验真相并确认徐太浪通过品性测试'的发生，因为该搜寻是品性考验的关键部分，其行为表现被用来评估忠诚与反应，文本明确指出该情境为正太帮设计的考验，且小花和徐正太随后确认其通过，表明搜寻行为是触发揭露和确认的直接原因。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_99c0cda11733",
+    "subject_id": "ep_1457dd244727e011",
+    "object_id": "ep_3e27a1f95a8a7ffe",
+    "relation_type": "contrasts_with",
+    "reason": "徐太浪在小桥上短暂休息时抬头看到飞机飞过，体现搜寻过程中的间歇状态；随后静坐于小巷中观察人群，表现出搜寻暂停后的停滞或沉思状态。两个情节通过不同形式的‘暂停’形成状态上的并置与对比：前者是动态搜寻中的短暂停顿并伴有外部刺激（飞机飞过），后者是主动静止并观察人群，体现内省或停滞。这种动与静、外在观察与内在沉思的差异构成基调和状态上的对比。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_111da784df00",
+    "subject_id": "ep_5fe4f64a85c31bb9",
+    "object_id": "ep_9f58d3988cba7ea8",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件描述，徐太浪在公交车内入睡并中断搜寻（ep_5fe4f64a85c31bb9）发生在徐太浪发现徐正太家方向冒烟（ep_9f58d3988cba7ea8）之前，后者出现在后续场景（scene_39），且前者处于scene_37，时间顺序明确支持precedes关系。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9bcbca1d8763",
+    "subject_id": "ep_6b21aca769859416",
+    "object_id": "ep_13d27741414592a2",
+    "relation_type": "precedes",
+    "reason": "徐太浪遭突袭绑架发生在黄志强揭露其房地产野心并提出收买之前，因为绑架是使徐太浪和徐正太处于被控制状态的前提，随后黄志强才在该情境中阐明其计划并试图招募他们。叙事顺序上，绑架事件为后续招揽情节提供了必要的情境基础。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c8d354a89a9f",
+    "subject_id": "ep_9f58d3988cba7ea8",
+    "object_id": "ep_079048f9811979d3",
+    "relation_type": "precedes",
+    "reason": "徐太浪发现徐正太家方向冒烟（ep_9f58d3988cba7ea8）是危机的开端，发生在火灾发生前，而兄弟逃生并确认彼此安全（ep_079048f9811979d3）是火灾后的结果。根据叙事顺序，发现冒烟在时间上先于逃生事件。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_62c6bc94d204",
+    "subject_id": "ep_9f58d3988cba7ea8",
+    "object_id": "ep_a14763736381744a",
+    "relation_type": "causes",
+    "reason": "徐太浪发现徐正太家方向冒烟这一事件引发了后续火场救援情节，而徐正太冲进火场抢救父亲遗像的行为直接导致徐太浪对其表达敬意。因此，发现冒烟作为危机起点，间接但明确地促发了敬意表达的情节，文本中存在因果链支持。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_13b4ff691c12",
+    "subject_id": "ep_a14763736381744a",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述徐太浪因徐正太抢救遗像而表达敬意，强化兄弟情感；客体情节揭示该行为是正太帮设计的品性考验，并通过徐正太现身和解释来说明徐太浪通过考验。客体情节提供了主体情节中行为背后的动机和背景，扩展并解释了徐太浪表达敬意的上下文，因此客体情节对主体情节进行了进一步阐述。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6db6aea78e25",
+    "subject_id": "ep_0e9a6492fcb521f9",
+    "object_id": "ep_b3d364ea8c9f0fe7",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，'蝙蝠侠介入制服小偷' 发生在场景10，而 '徐太浪带六一离开现场' 发生在场景43，场景编号的顺序表明前者在叙事时间上早于后者，因此支持 'precedes' 关系。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_73b175f0099f",
+    "subject_id": "ep_85ae77fa614545de",
+    "object_id": "ep_20d07913cf4db066",
+    "relation_type": "precedes",
+    "reason": "根据叙事逻辑，徐太浪请求徐正太避免惹事的情节（doc_37, scene_39）发生在小花揭示怀孕以劝阻复仇之前，因为前者是预防性约束行为，后者是更进一步的危机干预措施。文档时序（doc_37 在 doc_44 之前）和情节递进关系支持该顺序。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_36f60964fcd0",
+    "subject_id": "ep_9ccce371670389d9",
+    "object_id": "ep_2bd4f0c2ee0a9663",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'徐太浪计划介入并邀约小花' 发生在 scene_17，而 '徐太浪主动操办婚礼并延伸育儿请求' 发生在 scene_39，scene_17 在叙事顺序上早于 scene_39，因此前者在时间顺序上先于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_50724cd1d856",
+    "subject_id": "ep_2bd4f0c2ee0a9663",
+    "object_id": "ep_e99d3797e56c0c37",
+    "relation_type": "elaborates",
+    "reason": "情节'徐太浪主动操办婚礼并延伸育儿请求'中，徐太浪提出不要踹孩子的脸，直接呼应其童年遭受父亲暴力的经历，该请求的情感动机由'揭示童年父子冲突'这一情节提供背景和解释。后者通过回忆片段揭示了徐太浪创伤的根源，从而扩展和深化了前者的情感与行为动因，构成明确的背景补充关系。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2f1031858aa3",
+    "subject_id": "ep_a7ac0f2b34db4e93",
+    "object_id": "ep_e99d3797e56c0c37",
+    "relation_type": "elaborates",
+    "reason": "情节'徐正太破戒饮酒与父子情绪共鸣'发生在当前时间线中，展现父子当下的情感和解；而'揭示童年父子冲突'通过回忆片段提供童年时期父子关系压抑与冲突的背景，解释当前情感张力的根源。后者为前者的情感状态提供了历史解释和深层动因，构成背景扩展关系。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b7330a1f8c09",
+    "subject_id": "ep_20d07913cf4db066",
+    "object_id": "ep_9f58d3988cba7ea8",
+    "relation_type": "precedes",
+    "reason": "根据描述，'揭示怀孕以劝阻复仇'发生在对话过程中，而'徐太浪发现徐正太家方向冒烟'明确发生在'对话尾声'，表明后者在叙事顺序上紧随前者之后。因此，主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a144d097b9b1",
+    "subject_id": "ep_2e0f9a29289e6377",
+    "object_id": "ep_9f58d3988cba7ea8",
+    "relation_type": "precedes",
+    "reason": "根据描述，'揭示团伙的使命与目标'发生在对话过程中，而'徐太浪发现徐正太家方向冒烟'明确发生在'对话尾声'，表明后者在叙事顺序上紧随前者之后。因此，主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_25872bda6c72",
+    "subject_id": "ep_55bf1f67d39bca1e",
+    "object_id": "ep_9f58d3988cba7ea8",
+    "relation_type": "precedes",
+    "reason": "根据描述，'进入小巷讨论感情观并准备如厕' 发生在对话过程中，而 '徐太浪发现徐正太家方向冒烟' 明确发生在对话尾声，且标志着情境突变。因此，前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_369110ebca58",
+    "subject_id": "ep_6d6d2d7781ff8800",
+    "object_id": "ep_9f58d3988cba7ea8",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节描述，'透露经营计划并引发家庭反思'（doc_24）发生在'徐太浪发现徐正太家方向冒烟'（doc_37）之前，且后者被描述为'在对话尾声'发生，表明时间上的先后顺序。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9db6cb55e0ec",
+    "subject_id": "ep_3aab6a2755f65f06",
+    "object_id": "ep_9f58d3988cba7ea8",
+    "relation_type": "precedes",
+    "reason": "根据描述，'反驳投资建议并坚持影院未来' 发生在对话过程中，而 '徐太浪发现徐正太家方向冒烟' 明确发生在'对话尾声'，表明后者在叙事顺序上紧随前者之后，因此主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7527abe92bb3",
+    "subject_id": "ep_7a908701078b78fe",
+    "object_id": "ep_9f58d3988cba7ea8",
+    "relation_type": "precedes",
+    "reason": "根据描述，'向小马敬酒并探讨通讯技术的未来' 发生在对话过程中（scene_34），而 '徐太浪发现徐正太家方向冒烟' 发生在 '对话尾声' 且位于 scene_39，表明前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0e80459bb852",
+    "subject_id": "ep_96504acd6cf46eee",
+    "object_id": "ep_9f58d3988cba7ea8",
+    "relation_type": "precedes",
+    "reason": "根据描述，'营造暧昧氛围并选定《白蛇传》节目' 发生在 scene_35，而 '徐太浪发现徐正太家方向冒烟' 发生在 scene_39，scene_35 在叙事顺序上早于 scene_39，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_27f1800f6f87",
+    "subject_id": "ep_6322352034571ebf",
+    "object_id": "ep_9f58d3988cba7ea8",
+    "relation_type": "precedes",
+    "reason": "根据描述，'应对金所长对家庭细节的核查' 发生在对话过程中，而 '徐太浪发现徐正太家方向冒烟' 明确发生在 '对话尾声'，表明后者在叙事顺序上紧随前者之后。因此，主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2436b2ef8a11",
+    "subject_id": "ep_4c46092b643c0878",
+    "object_id": "ep_9f58d3988cba7ea8",
+    "relation_type": "precedes",
+    "reason": "根据描述，'质疑并确认父亲与小花的婚事' 发生在对话过程中（scene_17），而 '徐太浪发现徐正太家方向冒烟' 明确发生在 '对话尾声'，表明该事件在叙事顺序上紧随其后。因此，主体情节在时间上先于客体情节，构成直接的先后关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_08ffb3c08ccd",
+    "subject_id": "ep_24caf4224f5140c6",
+    "object_id": "ep_9f58d3988cba7ea8",
+    "relation_type": "precedes",
+    "reason": "根据描述，'应对小花的坐姿质疑并询问正太行踪' 发生在对话过程中（scene_35），而 '徐太浪发现徐正太家方向冒烟' 发生在对话尾声（scene_39），表明前者在叙事顺序上早于后者。文本明确指出后者发生在'对话尾声'，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9f5c06cd03ae",
+    "subject_id": "ep_5ccd39f984e68a62",
+    "object_id": "ep_b70365a380a6c392",
+    "relation_type": "contrasts_with",
+    "reason": "庆祝徐太浪赢得比赛展现胜利与团队团结，而遭遇赛车生涯的失败与抛弃则呈现职业挫折与团队决裂，两者在结果和情感基调上形成明显逆转与对比。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3e1fba772938",
+    "subject_id": "ep_5ccd39f984e68a62",
+    "object_id": "ep_c3c6f3f4bd912134",
+    "relation_type": "precedes",
+    "reason": "庆祝徐太浪赢得比赛的情节发生在经历致命车祸并苏醒之前，根据描述中‘在赢得比赛后，徐太浪驾车遭遇火车撞击’的明确时间顺序，支持‘庆祝胜利’在前，‘车祸并苏醒’在后。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d448e99038a6",
+    "subject_id": "ep_735be6a4109cef2b",
+    "object_id": "ep_c3c6f3f4bd912134",
+    "relation_type": "precedes",
+    "reason": "‘启动赛后采访并感谢团队’发生在比赛刚结束时，而‘经历致命车祸并苏醒’发生在赛后驾车过程中遭遇火车撞击，随后在医院苏醒。根据叙事顺序，赛后采访情节在车祸及苏醒情节之前，且两个情节分别位于不同文档（doc_3 vs doc_8）中，符合时间上的先后顺序。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_06b9b9dfd24b",
+    "subject_id": "ep_5ccd39f984e68a62",
+    "object_id": "ep_a6557539d1740bbf",
+    "relation_type": "elaborates",
+    "reason": "‘庆祝徐太浪赢得比赛’描述了比赛结束后的即时庆祝场景，而‘赢得分站冠军并告慰母亲’包含了这一庆祝行为，并进一步扩展到将奖杯献于母亲墓前的情感归还，表明后者在叙事上整合并深化了前者的意义，提供了更完整的背景和动机，因此前者为后者提供了可被扩展的基础，支持elaborates关系（庆祝事件作为更大情节的一部分被进一步阐释）。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_80e5dceffb55",
+    "subject_id": "ep_735be6a4109cef2b",
+    "object_id": "ep_b70365a380a6c392",
+    "relation_type": "contrasts_with",
+    "reason": "‘启动赛后采访并感谢团队’展现徐太浪在赛车事业中的成功时刻，受到团队支持与公众认可；而‘遭遇赛车生涯的失败与抛弃’则描绘其因翻车被领航员责骂并断绝合作，象征职业低谷。两个情节在成就与失败、团结与决裂之间形成强烈对比，构成叙事上的逆转与情感反差。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e6acf6a9ba2d",
+    "subject_id": "ep_32f55ef54f992bbd",
+    "object_id": "ep_6322352034571ebf",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均围绕徐太浪与父亲的情感关系展开，但呈现截然不同的态度：一个是在公开场合感性致谢并揭示母亲早逝的伤痛，体现情感释放；另一个是在审讯情境中声称对父亲之死毫无悲伤，并以冷静细节通过核查，被斥为不孝。两者在情感表达和情境基调上形成明显对比，构成情感外露与情感压抑的并置。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ebf9e0104ab4",
+    "subject_id": "ep_32f55ef54f992bbd",
+    "object_id": "ep_adca5b419cfed726",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '向父亲致谢并揭示家庭情感' 展现徐太浪在公开场合与父亲建立情感联系并直面母亲早逝的事实，而情节 '追寻母亲形象与家庭缺失' 则通过模糊的结婚照象征性地表达他对母爱的渴望与家庭完整性缺失。两者在情感表达方式上形成并置：前者是现实中的情感释放与和解，后者是私密的、象征性的缺失体验，共同强调了家庭情感的复杂性与断裂，构成基调与状态上的对比。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b67c797c194b",
+    "subject_id": "ep_9ccce371670389d9",
+    "object_id": "ep_7a7833ff46eb0cc7",
+    "relation_type": "precedes",
+    "reason": "徐太浪计划介入并邀约小花（ep_9ccce371670389d9）发生在家庭晚餐聚会场景（scene_17），而徐太浪亲近胎儿引发冲突（ep_7a7833ff46eb0cc7）发生在scene_46，scene_17在叙事顺序上早于scene_46，因此该关系为precedes。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e8f8cc4b84b0",
+    "subject_id": "ep_6b21aca769859416",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "elaborates",
+    "reason": "‘揭露考验真相并确认徐太浪通过品性测试’解释了‘徐太浪遭突袭绑架’的真实性质，揭示绑架是正太帮设计的品性考验，提供了该事件的背景和目的，从而扩展并澄清了先前情节的含义。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a79fe8362ec8",
+    "subject_id": "ep_e2b5e629dd6d8841",
+    "object_id": "ep_e99d3797e56c0c37",
+    "relation_type": "elaborates",
+    "reason": "情节'质问盗窃并劝其改过'中徐正太对徐太浪的道德引导，通过揭示其童年与父亲的冲突背景得到进一步解释，表明当前行为可能受到过去父子关系的影响，因此后者为前者提供了心理和背景层面的扩展。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_9352be04f050",
+    "subject_id": "ep_42cb6387f8838c8f",
+    "object_id": "ep_9ccce371670389d9",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在家庭晚餐聚会之前，徐太浪在表达寻母渴望并转移话题至婚姻后，才计划介入父亲婚事并邀约小花；相关事件的时间顺序和场景编号（scene_14 在 scene_17 之前）支持该叙事时序。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_05816ad7c2c8",
+    "subject_id": "ep_42cb6387f8838c8f",
+    "object_id": "ep_c8478b93cf60a43a",
+    "relation_type": "precedes",
+    "reason": "主体情节'表达寻母渴望并转移话题至婚姻'发生在场景scene_14，而客体情节'揭露考验真相并确认徐太浪通过品性测试'发生在场景scene_35，scene_14在叙事顺序上早于scene_35，因此该关系为precedes。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c3b2319b7d8f",
+    "subject_id": "ep_42cb6387f8838c8f",
+    "object_id": "ep_4c46092b643c0878",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在scene_14，涉及徐太浪表达寻母渴望并转移话题至徐正太的婚姻状况；客体情节发生在scene_17，围绕徐太浪得知父亲与小花婚事后的反应。scene_14在叙事顺序上早于scene_17，且主体中询问婚姻状况直接引出客体中婚事的具体揭示，构成话语上的先后顺序。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0053cfdb2717",
+    "subject_id": "ep_0ef6e73529e90b4d",
+    "object_id": "ep_e56eebdf15022768",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节描述徐太浪初恋从萌芽到被拒绝的失败情感经历，第二个情节描述徐正太成功求婚小花的即兴但圆满的求爱过程；两者在情感结果上形成鲜明对比，且第二个情节的描述中明确提到‘形成与六一失败表白的鲜明对比’，暗示了叙事上对失败与成功爱情结局的并置对比。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_213fddc95257",
+    "subject_id": "ep_71ab248d4a5a2fd6",
+    "object_id": "ep_a914b7463da0267f",
+    "relation_type": "precedes",
+    "reason": "兄弟二人在KTV共度时光发生在徐太浪离开KTV之后察觉环境异常并确认时间错位之前。根据描述，徐太浪是在离开KTV后才开始察觉穿越事实，因此前一情节在叙事顺序上明确早于后一情节。",
+    "source_documents": [
+      "scene_45__2_part_1",
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2f0ee1ea3028",
+    "subject_id": "ep_c182972bda4f98ea",
+    "object_id": "ep_e56eebdf15022768",
+    "relation_type": "contrasts_with",
+    "reason": "‘体验成年后的亲密关系空虚’描绘了徐太浪在成年后亲密关系中的孤独与情感疏离，而‘徐正太向小花求婚并获接受’则展现了一段真挚且成功的情感联结。两者在情感状态和关系结果上形成鲜明对比：前者是冷漠、疏离的短暂体验，后者是热烈、承诺导向的亲密互动。这种并置强调了不同代际或情境下亲密关系的差异，构成对情感联结状态的对比。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_93096c7186a3",
+    "subject_id": "ep_71b1f8122a4d6051",
+    "object_id": "ep_a914b7463da0267f",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，徐太浪在被教练彻底否定赛车前途后离开KTV，随后才察觉环境异常并确认时间错位，因此‘被教练彻底否定赛车前途’在话语顺序上早于‘确认时间错位并接受穿越现实’。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2",
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3762365173da",
+    "subject_id": "ep_d69f3437829d30d3",
+    "object_id": "ep_ff4b16530a65fe22",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节中，徐太浪询问张素贞引发的是轻松的误会，作为观影中的小插曲；而第二个情节中，'张素贞'这一名字的出现却触发了徐太浪强烈的情绪反应和退缩行为。两个情节围绕同一名字'张素贞'形成情感基调与人物反应的鲜明对比：前者是无害的混淆，后者是深层心理触动的体现，构成叙事上的对比关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_894848025c9d",
+    "subject_id": "ep_a914b7463da0267f",
+    "object_id": "ep_c2932f9d76f471ac",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，徐太浪在确认自己穿越到1998年后，才与父亲徐正太相遇并引发身份危机。相关事件的时间顺序显示，'确认时间错位并接受穿越现实'（scene_10）发生在'应对徐太浪出现引发的关系危机'（scene_13）之前，且两情节分别位于文档doc_9和doc_11，支持叙事上的先后顺序。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2",
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1ba5c367e2f7",
+    "subject_id": "ep_a914b7463da0267f",
+    "object_id": "ep_6322352034571ebf",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，徐太浪在确认时间错位并接受穿越现实（ep_a914b7463da0267f）之后，才进入与金所长对家庭细节核查的对峙情节（ep_6322352034571ebf）。相关事件的时间线显示，穿越确认发生在KTV外的街道和小巷中（scene_10），而家庭细节核查发生在后续场景（scene_13），因此前者在话语顺序上明确早于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cf96e910536b",
+    "subject_id": "ep_065644456672566c",
+    "object_id": "ep_160d6ccd100931de",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节展现徐太浪在履行责任时遭遇失败并被父亲否定，体现其被动承受与挫败；第二个情节中他主动追捕小偷并在恐惧中重拾勇气，体现主动面对与成长。两者在人物状态和结果上形成明显对比：前者是父权压制下的失败循环，后者是自我觉醒后的勇气重建。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2",
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_c2d5884a51da",
+    "subject_id": "ep_160d6ccd100931de",
+    "object_id": "ep_9986d152b7c15a62",
+    "relation_type": "precedes",
+    "reason": "根据描述，徐太浪在小巷中追捕小偷并重拾勇气的情节发生在蝙蝠侠揭露身份与警察介入之前。related_events 显示两个情节均发生在 scene_10，但追捕小偷和重获勇气的事件序列（如小偷持刀威胁、徐太浪转身面对）在逻辑和叙事顺序上先于蝙蝠侠摘下头盔、警察赶到等事件，因此 ep_160d6ccd100931de 在叙事时间上早于 ep_9986d152b7c15a62。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_af33e559c2ff",
+    "subject_id": "ep_58e19ddcd00aecfb",
+    "object_id": "ep_9986d152b7c15a62",
+    "relation_type": "precedes",
+    "reason": "根据描述，'摩托车突现打断对峙'发生在徐太浪与小偷对峙的时刻，而'揭露身份与警察介入'涉及蝙蝠侠制服小偷后摘下头盔及警察到场等后续动作。两个情节共享scene_10的事件时序，且'打断对峙'为冲突中断阶段，'揭露身份'为冲突解决及后续阶段，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6b8dd0a73264",
+    "subject_id": "ep_9986d152b7c15a62",
+    "object_id": "ep_e99d3797e56c0c37",
+    "relation_type": "elaborates",
+    "reason": "情节'揭露身份与警察介入'中蝙蝠侠被揭示为徐太浪的父亲并引发情感冲击，而'揭示童年父子冲突'通过回忆片段提供徐太浪与父亲过去紧张关系的背景，扩展了当前情节中父子关系张力的根源，构成对主体情节的情感与历史补充。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_15092c76ea6d",
+    "subject_id": "ep_9986d152b7c15a62",
+    "object_id": "ep_c2932f9d76f471ac",
+    "relation_type": "precedes",
+    "reason": "情节 '揭露身份与警察介入' 发生在蝙蝠侠与徐太浪对峙并离开现场时，包含警察到场但未控制局势；后续情节 '应对徐太浪出现引发的关系危机' 发生在警察将徐太浪带至徐正太面前并追问关系，明显在前者之后展开。两个情节在叙事顺序上连续，且涉及同一组人物在相近场景中的延续互动，支持前者在时间上先于后者。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2",
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1a19d6767adc",
+    "subject_id": "ep_2ce0a9ce2a0e2715",
+    "object_id": "ep_486aa1e58315f98f",
+    "relation_type": "contrasts_with",
+    "reason": "六一在房顶呼喊表达情绪，徐正太和徐太浪在下方碰杯，而后续徐太浪独自在船头静思，表现出孤独与沉思，两个情节在情感状态和社交情境上形成对比：前者是外放的情感呼应，后者是内敛的孤独沉思，构成情感基调上的对称对比。",
+    "source_documents": [
+      "scene_45__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_375a14fd3445",
+    "subject_id": "ep_71ab248d4a5a2fd6",
+    "object_id": "ep_c182972bda4f98ea",
+    "relation_type": "contrasts_with",
+    "reason": "兄弟二人在KTV共度时光体现亲密情感联结，而徐太浪在按摩店的经历揭示成年后的孤独与情感疏离，两者在情感状态和人际关系质量上形成明显对比。",
+    "source_documents": [
+      "scene_45__2_part_1",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_06a42a92101e",
+    "subject_id": "ep_18aff0806d4018e2",
+    "object_id": "ep_adca5b419cfed726",
+    "relation_type": "contrasts_with",
+    "reason": "展现夫妻亲密互动凸显家庭中的情感联结，而追寻母亲形象与家庭缺失则揭示家庭关系中的空缺与渴望，两者在情感状态和家庭完整性上形成对比。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_29a8d648e468",
+    "subject_id": "ep_c2932f9d76f471ac",
+    "object_id": "ep_e99d3797e56c0c37",
+    "relation_type": "elaborates",
+    "reason": "情节'应对徐太浪出现引发的关系危机'展现当前父子身份伪装的紧张互动，而'揭示童年父子冲突'通过回忆提供两人关系的历史背景，解释当前互动的情感张力。后者为前者中人物行为的动机和情感复杂性提供深层解释，构成背景扩展关系。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_960260bfeadc",
+    "subject_id": "ep_6322352034571ebf",
+    "object_id": "ep_e99d3797e56c0c37",
+    "relation_type": "elaborates",
+    "reason": "情节'应对金所长对家庭细节的核查'中，徐太浪对家庭物品的准确描述和情感冷漠可能暗示其与父亲关系的复杂背景，而'揭示童年父子冲突'通过回忆片段直接展示其童年时期与父亲的紧张关系，为前者的情感态度和行为提供心理与历史背景，构成对主体情节的深层解释。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_3a45a8f93e3a",
+    "subject_id": "ep_888d07fa9076001b",
+    "object_id": "ep_e99d3797e56c0c37",
+    "relation_type": "elaborates",
+    "reason": "情节'推进亲密接触并建立情感共鸣'中，徐太浪回应小花对父爱缺失的伤感时，提及自己也曾不喜欢父亲，这一对话直接引用并扩展了'揭示童年父子冲突'中的经历，提供了情感背景以深化当前互动的理解。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b532c6079a41",
+    "subject_id": "ep_c182972bda4f98ea",
+    "object_id": "ep_ed6596e636e49ffe",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节描绘徐太浪在成年后亲密关系中的空虚与情感疏离，第二个情节展示他在面对小花亲密邀请时虽有身体接近但内心产生怀疑并决心解决她；两者在情感状态和亲密互动的动机上形成对比：前者是被动接受与孤独体验，后者是主动接近但伴随警惕与目的性，构成情感冷漠与潜在情感联结之间的张力。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_a28cecf9e465",
+    "subject_id": "ep_c182972bda4f98ea",
+    "object_id": "ep_ff4b16530a65fe22",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节分别描绘了徐太浪在成年后亲密关系中的情感疏离与在婚前亲密时刻因名字唤起记忆而突然退缩，二者在情感基调上形成对比：前者是麻木的空虚，后者是强烈的情感触发与回避，揭示了他对深层情感连接的矛盾心理。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_2b920f3cb738",
+    "subject_id": "ep_c8478b93cf60a43a",
+    "object_id": "ep_e99d3797e56c0c37",
+    "relation_type": "elaborates",
+    "reason": "揭露考验真相并确认徐太浪通过品性测试这一情节中，徐太浪的情绪激烈反应和对父亲行为正当性的质问，与揭示童年父子冲突中展现的长期压抑和父权控制形成背景呼应；后者通过回忆片段为前者的情感强度和父子张力提供了深层心理动因，构成对当前情节行为动机的解释与扩展。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b68ccf147fed",
+    "subject_id": "ep_888d07fa9076001b",
+    "object_id": "ep_c182972bda4f98ea",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '推进亲密接触并建立情感共鸣' 描绘了小花与徐太浪之间真实的情感连接和亲密互动，而情节 '体验成年后的亲密关系空虚' 则展示了徐太浪在成年后通过商业服务体验的孤独与情感疏离。两者在情感深度和人际关系质量上形成明显对比，一个体现真诚的情感共鸣，另一个揭示亲密关系的空洞，构成对亲密关系不同状态的并置对照。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_d386a401afb4",
+    "subject_id": "ep_c182972bda4f98ea",
+    "object_id": "ep_e99d3797e56c0c37",
+    "relation_type": "contrasts_with",
+    "reason": "体验成年后的亲密关系空虚描绘了徐太浪在成人世界中的情感疏离，而揭示童年父子冲突则展现了其早年家庭关系中的压抑与暴力。两者通过成年孤独与童年创伤的并置，形成情感状态上的对比，暗示情感模式的延续与逆转，构成叙事上的对照关系。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_f8ffc1f6d3fc",
+    "subject_id": "ep_adca5b419cfed726",
+    "object_id": "ep_c182972bda4f98ea",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节分别描绘了徐太浪对母爱的象征性追寻与成年后亲密关系中的情感疏离，前者聚焦家庭情感缺失的内在渴望，后者展现成人世界中实际亲密互动的空洞，二者在情感诉求与现实体验之间形成基调上的对比。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_3775c468008a",
+    "subject_id": "ep_0ef6e73529e90b4d",
+    "object_id": "ep_c182972bda4f98ea",
+    "relation_type": "contrasts_with",
+    "reason": "初恋的萌芽与终结展现青春期情感的纯真与创伤，而成年后的亲密关系空虚则揭示成人世界中情感的疏离与机械化；两个情节通过情感状态和关系质量的对立形成鲜明对比，构成对徐太浪情感成长轨迹的反衬。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dbbeb519a768",
+    "subject_id": "ep_a6557539d1740bbf",
+    "object_id": "ep_e99d3797e56c0c37",
+    "relation_type": "contrasts_with",
+    "reason": "情节'赢得分站冠军并告慰母亲'展现徐太浪通过个人成就实现情感补偿与目标达成，而'揭示童年父子冲突'则呈现其童年时期遭受父权压抑与暴力的创伤经历。两者在情感基调（成就 vs 创伤）、家庭关系状态（和解象征 vs 冲突根源）上形成明显对比，构成叙事上的逆转与张力，支持'contrasts_with'关系。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_b5ae584ca538",
+    "subject_id": "ep_b70365a380a6c392",
+    "object_id": "ep_e99d3797e56c0c37",
+    "relation_type": "elaborates",
+    "reason": "情节'遭遇赛车生涯的失败与抛弃'发生在当前叙事时间线，而'揭示童年父子冲突'通过回忆片段提供徐太浪成长背景，解释其与权威关系紧张、情感压抑的根源，从而为他在赛车生涯中遭遇挫折时的反应和处境提供心理与情感背景。后者并非直接导致前者，也未在时间上明确先后，但通过补充人物动机与性格成因，扩展了前者的理解维度，构成背景性阐释关系。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_d4c3fabc0341",
+    "subject_id": "ep_b70365a380a6c392",
+    "object_id": "ep_d2d7fccf9b71609a",
+    "relation_type": "precedes",
+    "reason": "徐太浪在赛车比赛中翻车并被领航员抛弃后，才醉酒摔倒并被按摩女照顾，随后获得新机会。两个情节在叙述顺序上紧密相连，且事件链条显示职业失败在先，重建联系与新机遇在后，时间顺序明确。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_12910d6ddf0e",
+    "subject_id": "ep_71b1f8122a4d6051",
+    "object_id": "ep_d2d7fccf9b71609a",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，徐太浪被教练彻底否定赛车前途后，才在情绪低谷中醉酒摔倒并被按摩女照顾，进而开启新机遇。事件序列显示前者在时间上明确早于后者，构成直接的前后顺序。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a093fa811a93",
+    "subject_id": "ep_a6557539d1740bbf",
+    "object_id": "ep_adca5b419cfed726",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '赢得分站冠军并告慰母亲' 展现徐太浪通过成就实现情感补偿，具有完成性和外显的纪念行动；而 '追寻母亲形象与家庭缺失' 则呈现他对母爱的未满足渴望与记忆的模糊性，体现内在的缺失感。两者在情感状态（满足 vs. 缺失）和叙事基调（成就完成 vs. 象征性追寻）上形成并置对比，构成情感结果上的逆转与张力。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_46dffc2b2914",
+    "subject_id": "ep_a6557539d1740bbf",
+    "object_id": "ep_b70365a380a6c392",
+    "relation_type": "contrasts_with",
+    "reason": "情节'赢得分站冠军并告慰母亲'呈现徐太浪在赛车事业上的成功与情感救赎，而'遭遇赛车生涯的失败与抛弃'则展现其职业挫折与被团队遗弃的低谷，两者在成就与失败、接纳与排斥之间形成强烈对比，构成叙事上的逆转与情感反差。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3bb487946a4b",
+    "subject_id": "ep_065644456672566c",
+    "object_id": "ep_d2d7fccf9b71609a",
+    "relation_type": "contrasts_with",
+    "reason": "情节'接受父亲安排的工作并遭遇失败'展现徐太浪在父权结构下承担责任却失败并遭受否定，而'重建与按摩女的联系并开启新机遇'则展现他在非家庭关系中从低谷获得认可并获得新机会，两个情节在人物处境、社会关系和结果上形成明显逆转与对比。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2051b97d2eae",
+    "subject_id": "ep_a6557539d1740bbf",
+    "object_id": "ep_c3c6f3f4bd912134",
+    "relation_type": "precedes",
+    "reason": "根据描述，徐太浪先赢得分站冠军并告慰母亲，随后在驾车途中遭遇致命车祸并最终在医院苏醒。相关事件在时间顺序上明确：赢得比赛和献奖杯发生在车祸之前，构成叙事上的直接先后关系。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_deb6f7954c8c",
+    "subject_id": "ep_b70365a380a6c392",
+    "object_id": "ep_c3c6f3f4bd912134",
+    "relation_type": "precedes",
+    "reason": "根据描述，徐太浪在赛车比赛中翻车并被领航员抛弃（ep_b70365a380a6c392）发生在赢得比赛之后的致命车祸之前（ep_c3c6f3f4bd912134），且两个情节均发生在同一文档场景中（scene_8__2），但叙事逻辑上职业失败在前，车祸苏醒在后，构成明确的时间顺序。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b3393de3bd73",
+    "subject_id": "ep_4a40d6f66def948a",
+    "object_id": "ep_6413ae3f67b5daf7",
+    "relation_type": "causes",
+    "reason": "第一个情节中六一在冲突中受伤，直接促成了他在第二个情节中闯入办公室质问黄志强的行为，文本中六一质问的内容与其兄弟被伤相关，暗示其受伤事件是驱动该行动的直接原因。",
+    "source_documents": [
+      "scene_45__2_part_1",
+      "scene_51_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_79776eb99999",
+    "subject_id": "ep_065644456672566c",
+    "object_id": "ep_a6557539d1740bbf",
+    "relation_type": "contrasts_with",
+    "reason": "‘接受父亲安排的工作并遭遇失败’展现徐太浪在现实责任中的挫败与父权否定，而‘赢得分站冠军并告慰母亲’则体现他通过个人努力实现荣誉与情感补偿的成功。两个情节在结果（失败 vs 成功）、情感基调（压抑 vs 升华）和关系指向（父权否定 vs 母性告慰）上形成明显对比，构成叙事上的逆转与并置。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_92e4afe4ee9f",
+    "subject_id": "ep_91dc0fbbccf9fd38",
+    "object_id": "ep_78f19644405cce0a",
+    "relation_type": "precedes",
+    "reason": "六一追寻自我价值的觉醒（ep_91dc0fbbccf9fd38）发生在其决定离开并立誓证明自己时，包含‘六一下楼离开’这一动作；而六一用麻绳从楼顶逃离（ep_78f19644405cce0a）是后续具体的逃脱实施。根据叙事逻辑，觉醒与离开的决心在先，实际的楼顶逃离行动在后，因此前者在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_859c15c2cb9c",
+    "subject_id": "ep_23e64f4b3c2746b7",
+    "object_id": "ep_91dc0fbbccf9fd38",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'六一情感爆发与集体告别'发生在scene_34，而'六一追寻自我价值的觉醒'发生在scene_36，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5d61b9bbf557",
+    "subject_id": "ep_23e64f4b3c2746b7",
+    "object_id": "ep_b1421149ebe3e44c",
+    "relation_type": "precedes",
+    "reason": "根据描述，'六一情感爆发与集体告别'发生在徐正太与六一完成台词表演后，而'六一报告小马离开并朗读残信'发生在之后，打断了此前的家庭对话场景，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a35d7556d8a7",
+    "subject_id": "ep_4200d5bc94e5d36b",
+    "object_id": "ep_b1421149ebe3e44c",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，'重申世界不变与必将改变的信念'发生在庆祝聚餐场景中，而'六一报告小马离开并朗读残信'明确打断了此前的家庭对话场景，表明后者在时间上紧随前者之后。因此，主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5cc0a301b9a2",
+    "subject_id": "ep_c8478b93cf60a43a",
+    "object_id": "ep_91dc0fbbccf9fd38",
+    "relation_type": "precedes",
+    "reason": "在'揭露考验真相并确认徐太浪通过品性测试'中，六一因被徐正太贬低而含泪离场，这一事件直接导致其后续在'六一追寻自我价值的觉醒'中因烟花声获得顿悟并立誓证明自己。两个情节共享六一的情绪转折与自我证明动机，且叙事上前者结束于六一离场，后者始于其顿悟，存在明确的时间顺序和情节推进。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dfb4ec41560f",
+    "subject_id": "ep_ad20f676825f5b0b",
+    "object_id": "ep_b1421149ebe3e44c",
+    "relation_type": "precedes",
+    "reason": "情节'三人干杯与小马悄然离别'中，小马在深夜众人入睡后悄然离开，直接导致后续情节'六一报告小马离开并朗读残信'中六一发现并通报小马的离开。叙事顺序上，小马的离开发生在前，报告和朗读信件发生在后，且后者明确依赖前者作为前提。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8c635cb87f38",
+    "subject_id": "ep_b557a77fcf0c1509",
+    "object_id": "ep_c1e76ef4b68345f1",
+    "relation_type": "precedes",
+    "reason": "处理意外走火恢复秩序发生在冲突场景中，而安抚妻子并结束当前场景标志着事件序列的情感收束与撤离，逻辑上前者在叙事顺序中早于后者，且两者属于同一事件序列的不同阶段，前者为冲突高潮处理，后者为冲突结束后的收尾。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_25_part_2",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7ab813229bdc",
+    "subject_id": "ep_384d1e4d3df587a5",
+    "object_id": "ep_2e453ea4e0047974",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'应对罗力突袭与地盘威胁'发生在scene_24，而'纠正越界提议并重申谈判原则'发生在scene_25，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_25_part_2",
+      "scene_24_part_1",
+      "scene_24_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0e6970d297f3",
+    "subject_id": "ep_636285567db86513",
+    "object_id": "ep_a20e222f8f94bd37",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_25，但根据描述，罗力先通过暴力手段压制极端提议以维持控制，随后表达对绑架策略的质疑并推动调整方向，叙事顺序上存在明确先后。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_25_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f34cecd56ed7",
+    "subject_id": "ep_a20e222f8f94bd37",
+    "object_id": "ep_be5d33bec5c6d05a",
+    "relation_type": "precedes",
+    "reason": "罗力质疑绑架策略并表达担忧发生在团伙重新聚焦可行目标之前，根据描述，先有对策略失败的评估，随后才有小弟提出唯一可行动目标并获罗力默许，构成明确的叙事顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_25_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_168fb4b63b8b",
+    "subject_id": "ep_a20e222f8f94bd37",
+    "object_id": "ep_2e453ea4e0047974",
+    "relation_type": "elaborates",
+    "reason": "质疑绑架策略并调整方向这一情节中，罗力表达对未绑到管理层的担忧，为纠正越界提议并重申谈判原则提供了动机背景，说明为何罗力需要在此后强调规则和体面，因此前者扩展了后者的决策背景。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_25_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_39c9e7a3b2cd",
+    "subject_id": "ep_636285567db86513",
+    "object_id": "ep_be5d33bec5c6d05a",
+    "relation_type": "precedes",
+    "reason": "在场景25中，罗力先通过暴力手段压制极端提议并强调不能杀人，随后小弟才指出剩余可行动目标，罗力以沉默表示认可。两个情节均发生在同一场景内，但事件顺序明确：压制极端提议发生在确认剩余目标之前，构成叙事上的先后关系。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_25_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4a0442839cf8",
+    "subject_id": "ep_4a5baf07fdbbd46d",
+    "object_id": "ep_e99d3797e56c0c37",
+    "relation_type": "elaborates",
+    "reason": "情节'父亲以沉默和动作回应儿子的控诉'发生在当前叙事层，而'揭示童年父子冲突'通过回忆片段提供童年背景，解释当前父子紧张关系的根源，从而扩展和深化了主体情节的情感与历史语境。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_8__2_part_1",
+      "scene_8__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_d47838df22b7",
+    "subject_id": "ep_4200d5bc94e5d36b",
+    "object_id": "ep_c5576126c670e637",
+    "relation_type": "precedes",
+    "reason": "主体情节中徐太浪告知小马不属于当前环境并预言其离开，发生在客体情节中小马实际告别并启程之前，叙事顺序明确，且前者为后者的铺垫提供了直接话语支持。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_45__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5d817aaa8b11",
+    "subject_id": "ep_3c4108813444a0f0",
+    "object_id": "ep_8b48a6d10f29a81a",
+    "relation_type": "precedes",
+    "reason": "在罗力喂饭过程中，小弟们围观并模仿咀嚼，其中一人调侃可能生出感情，打破了严肃氛围；随后罗力明确表示不杀人，小马立即表达感谢。叙事顺序上，手下引发紧张气氛发生在人质表达感激之前。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_25_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_034546505739",
+    "subject_id": "ep_4a5baf07fdbbd46d",
+    "object_id": "ep_76e1384ee1987a1e",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，父亲以沉默和动作回应儿子的控诉（ep_4a5baf07fdbbd46d）发生在徐太浪在小镇街道延续漂移动作（ep_76e1384ee1987a1e）之前，前者对应scene_5，后者对应scene_6__2，文档中的场景编号表明明确的时间先后顺序。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_6__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_272a2116fd11",
+    "subject_id": "ep_2e453ea4e0047974",
+    "object_id": "ep_8b48a6d10f29a81a",
+    "relation_type": "precedes",
+    "reason": "在场景25中，罗力先训斥小弟并重申谈判原则，随后小马才表达感谢以缓和关系。因此，'纠正越界提议并重申谈判原则'在叙事顺序上明确早于'人质表达感激以缓和关系'。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_25_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c703d6da0528",
+    "subject_id": "ep_a5118bec70404a5d",
+    "object_id": "ep_34315a4467c1232e",
+    "relation_type": "precedes",
+    "reason": "情节'开始审问并建立控制'描述了罗力对人质小马建立控制的初始互动，发生在救援行动之前。情节'撤离被绑的小马'是在制服对方小弟并控制现场后进行的后续行动，逻辑上和叙事顺序上紧随其后。因此，'开始审问并建立控制'在时间顺序上先于'撤离被绑的小马'。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_25_part_1",
+      "scene_25_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3e27c361a948",
+    "subject_id": "ep_a5118bec70404a5d",
+    "object_id": "ep_3c4108813444a0f0",
+    "relation_type": "precedes",
+    "reason": "‘开始审问并建立控制’包含罗力摘眼罩、喂饭和小马请求归还眼镜，是审问的主导开场；‘手下引发紧张气氛’则发生在喂饭过程中，由小弟们围观和调侃打破严肃氛围，时间上紧随其后。根据场景顺序，建立控制的行为先于手下引发的情绪波动，因此该关系为‘precedes’。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_25_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eec58be88e71",
+    "subject_id": "ep_81fa90294411c349",
+    "object_id": "ep_a5118bec70404a5d",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，'响应小马被绑的紧急情况'描述了徐正太和徐太浪在得知小马被绑后立即采取行动离开现场，而'开始审问并建立控制'描述了绑匪罗力对小马进行控制的场景。前者是对外部事件（绑架）的响应，后者是绑架发生后的控制行为，逻辑上和时间上发生在绑架行为之后。因此，响应情节在叙事上紧随并早于审问情节，支持'precedes'关系。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_25_part_1",
+      "scene_25_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c104ccfc9397",
+    "subject_id": "ep_20d07913cf4db066",
+    "object_id": "ep_eb74d252b5b32731",
+    "relation_type": "precedes",
+    "reason": "情节'揭示怀孕以劝阻复仇'（doc_44）发生在文档44，而'小花扶徐正太行走恢复'（doc_45）发生在文档45，表明前者在叙事顺序上早于后者。徐正太情绪软化并放弃复仇后，后续出现身体或心理恢复阶段的行走场景，时间顺序合理且文档编号支持该先后关系。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_45__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6ad539d78eb9",
+    "subject_id": "ep_757530cea7f232b5",
+    "object_id": "ep_b3d364ea8c9f0fe7",
+    "relation_type": "precedes",
+    "reason": "根据描述，六一出现并接受责问后，徐太浪才带六一离开现场，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_73d834e5a1a7",
+    "subject_id": "ep_52d999b0661f9783",
+    "object_id": "ep_6dbc9eafc0f75579",
+    "relation_type": "elaborates",
+    "reason": "持续观察驾驶过程以保障任务执行描述了监控室内的整体监控行为，而协同调整车辆性能以支持极限驾驶则进一步提供了领航员如何基于该监控环境配合徐太浪操作的具体细节，后者在功能上扩展了前者所涵盖的监控与支持活动。",
+    "source_documents": [
+      "scene_2__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_55f4a74cff0f",
+    "subject_id": "ep_af987658ea40696a",
+    "object_id": "ep_bea986e2557beaeb",
+    "relation_type": "precedes",
+    "reason": "徐太浪在婚礼上完成致辞（主体情节）在时间顺序上先于小花对其致辞表达不满及徐正太回应（客体情节）。根据描述，致辞必须先发生，然后才可能引发小花的不满和徐正太的安慰，因此主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7f1a2ef55c82",
+    "subject_id": "ep_4d66125fc61ef223",
+    "object_id": "ep_179e4b2443913544",
+    "relation_type": "causes",
+    "reason": "处理面食订单与用餐准备中，老板将面放在徐正太的书上，直接引发了徐正太清理书并要求加菜的行为，这一动作明确触发了维护象征物与追加订单情节的发生。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3ca0fa39b976",
+    "subject_id": "ep_52d999b0661f9783",
+    "object_id": "ep_673f86cc694e0454",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述监控室内男子持续观察徐太浪驾驶画面以保障任务安全，客体情节进一步提供了驾驶过程中的具体行为（漂移驾驶）以及监控细节（领航员报告车辆状态），二者共享同一场景和安全监控目标，客体为驾驶过程提供了更丰富的技术与操作细节，因此主体被客体扩展。",
+    "source_documents": [
+      "scene_2__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8bad5e613cae",
+    "subject_id": "ep_78a4f869d97c757f",
+    "object_id": "ep_a14763736381744a",
+    "relation_type": "elaborates",
+    "reason": "徐正太揭示藏钱真相为徐太浪表达敬意提供了动机上的澄清，说明徐太浪所敬佩的行为背后另有隐情，从而扩展和深化了敬意表达这一情节的含义。两个情节发生在同一场景（scene_43），且揭示真相在时间上紧随敬意表达之前或同时发生，支持其作为对敬意行为背景的补充说明。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.75
+  }
+]

@@ -1,0 +1,1989 @@
+[
+  {
+    "id": "rel_ep_ep_e6502efd5254",
+    "subject_id": "ep_15b882435ed989c5",
+    "object_id": "ep_5f4503225f83f12d",
+    "relation_type": "precedes",
+    "reason": "应对骑马事故并追回受惊的马发生在林议员夫人调查骑马事件经过之前，因为事故和追赶是触发后续调查的直接前提，且相关事件均在scene_26中按时间顺序展开。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a6cf52f2710d",
+    "subject_id": "ep_701d2eb7f141c686",
+    "object_id": "ep_eb5706a5bcaca9b9",
+    "relation_type": "precedes",
+    "reason": "母女谈论婚嫁与情感话题发生在母女亲密互动与情绪收束之前，描述中明确指出在激烈对话后，棠宁躺于母亲腿上接受抚摸，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c8a99617a098",
+    "subject_id": "ep_df2ef8903c5eb2d3",
+    "object_id": "ep_12497e7671eba2b3",
+    "relation_type": "elaborates",
+    "reason": "揭露林家聚餐中的争吵为棠宁介入并带棠真离开提供了背景动机，说明棠真所处的家庭冲突环境可能促使棠宁采取保护行动，二者共享林家当晚聚餐的场合，且在叙事中形成前后衔接的逻辑扩展。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a83a194df732",
+    "subject_id": "ep_a23c28dae4bb6a3f",
+    "object_id": "ep_c75858a491446554",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'揭露吸毒行为并引发家庭冲突' 发生在 scene_33，而 '暗中观察棠宁' 发生在 scene_34，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d8d6fe638b5a",
+    "subject_id": "ep_84dfa7782fbdf552",
+    "object_id": "ep_0bddfe99db0d82ac",
+    "relation_type": "precedes",
+    "reason": "引导参观并展示走廊字画发生在拍照留念之前，因为参观和介绍是拍照的前置情境，且在同一篇文档（doc_9）的同一场景（scene_10）中按顺序发生：先有字画介绍和互动，随后家逵为众人拍摄合影。",
+    "source_documents": [
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4886c47c6d13",
+    "subject_id": "ep_b51a545db89cddbc",
+    "object_id": "ep_bdedb2d4969c6e75",
+    "relation_type": "precedes",
+    "reason": "展示西阵织礼物以深化情感联结发生在通报访客抵达并准备迎接之前，依据相关事件均位于scene_6且前者聚焦于与林议员夫人的互动延续，后者则由确认访客抵达触发，标志着场景收尾与过渡，叙事顺序上前者先于后者。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_6_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_00e148ac6f01",
+    "subject_id": "ep_c75858a491446554",
+    "object_id": "ep_ee42ef332cb16430",
+    "relation_type": "contrasts_with",
+    "reason": "暗中观察棠宁展现的是隐秘、紧张的监视氛围，而表达亲昵并告诫棠真则体现公开、温情的情感引导，两者在情感基调和互动方式上形成明显对比，且发生在同一场景中，构成并置对比。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_96724b188fd8",
+    "subject_id": "ep_4451e7a7592d10a4",
+    "object_id": "ep_49931d553d78d049",
+    "relation_type": "precedes",
+    "reason": "根据描述，廖队长先质询棠真在事件当晚的行踪，引发其回忆，随后才围绕Marco和翩翩的秘密关系展开进一步询问并获取证词，两个情节在审讯过程中按顺序推进，具有明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_100dd60c7cd1",
+    "subject_id": "ep_590d0c7b3086b9f2",
+    "object_id": "ep_318c7a2b8d87003f",
+    "relation_type": "precedes",
+    "reason": "情节 '陪同王夫人参观宅邸并迎接表演' 发生在场景 scene_13，而 '展示家庭形象与统一服装' 发生在场景 scene_14，文档中场景编号顺序表明前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_14_part_2",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9da330f90bfd",
+    "subject_id": "ep_318c7a2b8d87003f",
+    "object_id": "ep_cabc4c26f2cc32eb",
+    "relation_type": "contrasts_with",
+    "reason": "展示家庭形象与统一服装强调家庭团结和积极表现，而回应王夫人对过往活动的嘲讽则揭示了王夫人对类似活动的贬低态度，两者在评价基调上形成对比：一个是当前精心准备的正面展示，另一个是对过去活动的负面评判，且现实中的宾客取餐行为与王夫人的嘲讽形成张力。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_14_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_298857a12d97",
+    "subject_id": "ep_c8ce0a40c4152e1b",
+    "object_id": "ep_e3a070f1f960f341",
+    "relation_type": "precedes",
+    "reason": "‘质问并争夺安眠药’描述了棠宁与棠余月影之间的冲突，而‘处理家庭冲突后的日常事务’明确指出是在冲突结束后发生的，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_89d2b812cc66",
+    "subject_id": "ep_590d0c7b3086b9f2",
+    "object_id": "ep_980b8e95766e6106",
+    "relation_type": "precedes",
+    "reason": "根据描述，'陪同王夫人参观宅邸并迎接表演' 是王夫人参观的初始阶段，涉及引导和发现棠真与林翩翩嬉闹；随后在'促成并欣赏音乐表演'中，王夫人抵达亭子后开始音乐表演。两个情节共享同一场合，且叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_098ec3e178c0",
+    "subject_id": "ep_349a3ae86f2fa153",
+    "object_id": "ep_97167d4519009c83",
+    "relation_type": "precedes",
+    "reason": "‘迎接警局高层并致意’在会议开始阶段发生，确立正式开端，随后‘收集案件线索与时间线核实’在同一次会议中展开，署长在致意后请求提供线索，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4b6df2ad19c0",
+    "subject_id": "ep_c8ce0a40c4152e1b",
+    "object_id": "ep_4cadaab6608a3afd",
+    "relation_type": "precedes",
+    "reason": "质问并争夺安眠药的情节中，棠宁与棠余月影发生冲突，随后家人相继离开，棠宁独自留下显露无奈情绪。根据描述的时间顺序和事件发展，争执行为在前，情绪显露在后，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4a87794e59c2",
+    "subject_id": "ep_318c7a2b8d87003f",
+    "object_id": "ep_71d0afb5274e55e0",
+    "relation_type": "causes",
+    "reason": "主体情节中，王夫人虽称赞棠宁、棠真与棠余月影的统一服装，但此前已表现出对棠宁的忽视（如推开雪花糕），这一系列行为导致棠宁情绪低落并退至边缘，客体情节是主体情节中社交排斥的直接情感后果，文本通过连续事件链支持该因果关系。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_14_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5d40e287c97b",
+    "subject_id": "ep_00dce0d8e5ed3f19",
+    "object_id": "ep_f03a8c8e269f0246",
+    "relation_type": "precedes",
+    "reason": "棠真请求更改VIP区菜单遭拒发生在棠宁介入并接管红包之前，两个情节均发生在scene_15，且争执的发生直接促使棠宁出面平息，叙事顺序上具有明确的先后关系。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2bde05ad5fe4",
+    "subject_id": "ep_9771bbc2738e93c3",
+    "object_id": "ep_f03a8c8e269f0246",
+    "relation_type": "precedes",
+    "reason": "处理食材并发现红包发生在棠宁介入并接管红包之前，因为妇女甲和妇女乙先在处理食材时发现红包，随后棠宁才出面拿走红包并调整菜品，叙事顺序支持该时间先后关系。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7e005a493100",
+    "subject_id": "ep_980b8e95766e6106",
+    "object_id": "ep_fab192f693a81e59",
+    "relation_type": "precedes",
+    "reason": "根据描述，音乐表演完成后王夫人才注意到棠真嘴角的蛋糕印并引发欢笑，因此‘促成并欣赏音乐表演’在叙事顺序上明确早于‘指出棠真嘴角的蛋糕印引发欢笑’。",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_808939f8f78a",
+    "subject_id": "ep_ad8010c641a2c096",
+    "object_id": "ep_b0c07f509e49fce6",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，棠宁通过玩笑和物品价值讨论建立交易语境后，辜献忠才因紧张打翻水杯，触发后续对洒水事件的处理，因此‘开启谈判并建立交易语境’在叙事顺序上早于‘处理意外洒水以维持控制氛围’。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2844d3c8aa23",
+    "subject_id": "ep_cbbd6dea7f992f6e",
+    "object_id": "ep_6da8d3247d3e0f08",
+    "relation_type": "precedes",
+    "reason": "启动案件调查汇报（ep_cbbd6dea7f992f6e）标志着廖队长开始汇报案件进展，随后在同一家宴场合中，廖队长进一步提供嫌疑人王金山的详细背景信息，从而确立调查方向（ep_6da8d3247d3e0f08）。根据事件顺序，信息汇报的启动在叙事上先于调查方向的确立。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_545c40a2f6f0",
+    "subject_id": "ep_74eb0d53cac1871e",
+    "object_id": "ep_c75858a491446554",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节都涉及观察行为：一个是在画房外Marco暗中观察棠宁与棠余月影的互动，另一个是Marco监视抽烟的棠宁，而棠宁本人也在观察他人。这种双重观察结构在两个情节中形成并置，突出了监视与被监视的紧张关系，构成叙事上的对比。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_d31457fe3933",
+    "subject_id": "ep_ca3909d348517836",
+    "object_id": "ep_4e6bb6f1958cb06c",
+    "relation_type": "causes",
+    "reason": "辜献忠妻子突袭指控议长直接引发议长一行应对围堵并撤离。描述中明确指出该指控事件标志着向公开冲突的转折，而议长一行的回避和撤离是对该冲突的即时反应，构成直接因果链。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f5fe2f39b9a1",
+    "subject_id": "ep_ad8010c641a2c096",
+    "object_id": "ep_72f56c09e040332f",
+    "relation_type": "precedes",
+    "reason": "‘开启谈判并建立交易语境’通过建立交易心理基础和语境为‘以数字暗号达成交易共识’做准备，且在叙事顺序上，先有对物品价值的讨论，后有数字暗号的交换，因此该关系在时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b7e780fc91c5",
+    "subject_id": "ep_a23c28dae4bb6a3f",
+    "object_id": "ep_51165025f4fec590",
+    "relation_type": "precedes",
+    "reason": "根据描述，'揭露吸毒行为并引发家庭冲突' 发生在场景 scene_33 的前半部分，导致家庭紧张升级；随后 '改变计划并决定探望翩翩' 发生在同一场景的后半部分，棠余月影在冲突后改变决定并牵着棠真离开。两个情节均发生在同一文档和场景中，且事件序列显示前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b2bc28cbb9be",
+    "subject_id": "ep_5f2458ef400e909b",
+    "object_id": "ep_c78ea89fafb38a8c",
+    "relation_type": "elaborates",
+    "reason": "揭露林议员夫人赠送首饰的异常馈赠提供了关于林夫人行为反常的额外细节，补充并扩展了揭示其死亡前异常举动的情节，二者均在试衣场景中由县长夫人回忆并由棠余月影解读，共同构建对林夫人死因的推断。前者通过馈赠行为强化后者中‘异常举动’的具体表现，构成解释性补充。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_de0cb60f2e90",
+    "subject_id": "ep_97167d4519009c83",
+    "object_id": "ep_6c19e9c7e1c3fb98",
+    "relation_type": "precedes",
+    "reason": "收集案件线索与时间线核实发生在会议早期阶段，署长请求线索并核实聚餐时间线，随后才发生拒绝非正式交流并结束会议的情节，二者均在案发现场调查会议中按顺序展开，叙事时序明确。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_99a0f1003ceb",
+    "subject_id": "ep_459528bdca7e3db4",
+    "object_id": "ep_bdf3781a68c0e0f2",
+    "relation_type": "precedes",
+    "reason": "根据相关场景的文档顺序，'确认Marco的缺席'发生在doc_16，而'协助逃离并初遇心动对象'发生在doc_17，且后者中棠真见到Marco，与前者中林翩翩称Marco不会到来形成叙事上的逆转。因此，'确认Marco的缺席'在叙事顺序上早于'协助逃离并初遇心动对象'，支持precedes关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b53f44376162",
+    "subject_id": "ep_1daf541083a81899",
+    "object_id": "ep_eb5706a5bcaca9b9",
+    "relation_type": "precedes",
+    "reason": "根据描述，'发现情趣内衣引发冲突' 中棠宁推开盒子标志着冲突的高潮，而随后在 '母女亲密互动与情绪收束' 中，棠宁躺于母亲腿上接受抚摸、换台转移注意力，表明情绪缓和与互动结束。两个情节共享同一场景（scene_41），且事件序列显示冲突发生后进入安抚与收束阶段，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0aaf6f5e1048",
+    "subject_id": "ep_ad8010c641a2c096",
+    "object_id": "ep_ba063211bef7e0a4",
+    "relation_type": "precedes",
+    "reason": "主体情节'开启谈判并建立交易语境'通过玩笑和强调物品有价为交易铺垫心理基础，客体情节'确立交易条件与信任保证'则在此基础上提出具体报价并回应质疑。相关事件序列显示，建立交易语境的行为（如谈论物品皆有价格）发生在提出五万元报价和保证信誉之前，叙事顺序明确支持前者早于后者。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c403006fd543",
+    "subject_id": "ep_590d0c7b3086b9f2",
+    "object_id": "ep_fab192f693a81e59",
+    "relation_type": "precedes",
+    "reason": "根据描述，'陪同王夫人参观宅邸并迎接表演'构成参观的初始阶段，包括引导王夫人和发现棠真与林翩翩嬉闹；而'指出棠真嘴角的蛋糕印引发欢笑'发生在赞赏表演之后，是一个后续的幽默瞬间。两者同属同一场合，且叙事顺序上前者明显早于后者。",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_31a0527c0336",
+    "subject_id": "ep_ba063211bef7e0a4",
+    "object_id": "ep_72f56c09e040332f",
+    "relation_type": "precedes",
+    "reason": "‘确立交易条件与信任保证’发生在‘以数字暗号达成交易共识’之前，因为棠宁首先提出五万元报价并回应辜献忠对佛像真伪的质疑以建立可信度，随后双方才通过在桌上写数字的方式达成最终金额的默契，标志着交易的实质完成。两个情节均发生在scene_23，但逻辑和叙述顺序上，条件确立先于暗号共识。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_86688fbce17f",
+    "subject_id": "ep_9e83cee02c96c8eb",
+    "object_id": "ep_bdedb2d4969c6e75",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_6，但‘揭示棠宁行踪引发微妙对峙’中的事件（如林翩翩声称目睹棠宁、棠真沏茶、眼神逼视）在叙事顺序上先于‘通报访客抵达并准备迎接’中的事件（如棠真接听电话、报告车辆位置、提议陪伴聊天、众人离开）。文本中从对峙到访客通报的过渡表明前者在时间上早于后者，构成直接的叙事先后关系。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_6_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_124d596487c4",
+    "subject_id": "ep_0b1492ddd8b3b1d6",
+    "object_id": "ep_948caa45d135a257",
+    "relation_type": "precedes",
+    "reason": "主体情节'揭露辜献忠死前异常并请求援助'包含妻子陈述异常行为和请求伸冤的初步互动，而客体情节'母子下跪恳求与棠余月影拒绝帮助'描述了情感升级后的最终求助与拒绝动作，二者发生在同一场合(scene_39)内，且下跪行为在叙事逻辑和情感发展上紧随前期请求之后，构成明确的时间与话语顺序。",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d4ff4d66da15",
+    "subject_id": "ep_fc56b56cb6df56a8",
+    "object_id": "ep_8e10b73a42e32eef",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间和对话流，棠宁与棠余月影在画房外对话（提及廖队长正在问话棠真）发生在探讨Marc下落与家庭态度之前，二者均发生在scene_49，但前者为后者提供了上下文触发，棠余月影随后询问廖队长是否提及Marc，表明该情节在叙事顺序上紧接其后。因此，画房外对话在叙事顺序上先于对Marc下落的讨论。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_110a35ed6055",
+    "subject_id": "ep_ff3405ec60353ca3",
+    "object_id": "ep_23a74509b77194cb",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合‘议长特助组织的墓地查看聚会 (scene_37)’中。情节‘确认政治势力介入墓地事务’涉及特助提及县长夫人约定、棠余月影确认支持及议长承诺帮助，属于聚会初期的政治互动；而‘应对辜献忠妻子当众指控’则是辜妻冲入现场、指控议长并引发混乱，属于后续突发危机。根据叙事顺序，政治势力介入的确认发生在指控事件之前，构成公开危机前的背景。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e8738a8903d4",
+    "subject_id": "ep_fc56b56cb6df56a8",
+    "object_id": "ep_74eb0d53cac1871e",
+    "relation_type": "elaborates",
+    "reason": "‘棠宁与棠余月影在画房外对话’建立了两人在画房外互动的基本场景，包括棠宁解释来意和提及警方问话；而‘揭示动物细节并暴露隐藏观察者’在此基础上增加了新信息：棠宁将狗放入棠余月影怀中、提及野猫、棠余月影对猫的厌恶，以及Marco的隐蔽观察。这些细节扩展并丰富了前一情节的内容，构成对原对话场景的进一步展开和深化。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1d959a2e8e0a",
+    "subject_id": "ep_331b9004db33f83b",
+    "object_id": "ep_cbbd6dea7f992f6e",
+    "relation_type": "precedes",
+    "reason": "根据描述，'延续旧日情谊的家宴互动'中棠余月影回忆旧事、营造亲切氛围，为后续公务讨论提供情感铺垫；紧接着在'启动案件调查汇报'中，棠余月影提议边吃边谈公事，廖队长开始汇报案件。两个情节共享同一场合'家宴'，且叙事顺序明确：情感铺垫先于公务启动。因此，主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f7f925325305",
+    "subject_id": "ep_45aa0c97c1efcf47",
+    "object_id": "ep_cbbd6dea7f992f6e",
+    "relation_type": "precedes",
+    "reason": "根据描述，'维持饭局表面和谐' 情节包含廖队长被制止发言、棠宁敬酒被拒、署长举杯干杯等事件，旨在压制严肃议题并维系社交融洽；而 '启动案件调查汇报' 情节发生在棠余月影提议边吃边谈公事后，廖队长开始正式汇报案件进展。这两个情节均发生在同一场合（家宴 scene_32），但逻辑和叙事顺序上，先有维持表面和谐的努力，随后才转向公务讨论。因此，'维持饭局表面和谐' 在叙事顺序上早于 '启动案件调查汇报'，构成明确的 precedes 关系。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0abc69448ad1",
+    "subject_id": "ep_318c7a2b8d87003f",
+    "object_id": "ep_55b7aef7d0e1c506",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合'花园画展聚餐 (scene_14)'中。主体情节'展示家庭形象与统一服装'涉及棠宁、棠真与棠余月影展示服装并获王夫人称赞，属于活动的视觉展示环节；客体情节'开启画展聚餐并致谢'涉及棠余月影致谢林议员和棠真倒茶，属于聚餐的开启与社交环节。根据叙事流程，家庭形象展示更可能在聚餐正式开启前进行，因此主体情节在话语顺序上先于客体情节。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_14_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bb68012dc593",
+    "subject_id": "ep_23b5684f6c7cd006",
+    "object_id": "ep_45aa0c97c1efcf47",
+    "relation_type": "contrasts_with",
+    "reason": "‘暗中观察案件讨论’聚焦于秘密监视和信息获取，而‘维持饭局表面和谐’展现公开场合中压抑冲突、维系社交融洽的行为。两者在同一场景（家宴）下并置，体现公开与隐秘、表面和谐与潜在紧张之间的对比。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_50df2a2e2224",
+    "subject_id": "ep_459528bdca7e3db4",
+    "object_id": "ep_f49f8e53f37b928e",
+    "relation_type": "elaborates",
+    "reason": "情节'确认Marco的缺席'中提及Marco不会到来，而情节'棠真陪伴昏迷的林翩翩并回忆往事'通过回忆揭示了林翩翩与Marco的亲密过往，提供了关于Marco缺席的情感背景和深层动机，从而扩展并丰富了前一情节的语境。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_38dd658c7cab",
+    "subject_id": "ep_5373e901505e22c7",
+    "object_id": "ep_b0c07f509e49fce6",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'前往并进入房间'发生在scene_22，而'处理意外洒水以维持控制氛围'发生在scene_23，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_34c88c81d9ee",
+    "subject_id": "ep_bdf3781a68c0e0f2",
+    "object_id": "ep_f49f8e53f37b928e",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中林翩翩初遇Marco并流露情感，第二个情节中棠真通过阅读日记和回忆揭示了林翩翩与Marco的亲密场景，这为前一情节中情感反应提供了背景和情感深度，构成对先前事件的情感与心理层面的扩展。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_dad03990fa06",
+    "subject_id": "ep_5373e901505e22c7",
+    "object_id": "ep_8fe4cba274b950c4",
+    "relation_type": "precedes",
+    "reason": "‘前往并进入房间’发生在走廊行走并进入房子的场景（scene_22），而‘处理家庭内部的冲突与责任’发生在后续场景（scene_31），其中棠宁劝阻棠真并发生代际张力。根据文档中场景编号的顺序，前者在叙事顺序上早于后者，支持precedes关系。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b43d930bfab1",
+    "subject_id": "ep_5373e901505e22c7",
+    "object_id": "ep_a23c28dae4bb6a3f",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间和场景顺序，'前往并进入房间'（scene_22）发生在'揭露吸毒行为并引发家庭冲突'（scene_33）之前。两个情节均涉及棠真和棠宁进入房间，随后在相同空间内发生冲突，表明前者为后者的前置场景。叙事顺序上，进入房间是后续揭露行为的必要前提。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c9a94be8f95b",
+    "subject_id": "ep_6ded45dd6d3831b9",
+    "object_id": "ep_c9a1816ae74c1559",
+    "relation_type": "precedes",
+    "reason": "主体情节'突破管制区进入二楼'描述了棠余月影和棠真被警察带领上楼的过程，而客体情节'开启案发现场调查会议'发生在进入会议室之后，由棠余月影向议长打招呼正式开启会议。根据事件顺序，进入二楼是进入会议室并开启会议的前提，且相关事件在文档中按顺序排列，支持该时间先后关系。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f22f7946bb02",
+    "subject_id": "ep_38127edbadb08ab7",
+    "object_id": "ep_6ded45dd6d3831b9",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对媒体并进入警局'发生在警局门口，涉及棠余月影和棠真进入警局的公开场景；客体情节'突破管制区进入二楼'发生在警局内部，涉及二人被警员拦下后经确认身份进入二楼。根据叙事顺序和空间推进逻辑，进入警局是进入二楼的前提，且相关事件在scene_28后接scene_29，支持该时间顺序。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f7bebf2d116e",
+    "subject_id": "ep_296215914a106724",
+    "object_id": "ep_9e83cee02c96c8eb",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'进入别墅并准备室内活动'（scene_5）发生在'揭示棠宁行踪引发微妙对峙'（scene_6）之前，两个情节分别属于连续的场景，且叙事顺序明确，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_6_part_1",
+      "scene_6_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7f13cd206430",
+    "subject_id": "ep_97eeaa878ffc126f",
+    "object_id": "ep_51165025f4fec590",
+    "relation_type": "precedes",
+    "reason": "情节 '化解棠真的压抑情绪' 发生在车内后座（scene_7），而 '改变计划并决定探望翩翩' 发生在冲突结束后并牵着棠真离开房间（scene_33），scene_7 明确早于 scene_33，因此前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_213efacf4750",
+    "subject_id": "ep_9e83cee02c96c8eb",
+    "object_id": "ep_0efee3a8a848809d",
+    "relation_type": "precedes",
+    "reason": "根据文档ID，'揭示棠宁行踪引发微妙对峙'（doc_5）发生在'交出日记本并推动棠真介入'（doc_43）之前，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_6_part_1",
+      "scene_6_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4d1b2a01d869",
+    "subject_id": "ep_a23c28dae4bb6a3f",
+    "object_id": "ep_ee42ef332cb16430",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'揭露吸毒行为并引发家庭冲突' 发生在 scene_33，而 '表达亲昵并告诫棠真' 发生在 scene_34，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8d4d4a1d4286",
+    "subject_id": "ep_5646df9fe645c53f",
+    "object_id": "ep_15b882435ed989c5",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'表达孤独并引发追逐'发生在scene_25，而'应对骑马事故并追回受惊的马'发生在scene_26，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7f98dd3882e8",
+    "subject_id": "ep_3d6ac992db3f0d8c",
+    "object_id": "ep_0efee3a8a848809d",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'逃离后的情感回避与追问'（scene_4）发生在早期场景，而'交出日记本并推动棠真介入'（scene_44）发生在后续场景，scene_4 明确早于 scene_44，因此该关系在叙事顺序上为 precedes。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2c5df0f673b0",
+    "subject_id": "ep_51165025f4fec590",
+    "object_id": "ep_ee42ef332cb16430",
+    "relation_type": "precedes",
+    "reason": "主体情节描述棠余月影决定取消上学并牵着棠真离开房间，客体情节描述两人沿小道行走过程中表达亲昵与告诫。related_events 显示前者发生在 scene_33，后者在 scene_34，具有明确的叙事顺序支持。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8763711b7cc2",
+    "subject_id": "ep_0efee3a8a848809d",
+    "object_id": "ep_f49f8e53f37b928e",
+    "relation_type": "elaborates",
+    "reason": "情节'交出日记本并推动棠真介入'中林翩翩将日记本交给棠真，为后续棠真阅读日记并回忆往事提供了文本和情感基础；'棠真陪伴昏迷的林翩翩并回忆往事'通过回溯日记内容揭示了更深层的情感背景，从而扩展和深化了前一情节的意义，构成对前一情节的背景补充与情感细化。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e3c36fbba37c",
+    "subject_id": "ep_12497e7671eba2b3",
+    "object_id": "ep_29b45c3e29a874c7",
+    "relation_type": "precedes",
+    "reason": "棠宁介入并带棠真离开（scene_47）发生在棠宁抵达画店并请求陪伴（scene_48）之前，根据文档中场景编号的顺序，scene_47在scene_48之前，因此该关系在叙事顺序上有明确支持。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c1d458d11261",
+    "subject_id": "ep_49931d553d78d049",
+    "object_id": "ep_df2ef8903c5eb2d3",
+    "relation_type": "elaborates",
+    "reason": "主体情节涉及廖队长促使棠真透露关于Marco和翩翩关系的信息，而客体情节中棠真回忆林家聚餐争吵，提供了可能与案情相关的家庭冲突背景。这表明客体情节通过补充家庭背景信息，扩展了主体情节中调查的上下文，构成 elaborates 关系。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_20803f8f6123",
+    "subject_id": "ep_29b45c3e29a874c7",
+    "object_id": "ep_41c7677ac6a0e394",
+    "relation_type": "precedes",
+    "reason": "棠宁抵达画店并请求陪伴发生在棠真犹豫后选择离开之前，根据描述中的动作顺序：棠宁先提出请求，随后棠真经历犹豫并下车走向一旁，表明时间上前者紧接前者，具有明确的叙事先后关系。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a1421a7a330d",
+    "subject_id": "ep_c8ce0a40c4152e1b",
+    "object_id": "ep_51165025f4fec590",
+    "relation_type": "precedes",
+    "reason": "情节'质问并争夺安眠药'发生在冲突场景中，而'改变计划并决定探望翩翩'发生在冲突结束之后，棠余月影情绪转向关怀与联结。根据叙事顺序，冲突事件早于探望决定，因此前者在时间上先于后者。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3988f66bbda3",
+    "subject_id": "ep_8fe4cba274b950c4",
+    "object_id": "ep_a23c28dae4bb6a3f",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述棠真无视劝告走进房子，发生在家庭冲突升级之前；第二个情节紧随其后，棠真打开木盒揭露吸毒行为，引发责骂和紧张升级。两个情节在连续场景（scene_31 到 scene_33）中按时间顺序展开，且共享家庭内部张力的叙事脉络，支持前一情节在叙事顺序上早于后一情节。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d2d72397b4bf",
+    "subject_id": "ep_38127edbadb08ab7",
+    "object_id": "ep_c9a1816ae74c1559",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对媒体并进入警局'发生在警局门口，包含棠余月影和棠真进入警局的事件；客体情节'开启案发现场调查会议'始于他们被带入会议室并开始互动。根据场景顺序，进入警局在进入会议室之前，构成直接的叙事时序推进。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c1df9bedc295",
+    "subject_id": "ep_f5bae0fedbf26e9f",
+    "object_id": "ep_3d6ac992db3f0d8c",
+    "relation_type": "precedes",
+    "reason": "根据描述，棠真在花园中偷窥姐姐并被发现后迅速逃离（ep_f5bae0fedbf26e9f），紧接着拿起地上的盒子走开并回避情绪，林翩翩随后追问棠宁下落并跟随她离开（ep_3d6ac992db3f0d8c）。两个情节均发生在scene_4，但事件序列显示逃离现场先于情感回避与追问行为，具有明确的叙事时序先后。",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3329c9a83137",
+    "subject_id": "ep_f5bae0fedbf26e9f",
+    "object_id": "ep_9e83cee02c96c8eb",
+    "relation_type": "precedes",
+    "reason": "棠真目击姐姐并与之对峙的情节（ep_f5bae0fedbf26e9f）发生在林翩翩公开提及棠宁行踪并引发家族内部张力的情节（ep_9e83cee02c96c8eb）之前，根据事件内容和文档场景顺序，偷窥与逃离事件（scene_4）早于林翩翩在场发言事件（scene_6），因此该关系在叙事顺序上成立。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_6_part_2",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f118abca0f05",
+    "subject_id": "ep_590d0c7b3086b9f2",
+    "object_id": "ep_55b7aef7d0e1c506",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节内容，'陪同王夫人参观宅邸并迎接表演'（scene_13）发生在花园画展聚餐之前，后者为scene_14，因此该情节在叙事顺序上早于'开启画展聚餐并致谢'。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_14_part_2",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4d735255880a",
+    "subject_id": "ep_bdedb2d4969c6e75",
+    "object_id": "ep_590d0c7b3086b9f2",
+    "relation_type": "precedes",
+    "reason": "情节 '通报访客抵达并准备迎接' 描述了在得知王夫人即将抵达后众人准备迎接的过程，而 '陪同王夫人参观宅邸并迎接表演' 则描述了王夫人抵达后参观宅邸的活动。根据叙事顺序，准备迎接发生在实际陪同参观之前，且两个情节共享迎接王夫人的上下文，因此前者在时间上先于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_6_part_1",
+      "scene_6_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4b6ea1e2f809",
+    "subject_id": "ep_a23c28dae4bb6a3f",
+    "object_id": "ep_eb5706a5bcaca9b9",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节展示家庭因吸毒行为揭露而紧张升级，棠宁在责骂后沉默离开；第二个情节则呈现母女恢复亲密互动，包括抚摸头发和轻松调侃。两个情节在情感基调和家庭关系状态上形成明显逆转与对比，支持对比关系。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_91263bb0cc3a",
+    "subject_id": "ep_f35a7fa46349f0e2",
+    "object_id": "ep_8fe4cba274b950c4",
+    "relation_type": "precedes",
+    "reason": "棠宁准备进入屋内（端着汤走向屋内）在叙事顺序上早于处理家庭内部的冲突与责任（劝阻棠真、棠真走进房子），因为前者为后者的情境提供铺垫，且相关事件在scene_31中按此顺序发生。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fb76f52e8003",
+    "subject_id": "ep_1b88df7c7ba400b2",
+    "object_id": "ep_ad8010c641a2c096",
+    "relation_type": "precedes",
+    "reason": "建立对话基础与空间控制在叙事顺序上早于开启谈判并建立交易语境，因为只有在交谈框架确立后，棠宁才能通过玩笑和物品价值讨论引导进入交易情境。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c0d6abeb6553",
+    "subject_id": "ep_1b88df7c7ba400b2",
+    "object_id": "ep_ba063211bef7e0a4",
+    "relation_type": "precedes",
+    "reason": "建立对话基础与空间控制发生在确立交易条件与信任保证之前，因为棠宁先邀请辜献忠坐下并确立交谈框架，随后才提出交易报价并回应质疑，符合叙事顺序。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ebd104acaf10",
+    "subject_id": "ep_c8ce0a40c4152e1b",
+    "object_id": "ep_eb5706a5bcaca9b9",
+    "relation_type": "precedes",
+    "reason": "情节 '质问并争夺安眠药' 发生在场景 scene_21，而 '母女亲密互动与情绪收束' 发生在场景 scene_41，文档中场景编号递增表明明确的叙事时间顺序，前者在后者之前发生。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_458f98c31e34",
+    "subject_id": "ep_ad8010c641a2c096",
+    "object_id": "ep_0c8fbec93aa32b39",
+    "relation_type": "precedes",
+    "reason": "开启谈判并建立交易语境发生在提出暂存佛像的变相贿赂方案之前，因为前者通过玩笑和物品价值讨论为后续的贿赂提议铺垫心理基础，且两个情节均发生在同一场景（scene_23）中，叙事顺序上具有明确的先后关系。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2bf09d798df6",
+    "subject_id": "ep_ad8010c641a2c096",
+    "object_id": "ep_d4880e07884bfa7c",
+    "relation_type": "precedes",
+    "reason": "根据描述，'开启谈判并建立交易语境' 是通过玩笑和物品价值讨论为谈判铺垫心理基础，而 '通过肢体接触施加心理压力' 发生在谈判的关键阶段，属于后续施压行为。因此，建立交易语境的情节在叙事顺序上早于肢体施压情节。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0532d47dcea4",
+    "subject_id": "ep_0c8fbec93aa32b39",
+    "object_id": "ep_ba063211bef7e0a4",
+    "relation_type": "elaborates",
+    "reason": "提出暂存佛像的变相贿赂方案为主体，确立交易条件与信任保证为客体，后者通过提供五万元报价及对佛像真伪的回应，进一步扩展和具体化了前一情节中的交易提议，增强了其可信度和可执行性，属于对原提议的细节补充和深化。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_7f8924bdef04",
+    "subject_id": "ep_ba063211bef7e0a4",
+    "object_id": "ep_d4880e07884bfa7c",
+    "relation_type": "precedes",
+    "reason": "确立交易条件与信任保证发生在谈判初期，通过提出报价和回应质疑建立可信度；而抚摸大腿施加心理压力发生在谈判关键阶段，属于后续的施压手段。根据叙事逻辑和场景发展，建立交易基础的行动在前，施加心理压迫的行动在后，具有明确的时间顺序支持。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4a462b8c056e",
+    "subject_id": "ep_1b88df7c7ba400b2",
+    "object_id": "ep_72f56c09e040332f",
+    "relation_type": "precedes",
+    "reason": "棠宁邀请辜献忠坐下并建立对话框架发生在双方用水写数字达成交易共识之前，叙事顺序上前者为后者的发生提供了前提和场景基础，且两个情节共享同一场景（scene_23），表明存在明确的时间先后顺序。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_02b15006b1ac",
+    "subject_id": "ep_b0c07f509e49fce6",
+    "object_id": "ep_d4880e07884bfa7c",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，处理意外洒水事件（包括打翻水杯、阻止擦拭、取布等动作）发生在棠宁抚摸辜献忠大腿之前，二者均位于scene_23，但洒水处理的动作序列在叙事上先于肢体接触施压，因此该关系为precedes。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d163651ef20e",
+    "subject_id": "ep_1b88df7c7ba400b2",
+    "object_id": "ep_d4880e07884bfa7c",
+    "relation_type": "precedes",
+    "reason": "棠宁邀请辜献忠坐下交谈（建立对话基础与空间控制）发生在谈判初期，为后续互动设定框架；而棠宁抚摸辜献忠大腿（通过肢体接触施加心理压力）发生在谈判关键阶段，属于后续升级的权力施压行为。两个情节均发生在同一场景（scene_23），且叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5cbb80a94386",
+    "subject_id": "ep_1b88df7c7ba400b2",
+    "object_id": "ep_b0c07f509e49fce6",
+    "relation_type": "precedes",
+    "reason": "棠宁邀请辜献忠坐下并确立交谈框架（ep_1b88df7c7ba400b2）在叙事顺序上早于辜献忠因紧张打翻水杯及棠宁处理该事件（ep_b0c07f509e49fce6），两个情节均发生在scene_23，且前者建立互动框架为后者提供上下文，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_04a441a0e854",
+    "subject_id": "ep_61d979e3c2e3073f",
+    "object_id": "ep_bdedb2d4969c6e75",
+    "relation_type": "precedes",
+    "reason": "劝说林议员把握政治机遇发生在通报访客抵达并准备迎接之前，两个情节均位于scene_6，且劝说活动在访客确认抵达前进行，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_6_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3131d18fc883",
+    "subject_id": "ep_b51a545db89cddbc",
+    "object_id": "ep_72f2b0639e2b9a02",
+    "relation_type": "elaborates",
+    "reason": "展示西阵织礼物的情节通过文化与信仰共鸣加强情感联结，延续了此前建立信任的叙事意图，为后续在聚会上公开感谢林议员并庆祝弥陀计划成功提供了情感和关系背景，构成对后者动机和人际基础的扩展说明。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_6_part_1",
+      "scene_6_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_04b4433eade5",
+    "subject_id": "ep_49ca7e63c224a87b",
+    "object_id": "ep_61d979e3c2e3073f",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在 scene_6，且递送玉佩建立信任在叙事逻辑和行为顺序上先于劝说林议员把握政治机遇，礼物赠予为后续劝说营造了有利氛围，表明存在明确的时间和话语顺序。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_6_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cec5d1f9f03a",
+    "subject_id": "ep_49ca7e63c224a87b",
+    "object_id": "ep_bdedb2d4969c6e75",
+    "relation_type": "precedes",
+    "reason": "递送玉佩并建立信任关系发生在通报访客抵达并准备迎接之前，因为前者在场景中通过赠礼奠定情感基调，后者则标志着当前社交场景的收尾与过渡，且两个情节共享scene_6的事件序列，时间顺序上前者先于后者展开。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_6_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2c517c88ab3e",
+    "subject_id": "ep_f0ff00f5a2dee42e",
+    "object_id": "ep_5f2458ef400e909b",
+    "relation_type": "elaborates",
+    "reason": "讨论奢侈品消费与人情压力的情节中，县长夫人提及林夫人佩戴昂贵项链并讨论其来源，为后续揭露林议员夫人异常馈赠行为提供了背景和上下文。该情节通过展示林夫人在社交场合中被关注的贵重物品，间接铺垫了其赠送首饰的反常性，从而对揭露异常馈赠的情节起到扩展和深化作用。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_c44dc63783f5",
+    "subject_id": "ep_1be08076fb36f960",
+    "object_id": "ep_f7cfa24236f76286",
+    "relation_type": "elaborates",
+    "reason": "第一个情节开启离奇故事的讲述，构建了整体叙事框架；第二个情节通过弹唱象征性曲词并确认爱情悲剧，进一步扩展和深化了该框架中的情感主题与具体内容，因此主体情节为客体情节提供了叙事基础，客体对主体进行细节补充和主题强化。",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c34f07202721",
+    "subject_id": "ep_c9a1816ae74c1559",
+    "object_id": "ep_6c19e9c7e1c3fb98",
+    "relation_type": "precedes",
+    "reason": "开启案发现场调查会议在叙事顺序上早于拒绝非正式交流并结束会议，两个情节均发生在同一场合（案发现场调查会议）中，且描述的事件序列显示前者为会议开始，后者为会议结束。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ce880a673952",
+    "subject_id": "ep_49ca7e63c224a87b",
+    "object_id": "ep_b51a545db89cddbc",
+    "relation_type": "elaborates",
+    "reason": "第一个情节通过递送玉佩建立信任关系，第二个情节进一步通过展示西阵织礼物并解释其文化与信仰意义来深化情感联结，延续并扩展了建立信任的叙事意图。描述中明确指出‘延续此前建立信任的叙事意图’，表明后者是对前者的补充和深化，构成信息上的扩展而非时间或因果上的直接衔接。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_6_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_90977fd266c2",
+    "subject_id": "ep_46e150d039954e45",
+    "object_id": "ep_95f6180dd394ac1e",
+    "relation_type": "elaborates",
+    "reason": "棠真触发回忆并回溯过去场景这一情节通过引入回忆机制，为棠宁向辜献忠施加政治压力的情节提供了背景和上下文。后者发生在回忆中的过去场景，由前者的感知动作所展开，因此前者扩展了后者的叙事背景。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_1a148548b5c6",
+    "subject_id": "ep_9d932be5da8175ce",
+    "object_id": "ep_e3a070f1f960f341",
+    "relation_type": "elaborates",
+    "reason": "棠真提议改善咖啡品质这一情节提供了关于母女共同准备待客物品过程中的具体细节，扩展了处理家庭冲突后日常事务的情节内容，体现了在准备过程中的互动深化。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_af9e2356de1c",
+    "subject_id": "ep_349a3ae86f2fa153",
+    "object_id": "ep_6c19e9c7e1c3fb98",
+    "relation_type": "precedes",
+    "reason": "‘迎接警局高层并致意’标志着会议的正式开端，而‘拒绝非正式交流并结束会议’标志着会议的结束，两者均发生在同一场合‘案发现场调查会议 (scene_30)’中，且叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a2549528c742",
+    "subject_id": "ep_28c4019dae75273a",
+    "object_id": "ep_e3a070f1f960f341",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_21，但棠宁干预教育并委托购物在叙事逻辑上先发生，随后棠余月影才转移注意力处理日常事务，体现冲突后的缓和，时间顺序支持'precedes'关系。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a0a7c7cdce2e",
+    "subject_id": "ep_8f7a72329b67a4b4",
+    "object_id": "ep_00ce4f811be99c36",
+    "relation_type": "elaborates",
+    "reason": "探视并讨论林翩翩的病情与康复希望这一情节中，传达了医生建议通过陪伴说话促进苏醒的信息，这为实施陪伴疗法以促进林翩翩苏醒的情节提供了背景和解释，表明后者是前者的具体执行。因此，前者通过提供医疗建议的上下文扩展了后者。",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d1d526e3104f",
+    "subject_id": "ep_331b9004db33f83b",
+    "object_id": "ep_45aa0c97c1efcf47",
+    "relation_type": "precedes",
+    "reason": "根据描述，'延续旧日情谊的家宴互动' 营造亲切氛围并为后续公务讨论提供情感铺垫，而 '维持饭局表面和谐' 涉及公务与私宴之间的张力，发生在同一场合但推进到更紧张的互动阶段。叙事顺序上，先建立情感联结，再展现表面和谐下的张力，因此前者在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2165d46a8eae",
+    "subject_id": "ep_55b7aef7d0e1c506",
+    "object_id": "ep_cabc4c26f2cc32eb",
+    "relation_type": "contrasts_with",
+    "reason": "‘开启画展聚餐并致谢’呈现了礼貌和谐的社交氛围，棠余月影致谢林议员、棠真倒茶体现正面互动；而‘回应王夫人对过往活动的嘲讽’中，王夫人批评先前画展冷清并嘲讽自助餐形式，棠余月影勉强应和，凸显现实与负面评价之间的张力。两个情节在同一场合下并置，通过社交礼仪与尖锐批评之间的反差形成对比。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_14_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_74c3a76598ef",
+    "subject_id": "ep_4b8fc3369e9d51c7",
+    "object_id": "ep_333eda395d3ee476",
+    "relation_type": "precedes",
+    "reason": "辜献忠自我介绍并试图融入场合（ep_4b8fc3369e9d51c7）在叙事顺序上先发生，随后引发在场官员的警觉与应对，包括县长询问、议长质疑和议长夫人承诺处理，构成应对突发干扰的情节（ep_333eda395d3ee476）。相关事件均发生在scene_19，且逻辑顺序支持前者触发后者。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_238e1c97452f",
+    "subject_id": "ep_4cadaab6608a3afd",
+    "object_id": "ep_e3a070f1f960f341",
+    "relation_type": "contrasts_with",
+    "reason": "棠宁在争执后显露无奈情绪，独自承受家庭关系与个人需求的冲突，而棠余月影则转移注意力，与棠真协作准备待客物品，展现母女间的温情与默契。两个情节在同一场景（scene_21）中并置，通过个体情绪孤立与家庭互动和谐之间的反差，形成情感基调上的对比。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b67a36fc41a6",
+    "subject_id": "ep_65d54016612766ab",
+    "object_id": "ep_f0ff00f5a2dee42e",
+    "relation_type": "elaborates",
+    "reason": "探讨珠宝搭配以彰显地位的情节聚焦于县长夫人和女特助对服饰与翡翠搭配的想象，体现身份象征的关注；而讨论奢侈品消费与人情压力的情节则进一步揭示了此类珠宝消费背后的经济负担与社交压力，包括扇子买卖和红包文化，并延伸至林夫人项链的来源。后者通过提供更多社会交换背景，扩展并深化了前者所触及的身份展示主题，因此前者被后者所详述。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1e20199aa5a3",
+    "subject_id": "ep_349a3ae86f2fa153",
+    "object_id": "ep_c9a1816ae74c1559",
+    "relation_type": "precedes",
+    "reason": "根据描述，'迎接警局高层并致意'中议长等人迎接署长并致谢，确立会议的正式开端，发生在会议初期；而'开启案发现场调查会议'涉及棠余月影被带入并打招呼打破沉默，标志会议的初步互动。两者均发生在同一场合'scene_30'，且'确立正式开端'在叙事逻辑上早于'打破沉默开启互动'，因此主体情节在叙事顺序上先于客体情节。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_63c2e429c95a",
+    "subject_id": "ep_e7cbbd36e9d21c2d",
+    "object_id": "ep_333eda395d3ee476",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合'官员与家属聚餐 (scene_19)'中，且描述的事件序列显示，礼节性互动（称赞菜肴、敬酒等）构成聚餐的初期和谐氛围，而辜献忠闯入及其引发的应对是后续的突发干扰。文本中事件的叙述顺序和功能表明，'开启聚餐中的礼节性互动'在叙事时间上先于'应对辜献忠闯入的突发干扰'。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dd4f412dc3c4",
+    "subject_id": "ep_c9a1816ae74c1559",
+    "object_id": "ep_97167d4519009c83",
+    "relation_type": "precedes",
+    "reason": "开启案发现场调查会议（ep_c9a1816ae74c1559）在叙事顺序上早于收集案件线索与时间线核实（ep_97167d4519009c83），因为会议的开启是后续讨论案件线索和核实时间线的前提。两个情节共享同一场合'案发现场调查会议 (scene_30)'，且描述中显示会议开启后才进行线索收集和追问，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4303cf3ae8f4",
+    "subject_id": "ep_459528bdca7e3db4",
+    "object_id": "ep_49931d553d78d049",
+    "relation_type": "precedes",
+    "reason": "情节'确认Marco的缺席'发生在林翩翩告知Marco不会到来的场景中（scene_17），而'揭示秘密关系并获取棠真证词'发生在后续的审讯场景（scene_43），文档顺序和叙事流程表明前者在时间上早于后者，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_229806cbd54f",
+    "subject_id": "ep_bdf3781a68c0e0f2",
+    "object_id": "ep_49931d553d78d049",
+    "relation_type": "elaborates",
+    "reason": "情节'协助逃离并初遇心动对象'描述了棠真帮助林翩翩逃离并初见Marco的场景，为后续'揭示秘密关系并获取棠真证词'中棠真知晓Marco与翩翩关系的背景提供了情境和动机解释，表明棠真早期介入该关系，从而支持后者是对其信息来源的扩展。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_c0545d24697c",
+    "subject_id": "ep_bdf3781a68c0e0f2",
+    "object_id": "ep_24296be47fa38820",
+    "relation_type": "precedes",
+    "reason": "情节'协助逃离并初遇心动对象'中，棠真首次见到Marco并流露喜欢的神情，构成她后续寻找Marco的动机基础；而'棠真寻找Marco并暗中观察家人'发生在之后，表现为她对Marco下落的主动搜寻。因此，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_73263a96ae7f",
+    "subject_id": "ep_296215914a106724",
+    "object_id": "ep_b44151ba2fb02390",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'进入别墅并准备室内活动'（scene_5）发生在'棠真放置盒子并参与茶事'（scene_6）之前，两个情节分别属于连续的场景，且叙事顺序明确，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_6_part_1",
+      "scene_6_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_515288338b8d",
+    "subject_id": "ep_3d6ac992db3f0d8c",
+    "object_id": "ep_97eeaa878ffc126f",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'逃离后的情感回避与追问'（scene_4）发生在花园区域，而'化解棠真的压抑情绪'（scene_7）发生在车内后座，scene_4在叙事顺序上早于scene_7，因此该关系为precedes。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fa42ece016c5",
+    "subject_id": "ep_12497e7671eba2b3",
+    "object_id": "ep_97eeaa878ffc126f",
+    "relation_type": "precedes",
+    "reason": "棠宁介入并带棠真离开（ep_12497e7671eba2b3）发生在车内场景之前，而化解棠真的压抑情绪（ep_97eeaa878ffc126f）明确发生在车内后座的封闭空间中，且依赖于棠真已被带离原现场这一前提。因此，主体情节在叙事顺序上直接早于客体情节。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d507b23390f8",
+    "subject_id": "ep_0efee3a8a848809d",
+    "object_id": "ep_12497e7671eba2b3",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'交出日记本并推动棠真介入' 发生在 scene_44，而 '棠宁介入并带棠真离开' 发生在 scene_47，scene_44 在叙事顺序上早于 scene_47，因此前者在时间顺序上先于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f1a0b4a92932",
+    "subject_id": "ep_0efee3a8a848809d",
+    "object_id": "ep_24296be47fa38820",
+    "relation_type": "precedes",
+    "reason": "林翩翩交出日记本并推动棠真介入（ep_0efee3a8a848809d）发生在场景44，而棠真寻找Marco并暗中观察家人（ep_24296be47fa38820）发生在场景49，文档中场景编号递增表明明确的叙事时间顺序，因此前者在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6d3e01700c33",
+    "subject_id": "ep_5646df9fe645c53f",
+    "object_id": "ep_f49f8e53f37b928e",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均展现棠真的孤独情感，但情境截然不同：一个是在户外与马的情感互动并主动追逐，另一个是在病房中被动陪伴昏迷的林翩翩并回忆往事。两者在场景基调（动态追逐 vs 静态陪伴）和情感表达方式（外显呼喊 vs 内省回忆）上形成对比，突显角色不同状态下的孤独体验。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ecf127895fbe",
+    "subject_id": "ep_24296be47fa38820",
+    "object_id": "ep_c75858a491446554",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节都涉及暗中观察的行为，但观察者和被观察者不同：棠真观察家人，而Marco观察棠宁。这种双重监视形成叙事上的并置，强调了角色间相互猜忌和紧张关系的对比，支持'contrasts_with'关系。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_0e298cc36df7",
+    "subject_id": "ep_12497e7671eba2b3",
+    "object_id": "ep_41c7677ac6a0e394",
+    "relation_type": "precedes",
+    "reason": "棠宁介入并带棠真离开（scene_47）发生在棠真在犹豫后选择离开（scene_48）之前，根据相关场景编号的顺序，前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_762f75748863",
+    "subject_id": "ep_49931d553d78d049",
+    "object_id": "ep_12497e7671eba2b3",
+    "relation_type": "precedes",
+    "reason": "揭示秘密关系并获取棠真证词发生在廖队长与棠真对话期间（scene_43），而棠宁介入并带棠真离开发生在后续场景（scene_47），根据文档中场景编号的顺序，前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1d9d67a3db62",
+    "subject_id": "ep_4451e7a7592d10a4",
+    "object_id": "ep_12497e7671eba2b3",
+    "relation_type": "precedes",
+    "reason": "质询棠真在事件当晚的行踪发生在廖队长与棠真对话期间，而棠宁介入并带棠真离开是中断该对话的行为，根据叙事上下文，质询先发生，随后被棠宁的行动打断，因此存在明确的时间先后顺序。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4d8ed5627f00",
+    "subject_id": "ep_f49f8e53f37b928e",
+    "object_id": "ep_49931d553d78d049",
+    "relation_type": "elaborates",
+    "reason": "棠真在病房中回忆林翩翩与Marco的亲密场景，为后续廖队长询问秘密关系及获取证词提供了情感和背景铺垫，补充了棠真愿意透露信息的动机和上下文。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2fe2e23b3c23",
+    "subject_id": "ep_12497e7671eba2b3",
+    "object_id": "ep_3d6ac992db3f0d8c",
+    "relation_type": "precedes",
+    "reason": "棠宁介入并带棠真离开（ep_12497e7671eba2b3）发生在逃离后的情感回避与追问（ep_3d6ac992db3f0d8c）之前，后者描述的是棠真在离开现场后的行为和林翩翩的反应，时间顺序上紧随前者，且前者中的离开行为直接构成后者的前提场景。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ed33ce11ddce",
+    "subject_id": "ep_f5bae0fedbf26e9f",
+    "object_id": "ep_49931d553d78d049",
+    "relation_type": "elaborates",
+    "reason": "棠真目击姐姐并逃离的情节为后续她向廖队长透露信息提供了背景和动机，表明她的证词源于亲身经历的震惊事件，从而扩展了揭示秘密关系并获取证词这一情节的上下文。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_50ed8fa5d7a9",
+    "subject_id": "ep_15b882435ed989c5",
+    "object_id": "ep_4451e7a7592d10a4",
+    "relation_type": "elaborates",
+    "reason": "第二个情节中棠真回忆马场场景，可能涉及第一个情节的后续心理影响或背景补充，但因果或时间顺序不明确，仅通过回忆间接扩展前一情节的上下文。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "id": "rel_ep_ep_6576d6a3799f",
+    "subject_id": "ep_38127edbadb08ab7",
+    "object_id": "ep_49931d553d78d049",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对媒体并进入警局'发生在警局门口的公共场景，涉及棠余月影和棠真进入警局；客体情节'揭示秘密关系并获取棠真证词'发生在警局内部审讯场景，需要棠真已在警局内。根据叙事逻辑和事件顺序，进入警局必须先于审讯的展开，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7f84febd9ccf",
+    "subject_id": "ep_29b45c3e29a874c7",
+    "object_id": "ep_24296be47fa38820",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件流，棠宁抵达画店并请求陪伴（doc_47）发生在棠真进入画房寻找Marco并观察家人之前（doc_48），因此该情节在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a9460dc4c21d",
+    "subject_id": "ep_f5bae0fedbf26e9f",
+    "object_id": "ep_41c7677ac6a0e394",
+    "relation_type": "precedes",
+    "reason": "偷窥与暴露事件发生在棠真犹豫后选择离开之前，根据相关场景的时间顺序和叙事发展，前者为早期情节，后者为后续反应，具有明确的先后关系。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e84e88b4317f",
+    "subject_id": "ep_3d6ac992db3f0d8c",
+    "object_id": "ep_a23c28dae4bb6a3f",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'逃离后的情感回避与追问'（scene_4）发生在'揭露吸毒行为并引发家庭冲突'（scene_33）之前，scene_4早于scene_33，因此该情节在叙事顺序上先于另一情节。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eaa448530b96",
+    "subject_id": "ep_8fe4cba274b950c4",
+    "object_id": "ep_51165025f4fec590",
+    "relation_type": "precedes",
+    "reason": "根据描述，'处理家庭内部的冲突与责任'发生在家庭场景中，涉及棠宁劝阻棠真和棠真进入房子（scene_31），而'改变计划并决定探望翩翩'发生在冲突结束后，棠余月影取消上学并要求棠真陪她探望翩翩（scene_33）。scene_31在叙事顺序上早于scene_33，因此该关系为precedes。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3f103b58424c",
+    "subject_id": "ep_24296be47fa38820",
+    "object_id": "ep_3d6ac992db3f0d8c",
+    "relation_type": "precedes",
+    "reason": "棠真寻找Marco并暗中观察家人（scene_49）发生在逃离后的情感回避与追问（scene_4）之前，根据相关事件的场景编号，scene_49在scene_4之后，但scene_4描述的是逃离后的即时行为，而scene_49是更早的情节发展，因此叙事顺序上ep_24296be47fa38820早于ep_3d6ac992db3f0d8c。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d6af4c8c7475",
+    "subject_id": "ep_bdedb2d4969c6e75",
+    "object_id": "ep_980b8e95766e6106",
+    "relation_type": "precedes",
+    "reason": "情节 '通报访客抵达并准备迎接' 描述了王夫人抵达前的准备活动，包括报告车辆下交流道和众人离开客厅，而 '促成并欣赏音乐表演' 发生在王夫人抵达亭子后，明确在时间顺序上紧随其后。因此，前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_6_part_1",
+      "scene_6_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d9164bc53df3",
+    "subject_id": "ep_2cc4316ecff00343",
+    "object_id": "ep_3e8c48ef57d679b4",
+    "relation_type": "precedes",
+    "reason": "廖队长观察棠真发生在棠真从回忆中回过神后，而确认日记为唯一线索的情节发生在后续的院子交流中，根据叙事顺序，观察行为在前，交流情节在后。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0d98d2f38634",
+    "subject_id": "ep_2cc4316ecff00343",
+    "object_id": "ep_4451e7a7592d10a4",
+    "relation_type": "precedes",
+    "reason": "廖队长观察棠真是她在病房中被注意到的初始场景，发生在质询棠真行踪之前，后者基于监控证据展开对质，叙事上前者为后者的铺垫，时间顺序清晰。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9dd19a4fd563",
+    "subject_id": "ep_2cc4316ecff00343",
+    "object_id": "ep_49931d553d78d049",
+    "relation_type": "precedes",
+    "reason": "廖队长从窗外观察棠真是一个发生在病房内的初始场景，随后才进入询问环节。根据叙事顺序，观察行为在时间上先于正式询问和揭示秘密关系的互动，且相关事件（scene_42）早于scene_43，支持该顺序。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_65cd3c989a25",
+    "subject_id": "ep_97167d4519009c83",
+    "object_id": "ep_3e8c48ef57d679b4",
+    "relation_type": "precedes",
+    "reason": "情节 '收集案件线索与时间线核实' 发生在案发现场调查会议中，涉及对案发前晚聚餐时间线的确认，属于调查初期的信息收集阶段；而 '确认日记为唯一线索' 发生在之后，聚焦于对现有证据局限性的反思，叙事上紧随线索收集之后，逻辑顺序支持前者早于后者。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_64ae54628491",
+    "subject_id": "ep_97167d4519009c83",
+    "object_id": "ep_6da8d3247d3e0f08",
+    "relation_type": "precedes",
+    "reason": "情节 '收集案件线索与时间线核实' 发生在案发现场调查会议 (scene_30)，而 '呈报嫌疑人背景并确立调查方向' 发生在后续的家宴场合 (scene_32)，scene_30 在文档时序上早于 scene_32，因此该关系在叙事顺序上有强支持。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1ca11f7733bc",
+    "subject_id": "ep_289905779ce643fc",
+    "object_id": "ep_f49f8e53f37b928e",
+    "relation_type": "elaborates",
+    "reason": "情节'棠真陪伴昏迷的林翩翩并回忆往事'中，棠真通过阅读日记和回忆，重现了'在沙发上亲密嬉闹'的场景，为后者提供了情感背景和心理上下文，构成对前一情节的扩展性叙述。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b6b1afcef9b6",
+    "subject_id": "ep_5112b29deb0a3e0a",
+    "object_id": "ep_00ce4f811be99c36",
+    "relation_type": "elaborates",
+    "reason": "情节'预言并揭示林翩翩的遭遇'通过展示林翩翩被捆绑、断手脚后昏迷的状态，为后续'实施陪伴疗法以促进林翩翩苏醒'提供了背景和情境解释，说明了她为何处于昏迷状态，从而扩展并丰富了后者的情节前提。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bddd7ef8409b",
+    "subject_id": "ep_5112b29deb0a3e0a",
+    "object_id": "ep_f49f8e53f37b928e",
+    "relation_type": "elaborates",
+    "reason": "第一个情节预言并揭示林翩翩被伤害的状况，构成事件的揭露；第二个情节中棠真通过阅读日记和回忆展现林翩翩的情感世界，进一步扩展了前一情节所呈现的状态。因此，第二个情节为第一个情节提供了情感和背景上的深化，符合elaborates关系的定义。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_284ecd526b6b",
+    "subject_id": "ep_bdf3781a68c0e0f2",
+    "object_id": "ep_019247673e9fdbc8",
+    "relation_type": "elaborates",
+    "reason": "情节'协助逃离并初遇心动对象'中，棠真见到Marco并产生好感，为后续'触发Marco对谋杀现场的创伤回忆'提供了情感和情境背景。后者通过展现Marco的创伤反应，进一步揭示了他在初遇时未被言明的心理状态，构成对前一情节人物关系和情绪张力的扩展与深化。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8447cc23af2b",
+    "subject_id": "ep_5373e901505e22c7",
+    "object_id": "ep_ad8010c641a2c096",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'前往并进入房间'（scene_22）发生在'开启谈判并建立交易语境'（scene_23）之前。棠真和棠宁先进入房间，随后在该房间内棠宁开始与辜献忠对话并引导进入交易情境，因此前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_065658631f0a",
+    "subject_id": "ep_f03a8c8e269f0246",
+    "object_id": "ep_3bf4f7a562e41db6",
+    "relation_type": "precedes",
+    "reason": "棠宁介入并接管红包（ep_f03a8c8e269f0246）发生在她拆开红包发现金坠（ep_3bf4f7a562e41db6）之前，依据事件顺序和相关场景编号（scene_15 在 scene_16 之前）可推断叙事时间线上前者早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_57d2397c3ba7",
+    "subject_id": "ep_12497e7671eba2b3",
+    "object_id": "ep_fc56b56cb6df56a8",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'棠宁介入并带棠真离开' 发生在 scene_47，而 '棠宁与棠余月影在画房外对话' 发生在 scene_49，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d788fd512f7c",
+    "subject_id": "ep_29b45c3e29a874c7",
+    "object_id": "ep_fc56b56cb6df56a8",
+    "relation_type": "precedes",
+    "reason": "棠宁抵达画店并请求陪伴发生在棠宁与棠余月影在画房外对话之前，根据相关事件的时间顺序，前者发生在scene_48，后者发生在scene_49，具有明确的叙事先后关系。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e13abcd00e58",
+    "subject_id": "ep_29b45c3e29a874c7",
+    "object_id": "ep_74eb0d53cac1871e",
+    "relation_type": "precedes",
+    "reason": "棠宁抵达画店并请求陪伴发生在场景48，而揭示动物细节并暴露隐藏观察者发生在场景49，文档中场景顺序明确，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6e9025cb3cf0",
+    "subject_id": "ep_28c4019dae75273a",
+    "object_id": "ep_29b45c3e29a874c7",
+    "relation_type": "precedes",
+    "reason": "棠宁干预棠真教育并委托购物发生在棠宁抵达画店并请求陪伴之前，因为委托购买油画颜料是前往画店的动机，且两事件在文档中按时间顺序呈现。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7c417a769a7c",
+    "subject_id": "ep_f35a7fa46349f0e2",
+    "object_id": "ep_a23c28dae4bb6a3f",
+    "relation_type": "precedes",
+    "reason": "棠宁准备进入屋内（scene_31）发生在棠真打开木盒揭露吸毒工具（scene_33）之前，根据文档中的场景编号顺序，情节之间存在明确的叙事时间先后关系。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_197ad8a1b3bc",
+    "subject_id": "ep_a23c28dae4bb6a3f",
+    "object_id": "ep_4cadaab6608a3afd",
+    "relation_type": "precedes",
+    "reason": "揭露吸毒行为并引发家庭冲突（ep_a23c28dae4bb6a3f）包含棠宁在争执后沉默离开的事件，而棠宁显露争执后的无奈情绪（ep_4cadaab6608a3afd）描述其在家人离开后独自流露苦笑与无奈。叙事上，冲突事件发生在前，其后棠宁独处时展现情绪，因此前者在话语顺序上先于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f6ad77fe8712",
+    "subject_id": "ep_8fe4cba274b950c4",
+    "object_id": "ep_4cadaab6608a3afd",
+    "relation_type": "precedes",
+    "reason": "处理家庭内部的冲突与责任（ep_8fe4cba274b950c4）发生在棠宁劝阻棠真和棠真进入房子的场景中，而棠宁显露争执后的无奈情绪（ep_4cadaab6608a3afd）发生在家人相继离开后，时间顺序上前者早于后者，构成叙事上的先后关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_271574f65410",
+    "subject_id": "ep_f35a7fa46349f0e2",
+    "object_id": "ep_45aa0c97c1efcf47",
+    "relation_type": "precedes",
+    "reason": "棠宁准备进入屋内（scene_31）发生在廖队长持文件进入被制止、棠宁敬酒被拒等事件之前（scene_32），且文档顺序和场景编号表明明确的叙事时间先后关系。因此，'棠宁准备进入屋内'在叙事顺序上早于'维持饭局表面和谐'。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3b71e398f17c",
+    "subject_id": "ep_f35a7fa46349f0e2",
+    "object_id": "ep_eb5706a5bcaca9b9",
+    "relation_type": "precedes",
+    "reason": "棠宁端着汤走向屋内是该场景的开端，为后续母女互动提供情境铺垫，而母女亲密互动与情绪收束发生在对话和一系列动作之后，明确在叙事顺序上晚于前者。因此，'棠宁准备进入屋内'在叙事时间线上早于'母女亲密互动与情绪收束'。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ee2d10e6cdd6",
+    "subject_id": "ep_4cadaab6608a3afd",
+    "object_id": "ep_eb5706a5bcaca9b9",
+    "relation_type": "precedes",
+    "reason": "棠宁显露争执后的无奈情绪发生在母女亲密互动与情绪收束之前。前者描述争执后棠宁独自留下的情绪状态，后者描述母女恢复亲密互动的场景，包含抚摸、调侃、换台和整理衣物等行为，表明情绪已从无奈转向缓和，具有清晰的叙事时序推进。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9a7d8bfc9030",
+    "subject_id": "ep_2fb48a24f6e80d8e",
+    "object_id": "ep_9f5d8aaef707e8b2",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在官员与家属聚餐的场景（scene_19），而客体情节发生在弥陀乡官员与家属聚会的场景（scene_24），scene_19在文档顺序上早于scene_24，且棠宁在完成引导辜献忠离场后才走向林议员进行劝诫，叙事顺序明确支持主体情节在前、客体情节在后。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_be01b39601b5",
+    "subject_id": "ep_2fb48a24f6e80d8e",
+    "object_id": "ep_ad8010c641a2c096",
+    "relation_type": "precedes",
+    "reason": "棠宁介入并引导辜献忠离场（ep_2fb48a24f6e80d8e）发生在聚餐场景（scene_19），而开启谈判并建立交易语境（ep_ad8010c641a2c096）发生在scene_23，scene_19在叙事顺序上早于scene_23，因此该关系为precedes。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_90780d428871",
+    "subject_id": "ep_97eeaa878ffc126f",
+    "object_id": "ep_e3a070f1f960f341",
+    "relation_type": "precedes",
+    "reason": "化解棠真的压抑情绪发生在车内后座的冲突情境中，而处理家庭冲突后的日常事务发生在冲突结束后的家中准备待客物品的场景，根据叙事上下文和场景推进，前者在时间顺序上早于后者，且情绪和解为后续日常互动的缓和奠定了基础。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f575f43ac578",
+    "subject_id": "ep_84dfa7782fbdf552",
+    "object_id": "ep_f0ff00f5a2dee42e",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中棠余月影展示其绘制的扇子，为第二个情节中县长夫人批评女特助挥霍价值五十万的扇子提供了背景和上下文。第二个情节通过揭示该扇子在社交场合引发的议论和人情压力，进一步扩展和深化了第一个情节中艺术品展示的意义，构成信息上的延伸与深化。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a1950b41fa60",
+    "subject_id": "ep_a23c28dae4bb6a3f",
+    "object_id": "ep_e3a070f1f960f341",
+    "relation_type": "precedes",
+    "reason": "情节 '揭露吸毒行为并引发家庭冲突' 发生在 '处理家庭冲突后的日常事务' 之前，因为前者引发家庭紧张，后者描述冲突结束后母女缓和互动，准备待客物品，具有明确的叙事时序顺序。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5e33262251e9",
+    "subject_id": "ep_1daf541083a81899",
+    "object_id": "ep_51165025f4fec590",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述棠宁与棠余月影因情趣内衣发生冲突，第二个情节描述冲突结束后棠余月影改变计划决定探望翩翩。根据描述中的时间线索'在冲突结束后'，可以明确第一个情节在叙事顺序上早于第二个情节。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e2fc48bc9c4c",
+    "subject_id": "ep_8e10b73a42e32eef",
+    "object_id": "ep_e3a070f1f960f341",
+    "relation_type": "precedes",
+    "reason": "情节 '探讨Marc的下落与家庭态度' 发生在家庭冲突场景中，随后情节 '处理家庭冲突后的日常事务' 展示冲突结束后的缓和互动，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cfbce0f2b5c8",
+    "subject_id": "ep_331b9004db33f83b",
+    "object_id": "ep_b51a545db89cddbc",
+    "relation_type": "elaborates",
+    "reason": "第一个情节通过家宴互动强化情感联结，为后续公务讨论铺垫；第二个情节延续这一意图，通过展示精心挑选的西阵织礼物进一步深化情感联结，体现文化与信仰共鸣。第二个情节在主题和叙事意图上扩展了第一个情节中建立的信任与关系巩固，提供了进一步的情感细节和背景动机，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_6_part_1",
+      "scene_6_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_0fe42b4aa1b5",
+    "subject_id": "ep_1daf541083a81899",
+    "object_id": "ep_e3a070f1f960f341",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述棠宁发现情趣内衣并引发冲突，发生在场景41；第二个情节描述冲突结束后棠余月影转移注意力处理待客准备，发生在场景21。尽管文档ID不同，但场景编号表明'处理家庭冲突后的日常事务'发生在'发现情趣内衣引发冲突'之前，然而根据情节描述中的时间线索'冲突结束后'，说明'发现情趣内衣引发冲突'必须先发生。因此，该关系为precedes，方向为ep_1daf541083a81899 -> ep_e3a070f1f960f341，有明确叙事顺序支持。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7bfe7ecf8283",
+    "subject_id": "ep_49ca7e63c224a87b",
+    "object_id": "ep_5f2458ef400e909b",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述棠余月影赠玉佩以建立信任，第二个情节揭示林议员夫人曾因一句称赞便赠送整套首饰，行为反常。第二个情节通过展示林夫人对棠余月影称赞的过度反应，进一步解释和扩展了玉佩馈赠可能隐含的恐惧或讨好动机，从而对第一个情节中的信任建立行为提供了深层背景和补充解读。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_6_part_2",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_22fad3060a72",
+    "subject_id": "ep_b51a545db89cddbc",
+    "object_id": "ep_6edfa2c6698b02fb",
+    "relation_type": "elaborates",
+    "reason": "展示西阵织礼物以深化情感联结（ep_b51a545db89cddbc）解释了选择礼物的文化与信仰依据，为后续赠送古董菩萨像并展示礼盒（ep_6edfa2c6698b02fb）提供了动机和背景，扩展了该情节的情感与叙事意图。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_14_part_2",
+      "scene_6_part_1",
+      "scene_6_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1fd6175657d7",
+    "subject_id": "ep_f49f8e53f37b928e",
+    "object_id": "ep_2cc4316ecff00343",
+    "relation_type": "elaborates",
+    "reason": "棠真陪伴昏迷的林翩翩并回忆往事这一情节中，包含了她在病房内的私密情感活动，而廖队长从窗外观察棠真这一情节展示了外部视角对同一场景的介入。后者通过引入观察者视角，扩展并丰富了前一情节的叙事背景，暗示棠真的行为处于被监视的语境中，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_42_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_f980d25933e0",
+    "subject_id": "ep_1be08076fb36f960",
+    "object_id": "ep_cc071c5315304fdd",
+    "relation_type": "elaborates",
+    "reason": "主体情节‘开启离奇故事的讲述’中，老太太和中年人共同构建叙事框架，而客体情节‘揭示林庆堂家族惨案’由中年人叙述，作为该框架下的具体内容展开，提供了后续的细节和背景，因此主体情节为客体情节提供了叙事上下文并加以扩展。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5d4fbc5e7a65",
+    "subject_id": "ep_38127edbadb08ab7",
+    "object_id": "ep_cbf953c07d360c48",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述棠余月影和棠真在媒体关注下进入警局的公共场景，而客体情节补充了家逵在记者群中暗中观察她们的细节，提供了对同一场景中其他角色行为的额外视角，从而扩展了主体情节的背景信息。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_054fa9009cf2",
+    "subject_id": "ep_333eda395d3ee476",
+    "object_id": "ep_e47b957cd08db7a7",
+    "relation_type": "elaborates",
+    "reason": "情节'应对辜献忠闯入的突发干扰'描述了辜献忠在聚餐时的出现及其引发的反应，而'报道辜献忠之死与家属质疑'提供了其后续死亡及家属怀疑的背景，后者通过揭示其最终命运和官方结论的争议，扩展并深化了前者所引入的人物和紧张情境。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e5e5f5be26d4",
+    "subject_id": "ep_23a74509b77194cb",
+    "object_id": "ep_4e6bb6f1958cb06c",
+    "relation_type": "elaborates",
+    "reason": "两个情节均围绕辜献忠妻子在墓地现场指控议长后引发的围堵与撤离事件。主体情节描述议长应对公开指控和危机的全过程，客体情节则进一步细化议长一行如何策略性回避并撤离现场，提供了关于应对行为的具体行动细节，构成对主体情节的扩展说明。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4f2f37741b13",
+    "subject_id": "ep_b7f6eba98316213c",
+    "object_id": "ep_fe260d6f52edb01b",
+    "relation_type": "contrasts_with",
+    "reason": "棠真掩饰情绪的情节与家逵母子公开致谢的情节形成情感基调上的对比：一边是外在的谦逊与感恩，另一边是内在的复杂与压抑，二者并置突显了人物间的情感张力。",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a2426911038a",
+    "subject_id": "ep_636750079b7b312f",
+    "object_id": "ep_80091aa12c019425",
+    "relation_type": "precedes",
+    "reason": "启动尸体勘察并发现关键线索发生在汇总现场物证并报告嫌疑人踪迹之前，因为发现尸体和揭开衣物获取纹身是初步勘察的起始步骤，而报告手枪发现和推断嫌疑人行动是在此之后的进一步信息整合，两者均发生在同一场景（scene_50），但逻辑和叙事顺序上前者先于后者。",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e1286bfb25d6",
+    "subject_id": "ep_807d6eec0d8f7cb9",
+    "object_id": "ep_d8b27b50d24ebe2a",
+    "relation_type": "causes",
+    "reason": "导播对工作人员施加压力（通过拍打和口头威胁解雇）直接促使他们加快信息破译工作，最终在评书人介入下成功解读出‘救救她’。描述中明确指出施压行为是为了加速任务完成，且该压力行为发生在破译进展之前，构成直接因果推动。",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_54fa0318143c",
+    "subject_id": "ep_333eda395d3ee476",
+    "object_id": "ep_4e6bb6f1958cb06c",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在聚餐亭子（scene_19），涉及辜献忠醉酒闯入并被识别和处理；第二个情节发生在墓地选址考察活动（scene_38），涉及议长一行被辜献忠妻子和记者围堵后撤离。scene_19 在文档顺序和叙事时间线上早于 scene_38，且两个情节共享与辜献忠相关的线索，构成连续事件序列。因此，主体情节在时间顺序上先于客体情节。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8f3015b1d0a0",
+    "subject_id": "ep_80091aa12c019425",
+    "object_id": "ep_70586cf5fbc93530",
+    "relation_type": "precedes",
+    "reason": "警员报告在草丛中发现M92手枪并推断嫌疑人踪迹（ep_80091aa12c019425）发生在另一名警员汇报发现来自缅甸的糖并引发廖队长深层思索（ep_70586cf5fbc93530）之前，两个情节均发生在scene_50，但发现手枪的报告为后续发现跨境物证提供了初步案情判断基础，叙事顺序上前者先发生。",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e18ba59c9c32",
+    "subject_id": "ep_4b8fc3369e9d51c7",
+    "object_id": "ep_2fb48a24f6e80d8e",
+    "relation_type": "precedes",
+    "reason": "辜献忠自我介绍并试图融入聚餐场合发生在棠宁介入并引导其离场之前，两者共享同一场合（官员与家属聚餐），且事件序列显示其行为从主动参与转向被引导离开，叙事顺序明确。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_078b4ccd874f",
+    "subject_id": "ep_0ca0a4150b5f8bd9",
+    "object_id": "ep_71d0afb5274e55e0",
+    "relation_type": "causes",
+    "reason": "王夫人对‘挡灾’说法的追问和表现出的不安导致气氛再度紧张，这可能引发棠宁的情绪低落和退至边缘的行为，二者发生在同一场合且存在情绪上的连锁反应，文本暗示了前一情节对后一情节的触发作用。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_14_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_535bf199d2dc",
+    "subject_id": "ep_220241945e3f0dd0",
+    "object_id": "ep_0ca0a4150b5f8bd9",
+    "relation_type": "causes",
+    "reason": "棠余月影解释佛像断裂为挡灾象征（ep_220241945e3f0dd0）直接引发王夫人对挡灾说法产生疑虑并表达不安（ep_0ca0a4150b5f8bd9），文本中王夫人的不安是对‘挡灾’一词的直接反应，表明该情节作为即时后果被触发。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_14_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_eb569f00ed9b",
+    "subject_id": "ep_333eda395d3ee476",
+    "object_id": "ep_2fb48a24f6e80d8e",
+    "relation_type": "precedes",
+    "reason": "情节'应对辜献忠闯入的突发干扰'描述了辜献忠醉酒闯入后引发的识别与应对过程，而'棠宁介入并引导辜献忠离场'紧随其后，主动化解尴尬并带其离开。两个情节共享同一场合'官员与家属聚餐'，且事件序列在scene_19中按时间顺序呈现，前者为后者提供直接上下文，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_05536dce97a7",
+    "subject_id": "ep_1eb2f3987fc5885c",
+    "object_id": "ep_ff3405ec60353ca3",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在墓地选址考察活动（scene_38），而客体情节发生在议长特助组织的墓地查看聚会（scene_37）。根据相关场合的场景编号，scene_37早于scene_38，因此客体情节在叙事顺序上先于主体情节。由于关系模式中precedes为有向关系，且主体在时间上晚于客体，故关系为object -> subject，但输出以subject -> object方向判断时不成立；然而根据事件流，ep_ff3405ec60353ca3（scene_37）在前，ep_1eb2f3987fc5885c（scene_38）在后，因此主体ep_1eb2f3987fc5885c在时间上晚于客体，故主体precedes客体不成立。反向成立，但由于关系方向必须符合subject->object，因此不能断言precedes。经重新评估，两个情节分别描述相似权力展示行为，但发生在不同场合（scene_37 vs scene_38），无明确因果、对比或扩展关系。related_events和description显示两者独立描述政治介入，无直接因果或对比证据。因此，无充分支持任何有向或对称关系。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  }
+]

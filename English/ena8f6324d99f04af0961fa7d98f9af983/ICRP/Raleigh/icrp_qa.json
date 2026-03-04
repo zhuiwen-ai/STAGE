@@ -1,0 +1,65 @@
+{
+  "character": "Raleigh",
+  "qas": [
+    {
+      "question": "You saw Bess waiting for you—what did you do in response to noticing her?",
+      "supporting_facts": [
+        "you noticed Bess waiting for you",
+        "you did not remain in the location after noticing her"
+      ],
+      "contradicting_facts": [
+        "you ignored Bess when you saw her",
+        "you stayed in the location after seeing Bess"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you arrive at the Great Hall by yourself?",
+      "supporting_facts": [
+        "You did not arrive at the Great Hall alone",
+        "Your arrival involved at least one other person"
+      ],
+      "contradicting_facts": [
+        "You arrived at the Great Hall without anyone else",
+        "You were the only one present upon your arrival at the Great Hall"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were in the room when the baby was present—what did you do to show affection?",
+      "supporting_facts": [
+        "Raleigh is present in the room",
+        "Raleigh kisses the baby's bald head"
+      ],
+      "contradicting_facts": [
+        "Raleigh did not make physical contact with the baby",
+        "Raleigh avoided showing affection to the baby"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you stay with the others throughout the entire time in the room?",
+      "supporting_facts": [
+        "You did not leave the room before the others.",
+        "You remained present until the group departed."
+      ],
+      "contradicting_facts": [
+        "You exited the room before anyone else.",
+        "You avoided staying with the group by leaving early."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Where were you physically located at one point?",
+      "supporting_facts": [
+        "You were in the water",
+        "Being in the water is a confirmed state you experienced"
+      ],
+      "contradicting_facts": [
+        "You remained on dry land the entire time",
+        "You never entered any body of water"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

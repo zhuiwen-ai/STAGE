@@ -1,0 +1,468 @@
+[
+  {
+    "id": "rel_ep_ep_536204abbb4d",
+    "subject_id": "ep_f02ad3d104a35bd1",
+    "object_id": "ep_3e4e88b798032ce9",
+    "relation_type": "precedes",
+    "reason": "The Initiate greeting and introductions episode occurs first, as Aron arrives, introduces himself, and establishes a friendly tone, which is followed by the Clarify destination and plan the climb episode where the group discusses the Cathedral. The sequence of related_events in scene_28 supports this temporal order.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_62c12e486847",
+    "subject_id": "ep_f02ad3d104a35bd1",
+    "object_id": "ep_02bdf13c438f12ee",
+    "relation_type": "precedes",
+    "reason": "The Initiate greeting and introductions episode occurs first, as Aron arrives, introduces himself, and comments on the day before the group discusses their travel methods. The related events in both episodes are listed in the same scene (scene_28) and the natural narrative flow shows greetings preceding a conversation about arrival details.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f2d397e2cdba",
+    "subject_id": "ep_172bfce7a4413acf",
+    "object_id": "ep_02f0a166bcc9c48f",
+    "relation_type": "elaborates",
+    "reason": "Aron's demonstration and explanation of the chimneying descent technique provides instructional context that grounds the subsequent request for Kristi to place her weight on his head; the technical maneuver described in the second episode elaborates the practical application of the climbing technique referenced in the first episode, particularly regarding body positioning and safety during descent.",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c9ba73a7b704",
+    "subject_id": "ep_02bdf13c438f12ee",
+    "object_id": "ep_3e4e88b798032ce9",
+    "relation_type": "precedes",
+    "reason": "The discussion about arrival methods and travel conditions occurs before the clarification of the destination and planning of the climb to the Cathedral, as both episodes are part of the same scene (scene_28) and the conversation flows sequentially: first comparing travel routes, then moving to destination and plans. The narrative order within the scene supports a direct temporal sequence.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1b36cd851b13",
+    "subject_id": "ep_8c3641ad31148aa4",
+    "object_id": "ep_02bdf13c438f12ee",
+    "relation_type": "precedes",
+    "reason": "The episode 'React to Aron's unexpected appearance and mask' involves initial reactions to Aron's arrival and his hockey mask, which sets the context for the subsequent conversation in 'Discuss arrival methods and travel conditions' where Aron and the women exchange details about their travel. The narrative flow in scene_28 supports a chronological sequence where the reaction precedes the discussion.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4f340e579102",
+    "subject_id": "ep_adf63baf58f491b3",
+    "object_id": "ep_12f5d6f77825c316",
+    "relation_type": "precedes",
+    "reason": "The episode 'Enter the pool and float together' describes a sequence of actions that occur before Megan demands a repeat and filming, as the latter explicitly refers to repeating the prior action, implying the original event must have occurred first.",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bf0e033379ed",
+    "subject_id": "ep_f02ad3d104a35bd1",
+    "object_id": "ep_c92f0b9098ebaa04",
+    "relation_type": "precedes",
+    "reason": "The initiation of greeting and introductions between Aron, Kristi, and Megan logically precedes the invitation to the party, as social interaction begins with introductions before progressing to planning future events. The related events in the first episode establish the initial contact, which provides the necessary context for the subsequent invitation episode.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_da3f1f89aa5c",
+    "subject_id": "ep_8c3641ad31148aa4",
+    "object_id": "ep_3e4e88b798032ce9",
+    "relation_type": "precedes",
+    "reason": "The episode 'React to Aron's unexpected appearance and mask' involves initial reactions to Aron's arrival and his mask, which sets the context for the subsequent conversation in 'Clarify destination and plan the climb to the Cathedral' where Aron and the women discuss their plans. The narrative flow in scene_28 suggests a temporal sequence where the surprise encounter precedes the planning discussion.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_42e0bfefe756",
+    "subject_id": "ep_c92f0b9098ebaa04",
+    "object_id": "ep_5a69513d03eb4fd0",
+    "relation_type": "precedes",
+    "reason": "The exchange of party invitation and logistical details (including time, location, and directions) must occur before the confirmation of party plans with a beer promise, as the latter reinforces social anticipation established in the former. Both episodes occur in the same scene (scene_38) and are part of a sequential narrative flow where planning precedes reaffirmation.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3fadb6406a63",
+    "subject_id": "ep_a5ce9c347d70ead4",
+    "object_id": "ep_c92f0b9098ebaa04",
+    "relation_type": "precedes",
+    "reason": "The episode 'Kristi and Megan probe Aron about his love life' occurs in doc_31 and scene_32, while 'Exchange party invitation and logistical details' occurs in doc_37 and scene_38, indicating a clear sequential order where the romantic conversation precedes the party invitation. The narrative progression from personal discussion to social planning supports the 'precedes' relation with high confidence.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_453e2189e605",
+    "subject_id": "ep_51cb4828b4cdffa3",
+    "object_id": "ep_5a69513d03eb4fd0",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode involves Aron declining to hike out with Kristi and Megan, emphasizing separation and divergent goals, while the object episode features Aron promising a shared social reunion over beer, reinforcing camaraderie. These episodes are juxtaposed to highlight a contrast between immediate separation and future togetherness, underscoring emotional tension in their farewell.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_9634bf16e6cf",
+    "subject_id": "ep_8c3641ad31148aa4",
+    "object_id": "ep_a5ce9c347d70ead4",
+    "relation_type": "precedes",
+    "reason": "The first episode involves the initial encounter and reaction to Aron's appearance and mask, which sets the context for the subsequent conversation in the second episode where Kristi and Megan probe Aron about his love life. The shift from surprise and humor about Aron's mask to a more personal, playful line of questioning about his romantic status indicates a natural progression in the interaction, with the first episode occurring before the second in the narrative sequence.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4908f9b04641",
+    "subject_id": "ep_f02ad3d104a35bd1",
+    "object_id": "ep_f36f4fb2285b6fe0",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate greeting and introductions' occurs when Aron arrives and exchanges greetings, which is followed by the object episode where Aron jumps into the water, causing a splash that prompts Megan's concern and Kristi's reassurance. The sequence of events—greeting first, then jump and reaction—is supported by the scene numbering (scene_28 for the greeting, scene_30 for the jump and response), indicating a clear temporal order.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_60fb58aec202",
+    "subject_id": "ep_f02ad3d104a35bd1",
+    "object_id": "ep_8c3641ad31148aa4",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate greeting and introductions' includes Aron sliding down, offering a handshake, and exchanging names, which establishes the initial contact. The episode 'React to Aron's unexpected appearance and mask' follows, involving Megan's comment on Aron startling them and Kristi's humorous reaction to the mask, indicating a sequence where the greeting logically precedes the reaction to appearance and mask. Both episodes occur in scene_28, and the narrative flow in the descriptions supports a clear temporal order.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7bd68d1ecc5e",
+    "subject_id": "ep_02bdf13c438f12ee",
+    "object_id": "ep_c92f0b9098ebaa04",
+    "relation_type": "precedes",
+    "reason": "The discussion about arrival methods and travel conditions occurs during the initial meeting between Aron and the women at the canyon, establishing their first interaction. The party invitation and logistical exchange follows this introduction, as Aron builds rapport and extends social plans. The narrative sequence is supported by the progression from initial contact and comparison of travel experiences to the subsequent arrangement of future plans, indicating a clear temporal order where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5d2fd8e44dca",
+    "subject_id": "ep_8c3641ad31148aa4",
+    "object_id": "ep_f36f4fb2285b6fe0",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves the initial encounter and reaction to Aron's appearance and mask in the desert, which sets up the social context before Aron performs the water jump. The object episode centers on the group's reaction to the audible splash of Aron's jump, an action that logically follows after the initial meeting. The narrative sequence implied by the events—first encountering Aron, then reacting to his subsequent action—supports a 'precedes' relation from the first episode to the second.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_51d83b404027",
+    "subject_id": "ep_1cf21727477d4614",
+    "object_id": "ep_51cb4828b4cdffa3",
+    "relation_type": "elaborates",
+    "reason": "The subject episode discusses the plan and risks of the Big Drop Rappel, and the object episode elaborates on this by showing Kristi's attempt to persuade Aron to abandon the climb, thereby expanding on the social and motivational context surrounding the decision. The persuasion attempt provides additional narrative detail about the interpersonal dynamics already present in the initial discussion, reinforcing the commitment to the climb.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e621ea77ca53",
+    "subject_id": "ep_1cf21727477d4614",
+    "object_id": "ep_c889cf157f8e5ff2",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_38 and involve the group's decision-making during the hike. The discussion about the Big Drop Rappel, including concerns about darkness, directly sets up the subsequent need to navigate the trail fork and assess the return route. The shared context of timing and safety concerns, along with the sequential nature of route planning followed by navigation, supports that the discussion precedes the route assessment.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fe60a15db9b8",
+    "subject_id": "ep_02bdf13c438f12ee",
+    "object_id": "ep_51cb4828b4cdffa3",
+    "relation_type": "precedes",
+    "reason": "The discussion about arrival methods (ep_02bdf13c438f12ee) occurs earlier in the narrative, establishing the context of Aron's solo trip, which directly precedes the attempt to persuade him to hike out together (ep_51cb4828b4cdffa3), where his commitment to a separate path is reaffirmed. The sequence is supported by the progression of dialogue and decision-making in the story.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_873e7f916d98",
+    "subject_id": "ep_3e4e88b798032ce9",
+    "object_id": "ep_51cb4828b4cdffa3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Clarify destination and plan the climb to the Cathedral' occurs earlier in the narrative, where Aron interacts with Kristi and Megan about the climb, and they express enthusiasm. Later, in 'Attempt to persuade Aron to hike out together', Kristi proposes a different plan, indicating a shift in intent after the initial climb plan was discussed. The narrative progression across scenes (scene_28 before scene_38) supports the temporal order.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8e879f4f68fa",
+    "subject_id": "ep_02bdf13c438f12ee",
+    "object_id": "ep_1cf21727477d4614",
+    "relation_type": "precedes",
+    "reason": "The discussion about arrival methods and travel conditions (ep_02bdf13c438f12ee) occurs earlier in the narrative sequence, as it establishes initial interactions and context before transitioning to the proposal of the Big Drop Rappel (ep_1cf21727477d4614), which involves planning the next activity. The related events in the first episode are introductory and social, while the second episode involves decision-making about a specific climb, indicating a chronological progression.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7b2ac2c35239",
+    "subject_id": "ep_bc6495284081c7b4",
+    "object_id": "ep_f36f4fb2285b6fe0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assert presence through sound and movement' includes Aron singing loudly and Kristi moving away, which establishes his audible presence, while 'Respond to Aron's water jump' is triggered by the loud splash from his jump and subsequent concern from Megan. The jump into the water (in the second episode) must occur after the singing and movement (in the first episode) to maintain a coherent sequence of auditory cues, with the splash marking a new event that prompts a reaction. The shared scene (scene_30) and the causal dependency on sound suggest a local narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b3ad6eab2ce5",
+    "subject_id": "ep_f02ad3d104a35bd1",
+    "object_id": "ep_a5ce9c347d70ead4",
+    "relation_type": "precedes",
+    "reason": "The 'Initiate greeting and introductions' episode (ep_f02ad3d104a35bd1) occurs in scene_28, where Aron arrives and exchanges greetings and names with Kristi and Megan. The episode 'Kristi and Megan probe Aron about his love life' (ep_a5ce9c347d70ead4) occurs in scene_32, where the conversation shifts to romantic topics. The explicit scene ordering (28 before 32) supports a clear narrative sequence where the introduction precedes the deeper, more personal conversation.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_67ba69c04bf6",
+    "subject_id": "ep_700da47b312533e9",
+    "object_id": "ep_936d72b7a74c2573",
+    "relation_type": "contrasts_with",
+    "reason": "The episode 'Escape into the sunlight' depicts a transition from confinement to freedom in a bright, open environment, while 'Descend into the narrowing slot canyon' involves movement into increasing physical constraint and isolation. These episodes are thematically opposed in terms of spatial freedom, tone, and environmental conditions, suggesting a clear contrast in state and setting.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_cf2cb2ca9165",
+    "subject_id": "ep_b952fa03db463d77",
+    "object_id": "ep_c3af2218c95a8e6c",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Aron playing music while hiking, which occurs during active movement, while the object episode involves turning off the music and preparing for rest at the Horseshoe Canyon entrance. The cessation of music in the object episode suggests it follows the music-playing activity in the subject episode, supporting a 'precedes' relation from the hiking/music episode to the rest preparation episode.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_11427818e443",
+    "subject_id": "ep_b69023353fcb24b0",
+    "object_id": "ep_c3af2218c95a8e6c",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Aron reacting to nearly missing the canyon turnoff, which logically occurs before the object episode where he prepares for rest at the Horseshoe Canyon entrance. The sequence of navigation and arrival (turning back to the correct path) must precede setting up for rest at that location, as described in the respective episodes' actions and context.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b4b9e4a8da52",
+    "subject_id": "ep_54dcfa8b7f66537d",
+    "object_id": "ep_a5ce9c347d70ead4",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate contact with hikers' involves Aron approaching the girls and introducing himself, which establishes the initial interaction. The episode 'Kristi and Megan probe Aron about his love life' occurs during the same hike and involves a subsequent, more personal conversation. The progression from introduction to deeper social inquiry supports a narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d11182d24600",
+    "subject_id": "ep_54dcfa8b7f66537d",
+    "object_id": "ep_02bdf13c438f12ee",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate contact with hikers' involves Aron approaching the two girls and introducing himself, which is a necessary precursor to the subsequent conversation in 'Discuss arrival methods and travel conditions' where they exchange details about their travel. The related events in the second episode include dialogue and reactions that presuppose contact has already been established, indicating a clear temporal sequence.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bda812b01011",
+    "subject_id": "ep_3e4e88b798032ce9",
+    "object_id": "ep_26a71f6709efb774",
+    "relation_type": "precedes",
+    "reason": "The episode 'Clarify destination and plan the climb to the Cathedral' (scene_28) occurs before 'Aron leads the group with a daring climb' (scene_29), as indicated by the sequential scene numbers in their related_events, establishing a clear narrative order.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c2164a51476c",
+    "subject_id": "ep_54dcfa8b7f66537d",
+    "object_id": "ep_e87156722fad17c3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate contact with hikers' involves Aron approaching the girls at the beginning of their interaction, while 'Pose for final photo and exchange farewells' occurs at the end of their shared journey, marking emotional closure. The narrative progression from initial contact to final farewell strongly supports a temporal order where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2714632362f8",
+    "subject_id": "ep_8255644cc97881fa",
+    "object_id": "ep_bc6495284081c7b4",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, in which Aron defends his solitude and musical passion, provides contextual background for his later loud singing of a Phish song in the object episode. The shared focus on Aron's connection to Phish music and his use of it to assert identity suggests the first episode elaborates on the motivations or personal significance behind the actions in the second.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4026f37798a2",
+    "subject_id": "ep_8c3641ad31148aa4",
+    "object_id": "ep_26a71f6709efb774",
+    "relation_type": "precedes",
+    "reason": "The encounter and reaction to Aron's appearance (including comments on his mask and surprise at meeting others) occurs in scene_28, while Aron leading the climb with inverted movement and minimal gear occurs in scene_29. The scene numbers indicate a clear narrative order where the reaction episode precedes the climbing leadership episode.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a659814a79e4",
+    "subject_id": "ep_54dcfa8b7f66537d",
+    "object_id": "ep_f02ad3d104a35bd1",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate contact with hikers' occurs when Aron approaches two girls passing a map, while the object episode 'Initiate greeting and introductions' involves Aron sliding down to join Kristi and Megan and exchanging names. The related_events and scene numbers (scene_27 for subject, scene_28 for object) indicate a sequential narrative order, with the subject episode preceding the object episode in the local discourse.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_df2ce70d3859",
+    "subject_id": "ep_5a69513d03eb4fd0",
+    "object_id": "ep_e87156722fad17c3",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_38 and are part of the final moments before the group separates. The promise of beer (subject) serves as a gesture of future connection, while the photo and farewells (object) function as a symbolic closure. The beer promise is framed as a 'final gesture' that precedes the emotionally conclusive act of taking a final photo, which marks the end of their interaction.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bb06ab68bf69",
+    "subject_id": "ep_54dcfa8b7f66537d",
+    "object_id": "ep_8c3641ad31148aa4",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate contact with hikers' involves Aron approaching the girls and introducing himself, which is a necessary prior action to the object episode 'React to Aron's unexpected appearance and mask', where the girls and Aron react to the encounter. The related events in the object episode (e.g., Megan commenting on Aron surprising them, Kristi reacting to the mask) presuppose that Aron has already approached them, establishing a clear temporal sequence.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d68cd381161f",
+    "subject_id": "ep_26a71f6709efb774",
+    "object_id": "ep_f02ad3d104a35bd1",
+    "relation_type": "precedes",
+    "reason": "The 'Initiate greeting and introductions' episode (scene_28) occurs before the 'Aron leads the group with a daring climb' episode (scene_29), as indicated by the sequential scene numbers in their related_events. Aron first arrives and greets the group (scene_28), then immediately proceeds to lead the climb (scene_29), establishing a clear local narrative order.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_022eedd3b39e",
+    "subject_id": "ep_26a71f6709efb774",
+    "object_id": "ep_86b3babab402d6ec",
+    "relation_type": "precedes",
+    "reason": "The episode 'Aron leads the group with a daring climb' involves Aron initiating the ascent and encouraging others to follow, which logically and narratively occurs before the episode 'Celebrate summit achievement and recognize Aron's altitude record', where Aron has already reached the summit and is being recognized for his accomplishment. The progression from leading the climb to summit celebration implies a temporal sequence supported by the goal-driven narrative flow of a climb culminating in achievement.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_88610c873c08",
+    "subject_id": "ep_02bdf13c438f12ee",
+    "object_id": "ep_26a71f6709efb774",
+    "relation_type": "precedes",
+    "reason": "The discussion about arrival methods (ep_02bdf13c438f12ee) occurs in doc_27 and scene_28, while Aron's daring climb (ep_26a71f6709efb774) occurs in doc_28 and scene_29, indicating a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f165da971ad6",
+    "subject_id": "ep_26a71f6709efb774",
+    "object_id": "ep_f36f4fb2285b6fe0",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Aron leads the group with a daring climb' includes Aron describing hidden holds and encouraging others to follow, which sets up his leadership role prior to the object episode where 'Respond to Aron's water jump' occurs after he jumps into the water. The related events in the object episode reference a loud splash from Aron's jump, an action not present in the subject episode, indicating a subsequent event. The narrative flow and event sequence suggest the climb leadership precedes the water jump and the group's reaction to it.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e5aec573585f",
+    "subject_id": "ep_54dcfa8b7f66537d",
+    "object_id": "ep_3e4e88b798032ce9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate contact with hikers' (ep_54dcfa8b7f66537d) occurs in doc_26 and involves Aron approaching the two girls, which sets up the interaction. The episode 'Clarify destination and plan the climb to the Cathedral' (ep_3e4e88b798032ce9) occurs in doc_27 and involves a continuation of the conversation with Kristi and Megan about the climb. The narrative order across documents indicates that initiating contact precedes planning the climb.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  }
+]

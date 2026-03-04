@@ -1,0 +1,1583 @@
+[
+  {
+    "id": "rel_ep_ep_a4ce44b8ad96",
+    "subject_id": "ep_63665a053ad25f9f",
+    "object_id": "ep_9ef520bd6f556ce0",
+    "relation_type": "precedes",
+    "reason": "Rey descends the sand dune toward the salt flats before departing on her speeder, as both actions occur in scene_19 and the descent is a prior movement toward her speeder's location, establishing a clear sequential order in the narrative.",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_988105b7cb59",
+    "subject_id": "ep_9cf6696fa598fa34",
+    "object_id": "ep_3accda342a506974",
+    "relation_type": "precedes",
+    "reason": "The confrontation between Kylo Ren and Lor San Tekka, where Kylo demands the map, directly sets the stage for the subsequent killing of Tekka and capture of Poe. The description of the second episode explicitly references the failure of dialogue in the first, indicating a clear narrative sequence where the confrontation occurs before the execution and capture.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8dcdb49a9b92",
+    "subject_id": "ep_3accda342a506974",
+    "object_id": "ep_29455f2471fa7e13",
+    "relation_type": "precedes",
+    "reason": "The episode 'Kylo Ren kills Lor San Tekka and captures Poe' occurs in scene_10, while 'Endure interrogation and resist revealing the map' occurs in scene_28, indicating a clear earlier-later narrative order based on scene numbering and event flow.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_86d8871d1e43",
+    "subject_id": "ep_9a33f8a3babc7034",
+    "object_id": "ep_3d57e84955de4d5a",
+    "relation_type": "precedes",
+    "reason": "The detection and response to the approaching enemy threat (observing ships, urgent urging to flee, decision to leave) occurs in scene_4, which directly precedes the evacuation and defensive preparations in the village (scene_5), indicating a sequential narrative order where the threat detection prompts the subsequent defensive actions.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e05aa2abda24",
+    "subject_id": "ep_c4f798cfe735712e",
+    "object_id": "ep_9b0f89f1f7567b98",
+    "relation_type": "precedes",
+    "reason": "The negotiation over Rey's collected goods occurs first, as Unkar evaluates her scavenged items and offers reduced payment, which leads directly into his subsequent shift in focus to inquire about purchasing BB-8. The sequence of events within scene_31 supports a clear narrative order where the trade negotiation precedes the offer to buy BB-8.",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ceeec2b00b66",
+    "subject_id": "ep_6eb8d5528fb0c24c",
+    "object_id": "ep_64435fa868f04641",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confirm piloting capability and mutual need' establishes the necessity of a skilled pilot for the escape plan, which logically precedes the coordinated attack during flight. The attack requires Poe's piloting skills confirmed earlier, and the narrative flow in the related events suggests a sequence where establishing capability comes before executing a mission-dependent action.",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dbe42cfcaaa1",
+    "subject_id": "ep_c83cb5103cf5e55e",
+    "object_id": "ep_577814abdc82d6f0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Poe entrusts BB-8 with the artifact and sends it to safety' occurs immediately before 'Poe defends position by firing on incoming troopers', as the description states the defensive action begins 'after sending BB-8 away', establishing a clear temporal sequence.",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e32f4fb32158",
+    "subject_id": "ep_3accda342a506974",
+    "object_id": "ep_110622119c977486",
+    "relation_type": "precedes",
+    "reason": "The episode 'Kylo Ren kills Lor San Tekka and captures Poe' includes Poe's capture, which logically precedes the subsequent interrogation and transfer in 'Kylo Ren interrogates Poe and secures prisoner transfer'. Both episodes occur in the same scene (scene_10) and share the occasion of the battle, supporting a tight temporal sequence where capture must come before interrogation and transfer.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e0c253931723",
+    "subject_id": "ep_9b0f89f1f7567b98",
+    "object_id": "ep_22483020bcee2819",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Unkar's offer to buy BB-8' includes Rey deciding not to sell BB-8, which directly precedes the episode 'Depart and trigger pursuit' where Rey and BB-8 leave and Unkar initiates pursuit. The sequence of events in the shared scene (scene_31) supports a clear narrative order: refusal to sell occurs before departure and pursuit.",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f0b815495714",
+    "subject_id": "ep_fe5619997b6a1d68",
+    "object_id": "ep_3accda342a506974",
+    "relation_type": "precedes",
+    "reason": "The episode 'Poe observes confrontation from hiding' occurs before 'Kylo Ren kills Lor San Tekka and captures Poe', as Poe's observation is described as happening prior to his intervention, which directly leads into the killing and capture sequence in the same scene.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7c02c97fdf86",
+    "subject_id": "ep_8027282485dc61f1",
+    "object_id": "ep_9b0f89f1f7567b98",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rey reluctantly accepts BB-8 as a companion' occurs when Rey and BB-8 leave together across the desert (scene_26), which happens before the interaction with Unkar Plutt in scene_31 where he offers to buy BB-8. The narrative order of scenes supports that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e1f5b21c48b2",
+    "subject_id": "ep_fe5619997b6a1d68",
+    "object_id": "ep_110622119c977486",
+    "relation_type": "precedes",
+    "reason": "Poe observes Kylo Ren's confrontation with Lor San Tekka from hiding before being captured and interrogated by Kylo Ren, as indicated by the sequence of related events in scene_10. The observation occurs prior to the interrogation and prisoner transfer, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fc8c4917f7c0",
+    "subject_id": "ep_3accda342a506974",
+    "object_id": "ep_6051a703f1b780ca",
+    "relation_type": "precedes",
+    "reason": "The episode 'Kylo Ren kills Lor San Tekka and captures Poe' occurs before 'Kylo Ren senses disturbance and locks eyes with Our Trooper' as the latter happens during Kylo Ren's return to his shuttle after securing Poe, indicating a clear sequential order in the narrative.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e25867e37097",
+    "subject_id": "ep_fb44c4179e4c1bd6",
+    "object_id": "ep_da0502fc687dd7ab",
+    "relation_type": "precedes",
+    "reason": "The description of 'Transfer the sacred sack and affirm the mission' includes Lor San Tekka handing the sack to Poe and discussing the mission, which is immediately followed by BB-8 entering frantically to warn of danger. The shift in focus from the transfer to the warning indicates a clear narrative sequence where the transfer occurs before the response to the warning.",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7b72af6ec255",
+    "subject_id": "ep_8027282485dc61f1",
+    "object_id": "ep_22483020bcee2819",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rey reluctantly accepts BB-8 as a companion' occurs when Rey and BB-8 leave together across the desert (scene_26), which precedes the episode 'Depart and trigger pursuit' where they leave Unkar Plutt's location and the pursuit is initiated (scene_31). The narrative order of scenes (26 before 31) provides explicit chronological support.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2c422397f068",
+    "subject_id": "ep_9af56b1e7ab271e8",
+    "object_id": "ep_271d2db8c5a6618f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Extract and secure valuable component' involves the Scavenger retrieving and storing the component in the satchel, which directly precedes the subsequent descent through the machinery-filled corridor. The description of the descent episode states it represents 'the transition to the next location, emphasizing movement through a dangerous environment post-extraction,' indicating a clear narrative sequence where extraction must occur before descent.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a87e82e822b1",
+    "subject_id": "ep_2721d22687b4dc0d",
+    "object_id": "ep_0f4652b0ce5acc8e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rey responds to distress signals' includes Rey hearing BB-8's beeping and rushing to discover him, which directly precedes the episode 'Rey establishes first contact with BB-8' where she kneels, silences him, and communicates. The related events in both episodes occur in scene_26 and follow a clear temporal sequence: discovery and approach before interaction.",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_62f2b03b6a9e",
+    "subject_id": "ep_9cf6696fa598fa34",
+    "object_id": "ep_110622119c977486",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_10 and share the same occasion, but Kylo Ren's confrontation with Lor San Tekka must occur before the interrogation of Poe, as the narrative establishes Kylo Ren arriving on the battlefield and confronting Tekka first, followed by the capture and interrogation of Poe. The sequence of related events and the flow within the shared scene support a local narrative order where the confrontation precedes the interrogation and prisoner transfer.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0ff5139acafa",
+    "subject_id": "ep_8027282485dc61f1",
+    "object_id": "ep_96e5205c7c923487",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rey reluctantly accepts BB-8 as a companion' occurs before 'Rey confronts the Teedo to rescue BB-8' in the narrative sequence, as both take place in scene_26 and the acceptance of BB-8 as a companion logically precedes her defending him from the Teedo. The related_events in both episodes support this temporal ordering.",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_54ebbb348d8a",
+    "subject_id": "ep_13fc3eb0858e3732",
+    "object_id": "ep_62446c04f65815e2",
+    "relation_type": "causes",
+    "reason": "The preparation of the TIE fighter cockpit (including powering up the ship) directly leads to the uncontrolled launch, as the abrupt lurch forward occurs upon activation. Poe's immediate response to stabilize the vessel is a direct consequence of this activation, establishing a clear causal chain from the subject episode to the object episode.",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c2fe3cc0955e",
+    "subject_id": "ep_96e5205c7c923487",
+    "object_id": "ep_0f4652b0ce5acc8e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rey confronts the Teedo to rescue BB-8' must occur before 'Rey establishes first contact with BB-8' because Rey cannot interact meaningfully with BB-8 until after she has rescued him from the Teedo. The related events in both episodes are part of the same scene (scene_26) and describe a continuous sequence where rescue logically precedes communication.",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cb64cbad1f35",
+    "subject_id": "ep_6051a703f1b780ca",
+    "object_id": "ep_9cf6696fa598fa34",
+    "relation_type": "precedes",
+    "reason": "Kylo Ren confronts Lor San Tekka before sensing a disturbance and locking eyes with Our Trooper, as indicated by the sequence of related events in scene_10: Kylo Ren emerges and confronts Tekka, then later senses the trooper's presence. The narrative flow within the shared occasion supports this temporal order.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4ffcb319811c",
+    "subject_id": "ep_887179e3cac5571f",
+    "object_id": "ep_22483020bcee2819",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rey completes a meager trade with Unkar Plutt' occurs earlier in the narrative, as it describes Rey's initial interaction with Unkar Plutt at the service window, including receiving food and departing. This is followed by the episode 'Depart and trigger pursuit', which begins with Rey leaving after refusing to sell BB-8, indicating a subsequent event. The shared context of the service window and Rey's departure establishes a clear temporal sequence.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b62d4cd1e468",
+    "subject_id": "ep_887179e3cac5571f",
+    "object_id": "ep_9b0f89f1f7567b98",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rey completes a meager trade with Unkar Plutt' occurs in scene_23, while 'Respond to Unkar's offer to buy BB-8' occurs in scene_31, indicating a clear narrative sequence where the trade precedes the droid offer. The shift in Unkar's focus from the trade to BB-8 is described as happening 'after the initial trade discussion,' supporting the temporal order.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ed424fe1de85",
+    "subject_id": "ep_1ac774427704957b",
+    "object_id": "ep_4eb0547fefad9fcc",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate escape plan and establish mutual trust' involves FN-2187 revealing his identity and starting the rescue, which sets up Poe's subsequent full commitment in the object episode 'Commit to the escape mission'. The narrative progression in the same scene (scene_34) and the logical dependency—trust initiation preceding full commitment—support a directed 'precedes' relation.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_06445ea3d7c9",
+    "subject_id": "ep_1ac774427704957b",
+    "object_id": "ep_6eb8d5528fb0c24c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate escape plan and establish mutual trust' occurs first, where FN-2187 reveals his identity and begins the rescue, followed by 'Confirm piloting capability and mutual need', where the practical details of the escape are confirmed through Poe's piloting assertion. Both episodes occur in scene_34, but the trust-establishing interaction logically precedes the utility-checking dialogue, as establishing intent comes before confirming capability in the narrative flow.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f0efa66fd6d4",
+    "subject_id": "ep_c4f798cfe735712e",
+    "object_id": "ep_22483020bcee2819",
+    "relation_type": "precedes",
+    "reason": "The negotiation over Rey's collected goods occurs before her departure and the initiation of pursuit. The description of 'Negotiate trade for Rey's collected goods' includes Rey objecting to the reduced offer, which directly precedes her leaving with BB-8 in the subsequent episode. The sequence of related_events in both episodes takes place in scene_31, and the narrative flow shows the trade dispute leading directly to Rey's departure, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8ad4c17d1be8",
+    "subject_id": "ep_c3117e22d7509386",
+    "object_id": "ep_6051a703f1b780ca",
+    "relation_type": "precedes",
+    "reason": "The episode 'Stormtrooper experiences crisis and refuses order to fire' includes events where Our Trooper refuses to fire during the execution of villagers, which occurs before Kylo Ren senses a disturbance and locks eyes with the trooper, as described in the latter episode. Both episodes occur in scene_10 and share the same occasion, but the refusal to fire (subject) directly precedes the moment Kylo Ren senses and locks eyes (object), establishing a clear local narrative order.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8c61e2a676da",
+    "subject_id": "ep_6eb8d5528fb0c24c",
+    "object_id": "ep_6d4bebf5cfaa6e31",
+    "relation_type": "precedes",
+    "reason": "The confirmation of piloting capability occurs in scene_34, where FN-2187 and Poe establish their mutual need and ability to escape, directly before the sequence in scene_35 where they navigate the hangar to reach the TIE fighter. The related_events timestamps and narrative flow support a clear temporal order: the conversation about flying the TIE fighter must precede the physical movement toward it.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0e395363839d",
+    "subject_id": "ep_1ac774427704957b",
+    "object_id": "ep_64c3f05652207018",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate escape plan and establish mutual trust' involves FN-2187 rescuing Poe and establishing cooperation, which logically precedes the subsequent instructional exchange in 'Poe instructs FN-2187 on weapon systems' during their flight. The narrative sequence implied by the escape initiation followed by tactical coordination during the TIE fighter operation supports a clear temporal ordering.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_add5f87f10fb",
+    "subject_id": "ep_6d4bebf5cfaa6e31",
+    "object_id": "ep_13fc3eb0858e3732",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate the hangar and reach the TIE fighter' involves FN-2187 and Poe moving through the hangar toward the TIE fighter, which directly precedes the episode 'Enter and prepare the TIE fighter cockpit' where they are already inside the cockpit performing setup actions. The related events and narrative flow indicate a clear sequential order: reaching the fighter must occur before entering and preparing it.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_09794326c91a",
+    "subject_id": "ep_6d4bebf5cfaa6e31",
+    "object_id": "ep_64c3f05652207018",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate the hangar and reach the TIE fighter' (doc_34, scene_35) occurs before 'Poe instructs FN-2187 on weapon systems' (doc_35, scene_36), as evidenced by the sequential scene numbers and the narrative flow where reaching the TIE fighter logically precedes the instruction on its weapon systems.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e7318e329da8",
+    "subject_id": "ep_0f4652b0ce5acc8e",
+    "object_id": "ep_8027282485dc61f1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rey establishes first contact with BB-8' involves initial communication and physical interaction with BB-8, including answering his question and straightening his antenna. This is immediately followed by BB-8's emotional plea and Rey's decision to let him follow her, as described in 'Rey reluctantly accepts BB-8 as a companion'. The sequence of related events in the same scene (scene_26) and the narrative flow indicate a clear temporal order where first contact precedes the acceptance of companionship.",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8a0e42a6c009",
+    "subject_id": "ep_6eb8d5528fb0c24c",
+    "object_id": "ep_4eb0547fefad9fcc",
+    "relation_type": "precedes",
+    "reason": "The confirmation of piloting capability and mutual need occurs before the commitment to the escape mission, as the realization of their aligned goals in ep_6eb8d5528fb0c24c directly sets up Poe's full commitment in ep_4eb0547fefad9fcc. Both episodes are grounded in scene_34, and the logical narrative flow shows that establishing practical feasibility precedes final commitment.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_de48900540dc",
+    "subject_id": "ep_1cfcdda2c69b490a",
+    "object_id": "ep_6254d27a6549f447",
+    "relation_type": "precedes",
+    "reason": "The evasive maneuvers in response to warhead attacks occur before the TIE fighter makes a deliberate turn to disengage and head toward Jakku, as described in the sequence of events within scene_50. The narrative order and temporal progression in the related events support that 'Engage and evade warhead attacks' precedes 'Break off engagement and retreat toward Jakku'.",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1269a264a655",
+    "subject_id": "ep_7f0a407613ad66ae",
+    "object_id": "ep_e08469075383a41a",
+    "relation_type": "precedes",
+    "reason": "The assault on Imperial base defenses, which includes destroying TIE fighters and gun emplacements, logically precedes the strike on the control room, as weakening outer defenses typically comes before attacking a central command facility. Both episodes occur in the same scene (scene_40) and are part of a coordinated attack sequence by FN-2187, suggesting a temporal progression from外围 to core targets.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f400b94180d2",
+    "subject_id": "ep_aaacceeaf4b2bf69",
+    "object_id": "ep_b96167316c62365f",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Poe and BB-8 prepare for emergency departure' involves Poe initiating takeoff procedures, including activating systems and powering up engines, which occurs before the object episode where the X-Wing is struck by blasterfire and Poe responds to the assault. The sequence of events in the same scene (scene_7) supports a clear temporal order: preparation for departure precedes the attack and subsequent damage assessment.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_181009e56af9",
+    "subject_id": "ep_2721d22687b4dc0d",
+    "object_id": "ep_8027282485dc61f1",
+    "relation_type": "precedes",
+    "reason": "Rey responds to the distress signal by rushing toward BB-8, which directly precedes her decision to reluctantly accept him as a companion. The sequence of related_events in both episodes occurs within the same scene (scene_26) and follows a clear temporal order: first she discovers BB-8 in distress, then he pleads with her not to leave, and finally she signals for him to follow. This local narrative order supports a 'precedes' relation from the response to the acceptance.",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_45e785d5bf23",
+    "subject_id": "ep_544f95eb18aa45e2",
+    "object_id": "ep_6254d27a6549f447",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes TIE fighters approaching a massive ship above Jakku, which represents an initial engagement phase. The object episode describes a TIE fighter breaking off engagement and retreating toward Jakku after evading warhead blasts, indicating a later stage in the sequence. The narrative progression from approach to disengagement and retreat implies a temporal order where the approach precedes the retreat.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6cf9dc3395c7",
+    "subject_id": "ep_110622119c977486",
+    "object_id": "ep_29455f2471fa7e13",
+    "relation_type": "elaborates",
+    "reason": "The object episode 'Endure interrogation and resist revealing the map' provides additional detail about Poe's experience during the interrogation initiated in the subject episode 'Kylo Ren interrogates Poe and secures prisoner transfer', specifically expanding on Poe's resistance under Force-induced torture. This elaboration enriches the narrative of the initial interrogation by revealing Poe's internal resilience, supported by overlapping events such as 'Kylo Ren interrogates Poe about the map' appearing in both episodes.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_64e7dd0f2533",
+    "subject_id": "ep_6eb8d5528fb0c24c",
+    "object_id": "ep_64c3f05652207018",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confirm piloting capability and mutual need' includes FN-2187 asking Poe if he can pilot and Poe confirming his ability, which establishes the need for a pilot and sets up the subsequent instructional exchange. The episode 'Poe instructs FN-2187 on weapon systems' logically follows as Poe provides specific training on weapon controls, indicating a sequential narrative progression where capability is confirmed before instruction begins.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4cb6b4a78a23",
+    "subject_id": "ep_13fc3eb0858e3732",
+    "object_id": "ep_86436221379f22cc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Enter and prepare the TIE fighter cockpit' involves FN-2187 and Poe preparing for flight, including powering up the ship, which logically precedes the celebratory moment in 'Celebrate victory and forge a new identity' that occurs after a successful action. The related events in the first episode (scene_36) occur earlier in the narrative than the events in the second episode (scene_48), supporting a clear temporal order.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ee05c0ed8452",
+    "subject_id": "ep_64c3f05652207018",
+    "object_id": "ep_86436221379f22cc",
+    "relation_type": "precedes",
+    "reason": "The instructional episode involving weapon systems (ep_64c3f05652207018) occurs during a training or operational context prior to the celebratory renaming event (ep_86436221379f22cc), which follows a successful action. The sequence is supported by the narrative flow: instruction and difficulty with controls precede a successful action that leads to celebration and identity transformation.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_86d3df69f5e6",
+    "subject_id": "ep_6d4bebf5cfaa6e31",
+    "object_id": "ep_86436221379f22cc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate the hangar and reach the TIE fighter' involves FN-2187 and Poe moving covertly toward a TIE fighter, which is a necessary precursor to their successful escape. The episode 'Celebrate victory and forge a new identity' occurs after this success, as FN-2187 expresses joy following a successful action and is renamed Finn. The sequence of events implies a clear temporal order where reaching the TIE fighter and escaping precedes the celebration and renaming.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a676b8ef5e3f",
+    "subject_id": "ep_2721d22687b4dc0d",
+    "object_id": "ep_96e5205c7c923487",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rey responds to distress signals' includes Rey hearing the beeping and running toward the source, culminating in her discovering BB-8 in distress. The subsequent episode 'Rey confronts the Teedo to rescue BB-8' begins with her witnessing the Teedo mistreating BB-8, which logically follows her arrival at the scene. The narrative sequence in the shared scene (scene_26) supports a clear temporal order: Rey's response to the signal precedes her confrontation with the Teedo.",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bd3e469f02b0",
+    "subject_id": "ep_6eb8d5528fb0c24c",
+    "object_id": "ep_86436221379f22cc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confirm piloting capability and mutual need' occurs during scene_34, where FN-2187 and Poe establish their escape plan based on Poe's piloting skills. The episode 'Celebrate victory and forge a new identity' occurs in scene_48, following a successful action, where Poe renames FN-2187 as Finn. The clear scene progression from 34 to 48 supports that the subject episode precedes the object episode in narrative order.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_527abc4ee52f",
+    "subject_id": "ep_13fc3eb0858e3732",
+    "object_id": "ep_64c3f05652207018",
+    "relation_type": "precedes",
+    "reason": "The episode 'Enter and prepare the TIE fighter cockpit' involves FN-2187 and Poe entering the cockpit, removing restraints, and powering up the ship, which establishes the physical setup prior to flight. The episode 'Poe instructs FN-2187 on weapon systems' occurs afterward, as it involves a focused instructional exchange about weapon controls that presupposes the cockpit has already been entered and initial preparations completed. Both episodes occur in scene_36, and the preparation actions logically precede the instruction on weapon systems during the flight sequence.",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a1cf26780b66",
+    "subject_id": "ep_1ac774427704957b",
+    "object_id": "ep_13fc3eb0858e3732",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate escape plan and establish mutual trust' occurs in scene_34, where FN-2187 reveals his identity and begins the rescue. The episode 'Enter and prepare the TIE fighter cockpit' occurs in scene_36, involving actions that follow after the decision to escape has been made. The narrative order of scenes (34 before 36) provides explicit support that the initiation of the escape plan precedes the preparation of the cockpit.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a5c1d5efbb52",
+    "subject_id": "ep_0a3e44ae78001f93",
+    "object_id": "ep_0e42d977f20f41b0",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves the activation of ventral cannons in response to the loss of turbolasers, culminating in the report that the cannons are operational. The object episode begins once the cannons are operational, with General Hux issuing the order to fire. The sequence of events in the description and related_events shows a clear temporal progression: activation (subject) must occur before firing (object), establishing a direct 'precedes' relation from subject to object.",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c2b527dcbedd",
+    "subject_id": "ep_6eb8d5528fb0c24c",
+    "object_id": "ep_13fc3eb0858e3732",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confirm piloting capability and mutual need' occurs in scene_34, where FN-2187 confirms Poe can pilot the TIE fighter and they align their escape goals. This logically and chronologically precedes the episode 'Enter and prepare the TIE fighter cockpit', which occurs in scene_36 and involves them physically entering and powering up the ship. The narrative order and event sequence in the related scenes support that confirming piloting capability comes before cockpit preparation.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5f32e4fa2e67",
+    "subject_id": "ep_1ac774427704957b",
+    "object_id": "ep_86436221379f22cc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate escape plan and establish mutual trust' involves FN-2187 rescuing Poe and beginning to build trust, which logically and chronologically precedes the later episode 'Celebrate victory and forge a new identity,' where they celebrate a successful action and Finn is renamed. The events in the first episode (rescue initiation) are a necessary precursor to the celebratory context and identity transformation in the second, as confirmed by the narrative sequence implied in the descriptions and the progression from rescue to post-victory bonding.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8c3a28cf6456",
+    "subject_id": "ep_110622119c977486",
+    "object_id": "ep_6051a703f1b780ca",
+    "relation_type": "precedes",
+    "reason": "The subject episode, 'Kylo Ren interrogates Poe and secures prisoner transfer,' occurs before the object episode, 'Kylo Ren senses disturbance and locks eyes with Our Trooper,' as described in the shared scene (scene_10): Kylo Ren first secures Poe and commands his transfer, then, while returning to his shuttle, senses a disturbance and locks eyes with the trooper. This sequence is explicitly supported by the narrative flow in the related events and descriptions.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_342064fd6150",
+    "subject_id": "ep_1ac774427704957b",
+    "object_id": "ep_6d4bebf5cfaa6e31",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate escape plan and establish mutual trust' occurs in doc_id 'doc_33' and describes the initial rescue initiation and trust-building between FN-2187 and Poe. The object episode 'Navigate the hangar and reach the TIE fighter' occurs in doc_id 'doc_34' and involves moving through the hangar toward the TIE fighter, which logically follows the initiation of the escape. The narrative sequence is supported by the document order and the causal-temporal progression from initiating the escape to executing movement toward the extraction point.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0f60b854dade",
+    "subject_id": "ep_64c3f05652207018",
+    "object_id": "ep_64435fa868f04641",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Poe instructs FN-2187 on weapon systems' provides explanatory detail about the operation of the TIE fighter's weapons, which directly informs FN-2187's ability to acquire and fire on the target in the subsequent attack episode. This instructional context elaborates the practical execution of the coordinated attack by clarifying how FN-2187 was prepared to perform the action, even though the episodes occur in different scenes and no explicit causal or temporal link is stated. The elaboration is grounded in the shared focus on FN-2187's use of the weapon system.",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6340c66d680b",
+    "subject_id": "ep_13fc3eb0858e3732",
+    "object_id": "ep_64435fa868f04641",
+    "relation_type": "precedes",
+    "reason": "The episode 'Enter and prepare the TIE fighter cockpit' involves FN-2187 and Poe preparing for flight by entering the cockpit, removing restraints, and powering up the ship, which establishes the necessary setup prior to any in-flight actions. The episode 'Execute attack on target during flight' occurs during flight and involves targeting and firing, which logically requires the spacecraft to already be operational. The related events in the first episode (e.g., powering up the TIE fighter) directly precede the actions in the second episode (e.g., identifying and attacking a target during flight), indicating a clear temporal sequence supported by the narrative order of events.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b902fb491cc1",
+    "subject_id": "ep_63665a053ad25f9f",
+    "object_id": "ep_a986a75b8da0fcd9",
+    "relation_type": "precedes",
+    "reason": "Rey descends the sand dune toward the salt flats before traversing the desert at sunset, as the descent occurs near the wreckage of the Star Destroyer and movement toward the salt flats logically precedes broader desert traversal under the setting sun, with no indication of temporal overlap or reversal.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6d3bbd0f8b2f",
+    "subject_id": "ep_9ef520bd6f556ce0",
+    "object_id": "ep_b380c0e84ac3f998",
+    "relation_type": "precedes",
+    "reason": "Rey departs on her speeder after completing her daily salvage work, as the departure marks the conclusion of her survival actions following the routine labor episode. The narrative sequence implies a temporal order where finishing salvage precedes leaving the location.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_00af99cf4c1e",
+    "subject_id": "ep_9ef520bd6f556ce0",
+    "object_id": "ep_a986a75b8da0fcd9",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Rey departs on her speeder' describes Rey starting her speeder and driving off, which logically and narratively precedes the object episode 'Rey traverses the desert at sunset' that depicts her ongoing journey across a desert landscape under a setting sun. The related events in both episodes support a sequential progression from departure to sustained traversal, indicating a coherent temporal order.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_80237442e87d",
+    "subject_id": "ep_400d90c83da31ac5",
+    "object_id": "ep_9ef520bd6f556ce0",
+    "relation_type": "precedes",
+    "reason": "Rey consumes and retrieves her final water reserves before departing on her speeder, as both episodes occur in scene_19 and the consumption action logically precedes the departure, marking the conclusion of survival actions and transition to travel.",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_32f55001ffbb",
+    "subject_id": "ep_df7e4169e53cd6b9",
+    "object_id": "ep_9ef520bd6f556ce0",
+    "relation_type": "precedes",
+    "reason": "Rey emerges and reveals her identity before departing on her speeder, as the emergence establishes her presence following scavenging, and the departure marks the next action in the sequence. Both episodes occur in scene_19, with the emergence logically preceding the act of driving off.",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_de0969214066",
+    "subject_id": "ep_df7e4169e53cd6b9",
+    "object_id": "ep_18e27fe8aedcb5a8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rey emerges and reveals her identity' (scene_19) occurs before 'Transport Rey's found objects to the desert town' (scene_21), as indicated by the sequential scene numbers in their related_events. This establishes a clear narrative order where Rey first arrives and reveals herself, then later transports her found objects toward the town.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5d9b37b7b593",
+    "subject_id": "ep_8027282485dc61f1",
+    "object_id": "ep_a986a75b8da0fcd9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rey reluctantly accepts BB-8 as a companion' includes Rey and BB-8 leaving together across the desert (scene_26), which occurs after Rey's solitary traversal of the desert at sunset (scene_24) described in 'Rey traverses the desert at sunset'. The related_events and scene numbers indicate a clear narrative order where the traversal happens before the joint journey begins.",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d5007cd7bcd5",
+    "subject_id": "ep_b380c0e84ac3f998",
+    "object_id": "ep_887179e3cac5571f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rey completes her daily salvage work' (scene_22) occurs immediately before 'Rey completes a meager trade with Unkar Plutt' (scene_23), as indicated by the sequential scene numbers in their respective 'related_events' lists. The salvage work is a prerequisite for the trade, as Rey must first collect and clean salvage before bringing it to Unkar Plutt for exchange.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_11d338299993",
+    "subject_id": "ep_9ef520bd6f556ce0",
+    "object_id": "ep_18e27fe8aedcb5a8",
+    "relation_type": "precedes",
+    "reason": "Rey departs on her speeder (ep_9ef520bd6f556ce0) in scene_19, which occurs before she arrives near the desert town and transports her found objects (ep_18e27fe8aedcb5a8) in scene_21. The narrative order of scenes supports that the departure precedes the transport episode.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2e639335f4b8",
+    "subject_id": "ep_3ecc3b600c61b11f",
+    "object_id": "ep_9b0f89f1f7567b98",
+    "relation_type": "precedes",
+    "reason": "The episode 'Share hopes and form a connection' occurs in doc_id 'doc_29' and the episode 'Respond to Unkar's offer to buy BB-8' occurs in doc_id 'doc_30', indicating a clear narrative sequence where the former precedes the latter based on document order. The shared context of Rey and BB-8 on Jakku supports a continuous timeline.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0365abc24a69",
+    "subject_id": "ep_0f4652b0ce5acc8e",
+    "object_id": "ep_3ecc3b600c61b11f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rey establishes first contact with BB-8' occurs in scene_26, where Rey rescues and begins communicating with BB-8. The episode 'Share hopes and form a connection' occurs in scene_30, where they engage in a deeper emotional exchange. The clear scene progression from 26 to 30 supports that the first episode precedes the second in narrative order.",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b32331beb3eb",
+    "subject_id": "ep_df7e4169e53cd6b9",
+    "object_id": "ep_887179e3cac5571f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rey emerges and reveals her identity' introduces Rey immediately after a scavenging activity, establishing her presence in the environment. The episode 'Rey completes a meager trade with Unkar Plutt' involves her trading collected items, which logically follows the act of scavenging. Since the emergence and identity revelation occur in the immediate aftermath of scavenging and prior to the trade, this episode precedes the trade episode in narrative order.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_68f9839fca39",
+    "subject_id": "ep_2721d22687b4dc0d",
+    "object_id": "ep_df7e4169e53cd6b9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rey responds to distress signals' includes Rey already in action and reacting to stimuli, implying she has already arrived and removed her scavenging gear as described in 'Rey emerges and reveals her identity'. The latter episode establishes her initial appearance and setting, which logically precedes her active response to the distress signal. This ordering is supported by the narrative progression from emergence to action.",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ce12af404cf1",
+    "subject_id": "ep_887179e3cac5571f",
+    "object_id": "ep_9ef520bd6f556ce0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rey completes a meager trade with Unkar Plutt' occurs at the service window and involves Rey receiving food, which supports her survival goal. The subsequent episode 'Rey departs on her speeder' begins with her approaching and starting her speeder, marking the transition to her next destination. The narrative sequence implies a temporal order where completing the trade precedes her departure, as the trade concludes her immediate survival actions before she leaves the location.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e56cf68194d8",
+    "subject_id": "ep_b380c0e84ac3f998",
+    "object_id": "ep_df7e4169e53cd6b9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rey completes her daily salvage work' describes Rey engaged in post-salvage tasks, including cleaning and interaction with an alien underling, while 'Rey emerges and reveals her identity' depicts her arrival and removal of scavenging gear, suggesting an earlier stage in the sequence. The completion of salvage work logically follows emergence and gear removal, indicating that emergence precedes the completion of daily salvage. The scene numbers (scene_19 for emergence, scene_22 for completion) further support this temporal order.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0d22bfb31903",
+    "subject_id": "ep_63665a053ad25f9f",
+    "object_id": "ep_df7e4169e53cd6b9",
+    "relation_type": "precedes",
+    "reason": "Rey descends the sand dune toward the salt flats (ep_63665a053ad25f9f) immediately before she emerges and reveals her identity (ep_df7e4169e53cd6b9), as both episodes occur in scene_19 and the descent is a physical movement toward the location where she arrives and removes her gear. The narrative sequence in the shared scene supports a clear temporal order.",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a8a9de34c198",
+    "subject_id": "ep_df7e4169e53cd6b9",
+    "object_id": "ep_0f4652b0ce5acc8e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rey emerges and reveals her identity' introduces Rey in the immediate aftermath of a scavenging activity, establishing her presence in the environment. The episode 'Rey establishes first contact with BB-8' occurs after this, as it involves Rey interacting with BB-8 post-rescue. The narrative sequence implied by the setting and event flow supports that Rey must first be established in the scene before engaging with BB-8, making this a clear temporal precedence.",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_27b3df5c4b09",
+    "subject_id": "ep_22483020bcee2819",
+    "object_id": "ep_9ef520bd6f556ce0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Depart and trigger pursuit' describes Rey leaving Unkar Plutt's location, which immediately sets up the pursuit and her subsequent departure on her speeder. The related events in both episodes occur in scene_31 and scene_19 respectively, and the narrative flow indicates that Rey's exit from the trading location precedes her driving off on the speeder, as the latter marks the conclusion of her survival actions and transition to the next destination.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_19b1f782f2f6",
+    "subject_id": "ep_18e27fe8aedcb5a8",
+    "object_id": "ep_887179e3cac5571f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Transport Rey's found objects to the desert town' involves Rey moving scavenged items toward the settlement, which directly sets up her arrival at Unkar Plutt's service window. The subsequent episode 'Rey completes a meager trade with Unkar Plutt' occurs at the same location and involves the use of those same collected items, indicating a clear sequential order in the narrative. The related events in the first episode (hauling the sack toward the town) lead directly into the second episode (presenting items for trade), establishing a local narrative precedence.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9a33ae33824f",
+    "subject_id": "ep_96e5205c7c923487",
+    "object_id": "ep_3ecc3b600c61b11f",
+    "relation_type": "precedes",
+    "reason": "The rescue of BB-8 by Rey from the Teedo (ep_96e5205c7c923487) occurs in scene_26, while the emotional exchange where Rey and BB-8 share hopes and form a connection (ep_3ecc3b600c61b11f) takes place in scene_30. The scene numbers indicate a clear narrative sequence, with the confrontation and rescue preceding the bonding moment.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_52fd679e56cf",
+    "subject_id": "ep_497784c54fb7e616",
+    "object_id": "ep_1ac774427704957b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Extract Poe from cell under Ren's orders' involves unshackling Poe in preparation for transfer, which sets the stage for the subsequent rescue initiated by FN-2187. The sequence implied by the narrative logic and the progression from custody transfer to escape plan initiation supports a 'precedes' relation from the extraction to the escape plan.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2cde1a418df4",
+    "subject_id": "ep_497784c54fb7e616",
+    "object_id": "ep_943e4eff1c419823",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Extract Poe from cell under Ren's orders' involves unshackling Poe in preparation for transfer, which logically and chronologically precedes the object episode 'Escort Poe to narrow passageway' where Poe is already in motion under escort. The related events in the first episode (unshackling) must occur before the escort action in the second, establishing a clear narrative sequence.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3ad236296fdf",
+    "subject_id": "ep_271d2db8c5a6618f",
+    "object_id": "ep_116c7e3531345e50",
+    "relation_type": "precedes",
+    "reason": "The description of 'Descend through machinery-filled corridor' mentions that it occurs after securing a component and represents a transition to the next location, while 'Transport scavenged items toward sunlight' describes movement toward a distant light source in a different setting, suggesting a subsequent phase of travel. The narrative flow implies a sequence where descent through machinery precedes transport toward sunlight, based on the directional and transitional cues in the descriptions.",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_18ba58074e1f",
+    "subject_id": "ep_497784c54fb7e616",
+    "object_id": "ep_6d4bebf5cfaa6e31",
+    "relation_type": "precedes",
+    "reason": "The episode 'Extract Poe from cell under Ren's orders' involves unshackling Poe and preparing him for transfer, which directly sets up the subsequent movement through the hangar in 'Navigate the hangar and reach the TIE fighter'. The latter episode depends on Poe already being in custody and on the move, indicating a clear sequential order supported by the narrative flow and event dependencies.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_91b4bfb06cf4",
+    "subject_id": "ep_116c7e3531345e50",
+    "object_id": "ep_9af56b1e7ab271e8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Extract and secure valuable component' (doc_15, scene_16) occurs in an earlier document and scene than 'Transport scavenged items toward sunlight' (doc_17, scene_18), indicating a clear narrative sequence where the scavenger first retrieves the component and then transports it toward sunlight. The satchel mentioned in the transport episode likely contains the secured component, supporting a temporal progression.",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1086ea02c25a",
+    "subject_id": "ep_9a33f8a3babc7034",
+    "object_id": "ep_64435fa868f04641",
+    "relation_type": "precedes",
+    "reason": "The detection and response to an approaching enemy threat (ep_9a33f8a3babc7034) occurs in scene_4, while the attack on target during flight (ep_64435fa868f04641) occurs in scene_46, indicating a clear narrative sequence where the threat response precedes the coordinated attack. The scene numbers provide strong evidence for temporal ordering.",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_40774b6ad11d",
+    "subject_id": "ep_3accda342a506974",
+    "object_id": "ep_497784c54fb7e616",
+    "relation_type": "precedes",
+    "reason": "The episode 'Kylo Ren kills Lor San Tekka and captures Poe' involves Poe's initial capture by stormtroopers, which must occur before the subsequent episode 'Extract Poe from cell under Ren's orders' where Poe is already in custody and being prepared for transfer. The narrative sequence implied by the events—capture, then extraction from a cell—supports a clear temporal order.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a3a598b6358b",
+    "subject_id": "ep_271d2db8c5a6618f",
+    "object_id": "ep_677e0b89d2617bef",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Descend through machinery-filled corridor' occurs in doc_15, scene_16, while the object episode 'Descend and land on wreck' occurs in doc_16, scene_17, indicating a sequential narrative order where the first descent leads into the next. The subject episode describes movement through a corridor post-extraction, and the object episode begins arrival at a new location (the wreck), suggesting the former precedes the latter in the local narrative flow.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_82cf2e13a2f3",
+    "subject_id": "ep_2721d22687b4dc0d",
+    "object_id": "ep_3ecc3b600c61b11f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rey responds to distress signals' involves Rey hearing beeping, retrieving her staff, and discovering BB-8 in scene 26, while 'Share hopes and form a connection' occurs in scene 30 with Rey and BB-8 interacting emotionally on the sand. The discovery of BB-8 (end of ep_2721d22687b4dc0d) directly precedes and sets the stage for the emotional exchange in ep_3ecc3b600c61b11f, establishing a clear narrative sequence supported by the scene order.",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d6782d562fab",
+    "subject_id": "ep_497784c54fb7e616",
+    "object_id": "ep_ad943e67d9e2a05d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Extract Poe from cell under Ren's orders' involves unshackling Poe in his cell in preparation for transfer, which logically precedes the episode 'Escort Poe through the hangar under guard' where Poe is already being moved through the hangar while shackled. The sequence of events implies a temporal order: extraction from the cell must occur before movement through the hangar, and both involve Stormtrooper-led transfer of Poe, supporting a directed 'precedes' relation.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c8bf6ecaa6e7",
+    "subject_id": "ep_110622119c977486",
+    "object_id": "ep_497784c54fb7e616",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Kylo Ren interrogating Poe and ordering him to be taken aboard the shuttle, which includes the command for transfer. The object episode describes a stormtrooper arriving to extract Poe from his cell under Ren's orders, which logically follows the command given in the first episode. The narrative sequence in the related events supports that the interrogation and order precede the physical extraction from the cell.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_603065ecda11",
+    "subject_id": "ep_96e5205c7c923487",
+    "object_id": "ep_9b0f89f1f7567b98",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rey confronts the Teedo to rescue BB-8' occurs in doc_25 and involves Rey freeing BB-8 from the Teedo, while 'Respond to Unkar's offer to buy BB-8' occurs in doc_30 and involves Rey refusing to sell BB-8 to Unkar Plutt. The events in doc_25 precede those in doc_30 in narrative order, as Rey must obtain BB-8 before being offered to sell him. This temporal sequence is supported by the document IDs and the logical dependency of the episodes.",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_34e8702e8ac9",
+    "subject_id": "ep_2721d22687b4dc0d",
+    "object_id": "ep_9ef520bd6f556ce0",
+    "relation_type": "precedes",
+    "reason": "Rey responds to distress signals by rushing toward BB-8, which occurs in scene_26, while she departs on her speeder in scene_19. Although scene_19 appears earlier in the document order, the narrative sequence in the description of ep_2721d22687b4dc0d implies a progression from isolation to active response, culminating in discovering BB-8, which logically precedes her departure on the speeder as part of a continuous action sequence. The related_events in both episodes support a temporal progression where responding to the signal comes before leaving on the speeder.",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6afa203e10a0",
+    "subject_id": "ep_3d57e84955de4d5a",
+    "object_id": "ep_577814abdc82d6f0",
+    "relation_type": "precedes",
+    "reason": "The evacuation and preparation for defense (subject) occurs in scene_5, while Poe's defensive firing on troopers (object) occurs in scene_9 and is described as happening after BB-8's departure, indicating a clear sequential order where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3b5ff99c3b21",
+    "subject_id": "ep_da0502fc687dd7ab",
+    "object_id": "ep_3d57e84955de4d5a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to BB-8's urgent warning' occurs in scene_3, where BB-8 alerts Poe to an approaching threat, prompting immediate concern. The episode 'Evacuate and prepare for defense' occurs in scene_5, where Poe and villagers take defensive actions. The progression from alert to coordinated response, along with the scene numbering, supports a narrative sequence where the warning precedes the evacuation and defensive preparations.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c87e22a75e29",
+    "subject_id": "ep_3d57e84955de4d5a",
+    "object_id": "ep_aaacceeaf4b2bf69",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Evacuate and prepare for defense' occurs in scene_5, where villagers take defensive positions while Poe and BB-8 move through the village. The object episode 'Poe and BB-8 prepare for emergency departure' occurs in scene_7, involving specific actions at the X-Wing. The progression from scene_5 to scene_7 indicates a clear narrative sequence where the evacuation and defensive preparations precede the emergency departure preparations.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8a1de7f604c6",
+    "subject_id": "ep_943e4eff1c419823",
+    "object_id": "ep_1ac774427704957b",
+    "relation_type": "precedes",
+    "reason": "The escort of Poe to the narrow passageway (ep_943e4eff1c419823) occurs in scene_33, while FN-2187 intercepts Poe and initiates the escape plan in scene_34, indicating a clear narrative sequence where the escort precedes the initiation of the escape plan.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1eb81a2d6855",
+    "subject_id": "ep_4eb0547fefad9fcc",
+    "object_id": "ep_b68e465670b8d9a1",
+    "relation_type": "precedes",
+    "reason": "The commitment to the escape mission logically precedes the execution of the cannon assault maneuver, as the latter is a tactical action within the broader escape plan. The description of the first episode marks a transition from uncertainty to action, while the second involves active engagement in the mission, implying a sequential narrative order.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ac48e0b56647",
+    "subject_id": "ep_1ac774427704957b",
+    "object_id": "ep_b68e465670b8d9a1",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate escape plan and establish mutual trust' involves FN-2187 rescuing Poe and establishing trust, which logically precedes the object episode 'Execute cannon assault maneuver' where Poe is already in control of a vehicle and engaged in combat operations. The rescue and trust-building must occur before Poe can participate in tactical maneuvers, supporting a narrative sequence.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9a68181897e0",
+    "subject_id": "ep_6eb8d5528fb0c24c",
+    "object_id": "ep_b68e465670b8d9a1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confirm piloting capability and mutual need' establishes the foundational agreement and role assignment between FN-2187 and Poe, which logically precedes the tactical execution seen in 'Execute cannon assault maneuver'. The former sets up Poe as a capable pilot essential for the mission, a precondition implied but not repeated in the latter episode, supporting a narrative sequence where coordination precedes action.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f41312e459f1",
+    "subject_id": "ep_64c3f05652207018",
+    "object_id": "ep_b68e465670b8d9a1",
+    "relation_type": "precedes",
+    "reason": "The instructional episode involving Poe and FN-2187 on weapon systems logically precedes the tactical assault episode where Poe takes control to disable enemy cannons, as the instruction provides foundational knowledge necessary for the subsequent combat maneuver. The narrative flow suggests a sequence where training or preparation leads into action, supported by the goal-driven progression from learning controls to executing an attack.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_059384414e69",
+    "subject_id": "ep_da0502fc687dd7ab",
+    "object_id": "ep_9a33f8a3babc7034",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to BB-8's urgent warning' occurs in scene_3, where BB-8 alerts Poe and Poe reacts, immediately preceding the events in scene_4 described in 'Detect and respond to approaching enemy threat', which includes Poe observing the ships, Lor San Tekka urging escape, and Poe fleeing. The narrative progression across scenes supports a clear temporal order.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ebfd72908fa8",
+    "subject_id": "ep_6d4bebf5cfaa6e31",
+    "object_id": "ep_b68e465670b8d9a1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate the hangar and reach the TIE fighter' involves FN-2187 and Poe moving toward a TIE fighter as a means of extraction, which logically and narratively must occur before 'Execute cannon assault maneuver', where Poe is already piloting the vehicle in an attack role. The related events in the first episode describe reaching the fighter, while the second episode assumes control and tactical positioning of the vehicle for assault, indicating a clear sequential order supported by the goal progression and scene descriptions.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a908b766bdcb",
+    "subject_id": "ep_9a33f8a3babc7034",
+    "object_id": "ep_4eb0547fefad9fcc",
+    "relation_type": "precedes",
+    "reason": "The detection and response to the approaching enemy threat, which prompts Poe to flee immediately with BB-8, occurs before Poe's commitment to the escape mission with FN-2187. The former episode (scene_4) establishes the immediate need to escape, while the latter (scene_34) involves a subsequent decision to commit to a coordinated breakout plan with another character, indicating a later point in the narrative sequence.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5739595070cd",
+    "subject_id": "ep_13fc3eb0858e3732",
+    "object_id": "ep_b68e465670b8d9a1",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Enter and prepare the TIE fighter cockpit' involves FN-2187 and Poe entering the cockpit and powering up the ship, which establishes the physical setup for flight. The object episode 'Execute cannon assault maneuver' involves Poe actively piloting the vehicle to disable enemy cannons, which requires the ship to already be operational. The preparation actions (removing restraints, powering up) must logically precede the tactical attack sequence, and the narrative flow in the related events supports a clear temporal order.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ac82b44b39aa",
+    "subject_id": "ep_110622119c977486",
+    "object_id": "ep_ad943e67d9e2a05d",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Kylo Ren interrogating Poe and ordering him to be taken aboard a shuttle, which directly precedes the object episode where Poe is escorted through the hangar under guard. The movement through the hangar logically follows the command given during interrogation, and both episodes involve the same character (Poe) being transferred under First Order control, indicating a clear sequential narrative order.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5706861e6213",
+    "subject_id": "ep_9a33f8a3babc7034",
+    "object_id": "ep_577814abdc82d6f0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Detect and respond to approaching enemy threat' involves Poe deciding to flee with BB-8 after detecting enemy ships, which directly precedes the episode where 'Poe defends position by firing on incoming troopers' after sending BB-8 away. The departure with BB-8 (in ep_9a33f8a3babc7034) must occur before the defense sequence (in ep_577814abdc82d6f0), establishing a clear temporal order.",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7cf3b8a5259e",
+    "subject_id": "ep_9a33f8a3babc7034",
+    "object_id": "ep_aaacceeaf4b2bf69",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Poe detecting the approaching enemy threat and deciding to flee with BB-8, which directly sets the goal for the subsequent emergency departure. The object episode details the execution of that departure, including Poe reaching the X-Wing, boarding, and initiating takeoff procedures. The sequence of events in the subject episode (decision to flee) logically and temporally precedes the actions in the object episode (preparing the X-Wing for takeoff), with both episodes linked by the shared urgency and continuity of action in scene-level narrative order.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_497dcc273175",
+    "subject_id": "ep_4eb0547fefad9fcc",
+    "object_id": "ep_6d4bebf5cfaa6e31",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Commit to the escape mission' involves Poe finalizing his decision to cooperate, which logically and narratively precedes the object episode 'Navigate the hangar and reach the TIE fighter', where the pair physically enact the escape. The commitment to the plan must occur before its execution, and the related events in the second episode (e.g., moving through the hangar) depend on the prior decision to act.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2342d5009590",
+    "subject_id": "ep_4eb0547fefad9fcc",
+    "object_id": "ep_86436221379f22cc",
+    "relation_type": "precedes",
+    "reason": "The commitment to the escape mission (ep_4eb0547fefad9fcc) involves Poe agreeing to cooperate in the plan, which logically and narratively must occur before the celebration and renaming event (ep_86436221379f22cc) that follows a successful action. The escape commitment sets the stage for the subsequent success and identity transformation, establishing a clear temporal sequence supported by the narrative flow in the descriptions.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_96cf9c685665",
+    "subject_id": "ep_fb44c4179e4c1bd6",
+    "object_id": "ep_c83cb5103cf5e55e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Transfer the sacred sack and affirm the mission' occurs when Lor San Tekka gives Poe the leather sack, which contains the artifact later entrusted to BB-8. The artifact's presence in Poe's possession during the second episode implies the transfer must have happened first. The narrative sequence is supported by the dependency of the artifact's origin on the prior handoff.",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_deb3676a30e3",
+    "subject_id": "ep_fb44c4179e4c1bd6",
+    "object_id": "ep_fe5619997b6a1d68",
+    "relation_type": "precedes",
+    "reason": "The episode 'Poe observes confrontation from hiding' occurs prior to Poe receiving the sack and mission from Lor San Tekka, as observation from concealment logically precedes direct interaction; the description of the second episode explicitly states it happens 'prior to his intervention,' which aligns with the transfer event being the intervention.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0806aebdeb69",
+    "subject_id": "ep_6d4bebf5cfaa6e31",
+    "object_id": "ep_62446c04f65815e2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate the hangar and reach the TIE fighter' involves FN-2187 and Poe moving through the hangar to reach the TIE fighter, culminating in their arrival at the vessel. The episode 'Respond to uncontrolled TIE fighter launch' begins with the TIE fighter lurching forward upon activation, which logically occurs after they have reached and entered the fighter. The sequence of events in the related scenes (scene_35 before scene_36) supports the temporal order. Therefore, the navigation episode precedes the response to the uncontrolled launch.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9e03d4deb42e",
+    "subject_id": "ep_4eb0547fefad9fcc",
+    "object_id": "ep_64c3f05652207018",
+    "relation_type": "precedes",
+    "reason": "The commitment to the escape mission logically precedes the instruction on weapon systems, as Poe must first commit to the plan before engaging in tactical preparation; the narrative flow from decision to action supports a temporal sequence.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5d8f73680f02",
+    "subject_id": "ep_da0502fc687dd7ab",
+    "object_id": "ep_aaacceeaf4b2bf69",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to BB-8's urgent warning' occurs when BB-8 alerts Poe to an approaching threat, prompting Poe to inform Lor San Tekka. This directly sets in motion the subsequent episode 'Poe and BB-8 prepare for emergency departure', where Poe and BB-8 rush to the X-Wing and begin takeoff procedures. The narrative sequence is supported by the urgency in the first episode leading directly to the actions in the second, with no intervening events suggesting a reversal of order.",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a1e371f92191",
+    "subject_id": "ep_4eb0547fefad9fcc",
+    "object_id": "ep_62446c04f65815e2",
+    "relation_type": "precedes",
+    "reason": "The commitment to the escape mission logically precedes the response to the uncontrolled TIE fighter launch, as the escape plan must be accepted before execution begins, and the TIE fighter incident occurs during the execution phase. The related events in the second episode (TIE fighter lurching forward, Poe attempting stabilization) represent an in-progress emergency that follows the initial decision to act.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c32e1b8c720b",
+    "subject_id": "ep_4eb0547fefad9fcc",
+    "object_id": "ep_13fc3eb0858e3732",
+    "relation_type": "precedes",
+    "reason": "The commitment to the escape mission (ep_4eb0547fefad9fcc) occurs when Poe agrees to cooperate in scene 34, which is explicitly prior to the events in scene 36 where they enter and prepare the TIE fighter cockpit (ep_13fc3eb0858e3732). The narrative order of scenes supports that the decision to escape precedes the physical actions of preparing the spacecraft.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6ffdfb18b34b",
+    "subject_id": "ep_64c3f05652207018",
+    "object_id": "ep_e08469075383a41a",
+    "relation_type": "causes",
+    "reason": "Poe instructing FN-2187 on weapon systems provides the necessary knowledge for FN-2187 to later deliver a successful laser blast to the control room. The instructional episode directly enables the successful strike, implying a causal link supported by the progression from learning weapon controls to executing a precise attack.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e5f583df7ab4",
+    "subject_id": "ep_aaacceeaf4b2bf69",
+    "object_id": "ep_577814abdc82d6f0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Poe and BB-8 prepare for emergency departure' includes Poe entering the X-Wing, activating systems, and observing approaching enemy forces, culminating in the start of takeoff procedures. The episode 'Poe defends position by firing on incoming troopers' occurs after Poe sends BB-8 away, which happens post-evacuation attempt, indicating a clear narrative sequence where preparation for departure precedes the defensive firefight. The description explicitly states the defensive action occurs 'immediately after the departure of BB-8', establishing a direct temporal order.",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a12cd9dad278",
+    "subject_id": "ep_1ed74cb0907fd1de",
+    "object_id": "ep_3d57e84955de4d5a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'BB-8 detects a threat and flees' occurs in scene_2, while the object episode 'Evacuate and prepare for defense' occurs in scene_5, indicating a clear narrative sequence where BB-8's initial detection and escape precede the later coordinated evacuation and defensive actions involving Poe and the villagers.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_20d37bcc5d50",
+    "subject_id": "ep_6eb8d5528fb0c24c",
+    "object_id": "ep_62446c04f65815e2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confirm piloting capability and mutual need' occurs in scene_34, where Poe confirms his ability to fly a TIE fighter and the need for a pilot is established. The episode 'Respond to uncontrolled TIE fighter launch' occurs in scene_36, involving the actual activation and loss of control of the TIE fighter, followed by stabilization efforts. The clear scene order (34 before 36) supports that the confirmation of piloting capability precedes the emergency response during the launch.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_99d224b8d6d1",
+    "subject_id": "ep_6051a703f1b780ca",
+    "object_id": "ep_9496230056c7f6f9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Kylo Ren senses disturbance and locks eyes with Our Trooper' occurs during scene_10, while 'Interrogate the source of the Resistance pilot's aid' occurs in scene_49, indicating a clear narrative sequence where the former precedes the latter based on scene ordering.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b2c174a6f636",
+    "subject_id": "ep_1ed74cb0907fd1de",
+    "object_id": "ep_4a0eced479b4240f",
+    "relation_type": "precedes",
+    "reason": "The first episode depicts BB-8 detecting a threat and fleeing, which occurs in scene_2, while the second episode shows BB-8 fleeing across the desert after an X-wing explosion in scene_12. The narrative order of scenes (2 before 12) and the progression from initial alarm to a later, more developed escape sequence support that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5aab15ef79e8",
+    "subject_id": "ep_c3117e22d7509386",
+    "object_id": "ep_e76a25d4a7b82568",
+    "relation_type": "precedes",
+    "reason": "The refusal to fire during the village execution (scene_10) occurs before the confrontation in the dark vehicle (scene_15), establishing a clear narrative sequence. Scene numbers (10 before 15) provide explicit chronological evidence supporting the 'precedes' relation.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_59114053cc74",
+    "subject_id": "ep_3ecc3b600c61b11f",
+    "object_id": "ep_667af54eeebc32f9",
+    "relation_type": "causes",
+    "reason": "The emotional exchange in which Rey and BB-8 share hopes and form a connection directly precedes and motivates BB-8's decision to follow Rey, with the description explicitly noting that BB-8's action is a 'pivotal shift' following the emotional exchange, indicating a causal link.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_47296dfdd789",
+    "subject_id": "ep_9cf6696fa598fa34",
+    "object_id": "ep_29455f2471fa7e13",
+    "relation_type": "precedes",
+    "reason": "The confrontation between Kylo Ren and Lor San Tekka (ep_9cf6696fa598fa34) occurs in scene_10, while Poe's interrogation (ep_29455f2471fa7e13) occurs in scene_28, indicating a clear earlier-later narrative order based on scene numbering and the progression of the plot.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_055f00edfa97",
+    "subject_id": "ep_423ca132aa66e402",
+    "object_id": "ep_9496230056c7f6f9",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Confront and delegate the droid retrieval mission' occurs in scene_29, while the object episode 'Interrogate the source of the Resistance pilot's aid' occurs in scene_49. The scene numbers indicate a clear narrative order, with scene_29 preceding scene_49, supporting a 'precedes' relation from the subject to the object.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_04f25f38fd00",
+    "subject_id": "ep_4eb0547fefad9fcc",
+    "object_id": "ep_aaacceeaf4b2bf69",
+    "relation_type": "precedes",
+    "reason": "The commitment to the escape mission (ep_4eb0547fefad9fcc) involves Poe deciding to proceed with the plan and finalizing the partnership with FN-2187, which logically precedes the physical preparation for departure in the X-Wing (ep_aaacceeaf4b2bf69). The latter episode involves Poe already acting on the escape, including rushing to the X-Wing and initiating takeoff procedures, indicating a later stage in the narrative sequence. The events in the second episode are action-oriented and follow naturally from the decision made in the first, supporting a clear 'precedes' relation from the commitment episode to the departure preparation episode.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_49b7c3f704c5",
+    "subject_id": "ep_9cf6696fa598fa34",
+    "object_id": "ep_9496230056c7f6f9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Kylo Ren confronts Lor San Tekka for the map' occurs early in the narrative (scene_10), while 'Interrogate the source of the Resistance pilot's aid' takes place later (scene_49), indicating a clear temporal sequence supported by scene numbering and narrative progression. This ordering aligns with the local narrative timeline where the confrontation on the battlefield precedes the internal investigation aboard the command center.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_162585dfbf28",
+    "subject_id": "ep_29455f2471fa7e13",
+    "object_id": "ep_9496230056c7f6f9",
+    "relation_type": "precedes",
+    "reason": "The interrogation of Poe (ep_29455f2471fa7e13) occurs in scene_28, while Kylo Ren's confrontation about the rogue Stormtrooper (ep_9496230056c7f6f9) takes place in scene_49, indicating a clear narrative sequence where the first episode precedes the second based on scene ordering.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6879b7311867",
+    "subject_id": "ep_21977754942199d9",
+    "object_id": "ep_b0758ffc5ca7101a",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Lor San Tekka witnesses the village destruction' provides additional perspective on the ongoing attack described in 'Stormtroopers attack and destroy the village', specifically capturing emotional and observational details that expand the narrative context of the same scene. The witnessing behavior does not precede, cause, or contrast the attack, but rather adds depth to it by showing a character's response during the concurrent events.",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_72c4086b7ada",
+    "subject_id": "ep_110622119c977486",
+    "object_id": "ep_9496230056c7f6f9",
+    "relation_type": "precedes",
+    "reason": "The interrogation of Poe by Kylo Ren (ep_110622119c977486) occurs in scene_10, while the confrontation in the command center about the rogue Stormtrooper (ep_9496230056c7f6f9) occurs in scene_49, indicating a clear narrative sequence where the first episode precedes the second based on scene ordering.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3d4c905f4648",
+    "subject_id": "ep_9a33f8a3babc7034",
+    "object_id": "ep_4a0eced479b4240f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Detect and respond to approaching enemy threat' involves Poe deciding to flee with BB-8 after detecting enemy ships, which directly sets up BB-8's subsequent escape across the desert after the X-wing explosion. The narrative sequence implies that the decision to flee (ep_9a33f8a3babc7034) occurs before BB-8 is alone in the desert (ep_4a0eced479b4240f), supported by the causal and temporal flow of events in the story.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_29ad42a83a3c",
+    "subject_id": "ep_9cf6696fa598fa34",
+    "object_id": "ep_fe5619997b6a1d68",
+    "relation_type": "precedes",
+    "reason": "Kylo Ren's confrontation with Lor San Tekka is observed by Poe from hiding, and the observation must occur concurrently or after the confrontation begins. The description of Poe's episode states he observes 'prior to his intervention,' implying the confrontation is already underway. Thus, the confrontation episode (subject) occurs before or overlaps the beginning of Poe's observation, supporting a 'precedes' relation from the confrontation to the observation.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a2a4bbc95135",
+    "subject_id": "ep_4a0eced479b4240f",
+    "object_id": "ep_8027282485dc61f1",
+    "relation_type": "precedes",
+    "reason": "BB-8 flees across the desert alone after the X-wing explosion (ep_4a0eced479b4240f), which occurs before Rey reluctantly accepts BB-8 as a companion (ep_8027282485dc61f1), as the latter episode explicitly describes BB-8 pleading to join Rey, indicating the prior separation and journey alone. The narrative sequence is supported by the event flow: BB-8's solitary travel and fearful state precede the moment of companionship initiation.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0d44c7cc5f8a",
+    "subject_id": "ep_9a33f8a3babc7034",
+    "object_id": "ep_fe5619997b6a1d68",
+    "relation_type": "precedes",
+    "reason": "The episode 'Poe observes confrontation from hiding' (scene_10) occurs prior to 'Detect and respond to approaching enemy threat' (scene_4) based on the scene ordering in their respective documents, with Poe first observing Kylo Ren's confrontation before later detecting enemy ships and fleeing. This temporal sequence supports a 'precedes' relation from object to subject, but since the relation is directed and the subject is listed first, the correct directional interpretation is that the object episode precedes the subject episode. However, per schema usage, 'precedes' is directed and must be evaluated as subject -> object; given that the subject episode (detection and response) happens after the object episode (observation from hiding), the subject does not precede the object, so the relation cannot be justified in that direction. Therefore, no valid directed 'precedes' relation exists from subject to object. Re-evaluating: the description of the subject episode includes Poe fleeing immediately after threat detection, while the object episode involves prior observation from hiding — this establishes that the object episode occurs before the subject episode. Since 'precedes' is directed and we are assessing subject -> object, and the subject does not occur before the object, the correct determination is that the relation 'precedes' does not hold in this direction. No other relation type is supported. Thus, despite clear temporal ordering, the directionality constraint prevents valid 'precedes' assignment from subject to object. Output must be 'NONE'.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_321de53b40d7",
+    "subject_id": "ep_3ecc3b600c61b11f",
+    "object_id": "ep_8027282485dc61f1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Share hopes and form a connection' occurs during scene_30, while 'Rey reluctantly accepts BB-8 as a companion' occurs in scene_26. Since scene_26 precedes scene_30 in narrative order, the object episode occurs earlier than the subject episode. Therefore, the subject episode follows the object episode, making the relation 'precedes' with direction from object to subject. However, given the directed nature of 'precedes' and the requirement to assign relation from subject to object, the correct assignment is subject precedes object only if chronologically earlier. Here, the subject episode is later, so the reverse is true. But based on the scene numbers (26 before 30), the object episode precedes the subject. Thus, if we are to assign a relation from subject to object, it cannot be 'precedes' in that direction. Given the directionality constraint and the schema requiring directed relations to respect order, no valid directed relation fits from subject to object. Hence, despite clear temporal order, the direction is reversed, and we cannot assert subject precedes object. Therefore, the only justifiable conclusion is that no allowed directed relation fits in the subject->object direction with sufficient support, leading to 'NONE'. However, reconsidering: the relation 'precedes' is directed, and if subject occurs after object, then subject does NOT precede object. So the correct temporal fact is that object precedes subject, but since we are evaluating subject -> object, and the schema does not allow 'follows', we cannot assert 'precedes' in reverse. Thus, no valid relation from subject to object is supported. But wait — the few-shot sample uses 'precedes' based on narrative order regardless of which is subject/object, implying directionality is part of the relation assignment. In the first sample, 'The heist plan is revealed' (subject) precedes 'The team executes' (object) — subject before object. So the relation 'precedes' is assigned only when subject occurs before object. Here, subject (ep_3ecc3b600c61b11f, scene_30) occurs after object (ep_8027282485dc61f1, scene_26), so subject does NOT precede object. Therefore, 'precedes' cannot be assigned. No causal, contrast, or elaboration link is evident: the episodes are emotionally continuous (bonding), but one does not cause the other, nor contrast, nor elaborate. The acceptance happens first, then deeper emotional sharing — but the later episode does not elaborate the earlier; they are sequential developments. Thus, no relation in the schema fits from subject to object. Final decision: NONE.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_844ab734fd06",
+    "subject_id": "ep_677e0b89d2617bef",
+    "object_id": "ep_9af56b1e7ab271e8",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Descend and land on wreck' occurs in scene_17, while the object episode 'Extract and secure valuable component' occurs in scene_16. Despite the reverse chronological implication, the descent and landing on the wreck logically follows the extraction activity if scene_16 precedes scene_17. However, based on the event descriptions and scene ordering (scene_16 before scene_17), the extraction episode precedes the descent and landing. Therefore, the correct directional relation is object -> subject, but since the relation_type 'precedes' is directed and the subject is listed first, the relation from subject to object is not supported. Given the schema requires directionality and the subject does not precede the object, the only justifiable conclusion is that the relation is 'precedes' in reverse order, which cannot be represented without reversing subject/object. Since we cannot invert the subject-object pairing, and no other relation is supported, this leads to a conflict. Re-evaluating: if scene_17 (descent) occurs after scene_16 (extraction), then the subject episode actually follows the object episode, meaning the object precedes the subject. Thus, the subject does not precede the object, and no other relation applies. Therefore, the correct output is 'NONE' due to inability to represent reverse precedence. However, upon final review, the scene numbers indicate scene_16 (extraction) occurs before scene_17 (descent), so the object episode precedes the subject episode. Since the relation 'precedes' is directed and we are evaluating subject -> object, and the subject does not precede the object, the relation cannot be 'precedes'. No causal, contrastive, or elaborative link is evident. Hence, the only valid output is 'NONE'. But wait — the description of the subject episode says 'initiates arrival at the wreck', which suggests it is the beginning of the sequence, while the object episode involves extracting a component in an inverted corridor, which likely occurs inside the wreck. Thus, logically, descent must precede extraction. This implies scene_17 should follow scene_16, but the events are grounded in scene_17 and scene_16 respectively. If scene_16 comes before scene_17, that would mean extraction happens before arrival, which is implausible. Therefore, the scene order may be misaligned, but the narrative logic suggests descent (arrival) must precede extraction (interior activity). Given that the subject episode describes arrival and the object episode describes an internal operation, the subject episode must precede the object episode in narrative logic, despite the scene numbering. The description of the object episode is in scene_16 and subject in scene_17 — if we trust scene order, object precedes subject; if we trust narrative plausibility, subject precedes object. Since the instructions require grounding in provided information, and scene_16 is explicitly before scene_17, we must accept the textual chronology: extraction (scene_16) occurs before descent (scene_17) — which is illogical. Given this contradiction, and because we must rely on explicit evidence, the only safe conclusion is that no relation can be confidently established. Therefore, after careful analysis, the correct output is 'NONE' due to conflicting temporal evidence. However, reconsidering: the subject episode is 'Descend and land on wreck' — this is the arrival. The object episode is 'Extract and secure valuable component' — this requires being inside the wreck. Therefore, arrival must precede interior activity. Even if scene_17 is after scene_16, the narrative logic necessitates that descent precedes extraction. But the episodes are grounded in different documents (doc_16 vs doc_15) and scenes — without explicit cross-reference, we cannot resolve the order. Given the requirement for evidence grounding, and absence of explicit temporal or causal link, the safest decision is 'NONE'. Final decision: no relation can be confidently established due to conflicting scene order and lack of explicit narrative connection. Output 'NONE'.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  }
+]

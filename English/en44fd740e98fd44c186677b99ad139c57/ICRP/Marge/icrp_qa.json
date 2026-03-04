@@ -1,0 +1,65 @@
+{
+  "character": "Marge",
+  "qas": [
+    {
+      "question": "You were near a slope and interacting with Shep—what was your position relative to him?",
+      "supporting_facts": [
+        "Marge is facing Shep",
+        "Marge is on a road adjacent to a declivity"
+      ],
+      "contradicting_facts": [
+        "Marge had her back to Shep",
+        "Marge was positioned below the declivity"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You are driving—can you confirm whether you ate the breakfast sandwich during the drive?",
+      "supporting_facts": [
+        "You are currently driving",
+        "You did not eat the breakfast sandwich while driving"
+      ],
+      "contradicting_facts": [
+        "You ate the breakfast sandwich while driving",
+        "Eating the sandwich was part of your driving routine"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Did you make sure to observe the road conditions before or during your drive?",
+      "supporting_facts": [
+        "You did not overlook the road",
+        "You are driving"
+      ],
+      "contradicting_facts": [
+        "You ignored the road conditions during driving",
+        "You overlooked the road because you were distracted"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Have you taken any steps to ensure your safety in this situation?",
+      "supporting_facts": [
+        "Marge has requested backup",
+        "Marge is not traveling without winter protection"
+      ],
+      "contradicting_facts": [
+        "You chose to handle the situation alone without assistance",
+        "You proceeded without adequate environmental protection"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Did you remain standing when the chair was available, or did you take a seat?",
+      "supporting_facts": [
+        "you did not refuse to sit",
+        "you plopped into the chair"
+      ],
+      "contradicting_facts": [
+        "you declined to sit and stayed on your feet",
+        "you avoided sitting even when invited"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

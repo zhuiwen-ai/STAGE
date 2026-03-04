@@ -1,0 +1,65 @@
+{
+  "character": "Jerry",
+  "qas": [
+    {
+      "question": "What tool did you use to scrape the ice from your car's windshield?",
+      "supporting_facts": [
+        "You retrieved a red plastic scraper from your car.",
+        "You began scraping ice from your car's windshield."
+      ],
+      "contradicting_facts": [
+        "You used your hands to remove the ice from the windshield.",
+        "You used a metal tool to scrape the ice from the car's windshield."
+      ],
+      "final_score": 8.88888888888889
+    },
+    {
+      "question": "What tool did you use to remove ice, and how did you begin using it?",
+      "supporting_facts": [
+        "you used only a red plastic scraper to remove ice",
+        "you used the scraper in a methodical manner at the start"
+      ],
+      "contradicting_facts": [
+        "you used a tool other than the red plastic scraper for ice removal",
+        "you used the scraper in a rushed or random manner from the beginning"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How did you position yourself when you entered the room?",
+      "supporting_facts": [
+        "Jerry has stamped snow off his feet",
+        "Jerry stood with hands on hips and glared"
+      ],
+      "contradicting_facts": [
+        "You sat down immediately upon entry",
+        "You kept your hands at your sides and remained calm"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you stay in one place the entire time after entering the room?",
+      "supporting_facts": [
+        "You did not remain stationary throughout the scene",
+        "You moved at some point after entering"
+      ],
+      "contradicting_facts": [
+        "You stayed in the same spot the whole time",
+        "You sat on the edge of the bed and did not move from there"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why didn't you leave the building right after you arrived?",
+      "supporting_facts": [
+        "Jerry did not leave the scene immediately upon arrival",
+        "Jerry looked around upon entering"
+      ],
+      "contradicting_facts": [
+        "Jerry left the scene immediately after arriving",
+        "Jerry avoided looking around upon entry"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

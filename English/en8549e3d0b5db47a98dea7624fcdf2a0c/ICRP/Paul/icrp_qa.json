@@ -1,0 +1,89 @@
+{
+  "character": "Paul",
+  "qas": [
+    {
+      "question": "What did you use to check Delacroix's condition?",
+      "supporting_facts": [
+        "You used a stethoscope on Delacroix's chest",
+        "You actively assessed Delacroix's physical state"
+      ],
+      "contradicting_facts": [
+        "You did not touch Delacroix during the examination",
+        "You ignored Delacroix's medical condition"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You crushed the pills—what made you decide to do that instead of taking them whole?",
+      "supporting_facts": [
+        "Paul crushed the pills.",
+        "Paul is aware of the group's need to move quickly."
+      ],
+      "contradicting_facts": [
+        "You left the pills intact because you were unsure about taking them.",
+        "You took the pills without altering them."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you make it publicly known that you were leaving?",
+      "supporting_facts": [
+        "Paul did not openly announce his departure",
+        "The departure was conducted without public declaration"
+      ],
+      "contradicting_facts": [
+        "You told the group you were leaving before it happened",
+        "Paul made a formal announcement about his exit"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do immediately after noticing something through the glass?",
+      "supporting_facts": [
+        "you shifted from writing to Delacroix's cell afterward",
+        "your observation through the glass preceded a movement to another location"
+      ],
+      "contradicting_facts": [
+        "you stayed in place after observing through the glass",
+        "you reacted to the sound from E Block before moving to Delacroix's cell"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What do you do when your hands start to shake?",
+      "supporting_facts": [
+        "You try to control the shaking in your hands",
+        "You actively resist physical manifestations of stress"
+      ],
+      "contradicting_facts": [
+        "You ignore the shaking in your hands",
+        "You allow the tremors to go unmanaged"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you decide to do after scanning the letter?",
+      "supporting_facts": [
+        "You committed to getting Coffey back on the Mile",
+        "Your decision followed immediately after scanning the letter"
+      ],
+      "contradicting_facts": [
+        "You decided to let Coffey remain off the Mile",
+        "Your commitment to Coffey was made before reading the letter"
+      ],
+      "final_score": 7.777777777777779
+    },
+    {
+      "question": "What action did you take regarding the fire on the bed coverlet?",
+      "supporting_facts": [
+        "You extinguished the fire on the bed coverlet",
+        "The fire was actively burning before you acted"
+      ],
+      "contradicting_facts": [
+        "You ignored the fire on the bed coverlet",
+        "Someone else put out the fire while you watched"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

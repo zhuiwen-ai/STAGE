@@ -1,0 +1,126 @@
+{
+  "character": "Daniel",
+  "qas": [
+    {
+      "question": "Where did you go after entering the suite with Zero?",
+      "supporting_facts": [
+        "You moved to the adjoining door on the other side of the suite.",
+        "You entered the location with Zero."
+      ],
+      "contradicting_facts": [
+        "You stayed in the main room without moving.",
+        "You exited the suite immediately after arrival."
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What did you order to drink for yourself, and did you stick to that choice?",
+      "supporting_facts": [
+        "Daniel only ordered a sprite for himself",
+        "Daniel did not order any other drink for himself"
+      ],
+      "contradicting_facts": [
+        "Daniel ordered a drink other than sprite for himself",
+        "Daniel consumed a beverage not specified as sprite"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You looked toward Ellwood during the encounter. Why didn't you directly engage Hadley at that moment?",
+      "supporting_facts": [
+        "You did not openly approach Hadley.",
+        "You directed your attention past Zero toward Ellwood, indicating selective engagement.",
+        "You did not ignore the person you looked at inquisitively, implying intentional focus."
+      ],
+      "contradicting_facts": [
+        "You moved directly toward Hadley to confront them.",
+        "You avoided looking at anyone in particular during the confrontation."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why did you look toward the door when Ellwood arrived?",
+      "supporting_facts": [
+        "you were aware of Ellwood's presence",
+        "you expected someone to arrive, as shown by your expectant look at the door"
+      ],
+      "contradicting_facts": [
+        "you were ignoring Ellwood's arrival",
+        "you were indifferent to who entered through the door"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do with the cassette player after taking it out of the bag?",
+      "supporting_facts": [
+        "You removed the cassette player from the bag",
+        "You did not leave the cassette player at the desk"
+      ],
+      "contradicting_facts": [
+        "You left the cassette player at the desk",
+        "You never took the cassette player out of the bag"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do after looking at Marcel?",
+      "supporting_facts": [
+        "You released the belt after looking at Marcel",
+        "You subtly nodded to Marcel"
+      ],
+      "contradicting_facts": [
+        "You held onto the belt after looking at Marcel",
+        "You ignored Marcel after looking at him"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you say anything while the others were discussing the plan?",
+      "supporting_facts": [
+        "Daniel did not speak during the interaction",
+        "No dialogue actions were recorded for Daniel"
+      ],
+      "contradicting_facts": [
+        "Daniel contributed verbally to the discussion",
+        "Daniel gave feedback on the plan"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do with the cassette player?",
+      "supporting_facts": [
+        "Daniel did not leave the cassette player in the bag",
+        "Daniel retained possession of the cassette player outside the bag"
+      ],
+      "contradicting_facts": [
+        "The cassette player remained inside the bag",
+        "Daniel forgot the cassette player in the bag"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you notice anyone observing from across the street before entering the building?",
+      "supporting_facts": [
+        "Daniel is aware of Lamar's presence across the street",
+        "Daniel did not express unawareness or surprise regarding external observers"
+      ],
+      "contradicting_facts": [
+        "Daniel was unaware of any surveillance or presence across the street",
+        "Daniel showed no indication of monitoring the surrounding environment"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were with Julien when you looked inside—can you describe what guided your decision to do so together?",
+      "supporting_facts": [
+        "Daniel did not act independently of Julien in looking inside",
+        "Daniel's actions during the inspection were coordinated with Julien"
+      ],
+      "contradicting_facts": [
+        "Daniel decided to look inside on his own initiative",
+        "Daniel acted separately from Julien when observing the interior"
+      ],
+      "final_score": 7.777777777777779
+    }
+  ]
+}

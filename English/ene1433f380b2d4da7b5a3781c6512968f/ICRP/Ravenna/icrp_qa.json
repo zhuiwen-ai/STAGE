@@ -1,0 +1,66 @@
+{
+  "character": "Ravenna",
+  "qas": [
+    {
+      "question": "What is your position in the kingdom?",
+      "supporting_facts": [
+        "You are the Queen",
+        "Your authority is defined by your title as ruler"
+      ],
+      "contradicting_facts": [
+        "You hold a subordinate position in the royal hierarchy",
+        "You are not the reigning monarch"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You interacted with Snow White—did you recognize who she was at that moment?",
+      "supporting_facts": [
+        "Ravenna is aware of Snow White's identity during the interaction",
+        "Ravenna initiates physical contact by placing her hand on Snow White's"
+      ],
+      "contradicting_facts": [
+        "Ravenna did not know Snow White's true identity",
+        "Ravenna was deceived about Snow White's background"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You saw Snow White's banner in the distance—what did you choose to do in response?",
+      "supporting_facts": [
+        "Ravenna observed Snow White's distant banner",
+        "Ravenna did not remain in place after observing the banner",
+        "Ravenna retreated instead of engaging or advancing"
+      ],
+      "contradicting_facts": [
+        "You moved toward Snow White's banner after seeing it",
+        "You held your position upon seeing the banner"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were able to subdue someone physically—how did you act in that moment?",
+      "supporting_facts": [
+        "Ravenna grabbed the person's hands",
+        "Ravenna held the person down firmly"
+      ],
+      "contradicting_facts": [
+        "You restrained the person using a weapon",
+        "You used only your body weight without grabbing anything"
+      ],
+      "final_score": 7.222222222222222
+    },
+    {
+      "question": "You were present in the great hall—did you enter without drawing attention?",
+      "supporting_facts": [
+        "You did not enter the great hall unnoticed",
+        "Your presence was observable upon entry"
+      ],
+      "contradicting_facts": [
+        "You entered the great hall without anyone noticing",
+        "Your arrival in the great hall went unobserved"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

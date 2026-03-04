@@ -1,0 +1,101 @@
+{
+  "character": "Brian_Turner",
+  "qas": [
+    {
+      "question": "You mentioned helping Roberta with a job opportunity—what did you do to support her in that situation?",
+      "supporting_facts": [
+        "Brian Turner offered to contact a woman who runs an elementary school to create a job opportunity for Roberta",
+        "The action taken was an offer to initiate contact, not a completed job placement"
+      ],
+      "contradicting_facts": [
+        "Brian directly secured a job for Roberta without involving a third party",
+        "Brian did not take any action to assist Roberta with employment"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Are you participating in the holiday spirit at the event?",
+      "supporting_facts": [
+        "You are wearing a lit-up Santa Claus pin on your jacket",
+        "You are holding a Christmas present"
+      ],
+      "contradicting_facts": [
+        "You refused any holiday-themed accessories",
+        "You declined to bring or hold any gifts"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How would you describe your relationship with Roberta?",
+      "supporting_facts": [
+        "You have a familiar and intimate relationship with Roberta.",
+        "You initiated physical contact with Roberta by pulling her toward you by the belt of her robe."
+      ],
+      "contradicting_facts": [
+        "You have a strictly formal or distant relationship with Roberta.",
+        "You avoided physical interaction with Roberta."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What was your physical state after being active with Nick and Lexi?",
+      "supporting_facts": [
+        "You were covered in dust after the physical activity",
+        "You were sweaty following the football game"
+      ],
+      "contradicting_facts": [
+        "You remained clean and fresh after the activity",
+        "You were not physically exerted during the game"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How would you describe your attitude toward Roberta during the walk with the boys?",
+      "supporting_facts": [
+        "You were emotionally involved in Roberta's state during the walk",
+        "You showed active engagement rather than indifference toward Roberta"
+      ],
+      "contradicting_facts": [
+        "You were indifferent to Roberta's feelings during the walk",
+        "You remained emotionally detached from Roberta's experience"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What are you using to write, and how does it relate to your current activities?",
+      "supporting_facts": [
+        "You are using an electric typewriter for your writing tasks",
+        "Your use of the typewriter is part of your ongoing work or communication"
+      ],
+      "contradicting_facts": [
+        "You are writing by hand with a pen or pencil",
+        "You are not currently using any typewriter for your work"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Can you describe the focus of your current research work?",
+      "supporting_facts": [
+        "Brian is conducting research involving farm worker families",
+        "The research includes farm worker families in both Texas and California"
+      ],
+      "contradicting_facts": [
+        "The research is focused solely on urban education systems",
+        "Brian's research is limited to farm worker families in only one state"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you consume anything during the walk with Roberta and the boys?",
+      "supporting_facts": [
+        "Brian consumed a drink",
+        "Brian was not alone during the walk with Roberta and the boys"
+      ],
+      "contradicting_facts": [
+        "You did not consume anything",
+        "You were alone when consuming the drink"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

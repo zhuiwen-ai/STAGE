@@ -1,0 +1,65 @@
+{
+  "character": "Oxford",
+  "qas": [
+    {
+      "question": "What did you do with the manuscript you had access to?",
+      "supporting_facts": [
+        "You tossed a manuscript to Shakespeare",
+        "You did not ignore the manuscripts"
+      ],
+      "contradicting_facts": [
+        "You kept the manuscript for yourself without sharing",
+        "You discarded the manuscript without use"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Are you present in the maze right now?",
+      "supporting_facts": [
+        "You are located in your usual box",
+        "You are not present in the maze"
+      ],
+      "contradicting_facts": [
+        "You are currently inside the maze",
+        "You were seen moving through the maze during the observed actions"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "How did you respond when you saw someone across the theater?",
+      "supporting_facts": [
+        "Oxford directed his attention toward someone across the theater",
+        "Oxford exhibits a visible reaction of shock or distress"
+      ],
+      "contradicting_facts": [
+        "You ignored the person across the theater",
+        "You reacted with calm and indifference"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "What did you do after being in the courtyard?",
+      "supporting_facts": [
+        "Oxford knelt in the rain in the courtyard",
+        "Oxford sat down"
+      ],
+      "contradicting_facts": [
+        "You left the courtyard immediately",
+        "You continued standing after kneeling"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Who accompanied you while you were observing your surroundings?",
+      "supporting_facts": [
+        "You were accompanied by your servant Francesco",
+        "You observed your surroundings carefully"
+      ],
+      "contradicting_facts": [
+        "Francesco was not with you when you made your observations",
+        "You were alone when observing the dance"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

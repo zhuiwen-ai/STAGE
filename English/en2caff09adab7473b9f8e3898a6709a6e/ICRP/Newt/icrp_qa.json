@@ -1,0 +1,65 @@
+{
+  "character": "Newt",
+  "qas": [
+    {
+      "question": "How do you navigate tight spaces when moving through the ventilation system?",
+      "supporting_facts": [
+        "You move rapidly through confined spaces by crawling",
+        "You did not require assistance to climb the pipes"
+      ],
+      "contradicting_facts": [
+        "You need help to climb through the ventilation system",
+        "You walk upright when moving through tight spaces"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Did you feel confident in your ability to handle the encounter?",
+      "supporting_facts": [
+        "You did not act with physical confidence",
+        "Your focus was directed away from the threat, looking past the Alien to the ground"
+      ],
+      "contradicting_facts": [
+        "You stood your ground and demonstrated readiness to respond",
+        "You maintained focused eye contact with the Alien to monitor its movements"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Were you attached to someone during the escape?",
+      "supporting_facts": [
+        "You are secured to Ripley's battle harness, indicating physical attachment to her",
+        "This attachment occurred during a high-risk situation requiring mobility and safety"
+      ],
+      "contradicting_facts": [
+        "You moved independently without any physical connection to another person",
+        "You were unsecured during the escape sequence"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why are you positioned so far back in the chamber?",
+      "supporting_facts": [
+        "Newt is curled up as far back as possible in the chamber",
+        "Newt does not respond to stimuli"
+      ],
+      "contradicting_facts": [
+        "You moved to the center of the chamber to get a better view",
+        "You are waiting near the air vent because you agreed to monitor it"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you do anything to stop the entity from moving when it was writhing?",
+      "supporting_facts": [
+        "Newt immobilized the writhing entity by jamming a desk against the wall",
+        "The action of jamming the desk was a deliberate physical intervention"
+      ],
+      "contradicting_facts": [
+        "Newt took no action to stop the entity from moving",
+        "The desk was moved by someone else to block the entity"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

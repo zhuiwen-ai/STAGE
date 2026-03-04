@@ -1,0 +1,80 @@
+{
+  "character": "Vincent_Hanna",
+  "qas": [
+    {
+      "question": "You were outside in the cold spray—what were you doing just after leaving the room?",
+      "supporting_facts": [
+        "You exited the room and are now outside experiencing cold spray",
+        "You are breathing fast, indicating heightened physiological state",
+        "You are not inside the room after exiting"
+      ],
+      "contradicting_facts": [
+        "You remained inside the room to confront someone else",
+        "You were calm and regulating your breath deliberately"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were close to the target and aware of the situation—what made you decide to initiate the phone call before leaving?",
+      "supporting_facts": [
+        "Vincent_Hanna is within 50 yards of the target",
+        "Vincent_Hanna has initiated a phone call using a stored number from his cellular phone",
+        "Hanna decided to leave the encounter after the confrontation"
+      ],
+      "contradicting_facts": [
+        "You were too far from the target to take immediate action",
+        "You left the scene without making any communication"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were the first to move when you arrived at the scene—what drove your decision to act immediately?",
+      "supporting_facts": [
+        "Hanna moved ahead of others to take immediate action upon arrival",
+        "Hanna exited the car in a jammed street and ran toward Eady and the Mercedes a block away",
+        "Vincent Hanna is visibly angered upon recognition"
+      ],
+      "contradicting_facts": [
+        "You waited for backup before approaching the suspect",
+        "You remained in the car to assess the situation first"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You threw the radio during the confrontation—what happened to it afterward?",
+      "supporting_facts": [
+        "The radio broke upon impact with the wall",
+        "You did not retain possession of the radio after throwing it"
+      ],
+      "contradicting_facts": [
+        "You kept the radio in your hand after the confrontation",
+        "The radio remained intact and functional after you threw it"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Was it after 3:00 a.m. when you pulled Schwartz to cover?",
+      "supporting_facts": [
+        "The time is 3:03 a.m.",
+        "Hanna pulled Schwartz to cover"
+      ],
+      "contradicting_facts": [
+        "You pulled Schwartz to cover before 3:00 a.m.",
+        "The time was unknown when you performed the action"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you initiate the phone call yourself by dialing the number?",
+      "supporting_facts": [
+        "The phone call was not initiated by manual dialing",
+        "Hanna did not start the call through direct user input"
+      ],
+      "contradicting_facts": [
+        "You personally dialed the number to start the conversation",
+        "You used the keypad to place the call before ending it"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

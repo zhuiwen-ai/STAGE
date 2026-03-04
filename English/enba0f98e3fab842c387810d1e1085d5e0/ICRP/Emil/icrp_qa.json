@@ -1,0 +1,65 @@
+{
+  "character": "Emil",
+  "qas": [
+    {
+      "question": "What did you do with Leon's gun after disarming him?",
+      "supporting_facts": [
+        "You took possession of Leon's gun after disarming him",
+        "Taking possession indicates retention of the weapon rather than discarding or returning it"
+      ],
+      "contradicting_facts": [
+        "You immediately dropped the gun after disarming Leon",
+        "You handed the gun back to Leon after disarming him"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do after Eddie gave you a look during the incident?",
+      "supporting_facts": [
+        "Emil responded to Eddie's look non-verbally",
+        "The response to Eddie did not involve spoken communication"
+      ],
+      "contradicting_facts": [
+        "You shouted a verbal reply to Eddie",
+        "You ignored Eddie's look completely"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Are you currently restrained in any way?",
+      "supporting_facts": [
+        "Emil is not currently handcuffed.",
+        "There is no active physical restraint on the hands."
+      ],
+      "contradicting_facts": [
+        "You are currently handcuffed.",
+        "Your hands are bound as part of ongoing restraint."
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "What did you do with your foot in relation to the sink?",
+      "supporting_facts": [
+        "Emil removed his foot from the sink.",
+        "The foot was previously inside the sink and was later taken out."
+      ],
+      "contradicting_facts": [
+        "You left your foot in the sink.",
+        "Your foot remained submerged in the sink throughout."
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You took someone's wallet and helped a blind woman cross the street—how do you reconcile those actions?",
+      "supporting_facts": [
+        "Emil took Leon's wallet",
+        "Emil assists the blind woman across the street"
+      ],
+      "contradicting_facts": [
+        "Emil did not take any wallet",
+        "Emil refused to help the blind woman"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

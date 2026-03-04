@@ -1,0 +1,65 @@
+{
+  "character": "Eric",
+  "qas": [
+    {
+      "question": "What did you do after arriving near the mine area with Con and Peter?",
+      "supporting_facts": [
+        "Eric moved to the rail with Con and Peter",
+        "Eric moved toward the mine by cutting inland from the line of buckets"
+      ],
+      "contradicting_facts": [
+        "You stayed on the beach without moving inland",
+        "You remained silent and did not take action upon arrival"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Why did you head toward the roadway instead of staying where you were?",
+      "supporting_facts": [
+        "Eric ran quickly toward the roadway",
+        "Eric did not remain at the original level"
+      ],
+      "contradicting_facts": [
+        "You stayed in place without changing position",
+        "You avoided moving toward the roadway"
+      ],
+      "final_score": 9.444444444444445
+    },
+    {
+      "question": "You were involved in removing the steel shelters with others—what role did you play in that effort?",
+      "supporting_facts": [
+        "Eric participated in hacking away at the steel shelters with Con and Peter.",
+        "Eric shouted during the activity, indicating active involvement."
+      ],
+      "contradicting_facts": [
+        "You only observed while others hacked at the steel shelters.",
+        "You worked on the shelters alone without help from Con or Peter."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do after you started running?",
+      "supporting_facts": [
+        "You continued running without stopping",
+        "Running was an ongoing action with no interruption"
+      ],
+      "contradicting_facts": [
+        "You stopped running shortly after starting",
+        "You paused to look around before continuing"
+      ],
+      "final_score": 7.222222222222222
+    },
+    {
+      "question": "You were offered something—did you take it, and what does that say about your choice at the time?",
+      "supporting_facts": [
+        "Eric made a decision to take one of something offered",
+        "Eric's action of taking indicates a deliberate choice rather than refusal"
+      ],
+      "contradicting_facts": [
+        "Eric refused what was offered",
+        "Eric did not make a decision when something was offered"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

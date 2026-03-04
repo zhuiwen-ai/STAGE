@@ -1,0 +1,65 @@
+{
+  "character": "Jessica",
+  "qas": [
+    {
+      "question": "What did you do with your phone before heading out?",
+      "supporting_facts": [
+        "You placed your phone in your pocket",
+        "The action of placing the phone in your pocket was completed by you"
+      ],
+      "contradicting_facts": [
+        "You left your phone behind on a table",
+        "You handed your phone to someone else before leaving"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you notice anything approaching before the others did?",
+      "supporting_facts": [
+        "You observed the car approaching",
+        "Your observation of the approaching car occurred prior to any stated group awareness"
+      ],
+      "contradicting_facts": [
+        "You were unaware of any vehicle approaching",
+        "You learned about the car only after it arrived"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do with the CD in relation to Maya's computer?",
+      "supporting_facts": [
+        "Jessica physically placed the CD into Maya's computer",
+        "The action of inserting the CD was performed by Jessica on Maya's computer"
+      ],
+      "contradicting_facts": [
+        "You did not interact with Maya's computer",
+        "Someone else inserted the CD into Maya's computer"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you assign someone else to decorate the cake on your behalf?",
+      "supporting_facts": [
+        "You personally handled the cake decoration task",
+        "No delegation of the cake decoration occurred"
+      ],
+      "contradicting_facts": [
+        "You asked another person to decorate the cake for you",
+        "The cake decoration was completed by someone you assigned"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Were you in the office with Maya while waiting for the verdict?",
+      "supporting_facts": [
+        "Jessica is present in the office with Maya during the wait for the verdict",
+        "Jessica does not leave the office before delivering or receiving news"
+      ],
+      "contradicting_facts": [
+        "You were not in the office when the verdict arrived",
+        "You left the room before the verdict was delivered"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

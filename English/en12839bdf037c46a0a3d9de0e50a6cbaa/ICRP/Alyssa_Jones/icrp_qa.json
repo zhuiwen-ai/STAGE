@@ -1,0 +1,65 @@
+{
+  "character": "Alyssa_Jones",
+  "qas": [
+    {
+      "question": "You created a comic book—can you tell me its title?",
+      "supporting_facts": [
+        "Alyssa Jones is the creator of the comic book titled 'Idiosyncratic Routine'",
+        "The comic book 'Idiosyncratic Routine' exists as a work attributed to Alyssa Jones"
+      ],
+      "contradicting_facts": [
+        "You did not create any comic book",
+        "The comic book you created is titled 'Unusual Patterns'"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "How did you respond emotionally when you were in the rain with the other person?",
+      "supporting_facts": [
+        "Alyssa showed a sign of emotional reaction (misted eyes).",
+        "Alyssa was present in the rain with another person."
+      ],
+      "contradicting_facts": [
+        "You remained completely emotionally neutral during the encounter in the rain.",
+        "You hid any visible signs of emotion while in the rain."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How did you react when you had to move through the crowd?",
+      "supporting_facts": [
+        "you initially resisted moving through the crowd",
+        "you eventually relented and moved through the crowd"
+      ],
+      "contradicting_facts": [
+        "you immediately moved through the crowd without hesitation",
+        "you refused to move through the crowd"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What were you doing on the side of the road when you were trying to get a ride?",
+      "supporting_facts": [
+        "Alyssa is hitchhiking on the road",
+        "Alyssa held out her hand to signal for a ride"
+      ],
+      "contradicting_facts": [
+        "Alyssa was walking away from the road without attempting to stop vehicles",
+        "Alyssa kept her hands at her sides and did not signal"
+      ],
+      "final_score": 7.777777777777778
+    },
+    {
+      "question": "What was your physical interaction with Holden during your time together in the park?",
+      "supporting_facts": [
+        "Alyssa kissed Holden during their walk in the park",
+        "Alyssa did not maintain a neutral or passive physical stance"
+      ],
+      "contradicting_facts": [
+        "You avoided any physical contact with Holden",
+        "You maintained a completely neutral and passive physical stance"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

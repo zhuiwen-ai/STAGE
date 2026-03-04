@@ -1,0 +1,89 @@
+{
+  "character": "Jordy",
+  "qas": [
+    {
+      "question": "Did you provide your location when contacting emergency services?",
+      "supporting_facts": [
+        "You did not withhold location information from emergency services",
+        "The information shared with emergency services included your location"
+      ],
+      "contradicting_facts": [
+        "You refused to share your location with emergency services",
+        "You gave false location details to emergency services"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What name do you use when speaking to Korfin?",
+      "supporting_facts": [
+        "You address Korfin by the name 'Bobby'",
+        "This form of address is consistent in your interactions with Korfin"
+      ],
+      "contradicting_facts": [
+        "You call Korfin by a different nickname or title",
+        "You refer to Korfin formally by last name or rank"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Do you have enough cash to cover a $50 expense right now?",
+      "supporting_facts": [
+        "Jordy has fifty dollars in cash",
+        "The amount of cash on hand is exactly sufficient for a $50 expense"
+      ],
+      "contradicting_facts": [
+        "You have less than fifty dollars in cash",
+        "You do not currently possess any cash"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You saw Louie recently—did you realize who he was right away?",
+      "supporting_facts": [
+        "Jordy recognized Louie upon seeing him",
+        "Jordy did not fail to recognize Louie"
+      ],
+      "contradicting_facts": [
+        "Jordy was unsure about Louie's identity",
+        "Jordy failed to recognize Louie at first"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What happened when you tried to reach Emil near the officer?",
+      "supporting_facts": [
+        "Jordy attempted to move past an officer to reach Emil",
+        "The attempt to pass the officer did not confirm successful passage"
+      ],
+      "contradicting_facts": [
+        "You easily walked past the officer without obstruction",
+        "You had no intention of reaching Emil"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "When trying to break the pipe, did you use leverage?",
+      "supporting_facts": [
+        "You used leverage as part of your method to break the pipe",
+        "Your attempt to break the pipe was not done through direct force alone"
+      ],
+      "contradicting_facts": [
+        "You tried to break the pipe without using any leverage",
+        "You relied solely on physical strength to break the pipe"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do with your boots before getting rid of them?",
+      "supporting_facts": [
+        "you disposed of your boots without cleaning them",
+        "boot cleaning was not performed as a preparatory step before disposal"
+      ],
+      "contradicting_facts": [
+        "you cleaned your boots prior to disposal",
+        "disposal of the boots only occurred after they had been cleaned"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

@@ -1,0 +1,1026 @@
+[
+  {
+    "id": "rel_ep_ep_5d130a73fec1",
+    "subject_id": "ep_c2acacd7e4d8fb91",
+    "object_id": "ep_dad950cca2e21eb5",
+    "relation_type": "contrasts_with",
+    "reason": "The two episodes center on opposing views of leadership and risk: the first features a historical analogy and regional challenge that highlights hesitation versus boldness, while the second explicitly frames Stan's advocacy for bold action in contrast to Chuck's caution, reinforcing a philosophical divide. The symmetry in contrasting values is supported by both descriptions and related events.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4ffe3e01ab08",
+    "subject_id": "ep_4b63105223309e5d",
+    "object_id": "ep_520044299c9901a0",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_25 of doc_24, with the logistics planning involving map review likely occurring before the clipboard transfer, which marks a shift in responsibility. The planning sets the context in which responsibility is reassigned, supporting a local narrative order where coordination precedes the act of delegation.",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1bec46a47bc9",
+    "subject_id": "ep_66331f7c4ece8f9b",
+    "object_id": "ep_36febc76d55423ea",
+    "relation_type": "precedes",
+    "reason": "The initiation of intimate cleanup and transition to fantasy (closing the cubicle door, wiping toner, beginning the fantasy) occurs before the intensification of intimacy through transgressive touch and movement onto the desk, as both are part of a continuous scene (scene_47) with a clear temporal progression from cleanup to deeper physical intimacy.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_78b39742dea5",
+    "subject_id": "ep_665d132347a0e619",
+    "object_id": "ep_8a4b596b319aefb0",
+    "relation_type": "precedes",
+    "reason": "The exchange of concerns about appearance and well-being occurs before the emotional confrontation, as Kelly first observes Chuck's physical state and smell, then later pulls him away to confront his emotional breakdown, indicating a clear temporal progression within scene_46.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_898e43155966",
+    "subject_id": "ep_cd864d9ff76ac6e0",
+    "object_id": "ep_520044299c9901a0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront management justification and assert authority' (scene_20) occurs during the Warehouse Performance Review Meeting, which precedes the clipboard transfer in scene_25. The narrative order of scenes supports that Chuck's assertion of authority precedes the formal reassignment of responsibility via clipboard transfer.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2ae1ac91421f",
+    "subject_id": "ep_8def3caed071b6c4",
+    "object_id": "ep_c2acacd7e4d8fb91",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Stan revealing the flight delay and the resulting argument about operational priorities, which occurs in scene_32. The second episode, occurring in scene_34, includes Stan's apology and the historical anecdote, indicating a later point in the conversation. The scene numbers and narrative progression support that the first episode precedes the second.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_39b9e5aab815",
+    "subject_id": "ep_ee0a7ebd53bcf9e0",
+    "object_id": "ep_f0fced363e8ba390",
+    "relation_type": "precedes",
+    "reason": "The teamwork reinforcement episode, involving Chuck's message and Lev's gesture mimicry, occurs before the team's expression of relief and pride after the truck departs, as both are in scene_30 and the gesture interaction logically precedes the post-completion emotional reaction.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_03024b18830b",
+    "subject_id": "ep_4b63105223309e5d",
+    "object_id": "ep_cc0acc44d1b4745a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Plan delivery logistics with team' involves reviewing maps and coordinating routes, which logically occurs before the episode 'Assess and delay semi departure under time pressure' where the team is already loading containers and making time-sensitive decisions about departure. The planning activity sets the stage for the execution phase, indicating a clear temporal sequence supported by the narrative flow of preparation followed by operational action.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d0571128e9ef",
+    "subject_id": "ep_25a42c30c8fb6e59",
+    "object_id": "ep_3b9af2dd6aa79e39",
+    "relation_type": "causes",
+    "reason": "The repair of the fish tank filter (subject) directly leads to the discovery of the dead fish (object), as the filter's prior failure caused the fish to die. The description of the object episode explicitly states it centers on 'the consequence of the filter's failure,' providing clear causal evidence from the subject episode's context.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e2977bc7a628",
+    "subject_id": "ep_bb4be43ed5b0fdfc",
+    "object_id": "ep_dad950cca2e21eb5",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Commit to plan through challenge and agreement' occurs after Stan has already advocated for bold action, and the commitment ritual (the bet) serves to enact the philosophy previously discussed. The acceptance of the challenge elaborates on the earlier advocacy by demonstrating it in practice, thus expanding the idea of boldness into a concrete shared action. This is supported by the shared scene reference (scene_34) and the transformation of philosophical discussion into action as stated in the description.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_96de4df09370",
+    "subject_id": "ep_9739b303efb0816e",
+    "object_id": "ep_3722577c8e73b973",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate team accountability and inspection' involves Chuck initiating the performance review and leading a walkthrough of the sorting area, which sets the stage for the subsequent episode 'Identify and correct sorting area flaws' where a specific flaw is discovered and corrected. The sequence of events in scene_20 supports a clear narrative order where the initiation and inspection precede the identification and correction of the specific flaw.",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f02acc6f8f4f",
+    "subject_id": "ep_44ceee26c9b4bd23",
+    "object_id": "ep_b966543aff2adffc",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Disengage through shared ritual of rest' (doc_id: doc_33) occurs in scene_34, while the object episode 'Wake Chuck and transition delivery responsibility' (doc_id: doc_35) occurs in scene_36, indicating a clear temporal sequence where the disengagement and rest routine precedes the waking and task transition. The narrative order across documents and scenes supports a directed 'precedes' relation.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d85d7666d64b",
+    "subject_id": "ep_71ee99b7a03d042e",
+    "object_id": "ep_8def3caed071b6c4",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reunite and exchange job updates with Stan' occurs before 'Reveal and debate the flight delay decision' within the same scene (scene_32), as the friendly exchange sets up the context prior to Stan disclosing the flight delay, which shifts the tone to conflict. The sequence is supported by the narrative flow in the related events.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_66b0cd1a38b8",
+    "subject_id": "ep_24f0fddc6279f41c",
+    "object_id": "ep_31c1a8ea954c7000",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate package handover and labeling' involves the woman handing over the box and the driver scanning and labeling it, which is a procedural step that logically and temporally precedes the object episode 'Complete exchange with personal gesture', where the woman gives the driver coffee and he departs with the package. Both episodes occur in scene_2 and describe a sequential interaction, with the handover and labeling naturally preceding the concluding personal gesture and departure.",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9edb27e11221",
+    "subject_id": "ep_8cc6f625dac60df2",
+    "object_id": "ep_8a4b596b319aefb0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Chuck resolves to find Kelly' occurs when Chuck decides to leave his apartment to find her, while the episode 'Confront emotional breakdown and exhaustion' involves an interaction between Chuck and Kelly at the Xerox machine. Given that Chuck must first resolve to find Kelly before the confrontation can occur, and considering the narrative flow implied by the events, this resolution logically precedes the emotional confrontation. The related events in both episodes support this temporal ordering.",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8ae2f625c0a0",
+    "subject_id": "ep_a0b36760ffd376d3",
+    "object_id": "ep_1200f3d82ca1cb0c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Handle communication crisis and power outage' includes the power outage and Chuck activating his headlamp, which occurs before the power returns and Chuck rushes to answer the phone in 'Respond to bathroom interruption and restore power'. The sequence of related events in the same scene (scene_24) supports a clear temporal order where the power outage and communication efforts precede the restoration of power and the subsequent phone call.",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2e404d161333",
+    "subject_id": "ep_9739b303efb0816e",
+    "object_id": "ep_cd864d9ff76ac6e0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate team accountability and inspection' involves Chuck opening the performance review and leading a walkthrough of the sorting area, which sets the stage for the subsequent episode 'Confront management justification and assert authority', where Yuri offers an excuse and Chuck rejects it. Both episodes occur within the same occasion (Warehouse Performance Review Meeting) and the sequence of events described—first inspection and team emphasis, then a specific confrontation over excuses—supports a clear narrative order where the first precedes the second.",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_dcb105b40864",
+    "subject_id": "ep_cd864d9ff76ac6e0",
+    "object_id": "ep_f4495ed06b2ff6d9",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_20 during the Warehouse Performance Review Meeting. The first episode involves Chuck rejecting Yuri's excuse, which immediately precedes his announcement to work every job and his subsequent reflection with Aleksei. The narrative sequence in the shared occasion supports a clear temporal order: assertion of authority (rejection of excuse) comes before the declaration of hands-on leadership and introspection.",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_cb0e8149c206",
+    "subject_id": "ep_934311c735780b2d",
+    "object_id": "ep_31c1a8ea954c7000",
+    "relation_type": "precedes",
+    "reason": "The episode 'Revise package design and reclaim control' involves the woman requesting the box back and modifying the drawing, which must occur before she returns the box and offers coffee in the episode 'Complete exchange with personal gesture'. The sequence is supported by the logical flow of actions: revision of the package precedes its final return and conclusion of the interaction.",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a435ab1e5479",
+    "subject_id": "ep_3b9af2dd6aa79e39",
+    "object_id": "ep_c1ee10da0195338e",
+    "relation_type": "causes",
+    "reason": "The discovery and removal of the dead fish (ep_3b9af2dd6aa79e39) directly leads to Chuck's emotional response of apologizing to the fish (ep_c1ee10da0195338e), as the death of the fish is the explicit trigger for his expression of guilt and remorse. The causal link is supported by the narrative sequence and emotional logic in the descriptions.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_925450840290",
+    "subject_id": "ep_9739b303efb0816e",
+    "object_id": "ep_5aa40ef18b660f1c",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur during the same occasion, 'Warehouse Performance Review Meeting (scene_20)', and the description of 'Initiate team accountability and inspection' indicates Chuck begins the meeting by highlighting inefficiencies and leading an inspection, while 'Address Kuala Lumpur facility issues remotely' involves Chuck taking a call and making decisions during the same scene. The sequence implied by the narrative flow—starting the review before handling the remote facility issue—supports a 'precedes' relation from the initiation of accountability to the remote intervention.",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8e94c9ce306e",
+    "subject_id": "ep_c9707652743034bc",
+    "object_id": "ep_8a4b596b319aefb0",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Probe into Chuck's trip to Russia' introduces Kelly's inquiry about the trip and Chuck's minimal response, which sets up the emotional context later expanded in 'Confront emotional breakdown and exhaustion', where Chuck expresses deeper frustration and disorientation. The second episode provides additional emotional and psychological detail that elaborates on the initial probe, grounding the elaboration in shared events in scene_46.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5d9ad23de6cc",
+    "subject_id": "ep_25a42c30c8fb6e59",
+    "object_id": "ep_c1ee10da0195338e",
+    "relation_type": "causes",
+    "reason": "The failure to maintain the fish tank filter, leading to poor water conditions and fish death, directly triggers Chuck's emotional response of apologizing to the fish. The repair attempt (subject) occurs in response to the failing system, but the fish's death—implied by the apology—results from prior neglect, making the repair episode a causal precursor to the apology. The causal link is supported by the narrative sequence where filter malfunction leads to fish death, prompting remorse.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_bf34006c06a3",
+    "subject_id": "ep_3722577c8e73b973",
+    "object_id": "ep_f4495ed06b2ff6d9",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur during the same occasion, 'Warehouse Performance Review Meeting (scene_20)', and their related events are listed in sequence: the identification and correction of the sorting area flaw (including table repositioning) directly precedes Chuck's announcement of hands-on leadership and the subsequent reflection with Aleksei. The narrative flow within scene_20 supports a temporal ordering where the flaw correction happens before the leadership declaration.",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2285b97ed4ee",
+    "subject_id": "ep_93a6d37207919917",
+    "object_id": "ep_291a9220b7e8c180",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Chuck's late arrival and status update' includes Chuck reporting on actions taken in St. Petersburg, which establishes the context that Maynard later challenges in the episode 'Challenge new team's performance after missed Paris connection'. The narrative flow within the same meeting (same occasion) and the logical sequence of presenting results followed by criticism of those results support that the response precedes the challenge.",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fc74d96f7a68",
+    "subject_id": "ep_27be2c4b9f4a8b38",
+    "object_id": "ep_c9707652743034bc",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Probe into Chuck's trip to Russia' provides additional context and follow-up to the earlier message left by Chuck, where he mentioned his trip to Russia. Kelly's inquiry elaborates on the unspoken emotional weight and details of the trip that were only partially revealed in the voicemail episode, thus expanding on its implications. However, the connection is partially inferential, as the text does not explicitly link the two episodes beyond shared topic and character focus.",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "id": "rel_ep_ep_7538e8c2f7ef",
+    "subject_id": "ep_24f0fddc6279f41c",
+    "object_id": "ep_934311c735780b2d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate package handover and labeling' involves the woman handing over the box and the driver scanning and labeling it. The object episode 'Revise package design and reclaim control' begins after the labeling, when the woman requests the box back to modify the drawing. The sequence of events in the description and related_events shows the first episode occurs before the second, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_60c01cf09d67",
+    "subject_id": "ep_291a9220b7e8c180",
+    "object_id": "ep_d6e840f2b9d56c80",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, which challenges the new team's performance based on a missed Paris connection, provides a specific instance of failure that supports the broader critique in the object episode regarding the local leadership decision in St. Petersburg. The object episode expands on the subject by generalizing the failure into a systemic concern about leadership approach, with Maynard and Becca questioning the appointment strategy while Stan and Chuck defend it. This indicates that the subject episode's event serves as a concrete example that the object episode elaborates upon with additional context and discussion.",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_f6dfa21db31c",
+    "subject_id": "ep_d5985577ecc84131",
+    "object_id": "ep_1260870a6d1a0493",
+    "relation_type": "precedes",
+    "reason": "The episode 'Travel through Memphis' involves Chuck driving through the city as a means of transit, which logically and narratively occurs before 'Arrive at the cottage in Memphis,' where he reaches his destination. The related events indicate a sequence: driving through streets (scene_42) precedes arriving at the cottage (scene_38), supporting a directed 'precedes' relation from travel to arrival.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a46c8659c114",
+    "subject_id": "ep_27be2c4b9f4a8b38",
+    "object_id": "ep_8a4b596b319aefb0",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, in which Chuck leaves an emotional voicemail for Kelly, expresses his delay and emotional strain due to the failed trip to Russia. The object episode elaborates on this by revealing the deeper emotional breakdown and disorientation Chuck experiences later, providing expanded context about the psychological impact of the same failed mission. The shared focus on Chuck's emotional state and the failed Russia trip supports that the second episode elaborates on the emotional and situational background introduced in the first.",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_91e443aae07c",
+    "subject_id": "ep_03cf13b1045c3348",
+    "object_id": "ep_8a4b596b319aefb0",
+    "relation_type": "elaborates",
+    "reason": "The object Episode 'Confront emotional breakdown and exhaustion' includes all events from the subject Episode 'Kelly interrupts machine repair in favor of connection' and adds further detail—emotional disclosure, Chuck's breakdown, and his disorientation—thereby expanding and enriching the narrative initiated in the subject Episode. The shared event of Kelly pulling Chuck away anchors the elaboration, with the object providing deeper context and progression of emotional revelation.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6f6ff5bc6091",
+    "subject_id": "ep_a317e4c5ffb2c20e",
+    "object_id": "ep_8a4b596b319aefb0",
+    "relation_type": "precedes",
+    "reason": "The troubleshooting of the Xerox machine malfunction (ep_a317e4c5ffb2c20e) sets the immediate context in scene_46, during which Kelly pulls Chuck away to confront his emotional state, leading to the breakdown episode (ep_8a4b596b319aefb0). The sequence of related_events in both episodes occurs within the same scene and supports a clear local narrative order where the technical issue is addressed first, then transitions into the emotional confrontation.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a7929b6ba184",
+    "subject_id": "ep_00640d935b81f616",
+    "object_id": "ep_08f4143a58c0cc27",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, 'Initiate review of live animal transport policy', introduces a concern about operational impacts of live animal shipments, which is exemplified and expanded upon by the object episode, 'Address Milan shipment delay and customs complications', where a specific incident involving a race horse with colic causes delays and customs issues. The object episode provides a concrete case that illustrates the broader policy concern raised in the subject episode, thus the subject episode elaborates on the rationale behind addressing such incidents.",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_676012573e49",
+    "subject_id": "ep_9739b303efb0816e",
+    "object_id": "ep_f4495ed06b2ff6d9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate team accountability and inspection' includes Chuck leading a walkthrough of the sorting area and emphasizing team interdependence during the performance review, which is followed by 'Declare hands-on leadership and reflect on past failures' where Chuck announces his intention to work every job and then reflects on past failures with Aleksei. Both episodes occur in scene_20 and share the same occasion, but the sequence of events in the descriptions and related_events indicates a clear narrative order: inspection and accountability come before the announcement and reflection, supporting a 'precedes' relation.",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a710f0c821d4",
+    "subject_id": "ep_8cc6f625dac60df2",
+    "object_id": "ep_e36d27644b1d7e2d",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Chuck resolving to find Kelly from his apartment, while the object episode depicts him arriving at an office park near the airport in haste. The resolution to act precedes the physical arrival and urgent movement at a distant location, indicating a temporal sequence supported by the narrative progression from decision to action.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_69d6776de49b",
+    "subject_id": "ep_c1ee10da0195338e",
+    "object_id": "ep_83289fb093caa3a2",
+    "relation_type": "precedes",
+    "reason": "The apology episode (Chuck expressing remorse) occurs in scene_39, while the burial episode (digging and burying) occurs in scene_40, indicating a clear narrative sequence where expressing guilt precedes the physical act of burial.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_03334a95a250",
+    "subject_id": "ep_bb80a4d053de3726",
+    "object_id": "ep_39486cfb4ad0d4ff",
+    "relation_type": "precedes",
+    "reason": "The episode 'Lead by example to mobilize team' involves Chuck initiating action by unloading packages and prompting others to join, which sets the stage for the subsequent coordinated effort described in 'Lead team in sorting packages under Chuck's direction'. The shift from mobilizing the team to actively sorting packages under direction indicates a temporal sequence supported by the narrative progression from initiating action to organized execution.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b7d05f272d90",
+    "subject_id": "ep_83b556156eca1345",
+    "object_id": "ep_e36d27644b1d7e2d",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Chuck deciding to act upon learning the item has arrived, including checking his watch and committing to catch the sweep that night. The object episode depicts Chuck arriving at the office park in haste, already in motion toward his goal. The decision to act (subject) logically precedes the physical execution of that decision (object), with temporal cues (checking watch, urgency) supporting a coherent sequence. This ordering is consistent with narrative progression from decision to action.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dae0eb18f5ec",
+    "subject_id": "ep_bb80a4d053de3726",
+    "object_id": "ep_ee0a7ebd53bcf9e0",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Lead by example to mobilize team' occurs in doc_27, scene_28, while the object episode 'Reinforce teamwork through shared gesture and praise' occurs in doc_29, scene_30, indicating a clear narrative sequence where the mobilization of the team precedes the reinforcement of teamwork through gesture and praise.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9ae9a25922f8",
+    "subject_id": "ep_ca04fd2dfb91488a",
+    "object_id": "ep_83289fb093caa3a2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Enter apartment and notice disorder' occurs when Chuck arrives home and drops his belongings (scene_39), while 'Bury the dead fish' takes place in scene_40, involving digging and burial. The scene numbers and narrative flow indicate that entering the apartment and noticing disorder happens before burying the fish, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0edf93e17802",
+    "subject_id": "ep_3b9af2dd6aa79e39",
+    "object_id": "ep_83289fb093caa3a2",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Discover and remove dead fish' involves Chuck retrieving dead fish from the tank, which directly precedes the object episode 'Bury the dead fish' where he buries them in the backyard. The sequence of events is chronologically ordered: removal from the tank must occur before burial, and both episodes are part of a coherent narrative flow following the fish's death.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2719f175462b",
+    "subject_id": "ep_19e4d195de4aa017",
+    "object_id": "ep_b1a9942c01011562",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Locate Kelly Frears by Questioning Doctoral Candidates' involves Chuck seeking information about Kelly's location and receiving a gesture indicating the Xerox machine. The object episode 'Navigate to active Xerox machine' involves Chuck moving toward the Xerox machine, which is the direct next action following the information obtained. The narrative flow and goal continuity (finding Kelly) support a clear temporal sequence where questioning precedes navigation.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_24d80f8ba57e",
+    "subject_id": "ep_39486cfb4ad0d4ff",
+    "object_id": "ep_cc0acc44d1b4745a",
+    "relation_type": "precedes",
+    "reason": "The package sorting episode under Chuck's direction (ep_39486cfb4ad0d4ff) involves the team preparing packages, which logically precedes the decision to delay the semi's departure (ep_cc0acc44d1b4745a) to ensure all packages are loaded, as indicated by the shared goal of complete package routing and the sequence implied in the loading process.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_15baff33b0b3",
+    "subject_id": "ep_39486cfb4ad0d4ff",
+    "object_id": "ep_ee0a7ebd53bcf9e0",
+    "relation_type": "precedes",
+    "reason": "The package sorting episode (ep_39486cfb4ad0d4ff) occurs in doc_28, scene_29, while the teamwork reinforcement episode (ep_ee0a7ebd53bcf9e0) occurs in doc_29, scene_30, indicating a sequential narrative order where the sorting effort precedes the gesture-based reinforcement of teamwork.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4d6cae4ccfbd",
+    "subject_id": "ep_83b556156eca1345",
+    "object_id": "ep_dc6ab47c5ffd55af",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Chuck deciding to catch the sweep after a phone call (scene_17), while the object episode occurs during the departure of the FedEx truck and observation of graffiti (scene_21). Scene numbers indicate a narrative sequence where scene_17 precedes scene_21, supporting a 'precedes' relation from the decision episode to the journey episode.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_33c883981caa",
+    "subject_id": "ep_dc6ab47c5ffd55af",
+    "object_id": "ep_dd4fb5dbdbfcb34b",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Chuck begins journey and notices graffiti' occurs during the initial movement of a FedEx truck from the office, while the object episode 'Board the aircraft during freight loading' involves Chuck boarding an MD-11 aircraft during freight operations. The truck departure logically precedes air transport in a typical FedEx logistics sequence, and both episodes are part of a continuous journey, with the truck scene (scene_21) occurring before the aircraft boarding (scene_31), supporting a local narrative order.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1fc01732db0e",
+    "subject_id": "ep_9739b303efb0816e",
+    "object_id": "ep_39486cfb4ad0d4ff",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate team accountability and inspection' (scene_20) involves Chuck opening a performance review and inspecting the sorting area, which sets up the context for the subsequent episode 'Lead team in sorting packages under Chuck's direction' (scene_29) where the team acts under his guidance. The inspection and critique logically precede the coordinated sorting effort, indicating a narrative sequence.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4455e48e96ee",
+    "subject_id": "ep_b1a9942c01011562",
+    "object_id": "ep_a317e4c5ffb2c20e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate to active Xerox machine' involves Chuck moving toward a Xerox machine with a flashing green light (scene_45), which occurs just before 'Address the Xerox machine malfunction,' where Kelly reveals the manuscript is stuck and Chuck inspects the machine (scene_46). The sequence of scenes (45 before 46) and the progression from approaching the machine to actively troubleshooting a jam support a clear narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_858d62548118",
+    "subject_id": "ep_b966543aff2adffc",
+    "object_id": "ep_dc6ab47c5ffd55af",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Wake Chuck and transition delivery responsibility' involves Stan handing over delivery duties to Chuck, which logically and temporally precedes the object episode 'Chuck begins journey and notices graffiti', where Chuck is already in motion on the delivery route observing surroundings. Both episodes are part of the same causal sequence, with the transition of responsibility occurring before the journey begins, as supported by the related events and narrative flow.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_932ac6cab1ef",
+    "subject_id": "ep_8cc6f625dac60df2",
+    "object_id": "ep_19e4d195de4aa017",
+    "relation_type": "precedes",
+    "reason": "The episode 'Chuck resolves to find Kelly' describes Chuck deciding to leave his apartment to find Kelly, which logically and narratively precedes the subsequent episode where he actively locates her by questioning doctoral candidates in an academic space. The resolution to act (ep_8cc6f625dac60df2) sets up the goal that is pursued in ep_19e4d195de4aa017, and the events are presented in sequential narrative order across scenes 41 and 44.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9ce5a5c5c779",
+    "subject_id": "ep_dc6ab47c5ffd55af",
+    "object_id": "ep_d80a9859e56ceb1f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Chuck begins journey and notices graffiti' occurs in scene_21, where Chuck observes graffiti during the initial movement of the FedEx truck. The episode 'Restore and organize the worksite' occurs in scene_25, where Chuck collaborates with loaders to clean the same graffiti and organizes package flow. The clear scene progression from 21 to 25 supports a direct narrative order where the observation of disorder precedes its remediation.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4defd4d1d07d",
+    "subject_id": "ep_20da0872cd4113a9",
+    "object_id": "ep_5aa40ef18b660f1c",
+    "relation_type": "precedes",
+    "reason": "The inspection of jitneys (ep_20da0872cd4113a9) concludes with Chuck's beeper alerting him, which directly precedes the episode where he takes a call from Kamal about the Kuala Lumpur facility (ep_5aa40ef18b660f1c). The beeper alert serves as a narrative transition leading into the phone call, establishing a clear local narrative order.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1819d88711de",
+    "subject_id": "ep_19e4d195de4aa017",
+    "object_id": "ep_36febc76d55423ea",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Locate Kelly Frears by Questioning Doctoral Candidates' involves Chuck seeking Kelly's location, which directly sets up the subsequent interaction in the object episode 'Intensify intimacy through transgressive touch and proximity' where Kelly and Chuck engage in intimate physical contact. The narrative flow and event sequence imply that finding Kelly precedes the intimate encounter, with both episodes occurring in a continuous scene sequence (scene_44 before scene_47).",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8fad962aa8e8",
+    "subject_id": "ep_4b63105223309e5d",
+    "object_id": "ep_bb4be43ed5b0fdfc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Plan delivery logistics with team' involves Chuck and Lev coordinating routes with drivers, which logically precedes the commitment ritual in 'Commit to plan through challenge and agreement' where Chuck and Stan confirm their shared action through a bet. The planning activity sets the stage for the subsequent affirmation of commitment, supporting a narrative sequence where preparation comes before formal agreement.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a51872f121a7",
+    "subject_id": "ep_cc0acc44d1b4745a",
+    "object_id": "ep_01af57a2c16f9824",
+    "relation_type": "precedes",
+    "reason": "The decision to delay the semi's departure (ep_cc0acc44d1b4745a) occurs during scene_26, while the final container loading and truck dispatch (ep_01af57a2c16f9824) occurs in scene_30, indicating a clear narrative and temporal sequence where the delay decision precedes the completion of loading and departure.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_08f23a309218",
+    "subject_id": "ep_19e4d195de4aa017",
+    "object_id": "ep_a317e4c5ffb2c20e",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Locate Kelly Frears by Questioning Doctoral Candidates' involves Chuck seeking Kelly's location, which culminates in a gesture directing him to the Xerox machine. The object episode 'Address the Xerox machine malfunction' begins with Kelly and Chuck already at the Xerox machine, troubleshooting a jam. The narrative sequence is supported by the flow of events: locating Kelly precedes the joint effort to fix the machine, with no indication of overlap or reversal in order.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4f8762c80351",
+    "subject_id": "ep_19e4d195de4aa017",
+    "object_id": "ep_8a4b596b319aefb0",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Locate Kelly Frears by Questioning Doctoral Candidates' occurs in doc_43 and involves Chuck seeking Kelly's location, culminating in a gesture pointing to the Xerox machine. The object episode 'Confront emotional breakdown and exhaustion' occurs in doc_45 and begins with Kelly pulling Chuck away from the Xerox machine (scene_46), indicating a direct continuation of location and interaction. The narrative sequence shows Chuck finding Kelly as a prerequisite to their subsequent emotional confrontation, with clear chronological ordering across adjacent scenes and documents.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f1d022eaa1bf",
+    "subject_id": "ep_4b63105223309e5d",
+    "object_id": "ep_93a6d37207919917",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, 'Plan delivery logistics with team', involves Chuck and Lev coordinating operational logistics in St. Petersburg, which provides contextual background for the actions reported in the object episode, 'Respond to Chuck's late arrival and status update', where Chuck reports on improvements in St. Petersburg including management changes and successful package loading. The first episode elaborates on the preparatory actions that underlie the outcomes described in the second.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_09964d863779",
+    "subject_id": "ep_1200f3d82ca1cb0c",
+    "object_id": "ep_83b556156eca1345",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to bathroom interruption and restore power' involves Chuck answering a ringing phone after power returns (scene_24), while the object episode 'Respond to the item's arrival and commit to action' involves Chuck receiving a call about an item arriving and deciding to act (scene_17). Scene numbers indicate that the object episode occurs earlier (scene_17) than the subject episode (scene_24), so the subject does not precede the object. However, reversing the direction, the object episode (scene_17) clearly precedes the subject episode (scene_24) in narrative order. Given that 'precedes' is a directed relation and the scene numbering provides clear chronological evidence, the correct directional relation is object -> subject. But since the input fixes the subject as ep_1200f3d82ca1cb0c and object as ep_83b556156eca1345, the relation from subject to object cannot be 'precedes'. No other relation is supported. Therefore, no valid directed relation exists in the given direction. Output is NONE due to incorrect directionality for the allowed 'precedes' relation.",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8c859ab98513",
+    "subject_id": "ep_8a4b596b319aefb0",
+    "object_id": "ep_ee0a7ebd53bcf9e0",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts Chuck's emotional breakdown and disorientation, showing vulnerability and distress, while the second episode shows him confidently reinforcing teamwork with a positive, cohesive interaction with Lev. These episodes are juxtaposed in tone and emotional state—private collapse versus public leadership—supporting a contrast relation.",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_941fc6e552c6",
+    "subject_id": "ep_cd864d9ff76ac6e0",
+    "object_id": "ep_ee0a7ebd53bcf9e0",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode features Chuck rejecting excuses and asserting authority in a tense performance review, while the second shows him fostering solidarity through mutual gesture and praise. These episodes contrast in tone and interpersonal dynamic—one emphasizes accountability and authority, the other emphasizes teamwork and rapport—suggesting a deliberate juxtaposition of leadership styles.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4b34ab46422d",
+    "subject_id": "ep_ca04fd2dfb91488a",
+    "object_id": "ep_25a42c30c8fb6e59",
+    "relation_type": "precedes",
+    "reason": "The episode 'Enter apartment and notice disorder' occurs first as Chuck arrives home and drops his belongings, which is followed by noticing the fish tank's poor condition and repairing the filter. The narrative order in the shared scene (scene_39) supports that entering and observing disorder precedes the inspection and repair of the filter.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2776833ef1b3",
+    "subject_id": "ep_ca04fd2dfb91488a",
+    "object_id": "ep_3b9af2dd6aa79e39",
+    "relation_type": "precedes",
+    "reason": "The episode 'Enter apartment and notice disorder' occurs when Chuck arrives home and drops his belongings, which sets the initial scene before discovering the dead fish. The discovery and removal of the dead fish happens afterward, during the same scene (scene_39), indicating a clear narrative sequence where the entrance and observation of disorder precedes the discovery of the fish deaths.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_37021e1fb450",
+    "subject_id": "ep_ca04fd2dfb91488a",
+    "object_id": "ep_c1ee10da0195338e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Enter apartment and notice disorder' occurs when Chuck arrives home and drops his belongings, which sets the scene before he discovers the dead fish and subsequently apologizes. The narrative flow implies a temporal sequence where noticing the disorder precedes the emotional response of apologizing to the fish, as the apology is a reaction to the discovered state of the fish, which would be found after entering the apartment.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_217db0e0f3a2",
+    "subject_id": "ep_8a4b596b319aefb0",
+    "object_id": "ep_dad950cca2e21eb5",
+    "relation_type": "contrasts_with",
+    "reason": "The emotional breakdown and vulnerability of Chuck in the subject episode contrasts with Stan's advocacy for bold action and risk-taking in the object episode, highlighting a philosophical and emotional divide between caution and courage, as both episodes emphasize opposing responses to uncertainty and personal challenge.",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_f9afb168d154",
+    "subject_id": "ep_8cc6f625dac60df2",
+    "object_id": "ep_dee5f554733689dc",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Chuck resolving to find Kelly, which involves a decision to leave his apartment. The object episode describes Kelly reacting to Chuck's return, implying Chuck has arrived at her location. The narrative sequence requires Chuck's departure (resolution to find Kelly) to precede Kelly's reaction to his arrival. This temporal order is strongly supported by the causal and sequential logic of the events described.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_31674595a8c3",
+    "subject_id": "ep_1200f3d82ca1cb0c",
+    "object_id": "ep_5aa40ef18b660f1c",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to bathroom interruption and restore power' occurs when the phone rings and Chuck rushes to answer it, which immediately precedes the object episode 'Address Kuala Lumpur facility issues remotely' where Chuck takes the call from Kamal and acts on the facility issues. The related events in both episodes are anchored in scene_24 and scene_20 respectively, but the narrative flow indicates that the phone call answered in ep_1200f3d82ca1cb0c initiates the communication that leads into ep_5aa40ef18b660f1c, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fe2bf17e85b7",
+    "subject_id": "ep_03cf13b1045c3348",
+    "object_id": "ep_66331f7c4ece8f9b",
+    "relation_type": "precedes",
+    "reason": "The subject episode, where Kelly interrupts the machine repair by pulling Chuck away, occurs immediately before the object episode, where she initiates an intimate cleanup that transitions into a shared fantasy. The related events in the object episode (closing the cubicle door, wiping toner, describing a fantasy) directly follow the physical redirection described in the subject episode, establishing a clear local narrative sequence.",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ad6b97122d85",
+    "subject_id": "ep_27be2c4b9f4a8b38",
+    "object_id": "ep_dee5f554733689dc",
+    "relation_type": "precedes",
+    "reason": "Chuck leaves a message for Kelly explaining his delay and promising to return before Christmas; Kelly's joyful reaction occurs upon his actual return, which narratively follows the message. The sequence is supported by the content of the message (promising future return) and Kelly's subsequent emotional shift upon his arrival.",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fcc41a37e7d7",
+    "subject_id": "ep_03cf13b1045c3348",
+    "object_id": "ep_36febc76d55423ea",
+    "relation_type": "precedes",
+    "reason": "The subject episode, where Kelly interrupts the machine repair to redirect Chuck's attention to emotional connection, occurs in scene_46, while the object episode, where Kelly intensifies intimacy through transgressive touch and proximity, occurs in scene_47. The sequential scene numbering and narrative progression from interruption to deepened intimacy support a clear 'precedes' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f8805f89c5e3",
+    "subject_id": "ep_71ee99b7a03d042e",
+    "object_id": "ep_dad950cca2e21eb5",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reunite and exchange job updates with Stan' occurs in scene_32, while 'Advocate for bold action in life and work' occurs in scene_34, indicating a clear narrative sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_49db9a96c511",
+    "subject_id": "ep_669f3aee8391e8ad",
+    "object_id": "ep_f0fced363e8ba390",
+    "relation_type": "precedes",
+    "reason": "The episode 'Acknowledge Lev's organized approach to package handling' occurs during scene_22, while 'Acknowledge collective success and express relief' occurs in scene_30, indicating a clear temporal sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_81daacc05b27",
+    "subject_id": "ep_c8300373a28816a9",
+    "object_id": "ep_47d5761dc7ad401a",
+    "relation_type": "precedes",
+    "reason": "The box's journey begins at the loading belt, where it enters the stream of packages; this logically precedes the mechanical arms regulating and directing that flow downstream. The shared scene and facility context support a sequential narrative order.",
+    "source_documents": [
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8d79b241b3da",
+    "subject_id": "ep_a317e4c5ffb2c20e",
+    "object_id": "ep_dee5f554733689dc",
+    "relation_type": "contrasts_with",
+    "reason": "The episode 'Address the Xerox machine malfunction' involves collaborative troubleshooting marked by technical focus and frustration, while 'Kelly reacts to Chuck's return' features a sudden emotional shift to joy and affection. The juxtaposition of Kelly's emotional states—frustration with the machine versus warm affection upon Chuck's return—highlights a clear tonal and emotional contrast supported by the descriptions of both episodes.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6e644b726180",
+    "subject_id": "ep_71ee99b7a03d042e",
+    "object_id": "ep_c2acacd7e4d8fb91",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs when Stan boards the aircraft and begins interacting with Chuck, which is followed by a deeper conversation about leadership and risk in the next scene. The sequential order of scenes (scene_32 before scene_34) and the progression from casual job updates to a more reflective exchange support that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0e17fce39fc2",
+    "subject_id": "ep_a317e4c5ffb2c20e",
+    "object_id": "ep_03cf13b1045c3348",
+    "relation_type": "precedes",
+    "reason": "The episode 'Address the Xerox machine malfunction' involves Chuck inspecting and attempting to fix the machine, which is interrupted by Kelly pulling him away in the episode 'Kelly interrupts machine repair in favor of connection'. The related events in both episodes occur in scene_46, and the sequence within the scene shows the troubleshooting attempt happening before the interruption, supporting a clear narrative order.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f26081e782d1",
+    "subject_id": "ep_03cf13b1045c3348",
+    "object_id": "ep_dee5f554733689dc",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode involves Kelly interrupting machine repair due to emotional frustration, redirecting focus to connection, while the second episode depicts Kelly reacting to Chuck's return with joyful surprise and affection. These episodes are juxtaposed in tone and emotional state—frustration and intervention versus warmth and reunion—indicating a clear emotional reversal supported by the descriptions and related events in scene_46.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_53e2fb702133",
+    "subject_id": "ep_c8300373a28816a9",
+    "object_id": "ep_becd27fda9141f47",
+    "relation_type": "precedes",
+    "reason": "The initiation of box sorting at the loading belt (spilling into a stream of packages) occurs before the scanning and routing of packages through the network, as the box must enter the system before being scanned and accelerated across conveyor belts. The shared scene and sequential processing logic support a clear temporal order.",
+    "source_documents": [
+      "scene_6_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2344ac91ef3b",
+    "subject_id": "ep_e5c61c4e49914f2b",
+    "object_id": "ep_71ee99b7a03d042e",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Complete challenging delivery assignment' provides narrative context for Chuck's emotional state and sense of accomplishment, which directly explains his demeanor during the subsequent reunion and job update exchange with Stan. This background information elaborates on the situation presented in the reunion episode.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_45417f986964",
+    "subject_id": "ep_03cf13b1045c3348",
+    "object_id": "ep_665d132347a0e619",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Exchange concerns about appearance and well-being' provides additional detail on the emotional states of Kelly and Chuck that contextualizes Kelly's subsequent action of interrupting the machine repair to seek connection; the mutual observations of distress in scene_46 elaborate the emotional undercurrents motivating the physical interruption, with both episodes occurring in the same scene and supporting a shared narrative focus on emotional disclosure.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_cf07fbb567eb",
+    "subject_id": "ep_71ee99b7a03d042e",
+    "object_id": "ep_b966543aff2adffc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reunite and exchange job updates with Stan' occurs when Stan boards the aircraft and initiates conversation, which is followed by the episode 'Wake Chuck and transition delivery responsibility' where Stan wakes Chuck and hands over delivery duties. The boarding and reunion logically precede the handover of responsibility, and the related_events in both episodes are ordered across scenes 32 and 36, indicating a clear temporal sequence.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4cdcd0a3cbb6",
+    "subject_id": "ep_71ee99b7a03d042e",
+    "object_id": "ep_76084c33391f3978",
+    "relation_type": "precedes",
+    "reason": "The reunion and job update exchange between Stan and Chuck occurs as Stan boards the aircraft, which logically precedes the aircraft beginning its taxiing for departure. The description of the second episode states it marks the transition from ground operations to flight, implying a chronological sequence after boarding and initial interaction.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_28c40a876d39",
+    "subject_id": "ep_01af57a2c16f9824",
+    "object_id": "ep_f0fced363e8ba390",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Complete the container loading and dispatch truck' concludes with the truck departing the loading dock, and the object episode 'Acknowledge collective success and express relief' begins afterward when the team reacts emotionally to the completed task. The sequence is supported by the shared scene (scene_30) and the logical narrative flow where completion precedes emotional response.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e8bdf8842f52",
+    "subject_id": "ep_47d5761dc7ad401a",
+    "object_id": "ep_becd27fda9141f47",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Regulate and direct package flow' involves preparing packages for scanning by orienting them label-side-up, which must occur before the object episode 'Scan and route packages through network' where packages are scanned by laser readers. The shared scene (scene_6) and sequential dependency in the sorting process support a clear temporal order.",
+    "source_documents": [
+      "scene_6_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e0fc94b27e97",
+    "subject_id": "ep_71ee99b7a03d042e",
+    "object_id": "ep_06959c5ec1065d09",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Reunite and exchange job updates with Stan' sets the context where Chuck shares his recent assignment outcome, which leads into the explanation of borrowing a child's bicycle during a delivery emergency. This latter episode provides specific detail that elaborates on Chuck's professional dedication mentioned in the broader job update, grounding the elaboration in a concrete event.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_c31bdd48c769",
+    "subject_id": "ep_06959c5ec1065d09",
+    "object_id": "ep_e5c61c4e49914f2b",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, in which Chuck defends his personal conduct by recounting a specific delivery emergency, provides additional context that elaborates on his professional dedication highlighted in the object episode, where he reflects on completing a challenging delivery. The borrowing of the bicycle is a specific instance that expands on the general sense of accomplishment and commitment described in the object episode.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5726584e4890",
+    "subject_id": "ep_4ef8467b9f1cf6eb",
+    "object_id": "ep_95c872c3d73050e8",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Unload cargo after landing' involves the initial unloading of the cargo container onto the conveyor belt, which is a necessary prior step before the object episode 'Identify Angel Box and preceding Dented Box on conveyor' can occur, where specific containers are observed in sequence on the same conveyor. The related events in both episodes are from the same scene (scene_10) and describe a continuous process, with unloading logically preceding identification of items on the conveyor.",
+    "source_documents": [
+      "scene_10_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e20dd22e812d",
+    "subject_id": "ep_06959c5ec1065d09",
+    "object_id": "ep_8def3caed071b6c4",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, in which Chuck defends his personal conduct by recounting a past delivery emergency, provides contextual justification for his strong reaction in the object episode, where he debates the flight delay decision with Stan. The values and commitment expressed in the first episode elaborate on Chuck's emotional and professional stance during the conflict in the second, making the connection one of explanatory expansion rather than sequence or direct causation.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b0faa4887447",
+    "subject_id": "ep_76084c33391f3978",
+    "object_id": "ep_8def3caed071b6c4",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Begin aircraft departure sequence' involves the aircraft starting to taxi, which occurs before the object episode 'Reveal and debate the flight delay decision' where Stan discloses the delay. The related events for both episodes are listed under the same scene (scene_32), and the departure sequence logically precedes the revelation of the delay during the ongoing conversation, indicating a clear narrative order.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "character": "棠真",
+  "qas": [
+    {
+      "question": "你最后是否离开了码头？",
+      "supporting_facts": [
+        "你被留在码头原地",
+        "你没有离开码头的记录"
+      ],
+      "contradicting_facts": [
+        "你主动离开了码头",
+        "你已不在码头原地"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "你有没有把红线绑在自己脚上？",
+      "supporting_facts": [
+        "你将红线绑在他人脚上",
+        "没有事实表明你将红线绑在自己脚上"
+      ],
+      "contradicting_facts": [
+        "你将红线绑在自己脚上作为仪式的一部分",
+        "你脚上系着红线且是你自己绑的"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "你进入那个场所的时候是独自一人吗？",
+      "supporting_facts": [
+        "你不是独自进入该场所",
+        "你与Marco有亲密身体接触"
+      ],
+      "contradicting_facts": [
+        "你是独自进入该场所的",
+        "你进入时没有与任何人同行"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "你端着咖啡的时候，有没有同意和Marco继续互动？",
+      "supporting_facts": [
+        "你当前正端着一杯咖啡",
+        "你没有同意与Marco继续互动"
+      ],
+      "contradicting_facts": [
+        "你已经同意和Marco继续互动",
+        "你当时没有拿着任何东西"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "你在面对Marco时表现出什么样的状态？",
+      "supporting_facts": [
+        "你表现出犹豫",
+        "你没有同意与Marco继续互动"
+      ],
+      "contradicting_facts": [
+        "你果断地做出了回应",
+        "你表现得毫不迟疑"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

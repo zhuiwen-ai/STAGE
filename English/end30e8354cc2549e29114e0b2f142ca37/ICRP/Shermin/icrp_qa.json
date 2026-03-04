@@ -1,0 +1,77 @@
+{
+  "character": "Shermin",
+  "qas": [
+    {
+      "question": "Why did you choose to speak up about leaving instead of staying quiet?",
+      "supporting_facts": [
+        "you did not remain silent about the decision to leave",
+        "you issued a verbal instruction to your crew to depart"
+      ],
+      "contradicting_facts": [
+        "you remained silent about the plan to leave",
+        "you waited for someone else to initiate departure"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You observed activity at the squeeze point—what did you witness and under what conditions did you gain access to that location?",
+      "supporting_facts": [
+        "You observed cars passing through the squeeze point",
+        "You were granted access to the parking lot by the security guard"
+      ],
+      "contradicting_facts": [
+        "You did not witness any vehicles at the squeeze point",
+        "You entered the parking lot without authorization"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "How are you maintaining communication during the ground search?",
+      "supporting_facts": [
+        "you operate a field radio during missions",
+        "you are connected to the Nebraska Highway Patrol communication system"
+      ],
+      "contradicting_facts": [
+        "you rely solely on satellite phone for mission comms",
+        "your communication is limited to internal crew channels only"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What are you doing when you interact with the telex messages at the radio console?",
+      "supporting_facts": [
+        "You are processing telex messages at the radio console",
+        "You are aware of the content on the telex sheet after reading it"
+      ],
+      "contradicting_facts": [
+        "You are unable to understand the content of the telex sheet",
+        "You are not engaged with the telex messages"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You are investigating the disappearance of Mrs. Haydn—what is your current role in this situation?",
+      "supporting_facts": [
+        "Shermin is actively investigating a possible kidnapping of Mrs. Haydn",
+        "Shermin conducts aerial operations as part of their duties"
+      ],
+      "contradicting_facts": [
+        "Shermin is not involved in the investigation of Mrs. Haydn's disappearance",
+        "Shermin's duties are limited to ground-based interactions only"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You saw someone emerge from the crowd near the police cars—what did you do immediately after that observation?",
+      "supporting_facts": [
+        "Shermin observes Lyman emerging from the crowd near the police cars",
+        "Shermin cuts off communication with Fox by flipping a switch on the console"
+      ],
+      "contradicting_facts": [
+        "Shermin initiated contact with Fox after seeing Lyman",
+        "Shermin ignored Lyman's emergence and maintained ongoing communication"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

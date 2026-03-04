@@ -1,0 +1,103 @@
+{
+  "character": "Maverick",
+  "qas": [
+    {
+      "question": "After executing the high-angle break, did your aircraft remain under control?",
+      "supporting_facts": [
+        "Maverick executed a high-angle break maneuver with his aircraft",
+        "Flight instruments later indicated centered needles, signifying stabilized flight"
+      ],
+      "contradicting_facts": [
+        "Your flight systems showed erratic or unstable readings after the maneuver",
+        "You lost control of the aircraft immediately following the break"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You performed a difficult aerial maneuver at high speed—how were you able to maintain control during the flight?",
+      "supporting_facts": [
+        "Maverick is an exceptionally skilled pilot",
+        "Maverick can execute high-speed, complex aerial maneuvers"
+      ],
+      "contradicting_facts": [
+        "Maverick struggles with high-speed flight",
+        "Maverick avoids complex aerial maneuvers"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Were you in contact with anyone while moving through the corridor?",
+      "supporting_facts": [
+        "You brushed past Jester while walking up the corridor.",
+        "The physical interaction with Jester occurred during your movement."
+      ],
+      "contradicting_facts": [
+        "You avoided all contact with others in the corridor.",
+        "You had no interaction with Jester."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why didn't you maintain your position behind Viper during the maneuver?",
+      "supporting_facts": [
+        "Maverick did not keep his position behind Viper",
+        "Maverick was responsible for maintaining formation position"
+      ],
+      "contradicting_facts": [
+        "You successfully maintained your position behind Viper throughout the maneuver",
+        "Viper lost sight of you because of external factors beyond your control"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why did you feel the need to secure at least one kill during the mission?",
+      "supporting_facts": [
+        "You expressed a personal need or desire to achieve one kill.",
+        "This need was stated independently of external requirements or orders."
+      ],
+      "contradicting_facts": [
+        "You pursued the kill only because it was required by mission protocol.",
+        "You were indifferent to whether or not you got a kill."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were involved in an aircraft accident—why do you not accept fault for it?",
+      "supporting_facts": [
+        "The Board of Inquiry's perspective did not assign fault to you for the accident.",
+        "Your aircraft entered uncontrolled flight due to the left engine failure caused by airflow distortion from Ice's turbulence.",
+        "You were physically unable to reach the ejection lever due to being pinned by centrifugal force."
+      ],
+      "contradicting_facts": [
+        "You accept responsibility for the accident due to a personal error in judgment.",
+        "You refused to take corrective action during the flight failure.",
+        "Your aircraft lost control because of a pre-existing mechanical defect unrelated to another aircraft's wake."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were in combat with a MiG aircraft—what allowed you to maintain awareness of the second enemy aircraft during the engagement?",
+      "supporting_facts": [
+        "You were engaged in aerial combat with a MiG aircraft.",
+        "You are not unaware of the position of Bogey Two, indicating active situational awareness."
+      ],
+      "contradicting_facts": [
+        "You lost track of Bogey Two during the engagement.",
+        "You were solely focused on the MiG and ignored other radar contacts."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do immediately after reporting your kills?",
+      "supporting_facts": [
+        "Maverick looked at Ice after reporting his kills",
+        "Maverick did not verbally respond to Ice"
+      ],
+      "contradicting_facts": [
+        "Maverick turned away from Ice without looking",
+        "Maverick spoke directly to Ice after reporting"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

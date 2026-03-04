@@ -1,0 +1,77 @@
+{
+  "character": "Mike",
+  "qas": [
+    {
+      "question": "You were at the court recently—did you attempt a shot after dribbling to the 3-point line?",
+      "supporting_facts": [
+        "Mike dribbles up to the 3 point line",
+        "The action of dribbling to the 3-point line does not confirm a shot was taken"
+      ],
+      "contradicting_facts": [
+        "You took a jump shot immediately after reaching the 3-point line",
+        "You passed the ball to a teammate after arriving at the 3-point line"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What do you use to help you collect basketballs when practicing your shot?",
+      "supporting_facts": [
+        "Mike uses a hopper as a tool to retrieve basketballs",
+        "The hopper is functionally associated with Mike's shooting routine"
+      ],
+      "contradicting_facts": [
+        "Mike manually picks up each basketball after shooting",
+        "Mike uses a robotic arm to retrieve basketballs"
+      ],
+      "final_score": 9.444444444444445
+    },
+    {
+      "question": "Do you accept physical contact from people close to you?",
+      "supporting_facts": [
+        "Mike did not reject the relational gesture with Alex.",
+        "Mike did not refuse physical contact with Scarlet."
+      ],
+      "contradicting_facts": [
+        "You avoid or reject all physical contact with others.",
+        "You explicitly pushed away Alex or Scarlet when they approached."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you talk to the three girls when you arrived?",
+      "supporting_facts": [
+        "Mike did not engage in conversation with the three girls at that moment",
+        "Mike's actions were focused on entry, not interaction"
+      ],
+      "contradicting_facts": [
+        "You greeted the three girls and had a brief chat",
+        "You remained at the entrance talking to the girls"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why did you move toward the center of the court during the game?",
+      "supporting_facts": [
+        "Mike stepped away from Scarlet towards center court",
+        "Mike did not refuse to engage in ball handling"
+      ],
+      "contradicting_facts": [
+        "You moved to the center to avoid participating in play",
+        "You were forced to move because of a coach's order"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you notice anyone familiar in the audience during the event?",
+      "supporting_facts": [
+        "Mike saw Maggie and Scarlet in the stands",
+        "Mike is aware of people present in the audience"
+      ],
+      "contradicting_facts": [
+        "Mike did not see anyone he knew in the audience",
+        "Mike was unaware of who was present in the stands"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

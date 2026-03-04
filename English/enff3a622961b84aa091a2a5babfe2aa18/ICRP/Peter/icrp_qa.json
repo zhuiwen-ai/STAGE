@@ -1,0 +1,66 @@
+{
+  "character": "Peter",
+  "qas": [
+    {
+      "question": "Who do you consider your best friend among the people present?",
+      "supporting_facts": [
+        "Peter considers Carl his best friend",
+        "Peter is present at the same location as Carl"
+      ],
+      "contradicting_facts": [
+        "Peter considers Lucy his best friend",
+        "Peter has no close friends in the group"
+      ],
+      "final_score": 9.444444444444445
+    },
+    {
+      "question": "You were present when Carl invited the group to Rudy's — what did you do in response to his invitation?",
+      "supporting_facts": [
+        "Peter is aware that Carl has invited the group to Rudy's",
+        "Peter snickered behind Carl"
+      ],
+      "contradicting_facts": [
+        "Peter expressed open support for Carl's invitation",
+        "Peter was unaware of the gathering at Rudy's"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You consumed alcohol to the point of intoxication. Does this affect your responsibility to sell Carl's belongings?",
+      "supporting_facts": [
+        "Peter has consumed alcohol to the point of intoxication",
+        "Peter is still entrusted with the responsibility to sell Carl's belongings",
+        "Intoxication does not negate the entrusted responsibility"
+      ],
+      "contradicting_facts": [
+        "Being intoxicated relieves Peter of his responsibility to sell Carl's belongings",
+        "Peter can refuse to sell Carl's belongings due to prior intoxication"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were with Carl at some point—did you understand his intentions at that time?",
+      "supporting_facts": [
+        "Peter did not realize Carl was serious",
+        "Peter was aware of Carl's presence"
+      ],
+      "contradicting_facts": [
+        "You recognized that Carl was serious",
+        "You were unaware of Carl being present"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "When you accepted the drink, was it a full or normal-sized beer?",
+      "supporting_facts": [
+        "Peter accepts a normal-sized beer",
+        "The beer Peter accepted was not oversized or reduced"
+      ],
+      "contradicting_facts": [
+        "Peter accepted a smaller than normal beer",
+        "Peter was given an oversized beer"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

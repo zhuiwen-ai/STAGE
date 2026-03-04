@@ -1,0 +1,2366 @@
+[
+  {
+    "id": "rel_ep_ep_0eacc96d9997",
+    "subject_id": "ep_b21a5d24037bf049",
+    "object_id": "ep_77b2e4f40b57f75e",
+    "relation_type": "precedes",
+    "reason": "The planning episode (subject) occurs before the ambush and execution episode (object), as the group is actively discussing the infiltration strategy when the attack abruptly ends the session. The narrative sequence in the shared scene (scene_38) supports a clear temporal order: planning precedes its violent interruption.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9064219f94a2",
+    "subject_id": "ep_13c518a57a62ef80",
+    "object_id": "ep_6155eebfb1478fbb",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode, where Israel uses cocaine despite medical warning, directly contradicts the object episode, where Dr. Gill urgently warns against cocaine use and pushes for treatment, creating a clear juxtaposition between medical intervention and self-destructive behavior.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b0f2f61d1f0d",
+    "subject_id": "ep_46e81813114b64ce",
+    "object_id": "ep_560b1e47157f36df",
+    "relation_type": "causes",
+    "reason": "The deployment of crude language by Watters directly triggers Padiche's attempt to regain control through false compliance, as evidenced by the sequence of events in scene_28 where Padiche's repetition and hand gesture follow immediately in response to being unsettled by the word 'Pussy'.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9b9ad259ea7f",
+    "subject_id": "ep_007680f70cacc607",
+    "object_id": "ep_2f87e4723b1fc3a3",
+    "relation_type": "causes",
+    "reason": "The identification of Jack Dupree in the first episode directly leads to the revelation of the maroon uniform receipt and the subsequent instruction to secure the crime scene in the second episode, with both events occurring in the same scene and the second episode being a direct response to the information uncovered in the first.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c240544150c2",
+    "subject_id": "ep_483d1deea45b4940",
+    "object_id": "ep_864dbfe2ad68ab72",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode involves Elmore arguing against pursuing Israel due to danger and personal inadequacy, expressing skepticism and resignation, while the second episode features Dupree confidently reaffirming the mission to recover Buddy Israel, creating a clear juxtaposition in tone and attitude. This reversal—from doubt and futility to confidence and resolve—supports a contrast relation.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_29_part_1",
+      "scene_29_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3c2b482df7d3",
+    "subject_id": "ep_6956d5690d5e7f5a",
+    "object_id": "ep_d5cd1d2a332a11dc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrive and establish presence at the meeting' sets the initial physical and emotional dynamics of the encounter, which is followed by the episode 'Escalate psychological pressure through provocation' where Watters intensifies discomfort through lewd behavior. The sequence of events in the shared occasion (scene_28) supports a clear narrative order: arrival and seating precede the escalation of psychological pressure.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_04ef94cdeef9",
+    "subject_id": "ep_b7f0037d41255223",
+    "object_id": "ep_8511fa390ed20c1e",
+    "relation_type": "precedes",
+    "reason": "The assassin approaches under suspicion, revealing a cellphone to create false security, which immediately precedes the fake invalid launching a surprise attack. Both episodes occur in scene_20 and are part of a continuous sequence where the tension from the approach sets up the sudden assault.",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c3485ca7df4d",
+    "subject_id": "ep_d6cf10319f2ad802",
+    "object_id": "ep_b82ceeee454b8688",
+    "relation_type": "precedes",
+    "reason": "The episode 'Present the job offer and establish credibility' occurs before 'Clarify the mission objective and assess risks' within the same scene (scene_13), as the job offer is first introduced and its legitimacy established, followed by a clarification of the specific mission details. The sequence is supported by the flow of dialogue and event order in the shared scene.",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_059fd09706aa",
+    "subject_id": "ep_864dbfe2ad68ab72",
+    "object_id": "ep_b21a5d24037bf049",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves restoring focus and transitioning to a mission briefing, which sets up the subsequent planning of infiltration tactics in the object episode. The shift from interpersonal dynamics to operational planning suggests a narrative progression where the confidence reaffirmation precedes the detailed security infiltration planning, supported by the shared goal of recovering Buddy Israel and the sequential nature of briefing before tactical discussion.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_29_part_2",
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c1ba758a5e30",
+    "subject_id": "ep_bffe7d8f79e6ed57",
+    "object_id": "ep_168e3c64946aaa9b",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Challenge camera outage during construction' provides context for the security setup that is further detailed in 'Reveal personnel deployment in restricted zone'. The camera outage explanation sets up the broader security concerns that make the personnel deployment noteworthy, with both episodes occurring in the same occasion and contributing to a cohesive narrative about compromised surveillance. The second episode elaborates on the security implications initially raised in the first.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6c7b6d443e2c",
+    "subject_id": "ep_bee9063b0c159ab7",
+    "object_id": "ep_8e00d60c4d8b4e55",
+    "relation_type": "precedes",
+    "reason": "The initiation of the private security discussion, which involves dismissing staff to create a confidential setting, logically and temporally precedes the confrontation about the hidden guest, as the private setting must be established before the accusatory exchange can occur. Both episodes occur within the same occasion ('Private Security Briefing At The Nomad') and the sequence is supported by the narrative structure implied in the event descriptions.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f67d2cd404a6",
+    "subject_id": "ep_a037ace60dbe0001",
+    "object_id": "ep_ef8860a98e0d345a",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode is a focused, goal-driven briefing on operational intelligence for the mission, while the second episode involves Rip Reed digressing into a vulnerable, self-critical personal reflection. These episodes are juxtaposed within the same occasion but differ sharply in tone and purpose—professional mission planning versus personal emotional exposure—supporting a contrast relation.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_29_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_42b08d52c0db",
+    "subject_id": "ep_46e81813114b64ce",
+    "object_id": "ep_d5cd1d2a332a11dc",
+    "relation_type": "elaborates",
+    "reason": "The subject episode introduces the use of the word 'Pussy' to unsettle Padiche, while the object episode expands on this by showing Watters repeating the word with a lewd sneer and Sykes complicitly affirming it, thereby intensifying the psychological pressure. The object episode provides additional detail and escalation that builds upon the initial provocation established in the subject episode, indicating elaboration rather than mere sequence or causation.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_949646f5ea07",
+    "subject_id": "ep_bee9063b0c159ab7",
+    "object_id": "ep_f026356c480cfa8a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate private security discussion' establishes the confidential setting for the exchange, which is a necessary precondition for the subsequent escalation in 'Escalate interrogation with legal threat'. Both episodes occur within the same occasion ('Private Security Briefing At The Nomad') and share scene_44, but the initiation of the discussion logically and narratively precedes the intensification of pressure through a legal threat.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_200dc50c0e68",
+    "subject_id": "ep_ef8860a98e0d345a",
+    "object_id": "ep_864dbfe2ad68ab72",
+    "relation_type": "precedes",
+    "reason": "Rip Reed's digression about his personal insecurities occurs before Dupree reaffirms confidence and transitions to the mission briefing, as both episodes are part of the same scene (scene_29) and the shift from personal reflection to professional focus implies a sequential narrative order where emotional vulnerability is acknowledged and then superseded by a return to task-oriented dialogue.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_29_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_996f2528ce71",
+    "subject_id": "ep_b50491980775adb8",
+    "object_id": "ep_855f783b005020f5",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Engage in voyeuristic surveillance with sexual undertones' provides additional detail about Watters' behavior during the overwatch role established in 'Plan and prepare for armed infiltration', specifically elaborating on her psychological state and personal motivations through intimate, suggestive actions with the rifle, which expands the understanding of her role in the coordinated assault plan.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_326092e321a8",
+    "subject_id": "ep_98513148117a89a8",
+    "object_id": "ep_9d88515ecb4ac960",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode reveals the failure of Heller's undercover mission due to an FBI error and the resulting assassination contract, while the object episode highlights Heller's distinguished legacy, competence, and success as an undercover pioneer. These episodes are juxtaposed to contrast institutional failure and personal excellence, enhancing narrative tension through opposing outcomes and evaluations of the same character.",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_14d69f9119ca",
+    "subject_id": "ep_77b2e4f40b57f75e",
+    "object_id": "ep_68139fcd71892d5a",
+    "relation_type": "precedes",
+    "reason": "The ambush and execution of the planning group (including Deeks and Dupree) occurs in the parking lot, which directly precedes Elmore's confrontation with their bodies floating in the lake. The sequence is supported by the causal and temporal dependency: the deaths must occur before Elmore can observe the aftermath, and the related event in the second episode explicitly references the consequence of the first.",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e68afdef2c45",
+    "subject_id": "ep_e611c050e07b57b8",
+    "object_id": "ep_d7addbbba6bd61db",
+    "relation_type": "precedes",
+    "reason": "The episode 'Receive message about the Swede's arrival' involves a visitor informing Sparazza that 'he's here now,' which implies the Swede has already arrived. This must occur immediately before the Swede is physically present and preparing to meet Sparazza, as described in 'The Swede arrives and prepares to meet Sparazza.' Thus, the message delivery precedes the Swede's active preparation upon arrival.",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a70dbae836d2",
+    "subject_id": "ep_6956d5690d5e7f5a",
+    "object_id": "ep_ead5792a124d7d54",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrive and establish presence at the meeting' involves Sykes and Watters entering the restaurant and being greeted, followed by seating dynamics. The next episode, 'Exchange pleasantries and deflect small talk,' begins with Padiche welcoming them and offering coffee, which logically follows after arrival. The sequence of events in the shared occasion (scene_28) supports a clear narrative order where arrival precedes the exchange of pleasantries.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_35607e3daca0",
+    "subject_id": "ep_1ead2b9d9e797c1a",
+    "object_id": "ep_9d2f9382b8ab438e",
+    "relation_type": "elaborates",
+    "reason": "The subject episode narrates Buddy's rise in show business and mob circles, establishing his dual identity; the object episode depicts his formal integration into elite mob circles, which is a specific manifestation of that rise. The object episode provides a concrete, visual realization of the broader narrative described in the subject episode, thus the subject elaborates on the object by providing background and context for Buddy's ascent.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ebd941cf0121",
+    "subject_id": "ep_8511fa390ed20c1e",
+    "object_id": "ep_cb429d7445e4b598",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Fake invalid launches surprise attack' involves the attacker opening fire and killing the suits and bodyguards, which is immediately followed by the object episode 'Assassin escapes by hijacking truck' where the attacker discards weapons and flees by hijacking a truck. Both episodes occur in scene_20 and are sequentially ordered in the narrative: the attack must occur before the escape. The related_events in both episodes support this temporal sequence.",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5f027ba94824",
+    "subject_id": "ep_d0414e77cd4c4650",
+    "object_id": "ep_02b30f3345d125a6",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Reveal Israel's bond deadline and bail source' provides key contextual details—such as the 18-hour deadline and the law firm posting bail—that establish urgency and stakes, which directly inform and expand the goal of 'Disclose Israel's location and reignite the mission'. The latter episode builds on this urgency to pivot toward actionable intelligence, indicating a directed elaboration from the first to the second.",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_c422dea6468d",
+    "subject_id": "ep_6956d5690d5e7f5a",
+    "object_id": "ep_560b1e47157f36df",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrive and establish presence at the meeting' describes the initial entry and seating of Sykes and Watters, setting the stage for the subsequent interaction. The episode 'Force false compliance and reassert superficial control' occurs later in the same scene, concluding the verbal confrontation. The sequence of events within the shared occasion (scene_28) supports a clear narrative order where arrival and establishment of presence precede the performative submission and false camaraderie.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_00aeaeb4ed3d",
+    "subject_id": "ep_b5cb25e90356dee5",
+    "object_id": "ep_bd0bd94d97b274dc",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in the same scene (scene_26) and document Buddy Israel's sequential actions: first surveying the aftermath of the party and expressing contempt, then inspecting the stain on his coat and reacting to it. The related_events suggest a temporal flow where the survey of the scene (placing aces, avoiding the wig) precedes the focused interaction with Hugo about the coat stain, with the card-flicking event potentially linking the two episodes in narrative order.",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_26_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_daee21e756c3",
+    "subject_id": "ep_8e00d60c4d8b4e55",
+    "object_id": "ep_f026356c480cfa8a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront supervisor about hidden guest' involves Acosta challenging the supervisor's story, which sets up the subsequent escalation in 'Escalate interrogation with legal threat' where Acosta intensifies pressure by threatening a deposition. Both episodes occur in the same scene (scene_44) and share a continuous narrative context, with the legal threat following the initial confrontation in logical and temporal order, as indicated by the progression of dialogue and rising tension.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a95e1bd93631",
+    "subject_id": "ep_2287d66b0af2cd3d",
+    "object_id": "ep_5be99b1eb164638b",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode focuses on operational security with technical surveillance and threat assessment, establishing a professional, mission-oriented tone. The second episode shifts to a personal and emotional dialogue about past relationships and identity, emphasizing intimacy and vulnerability. The juxtaposition of a tactical surveillance operation with a deeply personal conversation highlights a clear contrast in tone and narrative focus, supported by the shift from monitoring signals to discussing emotional bonds.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a7607ad5419d",
+    "subject_id": "ep_bd0bd94d97b274dc",
+    "object_id": "ep_10bc89ae8451b6fd",
+    "relation_type": "causes",
+    "reason": "The inspection and reaction to the stained coat (ep_bd0bd94d97b274dc) directly triggers Hugo's discomfort and his suggestion to send the coat for cleaning (ep_10bc89ae8451b6fd), as described in the sequence of events in scene_26 where Hugo responds immediately after being confronted with the stain and Israel's outrage.",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_26_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a0ba06404464",
+    "subject_id": "ep_7582af781b97cc96",
+    "object_id": "ep_68139fcd71892d5a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Elmore survives assassination attempt and emerges from Lake Tahoe' describes Elmore crawling out of the water, which must occur before he can turn back to observe the bodies of Deeks and Dupree floating in the lake, as described in the episode 'Elmore confronts the aftermath of the double homicide'. Both episodes occur in the same scene (scene_46) and share the same occasion, supporting a clear local narrative order where survival and emergence precede confrontation with the aftermath.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d4ddef01b2b8",
+    "subject_id": "ep_d6cf10319f2ad802",
+    "object_id": "ep_b2b1e1c10b78bd3e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Present the job offer and establish credibility' occurs first, where Lorenzo Wyman introduces the job opportunity and presents the bank telex to Watters and Sykes. This is immediately followed by 'Acknowledge team reputation and confirm readiness', where the team reacts to the offer and confirms their capability, indicating a clear narrative sequence. Both episodes are grounded in scene_13, and the events in the object episode respond directly to the job offer presented in the subject episode, supporting a directed 'precedes' relation from subject to object.",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3b6102fc57a6",
+    "subject_id": "ep_90e5bb315b6fa2e6",
+    "object_id": "ep_b64b7c2b4e8e5ca4",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, 'Review Sparazza surveillance file', involves Messner discovering details about Sparazza's surgeries and criminal record, which directly informs and expands the object episode, 'Question Sparazza's low profile', where Messner reevaluates Sparazza's significance based on that intelligence. The first episode provides the evidentiary basis that the second episode builds upon, satisfying the 'elaborates' relation in a directed manner.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1b280ee24d39",
+    "subject_id": "ep_53312c9ccbb9b36b",
+    "object_id": "ep_7a642f040b211763",
+    "relation_type": "causes",
+    "reason": "The subject episode describes the Tremor Brothers escalating violence to directly target Donald McGarey, which includes events where he is attacked during the club massacre. The object episode describes McGarey surviving the attack but being severely injured. The causal link is strongly supported: the violent assault in the subject episode directly results in McGarey's injury and narrow escape in the object episode, as both occur in scene_16 and are part of the same continuous event sequence.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_72662001becf",
+    "subject_id": "ep_626a2c548dcf6c87",
+    "object_id": "ep_ef8860a98e0d345a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrive and establish presence with Rip Reed' involves the group completing introductions and integrating Elmore, which sets the stage for Rip Reed to shift into a personal digression. The transition described in the second episode, where Rip Reed 'acknowledges his rambling and refocuses the conversation,' implies a narrative sequence where the initial formalities must occur before the off-task personal reflection, supporting a clear temporal order.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_29_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9bbc092cc09b",
+    "subject_id": "ep_5be99b1eb164638b",
+    "object_id": "ep_b50491980775adb8",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode centers on an emotionally charged, personal conversation that affirms the bond between Watters and Sykes, with direct dialogue about relationships and identity. The second episode depicts Watters engaging in a voyeuristic, sexually charged surveillance of Sykes, reducing her to an object of desire and control. These episodes are juxtaposed in tone and intent—one emphasizing emotional intimacy and mutual recognition, the other emphasizing detachment and objectification—creating a clear narrative contrast supported by the shift in Watters' behavior and the thematic content of each episode.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_bc0b6bc0586c",
+    "subject_id": "ep_6956d5690d5e7f5a",
+    "object_id": "ep_46e81813114b64ce",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrive and establish presence at the meeting' describes the initial entry and seating of Sykes and Watters, which sets the physical and emotional context for the interaction. The episode 'Deploy crude language to unsettle Padiche' involves Watters using provocative language in response to Padiche's request, which occurs after the characters are already seated and engaged. The related_events and narrative flow indicate a clear temporal sequence: arrival and seating must precede the verbal exchange involving 'Pussy.' Therefore, the first episode precedes the second.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3cbcf67c167c",
+    "subject_id": "ep_9d2c6392a7c9bd49",
+    "object_id": "ep_008a12564ff6149d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Israel's ultimatum and resist deal cancellation' (scene_41) occurs immediately before 'Israel resists and sets conditions for cooperation' (scene_42), as indicated by the sequential scene numbers and the escalation from issuing an ultimatum to proposing a tactical concession. This local narrative order supports a 'precedes' relation from the earlier to the later episode.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b5189ce17f13",
+    "subject_id": "ep_6155eebfb1478fbb",
+    "object_id": "ep_b990997cd078dfd3",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Dr. Gill urging Israel to accept treatment and Israel revealing his location in Lake Tahoe, culminating in arrangements for Dr. Gill's arrival. The second episode begins with Dr. Gill arriving at the airport and coordinating pickup, which logically follows after the arrangement is made. The narrative sequence in the related events and descriptions supports a clear temporal order: the confrontation and decision to meet precede the arrival and coordination of pickup.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5aa3f0b64eb7",
+    "subject_id": "ep_002a26c1ad43cbda",
+    "object_id": "ep_d5cd1d2a332a11dc",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate discussion of the joint operation plan' occurs first, where Padiche requests a high-level outline and the women exchange a skeptical glance. The object episode 'Escalate psychological pressure through provocation' follows, with Watters and Sykes intensifying dominance through lewd language and complicit affirmation. Both episodes occur in the same occasion (scene_28) and the progression from initiation to escalation indicates a clear narrative sequence.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_43470fed4623",
+    "subject_id": "ep_2287d66b0af2cd3d",
+    "object_id": "ep_855f783b005020f5",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Establish surveillance and confirm operational security' involves Watters and Sykes monitoring communications and confirming the environment is secure before proceeding, which logically and chronologically occurs prior to the object episode 'Plan and prepare for armed infiltration', where they finalize tactical roles and prepare for immediate action. The related events in the first episode (e.g., scanning for signals, detecting a federal agent) establish situational awareness that must precede the coordinated assault planning and weapon preparation described in the second episode.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cc406f4b0537",
+    "subject_id": "ep_d33312364356e9f3",
+    "object_id": "ep_907c443a300fc679",
+    "relation_type": "elaborates",
+    "reason": "Dupree's introduction of the Tremor Brothers' notoriety provides background context that expands on their later described attack during the Teamsters ballot event. The description of their criminal behavior and tactics in ep_d33312364356e9f3 serves to explain and enrich the significance of their disruptive actions recounted in ep_907c443a300fc679, with both episodes sharing the same occasion and scene context.",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_18208cead838",
+    "subject_id": "ep_ead5792a124d7d54",
+    "object_id": "ep_002a26c1ad43cbda",
+    "relation_type": "precedes",
+    "reason": "The episode 'Exchange pleasantries and deflect small talk' involves Padiche welcoming the women, offering coffee, and dismissing the waitress, which sets the stage for the subsequent transition to business. The episode 'Initiate discussion of the joint operation plan' begins when Padiche shifts to discussing the plan, directly after the formalities are concluded. The description of the second episode explicitly states that Padiche 'transitions to business' after the pleasantries, indicating a clear narrative sequence. Therefore, the first episode precedes the second.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_914cfea04672",
+    "subject_id": "ep_9d2c6392a7c9bd49",
+    "object_id": "ep_d7d768a7a6385bf0",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Israel issuing an ultimatum and Mecklen responding with indifference, while Hugo attempts to negotiate in the background. The second episode shows Mecklen escalating by warning of consequences and Israel ultimately deciding to accept the deal by drawing the Joker card. The events in the second episode (scene_42) occur after those in the first (scene_41), indicating a clear narrative sequence where the confrontation over the ultimatum precedes the warning and final decision.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_075d3c15e75f",
+    "subject_id": "ep_a037ace60dbe0001",
+    "object_id": "ep_cd078e550eb65711",
+    "relation_type": "precedes",
+    "reason": "The briefing on Buddy Israel's dangers and habits (ep_a037ace60dbe0001) provides critical intelligence that informs the emergency operation to intercept him (ep_cd078e550eb65711). The description of the first episode marks a shift to mission planning, which logically precedes the launch of the operation described in the second episode. Although exact timestamps are not provided, the narrative flow and functional dependency—where operational intelligence is shared before action is taken—support a 'precedes' relation.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_29_part_2",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3cfe6e382652",
+    "subject_id": "ep_6956d5690d5e7f5a",
+    "object_id": "ep_002a26c1ad43cbda",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrive and establish presence at the meeting' describes Sykes and Watters entering the restaurant and being greeted by Padiche, followed by seating dynamics that set the tone for the encounter. The episode 'Initiate discussion of the joint operation plan' begins with Padiche transitioning to business after their arrival, referencing a prior conversation and asking for a high-level plan. The narrative sequence in the shared occasion (scene_28) and the logical flow from arrival to initiation of discussion provide explicit support for a temporal precedence where arrival occurs before the discussion is initiated.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_feaa1f1ca8c3",
+    "subject_id": "ep_864dbfe2ad68ab72",
+    "object_id": "ep_a037ace60dbe0001",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Reaffirm confidence and transition to mission briefing' involves Dupree restoring focus and Reed delivering an awkward high-five, with Deeks and Elmore reacting uncomfortably—events that serve as a social pivot. The object episode 'Brief the team on Buddy Israel's dangers and habits' marks the formal shift to mission planning, where Reed delivers critical intelligence. Both episodes occur in the same occasion (scene_29) and the description of the subject explicitly states it 'bridges personal dynamics and professional purpose' and 'pivots toward actionable intelligence', indicating a narrative transition that directly precedes the mission briefing episode.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_29_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1d437c7c6c81",
+    "subject_id": "ep_8ed2a6de83ee1c47",
+    "object_id": "ep_27e3a8251a1356fd",
+    "relation_type": "precedes",
+    "reason": "The incident involving the young hooker stumbling and being assisted by Beanie (ep_8ed2a6de83ee1c47) occurs during the broader process of managing the hookers' departure (ep_27e3a8251a1356fd), with both episodes sharing scene_33. The accident response is a discrete event within the larger exodus coordination, and narrative coherence suggests the stumble and intervention happen before the final distribution of payments and continued exit, establishing a local temporal order where the response precedes the completion of the departure management.",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_88ef8d896bd3",
+    "subject_id": "ep_626a2c548dcf6c87",
+    "object_id": "ep_864dbfe2ad68ab72",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Arrive and establish presence with Rip Reed' involves the group's arrival, introductions, and integration of Elmore, which sets the initial context. The object episode 'Reaffirm confidence and transition to mission briefing' follows, where Dupree reassures Reed and the group shifts toward the mission briefing. Both episodes occur in the same scene (scene_29) and share the same occasion, but the events in the subject episode (e.g., handshakes, inquiry about the third member, Elmore's arrival) logically and sequentially precede the events in the object episode (e.g., Dupree's reassurance, awkward high-five, discomfort reaction), establishing a clear narrative order.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_29_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_85151d40f089",
+    "subject_id": "ep_01a833725e070c08",
+    "object_id": "ep_09635c342b91bb44",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_30 of doc_29 and share a common context of escalating tension in the suite. The subject episode involves Israel rejecting payment and demanding an operational update, which sets a tone of control and dissatisfaction. The object episode involves Israel's confrontation with Sir Ivy, which escalates from stress and command disputes. The demand for control and status update logically precedes the subsequent confrontation over command, suggesting a narrative sequence where the refusal to pay and assertion of authority comes before the direct conflict with Sir Ivy.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_83c980f9c62e",
+    "subject_id": "ep_bbe49822fc89b2f2",
+    "object_id": "ep_bd457994df2cd274",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_39 and are part of the same hotel check-in sequence. The description of ep_bbe49822fc89b2f2 involves Watters' behavior during the check-in process, including Sykes denying they are together and Watters teasing. The second episode, ep_bd457994df2cd274, begins with Watters launching a feminist rant after the check-in interaction, and includes Sykes nudging her to stop. The sequence of events—teasing during check-in followed by the rant and then a nudge to stop—indicates a clear temporal order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_acf0fa55e1c5",
+    "subject_id": "ep_01a833725e070c08",
+    "object_id": "ep_d7d768a7a6385bf0",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Israel rejects payment and demands an operational update, occurs before the object episode where Mecklen responds with a warning and Israel decides to cooperate, as the rejection prompts the escalation and subsequent decision.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5cc91cc9afb6",
+    "subject_id": "ep_9efe5529e6f6fefd",
+    "object_id": "ep_c8c8262500681d90",
+    "relation_type": "precedes",
+    "reason": "The preparation episode involving Sykes arming and adjusting her disguise and comms occurs in scene_48, while the final targeting and infiltration initiation takes place in scene_49, indicating a clear sequential order where preparation directly precedes execution.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4b4b963af495",
+    "subject_id": "ep_008a12564ff6149d",
+    "object_id": "ep_d7d768a7a6385bf0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Israel resists and sets conditions for cooperation' involves Israel threatening to withdraw cooperation and proposing to sacrifice Hugo, which occurs before he internally deliberates and symbolically accepts the deal by drawing the Joker card in 'Mecklen warns of consequences and Israel decides'. Both episodes occur in scene_42, but the resistance and condition-setting logically precede the final decision to cooperate, establishing a clear narrative sequence.",
+    "source_documents": [
+      "scene_42_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4c104fbb3f75",
+    "subject_id": "ep_be69287bf2a4cab0",
+    "object_id": "ep_eaca7c43a42da4dd",
+    "relation_type": "elaborates",
+    "reason": "The subject episode showcases Buddy's luxurious lifestyle and growing mystique, which provides visible, contextual detail that expands on how he cultivates his criminal persona in the object episode. The poolside display of wealth and charisma directly contributes to the legend that Buddy builds as he embraces his mob identity, suggesting the former elaborates on the latter by illustrating a key facet of his transformation.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4a0d444147c8",
+    "subject_id": "ep_b5fc70cd17107eaa",
+    "object_id": "ep_855f783b005020f5",
+    "relation_type": "precedes",
+    "reason": "The episode 'Sykes and Watters share unspoken communication' occurs during scene_39, while 'Plan and prepare for armed infiltration' occurs in scene_49, indicating a clear narrative sequence where the former precedes the latter based on scene ordering in the document.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e53f12212144",
+    "subject_id": "ep_53312c9ccbb9b36b",
+    "object_id": "ep_c7d64c3266bb678f",
+    "relation_type": "causes",
+    "reason": "The escalation of violence by the Tremor Brothers, including opening fire and using a chainsaw to target McGarey, directly leads to the critical injuries they suffer during the melee. The description of the second episode notes it as a 'turning point' where their momentum collapses, implying a causal link from their aggressive actions to the backlash that injures them, supported by the shared scene and event sequence.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_aba604f83f86",
+    "subject_id": "ep_3364e1f763e6ac95",
+    "object_id": "ep_a5fa7f5ca5eddc28",
+    "relation_type": "causes",
+    "reason": "The subject episode describes Dupree's pool shot attempt that 'sets off a chain of events that exposes criminal operations,' and the object episode explicitly states that 'Dupree's growing incompetence... leads to increased scrutiny' and 'exposes Carlotta organization.' The related events in both episodes occur in the same scene (scene_8), and the description of the first episode directly frames the action as initiating the exposure, providing clear causal evidence from A to B.",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1e0d8b926bb1",
+    "subject_id": "ep_7bdf96bfc7363f27",
+    "object_id": "ep_9d2f9382b8ab438e",
+    "relation_type": "causes",
+    "reason": "Buddy's violent act of tipping the craps table and asserting dominance (ep_7bdf96bfc7363f27) directly establishes his street credibility, which leads to his formal acceptance into elite mob circles (ep_9d2f9382b8ab438e), as the narrative positions the latter as a consequence of his demonstrated loyalty and intimidation tactics.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4a62f5b5751d",
+    "subject_id": "ep_9d2f9382b8ab438e",
+    "object_id": "ep_be69287bf2a4cab0",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, which depicts Buddy's integration into the elite mob, provides foundational context for his elevated status, which is further expanded in the object episode showcasing his luxurious lifestyle and growing mystique. The poolside scene elaborates on the social and symbolic consequences of his mob acceptance, as both episodes are set in scene_7 and contribute to building Buddy's legend, with Dupree's narration linking the two as part of a cohesive portrayal of rising status.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4527bd9b0b5a",
+    "subject_id": "ep_9efe5529e6f6fefd",
+    "object_id": "ep_855f783b005020f5",
+    "relation_type": "precedes",
+    "reason": "The preparation for infiltration with tactical disguise and comms check (ep_9efe5529e6f6fefd) occurs in scene_48, while the plan and preparation for armed infiltration (ep_855f783b005020f5) takes place in scene_49, indicating a clear sequential order where the former precedes the latter.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_91d0d5632ab8",
+    "subject_id": "ep_b5fc70cd17107eaa",
+    "object_id": "ep_c8c8262500681d90",
+    "relation_type": "precedes",
+    "reason": "The episode 'Sykes and Watters share unspoken communication' occurs in scene_39, while 'Execute final targeting and initiate infiltration sequence' occurs in scene_49, indicating a clear narrative sequence where the former precedes the latter based on scene ordering. The shared characters and escalating tension suggest a progression toward the final assault.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_616937ea0f3a",
+    "subject_id": "ep_9efe5529e6f6fefd",
+    "object_id": "ep_5be99b1eb164638b",
+    "relation_type": "precedes",
+    "reason": "The preparation for infiltration (ep_9efe5529e6f6fefd) occurs in doc_47 and scene_48, while the confrontation about past relationships (ep_5be99b1eb164638b) occurs in doc_48 and scene_49, indicating a clear narrative sequence where the tactical preparation directly precedes the personal conversation.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_24f13f8ec0a7",
+    "subject_id": "ep_054cdadef29e2fbc",
+    "object_id": "ep_864dbfe2ad68ab72",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reed expresses violent wish and pays retainer' includes Reed handing over the retainer envelope, which occurs before Dupree reassures Reed and the team transitions to the mission briefing in the subsequent episode. Both episodes occur within the same occasion (scene_29), and the shift from emotional outburst to professional reassurance indicates a clear narrative sequence where the payment and outburst precede the restoration of focus and transition to actionable intelligence.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_29_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c7233fd913d2",
+    "subject_id": "ep_9d2f9382b8ab438e",
+    "object_id": "ep_eaca7c43a42da4dd",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, 'Depict Buddy's elite mob integration', shows Buddy's formal acceptance into the mob hierarchy, which provides contextual background that expands on the object episode, 'Embrace mob identity and cultivate criminal persona', where Buddy fully internalizes the mob role. The formal positioning in elite circles (subject) elaborates on how Buddy builds his criminal persona (object), supported by overlapping events in scene_7 that depict both his external association and internal transformation.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_03eaf508c494",
+    "subject_id": "ep_626a2c548dcf6c87",
+    "object_id": "ep_b21a5d24037bf049",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrive and establish presence with Rip Reed' involves the initial meeting and integration of the group with Rip Reed, which sets the stage for subsequent planning. The episode 'Plan the security infiltration during shift change' occurs later, as it involves the group developing a tactical plan that presupposes prior coordination and presence. The narrative flow from establishing presence to planning action supports a 'precedes' relation, with the former logically and temporally preceding the latter.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_29_part_2",
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ee4bcee4cfe2",
+    "subject_id": "ep_7bdf96bfc7363f27",
+    "object_id": "ep_eaca7c43a42da4dd",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, which depicts Buddy's violent act to build street credibility, provides a specific instance of behavior that illustrates the broader transformation described in the object episode, where Buddy fully embraces a mob identity. The object episode encompasses the deliberate cultivation of a criminal persona, including taking time away from performing, which is contextually expanded by the subject's concrete event of tipping the craps table and attacking the stick-man. This supports an elaborative relationship where the subject adds behavioral detail to the overarching identity shift in the object.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_e2518d224ee5",
+    "subject_id": "ep_bbe49822fc89b2f2",
+    "object_id": "ep_ae34ab9539845f81",
+    "relation_type": "precedes",
+    "reason": "The episode 'Watters provokes during check-in process' occurs during Sykes' hotel check-in and includes events such as Watters requesting a single bed and teasing Sykes, which immediately precedes the episode 'Sykes secures mini-bar access' where Sykes requests a mini-bar key and someone retrieves alcohol, indicating a subsequent private moment. Both episodes are grounded in scene_39 and follow a clear temporal sequence in the narrative flow.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bb3a9e173408",
+    "subject_id": "ep_b50491980775adb8",
+    "object_id": "ep_bd457994df2cd274",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode involves Watters engaging in a sexually charged act of voyeuristic surveillance, objectifying Sykes through the sniper scope, while the object episode features Watters delivering a feminist rant decrying the objectification of women. These episodes are juxtaposed in tone and theme—one revealing Watters's own complicity in sexualized observation, the other expressing outrage at the degradation of women—creating a clear contrast in her behavior and rhetoric.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_89fdb20721a9",
+    "subject_id": "ep_b50491980775adb8",
+    "object_id": "ep_bbe49822fc89b2f2",
+    "relation_type": "contrasts_with",
+    "reason": "The two episodes depict different modes of Watters' inappropriate behavior toward Sykes: one involves overt, suggestive verbal teasing during a public interaction (hotel check-in), while the other involves silent, voyeuristic surveillance with sexual overtones. These episodes are juxtaposed in tone and method—one socially brazen, the other privately invasive—highlighting a contrast in how Watters enacts her transgressive interest, thus emphasizing a reversal in the form of her boundary violations.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_0d145839bf7a",
+    "subject_id": "ep_bd457994df2cd274",
+    "object_id": "ep_c8c8262500681d90",
+    "relation_type": "precedes",
+    "reason": "The episode 'Watters delivers feminist rant to receptionist' occurs in doc_38 and scene_39, while 'Execute final targeting and initiate infiltration sequence' occurs in doc_48 and scene_49, indicating a later narrative position. The progression from a confrontation in an earlier scene to the final operational phase in a later scene supports a 'precedes' relation from the rant episode to the infiltration episode.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_16dcc5f1ba26",
+    "subject_id": "ep_5be99b1eb164638b",
+    "object_id": "ep_c8c8262500681d90",
+    "relation_type": "precedes",
+    "reason": "The personal conversation between Watters and Sykes about their relationship and Keith occurs before the final operational phase in the same scene (scene_49), as the narrative shifts from emotional clarification to immediate tactical execution, with Sykes moving to the elevator and Watters taking aim, indicating a clear temporal sequence.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ae1f7a50a028",
+    "subject_id": "ep_bbe49822fc89b2f2",
+    "object_id": "ep_5be99b1eb164638b",
+    "relation_type": "precedes",
+    "reason": "The hotel check-in interaction (ep_bbe49822fc89b2f2) occurs in doc_38, while the personal conversation about Keith and emotional bond (ep_5be99b1eb164638b) occurs in doc_48, indicating a narrative sequence where Watters' earlier provocation during check-in sets an initial tone of tension that precedes the later, more intimate confrontation about relationships and identity.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9e994cd9d54e",
+    "subject_id": "ep_ae34ab9539845f81",
+    "object_id": "ep_b5fc70cd17107eaa",
+    "relation_type": "precedes",
+    "reason": "The episode 'Sykes secures mini-bar access' involves Sykes requesting a mini-bar key and the subsequent retrieval of alcohol, while 'Sykes and Watters share unspoken communication' occurs during the aftermath of the Hookers' exit and includes exchanged glances and a suggestive wink. Both episodes are grounded in scene_39, but the mini-bar access sequence initiates a private decompression moment that precedes the interpersonal tension depicted in the unspoken communication, as indicated by the narrative flow from personal action to social interaction in the same scene.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_547d5a7a7a8c",
+    "subject_id": "ep_9d6dca96aa7f1042",
+    "object_id": "ep_ce4380fc1b8e482d",
+    "relation_type": "elaborates",
+    "reason": "The subject episode establishes Sparazza's mentorship of Israel as foundational context, and the object episode builds on this by detailing Israel's subsequent betrayal and rise, which directly contrasts his earlier position of trust. The object episode expands upon the implications of the relationship introduced in the subject episode, providing a narrative progression that elaborates on the initial setup.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b1d60f481c06",
+    "subject_id": "ep_1a3b64d6c47e70fa",
+    "object_id": "ep_b64b7c2b4e8e5ca4",
+    "relation_type": "elaborates",
+    "reason": "The discovery of Heller's martyrdom provides specific evidence (the photograph of murdered Agent Freeman Heller) that motivates and expands the subsequent challenge to Sparazza's low profile, offering a concrete reason for reevaluating Sparazza's criminal significance. This supports the interpretation that the first episode elaborates the context for the second.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_01322ffc5d12",
+    "subject_id": "ep_90e5bb315b6fa2e6",
+    "object_id": "ep_1a3b64d6c47e70fa",
+    "relation_type": "elaborates",
+    "reason": "The Review Sparazza surveillance file episode includes Messner discovering Sparazza's criminal record and plastic surgeries, which provides contextual background that makes the discovery of Heller's martyrdom more significant; the latter episode builds on the former by revealing a specific, consequential omission in the Bureau's actions, thus the first episode elaborates on the context leading to the second.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_f125e9ae1fe0",
+    "subject_id": "ep_9efe5529e6f6fefd",
+    "object_id": "ep_b50491980775adb8",
+    "relation_type": "precedes",
+    "reason": "The preparation episode (ep_9efe5529e6f6fefd) involves Sykes arming and adjusting her equipment, including troubleshooting her earpiece after Watters' feedback, which must occur before Watters begins surveillance using the sniper scope in ep_b50491980775adb8. The comms check implies Watters is already in position and observing, but the activation of communication from Watters during Sykes's preparation suggests the surveillance begins concurrently or immediately afterward. Given the narrative flow, Sykes's preparation is logically and temporally prior to the full engagement of Watters's voyeuristic surveillance, supporting a 'precedes' relation.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c4b079c45e66",
+    "subject_id": "ep_b50491980775adb8",
+    "object_id": "ep_c8c8262500681d90",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Watters engages in voyeuristic surveillance while observing Sykes adjusting her outfit and reacting with sexualized behavior, occurs earlier in scene 49 before the object episode where both characters prepare for direct confrontation—Sykes drawing her revolver and Watters finalizing her sniper aim. The shift from surveillance to active targeting indicates a chronological progression within the same scene, with the former setting the stage for the latter's escalation into imminent violence.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7ba92f96de41",
+    "subject_id": "ep_14da02a7aaa881f9",
+    "object_id": "ep_c3d3673b2947c607",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in the same scene (scene_40) and are part of Lazlo Soot's operational procedure. The act of documenting the crime scene with a photograph logically precedes the subsequent analysis and rehearsal of the victim's voice, as the former establishes the initial evidence-gathering step before moving to impersonation preparation. Temporal ordering is implied by procedural logic and the sequence of related events.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_486b2579ebc2",
+    "subject_id": "ep_82b7d478fb3e1e91",
+    "object_id": "ep_a90f5696b68cf97a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Plan witness extraction operation' involves discussing and outlining plans for a federal witness extraction, including coordination with the sheriff's task force, while the object episode 'Initiate immediate arrest operation' involves executing the operation due to new intelligence about Israel surrendering his entourage. The planning phase logically precedes the immediate execution triggered by new information, and the related events in the planning episode (scene_36) occur before the decisive actions in the arrest episode (scene_43), supporting a temporal precedence.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_233d54656cf7",
+    "subject_id": "ep_855f783b005020f5",
+    "object_id": "ep_c8c8262500681d90",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Plan and prepare for armed infiltration' involves Sykes and Watters coordinating and preparing their assault strategy, including weapon concealment, threat declarations, and sniper positioning. The object episode 'Execute final targeting and initiate infiltration sequence' depicts the final moments before action, with Sykes drawing her revolver at the elevator and Watters actively aiming through the scope, indicating the transition from preparation to imminent execution. The narrative progression from planning and setup to the final targeting and initiation of the assault establishes a clear temporal sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_247d0ee61b8c",
+    "subject_id": "ep_14da02a7aaa881f9",
+    "object_id": "ep_5a605859f3b46af8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Document the crime scene' involves Lazlo Soot taking and placing a Polaroid to record evidence, which occurs before he examines his reflection in the mirror to adjust his disguise in the episode 'Refine facial disguise'. Both episodes occur in the same scene (scene_40) and share temporal proximity, with the photograph placement setting up the mirror use that enables the subsequent disguise adjustment. The narrative flow implies a sequence where evidence documentation precedes personal preparation, supported by the spatial and action logic in the shared setting.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f609699b8b18",
+    "subject_id": "ep_5a605859f3b46af8",
+    "object_id": "ep_eb6c2a854f2df084",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Refine facial disguise' involves adjusting facial appliances, which logically occurs before the object episode 'Assume the butler's identity' that includes integrating all disguise elements and answering the phone in character. Both episodes occur in the same scene (scene_40), and refining the facial disguise is a preparatory step that precedes fully assuming the identity under pressure.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a2cf5444f3fc",
+    "subject_id": "ep_525eb439f6a1f838",
+    "object_id": "ep_9d88515ecb4ac960",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Reveal Freeman Heller's true legacy and undercover innovation' provides detailed background and justification in response to the suspicions raised during the 'Conduct FBI debriefing on Sparazza and Heller' episode. Specifically, Locke's narration of Heller's O.S.S. service, perfect pistol range performance, and pioneering of undercover techniques directly expands on the doubts about Heller's loyalty mentioned in the first episode, making this a clear case of elaboration. Both episodes occur during the same occasion—the F.B.I. Debriefing Session in Washington, D.C.—further supporting that the second serves to elaborate on the first.",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1e238cb088b3",
+    "subject_id": "ep_507d052a15fde653",
+    "object_id": "ep_eb6c2a854f2df084",
+    "relation_type": "precedes",
+    "reason": "The physical alteration of Lazlo Soot's voice occurs before he assumes the butler's identity, as the voice change is a preparatory step integrated into the full disguise process described in the second episode. The sequence of events in scene_40 supports this local narrative order.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4432d0ddc58f",
+    "subject_id": "ep_e71b3cdb02814600",
+    "object_id": "ep_3ceb90a2f17ebbf5",
+    "relation_type": "causes",
+    "reason": "The vomiting incident directly triggers the escalating fight, as Beanie's angry reaction and the other hookers' laughter escalate tension, leading to the brawl that the intervention episode aims to stop. The causal link is supported by the description stating the vomit incident 'establishing the catalyst for the ensuing violence.'",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ab766425e992",
+    "subject_id": "ep_c3d3673b2947c607",
+    "object_id": "ep_507d052a15fde653",
+    "relation_type": "precedes",
+    "reason": "The episode 'Analyze and rehearse the victim's voice' involves Lazlo Soot studying and practicing the dead man's vocal patterns using a recording, which logically precedes the physical alteration of his voice to match those patterns. Both episodes occur in scene_40, but the analysis and rehearsal must come before the physical degradation of the voice to achieve accurate impersonation, as supported by the goal-driven sequence implied in the descriptions.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_821443722782",
+    "subject_id": "ep_008a12564ff6149d",
+    "object_id": "ep_a5ea04fdd3327e22",
+    "relation_type": "precedes",
+    "reason": "Israel's decision to cooperate with the Feds (by offering Hugo) directly sets up the moment when Ivy overhears the betrayal. The related events in both episodes occur in scene_42, but Israel's action must occur before Ivy can overhear it, establishing a clear temporal order within the scene.",
+    "source_documents": [
+      "scene_42_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f7275534104b",
+    "subject_id": "ep_c3d3673b2947c607",
+    "object_id": "ep_eb6c2a854f2df084",
+    "relation_type": "precedes",
+    "reason": "The episode 'Analyze and rehearse the victim's voice' involves Lazlo Soot studying and practicing the dead man's vocal patterns, which is a preparatory step that logically and temporally precedes 'Assume the butler's identity', where he integrates voice and disguise to answer the phone as Vitoli. The related events in both episodes occur in scene_40 and follow a sequential order: voice rehearsal comes before real-time impersonation.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_daf062c6d42b",
+    "subject_id": "ep_6155eebfb1478fbb",
+    "object_id": "ep_1d5a95fe89e86c43",
+    "relation_type": "causes",
+    "reason": "The episode 'Confront Israel's medical crisis and secure treatment' directly leads to Dr. Gill obtaining Israel's location in Lake Tahoe, which immediately enables the subsequent act of disclosing that location to a third party. The description of the second episode explicitly states that Israel reveals his location during the call, which is a necessary precondition for the disclosure in the first episode, establishing a clear causal link.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0c58919b2203",
+    "subject_id": "ep_d6cf10319f2ad802",
+    "object_id": "ep_2be44ad6087c6863",
+    "relation_type": "precedes",
+    "reason": "The episode 'Present the job offer and establish credibility' introduces the job opportunity and establishes its legitimacy, which logically precedes the subsequent negotiation of payment terms in 'Negotiate payment terms for the operation'. The related events in the first episode occur in scene_13, while the negotiation occurs in scene_22, indicating a clear temporal sequence in the narrative order.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e663721958fd",
+    "subject_id": "ep_e88f870ce7b95368",
+    "object_id": "ep_518fa7965364997b",
+    "relation_type": "precedes",
+    "reason": "The preparation for the split mission, including Carruthers deciding to go alone and both agents activating communication devices, logically occurs before the high-speed approach to the Nomad. Both episodes are described in the same scene (scene_47), and the tactical deployment sets the stage for the subsequent driving action, indicating a clear narrative sequence.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0aa2f8a82436",
+    "subject_id": "ep_2287d66b0af2cd3d",
+    "object_id": "ep_b50491980775adb8",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode establishes a professional, security-focused surveillance operation with technical and tactical purpose, while the second episode depicts a shift to voyeuristic, sexually charged behavior by Watters, transforming the act of observation into a personal and inappropriate display. This juxtaposition emphasizes a contrast in tone and intent between operational discipline and personal transgression, both occurring within the same surveillance context.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_366377f46387",
+    "subject_id": "ep_907c443a300fc679",
+    "object_id": "ep_77b2e4f40b57f75e",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Dupree recounts the Teamsters ballot disruption' provides background context about the Tremor Brothers' prior violent actions, which elaborates on their later ambush in the parking lot. The narration in the first episode explains the group's modus operandi and criminal history, directly informing the sudden violence in the second episode. This constitutes a directed elaboration from the recounting episode to the ambush episode.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_675b880c321c",
+    "subject_id": "ep_7521d90a0725dbc8",
+    "object_id": "ep_b5cb25e90356dee5",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts Buddy Israel making a flashy, confident entrance surrounded by companions in a vibrant nightlife setting, while the second shows him sober and disillusioned, moving through the aftermath of excess with disdain. The juxtaposition of his brash introduction and later contemptuous reflection highlights a reversal in tone and state, emphasizing a contrast between public spectacle and private disillusionment.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_26_part_1",
+      "scene_26_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dcec5b744686",
+    "subject_id": "ep_02f415636952b9fb",
+    "object_id": "ep_7521d90a0725dbc8",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes a young Buddy Israel learning magic as an apprentice, which establishes an early stage in his development, while the object episode depicts him as a confident, established figure making a flashy entrance in Las Vegas. The apprenticeship logically precedes his later public persona, and the description of the subject episode explicitly references his youth and skill acquisition, supporting a temporal sequence.",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c7ae29e1699f",
+    "subject_id": "ep_49b091c7693b61c5",
+    "object_id": "ep_d7d768a7a6385bf0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Mecklen confronts Israel about Fed demands' occurs before 'Mecklen warns of consequences and Israel decides', as the confrontation sets up the escalating pressure that leads to the explicit warning and decision. Both episodes occur in scene_42, but the sequence of events shows Mecklen first conveying the Feds' stance on prosecution, then later warning about consequences, followed by Israel's decision—indicating a clear narrative order.",
+    "source_documents": [
+      "scene_42_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_444adb64a4fd",
+    "subject_id": "ep_7521d90a0725dbc8",
+    "object_id": "ep_cd078e550eb65711",
+    "relation_type": "causes",
+    "reason": "Buddy Israel's flashy entrance on the strip occurs after he skips bail, which directly triggers the emergency operation to intercept him. The object episode is initiated as a direct response to Israel's evasion of legal custody, which is causally linked to his actions in the subject episode. The description of the object episode explicitly states it follows from Buddy Israel skipping bail, providing strong causal evidence.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a957d1e834bb",
+    "subject_id": "ep_02f415636952b9fb",
+    "object_id": "ep_4af8c65ecd1c55dc",
+    "relation_type": "precedes",
+    "reason": "The subject episode, where young Buddy Israel learns sleight of hand from the Magician, occurs during his apprenticeship and is described as foundational to his talent. The object episode describes Buddy headlining at age sixteen, which logically follows after mastering the skills he learned earlier. The related events and descriptions establish a clear temporal sequence: learning magic precedes professional stardom.",
+    "source_documents": [
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_02fe14a8ae2d",
+    "subject_id": "ep_e71b3cdb02814600",
+    "object_id": "ep_632d11d3b84781eb",
+    "relation_type": "causes",
+    "reason": "The vomiting incident and the resulting laughter trigger the violent brawl among the hookers, as explicitly stated in the description of ep_632d11d3b84781eb: 'This rapidly devolves into a full-scale physical brawl' and in ep_e71b3cdb02814600: 'establishing the catalyst for the ensuing violence.'",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_547753dfe873",
+    "subject_id": "ep_a11d8fa076ab5417",
+    "object_id": "ep_d6e0dc82a5984edd",
+    "relation_type": "contrasts_with",
+    "reason": "Both episodes occur during the Feds Briefing (scene_14) and depict different aspects of Acosta's actions: one showing his evasion tactics and survival skills, the other illustrating his brutal torture methods. The juxtaposition emphasizes a contrast between his resourcefulness in escaping capture and his sadistic violence, highlighting different dimensions of his threat. The symmetric nature of this thematic contrast is supported by their co-occurrence in the same occasion without clear temporal or causal linkage.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_d2cf0bbe3f8b",
+    "subject_id": "ep_e4c3fc18176e2da6",
+    "object_id": "ep_13c518a57a62ef80",
+    "relation_type": "precedes",
+    "reason": "Dr. Gill's confrontation about Israel's drug use and heart condition (scene_32) occurs before Israel uses cocaine despite chest pain and medical warning (scene_34), as indicated by the chronological order of scenes in the document. The description of the second episode explicitly states it happens 'immediately after agreeing to seek help,' which follows the confrontation, establishing a clear temporal sequence.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4e5b3f739fc2",
+    "subject_id": "ep_efca51ed5b175be0",
+    "object_id": "ep_e4c3fc18176e2da6",
+    "relation_type": "precedes",
+    "reason": "The episode 'Secure the room and assess the situation' (doc_30, scene_31) occurs just before 'Confront Israel about drug use and heart condition' (doc_31, scene_32), as indicated by the document and scene ordering. Israel's actions to secure the room and assess Dr. Gill's behavior immediately precede the medical confrontation, establishing a clear local narrative sequence.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d5e17947e2af",
+    "subject_id": "ep_e4c3fc18176e2da6",
+    "object_id": "ep_6155eebfb1478fbb",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Confront Israel about drug use and heart condition' introduces Dr. Gill's confrontation regarding Israel's cocaine use and cardiac risks, which is further detailed in the subsequent episode 'Confront Israel's medical crisis and secure treatment' where the medical urgency is expanded with specific events including Israel revealing his location and arranging treatment. The second episode provides additional narrative detail and progression of the medical intervention, elaborating on the initial confrontation.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_bbcf16e79b76",
+    "subject_id": "ep_09635c342b91bb44",
+    "object_id": "ep_efca51ed5b175be0",
+    "relation_type": "precedes",
+    "reason": "The confrontation between Israel and Sir Ivy (ep_09635c342b91bb44) occurs in scene_30, while Israel's actions to secure the room and assess the situation (ep_efca51ed5b175be0) occur in scene_31, indicating a clear sequential order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_93446128efac",
+    "subject_id": "ep_09635c342b91bb44",
+    "object_id": "ep_bde9667415c69ed5",
+    "relation_type": "causes",
+    "reason": "The description of 'Bring police heat onto Primo Sparraza' states it is a 'direct result of the escalating exposure caused by Israel's actions,' which are detailed in the 'Confront Israel and de-escalate tension' episode. This establishes a clear causal link from the subject to the object episode.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1bd49eecd4ed",
+    "subject_id": "ep_7521d90a0725dbc8",
+    "object_id": "ep_4af8c65ecd1c55dc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Buddy Israel makes a flashy entrance on the strip' depicts Buddy as an established, confident figure on the Las Vegas scene, while 'Buddy Israel rises to stardom as a headline magician' describes his professional breakthrough at age sixteen. The latter episode involves a developmental milestone (headlining at MGM by sixteen), which logically precedes the former's portrayal of him as a seasoned presence on the strip. The narrative progression from rising stardom to visible prominence supports a 'precedes' relation from the entrance episode to the stardom episode.",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_64d20d7a201a",
+    "subject_id": "ep_09635c342b91bb44",
+    "object_id": "ep_9d2c6392a7c9bd49",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Israel's confrontation with Sir Ivy amid rising tension in the suite, while the second episode depicts a subsequent escalation where Israel issues an ultimatum threatening to cancel the deal. The progression from interpersonal conflict to a direct threat regarding the deal suggests a temporal sequence where the confrontation sets the stage for the more extreme behavior in the next episode, supported by the increasing intensity of Israel's actions across scenes.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9d88a396aa83",
+    "subject_id": "ep_09635c342b91bb44",
+    "object_id": "ep_95bad4a0f559635b",
+    "relation_type": "precedes",
+    "reason": "The confrontation between Israel and Sir Ivy (ep_09635c342b91bb44) occurs in scene_30, while Israel's reflection on his downfall (ep_95bad4a0f559635b) takes place in scene_35, indicating a clear narrative sequence where the earlier episode precedes the later one based on scene ordering.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_68069a72a59c",
+    "subject_id": "ep_043ed7522b51e433",
+    "object_id": "ep_9d2c6392a7c9bd49",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to urgent phone summons' occurs in doc_39 and involves Lazlo Soot receiving a phone call from Hugo Croop, while the object episode 'Confront Israel's ultimatum and resist deal cancellation' occurs in doc_40 and includes Hugo making a follow-up call to Vitoli/Soot in scene_41. The sequential document and scene numbering, along with the continuity of phone coordination, supports a local narrative order where the summons precedes the ultimatum confrontation.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e089da712709",
+    "subject_id": "ep_29871ef7517b4b13",
+    "object_id": "ep_efca51ed5b175be0",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Take private call in bedroom' involves Israel retreating to the bedroom to speak privately after receiving the phone, while the object episode 'Secure the room and assess the situation' involves Israel locking the door, checking the time, and questioning Dr. Gill during the call. The actions in the object episode (locking, checking, questioning) occur as part of the same private conversation initiated in the subject episode, indicating a clear sequence where taking the call precedes securing the room and assessing the situation. The related events in the object episode (scene_31) follow chronologically after Israel takes the call (scene_30), supporting a directed 'precedes' relation.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_939390d3c9c6",
+    "subject_id": "ep_d33312364356e9f3",
+    "object_id": "ep_77b2e4f40b57f75e",
+    "relation_type": "elaborates",
+    "reason": "The episode where Dupree introduces the Tremor Brothers' notoriety provides background information about their violent nature and tactics, which elaborates on the later ambush and execution event. This prior exposition helps explain the severity and suddenness of the attack carried out by the Tremor Brothers, grounding their actions in established character traits.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_82c9dd74828b",
+    "subject_id": "ep_de1f69043a1d0554",
+    "object_id": "ep_3364e1f763e6ac95",
+    "relation_type": "precedes",
+    "reason": "The episode 'Establish narrative framing through Dupree's perspective' occurs in scene_7, where Dupree lines up a pool shot while beginning narration, which sets the stage for the subsequent action in scene_8 where Dupree attempts the shot that triggers unintended consequences. The local narrative order of scenes supports that the framing episode precedes the consequential pool shot episode.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4e1799f6b977",
+    "subject_id": "ep_53312c9ccbb9b36b",
+    "object_id": "ep_d33312364356e9f3",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Dupree introduces the Tremor Brothers' notoriety' provides background context about the Tremor Brothers' violent methods and reputation, which elaborates on the extreme tactics used in the episode 'Escalate violence to target McGarey'. The latter episode depicts the execution of such tactics, while the former explains their modus operandi, offering explanatory depth to the later event.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_bdcebf3497d0",
+    "subject_id": "ep_1ead2b9d9e797c1a",
+    "object_id": "ep_eaca7c43a42da4dd",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, in which Dupree narrates Buddy's rise in show business and mob circles, provides background context that expands on the object episode where Buddy fully embraces his mob identity. The narration in the first episode sets the stage for and elaborates on the transformation depicted in the second, offering explanatory depth about how Buddy's dual identity developed.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_52959f8add59",
+    "subject_id": "ep_1ead2b9d9e797c1a",
+    "object_id": "ep_7bdf96bfc7363f27",
+    "relation_type": "elaborates",
+    "reason": "The first episode narrates Buddy's rise in show business and mob circles, providing background context for his later transformation into a mob enforcer depicted in the second episode. The violent act in the second episode exemplifies the outcome of the mob ties and status described in the first, indicating that the first episode elaborates on the foundation leading to the second.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5dcc3ee1a1b1",
+    "subject_id": "ep_1ead2b9d9e797c1a",
+    "object_id": "ep_be69287bf2a4cab0",
+    "relation_type": "elaborates",
+    "reason": "The subject episode narrates Buddy's rise in show business and mob circles, providing foundational context that is visually and thematically expanded upon in the object episode, which showcases his luxurious lifestyle and growing mystique as described in the narration. The object episode illustrates the outcome of the rise detailed in the subject, indicating that the subject provides explanatory background for the image presented in the object.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bdcbecbb7fd1",
+    "subject_id": "ep_de1f69043a1d0554",
+    "object_id": "ep_eaca7c43a42da4dd",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, where Dupree uses a pool shot to frame his narration, introduces a retrospective account of Buddy's transformation. The object episode, where Buddy fully embraces a mob identity, is part of the narrative content being recounted. Thus, the subject episode provides a framing device that elaborates on the context and perspective through which the object episode is told.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e98bd0acfbb8",
+    "subject_id": "ep_d0414e77cd4c4650",
+    "object_id": "ep_054cdadef29e2fbc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reveal Israel's bond deadline and bail source' occurs during scene_21 at a bar gathering, while 'Reed expresses violent wish and pays retainer' occurs during scene_29 in a meeting with Rip Reed. The scene numbers (21 before 29) provide clear narrative order evidence, indicating that the revelation of the bond deadline precedes Reed's emotional outburst and payment of the retainer.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_29_part_2",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_eddfe31798a1",
+    "subject_id": "ep_de1f69043a1d0554",
+    "object_id": "ep_1ead2b9d9e797c1a",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Establish narrative framing through Dupree's perspective' involves Dupree initiating narration while lining up a pool shot, which serves as a framing device for the subsequent recounting of Buddy's rise in show business and mob circles. This framing directly sets up and provides context for the content of the second episode, thereby elaborating on it by grounding the retrospective account in a present moment of reflection.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7007c87e180e",
+    "subject_id": "ep_d0414e77cd4c4650",
+    "object_id": "ep_864dbfe2ad68ab72",
+    "relation_type": "precedes",
+    "reason": "The revelation of Israel's bond deadline and bail source (ep_d0414e77cd4c4650) establishes the mission's urgency and factual basis, which logically precedes the subsequent episode where Dupree reaffirms confidence and the team transitions to a mission briefing (ep_864dbfe2ad68ab72). The narrative flow moves from presenting critical information to responding with a goal-directed shift in tone and focus.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_29_part_2",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f65ad919c93f",
+    "subject_id": "ep_d0414e77cd4c4650",
+    "object_id": "ep_09d08e1170caae79",
+    "relation_type": "elaborates",
+    "reason": "The object episode elaborates on the subject episode by revealing that Darwin discovers Dupree's bondsman license and bail papers, recognizes Robert Israel as their shared target, and learns of the urgent bond deadline indirectly through Dupree's prior disclosure. The subject episode establishes the factual urgency and mission context, while the object episode expands on it by uncovering convergent motives and hidden instructions, including the fifty thousand dollars, which adds depth to the mission's moral and operational dimensions.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_afff8954f3fe",
+    "subject_id": "ep_a3cab2e3e97d071a",
+    "object_id": "ep_9efe5529e6f6fefd",
+    "relation_type": "precedes",
+    "reason": "The planning episode (setting down fork, insisting on strategy) establishes the need for structured preparation before action, which is then executed in the subsequent episode where Sykes physically prepares for infiltration with disguise and comms check. The narrative logic and goal dependency—planning before operational execution—support a 'precedes' relation from planning to preparation.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e0840db5ecc9",
+    "subject_id": "ep_de1f69043a1d0554",
+    "object_id": "ep_9d2f9382b8ab438e",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Establish narrative framing through Dupree's perspective' provides a present-moment reflective context (via Dupree lining up a pool shot while narrating) that frames and expands upon the content of 'Depict Buddy's elite mob integration', which is part of the retrospective account being narrated. The narration in the first episode directly supplies background and contextual framing for the events in the second, supporting an elaborative relationship.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d00c7086a48c",
+    "subject_id": "ep_de1f69043a1d0554",
+    "object_id": "ep_be69287bf2a4cab0",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Establish narrative framing through Dupree's perspective' involves Dupree narrating Buddy's rise while lining up a pool shot, which serves to frame and provide context for the episode 'Showcase Buddy's luxurious lifestyle and growing mystique'. The narration in the first episode directly supplies the retrospective lens through which the second episode's events are presented, indicating that the first elaborates on the second by offering a narrative framework and background.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e1b90fd7cf6e",
+    "subject_id": "ep_a3cab2e3e97d071a",
+    "object_id": "ep_cdeec83dd9fb38b3",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Initiate planning for urgent operation' establishes the need for structured planning, and 'Assert operational rules to minimize collateral damage' provides specific tactical and ethical guidelines that expand on that planning. The second episode elaborates on the strategy mentioned in the first by defining operational boundaries, supported by Sykes' continued focus on disciplined action in both episodes.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_41620b02d587",
+    "subject_id": "ep_b82ceeee454b8688",
+    "object_id": "ep_cdeec83dd9fb38b3",
+    "relation_type": "elaborates",
+    "reason": "The subject episode establishes the mission objective and corrects misinterpretations about its violent nature, while the object episode builds on this by specifying operational rules to limit violence, particularly against non-combatants. The second episode elaborates on the ethical and tactical boundaries implied in the first, providing further detail on how the mission should be conducted without contradicting its core objective.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_33651c5e01f0",
+    "subject_id": "ep_e07820abf4e57ca5",
+    "object_id": "ep_855f783b005020f5",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confirm and assess threat against Israel' involves evaluating the credibility of a threat, which logically precedes the tactical planning and preparation for armed infiltration seen in 'Plan and prepare for armed infiltration'. The assessment of the threat provides the necessary justification for the subsequent mission planning, indicating a clear temporal and narrative sequence supported by the goal-driven nature of both episodes.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fc84cb15d824",
+    "subject_id": "ep_cdeec83dd9fb38b3",
+    "object_id": "ep_855f783b005020f5",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assert operational rules to minimize collateral damage' (doc_id: doc_47, scene_48) occurs in an earlier scene than 'Plan and prepare for armed infiltration' (doc_id: doc_48, scene_49), indicating a clear narrative sequence where tactical rules are established before the detailed operational plan is coordinated.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_66a6f6f1419c",
+    "subject_id": "ep_cdeec83dd9fb38b3",
+    "object_id": "ep_c8c8262500681d90",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assert operational rules to minimize collateral damage' (doc_id: doc_47, scene_48) occurs in an earlier scene than 'Execute final targeting and initiate infiltration sequence' (doc_id: doc_48, scene_49), indicating a clear temporal order where tactical rules are established just before the final assault is initiated.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_583e5beab45d",
+    "subject_id": "ep_a3cab2e3e97d071a",
+    "object_id": "ep_c8c8262500681d90",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate planning for urgent operation' establishes the need for structured planning before action, while the object episode 'Execute final targeting and initiate infiltration sequence' represents the culmination of the operation with immediate preparatory actions for confrontation. The planning phase logically and temporally precedes the execution phase, with no indication of overlap or reversal in narrative order.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_45f90a2c7e7e",
+    "subject_id": "ep_a3cab2e3e97d071a",
+    "object_id": "ep_855f783b005020f5",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate planning for urgent operation' involves Sykes insisting on establishing a strategy before proceeding, which sets the stage for the subsequent detailed tactical coordination in 'Plan and prepare for armed infiltration'. The former establishes the need for planning, while the latter executes that planning with specific actions and roles, indicating a clear temporal sequence supported by the narrative progression from strategic intent to operational preparation.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_85ed2d3964ad",
+    "subject_id": "ep_b82ceeee454b8688",
+    "object_id": "ep_c8c8262500681d90",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves clarifying the mission objective and assessing risks, which establishes the plan and scope of the operation. The object episode involves executing the final targeting and initiating the infiltration, representing the operational execution phase. The planning and clarification logically precede the execution, and the shared goal structure and sequential nature of mission phases support a clear narrative order where preparation comes before action.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_15290a66ce43",
+    "subject_id": "ep_6956d5690d5e7f5a",
+    "object_id": "ep_a3cab2e3e97d071a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrive and establish presence at the meeting' involves Sykes and Watters entering the restaurant and being greeted, which sets the initial scene and interpersonal dynamics. The episode 'Initiate planning for urgent operation' occurs during the meal and marks a shift to serious discussion. The arrival and seating must logically precede the initiation of planning during the meal, establishing a clear temporal sequence supported by the narrative flow in the descriptions and related events.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dac8b6f68155",
+    "subject_id": "ep_b82ceeee454b8688",
+    "object_id": "ep_855f783b005020f5",
+    "relation_type": "precedes",
+    "reason": "The episode 'Clarify the mission objective and assess risks' involves Sykes and Wyman defining the mission's scope and correcting misconceptions about its objective, which logically must occur before the tactical planning and preparation for infiltration in 'Plan and prepare for armed infiltration'. The former establishes the mission goal (extracting Buddy Israel), which directly informs the latter's execution strategy, and the related events in the second episode imply a later stage in mission progression.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_85a05aaabd2a",
+    "subject_id": "ep_9efe5529e6f6fefd",
+    "object_id": "ep_0d20638b824f4651",
+    "relation_type": "precedes",
+    "reason": "The preparation episode (ep_9efe5529e6f6fefd) involves Sykes arming and adjusting her equipment, including troubleshooting her earpiece, which must occur before she can remotely monitor and intervene in Carruthers' plan (ep_0d20638b824f4651) via audio feed. The narrative sequence implied by the dependency on functional comms and the mission setup supports a 'precedes' relation from preparation to remote intervention.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_584e1b3369e1",
+    "subject_id": "ep_9d6dca96aa7f1042",
+    "object_id": "ep_e07820abf4e57ca5",
+    "relation_type": "elaborates",
+    "reason": "The subject episode establishes Sparazza's mentorship of Israel, providing foundational background that helps contextualize the threat against Israel in the object episode. The confirmation and assessment of the threat (object) gains narrative significance because the prior relationship (subject) explains why Sparazza's actions represent a betrayal or escalation. This constitutes a directed elaboration where the subject expands the understanding of the object's stakes.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_91cec404b7d4",
+    "subject_id": "ep_0d20638b824f4651",
+    "object_id": "ep_c8c8262500681d90",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Sykes remotely intervenes in Carruthers' plan via audio feed, occurs while Carruthers is preparing to enter the Penthouse alone. The object episode involves Sykes and Watters executing the final targeting and infiltration sequence, including positioning at the elevator and aiming at the penthouse. The progression from remote monitoring and intervention to active physical preparation for assault indicates a clear narrative sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_793b1e6d320b",
+    "subject_id": "ep_e07820abf4e57ca5",
+    "object_id": "ep_ed37f83e56171929",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, 'Confirm and assess threat against Israel', provides additional validation and evaluation of the threat initially raised in the object episode, 'Address escalating threat to Israel's life'. The questioning of credibility and confirmation of intelligence in the subject episode expands upon the stakes introduced in the object episode, offering deeper assessment of the same threat, thus elaborating on it.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8998c809f87a",
+    "subject_id": "ep_e72070819aec126e",
+    "object_id": "ep_a90f5696b68cf97a",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Establish urgency and immediate action' provides the rationale and context that explains why 'Initiate immediate arrest operation' is launched without waiting for legal approvals, thus elaborating on the motivation behind the latter episode. The urgency declared by Wyman and reinforced by Messner's warning directly informs the high-stakes, time-sensitive nature of Carruthers' decision and actions.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_a3dbf9876e56",
+    "subject_id": "ep_0d20638b824f4651",
+    "object_id": "ep_855f783b005020f5",
+    "relation_type": "precedes",
+    "reason": "The episode 'Sykes intervenes in Carruthers' plan remotely' occurs as Carruthers prepares to enter the Penthouse, while 'Plan and prepare for armed infiltration' involves Sykes and Watters finalizing their tactical strategy, including weapon setup and infiltration approach. The remote intervention by Sykes happens before the coordinated assault plan is fully executed, and the preparation described in the second episode follows logically and chronologically after Sykes' earlier communication, indicating a narrative sequence where monitoring and objection precede active tactical deployment.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bb85b11bdd69",
+    "subject_id": "ep_ce4380fc1b8e482d",
+    "object_id": "ep_e07820abf4e57ca5",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Expose Israel's rise and betrayal' occurs in scene_11, where Israel's conspiracy unfolds and leads to internal conflict in the Carlotta organization. The object episode 'Confirm and assess threat against Israel' occurs in scene_12, where Locke confirms intelligence about a contract on Israel. The progression from scene_11 to scene_12 in the narrative order supports that the exposure of Israel's betrayal precedes the confirmation and assessment of the threat against him.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3b8728bd0ad9",
+    "subject_id": "ep_1a3b64d6c47e70fa",
+    "object_id": "ep_feeafa451d5480f6",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Discover Heller's martyrdom' reveals a photograph of the murdered Agent Freeman Heller, which provides retrospective context and additional detail about the earlier event in which he was assassinated. This constitutes a narrative expansion of the prior episode by uncovering its significance within the Bureau's records, thus elaborating on it through new evidentiary revelation.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5511a347c92d",
+    "subject_id": "ep_14da02a7aaa881f9",
+    "object_id": "ep_9573bea3b31c2113",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in the same scene (scene_40) and involve Lazlo Soot processing a crime scene. Documenting the crime scene with a photograph logically precedes attempting to clean up the bloodstain as part of a sequential operational procedure, even though exact timing is not specified. The order of related events in the description suggests a narrative sequence where evidence documentation comes before cleanup attempts.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_458cb609b9fc",
+    "subject_id": "ep_1a3b64d6c47e70fa",
+    "object_id": "ep_525eb439f6a1f838",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Discover Heller's martyrdom' elaborates on the 'Conduct FBI debriefing on Sparazza and Heller' by providing a specific moment—Messner uncovering Heller's photograph—that expands on the narrative context introduced during the debriefing, particularly regarding Heller's death and Sparazza's responsibility. The debriefing establishes the broader intelligence context, while the discovery adds a personal, evidentiary detail that deepens understanding of the same event cluster.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_3262022d0759",
+    "subject_id": "ep_1a3b64d6c47e70fa",
+    "object_id": "ep_98513148117a89a8",
+    "relation_type": "elaborates",
+    "reason": "The object episode provides background explanation about the institutional failure that led to Heller's assassination, which elaborates on the circumstances underlying the subject episode where Messner discovers the photograph and questions the Bureau's inaction. The subject episode reacts to the event, while the object episode supplies causal context, fitting the 'elaborates' relation.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8650c5372e3f",
+    "subject_id": "ep_90e5bb315b6fa2e6",
+    "object_id": "ep_ed37f83e56171929",
+    "relation_type": "elaborates",
+    "reason": "The review of Sparazza's surveillance file provides background intelligence on Sparazza's criminal history and identity changes, which informs and expands the context of the later assessment of the threat to Israel. The discovery of Sparazza's record supports the significance of the question about a contract on Israel, suggesting the surveillance review elaborates on the basis for concern in the threat assessment episode. However, the temporal or causal link is not explicitly confirmed, making 'elaborates' a weak but plausible fit.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "id": "rel_ep_ep_1dee0399f68c",
+    "subject_id": "ep_1a3b64d6c47e70fa",
+    "object_id": "ep_9d88515ecb4ac960",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Reveal Freeman Heller's true legacy and undercover innovation' provides background and explanatory details about Heller's career and accomplishments, which directly expands upon the significance of the photograph of the murdered Agent Freeman Heller discovered in the episode 'Discover Heller's martyrdom'. This constitutes a directed elaboration from the object to the subject, as the revelation of Heller's legacy contextualizes and enriches the earlier-discovered evidence of his death.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8706120169fc",
+    "subject_id": "ep_9efe5529e6f6fefd",
+    "object_id": "ep_2287d66b0af2cd3d",
+    "relation_type": "precedes",
+    "reason": "The preparation for infiltration, including Sykes adjusting her comms after feedback, occurs in scene_48, while the surveillance and security confirmation by Watters takes place in scene_49, indicating a direct narrative sequence where preparation precedes operational surveillance.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_de6e0d7ba9f4",
+    "subject_id": "ep_3e4ecd82e9ef2ff4",
+    "object_id": "ep_032e620d4071bcfa",
+    "relation_type": "causes",
+    "reason": "Episode 'Force Hugo to confess and accept blame' ends with Israel ordering Hugo to answer the phone and leave, which directly triggers the event in 'Respond to incoming call and relay message' where the phone rings and Hugo rushes to answer it. The causal link is supported by the explicit command in the related events of the first episode that initiates the action in the second episode.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_26_part_1",
+      "scene_26_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_322688bd794c",
+    "subject_id": "ep_032e620d4071bcfa",
+    "object_id": "ep_9d2c6392a7c9bd49",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Hugo answering the phone and initiating a call during scene_30, while the object episode occurs in scene_41 where Hugo is again on the phone with Vitoli/Soot as part of ongoing efforts to maintain the deal. The progression from scene_30 to scene_41 in the narrative order indicates that the response to the incoming call precedes the confrontation over Israel's ultimatum.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_87841e891af3",
+    "subject_id": "ep_90e5bb315b6fa2e6",
+    "object_id": "ep_98513148117a89a8",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, in which Messner reviews Sparazza's surveillance file and discovers details about his criminal past and plastic surgeries, provides background intelligence that helps explain the context of the object episode, where it is revealed that an FBI error led to Heller's exposure and Sparazza being assigned the assassination contract. The discovery in the file elaborates on the circumstances that made Sparazza a credible threat and connects to the institutional failures described in the object episode.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2acce1afb600",
+    "subject_id": "ep_b0512f8959974a07",
+    "object_id": "ep_d7d768a7a6385bf0",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_42, and the description of Mecklen relieving stress with cocaine use describes a moment of personal strain during the ongoing negotiation, which sets the emotional tone prior to the explicit warning and decision point in the subsequent episode. The narrative flow within the same scene supports a temporal ordering where stress manifestation precedes the climactic decision.",
+    "source_documents": [
+      "scene_42_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3e5d409d3363",
+    "subject_id": "ep_53312c9ccbb9b36b",
+    "object_id": "ep_9cb529c369ce076c",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Escalate violence to target McGarey' occurs in scene_16, where the Tremor Brothers launch a violent attack in the club. The object episode 'Escape and confrontation during police arrival' occurs in scene_17, involving the aftermath and escape as police arrive. The sequential scene numbering and narrative progression from attack to escape and confrontation indicate a clear temporal order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_73433ea69149",
+    "subject_id": "ep_9d2c6392a7c9bd49",
+    "object_id": "ep_49b091c7693b61c5",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Israel's ultimatum and resist deal cancellation' (scene_41) occurs immediately before 'Mecklen confronts Israel about Fed demands' (scene_42), as indicated by the sequential scene numbers in their related_events. The ultimatum is issued in scene_41, followed by Mecklen's update about federal demands in scene_42, establishing a clear narrative order.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_63216d195f69",
+    "subject_id": "ep_49b091c7693b61c5",
+    "object_id": "ep_b0512f8959974a07",
+    "relation_type": "causes",
+    "reason": "The episode 'Mecklen confronts Israel about Fed demands' describes Mecklen under visible stress due to the high-pressure negotiation, which directly precedes and triggers his use of cocaine as a physical manifestation of emotional strain in the episode 'Mecklen relieves stress with cocaine use'. The causal link is supported by the description stating the cocaine use occurs 'overwhelmed by the prolonged negotiation', grounding the cause-effect relationship.",
+    "source_documents": [
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7b15dc676867",
+    "subject_id": "ep_7a642f040b211763",
+    "object_id": "ep_9cb529c369ce076c",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes McGarey surviving the initial attack and fleeing the club, while the object episode depicts the chaotic aftermath with police arrival, McGarey crawling toward his car, and the Tremor brother's confrontation. The object episode includes events (e.g., police sirens, continued movement of injured characters) that logically follow the immediate survival in the subject episode, indicating a clear narrative sequence. The related events in the object episode (scene_17) occur after the subject's scene_16, supporting a direct temporal order.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2f1602d4f969",
+    "subject_id": "ep_210f11a95172a7a3",
+    "object_id": "ep_f42b17148eafb2d6",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Pass by the pool during a moment of normalcy' occurs while the brothers are moving through the hotel's lower floors, which is part of the broader 'Infiltrate the hotel under cover' episode. The pool scene highlights a contrast in tone but is temporally and contextually embedded within the infiltration, providing additional detail about the environment during the mission. This supports an elaborative relationship where the subject expands on the setting and atmosphere of the object episode.",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_f42a66e5a2d3",
+    "subject_id": "ep_6956d5690d5e7f5a",
+    "object_id": "ep_dbaf717d7a665964",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrive and establish presence at the meeting' describes the initial in-person encounter with Padiche, which logically precedes the subsequent phone call in 'Watters reports on Padiche meeting' where Watters updates Lorenzo about that same meeting. The related event in the second episode explicitly references discussing the meeting, indicating a temporal sequence.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bb44f89c2f9b",
+    "subject_id": "ep_2be44ad6087c6863",
+    "object_id": "ep_855f783b005020f5",
+    "relation_type": "precedes",
+    "reason": "The negotiation of payment terms (ep_2be44ad6087c6863) involves discussion of financial arrangements among the operatives, which logically precedes the tactical planning and preparation for the armed infiltration (ep_855f783b005020f5). The payment discussion sets up the team's motivation and agreement before they proceed to coordinate the operational details, indicating a clear temporal sequence supported by the goal-driven progression from compensation to execution planning.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5feb71fbfd1d",
+    "subject_id": "ep_6956d5690d5e7f5a",
+    "object_id": "ep_3690a8feaa12628f",
+    "relation_type": "precedes",
+    "reason": "The arrival and establishment of presence at the meeting (ep_6956d5690d5e7f5a) includes entering the restaurant and being greeted, which logically precedes the transition from eating to discussion (ep_3690a8feaa12628f), as the latter assumes the characters are already seated and finishing a meal. The physical act of wiping sauce off fingers in the second episode further implies that eating has occurred after arrival, supporting a temporal sequence.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4dd1e2ca09e0",
+    "subject_id": "ep_ead5792a124d7d54",
+    "object_id": "ep_dbaf717d7a665964",
+    "relation_type": "precedes",
+    "reason": "The episode 'Exchange pleasantries and deflect small talk' occurs during the meeting at the Tahoe Buffet Restaurant (scene_28), where Padiche meets with Watters and Sykes. The episode 'Watters reports on Padiche meeting' involves Watters updating Lorenzo via phone about that same meeting, which logically happens after the meeting concluded. Thus, the social and business setup in the first episode precedes the report-back episode, with clear temporal ordering supported by narrative sequence.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ed04ab680cac",
+    "subject_id": "ep_2287d66b0af2cd3d",
+    "object_id": "ep_6956d5690d5e7f5a",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Watters and Sykes monitoring communications and confirming operational security before proceeding, which logically and narratively occurs prior to the object episode where they arrive and establish presence at the meeting. The shared goal of operational preparation in the first episode directly precedes the execution of the encounter in the second, with no indication of overlap or reversal in order.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e001a4b08ebc",
+    "subject_id": "ep_2287d66b0af2cd3d",
+    "object_id": "ep_c8c8262500681d90",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Establish surveillance and confirm operational security' involves Watters and Sykes monitoring communications and confirming the environment is secure before proceeding, which sets the precondition for the object episode 'Execute final targeting and initiate infiltration sequence', where they take final positions and prepare to engage. The sequence of events in scene_49 supports a clear temporal order: surveillance and security confirmation occur before the final assault preparation, making 'precedes' the best-supported relation.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1ba5f816469a",
+    "subject_id": "ep_ead5792a124d7d54",
+    "object_id": "ep_3690a8feaa12628f",
+    "relation_type": "precedes",
+    "reason": "The exchange of pleasantries and transition to business (ep_ead5792a124d7d54) occurs at the beginning of the meeting at the Tahoe Buffet, where formalities are dropped as the group moves toward the meeting's purpose. The conclusion of the meal and shift to discussion (ep_3690a8feaa12628f) marks a later transition, where eating ends and planning begins. The wiping of sauce off fingers grounds the second episode after the meal, suggesting a chronological sequence where social opening precedes operational discussion after eating, supporting a 'precedes' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b2cafbdf1be0",
+    "subject_id": "ep_032e620d4071bcfa",
+    "object_id": "ep_b990997cd078dfd3",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Hugo answering a call from Gill and relaying the message to Israel, which occurs during the ongoing coordination after Gill's arrival. The object episode describes Dr. Gill arriving at the airport and attempting to contact Israel to confirm pickup, establishing the initial contact. The call received in the subject episode is a direct continuation of the communication initiated in the object episode, implying a temporal sequence where Dr. Gill's arrival and initial call (object) precede Hugo's response and message relay (subject). However, the subject episode's description implies the call is already in progress, suggesting the object episode's events must have occurred just before. Thus, the object episode precedes the subject episode, but due to the directed nature of 'precedes' and the subject being listed first, the correct directional assignment is reversed. Therefore, no valid directed relation can be confidently asserted in the subject->object direction. Hence, the relation is NONE based on directionality constraints.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f682eb298181",
+    "subject_id": "ep_306df7c50634da38",
+    "object_id": "ep_a90f5696b68cf97a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Confirm Israel's penthouse location' involves Carruthers receiving and relaying confirmation of Israel's location, which directly precedes the object episode 'Initiate immediate arrest operation' where Carruthers uses that intelligence to launch the operation. The related events in the object episode (e.g., 'Carruthers decides to initiate immediate action') occur after the confirmation in the subject episode, establishing a clear temporal sequence.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4f6ee75a3feb",
+    "subject_id": "ep_b82ceeee454b8688",
+    "object_id": "ep_e72070819aec126e",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves clarifying the mission objective, which logically must occur before establishing urgency and initiating immediate action. The description of the object episode includes a declaration that the operation must begin immediately, implying a sequence where mission details are first confirmed. This temporal ordering is supported by the narrative logic of operational planning and the absence of any indication that urgency was established prior to clarification of the objective.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9e3bf5669b31",
+    "subject_id": "ep_45abd51fcdd050f3",
+    "object_id": "ep_a90f5696b68cf97a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Coordinate urgent investigation updates' involves Carruthers and Messner en route to Lake Tahoe while gathering critical case information, which establishes the investigative context. The object episode 'Initiate immediate arrest operation' occurs when Carruthers receives intelligence about Israel's surrender and launches an arrest operation. The related events and narrative flow indicate that gathering urgent updates precedes the decision to initiate the arrest, with a clear temporal sequence supported by the scene numbers (scene_47 before scene_43) and the dependency of operational decisions on prior intelligence gathering.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_194ade4e9555",
+    "subject_id": "ep_49b091c7693b61c5",
+    "object_id": "ep_008a12564ff6149d",
+    "relation_type": "causes",
+    "reason": "Mecklen's confrontation with Israel about the Feds' uncompromising demands directly triggers Israel's response of resisting and setting conditions, including the tactical offer of Hugo. The description of the second episode explicitly frames Israel's actions as a reaction to Mecklen's pressure, indicating a direct causal link.",
+    "source_documents": [
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c8d7ba2b203b",
+    "subject_id": "ep_45abd51fcdd050f3",
+    "object_id": "ep_007680f70cacc607",
+    "relation_type": "precedes",
+    "reason": "The episode 'Coordinate urgent investigation updates' involves Carruthers and Messner making urgent phone calls en route to Lake Tahoe, including requesting a coroner's estimate and demanding a security response, which sets the investigative context. The episode 'Receive and react to Jack Dupree's identification' occurs immediately afterward, as they react to new information (Jack Dupree's pending ID) delivered during the same phone call sequence. The narrative flow within scene_47 supports a clear temporal ordering where coordination of updates precedes the reception and reaction to the specific identification detail.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1cd6b01e72e3",
+    "subject_id": "ep_49b091c7693b61c5",
+    "object_id": "ep_a5ea04fdd3327e22",
+    "relation_type": "precedes",
+    "reason": "Mecklen's confrontation with Israel about the Fed demands occurs while Israel is being pressured to cooperate, and immediately before Ivy overhears Israel agreeing to that cooperation. The sequence of related events in scene_42 supports a local narrative order where the confrontation precedes the moment of betrayal being overheard.",
+    "source_documents": [
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_346dc315fc5f",
+    "subject_id": "ep_3690a8feaa12628f",
+    "object_id": "ep_a3cab2e3e97d071a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Conclude meal and transition to discussion' involves Watters wiping sauce off her fingers, marking the shift from eating to discussion, while the object episode 'Initiate planning for urgent operation' begins with Sykes setting down her fork and initiating strategic talk. Both episodes occur in scene_22 and depict overlapping transitional actions from meal to planning, but Watters' physical act of cleaning up slightly precedes Sykes' explicit initiation of planning, supporting a local narrative order where concluding the meal precedes formal planning.",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_53be02fdc6f3",
+    "subject_id": "ep_632d11d3b84781eb",
+    "object_id": "ep_3ceb90a2f17ebbf5",
+    "relation_type": "causes",
+    "reason": "The chaotic brawl among the hookers, initiated in 'Ignite a chaotic brawl among the hookers', directly triggers the intervention by Ivy, Beanie, and Hugo described in 'Intervene in the escalating fight'. The description of the second episode explicitly references the ongoing brawl as the reason for their actions, providing clear causal evidence.",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_de7bd867695b",
+    "subject_id": "ep_22558d4867aabaed",
+    "object_id": "ep_60fb5c532c427534",
+    "relation_type": "elaborates",
+    "reason": "The subject episode introduces Pasquale Acosta as a dangerous mercenary, providing background that supports the object episode's assessment of his possible role in the Israel hit; the latter episode builds upon the characterization established in the first, indicating elaboration rather than mere sequence or causation.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a108750f4672",
+    "subject_id": "ep_629af1a2dfeecc4a",
+    "object_id": "ep_c7d64c3266bb678f",
+    "relation_type": "precedes",
+    "reason": "The Launch violent assault on the club episode establishes the onset of the massacre, with the Tremor Brothers initiating their attack, while the Suffer critical injuries during melee episode occurs in the height of the confrontation and marks the turning point where their momentum collapses. The sequence of events in the shared scene (scene_16) and the narrative progression from initial dominance to severe setbacks support that the assault precedes the injuries.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6f8a60a9cd8c",
+    "subject_id": "ep_60fb5c532c427534",
+    "object_id": "ep_6a5647a3bbdba12a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assess Acosta's Possible Role in the Israel Hit' involves Messner questioning Acosta's involvement, which is followed by Dupree redirecting focus to the Tremor brothers in the same federal briefing scene, indicating a narrative sequence where suspicion on Acosta precedes the shift to new suspects.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_742a9e3c9df2",
+    "subject_id": "ep_525eb439f6a1f838",
+    "object_id": "ep_98513148117a89a8",
+    "relation_type": "elaborates",
+    "reason": "The subject episode describes the FBI debriefing where Sparazza's crimes and suspicions about Heller are discussed, while the object episode provides deeper explanation by revealing that an internal FBI error led to Heller's compromised identity and Sparazza being assigned the contract to assassinate him. This additional context directly elaborates on the consequences and underlying causes mentioned in the debriefing, particularly the origin of the threat to Heller, within the same narrative occasion.",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3088ab71171e",
+    "subject_id": "ep_09635c342b91bb44",
+    "object_id": "ep_032e620d4071bcfa",
+    "relation_type": "precedes",
+    "reason": "The confrontation between Israel and Sir Ivy (ep_09635c342b91bb44) escalates the tension in the suite, and the ringing phone interrupts this conflict, prompting Hugo to answer and relay the call (ep_032e620d4071bcfa). The description explicitly states the phone 'interrupts the conflict,' indicating the confrontation occurs just before the response to the call.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0c87aa1fcbec",
+    "subject_id": "ep_306df7c50634da38",
+    "object_id": "ep_82b7d478fb3e1e91",
+    "relation_type": "precedes",
+    "reason": "The confirmation of Israel's location in the penthouse (ep_306df7c50634da38) provides critical situational awareness that logically precedes and informs the planning of the witness extraction operation (ep_82b7d478fb3e1e91), as the plan explicitly depends on knowing Israel's location and current unawareness. Both episodes occur in the same scene (scene_36) and document (doc_35), but the confirmation of location is a prerequisite for finalizing the operational plan, indicating a local narrative order where situational confirmation comes before action planning.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9414bdfc40ce",
+    "subject_id": "ep_b82ceeee454b8688",
+    "object_id": "ep_02b30f3345d125a6",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Clarify the mission objective and assess risks' provides foundational context about the mission's true objective—extracting Buddy Israel—referencing the bank telex as the source of intelligence. The episode 'Disclose Israel's location and reignite the mission' builds on this by delivering actionable location details (Lake Tahoe), thus advancing the same mission framework. The latter episode elaborates on the earlier one by supplying specific intelligence that operationalizes the clarified objective, with both episodes sharing the common narrative thread of defining and pursuing the mission to locate Israel.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_adb1a4e464a0",
+    "subject_id": "ep_a5fa7f5ca5eddc28",
+    "object_id": "ep_bde9667415c69ed5",
+    "relation_type": "causes",
+    "reason": "The description of ep_a5fa7f5ca5eddc28 states that Dupree's incompetence leads to increased scrutiny and police surveillance of the Carlotta organization, which sets the stage for law enforcement focus to escalate to high-level figures. The description of ep_bde9667415c69ed5 states that Israel's actions (contextually linked to the broader exposure from Dupree's actions) directly bring police attention to Primo Sparraza. Although the causal chain involves intermediate steps, the narrative progression from organizational exposure to targeting a key individual is supported within the same document and scene, indicating a direct causal link between the episodes.",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_72f241cfb9e2",
+    "subject_id": "ep_eb6c2a854f2df084",
+    "object_id": "ep_043ed7522b51e433",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assume the butler's identity' includes Lazlo answering the phone as Vitoli, which immediately precedes the urgent summons from Hugo Croop and Israel in the next episode. The narrative sequence shows identity assumption occurring before the response to the summons, with both episodes sharing scene_40 but ordered temporally by event flow.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0603f62788ab",
+    "subject_id": "ep_60fb5c532c427534",
+    "object_id": "ep_7970e93d862bf969",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Reveal Acosta's Background in Covert Operations' provides detailed background information about Acosta's history and capabilities, which elaborates on his potential involvement in the Israel hit as questioned in the episode 'Assess Acosta's Possible Role in the Israel Hit'. Both occur during the same federal briefing, and the background disclosure serves to expand the narrative context of Acosta as a suspect.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0f2a644410ac",
+    "subject_id": "ep_95a1ff7ab9379858",
+    "object_id": "ep_d71c4e4fed75b8d6",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Erupt in post-attack chaos and sibling violence' occurs immediately before the object episode 'End sibling brawl and redirect toward hotel mission', as Darwin interrupts the ongoing fight between Lester and Jeeves described in the first episode, marking a sequential transition in scene_38. The narrative order is explicitly supported by the related events and descriptions.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9d2d5139a8f1",
+    "subject_id": "ep_5a605859f3b46af8",
+    "object_id": "ep_043ed7522b51e433",
+    "relation_type": "precedes",
+    "reason": "The episode 'Refine facial disguise' involves Lazlo Soot adjusting his appearance in the mirror, which logically occurs before responding to the urgent phone summons from Hugo Croop, as the disguise must be stabilized prior to engaging in the impersonation under pressure. Both episodes occur in scene_40, but the act of refining the disguise is a preparatory step that precedes the external demand for immediate action.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a586b2e7ff61",
+    "subject_id": "ep_629af1a2dfeecc4a",
+    "object_id": "ep_53312c9ccbb9b36b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Launch violent assault on the club' describes the initial entry of the Tremor Brothers into the club by crashing through the front window and deploying in body kevlar, establishing the onset of violence. The episode 'Escalate violence to target McGarey' follows this, involving intensified actions like using a chainsaw and opening fire specifically against McGarey. The related events in both episodes occur in scene_16, but the assault initiation logically and narratively precedes the escalation of violence, with clear temporal ordering implied by the progression from entry to targeted attack.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_052e360e755a",
+    "subject_id": "ep_7970e93d862bf969",
+    "object_id": "ep_d6e0dc82a5984edd",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, 'Reveal Acosta's Background in Covert Operations', provides contextual background on Acosta's history and notoriety, which is then illustrated in detail by the object episode, 'Demonstrate Acosta's Torture Methods', through specific acts of brutality shown during the same briefing. The flash sequences in the object episode serve to expand and concretize the information introduced in the subject episode, indicating an elaborative relationship where the latter adds vivid detail to the former.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b86ef96ee8db",
+    "subject_id": "ep_518fa7965364997b",
+    "object_id": "ep_a90f5696b68cf97a",
+    "relation_type": "precedes",
+    "reason": "The high-speed approach to the Nomad (ep_518fa7965364997b) involves Carruthers driving toward the location while preparing tactically, which logically precedes the immediate arrest operation (ep_a90f5696b68cf97a) that includes mobilizing forces and securing access points. The arrest operation is a coordinated effort that follows the decision point in scene_43, while the high-speed drive occurs later in the scene order (scene_47), but narrative coherence and tactical sequence imply the approach follows the initiation of the operation. However, the description of the arrest operation includes planning and coordination that must occur before the physical approach, supporting a 'precedes' relation in narrative time with strong, though not explicitly stated, temporal ordering.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_66fb604c1310",
+    "subject_id": "ep_7970e93d862bf969",
+    "object_id": "ep_a11d8fa076ab5417",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, 'Reveal Acosta's Background in Covert Operations', provides foundational background on Acosta's history and notoriety, while the object episode, 'Detail Acosta's Evasion of Capture', expands on his dangerousness and resourcefulness with specific acts of evasion and violence. Both are presented during the same Feds Briefing (scene_14), and the second episode adds further detail that builds upon the initial characterization established in the first, serving to elaborate his threat profile.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_9222490745b2",
+    "subject_id": "ep_a037ace60dbe0001",
+    "object_id": "ep_054cdadef29e2fbc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Brief the team on Buddy Israel's dangers and habits' involves Rip Reed delivering operational intelligence, which sets the context for the subsequent episode where he expresses a violent wish and pays the retainer. Both episodes occur during the same occasion (scene_29), but the briefing logically precedes the emotional outburst and payment, as the narrative shifts from information transfer to personal escalation and then to formalizing the agreement.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_29_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_57153a40bf59",
+    "subject_id": "ep_855f783b005020f5",
+    "object_id": "ep_518fa7965364997b",
+    "relation_type": "precedes",
+    "reason": "The planning and preparation for armed infiltration (ep_855f783b005020f5) involves Sykes and Watters coordinating their assault strategy, including surveillance of arrivals and weapon readiness, which logically precedes Carruthers' high-speed approach to the Nomad (ep_518fa7965364997b) as part of the tactical sequence. The preparation episode sets the stage for execution, with no indication that Carruthers' movement begins before the plan is in place.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b917523e936c",
+    "subject_id": "ep_c3d3673b2947c607",
+    "object_id": "ep_043ed7522b51e433",
+    "relation_type": "precedes",
+    "reason": "The episode 'Analyze and rehearse the victim's voice' involves Lazlo preparing his impersonation by studying and practicing the dead man's vocal patterns, which logically and chronologically precedes the episode 'Respond to urgent phone summons' where he must use the impersonation under pressure from a real phone call. Both episodes occur in scene_40, but the rehearsal must come before the performance, and the description of the second episode implies the impersonation is being tested, suggesting prior preparation.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4a359a14dad1",
+    "subject_id": "ep_77b2e4f40b57f75e",
+    "object_id": "ep_95a1ff7ab9379858",
+    "relation_type": "precedes",
+    "reason": "The ambush and execution of the planning group (ep_77b2e4f40b57f75e) occurs first, as described in scene_38, and is immediately followed by the post-attack chaos and sibling violence (ep_95a1ff7ab9379858), which unfolds after the killings. The narrative sequence in the shared scene and the causal dependency of the chaos on the execution support a clear temporal order.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b0d7ac64c895",
+    "subject_id": "ep_f026356c480cfa8a",
+    "object_id": "ep_4a78081857e46987",
+    "relation_type": "precedes",
+    "reason": "The episode 'Escalate interrogation with legal threat' includes Acosta threatening the supervisor and the secure hotline ringing, which occurs just before Acosta fatally wounds the supervisor in the episode 'Assassinate security supervisor and seize access'. Both episodes occur in the same scene (scene_44) and share the occasion 'Private Security Briefing At The Nomad', with the threat and disruption by the ringing phone directly preceding the assassination as part of a continuous narrative sequence.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_97ad6ca0ae68",
+    "subject_id": "ep_bee9063b0c159ab7",
+    "object_id": "ep_4a78081857e46987",
+    "relation_type": "precedes",
+    "reason": "The private security discussion (ep_bee9063b0c159ab7) establishes the confidential setting and precedes the assassination of the security supervisor (ep_4a78081857e46987), which occurs during the same occasion (Private Security Briefing At The Nomad). The sequence of related events in the latter episode, such as Acosta presenting a fake ID and then using a concealed blade, follows the staff dismissal event in the former, confirming a clear temporal order.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3d801fe9ccc0",
+    "subject_id": "ep_0efe105199c4acc8",
+    "object_id": "ep_11191e282bf0763d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Expose covert armed operative' occurs during scene_44, where Vitoli conceals a firearm before entering a service elevator. The object episode 'Initiate covert surveillance and coordinate operational deployment' occurs in scene_49 and includes Vitoli arriving at the Penthouse level and passing through security, along with other operatives moving into position. The progression from scene_44 to scene_49 in the narrative establishes a clear temporal sequence where the exposure of Vitoli's armed role precedes the broader operational deployment involving him and others.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_49_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fe348ae96308",
+    "subject_id": "ep_8e00d60c4d8b4e55",
+    "object_id": "ep_4a78081857e46987",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront supervisor about hidden guest' involves Acosta accusing the supervisor of concealing a guest, which immediately precedes the assassination in the same scene (scene_44). The confrontation sets up the interaction where Acosta challenges the supervisor's authority, leading directly into the use of the concealed blade and the subsequent killing. The sequence of related events in the same occasion (Private Security Briefing At The Nomad) supports a clear temporal order: accusation and denial occur before the physical attack and death, making 'precedes' strongly supported.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.9
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "character": "Pauly",
+  "qas": [
+    {
+      "question": "Are you still looking for someone you lost?",
+      "supporting_facts": [
+        "Pauly did not stop searching for somebody",
+        "The search effort remains ongoing with no conclusion"
+      ],
+      "contradicting_facts": [
+        "You gave up the search long ago",
+        "You never started looking for anyone"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You're moving away—what personal item are you making sure to bring with you?",
+      "supporting_facts": [
+        "Pauly possesses cologne",
+        "Pauly is moving away"
+      ],
+      "contradicting_facts": [
+        "You left your cologne behind",
+        "You are not taking any personal grooming items with you"
+      ],
+      "final_score": 7.777777777777779
+    },
+    {
+      "question": "You were present when the electrified bath was used on Peyton—what can you confirm about your awareness of that event?",
+      "supporting_facts": [
+        "Pauly is aware of the electrified bath's use on Peyton",
+        "Pauly has knowledge of events involving Peyton and the bath"
+      ],
+      "contradicting_facts": [
+        "Pauly was unaware of the electrified bath being used on Peyton",
+        "Pauly has no knowledge of Peyton's treatment involving the bath"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You have observed certain events calmly—can you describe your behavior during that instance of observation?",
+      "supporting_facts": [
+        "Pauly sat down to watch something",
+        "Pauly remained calm during the observation"
+      ],
+      "contradicting_facts": [
+        "Pauly stood throughout the event",
+        "Pauly reacted with agitation while watching"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Did you stay in one location after entering the lab?",
+      "supporting_facts": [
+        "you did not remain in place after entering",
+        "you are present in the back of the lab"
+      ],
+      "contradicting_facts": [
+        "you stayed in the same spot since entering",
+        "you avoided moving around once inside"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

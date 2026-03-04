@@ -1,0 +1,2722 @@
+[
+  {
+    "id": "rel_ep_ep_7957f14c68e4",
+    "subject_id": "ep_c8694721b60f8999",
+    "object_id": "ep_466a829298fb9681",
+    "relation_type": "precedes",
+    "reason": "小军尝试用听诊器非破坏性开箱发生在黑皮暴力破坏密码箱之前，两者均在scene_26中按顺序描述，体现出从技术尝试到强行开启的叙事推进。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1477b743df96",
+    "subject_id": "ep_677be9d5f849ce02",
+    "object_id": "ep_f8a122f9d2875afa",
+    "relation_type": "causes",
+    "reason": "主体情节中包世宏提出立即出售翡翠的想法，直接促使厂长否决该提议并提出展览炒作计划，客体情节是对此反应的直接结果，文本明确支持这一因果链。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8579c07f3626",
+    "subject_id": "ep_a1cde8738e4b26a2",
+    "object_id": "ep_c1bb911e52e37e2f",
+    "relation_type": "elaborates",
+    "reason": "讨论保险替代方案并决定内部承担风险这一情节解释了厂长为何将翡翠保卫任务委派给包世宏，即由于未雇佣保险公司，必须依赖内部人员承担风险，从而为委派任务提供了决策背景和逻辑依据。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_728b87ab88f8",
+    "subject_id": "ep_7091cb7280cfe730",
+    "object_id": "ep_99872d6c3faf9a28",
+    "relation_type": "precedes",
+    "reason": "道哥先劝说菁菁放弃生育，随后在劝说无效后催促她去医院处理事务，两个情节发生在同一场景（scene_32）中，且叙事顺序上存在明确的先后关系。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ef70efecfc3e",
+    "subject_id": "ep_ef9b81b2a119f8d2",
+    "object_id": "ep_070939ff12494d9d",
+    "relation_type": "precedes",
+    "reason": "道哥突袭并质问正在操作电闸箱的麦克发生在麦克逃跑而道哥追赶被警笛中断之前，因为麦克在被质问后才突然起身逃跑，两个情节共享同一场景（scene_49）且事件序列显示干预先于追捕。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6db8bc6fcb45",
+    "subject_id": "ep_8daa85fdef9a52af",
+    "object_id": "ep_b97d2a4dbbe7ea05",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_22，但根据叙事逻辑，包世宏回应厂长对摄像头数量的质疑发生在先，随后厂长提醒用电安全并引发包世宏的得意行为，存在明确的时间顺序。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5f2327808794",
+    "subject_id": "ep_9ebf702bd442405d",
+    "object_id": "ep_5ce6678d5f673e96",
+    "relation_type": "precedes",
+    "reason": "道哥试图拉拢乘客合伙兑奖发生在骗局失败后团队商议去向之前，因为拉拢乘客是骗局尝试的延续，而商议去向是在该尝试明确失败后团队内部的反应，叙事顺序由相关事件的时间连贯性支持。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0ba2ab85ed51",
+    "subject_id": "ep_2a68b34e32230ca6",
+    "object_id": "ep_466a829298fb9681",
+    "relation_type": "precedes",
+    "reason": "实施调虎离山偷走麦克的行李发生在暴力破坏密码箱并发现内容之前，依据文档顺序（doc_24 在 doc_25 之前）以及事件流逻辑：先成功盗窃皮箱，随后才发生打开密码箱揭示作案工具的情节。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_379bfe99cde0",
+    "subject_id": "ep_17788e0babb7b4ab",
+    "object_id": "ep_48f3c52a648684b6",
+    "relation_type": "causes",
+    "reason": "冯董射杀小鸡的精准射术直接引发四眼的赞叹，并促使他抛出活鸡以延续射击游戏，文本明确描述了这一行为的因果链：射术展示导致惊叹，进而触发新的游戏提议。",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_01b78c51b455",
+    "subject_id": "ep_ef9b81b2a119f8d2",
+    "object_id": "ep_f3265b07f1e259dc",
+    "relation_type": "precedes",
+    "reason": "道哥突袭并质问正在操作电闸箱的麦克发生在麦克认出道哥并引发冲突升级之前。描述中显示，道哥先从背后推搡麦克并质问，随后麦克回头看见道哥并做出反应，表明时间顺序上前者紧接后者，支持precedes关系。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f004bbc77e44",
+    "subject_id": "ep_0d51c7180bf743ed",
+    "object_id": "ep_3ee4ae6187c42949",
+    "relation_type": "precedes",
+    "reason": "包世宏先通过警笛声判断可能起火，随后三人相继出门查看火情，叙事顺序明确，且相关事件均发生在同一场景（scene_42）中，支持该情节在时间上先于另一情节。",
+    "source_documents": [
+      "scene_42_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9b276e66e047",
+    "subject_id": "ep_85a5273501023569",
+    "object_id": "ep_5c777b72e9daabf4",
+    "relation_type": "precedes",
+    "reason": "根据相关事件均发生在scene_36，且'利用艺术背景建立信任并引导画册互动'涉及与女孩的持续互动，而'发现菁菁并陷入迷幻联想'导致注意力中断并离开，表明前者在叙事顺序上先于后者发生。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b232e0183597",
+    "subject_id": "ep_2a68b34e32230ca6",
+    "object_id": "ep_c8694721b60f8999",
+    "relation_type": "precedes",
+    "reason": "实施调虎离山偷走麦克的行李发生在场景25，而尝试非破坏性开启密码箱发生在场景26，文档顺序和叙事时序明确显示前者在后者之前。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f722391a9091",
+    "subject_id": "ep_466a829298fb9681",
+    "object_id": "ep_dd97342137f79bc2",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述暴力打开密码箱并发现作案工具，第二个情节在此基础上通过黑皮试穿夜行衣和道哥推断小军真实目的，进一步揭示行动动机，提供了对前一情节中发现物品的意义扩展和解释。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b7bf946776bf",
+    "subject_id": "ep_0c6061e5863ce18b",
+    "object_id": "ep_3ee4ae6187c42949",
+    "relation_type": "precedes",
+    "reason": "包世宏讲述灵异传闻发生在三人出门查看火情之前，文本中描述的顺序是先讲述传闻营造恐怖氛围，随后消防车出现，包世宏起身查看，三宝和男仙相继跟随，因此该情节在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_42_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_22663f48c413",
+    "subject_id": "ep_f3265b07f1e259dc",
+    "object_id": "ep_070939ff12494d9d",
+    "relation_type": "precedes",
+    "reason": "麦克认出道哥并引发冲突升级的情节中，麦克摸向刀具、道哥扇耳光并警告火警即将到达，直接为后续麦克逃跑而道哥追赶提供了动机和叙事衔接；且两情节均发生在同一场景（scene_49），根据描述顺序和因果连贯性，冲突升级在追捕之前发生。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c8dda5f5304a",
+    "subject_id": "ep_4c6958f30d581da9",
+    "object_id": "ep_ea5fa0f9bda2f901",
+    "relation_type": "causes",
+    "reason": "谢小盟搭讪美女的行为被莫西干头青年目睹并引发干预，直接导致其对谢小盟实施暴力殴打。描述中明确指出‘这一举动被莫西干头青年目睹，随即摘下耳机站起干预’，表明前一情节是后一情节的直接触发原因。",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_35c2b206c3a4",
+    "subject_id": "ep_cab527704ebeeaca",
+    "object_id": "ep_f729250fb067f577",
+    "relation_type": "precedes",
+    "reason": "包世宏先模仿评书演员表达不满，随后在与厂长争执后检查展厅安全状况，两个情节发生在同一场景中，且描述中存在明确的时序线索：争执后开始检查，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_14_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_43af0e7d059c",
+    "subject_id": "ep_24e58e9831d77a09",
+    "object_id": "ep_45fae9950e0611f1",
+    "relation_type": "precedes",
+    "reason": "主体情节描述包世宏和三宝发现可乐罐并责骂缆车，客体情节描述事故处理完毕后包世宏踩扁可乐罐发泄情绪、三宝流露无奈，事件顺序明确显示前者在后者之前发生。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_79190d9446c4",
+    "subject_id": "ep_5fcce0d691dc6e36",
+    "object_id": "ep_a2d50e3978474a89",
+    "relation_type": "precedes",
+    "reason": "小军介入劝说并传递物品发生在菁菁拒绝并独自离开之前，两个情节均发生在文庙入口处的集会活动中，且小军的劝说行为直接先于菁菁的拒绝和离开行为，文本中事件顺序清晰。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a0caa81e9b56",
+    "subject_id": "ep_5fcce0d691dc6e36",
+    "object_id": "ep_8e93c5e80bc0a4aa",
+    "relation_type": "precedes",
+    "reason": "小军介入劝说并传递物品发生在菁菁离开之后、道哥一行人离开之前。描述中显示，小军劝说菁菁、递纸袋等行为先发生，随后菁菁离开，道哥才转身离去，小军和黑皮跟随，道哥发表关于掌控女人的看法。因此，该情节在叙事顺序上明确早于道哥一行人离开文庙入口。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_37636cb5b366",
+    "subject_id": "ep_a1cde8738e4b26a2",
+    "object_id": "ep_b7a10ff7e7fe15d9",
+    "relation_type": "precedes",
+    "reason": "在叙事顺序中，包世宏先质疑未雇佣保险公司并了解厂长选择自担风险的决策逻辑，随后才确认报酬并接受保卫任务。两个情节均发生在同一场合（大型翡翠展览）的同一场景（scene_12）中，但逻辑和叙述流程表明，对风险承担机制的理解先于任务接受的决定，因此存在明确的先后顺序。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0c560732ff29",
+    "subject_id": "ep_e45a3834c0de5307",
+    "object_id": "ep_cacb2b2a847f1db9",
+    "relation_type": "precedes",
+    "reason": "‘发现交警并启动应对程序’描述了道哥三人发现交警并开始应对的初始反应，包括指挥搬运和主动交涉，紧随其后的是‘应对证件检查以缓解盘查压力’，其中交警开始具体核查证件并追问运营证。两个情节均发生在scene_9，且‘发现’与‘启动应对’在时间上先于‘证件检查’的展开，叙事顺序明确。",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b1178078cb66",
+    "subject_id": "ep_92818fea6efcbe9c",
+    "object_id": "ep_f729250fb067f577",
+    "relation_type": "precedes",
+    "reason": "主体情节‘争论展览选址的安全与成本问题’中，包世宏与小李子争论并由厂长调解，随后在客体情节‘包世宏检查展厅安全状况’中，包世宏在争执后开始实地检查展厅安全，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_14_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_efd44687a8c1",
+    "subject_id": "ep_7c3704e05eb70a29",
+    "object_id": "ep_411344a1fcb0766a",
+    "relation_type": "precedes",
+    "reason": "‘发现窃贼并发起追击’在叙事顺序上先于‘跳窗追击窃贼’：包世宏先发现窃贼并启动追捕，随后因无法从正门追上而选择跳窗，三宝也紧随其后。描述中的动作流程和事件顺序明确支持这一时间先后关系。",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_90501059089f",
+    "subject_id": "ep_f8a122f9d2875afa",
+    "object_id": "ep_c1bb911e52e37e2f",
+    "relation_type": "elaborates",
+    "reason": "提出展览炒作计划的情节聚焦于厂长的战略规划转变，而委派包世宏承担翡翠保卫任务则是该计划实施中的具体执行环节之一。后者为前者提供了操作层面的细节支持，说明如何在展览背景下落实安全安排，从而扩展了展览计划的实施背景。因此，委派任务的情节对展览计划情节起到了补充和扩展作用。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_0c13b386435f",
+    "subject_id": "ep_09c3ef1aec86dc30",
+    "object_id": "ep_a674d9e27499a276",
+    "relation_type": "precedes",
+    "reason": "包世宏手持试管并夹着画册走向门诊室，三宝在途中取走画册；随后包世宏从厕所取出试管检查样本，三宝观察试管。两个情节均发生在scene_3，但前往门诊室并处理画册的行为在叙事顺序上先于检查并转移试管样本，具有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_460905788093",
+    "subject_id": "ep_ac8fc1b0a3cf6e8b",
+    "object_id": "ep_0c26ed8e825e0ef6",
+    "relation_type": "causes",
+    "reason": "黑皮使用望远镜监视文庙后院并发现街边异常，锁定望远镜方向，这一行为直接引发道哥介入并推开黑皮，进而评论车内私会行为。文本明确支持该因果链：黑皮的观察行为是道哥制止和评论的直接触发点。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7b0b660de9b3",
+    "subject_id": "ep_c1bb911e52e37e2f",
+    "object_id": "ep_b7a10ff7e7fe15d9",
+    "relation_type": "precedes",
+    "reason": "厂长委派包世宏承担翡翠保卫任务在逻辑和叙事顺序上先于包世宏确认报酬并接受任务，因为委派行为是责任的赋予，而确认报酬和默认接受是对该委派的响应。两个情节均发生在同一场合（大型翡翠展览）的同一场景（scene_12），但委派是前提，接受是后续反应，因此存在明确的时间和逻辑先后顺序。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e32d8a5f1f05",
+    "subject_id": "ep_5fcce0d691dc6e36",
+    "object_id": "ep_99872d6c3faf9a28",
+    "relation_type": "precedes",
+    "reason": "小军介入劝说并传递物品发生在道哥催促菁菁去医院处理事务之前，两者均发生在文庙入口处的集会活动中（scene_32），根据事件序列，小军的行为先于道哥数钱并安排医院事务，具有清晰的叙事时序。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1cf6e673bf4b",
+    "subject_id": "ep_677be9d5f849ce02",
+    "object_id": "ep_c1bb911e52e37e2f",
+    "relation_type": "precedes",
+    "reason": "根据描述，厂长先向包世宏揭示翡翠的高价值并激发其变现想法，随后才正式委派其承担保卫任务。两个情节均发生在同一场合（大型翡翠展览），但逻辑和叙事顺序上，价值揭示与变现想法的产生应在任务委派之前，以形成动机到责任的推进。related_events 中的事件也按此顺序出现在 scene_12 中。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6c40cb987ace",
+    "subject_id": "ep_6e8a2e3ca7af3dcc",
+    "object_id": "ep_b97d2a4dbbe7ea05",
+    "relation_type": "precedes",
+    "reason": "在描述中，包世宏先向厂长解释警示牌的心理震慑作用并获得认可，随后厂长提醒用电安全，包世宏因被赞许而得意地挥舞刀具。两个情节均发生在scene_22，但逻辑和叙述顺序显示解释行为在前，提醒与情绪反应在后。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0edad0419012",
+    "subject_id": "ep_c2846cbf3473fc05",
+    "object_id": "ep_9bca8ae0df4bc7aa",
+    "relation_type": "precedes",
+    "reason": "根据描述，'引导追击方向并制造障碍'发生在包世宏追捕黑皮的过程中，黑皮推倒杂物延缓保安，随后包世宏追上并试图制服黑皮，紧接着发生反击。叙事顺序上，引导追击与制造障碍早于制服与反击，构成追捕的前期阶段，因此该关系为precedes。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9b3419d1d772",
+    "subject_id": "ep_24e58e9831d77a09",
+    "object_id": "ep_8bc4fa586a8acc46",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_5，但根据描述顺序和事件流，'发现可乐罐并追责缆车'中包世宏与缆车的互动发生在三宝与四眼冲突之前，且文本中事件序列呈现为线性发展，因此该情节在叙事顺序上先于'三宝暴打四眼被包世宏制止'。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_843f2e49619a",
+    "subject_id": "ep_24ffaa0c3b84c4d6",
+    "object_id": "ep_a9e3740361f984d1",
+    "relation_type": "precedes",
+    "reason": "道哥下令清理窗帘并撤离发生在道哥携带微波炉中的狗撤离现场之前，两者均属于老刘家的紧急搬家场合，且清理房间与搬迁执行具有时间上的先后顺序，描述中‘随后黑皮抱着窗帘离开’和‘道哥抱着微波炉下楼’表明事件按此顺序推进。",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d962b64b859c",
+    "subject_id": "ep_82ba27c8f51ae30a",
+    "object_id": "ep_22a757a867fac550",
+    "relation_type": "precedes",
+    "reason": "根据相关事件均发生在scene_11，且‘揭露工厂危机与辞职对峙’中厂长闯入车间、甩辞职信、包世宏抱怨欠薪等行为构成冲突场景的开端，而‘引入翡翠事件重燃工厂希望’中厂长出示报纸提出解决方案，逻辑上和叙事上紧随其后，作为对前述危机的回应，因此该关系在时间顺序上有明确的先后支持。",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_16715d50093b",
+    "subject_id": "ep_51edd9f57832adb9",
+    "object_id": "ep_6594bf00d5e1f94e",
+    "relation_type": "precedes",
+    "reason": "消防队抵达并核实火警（ep_51edd9f57832adb9）发生在包世宏发现异常并启动应急响应（ep_6594bf00d5e1f94e）之前，文本中描述包世宏是在消防队到场后才察觉可疑情况并响应，因此存在明确的叙事时间先后顺序。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_58048d5489e4",
+    "subject_id": "ep_cacb2b2a847f1db9",
+    "object_id": "ep_57e5822a36a52aeb",
+    "relation_type": "precedes",
+    "reason": "应对证件检查以缓解盘查压力发生在交警检查驾照和询问运营证的过程中，随后交警归还驾照并催促离开，紧接着道哥和黑皮上车逃离并决定终止非法交易。两个情节均发生在scene_9，且描述中存在明确的时序推进：先应对检查，后借机脱身。因此，'应对证件检查'在叙事顺序上直接早于'借机脱身并终止非法交易'。",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f1ed9dc4fdb6",
+    "subject_id": "ep_7146eb636ff48eca",
+    "object_id": "ep_0c5b318a3245770f",
+    "relation_type": "precedes",
+    "reason": "谢小盟入场并引发互动（ep_7146eb636ff48eca）描述了他进入展厅、与包世宏互动并走向厂长的过程，这是后续冲突事件的前提。谢小盟索要资金引发父子冲突（ep_0c5b318a3245770f）紧随其后，包含请求资金、厂长愤怒、持刀威胁等升级行为。两个情节共享同一场合（关公像展览筹备活动），且事件序列在scene_14中按时间顺序展开，前者为后者提供直接的叙事前奏。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_14_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d3049cd8029c",
+    "subject_id": "ep_a7c1076b0d914ad2",
+    "object_id": "ep_c27bd8247692248d",
+    "relation_type": "precedes",
+    "reason": "‘潜行侦察展厅内部’发生在‘黑皮与小军潜入并准备盗窃翡翠’之前，因为侦察行动旨在收集情报以支持后续的潜入和盗窃行动，且相关事件在文档中按顺序呈现，表明前者在叙事和行动逻辑上先于后者。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3126e92d834c",
+    "subject_id": "ep_cb2a4a48fb6e9074",
+    "object_id": "ep_9c135c80d3e65367",
+    "relation_type": "precedes",
+    "reason": "麦克准备潜入装备发生在前往文庙之前，为其后抵达文庙并显露伪装变化提供行动准备，叙事顺序上明确先于后者。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3f03bf141ea1",
+    "subject_id": "ep_c7d5dc13d65653bb",
+    "object_id": "ep_c27bd8247692248d",
+    "relation_type": "precedes",
+    "reason": "小军和黑皮实施翻越突入（ep_c7d5dc13d65653bb）发生在他们潜入并准备盗窃翡翠（ep_c27bd8247692248d）之前，因为翻越是进入目标区域的第一步，而潜入后窗并接近展柜是后续行动，时间顺序和事件进展在描述中明确支持。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_beb1928e5ba1",
+    "subject_id": "ep_73e16f59beef1d55",
+    "object_id": "ep_754352c3c63f30d4",
+    "relation_type": "precedes",
+    "reason": "谢小盟寻找棍子并遭厂长殴打发生在谢小盟抱头求饶并逃离家门之前，两个情节均发生在scene_18，且殴打行为在时间上先于求饶和逃跑，叙事顺序明确。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c812fb2736c6",
+    "subject_id": "ep_c28ba2acfe573478",
+    "object_id": "ep_808d59ed5c2a1b74",
+    "relation_type": "precedes",
+    "reason": "准备司机与车辆的礼仪排练发生在启动接人仪式并发出行动信号之前，因为排练是为正式仪式做准备，且描述中司机在仪式中执行了排练过的动作，表明时间顺序上的先后关系。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_28c0de63f1e8",
+    "subject_id": "ep_0ead9b72e4ddf842",
+    "object_id": "ep_2219dae89ac75e6d",
+    "relation_type": "precedes",
+    "reason": "制定并确认监控部署计划在叙事顺序上早于安装监控与警示装置，前者涉及计划的讨论与确认，后者是该计划的具体实施行动。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_736591157ed8",
+    "subject_id": "ep_3cfdcfb257b92016",
+    "object_id": "ep_bc2420c86de33769",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中谢小盟向菁菁表白并发现其遗留纸袋，第二个情节中他利用纸袋中的物品进一步表达了解和情感，提供了对前一情节情感和行为的扩展与深化，构成对先前事件的进一步阐释。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_673e30646f5c",
+    "subject_id": "ep_dbdb550497bee19c",
+    "object_id": "ep_de76569d50289438",
+    "relation_type": "precedes",
+    "reason": "展示投刀绝技以彰显实力发生在交易达成后（doc_22），而移交车钥匙并示意庆祝发生在后续场景（doc_26），文档ID顺序和事件上下文表明前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_230c01cf24be",
+    "subject_id": "ep_8598131922b116b2",
+    "object_id": "ep_dbdb550497bee19c",
+    "relation_type": "precedes",
+    "reason": "根据描述，麦克先完成理发并展示控制力，随后在交易达成后投掷剃刀展示实力，两个情节均发生在scene_23，但理发完成在前，投刀展示在后，叙事顺序明确。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eecc8654a62e",
+    "subject_id": "ep_5f4cbc25a3107a4c",
+    "object_id": "ep_371176ba2d120d53",
+    "relation_type": "precedes",
+    "reason": "四眼到场检查车辆并挑衅发生在其提出赔偿后驾车离开之前，根据事件描述的逻辑顺序和场景时序，挑衅行为先于发动车辆和驶离现场，因此该关系在叙事顺序上明确支持。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0e9c9644026d",
+    "subject_id": "ep_0ae553b9f5c84915",
+    "object_id": "ep_73ee2ac11f582301",
+    "relation_type": "precedes",
+    "reason": "黑皮发现中奖并确认奖金的情节发生在小军与道哥竞价收购中奖拉盖之前，因为只有在确认中奖后，两人才会围绕拉盖展开竞价。相关事件均发生在同一场景（scene_24），但逻辑和叙事顺序上，发现中奖是竞价行为的前提。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_93ee11a064bb",
+    "subject_id": "ep_6e6ea81fd4a05993",
+    "object_id": "ep_bc2420c86de33769",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在菁菁刚出院时，谢小盟试图通过舞步和录像唤起她的记忆；第二个情节发生在后续场景中，谢小盟进一步通过展示翡翠资料来证明他对菁菁的了解。两个情节在叙事顺序上连续，且文档ID（doc_39 vs doc_40）支持时间上的先后关系。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_896745227cfc",
+    "subject_id": "ep_2750df84f277b87e",
+    "object_id": "ep_459f1462c9a3bf0c",
+    "relation_type": "elaborates",
+    "reason": "谢小盟念出‘红颜薄命’并联想菁菁，表现出他对菁菁的情感投射；随后用翡翠照片模拟她佩戴效果，进一步视觉化这种关联。第二个情节通过具体行为扩展了第一个情节中体现的情感联想，提供了更丰富的心理和视觉细节，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_c68ff7d0ec0f",
+    "subject_id": "ep_0c5b318a3245770f",
+    "object_id": "ep_73e16f59beef1d55",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'谢小盟索要资金引发父子冲突' 发生在 scene_14，而 '谢小盟寻找棍子并遭厂长殴打' 发生在 scene_18，scene_14 在叙事顺序上早于 scene_18，因此前者在时间顺序上先于后者。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_14_part_2",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cc9f65c15381",
+    "subject_id": "ep_196d59c21c750dbc",
+    "object_id": "ep_5c777b72e9daabf4",
+    "relation_type": "precedes",
+    "reason": "根据描述，谢小盟先指导女孩优化自拍造型，随后在与女孩交谈过程中注意到菁菁并陷入迷幻联想，且相关事件表明他中断了与女孩的互动。这表明‘指导女孩优化自拍造型’在叙事顺序上早于‘发现菁菁并陷入迷幻联想’。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1c7635096fb7",
+    "subject_id": "ep_5c777b72e9daabf4",
+    "object_id": "ep_bc380376046a4fcd",
+    "relation_type": "precedes",
+    "reason": "谢小盟先注意到菁菁并产生幻觉联想，随后才主动靠近并参与跳舞互动。两个情节均发生在同一场景（scene_36），且描述中的动作顺序表明‘发现并陷入迷幻联想’在时间上早于‘追随并参与跳舞互动’，具有明确的叙事先后关系。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5a18fb4555c1",
+    "subject_id": "ep_3cfdcfb257b92016",
+    "object_id": "ep_bc380376046a4fcd",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，谢小盟在向菁菁表白并目送其离去后，才开始追随她并参与跳舞互动。例如，菁菁离开跳舞机后，谢小盟发现其遗留的纸袋，随后才用手机拍摄她并投币加入跳舞，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0f6ab2d935d4",
+    "subject_id": "ep_5c777b72e9daabf4",
+    "object_id": "ep_3cfdcfb257b92016",
+    "relation_type": "precedes",
+    "reason": "根据描述，谢小盟先注意到跳舞的菁菁并产生幻觉（ep_5c777b72e9daabf4），随后才发生向菁菁表白并目送其离去的情节（ep_3cfdcfb257b92016）。related_events 中的事件顺序也支持这一时间先后关系。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bc2b26340b59",
+    "subject_id": "ep_3cfdcfb257b92016",
+    "object_id": "ep_6e6ea81fd4a05993",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在跳舞机场景中，谢小盟向菁菁表白并目送其离去；第二个情节发生在菁菁出院后，谢小盟试图通过舞步和录像唤起她的记忆。根据描述，菁菁的离开和后续出院具有明确的时间先后顺序，因此‘向菁菁表白并目送其离去’在叙事顺序上早于‘迎接菁菁并试图唤起她的记忆’。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9a0c2b627a17",
+    "subject_id": "ep_e79bac2390ec3d41",
+    "object_id": "ep_2750df84f277b87e",
+    "relation_type": "precedes",
+    "reason": "谢小盟先整理翡翠资料并发现神秘单子（ep_e79bac2390ec3d41），随后念出单子上的‘红颜薄命’并联想到菁菁（ep_2750df84f277b87e），两个情节发生在同一场景（scene_37），但发现单子必然早于念出其内容，具有明确的叙事时序先后。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_74d2a044abe1",
+    "subject_id": "ep_2e2f415a1dded436",
+    "object_id": "ep_d59cd96cedf1e6a0",
+    "relation_type": "precedes",
+    "reason": "包世宏先取出并检查翡翠，随后因烟头掉落导致展布损坏并进行掩盖，两个情节发生在同一场景（scene_29），且处理烟头事故依赖于翡翠已放置在展柜中的状态，因此‘取出并检查翡翠’在叙事顺序上早于‘处理烟头事故并掩盖损坏’。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0372c422f28f",
+    "subject_id": "ep_a7c1076b0d914ad2",
+    "object_id": "ep_c7d5dc13d65653bb",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'潜行侦察展厅内部'（scene_48）发生在'小军和黑皮实施翻越突入'（scene_47）之后的叙述顺序中，但scene_47的事件在文档中先于scene_48被记录。然而，从行动逻辑上看，侦察行为通常发生在突入之前。结合描述中侦察活动针对的是突入前的情报收集，且突入行动依赖于前期准备，可推断侦察情节在叙事功能上紧接在突入之前，因此'潜行侦察展厅内部'在叙事顺序上应先于'实施翻越突入'。但因文档编号和scene编号显示突入事件（doc_46, scene_47）在时间线上早于侦察事件（doc_47, scene_48），存在顺序矛盾。尽管如此，从情节内容和目标连贯性判断，侦察为突入提供信息支持，更可能在叙事中后发但时间上前置，故判断为'precedes'，置信度为强但略受文档顺序干扰。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c7b35d541c1b",
+    "subject_id": "ep_411344a1fcb0766a",
+    "object_id": "ep_2fcb3589fa5a33c4",
+    "relation_type": "precedes",
+    "reason": "跳窗追击窃贼发生在展厅内，而紧急撤离展厅是在消防车警笛响起后从正门跑出，叙事上前者为追击行动，后者为疏散反应，且跳窗追击的场景编号（scene_44）早于紧急撤离的场景编号（scene_50），表明时间顺序上前者早于后者。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a53e21430a1e",
+    "subject_id": "ep_6e6ea81fd4a05993",
+    "object_id": "ep_bc380376046a4fcd",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，谢小盟在菁菁出院时迎接她并试图唤起其记忆（ep_6e6ea81fd4a05993），发生在菁菁跳舞并与其互动之前（ep_bc380376046a4fcd），且相关事件分别位于scene_40和scene_36，文档中scene编号递减可能表示时间倒叙或编辑顺序，但结合叙事逻辑，迎接出院自然先于后续跳舞互动，因此支持precedes关系。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_36_part_1",
+      "scene_36_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c96a440bb94b",
+    "subject_id": "ep_f1e4798781d4d29f",
+    "object_id": "ep_74711bc61b3c61a1",
+    "relation_type": "precedes",
+    "reason": "包世宏先尝试排尿但失败并离开，随后返回重新评估状况，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_517dd87fcc03",
+    "subject_id": "ep_2ca557e30d1c3fff",
+    "object_id": "ep_45fae9950e0611f1",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'讨论去留与工作困境'发生在事故前的场景4，而'包世宏发泄愤怒三宝流露无奈'发生在事故处理后的场景5，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4b756f965ebc",
+    "subject_id": "ep_82ba27c8f51ae30a",
+    "object_id": "ep_c1bb911e52e37e2f",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'揭露工厂危机与辞职对峙' 发生在 scene_11，而 '委派包世宏承担翡翠保卫任务' 发生在 scene_12，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cfd74bb9d2d6",
+    "subject_id": "ep_2fcb3589fa5a33c4",
+    "object_id": "ep_45fae9950e0611f1",
+    "relation_type": "precedes",
+    "reason": "根据描述，'包世宏与三宝紧急撤离展厅'发生在事故响应过程中，而'包世宏发泄愤怒三宝流露无奈'明确发生在'事故处理完毕后'，表明前者在时间顺序上早于后者，构成叙事上的先后关系。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c786ccaa5835",
+    "subject_id": "ep_22a757a867fac550",
+    "object_id": "ep_c1bb911e52e37e2f",
+    "relation_type": "precedes",
+    "reason": "‘引入翡翠事件重燃工厂希望’发生在厂长向包世宏展示报纸并讨论翡翠的潜在救厂作用时，而‘委派包世宏承担翡翠保卫任务’是在随后的正式指定中发生的，根据叙事顺序，前者在时间上先于后者，且为后者的任务委派提供了动机和背景。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_99ad58ec8e07",
+    "subject_id": "ep_2219dae89ac75e6d",
+    "object_id": "ep_8daa85fdef9a52af",
+    "relation_type": "elaborates",
+    "reason": "‘安装监控与警示装置’描述了安防布置的具体行动，而‘回应厂长对监控数量的质疑’通过展现包世宏对资源配置的争议，进一步解释了为何仅安装单个摄像头，从而为前一情节提供了背景和理由。两个情节发生在同一场景（scene_22），且后者扩展了前者的决策上下文。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_abbda90d8d24",
+    "subject_id": "ep_2219dae89ac75e6d",
+    "object_id": "ep_6e8a2e3ca7af3dcc",
+    "relation_type": "elaborates",
+    "reason": "‘解释警示牌的心理震慑作用’提供了对‘安装监控与警示装置’中所设警示牌真实意图的进一步说明，揭示其未通电且旨在制造心理威慑，从而扩展了前一情节的功能和背景。两个情节共享同一场景（scene_22）和核心人物包世宏，且后者直接解释前者行为的深层含义。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8844b6eb9386",
+    "subject_id": "ep_3ee4ae6187c42949",
+    "object_id": "ep_2fcb3589fa5a33c4",
+    "relation_type": "precedes",
+    "reason": "三人相继出门查看火情（ep_3ee4ae6187c42949）描述了包世宏、三宝和男仙陆续离开现场的有序过程，基于对消防车的判断和后续行为；而包世宏与三宝紧急撤离展厅（ep_2fcb3589fa5a33c4）则发生在警笛声中迅速跑出的紧急情境，具有更高的紧迫性。从叙事逻辑和行为升级来看，有序出门查看先于紧急撤离，且文档中场景编号（scene_42 在 scene_50 之前）支持该时间顺序。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c182e96db931",
+    "subject_id": "ep_c1bb911e52e37e2f",
+    "object_id": "ep_8daa85fdef9a52af",
+    "relation_type": "precedes",
+    "reason": "委派包世宏承担翡翠保卫任务发生在回应厂长对监控数量的质疑之前，因为任务委派（scene_12）在文档中早于质疑摄像头数量的场景（scene_22），构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fb082db2182b",
+    "subject_id": "ep_5f4cbc25a3107a4c",
+    "object_id": "ep_8bc4fa586a8acc46",
+    "relation_type": "causes",
+    "reason": "四眼的挑衅行为直接导致三宝暴力反击，包世宏随后制止，文本明确显示挑衅是打斗的即时触发因素。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_feaf56c10f3f",
+    "subject_id": "ep_5f4cbc25a3107a4c",
+    "object_id": "ep_45fae9950e0611f1",
+    "relation_type": "precedes",
+    "reason": "四眼到场检查车辆并挑衅发生在事故处理过程中，而包世宏发泄愤怒和三宝流露无奈发生在事故处理完毕后，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aa9477b699e9",
+    "subject_id": "ep_92818fea6efcbe9c",
+    "object_id": "ep_a1cde8738e4b26a2",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均涉及包世宏对展览安排的质疑和厂长的成本权衡决策，但一个聚焦选址安全与宣传成本，另一个聚焦保险缺失与内部风险承担，二者并置突显了在不同层面的安全与经济考量之间的对比。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_14_part_2",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8f5f7dd83f2c",
+    "subject_id": "ep_2a68b34e32230ca6",
+    "object_id": "ep_dd97342137f79bc2",
+    "relation_type": "precedes",
+    "reason": "实施调虎离山偷走麦克的行李发生在场景25，而识别装备并揭露真实目的发生在场景26，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d811ac7d923e",
+    "subject_id": "ep_cef612baf0075e67",
+    "object_id": "ep_a2de1cf79252a4ae",
+    "relation_type": "precedes",
+    "reason": "小军如厕后离开卫生间发生在三宝发现并清理被踩脏的马桶之前，两个情节在scene_39中按时间顺序连续发生，且三宝进入时与刚离开的小军擦身而过，表明事件的先后顺序。",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_65ff6dab9760",
+    "subject_id": "ep_24e58e9831d77a09",
+    "object_id": "ep_5f4cbc25a3107a4c",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，包世宏和三宝发现可乐罐并追责缆车发生在四眼到场检查车辆并挑衅之前，两者均发生在scene_5，但发现可乐罐的行为在叙事顺序上先于四眼的介入，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1ffed2fb9264",
+    "subject_id": "ep_6538cb75caaceba2",
+    "object_id": "ep_8e93c5e80bc0a4aa",
+    "relation_type": "precedes",
+    "reason": "道哥传授作案经验并纠正黑皮形象发生在文庙入口处的集会活动之前，根据相关场景编号scene_31在scene_32之前，表明该情节在叙事顺序上早于道哥一行人离开文庙入口。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0e2890ccc14a",
+    "subject_id": "ep_0c5b318a3245770f",
+    "object_id": "ep_f729250fb067f577",
+    "relation_type": "precedes",
+    "reason": "谢小盟索要资金引发父子冲突包含多个在展厅龙椅上发生的激烈互动，包括厂长持刀威胁和包世宏夺刀，这些事件在叙事顺序上直接早于包世宏检查展厅安全状况。冲突结束后，包世宏将大刀交还厂长并开始检查门窗，表明前者为后续安全检查的直接前置情节。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_14_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e4b6831b9f90",
+    "subject_id": "ep_a7c1076b0d914ad2",
+    "object_id": "ep_300e87c8116fec7b",
+    "relation_type": "precedes",
+    "reason": "潜行侦察展厅内部情节中，黑皮和小军首先尝试视觉侦察，随后转为倾听保安对话，这直接为监听保安对话并反应情节提供了行动前提和时间顺序。描述中显示倾听是侦察手段的转换结果，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3ae396037b13",
+    "subject_id": "ep_7932f0c2443d7d91",
+    "object_id": "ep_76aea6439540f3ae",
+    "relation_type": "precedes",
+    "reason": "处理制服发放中的问题并组织集合发生在保安队集合过程中，包世宏命令排队后，随后两名保安在拍照时扭打嬉闹，引发三宝暴力制止。因此，该情节在叙事顺序上先于应对保安队内部打闹维持纪律。两个情节共享同一场合 '保安队制服发放与集合训练 (scene_15)'，且事件序列在描述中呈现明确的时间先后。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_75ad8574a8e3",
+    "subject_id": "ep_65e40fcc53e100aa",
+    "object_id": "ep_c2846cbf3473fc05",
+    "relation_type": "precedes",
+    "reason": "主体情节'启动追击并分散行动'描述包世宏发现黑影后指示分头追击，是追捕行动的起点；客体情节'引导追击方向并制造障碍'描述追击过程中的具体对抗行为，包括包世宏引导方向和黑皮制造障碍，这些行为在叙事顺序上紧随追击启动之后。两个情节共享scene_45，且事件序列显示决策与分工先于具体的追击路径对抗，因此主体情节在话语顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3499695b21cb",
+    "subject_id": "ep_6538cb75caaceba2",
+    "object_id": "ep_12d4969d5094b583",
+    "relation_type": "precedes",
+    "reason": "道哥传授作案经验并纠正黑皮形象（ep_6538cb75caaceba2）发生在黑皮提议用锤子砸展柜并进行动作比划之前，根据叙事逻辑和行为纠正的上下文，道哥的训话为后续盗窃方案的讨论设定了行为规范，且相关事件在文档中按时间顺序排列，支持该情节在前。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_042038717256",
+    "subject_id": "ep_24ffaa0c3b84c4d6",
+    "object_id": "ep_e45a3834c0de5307",
+    "relation_type": "precedes",
+    "reason": "道哥下令清理窗帘并撤离（scene_8）发生在发现交警并启动应对程序（scene_9）之前，根据相关场景编号的顺序，且黑皮在第一个情节中开始搬运窗帘，在第二个情节中完成将其搬上车厢的动作，表明时间上的先后顺序。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_26b150593055",
+    "subject_id": "ep_04090d8585a3ffa3",
+    "object_id": "ep_ef9b81b2a119f8d2",
+    "relation_type": "precedes",
+    "reason": "道哥下车并发现可疑黑影发生在其突袭并质问麦克之前，根据描述中的行动顺序：先潜行观察并发现黑影，随后才接近并干预麦克的操作行为，构成明确的叙事时间先后关系。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d2987ef3029c",
+    "subject_id": "ep_04090d8585a3ffa3",
+    "object_id": "ep_f3265b07f1e259dc",
+    "relation_type": "precedes",
+    "reason": "道哥下车并发现可疑黑影发生在麦克认出道哥并引发冲突升级之前，两个情节均发生在scene_49，且逻辑上发现黑影后才可能进一步识别并触发冲突，叙事顺序支持该时序关系。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1db1d0d8cbca",
+    "subject_id": "ep_e45a3834c0de5307",
+    "object_id": "ep_860218933ba04300",
+    "relation_type": "precedes",
+    "reason": "‘发现交警并启动应对程序’发生在‘黑皮准备暴力抗法被意外打断’之前，因为道哥团队发现交警后立即启动应对流程，包括黑皮搬窗帘，随后黑皮才在交警持续施压下取出榔头准备攻击，二者均发生在scene_9，但应对程序启动在先，暴力抗法准备在后。",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_66d866c05ec4",
+    "subject_id": "ep_73ee2ac11f582301",
+    "object_id": "ep_9ebf702bd442405d",
+    "relation_type": "precedes",
+    "reason": "小军与道哥竞价收购中奖拉盖发生在道哥试图拉拢乘客合伙兑奖之前，根据描述，道哥是在竞价失败后才转向联合他人兑奖，叙事顺序明确。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f2c4dfd2a222",
+    "subject_id": "ep_e45a3834c0de5307",
+    "object_id": "ep_57e5822a36a52aeb",
+    "relation_type": "precedes",
+    "reason": "‘发现交警并启动应对程序’发生在‘借机脱身并终止非法交易’之前，因为道哥三人先发现交警并进行交涉，随后在交警离开后立即上车逃离并决定终止交易，叙事顺序明确。",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5010e77c579a",
+    "subject_id": "ep_0c6061e5863ce18b",
+    "object_id": "ep_d8d47df54662a7fa",
+    "relation_type": "causes",
+    "reason": "包世宏讲述灵异传闻直接导致男仙产生恐惧反应，包括抱住三宝的胳膊和后续惊叫，文本明确将鬼故事作为恐惧反应的触发原因。",
+    "source_documents": [
+      "scene_42_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c168ea4e0487",
+    "subject_id": "ep_4cbc2ed26aa3e736",
+    "object_id": "ep_a9e3740361f984d1",
+    "relation_type": "precedes",
+    "reason": "道哥先控制并处置受伤的狗（将其塞进微波炉），随后携带装有狗的微波炉下楼撤离，两个情节在同一个场合'老刘家的紧急搬家'中连续发生，且动作顺序明确：处置在前，携带撤离在后。",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6c19be8cb14a",
+    "subject_id": "ep_7091cb7280cfe730",
+    "object_id": "ep_8e93c5e80bc0a4aa",
+    "relation_type": "precedes",
+    "reason": "道哥劝说菁菁放弃生育发生在菁菁离开之后、道哥一行人离开文庙入口之前。根据描述，劝说行为在先，菁菁离开后道哥才转身离去，叙事顺序明确，因此主体情节在时间上早于客体情节。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4d409d06ccec",
+    "subject_id": "ep_1b75afe411e90358",
+    "object_id": "ep_97125023e879b108",
+    "relation_type": "precedes",
+    "reason": "包世宏表达情绪并决然离开发生在小娟关心其健康的场景之前，根据描述，包世宏先离开店铺，随后小娟追至门口提醒他喝中药，表明两个情节在叙事顺序上具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a4144b2542e8",
+    "subject_id": "ep_7091cb7280cfe730",
+    "object_id": "ep_a2d50e3978474a89",
+    "relation_type": "precedes",
+    "reason": "道哥劝说菁菁放弃生育发生在菁菁拒绝并独自离开之前，两个情节共享同一场合（文庙入口处的集会活动），且事件序列显示劝说行为先于菁菁的反抗和离开行为，文本中事件顺序明确。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bfd92806432a",
+    "subject_id": "ep_99872d6c3faf9a28",
+    "object_id": "ep_a2d50e3978474a89",
+    "relation_type": "precedes",
+    "reason": "道哥催促菁菁去医院处理事务发生在菁菁拒绝并独自离开之前，两个情节共享同一场景（文庙入口处的集会活动），且事件序列显示道哥交付钱和单子后，菁菁才将其揉成团并离开，叙事顺序明确。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cb31e70d087a",
+    "subject_id": "ep_17788e0babb7b4ab",
+    "object_id": "ep_67c7b7c23150142b",
+    "relation_type": "precedes",
+    "reason": "冯董发现并射杀树丛中的小鸡发生在四眼将活鸡抛向天空之前，根据描述，后者是延续此前的射击行为模式，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_81231cff4cc6",
+    "subject_id": "ep_48f3c52a648684b6",
+    "object_id": "ep_67c7b7c23150142b",
+    "relation_type": "precedes",
+    "reason": "四眼抛出活鸡以发起射击游戏的行为在时间上先于冯董抬弩瞄准飞鸡的行动，文本描述中‘随后’和‘立即’表明了明确的先后顺序。",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ab465d8ca1c2",
+    "subject_id": "ep_67c7b7c23150142b",
+    "object_id": "ep_7c422104de7eda6e",
+    "relation_type": "precedes",
+    "reason": "根据描述，冯董在射杀飞鸡后才提出关于石头消失的设想，因此‘冯董准备射击飞鸡完成射击循环’在叙事顺序上早于‘提出消除石头以扭转局势的设想’。",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4313cff1b8a7",
+    "subject_id": "ep_17788e0babb7b4ab",
+    "object_id": "ep_7c422104de7eda6e",
+    "relation_type": "precedes",
+    "reason": "冯董射杀树丛中的小鸡后，紧接着提出关于移除石头的设想，两个情节发生在同一场景（scene_20），且描述中明确显示动作顺序：先射杀小鸡，随后发言提出假设，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_996af8ce87b4",
+    "subject_id": "ep_775932f00764e6b2",
+    "object_id": "ep_7c422104de7eda6e",
+    "relation_type": "elaborates",
+    "reason": "四眼质疑冯董动机并担忧计划败露描述了团伙内部的信任危机和对计划失败的担忧，而冯董提出消除石头以扭转局势的设想则进一步扩展了如何应对该危机的具体策略，提供了对原有困境的潜在解决方案，因此后者在叙事上扩展并深化了前者提出的问题。",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_9a01ee983e4d",
+    "subject_id": "ep_a2d50e3978474a89",
+    "object_id": "ep_8e93c5e80bc0a4aa",
+    "relation_type": "precedes",
+    "reason": "菁菁拒绝并独自离开发生在道哥一行人离开文庙入口之前，两者均发生在scene_32，且逻辑上菁菁的离开触发了道哥转身离去的行为，文本中描述顺序为菁菁离开后道哥才转身离去，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1543eff6b046",
+    "subject_id": "ep_860218933ba04300",
+    "object_id": "ep_cacb2b2a847f1db9",
+    "relation_type": "precedes",
+    "reason": "根据描述，'应对证件检查以缓解盘查压力' 发生在交警持续施压的语境中，包含核对驾照和追问运营证等行为，构成盘查的初始阶段；而 '黑皮准备暴力抗法被意外打断' 描述的是在施压升级背景下黑皮取出榔头意图攻击但被外部事件中断，表明该情节紧随前者发展并在时间上后续。两个情节共享同一场景（scene_9）和文档（doc_8），且暴力抗法的准备是对前期盘查压力的响应，因此存在清晰的叙事先后顺序。",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_60fb4423a37e",
+    "subject_id": "ep_d49b47c8ddc4e8bf",
+    "object_id": "ep_0c5b318a3245770f",
+    "relation_type": "precedes",
+    "reason": "谢小盟下车并前往文庙（scene_13）发生在谢小盟索要资金引发父子冲突（scene_14）之前，根据场景编号的顺序可明确叙事时间先后。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_14_part_2",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_674b03b93b0e",
+    "subject_id": "ep_d49b47c8ddc4e8bf",
+    "object_id": "ep_7146eb636ff48eca",
+    "relation_type": "precedes",
+    "reason": "谢小盟下车并前往文庙（scene_13）发生在谢小盟入场并引发互动（scene_14）之前，根据文档场景编号的顺序，scene_13在scene_14之前，表明该情节在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_14_part_2",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_87a2300f495b",
+    "subject_id": "ep_382199934450df7c",
+    "object_id": "ep_73e16f59beef1d55",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'炫耀派对生活并讨论浪漫哲学'发生在scene_17，而'谢小盟寻找棍子并遭厂长殴打'发生在scene_18，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a2e2918907f2",
+    "subject_id": "ep_92818fea6efcbe9c",
+    "object_id": "ep_c1bb911e52e37e2f",
+    "relation_type": "precedes",
+    "reason": "争论展览选址的安全与成本问题发生在厂长调解并提议组建保安队的场景（scene_14），而委派包世宏承担翡翠保卫任务发生在更早的场景（scene_12）。根据相关场景的时间顺序，主体情节在叙事顺序上晚于客体情节，因此客体情节在时间上先于主体情节，支持'precedes'关系（object -> subject），但因关系方向为directed且需符合subject -> object方向，此处不成立；然而，若以叙事发展看，任务委派在前，选址争论在后，故主体应晚于客体，即客体precedes主体。因此，subject（ep_92818fea6efcbe9c）在时间上晚于object（ep_c1bb911e52e37e2f），故relation_type为precedes（object -> subject）不满足方向要求，不能反向推断。但根据允许模式，precedes可依叙事顺序判断方向。此处主体情节发生在scene_14，客体在scene_12，故客体早于主体，因此主体不precedes客体，而是被precedes。由于关系方向必须为subject -> object，而实际顺序是object -> subject，故不能选precedes。重新评估：无其他明确因果、对比或扩展关系。related_events和occasions无重叠，无因果动词或对比结构。因此，尽管存在时间顺序，但方向与precedes要求相反，不能合法使用。最终，无充分支持任何允许关系。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_14_part_2",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f453019b8340",
+    "subject_id": "ep_382199934450df7c",
+    "object_id": "ep_c28ba2acfe573478",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节中谢小盟炫耀享乐主义派对生活并讨论浪漫哲学，体现出张扬、戏谑的态度；第二个情节中他却专注于严谨、仪式化的司机礼仪排练，体现出控制与规范的严肃性。两者在基调和行为模式上形成鲜明对比，一个强调放纵与表达，另一个强调秩序与控制，文本通过这两个情节并置突显其性格或情境的反差。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_a09624577752",
+    "subject_id": "ep_382199934450df7c",
+    "object_id": "ep_6e6ea81fd4a05993",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节中谢小盟炫耀享乐主义生活并讨论浪漫哲学，表现出张扬戏谑的态度；第二个情节中他手持鲜花试图真诚唤起菁菁的记忆，表现出努力重建信任的认真与脆弱。两者在基调和行为态度上形成明显对比：前者是虚浮的表演，后者是情感的恳求，文本通过这两个情节并置凸显其性格或处境的反差。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_02adc952c925",
+    "subject_id": "ep_382199934450df7c",
+    "object_id": "ep_bc380376046a4fcd",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节中谢小盟炫耀派对生活并讨论浪漫哲学，表现出戏谑张扬的态度；而第二个情节中他追随菁菁并参与跳舞互动，表现出情感投入和笨拙的亲近尝试。两者在行为基调和情感状态上形成对比：前者是虚张声势的享乐主义，后者是真实而脆弱的情感表达。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_36_part_1",
+      "scene_36_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_215656c7abe2",
+    "subject_id": "ep_382199934450df7c",
+    "object_id": "ep_3cfdcfb257b92016",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节中谢小盟炫耀享乐主义生活并讨论浪漫哲学，表现出戏谑张扬的态度；而第二个情节中他向菁菁表白并目送其离开，表现出真挚、呆滞和情感脆弱。两者在情感基调和行为态度上形成明显对比：前者是虚张声势的浪漫解构，后者是真实情感的流露，构成叙事上的对比关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_36_part_1",
+      "scene_36_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ff370ebb6228",
+    "subject_id": "ep_c311265088045e7a",
+    "object_id": "ep_73e16f59beef1d55",
+    "relation_type": "precedes",
+    "reason": "谢小盟在洗手间洗澡并遗留医疗用品（ep_c311265088045e7a）发生在其从洗澡间出来后寻找棍子并遭厂长殴打（ep_73e16f59beef1d55）之前，根据描述中的行为顺序和场景编号（scene_16 在 scene_18 之前），可明确判断时间上的先后关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_28e2dcd595e4",
+    "subject_id": "ep_808d59ed5c2a1b74",
+    "object_id": "ep_bc2420c86de33769",
+    "relation_type": "precedes",
+    "reason": "根据描述，'启动接人仪式并发出行动信号'发生在场景40，而'谢小盟向菁菁示好并展示了解'发生在场景41，表明前者在叙事顺序上紧接在后者之前。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_026bf0027b72",
+    "subject_id": "ep_459f1462c9a3bf0c",
+    "object_id": "ep_bc2420c86de33769",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中谢小盟模拟翡翠佩戴效果，体现其对菁菁的暗中关注；第二个情节中他通过展示翡翠资料向菁菁示好，进一步揭示其了解与情感。前者为后者提供了行为动机和情感铺垫，作为背景细节扩展了后者的情节内涵。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_9c20700184d2",
+    "subject_id": "ep_e79bac2390ec3d41",
+    "object_id": "ep_bc2420c86de33769",
+    "relation_type": "elaborates",
+    "reason": "情节'整理翡翠资料并发现神秘单子'中谢小盟从纸袋中取出翡翠资料并发现单据，为情节'谢小盟向菁菁示好并展示了解'中他展示纸袋中的翡翠资料和单据以证明对菁菁的了解提供了背景和细节支持，表明前者为后者的行为准备了关键证据，构成信息上的扩展。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a30413053c7d",
+    "subject_id": "ep_5fb24ef2be423ca7",
+    "object_id": "ep_bc2420c86de33769",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'劝说菁菁接受安全护送'（scene_40）发生在'谢小盟向菁菁示好并展示了解'（scene_41）之前，scene_40在文档中先于scene_41出现，且劝说行为在逻辑上早于示好与表白的展开。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_993ca7508a27",
+    "subject_id": "ep_0c5b318a3245770f",
+    "object_id": "ep_754352c3c63f30d4",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在展厅内，围绕谢小盟索要资金引发的冲突，相关场景标注为scene_14；客体情节描述谢小盟被殴打后逃离家门，相关场景标注为scene_18。scene_14在叙事顺序上早于scene_18，因此主体情节在话语顺序上先于客体情节，支持'precedes'关系。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_14_part_2",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cdc8e3eac0d0",
+    "subject_id": "ep_3cfdcfb257b92016",
+    "object_id": "ep_e79bac2390ec3d41",
+    "relation_type": "precedes",
+    "reason": "谢小盟在‘向菁菁表白并目送其离去’情节中获得纸袋，随后在‘整理翡翠资料并发现神秘单子’中使用该纸袋中的内容，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_caa523711174",
+    "subject_id": "ep_5c777b72e9daabf4",
+    "object_id": "ep_2750df84f277b87e",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和场景编号，'发现菁菁并陷入迷幻联想'（scene_36）发生在'念出单子上的‘红颜薄命’并联想菁菁'（scene_37）之前，因此该情节在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1",
+      "scene_36_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_56bde627434e",
+    "subject_id": "ep_2750df84f277b87e",
+    "object_id": "ep_bc380376046a4fcd",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，谢小盟先在电脑上查看菁菁的热舞照片并念出‘红颜薄命’，随后在跳舞机场景中主动追随菁菁并参与跳舞互动，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1",
+      "scene_36_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c8991ef1b4f5",
+    "subject_id": "ep_3cfdcfb257b92016",
+    "object_id": "ep_2750df84f277b87e",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件上下文，谢小盟向菁菁表白并目送其离去（doc_35）发生在念出单子上的‘红颜薄命’并联想菁菁（doc_36）之前，且两个情节均围绕谢小盟对菁菁的情感反应展开，具有明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1",
+      "scene_36_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f0b90d950c99",
+    "subject_id": "ep_3cfdcfb257b92016",
+    "object_id": "ep_459f1462c9a3bf0c",
+    "relation_type": "elaborates",
+    "reason": "向菁菁表白并目送其离去展现了谢小盟对菁菁的初始情感表达，而用翡翠照片模拟菁菁佩戴效果则进一步展示他将情感投射到翡翠这一象征物上，通过视觉关联深化了他对菁菁的迷恋。后者为前者的心理状态提供了延伸性解释，构成情节上的扩展。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_65f050bd1246",
+    "subject_id": "ep_5c777b72e9daabf4",
+    "object_id": "ep_5fb24ef2be423ca7",
+    "relation_type": "precedes",
+    "reason": "谢小盟先注意到菁菁并产生幻觉联想，随后才持续跟随并劝说她接受安全护送，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2daf62b154f6",
+    "subject_id": "ep_5fb24ef2be423ca7",
+    "object_id": "ep_808d59ed5c2a1b74",
+    "relation_type": "precedes",
+    "reason": "劝说菁菁接受安全护送发生在启动接人仪式并发出行动信号之前，因为谢小盟先通过言语劝说建立保护意图，随后才通过打响指触发司机执行接人仪式，两者在scene_40中按顺序发生，且劝说为后续仪式的启动提供了前提。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_275bd74e5797",
+    "subject_id": "ep_5c777b72e9daabf4",
+    "object_id": "ep_808d59ed5c2a1b74",
+    "relation_type": "precedes",
+    "reason": "谢小盟先注意到菁菁并陷入幻觉联想，随后才通过打响指启动接人仪式。根据描述，发现菁菁是触发后续仪式动作的起点，且两个情节分别发生在 scene_36 和 scene_40，表明存在明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_07f8d61614eb",
+    "subject_id": "ep_6e6ea81fd4a05993",
+    "object_id": "ep_808d59ed5c2a1b74",
+    "relation_type": "precedes",
+    "reason": "根据描述，谢小盟先试图通过模仿舞步和播放录像来唤起菁菁的记忆，随后才通过打响指启动接人仪式。两个情节均发生在scene_40，但迎接并试图唤起记忆的行为在叙事顺序上早于启动接人仪式的信号，因此主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a732bf98e5e7",
+    "subject_id": "ep_6e6ea81fd4a05993",
+    "object_id": "ep_5fb24ef2be423ca7",
+    "relation_type": "precedes",
+    "reason": "根据描述，谢小盟先迎接刚出院的菁菁并试图唤起她的记忆（ep_6e6ea81fd4a05993），随后继续跟随她并劝说她接受安全护送（ep_5fb24ef2be423ca7），两个情节发生在同一场景（scene_40），但迎接和唤起记忆的行为逻辑上早于持续劝说和护送的尝试，因此在叙事顺序上前者先于后者。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a5c7908f07c7",
+    "subject_id": "ep_cb2a4a48fb6e9074",
+    "object_id": "ep_6b63eec338b37444",
+    "relation_type": "precedes",
+    "reason": "麦克准备潜入装备发生在进入汽车并启动监控之前，逻辑上和叙事上均为前期准备步骤。描述中显示麦克在前往任务地点前检查装备，而启动监控是进入车辆后的操作，因此存在明确的时间顺序。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b46fd942ea23",
+    "subject_id": "ep_3cfdcfb257b92016",
+    "object_id": "ep_5fb24ef2be423ca7",
+    "relation_type": "precedes",
+    "reason": "谢小盟在跳舞过程中向菁菁表白并目送其离去（ep_3cfdcfb257b92016）发生在菁菁离开跳舞机之后，紧接着他开始持续跟随并劝说菁菁接受安全护送（ep_5fb24ef2be423ca7），叙事顺序明确，且文档ID（doc_35 vs doc_39）支持时间上的先后关系。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5216b8e88f13",
+    "subject_id": "ep_f2b29362dc5f590f",
+    "object_id": "ep_6b63eec338b37444",
+    "relation_type": "precedes",
+    "reason": "麦克秘密安装监控探头（在参观时粘贴探头）发生在启动监控并监视展厅之前，因为物理安装探头是后续远程监控的技术前提，且叙事逻辑上必须先部署设备才能启动系统。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5cc7d4031a89",
+    "subject_id": "ep_cb2a4a48fb6e9074",
+    "object_id": "ep_f866f5aee9ca3eeb",
+    "relation_type": "precedes",
+    "reason": "麦克准备潜入装备发生在前往文庙前，而隐蔽接近展厅是其后续行动，叙事顺序上明确前者早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dd8fc20c21ab",
+    "subject_id": "ep_f4813535a7484222",
+    "object_id": "ep_6b63eec338b37444",
+    "relation_type": "precedes",
+    "reason": "麦克侦察展厅安防设施（如检查小便感应器和拍摄展台照片）发生在启动监控之前，因为评估安防弱点是制定监视计划的前提，且文档时序（doc_32在doc_34之前）支持该顺序。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a41c617b2c82",
+    "subject_id": "ep_6b63eec338b37444",
+    "object_id": "ep_4bd8ab5a7c317ac2",
+    "relation_type": "precedes",
+    "reason": "麦克启动监控并监视展厅发生在车内准备并执行潜入行动之前，根据事件顺序，他先连接线路并启动监控系统（scene_35），随后在后续场景（scene_46）中查看设备照片、穿戴夜行衣并离开车辆。因此，启动监控是潜入行动准备的前置步骤，具有明确的叙事时间先后关系。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dead1416684e",
+    "subject_id": "ep_cb2a4a48fb6e9074",
+    "object_id": "ep_f4813535a7484222",
+    "relation_type": "precedes",
+    "reason": "麦克准备潜入装备发生在前往文庙之前，而侦察展厅安防设施是在展厅内进行的行动，逻辑上和叙事上均紧随其后，表明前者在时间顺序上直接早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3c7c75514393",
+    "subject_id": "ep_cb2a4a48fb6e9074",
+    "object_id": "ep_4bd8ab5a7c317ac2",
+    "relation_type": "precedes",
+    "reason": "麦克准备潜入装备发生在前往文庙前，而准备并执行潜入行动涉及进入行动区域的具体步骤，包括穿戴夜行衣和离开车辆。两个情节共享相似的装备和目标，且准备装备在时间顺序上明显早于执行潜入行动，构成直接的叙事前序。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e8f7bcb87fd0",
+    "subject_id": "ep_4bd8ab5a7c317ac2",
+    "object_id": "ep_f866f5aee9ca3eeb",
+    "relation_type": "precedes",
+    "reason": "主体情节'准备并执行潜入行动'描述麦克在车内准备并离开车辆，客体情节'麦克隐蔽接近展厅'描述其后续在展厅外的移动。根据事件顺序，离开车辆后自然进入隐蔽接近阶段，且两情节分别关联scene_46和scene_47，表明叙事上的先后顺序。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_038f88431bd4",
+    "subject_id": "ep_cb2a4a48fb6e9074",
+    "object_id": "ep_dbdb550497bee19c",
+    "relation_type": "precedes",
+    "reason": "麦克准备潜入装备发生在交易完成前，而展示投刀绝技是在交易达成后立即进行的行为。根据描述，准备装备是前往文庙前的步骤，而投刀展示是交易达成后的动作，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_af1aae90b85b",
+    "subject_id": "ep_9c135c80d3e65367",
+    "object_id": "ep_f866f5aee9ca3eeb",
+    "relation_type": "precedes",
+    "reason": "麦克在抵达文庙并完成伪装变化后，才开始隐蔽接近展厅的行动。描述中‘站在文庙前’标志状态转变完成，随后‘利用展厅后墙’行动表明进入下一阶段，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c938801e9fe0",
+    "subject_id": "ep_4bd8ab5a7c317ac2",
+    "object_id": "ep_9c135c80d3e65367",
+    "relation_type": "precedes",
+    "reason": "主体情节描述麦克在车内准备并执行潜入行动，包括查看设备照片、穿戴夜行衣并离开车辆；客体情节描述麦克抵达文庙并显露胡须，标志身份转变完成。根据叙事顺序，准备与离开车辆的行为逻辑上早于抵达文庙并显露伪装变化，且两者均属于任务执行的不同阶段，存在明确的时间先后关系。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_079f0354ad59",
+    "subject_id": "ep_cb2a4a48fb6e9074",
+    "object_id": "ep_f2b29362dc5f590f",
+    "relation_type": "precedes",
+    "reason": "麦克准备潜入装备发生在前往文庙之前，而秘密安装监控探头是在参观文庙期间执行的具体行动。根据叙事顺序，准备装备的情节在时间上先于安装探头的情节，且前者为后者提供行动前提，但文本未明确说明因果触发关系，因此最准确的关系是'precedes'。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_48bf267d7855",
+    "subject_id": "ep_df15a78b066d3343",
+    "object_id": "ep_195c7ed213da296f",
+    "relation_type": "precedes",
+    "reason": "根据描述，四眼实施涂鸦威胁发生在涂写完成后遭遇车祸之前，因此‘四眼实施涂鸦威胁’在叙事顺序上早于‘应对突发车祸并发现异常’。",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f213b2726215",
+    "subject_id": "ep_9c135c80d3e65367",
+    "object_id": "ep_a0074f88c3615e06",
+    "relation_type": "precedes",
+    "reason": "麦克抵达文庙显露伪装变化发生在文庙入口处的集会活动之前，且其后紧接着在售票窗口的互动。根据叙事顺序，身份转变和到达场景为后续购票事件提供了前提，且相关事件（scene_28 和 scene_32）在文档序列中按时间先后排列，支持该顺序。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_654aa23a0b70",
+    "subject_id": "ep_f866f5aee9ca3eeb",
+    "object_id": "ep_f4813535a7484222",
+    "relation_type": "precedes",
+    "reason": "麦克隐蔽接近展厅（ep_f866f5aee9ca3eeb）在叙事逻辑上应发生在他开始侦察展厅安防设施（ep_f4813535a7484222）之前，因为接近是侦察的前提动作。描述中‘隐蔽接敌行动’暗示了进入位置以执行后续侦察，支持该时间顺序。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4524a1d9c897",
+    "subject_id": "ep_609c2f39c12a8ad7",
+    "object_id": "ep_df15a78b066d3343",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对地产转让交涉'发生在文档5的scene_6，客体情节'四眼实施涂鸦威胁'发生在文档6的scene_7，scene_6在叙事顺序上早于scene_7，因此主体情节在话语顺序上先于客体情节。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e768330da914",
+    "subject_id": "ep_195c7ed213da296f",
+    "object_id": "ep_371176ba2d120d53",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，'应对突发车祸并发现异常'发生在事故现场的初始阶段，四眼发现面包车无人驾驶；而'四眼提出赔偿后驾车离开'包含驾车驶离的动作，逻辑上必须在发现异常之后发生。因此，前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_65c151af0595",
+    "subject_id": "ep_5f4cbc25a3107a4c",
+    "object_id": "ep_181672d5acb8aa18",
+    "relation_type": "precedes",
+    "reason": "四眼到场检查车辆并挑衅（ep_5f4cbc25a3107a4c）发生在冯董焚烧包世宏驾驶照（ep_181672d5acb8aa18）之前，因为挑衅行为引发后续报复行动，且事件序列在文档中按时间顺序呈现。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c069d1f2c6d4",
+    "subject_id": "ep_b7a10ff7e7fe15d9",
+    "object_id": "ep_0ead9b72e4ddf842",
+    "relation_type": "precedes",
+    "reason": "确认报酬并接受保卫任务发生在制定并确认监控部署计划之前，因为包世宏必须先接受任务，才能后续制定具体的监控部署方案。相关事件的时间顺序和叙事逻辑支持这一先后关系。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_700aa4e7f8d1",
+    "subject_id": "ep_371176ba2d120d53",
+    "object_id": "ep_609c2f39c12a8ad7",
+    "relation_type": "precedes",
+    "reason": "四眼在提出赔偿后驾车离开事故现场（ep_371176ba2d120d53），随后乘奔驰抵达工厂进行地产转让交涉（ep_609c2f39c12a8ad7），两个情节通过同一角色的连续行动和车辆移动形成明确的叙事时序，前者在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a0c8ad03072e",
+    "subject_id": "ep_c1bb911e52e37e2f",
+    "object_id": "ep_0ead9b72e4ddf842",
+    "relation_type": "precedes",
+    "reason": "委派包世宏承担翡翠保卫任务发生在制定并确认监控部署计划之前，因为包世宏必须先被赋予保卫职责，才能基于该职责制定具体的监控部署计划。文本中厂长的委派确立了包世宏的核心角色，是后续监控计划制定的前提。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cf03ca334727",
+    "subject_id": "ep_5d49a836686f0dad",
+    "object_id": "ep_a674d9e27499a276",
+    "relation_type": "precedes",
+    "reason": "主体情节‘处理包世宏的就诊与隐私尴尬’发生在诊室场景中，包含获取取样画册的事件；客体情节‘检查并转移试管样本’发生在厕所场景中，涉及样本的取出与检查。根据叙事顺序，就诊并被要求取样在前，随后才是样本的采集与检查，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4cc3809777d8",
+    "subject_id": "ep_22a757a867fac550",
+    "object_id": "ep_2e2f415a1dded436",
+    "relation_type": "precedes",
+    "reason": "‘引入翡翠事件重燃工厂希望’发生在包世宏看到报纸并得知翡翠可能拯救工厂时，逻辑上早于‘取出并检查翡翠’这一后续行动，后者涉及实际接触翡翠。叙事顺序上，先有希望被提出，后有对翡翠的实物检查，因此主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_086f0ea1c599",
+    "subject_id": "ep_c1bb911e52e37e2f",
+    "object_id": "ep_2e2f415a1dded436",
+    "relation_type": "precedes",
+    "reason": "委派包世宏承担翡翠保卫任务在叙事顺序上早于他从密码箱中取出翡翠进行检查。厂长赋予包世宏保卫责任是后续检查行为的前提，且任务委派为检查行动提供了角色和动机基础，文本支持这一时序逻辑。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e9fdbbfb96dc",
+    "subject_id": "ep_3b1a43f807f6f532",
+    "object_id": "ep_2e2f415a1dded436",
+    "relation_type": "elaborates",
+    "reason": "情节'关注翡翠新闻并质疑来源'中，包世宏和三宝通过收音机得知翡翠出现在本市工艺品厂，引发他们对翡翠来源的讨论和怀疑，这为后续'取出并检查翡翠'提供了背景动机和情境铺垫。该对话反映了他们对翡翠真实性的初步质疑，从而扩展和深化了对后续检查行为的理解，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b1378799cff1",
+    "subject_id": "ep_d59cd96cedf1e6a0",
+    "object_id": "ep_2fcb3589fa5a33c4",
+    "relation_type": "precedes",
+    "reason": "处理烟头事故并掩盖损坏发生在展厅紧急撤离之前，因为烟头事故是布展过程中的早期事件（scene_29），而紧急撤离发生在后续场景（scene_50），在叙事顺序上具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9d2da254f25e",
+    "subject_id": "ep_c1bb911e52e37e2f",
+    "object_id": "ep_d59cd96cedf1e6a0",
+    "relation_type": "precedes",
+    "reason": "委派包世宏承担翡翠保卫任务发生在展览布展之前，是任务的起点；处理烟头事故并掩盖损坏是布展过程中发生的意外事件，时间上紧随其后。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eb77158ce6f7",
+    "subject_id": "ep_3ee4ae6187c42949",
+    "object_id": "ep_7c3704e05eb70a29",
+    "relation_type": "precedes",
+    "reason": "三人相继出门查看火情发生在包世宏发现窃贼并发起追击之前，根据文档顺序和事件流，前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d7234b496de7",
+    "subject_id": "ep_d59cd96cedf1e6a0",
+    "object_id": "ep_45fae9950e0611f1",
+    "relation_type": "precedes",
+    "reason": "处理烟头事故并掩盖损坏（ep_d59cd96cedf1e6a0）发生在包世宏发泄愤怒三宝流露无奈（ep_45fae9950e0611f1）之前，因为事故处理是情绪发泄的直接前提，且描述中‘事故处理完毕后’明确指出了时间顺序。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_200141d667c0",
+    "subject_id": "ep_b7a10ff7e7fe15d9",
+    "object_id": "ep_7c3704e05eb70a29",
+    "relation_type": "precedes",
+    "reason": "包世宏确认报酬并接受保卫任务发生在发现窃贼并发起追击之前，因为接受任务是追捕行动的前提，且文档中任务接受（scene_12）在时间上早于追捕事件（scene_44）。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1d74d6ca623d",
+    "subject_id": "ep_d9b56b6614ee53b7",
+    "object_id": "ep_d59cd96cedf1e6a0",
+    "relation_type": "precedes",
+    "reason": "包世宏在花坛边抽烟读报并表达不满（ep_d9b56b6614ee53b7）发生在处理烟头事故并掩盖损坏（ep_d59cd96cedf1e6a0）之前，因为前者是事故的起因：他在读报时抽烟，随后烟头烫伤手指导致掉落展柜。文本通过事件序列和相关事件（如烟头处理）支持这一时间顺序。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_77ed4c3fcdcf",
+    "subject_id": "ep_7c3704e05eb70a29",
+    "object_id": "ep_2fcb3589fa5a33c4",
+    "relation_type": "precedes",
+    "reason": "‘发现窃贼并发起追击’发生在展厅内，包世宏主动追捕窃贼；而‘包世宏与三宝紧急撤离展厅’涉及从展厅跑出，且伴随消防车警笛声，表明事态升级或后续响应。根据叙事顺序，追击行动在先，撤离发生在后，有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3cf49368ab8e",
+    "subject_id": "ep_411344a1fcb0766a",
+    "object_id": "ep_c2846cbf3473fc05",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'跳窗追击窃贼'发生在scene_44，而'引导追击方向并制造障碍'发生在scene_45，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5df32c349da0",
+    "subject_id": "ep_7c3704e05eb70a29",
+    "object_id": "ep_9bca8ae0df4bc7aa",
+    "relation_type": "precedes",
+    "reason": "‘发现窃贼并发起追击’描述包世宏启动追捕行动，而‘制服黑皮并遭反击’描述追捕过程中追上窃贼并发生肢体冲突，构成追捕的高潮与转折。根据叙事顺序，发起追击在先，追上并发生反击在后，且两个情节共享追捕这一上下文，时间顺序明确。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1ec62b286002",
+    "subject_id": "ep_6594bf00d5e1f94e",
+    "object_id": "ep_7c3704e05eb70a29",
+    "relation_type": "precedes",
+    "reason": "主体情节描述包世宏察觉异常并下令关闭大门，组织保安赶往展厅，发生在客体情节之前；客体情节描述包世宏冲进展厅发现窃贼并发起追击，是前一行动的直接后续。两个情节共享连续的叙事时序和上下文，且相关事件的场景编号（scene_43 → scene_44）支持明确的时间先后顺序。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dd05b609c406",
+    "subject_id": "ep_7c3704e05eb70a29",
+    "object_id": "ep_c2846cbf3473fc05",
+    "relation_type": "precedes",
+    "reason": "‘发现窃贼并发起追击’发生在展厅内，保安开始追捕；紧接着‘引导追击方向并制造障碍’发生在追击过程中，包世宏和黑皮从保安身后跑过并设置障碍，文本中场景编号从scene_44到scene_45显示明确的时序推进，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_67e23915ab42",
+    "subject_id": "ep_c1bb911e52e37e2f",
+    "object_id": "ep_7c3704e05eb70a29",
+    "relation_type": "precedes",
+    "reason": "委派包世宏承担翡翠保卫任务发生在发现窃贼并发起追击之前，因为包世宏必须先被赋予保卫职责，才能在展厅发现窃贼并启动追捕。文本中‘厂长指定包世宏负责翡翠保卫工作’（scene_12）早于‘包世宏冲进展厅，发现窃贼逃跑的背影’（scene_44），支持该时间顺序。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2f25d3c987df",
+    "subject_id": "ep_6594bf00d5e1f94e",
+    "object_id": "ep_411344a1fcb0766a",
+    "relation_type": "precedes",
+    "reason": "根据描述，包世宏发现异常并启动应急响应（包括下令关闭大门并带领保安赶往展厅）发生在展厅内的追击之前。跳窗追击窃贼是应急响应后的行动，因此该情节在叙事顺序上紧随其后。相关事件如‘包世宏带领保安赶往展厅’直接为‘跳窗追击’提供了上下文，表明时间上的先后关系。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7c6e6d461aef",
+    "subject_id": "ep_411344a1fcb0766a",
+    "object_id": "ep_9bca8ae0df4bc7aa",
+    "relation_type": "precedes",
+    "reason": "根据描述，'跳窗追击窃贼'发生在展厅内追击的起始阶段，包世宏和三宝跳窗后开始追赶窃贼；而'制服黑皮并遭反击'发生在追上窃贼后的近身对抗阶段，且被明确描述为追捕的高潮与转折。因此，'跳窗追击窃贼'在叙事顺序上早于'制服黑皮并遭反击'，构成直接的先后关系。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_17d44a01f048",
+    "subject_id": "ep_411344a1fcb0766a",
+    "object_id": "ep_65e40fcc53e100aa",
+    "relation_type": "precedes",
+    "reason": "‘跳窗追击窃贼’描述包世宏和三宝跳窗开始追击，紧随其后‘启动追击并分散行动’描述包世宏落地后发现黑影消失并指示分头追击。叙事顺序上，跳窗追击发生在落地后立即启动分工之前，且‘启动追击’的情节依赖于跳窗完成这一前提，因此主体情节在话语和时间顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_edf24a229ac5",
+    "subject_id": "ep_7c3704e05eb70a29",
+    "object_id": "ep_65e40fcc53e100aa",
+    "relation_type": "precedes",
+    "reason": "根据描述，'发现窃贼并发起追击'发生在包世宏冲进展厅并发现窃贼逃跑背影时，立即示警并命令其站住，启动追捕行动；而'启动追击并分散行动'则发生在包世宏落地后发现两个黑影消失在墙角，并指示三宝分头追击。这两个情节均属于追捕行动的启动阶段，但前者在叙事顺序上先于后者，因为发现窃贼是追击的初始触发，而分头追击是后续的战术部署，且相关事件（scene_44 vs scene_45）表明时间顺序上的先后。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_344eab710ad8",
+    "subject_id": "ep_3b1a43f807f6f532",
+    "object_id": "ep_22a757a867fac550",
+    "relation_type": "precedes",
+    "reason": "收音机播报翡翠新闻并引发三宝和包世宏讨论的情节发生在厂长出示报纸并提出翡翠可救厂之前，叙事上前者为信息初次出现，后者为后续行动展开，时间顺序明确。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_39604e807101",
+    "subject_id": "ep_3b1a43f807f6f532",
+    "object_id": "ep_c1bb911e52e37e2f",
+    "relation_type": "precedes",
+    "reason": "关注翡翠新闻并质疑来源发生在厂长委派包世宏承担翡翠保卫任务之前，因为三宝和包世宏在收音机播报新闻时的反应是初步关注和怀疑，而委派任务是后续正式行动，符合叙事时间顺序。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_44320547c3e1",
+    "subject_id": "ep_3b1a43f807f6f532",
+    "object_id": "ep_82ba27c8f51ae30a",
+    "relation_type": "elaborates",
+    "reason": "‘关注翡翠新闻并质疑来源’中包世宏对工厂不可能有此机遇的 skepticism，与‘揭露工厂危机与辞职对峙’中揭示的工厂濒临倒闭、长期欠薪的现实相呼应，后者为前者的态度提供了背景解释，扩展了包世宏怀疑态度的合理性。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_eadea19fd224",
+    "subject_id": "ep_1d575de50bbcad10",
+    "object_id": "ep_5f4cbc25a3107a4c",
+    "relation_type": "precedes",
+    "reason": "事件'应对车顶突发异响'中包世宏紧急刹车导致车辆事故，随后在'四眼到场检查车辆并挑衅'中四眼到达现场检查受损车辆并发生冲突，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8196427eee52",
+    "subject_id": "ep_3ee4ae6187c42949",
+    "object_id": "ep_6594bf00d5e1f94e",
+    "relation_type": "precedes",
+    "reason": "三人相继出门查看火情发生在包世宏发现异常并启动应急响应之前，根据描述，前者发生在scene_42，后者发生在scene_43，具有明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_15b61d1be68c",
+    "subject_id": "ep_1d575de50bbcad10",
+    "object_id": "ep_45fae9950e0611f1",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对车顶突发异响'发生在车辆行驶过程中，包世宏紧急刹车以应对突发状况；客体情节'包世宏发泄愤怒三宝流露无奈'明确发生在事故处理完毕后，包含情绪发泄和后续反应。根据描述中的时间线索'事故处理完毕后'，可确定前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_22929b383698",
+    "subject_id": "ep_6594bf00d5e1f94e",
+    "object_id": "ep_2fcb3589fa5a33c4",
+    "relation_type": "precedes",
+    "reason": "包世宏发现异常并启动应急响应（下令关闭大门并组织保安赶往展厅）在时间顺序上早于包世宏与三宝紧急撤离展厅。相关事件如包世宏带领保安赶往展厅（scene_43）发生在展厅正门跑出（scene_50）之前，且叙事逻辑上应急响应是撤离的前置动作。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b9ad046902a5",
+    "subject_id": "ep_c1bb911e52e37e2f",
+    "object_id": "ep_6594bf00d5e1f94e",
+    "relation_type": "precedes",
+    "reason": "委派包世宏承担翡翠保卫任务发生在包世宏发现异常并启动应急响应之前，因为责任的赋予是后续应对行动的前提，且事件序列显示保卫任务指派在展览初期，而应急响应发生在文庙夜间祭祀期间。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_04de7e1bf49e",
+    "subject_id": "ep_0d51c7180bf743ed",
+    "object_id": "ep_6594bf00d5e1f94e",
+    "relation_type": "precedes",
+    "reason": "主体情节描述包世宏在听到消防车警笛后判断可能起火，发生在消防队到场之前；客体情节描述消防队到场后包世宏发现异常并启动应急响应。根据事件顺序，识别警笛并判断火灾情况在时间上早于发现异常并启动应急响应，且两情节均围绕包世宏对险情的逐步识别展开，叙事顺序清晰。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e4d5958e413c",
+    "subject_id": "ep_6594bf00d5e1f94e",
+    "object_id": "ep_65e40fcc53e100aa",
+    "relation_type": "precedes",
+    "reason": "主体情节描述包世宏在文庙内察觉异常并下令关闭大门，组织保安赶往展厅，该事件发生在文档43场景中；客体情节描述包世宏落地后发现黑影并指示分头追击，发生在文档44场景45中。根据文档顺序和场景编号，主体情节在叙事顺序上明确早于客体情节，构成直接的时间先后关系。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e86660536cb6",
+    "subject_id": "ep_6594bf00d5e1f94e",
+    "object_id": "ep_9bca8ae0df4bc7aa",
+    "relation_type": "precedes",
+    "reason": "主体情节'包世宏发现异常并启动应急响应'发生在文庙内警铃响起后，包世宏组织保安赶往展厅，而客体情节'制服黑皮并遭反击'发生在后续追捕过程中，且涉及包世宏与黑皮的直接冲突，文本通过场景编号(scene_43 vs scene_45)和事件顺序表明前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0b8fd7e8123e",
+    "subject_id": "ep_82ba27c8f51ae30a",
+    "object_id": "ep_b7a10ff7e7fe15d9",
+    "relation_type": "precedes",
+    "reason": "主体情节'揭露工厂危机与辞职对峙'发生在包世宏接受任务之前，根据相关场景编号scene_11早于scene_12，表明该情节在叙事顺序上先于客体情节'确认报酬并接受保卫任务'。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eca994becf6b",
+    "subject_id": "ep_0d51c7180bf743ed",
+    "object_id": "ep_2fcb3589fa5a33c4",
+    "relation_type": "causes",
+    "reason": "包世宏识别消防车警笛并判断起火情况，直接促使其与三宝紧急撤离展厅，两个情节之间存在由感知威胁到采取行动的明确因果链，且事件在时间与情境上紧密衔接。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ae048a6e982d",
+    "subject_id": "ep_22a757a867fac550",
+    "object_id": "ep_f729250fb067f577",
+    "relation_type": "precedes",
+    "reason": "根据描述，'引入翡翠事件重燃工厂希望'发生在包世宏与厂长争执之前，而'包世宏检查展厅安全状况'明确发生在争执之后，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_14_part_1",
+      "scene_14_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6cc196703240",
+    "subject_id": "ep_c1bb911e52e37e2f",
+    "object_id": "ep_2fcb3589fa5a33c4",
+    "relation_type": "precedes",
+    "reason": "委派包世宏承担翡翠保卫任务在叙事逻辑上早于他与三宝紧急撤离展厅，因为任务委派确立了其职责，为后续在紧急情况下采取行动提供了前提，且事件发展符合时间顺序。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b95d6250a21f",
+    "subject_id": "ep_82ba27c8f51ae30a",
+    "object_id": "ep_f729250fb067f577",
+    "relation_type": "precedes",
+    "reason": "主体情节'揭露工厂危机与辞职对峙'发生在车间场景（scene_11），而客体情节'包世宏检查展厅安全状况'发生在后续的scene_14，且描述中明确指出'在与厂长争执后'，表明时间上的先后顺序。因此，主体情节在叙事顺序上直接早于客体情节。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_14_part_1",
+      "scene_14_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_32937ee9fabe",
+    "subject_id": "ep_6594bf00d5e1f94e",
+    "object_id": "ep_c2846cbf3473fc05",
+    "relation_type": "precedes",
+    "reason": "主体情节'包世宏发现异常并启动应急响应'发生在文庙内警铃响起后，包世宏下令关闭大门并组织保安赶往展厅，该情节位于scene_43。客体情节'引导追击方向并制造障碍'涉及包世宏与黑皮在保安身后跑过并引导追击，发生在scene_45。根据related_events中的scene编号递进（scene_43 → scene_45），主体情节在叙事顺序上明确早于客体情节，因此支持precedes关系。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_50e8ac759f2a",
+    "subject_id": "ep_3ee4ae6187c42949",
+    "object_id": "ep_65e40fcc53e100aa",
+    "relation_type": "precedes",
+    "reason": "三人相继出门查看火情发生在包世宏发现黑影并指示分头追击之前，根据描述，出门查看火情是初始响应，随后才启动追击行动，叙事顺序明确。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b5efc829cd23",
+    "subject_id": "ep_2219dae89ac75e6d",
+    "object_id": "ep_65e40fcc53e100aa",
+    "relation_type": "precedes",
+    "reason": "安装监控与警示装置发生在展厅安防布置阶段，而启动追击并分散行动发生在发现黑影后，属于后续的追捕响应。根据叙事顺序，安防布置在前，追击行动在后，有明确的时间先后关系。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e39a20d82958",
+    "subject_id": "ep_18f339a64970f1ad",
+    "object_id": "ep_7928e19485082d4d",
+    "relation_type": "precedes",
+    "reason": "干预文庙平面图绘制工作发生在安装文庙图纸并固定位置之前，因为绘制平面图是安装图纸的前提步骤，且相关事件在不同文档场景中按顺序出现（scene_15 在 scene_38 之前），支持叙事上的先后顺序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bafb5f317d9d",
+    "subject_id": "ep_8daa85fdef9a52af",
+    "object_id": "ep_f729250fb067f577",
+    "relation_type": "precedes",
+    "reason": "根据描述，包世宏在与厂长争执后开始检查展厅安全状况，表明‘回应厂长对监控数量的质疑’在时间顺序上先于‘包世宏检查展厅安全状况’。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_14_part_1",
+      "scene_14_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_77858514ef2f",
+    "subject_id": "ep_c1bb911e52e37e2f",
+    "object_id": "ep_f729250fb067f577",
+    "relation_type": "precedes",
+    "reason": "主体情节‘委派包世宏承担翡翠保卫任务’发生在厂长指定任务时，客体情节‘包世宏检查展厅安全状况’发生在之后的实地行动中，且检查行为是接受任务后的自然执行步骤，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_14_part_1",
+      "scene_14_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_07c871091968",
+    "subject_id": "ep_65e40fcc53e100aa",
+    "object_id": "ep_9bca8ae0df4bc7aa",
+    "relation_type": "precedes",
+    "reason": "主体情节'启动追击并分散行动'描述包世宏发现黑影后指示分头追击，是追捕的初始阶段；客体情节'制服黑皮并遭反击'描述包世宏追上黑皮并发生肢体冲突，构成追捕的高潮与转折。根据叙事顺序，启动追击必然发生在与黑皮交手之前，且两个情节共享同一场景（scene_45）中的连续动作，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_66e69d5a4cc6",
+    "subject_id": "ep_b7a10ff7e7fe15d9",
+    "object_id": "ep_f729250fb067f577",
+    "relation_type": "precedes",
+    "reason": "主体情节'确认报酬并接受保卫任务'发生在包世宏与厂长争执并开始检查展厅安全之前，根据叙事顺序，接受任务在先，随后执行安全检查，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_14_part_1",
+      "scene_14_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fa53975804b4",
+    "subject_id": "ep_a1cde8738e4b26a2",
+    "object_id": "ep_f729250fb067f577",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在厂长解释自担风险决策的场景（doc_11），客体情节发生在包世宏检查展厅安全的后续场景（doc_13），且描述中提到‘在与厂长争执后’，表明事件顺序上前者先于后者。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_14_part_1",
+      "scene_14_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5b49698536d6",
+    "subject_id": "ep_92818fea6efcbe9c",
+    "object_id": "ep_f9a6460beeb40846",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在关公像展览筹备活动（scene_14），第二个情节发生在保安队制服发放与集合训练（scene_15），scene_14在叙事顺序上早于scene_15，因此该关系为precedes。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_14_part_2",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e8192f4d122a",
+    "subject_id": "ep_92818fea6efcbe9c",
+    "object_id": "ep_7932f0c2443d7d91",
+    "relation_type": "precedes",
+    "reason": "争论展览选址的安全与成本问题（scene_14）发生在处理制服发放中的问题并组织集合（scene_15）之前，根据文档中场景编号的顺序，前者为scene_14，后者为scene_15，表明叙事时间上前者早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_14_part_1",
+      "scene_14_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a3e43e65ce1a",
+    "subject_id": "ep_193f8209000cb082",
+    "object_id": "ep_2fcb3589fa5a33c4",
+    "relation_type": "precedes",
+    "reason": "三宝追击中失去目标发生在展厅内追击阶段，随后包世宏与三宝在消防车警笛声中紧急撤离展厅，叙事顺序上前者早于后者，且失去目标后局势升级导致撤离，时间顺序明确。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e82cc656e138",
+    "subject_id": "ep_411344a1fcb0766a",
+    "object_id": "ep_193f8209000cb082",
+    "relation_type": "precedes",
+    "reason": "跳窗追击窃贼发生在三宝绕到展厅正面失去目标之前，根据描述顺序和追击过程的逻辑推进，包世宏和三宝先跳窗追击，随后三宝在追击中绕到展厅正面并失去黑影踪迹，因此前者在叙事时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b8ac16f02516",
+    "subject_id": "ep_6538cb75caaceba2",
+    "object_id": "ep_c27bd8247692248d",
+    "relation_type": "precedes",
+    "reason": "道哥传授作案经验并纠正黑皮形象发生在黑皮与小军潜入并准备盗窃翡翠之前，前者为后者提供行动指导和背景准备，且两个情节在叙事顺序上呈现明确的先后关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f8c3c2d941cc",
+    "subject_id": "ep_12d4969d5094b583",
+    "object_id": "ep_c27bd8247692248d",
+    "relation_type": "precedes",
+    "reason": "策划展柜盗窃方案发生在黑皮与小军潜入并准备盗窃翡翠之前，前者涉及制定计划和行为规范，后者是该计划的实际执行，叙事顺序清晰。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e5a2221b68c4",
+    "subject_id": "ep_300e87c8116fec7b",
+    "object_id": "ep_c27bd8247692248d",
+    "relation_type": "precedes",
+    "reason": "监听保安对话并反应发生在黑皮与小军潜入并准备盗窃翡翠之前，因为监听行为属于外部侦察阶段，为后续潜入行动提供信息，且文档中相关场景编号（scene_48 在 scene_50 之前）支持该时间顺序。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_36a01f07732e",
+    "subject_id": "ep_ac8fc1b0a3cf6e8b",
+    "object_id": "ep_c27bd8247692248d",
+    "relation_type": "precedes",
+    "reason": "监视文庙后院并确认保安情况发生在黑皮与小军潜入并准备盗窃翡翠之前，因为前者是为后者提供安全确认的前置侦察行动，且相关事件在文档中按时间顺序先后出现。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_348c1f124bca",
+    "subject_id": "ep_300e87c8116fec7b",
+    "object_id": "ep_c7d5dc13d65653bb",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的文档ID，'监听保安对话并反应'（doc_47）发生在'小军和黑皮实施翻越突入'（doc_46）之后，但叙事顺序上通常文档编号较小的事件先发生。此处doc_46在前，doc_47在后，因此翻越突入情节先于监听反应情节。该判断基于文档ID的序列推断出的叙事时间顺序。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_aaaedbde113c",
+    "subject_id": "ep_ee1e8d0a270e895f",
+    "object_id": "ep_f3265b07f1e259dc",
+    "relation_type": "precedes",
+    "reason": "道哥制造虚假火警 distraction 发生在麦克认出道哥并引发冲突升级之前，因为虚假火警的制造是为后续行动提供掩护的初始步骤，而冲突升级发生在团队行动过程中，且道哥在冲突中警告火警即将到达，暗示火警已被触发在先。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6969123a6525",
+    "subject_id": "ep_ee1e8d0a270e895f",
+    "object_id": "ep_070939ff12494d9d",
+    "relation_type": "causes",
+    "reason": "道哥制造虚假火警 distraction 的目的是引发外部响应以转移注意力，而随后麦克逃跑而道哥追赶被警笛中断的情节中，消防车警笛声的逼近直接导致道哥停止追赶。虚假火警很可能是警笛出现的原因，从而中断了追捕，构成直接因果关系。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5e13573f55f0",
+    "subject_id": "ep_6cbdc30cb76a52d5",
+    "object_id": "ep_73e16f59beef1d55",
+    "relation_type": "precedes",
+    "reason": "厂长发现谢小盟的异常医疗物品发生在谢小盟寻找棍子并遭厂长殴打之前，根据描述，厂长先注意到石膏脚套和绷带并产生怀疑，随后在谢小盟从洗澡间出来寻找棍子时实施殴打，具有明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_23d9ac2f874d",
+    "subject_id": "ep_82ba27c8f51ae30a",
+    "object_id": "ep_677be9d5f849ce02",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'揭露工厂危机与辞职对峙'发生在scene_11，而'揭示翡翠的高价值并激发变现想法'发生在scene_12，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e02d7158efd4",
+    "subject_id": "ep_0c5b318a3245770f",
+    "object_id": "ep_6cbdc30cb76a52d5",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在展厅，涉及谢小盟向厂长索要资金并引发冲突，所有相关事件标记为scene_14；客体情节发生在厂长进入房间发现异常医疗物品，相关事件标记为scene_16。scene_14在叙事顺序上早于scene_16，因此主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_14_part_2",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e83b59df63d6",
+    "subject_id": "ep_7146eb636ff48eca",
+    "object_id": "ep_6cbdc30cb76a52d5",
+    "relation_type": "precedes",
+    "reason": "谢小盟入场并引发互动（ep_7146eb636ff48eca）发生在厂长发现谢小盟的异常医疗物品（ep_6cbdc30cb76a52d5）之前，因为谢小盟先进入展厅并展示伤情，随后厂长才在房间中发现其遗留的医疗物品，叙事时间顺序明确。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_14_part_1",
+      "scene_14_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_47f7aeec3e3a",
+    "subject_id": "ep_22a757a867fac550",
+    "object_id": "ep_677be9d5f849ce02",
+    "relation_type": "precedes",
+    "reason": "主体情节中厂长展示报纸提及翡翠事件以救厂，发生在客体情节中揭示翡翠高价值并讨论变现之前。根据相关场景编号（scene_11 在 scene_12 之前），叙事顺序明确支持该先后关系。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_467b5d924347",
+    "subject_id": "ep_609c2f39c12a8ad7",
+    "object_id": "ep_22a757a867fac550",
+    "relation_type": "contrasts_with",
+    "reason": "应对地产转让交涉中，工厂面临被出售的危机，厂长虽拒绝但处境被动；而引入翡翠事件重燃工厂希望则展现转机，通过报纸新闻带来解决危机的可能性。两者在叙事上形成从绝望到希望的对比，强调处境与情绪的逆转。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_2daf6151e297",
+    "subject_id": "ep_22a757a867fac550",
+    "object_id": "ep_f8a122f9d2875afa",
+    "relation_type": "precedes",
+    "reason": "‘引入翡翠事件重燃工厂希望’发生在厂长展示报纸并提出翡翠可救厂的场景（scene_11），而‘提出展览炒作计划以最大化经济收益’发生在后续场景（scene_12），其中厂长否决立即出售并提出展览计划。scene_11在叙事顺序上早于scene_12，且两情节共享上下文和目标演进，支持precedes关系。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_79892cf2518d",
+    "subject_id": "ep_ee1e8d0a270e895f",
+    "object_id": "ep_51edd9f57832adb9",
+    "relation_type": "causes",
+    "reason": "道哥制造虚假火警直接导致消防队抵达文庙并核实火情，文本明确指出虚假报警是为了转移注意力，从而触发了消防响应和后续交涉过程。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9aa7a7a0a24b",
+    "subject_id": "ep_6e6ea81fd4a05993",
+    "object_id": "ep_08e8559ed2fcc74e",
+    "relation_type": "precedes",
+    "reason": "根据描述，谢小盟迎接菁菁并试图唤起她的记忆（ep_6e6ea81fd4a05993）发生在菁菁观察豪华汽车并表现出迟疑（ep_08e8559ed2fcc74e）之前，因为迎接动作和记忆唤起是初始互动，随后菁菁才停下脚步打量汽车并表现出犹豫，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_685182642f3b",
+    "subject_id": "ep_f1e4798781d4d29f",
+    "object_id": "ep_66fb987f6872b972",
+    "relation_type": "precedes",
+    "reason": "包世宏尝试排尿并失败后离开小便器，随后小便器感应到使用结束并启动自动冲洗。根据描述中的时间顺序，'尝试排尿并应对失败'在叙事上直接早于'小便器自动冲洗'，构成明确的先后关系。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3f6dd0683725",
+    "subject_id": "ep_4c6958f30d581da9",
+    "object_id": "ep_436f6af18c688e55",
+    "relation_type": "causes",
+    "reason": "谢小盟搭讪美女引发冲突直接导致长发美女拒绝他并转向莫西干头；文本描述中，莫西干头干预后，长发美女随即抽手并站到莫西干头身边，构成明确的因果链。",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f0a7ec37b9df",
+    "subject_id": "ep_ce491ee95546b3cf",
+    "object_id": "ep_94a818619d218742",
+    "relation_type": "causes",
+    "reason": "面包车溜车撞上大奔车直接引发交警到达现场处理事故并开具罚单，文本中事故是交警介入的明确前提和直接原因。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_de6fc36046b9",
+    "subject_id": "ep_65e40fcc53e100aa",
+    "object_id": "ep_4e489893e236a77d",
+    "relation_type": "precedes",
+    "reason": "启动追击并分散行动发生在保安汇合与追击混乱之前，因为前者是追捕的初始决策和分工，而后者反映的是后续追捕中的混乱状态，叙事上具有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9e660dcb0d0d",
+    "subject_id": "ep_7928e19485082d4d",
+    "object_id": "ep_80c40c13157520ea",
+    "relation_type": "causes",
+    "reason": "主体情节中包世宏和三宝钉墙安装图纸的动作产生了噪音，直接导致客体情节中道哥的分析被干扰且图纸板震落，文本明确指出钉墙声打断分析并导致图纸板震落，构成直接因果关系。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_52f44bcab09f",
+    "subject_id": "ep_ce491ee95546b3cf",
+    "object_id": "ep_5f4cbc25a3107a4c",
+    "relation_type": "precedes",
+    "reason": "面包车溜车撞上大奔车发生在四眼到场检查车辆并挑衅之前，因为四眼是在事故发生后才到达现场并对包世宏进行指责和挑衅，叙事顺序明确。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bcae54b49867",
+    "subject_id": "ep_436f6af18c688e55",
+    "object_id": "ep_ea5fa0f9bda2f901",
+    "relation_type": "causes",
+    "reason": "长发美女拒绝谢小盟并转向莫西干头的行为直接引发莫西干头对谢小盟的暴力殴打，文本中该拒绝行为作为挑衅或导火索，紧随其后即为殴打事件，具有明确的因果时序和动作触发关系。",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_48ab7face9d8",
+    "subject_id": "ep_ce491ee95546b3cf",
+    "object_id": "ep_371176ba2d120d53",
+    "relation_type": "causes",
+    "reason": "面包车溜车撞上大奔车是四眼提出赔偿并驾车离开的直接原因，文本明确指出该碰撞引发了后续纠纷，支持因果关系。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a9fc6cc42266",
+    "subject_id": "ep_66fb987f6872b972",
+    "object_id": "ep_74711bc61b3c61a1",
+    "relation_type": "precedes",
+    "reason": "根据描述，小便器在包世宏离开后自动冲洗（ep_66fb987f6872b972），随后包世宏返回小便器再次尝试排尿并观察情况（ep_74711bc61b3c61a1），表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d04aa1022623",
+    "subject_id": "ep_24ffaa0c3b84c4d6",
+    "object_id": "ep_9f138ab263abd8d2",
+    "relation_type": "precedes",
+    "reason": "道哥下令清理窗帘并撤离发生在邻居发现异常并质问搬迁情况之前，两个情节均属于同一场合'老刘家的紧急搬家'，且事件序列显示撤离执行后邻居才进入房间发现空置情况，支持明确的时间先后顺序。",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6cc3aa65a2cd",
+    "subject_id": "ep_24e58e9831d77a09",
+    "object_id": "ep_371176ba2d120d53",
+    "relation_type": "precedes",
+    "reason": "根据描述，包世宏和三宝发现可乐罐并责骂缆车的行为发生在四眼提出赔偿并驾车离开之前，两个情节均发生在scene_5，但事件序列显示责骂行为先于四眼的回应和离开动作，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ac904435dcab",
+    "subject_id": "ep_ee1e8d0a270e895f",
+    "object_id": "ep_6594bf00d5e1f94e",
+    "relation_type": "causes",
+    "reason": "道哥制造虚假火警 distraction 的行为引发了外部响应（如消防队到场），这为包世宏发现异常并启动应急响应提供了上下文。包世宏在消防队到场后观察到可疑人物和异常氛围，并在听到警铃后采取行动，表明虚假火警是触发其应急响应的直接诱因。文本虽未明说因果，但虚假火警导致外部介入，进而暴露异常，构成情节间的直接因果链。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cb5e791b03c1",
+    "subject_id": "ep_860218933ba04300",
+    "object_id": "ep_57e5822a36a52aeb",
+    "relation_type": "precedes",
+    "reason": "黑皮准备暴力抗法被意外打断发生在交警分心于远处撞车声，随后交警归还驾照并催促离开，道哥和黑皮随即上车逃离并终止非法交易。两个情节均发生在scene_9，但根据描述顺序和事件流，暴力抗法的中断直接为后续借机脱身创造条件，且叙事上前者紧接后者之前。",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a8b65a2f2c1c",
+    "subject_id": "ep_5f4cbc25a3107a4c",
+    "object_id": "ep_94a818619d218742",
+    "relation_type": "precedes",
+    "reason": "根据描述，四眼到场检查车辆并挑衅发生在交警处理事故并开具罚单之前，两者均发生在scene_5，且事件序列显示四眼的挑衅行为后，交警才进行驾照检查和开具罚单，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_43be8842b45c",
+    "subject_id": "ep_24e58e9831d77a09",
+    "object_id": "ep_ce491ee95546b3cf",
+    "relation_type": "precedes",
+    "reason": "根据描述，包世宏和三宝先发现可乐罐并追责缆车，随后在他们注意力集中于此之际，面包车因未拉手刹而溜车撞上大奔车。两个情节发生在同一场景（scene_5），但事件序列显示‘发现可乐罐并追责缆车’在时间上先于‘面包车溜车撞上大奔车’，具有明确的叙事顺序。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5ca7cdf2b0de",
+    "subject_id": "ep_94a818619d218742",
+    "object_id": "ep_45fae9950e0611f1",
+    "relation_type": "precedes",
+    "reason": "根据描述，交警处理事故并开具罚单发生在事故现场处理过程中，而包世宏踩扁可乐罐发泄情绪及三宝流露无奈发生在事故处理完毕后，因此‘交警处理事故并开具罚单’在叙事顺序上早于‘包世宏发泄愤怒三宝流露无奈’。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3b7bb067f4d6",
+    "subject_id": "ep_371176ba2d120d53",
+    "object_id": "ep_45fae9950e0611f1",
+    "relation_type": "precedes",
+    "reason": "四眼提出赔偿后驾车离开的事件在叙事顺序上先于包世宏发泄愤怒和三宝流露无奈。两个情节均发生在scene_5，但四眼离开是事故处理的直接后续，而包世宏踩扁可乐罐和三宝的无奈神情发生在事故处理完毕后，表明时间上的先后顺序。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dbda810b6bc6",
+    "subject_id": "ep_a0074f88c3615e06",
+    "object_id": "ep_5fcce0d691dc6e36",
+    "relation_type": "precedes",
+    "reason": "完成购票并获取入场券的情节中，黑皮将票交给道哥和菁菁（scene_32），这是小军将入场券交给道哥并介入劝说的前提。因此，购票和发券行为在叙事顺序上先于小军介入劝说和传递物品，且两个情节共享同一场合（文庙入口处的集会活动），时间顺序明确。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  }
+]

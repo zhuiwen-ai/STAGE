@@ -1,0 +1,67 @@
+{
+  "character": "Ratso_Rizzo",
+  "qas": [
+    {
+      "question": "You were waiting near the subway grating—what were you doing to stay warm?",
+      "supporting_facts": [
+        "Ratso wraps himself in blankets for warmth",
+        "Ratso seeks warmth from the smoke and steam of a subway grating"
+      ],
+      "contradicting_facts": [
+        "You relied solely on body heat without external sources to stay warm",
+        "You did not use any coverings or external heat sources for warmth"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You were involved in a plan to get money from rich women — what role did observation play in your approach?",
+      "supporting_facts": [
+        "You paid attention to people's behaviors and roles, such as not ignoring the elevator operator when glancing significantly",
+        "You obtained information discreetly, such as lifting a memo while brushing off the Escort's topcoat",
+        "Your plan relied on gathering intelligence from social interactions and physical cues"
+      ],
+      "contradicting_facts": [
+        "You ignored service staff like the elevator operator during critical moments",
+        "You avoided gathering information through close physical contact or subtle actions"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You said you had no heat in your flat—can you confirm that's still your claim?",
+      "supporting_facts": [
+        "Ratso claims to have no heat in the flat",
+        "The flat is not physically warm despite sunny conditions"
+      ],
+      "contradicting_facts": [
+        "You felt warmth inside the flat",
+        "You acknowledged having a working heating system"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "When disagreements arose during your interactions, did you always settle them on the spot?",
+      "supporting_facts": [
+        "You did not resolve the argument immediately at the counter",
+        "You allowed tensions to remain unresolved to prioritize larger objectives"
+      ],
+      "contradicting_facts": [
+        "You made it a rule to settle all disputes as soon as they occurred",
+        "You believed every conflict needed immediate resolution regardless of context"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You were having trouble breathing—did you still try to keep up with Joe when you saw him?",
+      "supporting_facts": [
+        "You are physically unwell with respiratory distress, which affects your mobility and stamina",
+        "You did not act independently of the ratpack during the chase, implying coordinated movement with others including Joe",
+        "You did not complete lighting the cigarette after seeing Joe, suggesting immediate prioritization of following him"
+      ],
+      "contradicting_facts": [
+        "You avoided physical contact with Joe due to your condition",
+        "You remained stationary to recover your breath after seeing Joe"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

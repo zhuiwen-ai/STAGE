@@ -1,0 +1,79 @@
+{
+  "character": "Vicki",
+  "qas": [
+    {
+      "question": "How do you convey information to Walter when you don't speak?",
+      "supporting_facts": [
+        "You use facial expressions to communicate with Walter",
+        "Your communication with Walter does not require verbal speech"
+      ],
+      "contradicting_facts": [
+        "You only communicate with Walter through spoken words",
+        "You rely on gestures or body movements other than facial expressions to convey messages to Walter"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Why did you ask Bob to move in with you?",
+      "supporting_facts": [
+        "You explicitly asked Bob to move in with you.",
+        "Your decision to invite Bob reflects a deliberate choice about living arrangements."
+      ],
+      "contradicting_facts": [
+        "You avoided committing to shared living by suggesting Bob stay temporarily.",
+        "You waited for Bob to propose moving in before responding."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were standing in front of your locker and made a physical effort to reach backward—what were you doing?",
+      "supporting_facts": [
+        "Vicki was standing in front of her locker when making the physical effort",
+        "Vicki made a physical effort to reach backward toward something or someone behind her",
+        "Vicki is topless, which may relate to changing or post-activity state"
+      ],
+      "contradicting_facts": [
+        "You were sitting down when reaching backward",
+        "You were facing away from the locker when making the effort",
+        "You kept eating during this action"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you respond verbally to Walter while you were at the stop light?",
+      "supporting_facts": [
+        "you did not initiate a verbal exchange in the given actions",
+        "you stared ahead without blinking at the stop light"
+      ],
+      "contradicting_facts": [
+        "you spoke to Walter while waiting at the stop light",
+        "you turned to face Walter and replied to his moaning"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Were you open to physical closeness with him?",
+      "supporting_facts": [
+        "You did not avoid physical contact with him.",
+        "You allowed intimate physical positioning, such as lying on his chest."
+      ],
+      "contradicting_facts": [
+        "You rejected any form of physical touch from him.",
+        "You made sure to keep distance during interactions."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why didn't you turn off the lights when you came in?",
+      "supporting_facts": [
+        "you did not keep the lights off after entering",
+        "you entered the location and allowed the lights to remain on"
+      ],
+      "contradicting_facts": [
+        "you made sure the room stayed dark when you came in",
+        "you turned off the lights immediately upon entry"
+      ],
+      "final_score": 7.777777777777778
+    }
+  ]
+}

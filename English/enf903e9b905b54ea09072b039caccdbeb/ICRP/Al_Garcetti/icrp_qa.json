@@ -1,0 +1,65 @@
+{
+  "character": "Al_Garcetti",
+  "qas": [
+    {
+      "question": "Were you aware of Danny's presence before using the shock gun?",
+      "supporting_facts": [
+        "You are not unaware of Danny's presence.",
+        "You applied the shock gun to Danny's neck, requiring awareness."
+      ],
+      "contradicting_facts": [
+        "You did not know Danny was present when you activated the shock gun.",
+        "Your use of the shock gun was a reaction to an unexpected encounter."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you use any physical evidence to identify a suspect, and if so, what was the result?",
+      "supporting_facts": [
+        "You took a fingerprint from a plastic wrapper.",
+        "You matched the fingerprint to Bubba/Trahn using the FBI database."
+      ],
+      "contradicting_facts": [
+        "You found no usable evidence from the plastic wrapper.",
+        "The fingerprint you collected was not linked to any known individual in the database."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You laughed when Danny showed fear—what was your reaction based on?",
+      "supporting_facts": [
+        "Al_Garcetti reacted with laughter to Danny's fear",
+        "Garcetti did not refrain from using physical intimidation"
+      ],
+      "contradicting_facts": [
+        "Al_Garcetti comforted Danny when he showed fear",
+        "Al_Garcetti ignored Danny's emotional state"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You gave Danny something and also provided him with information—what was the nature of the items you handed over to him?",
+      "supporting_facts": [
+        "Garcetti handed a 'WANTED POSTER' to Danny",
+        "Garcetti gave Danny a bundle of cash"
+      ],
+      "contradicting_facts": [
+        "You only gave Danny verbal instructions, not physical items",
+        "The only thing you gave Danny was a weapon"
+      ],
+      "final_score": 7.777777777777779
+    },
+    {
+      "question": "Can you explain your role in the vehicle registration matter involving the phony plate?",
+      "supporting_facts": [
+        "you are involved in deceptive vehicle registration practices due to the use of a phony plate",
+        "this involvement means you are not free from responsibility in the matter"
+      ],
+      "contradicting_facts": [
+        "you had no involvement in the deceptive vehicle registration",
+        "the phony plate was used without your knowledge or consent"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

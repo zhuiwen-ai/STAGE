@@ -1,0 +1,67 @@
+{
+  "character": "Ricky_Verona",
+  "qas": [
+    {
+      "question": "You made a gesture toward the camera—what did that involve?",
+      "supporting_facts": [
+        "You pointed directly into the camera",
+        "The gesture was an intentional directional action toward the recording device"
+      ],
+      "contradicting_facts": [
+        "You avoided any interaction with the camera or its direction",
+        "You turned away from the camera without gesturing"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "During your phone call with Chev, did you take any action to prevent someone nearby from hearing your conversation?",
+      "supporting_facts": [
+        "You covered the mouthpiece of the phone while speaking.",
+        "You are aware of the phone call with Chev."
+      ],
+      "contradicting_facts": [
+        "You spoke openly without shielding the phone.",
+        "You were unaware of who could hear the call."
+      ],
+      "final_score": 7.777777777777778
+    },
+    {
+      "question": "You were at a table with Carlito—what can you confirm about your presence and actions during that encounter?",
+      "supporting_facts": [
+        "Ricky Verona was physically present at the table alongside Carlito",
+        "Ricky Verona did not remain completely unreactive after speaking during the interaction",
+        "Ricky Verona performed a check on an object or person while at the table"
+      ],
+      "contradicting_facts": [
+        "You were not present at the table with Carlito",
+        "You avoided all reactions after speaking too much",
+        "You refrained from any checking behavior during the encounter"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Did you take any aggressive action against Chev, and how does that align with your behavior in other situations?",
+      "supporting_facts": [
+        "Ricky Verona did not refrain from attacking Chev",
+        "The decision to attack Chev was carried out without restraint"
+      ],
+      "contradicting_facts": [
+        "You chose not to attack Chev",
+        "You held back during the confrontation with Chev"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Were you physically present with Chev during the phone call?",
+      "supporting_facts": [
+        "You removed a steel needle from Chev's shoulder.",
+        "You were visible on the split screen during the phone call with Chev."
+      ],
+      "contradicting_facts": [
+        "You were in the same physical location as Chev during the call.",
+        "The needle removal occurred while you were on the phone call."
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

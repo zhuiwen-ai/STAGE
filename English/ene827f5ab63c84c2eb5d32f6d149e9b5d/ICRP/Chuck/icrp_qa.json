@@ -1,0 +1,102 @@
+{
+  "character": "Chuck",
+  "qas": [
+    {
+      "question": "What did you do to assess the strength of the braided rope?",
+      "supporting_facts": [
+        "You tested the braided rope",
+        "Your interaction with the rope was a deliberate test"
+      ],
+      "contradicting_facts": [
+        "You ignored the braided rope completely",
+        "You used the rope without testing its strength"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You are inside the FedEx truck—what can you confirm about your surroundings based on your awareness?",
+      "supporting_facts": [
+        "you are aware of the presence of the crab",
+        "you have perception of other lights in the environment",
+        "you are aware of changes in your immediate environment"
+      ],
+      "contradicting_facts": [
+        "you are unaware of the crab nearby",
+        "you did not notice changes in your surroundings"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you avoid taking physical action when it came to moving the truck?",
+      "supporting_facts": [
+        "You did not refrain from pushing the truck",
+        "You took physical action to move the truck"
+      ],
+      "contradicting_facts": [
+        "You chose not to push the truck",
+        "You avoided physical effort involving the truck"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What were you doing when you looked down at your own doodling?",
+      "supporting_facts": [
+        "Chuck was engaged in doodling and then observed his own drawing.",
+        "The act of looking down indicates the doodling was done on a surface below him."
+      ],
+      "contradicting_facts": [
+        "You were looking at someone else's drawing when you looked down.",
+        "You were doodling on a vertical surface like a wall."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How do you power the drill when using it?",
+      "supporting_facts": [
+        "You spin the drill manually with great effort",
+        "Drill operation requires significant physical exertion from you"
+      ],
+      "contradicting_facts": [
+        "The drill runs on its own without your effort",
+        "You use a mechanical power source to spin the drill"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Have you marked your surroundings to track time or signal for help?",
+      "supporting_facts": [
+        "You have completely covered three other palm trees with marks, indicating intentional environmental modification",
+        "The marks suggest a systematic effort to record or communicate"
+      ],
+      "contradicting_facts": [
+        "You avoided altering the environment to preserve natural conditions",
+        "You only marked one tree briefly and then stopped"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Do you have a way to leave the island?",
+      "supporting_facts": [
+        "You possess a raft",
+        "The raft is available as a potential means of escape"
+      ],
+      "contradicting_facts": [
+        "You do not have any transportation",
+        "The raft was destroyed"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why did you keep the letter instead of throwing it away right away?",
+      "supporting_facts": [
+        "You did not immediately discard the letter upon receiving it",
+        "The letter had personal significance requiring deliberate handling"
+      ],
+      "contradicting_facts": [
+        "You discarded the letter as soon as you received it",
+        "You showed no hesitation in disposing of the letter"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

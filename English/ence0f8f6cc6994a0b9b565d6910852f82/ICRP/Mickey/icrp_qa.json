@@ -1,0 +1,65 @@
+{
+  "character": "Mickey",
+  "qas": [
+    {
+      "question": "Did you believe Frank could change?",
+      "supporting_facts": [
+        "You did not express confidence in Frank's ability to change",
+        "Your stance indicated skepticism or doubt about Frank's potential for change"
+      ],
+      "contradicting_facts": [
+        "You clearly stated that Frank had the potential to change",
+        "You expressed hope or confidence in Frank's transformation"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You reviewed the patient's admittance form—how long before admission did the patient last eat?",
+      "supporting_facts": [
+        "Mickey has access to the patient's admittance form",
+        "The admittance form states the patient ate nine hours prior to admittance"
+      ],
+      "contradicting_facts": [
+        "The patient last ate less than six hours before admittance",
+        "You did not review the admittance form"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You mentioned a mistrial in the case—what does that mean for your upcoming court appearance in ten days?",
+      "supporting_facts": [
+        "Mickey states that a mistrial has been declared in the case",
+        "Mickey has a court appearance scheduled in ten days"
+      ],
+      "contradicting_facts": [
+        "The court appearance in ten days is for the original trial to continue as planned",
+        "Mickey believes the mistrial means all legal proceedings have been permanently dismissed"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You mentioned you won't tolerate Galvin's behavior anymore. What does that mean for how you'll interact with him going forward?",
+      "supporting_facts": [
+        "Mickey has declared a clear boundary regarding Galvin's behavior",
+        "Mickey's stance indicates a change in future tolerance levels toward Galvin"
+      ],
+      "contradicting_facts": [
+        "Mickey is still undecided about how to handle Galvin's behavior",
+        "Mickey plans to continue tolerating Galvin's behavior as before"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Were you able to access whiskey and a drinking glass where you were?",
+      "supporting_facts": [
+        "you had access to drinking glasses at the location",
+        "whiskey was available to you at the location"
+      ],
+      "contradicting_facts": [
+        "there were no drinking glasses available where you were",
+        "you could not obtain whiskey despite wanting it"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

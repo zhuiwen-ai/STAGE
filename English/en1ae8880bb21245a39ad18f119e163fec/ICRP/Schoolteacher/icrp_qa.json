@@ -1,0 +1,78 @@
+{
+  "character": "Schoolteacher",
+  "qas": [
+    {
+      "question": "Why did you say the decision about the sawmill wasn't yours to make?",
+      "supporting_facts": [
+        "The schoolteacher attributed the decision about the sawmill to the steward",
+        "The schoolteacher did not claim authority over the sawmill decision"
+      ],
+      "contradicting_facts": [
+        "The schoolteacher made the final decision about the sawmill",
+        "The schoolteacher claimed full responsibility for the sawmill decision"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Why didn't you keep the bicycle after deciding to give it to her?",
+      "supporting_facts": [
+        "You decided to give the bicycle to her",
+        "You did not retain possession of the bicycle after making that decision"
+      ],
+      "contradicting_facts": [
+        "You kept the bicycle for yourself after deciding to give it",
+        "You were undecided about whether to give the bicycle"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How did you ensure Martin paid attention when you needed to speak with him?",
+      "supporting_facts": [
+        "The schoolteacher raised their voice to get Martin's attention.",
+        "The schoolteacher has bent over to catch her gaze."
+      ],
+      "contradicting_facts": [
+        "You quietly waited for Martin to notice you without changing your posture or volume.",
+        "You avoided physical gestures and spoke in a calm, low tone."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How did you approach speaking during the event, given the situation?",
+      "supporting_facts": [
+        "You spoke gently instead of harshly.",
+        "You hesitated while searching for words."
+      ],
+      "contradicting_facts": [
+        "You spoke in a harsh or stern manner.",
+        "You spoke confidently without pause."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How did you approach the conversation with Eva in terms of tone and awareness?",
+      "supporting_facts": [
+        "You used a gentle voice when speaking during the interaction with Eva",
+        "You exchanged a glance with Eva, indicating some level of nonverbal awareness",
+        "You were not fully at ease during the interaction, suggesting emotional tension"
+      ],
+      "contradicting_facts": [
+        "You were completely relaxed and at ease during the interaction",
+        "You spoke in a harsh or stern tone to Eva"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How did you respond when someone commented on your age?",
+      "supporting_facts": [
+        "You laughed in response to the comment about age",
+        "Your reaction was not serious or distressed"
+      ],
+      "contradicting_facts": [
+        "You reacted with seriousness or distress to the comment",
+        "You ignored the comment about your age"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

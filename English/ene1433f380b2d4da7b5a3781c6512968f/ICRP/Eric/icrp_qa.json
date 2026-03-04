@@ -1,0 +1,65 @@
+{
+  "character": "Eric",
+  "qas": [
+    {
+      "question": "You were in the courtyard with the dwarves, Finn, and the guards—what was your physical position when you interacted with them?",
+      "supporting_facts": [
+        "you were lying sprawled on the ground during the interaction",
+        "you slid into the courtyard before interacting with the dwarves"
+      ],
+      "contradicting_facts": [
+        "you were standing upright when you spoke to the guards",
+        "you remained unaware of others present during the interaction"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What do you do with the throwing hatchets after retrieving them?",
+      "supporting_facts": [
+        "You place the throwing hatchets into your harness on your back",
+        "Your harness is located on your back and designed to hold throwing hatchets"
+      ],
+      "contradicting_facts": [
+        "You leave the throwing hatchets on the ground after retrieving them",
+        "You hand the throwing hatchets to someone else immediately after retrieval"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you take an active role during the encounter in the mushroom field?",
+      "supporting_facts": [
+        "you did not remain passive during the encounter in the mushroom field",
+        "you physically flipped Finn onto his back and into a grove of mushrooms"
+      ],
+      "contradicting_facts": [
+        "you remained passive during the encounter in the mushroom field",
+        "you did not initiate or contribute to the physical interaction with Finn"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you take a passive role when the entities attacked?",
+      "supporting_facts": [
+        "You physically repelled multiple entities by kicking them",
+        "You were not passively waiting in place"
+      ],
+      "contradicting_facts": [
+        "You did not move or respond to the threat",
+        "You waited for others to intervene before taking action"
+      ],
+      "final_score": 7.222222222222222
+    },
+    {
+      "question": "Did you continue moving without pause after standing up?",
+      "supporting_facts": [
+        "Eric stopped his movement at a certain point",
+        "Eric did not continue moving without interruption"
+      ],
+      "contradicting_facts": [
+        "You kept moving without stopping after rising",
+        "Your movement resumed and continued uninterrupted"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

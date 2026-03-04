@@ -1,0 +1,65 @@
+{
+  "character": "Jack",
+  "qas": [
+    {
+      "question": "What time do you promise to have the dossier ready if you receive the case number?",
+      "supporting_facts": [
+        "You commit to having the dossier ready by 4 o'clock upon receiving the case number",
+        "Your promise about the dossier's availability is conditional on being given the case number"
+      ],
+      "contradicting_facts": [
+        "You will have the dossier ready immediately regardless of whether the case number is provided",
+        "You promise to deliver the dossier after 4 o'clock"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Did you reveal your face during your encounter with Sam?",
+      "supporting_facts": [
+        "You lifted your mask to reveal your face",
+        "This action occurred while you were present in the building with Sam"
+      ],
+      "contradicting_facts": [
+        "You kept your mask on throughout the entire encounter with Sam",
+        "Your face remained concealed at all times"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "How did you react when the unexpected happened during the signing?",
+      "supporting_facts": [
+        "was taken aback",
+        "did not remain calm"
+      ],
+      "contradicting_facts": [
+        "You stayed completely composed",
+        "You showed no visible reaction"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Why did you hand over the dossier to Sam after the meeting?",
+      "supporting_facts": [
+        "You presented Sam with a document to sign.",
+        "You did not retain possession of the dossier after Sam signed for it."
+      ],
+      "contradicting_facts": [
+        "You kept the dossier after the encounter with Sam.",
+        "You never gave Sam any document."
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Are you currently engaged in verbal communication with others?",
+      "supporting_facts": [
+        "Jack has been talking",
+        "Jack whispered to Sam, a form of verbal communication"
+      ],
+      "contradicting_facts": [
+        "You have remained completely silent",
+        "You communicated only through gestures"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

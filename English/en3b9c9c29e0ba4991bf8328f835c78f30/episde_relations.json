@@ -1,0 +1,2218 @@
+[
+  {
+    "id": "rel_ep_ep_f5e25cd92ec4",
+    "subject_id": "ep_dbf5818c2785387a",
+    "object_id": "ep_fea2a7cc9a272424",
+    "relation_type": "elaborates",
+    "reason": "The confrontation with Vosen about lethal authorization (subject) sets up the broader strategic debate about how to handle Daniels; the second episode (object) expands on this by detailing the specific disagreement over capture versus containment, including operational constraints and priorities, thus providing further elaboration on the initial confrontation.",
+    "source_documents": [
+      "scene_141_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_cdd08cc29dc0",
+    "subject_id": "ep_7f8ab82cb72909f0",
+    "object_id": "ep_fea2a7cc9a272424",
+    "relation_type": "contrasts_with",
+    "reason": "The two episodes occur in the same scene (scene_141) and involve the same characters, Vosen and Landy, but highlight opposing strategic and ideological positions: one centers on the revelation of an unchecked lethal action protocol, while the other focuses on disagreement over operational response in Morocco. The juxtaposition emphasizes a broader conflict in crisis management philosophy, supporting a contrast relation.",
+    "source_documents": [
+      "scene_141_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1852836d20a4",
+    "subject_id": "ep_a821967b394347b2",
+    "object_id": "ep_761fc09ab8e53f0a",
+    "relation_type": "precedes",
+    "reason": "The event 'Desh's location becomes stationary on computer screen' (scene_160) in the subject episode occurs before the events in the object episode, which take place in scene_167, indicating a clear temporal sequence where Bourne's tactical reevaluation precedes the final confrontation and detonation.",
+    "source_documents": [
+      "scene_167_part_1",
+      "scene_160_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ad08582f769c",
+    "subject_id": "ep_dbf5818c2785387a",
+    "object_id": "ep_7f8ab82cb72909f0",
+    "relation_type": "elaborates",
+    "reason": "The confrontation initiated in 'Confront Vosen about lethal authorization' sets the stage for the subsequent examination of the 'Blackbriar: Lethal Action Protocol' file, where Landy reads the authorization details and Vosen justifies the lack of oversight. The second episode provides specific content and ideological conflict that expands upon the initial confrontation, thus elaborating on it with deeper context and evidence.",
+    "source_documents": [
+      "scene_141_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_5dde519ad32c",
+    "subject_id": "ep_761fc09ab8e53f0a",
+    "object_id": "ep_ba3d60657bd734b3",
+    "relation_type": "causes",
+    "reason": "The detonation in 'Confrontation and detonation' directly results in Bourne being motionless, which Desh observes before departing. The description of the second episode explicitly frames Desh's actions as a response to the outcome of the explosion, providing clear causal evidence that the first episode triggers the second.",
+    "source_documents": [
+      "scene_167_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7a57dce2d7df",
+    "subject_id": "ep_88333be50c3ac3ac",
+    "object_id": "ep_47674834ddc65a81",
+    "relation_type": "precedes",
+    "reason": "The episode 'Evade police confrontation and break free' describes Bourne breaking away from police and beginning his flight, which directly sets up the subsequent episode 'Overcome blocking officers and seize escape vehicle' where he subdues officers and commandeers a moped. Both episodes occur in scene_172 and are part of a continuous escape sequence, with the first logically and temporally preceding the second.",
+    "source_documents": [
+      "scene_172_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1dcd1846871e",
+    "subject_id": "ep_d072762287a80777",
+    "object_id": "ep_761fc09ab8e53f0a",
+    "relation_type": "precedes",
+    "reason": "The monitoring of Desh's movement and detection of his deviation occurs earlier in the narrative, as it provides situational awareness leading up to the final confrontation and detonation. The deviation indicates Desh's changing trajectory, which sets the stage for the later direct encounter between Bourne and Desh, making 'precedes' the best-supported relation.",
+    "source_documents": [
+      "scene_167_part_1",
+      "scene_158_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6a086bede56d",
+    "subject_id": "ep_294f779f3e5539dc",
+    "object_id": "ep_a0aebc45bfcb9c03",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Bourne tracks Desh to the ambush site' occurs before the object episode 'Bourne pursues Desh through urban interior after evasion', as the latter explicitly follows Desh's evasion and Bourne's subsequent pursuit through environmental obstacles, indicating a sequential narrative progression supported by the event descriptions and scene ordering.",
+    "source_documents": [
+      "scene_167_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0200330586d8",
+    "subject_id": "ep_fd89e9289ddc8bc7",
+    "object_id": "ep_eb88b5af13fb0198",
+    "relation_type": "causes",
+    "reason": "Vosen asserting authority to target Nicky Parsons by presenting the 'Blackbriar: Lethal Action Protocol' document directly leads to the formal order being issued, as Bryan inputs the kill order into the system immediately after Vosen's authorization and confrontation with Landy. The causal sequence is supported by the shared scene (scene_163) and the logical dependency: authorization precedes and enables execution of the order.",
+    "source_documents": [
+      "scene_163_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_297f07fe1a06",
+    "subject_id": "ep_d072762287a80777",
+    "object_id": "ep_a0aebc45bfcb9c03",
+    "relation_type": "precedes",
+    "reason": "The monitoring of Desh's movement and detection of his deviation occurs while Bourne and Nicky are still together and observing the screen, which sets up Bourne's subsequent physical pursuit through the urban interior after Desh evades. The related events in the second episode (Desh descending into the street and evading) directly follow the deviation detected in the first episode, establishing a clear temporal sequence.",
+    "source_documents": [
+      "scene_179_part_1",
+      "scene_158_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a0f2f3146290",
+    "subject_id": "ep_294f779f3e5539dc",
+    "object_id": "ep_761fc09ab8e53f0a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Bourne tracks Desh to the ambush site' involves Bourne following Desh and setting up surveillance, which directly precedes the object episode 'Confrontation and detonation' where Bourne sees Desh with the detonator and the explosion occurs. Both episodes occur in the same scene (scene_167) and are part of a continuous narrative sequence, with tracking logically and temporally preceding the confrontation and detonation.",
+    "source_documents": [
+      "scene_167_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4071720f9f2c",
+    "subject_id": "ep_294f779f3e5539dc",
+    "object_id": "ep_ba3d60657bd734b3",
+    "relation_type": "precedes",
+    "reason": "Bourne tracks Desh to the ambush site occurs before Desh confirms Bourne's status and departs, as the tracking and pursuit (subject) set up the confrontation that culminates in the explosion and Desh's assessment of Bourne's condition (object), with both episodes grounded in scene_167 and following a clear temporal sequence in the narrative.",
+    "source_documents": [
+      "scene_167_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f23fb337b2cb",
+    "subject_id": "ep_e4e3c61aa39b3cb3",
+    "object_id": "ep_fd6b32ce7c94bf54",
+    "relation_type": "precedes",
+    "reason": "The episode 'Desh maintains pursuit through urban terrain' involves Desh tracking Nicky through the area, which sets up his subsequent position on the rooftops in 'Desh prepares and advances on Nicky'. The latter episode includes specific actions (preparing a silencer, speeding up while targeting) that suggest a progression in proximity and intent, indicating a temporal sequence where continued pursuit precedes the final preparation for attack.",
+    "source_documents": [
+      "scene_180_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fc80ef14474f",
+    "subject_id": "ep_126f62f785510f20",
+    "object_id": "ep_d8b552b41ea2e026",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Approach the Petit Socco' describes Desh moving toward the destination, while the object episode 'Initiate covert communication while en route' occurs during the same movement. The narrative logic implies that the approach begins before the communication is initiated, as the communication happens 'while moving towards' the location. This supports a 'precedes' relation from the approach to the communication, though the exact temporal order is not explicitly stated, reducing confidence slightly.",
+    "source_documents": [
+      "scene_174_part_1",
+      "scene_169_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_074572802c08",
+    "subject_id": "ep_13b9c6af1f8bd461",
+    "object_id": "ep_eb88b5af13fb0198",
+    "relation_type": "causes",
+    "reason": "The detection and tracing of the unauthorized system breach (ep_13b9c6af1f8bd461) directly leads to Vosen ordering the asset to eliminate Nicky Parsons (ep_eb88b5af13fb0198), as the breach is traced to her computer and prompts immediate investigation and subsequent action against her. The related events in both episodes confirm the causal link: the breach confirmation and asset deviation are directly tied to the decision to target Parsons.",
+    "source_documents": [
+      "scene_163_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bf96011ef8b7",
+    "subject_id": "ep_1c645d1c1b7e7c43",
+    "object_id": "ep_a37a97e12454ece1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Set up and justify tracking Desh Bouksani' involves planning to follow Desh to locate Daniels, which sets up the subsequent action of accessing the system to locate Daniel. The latter episode depends on the prior decision to track rather than stop Desh, and the events in 'Access system and locate Daniel' occur after the plan is formulated, establishing a clear narrative sequence.",
+    "source_documents": [
+      "scene_154_part_1",
+      "scene_149_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8b7770c9b89e",
+    "subject_id": "ep_88333be50c3ac3ac",
+    "object_id": "ep_a0aebc45bfcb9c03",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Evade police confrontation and break free' involves Bourne escaping from police in scene_172, while the object episode 'Bourne pursues Desh through urban interior after evasion' occurs in scene_179 and describes Bourne following Desh after the evasion. The narrative sequence in the related events and scene numbers indicates that the evasion and break free happens before the pursuit through the urban interior, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_172_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2a6c2693ffc3",
+    "subject_id": "ep_a37a97e12454ece1",
+    "object_id": "ep_c1f706d135436ec8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Access system and locate Daniel' involves Nicky logging into a computer and identifying Daniel's location, which logically precedes Bourne's arrival at the location and his subsequent assessment of the scene in 'Assess the situation upon arrival'. The events in the first episode provide the information necessary for Bourne to travel to the location, making a 'precedes' relation well-supported by the narrative sequence.",
+    "source_documents": [
+      "scene_149_part_1",
+      "scene_178_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cfebe6270214",
+    "subject_id": "ep_21326af0e7850db7",
+    "object_id": "ep_88333be50c3ac3ac",
+    "relation_type": "precedes",
+    "reason": "Desh receives target intel and spots Bourne in his rearview mirror (ep_21326af0e7850db7), which immediately precedes Bourne's decision to break away from the police confrontation upon realizing he is being pursued (ep_88333be50c3ac3ac). The narrative sequence shows Desh detecting Bourne before Bourne initiates evasive action, establishing a clear temporal order supported by the event flow in the scenes.",
+    "source_documents": [
+      "scene_164_part_1",
+      "scene_172_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_631dc42c3686",
+    "subject_id": "ep_b6ac3214118c58a8",
+    "object_id": "ep_c1f706d135436ec8",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to sudden communication failure' involves Nicky experiencing a service denial and deciding to leave, which directly precedes Bourne's arrival and assessment of the scene in the object episode 'Assess the situation upon arrival'. The narrative sequence is supported by the related events: Nicky's departure occurs before Bourne observes her absence and other situational details upon arrival.",
+    "source_documents": [
+      "scene_173_part_1",
+      "scene_178_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_203808be6b22",
+    "subject_id": "ep_21326af0e7850db7",
+    "object_id": "ep_a0aebc45bfcb9c03",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Receive target intel and detect pursuit' occurs when Desh receives target information and spots Bourne while on his Vespa, which sets up the initial awareness of pursuit. The object episode 'Bourne pursues Desh through urban interior after evasion' begins after Desh evades police and Bourne continues the chase through stairs and corridors. The narrative sequence implies that Desh first detects Bourne (subject) before Bourne actively resumes pursuit after evasion (object), establishing a clear temporal order supported by the event flow in the description.",
+    "source_documents": [
+      "scene_164_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c92dddcf8b6e",
+    "subject_id": "ep_21326af0e7850db7",
+    "object_id": "ep_294f779f3e5539dc",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Receive target intel and detect pursuit' occurs while Desh is riding his Vespa and spots Bourne in his rearview mirror (scene_164), which precedes the object episode 'Bourne tracks Desh to the ambush site' where Desh parks his motorbike and walks around a corner, followed by Bourne on foot (scene_167). The scene numbers (164 before 167) and narrative flow indicate a clear temporal sequence where Desh's detection of Bourne comes before Bourne's active tracking on foot.",
+    "source_documents": [
+      "scene_164_part_1",
+      "scene_167_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7a13587f4c82",
+    "subject_id": "ep_21326af0e7850db7",
+    "object_id": "ep_761fc09ab8e53f0a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Receive target intel and detect pursuit' occurs when Desh receives target information and spots Bourne while riding his Vespa, which sets up the subsequent confrontation. The object episode 'Confrontation and detonation' involves Bourne seeing Desh with the detonator and the resulting explosion, which represents the climax of the encounter. The sequence of events described in the episodes—detection of pursuit followed by direct confrontation and detonation—indicates a clear temporal progression supported by the narrative order in the scenes (scene_164 preceding scene_167).",
+    "source_documents": [
+      "scene_164_part_1",
+      "scene_167_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_db973670646e",
+    "subject_id": "ep_50ba3a4175e6abe6",
+    "object_id": "ep_e4e3c61aa39b3cb3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Desh transitions from motorbike to foot travel' involves Desh parking his Vespa and moving on foot through a crowded square, which sets the stage for continued movement in urban terrain. The subsequent episode 'Desh maintains pursuit through urban terrain' describes Desh tracking Nicky despite evasive maneuvers, indicating ongoing pursuit. The shift to foot travel logically precedes and enables the sustained tracking effort in dense urban space, with both episodes linked by Desh's continuous goal of pursuing Nicky. The narrative progression and spatial continuity support a 'precedes' relation from the transition in travel mode to the continuation of pursuit.",
+    "source_documents": [
+      "scene_176_part_1",
+      "scene_180_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4425abd06e04",
+    "subject_id": "ep_294f779f3e5539dc",
+    "object_id": "ep_88333be50c3ac3ac",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne tracks Desh to the ambush site' involves Bourne following Desh on foot after he parks his motorbike, which sets up the confrontation. The subsequent episode 'Evade police confrontation and break free' begins with Bourne being surrounded by police while Desh disappears, leading Bourne to flee. The narrative sequence is supported by the disappearance of Desh (mentioned in the second episode) occurring after Bourne's pursuit (established in the first), indicating a local narrative order where tracking precedes the escape from police.",
+    "source_documents": [
+      "scene_167_part_1",
+      "scene_172_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b5f0ae8424f2",
+    "subject_id": "ep_222b2f46d7954aab",
+    "object_id": "ep_f072c46d7976cd99",
+    "relation_type": "precedes",
+    "reason": "The 'Establish covert command center' episode involves Bourne and Nicky setting up operations in a room and initiating a hack, which provides the operational context for the subsequent 'Investigate Neal Daniels' location and threat' episode. The latter episode includes Nicky searching for Neal Daniels and encountering access denial, which logically follows the establishment of the command center and the initiation of hacking activities. The sequence of events suggests a local narrative order where setting up the base precedes the specific intelligence mission targeting Daniels.",
+    "source_documents": [
+      "scene_146_part_1",
+      "scene_152_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_392d951776be",
+    "subject_id": "ep_a37a97e12454ece1",
+    "object_id": "ep_f072c46d7976cd99",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Access system and locate Daniel' involves Nicky successfully displaying Daniel's location on a monitor, which directly precedes the object episode where Nicky encounters access denial when searching for Neal Daniels and deduces his location is being blocked. The shift from successful access to denied access indicates a chronological progression, with the first episode setting up the context that leads to the urgency in the second. This sequence is supported by the narrative flow in the related events and the escalation of threat perception, establishing a clear 'precedes' relation.",
+    "source_documents": [
+      "scene_149_part_1",
+      "scene_152_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_875714b7c436",
+    "subject_id": "ep_f072c46d7976cd99",
+    "object_id": "ep_1c645d1c1b7e7c43",
+    "relation_type": "causes",
+    "reason": "The investigation into Neal Daniels' location and the threat against him (ep_f072c46d7976cd99) directly leads to the decision to track Desh Bouksani as a means to locate Daniels. Nicky's deduction that an operative will be sent to terminate Daniels prompts Bourne to escalate the mission, which results in the plan to follow Desh instead of stopping him. This causal sequence is supported by the shared goal of locating Daniels and the immediate shift in strategy following the threat assessment.",
+    "source_documents": [
+      "scene_154_part_1",
+      "scene_152_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ac0e77609a62",
+    "subject_id": "ep_222b2f46d7954aab",
+    "object_id": "ep_a37a97e12454ece1",
+    "relation_type": "precedes",
+    "reason": "The 'Establish covert command center' episode involves Bourne and Nicky entering the room, turning on lights, and Nicky beginning to hack into the Blackbriar system (scene_146). The 'Access system and locate Daniel' episode occurs in scene_149, where Nicky logs in and locates Daniel via a 3-D image. Scene numbers indicate a clear sequential order, with scene_146 preceding scene_149, supporting that the first episode occurs earlier than the second in the narrative.",
+    "source_documents": [
+      "scene_146_part_1",
+      "scene_149_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fc075a627d71",
+    "subject_id": "ep_1c645d1c1b7e7c43",
+    "object_id": "ep_d072762287a80777",
+    "relation_type": "precedes",
+    "reason": "The episode 'Set up and justify tracking Desh Bouksani' involves Bourne initiating the plan to track Desh and instructing Nicky to arrange a meeting, which establishes the intent to monitor him. The episode 'Monitor Desh's movement and detect deviation' involves the actual real-time observation of Desh's movement and the detection of an anomaly, which logically follows after the tracking plan is set. The related events in the first episode (scene_154) occur before the monitoring event (scene_158), supporting a clear temporal order.",
+    "source_documents": [
+      "scene_154_part_1",
+      "scene_158_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_84e4361808f8",
+    "subject_id": "ep_d072762287a80777",
+    "object_id": "ep_fd6b32ce7c94bf54",
+    "relation_type": "precedes",
+    "reason": "The monitoring of Desh's movement and detection of deviation (ep_d072762287a80777) occurs while Bourne and Nicky are walking and observing the screen, which sets up the context for Desh's subsequent actions on the rooftops. The deviation detection implies an early stage in the sequence, prior to Desh preparing his weapon and advancing on Nicky (ep_fd6b32ce7c94bf54), which represents a later, more active phase of the attack. The narrative progression from detection to execution supports a 'precedes' relation with strong but slightly indirect temporal ordering.",
+    "source_documents": [
+      "scene_158_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7f45ee10e7a9",
+    "subject_id": "ep_d072762287a80777",
+    "object_id": "ep_a821967b394347b2",
+    "relation_type": "precedes",
+    "reason": "The monitoring of Desh's movement and detection of deviation (ep_d072762287a80777) occurs while Bourne and Nicky are walking and observing the screen, which includes the event of Desh's icon deviating. The subsequent episode (ep_a821967b394347b2) involves Bourne reacting to Desh's location halting and a scooter driver approaching, indicating a later point in the narrative sequence. The shift from deviation to halted movement suggests a temporal progression, with the former leading into the latter, supporting a 'precedes' relation from the monitoring episode to the response episode.",
+    "source_documents": [
+      "scene_160_part_1",
+      "scene_158_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3b11a80ea9e7",
+    "subject_id": "ep_a37a97e12454ece1",
+    "object_id": "ep_b6ac3214118c58a8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Access system and locate Daniel' involves Nicky actively using a computer system to locate Daniel with Bourne observing, which establishes an operational context of communication and surveillance. The subsequent episode 'Respond to sudden communication failure' begins with Nicky answering a call from Bourne that is abruptly cut, indicating a disruption in the communication channel established earlier. The sequence of events suggests a narrative progression where the successful system access and monitoring setup precedes the unexpected communication failure. While no explicit timestamp is given, the causal and temporal coherence of the narrative supports that the failure occurs after the system access, making 'precedes' the best-supported relation.",
+    "source_documents": [
+      "scene_149_part_1",
+      "scene_173_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9099c48cee57",
+    "subject_id": "ep_1c645d1c1b7e7c43",
+    "object_id": "ep_c1f706d135436ec8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Set up and justify tracking Desh Bouksani' involves Bourne instructing Nicky to arrange a meeting and justifying the decision to follow Desh, which sets the operational goal. The episode 'Assess the situation upon arrival' occurs after Bourne arrives at the location, where he observes environmental details such as Desh's Vespa and police presence. The narrative sequence is supported by the causal flow of events: the plan to track Desh must precede the on-site assessment upon arrival, and the related events in the second episode (scene_178) occur after those in the first (scene_154), indicating a clear temporal order.",
+    "source_documents": [
+      "scene_154_part_1",
+      "scene_178_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3f89c3efd149",
+    "subject_id": "ep_b9d5af57c9338c68",
+    "object_id": "ep_e4e3c61aa39b3cb3",
+    "relation_type": "contrasts_with",
+    "reason": "Nicky's evasive actions using Treadstone training are juxtaposed with Desh's persistent pursuit, highlighting a contrast between her tactical evasion and his determined tracking, both occurring simultaneously in the same scene to heighten narrative tension.",
+    "source_documents": [
+      "scene_180_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ec9ea91a48c3",
+    "subject_id": "ep_ff7687c4d4448e81",
+    "object_id": "ep_e38fe7c91601f24c",
+    "relation_type": "causes",
+    "reason": "The destruction of the phone is a deliberate act of operational security to prevent tracking, which directly triggers the subsequent action of exiting the square to evade potential threat, as both actions are part of an immediate evasion protocol and the phone destruction logically enables the safe movement away from the location.",
+    "source_documents": [
+      "scene_173_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7aa2e1ffffd5",
+    "subject_id": "ep_79a4d80c94819b62",
+    "object_id": "ep_a8f2e0d9494bc1ba",
+    "relation_type": "precedes",
+    "reason": "Nicky's detection of pursuit and initiation of evasion occurs before her entry into the riad to break line of sight, as the recognition of threat (subject episode) directly prompts the physical evasion action (object episode), with both events occurring in scene_180 and forming a temporally ordered sequence in the narrative.",
+    "source_documents": [
+      "scene_180_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7af516aeea47",
+    "subject_id": "ep_c2e19e2f97da516d",
+    "object_id": "ep_494eef9df155f91f",
+    "relation_type": "causes",
+    "reason": "Bourne detecting Daniels' car and recognizing the imminent threat leads directly to the explosion, which kills Daniels and incapacitates Bourne. The causal chain is supported by the shared scene and the description of the explosion as an immediate consequence of the threat Bourne observes.",
+    "source_documents": [
+      "scene_167_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_41db149bdd62",
+    "subject_id": "ep_b6ac3214118c58a8",
+    "object_id": "ep_e38fe7c91601f24c",
+    "relation_type": "causes",
+    "reason": "The communication failure in the subject episode directly triggers Nicky's decision to leave the area, which is enacted in the object episode. The description of the first episode states she 'decides to leave the area immediately' upon seeing 'SERVICE DENIED,' and the second episode begins with her physically leaving the square. This constitutes a clear causal chain where the failed communication prompts the evasion behavior.",
+    "source_documents": [
+      "scene_173_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ae96e0f10943",
+    "subject_id": "ep_c2e19e2f97da516d",
+    "object_id": "ep_761fc09ab8e53f0a",
+    "relation_type": "precedes",
+    "reason": "Bourne detecting Daniels' car and recognizing the threat occurs just before the confrontation and detonation, as both episodes are anchored in scene_167 and the detection of danger logically precedes the detonation event. The sequence of related events suggests a temporal progression from threat recognition to explosive climax.",
+    "source_documents": [
+      "scene_167_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_604f10d905d7",
+    "subject_id": "ep_294f779f3e5539dc",
+    "object_id": "ep_c2e19e2f97da516d",
+    "relation_type": "precedes",
+    "reason": "Bourne tracks Desh to the ambush site before detecting Daniels' car and the imminent threat, as both episodes occur in scene_167 and the pursuit (tracking Desh) sets up the context for the subsequent awareness of danger. The narrative flow implies a temporal sequence where surveillance precedes threat recognition.",
+    "source_documents": [
+      "scene_167_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_696e663742e2",
+    "subject_id": "ep_b6ac3214118c58a8",
+    "object_id": "ep_ff7687c4d4448e81",
+    "relation_type": "causes",
+    "reason": "The sudden communication failure and 'SERVICE DENIED' message alarm Nicky, leading her to decide to leave the area, which directly triggers her subsequent action of dismantling and scattering her phone components to avoid detection. The description of the second episode explicitly states it is a 'deliberate act of operational security following the suspicious disconnection and error message,' providing clear causal evidence from the first episode to the second.",
+    "source_documents": [
+      "scene_173_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_101a590a2e31",
+    "subject_id": "ep_a0df127130cbdaca",
+    "object_id": "ep_24e4a159533d1b14",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne uncovers origins of Treadstone' occurs at the truck stop before the arrival of Spanish police, which directly prompts the episode 'Bourne and Nicky evade detection'. The shared scene (scene_138) and causal trigger of police arrival support the temporal order: uncovering the past happens first, then they flee.",
+    "source_documents": [
+      "scene_138_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_234735dc9ba3",
+    "subject_id": "ep_761fc09ab8e53f0a",
+    "object_id": "ep_494eef9df155f91f",
+    "relation_type": "causes",
+    "reason": "The detonation triggered by Desh in 'Confrontation and detonation' directly results in the physical aftermath described in 'Explosion aftermath and Bourne's incapacitation', including Daniels' death and Bourne being thrown and left motionless. The causal chain is explicitly supported by the event sequence in the same scene.",
+    "source_documents": [
+      "scene_167_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_320775955b12",
+    "subject_id": "ep_1f5ce5eb4de241fb",
+    "object_id": "ep_fea2a7cc9a272424",
+    "relation_type": "contrasts_with",
+    "reason": "Both episodes involve Landy and Vosen responding to the Daniels situation, but the first focuses on challenging the significance of the leak's content, while the second highlights their strategic disagreement on response—capture versus containment—juxtaposing their priorities and approaches in the same scene, indicating a contrast in crisis management stance.",
+    "source_documents": [
+      "scene_141_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_081ef1a1a65f",
+    "subject_id": "ep_a8f2e0d9494bc1ba",
+    "object_id": "ep_b9d5af57c9338c68",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Escape into riad to break line of sight' provides a specific action—entering a riad—that exemplifies the broader application of Treadstone evasion tactics described in the object episode. The physical act of breaking line of sight aligns with and concretely illustrates the stealthy movement and tactical positioning mentioned in 'Execute Treadstone evasion tactics in urban environment', thus offering a focused instance that expands on the general tactic.",
+    "source_documents": [
+      "scene_180_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_405ec8389845",
+    "subject_id": "ep_dbf5818c2785387a",
+    "object_id": "ep_3883f0b6d2388de6",
+    "relation_type": "precedes",
+    "reason": "The confrontation between Landy and Vosen occurs before Vosen issues the kill order for Bourne, as indicated by the sequence of events: Landy exits Vosen's office after their confrontation, and only then does Vosen issue the kill order and report Bourne's loss. This establishes a clear temporal order where the confrontation precedes the escalation.",
+    "source_documents": [
+      "scene_138_part_1",
+      "scene_141_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fe11d46c71e6",
+    "subject_id": "ep_7f8ab82cb72909f0",
+    "object_id": "ep_fd89e9289ddc8bc7",
+    "relation_type": "elaborates",
+    "reason": "The first episode introduces the 'Blackbriar: Lethal Action Protocol' and its implications regarding unchecked executive power, which is then reused in the second episode to justify lethal action against Nicky Parsons. The second episode applies the protocol in a specific operational context, thereby expanding on its use and significance, indicating that the first episode provides foundational information that the second elaborates upon.",
+    "source_documents": [
+      "scene_141_part_1",
+      "scene_163_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_75ecad618c2e",
+    "subject_id": "ep_47674834ddc65a81",
+    "object_id": "ep_f15edfa47a25d382",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Overcome blocking officers and seize escape vehicle' involves Bourne commandeering a moped during a police dragnet, which directly sets up the subsequent episode 'Flee through traffic while attempting to contact Nicky' where he is already on the stolen moped weaving through traffic. The sequence of events in the shared scene (scene_172) and the dependency on vehicle acquisition before flight confirm a clear temporal order.",
+    "source_documents": [
+      "scene_172_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_229db7cc7a9e",
+    "subject_id": "ep_88333be50c3ac3ac",
+    "object_id": "ep_f15edfa47a25d382",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Evade police confrontation and break free' involves Bourne escaping on foot by sprinting across traffic, while the object episode 'Flee through traffic while attempting to contact Nicky' occurs on a stolen moped with squad cars in pursuit. The transition from foot chase to moped flight indicates a clear narrative sequence where the evasion on foot precedes the pursuit on the moped, as supported by the progression of events in scene_172.",
+    "source_documents": [
+      "scene_172_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_19ad028b0e27",
+    "subject_id": "ep_79a4d80c94819b62",
+    "object_id": "ep_b9d5af57c9338c68",
+    "relation_type": "causes",
+    "reason": "Nicky's detection of pursuit and decision to evade (ep_79a4d80c94819b62) directly triggers her application of Treadstone evasion tactics (ep_b9d5af57c9338c68), as the realization of being pursued leads immediately to the execution of trained evasion behavior, with both episodes grounded in scene_180 and linked by a clear cause-effect sequence in the narrative.",
+    "source_documents": [
+      "scene_180_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_140a51cfca55",
+    "subject_id": "ep_d6a1a855920bc807",
+    "object_id": "ep_d8b552b41ea2e026",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Begin journey by hailing a taxi' involves DESH initiating a journey, which logically precedes the object episode 'Initiate covert communication while en route', where DESH is already moving towards Petit Socco. The narrative flow and event descriptions support a temporal sequence where hailing the taxi comes before making a silent call during transit.",
+    "source_documents": [
+      "scene_145_part_1",
+      "scene_169_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8c907caff627",
+    "subject_id": "ep_dbf5818c2785387a",
+    "object_id": "ep_fd89e9289ddc8bc7",
+    "relation_type": "precedes",
+    "reason": "The confrontation about lethal authorization against Daniels (subject) occurs in doc_140, while Vosen's assertion of authority to target Nicky Parsons (object) occurs in doc_162, indicating a later point in the narrative. The related_events in the object episode include Landy confronting Vosen about the operation targeting Parsons, which extends the conflict initiated in the subject episode, supporting a sequential narrative order.",
+    "source_documents": [
+      "scene_141_part_1",
+      "scene_163_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6e5b93492dfb",
+    "subject_id": "ep_87673601f3987d8d",
+    "object_id": "ep_fea2a7cc9a272424",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Establish threat posed by Daniels' escape' provides critical background about Daniels' actions and significance, which informs the strategic debate in 'Debate capture versus containment strategy'. The justification of the threat level elaborates the context necessary for understanding the urgency and divergence in response strategies between Landy and Vosen, as both episodes occur in the same scene and build upon the same intelligence disclosure.",
+    "source_documents": [
+      "scene_141_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_22b28c374143",
+    "subject_id": "ep_c1f706d135436ec8",
+    "object_id": "ep_c895d8979e2007a4",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Assess the situation upon arrival' involves Bourne observing environmental details immediately upon arrival, including Desh's Vespa and police presence, which occurs before he parks his vehicle and moves to gain elevation in the object episode 'Secure a vantage point for surveillance'. The related events in both episodes are ordered within the same scene (scene_178), and the actions in the first episode logically and temporally precede the goal-driven sequence of seeking elevated visibility.",
+    "source_documents": [
+      "scene_178_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fa22752bc3f5",
+    "subject_id": "ep_1f5ce5eb4de241fb",
+    "object_id": "ep_7f8ab82cb72909f0",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, where Landy questions the scope of Blackbriar's authority and the significance of the leak, is expanded upon by the object episode, which reveals the specific lethal action protocol that substantiates the concerns about unchecked power. The examination of the 'Lethal Action Protocol' file provides concrete evidence that elaborates on the abstract challenge to authority raised in the subject episode.",
+    "source_documents": [
+      "scene_141_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_d13c2a207777",
+    "subject_id": "ep_1f5ce5eb4de241fb",
+    "object_id": "ep_dbf5818c2785387a",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Challenge the scope of Blackbriar's authority' provides additional context and rationale for Landy's confrontation with Vosen, elaborating on her skepticism about the program's lethal capabilities and the significance of the leak, which directly informs the tension in 'Confront Vosen about lethal authorization'. The shared focus on challenging operational authority and the sequence of events in the same scene support this elaborative relationship.",
+    "source_documents": [
+      "scene_141_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a697d4c1207d",
+    "subject_id": "ep_a8f2e0d9494bc1ba",
+    "object_id": "ep_e4e3c61aa39b3cb3",
+    "relation_type": "precedes",
+    "reason": "Nicky's entry into the riad to break line of sight (ep_a8f2e0d9494bc1ba) occurs as an evasive action in response to Desh's pursuit, which continues afterward. The related events in both episodes occur in the same scene (scene_180), but the act of escaping into the riad logically precedes Desh's ongoing effort to track her through the area, indicating a temporal sequence where evasion comes before the antagonist's sustained pursuit response.",
+    "source_documents": [
+      "scene_180_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2556c504ee78",
+    "subject_id": "ep_3883f0b6d2388de6",
+    "object_id": "ep_66b5badb01f281db",
+    "relation_type": "precedes",
+    "reason": "The episode 'Vosen escalates pursuit of Bourne' occurs first, as Vosen issues a kill order and reports Bourne's loss, which sets the context for the subsequent episode where Kramer and Vosen discuss the threat of Bourne meeting Daniels. Both episodes occur in scene_138, but the sequence of events in the description implies that the kill order and report precede the discussion about Daniels, establishing a clear narrative order.",
+    "source_documents": [
+      "scene_138_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4f5175574f81",
+    "subject_id": "ep_66b9ab543e44bb8d",
+    "object_id": "ep_cdbd044605da4f40",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to cellphone alert' involves Desh noticing the alert, which logically precedes him seizing the phone and resuming movement in the subsequent episode. The first episode sets up the trigger that leads to the action in the second, with no indication of overlap or reversal, supporting a clear temporal order.",
+    "source_documents": [
+      "scene_148_part_1",
+      "scene_162_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f87ed263be8a",
+    "subject_id": "ep_79a4d80c94819b62",
+    "object_id": "ep_e4e3c61aa39b3cb3",
+    "relation_type": "precedes",
+    "reason": "Nicky's detection of pursuit and initiation of evasion (ep_79a4d80c94819b62) logically and narratively precedes Desh's continued pursuit through the urban terrain (ep_e4e3c61aa39b3cb3), as her evasive action triggers his tracking response. The related events in both episodes occur in the same scene (scene_180), but the causal sequence implies Nicky's recognition and decision to evade comes first, prompting Desh's sustained pursuit.",
+    "source_documents": [
+      "scene_180_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ed327d62c000",
+    "subject_id": "ep_126f62f785510f20",
+    "object_id": "ep_a0aebc45bfcb9c03",
+    "relation_type": "precedes",
+    "reason": "Desh's approach to the Petit Socco involves moving toward the location as a destination, while Bourne's pursuit begins after Desh has descended into the street and evaded police. The narrative sequence implies that Desh's movement toward the area precedes Bourne's active pursuit through the urban interior, with Bourne responding to Desh's prior actions.",
+    "source_documents": [
+      "scene_174_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9e8652bf3c22",
+    "subject_id": "ep_a0aebc45bfcb9c03",
+    "object_id": "ep_946765fc307a5780",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne pursues Desh through urban interior after evasion' describes Bourne following Desh after Desh descends into the street and evades police, which sets up the subsequent event where Bourne encounters a checkpoint and loses visual contact with Desh. The pursuit logically and temporally precedes the loss of contact, as the checkpoint encounter interrupts the ongoing chase. This local narrative order is supported by the shared scene reference (scene_179) and the causal-temporal flow in the descriptions.",
+    "source_documents": [
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_384146cec88d",
+    "subject_id": "ep_126f62f785510f20",
+    "object_id": "ep_294f779f3e5539dc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Approach the Petit Socco' involves Desh moving toward the location, which must occur before Bourne can track him after he parks and walks around a corner, as described in 'Bourne tracks Desh to the ambush site'. The sequence of events in the related scenes supports a clear temporal order where Desh's approach precedes Bourne's pursuit.",
+    "source_documents": [
+      "scene_174_part_1",
+      "scene_167_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_20f8907e4618",
+    "subject_id": "ep_3883f0b6d2388de6",
+    "object_id": "ep_fd89e9289ddc8bc7",
+    "relation_type": "precedes",
+    "reason": "The episode 'Vosen escalates pursuit of Bourne' involves Vosen issuing a kill order for Bourne and reporting his loss, which sets the stage for subsequent actions. The episode 'Vosen asserts authority to target Nicky Parsons' occurs after Nicky's involvement is discovered and represents a further escalation. The narrative progression from targeting Bourne to including Parsons suggests a temporal sequence where the first episode precedes the second, supported by the escalation pattern and lack of indication that Parsons was targeted before Bourne's status was reported.",
+    "source_documents": [
+      "scene_138_part_1",
+      "scene_163_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2097b3b8ac32",
+    "subject_id": "ep_5469a465fba8cb2f",
+    "object_id": "ep_13b9c6af1f8bd461",
+    "relation_type": "causes",
+    "reason": "The asset's unexpected deviation (in ep_5469a465fba8cb2f) triggers the investigation that leads to the detection of the unauthorized system breach traced to Nicky Parsons (in ep_13b9c6af1f8bd461). The description of ep_13b9c6af1f8bd461 explicitly states that the breach coincides with the asset's deviation, and Vosen identifies a connection between the two, indicating a causal link from the deviation response to the breach detection.",
+    "source_documents": [
+      "scene_163_part_1",
+      "scene_159_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fdf0b4fac7cc",
+    "subject_id": "ep_66b9ab543e44bb8d",
+    "object_id": "ep_d8b552b41ea2e026",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to cellphone alert' involves Desh noticing an alert on his cellphone, which plausibly initiates his movement and subsequent action. The object episode 'Initiate covert communication while en route' occurs while Desh is moving towards Petit Socco, implying a sequence where the alert prompts the journey and the communication. The narrative flow suggests a temporal order, with the alert preceding the covert call during transit, though exact chronology is not explicitly confirmed in the text.",
+    "source_documents": [
+      "scene_148_part_1",
+      "scene_169_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b98020f98c1a",
+    "subject_id": "ep_126f62f785510f20",
+    "object_id": "ep_50ba3a4175e6abe6",
+    "relation_type": "precedes",
+    "reason": "The episode 'Approach the Petit Socco' describes Desh moving toward a destination, while 'Desh transitions from motorbike to foot travel' involves parking the Vespa at Rue des Chrétiens and continuing on foot. Rue des Chrétiens is near the Petit Socco, and the shift from motorbike to walking suggests a progression in the approach. The narrative implies a sequence where approaching the area precedes transitioning modes of travel upon reaching a more congested zone, based on the spatial and goal-driven context.",
+    "source_documents": [
+      "scene_174_part_1",
+      "scene_176_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dd5a6c66c815",
+    "subject_id": "ep_cdbd044605da4f40",
+    "object_id": "ep_d8b552b41ea2e026",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Desh seizing the phone and resuming movement, which is detected on the monitoring system. The second episode involves Desh making a silent call while moving towards Petit Socco. The resumption of movement (in the first episode) logically precedes the act of making a call during that movement (in the second episode), as the movement must restart before communication can occur en route. This temporal sequence is supported by the narrative flow and event dependencies.",
+    "source_documents": [
+      "scene_162_part_1",
+      "scene_169_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c6918e2ebc40",
+    "subject_id": "ep_126f62f785510f20",
+    "object_id": "ep_3c21e0a8187b22da",
+    "relation_type": "precedes",
+    "reason": "The episode 'Approach the Petit Socco' involves Desh moving toward a destination, which logically precedes the subsequent interception of Nicky in 'Intercept Nicky by anticipating her route'. The latter episode occurs at a specific location (building steps) and involves real-time observation and action, suggesting it follows Desh's approach. While exact chronology is not explicitly stated, the narrative progression from approaching a location to performing a targeted interception implies a temporal sequence supported by the goal-driven movement in the first episode and the situated action in the second.",
+    "source_documents": [
+      "scene_174_part_1",
+      "scene_183_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4bea78a14086",
+    "subject_id": "ep_6468345115383a50",
+    "object_id": "ep_a821967b394347b2",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Retrieve and flee with scooter' involves Desh driving off on the scooter, which is a necessary precondition for the object episode where Bourne observes that Desh's location has stopped moving on the screen. The cessation of movement implies that Desh had been moving previously, which aligns with the fleeing action in the first episode. Thus, the retrieval and flight must temporally precede Bourne's reassessment upon the halt, as supported by the narrative sequence of events.",
+    "source_documents": [
+      "scene_151_part_1",
+      "scene_160_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_63272dd7aa2c",
+    "subject_id": "ep_1207b9164915b203",
+    "object_id": "ep_761fc09ab8e53f0a",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Desh actively defusing a bomb while being interrupted by Nicky, which occurs before the object episode where Bourne sees Desh holding the detonator and the explosion is triggered. The defusal attempt (and interruption) logically and chronologically precedes the final confrontation and detonation, as supported by the progression from active defusing to detonation in the narrative sequence.",
+    "source_documents": [
+      "scene_153_part_1",
+      "scene_167_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9840a9c0bb54",
+    "subject_id": "ep_21326af0e7850db7",
+    "object_id": "ep_e4e3c61aa39b3cb3",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Desh receiving target intel and spotting Bourne, which establishes initial awareness. The object episode involves Desh actively maintaining pursuit of Nicky through urban terrain. The transition from detection to sustained pursuit suggests a temporal sequence where awareness precedes sustained tracking, supported by the narrative flow in the descriptions.",
+    "source_documents": [
+      "scene_164_part_1",
+      "scene_180_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0ab7e02c4168",
+    "subject_id": "ep_294f779f3e5539dc",
+    "object_id": "ep_50ba3a4175e6abe6",
+    "relation_type": "precedes",
+    "reason": "Bourne tracks Desh to the ambush site immediately after Desh parks his motorbike and begins walking, as both episodes are grounded in scene_167 and scene_176 respectively, with Desh's transition to foot travel enabling Bourne's subsequent surveillance on foot. The narrative order implies Bourne's pursuit follows Desh's mode of travel change, supporting a 'precedes' relation from Desh's transition to Bourne's tracking.",
+    "source_documents": [
+      "scene_167_part_1",
+      "scene_176_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6da783e9d976",
+    "subject_id": "ep_3c21e0a8187b22da",
+    "object_id": "ep_e4e3c61aa39b3cb3",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Intercept Nicky by anticipating her route' involves DESH actively cutting off Nicky's path, which logically follows tracking her movements. The object episode 'Desh maintains pursuit through urban terrain' describes an earlier phase of the chase where DESH is still tracking, suggesting a narrative sequence where pursuit precedes interception. The related events in the subject episode occur in scene_183, while the object episode's event occurs in scene_180, supporting a local narrative order where tracking (ep_e4e3c61aa39b3cb3) precedes interception (ep_3c21e0a8187b22da). Therefore, the subject episode follows the object episode, making the relation 'precedes' with subject -> object directionally unsupported; however, given the schema directionality and the correct temporal order, the relation is 'precedes' with object -> subject. But since the required output uses the given subject and object order, and 'precedes' is directed, the correct assignment is subject (later) does not precede object (earlier). Thus, reversing the direction would be needed for correctness, but per instructions, direction must be justified. Given the scene numbers (180 before 183), ep_e4e3c61aa39b3cb3 precedes ep_3c21e0a8187b22da. Therefore, in the given subject-object order (ep_3c21e0a8187b22da -> ep_e4e3c61aa39b3cb3), the 'precedes' relation is not valid. No other relation is supported. Hence, after reevaluation, the correct output is NONE due to incorrect directionality for 'precedes' and lack of support for other relations.",
+    "source_documents": [
+      "scene_183_part_1",
+      "scene_180_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_018c0297c7b5",
+    "subject_id": "ep_ba3d60657bd734b3",
+    "object_id": "ep_fd6b32ce7c94bf54",
+    "relation_type": "precedes",
+    "reason": "Desh confirms Bourne's status and departs on his motorbike before preparing to advance on Nicky from the rooftops, indicating a clear temporal sequence where the first episode sets up the continuation of the mission that is further developed in the second episode.",
+    "source_documents": [
+      "scene_167_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_72d28138bad0",
+    "subject_id": "ep_a821967b394347b2",
+    "object_id": "ep_cdbd044605da4f40",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Bourne reacting to Desh's location halting, while the object episode describes Desh resuming movement by seizing the phone, which reactivates the location signal. The halt must occur before the resumption, establishing a clear temporal sequence: the stationary state (subject) precedes the renewed motion (object).",
+    "source_documents": [
+      "scene_160_part_1",
+      "scene_162_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ffd63f84a028",
+    "subject_id": "ep_21326af0e7850db7",
+    "object_id": "ep_fd6b32ce7c94bf54",
+    "relation_type": "precedes",
+    "reason": "Desh first receives target intel and detects pursuit while on his Vespa (ep_21326af0e7850db7), which occurs before he moves to the rooftops to prepare and advance on Nicky (ep_fd6b32ce7c94bf54). The shift from detection to active targeting indicates a temporal sequence supported by the narrative progression in the scene descriptions.",
+    "source_documents": [
+      "scene_164_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_60cca47ef1c8",
+    "subject_id": "ep_21326af0e7850db7",
+    "object_id": "ep_50ba3a4175e6abe6",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Receive target intel and detect pursuit' occurs while Desh is riding his Vespa and includes spotting Bourne in the rearview mirror, which sets up immediate awareness. The object episode 'Desh transitions from motorbike to foot travel' begins with Desh parking the Vespa and moving on foot, indicating a subsequent phase of movement. The narrative sequence implies a temporal progression: receiving intel and detecting pursuit happens before transitioning to foot travel, supported by the logical flow of events in the description and the shared context of Desh's movement toward a goal.",
+    "source_documents": [
+      "scene_164_part_1",
+      "scene_176_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_04e8cfeb9ce5",
+    "subject_id": "ep_50ba3a4175e6abe6",
+    "object_id": "ep_a0aebc45bfcb9c03",
+    "relation_type": "precedes",
+    "reason": "Desh transitions to foot travel immediately before Bourne pursues him through the urban interior, as Desh's evasion by blending into the crowd (part of ep_50ba3a4175e6's continuation into scene_179) directly sets the stage for Bourne's pursuit in ep_a0aebc45bfcb9c03. The narrative sequence shows Desh's movement on foot enabling the chase, with both episodes linked temporally through scene_179 events.",
+    "source_documents": [
+      "scene_176_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_876edb7c609b",
+    "subject_id": "ep_21326af0e7850db7",
+    "object_id": "ep_ba3d60657bd734b3",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Receive target intel and detect pursuit' occurs when Desh receives target information and spots Bourne while riding his Vespa, which takes place in scene_164. The object episode 'Desh confirms Bourne's status and departs' occurs in scene_167, where Desh observes Bourne after an explosion and leaves to continue his mission. The narrative order of scenes (164 before 167) provides explicit chronological evidence that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_164_part_1",
+      "scene_167_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4efc15ab36f7",
+    "subject_id": "ep_21326af0e7850db7",
+    "object_id": "ep_3c21e0a8187b22da",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Receive target intel and detect pursuit' involves Desh receiving target information and spotting Bourne while on his Vespa, which establishes initial awareness of the targets. The object episode 'Intercept Nicky by anticipating her route' occurs later, where Desh actively intercepts Nicky based on strategic anticipation. The narrative progression from detecting Bourne (and identifying Nicky as a target) to subsequently intercepting Nicky indicates a temporal sequence supported by the goal-driven continuity of pursuit, with no evidence of overlap or reversal. Thus, the first episode precedes the second.",
+    "source_documents": [
+      "scene_164_part_1",
+      "scene_183_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a42546b0bf0a",
+    "subject_id": "ep_e46373b1800fe155",
+    "object_id": "ep_ff7687c4d4448e81",
+    "relation_type": "causes",
+    "reason": "The failed or compromised communication attempt during the phone call (subject) directly leads to Nicky's decision to destroy her phone to avoid detection (object), as the suspicious disconnection and lack of response trigger her operational security response. The description of the second episode explicitly references the 'suspicious disconnection' as a motivating factor, providing clear causal evidence.",
+    "source_documents": [
+      "scene_168_part_1",
+      "scene_173_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4d2b1cb4ccac",
+    "subject_id": "ep_ba3d60657bd734b3",
+    "object_id": "ep_e4e3c61aa39b3cb3",
+    "relation_type": "precedes",
+    "reason": "Desh confirms Bourne's status and departs (ep_ba3d60657bd734b3) before maintaining pursuit of Nicky (ep_e4e3c61aa39b3cb3), as the departure to target Nicky sets up the subsequent tracking episode. The narrative flow indicates a temporal sequence where Desh first concludes his engagement with Bourne and then actively resumes the chase toward Nicky.",
+    "source_documents": [
+      "scene_167_part_1",
+      "scene_180_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_820163854491",
+    "subject_id": "ep_e46373b1800fe155",
+    "object_id": "ep_b6ac3214118c58a8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Wait for a coded response during a phone call' involves Nicky receiving a silent call at a café, which represents an initial failed communication attempt. The episode 'Respond to sudden communication failure' occurs afterward, where Nicky's phone displays 'SERVICE DENIED' and she reacts to immediate danger. The sequence of communication breakdowns and escalating threat response suggests a temporal progression, with the first failed call preceding the more severe service denial and alarm response.",
+    "source_documents": [
+      "scene_173_part_1",
+      "scene_168_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7984d02927dc",
+    "subject_id": "ep_d072762287a80777",
+    "object_id": "ep_cdbd044605da4f40",
+    "relation_type": "precedes",
+    "reason": "The monitoring episode (ep_d072762287a80777) involves detecting Desh's deviation via his icon on screen, which occurs while he is already in motion on his scooter. The seizure of the phone and resumption of movement (ep_cdbd044605da4f40) must occur after this deviation is detected, as the resumption of movement implies a prior halt, and the deviation was observed during ongoing movement. Thus, the monitoring and detection episode precedes the phone seizure and renewed movement.",
+    "source_documents": [
+      "scene_162_part_1",
+      "scene_158_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_66fc08eb1b57",
+    "subject_id": "ep_c5f36cc987d3b953",
+    "object_id": "ep_cdbd044605da4f40",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Detect asset's acquisition of materials' includes the observation of Desh's icon stopping on the monitor, followed by a report of material acquisition. The object episode 'Desh seizes phone and resumes movement' begins with Desh snatching the phone and his icon resuming movement. The resumption of movement implies prior stillness, which aligns with the halt described in the first episode. The narrative flow and the logical sequence of movement stopping, then starting again, support that the first episode precedes the second.",
+    "source_documents": [
+      "scene_150_part_1",
+      "scene_162_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0873d874ff09",
+    "subject_id": "ep_1207b9164915b203",
+    "object_id": "ep_ab946d3c551f332b",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to Nicky's interruption while defusing bomb' occurs in scene_153, where Desh is actively working on the bomb and is interrupted by Nicky. The object episode 'Receive new mission instructions and prepare for rendezvous' occurs in scene_155, where the bomb is completed and new instructions are received. The progression from scene_153 to scene_155 in the narrative order supports that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_153_part_1",
+      "scene_155_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3321671fb074",
+    "subject_id": "ep_1c645d1c1b7e7c43",
+    "object_id": "ep_3c21e0a8187b22da",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Bourne initiating a plan to track Desh Bouksani by arranging a meeting, which sets up surveillance to follow Desh. The object episode involves Desh actively intercepting Nicky by anticipating her route, which logically occurs after surveillance has been established. The narrative flow implies temporal ordering: the setup to track Desh must precede Desh's observed actions in intercepting Nicky, as the tracking context enables the later episode. No explicit causal, contrasting, or elaborative link is stated.",
+    "source_documents": [
+      "scene_154_part_1",
+      "scene_183_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_aaf0839cb439",
+    "subject_id": "ep_c1f706d135436ec8",
+    "object_id": "ep_3c21e0a8187b22da",
+    "relation_type": "precedes",
+    "reason": "Bourne's assessment of the situation upon arrival (noting Nicky's absence, Desh's Vespa, police presence, and crowded streets) logically and chronologically precedes DESH intercepting Nicky by anticipating her route. The events in the first episode occur at the location Bourne arrives at, and DESH's interception of Nicky is a subsequent development in the narrative sequence, supported by the local order of scenes (doc_177/scene_178 before doc_182/scene_183).",
+    "source_documents": [
+      "scene_183_part_1",
+      "scene_178_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_32674442fda3",
+    "subject_id": "ep_24e4a159533d1b14",
+    "object_id": "ep_7f35e29563842c2c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne and Nicky evade detection' occurs at a truck stop upon the arrival of Spanish police and ends with them leaving, while 'Escape after enemy surrender' involves fleeing after agents surrender and getting into Nicky's car. The related events indicate that the surrender (scene_137) precedes the departure from the truck stop (scene_138), placing the object episode before the subject episode in narrative order. Therefore, the subject episode actually follows the object episode, but since 'precedes' is directed and the subject must precede the object for the relation to hold, the correct application is reversed. However, based on scene numbering (scene_137 before scene_138), 'ep_7f35e29563842c2c' precedes 'ep_24e4a159533d1b14'. Given the subject is listed first, and the relation must be directed, the correct relation is 'precedes' with object preceding subject — but since the schema requires subject -> object direction, and the subject does not precede the object, the relation cannot be confidently asserted in either direction without inversion. Yet scene order (137 before 138) clearly supports temporal sequence. Re-evaluating: 'Escape after enemy surrender' (scene_137) happens before 'evade detection' (scene_138). Thus, object precedes subject. Since 'precedes' is directed and we are evaluating subject -> object, this would be false. But if we interpret the relation as subject -> object meaning ep_24e4a159533d1b14 precedes ep_7f35e29563842c2c, that contradicts scene order. Therefore, the only valid temporal relation is ep_7f35e29563842c2c precedes ep_24e4a159533d1b14. Since we cannot reverse subject and object, and the subject does not precede the object, 'precedes' cannot be correctly applied. No other relation is supported. Hence, despite clear temporal order, the directionality constraint prevents valid 'precedes' assignment from subject to object. Output must be NONE due to directionality mismatch.",
+    "source_documents": [
+      "scene_138_part_1",
+      "scene_137_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1ed142e146a3",
+    "subject_id": "ep_1c645d1c1b7e7c43",
+    "object_id": "ep_79a4d80c94819b62",
+    "relation_type": "precedes",
+    "reason": "The episode 'Set up and justify tracking Desh Bouksani' involves Bourne and Nicky planning surveillance on Desh, which logically precedes the episode where Nicky detects pursuit and initiates evasion upon spotting Desh. The plan to follow Desh must be in motion before Nicky can encounter him in a threatening context, establishing a clear temporal order supported by narrative coherence.",
+    "source_documents": [
+      "scene_154_part_1",
+      "scene_180_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cbe561d68bb2",
+    "subject_id": "ep_3c21e0a8187b22da",
+    "object_id": "ep_a8f2e0d9494bc1ba",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Intercept Nicky by anticipating her route' involves DESH actively pursuing Nicky and attempting to cut her off, which logically and narratively occurs before the object episode where Nicky escapes into a riad to break line of sight. The pursuit described in the subject sets up the evasion in the object, with the related events in both episodes suggesting a sequential flow in the narrative: first DESH anticipates Nicky's movement, then Nicky responds by entering the riad to evade. This order is supported by the goal-driven progression of the chase.",
+    "source_documents": [
+      "scene_183_part_1",
+      "scene_180_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bb83315ea9e1",
+    "subject_id": "ep_21326af0e7850db7",
+    "object_id": "ep_749ee1e05a3ad379",
+    "relation_type": "precedes",
+    "reason": "Desh receives target intel and spots Bourne first (in scene_164), which precedes Bourne recognizing Desh and initiating pursuit (in scene_181). The narrative order and event sequence support that the subject episode occurs earlier than the object episode.",
+    "source_documents": [
+      "scene_164_part_1",
+      "scene_181_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_327057d5a1dd",
+    "subject_id": "ep_b6ac3214118c58a8",
+    "object_id": "ep_a8f2e0d9494bc1ba",
+    "relation_type": "precedes",
+    "reason": "The communication failure episode, where Nicky sees 'SERVICE DENIED' and decides to leave the area, occurs immediately before her entering the riad to break line of sight. The decision to escape is triggered by the failed call, and the physical evasion (entering the riad) is the next actionable step in response, indicating a clear temporal sequence supported by the narrative logic in the descriptions.",
+    "source_documents": [
+      "scene_180_part_1",
+      "scene_173_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d367209ae0aa",
+    "subject_id": "ep_79a4d80c94819b62",
+    "object_id": "ep_ff7687c4d4448e81",
+    "relation_type": "precedes",
+    "reason": "Nicky detects pursuit and initiates evasion occurs when she notices Desh pursuing her in Rue des Chretiens, which logically precedes her destroying her phone to avoid detection as a subsequent evasion action. The detection and initiation of escape (subject) directly sets the stage for the operational security measure (object), with both episodes aligned in a coherent, goal-driven sequence of evasion.",
+    "source_documents": [
+      "scene_180_part_1",
+      "scene_173_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bd80c1b2e574",
+    "subject_id": "ep_1c645d1c1b7e7c43",
+    "object_id": "ep_ab946d3c551f332b",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Bourne initiating the plan to track Desh Bouksani and instructing Nicky to arrange a meeting, which occurs in scene_154. The object episode involves Nicky sending new routing information to CU DESH and the receipt of meeting instructions at the Tangier Cafe, which occurs in scene_155. The sequential order of scenes (154 before 155) and the progression from planning to execution support that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_154_part_1",
+      "scene_155_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_317e284b8fb5",
+    "subject_id": "ep_79a4d80c94819b62",
+    "object_id": "ep_3c21e0a8187b22da",
+    "relation_type": "precedes",
+    "reason": "Nicky detects pursuit and initiates evasion (ep_79a4d80c94819b62) occurs in scene_180, where she spots Desh and realizes he is pursuing her. DESH then intercepts Nicky by anticipating her route (ep_3c21e0a8187b22da) in scene_183, which involves DESH observing her movement and cutting her off. The narrative order across scenes indicates that Nicky's detection and decision to evade precede DESH's interception attempt, even though both are part of the same pursuit sequence.",
+    "source_documents": [
+      "scene_183_part_1",
+      "scene_180_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_711496c258a5",
+    "subject_id": "ep_79a4d80c94819b62",
+    "object_id": "ep_e38fe7c91601f24c",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Nicky detects pursuit and initiates evasion' involves Nicky recognizing Desh as a threat and deciding to evade, which logically precedes the object episode 'Exit the square to evade potential threat' where she physically begins moving out of the square. The initiation of evasion directly sets up the action of leaving the square, and the related events indicate a sequential progression from detection to physical disengagement.",
+    "source_documents": [
+      "scene_180_part_1",
+      "scene_173_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_87587654f5b2",
+    "subject_id": "ep_e38fe7c91601f24c",
+    "object_id": "ep_b9d5af57c9338c68",
+    "relation_type": "precedes",
+    "reason": "The episode 'Exit the square to evade potential threat' involves Nicky beginning to leave the public square after destroying her phone, which sets the stage for her subsequent use of Treadstone evasion tactics in an urban environment. The physical disengagement from the square logically precedes and leads into the active evasion tactics described in the second episode, establishing a clear temporal sequence supported by the narrative flow of actions aimed at escaping danger.",
+    "source_documents": [
+      "scene_180_part_1",
+      "scene_173_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_954cb06d5c40",
+    "subject_id": "ep_a8f2e0d9494bc1ba",
+    "object_id": "ep_e38fe7c91601f24c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Escape into riad to break line of sight' involves Nicky entering a riad to evade tracking, which logically and temporally precedes 'Exit the square to evade potential threat,' where she begins moving out of the public square. The act of entering the riad likely occurs within the broader context of leaving the square, and the sequence implied by the physical actions (ascending steps into a structure, then exiting the open area) supports a directed temporal order.",
+    "source_documents": [
+      "scene_180_part_1",
+      "scene_173_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_409ee6f11f17",
+    "subject_id": "ep_749ee1e05a3ad379",
+    "object_id": "ep_c1f706d135436ec8",
+    "relation_type": "precedes",
+    "reason": "The pursuit of Desh occurs before Bourne arrives at the location, where he then assesses the situation. The related events show that spotting and moving toward Desh (subject episode) precedes arriving and observing environmental details such as the parked Vespa and police presence (object episode), establishing a clear temporal sequence.",
+    "source_documents": [
+      "scene_181_part_1",
+      "scene_178_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b613892ef80e",
+    "subject_id": "ep_a8f2e0d9494bc1ba",
+    "object_id": "ep_fd6b32ce7c94bf54",
+    "relation_type": "precedes",
+    "reason": "The episode 'Desh prepares and advances on Nicky' (doc_178) occurs just before 'Escape into riad to break line of sight' (doc_179), as Desh's targeting of Nicky on the rooftops immediately precedes her evasive action of entering the riad. The narrative order across the two documents supports a direct temporal sequence where Nicky's escape is a response to Desh's advance, making 'precedes' the best-supported relation.",
+    "source_documents": [
+      "scene_180_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d4a042215548",
+    "subject_id": "ep_79a4d80c94819b62",
+    "object_id": "ep_fd6b32ce7c94bf54",
+    "relation_type": "precedes",
+    "reason": "Nicky's detection of pursuit and initiation of evasion (ep_79a4d80c94819b62) occurs after Desh has already prepared his weapon and begun advancing on her (ep_fd6b32ce7c94bf54), as evidenced by Desh's actions in scene_179 and Nicky's reactive response in scene_180. Thus, Desh's episode precedes Nicky's in the local narrative order.",
+    "source_documents": [
+      "scene_180_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_904090416c4b",
+    "subject_id": "ep_749ee1e05a3ad379",
+    "object_id": "ep_946765fc307a5780",
+    "relation_type": "causes",
+    "reason": "The pursuit of Desh (subject) directly leads to Bourne encountering a police checkpoint and losing Desh (object), as the description of the object episode states that the detour caused by the checkpoint results in losing visual contact, marking a causal disruption of the ongoing pursuit.",
+    "source_documents": [
+      "scene_181_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_93432e1e1b01",
+    "subject_id": "ep_1c645d1c1b7e7c43",
+    "object_id": "ep_749ee1e05a3ad379",
+    "relation_type": "precedes",
+    "reason": "The episode 'Set up and justify tracking Desh Bouksani' involves planning to follow Desh under surveillance, which establishes the intent and strategy prior to the visual spotting and pursuit. The episode 'Pursue Desh after spotting him' begins with Bourne recognizing Desh and moving toward him, indicating the execution phase. The planning and justification in the first episode logically and chronologically precede the active pursuit triggered by visual contact in the second episode, as supported by the narrative sequence of decision-making followed by action.",
+    "source_documents": [
+      "scene_154_part_1",
+      "scene_181_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4f16c698069a",
+    "subject_id": "ep_37fe83e467b387e9",
+    "object_id": "ep_749ee1e05a3ad379",
+    "relation_type": "precedes",
+    "reason": "The evasion of police pursuit (ep_37fe83e467b387e9) occurs in doc_174 and scene_175, while the pursuit of Desh (ep_749ee1e05a3ad379) begins in doc_180 and scene_181, indicating a later narrative position. The document and scene IDs support a clear sequential order where evading police precedes spotting and pursuing Desh.",
+    "source_documents": [
+      "scene_175_part_1",
+      "scene_181_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c76f09ec9d71",
+    "subject_id": "ep_b9d5af57c9338c68",
+    "object_id": "ep_fd6b32ce7c94bf54",
+    "relation_type": "precedes",
+    "reason": "Nicky's evasion tactics (ep_b9d5af57c9338c68) occur while she is actively avoiding detection, and Desh's preparation and advance (ep_fd6b32ce7c94bf54) involve targeting her from the rooftops. The related events indicate that Desh readies his weapon and speeds up while targeting Nicky, which logically follows her positioning and scanning for escape routes. The narrative order and tactical progression suggest Nicky's evasion begins before Desh fully engages, supporting a 'precedes' relation from Nicky's episode to Desh's.",
+    "source_documents": [
+      "scene_180_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_23279ae9f449",
+    "subject_id": "ep_47674834ddc65a81",
+    "object_id": "ep_749ee1e05a3ad379",
+    "relation_type": "precedes",
+    "reason": "The escape and vehicle seizure episode (ep_47674834ddc65a81) occurs during scene_172, while the pursuit of Desh begins in scene_181, indicating a clear narrative sequence where Bourne first escapes the police and then spots and moves toward Desh. The scene numbering and event flow support a local narrative order where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_172_part_1",
+      "scene_181_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_342055d7a9b5",
+    "subject_id": "ep_749ee1e05a3ad379",
+    "object_id": "ep_761fc09ab8e53f0a",
+    "relation_type": "precedes",
+    "reason": "The pursuit of Desh begins after Bourne spots him and moves toward his location, which logically and narratively precedes the subsequent confrontation where Desh detonates the explosive. The events in 'Pursue Desh after spotting him' (scene_181) occur earlier in the sequence than the events in 'Confrontation and detonation' (scene_167), establishing a clear temporal order.",
+    "source_documents": [
+      "scene_181_part_1",
+      "scene_167_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7b08d57c66e8",
+    "subject_id": "ep_294f779f3e5539dc",
+    "object_id": "ep_749ee1e05a3ad379",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne tracks Desh to the ambush site' involves Bourne already following Desh after he has parked and walked around a corner, which implies that the initial spotting and pursuit initiation in 'Pursue Desh after spotting him' must have occurred earlier. The latter episode is triggered by Bourne recognizing Desh, which logically precedes the continued tracking described in the first episode. Narrative order and event flow support a temporal sequence where pursuit initiation precedes sustained tracking.",
+    "source_documents": [
+      "scene_167_part_1",
+      "scene_181_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_aaefea6fa17f",
+    "subject_id": "ep_749ee1e05a3ad379",
+    "object_id": "ep_a0aebc45bfcb9c03",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Pursue Desh after spotting him' involves Bourne initiating pursuit upon visual contact, which logically and chronologically precedes the object episode where Bourne continues the pursuit through an urban interior after Desh evades police. The related events in the object episode (scene_179) occur after the initial spotting and movement in the subject episode (scene_181), supporting a directed 'precedes' relation from subject to object.",
+    "source_documents": [
+      "scene_181_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f3353aba8558",
+    "subject_id": "ep_b76d2311660a1b67",
+    "object_id": "ep_37fe83e467b387e9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Evade capture while attempting to call' (scene_170) occurs before 'Evade police pursuit through acceleration and maneuvering' (scene_175), as indicated by the sequential scene numbers and the narrative progression from initial detection and attempted communication to active high-speed evasion. This local narrative order supports a 'precedes' relation from the earlier to the later episode.",
+    "source_documents": [
+      "scene_175_part_1",
+      "scene_170_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d805c1981d34",
+    "subject_id": "ep_b76d2311660a1b67",
+    "object_id": "ep_c895d8979e2007a4",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Evade capture while attempting to call' occurs in doc_169 and involves Bourne reacting to surveillance and police approach, while the object episode 'Secure a vantage point for surveillance' occurs in doc_177 and involves Bourne proactively seeking elevated observation. The narrative progression from evasion under threat to deliberate positioning for surveillance suggests a temporal sequence where escape precedes establishing observational control, supported by the document order and logical flow of actions.",
+    "source_documents": [
+      "scene_170_part_1",
+      "scene_178_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c9c9146a7af2",
+    "subject_id": "ep_b76d2311660a1b67",
+    "object_id": "ep_f15edfa47a25d382",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Bourne attempting to make a phone call while being approached by police, ending in evasion. The second episode begins with Bourne already on a stolen moped fleeing through traffic while trying to call Nicky, indicating a continuation of escape and communication efforts. The events in the second episode (scene_172) occur after those in the first (scene_170), supporting a clear narrative sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_170_part_1",
+      "scene_172_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1158ac7de8aa",
+    "subject_id": "ep_21326af0e7850db7",
+    "object_id": "ep_c1f706d135436ec8",
+    "relation_type": "precedes",
+    "reason": "Desh receives target intel and detects Bourne's pursuit while riding his Vespa, which must occur before Bourne arrives at the location and assesses the situation, including noticing Desh's parked Vespa. The presence of Desh's Vespa in the second episode implies Desh has already arrived and parked, supporting a temporal sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_164_part_1",
+      "scene_178_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_91d463fa60be",
+    "subject_id": "ep_1c645d1c1b7e7c43",
+    "object_id": "ep_21326af0e7850db7",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Bourne initiating a plan to track Desh Bouksani by arranging a meeting, which establishes the intent to follow him. The object episode occurs when Desh receives target intel and detects Bourne's pursuit, indicating that the surveillance has begun and been noticed. The sequence of events implies a temporal order where the decision to track (subject) must occur before the detection of pursuit (object), as supported by the narrative logic in the descriptions.",
+    "source_documents": [
+      "scene_154_part_1",
+      "scene_164_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7f5124505729",
+    "subject_id": "ep_d072762287a80777",
+    "object_id": "ep_f15edfa47a25d382",
+    "relation_type": "precedes",
+    "reason": "The monitoring of Desh's movement and detection of deviation occurs while Bourne and Nicky are walking and observing the screen, which sets up the subsequent chase where Bourne flees on a stolen moped. The narrative sequence implies that the detection of Desh's deviation (subject) precedes the active evasion and pursuit (object), as the former likely triggers awareness leading to the latter, though direct causation is not explicitly confirmed.",
+    "source_documents": [
+      "scene_158_part_1",
+      "scene_172_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_47a518d7436a",
+    "subject_id": "ep_a821967b394347b2",
+    "object_id": "ep_c2e19e2f97da516d",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Bourne reacting to Desh's halted location and an approaching scooter driver in scene 160, while the object episode occurs in scene 167 with the approach of Daniels' car and Bourne's recognition of threat. The scene numbers indicate a clear narrative sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_160_part_1",
+      "scene_167_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_65470400adce",
+    "subject_id": "ep_21326af0e7850db7",
+    "object_id": "ep_63fed7c087bbe7bd",
+    "relation_type": "precedes",
+    "reason": "Desh receives target intel and detects Bourne's pursuit while on his Vespa, which occurs before Bourne identifies Desh and initiates the rooftop chase. The sequence is supported by the narrative flow: Desh's awareness of Bourne in his rearview mirror (ep_21326af0e7850db7) happens prior to Bourne actively tailing Desh across rooftops (ep_63fed7c087bbe7bd), establishing a clear local temporal order.",
+    "source_documents": [
+      "scene_164_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_148162082f3a",
+    "subject_id": "ep_21326af0e7850db7",
+    "object_id": "ep_f15edfa47a25d382",
+    "relation_type": "precedes",
+    "reason": "Desh receives target intel and detects Bourne in his rearview mirror (ep_21326af0e7850db7), which establishes Bourne as a target and indicates immediate awareness of pursuit. Subsequently, Bourne flees through traffic while attempting to contact Nicky (ep_f15edfa47a25d382), suggesting a chase sequence initiated after being detected. The narrative flow implies a temporal sequence where detection precedes evasion, supported by the causal context of pursuit.",
+    "source_documents": [
+      "scene_164_part_1",
+      "scene_172_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_041a937f1a5f",
+    "subject_id": "ep_1c645d1c1b7e7c43",
+    "object_id": "ep_a821967b394347b2",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Bourne setting up the plan to track Desh Bouksani, including arranging a meeting and justifying the surveillance approach. The second episode occurs when Desh's location stops moving, prompting Bourne to reassess the situation. The halt in Desh's movement implies that tracking has already been initiated, which depends on the prior setup. Thus, the setup episode clearly precedes the response to the halted location.",
+    "source_documents": [
+      "scene_154_part_1",
+      "scene_160_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1498b2a51359",
+    "subject_id": "ep_a821967b394347b2",
+    "object_id": "ep_c1f706d135436ec8",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Bourne reacting to Desh's location halting while still en route, with events occurring in scene_160. The object episode occurs upon Bourne's arrival at the location, observing environmental details in scene_178. The progression from monitoring Desh's stationary location to arriving and assessing the scene implies a temporal sequence supported by the scene numbering and narrative flow, with the first episode logically preceding the second.",
+    "source_documents": [
+      "scene_160_part_1",
+      "scene_178_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7a4fbd147c1e",
+    "subject_id": "ep_21326af0e7850db7",
+    "object_id": "ep_946765fc307a5780",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Receive target intel and detect pursuit' involves Desh receiving target information and spotting Bourne, which establishes the initiation of the pursuit. The object episode 'Bourne evades checkpoint and loses Desh' describes Bourne encountering a checkpoint and losing visual contact with Desh, an event that logically follows the initial detection. The narrative sequence implies Desh must first be aware of Bourne (subject) before Bourne can lose him (object), supporting a 'precedes' relation with strong temporal coherence.",
+    "source_documents": [
+      "scene_164_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f1e77ffa870f",
+    "subject_id": "ep_a821967b394347b2",
+    "object_id": "ep_9ec032937ab65c94",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assess and respond to Desh's halted location' includes the event where the scooter driver approaches Bourne (scene_160), which is prior in narrative sequence to the episode 'Scooter driver intercepts Bourne and departs' that occurs in scene_162 and involves the same driver departing into traffic. The shared context and progression across scenes indicate a clear temporal order where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_162_part_1",
+      "scene_160_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a2e0fe60ca6d",
+    "subject_id": "ep_a37a97e12454ece1",
+    "object_id": "ep_a821967b394347b2",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Access system and locate Daniel' occurs in doc_148 and involves Nicky logging into the system and displaying Daniel's location, while the object episode 'Assess and respond to Desh's halted location' occurs in doc_159 and involves Bourne reacting to Desh's stationary location and an approaching scooter driver. The events in the subject episode are temporally prior, as they establish the initial tracking that leads to the updated situation in the object episode, with a clear narrative progression between the two scenes.",
+    "source_documents": [
+      "scene_149_part_1",
+      "scene_160_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bec900bff37e",
+    "subject_id": "ep_1c645d1c1b7e7c43",
+    "object_id": "ep_946765fc307a5780",
+    "relation_type": "precedes",
+    "reason": "The episode 'Set up and justify tracking Desh Bouksani' involves planning and initiating surveillance on Desh, which logically and temporally occurs before 'Bourne evades checkpoint and loses Desh', where the pursuit is already underway and contact is lost. The narrative flow in the descriptions and related events supports a clear before-after sequence.",
+    "source_documents": [
+      "scene_154_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c415ff461bde",
+    "subject_id": "ep_d072762287a80777",
+    "object_id": "ep_946765fc307a5780",
+    "relation_type": "precedes",
+    "reason": "The monitoring of Desh's movement and detection of his deviation (ep_d072762287a80777) occurs while Bourne and Nicky are walking and observing the screen, which sets up the context for Bourne's subsequent physical pursuit where he encounters a checkpoint and loses Desh (ep_946765fc307a5780). The detection of deviation logically precedes the loss of visual contact during the chase, indicating a temporal sequence supported by the causal flow in the description of the second episode.",
+    "source_documents": [
+      "scene_179_part_1",
+      "scene_158_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_762c84252656",
+    "subject_id": "ep_946765fc307a5780",
+    "object_id": "ep_a821967b394347b2",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Bourne losing visual contact with Desh due to a police checkpoint, which creates a setback in the pursuit. The second episode shows Bourne responding to Desh's halted location on a screen, indicating a later moment when he re-engages with Desh's position after the loss of contact. The narrative progression from losing Desh to then reassessing based on new information (stationary location) supports a temporal sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_179_part_1",
+      "scene_160_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_49ee595fa46d",
+    "subject_id": "ep_88333be50c3ac3ac",
+    "object_id": "ep_37fe83e467b387e9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Evade police confrontation and break free' describes the initial escape where Bourne breaks away from a police confrontation and starts fleeing, while 'Evade police pursuit through acceleration and maneuvering' depicts a subsequent high-speed chase climax. The first episode sets off the flight, which escalates into the pursuit detailed in the second episode, indicating a clear temporal sequence supported by the narrative progression.",
+    "source_documents": [
+      "scene_175_part_1",
+      "scene_172_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_30260568ad4c",
+    "subject_id": "ep_1c645d1c1b7e7c43",
+    "object_id": "ep_63fed7c087bbe7bd",
+    "relation_type": "precedes",
+    "reason": "The episode 'Set up and justify tracking Desh Bouksani' involves planning and initiating surveillance on Desh to locate Daniels, which logically precedes the episode 'Bourne identifies target and initiates rooftop chase' where Bourne actively spots and begins pursuing Desh across rooftops. The planning and justification in the first episode set the stage for the active pursuit in the second, with no indication of overlap or reversal in sequence.",
+    "source_documents": [
+      "scene_154_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a8b23ced69a3",
+    "subject_id": "ep_37fe83e467b387e9",
+    "object_id": "ep_c895d8979e2007a4",
+    "relation_type": "precedes",
+    "reason": "The evasion episode (accelerating, maneuvering, losing police) occurs in scene_175, while securing a vantage point begins after parking and looking toward rooftops in scene_178, indicating a clear narrative sequence where the chase concludes before Bourne initiates surveillance. The scene numbers and sequential actions support a directed 'precedes' relation from evasion to surveillance.",
+    "source_documents": [
+      "scene_175_part_1",
+      "scene_178_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e25dc86b405f",
+    "subject_id": "ep_1c645d1c1b7e7c43",
+    "object_id": "ep_294f779f3e5539dc",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Bourne initiating the plan to track Desh Bouksani and justifying it through discussion with Nicky, including arranging a meeting. The second episode depicts Bourne actively following Desh after he arrives and parks his motorbike. The events in the second episode (surveillance in motion) logically and chronologically follow the decision and setup in the first episode, establishing a clear narrative sequence where the planning precedes the execution of tracking.",
+    "source_documents": [
+      "scene_154_part_1",
+      "scene_167_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2772d6e2616c",
+    "subject_id": "ep_47674834ddc65a81",
+    "object_id": "ep_b76d2311660a1b67",
+    "relation_type": "precedes",
+    "reason": "The events in 'Overcome blocking officers and seize escape vehicle' (scene_172) occur after the events in 'Evade capture while attempting to call' (scene_170), based on the sequential scene numbering in their related_events. This indicates a clear narrative order where Bourne first attempts to call and evades capture, then later overcomes officers and commandeers a moped, supporting a 'precedes' relation from the object to the subject. However, since the relation is directed and the subject is the later episode, the correct direction is subject <- object, but the schema requires subject -> object. Given the subject is later, 'precedes' cannot be justified in the subject->object direction. Therefore, no valid directed relation fits. Output is NONE due to inability to establish correct directionality under schema constraints.",
+    "source_documents": [
+      "scene_172_part_1",
+      "scene_170_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_09bfb7a658d2",
+    "subject_id": "ep_1c645d1c1b7e7c43",
+    "object_id": "ep_a0aebc45bfcb9c03",
+    "relation_type": "precedes",
+    "reason": "The episode 'Set up and justify tracking Desh Bouksani' involves planning the surveillance of Desh, including arranging a meeting and justifying the decision to follow rather than stop him. The episode 'Bourne pursues Desh through urban interior after evasion' depicts the actual pursuit after Desh has evaded capture, which logically and narratively follows the prior decision to track him. The related events in the first episode establish intent and plan, while the second shows execution of the pursuit, indicating a clear temporal sequence.",
+    "source_documents": [
+      "scene_154_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a055bf740439",
+    "subject_id": "ep_f15edfa47a25d382",
+    "object_id": "ep_37fe83e467b387e9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Flee through traffic while attempting to contact Nicky' involves Bourne on a stolen moped weaving through traffic and attempting to call Nicky, which occurs before the more intense phase of the chase where he accelerates and evades three police cars by entering a narrow alleyway. The escalation in pursuit intensity and the progression from using a moped to a faster evasion tactic suggest a narrative sequence where the moped chase precedes the climax of the pursuit.",
+    "source_documents": [
+      "scene_175_part_1",
+      "scene_172_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fc6a164394f6",
+    "subject_id": "ep_47674834ddc65a81",
+    "object_id": "ep_37fe83e467b387e9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Overcome blocking officers and seize escape vehicle' involves Bourne commandeering a moped during a police dragnet, which logically precedes the high-speed evasion through acceleration and alleyway maneuvering in 'Evade police pursuit through acceleration and maneuvering'. The moped provides the means for the subsequent chase, and the narrative flow suggests a sequence where acquiring the vehicle enables the prolonged pursuit. Scene numbering (scene_172 before scene_175) further supports this temporal order.",
+    "source_documents": [
+      "scene_175_part_1",
+      "scene_172_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3458162d60f9",
+    "subject_id": "ep_1c645d1c1b7e7c43",
+    "object_id": "ep_761fc09ab8e53f0a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Set up and justify tracking Desh Bouksani' involves planning to follow Desh to locate Daniels, which establishes surveillance as the strategy before any confrontation occurs. The episode 'Confrontation and detonation' depicts the climax where Desh triggers an explosion upon direct contact with Bourne. The related events in the first episode (scene_154) occur earlier in the narrative than those in the second episode (scene_167), indicating a clear temporal sequence where tracking and surveillance are set up before the final confrontation and detonation.",
+    "source_documents": [
+      "scene_154_part_1",
+      "scene_167_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fda304dc7da5",
+    "subject_id": "ep_a821967b394347b2",
+    "object_id": "ep_c895d8979e2007a4",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Assess and respond to Desh's halted location' occurs while Bourne is monitoring Desh's location and reacting to immediate surroundings, including a scooter driver approaching. The object episode 'Secure a vantage point for surveillance' begins after Bourne parks his vehicle and moves toward elevated ground for better visibility. The shift from real-time threat assessment in a dynamic setting to a deliberate movement toward a surveillance position suggests a narrative progression where tactical reevaluation precedes the physical repositioning for improved observation. This ordering is supported by the logical flow of events: reassessment due to new data (Desh stopping) leads to a decision to gain better vantage, which is then executed in the subsequent episode.",
+    "source_documents": [
+      "scene_160_part_1",
+      "scene_178_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9d32b92b3caf",
+    "subject_id": "ep_24e4a159533d1b14",
+    "object_id": "ep_37fe83e467b387e9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne and Nicky evade detection' involves their departure from the truck stop upon the arrival of Spanish police, which sets the stage for the subsequent high-speed chase. The episode 'Evade police pursuit through acceleration and maneuvering' describes the active evasion of police cars in a vehicle, indicating a continuation of the escape initiated in the first episode. The narrative sequence implied by the events—leaving the location to avoid detection followed by a high-speed chase—supports a clear temporal order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_138_part_1",
+      "scene_175_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0dcef4008f06",
+    "subject_id": "ep_3c21e0a8187b22da",
+    "object_id": "ep_b9d5af57c9338c68",
+    "relation_type": "precedes",
+    "reason": "The episode 'Execute Treadstone evasion tactics in urban environment' (scene_180) occurs before 'Intercept Nicky by anticipating her route' (scene_183), as indicated by the chronological order of their related scenes. Nicky's evasion tactics set the context for DESH's subsequent interception attempt, supporting a directed 'precedes' relation from object to subject. However, since the relation schema requires directionality and the subject is listed first, the correct directional interpretation is that the object episode precedes the subject episode, hence relation_type is 'precedes' with subject -> object not holding. Given the schema's directed nature and standard narrative flow, the best-supported interpretation is that ep_b9d5af57c9338c68 precedes ep_3c21e0a8187b22da, but since we must assign relation_type with subject first, and 'precedes' would imply subject before object, which is false, we cannot assert it. Therefore, after reevaluation: the scene numbers (180 before 183) clearly indicate temporal order, so ep_b9d5af57c9338c68 occurs before ep_3c21e0a8187b22da. Thus, if the subject is ep_3c21e0a8187b22da and the object is ep_b9d5af57c9338c68, then subject does not precede object. No other relation is supported. Hence, the only defensible conclusion is that no valid directed relation can be asserted in the subject->object direction, and since 'precedes' is directed, we cannot reverse it without violating directionality. Therefore, despite temporal evidence, the relation cannot be correctly expressed under the required direction, so output is NONE. Final decision: NONE due to inability to correctly express reverse temporal order under directed 'precedes' with subject first.",
+    "source_documents": [
+      "scene_183_part_1",
+      "scene_180_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_025f20c7dbad",
+    "subject_id": "ep_37fe83e467b387e9",
+    "object_id": "ep_a0aebc45bfcb9c03",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Bourne evading police through acceleration and maneuvering, concluding with the police cars halting behind him. The second episode begins with Bourne pursuing Desh after Desh has already evaded police by blending into the crowd, indicating a sequential narrative progression where the evasion from police directly precedes the continuation of the pursuit through the urban interior. The descriptions and event sequences support a clear local narrative order.",
+    "source_documents": [
+      "scene_175_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a4ce3d937ff0",
+    "subject_id": "ep_c2e19e2f97da516d",
+    "object_id": "ep_37fe83e467b387e9",
+    "relation_type": "precedes",
+    "reason": "Bourne's detection of Daniels' car and recognition of imminent threat (ep_c2e19e2f97da516d) occurs in scene 167, while the evasion of police pursuit through acceleration and maneuvering (ep_37fe83e467b387e9) occurs in scene 175, indicating a clear narrative sequence where awareness of threat precedes the active escape. The scene numbering supports a local narrative order.",
+    "source_documents": [
+      "scene_175_part_1",
+      "scene_167_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_03d70d740c5a",
+    "subject_id": "ep_f072c46d7976cd99",
+    "object_id": "ep_494eef9df155f91f",
+    "relation_type": "causes",
+    "reason": "The investigation episode establishes that an operative will be sent to terminate Neal Daniels, prompting Bourne to urgently identify the operative. This sequence directly leads to the explosion that kills Daniels and incapacitates Bourne, as the detonation is the immediate outcome of the threat the characters were investigating. The causal chain is supported by the narrative progression from threat assessment to its fatal execution.",
+    "source_documents": [
+      "scene_167_part_1",
+      "scene_152_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c2fd8d915f53",
+    "subject_id": "ep_9ec032937ab65c94",
+    "object_id": "ep_f15edfa47a25d382",
+    "relation_type": "precedes",
+    "reason": "The scooter driver intercepts Bourne and departs, which includes the technician reporting the asset en route, immediately before Bourne is seen fleeing through traffic on a stolen moped while attempting to contact Nicky. The narrative sequence and the transition from one event to pursuit support a clear temporal order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_162_part_1",
+      "scene_172_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_547ead64cef5",
+    "subject_id": "ep_a37a97e12454ece1",
+    "object_id": "ep_c2e19e2f97da516d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Access system and locate Daniel' involves Nicky using a computer to pinpoint Daniel's location, with Bourne observing, occurring in doc_148. The object episode 'Bourne detects Daniels' car and imminent threat' occurs in doc_166 and describes Bourne recognizing danger from the approaching car. Given the sequential document IDs and the narrative progression from locating Daniel via system to visually detecting his approaching car, the first episode precedes the second in local narrative order.",
+    "source_documents": [
+      "scene_149_part_1",
+      "scene_167_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_005c740e3d8c",
+    "subject_id": "ep_f072c46d7976cd99",
+    "object_id": "ep_c2e19e2f97da516d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Investigate Neal Daniels' location and threat' involves Bourne initiating efforts to identify the operative sent to terminate Daniels, which sets the context for the subsequent detection of Daniels' car. The detection of the car and recognition of imminent threat in 'Bourne detects Daniels' car and imminent threat' occurs as a later development, logically following the intelligence-gathering phase. The narrative flow from seeking information about the threat to observing its manifestation supports a 'precedes' relation from the investigation episode to the detection episode.",
+    "source_documents": [
+      "scene_167_part_1",
+      "scene_152_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c586ba679877",
+    "subject_id": "ep_c1f706d135436ec8",
+    "object_id": "ep_294f779f3e5539dc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assess the situation upon arrival' involves Bourne's immediate observations upon arriving at the location, including noticing Desh's parked Vespa. The episode 'Bourne tracks Desh to the ambush site' involves following Desh after he parks and walks away. The assessment logically precedes the tracking, as Bourne must first observe Desh's presence and actions before initiating pursuit, based on the sequence implied in the related events and narrative flow.",
+    "source_documents": [
+      "scene_167_part_1",
+      "scene_178_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d4faad3d1a12",
+    "subject_id": "ep_c1f706d135436ec8",
+    "object_id": "ep_946765fc307a5780",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assess the situation upon arrival' occurs in doc_177 and scene_178, where Bourne arrives and observes the environment. The episode 'Bourne evades checkpoint and loses Desh' occurs in doc_178 and scene_179, involving a subsequent chase disruption. The clear scene and document ordering (178 before 179) supports that the assessment episode precedes the evasion episode.",
+    "source_documents": [
+      "scene_179_part_1",
+      "scene_178_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_cf77a281dc9c",
+    "subject_id": "ep_37fe83e467b387e9",
+    "object_id": "ep_946765fc307a5780",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Bourne evading immediate police pursuit through acceleration and maneuvering, culminating in losing the squad cars. The second episode begins with Bourne exiting into a street and encountering a checkpoint, which disrupts his pursuit of Desh. The narrative flow suggests the evasion of the squad cars (ep_37fe83e467b387e9) occurs before the checkpoint encounter and loss of Desh (ep_946765fc307a5780), as the latter represents a subsequent phase in the chase sequence. This temporal ordering is supported by the causal link in the second episode's description, which refers to a 'detour' following prior evasion, implying sequence.",
+    "source_documents": [
+      "scene_175_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3b5b5f7fd720",
+    "subject_id": "ep_c1f706d135436ec8",
+    "object_id": "ep_761fc09ab8e53f0a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assess the situation upon arrival' involves Bourne's initial observations upon arriving at the location, including noticing Desh's Vespa and increased police presence, which sets the stage for the subsequent confrontation. The episode 'Confrontation and detonation' represents the climax involving direct interaction between Bourne and Desh, culminating in the detonation. The narrative sequence implied by the situational buildup and the progression from observation to direct conflict strongly supports that the assessment episode precedes the confrontation episode.",
+    "source_documents": [
+      "scene_167_part_1",
+      "scene_178_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0213e5b1281d",
+    "subject_id": "ep_88333be50c3ac3ac",
+    "object_id": "ep_c895d8979e2007a4",
+    "relation_type": "precedes",
+    "reason": "The escape from police confrontation (ep_88333be50c3ac3ac) occurs in scene_172, while the effort to gain a vantage point (ep_c895d8979e2007a4) begins in scene_178, indicating a clear narrative sequence where evading capture precedes securing surveillance. The scene numbers and event flow support a directed 'precedes' relation.",
+    "source_documents": [
+      "scene_172_part_1",
+      "scene_178_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fcc270bf4402",
+    "subject_id": "ep_c1f706d135436ec8",
+    "object_id": "ep_a0aebc45bfcb9c03",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assess the situation upon arrival' occurs in doc_177 and includes Bourne arriving and observing the environment, including Desh's parked Vespa and increased police presence. The subsequent episode 'Bourne pursues Desh through urban interior after evasion' occurs in doc_178 and describes Bourne following Desh after his evasion, which logically follows the assessment of the scene. The narrative order and event flow support that the assessment episode precedes the pursuit episode.",
+    "source_documents": [
+      "scene_179_part_1",
+      "scene_178_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a7354309a705",
+    "subject_id": "ep_c895d8979e2007a4",
+    "object_id": "ep_63fed7c087bbe7bd",
+    "relation_type": "precedes",
+    "reason": "The episode 'Secure a vantage point for surveillance' involves Bourne ascending to the rooftops to gain visibility (doc_id: doc_177, scene_178), which directly precedes the episode 'Bourne identifies target and initiates rooftop chase' where he spots Nicky and Desh and begins pursuit (doc_id: doc_178, scene_179). The sequence of scenes (178 before 179) and the logical progression from gaining elevation to initiating chase support a clear temporal order.",
+    "source_documents": [
+      "scene_179_part_1",
+      "scene_178_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4f36709329b0",
+    "subject_id": "ep_63fed7c087bbe7bd",
+    "object_id": "ep_c1f706d135436ec8",
+    "relation_type": "precedes",
+    "reason": "The rooftop chase (ep_63fed7c087bbe7bd) involves Bourne actively pursuing Desh after spotting him with Nicky, while the assessment episode (ep_c1f706d135436ec8) occurs upon Bourne's arrival at the location, where he observes Nicky's absence and Desh's Vespa. The chase logically follows arrival and initial observation; thus, the assessment must occur before the pursuit. The related_events in both episodes support this temporal sequence: arrival and observation (scene_178) precede the rooftop chase (scene_179).",
+    "source_documents": [
+      "scene_179_part_1",
+      "scene_178_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3ea0e7147c50",
+    "subject_id": "ep_c2e19e2f97da516d",
+    "object_id": "ep_f15edfa47a25d382",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne detects Daniels' car and imminent threat' involves Bourne recognizing danger from the approaching car, which logically precedes his subsequent flight on a stolen moped while attempting to contact Nicky. The detection of threat sets the stage for the evasion behavior described in the second episode, and the narrative progression from threat recognition to active escape supports a 'precedes' relation with strong, though not explicitly stated, temporal ordering.",
+    "source_documents": [
+      "scene_167_part_1",
+      "scene_172_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_67312cd9fdb8",
+    "subject_id": "ep_c1f706d135436ec8",
+    "object_id": "ep_88333be50c3ac3ac",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assess the situation upon arrival' involves Bourne observing his surroundings immediately after arriving, including police presence and Desh's Vespa, which sets the context for the subsequent decision to evade. The episode 'Evade police confrontation and break free' begins when Bourne actively breaks away from police, indicating a sequence where assessment logically precedes escape. The related events in both episodes occur in the same scene block (scene_178 and scene_172 respectively), but the observational actions in ep_c1f706d135436ec8 are prerequisites for the reactive flight in ep_88333be50c3ac3ac, supporting a narrative order.",
+    "source_documents": [
+      "scene_172_part_1",
+      "scene_178_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ab94c2b8d8eb",
+    "subject_id": "ep_88333be50c3ac3ac",
+    "object_id": "ep_946765fc307a5780",
+    "relation_type": "causes",
+    "reason": "The first episode, where Bourne breaks away from the police confrontation and starts fleeing, directly leads to the second episode in which he encounters a checkpoint and loses Desh. The description of the second episode states that 'this detour results in Bourne losing visual contact with Desh' and that 'external interference disrupts the chase,' implying a causal link from the escape initiated in the first episode to the setback in the second. The temporal and causal continuity is supported by the narrative flow in the descriptions and related events.",
+    "source_documents": [
+      "scene_172_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ff21ccb1f691",
+    "subject_id": "ep_a0aebc45bfcb9c03",
+    "object_id": "ep_f15edfa47a25d382",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Bourne pursuing Desh on foot through an urban interior after Desh evades police, while the object episode involves Bourne fleeing on a stolen moped while attempting to contact Nicky. The pursuit on foot logically precedes the escape on the moped, as the moped chase represents a continuation of the evasion and pursuit sequence in a different mode and location, with no indication of reversal in narrative order.",
+    "source_documents": [
+      "scene_179_part_1",
+      "scene_172_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f1d3154cf45b",
+    "subject_id": "ep_63fed7c087bbe7bd",
+    "object_id": "ep_761fc09ab8e53f0a",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Bourne identifying Desh and initiating a rooftop chase, which logically and chronologically precedes the object episode where Bourne confronts Desh and the detonation occurs. The related events in both episodes depict a continuous sequence in which the chase leads directly to the confrontation, with no indication of reversal or parallel action.",
+    "source_documents": [
+      "scene_179_part_1",
+      "scene_167_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1b057e19e6a2",
+    "subject_id": "ep_c1f706d135436ec8",
+    "object_id": "ep_c2e19e2f97da516d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Assess the situation upon arrival' involves Bourne's initial observations upon reaching the location, including environmental details and the presence of Desh's Vespa and police. The object episode 'Bourne detects Daniels' car and imminent threat' centers on Bourne recognizing danger from the approaching car. The related events in the first episode (scene_178) occur after the event in the second episode (scene_167), but narrative coherence and the progression from general assessment to specific threat detection imply the assessment precedes the focused recognition of danger. Scene numbering suggests a possible discrepancy, but the logical flow of awareness—general to specific—supports 'precedes' with strong, though slightly indirect, narrative evidence.",
+    "source_documents": [
+      "scene_178_part_1",
+      "scene_167_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7a269f5f0634",
+    "subject_id": "ep_f15edfa47a25d382",
+    "object_id": "ep_b6ac3214118c58a8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Flee through traffic while attempting to contact Nicky' involves Bourne trying to call Nicky while on the moped during a chase (doc_171, scene_172), and the call attempt culminates in a dial tone. The episode 'Respond to sudden communication failure' occurs when Nicky answers the call but it is abruptly cut, leading to her alarm and decision to flee (doc_172, scene_173). The sequence of events across adjacent scenes and documents indicates that Bourne's call attempt precedes the moment the call is disconnected on Nicky's end, establishing a clear narrative order.",
+    "source_documents": [
+      "scene_173_part_1",
+      "scene_172_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6aae921687d7",
+    "subject_id": "ep_47674834ddc65a81",
+    "object_id": "ep_946765fc307a5780",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Bourne subduing officers and commandeering a moped during his escape, which occurs before he encounters a police checkpoint and loses visual contact with Desh in the second episode. The sequence is supported by the narrative flow: gaining mobility (via the moped) enables the subsequent evasion attempt, and the checkpoint encounter results in a setback. The events in the first episode (scene_172) precede those in the second (scene_179), indicating a clear temporal order.",
+    "source_documents": [
+      "scene_172_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fa2d64c34b3f",
+    "subject_id": "ep_294f779f3e5539dc",
+    "object_id": "ep_63fed7c087bbe7bd",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne tracks Desh to the ambush site' involves Bourne following Desh on foot after he parks his motorbike, while the episode 'Bourne identifies target and initiates rooftop chase' begins with Bourne spotting Desh and Nicky from rooftops and initiating a chase. The tracking on foot logically precedes the rooftop pursuit, as Bourne first follows Desh at ground level before transitioning to the rooftops to close the gap, indicating a sequential narrative order.",
+    "source_documents": [
+      "scene_167_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5f1c505334f6",
+    "subject_id": "ep_24e4a159533d1b14",
+    "object_id": "ep_946765fc307a5780",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne and Nicky evade detection' involves leaving the truck stop upon the arrival of Spanish police, which sets Bourne into motion. The subsequent episode 'Bourne evades checkpoint and loses Desh' occurs as Bourne exits into the street and encounters a police checkpoint, directly continuing the sequence of actions initiated after leaving the truck stop. The temporal and causal flow in the descriptions suggests the first episode precedes the second, with no indication of overlap or reversal.",
+    "source_documents": [
+      "scene_138_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fd4ecf23d2ae",
+    "subject_id": "ep_63fed7c087bbe7bd",
+    "object_id": "ep_a0aebc45bfcb9c03",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Bourne initiating the rooftop chase by tailing Desh across rooftops, while the object episode begins after Desh descends into the street and evades police, with Bourne following through urban interiors. The related_events and narrative flow indicate a clear temporal sequence: the rooftop pursuit occurs before the pursuit through the urban interior, with no overlap in setting or action phase.",
+    "source_documents": [
+      "scene_179_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eee2028c88cd",
+    "subject_id": "ep_24e4a159533d1b14",
+    "object_id": "ep_f15edfa47a25d382",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne and Nicky evade detection' involves Bourne and Nicky leaving the truck stop upon the arrival of Spanish police, which sets up Bourne's subsequent flight on a stolen moped. The second episode, 'Flee through traffic while attempting to contact Nicky', explicitly involves Bourne already on the moped evading pursuit, indicating a continuation of the escape initiated in the first episode. The narrative sequence is supported by the causal and temporal progression from leaving the truck stop to being actively chased in traffic, with no indication of overlap or reversal. Therefore, the first episode precedes the second.",
+    "source_documents": [
+      "scene_138_part_1",
+      "scene_172_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5c7739e71e69",
+    "subject_id": "ep_63fed7c087bbe7bd",
+    "object_id": "ep_946765fc307a5780",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Bourne initiating the rooftop chase by tailing Desh, while the object episode describes Bourne losing visual contact with Desh after encountering a police checkpoint. The events unfold sequentially within scene_179, with the pursuit beginning in the first episode and being disrupted in the second, indicating a clear narrative order where the initiation of the chase precedes its temporary failure.",
+    "source_documents": [
+      "scene_179_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_86c5b0d4d5eb",
+    "subject_id": "ep_946765fc307a5780",
+    "object_id": "ep_761fc09ab8e53f0a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne evades checkpoint and loses Desh' involves Bourne losing visual contact with Desh due to a police checkpoint, which disrupts the chase. The subsequent episode 'Confrontation and detonation' depicts a direct confrontation between Bourne and Desh, followed by an explosion. For the confrontation to occur, Bourne must have re-established contact with Desh after the detour, implying a temporal sequence where the evasion and loss of contact happen before the final confrontation. This ordering is supported by the causal and temporal structure described in both episodes.",
+    "source_documents": [
+      "scene_167_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3b6d38376a13",
+    "subject_id": "ep_294f779f3e5539dc",
+    "object_id": "ep_946765fc307a5780",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne tracks Desh to the ambush site' involves Bourne actively following Desh, which sets up the pursuit. The subsequent episode 'Bourne evades checkpoint and loses Desh' describes a disruption in that pursuit due to an external obstacle, resulting in loss of visual contact. The second episode logically follows the first in narrative sequence, as the loss of Desh can only occur after tracking has been established. The related events in both episodes support a clear temporal progression: tracking occurs in scene_167, while the checkpoint encounter and loss of Desh occur in scene_179, indicating a later point in the narrative.",
+    "source_documents": [
+      "scene_167_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_cea2f87bc81b",
+    "subject_id": "ep_dbf5818c2785387a",
+    "object_id": "ep_eb88b5af13fb0198",
+    "relation_type": "precedes",
+    "reason": "The confrontation with Vosen occurs before he issues the order to eliminate Nicky Parsons, as the second episode explicitly states it happens 'after resolving the confrontation with Landy,' establishing a clear temporal sequence.",
+    "source_documents": [
+      "scene_141_part_1",
+      "scene_163_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0c0070b2bc9e",
+    "subject_id": "ep_87673601f3987d8d",
+    "object_id": "ep_4cff4dc2c8b7386e",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Establish threat posed by Daniels' escape' provides critical background context—namely, Daniels' theft from Blackbriar and his operational significance—which directly informs and justifies the urgency of the subsequent surveillance and interception plan. This contextual expansion supports the interpretation that the first episode elaborates on the motivation and stakes underlying the second, goal-driven operation.",
+    "source_documents": [
+      "scene_147_part_1",
+      "scene_141_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_847023857da3",
+    "subject_id": "ep_881fcc9b34e01f7b",
+    "object_id": "ep_91e3a93f3a192b51",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves setting up the monitoring room and initiating surveillance by intercepting the hotel's trunk line, which establishes the technical infrastructure. The object episode involves detecting a live signal from the target and acting on real-time tracking within an ongoing monitoring operation. The setup of the monitoring room (subject) must logically precede the real-time tracking and response (object), as confirmed by the dependency on established surveillance infrastructure in the object episode's description.",
+    "source_documents": [
+      "scene_150_part_1",
+      "scene_171_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_baf0ab577b7c",
+    "subject_id": "ep_4cff4dc2c8b7386e",
+    "object_id": "ep_eb88b5af13fb0198",
+    "relation_type": "precedes",
+    "reason": "The surveillance and interception plan targeting Daniels (ep_4cff4dc2c8b7386e) is actively underway in scene_147, while the order to eliminate Nicky Parsons occurs in scene_163 after resolving the confrontation with Landy. The sequence of scenes and the explicit mention that the Parsons operation begins after the Daniels operation supports that the first episode precedes the second.",
+    "source_documents": [
+      "scene_147_part_1",
+      "scene_163_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d444f4b8ca68",
+    "subject_id": "ep_8bce90321142a0d1",
+    "object_id": "ep_ed83f5a48af9e2ba",
+    "relation_type": "causes",
+    "reason": "The coordinated operation to trap Daniels in Tangier includes holding up his bank transfer, which directly leads to the subsequent notification from the bank that funds are now available, triggering Daniels' departure. This sequence suggests the release of funds—after being withheld—is a direct consequence of the operation, thereby causing Daniels to act.",
+    "source_documents": [
+      "scene_140_part_1",
+      "scene_166_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8fabea4c8f95",
+    "subject_id": "ep_1f5ce5eb4de241fb",
+    "object_id": "ep_87673601f3987d8d",
+    "relation_type": "contrasts_with",
+    "reason": "Landy's challenge to the significance of the leak and Vosen's emphasis on the severe threat posed by Daniels' escape are presented in the same scene, creating a narrative contrast between skepticism about the leak's impact and alarm over operational consequences.",
+    "source_documents": [
+      "scene_141_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_21c90f155a95",
+    "subject_id": "ep_54744b4a5d4b10a8",
+    "object_id": "ep_ed83f5a48af9e2ba",
+    "relation_type": "causes",
+    "reason": "The subject episode 'Initiate fund release and notify Daniels' involves Vosen ordering the fund release and a technician calling Daniels, which directly triggers the object episode where Daniels receives notification of fund availability and departs to retrieve the funds. The causal link is supported by the sequence of notification and immediate action in the descriptions and related events.",
+    "source_documents": [
+      "scene_165_part_1",
+      "scene_166_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d4c9f9f0925d",
+    "subject_id": "ep_f7bad83764110208",
+    "object_id": "ep_fd6b32ce7c94bf54",
+    "relation_type": "precedes",
+    "reason": "Bourne gains rooftop access immediately before Desh prepares and advances on Nicky, as both episodes occur in scene_179 and Bourne's ascent establishes the vantage point for observing Desh's subsequent actions, indicating a clear temporal sequence in the narrative.",
+    "source_documents": [
+      "scene_179_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_87b0ef18256f",
+    "subject_id": "ep_f7bad83764110208",
+    "object_id": "ep_a0aebc45bfcb9c03",
+    "relation_type": "precedes",
+    "reason": "Bourne gains rooftop access to pursue Desh before pursuing him through the urban interior, as ascending to the rooftops establishes vantage for the subsequent chase through stairs, corridor, and courtyard. The sequence of physical movements described in the related events supports a clear temporal order.",
+    "source_documents": [
+      "scene_179_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_85862075503b",
+    "subject_id": "ep_1f5ce5eb4de241fb",
+    "object_id": "ep_fd89e9289ddc8bc7",
+    "relation_type": "precedes",
+    "reason": "Landy's challenge to Blackbriar's authority occurs in doc_140 (scene_141), while Vosen's assertion of authority to target Nicky Parsons occurs in doc_162 (scene_163), indicating a clear narrative sequence where the first episode precedes the second based on document and scene ordering.",
+    "source_documents": [
+      "scene_141_part_1",
+      "scene_163_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a61fc371a0d5",
+    "subject_id": "ep_881fcc9b34e01f7b",
+    "object_id": "ep_4cff4dc2c8b7386e",
+    "relation_type": "precedes",
+    "reason": "The secure monitoring room setup (ep_881fcc9b34e01f7b) involves establishing technical surveillance infrastructure, including intercepting the hotel's communications, which provides the necessary conditions for the subsequent targeted surveillance and interception plan (ep_4cff4dc2c8b7386e) that depends on real-time intelligence. The setup of monitoring capabilities logically precedes the execution of a coordinated operation relying on that surveillance, indicating a clear narrative sequence.",
+    "source_documents": [
+      "scene_147_part_1",
+      "scene_150_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ff516a350b16",
+    "subject_id": "ep_7f8ab82cb72909f0",
+    "object_id": "ep_eb88b5af13fb0198",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Reveal and examine lethal action protocol' involves Vosen confronting Landy over the Blackbriar protocol, which concludes before Vosen proceeds to order the elimination of Nicky Parsons in the object episode. The description of the object episode explicitly states 'After resolving the confrontation with Landy, Vosen formally directs the operational team...', indicating a clear temporal sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_141_part_1",
+      "scene_163_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6370e3c0001d",
+    "subject_id": "ep_87673601f3987d8d",
+    "object_id": "ep_8bce90321142a0d1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Establish threat posed by Daniels' escape' involves Vosen revealing Daniels' flight to Morocco and his operational significance, which sets the context for the subsequent coordinated operation in Tangier. The tracking of Daniels' passport and the setup to trap him in Tangier logically follow the establishment of his threat level and location, indicating a narrative sequence where the justification of the threat precedes the operational response.",
+    "source_documents": [
+      "scene_141_part_1",
+      "scene_140_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8d94a3a009a2",
+    "subject_id": "ep_66b5badb01f281db",
+    "object_id": "ep_fea2a7cc9a272424",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode involves Kramer and Vosen discussing the threat of Bourne meeting Daniels, with Kramer advocating for informing Hirsch, while the second episode features a strategic disagreement between Landy and Vosen on how to handle Daniels, highlighting a recurring divergence in crisis response approaches. The juxtaposition of these two episodes emphasizes contrasting decision-making styles and priorities among characters in response to the same overarching threat, supporting a 'contrasts_with' relation.",
+    "source_documents": [
+      "scene_138_part_1",
+      "scene_141_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6edd3bce1d8c",
+    "subject_id": "ep_3883f0b6d2388de6",
+    "object_id": "ep_eb88b5af13fb0198",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Vosen escalates pursuit of Bourne' occurs after Landy leaves following a confrontation, and Vosen issues a kill order for Bourne. The object episode 'Order asset to eliminate Nicky Parsons' begins after Vosen resolves the confrontation with Landy and expands the mission to target Parsons. The sequence of events implies that the decision to target Parsons follows the initial escalation against Bourne, establishing a local narrative order where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_138_part_1",
+      "scene_163_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d2f861c98c0c",
+    "subject_id": "ep_f7bad83764110208",
+    "object_id": "ep_63fed7c087bbe7bd",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne gains rooftop access to pursue Desh' involves Bourne ascending to the rooftops to establish vantage, which directly precedes the episode 'Bourne identifies target and initiates rooftop chase' where he spots Nicky and Desh and begins tailing Desh. The related events and descriptions indicate a clear sequential order: gaining rooftop access occurs before identification and pursuit can begin.",
+    "source_documents": [
+      "scene_179_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2a46687288fc",
+    "subject_id": "ep_63fed7c087bbe7bd",
+    "object_id": "ep_fd6b32ce7c94bf54",
+    "relation_type": "precedes",
+    "reason": "Bourne identifies the target and initiates the rooftop chase immediately after spotting Desh, while Desh's preparation and advance on Nicky occur during the same sequence but are reactive to Bourne's pursuit. The narrative order in the shared scene (scene_179) implies Bourne's initiation of the chase precedes Desh's accelerated movement and weapon preparation, as Bourne responds to Desh's threat, establishing a temporal sequence.",
+    "source_documents": [
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_99414cdd309f",
+    "subject_id": "ep_f8b4a2001edd429d",
+    "object_id": "ep_fd6b32ce7c94bf54",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assassins race across rooftops above oblivious police' involves Bourne and Desh in a high-speed rooftop chase, while 'Desh prepares and advances on Nicky' focuses on Desh specifically preparing his weapon and targeting Nicky below. The former sets the broader context of the rooftop pursuit, and the latter narrows to Desh's specific attack preparation, suggesting a temporal sequence where the general chase precedes the focused assassination attempt. Both occur in scene_179, but the progression from shared movement to targeted action implies a local narrative order.",
+    "source_documents": [
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  }
+]

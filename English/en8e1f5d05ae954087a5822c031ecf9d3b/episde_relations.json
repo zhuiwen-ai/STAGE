@@ -1,0 +1,2622 @@
+[
+  {
+    "id": "rel_ep_ep_46db040e8d82",
+    "subject_id": "ep_a2e9f129d48e0a3e",
+    "object_id": "ep_a4da463d6dbcd2ab",
+    "relation_type": "contrasts_with",
+    "reason": "The episode 'Drive past victim with cynical remark' shows Bruce expressing cynicism and detachment, directly contrasting with the earlier episode 'Intervene in gang harassment' where he actively protects the victim and demonstrates moral courage, creating a clear reversal in tone and character behavior.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f7bbe90cf96a",
+    "subject_id": "ep_223eba5cc22aca5b",
+    "object_id": "ep_b8370bdaecc96351",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Demonstrate power by walking on water' occurs while God and Bruce are on the lake, and the object episode 'Return to shore after God's departure' begins only after God leaves, indicating a clear temporal sequence supported by the descriptions and related events in the same scene (scene_49).",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_37fd206d36a1",
+    "subject_id": "ep_c30556eaf170f319",
+    "object_id": "ep_8a60b7f73aacca6b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate urgent career intervention' involves Bruce intercepting Jack and expressing career frustration, which immediately precedes Jack's advice to Bruce against emulating Evan in the episode 'Reject toxic career models,' both occurring in scene_12 with a clear narrative sequence.",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_11ca13123fb2",
+    "subject_id": "ep_423f32d1decbd21e",
+    "object_id": "ep_b8370bdaecc96351",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Retrieve prayer beads and prepare for departure' includes God announcing his departure, which directly precedes the object episode where Bruce returns to shore after God leaves, as described in the sequence of events in scene_49.",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b7c551c67b7a",
+    "subject_id": "ep_d9e84432ac48d32d",
+    "object_id": "ep_991d66f69984641d",
+    "relation_type": "precedes",
+    "reason": "The launch of the anniversary report by Bruce establishes the context for the celebration, which is followed by the communal toast; the narrative flow within the same occasion (scene_1) suggests a sequence where the report precedes the celebratory toast.",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d5fb036f1ee4",
+    "subject_id": "ep_e87398ad5ff0291c",
+    "object_id": "ep_ee67fd273fb85c1f",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Bruce's initial failure to start the car, while the object episode describes the car starting only after verbal urging and subsequent escape. The sequence of events in the same scene (scene_46) and the narrative progression from failure to success indicate a clear temporal order where the first attempt precedes the successful start and departure.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e98953c58886",
+    "subject_id": "ep_2109e4fa54aec1f2",
+    "object_id": "ep_ee67fd273fb85c1f",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'React to failure and express mental distress' occurs when the car fails to start and Bruce expresses frustration, which is immediately followed by the object episode where the car starts after Bruce urges it and he escapes. The sequence is supported by the shared scene (scene_46) and the logical progression from failure to subsequent successful start and departure.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e5a312ad7e3a",
+    "subject_id": "ep_011503df2d9d032e",
+    "object_id": "ep_52ae39ee4ab6cf91",
+    "relation_type": "elaborates",
+    "reason": "The subject episode reveals the origin and competitive significance of the giant cookie, providing foundational context that the object episode builds upon by offering symbolic commentary interpreting the cookie as a metaphor for Buffalo's pride and values. The reflective monologue in the object episode expands on the meaning established in the subject episode, indicating a directed elaboration from the explanation of origin to its broader symbolic interpretation.",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_89489eec6831",
+    "subject_id": "ep_41059d04fdba8857",
+    "object_id": "ep_a85480cd9b0e5f52",
+    "relation_type": "precedes",
+    "reason": "Debbie arrives and reconnects with Zoe before answering the phone, as the arrival and greeting establish her presence at the daycare, which is a prerequisite for being asked to answer the phone. Both episodes occur in the same scene and location, and the sequence of events implies a temporal order where arrival precedes the subsequent task.",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0b374e919443",
+    "subject_id": "ep_011503df2d9d032e",
+    "object_id": "ep_991d66f69984641d",
+    "relation_type": "precedes",
+    "reason": "The subject episode, which involves Bruce interviewing the Kowolski brothers and comparing the cookie to the previous record, occurs during the broadcast segment that precedes the object episode where the family celebrates with a toast, as indicated by the sequence of events within the shared occasion of the 30-year anniversary celebration.",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_24cccb13385a",
+    "subject_id": "ep_e87398ad5ff0291c",
+    "object_id": "ep_2109e4fa54aec1f2",
+    "relation_type": "causes",
+    "reason": "The initial failure to start the car (ep_e87398ad5ff0291c) directly triggers Bruce's reaction of mental distress and frustration (ep_2109e4fa54aec1f2), as described in the causal sequence of events in scene_46 where the engine's failure leads to his emotional outburst and physical expression of anger.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e2b3f99c86bb",
+    "subject_id": "ep_066f8d330d4adbad",
+    "object_id": "ep_c30556eaf170f319",
+    "relation_type": "precedes",
+    "reason": "The public professional snub occurs as Susan Ortega walks by and ignores Bruce while greeting Jack, immediately before Bruce intercepts Jack to discuss his career frustrations. Both episodes occur in scene_12 and share the same occasion, with the snub logically and temporally preceding the urgent career intervention, as the snub likely motivates Bruce's immediate action.",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ac7f5ebe7ee4",
+    "subject_id": "ep_b3d4836c699a7aea",
+    "object_id": "ep_cfe470e6e45c7c8a",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Initiate live report at Niagara Falls' provides the setting and context in which Bruce expresses excitement about his career opportunity, which is further expanded upon in the episode 'Discuss promotion implications with Grace' where the conversation with Grace elaborates on the implications and emotional tone of the same situation. Both episodes share the same scene and overlapping events, with the second offering deeper exploration of the career discussion introduced in the first.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_1868e9a39825",
+    "subject_id": "ep_c3bd4a44fd47d9ce",
+    "object_id": "ep_d2a2c834608c604e",
+    "relation_type": "elaborates",
+    "reason": "The episode where the janitor reveals knowledge of Bruce's life and father elaborates on the identity convergence established when Bruce encounters the electrician, who is revealed to be the same janitor. The personal and emotional details provided in the second episode expand the significance of the first episode's pivotal moment, grounding the connection in shared narrative context and character revelation.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_acf75194ca78",
+    "subject_id": "ep_46af7af37dbd8a66",
+    "object_id": "ep_bf536af43bacab03",
+    "relation_type": "contrasts_with",
+    "reason": "The playful, flirtatious roleplay in 'Playfully rehearse a newscaster catchphrase' contrasts with the serious, vulnerable expression of career doubts in 'Seek feedback on bakery segment and express career doubts.' Both episodes occur in the same occasion and involve Bruce's professional identity, but one highlights humor and fantasy while the other reveals insecurity and dissatisfaction, creating a tonal and emotional juxtaposition.",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_04d845855fb0",
+    "subject_id": "ep_f0a7e1a26b3d9465",
+    "object_id": "ep_3f3403a154042c66",
+    "relation_type": "elaborates",
+    "reason": "The episode 'React to the school blood drive' introduces Bruce's discomfort with needles and skepticism about donation, which is further detailed in 'Reveal blood types and refusal to donate' where Bruce explicitly refuses needle contact and both characters disclose their blood types. The second episode expands on the attitudes and positions first expressed in the first, providing additional specificity about their stances, thus constituting elaboration.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_201869eaa596",
+    "subject_id": "ep_bf536af43bacab03",
+    "object_id": "ep_5f8a4fdbac86c35b",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode centers on Bruce's professional insecurity and dissatisfaction with his on-air appearance, while the second episode shifts to emotional reconnection through shared memories and affection. The contrast between professional doubt and personal affirmation, supported by the same scene and occasion, highlights a reversal in tone and focus, aligning with the 'contrasts_with' relation.",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6aa9e287a541",
+    "subject_id": "ep_d2a2c834608c604e",
+    "object_id": "ep_f8f38c00bfa7a889",
+    "relation_type": "precedes",
+    "reason": "The janitor's revelation of knowledge about Bruce and his father establishes context and dialogue that logically precedes Bruce's physical interaction with the file drawer. The sequence of related events in scene_44 suggests a narrative flow where exposition occurs before the violent demonstration of control, supporting a 'precedes' relation from the revelation episode to the physical dragging episode.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5a3a0b3739f3",
+    "subject_id": "ep_7b654c4e498de942",
+    "object_id": "ep_4f95c9a70cc770cf",
+    "relation_type": "precedes",
+    "reason": "The preparation for the live broadcast (receiving instructions, props, and mentally preparing) occurs in scene_15, while responding to Ally's signal and beginning the performance occurs in scene_16, indicating a clear sequential order where the preparation precedes the performance.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_afaf73c063fc",
+    "subject_id": "ep_1af759788cf9814d",
+    "object_id": "ep_622cf8de2bd8a909",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Bobby diverts Bruce with gossip and a story proposal, occurs before the object episode where Bruce attempts to leave and pays for the quiche. Both episodes occur in scene_10 and are part of the same interaction, with Bobby's conversational diversion preceding Bruce's attempt to disengage and pay, as supported by the narrative flow in the descriptions and shared scene context.",
+    "source_documents": [
+      "scene_10_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7a4fe0187441",
+    "subject_id": "ep_d9e84432ac48d32d",
+    "object_id": "ep_011503df2d9d032e",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Launch the anniversary report with legacy and context' introduces the giant cookie as part of the bakery's anniversary celebration, establishing initial context. The subsequent episode 'Reveal the giant cookie's origin and significance' provides deeper background on the cookie's creation and symbolic meaning, thereby expanding on the earlier episode's content. This directed elaboration is supported by the shared occasion and the progression from general report to focused explanation.",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e4566bc4fc90",
+    "subject_id": "ep_06edf1c7fa88319a",
+    "object_id": "ep_5ec3a81dca832f49",
+    "relation_type": "elaborates",
+    "reason": "The subject episode 'Sam shows a finished expression' is a component event described within the object episode 'Bruce places Sam down and reacts to the beeper', where Sam's expression is explicitly mentioned as part of the sequence. The subject episode provides a focused emotional detail that is embedded in and expands upon the broader narrative of the object episode, satisfying the 'elaborates' relation with strong but slightly indirect support due to its inclusion as a sub-event.",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7a0aa98c8273",
+    "subject_id": "ep_a7f67ac190ca7942",
+    "object_id": "ep_b763888005552d32",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Arrive and assess the old building' involves Bruce observing the building from the exterior, which directly precedes the object episode 'Enter the building interior' where he moves inside after dealing with the puddle obstacle. The narrative sequence in scene_43 supports a clear temporal order.",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_785709eb76e9",
+    "subject_id": "ep_27b32a7710b1c978",
+    "object_id": "ep_c79a34a8c3953fb7",
+    "relation_type": "causes",
+    "reason": "Bruce's distraction and freezing, as described in the subject episode, directly triggers the system failure that prompts Jack's response in the object episode. The object episode explicitly references Bruce's frozen state as the initiating event for the team's actions, establishing a clear causal chain supported by the related events and descriptions.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d7568aa50e56",
+    "subject_id": "ep_d959026f3f23673d",
+    "object_id": "ep_90a5df8b0cc832f4",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bruce discovers and reacts to dog's accident' (scene_4) occurs in an earlier scene than 'Handle Sam's disruption to de-escalate tension' (scene_35), indicating a clear temporal sequence where the discovery and initial reaction precede the later de-escalation efforts. Both episodes involve the same event of Sam urinating on the carpet but are separated by scene numbers, supporting a directed 'precedes' relation.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f217fecdbc5e",
+    "subject_id": "ep_532418e580bc998b",
+    "object_id": "ep_e98e2a1fd99749dd",
+    "relation_type": "causes",
+    "reason": "The supernatural parting of the soup by Bruce is interrupted by God's voice, which startles him and causes the parted soup to collapse. The description explicitly links the interruption of the soup miracle to God's verbal intervention, indicating a direct causal sequence where the subject episode (parting the soup) is actively disrupted by the onset of the object episode (God interrupting and summoning Bruce).",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_55dd2734c405",
+    "subject_id": "ep_4dee002725f16d88",
+    "object_id": "ep_4a6e203b20cc8a83",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bruce settles into the diner and orders coffee' includes Bruce ordering coffee and the waitress beginning service interaction, which sets the stage for the subsequent emotional confession in 'Waitress confesses personal secrets to Bruce'. Both episodes occur in scene_48, and the service initiation logically precedes the personal revelation, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1282be43d2b3",
+    "subject_id": "ep_cfe470e6e45c7c8a",
+    "object_id": "ep_db892e8173abd3d7",
+    "relation_type": "precedes",
+    "reason": "The episode 'Discuss promotion implications with Grace' involves a phone conversation between Bruce and Grace, which is explicitly ended in the episode 'End phone call under time pressure' when Ally signals Bruce about time. The related_events and shared occasion (Live Report At Niagara Falls) confirm the sequential order: the discussion occurs first, then the call is terminated due to time pressure. This establishes a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dc0fa8e970ae",
+    "subject_id": "ep_a4da463d6dbcd2ab",
+    "object_id": "ep_fdf0069f82fd2882",
+    "relation_type": "causes",
+    "reason": "The intervention in gang harassment (ep_a4da463d6dbcd2ab) directly triggers the gang's retaliatory attack and vandalism in the second episode (ep_fdf0069f82fd2882), as explicitly stated in the object episode's description: 'After the gang initially leaves, they return and violently attack Bruce in retaliation for his intervention.' This establishes a clear causal link from the subject to the object episode.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9c871c25c6ca",
+    "subject_id": "ep_afaa7decba4423c0",
+    "object_id": "ep_b763888005552d32",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Navigate the hazardous approach' involves Bruce stepping into a puddle and reacting to it, which occurs before he enters the building in the object episode 'Enter the building interior', as indicated by the sequence of events in scene_43 and the explicit mention that he proceeds to enter after dealing with the puddle obstacle.",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1d4240667614",
+    "subject_id": "ep_89f493ed5ed56f06",
+    "object_id": "ep_f95fb44827b97ce5",
+    "relation_type": "precedes",
+    "reason": "The episode 'God reveals divine identity and tests Bruce's skepticism' includes events where God demonstrates supernatural powers and challenges Bruce's disbelief, which directly sets up the subsequent offer of divine succession in the episode 'God offers Bruce the divine role and vanishes'. The latter episode concludes the encounter with a transformative proposition and God's disappearance, indicating a clear narrative sequence where revelation and testing precede the final offer and departure.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_36ff64eba1b1",
+    "subject_id": "ep_f8f38c00bfa7a889",
+    "object_id": "ep_a9896c3fc37a9e6f",
+    "relation_type": "precedes",
+    "reason": "The episode where Bruce is dragged by the file drawer and the cabinet slams shut occurs immediately before the janitor reveals his true role by unzipping his uniform and offering a handshake, as both are part of a continuous scene (scene_44) that builds escalating control and revelation. The physical demonstration of power over Bruce sets up the subsequent revelation of identity and authority, supporting a local narrative order where the former precedes the latter.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f287e8b3ae8d",
+    "subject_id": "ep_21d0ccacd6e5f850",
+    "object_id": "ep_d8a7ef52ed31bf9d",
+    "relation_type": "precedes",
+    "reason": "The subject episode, 'Bruce experiences a surreal driving episode', includes events where Bruce's car accelerates violently and culminates in a swerve that leads directly into the pit stop. The object episode, 'Bruce undergoes a supernatural pit stop transformation', begins at the pit stop with the Italian racing crew servicing the car. The sequence of events in the shared scene (scene_47) and the narrative flow indicate that the driving episode occurs immediately before the pit stop transformation episode.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eb6c0c36df6c",
+    "subject_id": "ep_5b03630ed85de029",
+    "object_id": "ep_5ec3a81dca832f49",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Bruce evading a collision while carrying a urinating Sam, with all related events occurring in scene_5. The second episode occurs in scene_41, where Bruce places Sam down and reacts to a beeper. The progression from scene_5 to scene_41 indicates a clear narrative sequence, with the first episode preceding the second in the local narrative order.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a6c9c7dc6e0f",
+    "subject_id": "ep_fbdfaa9b9c836b70",
+    "object_id": "ep_86602a1ec5c9c957",
+    "relation_type": "precedes",
+    "reason": "The episode 'Secure live reporting opportunity' involves Bruce receiving the assignment to cover the Maid of the Mist anniversary, which logically must occur before he appears live on location in the episode 'Bruce Nolan makes a sudden broadcast appearance'. The assignment (scene_12) precedes the broadcast (scene_22) in narrative order as supported by the related events and scene numbers.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fc49c62cd5d3",
+    "subject_id": "ep_1e1d948f5a832915",
+    "object_id": "ep_4eaade5e78155f84",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur during the same occasion, 'Morning Meeting At The News Station (scene_11)', and the events within each episode suggest a sequence: first the team discusses promo content (including Ally's concerns and Jack reasserting control), then Jack announces the lead story and reprimands Bruce. The narrative flow within the shared scene supports a direct temporal order where addressing promo concerns happens before announcing the lead story and reprimanding Bruce.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2070868d5af4",
+    "subject_id": "ep_a7f67ac190ca7942",
+    "object_id": "ep_afaa7decba4423c0",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Arrive and assess the old building' involves Bruce observing the building upon arrival, which logically and chronologically precedes the object episode 'Navigate the hazardous approach' where he moves toward the building and steps into a puddle. Both episodes occur in the same scene (scene_43) and the actions are temporally ordered: observation comes before movement and the consequent mishap.",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_11091b4fcf34",
+    "subject_id": "ep_61ec13ab171ab78c",
+    "object_id": "ep_f0a7e1a26b3d9465",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_7 and are part of the same narrative sequence. The subject episode 'Arrive and observe the school scene' establishes the initial setting upon Bruce's arrival, including his reaction to a passing luxury car. The object episode 'React to the school blood drive' follows as Bruce notices a medical van, leading to a new conversation topic. The narrative flow in the same scene supports a clear temporal order where arrival and initial observation precede the subsequent reaction to the blood drive.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_27bbc19e0155",
+    "subject_id": "ep_d9e84432ac48d32d",
+    "object_id": "ep_52ae39ee4ab6cf91",
+    "relation_type": "precedes",
+    "reason": "The launch of the anniversary report (ep_d9e84432ac48d32d) establishes the context for the event and introduces the giant cookie, which is later symbolically commented on in the concluding broadcast monologue (ep_52ae39ee4ab6cf91). The narrative flow within the same occasion (Kowolski Family Bakery 30 Year Anniversary Celebration) and shared scene indicates a clear temporal sequence: first reporting on the legacy and introducing the cookie, then delivering reflective commentary and concluding the broadcast.",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fe7aa3cf0b1d",
+    "subject_id": "ep_a9896c3fc37a9e6f",
+    "object_id": "ep_c3bd4a44fd47d9ce",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, in which the janitor reveals his true identity as the boss, provides critical context that is expanded upon in the object episode, where the same janitor is revealed to also be the electrician. The object episode builds on the subject by showing a further layer of the janitor's multifaceted role, suggesting a convergence of identities that elaborates the earlier revelation. This is supported by the shared scene (scene_44) and the narrative function of identity disclosure in both episodes.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5a624a9fb21e",
+    "subject_id": "ep_d959026f3f23673d",
+    "object_id": "ep_b105e1da3673f049",
+    "relation_type": "causes",
+    "reason": "The episode 'Bruce discovers and reacts to dog's accident' describes Sam urinating and being in a distressed state, which may have led to Sam becoming impaired and requiring rescue in the subsequent episode. While the exact causal link between the accident and Sam's later 'trickling' state is not explicitly confirmed, the shared context of Sam's physical distress and Bruce's involvement suggests a plausible causal progression. However, the lack of explicit narrative connection or temporal adjacency lowers confidence.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "id": "rel_ep_ep_81a50aaf2eaf",
+    "subject_id": "ep_bd217f884ff5dc1d",
+    "object_id": "ep_1af759788cf9814d",
+    "relation_type": "precedes",
+    "reason": "The episode where Bruce collides with Bobby and is detained by his quiche offer includes Bobby initiating contact during Bruce's rush through the newsroom, setting up their interaction. The subsequent episode, where Bobby diverts Bruce with gossip and a story proposal, builds on this ongoing encounter as Bruce attempts to leave, indicating a sequential narrative flow. The events in the first episode (collision and forced quiche tasting) logically precede the shift in conversation and story pitch in the second, supported by the shared scene reference (scene_10) and the progression from physical disruption to verbal engagement.",
+    "source_documents": [
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bdad8f9e1e7e",
+    "subject_id": "ep_bd217f884ff5dc1d",
+    "object_id": "ep_622cf8de2bd8a909",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bruce collides with Bobby and is detained by his quiche offer' describes the initial forced interaction where Bruce is stopped and made to taste the quiche, which directly sets up the subsequent attempt to leave and pay. The episode 'Bruce attempts to escape and pay for the quiche' begins with Bruce trying to leave after having already tasted the quiche, indicating a clear sequential order. The related events in both episodes occur in the same scene (scene_10) and form a continuous narrative where the collision and detention logically precede the attempt to escape and payment.",
+    "source_documents": [
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eb912867d61d",
+    "subject_id": "ep_a9896c3fc37a9e6f",
+    "object_id": "ep_d2a2c834608c604e",
+    "relation_type": "elaborates",
+    "reason": "The janitor's revelation of his true role (as boss) establishes his authority and control, which is further expanded in the second episode where he demonstrates omniscience about Bruce's life and personal history. The second episode provides additional depth to the janitor's character and his connection to Bruce, elaborating on the implications of his authority introduced in the first episode. Both occur in the same scene (scene_44), so temporal or causal ordering is not explicit, but the second episode adds explanatory context that enriches the first.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_41dc2bc1f605",
+    "subject_id": "ep_143655fe44d4a58a",
+    "object_id": "ep_3dc200c71fd49838",
+    "relation_type": "precedes",
+    "reason": "The episode 'Discuss media and personal concerns at checkout' occurs while Grace and Debbie are at the checkout, where Grace expresses worry about a recent argument and a missing phone call. This is immediately followed by 'Grace resolves to return and support Bruce', where Grace decides to leave and return to Bruce out of concern for him. The narrative sequence in scene_50 supports a clear temporal order: the conversation precedes the decision to act, with both episodes grounded in the same scene but forming a coherent progression from emotional disclosure to resolution.",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f801213570c7",
+    "subject_id": "ep_5b03630ed85de029",
+    "object_id": "ep_d959026f3f23673d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bruce discovers and reacts to dog's accident' (ep_d959026f3f23673d) occurs in scene_4, where Sam urinates on the carpet and Bruce reacts. The episode 'Evade collision while carrying a urinating dog' (ep_5b03630ed85de029) occurs in scene_5, involving continued urination by Sam while being carried. The sequential scene numbering and continuity of Sam's urination behavior indicate that the discovery episode precedes the evasion episode in narrative order.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d45a81d77388",
+    "subject_id": "ep_542f73ba2995d3d2",
+    "object_id": "ep_0397f8db29bbeeeb",
+    "relation_type": "precedes",
+    "reason": "The episode 'React to traffic and accident ahead' occurs before 'Get forced to stop by police siren' as Bruce first observes the traffic jam and expresses frustration, then subsequently hears the siren and is compelled to pull over, indicating a clear sequential order in the narrative.",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_dc868d190d6c",
+    "subject_id": "ep_178ef261fd65e5aa",
+    "object_id": "ep_0397f8db29bbeeeb",
+    "relation_type": "causes",
+    "reason": "Bruce's decision to bypass traffic by driving on the shoulder (subject) directly leads to being forced to stop by a police siren (object), as the reckless action prompts the police response. The shared scene reference (scene_8) and causal sequence in the descriptions provide explicit support.",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f5a1120871a2",
+    "subject_id": "ep_542f73ba2995d3d2",
+    "object_id": "ep_178ef261fd65e5aa",
+    "relation_type": "precedes",
+    "reason": "The episode 'React to traffic and accident ahead' describes Bruce becoming aware of the traffic jam and expressing frustration, which sets the context for his subsequent decision in 'Respond to meeting alert by taking risky action' to drive on the shoulder. The narrative flow in scene_8 implies a temporal sequence where awareness and frustration precede the risky action, with both episodes occurring in the same scene but logically ordered.",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_02653a0d714d",
+    "subject_id": "ep_0a5799a3a8e570c5",
+    "object_id": "ep_ce73f87f4fe6e3eb",
+    "relation_type": "causes",
+    "reason": "The repeated beeper message and Bruce's growing frustration in 'React to the repeated beeper message' directly trigger the decisive action of destroying the beeper in 'Destroy the beeper in defiance', as evidenced by the beeper sounding again during his movement to the bathroom, which interrupts his path and leads to the destructive act.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8d3925dbe618",
+    "subject_id": "ep_e98e2a1fd99749dd",
+    "object_id": "ep_8a64cc4589af6812",
+    "relation_type": "precedes",
+    "reason": "The episode 'God interrupts and summons Bruce' occurs in doc_47 and scene_48, while 'Explain divine rules to Bruce' occurs in doc_48 and scene_49, indicating a clear narrative sequence where God's summoning of Bruce precedes the explanation of divine rules.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ed8acd08e467",
+    "subject_id": "ep_e98e2a1fd99749dd",
+    "object_id": "ep_223eba5cc22aca5b",
+    "relation_type": "precedes",
+    "reason": "The episode 'God interrupts and summons Bruce' occurs in doc_47 and includes God inviting Bruce on a walk, which sets up the subsequent episode in doc_48 where 'God and Bruce walk on the surface of the lake'. The narrative sequence implied by the summoning and invitation directly precedes the walk on water, establishing a clear local order.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9dbb87ef64db",
+    "subject_id": "ep_aa4710618bcf94b9",
+    "object_id": "ep_cfe470e6e45c7c8a",
+    "relation_type": "contrasts_with",
+    "reason": "The emotional collapse and anger in Bruce's argument with Grace (ep_aa4710618bcf94b9) contrasts with the earlier cautious optimism in their discussion about a potential promotion (ep_cfe470e6e45c7c8a), highlighting a reversal in tone and emotional state between the two episodes.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_90d8d9b3b5f0",
+    "subject_id": "ep_c4b9d0c66f7490bc",
+    "object_id": "ep_8b1ac4bcc7cbf30b",
+    "relation_type": "precedes",
+    "reason": "Bruce's plea for divine guidance occurs while driving in the rain and includes his failure to notice external warnings, setting up his subsequent interpretation of the truck with road signs as a potential divine message. The narrative flow in scene_36 suggests the plea precedes the interpretation of the signs as a response (or lack thereof), with both episodes sharing the same scene and causal context.",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_347f803e481b",
+    "subject_id": "ep_52ae39ee4ab6cf91",
+    "object_id": "ep_24df5fe90dfc37a7",
+    "relation_type": "precedes",
+    "reason": "The episode 'Deliver symbolic commentary and conclude broadcast' includes the final moments of the live broadcast, including Bruce's sign-off and the frozen image, which logically precedes the private act of reviewing the recorded segment. The shift from public broadcast to private review implies a temporal sequence supported by the narrative flow.",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fb350699a105",
+    "subject_id": "ep_e83e8c693057bc72",
+    "object_id": "ep_0a5799a3a8e570c5",
+    "relation_type": "precedes",
+    "reason": "The episode 'Wake up and misidentify the beeper' describes Bruce's initial awakening and confusion upon hearing the beeper, which logically and chronologically occurs before 'React to the repeated beeper message,' where he checks the beeper again and reacts with sarcasm. Both episodes are grounded in scene_38 and depict a sequential progression of actions: first misidentifying the sound source, then recognizing the repeated message and responding to it.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a514d4850a13",
+    "subject_id": "ep_ed58fc96f42e2fc3",
+    "object_id": "ep_c3bd4a44fd47d9ce",
+    "relation_type": "precedes",
+    "reason": "The interaction with the janitor in the lobby occurs before Bruce ascends to the seventh floor and encounters the electrician, as the janitor informs Bruce about the broken elevator and room 7's location, which sets up the subsequent episode. The narrative sequence is supported by the event flow in scene_44.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8697ebbe906a",
+    "subject_id": "ep_89f493ed5ed56f06",
+    "object_id": "ep_8a64cc4589af6812",
+    "relation_type": "precedes",
+    "reason": "The first episode involves God revealing his identity and testing Bruce's skepticism through supernatural demonstrations, which concludes with Bruce's perception being altered. The second episode begins with Bruce expressing confusion about the aftermath (extra fingers) and God then explaining divine rules. The narrative sequence is supported by the progression from revelation and testing to rule-setting, with scene_44 preceding scene_49 in document order.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f6cace346cea",
+    "subject_id": "ep_fbdfaa9b9c836b70",
+    "object_id": "ep_b3d4836c699a7aea",
+    "relation_type": "precedes",
+    "reason": "The episode 'Secure live reporting opportunity' involves Jack assigning Bruce the assignment at Niagara Falls, which directly sets up the subsequent live report. The description of 'Initiate live report at Niagara Falls' indicates Bruce is already on-site conducting the report, implying it occurs after securing the opportunity. The related events and occasions in both episodes align with a sequential narrative progression from assignment to execution.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_45bf9fd4dfed",
+    "subject_id": "ep_e83e8c693057bc72",
+    "object_id": "ep_ce73f87f4fe6e3eb",
+    "relation_type": "precedes",
+    "reason": "The episode 'Wake up and misidentify the beeper' occurs first, as it captures Bruce's initial disorientation upon waking and his realization that the sound is from the beeper. This is followed by 'Destroy the beeper in defiance', where Bruce, after the beeper sounds again, throws it out the window. The sequence of related events in the same scene (scene_38) and the narrative progression from confusion to decisive action support that the first episode precedes the second.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_935f4a34350e",
+    "subject_id": "ep_8f3fb43611c63c96",
+    "object_id": "ep_ed58fc96f42e2fc3",
+    "relation_type": "precedes",
+    "reason": "Bruce first enters the building and consults the directory, then encounters the janitor in the lobby. Both episodes occur in scene_44 and describe sequential actions in the same location, with the directory check logically preceding the interaction with the janitor, who provides additional information about room 7 and the elevator. The narrative flow supports a clear temporal order.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e818c71984c7",
+    "subject_id": "ep_bf536af43bacab03",
+    "object_id": "ep_aa4710618bcf94b9",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Seek feedback on bakery segment and express career doubts' reveals Bruce's underlying professional insecurities, which provides context that elaborates on the broader life dissatisfaction expressed in the later argument with Grace. The emotional vulnerability in the first episode expands the understanding of Bruce's state in the second, more intense confrontation, though the episodes are not directly causally linked. The elaboration is supported by the shared theme of Bruce's self-doubt and desire for validation.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5648e1d0a3ac",
+    "subject_id": "ep_90a5df8b0cc832f4",
+    "object_id": "ep_aa4710618bcf94b9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Handle Sam's disruption to de-escalate tension' occurs before 'Escalate argument over life dissatisfaction' within scene_35, as indicated by the sequence of related events: Sam urinating and Bruce's sarcastic response precede Bruce's emotional outburst, photo-knocking, and departure. The narrative flow shows de-escalation efforts following the pet incident, which then transitions into a deeper emotional confrontation, supporting a clear temporal order.",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0c0e95e97986",
+    "subject_id": "ep_89f493ed5ed56f06",
+    "object_id": "ep_e98e2a1fd99749dd",
+    "relation_type": "precedes",
+    "reason": "The episode 'God reveals divine identity and tests Bruce's skepticism' occurs in doc_43 and scene_44, while 'God interrupts and summons Bruce' occurs in doc_47 and scene_48, indicating a clear narrative sequence where the revelation and testing precede the summons. The progression from supernatural demonstration to physical appearance and invitation supports a directed temporal order.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9f8f55124816",
+    "subject_id": "ep_5b1d4ed9fe29d301",
+    "object_id": "ep_61ec13ab171ab78c",
+    "relation_type": "precedes",
+    "reason": "The event 'Bruce arrives at school in his Ford Taurus' occurs in the same scene (scene_7) as the events in the first episode, but logically follows the discussion about the prayer beads, which takes place while driving. The narrative sequence within scene_7 implies that the introduction and discussion of the prayer beads happens en route, before arrival at the school, establishing a clear local narrative order.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4d3eb58b31a1",
+    "subject_id": "ep_4dee002725f16d88",
+    "object_id": "ep_e98e2a1fd99749dd",
+    "relation_type": "precedes",
+    "reason": "Bruce settles into the diner and orders coffee before God interrupts and summons him, as evidenced by the sequence of related events in scene_48: Bruce's actions (sitting, muttering, ordering coffee) occur first, followed by God speaking from off-screen and appearing beside the booth.",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ae5705d55768",
+    "subject_id": "ep_ed58fc96f42e2fc3",
+    "object_id": "ep_f8f38c00bfa7a889",
+    "relation_type": "precedes",
+    "reason": "The interaction with the janitor in the lobby (e.g., offering to mop, informing about room 7, refusal to help) occurs before Bruce attempts to open the file drawer and is violently dragged, as both events take place in scene_44 and the lobby interaction sets up the initial encounter and tension with the janitor prior to the physical confrontation in the same scene.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b6cc469344ab",
+    "subject_id": "ep_e98e2a1fd99749dd",
+    "object_id": "ep_f95fb44827b97ce5",
+    "relation_type": "precedes",
+    "reason": "The episode 'God interrupts and summons Bruce' occurs when God first appears and invites Bruce to walk, while 'God offers Bruce the divine role and vanishes' involves the subsequent confrontation, job offer, and vanishing act. The sequence of events in the narrative, supported by the progression from initial summoning to final offer and departure, indicates a clear temporal order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5ba03a4b51bc",
+    "subject_id": "ep_f95fb44827b97ce5",
+    "object_id": "ep_8a64cc4589af6812",
+    "relation_type": "precedes",
+    "reason": "The episode 'God offers Bruce the divine role and vanishes' (scene_44) occurs in doc_43 and includes God making the offer and vanishing, which sets up the subsequent explanation of divine rules in 'Explain divine rules to Bruce' (scene_49) in doc_48. The latter episode explicitly addresses Bruce's confusion following the initial encounter, indicating a clear narrative sequence where the offer and vanishing precede the formal explanation of rules.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2cfa9bf90382",
+    "subject_id": "ep_c3bd4a44fd47d9ce",
+    "object_id": "ep_f95fb44827b97ce5",
+    "relation_type": "precedes",
+    "reason": "The episode where Bruce ascends to the seventh floor and encounters the electrician occurs before God offers Bruce the divine role and vanishes, as both episodes are part of the same scene (scene_44) and the encounter with the electrician (revealed as the janitor) sets up the subsequent reappearance of God in the janitor's form, indicating a clear narrative sequence.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_dad562260437",
+    "subject_id": "ep_c6a792381241f3f1",
+    "object_id": "ep_8facff6298bf7406",
+    "relation_type": "precedes",
+    "reason": "The phone handover episode occurs first, where Grace takes the phone from Debbie to speak with Bruce; only after Bruce hangs up does Debbie mockingly imitate a cow to tease Grace, which initiates the response-to-teasing episode. The sequence of events in scene_14 supports a clear temporal order: the handover precedes the teasing and its response.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_027987f6ee8f",
+    "subject_id": "ep_843876af0338f568",
+    "object_id": "ep_53214c00fcae30d8",
+    "relation_type": "precedes",
+    "reason": "Grace initiates morning intimacy and departs the bed before Bruce resists waking and reacts to the cover removal, as both episodes occur in scene_3 and the sequence of events shows Grace's actions (turning off the alarm, snuggling, kissing, getting out of bed) preceding Bruce's reluctance and tantrum after the covers are pulled away.",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c826d48a8e61",
+    "subject_id": "ep_8e58623426f897c3",
+    "object_id": "ep_4a6e203b20cc8a83",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bruce accepts soup and the Old Man reacts with suspicion' includes the event where the waitress delivers the soup, which directly precedes her turning back to confess personal secrets to Bruce in the subsequent episode. The sequence of events in the shared scene (scene_48) supports a clear temporal order.",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fbd51744de78",
+    "subject_id": "ep_27b32a7710b1c978",
+    "object_id": "ep_066f8d330d4adbad",
+    "relation_type": "precedes",
+    "reason": "Bruce first notices Susan Ortega and becomes distracted (ep_27b32a7710b1c978), which occurs in scene_10, before the later event in scene_12 where Susan Ortega ignores Bruce while greeting Jack, constituting the public professional snub (ep_066f8d330d4adbad). The scene numbers indicate a clear narrative order.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fe89276eb84b",
+    "subject_id": "ep_494647e93cb8b922",
+    "object_id": "ep_8b1ac4bcc7cbf30b",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_36 and are part of Bruce's continuous car journey. The prayer beads episode includes Bruce crashing into a light post, which is a concrete event that concludes his active search and prayer. The subsequent episode, where a truck pulls in front of him with road signs, must occur after this crash or as a next narrative beat, establishing a clear local narrative order. The text does not state explicit causation, contrast, or elaboration, but the sequence of events supports a 'precedes' relation.",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ca51c73a4686",
+    "subject_id": "ep_143655fe44d4a58a",
+    "object_id": "ep_71f2edc724ca6370",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Discuss media and personal concerns at checkout' occurs while Grace and Debbie are waiting at the checkout and before the clerk announces the total, whereas the object episode 'Manage escalating checkout conflict' begins after the clerk announces the total and involves reactions to it. The sequence of events in the shared scene_50 supports a clear temporal order where the conversation precedes the conflict escalation.",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bf7f428482aa",
+    "subject_id": "ep_1af759788cf9814d",
+    "object_id": "ep_27b32a7710b1c978",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Bobby diverts Bruce with gossip and a story proposal, occurs just before Bruce notices Susan Ortega and becomes distracted. Both episodes are anchored in scene_10, and the description of the object episode states that Bruce glances across the room 'at the moment' he is handing over payment, implying a sequence where Bobby's attempt to engage him immediately precedes the shift in Bruce's attention. This local narrative order supports a 'precedes' relation from the subject to the object.",
+    "source_documents": [
+      "scene_10_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d5d5bd9402aa",
+    "subject_id": "ep_4dee002725f16d88",
+    "object_id": "ep_8e58623426f897c3",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Bruce ordering coffee, which is followed by the waitress offering soup in the object episode. The related events in both episodes occur in the same scene (scene_48) and are sequentially ordered: coffee order and pour precede the soup offer and acceptance. This local narrative sequence supports a clear 'precedes' relation from the coffee-ordering episode to the soup-acceptance episode.",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a5a7daebb0db",
+    "subject_id": "ep_efc0fb82715fd03d",
+    "object_id": "ep_e98e2a1fd99749dd",
+    "relation_type": "precedes",
+    "reason": "Bruce tests his telekinetic powers alone at the booth before God interrupts and summons him, as indicated by the sequence of events in scene_48: first Bruce uses his powers (e.g., moving sugar, summoning a spoon), then God speaks from off-screen, startling him and causing the parted soup to collapse. This temporal order is explicitly supported by the related_events and descriptions of both episodes.",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_37f0040233b6",
+    "subject_id": "ep_927e82f882e36285",
+    "object_id": "ep_6066b6c1c648fd9f",
+    "relation_type": "precedes",
+    "reason": "The 'Complete sandwich transaction' occurs first, as Jack pays for the sandwich at the cart, which sets the initial scene before Bruce's interruption and subsequent outburst. The 'Resolve physical aftermath of outburst' involves Jack removing the sandwich from his chest after Bruce runs off, which can only happen after the transaction is complete. The related events in both episodes are part of the same scene sequence (scene_12), supporting a clear temporal order.",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b04bc1b001a6",
+    "subject_id": "ep_ed58fc96f42e2fc3",
+    "object_id": "ep_d2a2c834608c604e",
+    "relation_type": "elaborates",
+    "reason": "The episode where the janitor reveals knowledge of Bruce's life and father provides additional personal and emotional context that expands upon the initial interaction between Bruce and the janitor in the lobby. The reference to Bruce's father and the claim of omniscience build on the janitor's cryptic presence established earlier, suggesting a deeper layer to their encounter. This constitutes elaboration rather than a separate causal or temporal unit, as it adds background and depth to the same scene (scene_44) and interaction.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_6d4507389eea",
+    "subject_id": "ep_89f493ed5ed56f06",
+    "object_id": "ep_c3bd4a44fd47d9ce",
+    "relation_type": "precedes",
+    "reason": "The episode 'God reveals divine identity and tests Bruce's skepticism' occurs as Bruce interacts with the janitor in a lower-floor setting, where supernatural demonstrations take place. The episode 'Bruce ascends to the seventh floor and encounters the electrician' begins with Bruce climbing to the seventh floor and encountering the same janitor, now revealed as the electrician. The ascent and subsequent encounter follow the prior interaction chronologically, as indicated by the narrative progression in scene_44. Thus, the first episode precedes the second.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_25fc82f25a8a",
+    "subject_id": "ep_46af7af37dbd8a66",
+    "object_id": "ep_5f8a4fdbac86c35b",
+    "relation_type": "contrasts_with",
+    "reason": "The playful, performative fantasy in 'Playfully rehearse a newscaster catchphrase' contrasts with the emotionally grounded reconnection in 'Reconnect through shared memories and affirm relationship', where nostalgia and affirmation replace roleplay. Both episodes occur in the same occasion (Sister's Wedding Celebration) but reflect a shift from lighthearted professional fantasy to intimate personal reflection, as Bruce moves from performing gravitas to receiving reassurance about his value, indicating a tonal and functional contrast.",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ad7a4d3c4d79",
+    "subject_id": "ep_4dee002725f16d88",
+    "object_id": "ep_efc0fb82715fd03d",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Bruce settling into the diner, ordering coffee, and interacting with the waitress, including her pouring coffee for him. The second episode describes Bruce using telekinetic powers to manipulate sugar, creamer, and a spoon at the table, actions that logically occur after he has been served coffee. The sequence of events in the related_events lists supports a clear temporal order: ordering and receiving coffee precedes manipulating items at the table, indicating the first episode precedes the second.",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7661073d3544",
+    "subject_id": "ep_27b32a7710b1c978",
+    "object_id": "ep_622cf8de2bd8a909",
+    "relation_type": "precedes",
+    "reason": "Bruce's distraction by Susan Ortega occurs at the moment he is handing over payment, which is part of the sequence leading to his attempt to escape and pay for the quiche. The related events in both episodes are situated in scene_10, and the description of ep_622cf8de2bd8a909 implies that Bruce abandons a prior thought (seeking help from Kelly) after being distracted, indicating that the noticing of Susan Ortega precedes his frustrated effort to disengage and pay. The narrative flow within the same scene supports a local temporal order.",
+    "source_documents": [
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a16a501a1d99",
+    "subject_id": "ep_06edf1c7fa88319a",
+    "object_id": "ep_5426515cacc04941",
+    "relation_type": "elaborates",
+    "reason": "The subject episode 'Sam shows a finished expression' captures a specific emotional beat that is part of the broader interaction described in the object episode 'Handle Sam's outdoor moment with sarcastic reflection', which includes Sam's look and Bruce's reaction. The subject episode elaborates on the emotional nuance within the object episode by focusing on Sam's concluding expression, thus providing a more detailed perspective on a component event already embedded in the object episode's description.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a19481f2363b",
+    "subject_id": "ep_b105e1da3673f049",
+    "object_id": "ep_ee67fd273fb85c1f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rescue Sam from danger' involves Bruce carrying Sam down the stairs, which logically precedes the immediate starting of the car and rapid departure described in 'Car starts after verbal urging and escape'. The physical rescue must occur before the escape by vehicle, establishing a clear temporal sequence supported by the narrative flow of events.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9253ed474c20",
+    "subject_id": "ep_5b03630ed85de029",
+    "object_id": "ep_06edf1c7fa88319a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Evade collision while carrying a urinating dog' involves Bruce actively running with Sam and interacting with a man on the stairs, which is a dynamic, action-driven sequence. The episode 'Sam shows a finished expression' describes a subsequent moment where Sam is placed on the grass and displays a sense of resignation, marking the conclusion of his role in the immediate action. The description explicitly states this event 'sets the tone for Bruce's subsequent reaction to the beeper,' implying a narrative sequence where the evasion episode concludes before this reflective moment begins. Thus, the evasion episode precedes the finished expression episode in local narrative order.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_81fc8a70f09e",
+    "subject_id": "ep_77c176f997fdd3e1",
+    "object_id": "ep_da6367a4df1dbc36",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Bill about job rejection' involves Bruce confronting Bill within the building, while 'React to being ejected from the building' occurs after Bruce has been thrown out. The physical ejection must follow the confrontation chronologically, as the confrontation takes place indoors and the ejection is a subsequent event. This local narrative order is supported by the sequence of scenes in the related documents.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f5553c310b6b",
+    "subject_id": "ep_b763888005552d32",
+    "object_id": "ep_da6367a4df1dbc36",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Enter the building interior' describes Bruce entering the building, which logically and narratively must occur before the object episode 'React to being ejected from the building', as one must be inside to be ejected. The related events and descriptions support a clear temporal sequence: entry precedes ejection.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f6319ea41090",
+    "subject_id": "ep_da6367a4df1dbc36",
+    "object_id": "ep_ee67fd273fb85c1f",
+    "relation_type": "precedes",
+    "reason": "The episode 'React to being ejected from the building' occurs immediately after Bruce is thrown out (scene_33), while 'Car starts after verbal urging and escape' occurs in scene_46, indicating a clear narrative sequence where the ejection precedes the car escape. The temporal order across scenes supports the 'precedes' relation from subject to object.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a8644e399d7c",
+    "subject_id": "ep_662af7d0912d6cbe",
+    "object_id": "ep_77c176f997fdd3e1",
+    "relation_type": "precedes",
+    "reason": "The episode 'React to unexpected career news' involves Bruce learning about Evan Baxter's promotion in a live broadcast, which establishes his shock and disappointment. This directly sets up the emotional state leading into 'Confront Bill about job rejection,' where Bruce questions Bill about not getting the anchor job, indicating a narrative progression from reaction to confrontation. The events occur in adjacent scenes (scene_15 and scene_28), supporting a local narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_771ed6899fa1",
+    "subject_id": "ep_4113fe5cfd6abebc",
+    "object_id": "ep_da6367a4df1dbc36",
+    "relation_type": "precedes",
+    "reason": "The episode 'React to being ejected from the building' describes Bruce's immediate physical and emotional response upon being thrown out, which logically precedes his subsequent action of fleeing the building and testing the impossible puddle. The related events in the second episode (exiting in a hurry, stepping into the puddle) suggest a sequence that follows the initial ejection, supporting a 'precedes' relation from the ejection reaction to the puddle test.",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5b01f00ffa8d",
+    "subject_id": "ep_da6367a4df1dbc36",
+    "object_id": "ep_fdf0069f82fd2882",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'React to being ejected from the building' occurs in doc_32 and scene_33, while the object episode 'Suffer gang retaliation and assess aftermath' occurs in doc_33 and scene_34, indicating a clear narrative sequence where Bruce's ejection precedes the gang's retaliation. The events are chronologically ordered across adjacent scenes and documents.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_36eb419e16e2",
+    "subject_id": "ep_a7f67ac190ca7942",
+    "object_id": "ep_da6367a4df1dbc36",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Arrive and assess the old building' describes Bruce arriving and observing the building, which logically occurs before the object episode 'React to being ejected from the building', where he is forcibly thrown out and reacts. The sequence implied by the actions—arrival and assessment followed by ejection and reaction—supports a 'precedes' relation with strong but slightly indirect temporal evidence, as the exact time order is not explicitly stated but is contextually necessary.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7d1a805dc3b9",
+    "subject_id": "ep_622cf8de2bd8a909",
+    "object_id": "ep_da6367a4df1dbc36",
+    "relation_type": "precedes",
+    "reason": "Bruce's attempt to escape and pay for the quiche occurs in scene_10, while his reaction to being ejected from the building occurs in scene_33, indicating a clear narrative sequence where the first episode precedes the second based on scene ordering.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9ab7353d0901",
+    "subject_id": "ep_456b3cc206a43a0a",
+    "object_id": "ep_a7f67ac190ca7942",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to the recruitment message' involves Bruce writing down the address from a prerecorded message, which provides the location he later arrives at in the object episode 'Arrive and assess the old building'. The narrative sequence is supported by the progression from receiving the address to physically arriving at the location, with no intervening events suggesting a different order.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_44c36d729aa4",
+    "subject_id": "ep_456b3cc206a43a0a",
+    "object_id": "ep_8f3fb43611c63c96",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to the recruitment message' involves Bruce writing down an address after receiving a message, which logically precedes the object episode 'Bruce enters the building and consults the directory' where he arrives at the building. The sequence is supported by the narrative flow: Bruce first obtains the address and then acts on it by going to the location, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b691bf14707e",
+    "subject_id": "ep_5426515cacc04941",
+    "object_id": "ep_a2e9f129d48e0a3e",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode features Bruce engaging in a moment of familial affection with Sam, marked by mild frustration but underlying warmth, while the second depicts Bruce displaying emotional detachment and cynicism toward a homeless victim. The juxtaposition of a tender, sarcastic interaction with a child versus a cold, dismissive remark to a suffering adult highlights a contrast in Bruce's emotional tone and moral stance, supporting a contrasts_with relation.",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_d6a85e0999da",
+    "subject_id": "ep_4f95c9a70cc770cf",
+    "object_id": "ep_a2e9f129d48e0a3e",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts Bruce transitioning into a performance with a numb, possibly empathetic or engaged presence, while the second shows him expressing cynicism and emotional detachment with a sarcastic remark toward a victim. These episodes juxtapose a moment of receptive stillness with one of active dismissal, highlighting a reversal in tone and emotional stance, supporting a contrast relation.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_3e54b5b45ffb",
+    "subject_id": "ep_aeb1b76693b87d57",
+    "object_id": "ep_ee67fd273fb85c1f",
+    "relation_type": "precedes",
+    "reason": "The news broadcast conclusion occurs during scene_31, while the car starting and escape happens in scene_46, indicating a clear narrative sequence where Bruce's on-air actions precede his physical departure in the car.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4fc0fab6ddaf",
+    "subject_id": "ep_24df5fe90dfc37a7",
+    "object_id": "ep_aeb1b76693b87d57",
+    "relation_type": "precedes",
+    "reason": "The object episode describes Bruce concluding the live news broadcast with unprofessional conduct, which must occur before the subject episode where he privately reviews the recorded segment. The recording being watched in the subject episode is of the broadcast concluded in the object episode, implying a clear temporal sequence: the broadcast ends first, then the recording is reviewed.",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5a7f7e2af372",
+    "subject_id": "ep_007636454aad062c",
+    "object_id": "ep_aeb1b76693b87d57",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts Bruce carefully crafting a professional on-air persona through rehearsing a polished sign-off, while the second episode shows him concluding a broadcast with disruptive and unprofessional behavior, including licking the camera and a crude sign-off. These episodes are juxtaposed in tone and outcome—disciplined preparation versus chaotic execution—highlighting a reversal in his on-air conduct, which supports a contrast relation.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2d02c2d6c760",
+    "subject_id": "ep_18517c1d2ead2b0c",
+    "object_id": "ep_9a55ccce33278c64",
+    "relation_type": "precedes",
+    "reason": "The subject episode, where Bruce reacts to Jack's return and vents frustration, occurs in scene_26, while the object episode, where Bruce responds to his beeper and leaves, occurs in scene_37. The clear scene ordering (26 before 37) supports that the subject episode precedes the object episode in narrative sequence.",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7b7717757dd7",
+    "subject_id": "ep_18517c1d2ead2b0c",
+    "object_id": "ep_a2e9f129d48e0a3e",
+    "relation_type": "precedes",
+    "reason": "The subject episode, where Bruce reacts to Jack's return with frustration and throws an umbrella, occurs in scene 26, while the object episode, where Bruce drives past the homeless man and makes a cynical remark, occurs in scene 34. The narrative order of scenes supports that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_431a489e6851",
+    "subject_id": "ep_4113fe5cfd6abebc",
+    "object_id": "ep_e87398ad5ff0291c",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Flee the building and test the impossible puddle' occurs in doc_44, scene_45, while the object episode 'Attempt to start the car and initial failure' occurs in doc_45, scene_46. The document and scene numbering indicate a sequential narrative order, with the first episode preceding the second. This local narrative order supports the 'precedes' relation.",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_11a84ebc83ad",
+    "subject_id": "ep_b3d4836c699a7aea",
+    "object_id": "ep_c79a34a8c3953fb7",
+    "relation_type": "precedes",
+    "reason": "The live report initiation at Niagara Falls (ep_b3d4836c699a7aea) sets up Bruce's on-air appearance, which must occur before the system failure response (ep_c79a34a8c3953fb7) can take place, as the failure is detected during the live broadcast. The sequence is supported by the narrative flow: Bruce's live report is ongoing when the control room detects his frozen state, indicating a clear temporal order.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fae93bf2dd7f",
+    "subject_id": "ep_4113fe5cfd6abebc",
+    "object_id": "ep_ee67fd273fb85c1f",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Flee the building and test the impossible puddle' occurs in scene_45, while the object episode 'Car starts after verbal urging and escape' occurs in scene_46, indicating a clear narrative sequence where Bruce exits the building and encounters the anomalous puddle before reaching and starting the car. The scene numbers and sequential nature of the described events support a direct 'precedes' relation.",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_95035675ee30",
+    "subject_id": "ep_a7f67ac190ca7942",
+    "object_id": "ep_4113fe5cfd6abebc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrive and assess the old building' occurs in scene_43, while 'Flee the building and test the impossible puddle' occurs in scene_45, indicating a clear temporal sequence where the arrival and assessment precede the escape and encounter with the anomalous puddle.",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_75566a861b33",
+    "subject_id": "ep_afaa7decba4423c0",
+    "object_id": "ep_4113fe5cfd6abebc",
+    "relation_type": "contrasts_with",
+    "reason": "The two episodes depict Bruce encountering puddles under opposite physical conditions: in the first, he sinks into a normal puddle, highlighting environmental decay; in the second, a puddle defies physics by supporting his weight, creating a surreal reversal. This juxtaposition emphasizes a contrast in physical laws and tone between the two events.",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_43f29c45278d",
+    "subject_id": "ep_4113fe5cfd6abebc",
+    "object_id": "ep_b763888005552d32",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Flee the building and test the impossible puddle' involves Bruce exiting the building and interacting with the puddle, which directly precedes his entry into the building described in the object episode 'Enter the building interior', as confirmed by the sequence of scenes (scene_45 before scene_43) and the narrative flow indicating transition from exterior to interior after resolving the puddle obstacle.",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fc7b24a06f10",
+    "subject_id": "ep_f95fb44827b97ce5",
+    "object_id": "ep_4113fe5cfd6abebc",
+    "relation_type": "precedes",
+    "reason": "The episode 'God offers Bruce the divine role and vanishes' ends with Bruce fleeing the room in panic after God vanishes, which directly sets up the next episode where Bruce urgently exits the building and encounters the impossible puddle. The sequence of events in the descriptions and related scenes (scene_44 followed by scene_45) supports a clear narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c4a83e3621ca",
+    "subject_id": "ep_53214c00fcae30d8",
+    "object_id": "ep_9a55ccce33278c64",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs in scene_3, where Bruce resists waking and reacts to cover removal, while the object episode occurs in scene_37, where he reacts to his beeper and leaves toward his car. The clear scene progression from scene_3 to scene_37 in the related_events fields supports a direct narrative order where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f13f07af993a",
+    "subject_id": "ep_53214c00fcae30d8",
+    "object_id": "ep_d959026f3f23673d",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs in scene_3, where Bruce resists waking up and reacts to the covers being pulled off. The second episode occurs in scene_4, where Bruce discovers the dog's accident. The scene numbering indicates a clear sequential order, with scene_3 preceding scene_4, supporting that the subject episode occurs before the object episode.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_baf9557df79c",
+    "subject_id": "ep_53214c00fcae30d8",
+    "object_id": "ep_6761fd455c6d47a2",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs in scene_3, where Bruce resists waking up and reacts to the removal of covers. The second episode occurs in scene_4, where Bruce is getting dressed and watching TV, reacting to sports news. The sequential scene numbering indicates a clear narrative order, with episode ep_53214c00fcae30d8 preceding ep_6761fd455c6d47a2.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9d43786a7d4d",
+    "subject_id": "ep_9a55ccce33278c64",
+    "object_id": "ep_e87398ad5ff0291c",
+    "relation_type": "precedes",
+    "reason": "Bruce reacts to his beeper and leaves the scene, walking toward his wrecked car, which directly precedes his attempt to start the car as described in the subsequent episode. The sequence of events in the narrative order supports a clear temporal precedence.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_47c0de90a7f5",
+    "subject_id": "ep_e87398ad5ff0291c",
+    "object_id": "ep_21d0ccacd6e5f850",
+    "relation_type": "precedes",
+    "reason": "The attempt to start the car and its initial failure (ep_e87398ad5ff0291c) occurs in scene_46, while Bruce's surreal driving episode (ep_21d0ccacd6e5f850) begins in scene_47, indicating a clear narrative sequence where the failed start precedes the uncontrolled driving event.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4fb9eb61a752",
+    "subject_id": "ep_e87398ad5ff0291c",
+    "object_id": "ep_d8a7ef52ed31bf9d",
+    "relation_type": "precedes",
+    "reason": "The attempt to start the car and its initial failure (Episode ep_e87398ad5ff0291c) occurs in scene_46, while the supernatural pit stop transformation (Episode ep_d8a7ef52ed31bf9d) occurs in scene_47, indicating a clear narrative sequence where the failed start precedes the pit stop event.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_88ac709df6b8",
+    "subject_id": "ep_a7f67ac190ca7942",
+    "object_id": "ep_ee67fd273fb85c1f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrive and assess the old building' involves Bruce arriving at and observing the building, which logically precedes the subsequent episode where the car starts after urging and he escapes. The narrative sequence implied by the events—arrival and assessment followed by a rapid departure—supports a 'precedes' relation from the first episode to the second.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_429c10b3579c",
+    "subject_id": "ep_2109e4fa54aec1f2",
+    "object_id": "ep_9a55ccce33278c64",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Bruce reacting to the car's failure to start and expressing mental distress, including pounding the steering wheel. The object episode begins with a moment of silence after this outburst, followed by the beeper alert and Bruce's departure. The description in the object episode explicitly references the aftermath of the subject episode's outburst, indicating a clear narrative sequence where the subject episode occurs before the object episode.",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0cca973f4717",
+    "subject_id": "ep_2109e4fa54aec1f2",
+    "object_id": "ep_700a2265f0212336",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Bruce reacting to the car's failure to start with mental distress and frustration, while the second episode occurs after the pit stop concludes, involving further loss of control and flight. The narrative sequence implied by 'after the pit stop concludes' and the progression from initial frustration to full loss of agency supports a temporal ordering where the reaction to failure precedes the subsequent escalation of events.",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2873f36736f0",
+    "subject_id": "ep_e87398ad5ff0291c",
+    "object_id": "ep_700a2265f0212336",
+    "relation_type": "precedes",
+    "reason": "The attempt to start the car and its initial failure (ep_e87398ad5ff0291c) occurs in doc_45, scene_46, while Bruce losing control and fleeing (ep_700a2265f0212336) occurs in doc_46, scene_47, indicating a clear narrative sequence where the failed start precedes the subsequent loss of control and flight.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8d3bdadf04f3",
+    "subject_id": "ep_aa4710618bcf94b9",
+    "object_id": "ep_ee67fd273fb85c1f",
+    "relation_type": "precedes",
+    "reason": "The argument between Bruce and Grace ends with Bruce leaving the apartment, which directly precedes his attempt to start the car and drive away. The narrative sequence implied by the events—leaving the apartment followed by starting the car and accelerating away—supports a clear temporal order where the first episode occurs before the second.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0cd87f93002b",
+    "subject_id": "ep_9a55ccce33278c64",
+    "object_id": "ep_ee67fd273fb85c1f",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Bruce reacting to his beeper and walking toward his wrecked car, which occurs before the object episode where the car starts after verbal urging and he escapes. The sequence is supported by the narrative flow: checking the beeper and approaching the car (scene_37) precedes the car starting and accelerating away (scene_46).",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9e22751b7b45",
+    "subject_id": "ep_ee67fd273fb85c1f",
+    "object_id": "ep_21d0ccacd6e5f850",
+    "relation_type": "precedes",
+    "reason": "The episode 'Car starts after verbal urging and escape' (scene_46) occurs immediately before the surreal driving episode (scene_47), as evidenced by the sequential scene numbers and the narrative flow where Bruce's rapid departure precedes the onset of supernatural driving events.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3e35c8529647",
+    "subject_id": "ep_494647e93cb8b922",
+    "object_id": "ep_ee67fd273fb85c1f",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Bruce crashes into a light post while retrieving prayer beads, occurs in scene_36. The object episode, where the car starts after verbal urging and Bruce escapes, occurs in scene_46. The sequential scene numbers indicate a clear narrative order, with the subject episode preceding the object episode.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_72ce4b957556",
+    "subject_id": "ep_c4b9d0c66f7490bc",
+    "object_id": "ep_ee67fd273fb85c1f",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Bruce's actions during scene_36, including driving in the rain and pleading with God, while the object episode occurs in scene_46 and involves the car starting and Bruce accelerating away. The progression from scene_36 to scene_46 indicates a clear narrative sequence where the subject episode occurs earlier than the object episode.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d6344272d68f",
+    "subject_id": "ep_a4da463d6dbcd2ab",
+    "object_id": "ep_ee67fd273fb85c1f",
+    "relation_type": "precedes",
+    "reason": "The intervention in gang harassment (ep_a4da463d6dbcd2ab) occurs in scene_34, while the car starting and escape (ep_ee67fd273fb85c1f) occurs in scene_46, indicating a clear narrative sequence where the intervention precedes the escape. The events are chronologically ordered across scenes, supporting a 'precedes' relation.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c57613ac8ee6",
+    "subject_id": "ep_a2e9f129d48e0a3e",
+    "object_id": "ep_ee67fd273fb85c1f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Drive past victim with cynical remark' occurs as Bruce leaves the scene and passes the injured man, which narratively precedes the episode 'Car starts after verbal urging and escape' where the car ignites and he accelerates away. The sequence of events in the descriptions implies a local narrative order where departing the scene (including passing the victim) happens before the successful escape involving the car starting and accelerating.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0e252ca3a26f",
+    "subject_id": "ep_ee67fd273fb85c1f",
+    "object_id": "ep_700a2265f0212336",
+    "relation_type": "precedes",
+    "reason": "The episode 'Car starts after verbal urging and escape' (scene_46) occurs immediately before 'Bruce loses control and flees the scene' (scene_47), as indicated by the sequential scene numbers and the narrative flow where Bruce's escape is followed by a subsequent loss of control. This establishes a clear temporal order.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_214c4ab3a51d",
+    "subject_id": "ep_2109e4fa54aec1f2",
+    "object_id": "ep_21d0ccacd6e5f850",
+    "relation_type": "precedes",
+    "reason": "The subject episode, where Bruce reacts to the car's failure to start by expressing mental distress, occurs just before the object episode, where he begins driving and enters a surreal sequence. The failure to start (in ep_2109e4fa54aec1f2) sets the immediate context for the subsequent driving episode (ep_21d0ccacd6e5f850), establishing a clear local narrative order supported by the progression of events across adjacent scenes (scene_46 before scene_47).",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_205ddd565d07",
+    "subject_id": "ep_622cf8de2bd8a909",
+    "object_id": "ep_ee67fd273fb85c1f",
+    "relation_type": "precedes",
+    "reason": "Bruce's attempt to escape and pay for the quiche occurs in scene_10, while the car starting after verbal urging and his rapid departure occurs in scene_46, indicating a clear narrative sequence where the payment episode precedes the escape by vehicle. The later scene continues Bruce's disengagement, now transitioning to physical departure.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0942e69f6fbb",
+    "subject_id": "ep_a7f67ac190ca7942",
+    "object_id": "ep_c3bd4a44fd47d9ce",
+    "relation_type": "precedes",
+    "reason": "Bruce first arrives and assesses the old building before ascending to the seventh floor and encountering the electrician, as indicated by the sequential progression of events across scenes 43 and 44 in the narrative.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2f1828b73951",
+    "subject_id": "ep_9a55ccce33278c64",
+    "object_id": "ep_a7f67ac190ca7942",
+    "relation_type": "precedes",
+    "reason": "Bruce reacts to his beeper and leaves the scene, which includes walking toward his wrecked car; the next episode shows him arriving at the old building in that same demolished car. The sequence of events implies a temporal order where leaving the prior scene precedes arriving at the new location, supported by the continuity of the wrecked car across both episodes.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2552073b581e",
+    "subject_id": "ep_a7f67ac190ca7942",
+    "object_id": "ep_8f3fb43611c63c96",
+    "relation_type": "precedes",
+    "reason": "Bruce arrives at the old building and assesses it before entering and consulting the directory, as indicated by the sequence of related events: arrival and observation (scene_43) occurs before entering the building and checking the directory (scene_44). This establishes a clear temporal order.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_245195346fa6",
+    "subject_id": "ep_21d0ccacd6e5f850",
+    "object_id": "ep_a7f67ac190ca7942",
+    "relation_type": "precedes",
+    "reason": "The surreal driving episode (ep_21d0ccacd6e5f850) includes Bruce's car screeching into a pit stop, which directly precedes his arrival at the old building (ep_a7f67ac190ca7942) in the demolished car, as described in the sequence of events across the scenes.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0083ced3324e",
+    "subject_id": "ep_b763888005552d32",
+    "object_id": "ep_f8f38c00bfa7a889",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Enter the building interior' describes Bruce transitioning into the building after dealing with an exterior obstacle, setting the stage for subsequent interior events. The object episode involves Bruce interacting with a file drawer inside the building, which logically requires prior entry. The narrative progression from exterior to interior and the sequential nature of scene_43 (entering) followed by scene_44 (drawer incident) support that the entry precedes the dragging event.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e95e3c422934",
+    "subject_id": "ep_542f73ba2995d3d2",
+    "object_id": "ep_9a55ccce33278c64",
+    "relation_type": "precedes",
+    "reason": "The subject episode, where Bruce reacts to traffic and an accident while expressing frustration, occurs earlier in the narrative as it sets the stage for his escalating impatience. The object episode, where Bruce responds to his beeper and leaves the scene, follows as a shift in focus from the traffic situation to an external call, indicating a subsequent action. The sequence is supported by the narrative flow from observing an external event to receiving a personal alert and departing, consistent with local narrative order.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_196dec7e8be9",
+    "subject_id": "ep_178ef261fd65e5aa",
+    "object_id": "ep_bd217f884ff5dc1d",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Bruce responding to a meeting alert by driving on the shoulder (scene_8), which occurs before the object episode where Bruce collides with Bobby in the newsroom (scene_10). The scene numbers indicate a clear narrative sequence, supporting that the first episode precedes the second.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fdfac4893576",
+    "subject_id": "ep_8f3fb43611c63c96",
+    "object_id": "ep_b763888005552d32",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Bruce enters the building and consults the directory' describes Bruce already inside the building checking a directory, which logically follows entering the interior. The object episode 'Enter the building interior' marks the transition into the building, a necessary prior step before consulting a directory inside. The related events indicate a sequence: heading inside (scene_43) precedes checking the directory (scene_44), supporting a 'precedes' relation from object to subject. However, since the relation is directed and the subject is listed first, the correct directional assignment under the schema is that the object episode precedes the subject episode. Given the subject-object order in input, and that 'precedes' is directed, the relation from subject to object is not valid. Thus, no directed 'precedes' relation can be justified in the subject->object direction. Therefore, the best-supported relation is NONE.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6084a7d43397",
+    "subject_id": "ep_d8a7ef52ed31bf9d",
+    "object_id": "ep_ee67fd273fb85c1f",
+    "relation_type": "precedes",
+    "reason": "The pit stop transformation episode (ep_d8a7ef52ed31bf9d) occurs at scene_47, while the car starting and escape episode (ep_ee67fd273fb85c1f) occurs at scene_46. Since scene_46 precedes scene_47 in narrative order, the object episode occurs before the subject episode. Therefore, the subject episode does not precede the object episode, but the object precedes the subject. However, the relation 'precedes' is directed, and the subject must precede the object for the relation to hold as subject->object. Given the reverse chronological order, the correct directional inference is that the object episode precedes the subject episode. But since the schema requires the relation to be evaluated as subject->object, and the subject does not precede the object, the relation cannot be 'precedes' in that direction. No other relation is supported. Thus, no valid directed relation exists from subject to object, leading to 'NONE'—but wait: reconsidering scene order: if ep_ee67fd273fb85c1f is at scene_46 and ep_d8a7ef52ed31bf9d at scene_47, then ep_ee67fd273fb85c1f precedes ep_d8a7ef52ed31bf9d. Therefore, in subject->object direction (ep_d8a7ef52ed31bf9d -> ep_ee67fd273fb85c1f), the subject occurs later, so 'precedes' is invalid. No causal, contrastive, or elaborative link is stated or implied. Hence, despite temporal adjacency, no valid relation from subject to object is supported.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_78f8e8575e4b",
+    "subject_id": "ep_e83e8c693057bc72",
+    "object_id": "ep_5ec3a81dca832f49",
+    "relation_type": "precedes",
+    "reason": "The episode 'Wake up and misidentify the beeper' occurs when Bruce first reacts to the beeper sound upon waking, while 'Bruce places Sam down and reacts to the beeper' involves a later interaction with a shattered beeper fragment showing '772'. The sequence of events across documents (doc_37 before doc_40) and the progression from initial confusion to a later revelation involving the same device support a clear narrative order where the waking episode precedes the later reaction episode.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9a6d3dc5c87c",
+    "subject_id": "ep_daa3a4052e62218d",
+    "object_id": "ep_223eba5cc22aca5b",
+    "relation_type": "contrasts_with",
+    "reason": "Bruce's defiant rage and challenge to God, marked by emotional outburst and rejection of faith, contrasts with the later episode where God demonstrates divine power by walking on water, leaving Bruce awestruck—juxtaposing human anger and divine calm, doubt and awe.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_4e2c367378dc",
+    "subject_id": "ep_daa3a4052e62218d",
+    "object_id": "ep_9a55ccce33278c64",
+    "relation_type": "precedes",
+    "reason": "The description of 'Bruce confronts God in defiant rage' includes Bruce throwing his prayer beads into the lake and challenging God, which occurs before the beeper alerts him in the next moment, as described in 'Bruce reacts to beeper and leaves the scene'. Both episodes occur in scene_37 and the sequence of events in the descriptions indicates a clear temporal order: the outburst is interrupted by the beeper, signaling that the confrontation precedes the reaction to the beeper.",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_dac020bd3922",
+    "subject_id": "ep_8b1ac4bcc7cbf30b",
+    "object_id": "ep_daa3a4052e62218d",
+    "relation_type": "precedes",
+    "reason": "The episode where Bruce interprets road signs as a divine message occurs in doc_35, scene_36, while the episode where he confronts God in defiant rage occurs in doc_36, scene_37, indicating a clear narrative sequence where the former precedes the latter.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_43d2737f92f7",
+    "subject_id": "ep_532d1259d28991bd",
+    "object_id": "ep_daa3a4052e62218d",
+    "relation_type": "contrasts_with",
+    "reason": "The two episodes depict Bruce confronting God in different emotional and tonal registers: the first uses sarcasm and dark humor while visibly injured, the second erupts in maniacal rage after a car crash and discarding prayer beads. The shift from ironic mockery to direct, emotional defiance creates a contrast in tone and intensity, suggesting a juxtaposition in how Bruce expresses his disillusionment.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_ea17dc825859",
+    "subject_id": "ep_c4b9d0c66f7490bc",
+    "object_id": "ep_daa3a4052e62218d",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Bruce pleads for divine guidance while driving in the rain, occurs in scene_36, while the object episode, where Bruce confronts God in rage after a crash and throws his prayer beads, occurs in scene_37. The clear scene progression indicates that the subject episode precedes the object episode in narrative order.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fe27690d43ae",
+    "subject_id": "ep_494647e93cb8b922",
+    "object_id": "ep_daa3a4052e62218d",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Bruce prays with the prayer beads and crashes his car, occurs in scene_36, while the object episode, where Bruce throws the beads into the lake and rages at God, occurs in scene_37. The clear sequential order of scenes supports that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5eae97ad9b69",
+    "subject_id": "ep_daa3a4052e62218d",
+    "object_id": "ep_b8370bdaecc96351",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bruce confronts God in defiant rage' includes Bruce discarding his prayer beads and challenging God by the lakeside, which occurs before 'Return to shore after God's departure' where Bruce walks back to shore after God leaves. The narrative sequence implied by the causal and temporal flow—confrontation followed by departure and return—supports that the confrontation precedes the return to shore.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_50e405942ae7",
+    "subject_id": "ep_8b1ac4bcc7cbf30b",
+    "object_id": "ep_9a55ccce33278c64",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Bruce interprets road signs as a potential divine message and concludes divine indifference, occurs in scene_36. The object episode, where Bruce reacts to his beeper and leaves the scene, occurs in scene_37. The sequential scene numbering indicates a clear narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_47931e0ac006",
+    "subject_id": "ep_494647e93cb8b922",
+    "object_id": "ep_9a55ccce33278c64",
+    "relation_type": "precedes",
+    "reason": "The first episode, in which Bruce prays and crashes his car, occurs in scene_36, while the second episode, where he reacts to his beeper and approaches the wrecked car, occurs in scene_37. The narrative order and scene numbering indicate that the subject episode directly precedes the object episode.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f93f715b6886",
+    "subject_id": "ep_aa4710618bcf94b9",
+    "object_id": "ep_9a55ccce33278c64",
+    "relation_type": "precedes",
+    "reason": "The argument between Bruce and Grace, where Bruce expresses anger, knocks over photos, and leaves the apartment, occurs in scene_35. The beeper alert and Bruce walking toward his wrecked car occur in scene_37, indicating a later point in the narrative. Thus, the emotional confrontation episode precedes the beeper reaction episode based on explicit scene ordering.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_05f9e7af4927",
+    "subject_id": "ep_21d0ccacd6e5f850",
+    "object_id": "ep_daa3a4052e62218d",
+    "relation_type": "precedes",
+    "reason": "The driving episode (ep_21d0ccacd6e5f850) involves Bruce experiencing supernatural events culminating in a car screeching into a pit stop, while the confrontation with God (ep_daa3a4052e62218d) occurs afterward, as Bruce discards prayer beads and rages at God by a lake. The sequence of events implies a narrative progression where the surreal driving incident precedes Bruce's emotional breakdown and direct challenge to God, supported by the causal and temporal flow of Bruce's escalating crisis.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_196b022f7563",
+    "subject_id": "ep_daa3a4052e62218d",
+    "object_id": "ep_e98e2a1fd99749dd",
+    "relation_type": "precedes",
+    "reason": "Bruce's confrontation with God in defiant rage occurs by the lakeside, after surviving a car crash and discarding his prayer beads. God's subsequent interruption and summoning of Bruce, including His off-screen voice and physical appearance at the booth, follows in the narrative sequence. The events in the object episode (scene_48) directly continue from the subject episode (scene_37), establishing a clear temporal order where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_321f0c1a14e0",
+    "subject_id": "ep_9a55ccce33278c64",
+    "object_id": "ep_ce73f87f4fe6e3eb",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Bruce reacting to his beeper and walking toward his wrecked car while the beeper sounds, which occurs in scene_37. The second episode occurs in scene_38, where Bruce, after the beeper sounds again, destroys it. The sequential scene numbers and the progression from noticing the beeper to actively destroying it indicate a clear narrative order where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_afea3dcb2a1c",
+    "subject_id": "ep_c4b9d0c66f7490bc",
+    "object_id": "ep_9a55ccce33278c64",
+    "relation_type": "precedes",
+    "reason": "The subject episode, 'Bruce pleads for divine guidance amid distractions', occurs while Bruce is driving in the rain (scene_36), and the object episode, 'Bruce reacts to beeper and leaves the scene', takes place after, when his beeper alerts him following the outburst (scene_37). The sequential order of scenes (36 before 37) and the narrative flow from internal spiritual struggle to external interruption support that the pleading episode precedes the beeper reaction episode.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3f12d2db6b92",
+    "subject_id": "ep_9a55ccce33278c64",
+    "object_id": "ep_0a5799a3a8e570c5",
+    "relation_type": "precedes",
+    "reason": "The beeper alerts Bruce in ep_9a55ccce33278c64 (doc_36, scene_37), and he walks toward his wrecked car. In ep_0a5799a3a8e570c5 (doc_37, scene_38), Bruce checks the beeper again and sees the same number, indicating a subsequent occurrence. The narrative order across adjacent scenes and documents supports that the first episode precedes the second.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8bf3e8989971",
+    "subject_id": "ep_4eaade5e78155f84",
+    "object_id": "ep_662af7d0912d6cbe",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Announce lead story and reprimand Bruce' occurs during scene_11 at the morning meeting, while the object episode 'React to unexpected career news' occurs during scene_15 when Bruce hears Evan's promotion on a live feed. The narrative order of scenes (11 before 15) provides explicit temporal sequencing, supporting that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0e9ae69f1a2a",
+    "subject_id": "ep_1af759788cf9814d",
+    "object_id": "ep_4eaade5e78155f84",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs in scene_10, where Bobby diverts Bruce with gossip and a story proposal as Bruce is trying to leave. The object episode occurs in scene_11, where Jack announces the lead story and reprimands Bruce during the morning meeting. The scene numbering indicates a clear sequential order, with scene_10 preceding scene_11, supporting a 'precedes' relation from the subject to the object.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_127519fef36e",
+    "subject_id": "ep_4eaade5e78155f84",
+    "object_id": "ep_c30556eaf170f319",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs during scene_11 (Morning Meeting At The News Station), while the second occurs in scene_12 (3Rd Anniversary Of The Maid Of The Mist), indicating a direct narrative sequence. The reprimand of Bruce in the meeting plausibly sets up his subsequent frustration and urgent appeal to Jack, but the primary evidence is the explicit scene ordering: scene_11 precedes scene_12.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_dc1e2abda252",
+    "subject_id": "ep_4eaade5e78155f84",
+    "object_id": "ep_8a60b7f73aacca6b",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs during scene_11 (Morning Meeting At The News Station), while the second occurs in scene_12 (3Rd Anniversary Of The Maid Of The Mist), indicating a direct narrative sequence. The events in the first episode (Jack announcing the lead story and reprimanding Bruce) precede Jack's advice to Bruce in the second episode, where he warns against emulating Evan. The chronological order of scenes supports a 'precedes' relation.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3991ef2d3ea3",
+    "subject_id": "ep_532d1259d28991bd",
+    "object_id": "ep_fdf0069f82fd2882",
+    "relation_type": "precedes",
+    "reason": "The episode 'Suffer gang retaliation and assess aftermath' (doc_33, scene_34) occurs before 'Bruce confronts God through satire' (doc_34, scene_35), as indicated by the sequential scene numbers and document order. The retaliation and its aftermath set the immediate context for Bruce's emotional and physical state during his sarcastic monologue, supporting a clear narrative sequence.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_56d93b309d1d",
+    "subject_id": "ep_622cf8de2bd8a909",
+    "object_id": "ep_a2e9f129d48e0a3e",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Bruce attempts to escape and pay for the quiche' occurs in scene_10, while the object episode 'Drive past victim with cynical remark' occurs in scene_34, indicating a clear narrative sequence where Bruce's payment and departure precede his passing the homeless man and making the sarcastic remark.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c052283f6895",
+    "subject_id": "ep_c30556eaf170f319",
+    "object_id": "ep_fdf0069f82fd2882",
+    "relation_type": "causes",
+    "reason": "The subject episode involves Bruce initiating a career intervention by appealing to Jack, which leads to his confrontation with the gang. The object episode describes the gang's retaliatory attack on Bruce, directly triggered by his prior intervention. The causal link is supported by the narrative sequence where Bruce's actions in the first episode provoke the violent response in the second, as indicated by 'retaliation' in the object episode's description.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ea4c1ee69d93",
+    "subject_id": "ep_700a2265f0212336",
+    "object_id": "ep_a2e9f129d48e0a3e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bruce loses control and flees the scene' concludes with Bruce entering a diner, and the subsequent episode 'Drive past victim with cynical remark' occurs as Bruce leaves the scene, passing the homeless man. The narrative sequence in the related events and descriptions indicates that fleeing the scene precedes the moment he drives past the victim and makes the remark.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d4fb5a0cedf9",
+    "subject_id": "ep_0a5799a3a8e570c5",
+    "object_id": "ep_1af759788cf9814d",
+    "relation_type": "precedes",
+    "reason": "Bruce checks the beeper and begins to walk away before Bobby diverts him with gossip and a story proposal, indicating that the first episode occurs earlier in the narrative sequence as Bruce is interrupted while disengaging.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b1511639f1bf",
+    "subject_id": "ep_8b1ac4bcc7cbf30b",
+    "object_id": "ep_a2e9f129d48e0a3e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bruce interprets road signs as divine message' occurs in doc_35, while 'Drive past victim with cynical remark' occurs in doc_33. Despite the reverse document order, the narrative flow indicated by the content shows Bruce first interpreting the road signs as a potential divine message and then driving past the victim with a cynical remark, suggesting a temporal sequence where the interpretation episode precedes the dismissive action. The shift from seeking meaning to emotional detachment supports this local narrative order.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fc9dff677c70",
+    "subject_id": "ep_0a5799a3a8e570c5",
+    "object_id": "ep_a2e9f129d48e0a3e",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'React to the repeated beeper message' occurs in doc_37, scene_38, while the object episode 'Drive past victim with cynical remark' occurs in doc_33, scene_34. Despite the out-of-order document IDs, the narrative sequence indicated by scene numbers and the continuity of Bruce's actions (from reacting to the beeper to leaving the scene and passing the victim) supports a local narrative order where the beeper reaction precedes the cynical remark during his departure. This temporal progression is further implied by the causal flow of Bruce's emotional shift occurring as he leaves the scene.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6861d2d52d41",
+    "subject_id": "ep_532d1259d28991bd",
+    "object_id": "ep_8b1ac4bcc7cbf30b",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs in doc_34, scene_35, while the object episode occurs in doc_35, scene_36, indicating a clear narrative sequence where Bruce's confrontation with God through satire precedes his interpretation of road signs as a potential divine message.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_27c362f30e4f",
+    "subject_id": "ep_532d1259d28991bd",
+    "object_id": "ep_b8370bdaecc96351",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Bruce confronts God through satire, occurs while God is still present and Bruce is on the lake, whereas the object episode describes Bruce returning to shore after God's departure. The departure of God is a necessary precondition for the return to shore, indicating a clear temporal sequence where the confrontation precedes the return.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a864935ff710",
+    "subject_id": "ep_9a55ccce33278c64",
+    "object_id": "ep_a2e9f129d48e0a3e",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Bruce reacting to his beeper and walking toward his wrecked car, which occurs in scene_37. The object episode describes Bruce driving past the victim with a cynical remark, which occurs in scene_34. Despite the reversal in document order, the scene numbers indicate that the object episode (scene_34) occurs before the subject episode (scene_37). Therefore, the subject episode follows the object episode in narrative order, making the correct relation 'precedes' with the direction from object to subject. However, since the relation schema is directed and the subject is listed first, the relation must be reversed. Given that 'precedes' is directed and the subject does not precede the object, the correct assignment is 'precedes' only if the subject comes first. Since it does not, and no other relation fits, the output should reflect the correct temporal order. But based on the scene numbers, the object episode (scene_34) precedes the subject episode (scene_37), so the subject does not precede the object. Therefore, the correct relation cannot be 'precedes' in the subject->object direction. No other relation is supported. Thus, the only valid conclusion is that the subject episode does not stand in a clear directed relation to the object episode in the stated direction, and no symmetric relation (e.g., contrasts_with) is explicitly supported by juxtaposition. Hence, despite temporal data, the directionality constraint prevents asserting 'precedes' in reverse without flipping subject/object, which is not allowed. Therefore, output is NONE due to inability to assign a valid directed relation in the given subject->object order.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6887051c34c0",
+    "subject_id": "ep_532d1259d28991bd",
+    "object_id": "ep_e98e2a1fd99749dd",
+    "relation_type": "precedes",
+    "reason": "Bruce's sarcastic monologue mocking God occurs in scene_35, while God's interruption and physical appearance occur in scene_48, indicating a clear narrative sequence where the confrontation precedes the divine response.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_aed30f08399c",
+    "subject_id": "ep_532d1259d28991bd",
+    "object_id": "ep_a2e9f129d48e0a3e",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Bruce confronts God through satire' occurs in scene_35, while the object episode 'Drive past victim with cynical remark' occurs in scene_34. Despite the emotional progression suggesting a later point in narrative tension, the scene numbering indicates that the object episode precedes the subject episode. However, the subject's description references 'escalating tension in the scene,' implying it follows the prior action of driving past the victim. Thus, the object episode precedes the subject episode, but since the relation is directed and the subject is listed first, the correct directional assignment under the schema is reversed. Given the requirement to assign relation_type based on subject -> object direction, and scene_34 precedes scene_35, the subject episode does not precede the object. Therefore, the correct relation cannot be 'precedes' in subject->object direction. No other relation is supported. Output is NONE.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f27d46c68ff9",
+    "subject_id": "ep_532d1259d28991bd",
+    "object_id": "ep_aa4710618bcf94b9",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Bruce confronts God through satire' provides a thematic and emotional expansion on Bruce's dissatisfaction, using sarcasm and anger toward God to elaborate the internal state that culminates in the overt argument with Grace in 'Escalate argument over life dissatisfaction'. Both episodes occur in the same scene and share emotional continuity, with the monologue serving as a prior expression of the same discontent that later erupts in the confrontation.",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_d4311ae40fd5",
+    "subject_id": "ep_532d1259d28991bd",
+    "object_id": "ep_89f493ed5ed56f06",
+    "relation_type": "precedes",
+    "reason": "Bruce's sarcastic monologue confronting God occurs in scene_35, while the janitor reveals himself as God and demonstrates divine powers in scene_44, indicating a clear narrative sequence where the confrontation precedes the revelation and testing. The episode descriptions and related events are tied to specific scenes, supporting a directed temporal order.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_98b648a5daf2",
+    "subject_id": "ep_532d1259d28991bd",
+    "object_id": "ep_f95fb44827b97ce5",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bruce confronts God through satire' occurs in scene_35, while 'God offers Bruce the divine role and vanishes' occurs in scene_44, indicating a clear narrative sequence where the confrontation and satire precede the divine offer and vanishing. The progression from Bruce's angry monologue to God's direct intervention and offer supports a local narrative order.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_68a9bf12e4e3",
+    "subject_id": "ep_8b1ac4bcc7cbf30b",
+    "object_id": "ep_e98e2a1fd99749dd",
+    "relation_type": "contrasts_with",
+    "reason": "Bruce's interpretation of road signs as a potential divine message, followed by his conclusion of divine indifference and abandonment of hope, contrasts with the subsequent direct and dramatic intervention by God, who appears and speaks to Bruce. This juxtaposition emphasizes a reversal in tone and outcome—human doubt versus divine presence—supporting a contrast relation.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_a33f1bf53db0",
+    "subject_id": "ep_8b1ac4bcc7cbf30b",
+    "object_id": "ep_21d0ccacd6e5f850",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bruce interprets road signs as divine message' (doc_id: doc_35) occurs in scene 36, while 'Bruce experiences a surreal driving episode' (doc_id: doc_46) occurs in scene 47. The scene numbers and document IDs indicate a clear narrative order where the road sign interpretation precedes the surreal driving episode.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_30badabca199",
+    "subject_id": "ep_223eba5cc22aca5b",
+    "object_id": "ep_532418e580bc998b",
+    "relation_type": "contrasts_with",
+    "reason": "The two episodes depict supernatural acts—one divine and awe-inspiring (walking on water), the other comically undermined (parting soup interrupted by a cockroach)—juxtaposing solemnity and absurdity, which emphasizes a tonal contrast.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_c7aadc2c4fbb",
+    "subject_id": "ep_e98e2a1fd99749dd",
+    "object_id": "ep_b8370bdaecc96351",
+    "relation_type": "precedes",
+    "reason": "The episode 'God interrupts and summons Bruce' occurs when God appears and invites Bruce on a walk, which directly precedes Bruce being left alone on the lake and walking back to shore after God departs. The sequence of events in the description and related scenes (scene_48 before scene_49) supports a clear narrative order where the summoning and walk happen before the return to shore.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4be2f3af9240",
+    "subject_id": "ep_b3d4836c699a7aea",
+    "object_id": "ep_662af7d0912d6cbe",
+    "relation_type": "precedes",
+    "reason": "The 'Initiate live report at Niagara Falls' episode (scene_14) occurs before the 'React to unexpected career news' episode (scene_15), as evidenced by their sequential scene numbers and the narrative progression from Bruce setting up the live broadcast to then reacting to Evan Baxter's promotion during the subsequent live feed.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bf206ce3bc3a",
+    "subject_id": "ep_494647e93cb8b922",
+    "object_id": "ep_700a2265f0212336",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Bruce's car crash after retrieving the prayer beads (scene_36), while the second episode occurs in scene_47, involving another autonomous car movement and flight to a diner. The scene numbers indicate a clear narrative sequence, with ep_494647e93cb8b922 occurring before ep_700a2265f0212336.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c4f9fb1525af",
+    "subject_id": "ep_5b1d4ed9fe29d301",
+    "object_id": "ep_494647e93cb8b922",
+    "relation_type": "precedes",
+    "reason": "The episode 'Introduce and discuss the prayer beads' occurs in scene_7, where Grace places the beads on the rearview mirror and Bruce expresses doubt. The episode 'Bruce seeks miracle through prayer beads' occurs in scene_36, where Bruce actively engages with the beads by praying and retrieving them before crashing. The clear scene order (7 before 36) and narrative progression support that the introduction of the beads precedes Bruce's attempt to seek a miracle with them.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_acdec92da9dd",
+    "subject_id": "ep_fbdfaa9b9c836b70",
+    "object_id": "ep_7b654c4e498de942",
+    "relation_type": "precedes",
+    "reason": "The episode 'Secure live reporting opportunity' involves Bruce being assigned the live broadcast task by Jack, which directly sets up the subsequent episode 'Prepare for the live broadcast at Niagara Falls' where he is directed to the bow and readies himself for the segment. The assignment (scene_12) precedes the preparation (scene_15) in narrative order, as supported by the scene numbers and the logical sequence of receiving the assignment before preparing for it.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_cbac4fee5413",
+    "subject_id": "ep_f95fb44827b97ce5",
+    "object_id": "ep_b8370bdaecc96351",
+    "relation_type": "precedes",
+    "reason": "The episode 'God offers Bruce the divine role and vanishes' concludes with God vanishing, which directly precedes Bruce beginning to walk back to shore in the subsequent episode. The related event 'Bruce flees the room in panic after supernatural encounters (scene_44)' occurs in doc_43, while 'Bruce begins walking back to shore after God departs (scene_49)' occurs in doc_48, indicating a clear narrative sequence across scenes.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9b2afda611db",
+    "subject_id": "ep_7b654c4e498de942",
+    "object_id": "ep_b3d4836c699a7aea",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Prepare for the live broadcast at Niagara Falls' involves Bruce receiving instructions, props, and mental preparation for the segment, which logically and temporally precedes the object episode 'Initiate live report at Niagara Falls' where he actively conducts the live report. The related events in the first episode (e.g., being directed to the bow, receiving the umbrella, mental preparation) are preparatory actions that naturally occur before the execution of the live report, supporting a 'precedes' relation.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8116151d6abd",
+    "subject_id": "ep_007636454aad062c",
+    "object_id": "ep_52ae39ee4ab6cf91",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, in which Bruce practices a signature sign-off, provides background preparation that expands on the object episode where he delivers the sign-off during the broadcast's conclusion. The practice of the phrase 'And that the way the cookie crumbles' and its eventual use in the symbolic commentary and sign-off moment shows a narrative expansion from rehearsal to performance, with the object episode incorporating the practiced element in a live context.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_310dbc0ec0b6",
+    "subject_id": "ep_007636454aad062c",
+    "object_id": "ep_46af7af37dbd8a66",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, in which Bruce practices a signature sign-off alone and refines it with a Cronkite impersonation, provides background on his professional aspirations and the origin of the catchphrase. The object episode shows Bruce and Grace playfully rehearsing the same line in a shared intimate moment, embedding the phrase in a personal and flirtatious context. The subject episode elaborates on the development and intent behind the catchphrase later used in the object episode, offering context for its significance and performance style.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a7b86b0e4d58",
+    "subject_id": "ep_b3d4836c699a7aea",
+    "object_id": "ep_bf536af43bacab03",
+    "relation_type": "contrasts_with",
+    "reason": "The episode 'Initiate live report at Niagara Falls' highlights Bruce's excitement and professional ambition during a high-profile live broadcast, while 'Seek feedback on bakery segment and express career doubts' reveals his insecurity and dissatisfaction with his on-air image and lack of recognition. These episodes are juxtaposed in tone and emotional state—professional optimism versus personal doubt—supporting a contrast relation.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_059bcf48305c",
+    "subject_id": "ep_46af7af37dbd8a66",
+    "object_id": "ep_b3d4836c699a7aea",
+    "relation_type": "elaborates",
+    "reason": "The playful rehearsal of a newscaster catchphrase by Bruce and Grace reflects Bruce's aspiration for on-air gravitas, which is later realized in the live report at Niagara Falls. The earlier episode provides background on Bruce's professional fantasy, elaborating on the personal and emotional context that enriches the significance of the later career opportunity.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e197e021e388",
+    "subject_id": "ep_52ae39ee4ab6cf91",
+    "object_id": "ep_bf536af43bacab03",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode features Bruce delivering a confident, symbolic monologue concluding a broadcast, ending with a humorous but controlled public image moment. The second episode reveals Bruce seeking feedback and expressing private insecurities about his appearance and professional image, creating a juxtaposition between public performance and private self-doubt. This contrast in tone and state is supported by the shift from a celebratory broadcast conclusion to a vulnerable personal conversation at a wedding celebration.",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e7c6fdb95708",
+    "subject_id": "ep_4f5c806a7b7cb882",
+    "object_id": "ep_bf536af43bacab03",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Bruce preparing for and conducting the bakery segment under tight constraints, including the use of a hair net. The second episode occurs afterward, where Bruce seeks feedback on that same segment and expresses dissatisfaction with his appearance, particularly the hair net. The sequence is supported by the narrative flow: the segment must occur before feedback on it can be sought, and the mention of 'recent bakery segment' in the second episode confirms posterior timing.",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c3006396e89b",
+    "subject_id": "ep_21d0ccacd6e5f850",
+    "object_id": "ep_700a2265f0212336",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Bruce's car accelerating violently and culminating in a pit stop, while the second episode begins after the pit stop concludes with the car peeling out again and Bruce fleeing. The sequence of events in the same scene (scene_47) and the explicit temporal marker 'after the pit stop concludes' in the second episode's description establish a clear narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_db4c182981b5",
+    "subject_id": "ep_d8a7ef52ed31bf9d",
+    "object_id": "ep_700a2265f0212336",
+    "relation_type": "causes",
+    "reason": "The supernatural transformation episode directly triggers Bruce's loss of control and flight, as the unexplained compulsion and surreal events culminate in his psychological overwhelm and subsequent escape. The description of the second episode explicitly frames it as a peak in supernatural influence, which immediately precedes and motivates his disoriented retreat.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d574c8f377b0",
+    "subject_id": "ep_622cf8de2bd8a909",
+    "object_id": "ep_700a2265f0212336",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Bruce attempts to escape and pay for the quiche, occurs during scene_10, while the object episode, where Bruce loses control and flees the scene, occurs in scene_47. The progression from scene_10 to scene_47 indicates a clear narrative sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_df6e166a48fa",
+    "subject_id": "ep_700a2265f0212336",
+    "object_id": "ep_e98e2a1fd99749dd",
+    "relation_type": "precedes",
+    "reason": "Bruce loses control and flees the scene (ep_700a2265f0212336) occurs in scene_47, while God interrupts and summons Bruce (ep_e98e2a1fd99749dd) occurs in scene_48, indicating a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f083e0b23e88",
+    "subject_id": "ep_ed58fc96f42e2fc3",
+    "object_id": "ep_f95fb44827b97ce5",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bruce interacts with the janitor in the lobby' occurs before 'God offers Bruce the divine role and vanishes', as the janitor interaction sets up the supernatural reveal where God reappears as the janitor, indicating a clear narrative sequence in scene 44.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9835dec2b1c3",
+    "subject_id": "ep_8f3fb43611c63c96",
+    "object_id": "ep_c3bd4a44fd47d9ce",
+    "relation_type": "precedes",
+    "reason": "Bruce first enters the building and consults the directory to locate room 7, which initiates his journey. He then ascends to the seventh floor and encounters the electrician. The narrative sequence in the descriptions and shared scene reference (scene_44) supports a clear temporal order where the subject episode occurs before the object episode.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bf9a657083ac",
+    "subject_id": "ep_ed58fc96f42e2fc3",
+    "object_id": "ep_89f493ed5ed56f06",
+    "relation_type": "precedes",
+    "reason": "The interaction in the lobby (refusing to help, being informed about room 7 and the broken elevator) sets the initial context and occurs before the janitor reveals his divine identity and performs supernatural demonstrations, as both episodes occur in scene_44 and the sequence of related events suggests a chronological progression from mundane interaction to supernatural revelation.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d17656dc8369",
+    "subject_id": "ep_d2a2c834608c604e",
+    "object_id": "ep_89f493ed5ed56f06",
+    "relation_type": "elaborates",
+    "reason": "The episode where the janitor reveals knowledge of Bruce's life and father provides specific background details—such as referencing Bruce's father as a skilled welder—that expand on the broader revelation of divine omniscience in the object episode. This personal detail serves to elaborate the demonstration of God's knowledge, grounding the supernatural claim in emotionally resonant, concrete information.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e5227b89ebe0",
+    "subject_id": "ep_a25051f3a1cc5d9e",
+    "object_id": "ep_37441684ae0fb056",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assess feed and prepare for disconnection' involves Jack preparing to terminate the connection due to lack of response, which sets up the subsequent decision to cut the broadcast in 'Halt the broadcast after a shocking event'; the two episodes occur in sequence across scenes 20 and 30 respectively, with the former establishing the contingency that is executed in the latter.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6b8ed65f8995",
+    "subject_id": "ep_f8f38c00bfa7a889",
+    "object_id": "ep_f95fb44827b97ce5",
+    "relation_type": "precedes",
+    "reason": "The event of Bruce being dragged by the file drawer and the cabinet slamming shut occurs during the same scene (scene_44) and directly before God offers Bruce the divine role, as part of a sequence of escalating supernatural demonstrations. The description of the second episode notes it 'concludes the supernatural encounter,' implying it comes after earlier manifestations of control, including the first episode's physical manipulation of Bruce.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bc9db6967f62",
+    "subject_id": "ep_843876af0338f568",
+    "object_id": "ep_ad3568aff9eb4892",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Grace initiates morning intimacy and departure' occurs in scene_3, while the object episode 'Discover and react to Grace's note' occurs in scene_39, indicating a clear chronological sequence where the morning intimacy and departure precede the discovery of the note in the narrative order.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d9a62383141a",
+    "subject_id": "ep_a9896c3fc37a9e6f",
+    "object_id": "ep_f95fb44827b97ce5",
+    "relation_type": "elaborates",
+    "reason": "The janitor's demonstration of supernatural control and revelation of his true role (ep_a9896c3fc37a9e6f) provides a detailed, concrete manifestation of the divine authority previously offered by God in ep_f95fb44827b97ce5. The reappearance of God as the janitor in the second episode confirms that the janitor's actions elaborate on the earlier divine offer, revealing the continuity of identity and reinforcing the supernatural control established in the prior episode.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9fa3da9eb3fa",
+    "subject_id": "ep_89f493ed5ed56f06",
+    "object_id": "ep_f8f38c00bfa7a889",
+    "relation_type": "causes",
+    "reason": "The subject episode describes Bruce's skepticism and testing of God's omniscience, which directly leads to his attempt to open the file drawer—an action that triggers the violent physical reaction described in the object episode. The object episode's description states that Bruce is dragged when he attempts to open the drawer, indicating that his skeptical investigation (part of the revelation and testing episode) causes the physical demonstration of control. This causal link is supported by the narrative sequence and intent: God responds to Bruce's disbelief with escalating interventions, including the file drawer incident.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_636ccb6a2131",
+    "subject_id": "ep_843876af0338f568",
+    "object_id": "ep_90a5df8b0cc832f4",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Grace initiates morning intimacy and departure' occurs in scene_3, while the object episode 'Handle Sam's disruption to de-escalate tension' occurs in scene_35, indicating a clear narrative sequence where the morning routine precedes the later disruption involving Sam.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_adf20c1f42af",
+    "subject_id": "ep_843876af0338f568",
+    "object_id": "ep_3dc200c71fd49838",
+    "relation_type": "precedes",
+    "reason": "The episode 'Grace initiates morning intimacy and departure' occurs at the start of the day (scene_3, doc_2), while 'Grace resolves to return and support Bruce' follows a later argument and decision to return (scene_50, doc_49). The narrative order and scene numbering indicate the former precedes the latter.",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c68dd804ba56",
+    "subject_id": "ep_aa4710618bcf94b9",
+    "object_id": "ep_3dc200c71fd49838",
+    "relation_type": "causes",
+    "reason": "The argument episode (subject) directly triggers Grace's decision to return and support Bruce (object), as her resolution is motivated by concern for his emotional state after the confrontation. The description of the object episode explicitly states her decision is a response to the argument, providing clear causal linkage.",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b69f3fc49268",
+    "subject_id": "ep_5f8a4fdbac86c35b",
+    "object_id": "ep_aa4710618bcf94b9",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts emotional reconnection through shared memories and affection, while the second shows a breakdown in the relationship marked by anger, violence, and separation. The juxtaposition of reconciliation and emotional collapse highlights a clear tonal and emotional reversal, supported by the descriptions of mood shift and subsequent argument escalation.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a4a6b2740f5b",
+    "subject_id": "ep_143655fe44d4a58a",
+    "object_id": "ep_aa4710618bcf94b9",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, in which Grace discusses her emotional concern about a man's intense anger and a recent argument, provides additional emotional context and personal reflection that elaborates on the object episode, where Bruce escalates an argument with Grace, expressing life dissatisfaction and leaving abruptly. The mention of the argument and Grace's emotional reaction in the subject episode aligns with the events in the object episode, suggesting the checkout conversation expands on the aftermath or implications of the earlier conflict.",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_57f7fd99e1a9",
+    "subject_id": "ep_cfe470e6e45c7c8a",
+    "object_id": "ep_8facff6298bf7406",
+    "relation_type": "precedes",
+    "reason": "The phone conversation between Bruce and Grace occurs first, after which Bruce hangs up, prompting Debbie to mockingly imitate a cow and Grace to react, indicating the 'Discuss promotion implications with Grace' episode precedes the 'Respond to sibling teasing' episode in the narrative sequence.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_179f71e314da",
+    "subject_id": "ep_41059d04fdba8857",
+    "object_id": "ep_c6a792381241f3f1",
+    "relation_type": "precedes",
+    "reason": "Debbie arrives and reconnects with Zoe (scene_13) occurs before the phone handover involving Debbie, Grace, and Bruce (scene_14), as indicated by the sequential scene numbering and the narrative flow at the daycare setting.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5ba8cd34bd70",
+    "subject_id": "ep_927e82f882e36285",
+    "object_id": "ep_c30556eaf170f319",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Complete sandwich transaction' occurs immediately before the object episode 'Initiate urgent career intervention', as Bruce intercepts Jack right after his sandwich purchase, establishing a clear temporal sequence in scene_12.",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f94f57b40497",
+    "subject_id": "ep_c6a792381241f3f1",
+    "object_id": "ep_cfe470e6e45c7c8a",
+    "relation_type": "elaborates",
+    "reason": "The phone handover episode (subject) sets up the connection between Bruce and Grace, enabling the subsequent discussion about the promotion (object). The handover facilitates the conversation but does not cause or precede it in a clearly ordered way; instead, it provides the necessary context for the promotion discussion to occur, thus elaborating on how the communication channel is established.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_31ed55ac1a9e",
+    "subject_id": "ep_a85480cd9b0e5f52",
+    "object_id": "ep_c6a792381241f3f1",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Debbie answering the phone and identifying the daycare, which logically occurs before the second episode where Debbie is already speaking with Bruce and is interrupted by Grace taking the phone. The sequence of events in the descriptions and the progression from answering to an ongoing call with a handover support a clear temporal order.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_cfd272502b95",
+    "subject_id": "ep_9a55ccce33278c64",
+    "object_id": "ep_f785481195fa892a",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode depicts Bruce reacting to a beeper alert and leaving the scene, interpreting the beeping as a personal interruption, while the object episode reveals the beeping sound actually originates from an alarm clock, not the beeper. This juxtaposition contrasts Bruce's cynical interpretation of the beeping as a call to action with the objective reality of the sound's source, creating a reversal in narrative understanding of the auditory cue.",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4d1924a67dac",
+    "subject_id": "ep_1af759788cf9814d",
+    "object_id": "ep_59a8ed7b2c4da8cc",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Bobby proposes a story idea about his aunt and promises to follow up, occurs in scene_10, while the object episode, where Bobby reassures Bruce that he has contacted his aunt and the plan is moving forward, occurs in scene_12. The chronological order of scenes supports that the first episode precedes the second.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cc5518feecf2",
+    "subject_id": "ep_8e58623426f897c3",
+    "object_id": "ep_efc0fb82715fd03d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bruce accepts soup and the Old Man reacts with suspicion' includes events where the waitress offers and delivers soup, and the Old Man moves away, all occurring before Bruce is alone at the booth to test his telekinetic powers in the subsequent episode. The narrative sequence in scene_48 supports a clear temporal order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_dbd0289705e2",
+    "subject_id": "ep_8e58623426f897c3",
+    "object_id": "ep_532418e580bc998b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bruce accepts soup and the Old Man reacts with suspicion' includes the delivery of the soup to Bruce, which must occur before Bruce can perform a supernatural parting of the soup. Both episodes occur in scene_48, and the sequence of events in the description implies a clear temporal order: acceptance and delivery precede the supernatural act.",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_33ca965d472a",
+    "subject_id": "ep_1539900da4ca8c19",
+    "object_id": "ep_662af7d0912d6cbe",
+    "relation_type": "causes",
+    "reason": "The announcement of Evan Baxter's promotion in ep_1539900da4ca8c19 directly triggers Bruce's shocked reaction in ep_662af7d0912d6cbe, as evidenced by the description stating Bruce reacts in real time to hearing the news on the live feed. Both episodes occur during the same occasion, and the causal link is explicitly supported by the narrative.",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7d44c48bdca1",
+    "subject_id": "ep_c30556eaf170f319",
+    "object_id": "ep_6066b6c1c648fd9f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate urgent career intervention' occurs when Bruce intercepts Jack and expresses his career frustrations, which immediately precedes Jack removing the sandwich from his chest in the episode 'Resolve physical aftermath of outburst'. Both episodes are grounded in scene_12, and the sequence of events in the description implies a direct temporal order: the intervention happens first, followed by the resolution of the physical aftermath after Bruce runs off.",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b12f797a8102",
+    "subject_id": "ep_8e58623426f897c3",
+    "object_id": "ep_e98e2a1fd99749dd",
+    "relation_type": "precedes",
+    "reason": "The description of ep_8e58623426f897c3 includes the Old Man reacting to Bruce's behavior during the soup scene, which occurs before God interrupts and appears beside Bruce in ep_e98e2a1fd99749dd. Both episodes occur in scene_48, and the sequence of events shows Bruce accepting the soup and the Old Man moving away prior to God's interruption and appearance, establishing a clear narrative order.",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f46521672202",
+    "subject_id": "ep_a25051f3a1cc5d9e",
+    "object_id": "ep_c79a34a8c3953fb7",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Assess feed and prepare for disconnection' occurs in scene_20, while the object episode 'Respond to Bruce's system failure' occurs in scene_18. Since scene_18 precedes scene_20 in narrative order, the object episode occurs earlier than the subject episode. However, the relation 'precedes' is directed, and the subject must precede the object for a valid 'precedes' relation. Here, the subject does not precede the object; instead, the object precedes the subject. Therefore, the correct directional relation would be the reverse, but since the schema does not include a 'follows' type and we cannot invert direction arbitrarily, the only justifiable use of 'precedes' would require the subject to come before the object, which it does not. Hence, no valid directed relation can be established in the subject->object direction. After re-evaluation, although the scenes provide clear temporal order, the relation cannot be asserted as 'precedes' from subject to object. Thus, the evidence supports a temporal sequence but not in the required direction for the 'precedes' relation under the schema. Therefore, no valid relation can be confidently asserted in the given direction, leading to 'NONE'. However, this contradicts the earlier confidence. Final correction: since the subject episode is in a later scene than the object, the subject does not precede the object, so 'precedes' cannot hold. No other relation is supported. Correct output is NONE.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  }
+]

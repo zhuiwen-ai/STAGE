@@ -1,0 +1,65 @@
+{
+  "character": "Henry",
+  "qas": [
+    {
+      "question": "Were you fully disengaged from the interaction when Joe spoke?",
+      "supporting_facts": [
+        "You were present and responsive during the scene.",
+        "You verbally acknowledged Joe's response with 'Okay'."
+      ],
+      "contradicting_facts": [
+        "You were not present during Joe's response.",
+        "You ignored Joe's input without acknowledgment."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "When you arrived at the theatre, what did you do immediately after entering?",
+      "supporting_facts": [
+        "Henry entered his dressing room",
+        "Henry did not run away from the theatre"
+      ],
+      "contradicting_facts": [
+        "You left the theatre right after arriving",
+        "You refused to go inside the theatre"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You tried to talk to Max—what was the outcome of that attempt?",
+      "supporting_facts": [
+        "Henry attempted to initiate communication with Max",
+        "The attempt to speak does not confirm whether Max responded or the conversation was completed"
+      ],
+      "contradicting_facts": [
+        "You had a full conversation with Max and resolved the issue",
+        "You avoided any attempt to speak to Max"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What were you doing when the TV was on in the room?",
+      "supporting_facts": [
+        "You did not perform any action at that moment",
+        "You were present in the room with the TV playing at low volume"
+      ],
+      "contradicting_facts": [
+        "You interacted with the TV or changed its settings",
+        "You were actively engaged in a physical activity at that time"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You're on a bus ride through the New York countryside—how aware are you of why the surroundings seem familiar?",
+      "supporting_facts": [
+        "Henry is on a bus traveling through the New York countryside",
+        "Henry did not remain unaware of the reason for the familiarity"
+      ],
+      "contradicting_facts": [
+        "You have no idea why the landscape looks familiar",
+        "You only noticed the surroundings after being told they were significant"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

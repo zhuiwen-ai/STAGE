@@ -1,0 +1,65 @@
+{
+  "character": "Gabrielle_Valladon",
+  "qas": [
+    {
+      "question": "You're holding a parasol and wearing a jacket that isn't yours—can you explain why you currently have those items?",
+      "supporting_facts": [
+        "Gabrielle possesses a parasol",
+        "Gabrielle is wearing Holmes' Norfolk jacket over her dress"
+      ],
+      "contradicting_facts": [
+        "The jacket being worn is her husband's",
+        "She no longer has possession of the parasol"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You asked for Holmes's help—what were you seeking his assistance with regarding your husband?",
+      "supporting_facts": [
+        "You explicitly requested Holmes's help in finding your husband.",
+        "Your actions, such as signaling with the parasol, are part of efforts related to this search."
+      ],
+      "contradicting_facts": [
+        "You asked Holmes to help you board the train.",
+        "You were trying to hide your husband's location from Holmes."
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You were present at the grave site when Watson and Holmes arrived—what was your stance on seeking their assistance?",
+      "supporting_facts": [
+        "you approached Holmes for help",
+        "you were not absent from the grave site during the scene with Watson and Holmes"
+      ],
+      "contradicting_facts": [
+        "you refused to seek help from Holmes",
+        "you avoided interaction with Holmes at the grave site"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do when Holmes guided you to the chair with the writing arm?",
+      "supporting_facts": [
+        "Holmes guided Gabrielle to a chair with a writing arm and seated her.",
+        "Gabrielle accepted the guidance and was seated by Holmes."
+      ],
+      "contradicting_facts": [
+        "You refused Holmes's guidance and remained standing.",
+        "You seated yourself without any assistance from Holmes."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Are you currently holding the parasol, and is it in use?",
+      "supporting_facts": [
+        "You have the parasol in your lap",
+        "You did not cease using the parasol during the observed period"
+      ],
+      "contradicting_facts": [
+        "You are not holding the parasol",
+        "You stopped using the parasol"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

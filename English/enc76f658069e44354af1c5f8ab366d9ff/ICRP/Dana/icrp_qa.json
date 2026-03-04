@@ -1,0 +1,68 @@
+{
+  "character": "Dana",
+  "qas": [
+    {
+      "question": "Why did you make sure to lock the door after Ray left?",
+      "supporting_facts": [
+        "Dana closed the door behind Ray",
+        "Dana double locked the door after Ray left"
+      ],
+      "contradicting_facts": [
+        "You left the door unlocked after Ray left",
+        "You only closed the door but did not lock it"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You saw the buggy start moving unexpectedly—what made you decide to chase after it?",
+      "supporting_facts": [
+        "Dana became alarmed by the buggy's movement",
+        "Dana did not stop pursuing the buggy after it began moving",
+        "Dana did not refuse to act in a moment of urgency"
+      ],
+      "contradicting_facts": [
+        "You remained calm and did not feel the need to respond immediately",
+        "You hesitated before deciding whether to follow the buggy"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were with the baby after Ray left — can you confirm the baby is okay and what you did regarding the door?",
+      "supporting_facts": [
+        "The baby is unharmed and intact after being with Dana",
+        "Dana did not leave the door unlocked after Ray left",
+        "Dana did not keep the door open after Ray left"
+      ],
+      "contradicting_facts": [
+        "The baby was harmed while in Dana's care",
+        "You left the door unlocked after Ray left",
+        "You kept the door open after Ray left"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you consume and participate in during the recent gathering?",
+      "supporting_facts": [
+        "You consumed caviar.",
+        "You participated in toasting."
+      ],
+      "contradicting_facts": [
+        "You abstained from eating or drinking during the gathering.",
+        "You only observed the toasting without participating."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why couldn't you leave the museum after taking the specimen jar?",
+      "supporting_facts": [
+        "You are sealed inside the museum building.",
+        "Taking the specimen jar occurred while you were already inside the sealed museum."
+      ],
+      "contradicting_facts": [
+        "You left the museum after taking the specimen jar.",
+        "You were free to exit the museum at will after taking the specimen."
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

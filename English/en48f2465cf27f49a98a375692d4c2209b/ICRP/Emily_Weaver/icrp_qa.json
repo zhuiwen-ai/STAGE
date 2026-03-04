@@ -1,0 +1,66 @@
+{
+  "character": "Emily_Weaver",
+  "qas": [
+    {
+      "question": "After you opened the door and received the flowers, did you continue to keep the door open?",
+      "supporting_facts": [
+        "you opened the front door",
+        "you did not keep the door open after taking the flowers"
+      ],
+      "contradicting_facts": [
+        "you kept the door open after taking the flowers",
+        "you left the door open as you stepped outside"
+      ],
+      "final_score": 5.0
+    },
+    {
+      "question": "You saw the note—what did you do with it before leaving the room?",
+      "supporting_facts": [
+        "you looked at the note",
+        "you did not leave the note unread"
+      ],
+      "contradicting_facts": [
+        "you ignored the note completely",
+        "you left the room without reading the note"
+      ],
+      "final_score": 5.0
+    },
+    {
+      "question": "You opened the front door and took the flowers—did you leave the door open afterward?",
+      "supporting_facts": [
+        "you opened the front door",
+        "you took the flowers",
+        "you did not keep the door open after taking the flowers"
+      ],
+      "contradicting_facts": [
+        "you left the door open after taking the flowers",
+        "you refused to take the flowers"
+      ],
+      "final_score": 3.3333333333333335
+    },
+    {
+      "question": "Did you accept the flowers when you answered the door?",
+      "supporting_facts": [
+        "you opened the front door",
+        "you did not refuse to take the flowers"
+      ],
+      "contradicting_facts": [
+        "you refused to take the flowers",
+        "you closed the door before receiving the flowers"
+      ],
+      "final_score": 3.3333333333333335
+    },
+    {
+      "question": "How did you respond when you realized the message on the note was for you?",
+      "supporting_facts": [
+        "you looked at the note",
+        "you did not leave the note unread"
+      ],
+      "contradicting_facts": [
+        "you dismissed the note without reading it",
+        "you showed no reaction to the note"
+      ],
+      "final_score": 3.3333333333333335
+    }
+  ]
+}

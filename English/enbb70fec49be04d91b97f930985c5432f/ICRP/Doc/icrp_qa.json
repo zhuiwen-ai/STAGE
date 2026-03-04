@@ -1,0 +1,65 @@
+{
+  "character": "Doc",
+  "qas": [
+    {
+      "question": "Did you voluntarily give up control of the bunker door when it came time to hold it?",
+      "supporting_facts": [
+        "you maintained control of the bunker door during the holding",
+        "you did not relinquish control of the bunker door voluntarily"
+      ],
+      "contradicting_facts": [
+        "you chose to step away and let someone else take the bunker door",
+        "you gave up control of the bunker door of your own accord"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Were you aware of the civilians in the bunker when you entered?",
+      "supporting_facts": [
+        "Doc is not unaware of the presence of 50 Shiite civilians in the bunker",
+        "Doc had knowledge of the civilians' presence at the time of the operation"
+      ],
+      "contradicting_facts": [
+        "Doc was unaware of any civilians in the bunker",
+        "The presence of civilians was unknown to Doc until after the mission"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You followed with the ball while the fuse was burning—what were you trying to accomplish?",
+      "supporting_facts": [
+        "Doc followed with the ball while the fuse was burning",
+        "The fuse being active indicates an ongoing timed event"
+      ],
+      "contradicting_facts": [
+        "You ignored the fuse and did not act during the burning period",
+        "You were not present when the fuse was lit"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Were you involved in moving the suitcase as part of the operation?",
+      "supporting_facts": [
+        "you participated in moving the suitcase",
+        "you did not refuse to participate in moving the suitcase"
+      ],
+      "contradicting_facts": [
+        "you declined to assist with moving the suitcase",
+        "you avoided involvement in handling the suitcase"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You were involved in an incident with your pistol—can you clarify what happened?",
+      "supporting_facts": [
+        "you struck someone with your pistol",
+        "the pistol discharged accidentally as a result of the strike"
+      ],
+      "contradicting_facts": [
+        "you intentionally fired your pistol at someone",
+        "the pistol was discharged before you struck anyone"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

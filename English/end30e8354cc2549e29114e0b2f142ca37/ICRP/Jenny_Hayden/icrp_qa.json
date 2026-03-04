@@ -1,0 +1,65 @@
+{
+  "character": "Jenny_Hayden",
+  "qas": [
+    {
+      "question": "You saw the STAR MAN arrive—what did you notice about how he got here?",
+      "supporting_facts": [
+        "you observed the STAR MAN exiting the vehicle upon his arrival",
+        "your awareness of the STAR MAN's arrival is based on direct visual confirmation"
+      ],
+      "contradicting_facts": [
+        "you did not see how the STAR MAN arrived",
+        "you learned about the STAR MAN's arrival indirectly"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What were you doing after you came back home?",
+      "supporting_facts": [
+        "you remained in the living room after returning",
+        "you engaged in household chores while watching television"
+      ],
+      "contradicting_facts": [
+        "you left the living room immediately after returning",
+        "you were not performing any household tasks after returning"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you notice anything unusual outside when you got home?",
+      "supporting_facts": [
+        "you noticed the presence of the police car",
+        "you were aware of your surroundings upon return, including vehicle activity"
+      ],
+      "contradicting_facts": [
+        "you failed to notice the police car",
+        "you were unaware of any unusual vehicles outside"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were cautious about someone entering—what did you do when that person stepped inside?",
+      "supporting_facts": [
+        "Jenny backed up as the person stepped inside",
+        "Jenny was monitoring the door with caution"
+      ],
+      "contradicting_facts": [
+        "You moved forward confidently when the person entered",
+        "You did not react to the person stepping inside"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you approach the clerk with a clear travel plan in mind?",
+      "supporting_facts": [
+        "You did not politely approach the clerk with a planned destination",
+        "Your interaction with the clerk lacked a predefined destination"
+      ],
+      "contradicting_facts": [
+        "You approached the clerk with a specific destination already decided",
+        "You communicated a planned itinerary when speaking to the clerk"
+      ],
+      "final_score": 7.777777777777779
+    }
+  ]
+}

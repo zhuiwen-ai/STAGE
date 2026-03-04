@@ -1,0 +1,66 @@
+{
+  "character": "Dr_Lecter",
+  "qas": [
+    {
+      "question": "You were wearing a mask during the encounter with Pembry—can you describe what emotional state you were in at that time?",
+      "supporting_facts": [
+        "You displayed alert and searching eyes during the encounter with Pembry",
+        "You briefly showed an expression indicating intense inner disturbance while masked",
+        "You did not remain passive during the encounter with Pembry"
+      ],
+      "contradicting_facts": [
+        "You remained emotionally neutral and undisturbed during the encounter",
+        "You showed no signs of internal emotional reaction while wearing the mask"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were asked a question by Chilton—why did you choose not to respond verbally?",
+      "supporting_facts": [
+        "you remained silent in response to Chilton's request for an answer",
+        "your silence was not devoid of expressive behavior"
+      ],
+      "contradicting_facts": [
+        "you verbally answered Chilton's request",
+        "your silence conveyed no expression"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "How do you typically respond when you experience a sudden disturbance?",
+      "supporting_facts": [
+        "You stop abruptly in response to a stimulus",
+        "You are capable of composing yourself after agitation"
+      ],
+      "contradicting_facts": [
+        "You immediately react with uncontrolled emotion",
+        "You ignore all external stimuli while engaged in an activity"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "What was your physical response when the tray was presented?",
+      "supporting_facts": [
+        "you did not remain still during the interaction",
+        "you rose and approached the papers without touching them"
+      ],
+      "contradicting_facts": [
+        "you stayed seated and motionless",
+        "you remained passive throughout the interaction"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "How are you able to move your arms given your current restraints?",
+      "supporting_facts": [
+        "you are not freely mobile due to being handcuffed",
+        "you transformed a stretching movement into a yawn, indicating restricted but controlled motion"
+      ],
+      "contradicting_facts": [
+        "you moved your arms freely without restriction",
+        "you removed the handcuffs to stretch comfortably"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

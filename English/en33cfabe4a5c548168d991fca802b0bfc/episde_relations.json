@@ -1,0 +1,2108 @@
+[
+  {
+    "id": "rel_ep_ep_9bf4e48c9429",
+    "subject_id": "ep_cdfe251b6412d54e",
+    "object_id": "ep_24ddf1f5a7dca3e4",
+    "relation_type": "elaborates",
+    "reason": "Max challenging Frank's motives prompts Frank to disclose his personal loss and final opportunity, providing emotional justification; the second episode expands on the first by supplying the detailed background and motivation that Max's questioning elicits.",
+    "source_documents": [
+      "scene_108_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_157d9a5bce8c",
+    "subject_id": "ep_724361b4d6cba621",
+    "object_id": "ep_b940dc1e053be80d",
+    "relation_type": "precedes",
+    "reason": "Henry initiates the urgent reunion plan before Julie expresses her resistance; the sequence is supported by the shared scene (scene_116) where Henry's proposal directly precedes Julie's reaction of frustration and skepticism.",
+    "source_documents": [
+      "scene_116_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8e8e317c4815",
+    "subject_id": "ep_a1c9728ab416a661",
+    "object_id": "ep_bd60ad79f92a198e",
+    "relation_type": "precedes",
+    "reason": "The emotional confrontation in 'Initiate emotional confrontation' sets the tone for the breakup and directly precedes Henry's attempt to salvage the relationship in 'Propose and reject a shared escape', both occurring in scene_101 with a clear narrative progression from confrontation to proposal.",
+    "source_documents": [
+      "scene_101_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_380ec6ba8a0f",
+    "subject_id": "ep_fc259947360cd40d",
+    "object_id": "ep_3d257597a518651a",
+    "relation_type": "causes",
+    "reason": "Eddie asserting control with a gun directly triggers Joe and Max's fight back, as Joe's attack begins in response to being ordered under threat, and the struggle ensues immediately after the gun is revealed and directed at them.",
+    "source_documents": [
+      "scene_149_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8ab17ce61e6f",
+    "subject_id": "ep_b0e418ba59cffd6a",
+    "object_id": "ep_48e390d7ba8dd7fa",
+    "relation_type": "causes",
+    "reason": "Max's confrontation and resistance (subject) directly triggers Eddie's physical assault (object), as described in both episodes' shared events: Max stands his ground and accuses Eddie, immediately followed by Eddie punching and striking him. The text explicitly links the escalation of violence to Max's defiance, providing clear causal evidence.",
+    "source_documents": [
+      "scene_149_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_dbf5eb7170ce",
+    "subject_id": "ep_b0e418ba59cffd6a",
+    "object_id": "ep_3d257597a518651a",
+    "relation_type": "precedes",
+    "reason": "Max's confrontation and resistance occur before Joe and Max fight back against Eddie, as the physical struggle initiated by Joe and Max joining in follows Max's verbal and physical resistance, with both episodes occurring in the same scene (scene_149) and forming a sequential narrative progression.",
+    "source_documents": [
+      "scene_149_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5449bd30806a",
+    "subject_id": "ep_1a6fe8acfc952f46",
+    "object_id": "ep_f1259a28cea0a8cb",
+    "relation_type": "precedes",
+    "reason": "The discussion about Julie's rejection occurs in doc_102, before the final moments in the apartment described in doc_112, indicating a clear narrative sequence where emotional reflection precedes closure and departure.",
+    "source_documents": [
+      "scene_103_part_1",
+      "scene_113_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0a0734e80e5b",
+    "subject_id": "ep_fc259947360cd40d",
+    "object_id": "ep_3773220cad5e576b",
+    "relation_type": "precedes",
+    "reason": "Eddie asserting control with a gun occurs before Henry and Joe subdue Eddie, as the struggle mentioned in the latter episode follows directly from the confrontation initiated in the former. The sequence of events in scene_149 supports this temporal order.",
+    "source_documents": [
+      "scene_149_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6e59209582d8",
+    "subject_id": "ep_b0e418ba59cffd6a",
+    "object_id": "ep_2d6225984f65067c",
+    "relation_type": "precedes",
+    "reason": "The confrontation and physical resistance by Max occurs before the act of mocking and silencing Eddie, as both episodes occur in scene_149 and the sequence of events shows Max first resisting coercion and enduring violence, followed by Eddie being restrained and mocked, indicating a temporal progression within the same scene.",
+    "source_documents": [
+      "scene_149_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_195c273870ad",
+    "subject_id": "ep_1a6fe8acfc952f46",
+    "object_id": "ep_3754cba35534245c",
+    "relation_type": "precedes",
+    "reason": "The discussion between Henry and Max about Julie's rejection occurs before Max's late arrival and confrontation with Julie, as the former sets up emotional context prior to the latter event, with no indication of reversal in narrative order.",
+    "source_documents": [
+      "scene_103_part_1",
+      "scene_138_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_baad1651f805",
+    "subject_id": "ep_d07c27c6bd6b7ea1",
+    "object_id": "ep_6a9cdfc6f8156400",
+    "relation_type": "precedes",
+    "reason": "The episode 'Max and Joe sustain tunneling effort' describes the prolonged digging activity that sets the scene for later developments, while 'Joe's digging triggers vault discovery' captures the climax of that effort with a physical breakthrough. The sustained effort must occur before the collapse and discovery, establishing a clear temporal order supported by the narrative description.",
+    "source_documents": [
+      "scene_112_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2220fcf25fba",
+    "subject_id": "ep_4306daaf3914c1f2",
+    "object_id": "ep_b940dc1e053be80d",
+    "relation_type": "elaborates",
+    "reason": "The object episode elaborates on Julie's resistance and skepticism during the same scene (scene_116), providing context for her emotional state and reasons behind her rejection of Henry in the subject episode. Both episodes occur in the same scene and are part of the same interaction, with the object episode expanding on the professional and personal conflicts that underlie her emotional dismissal.",
+    "source_documents": [
+      "scene_116_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_91c88a728099",
+    "subject_id": "ep_bd60ad79f92a198e",
+    "object_id": "ep_443350f4a429ae26",
+    "relation_type": "precedes",
+    "reason": "The proposal and rejection of a shared escape (Henry's suggestion and Julie's rejection in scene_101) immediately precedes Henry's stunned, motionless reaction to the finality of the breakup, as both episodes occur in the same scene and the emotional reaction follows the rejection logically and temporally.",
+    "source_documents": [
+      "scene_101_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f4bfbd0cdfb1",
+    "subject_id": "ep_2d6225984f65067c",
+    "object_id": "ep_48e390d7ba8dd7fa",
+    "relation_type": "contrasts_with",
+    "reason": "The episode 'Max mocks and silences Eddie' symbolizes a reversal of power and closure of Eddie's control, while 'Eddie assaults Max to enforce compliance' establishes Eddie's use of force to maintain control. These episodes are thematically opposed, showing a shift in dominance, which supports a contrast relation.",
+    "source_documents": [
+      "scene_149_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_9cdd9bc50693",
+    "subject_id": "ep_48e390d7ba8dd7fa",
+    "object_id": "ep_3d257597a518651a",
+    "relation_type": "precedes",
+    "reason": "Eddie's assault on Max occurs when Max defies him, establishing Eddie's control, and is immediately followed by Joe and Max fighting back, indicating a sequence where the assault precedes the counterattack. Both episodes occur in scene_149, and the narrative logic implies the aggression triggers the resistance, supporting a clear temporal order.",
+    "source_documents": [
+      "scene_149_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8b753ab8ddf3",
+    "subject_id": "ep_bd60ad79f92a198e",
+    "object_id": "ep_f9d59c52473db066",
+    "relation_type": "precedes",
+    "reason": "The proposal and rejection of a shared escape (subject) occurs before Julie confirms the relationship's end and demands Henry leave (object), as both episodes are part of the same scene (scene_101) and the rejection sets up the finality expressed in the subsequent confirmation of the breakup.",
+    "source_documents": [
+      "scene_101_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fe5ba6bbb13b",
+    "subject_id": "ep_7a096a81e748a14d",
+    "object_id": "ep_808072ef5203ddbf",
+    "relation_type": "causes",
+    "reason": "Darek's speech in the subject episode directly triggers the cast's emotional response and applause in the object episode, as evidenced by the sequence of events: Darek exits after his speech, and then the cast erupts into applause, indicating a clear causal link supported by the description of a 'charged silence' followed by collective affirmation.",
+    "source_documents": [
+      "scene_115_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_dba8d8b83f2a",
+    "subject_id": "ep_b31bb7c12881bf0d",
+    "object_id": "ep_f1259a28cea0a8cb",
+    "relation_type": "precedes",
+    "reason": "The episode 'Henry departs in the cold' describes Henry already walking in freezing weather after leaving the apartment, while 'Conclude final moments in the apartment' includes events where Henry and Max prepare to depart. The latter must occur just before the former, as the departure is the immediate next step after preparation, establishing a clear narrative sequence.",
+    "source_documents": [
+      "scene_102_part_1",
+      "scene_113_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_eeca419db3fc",
+    "subject_id": "ep_1a6fe8acfc952f46",
+    "object_id": "ep_798b8e166d238440",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs in doc_102 and involves a conversation between Henry and Max before Joe and Eddie arrive, while the second episode occurs in doc_111 and involves Henry entering the tunnel to dig, indicating a later point in the narrative sequence. The shift from discussion to physical action and the progression in document IDs support a clear temporal order where the emotional discussion precedes the digging episode.",
+    "source_documents": [
+      "scene_103_part_1",
+      "scene_112_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cade46ec59d4",
+    "subject_id": "ep_a8d9fba1fadf08bd",
+    "object_id": "ep_3773220cad5e576b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Henry enters and disrupts the standoff' occurs first, as it describes Henry's arrival and the initial confrontation with Eddie holding a gun. This is followed by 'Henry and Joe subdue Eddie', where Henry recovers, retrieves the gun, and together with Joe restrains Eddie. The sequence of related events in both episodes supports a clear temporal order: disruption precedes restraint.",
+    "source_documents": [
+      "scene_149_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8811b17cf99b",
+    "subject_id": "ep_3d257597a518651a",
+    "object_id": "ep_2d6225984f65067c",
+    "relation_type": "precedes",
+    "reason": "The fightback episode (Joe and Max attacking Eddie) directly precedes the mocking and silencing episode, as the struggle ends with Max gaining control, which enables the subsequent act of gaging Eddie. Both episodes occur in scene_149 and describe a continuous sequence where the power shift begins with the physical struggle and culminates in Max's symbolic assertion of dominance.",
+    "source_documents": [
+      "scene_149_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_62be5cbaed94",
+    "subject_id": "ep_a1c9728ab416a661",
+    "object_id": "ep_f9d59c52473db066",
+    "relation_type": "precedes",
+    "reason": "The emotional confrontation initiated by Henry (ep_a1c9728ab416a661) sets the tone for the unfolding breakup and is followed by Julie's definitive confirmation of the relationship's end (ep_f9d59c52473db066), indicating a clear narrative sequence where the confrontation precedes the final declaration.",
+    "source_documents": [
+      "scene_101_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_69e51a834c54",
+    "subject_id": "ep_845898686c7700f8",
+    "object_id": "ep_ce9f41a119a986dd",
+    "relation_type": "precedes",
+    "reason": "The description of 'Frank confronts the group with surveillance claims' establishes Frank's appearance and awareness, which sets the context for the subsequent demand for inclusion and relocation in 'Frank demands inclusion and proposes relocation'. The related events in both episodes occur in the same scene (scene_107), and the logical narrative progression suggests the confrontation precedes the demand. This ordering is supported by the causal flow of tension building from observation to direct action.",
+    "source_documents": [
+      "scene_107_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d85069720982",
+    "subject_id": "ep_0cbf346c2e6d3e11",
+    "object_id": "ep_81d2a11b714e706d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Observe and assess ongoing excavation progress' occurs when Henry arrives and assesses the excavation, which includes the tunnel being illuminated but before he enters it. The object episode 'Discover the steel vault and react to its presence' occurs when Henry enters the tunnel and finds the vault, which requires him to have progressed beyond initial observation. The related events and narrative flow indicate a clear temporal sequence: assessment upon arrival precedes entry and discovery.",
+    "source_documents": [
+      "scene_106_part_1",
+      "scene_142_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b19df135fafb",
+    "subject_id": "ep_aacfbbdcede156f9",
+    "object_id": "ep_d19223caf12f215d",
+    "relation_type": "contrasts_with",
+    "reason": "Madame Ranevsky's act of giving money to the hooded figures reflects compassion and emotional generosity, while Yasha's dismissive comment about peasants and the ignoring of Lophakin highlight social superiority and indifference. These episodes are juxtaposed in the same scene (scene_150) and contrast attitudes toward lower social classes—empathy versus condescension—reinforcing a thematic reversal in tone and values.",
+    "source_documents": [
+      "scene_150_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b499d3814162",
+    "subject_id": "ep_a1c9728ab416a661",
+    "object_id": "ep_443350f4a429ae26",
+    "relation_type": "precedes",
+    "reason": "The emotional confrontation initiated by Henry (ep_a1c9728ab416a661) leads directly to Julie's demand and the final breakup, which is followed by Henry's stunned reaction (ep_443350f4a429ae26). The sequence of events in scene_101 supports a clear temporal order where the confrontation occurs before the reaction to the breakup.",
+    "source_documents": [
+      "scene_101_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bf609dcc24db",
+    "subject_id": "ep_4306daaf3914c1f2",
+    "object_id": "ep_724361b4d6cba621",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts Henry being emotionally rejected by Julie, where she dismisses their past and accuses him of theft, leading to his silent departure. The second episode shows Henry reappearing to urgently initiate a reunion plan, asserting his unchanged desire for her despite prior rejection. These episodes are juxtaposed to highlight a reversal in emotional dynamics—passive acceptance of rejection versus active pursuit—emphasizing a contrast in tone and outcome.",
+    "source_documents": [
+      "scene_116_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_411d12316f2f",
+    "subject_id": "ep_78b6eb717c65cbe1",
+    "object_id": "ep_5c9671e01e8d0b4a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ascend pole and prepare for intervention' involves Max retrieving the wire cutter from his fanny pack at the top of the pole, which must occur before the episode 'React to message and lose tool' where he drops the same tool due to trembling hands after receiving the message. The sequence of related events in both episodes supports a clear temporal order.",
+    "source_documents": [
+      "scene_124_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_87e7c9fc5c12",
+    "subject_id": "ep_6a9cdfc6f8156400",
+    "object_id": "ep_62a6e14e4a9106b2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Joe's digging triggers vault discovery' describes the moment the vault is revealed, which is a necessary precondition for 'Eddie initiates thermite burn procedure' to begin the vault breach. The discovery must occur before the thermite burn can be initiated, establishing a clear temporal sequence supported by the narrative logic in the descriptions.",
+    "source_documents": [
+      "scene_142_part_1",
+      "scene_112_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a82ca1598c4c",
+    "subject_id": "ep_9a8b5520fb50c96c",
+    "object_id": "ep_d19223caf12f215d",
+    "relation_type": "precedes",
+    "reason": "Lophakin's late arrival and reception, where he rushes in and is met with a disapproving look from Yasha, occurs just before Yasha makes a dismissive comment about peasants while others ignore Lophakin. Both episodes occur in scene_150 and share a tight temporal sequence, with the arrival setting the immediate context for the subsequent social slight, supporting a local narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_150_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a81da12c50f7",
+    "subject_id": "ep_a449f015ce220b09",
+    "object_id": "ep_f8e4a15ad122f8f2",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate the curtain rise' involves Simon directing Henry to raise the curtain and the initiation of curtain movement, which directly precedes the object episode 'Reveal and settle the nursery scene' where the curtain fully rises, characters enter, and the scene is established. The related events in both episodes occur in the same scene (scene_119) and follow a clear temporal sequence: the curtain movement begins before it fully rises and characters appear.",
+    "source_documents": [
+      "scene_119_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f19e514128e2",
+    "subject_id": "ep_c130977cdc75b686",
+    "object_id": "ep_808072ef5203ddbf",
+    "relation_type": "causes",
+    "reason": "Darek's declaration that the future is not to be feared (in ep_c130977cdc75b686) shifts the mood to focused anticipation, which directly triggers the cast's collective affirmation through applause (in ep_808072ef5203ddbf), as both episodes occur in the same scene and the emotional response is presented as an immediate consequence of the speech.",
+    "source_documents": [
+      "scene_115_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_59ab59cc27dc",
+    "subject_id": "ep_81d2a11b714e706d",
+    "object_id": "ep_62a6e14e4a9106b2",
+    "relation_type": "precedes",
+    "reason": "The discovery of the steel vault (ep_81d2a11b714e706d) occurs before Eddie initiates the thermite burn procedure (ep_62a6e14e4a9106b2), as the group must first react to the vault's presence before taking action to breach it. Both episodes occur in scene_142, and the narrative flow shifts from discovery to action, indicating a clear temporal order.",
+    "source_documents": [
+      "scene_142_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_82a1b0e3da92",
+    "subject_id": "ep_2fab3581399319e2",
+    "object_id": "ep_14932e1e938be529",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate the operation' describes the start of the operation with Max urging Joe and Eddie to act, while 'Pack the cash and anticipate fallout' occurs after the heist, involving the packing of cash and discussion of consequences. The sequence of events implies a clear temporal order: the operation must begin before the cash can be packed post-heist, supporting a 'precedes' relation from initiation to packing.",
+    "source_documents": [
+      "scene_147_part_1",
+      "scene_140_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_84c6c205c863",
+    "subject_id": "ep_3d257597a518651a",
+    "object_id": "ep_3773220cad5e576b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Joe and Max fight back against Eddie' describes the struggle during which Joe and Max attack Eddie and gain control, immediately followed by 'Henry and Joe subdue Eddie', where Henry retrieves the gun and they use an extension cord to restrain him. The events in the second episode (hogtying with an extension cord, Henry retrieving the gun) logically and temporally follow the successful takedown in the first episode, establishing a clear narrative sequence.",
+    "source_documents": [
+      "scene_149_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_66878e305686",
+    "subject_id": "ep_1fdfbb70cfc419b8",
+    "object_id": "ep_2e66b6c857c308ef",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_104 and share the same narrative context. The suppression of Joe's drunken interference (where Joe speaks and Max silences him) directly precedes Max's declaration to kill Eddie, which then prompts Joe and Henry to object. The sequence of events in the shared scene supports a clear temporal order: Joe's outburst and Max's reaction happen before Max's threat toward Eddie.",
+    "source_documents": [
+      "scene_104_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d490194129a4",
+    "subject_id": "ep_c750849999c5f650",
+    "object_id": "ep_279971eb8920c609",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ascend the utility pole under pressure' involves Max climbing the pole and reaching the top, which is a necessary precondition for the subsequent episode 'Locate and cut the critical wire' where he acts on the wires at the top. The related events in both episodes occur in the same scene (scene_127) and the narrative order implies the ascent must happen before the wire can be cut.",
+    "source_documents": [
+      "scene_127_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_21ca88b8fa12",
+    "subject_id": "ep_7a096a81e748a14d",
+    "object_id": "ep_c130977cdc75b686",
+    "relation_type": "elaborates",
+    "reason": "The subject episode describes Darek entering and delivering a layered speech that reframes the play's purpose around themes of misery and disconnection, while the object episode focuses on the concluding part of that speech where he declares the future is not to be feared, shifting the mood toward resolve. The object episode builds on and completes the thematic development initiated in the subject episode, providing additional detail about the speech's impact and direction, thus elaborating on the earlier episode's narrative function within the same occasion.",
+    "source_documents": [
+      "scene_115_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b2bee99ecc8b",
+    "subject_id": "ep_2e66b6c857c308ef",
+    "object_id": "ep_595ca27d2ca5e760",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Max's impulse to kill Eddie' involves Max threatening Eddie with a knife and being opposed by Henry and Joe, which directly sets up the subsequent episode where Max pleads with Joe to leave to prevent further violence. Both episodes occur in scene_104 and share a continuous narrative flow, with the first establishing the threat of violence and the second showing Max's shift toward de-escalation, indicating a clear temporal sequence.",
+    "source_documents": [
+      "scene_104_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f89bc983fb91",
+    "subject_id": "ep_0cbf346c2e6d3e11",
+    "object_id": "ep_6a9cdfc6f8156400",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Observe and assess ongoing excavation progress' occurs when Henry arrives and observes the ongoing excavation, including the illuminated tunnel, while the object episode 'Joe's digging triggers vault discovery' describes the subsequent collapse of the tunnel ceiling revealing the vault. The events in the subject episode (ongoing excavation) set the stage for the breakthrough in the object episode, with no indication of reversal or parallelism, supporting a clear temporal sequence where assessment precedes the discovery.",
+    "source_documents": [
+      "scene_106_part_1",
+      "scene_112_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1a4e4771f086",
+    "subject_id": "ep_6a9cdfc6f8156400",
+    "object_id": "ep_81d2a11b714e706d",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Joe's digging causing the tunnel ceiling to collapse and revealing the concrete floor of the vault, with Max announcing their arrival at the vault. The object episode involves Henry entering the tunnel to find Joe and Max already observing the steel vault, followed by their reactions. The sequence of events implies that the discovery of the vault floor (subject) must occur before Henry's arrival and the group's reaction to the steel vault (object), establishing a clear narrative order.",
+    "source_documents": [
+      "scene_112_part_1",
+      "scene_142_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_59de5048b1e2",
+    "subject_id": "ep_2fab3581399319e2",
+    "object_id": "ep_62a6e14e4a9106b2",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate the operation' involves Max arriving and urging Joe and Eddie to begin their tasks, which sets up the immediate context for the subsequent episode where Eddie initiates the thermite burn procedure. The object episode occurs in a later scene (scene_142) and builds on the transition into action established in the subject episode (scene_140), indicating a clear narrative sequence where the initiation of the operation precedes the specific action of starting the thermite burn.",
+    "source_documents": [
+      "scene_140_part_1",
+      "scene_142_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a56671725c63",
+    "subject_id": "ep_0cbf346c2e6d3e11",
+    "object_id": "ep_798b8e166d238440",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Observe and assess ongoing excavation progress' occurs when Henry arrives and observes the excavation, which is supported by events in scene_106. The object episode 'Henry joins the dig with emotional intensity' begins when Henry enters the tunnel and starts digging, supported by events in scene_112. The scene numbers (106 before 112) and the narrative flow—observation followed by physical participation—indicate a clear temporal order where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_106_part_1",
+      "scene_112_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fac6fd810802",
+    "subject_id": "ep_81d2a11b714e706d",
+    "object_id": "ep_d07c27c6bd6b7ea1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Max and Joe sustain tunneling effort' describes the ongoing labor before Henry's arrival, while 'Discover the steel vault and react to its presence' occurs when Henry enters the tunnel and finds Joe and Max already there. The description of ep_d07c27c6bd6b7ea1 explicitly states it 'sets the scene for the subsequent developments,' indicating it occurs earlier in the narrative sequence than ep_81d2a11b714e706d.",
+    "source_documents": [
+      "scene_142_part_1",
+      "scene_112_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_968bdee0381f",
+    "subject_id": "ep_798b8e166d238440",
+    "object_id": "ep_81d2a11b714e706d",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Henry joins the dig and emotionally commits to the mission, occurs earlier in the narrative as it involves the initial entry into the tunnel and the beginning of digging. The object episode involves Henry entering the tunnel again to discover the steel vault with Joe and Max, indicating a subsequent moment of discovery. The related events in the first episode (scene_112) precede those in the second (scene_142), supporting a clear temporal order.",
+    "source_documents": [
+      "scene_112_part_1",
+      "scene_142_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f6a30824def2",
+    "subject_id": "ep_0cbf346c2e6d3e11",
+    "object_id": "ep_62a6e14e4a9106b2",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Observe and assess ongoing excavation progress' involves Henry arriving and assessing the excavation while Max and Joe are actively removing dirt, with no mention of Eddie or thermite. The object episode 'Eddie initiates thermite burn procedure' occurs later, as it requires the excavation to have progressed sufficiently to reach a stage requiring a high-risk breach, and explicitly involves Eddie arriving and ordering others out. The narrative progression from ongoing excavation to initiating a thermite burn indicates a temporal sequence supported by the shift in activity and personnel, with the related events in the object episode depending on the prior completion of the assessment and ongoing digging.",
+    "source_documents": [
+      "scene_106_part_1",
+      "scene_142_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_31620485f2d8",
+    "subject_id": "ep_1a6fe8acfc952f46",
+    "object_id": "ep_2e66b6c857c308ef",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs in doc_102 and involves a reflective conversation before Joe and Eddie arrive, while the second episode occurs in doc_103 and involves a confrontation with Max threatening Eddie. The narrative order and document sequence indicate that the discussion about Julie's rejection precedes the confrontation over Max's violent impulse.",
+    "source_documents": [
+      "scene_103_part_1",
+      "scene_104_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_283f80e01955",
+    "subject_id": "ep_941d1e30f73a2e81",
+    "object_id": "ep_2e66b6c857c308ef",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Eddie's presence and challenge his motives' (doc_102, scene_103) occurs in an earlier document and scene than 'Confront Max's impulse to kill Eddie' (doc_103, scene_104), indicating a clear narrative sequence where the confrontation over Eddie's presence precedes Max's escalation to violence.",
+    "source_documents": [
+      "scene_104_part_1",
+      "scene_103_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c6cbdb21609f",
+    "subject_id": "ep_1fdfbb70cfc419b8",
+    "object_id": "ep_595ca27d2ca5e760",
+    "relation_type": "precedes",
+    "reason": "The episode 'Suppress Joe's drunken interference' occurs when Max silences Joe after his outburst, immediately followed by Max pleading with Joe to leave to prevent further escalation, as both events are anchored in scene_104 and the shift from aggression to pleading indicates a sequential progression. The narrative flow within the same scene supports a direct temporal order where silencing precedes the plea to leave.",
+    "source_documents": [
+      "scene_104_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_388b6fb41067",
+    "subject_id": "ep_2fab3581399319e2",
+    "object_id": "ep_b0e418ba59cffd6a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate the operation' occurs in doc_139 and involves Max arriving and prompting Joe and Eddie to begin, while the object episode 'Max confronts Eddie and resists coercion' occurs in doc_148 and involves escalating physical conflict. The progression from initiating tasks to a later confrontation involving resistance and violence indicates a clear narrative sequence where the initiation precedes the confrontation.",
+    "source_documents": [
+      "scene_140_part_1",
+      "scene_149_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2d48a98a400b",
+    "subject_id": "ep_d07c27c6bd6b7ea1",
+    "object_id": "ep_798b8e166d238440",
+    "relation_type": "precedes",
+    "reason": "The episode 'Max and Joe sustain tunneling effort' describes the ongoing digging activity that establishes the scene before Henry arrives and begins digging, which is the focus of the episode 'Henry joins the dig with emotional intensity'. The description explicitly states that Max and Joe's labor occurs 'preceding Henry's arrival', providing clear temporal ordering.",
+    "source_documents": [
+      "scene_112_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c69c0a72c363",
+    "subject_id": "ep_845898686c7700f8",
+    "object_id": "ep_cdfe251b6412d54e",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Frank demands inclusion and proposes relocation' occurs in scene_107, while the object episode 'Max challenges Frank's motives and demands explanation' occurs in scene_108, indicating a clear narrative sequence where the demand for inclusion and relocation is followed by Max questioning Frank's motives, supported by the chronological order of related events.",
+    "source_documents": [
+      "scene_107_part_1",
+      "scene_108_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fc3f57b0648d",
+    "subject_id": "ep_99e006050528b8ca",
+    "object_id": "ep_cdfe251b6412d54e",
+    "relation_type": "elaborates",
+    "reason": "The subject episode introduces the heist proposal and Frank's credibility, while the object episode expands on Frank's motivations in response to Max's skepticism. The object episode provides additional emotional and personal context that elaborates on Frank's earlier proposal and behavior, deepening the narrative justification for his involvement.",
+    "source_documents": [
+      "scene_108_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_235705603c42",
+    "subject_id": "ep_1a6fe8acfc952f46",
+    "object_id": "ep_941d1e30f73a2e81",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Henry and Max discussing Julie's rejection and life's costs, grounded in scene_103 before Joe and Eddie arrive. The second episode involves the confrontation with Eddie upon his arrival, also in scene_103. The narrative flow indicates the discussion occurs before the confrontation, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_103_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_38958f181eed",
+    "subject_id": "ep_2fab3581399319e2",
+    "object_id": "ep_3d257597a518651a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate the operation' occurs in doc_139 and involves Max arriving and prompting Joe and Eddie to begin, while the object episode 'Joe and Max fight back against Eddie' occurs in doc_148 and involves a physical confrontation. The narrative progression from initiating the operation to a later struggle indicates a clear temporal sequence, with the initiation logically preceding the fightback.",
+    "source_documents": [
+      "scene_140_part_1",
+      "scene_149_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d3eb2a75b992",
+    "subject_id": "ep_1fdfbb70cfc419b8",
+    "object_id": "ep_ecb29ba18ebf105d",
+    "relation_type": "precedes",
+    "reason": "The event of Joe sharing a personal detail about his sex life (in ep_1fdfbb70cfc419b8) occurs in scene_104, while the discussion about circumcising Joe's unborn child (in ep_ecb29ba18ebf105d) occurs in scene_107, indicating a clear narrative sequence where the suppression of Joe's drunken interference precedes the initiation of the circumcision discussion.",
+    "source_documents": [
+      "scene_104_part_1",
+      "scene_107_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9a5e67084571",
+    "subject_id": "ep_99e006050528b8ca",
+    "object_id": "ep_24ddf1f5a7dca3e4",
+    "relation_type": "elaborates",
+    "reason": "Frank's disclosure of his personal loss and final opportunity provides emotional and contextual background that expands on his earlier proposal of the heist, explaining his motivation and commitment. The description of the first episode includes him revealing the money transfer date and retirement as his 'last chance,' which elaborates on the credibility and seriousness he asserted in proposing the heist.",
+    "source_documents": [
+      "scene_108_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ff85735d20b4",
+    "subject_id": "ep_2fab3581399319e2",
+    "object_id": "ep_48e390d7ba8dd7fa",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate the operation' involves Max arriving and urging Joe and Eddie to begin, establishing the start of the operation. The object episode 'Eddie assaults Max to enforce compliance' involves escalated violence against Max, which logically follows initial non-compliance after the operation has begun. The narrative progression from initiation to enforcement via violence suggests a temporal sequence supported by the shift from planning/commencement to conflict, with no indication of reversal or simultaneity.",
+    "source_documents": [
+      "scene_140_part_1",
+      "scene_149_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0937f82943e9",
+    "subject_id": "ep_1a6fe8acfc952f46",
+    "object_id": "ep_724361b4d6cba621",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode features Henry expressing emotional disappointment over Julie's rejection and a philosophical reflection on life's costs, while the second shows Henry actively initiating a urgent reunion plan with Julie despite her prior rejection, creating a contrast in tone and emotional state—from passive regret to assertive action.",
+    "source_documents": [
+      "scene_103_part_1",
+      "scene_116_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8fc15a029eaa",
+    "subject_id": "ep_08b713dbaaed837b",
+    "object_id": "ep_8112f1594b546ca3",
+    "relation_type": "precedes",
+    "reason": "The observation of Julie's performance by Henry and Simon (ep_08b713dbaaed837b) occurs during scene_125, while the disruptive offstage disturbance (ep_8112f1594b546ca3) occurs in scene_141, indicating a clear narrative sequence where the first episode precedes the second based on scene ordering.",
+    "source_documents": [
+      "scene_125_part_1",
+      "scene_141_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_44074b0736cb",
+    "subject_id": "ep_a1c9728ab416a661",
+    "object_id": "ep_4306daaf3914c1f2",
+    "relation_type": "precedes",
+    "reason": "The emotional confrontation in 'Initiate emotional confrontation' (scene_101) occurs before Henry's rejection in 'Henry makes an emotional appeal and is rejected' (scene_116), as indicated by the chronological order of scenes. The first episode sets the tone for the breakup, which culminates in the second episode with Julie's explicit rejection.",
+    "source_documents": [
+      "scene_116_part_1",
+      "scene_101_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_339eeb493c80",
+    "subject_id": "ep_4306daaf3914c1f2",
+    "object_id": "ep_1a6fe8acfc952f46",
+    "relation_type": "precedes",
+    "reason": "The episode 'Henry makes an emotional appeal and is rejected' describes Henry's direct interaction with Julie and her rejection, which logically precedes the episode 'Discuss Julie's rejection and life's costs' where Henry shares his disappointment about that same rejection with Max. The latter episode references the former as a past event, establishing a clear narrative sequence.",
+    "source_documents": [
+      "scene_103_part_1",
+      "scene_116_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6c6e20dd2b27",
+    "subject_id": "ep_a8d9fba1fadf08bd",
+    "object_id": "ep_a9951bc4b6f209fc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Henry enters and disrupts the standoff' occurs before 'Henry discovers and reacts to his injury' as the injury is a result of the gun discharge during the standoff that Henry interrupts, and the discovery follows immediately after in the same scene (scene_149), with no indication of temporal overlap or reversal.",
+    "source_documents": [
+      "scene_149_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ca8443d70552",
+    "subject_id": "ep_1a6fe8acfc952f46",
+    "object_id": "ep_9be0ee728d3b47a1",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Discuss Julie's rejection and life's costs' occurs before the object episode 'Initiate private confrontation with Julie', as the former involves Max and Henry discussing Julie's rejection prior to Henry confronting her during the dress rehearsal. The related events and scene IDs (scene_103 vs scene_105) support this temporal ordering.",
+    "source_documents": [
+      "scene_103_part_1",
+      "scene_105_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b6f077bfdede",
+    "subject_id": "ep_bd60ad79f92a198e",
+    "object_id": "ep_4306daaf3914c1f2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Propose and reject a shared escape' (scene_101) occurs before 'Henry makes an emotional appeal and is rejected' (scene_116), as indicated by the chronological order of scene numbers. The proposal and its rejection set the stage for Henry's later emotional appeal, which ends in final rejection, suggesting a narrative progression where earlier attempts at reconciliation precede more desperate ones.",
+    "source_documents": [
+      "scene_116_part_1",
+      "scene_101_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5eb4735e3375",
+    "subject_id": "ep_4dc81129406d2065",
+    "object_id": "ep_6cbb682bd05205ca",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Clarify the meaning of 'French roast'' provides an explanation in response to Frank's skepticism about the coffee's origin, which was prompted by the gift-opening event. The clarification directly expands on the reaction triggered during the gift-opening episode, making it an elaboration of that episode's immediate consequence.",
+    "source_documents": [
+      "scene_136_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bfbba1c86491",
+    "subject_id": "ep_09bd1e1ef8dc64f5",
+    "object_id": "ep_ce9f41a119a986dd",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to the door knock and identify visitors' introduces Joe and Eddie Vibes arriving at the door, setting up their presence in the scene. The subsequent episode 'Frank confronts the group with surveillance claims' occurs later, as Frank confronts Henry, Max, and Joe—implying Joe is already present. This sequential order is supported by the narrative flow where Joe's arrival must precede a confrontation involving him and the others, establishing a clear local narrative precedence.",
+    "source_documents": [
+      "scene_103_part_1",
+      "scene_107_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_756ddbaddb2f",
+    "subject_id": "ep_3b7aaa78937e1d90",
+    "object_id": "ep_9a6e8dfb370201bf",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Lophakin urging Madame Ranevskaya to rent out the Cherry Orchard to avoid financial ruin, which occurs before the second episode where Lophakin reveals he has already purchased the estate. The narrative progression from proposing a solution to confronting the sale outcome indicates a clear temporal sequence supported by the event descriptions and scene numbers (scene_141 before scene_146).",
+    "source_documents": [
+      "scene_141_part_1",
+      "scene_146_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bff77320bcd8",
+    "subject_id": "ep_9be0ee728d3b47a1",
+    "object_id": "ep_8112f1594b546ca3",
+    "relation_type": "precedes",
+    "reason": "The private confrontation episode (ep_9be0ee728d3b47a1) occurs during scene_105, where Henry initiates a conversation with Julie after the dress rehearsal. The disruptive offstage disturbance episode (ep_8112f1594b546ca3) occurs in scene_141, as indicated by the related_events referencing that scene. Since scene_105 precedes scene_141 in narrative order, the confrontation episode occurs earlier than the disturbance episode.",
+    "source_documents": [
+      "scene_141_part_1",
+      "scene_105_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e00daad7ce4d",
+    "subject_id": "ep_993e04d475e95e84",
+    "object_id": "ep_d0c7c8b04cf204bc",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Bernie and Stan arriving at the bank and initiating contact, which includes knocking on the door to communicate with Frank. The second episode occurs while Stan is loading money into the vault and includes dialogue between Bernie, Stan, and Frank. The loading of money (in the second episode) logically follows the initiation of contact and entry (in the first episode), establishing a clear temporal sequence supported by the narrative flow of events.",
+    "source_documents": [
+      "scene_120_part_1",
+      "scene_126_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6cc27f948ce1",
+    "subject_id": "ep_9a8b5520fb50c96c",
+    "object_id": "ep_25a8a23b1093476b",
+    "relation_type": "precedes",
+    "reason": "Lophakin's late arrival and reception, where he rushes onto the stage and is met with a disapproving look from Yasha, occurs before his attempt to seek a farewell connection by inviting someone to share champagne. Both episodes occur in the same scene (scene_150) and the sequence of events—arrival followed by a farewell gesture—supports a temporal order where the arrival sets the context for the subsequent interaction.",
+    "source_documents": [
+      "scene_150_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4a09797f9603",
+    "subject_id": "ep_9be0ee728d3b47a1",
+    "object_id": "ep_4306daaf3914c1f2",
+    "relation_type": "precedes",
+    "reason": "The private confrontation episode (ep_9be0ee728d3b47a1) occurs during the dress rehearsal (scene_105), where Henry initiates a conversation with Julie about the previous night. The emotional appeal and rejection episode (ep_4306daaf3914c1f2) takes place in scene_116, which is explicitly later in the document sequence. The narrative order of scenes supports that the confrontation precedes the rejection.",
+    "source_documents": [
+      "scene_116_part_1",
+      "scene_105_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b299437d81a3",
+    "subject_id": "ep_9be0ee728d3b47a1",
+    "object_id": "ep_724361b4d6cba621",
+    "relation_type": "precedes",
+    "reason": "The private confrontation episode (ep_9be0ee728d3b47a1) occurs during the dress rehearsal, where Henry approaches Julie about the previous night, implying recent prior contact. The urgent reunion plan episode (ep_724361b4d6cba621) involves Henry insisting on a new meeting in California tied to the VAULT opening, suggesting a subsequent attempt to re-engage. The narrative flow and reference to 'the previous night' in the confrontation imply it precedes the new plan initiation.",
+    "source_documents": [
+      "scene_116_part_1",
+      "scene_105_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_477c6aeb211d",
+    "subject_id": "ep_48e390d7ba8dd7fa",
+    "object_id": "ep_fc259947360cd40d",
+    "relation_type": "precedes",
+    "reason": "Eddie assaults Max physically before asserting control with a gun, as both episodes occur in scene_149 and the assault (punching and striking) directly precedes the gun-pointing and command-giving in the narrative sequence, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_149_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ee1e5e40255a",
+    "subject_id": "ep_2fab3581399319e2",
+    "object_id": "ep_aa6957e9d1b0d649",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate the operation' involves Max arriving and urging Joe and Eddie to begin their tasks, which directly precedes the object episode 'Begin physical setup of explosives' where Eddie and Joe start drilling and preparing charges. Both episodes occur in scene_140, but the initiation of the operation logically and temporally comes before the physical execution of the tasks, as the command to act precedes the enactment of those actions.",
+    "source_documents": [
+      "scene_140_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f2d813320459",
+    "subject_id": "ep_aa6957e9d1b0d649",
+    "object_id": "ep_62a6e14e4a9106b2",
+    "relation_type": "precedes",
+    "reason": "The physical setup of explosives (drilling and charge preparation) is a prerequisite step that logically and chronologically precedes the thermite burn procedure, which is a distinct, subsequent action in the vault breach sequence. The description of ep_aa6957e9d1b0d649 emphasizes 'commencing the technical work' and 'concrete execution,' while ep_62a6e14e4a9106b2 describes a later, high-risk operation initiated after others exit the tunnel, indicating a sequential narrative order.",
+    "source_documents": [
+      "scene_142_part_1",
+      "scene_140_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bc464f5f1d77",
+    "subject_id": "ep_cdfe251b6412d54e",
+    "object_id": "ep_ce9f41a119a986dd",
+    "relation_type": "precedes",
+    "reason": "The confrontation by Frank (ep_ce9f41a119a986dd) occurs in scene_107, where he asserts awareness of the group's movements, immediately followed by Max questioning Frank's motives in scene_108 (ep_cdfe251b6412d54e), indicating a direct narrative sequence where the latter episode follows the former. Thus, ep_ce9f41a119a986dd precedes ep_cdfe251b6412d54e. However, since the subject is ep_cdfe251b6412d54e and the object is ep_ce9f41a119a986dd, and the relation is directed, the correct directional assignment is not supported. Reversing the direction would require the subject to precede the object, but evidence shows the object episode occurs first. Therefore, the relation 'precedes' cannot be validly assigned from subject to object. Given no other relation is supported, the correct output is NONE. [Correction: After re-evaluation, the scene order shows ep_ce9f41a119a986dd (scene_107) precedes ep_cdfe251b6412d54e (scene_108), so if the subject is the later episode and the object is the earlier, then 'precedes' does not hold from subject to object. No other relation is supported. Hence, NONE.]",
+    "source_documents": [
+      "scene_108_part_1",
+      "scene_107_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5241435e997b",
+    "subject_id": "ep_b0e418ba59cffd6a",
+    "object_id": "ep_3773220cad5e576b",
+    "relation_type": "precedes",
+    "reason": "Max confronts Eddie and resists coercion occurs before Henry and Joe subdue Eddie, as Max's confrontation includes physical struggle and verbal resistance, after which Henry recovers and participates in restraining Eddie, indicating a clear temporal sequence within scene_149.",
+    "source_documents": [
+      "scene_149_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_284c85b0fd2c",
+    "subject_id": "ep_48e390d7ba8dd7fa",
+    "object_id": "ep_3773220cad5e576b",
+    "relation_type": "precedes",
+    "reason": "Eddie assaults Max to enforce compliance occurs during the same scene (scene_149) but before Henry and Joe subdue Eddie, as the sequence of related events shows Eddie's aggression preceding the restraint of Eddie by Henry and Joe.",
+    "source_documents": [
+      "scene_149_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a8b866d2fa40",
+    "subject_id": "ep_14932e1e938be529",
+    "object_id": "ep_fc259947360cd40d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Pack the cash and anticipate fallout' involves Eddie, Joe, and Max loading duffel bags with cash and Joe expressing concern about Deb's reaction, which occurs in scene_147. The object episode 'Eddie asserts control with a gun' begins after the money is lined up and involves Eddie pointing a gun at Max and Joe in scene_149. The sequence of scenes (147 before 149) and the temporal marker 'after the money is lined up' in the object episode's description indicate that the subject episode occurs earlier than the object episode in the narrative order.",
+    "source_documents": [
+      "scene_147_part_1",
+      "scene_149_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a5709205efda",
+    "subject_id": "ep_fc259947360cd40d",
+    "object_id": "ep_b0e418ba59cffd6a",
+    "relation_type": "precedes",
+    "reason": "Eddie asserting control with a gun (pointing it at Max and Joe and ordering Joe to move the money) occurs immediately before Max confronts Eddie and resists coercion (stepping in front of the gun and verbally challenging Eddie), as both episodes are grounded in scene_149 and the sequence of events shows the gun being drawn and commands issued prior to Max's confrontation and physical resistance.",
+    "source_documents": [
+      "scene_149_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a9a2becc964d",
+    "subject_id": "ep_2d6225984f65067c",
+    "object_id": "ep_fc259947360cd40d",
+    "relation_type": "contrasts_with",
+    "reason": "The episode 'Max mocks and silences Eddie' depicts a reversal of power where Eddie, previously dominant, is now restrained and silenced, directly contrasting with the earlier episode 'Eddie asserts control with a gun' where he uses a weapon to dominate Max and Joe. The descriptions explicitly frame the first as a symbolic reversal of the power dynamic established in the second.",
+    "source_documents": [
+      "scene_149_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8b85a540176f",
+    "subject_id": "ep_f9d59c52473db066",
+    "object_id": "ep_443350f4a429ae26",
+    "relation_type": "causes",
+    "reason": "Julie's definitive statement and demand for Henry to leave (in 'Confirm the relationship's end') directly triggers Henry's stunned, motionless reaction (in 'React to the final breakup'), as described in the causal sequence of events within the same scene.",
+    "source_documents": [
+      "scene_101_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2dd86c22374d",
+    "subject_id": "ep_21c77ce5a58aa6f4",
+    "object_id": "ep_898d103d6a74a9a0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Henry about emotional immaturity' occurs immediately before 'Demand Darek experience love' during the same dress rehearsal scene, as indicated by the descriptions stating that the latter happens 'immediately after' the former. This establishes a clear local narrative order.",
+    "source_documents": [
+      "scene_105_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_761c594cf638",
+    "subject_id": "ep_0b7008f9ba5a367e",
+    "object_id": "ep_21c77ce5a58aa6f4",
+    "relation_type": "precedes",
+    "reason": "The description of ep_21c77ce5a58aa6f4 explicitly states that Madame Ranevskaya's confrontation with Henry 'directly follows her earlier confrontation with Trofimov,' indicating a clear temporal sequence where the subject episode occurs before the object episode.",
+    "source_documents": [
+      "scene_105_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d933e643809e",
+    "subject_id": "ep_54623f7e361f1fa8",
+    "object_id": "ep_f8e4a15ad122f8f2",
+    "relation_type": "contrasts_with",
+    "reason": "The armored bank truck arrival introduces a visual element that explicitly contrasts with the nursery setting, as stated in the description of ep_54623f7e361f1fa8, which notes the contrast in tone, location, or narrative tension between the two episodes.",
+    "source_documents": [
+      "scene_119_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ebc9b4306599",
+    "subject_id": "ep_7a096a81e748a14d",
+    "object_id": "ep_64502d7828170605",
+    "relation_type": "precedes",
+    "reason": "Darek's entrance and thematic speech establishes a serious tone that is later lightened by Gayev's humor and Simon's countdown, with both episodes occurring in the same occasion (Rehearsal Gathering In The Green Room) and the shift from Darek's gravity to Gayev's levity indicating a temporal progression from setting the tone to releasing tension before the performance.",
+    "source_documents": [
+      "scene_115_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d9b42714d30d",
+    "subject_id": "ep_a8d9fba1fadf08bd",
+    "object_id": "ep_3d257597a518651a",
+    "relation_type": "precedes",
+    "reason": "Henry's entrance and disruption of the standoff (ep_a8d9fba1fadf08bd) introduces Henry into the scene and shifts the dynamics, immediately preceding Joe and Max's coordinated attack on Eddie (ep_3d257597a518651a), which escalates the physical confrontation. The sequence of related events in the same scene (scene_149) supports a local narrative order where the interruption comes before the counterattack.",
+    "source_documents": [
+      "scene_149_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_10298bf32020",
+    "subject_id": "ep_5d57584420f90a44",
+    "object_id": "ep_7a096a81e748a14d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Establish tension and separation among cast' occurs as the cast members are nervously chatting and avoiding each other in the green room, which is immediately followed by the object episode where Darek enters and commands attention, indicating a clear temporal sequence supported by the shared occasion 'Rehearsal Gathering In The Green Room (scene_115)' and the narrative flow from initial tension to Darek's intervention.",
+    "source_documents": [
+      "scene_115_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_78f1624effc5",
+    "subject_id": "ep_0cbf346c2e6d3e11",
+    "object_id": "ep_d07c27c6bd6b7ea1",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Observe and assess ongoing excavation progress' occurs after Henry arrives and observes Max and Joe's work, which is described in the object episode as having taken place over hours prior to his arrival. The object episode establishes the ongoing effort preceding Henry's arrival, indicating it happens earlier in the narrative sequence. Thus, the object episode precedes the subject episode, supporting the relation in reverse direction; however, since 'precedes' is directed and the subject is earlier in discourse, the correct application is subject precedes object only if subject occurs first. Here, the object episode (sustained effort) occurs before the subject (observation upon arrival), so the relation should be object precedes subject. But since we must assign relation from subject to object, and subject does not precede object, the relation cannot be justified in the forward direction. Therefore, no valid directed relation is supported from subject to object. After re-evaluation: the description of ep_0cbf346c2e6d3e11 states it captures Henry's assessment 'upon arrival', while ep_d07c27c6bd6b7ea1 describes labor that occurred 'for hours' before. This clearly supports that the object episode happens before the subject episode, meaning the subject episode does not precede the object — rather, the reverse. Since 'precedes' must be directed and the subject does not occur before the object, the relation 'precedes' cannot be applied from subject to object. No other relation type is supported: there is no causal link stated, no contrast in tone or outcome, and no elaboration. Hence, despite temporal ordering, the directionality constraint prevents valid 'precedes' assignment from subject to object. Final decision: NONE.",
+    "source_documents": [
+      "scene_106_part_1",
+      "scene_112_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_20b65e1a6ebf",
+    "subject_id": "ep_78b6eb717c65cbe1",
+    "object_id": "ep_c4e35cd868deb3cf",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Ascend pole and prepare for intervention' involves Max climbing the pole and retrieving a wire cutter, which logically and chronologically precedes the object episode 'Activate the bypass and initiate data retrieval', where Max attaches the bypass device and data flow begins. The preparation with the wire cutter must occur before the bypass can be activated, indicating a clear narrative sequence.",
+    "source_documents": [
+      "scene_124_part_1",
+      "scene_132_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bbee509209c2",
+    "subject_id": "ep_5d57584420f90a44",
+    "object_id": "ep_808072ef5203ddbf",
+    "relation_type": "precedes",
+    "reason": "The first episode describes the cast's nervous interactions and tension in the green room before Darek's departure, while the second episode begins with Darek exiting after a speech, followed by applause. Both episodes occur in the same occasion (Rehearsal Gathering In The Green Room, scene_115), and the sequence of events—tension preceding Darek's exit and the subsequent positive reaction—indicates a clear temporal order where the establishment of tension occurs before the collective affirmation.",
+    "source_documents": [
+      "scene_115_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_af6479ad7d05",
+    "subject_id": "ep_504e624ed472f930",
+    "object_id": "ep_21c77ce5a58aa6f4",
+    "relation_type": "precedes",
+    "reason": "The description of ep_504e624ed472f930 states it is part of a 'tightly coupled causal sequence' during the dress rehearsal, and the description of ep_21c77ce5a58aa6f4 notes it 'directly follows her earlier confrontation with Trofimov', which is the subject episode. This establishes a clear narrative order where the confrontation with Trofimov (object episode) precedes the confrontation with Henry (subject episode).",
+    "source_documents": [
+      "scene_105_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d89c2aa52bd7",
+    "subject_id": "ep_5d57584420f90a44",
+    "object_id": "ep_64502d7828170605",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Establish tension and separation among cast' occurs first, as it describes the initial nervous atmosphere and avoidance between Henry and Julie in the green room. The object episode 'Break tension and signal final countdown' follows, as Gayev's humorous line releases the established tension and Simon's announcement marks a transition to the performance, both occurring in the same scene (scene_115) and occasion. The narrative progression from building tension to releasing it and moving toward action implies a clear temporal sequence.",
+    "source_documents": [
+      "scene_115_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1e5f31f08851",
+    "subject_id": "ep_64502d7828170605",
+    "object_id": "ep_808072ef5203ddbf",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Break tension and signal final countdown' includes Simon announcing ten minutes until performance, which marks a step in the pre-performance timeline. The object episode 'Respond to Darek's departure with collective affirmation' occurs after Darek exits following his speech, which logically follows the earlier moment of tension-breaking and countdown signaling. Both episodes occur in the same occasion (Rehearsal Gathering In The Green Room, scene_115), and the sequence of events implies a narrative order where lightening the mood and announcing the countdown precedes the response to Darek's departure.",
+    "source_documents": [
+      "scene_115_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_342ba2b91f92",
+    "subject_id": "ep_16283c8310515b02",
+    "object_id": "ep_3754cba35534245c",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Max preparing for the event start, including checking his watch which shows two minutes to eight, indicating the event has not yet begun. The second episode occurs after Max arrives late and Julie notes the play has already started, implying a later time. Thus, the first episode precedes the second in narrative order based on temporal evidence in the related events.",
+    "source_documents": [
+      "scene_117_part_1",
+      "scene_138_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_de2751c2daab",
+    "subject_id": "ep_4306daaf3914c1f2",
+    "object_id": "ep_798b8e166d238440",
+    "relation_type": "precedes",
+    "reason": "The rejection of Henry by Julie (ep_4306daaf3914c1f2) occurs in doc_115, while Henry joining the dig with emotional intensity (ep_798b8e166d238440) occurs in doc_111. Given that doc_111 precedes doc_115 in narrative order (as inferred from scene numbers: scene_112 in doc_111 precedes scene_116 in doc_115), the object episode occurs earlier than the subject episode. Therefore, the subject episode follows the object episode, meaning the object precedes the subject. Since 'precedes' is directed, the correct direction is object -> subject, but the subject is listed first per input order. However, based on standard narrative chronology, ep_798b8e166d238440 precedes ep_4306daaf3914c1f2. Thus, the relation 'precedes' is supported with strong but slightly indirect evidence due to cross-document scene numbering.",
+    "source_documents": [
+      "scene_116_part_1",
+      "scene_112_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3ab5fc47a962",
+    "subject_id": "ep_2fab3581399319e2",
+    "object_id": "ep_c4e35cd868deb3cf",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate the operation' involves Max arriving and urging Joe and Eddie to begin their tasks, establishing the start of the operation. The object episode 'Activate the bypass and initiate data retrieval' involves Max performing a specific technical action that initiates data flow. Given that the initiation of the operation logically precedes the execution of a specific technical task within that operation, and considering the narrative sequence implied by the urgency and command structure in the first episode, it is strongly supported that the initiation episode occurs before the bypass activation.",
+    "source_documents": [
+      "scene_140_part_1",
+      "scene_132_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2e305b37e69a",
+    "subject_id": "ep_c4e35cd868deb3cf",
+    "object_id": "ep_189624b0182fd2e3",
+    "relation_type": "precedes",
+    "reason": "The activation of the bypass and initiation of data retrieval (ep_c4e35cd868deb3cf) involves Max attaching the device and numbers beginning to appear on the display. This must occur before the confirmation of system success and Max's relief (ep_189624b0182fd2e3), which depends on observing matching numbers and the red light turning green—outcomes that follow from the initiation of the data flow. The narrative order and dependency support a clear preceding relation.",
+    "source_documents": [
+      "scene_134_part_1",
+      "scene_132_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_17e20f5d76d8",
+    "subject_id": "ep_16283c8310515b02",
+    "object_id": "ep_2fab3581399319e2",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Max preparing for the start of an event by assisting attendees and checking the time, which occurs just before eight. The second episode involves Max arriving to initiate an operation with urgency, suggesting a transition from event setup to operational execution. The temporal cues (e.g., 'two minutes to eight') and the shift from public preparation to covert action imply a narrative sequence where preparation precedes initiation, supporting a 'precedes' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_117_part_1",
+      "scene_140_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_08b2fc48820d",
+    "subject_id": "ep_5c9671e01e8d0b4a",
+    "object_id": "ep_d77302bcfd4c9a4b",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'React to message and lose tool' involves Max dropping the wire cutter from the pole, which must occur before the object episode 'Retrieve tools and prepare for ascent' where he retrieves the same tool from the ground. The sequence is supported by the related events and physical logic in the descriptions.",
+    "source_documents": [
+      "scene_124_part_1",
+      "scene_127_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e2dd839e8108",
+    "subject_id": "ep_78b6eb717c65cbe1",
+    "object_id": "ep_279971eb8920c609",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ascend pole and prepare for intervention' involves Max climbing the pole and retrieving the wire cutter, which directly precedes the episode 'Locate and cut the critical wire' where he identifies and cuts the wire. The related events in both episodes are ordered sequentially in the scene numbers (scene_124 before scene_127), supporting a clear temporal precedence.",
+    "source_documents": [
+      "scene_127_part_1",
+      "scene_124_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c584520dc285",
+    "subject_id": "ep_d77302bcfd4c9a4b",
+    "object_id": "ep_78b6eb717c65cbe1",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Retrieve tools and prepare for ascent' involves Max retrieving wire cutters from the ground and checking his watch, which sets the stage for the subsequent climb. The object episode 'Ascend pole and prepare for intervention' begins with Max climbing the pole and using the wire cutter, which logically follows after retrieving the tools. The sequence of actions is supported by the related events and the narrative flow in the descriptions, indicating a clear temporal order.",
+    "source_documents": [
+      "scene_124_part_1",
+      "scene_127_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a53243c6bf28",
+    "subject_id": "ep_d77302bcfd4c9a4b",
+    "object_id": "ep_c750849999c5f650",
+    "relation_type": "precedes",
+    "reason": "The episode 'Retrieve tools and prepare for ascent' involves Max retrieving wire cutters and checking his watch with urgency, which sets up the physical climb described in 'Ascend the utility pole under pressure'. The preparation actions logically and temporally precede the ascent, with both episodes occurring in the same scene and forming a coherent sequence toward the goal of accessing the wires.",
+    "source_documents": [
+      "scene_127_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0df61d818427",
+    "subject_id": "ep_d77302bcfd4c9a4b",
+    "object_id": "ep_279971eb8920c609",
+    "relation_type": "precedes",
+    "reason": "The episode 'Retrieve tools and prepare for ascent' involves Max retrieving the wire cutters and checking his watch, which sets up the physical climb and immediate context for the subsequent wire-cutting action. The episode 'Locate and cut the critical wire' occurs at the top of the pole and represents the climax of the task initiated in the first episode. The narrative sequence is supported by the shared scene (scene_127) and the logical progression from preparation to execution, indicating a clear temporal order.",
+    "source_documents": [
+      "scene_127_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6102891c2d64",
+    "subject_id": "ep_2fab3581399319e2",
+    "object_id": "ep_c750849999c5f650",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate the operation' involves Max arriving and urging Joe and Eddie to begin, establishing the start of the operation. The object episode 'Ascend the utility pole under pressure' involves Max climbing the pole, which is a specific action that follows the initiation. The narrative flow implies a temporal sequence where the operation is launched before Max begins the physical ascent, supporting a 'precedes' relation from initiation to ascent.",
+    "source_documents": [
+      "scene_140_part_1",
+      "scene_127_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2f22cee4c708",
+    "subject_id": "ep_1a6fe8acfc952f46",
+    "object_id": "ep_1fdfbb70cfc419b8",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Discuss Julie's rejection and life's costs' occurs in doc_102 and is followed by the object episode 'Suppress Joe's drunken interference' in doc_103, with the latter beginning after the arrival of Joe and Eddie, indicating a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_103_part_1",
+      "scene_104_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7ec7671f5406",
+    "subject_id": "ep_2fab3581399319e2",
+    "object_id": "ep_279971eb8920c609",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate the operation' describes Max arriving and urging Joe and Eddie to begin their tasks, establishing the start of the operation. The episode 'Locate and cut the critical wire' occurs at the top of the pole and represents a later, decisive action that resolves the immediate crisis. The narrative sequence implied by the initiation of the operation followed by a high-stakes resolution action supports a clear temporal order where initiation precedes the critical wire-cutting.",
+    "source_documents": [
+      "scene_127_part_1",
+      "scene_140_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_142e2119369f",
+    "subject_id": "ep_2e66b6c857c308ef",
+    "object_id": "ep_48e390d7ba8dd7fa",
+    "relation_type": "precedes",
+    "reason": "The subject episode, where Max declares his intent to kill Eddie and is stopped by Henry and Joe, occurs before the object episode, where Eddie physically assaults Max in response to defiance. The escalation from verbal threat to physical retaliation suggests a temporal progression in the confrontation, with Eddie's assault serving as a reaction to ongoing defiance, implying the subject episode precedes the object episode in narrative order.",
+    "source_documents": [
+      "scene_104_part_1",
+      "scene_149_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3184df42ae38",
+    "subject_id": "ep_5c9671e01e8d0b4a",
+    "object_id": "ep_279971eb8920c609",
+    "relation_type": "precedes",
+    "reason": "The episode 'React to message and lose tool' involves Max dropping the wire cutter after receiving a text message, which creates a setback. The episode 'Locate and cut the critical wire' describes Max successfully cutting the wire, implying resolution of the crisis. Given that losing the tool would necessitate a delay or recovery before the wire can be cut, and considering the narrative flow of setbacks followed by resolution, 'React to message and lose tool' logically precedes 'Locate and cut the critical wire'. The related events in both episodes occur in different scenes (scene_124 vs scene_127), supporting a chronological order.",
+    "source_documents": [
+      "scene_127_part_1",
+      "scene_124_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_45293fd3097b",
+    "subject_id": "ep_2e66b6c857c308ef",
+    "object_id": "ep_2d6225984f65067c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Max's impulse to kill Eddie' involves Max threatening Eddie with a knife and others intervening, which logically precedes the act of gaging Eddie in 'Max mocks and silences Eddie' as part of subduing and asserting control over him. The gagging implies a resolution of the earlier tension around whether to kill Eddie, suggesting a narrative sequence where the confrontation occurs first.",
+    "source_documents": [
+      "scene_149_part_1",
+      "scene_104_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4385ea25fb52",
+    "subject_id": "ep_2e66b6c857c308ef",
+    "object_id": "ep_2fab3581399319e2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Max's impulse to kill Eddie' involves Max threatening Eddie with a knife and being restrained by Henry and Joe, which establishes interpersonal tension prior to the operational start. The episode 'Initiate the operation' begins with Max arriving and urging the team into action, suggesting a chronological progression from conflict resolution to task execution. The narrative flow implies the confrontation precedes the initiation of the operation, as the group transitions from internal conflict to coordinated action.",
+    "source_documents": [
+      "scene_104_part_1",
+      "scene_140_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2ed26b443762",
+    "subject_id": "ep_595ca27d2ca5e760",
+    "object_id": "ep_3d257597a518651a",
+    "relation_type": "precedes",
+    "reason": "Max's plea for Joe to leave occurs before the physical confrontation between Joe, Max, and Eddie, as the shift from attempted de-escalation to violent struggle indicates a temporal progression where the warning precedes the fight.",
+    "source_documents": [
+      "scene_149_part_1",
+      "scene_104_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b4a64a8ad01f",
+    "subject_id": "ep_2e66b6c857c308ef",
+    "object_id": "ep_3d257597a518651a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Confront Max's impulse to kill Eddie' involves Max declaring his intent to kill Eddie, which is interrupted by Henry and Joe. The object episode 'Joe and Max fight back against Eddie' occurs later, showing Joe and Max actively attacking Eddie in a coordinated struggle. The shift from Max being restrained from killing Eddie to then participating in a physical fight against him indicates a progression in narrative order, with the confrontation preceding the joint attack.",
+    "source_documents": [
+      "scene_104_part_1",
+      "scene_149_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0fffd71b88c3",
+    "subject_id": "ep_1fdfbb70cfc419b8",
+    "object_id": "ep_2d6225984f65067c",
+    "relation_type": "contrasts_with",
+    "reason": "Both episodes depict Max silencing a character (Joe and Eddie) in moments of tension, but the contexts differ: Joe is a peer whose drunken outburst is suppressed in a moment of personal crisis, while Eddie is an antagonist who is physically restrained and mocked, symbolizing a power reversal. The parallel structure of silencing someone highlights a contrast in Max's relationships and power dynamics in each episode.",
+    "source_documents": [
+      "scene_104_part_1",
+      "scene_149_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8adfdf0a4e3e",
+    "subject_id": "ep_2fab3581399319e2",
+    "object_id": "ep_81d2a11b714e706d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate the operation' involves Max arriving and urging Joe and Eddie to begin their tasks, which sets the stage for subsequent actions. The object episode 'Discover the steel vault and react to its presence' occurs in a later scene (scene_142) and involves Henry entering the tunnel where Joe and Max are already present, indicating a later point in the narrative sequence. Scene numbers (140 vs 142) and the progression from initiating action to discovering the vault support a clear temporal order.",
+    "source_documents": [
+      "scene_140_part_1",
+      "scene_142_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1f4db035f4d8",
+    "subject_id": "ep_2e66b6c857c308ef",
+    "object_id": "ep_b0e418ba59cffd6a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Max's impulse to kill Eddie' involves Max declaring his intent to kill Eddie, which is interrupted by Henry and Joe. The episode 'Max confronts Eddie and resists coercion' depicts a subsequent physical and verbal confrontation where Max actively resists Eddie's authority under threat of a gun. The shift from Max being the potential aggressor to standing against Eddie's violence indicates a progression in narrative sequence, with the former setting up tension that resolves into the latter's direct confrontation. This local narrative order supports a 'precedes' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_104_part_1",
+      "scene_149_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_71dac173e665",
+    "subject_id": "ep_2fab3581399319e2",
+    "object_id": "ep_6a9cdfc6f8156400",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate the operation' involves Max urging Joe and Eddie to begin their tasks, establishing the start of the operation. The object episode 'Joe's digging triggers vault discovery' describes a subsequent breakthrough during tunneling, which logically follows the initiation of the operation. The related events in both episodes suggest a temporal sequence where the operation begins before the vault is discovered, with no indication of reversal or overlap.",
+    "source_documents": [
+      "scene_140_part_1",
+      "scene_112_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_242724a268d7",
+    "subject_id": "ep_48e390d7ba8dd7fa",
+    "object_id": "ep_595ca27d2ca5e760",
+    "relation_type": "precedes",
+    "reason": "Eddie's assault on Max (ep_48e390d7ba8dd7fa) escalates the violence in the scene, which plausibly sets the immediate context for Max's subsequent plea to Joe to leave before things get worse (ep_595ca27d2ca5e760). The shift from physical retaliation to a desperate warning suggests a temporal progression where the assault precedes the urge to leave, based on the narrative escalation described.",
+    "source_documents": [
+      "scene_149_part_1",
+      "scene_104_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b6fce10a3d41",
+    "subject_id": "ep_64502d7828170605",
+    "object_id": "ep_c130977cdc75b686",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Break tension and signal final countdown' includes Simon announcing ten minutes until performance, which marks a shift to practical readiness. The object episode 'Inspire cast through vision of the future' involves Darek's concluding speech that instills resolve. Both occur in the same occasion (Rehearsal Gathering In The Green Room, scene_115), and the description of Simon's call for ten minutes implies a temporal progression toward the performance, suggesting it follows Darek's speech. However, the description of the subject episode states it 'immediately followed by Simon’s call for ten minutes', and Darek's speech is described as concluding with a declaration, implying the speech (and thus the object episode) occurs first. Therefore, the object episode precedes the subject episode. Given the directed nature of 'precedes', and to maintain correct directionality, the relation is reversed: ep_c130977cdc75b686 precedes ep_64502d7828170605. But since the subject is fixed as ep_64502d7828170605 and object as ep_c130977cdc75b686, the correct relation from subject to object is not 'precedes'. Re-evaluating: if Darek's speech comes first, then the subject (Gayev/Simon episode) comes after, so subject does not precede object. Thus, no directed 'precedes' from subject to object. No causal, contrast, or elaboration link is explicitly supported. Therefore, despite temporal proximity, direction cannot be confidently established from subject to object. Final decision: NONE.",
+    "source_documents": [
+      "scene_115_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d7b8dce7d3cf",
+    "subject_id": "ep_941d1e30f73a2e81",
+    "object_id": "ep_b0e418ba59cffd6a",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Max confronting Eddie about his presence and motives in a verbal exchange centered on Joe's chair and shared history, while the second episode depicts a physical escalation where Eddie uses a gun and violence against Max. The progression from verbal confrontation to physical coercion suggests a temporal sequence where the initial challenge precedes the more intense confrontation, supported by the increasing intensity of conflict in the described events.",
+    "source_documents": [
+      "scene_103_part_1",
+      "scene_149_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6ac6a6ee7f2b",
+    "subject_id": "ep_a1c9728ab416a661",
+    "object_id": "ep_b31bb7c12881bf0d",
+    "relation_type": "precedes",
+    "reason": "The emotional confrontation between Henry and Julie occurs in scene_101, and Henry's departure in the cold is described in scene_102, indicating a direct narrative sequence where the confrontation precedes the departure.",
+    "source_documents": [
+      "scene_101_part_1",
+      "scene_102_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fe7095617c20",
+    "subject_id": "ep_c1b4966ff22e0493",
+    "object_id": "ep_ce9f41a119a986dd",
+    "relation_type": "precedes",
+    "reason": "The episode 'Monitor the street and check the time' involves Frank observing the street and checking his watch, indicating anticipation, which plausibly occurs before he confronts the group in 'Frank confronts the group with surveillance claims'. The narrative logic and temporal progression from vigilance to action support a 'precedes' relation, with Frank's observation serving as a setup to his later confrontation.",
+    "source_documents": [
+      "scene_118_part_1",
+      "scene_107_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_906d0f89ac84",
+    "subject_id": "ep_24ddf1f5a7dca3e4",
+    "object_id": "ep_4dc81129406d2065",
+    "relation_type": "precedes",
+    "reason": "Frank's disclosure of his personal loss and final opportunity (including his retirement and the upcoming money transfer) occurs in doc_107, while the retirement gift presentation happens in doc_135, indicating a narrative sequence where the former precedes the latter. The mention of retirement in the first episode sets up the context for the gift-giving in the second.",
+    "source_documents": [
+      "scene_108_part_1",
+      "scene_136_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e35d27a06506",
+    "subject_id": "ep_941d1e30f73a2e81",
+    "object_id": "ep_48e390d7ba8dd7fa",
+    "relation_type": "precedes",
+    "reason": "The confrontation where Max challenges Eddie and Henry questions his motives (ep_941d1e30f73a2e81) occurs in scene_103, while Eddie's physical assault on Max (ep_48e390d7ba8dd7fa) occurs in scene_149, indicating a clear narrative sequence where the challenge precedes the violent retaliation.",
+    "source_documents": [
+      "scene_149_part_1",
+      "scene_103_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_931c3778100e",
+    "subject_id": "ep_941d1e30f73a2e81",
+    "object_id": "ep_3d257597a518651a",
+    "relation_type": "precedes",
+    "reason": "The confrontation where Max and Henry challenge Eddie's motives (ep_941d1e30f73a2e81) sets up the conflict, after which Joe and Max physically fight back against Eddie (ep_3d257597a518651a), indicating a clear temporal sequence supported by the narrative progression from verbal challenge to physical struggle.",
+    "source_documents": [
+      "scene_149_part_1",
+      "scene_103_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_465d19a2f12b",
+    "subject_id": "ep_99e006050528b8ca",
+    "object_id": "ep_e0911c7267c37948",
+    "relation_type": "precedes",
+    "reason": "The episode 'Frank proposes the heist and establishes credibility' involves Frank initiating the heist plan and asserting his commitment, which logically and narratively precedes the later episode 'Receive acknowledgment from inside the bank', where Frank acknowledges Bernie's signal during the ongoing operation. The latter episode reflects an active phase of the heist, implying the plan has already been set in motion after the proposal.",
+    "source_documents": [
+      "scene_108_part_1",
+      "scene_120_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6f28475afe25",
+    "subject_id": "ep_4306daaf3914c1f2",
+    "object_id": "ep_b31bb7c12881bf0d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Henry makes an emotional appeal and is rejected' ends with Henry leaving Julie's apartment, which directly precedes the object episode 'Henry departs in the cold' that begins with him walking in freezing weather after exiting the building. The related events and descriptions establish a clear narrative sequence where the rejection occurs first, followed by his physical departure in the cold.",
+    "source_documents": [
+      "scene_116_part_1",
+      "scene_102_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_516173b9ee76",
+    "subject_id": "ep_845898686c7700f8",
+    "object_id": "ep_189a59f2f80a513c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Frank demands inclusion and proposes relocation' involves Frank asserting his involvement and moving the conversation to a private setting, which sets the stage for the subsequent episode where roles are assigned to finalize the plan. The transition from demanding inclusion to assigning roles indicates a narrative progression where planning follows successful inclusion, supporting a 'precedes' relation from the demand to the role assignment.",
+    "source_documents": [
+      "scene_108_part_1",
+      "scene_107_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d7ef26a97e53",
+    "subject_id": "ep_845898686c7700f8",
+    "object_id": "ep_99e006050528b8ca",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Frank demands inclusion and proposes relocation, occurs in doc_id 'doc_106' and involves scene_107, while the object episode, in which Frank proposes the heist and establishes credibility, occurs in doc_id 'doc_107' and involves scene_108. The sequential scene numbering and document order indicate that the demand and relocation proposal precede the heist proposal and credibility establishment.",
+    "source_documents": [
+      "scene_107_part_1",
+      "scene_108_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_918f779cb646",
+    "subject_id": "ep_08b713dbaaed837b",
+    "object_id": "ep_9be0ee728d3b47a1",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Observe Julie's performance and exchange reactions' occurs during scene_125, while the object episode 'Initiate private confrontation with Julie' takes place during scene_105. Although scene_105 is numerically earlier than scene_125, the description of the object episode states that Henry observes the dress rehearsal (scene_105), and the subject episode involves Julie performing on stage with Henry and Simon watching, which aligns with a later performance context. However, given that 'dress rehearsal' typically precedes a main performance, and the object episode's events (Henry waiting post-rehearsal) plausibly lead into the subject episode (a later performance), the narrative order suggests the confrontation precedes the observed performance. But due to conflicting scene numbering and lack of explicit temporal markers, the more strongly supported interpretation is that observing the performance (ep_08b713dbaaed837b) follows the dress rehearsal confrontation (ep_9be0ee728d3b47a1). Thus, ep_9be0ee728d3b47a1 precedes ep_08b713dbaaed837b. However, since the subject is ep_08b713dbaaed837b and the object is ep_9be0ee728d3b47a1, and the relation must be directed, the correct output is 'precedes' only if subject -> object is earlier. Given the confusion, re-evaluation: scene_105 (dress rehearsal) happens before scene_125 (performance), so ep_9be0ee728d3b47a1 occurs before ep_08b713dbaaed837b. Therefore, the subject (ep_08b713dbaaed837b) does not precede the object (ep_9be0ee728d3b47a1). Thus, no directed relation is clearly supported in the subject->object direction. Given the schema requires directionality and the temporal order contradicts the subject->object precedence, the safest conclusion is that no valid directed relation is supported. After careful review: the subject episode (scene_125) occurs after the object episode (scene_105), so if any precedence exists, it is object -> subject. Since 'precedes' is directed and the subject does not precede the object, the relation cannot be 'precedes' in this direction. No other relation type is supported. Therefore, output 'NONE'.",
+    "source_documents": [
+      "scene_125_part_1",
+      "scene_105_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_58c2146f3d95",
+    "subject_id": "ep_32511243231d4683",
+    "object_id": "ep_08b713dbaaed837b",
+    "relation_type": "precedes",
+    "reason": "The arrival at the theatre and noticing the opening night (ep_32511243231d4683) occurs in scene_109, while observing Julie's performance (ep_08b713dbaaed837b) occurs in scene_125, indicating a clear temporal sequence where the former precedes the latter in narrative order.",
+    "source_documents": [
+      "scene_125_part_1",
+      "scene_109_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_24fcc238123d",
+    "subject_id": "ep_09bd1e1ef8dc64f5",
+    "object_id": "ep_2e66b6c857c308ef",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to the door knock and identify visitors' occurs in doc_102 and involves events in scene_103, while 'Confront Max's impulse to kill Eddie' occurs in doc_103 and involves events in scene_104, indicating a clear narrative sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_103_part_1",
+      "scene_104_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dae53b5c9fd0",
+    "subject_id": "ep_724361b4d6cba621",
+    "object_id": "ep_81d2a11b714e706d",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Henry initiating a plan to enter the VAULT on opening night and urging Julie to join him, which sets up the subsequent discovery of the vault. The object episode depicts Henry and others physically encountering and reacting to the steel vault in the tunnel, indicating that the discovery occurs after the plan has been set in motion. The narrative progression from planning to execution supports a 'precedes' relation with high confidence.",
+    "source_documents": [
+      "scene_116_part_1",
+      "scene_142_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8a3da9f0486d",
+    "subject_id": "ep_4faf9e74177da3d3",
+    "object_id": "ep_f8e4a15ad122f8f2",
+    "relation_type": "precedes",
+    "reason": "The 'Reveal and settle the nursery scene' episode includes events such as Lopakhin and Dunyasha entering the nursery and checking the time, which establish the setting and temporal grounding before Madame Ranevskaya's arrival. The 'Reunite and greet family in the nursery' episode occurs after the scene is set and characters are in place, with Madame Ranevskaya entering and interacting emotionally. The narrative order and event dependencies indicate that the settling of the scene precedes the reunion and greeting.",
+    "source_documents": [
+      "scene_122_part_1",
+      "scene_119_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_847fdb0431f5",
+    "subject_id": "ep_4306daaf3914c1f2",
+    "object_id": "ep_443350f4a429ae26",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Henry makes an emotional appeal and is rejected' includes Henry's departure after being rejected, which directly precedes the object episode where Henry is described as motionless and stunned after Julie's demand. The events in the subject episode set the immediate context for the reaction in the object episode, establishing a clear narrative sequence.",
+    "source_documents": [
+      "scene_116_part_1",
+      "scene_101_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_36aeb99c2bc4",
+    "subject_id": "ep_2e66b6c857c308ef",
+    "object_id": "ep_3773220cad5e576b",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Confront Max's impulse to kill Eddie' involves Max threatening Eddie with a knife and being stopped by Henry and Joe, which sets up the ongoing conflict. The object episode 'Henry and Joe subdue Eddie' occurs afterward, as it describes the physical restraint of Eddie following a struggle, indicating a later stage in the sequence. The narrative progression from verbal confrontation to physical restraint, along with the recovery and action steps in the object episode, supports a clear temporal order where the subject precedes the object.",
+    "source_documents": [
+      "scene_104_part_1",
+      "scene_149_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_75dbfdc158ea",
+    "subject_id": "ep_09bd1e1ef8dc64f5",
+    "object_id": "ep_a8d9fba1fadf08bd",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Henry responding to a door knock and discovering Joe and Eddie, which sets up their initial presence. The second episode depicts Henry interrupting a confrontation where Eddie is already armed, indicating a later point in the narrative sequence. The progression from arrival to an escalated armed standoff implies a clear temporal order supported by the scene descriptions.",
+    "source_documents": [
+      "scene_103_part_1",
+      "scene_149_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_44c32f17ac45",
+    "subject_id": "ep_a8d9fba1fadf08bd",
+    "object_id": "ep_2e66b6c857c308ef",
+    "relation_type": "precedes",
+    "reason": "Henry's entrance and disruption of the standoff (ep_a8d9fba1fadf08bd) occurs before Max declares his intent to kill Eddie (ep_2e66b6c857c308ef), as the former interrupts the confrontation and sets the stage for the latter. The related events in ep_a8d9fba1fadf08bd describe Henry entering and freezing upon seeing Eddie with a gun, which establishes the scene that must precede Max's explicit threat and the subsequent objections. Narrative flow and event sequencing support this temporal order.",
+    "source_documents": [
+      "scene_104_part_1",
+      "scene_149_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5dfd36391f49",
+    "subject_id": "ep_6943626126babcda",
+    "object_id": "ep_754418ada08e072b",
+    "relation_type": "causes",
+    "reason": "The subject episode involves Stan preparing to execute code by pressing Enter, which directly triggers the object episode where pressing Enter attempts to unlock the vault and activates the alarm. The shared action of pressing Enter and the immediate cause-effect structure described in both episodes support a causal relation.",
+    "source_documents": [
+      "scene_131_part_1",
+      "scene_133_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_07b858281bbf",
+    "subject_id": "ep_941d1e30f73a2e81",
+    "object_id": "ep_a8d9fba1fadf08bd",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Max confronting Eddie and Henry questioning his motives, with no mention of Henry's entrance or a gun. The second episode explicitly describes Henry entering and freezing upon seeing Eddie with a gun, indicating a progression in the scene. The armed standoff and interruption described in the second episode logically follow the confrontation in the first, establishing a clear narrative sequence.",
+    "source_documents": [
+      "scene_103_part_1",
+      "scene_149_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ab365769106b",
+    "subject_id": "ep_09bd1e1ef8dc64f5",
+    "object_id": "ep_941d1e30f73a2e81",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Henry responding to the door knock and identifying Joe and Eddie as visitors, which sets the stage for the second episode where Max and Henry confront Eddie's presence and challenge his motives. The sequence of events in the shared scene (scene_103) indicates a clear temporal order: the identification of visitors must occur before the confrontation about Eddie's presence can unfold.",
+    "source_documents": [
+      "scene_103_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4add5d7d05ee",
+    "subject_id": "ep_941d1e30f73a2e81",
+    "object_id": "ep_3773220cad5e576b",
+    "relation_type": "precedes",
+    "reason": "The confrontation with Eddie, where Max and Henry challenge his presence and motives, occurs before the episode in which Henry and Joe subdue Eddie with an extension cord. The events in the first episode (e.g., questioning Eddie's intentions) set up the conflict that culminates in the physical restraint in the second episode, indicating a clear narrative sequence.",
+    "source_documents": [
+      "scene_149_part_1",
+      "scene_103_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f2966ed4f5f7",
+    "subject_id": "ep_9be0ee728d3b47a1",
+    "object_id": "ep_443350f4a429ae26",
+    "relation_type": "precedes",
+    "reason": "The Initiate private confrontation with Julie episode includes a tense exchange where Julie tells Henry she came to her senses and urges him to do the same, which directly sets up the emotional finality of the breakup. The React to the final breakup episode describes Henry's stunned, motionless response immediately after Julie's demand, indicating a clear narrative sequence. The confrontation must occur before Henry can react to the breakup, supporting a 'precedes' relation from confrontation to reaction.",
+    "source_documents": [
+      "scene_101_part_1",
+      "scene_105_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_94163e3064db",
+    "subject_id": "ep_1a6fe8acfc952f46",
+    "object_id": "ep_443350f4a429ae26",
+    "relation_type": "precedes",
+    "reason": "The episode 'Discuss Julie's rejection and life's costs' occurs after the breakup reaction, as it involves Henry and Max reflecting on Julie's rejection in a later scene (doc_102, scene_103), while 'React to the final breakup' depicts Henry's immediate stunned response in an earlier scene (doc_100, scene_101). The narrative order and document IDs support a clear temporal sequence where the reaction precedes the discussion.",
+    "source_documents": [
+      "scene_103_part_1",
+      "scene_101_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_27e8218bf5b4",
+    "subject_id": "ep_30e289309f78a1a9",
+    "object_id": "ep_754418ada08e072b",
+    "relation_type": "causes",
+    "reason": "The subject episode 'Execute vault access protocol' involves Stan entering codes into the vault keypad, which directly precedes and triggers the object episode where Stan's attempt to unlock the vault results in the alarm being activated. The shared action at the keypad and the immediate cause-effect relationship between completing the access protocol and the alarm response provide explicit causal linkage.",
+    "source_documents": [
+      "scene_123_part_1",
+      "scene_133_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c6d03811e7af",
+    "subject_id": "ep_30e289309f78a1a9",
+    "object_id": "ep_51d3fe0f0cbe7105",
+    "relation_type": "precedes",
+    "reason": "The 'Execute vault access protocol' episode involves entering codes and transmitting a message to access the vault (scene_123), which logically precedes the 'Secure the money in the vault' episode where money is deposited and the vault is closed (scene_128). The sequential order of scenes and the goal dependency—access must precede securing—support a directed 'precedes' relation.",
+    "source_documents": [
+      "scene_123_part_1",
+      "scene_128_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2b9607c3496c",
+    "subject_id": "ep_993e04d475e95e84",
+    "object_id": "ep_51d3fe0f0cbe7105",
+    "relation_type": "precedes",
+    "reason": "The coordinated bank approach and initiation of contact (knocking on the door, drawing weapons, opening the truck) logically and temporally precedes the securing of money in the vault, as the former establishes access and communication necessary for the latter. The events in the first episode (scene_120) occur earlier in the document sequence than those in the second episode (scene_128), supporting a clear narrative order.",
+    "source_documents": [
+      "scene_128_part_1",
+      "scene_120_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e00ddb6e8aae",
+    "subject_id": "ep_62a6e14e4a9106b2",
+    "object_id": "ep_c9e5b072e871a3f7",
+    "relation_type": "precedes",
+    "reason": "Eddie's initiation of the thermite burn procedure involves him arriving and preparing to ignite the tool, which leads to his entrance into the tunnel. The group's reaction to 'THE HOLE' occurs after Eddie's entrance, as indicated by the group focusing on the hole revealed by his arrival. Thus, the thermite burn initiation precedes the group's collective reaction to the hole.",
+    "source_documents": [
+      "scene_142_part_1",
+      "scene_144_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_41fcba845266",
+    "subject_id": "ep_c9e5b072e871a3f7",
+    "object_id": "ep_d07c27c6bd6b7ea1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Group reacts to the hole with growing intensity' occurs after the tunneling effort by Max and Joe, as the reaction is prompted by the environment revealed by Eddie's entrance, which follows the foundational digging activity described in 'Max and Joe sustain tunneling effort'. The latter sets the scene for subsequent developments, implying it precedes emotionally charged episodes like the group's reaction.",
+    "source_documents": [
+      "scene_144_part_1",
+      "scene_112_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3edb88a71a3f",
+    "subject_id": "ep_09bd1e1ef8dc64f5",
+    "object_id": "ep_4d9bab3e110656e6",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Joe and Eddie arriving at the door, which sets the stage for subsequent interactions. The second episode involves Joe vomiting and Eddie reacting, which logically follows after their arrival. The narrative sequence implied by the events (arrival then breakdown) supports a 'precedes' relation from the arrival episode to the breakdown episode.",
+    "source_documents": [
+      "scene_103_part_1",
+      "scene_140_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bb3800440e85",
+    "subject_id": "ep_742993e512ee2cab",
+    "object_id": "ep_81d2a11b714e706d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Wait for the old man in the tunnel' involves Joe and Eddie waiting in the tunnel, with no mention of Henry or the steel vault. The object episode 'Discover the steel vault and react to its presence' involves Henry entering the tunnel and finding Joe and Max at the vault, indicating a later point in time. The narrative progression from waiting to discovery, along with the arrival of a new character (Henry) and the presence of the vault, supports a clear temporal sequence where the waiting occurs before the discovery.",
+    "source_documents": [
+      "scene_137_part_1",
+      "scene_142_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8bffe71c68f2",
+    "subject_id": "ep_aa6957e9d1b0d649",
+    "object_id": "ep_c9e5b072e871a3f7",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Begin physical setup of explosives' involves Eddie drilling a hole, which creates the physical condition (the hole) that the group later reacts to in the object episode. The related events show that Joe's preparation and drilling occur in scene_140, while the group's reaction to the hole occurs in scene_144, indicating a clear narrative sequence where the drilling precedes the collective reaction.",
+    "source_documents": [
+      "scene_140_part_1",
+      "scene_144_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_68273da35ab0",
+    "subject_id": "ep_6a9cdfc6f8156400",
+    "object_id": "ep_aa6957e9d1b0d649",
+    "relation_type": "precedes",
+    "reason": "The discovery of the vault (subject episode) occurs immediately before the physical setup of explosives (object episode), as the former reveals the target location and enables the latter task. The related_events in the first episode mark the climax of tunneling, while the second episode begins the next phase of the plan—placing explosives—indicating a clear sequential order in the narrative.",
+    "source_documents": [
+      "scene_112_part_1",
+      "scene_140_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d28e72471167",
+    "subject_id": "ep_81d2a11b714e706d",
+    "object_id": "ep_aa6957e9d1b0d649",
+    "relation_type": "precedes",
+    "reason": "The discovery of the steel vault (ep_81d2a11b714e706d) involves the group reacting to the vault's presence, which logically precedes the physical setup of explosives (ep_aa6957e9d1b0d649) as part of the mission execution. The drilling and charge preparation begin after the vault is located and acknowledged, indicating a sequential narrative order.",
+    "source_documents": [
+      "scene_142_part_1",
+      "scene_140_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e25b5da6e4bc",
+    "subject_id": "ep_09bd1e1ef8dc64f5",
+    "object_id": "ep_c9e5b072e871a3f7",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to the door knock and identify visitors' involves Henry opening the door to Joe and Eddie Vibes, which introduces the characters and sets the scene. The object episode 'Group reacts to the hole with growing intensity' occurs afterward, as the group's focus shifts to 'THE HOLE' following Eddie's entrance. The sequence of related events (door knock in scene_103, group reaction in scene_144) supports a clear temporal order where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_103_part_1",
+      "scene_144_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d56649c58a52",
+    "subject_id": "ep_62a6e14e4a9106b2",
+    "object_id": "ep_9d840eeab09e8401",
+    "relation_type": "causes",
+    "reason": "The thermite burn initiated in the first episode produces molten steel, which directly leads to the structural failure of the vault in the second episode. The description of the second episode notes that the events follow immediately and are driven by Eddie's engagement with the environment initiated in the first episode, indicating a direct causal link.",
+    "source_documents": [
+      "scene_142_part_1",
+      "scene_143_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fcd528149505",
+    "subject_id": "ep_09bd1e1ef8dc64f5",
+    "object_id": "ep_1fdfbb70cfc419b8",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to the door knock and identify visitors' occurs in doc_102 and involves Henry opening the door to Joe and Eddie Vibes, which sets the stage for the subsequent episode in doc_103 where Joe blurts out a personal detail and Max suppresses him. The narrative sequence is supported by the document order and the causal setup in the description, with the intrusion directly leading into Joe's disruptive behavior. Thus, the first episode clearly precedes the second.",
+    "source_documents": [
+      "scene_103_part_1",
+      "scene_104_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_761576689c74",
+    "subject_id": "ep_09bd1e1ef8dc64f5",
+    "object_id": "ep_fc259947360cd40d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to the door knock and identify visitors' occurs early in the narrative when Joe and Eddie arrive, initiating the intrusion. The object episode 'Eddie asserts control with a gun' happens later, after money is lined up and tensions escalate. The sequence of events described in both episodes supports a clear temporal order: the arrival and identification at the door precedes the later assertion of control with a gun.",
+    "source_documents": [
+      "scene_103_part_1",
+      "scene_149_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9a1aa89abbe3",
+    "subject_id": "ep_2d6225984f65067c",
+    "object_id": "ep_a09bb20a6ed917d2",
+    "relation_type": "contrasts_with",
+    "reason": "Max mocking and silencing Eddie reverses the power dynamic established when Eddie revealed himself and asserted control, creating a narrative contrast in dominance and authority between the two episodes.",
+    "source_documents": [
+      "scene_149_part_1",
+      "scene_144_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a46382267d53",
+    "subject_id": "ep_a09bb20a6ed917d2",
+    "object_id": "ep_a8d9fba1fadf08bd",
+    "relation_type": "precedes",
+    "reason": "Eddie's entrance and assertion of control occurs in scene_144, while Henry's disruptive arrival happens in scene_149, indicating a clear narrative sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_144_part_1",
+      "scene_149_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3acc0b359d79",
+    "subject_id": "ep_a09bb20a6ed917d2",
+    "object_id": "ep_fc259947360cd40d",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Eddie's initial appearance and verbal assertion of control without a weapon, while the second episode involves him escalating by revealing a gun and giving direct commands during a money exchange. The progression from non-armed dominance to armed coercion suggests a temporal sequence where the first event sets the stage for the more intense confrontation in the second, supported by the narrative escalation in control tactics.",
+    "source_documents": [
+      "scene_144_part_1",
+      "scene_149_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c21148601154",
+    "subject_id": "ep_4d9bab3e110656e6",
+    "object_id": "ep_b0e418ba59cffd6a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Joe's breakdown' occurs in doc_139 and scene_140, while 'Max confronts Eddie and resists coercion' occurs in doc_148 and scene_149, indicating a clear narrative sequence where the former precedes the latter based on document and scene ordering.",
+    "source_documents": [
+      "scene_140_part_1",
+      "scene_149_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_92ffb30be67b",
+    "subject_id": "ep_a09bb20a6ed917d2",
+    "object_id": "ep_3773220cad5e576b",
+    "relation_type": "precedes",
+    "reason": "Eddie's dramatic entrance and assertion of control (ep_a09bb20a6ed917d2) occurs in scene_144, while Henry and Joe subduing Eddie (ep_3773220cad5e576b) occurs in scene_149, indicating a clear narrative sequence where the former precedes the latter.",
+    "source_documents": [
+      "scene_149_part_1",
+      "scene_144_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4d0d0d5f7b37",
+    "subject_id": "ep_a09bb20a6ed917d2",
+    "object_id": "ep_3d257597a518651a",
+    "relation_type": "precedes",
+    "reason": "Eddie's reveal and assertion of control (ep_a09bb20a6ed917d2) establishes his dominance in the scene, which is then directly challenged by Joe and Max fighting back (ep_3d257597a518651a). The struggle described in the second episode logically follows the establishment of control in the first, indicating a clear temporal sequence supported by the narrative flow.",
+    "source_documents": [
+      "scene_149_part_1",
+      "scene_144_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_55dbcb4e2036",
+    "subject_id": "ep_a09bb20a6ed917d2",
+    "object_id": "ep_b0e418ba59cffd6a",
+    "relation_type": "precedes",
+    "reason": "Eddie's dramatic entrance and assertion of control (ep_a09bb20a6ed917d2) sets the scene and establishes his dominance, which is immediately followed by Max's confrontation and resistance (ep_b0e418ba59cffd6a) in direct response to Eddie's presence and actions. The sequence of events in the descriptions and related scenes (scene_144 before scene_149) supports a clear narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_144_part_1",
+      "scene_149_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0ecb0c362d0d",
+    "subject_id": "ep_2fab3581399319e2",
+    "object_id": "ep_fc259947360cd40d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate the operation' involves Max arriving and prompting Joe and Eddie to begin their tasks, establishing the start of the operation. The object episode 'Eddie asserts control with a gun' occurs after the money is lined up, which logically follows the initiation of the operation. The sequence of events implies a temporal order where the operation must begin before the money is handled and Eddie's betrayal unfolds, supporting a 'precedes' relation from the initiation to the assertion of control.",
+    "source_documents": [
+      "scene_140_part_1",
+      "scene_149_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_af677c34c563",
+    "subject_id": "ep_3b7aaa78937e1d90",
+    "object_id": "ep_aacfbbdcede156f9",
+    "relation_type": "contrasts_with",
+    "reason": "Both episodes highlight a recurring conflict between sentimentality/compassion and practicality: in the first, Madame Ranevskaya rejects a financial solution due to emotional attachment; in the second, she gives away money despite criticism for imprudence. The juxtaposition emphasizes her consistent character trait of prioritizing emotion over practicality, creating a thematic contrast with those advocating rational decisions.",
+    "source_documents": [
+      "scene_141_part_1",
+      "scene_150_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4fe63b0c0661",
+    "subject_id": "ep_3b7aaa78937e1d90",
+    "object_id": "ep_504e624ed472f930",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode centers on Madame Ranevskaya's resistance to practical financial solutions due to sentimental attachment, while the second episode shows her emotional rejection of a direct accusation of financial betrayal. These episodes are juxtaposed in tone and response—sentimental resistance to advice versus emotional denial of truth—highlighting a recurring pattern of avoidance, thus forming a contrast in how financial crisis is confronted.",
+    "source_documents": [
+      "scene_141_part_1",
+      "scene_105_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e64ccee2cdfa",
+    "subject_id": "ep_a09bb20a6ed917d2",
+    "object_id": "ep_c9e5b072e871a3f7",
+    "relation_type": "precedes",
+    "reason": "Eddie's entrance and assertion of control (removing hood, defiant greeting) immediately sets the scene, after which the group's attention shifts to the hole and Joe reacts, indicating a sequential narrative flow where the revelation precedes the group's focused reaction.",
+    "source_documents": [
+      "scene_144_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b3573b8184d0",
+    "subject_id": "ep_4306daaf3914c1f2",
+    "object_id": "ep_f9d59c52473db066",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Confirm the relationship's end' provides a definitive statement by Julie about the relationship's failure and her demand for Henry to leave, which is referenced and expanded upon in 'Henry makes an emotional appeal and is rejected' where Julie reiterates the relationship's insignificance and accuses Henry of theft. The second episode elaborates on the emotional and narrative consequences of the first, adding detail to Julie's rejection and Henry's response.",
+    "source_documents": [
+      "scene_116_part_1",
+      "scene_101_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_27712484a1cf",
+    "subject_id": "ep_993e04d475e95e84",
+    "object_id": "ep_e0911c7267c37948",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Execute coordinated bank approach and initiate contact' includes Bernie knocking on the glass door to greet Frank, which directly precedes Frank's response in the object episode 'Receive acknowledgment from inside the bank', where Frank smiles and makes a teeth-sucking gesture. The sequence of events is explicitly ordered in the same scene (scene_120), with the greeting occurring before the acknowledgment.",
+    "source_documents": [
+      "scene_120_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d2b70e65016d",
+    "subject_id": "ep_b940dc1e053be80d",
+    "object_id": "ep_f9d59c52473db066",
+    "relation_type": "precedes",
+    "reason": "The episode 'Julie resists due to personal and professional conflicts' includes Julie confronting Henry about his departure and reacting to news of Arnold's return, which sets up emotional and narrative tension. The episode 'Confirm the relationship's end' involves Julie definitively ending the relationship and demanding Henry leave, representing a conclusive resolution. The resistance and conflict in the first episode logically precede the final declaration in the second, based on the progression from conflict to resolution in the narrative, as supported by the related events and descriptions.",
+    "source_documents": [
+      "scene_116_part_1",
+      "scene_101_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f781f3a093c3",
+    "subject_id": "ep_188d7e4aff961f21",
+    "object_id": "ep_4faf9e74177da3d3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Address the train's delayed arrival' involves Gayev commenting on the train delay, which sets a logistical and critical tone before Madame Ranevskaya's emotional entrance and greetings in the nursery. Both episodes occur in scene_122, and the delay remark logically precedes the reunion, as the arrival must occur before the greeting can unfold. The narrative flow implies a temporal sequence where logistical observation comes before emotional engagement.",
+    "source_documents": [
+      "scene_122_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_37724fef98c6",
+    "subject_id": "ep_941d1e30f73a2e81",
+    "object_id": "ep_8cacb802e2492974",
+    "relation_type": "precedes",
+    "reason": "The confrontation with Eddie (demanding he leave Joe's chair and questioning his motives) occurs before the observation of his departure, as the sequence of events shows Eddie leaving only after the exchange, followed by Max and Henry watching him go. This local narrative order is supported by the shared scene reference (scene_103) and the causal-temporal flow of the interaction concluding with the thumbs-up gesture during departure.",
+    "source_documents": [
+      "scene_103_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_423a1227b046",
+    "subject_id": "ep_e60973dd9dd66004",
+    "object_id": "ep_941d1e30f73a2e81",
+    "relation_type": "precedes",
+    "reason": "Eddie's entry and declaration as the new partner (ep_e60973dd9dd66004) initiates the scene, immediately followed by Max and Henry confronting Eddie's presence and motives (ep_941d1e30f73a2e81), as both episodes occur in scene_103 and the sequence of events in the related_events lists supports a clear temporal order.",
+    "source_documents": [
+      "scene_103_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d227ee80a64c",
+    "subject_id": "ep_37e82094be139973",
+    "object_id": "ep_9a6e8dfb370201bf",
+    "relation_type": "precedes",
+    "reason": "The episode 'Claim the Cherry Orchard in triumph' centers on Lophakin's declaration of ownership on stage, which is a moment of personal victory. The episode 'Confront the estate's sale and react to Lophakin's revelation' explicitly describes reactions to Lophakin's purchase revelation, including emotional distress and anger from other characters, and is grounded in the immediate aftermath within a single tense scene. The related event 'Lophakin declares ownership' (scene_148) in the subject episode occurs after 'Lophakin reveals he purchased the estate' (scene_146) in the object episode, but the naming and description of the subject episode suggest a triumphant performance following the purchase announcement. However, scene numbering indicates that the revelation of purchase (scene_146) precedes the on-stage declaration (scene_148), meaning the object episode occurs first. Therefore, the correct temporal order is reversed: the object episode precedes the subject episode. Since 'precedes' is directed and the subject does not precede the object, the relation must be NONE. Re-evaluating: the subject episode describes a 'moment of ecstatic revelation on stage' where Lophakin declares ownership, while the object episode includes 'Lophakin reveals he purchased the estate' as its first event. These are likely the same moment. The subject episode frames it as a personal triumph; the object episode frames it as a social confrontation with reactions. They are co-temporal, describing overlapping events from different perspectives. No clear precedence, causation, contrast, or elaboration is supported. Thus, no relation can be confidently established.",
+    "source_documents": [
+      "scene_148_part_1",
+      "scene_146_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5a6366ea2302",
+    "subject_id": "ep_51d3fe0f0cbe7105",
+    "object_id": "ep_d0c7c8b04cf204bc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Secure the money in the vault' includes events where Bernie and Stan deposit the final portion of money and close the vault door (scene_128), which occurs after the events in 'Exchange about the Bills' Super Bowl prospects' that take place during scene_126. The scene numbers indicate a clear narrative order where the exchange happens earlier, and securing the vault follows, supporting a 'precedes' relation from the object to the subject. Therefore, the subject episode follows the object episode, meaning the object precedes the subject. However, since the relation is directed and the subject is listed first, the correct directional assignment under the schema is that the object episode precedes the subject episode, but we are required to assign the relation_type with the given subject and object order. As 'precedes' is directed, and the subject does not precede the object, the inverse is true. But per instruction, we must only output the relation_type if it holds in the subject->object direction. Since the subject episode occurs after the object episode, 'precedes' does not hold from subject to object. Hence, no directed relation is valid in the subject->object direction. Given that none of the other relations (causes, contrasts_with, elaborates) are supported by explicit evidence, the most accurate output is 'NONE'.",
+    "source_documents": [
+      "scene_128_part_1",
+      "scene_126_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c2674a256e3e",
+    "subject_id": "ep_1a6fe8acfc952f46",
+    "object_id": "ep_f9d59c52473db066",
+    "relation_type": "precedes",
+    "reason": "The episode 'Discuss Julie's rejection and life's costs' occurs after Julie has already ended the relationship with Henry, as it involves Henry reacting to her rejection. The episode 'Confirm the relationship's end' depicts Julie explicitly ending the relationship and demanding Henry leave, which logically precedes Henry's later discussion of the emotional impact. The narrative order and event dependencies support a 'precedes' relation from the object to the subject, but since the relation is directed and the subject is listed first, the correct directional assignment is subject -> object only if the subject occurs first. However, based on event content, the object episode must occur before the subject. Therefore, the relation 'precedes' is valid with direction object -> subject, but given the required subject-object order in output, no directed 'precedes' can be justified in subject->object direction. Re-evaluating: the subject episode describes Henry reacting to the rejection, which presupposes the relationship has already ended in the object episode. Thus, the object episode must precede the subject. Since 'precedes' is directed and we are evaluating subject->object, and the subject does not occur before the object, the relation cannot be 'precedes' in this direction. No other relation is supported. Therefore, despite temporal logic, the directionality constraint prevents valid 'precedes' assignment, and no other relation fits. Final decision: NONE.",
+    "source_documents": [
+      "scene_103_part_1",
+      "scene_101_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5a96b1a6a9c3",
+    "subject_id": "ep_99e006050528b8ca",
+    "object_id": "ep_ce9f41a119a986dd",
+    "relation_type": "precedes",
+    "reason": "The episode where Frank proposes the heist and establishes credibility (ep_99e006050528b8ca) includes events in scene_108, while the episode where Frank confronts the group with surveillance claims (ep_ce9f41a119a986dd) occurs in scene_107. Since scene_107 precedes scene_108 in narrative order, the object episode occurs before the subject episode. Therefore, the subject episode (proposal) follows the object episode (confrontation), making the relation 'precedes' with subject -> object direction incorrect; however, based on the scene numbering, object -> subject is chronologically accurate. Thus, the correct directional relation is object precedes subject, but since the schema requires subject-to-object direction, and the subject does not precede the object, the relation must be NONE. However, given the clear temporal sequence from scene_107 to scene_108, and assuming the episode IDs reflect narrative order, the subject episode (scene_108) follows the object (scene_107), so the object precedes the subject. But as the relation 'precedes' is directed and must be evaluated as subject->object, and the subject does not occur before the object, the correct output is NONE. Yet, reconsidering: if the subject is ep_99e006050528b8ca (scene_108) and object is ep_ce9f41a119a986dd (scene_107), then subject does NOT precede object. Therefore, no valid directed relation holds in subject->object direction. However, the schema allows 'precedes' as directed, and if we interpret the narrative order correctly, the object occurs before the subject. But the relation must be from subject to object. Since the subject episode happens after the object, 'precedes' cannot hold in the subject->object direction. No other relation is supported. Therefore, the only valid conclusion is NONE. However, the initial decision was based on reversed chronology. Correcting: scene_107 (object) occurs before scene_108 (subject), so object precedes subject. But the relation 'precedes' in subject->object would mean subject occurs before object — which is false. Therefore, no allowed relation fits in the required direction. Hence, output NONE. But wait — the few-shot sample shows 'precedes' used in correct temporal order (plan before execution). Here, the proposal (subject) is in scene_108, after the confrontation (object) in scene_107. That means the confrontation happens before the proposal — which is illogical unless Frank first observes them, then later proposes the heist. But that would mean the subject (proposal) comes after the object (confrontation), so subject does NOT precede object. Therefore, the only defensible relation is NONE, because no other relation type is supported. However, the description of ep_99e006050528b8ca says Frank proposes the heist and reveals I.C.R.E. details, while ep_ce9f41a119a986dd has Frank confronting the group as the bank guard. If Frank is the bank guard, then his confrontation (as guard) logically precedes his proposal (as insider), suggesting the object episode precedes the subject episode. But again, for 'precedes' to hold, subject must come before object — which it does not. Thus, no valid relation in subject->object direction. Final decision: NONE.",
+    "source_documents": [
+      "scene_108_part_1",
+      "scene_107_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fe2ebc8e88e1",
+    "subject_id": "ep_48e390d7ba8dd7fa",
+    "object_id": "ep_a09bb20a6ed917d2",
+    "relation_type": "precedes",
+    "reason": "Eddie's assault on Max occurs in doc_148, while his reveal and assertion of control occurs in doc_143. Since doc_143 precedes doc_148 in document order, the object episode occurs earlier than the subject episode. Therefore, the subject episode (assault) follows the object episode (reveal), making the relation 'precedes' with subject -> object direction incorrect; instead, object -> subject is supported. However, 'precedes' is directed, and the correct direction is object precedes subject. Thus, the relation 'precedes' is valid with object preceding subject, but since the schema requires subject-to-object direction, and the subject does not precede the object, the correct interpretation under the schema is that the subject does not precede the object. Given the directionality constraint, no valid directed relation can be asserted from subject to object. Hence, despite chronological evidence, the directional mismatch leads to 'NONE' being more appropriate. However, reconsidering: if we interpret the relation_type as applying to the pair without enforcing subject-to-object direction in time, but rather assessing whether 'precedes' fits in either direction, the schema expects directionality. Since the subject episode (later) does not precede the object (earlier), the 'precedes' relation from subject to object is false. No other relation is supported. Therefore, after careful review, the correct output is 'NONE' due to lack of valid directed support from subject to object. But wait — the schema allows 'precedes' as directed, and we can only assign it if subject precedes object. It does not. So we cannot assign 'precedes' in the subject->object direction. No evidence supports 'causes', 'contrasts_with', or 'elaborates'. Therefore, the only valid output is 'NONE'. However, initial confidence in temporal order was high, but directionality invalidates it. Final decision: 'NONE'. But wait — the few-shot sample uses 'precedes' based on narrative order, not document ID. Are we to infer sequence from doc_id? The doc_id values (doc_143, doc_148) suggest a sequence, and scene numbers (scene_144, scene_149) confirm: scene_144 precedes scene_149. Thus, the object episode (in scene_144) precedes the subject episode (in scene_149). Therefore, the subject episode does not precede the object — the reverse is true. So 'precedes' cannot be assigned from subject to object. No other relation is supported: no causal link stated, no contrast in tone or outcome described, no elaboration. Thus, no valid relation from subject to object. Final output: NONE.",
+    "source_documents": [
+      "scene_149_part_1",
+      "scene_144_part_1"
+    ],
+    "confidence": 0.85
+  }
+]

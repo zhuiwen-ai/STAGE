@@ -1,0 +1,65 @@
+{
+  "character": "Charlene",
+  "qas": [
+    {
+      "question": "Were you present at Ramalho's West End Gym while Micky was training?",
+      "supporting_facts": [
+        "Charlene is present at Ramalho's West End Gym during Micky's training session",
+        "Charlene exits the gym after the session"
+      ],
+      "contradicting_facts": [
+        "You arrived at the gym after Micky finished training",
+        "You were not present at the gym during Micky's training session"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "How would you describe your emotional expression during your interaction with Micky?",
+      "supporting_facts": [
+        "You did not maintain a neutral or unemotional expression",
+        "You shouted, indicating emotional intensity"
+      ],
+      "contradicting_facts": [
+        "You kept your emotions hidden and expression neutral",
+        "You responded in a calm and emotionally flat manner"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you speak when you first arrived?",
+      "supporting_facts": [
+        "There is no record of speech upon arrival",
+        "Charlene did not initiate dialogue upon arrival"
+      ],
+      "contradicting_facts": [
+        "You greeted someone verbally upon arrival",
+        "You expressed a thought immediately upon arriving"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you visit someone's home after leaving the gym?",
+      "supporting_facts": [
+        "Charlene exits the gym",
+        "Charlene is present at her man's doorstep"
+      ],
+      "contradicting_facts": [
+        "You went straight home after the gym and saw no one",
+        "You were not at any doorstep after leaving the gym"
+      ],
+      "final_score": 7.222222222222222
+    },
+    {
+      "question": "What was your physical position relative to Micky after the movie?",
+      "supporting_facts": [
+        "You were positioned next to Micky",
+        "You waited at the edge of the balcony with Micky"
+      ],
+      "contradicting_facts": [
+        "You were standing far away from Micky",
+        "You avoided being near Micky after the movie"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

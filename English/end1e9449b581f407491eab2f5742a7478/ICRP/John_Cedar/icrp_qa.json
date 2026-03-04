@@ -1,0 +1,65 @@
+{
+  "character": "John_Cedar",
+  "qas": [
+    {
+      "question": "Are you considered a visitor in the office, or do you have a permanent presence there?",
+      "supporting_facts": [
+        "John_Cedar is not a visitor in the office",
+        "The office has a door marked with his name"
+      ],
+      "contradicting_facts": [
+        "You were only temporarily present in the office",
+        "Your presence in the office does not imply ownership or permanent status"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You activated a device during the event—what type of device did you turn on by pressing a button?",
+      "supporting_facts": [
+        "John_Cedar activated a device referred to as a dictagraph",
+        "The activation was performed by pressing a button"
+      ],
+      "contradicting_facts": [
+        "You turned on a recording device by voice command",
+        "You did not interact with any electronic device"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Who did you interact with after reaching the building?",
+      "supporting_facts": [
+        "You greeted the rail agent.",
+        "You interacted with a secretary upon arrival."
+      ],
+      "contradicting_facts": [
+        "You only spoke to Cobb after arriving.",
+        "You did not speak to anyone upon arrival."
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You were seen moving toward the button and then sitting down—can you confirm what you did with the Power of Attorney?",
+      "supporting_facts": [
+        "John Cedar stated that he did not obtain the Power of Attorney",
+        "Cedar crossed to the button before sitting down"
+      ],
+      "contradicting_facts": [
+        "You obtained the Power of Attorney after reaching the button",
+        "You were just passing by the button without intent to act"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You were seen entering a room and approaching a door with your name on it. What was your intention in going to that door?",
+      "supporting_facts": [
+        "John Cedar entered a room and proceeded to a door marked with his name",
+        "Cedar exits the scene after the interaction"
+      ],
+      "contradicting_facts": [
+        "You ignored the door with your name and went elsewhere",
+        "You treated the situation as urgent when approaching the door"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "rel_ep_ep_6ac42011c471",
+    "subject_id": "ep_46df1cb539dc17ec",
+    "object_id": "ep_ca600525b9c0fca7",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Jack drinking alone before Ingrid's arrival, and the second episode begins with Jack noticing her presence, indicating a clear temporal sequence where the solitary moment precedes the reunion.",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5ae32942fcc6",
+    "subject_id": "ep_2cc4476370e9167f",
+    "object_id": "ep_ab40a3a2cbd0f2c0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Exchange identities and probe professional background' occurs first, as Father Benedetto identifies Jack and inquires about his occupation, which is followed by the invitation to wine in the same scene (scene_28). The narrative sequence in the related events shows questioning precedes the invitation, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dec0cc00f2ac",
+    "subject_id": "ep_2cc4476370e9167f",
+    "object_id": "ep_c74dde3fe03e96bd",
+    "relation_type": "precedes",
+    "reason": "The exchange of identities and probing of Jack's background occurs in scene_28, while the meal preparation and sharing takes place in scene_50, indicating a clear narrative sequence where the first episode precedes the second based on scene ordering.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ce405ac2f883",
+    "subject_id": "ep_f523a7a717e89393",
+    "object_id": "ep_0109fc2beaa04dc7",
+    "relation_type": "precedes",
+    "reason": "The episode 'Approach the frozen lake and confront unease' describes Jack becoming anxious as they walk toward the lake, which prompts Ingrid to later reassure him in the episode 'Address Jack's anxiety with reassurance'. The sequence of events in scene_3 supports a clear temporal order where the onset of unease precedes the reassurance.",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0cd40a843fcf",
+    "subject_id": "ep_4498ecb8722e2056",
+    "object_id": "ep_4acb761cf754c89c",
+    "relation_type": "precedes",
+    "reason": "The priest notices Jack's unusual behavior in doc_23, which sets up his subsequent approach in doc_27. The observation logically precedes the interaction where Jack reacts to the approaching priest and initiates conversation, as the notice motivates the priest's action.",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d4c379e399f3",
+    "subject_id": "ep_3b0aea41f707c779",
+    "object_id": "ep_2457163515ca44c3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Ingrid's shock and issue orders' occurs before 'Eliminate evidence and kill Ingrid' as evidenced by the sequence of related events in scene_4: Jack first orders Ingrid to go for help, then later shoots her in the neck and discards the rifle bolt, indicating a clear temporal order.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_16592c0a8896",
+    "subject_id": "ep_bd01040a532dac45",
+    "object_id": "ep_3bdd731c47aae8ab",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate covert meeting and exchange payment' occurs before 'Deliver urgent escape instructions' as evidenced by the sequence of related events in scene_10: Larry first places the envelope on the table and Jack pockets it, and only after the waiter returns with coffee does Larry deliver the urgent warning and escape instructions. This local narrative order establishes a clear temporal precedence.",
+    "source_documents": [
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a6c4058205fe",
+    "subject_id": "ep_ca600525b9c0fca7",
+    "object_id": "ep_0109fc2beaa04dc7",
+    "relation_type": "precedes",
+    "reason": "The episode 'Jack notices Ingrid's presence and they reconnect' occurs in scene_2, while 'Address Jack's anxiety with reassurance' occurs in scene_3, indicating a clear narrative sequence where the former precedes the latter.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2e898c6a0f28",
+    "subject_id": "ep_a68489c09914375b",
+    "object_id": "ep_2457163515ca44c3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Evade gunfire and locate the shooter' occurs first, as Jack responds to gunfire and identifies the shooter's position while Ingrid is still alive and with him. This is immediately followed by 'Eliminate evidence and kill Ingrid', where Jack kills Ingrid after the threat has passed, indicating a clear temporal sequence supported by the narrative flow in scene_4.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bca68ad83a25",
+    "subject_id": "ep_ca600525b9c0fca7",
+    "object_id": "ep_01ac4e9115789f32",
+    "relation_type": "precedes",
+    "reason": "The episode 'Jack notices Ingrid's presence and they reconnect' occurs in scene_2, while 'Cross the frozen lake together' occurs in scene_4, indicating a clear narrative order where the reunion by the fire precedes the walk across the frozen lake.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_76eb8dbaf70e",
+    "subject_id": "ep_4acb761cf754c89c",
+    "object_id": "ep_c74dde3fe03e96bd",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Jack reacting to and initiating a conversation with Father Benedetto upon his approach, which logically precedes the subsequent shared activity of preparing and sharing a meal in the kitchen. The sequence of events—greeting followed by cooking and dining—implies a temporal order supported by the narrative flow, with no indication of overlap or reversal.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3005b141ea80",
+    "subject_id": "ep_4acb761cf754c89c",
+    "object_id": "ep_ab40a3a2cbd0f2c0",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Jack initiating a conversation with Father Benedetto upon his approach, which includes mutual greetings. The second episode involves Father Benedetto inviting Jack to drink wine later that evening, and Jack hesitating in response. The invitation and response logically follow the initiation of the conversation, and both episodes occur in scene_28, indicating a sequential narrative order where the conversation start precedes the response to the invitation.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c45bab440302",
+    "subject_id": "ep_ab40a3a2cbd0f2c0",
+    "object_id": "ep_c74dde3fe03e96bd",
+    "relation_type": "precedes",
+    "reason": "The invitation to share wine in the evening (ep_ab40a3a2cbd0f2c0) occurs in scene_28, while the meal preparation and shared wine in the kitchen (ep_c74dde3fe03e96bd) occurs in scene_50, indicating a clear temporal sequence where the invitation precedes the shared meal.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f33e9f191240",
+    "subject_id": "ep_146bea2cd5b030a6",
+    "object_id": "ep_53a288cbe876b1f1",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Jack reacting to the approaching motorcyclist with heightened alertness, including dropping to his knees after a loud bang (Ducati backfiring). The second episode begins after the motorcyclist stops and removes his helmet, leading to a friendly exchange. The sequence of events in the shared scene (scene_27) clearly indicates that Jack's reaction occurs before the greeting exchange, establishing a direct temporal order.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cf4a3f921026",
+    "subject_id": "ep_dcb5979cddfa1eb2",
+    "object_id": "ep_2cf8b8b2f81dcf2d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Jack approaches the cafe to observe the woman' (doc_37, scene_38) occurs before the episode 'Initiate covert identification protocol' (doc_38, scene_39), as evidenced by the sequential scene numbers and the narrative flow where Jack must first approach the cafe before engaging in the identification protocol with the woman.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b929ea2f4e34",
+    "subject_id": "ep_0223e440dce96cb2",
+    "object_id": "ep_7954c69e53407873",
+    "relation_type": "precedes",
+    "reason": "The episode 'Jack surveys the eerie town' occurs before 'Jack decides to leave the town' in the narrative sequence, as Jack's observation of the town's desolation and unsettling atmosphere directly precedes his decision to depart, supported by the shared scene reference (scene_15) and the logical progression from observation to action.",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7d80d021daa3",
+    "subject_id": "ep_4acb761cf754c89c",
+    "object_id": "ep_bfb02f0315ae6e92",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Jack initiating a conversation with Father Benedetto upon his approach, which sets up their interaction. The second episode involves Jack repairing the API three-wheeler's engine with Father Benedetto's assistance, which logically follows after their conversation has begun. The narrative sequence implied by the events—greeting followed by collaborative work—supports a 'precedes' relation from the conversation initiation to the repair activity.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_59c530ef291d",
+    "subject_id": "ep_4acb761cf754c89c",
+    "object_id": "ep_2cc4476370e9167f",
+    "relation_type": "precedes",
+    "reason": "The episode 'React to approaching priest and initiate conversation' includes Jack greeting Father Benedetto, which sets up the subsequent exchange where Father Benedetto identifies Jack as American and probes his background. The events in the second episode logically follow the initiation of the conversation, with both episodes occurring in the same scene (scene_28) and forming a coherent sequence. The narrative flow indicates a clear temporal order: first the conversation is initiated, then the identity exchange and questioning occur.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fabd517014f5",
+    "subject_id": "ep_0ceab30b9254fe76",
+    "object_id": "ep_2cc4476370e9167f",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Jack surveying the square and noticing Father Benedetto, which sets the initial context for their interaction. The second episode involves a direct conversation where Father Benedetto addresses Jack, identifies him, and questions him. The sequence of observation followed by engagement implies a temporal order where the survey precedes the exchange, supported by the narrative flow of events.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_974ef2f050fb",
+    "subject_id": "ep_55e7ee2aa99491a5",
+    "object_id": "ep_7cc27a05d716d27a",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Jack assessing the route at a crossroads with a signpost indicating the way to Castelvecchio, which logically precedes the object episode where Jack is already in Castel del Monte, concluding his café visit and observing Castelvecchio from the town ramparts. The narrative progression from deciding on a route to arriving and observing the destination supports a 'precedes' relation with strong but slightly indirect temporal evidence.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fc281e905742",
+    "subject_id": "ep_2cf8b8b2f81dcf2d",
+    "object_id": "ep_f35dcacede71afb8",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate covert identification protocol' involves Jack and the woman confirming each other's identities through coded exchanges, which concludes with mutual recognition. The object episode 'Conduct weapon specifications briefing' begins only after successful identification, as stated in its description: 'Following successful identification, Jack and Mathilde transition into a detailed, coded discussion...'. This explicit temporal sequencing in the description provides unambiguous support for the 'precedes' relation from the identification episode to the weapon briefing episode.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a2c8df0853f4",
+    "subject_id": "ep_078972c4b0bc1c82",
+    "object_id": "ep_8d0b3bb33cbd7fc5",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Assess the Rome source and operational risks' provides additional detail about Jack's evaluation of the job's security implications, which expands on the negotiation context established in 'Receive job offer and negotiate terms'. The concern about overpayment and police chatter in Rome directly relates to the terms being negotiated in the first episode, offering operational depth to the discussion initiated by Larry's job assignment.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ffe1baa1f523",
+    "subject_id": "ep_24cff9d0c44a1412",
+    "object_id": "ep_dabebe3b16bedd27",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Reconnect and assess the situation' occurs first, where Larry and Jack reunite and Jack begins disclosing the closure of the Stockholm account. The object episode 'Reveal the aftermath and establish next steps' follows, with Jack reporting further violent complications and Larry issuing instructions for Jack to wait at the L'Aquila bar. Both episodes are grounded in scene_8 and form a continuous narrative sequence, with the first setting up information that leads directly into the second, supporting a clear temporal order.",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b7bcf6780e1c",
+    "subject_id": "ep_0487bb20308ec8c3",
+    "object_id": "ep_caa952d41142764f",
+    "relation_type": "elaborates",
+    "reason": "The subject episode 'Observe Castelvecchio through binoculars' describes a general observational act following morning preparations, while the object episode 'Conduct a routine visual assessment of Castelvecchio' provides more detailed, methodical actions including retrieving binoculars and conducting a systematic scan. The object episode expands on the observational activity introduced in the subject episode with specific procedural details, suggesting it elaborates the initial observation with a structured routine.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_9887432188cf",
+    "subject_id": "ep_0ceab30b9254fe76",
+    "object_id": "ep_4acb761cf754c89c",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Jack scanning the square and observing Father Benedetto from a distance, which sets the stage for the subsequent interaction. The second episode describes Jack reacting to the approaching priest and initiating a conversation, which logically follows after the initial observation. The narrative flow and event sequence suggest a clear temporal order: surveillance and detection precede the direct interaction, with both episodes involving the same characters and context.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_05542a08cf02",
+    "subject_id": "ep_15b694fc40f9784e",
+    "object_id": "ep_815c4c0cb8287d95",
+    "relation_type": "precedes",
+    "reason": "The episode 'Settle into evening with brandy' establishes the initial, quiet interaction between Father Benedetto and Jack, including sensory appreciation of the drink, which sets the reflective tone prior to the shift in topic and tone when Father Benedetto begins criticizing French culture and Jack's disinterest in history. Both episodes occur in scene_30 and share a continuous setting, with the first clearly occurring before the critical commentary begins, as supported by the sequence of related events.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5f27bbec0fd8",
+    "subject_id": "ep_caa952d41142764f",
+    "object_id": "ep_e310c8b1d3d6ffb0",
+    "relation_type": "precedes",
+    "reason": "The routine visual assessment of Castelvecchio (subject) involves Jack retrieving and using binoculars to scan the town, which sets up the observational context. The subsequent observation of the approaching post office van (object) occurs while using the same binoculars and is a specific instance within the broader observational activity. The routine assessment logically precedes the focused detection of the van, as the van is spotted during the ongoing observation, indicating a temporal sequence supported by the narrative flow.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fc1ef48dd37b",
+    "subject_id": "ep_f523a7a717e89393",
+    "object_id": "ep_c956624186c586a8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Approach the frozen lake and confront unease' includes Jack becoming anxious while walking through the woods, which is followed by Ingrid's reassurance leading to Jack relaxing and smiling in the subsequent episode. The narrative sequence in scene_3 supports a clear temporal order where the onset of unease precedes the resolution of anxiety.",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e68925f99962",
+    "subject_id": "ep_ca600525b9c0fca7",
+    "object_id": "ep_3b0aea41f707c779",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts a quiet, emotionally intimate reunion between Jack and Ingrid, characterized by physical closeness and silence by the fire. The second episode involves tension and fear as Ingrid reacts to Jack having a gun and Jack issues urgent commands. These episodes are juxtaposed in tone—one peaceful and affectionate, the other tense and alarming—supporting a contrast relation.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_74fd9fc0b5c4",
+    "subject_id": "ep_4498ecb8722e2056",
+    "object_id": "ep_2cc4476370e9167f",
+    "relation_type": "precedes",
+    "reason": "The priest first notices Jack's unusual behavior while observing the town (ep_4498ecb8722e2056), which leads to the subsequent interaction where Father Benedetto exchanges identities and probes Jack's professional background (ep_2cc4476370e9167f). The observation logically precedes the direct engagement, and the narrative flow supports a temporal sequence.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9d328cd8185f",
+    "subject_id": "ep_f523a7a717e89393",
+    "object_id": "ep_01ac4e9115789f32",
+    "relation_type": "precedes",
+    "reason": "The episode 'Approach the frozen lake and confront unease' occurs in scene_3, where Ingrid leads Jack toward the lake and Jack becomes anxious. The episode 'Cross the frozen lake together' occurs in scene_4, where they step onto and walk across the ice. The scene numbers indicate a clear narrative sequence, with the approach preceding the crossing.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_81d0d79d9204",
+    "subject_id": "ep_24cff9d0c44a1412",
+    "object_id": "ep_bd01040a532dac45",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs at a fast food stand in scene_8, where Larry and Jack reunite and begin discussing recent events, including the closure of the Stockholm account. The second episode takes place in a bar in scene_10, where a covert transaction occurs. The progression from scene_8 to scene_10 in the narrative order indicates that the reunion and assessment precede the covert meeting and payment exchange.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6169a1c67efd",
+    "subject_id": "ep_24cff9d0c44a1412",
+    "object_id": "ep_3bdd731c47aae8ab",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Reconnect and assess the situation' occurs in scene_8, where Larry and Jack reunite and Jack begins disclosing information. The object episode 'Deliver urgent escape instructions' occurs in scene_10, where Larry gives Jack critical instructions after adding sugar to his coffee. The progression from scene_8 to scene_10 establishes a clear narrative sequence, with the first episode preceding the second.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2889a60d516b",
+    "subject_id": "ep_5128ddfb1fdcfc40",
+    "object_id": "ep_f35dcacede71afb8",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Detect and assess potential surveillance' involves Jack identifying a suspicious individual and alerting Mathilde, which occurs before the object episode 'Conduct weapon specifications briefing' where they proceed with a coded discussion about weapon requirements. Both episodes occur within the same occasion ('Clandestine Exchange Meeting At The Cafe') and are part of a sequential narrative flow: threat assessment precedes operational briefing. The related events in the first episode (e.g., scanning, alerting, subject disappearance) are temporally prior to the detailed technical exchange in the second episode, supporting a clear 'precedes' relation.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_baa30f132e25",
+    "subject_id": "ep_0487bb20308ec8c3",
+    "object_id": "ep_e310c8b1d3d6ffb0",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Observe Castelvecchio through binoculars' involves Jack transitioning from morning preparations to external observation, establishing a general observational context. The object episode 'Observe the approaching post office van' is a specific observational act using binoculars, focused on a particular vehicle. The general observation of the town plausibly sets the stage for the subsequent detection of the van, suggesting a temporal sequence where scanning the area precedes spotting a specific object within it. However, no explicit temporal or causal link is stated, so the support is strong but indirect.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_838d0489b47e",
+    "subject_id": "ep_24cff9d0c44a1412",
+    "object_id": "ep_078972c4b0bc1c82",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reconnect and assess the situation' occurs in Rome where Larry and Jack meet and begin discussing recent developments, including the closure of the Stockholm account. The subsequent episode 'Receive job offer and negotiate terms' involves Larry assigning Jack a new job over a pay phone, which logically follows their in-person reconnection. The narrative flow and contextual dependency—where the job offer arises from the discussion initiated during their meeting—support a 'precedes' relation from the reunion episode to the negotiation episode.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4209edd8e8c6",
+    "subject_id": "ep_078972c4b0bc1c82",
+    "object_id": "ep_955d2e331d869dca",
+    "relation_type": "precedes",
+    "reason": "The episode 'Receive job offer and negotiate terms' includes Larry assigning Jack a job and discussing its terms, during which Larry states that completing the job will make Jack 'free.' The episode 'Contemplate freedom after the job' centers on Jack's immediate silent reflection on the word 'free' right after Larry's statement, as evidenced by the shared scene (scene_29) and the sequential flow of events. This establishes a clear narrative order where the negotiation precedes Jack's contemplation.",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_db098321458a",
+    "subject_id": "ep_078972c4b0bc1c82",
+    "object_id": "ep_bd01040a532dac45",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Jack receiving a job offer and negotiating terms over a pay phone call with Larry, which establishes the assignment and conditions of the job. The object episode depicts Larry and Jack meeting in person at a bar, where Larry hands Jack an envelope, indicating a transaction likely tied to the same job. The negotiation logically precedes the in-person meeting and payment exchange, as the terms must be discussed before the operational handoff occurs. This temporal sequence is supported by the narrative logic of job assignment followed by execution setup.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_43e9277e7d3c",
+    "subject_id": "ep_8d0b3bb33cbd7fc5",
+    "object_id": "ep_dabebe3b16bedd27",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assess the Rome source and operational risks' involves Jack receiving intelligence and expressing concern about overpayment, which occurs in scene_48. The episode 'Reveal the aftermath and establish next steps' occurs in scene_8, where Jack reports on violent complications and receives new instructions. Despite the lower scene number, scene_8 likely follows scene_48 in narrative order as it reveals the consequences of the Rome operation, indicating that the assessment precedes the revelation of its aftermath. This local narrative progression supports a 'precedes' relation from the assessment to the aftermath episode.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_de6bbf2d05bc",
+    "subject_id": "ep_6d7cf93eccb24c78",
+    "object_id": "ep_229d216f28f4ce8d",
+    "relation_type": "precedes",
+    "reason": "The 'Initiate mail collection interaction' episode involves Jack greeting the postmaster, inquiring about his mail, and providing his surname, which directly sets the stage for the subsequent 'Retrieve and verify package' episode. The postmaster's request for Jack's surname in the first episode is immediately followed by the retrieval and identity verification actions in the second, with both episodes occurring in the same scene (scene_45) and sharing a continuous narrative flow. The events in the second episode (e.g., locating the package, verifying identity) logically and temporally follow the initiation of the interaction, establishing a clear 'precedes' relation from the initiation to the retrieval and verification.",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1544cd6be56f",
+    "subject_id": "ep_bd01040a532dac45",
+    "object_id": "ep_dabebe3b16bedd27",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate covert meeting and exchange payment' occurs in doc_9, scene_10, while the object episode 'Reveal the aftermath and establish next steps' occurs in doc_7, scene_8. Although the document IDs differ, the narrative sequence implied by scene numbering and content shows that the revelation of violent complications and the assignment of new instructions (object) follow the prior transaction in the subject episode. The payment exchange sets the stage for subsequent actions, and the object episode involves Jack reporting outcomes and receiving new orders, indicating a chronological progression from transaction to aftermath. This ordering is supported by the causal and temporal flow of events, even across documents.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d8007171162e",
+    "subject_id": "ep_0109fc2beaa04dc7",
+    "object_id": "ep_3b0aea41f707c779",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs in scene_3, where Ingrid reassures Jack about the absence of wolves, while the second episode occurs in scene_4, where Ingrid reacts to Jack having a gun and Jack issues orders. The progression from scene_3 to scene_4 establishes a clear narrative sequence, with the first episode preceding the second.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f1d5b7b292e6",
+    "subject_id": "ep_ab40a3a2cbd0f2c0",
+    "object_id": "ep_15b694fc40f9784e",
+    "relation_type": "precedes",
+    "reason": "The invitation to share wine in Episode 'Respond to invitation for evening wine' occurs in scene_28, while the actual evening encounter with brandy takes place in scene_30, as evidenced by the related_events and document sequence. This establishes a clear narrative order where the invitation precedes the shared drink.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5269c691c2a0",
+    "subject_id": "ep_0109fc2beaa04dc7",
+    "object_id": "ep_c956624186c586a8",
+    "relation_type": "causes",
+    "reason": "The first episode describes Ingrid reassuring Jack, which directly leads to the second episode where Jack's anxiety diminishes and he smiles. The description of the second episode explicitly states that it occurs 'after Ingrid's calming words' and represents a 'return to emotional equilibrium following the moment of tension,' indicating a clear causal link from the reassurance to Jack's relaxation.",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b072cb567d14",
+    "subject_id": "ep_dee6b14b13328905",
+    "object_id": "ep_e49bc672724bdbe4",
+    "relation_type": "precedes",
+    "reason": "Clara's preparation and positioning on the bed occurs before Jack joins her, as evidenced by the sequence of events in scene_47: Clara enters, sits, removes clothing, and lies back before Jack sits beside her, establishing a clear narrative order.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c50943b8dc0c",
+    "subject_id": "ep_4acb761cf754c89c",
+    "object_id": "ep_15b694fc40f9784e",
+    "relation_type": "precedes",
+    "reason": "The episode 'React to approaching priest and initiate conversation' occurs earlier in the narrative sequence, as it takes place in doc_27 and scene_28, while 'Settle into evening with brandy' occurs in doc_29 and scene_30, indicating a direct temporal progression from the initiation of the encounter to the shared reflective moment over drinks.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_05bd6c1c46bc",
+    "subject_id": "ep_f523a7a717e89393",
+    "object_id": "ep_3b0aea41f707c779",
+    "relation_type": "precedes",
+    "reason": "The episode 'Approach the frozen lake and confront unease' occurs in scene_3, where Jack begins to sense danger in the woods, while 'Respond to Ingrid's shock and issue orders' occurs in scene_4, where Jack is now in possession of a gun and issues commands. The progression from scene_3 to scene_4 establishes a clear narrative sequence, with the former preceding the latter.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ca15178a7dbf",
+    "subject_id": "ep_01ac4e9115789f32",
+    "object_id": "ep_cbdd4821d5415cc5",
+    "relation_type": "precedes",
+    "reason": "The episode 'Cross the frozen lake together' involves Jack and Ingrid actively walking across the ice, while 'Discover tracks and detect movement' occurs immediately afterward when Jack notices footprints and movement, as both are part of scene_4 and described in sequence. The first episode sets the setting on the lake, which is necessary for the second episode's observations, indicating a clear temporal order.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d6896a29852f",
+    "subject_id": "ep_f523a7a717e89393",
+    "object_id": "ep_a68489c09914375b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Approach the frozen lake and confront unease' occurs in scene_3, where Jack begins to sense danger while walking through the forest. The episode 'Evade gunfire and locate the shooter' occurs in scene_4, beginning with a gunshot and Jack reacting by taking cover and identifying the shooter. The scene numbering and narrative progression indicate a clear temporal sequence: the anxiety in scene_3 precedes the active threat and response in scene_4.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_80d8b2612d87",
+    "subject_id": "ep_a68489c09914375b",
+    "object_id": "ep_0a45955233373e69",
+    "relation_type": "precedes",
+    "reason": "The episode 'Evade gunfire and locate the shooter' involves Jack identifying the shooter's position after spotting blue smoke, which logically precedes the episode 'Engage the hidden attacker' where Jack fires shots and confirms the attacker is down. The sequence of events in scene_4 supports a clear temporal order: first locating the shooter, then engaging him.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4f257162aea6",
+    "subject_id": "ep_815c4c0cb8287d95",
+    "object_id": "ep_ecb99d12b743f059",
+    "relation_type": "elaborates",
+    "reason": "The subject episode involves Father Benedetto's critique of American detachment from history, and the object episode features Jack explicitly confirming his personal philosophy of living in the present, which directly elaborates on and responds to the earlier observation, completing the exchange on identity and historical awareness as stated in the object episode's description.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0cc523193b80",
+    "subject_id": "ep_a17f07eacd9f1141",
+    "object_id": "ep_77328d0975bd31d6",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate to the alleyway crossroads' culminates in Jack's arrival at the intersection of four alleyways, which directly sets the stage for the subsequent episode 'Document the crossroads and observe surroundings' where he photographs each passage and notes ambient sounds. The related events in both episodes occur in the same scene (scene_25) and follow a clear temporal sequence: arrival precedes documentation and observation.",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a0902959261d",
+    "subject_id": "ep_842707738f53b6bc",
+    "object_id": "ep_0223e440dce96cb2",
+    "relation_type": "precedes",
+    "reason": "Jack arrives at the deserted town before surveying it, as arrival (exiting the vehicle) logically precedes the observational episode of surveying the eerie environment. The related event 'Jack parks car near town square and exits vehicle' establishes the initial presence required for the subsequent survey.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_66967a24be76",
+    "subject_id": "ep_64ed6bfed67c15cc",
+    "object_id": "ep_de7bd3469c33a788",
+    "relation_type": "precedes",
+    "reason": "Jack documents his location by taking photographs immediately after reemerging through the archway (ep_64ed6bfed67c15cc), and only after the interaction with the man concludes does he resume walking down the alleyway (ep_de7bd3469c33a788). The narrative sequence in scene_27 supports that documentation occurs before resuming movement, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b4e43ed2c21b",
+    "subject_id": "ep_842707738f53b6bc",
+    "object_id": "ep_dcb5979cddfa1eb2",
+    "relation_type": "precedes",
+    "reason": "Jack's arrival at the deserted town (parking and exiting the car) logically precedes his movement toward the cafe to observe the woman, as the latter requires his presence in the town. The narrative progression from entering the town to approaching a specific location (cafe) within it supports a temporal sequence.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_21795f234671",
+    "subject_id": "ep_842707738f53b6bc",
+    "object_id": "ep_949ecf439dbd2a25",
+    "relation_type": "precedes",
+    "reason": "Jack's arrival at the deserted town (parking and exiting the car) logically precedes his approach to the bed and breakfast, as the latter requires his presence in the town. The first episode establishes his entry into the setting, which is a necessary precondition for the second episode involving movement within the town center.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bd38e798c586",
+    "subject_id": "ep_bd01040a532dac45",
+    "object_id": "ep_e09da75bcf383e50",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate covert meeting and exchange payment' includes the event where Larry places an envelope on the table and Jack pockets it, which occurs before the object episode 'Conclude the meeting and prepare to depart', where Larry finishes his coffee and wipes his mouth, signaling the end of the meeting. The sequence of events in scene_10 supports a clear temporal order: transaction first, then conclusion.",
+    "source_documents": [
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_40210bc5b9f1",
+    "subject_id": "ep_f1cc3beeb7f10697",
+    "object_id": "ep_842707738f53b6bc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Approach the isolated hilltop town' describes Jack's journey toward the town and culminates in the moment of arrival, while 'Jack arrives at the deserted town' explicitly marks his arrival and exit from the vehicle. The former sets up the latter in a clear sequential narrative order, with the approach logically and temporally preceding the arrival.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_38cccc885357",
+    "subject_id": "ep_55e7ee2aa99491a5",
+    "object_id": "ep_842707738f53b6bc",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Assess the route at the crossroads' involves Jack evaluating directions at a junction, which logically precedes the object episode 'Jack arrives at the deserted town' where he has already driven to and parked in the town square. The narrative progression from decision-making at a crossroads to arrival at a destination supports a temporal ordering.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2f8e5588f1db",
+    "subject_id": "ep_46a66e8bb8499470",
+    "object_id": "ep_842707738f53b6bc",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Prepare for departure' involves Jack packing belongings, which logically and narratively occurs before the object episode 'Jack arrives at the deserted town', where he is already at the destination. The related event in the first episode (packing) sets up the journey, while the second episode describes arrival, implying a temporal sequence supported by narrative coherence.",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4194e617c1ae",
+    "subject_id": "ep_842707738f53b6bc",
+    "object_id": "ep_7cc27a05d716d27a",
+    "relation_type": "precedes",
+    "reason": "Jack arrives at the deserted town (parking and exiting his car) before concluding his café visit and observing Castelvecchio, as the arrival marks the beginning of his presence in the town, which must precede his later actions at the café and ramparts. The narrative sequence implies a temporal order where arrival precedes subsequent observational actions.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3deb44accdc4",
+    "subject_id": "ep_176c6eeffa033462",
+    "object_id": "ep_46a66e8bb8499470",
+    "relation_type": "precedes",
+    "reason": "The 'Complete morning routine' episode, which includes exercising, showering, and dressing, logically precedes the 'Prepare for departure' episode, where Jack packs belongings into a travel bag, as morning routines typically occur before departure preparations. The narrative flow implied by the structured regimen and the intention to leave supports a temporal sequence.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_caf8de766893",
+    "subject_id": "ep_a68489c09914375b",
+    "object_id": "ep_3b0aea41f707c779",
+    "relation_type": "precedes",
+    "reason": "The episode 'Evade gunfire and locate the shooter' occurs first, as Jack reacts to gunfire by pulling Ingrid to safety and identifying the shooter; this directly precedes 'Respond to Ingrid's shock and issue orders', where Ingrid reacts to Jack having a gun and Jack then gives her instructions. The sequence is supported by the shared scene (scene_4) and the logical flow of events: threat response precedes post-threat commands.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_33b7c7b79c94",
+    "subject_id": "ep_3bdd731c47aae8ab",
+    "object_id": "ep_e09da75bcf383e50",
+    "relation_type": "precedes",
+    "reason": "The episode 'Deliver urgent escape instructions' includes Larry delivering warnings, escape directions, and a mobile phone to Jack, all of which occur before the concluding action in 'Conclude the meeting and prepare to depart', where Larry finishes his coffee and dabs his mouth, signaling the end of the encounter. The sequence of events in scene_10 supports a clear narrative order where the delivery of instructions precedes the closure of the meeting.",
+    "source_documents": [
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c84e5efde9e4",
+    "subject_id": "ep_46a66e8bb8499470",
+    "object_id": "ep_7954c69e53407873",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Prepare for departure' involves Jack packing belongings, which logically occurs before the object episode 'Jack decides to leave the town' that culminates in him driving away. The preparation action is a necessary precursor to departure, and the narrative sequence implied by the actions supports a 'precedes' relation from preparation to the decision and act of leaving.",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b0d009861685",
+    "subject_id": "ep_3480a16cbf8b0c57",
+    "object_id": "ep_a68489c09914375b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Investigate the dead man' occurs after Jack discovers the corpse, while 'Evade gunfire and locate the shooter' begins with a gunshot that prompts Jack to act. The related events in both episodes are listed in scene_4, and the sequence of actions—first discovering the body, then reacting to gunfire—suggests a temporal order where the investigation follows the shooting incident. Therefore, 'Evade gunfire and locate the shooter' precedes 'Investigate the dead man'.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4f942d444881",
+    "subject_id": "ep_146bea2cd5b030a6",
+    "object_id": "ep_de7bd3469c33a788",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Jack reacts to approaching motorcyclist' describes Jack's response during the motorcyclist's approach, including dropping to his knees and pretending to tie his shoelace. The object episode 'Jack resumes movement after encounter' begins only after the man has entered his apartment and the interaction concludes, with Jack standing up and continuing to walk. The sequence of events in the shared scene (scene_27) and the explicit temporal dependency in the description of the object episode confirm that the subject episode occurs immediately before the object episode.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a0690499b5a0",
+    "subject_id": "ep_842707738f53b6bc",
+    "object_id": "ep_7954c69e53407873",
+    "relation_type": "precedes",
+    "reason": "Jack's arrival at the deserted town (ep_842707738f53b6bc) logically and chronologically precedes his decision to leave and subsequent departure (ep_7954c69e53407873), as one must arrive before deciding to leave. The sequence of events in the descriptions supports this temporal order.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_03599a9cb536",
+    "subject_id": "ep_15b694fc40f9784e",
+    "object_id": "ep_2cc4476370e9167f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Settle into evening with brandy' establishes the initial setting and tone as Father Benedetto and Jack begin their encounter, including the pouring and sensory appreciation of Armagnac. The episode 'Exchange identities and probe professional background' involves direct dialogue where Father Benedetto questions Jack's identity and occupation, which logically follows after the initial settling into the scene. The related events in the first episode (e.g., pouring drinks, sipping brandy) suggest a preliminary phase of the interaction, preceding the more focused exchange of information in the second episode, supporting a narrative sequence.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_20f934acfd4d",
+    "subject_id": "ep_a17f07eacd9f1141",
+    "object_id": "ep_42c3adee0eb7a607",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate to the alleyway crossroads' involves Jack moving through the alleyway system and reaching a convergence point, which sets the initial context for his movement. The subsequent episode 'Investigate the source of the barking and discover hidden passage' occurs when Jack reverses direction and discovers a concealed archway, implying a sequence where the traversal and orientation precede the return and discovery. Both episodes occur in scene_25, but the reversal and discovery logically follow the initial navigation, supporting a 'precedes' relation from the crossroads navigation to the investigation and discovery.",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ec3d3d46b6b7",
+    "subject_id": "ep_0223e440dce96cb2",
+    "object_id": "ep_82a20b4e9486fa9b",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode depicts Jack surveying a silent, decaying, and eerie town with an unsettling atmosphere under conditions that include a mysterious figure and environmental sounds, while the object episode describes Jack capturing the same town as scenic and sunlit, emphasizing medieval architecture in a positive, documentary manner. These episodes are juxtaposed in tone and atmosphere—one emphasizing desolation and mystery, the other beauty and clarity—suggesting a contrast in presentation or perception of the town.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5a059c3930b7",
+    "subject_id": "ep_2cf8b8b2f81dcf2d",
+    "object_id": "ep_5128ddfb1fdcfc40",
+    "relation_type": "precedes",
+    "reason": "The covert identification protocol (ep_2cf8b8b2f81dcf2d) involves Jack and the woman establishing mutual recognition through coded exchanges, which logically and narratively precedes the surveillance detection episode (ep_5128ddfb1fdcfc40) where Jack scans the environment and alerts Mathilde to a suspicious individual. Both episodes occur within the same occasion at the cafe, and the identification must be completed before threat assessment can meaningfully proceed, supporting a local narrative order where identification comes first.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_889f81796853",
+    "subject_id": "ep_0a45955233373e69",
+    "object_id": "ep_2457163515ca44c3",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Engage the hidden attacker' involves Jack neutralizing a threat in the tree line, followed by actions in the object episode 'Eliminate evidence and kill Ingrid' where Jack disables the rifle and kills Ingrid. The sequence of related events in scene_4 implies a temporal order: first Jack fires at the attacker, confirming the threat is down, then disassembles the rifle (eliminating evidence), and subsequently shoots Ingrid. This local narrative order supports that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fbc16243ca65",
+    "subject_id": "ep_887a64f8878a841d",
+    "object_id": "ep_949ecf439dbd2a25",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Jack entering the old town and revealing his hidden car near the fortified gates, which is a necessary precursor to approaching a bed and breakfast located off the main square within the same town. The spatial and narrative progression implies a sequential order where arrival and vehicle discovery precede seeking accommodation, supporting a 'precedes' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_83844802f705",
+    "subject_id": "ep_55e7ee2aa99491a5",
+    "object_id": "ep_7954c69e53407873",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Assess the route at the crossroads' involves Jack evaluating directions at a junction, which logically precedes the object episode 'Jack decides to leave the town' where he drives away after making a decision. The narrative flow suggests a temporal sequence: assessment at the crossroads occurs before the departure decision and action, supported by the progression from navigation consideration to execution of leaving.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f9ec655fbf55",
+    "subject_id": "ep_3bdd731c47aae8ab",
+    "object_id": "ep_55e7ee2aa99491a5",
+    "relation_type": "precedes",
+    "reason": "The episode 'Deliver urgent escape instructions' includes Larry instructing Jack to go to Castelvecchio and providing escape directions, which logically precedes the episode 'Assess the route at the crossroads' where Jack stops at a crossroads to evaluate directions toward Castelvecchio. The narrative sequence is supported by the goal-driven continuity: receiving instructions comes before acting on them at a critical junction.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4e682030ed93",
+    "subject_id": "ep_55e7ee2aa99491a5",
+    "object_id": "ep_f1cc3beeb7f10697",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assess the route at the crossroads' involves Jack stopping at a crossroads to evaluate directions toward Castelvecchio, while 'Approach the isolated hilltop town' describes the car ascending a mountain road toward a hilltop town, culminating in the sound of a church bell. The crossroads decision logically precedes the ascent and arrival at the town, indicating a sequential narrative progression where navigation at the junction leads into the approach to the destination. This order is supported by the directional flow implied in the descriptions and the shared journey context.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_45cb8dc03946",
+    "subject_id": "ep_64ed6bfed67c15cc",
+    "object_id": "ep_929b5e0cf8bdfb82",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs in scene_27, where Jack reemerges and takes photographs, while the object episode occurs in scene_33, where he notices the modelling agency sign and observes Clara entering. Since scene_27 precedes scene_33 in narrative order, the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f7812eafc178",
+    "subject_id": "ep_55e7ee2aa99491a5",
+    "object_id": "ep_77328d0975bd31d6",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Assess the route at the crossroads' involves Jack stopping at a crossroads prompted by a signpost indicating Castelvecchio, which establishes an initial navigational decision point. The object episode 'Document the crossroads and observe surroundings' occurs at the same location but includes detailed documentation and sensory observations, suggesting a subsequent, more in-depth engagement with the setting. The narrative progression from evaluation to detailed recording and heightened awareness supports a local temporal order where assessment precedes documentation and observation.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b4befc4e859c",
+    "subject_id": "ep_4498ecb8722e2056",
+    "object_id": "ep_82a20b4e9486fa9b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Priest notices Jack's unusual behavior' involves the priest observing Jack's methodical photography, which implies that Jack was already engaged in photographing the town. The episode 'Capture the scenic town under sunlight' describes Jack photographing the town in sunlight, which is the activity that precedes and prompts the priest's notice. Therefore, 'Capture the scenic town under sunlight' logically precedes 'Priest notices Jack's unusual behavior'. However, since the subject is the priest's noticing and the object is the photography, and the photography must occur before it can be noticed, the correct directional relation is object -> subject. But given the schema requires subject -> object directionality for 'precedes', and the subject episode cannot precede the object in this case, the relation is reversed in narrative order. Thus, the relation 'precedes' is valid with the subject episode following the object, but due to directionality constraint in the schema, we assign 'precedes' only if subject comes before object. Since that is not the case, no directed relation fits. Hence, after reevaluation, there is insufficient support for any directed relation in the required direction. Therefore, the correct output is NONE.",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_430fc2a9c7cd",
+    "subject_id": "ep_5d27a1e83b73c0ef",
+    "object_id": "ep_a31631032b30db6d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Enter the hidden courtyard through the archway' describes Jack's entry into the courtyard, which must occur before the object episode 'Jack is captivated by the alabaster statue', as the latter happens while Jack is crossing the courtyard. The spatial and narrative sequence implies a temporal order where entering the courtyard precedes becoming entranced by the statue within it.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9746488eb0b4",
+    "subject_id": "ep_0ceab30b9254fe76",
+    "object_id": "ep_ab40a3a2cbd0f2c0",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Survey the square and detect subtle threats' occurs in doc_id 'doc_47', while the object episode 'Respond to invitation for evening wine' occurs in doc_id 'doc_27'. The document IDs suggest a reverse chronological order (47 after 27), but the narrative content shows Jack first scanning the square and noticing Father Benedetto (scene_48), who then invites Jack to wine (scene_28). Scene numbers indicate scene_28 precedes scene_48, meaning the invitation occurs before the survey. Thus, the object episode precedes the subject episode. However, since the relation schema 'precedes' is directed and the subject is listed first, the correct directional assignment is reversed. Therefore, the subject episode does not precede the object. Given the scene numbers (28 before 48), the object episode occurs earlier. Hence, the relation 'precedes' is valid from object to subject, but not as subject -> object. Since we cannot assert the reverse direction under the given subject-object order, and no other relation is supported, the safest conclusion is that no valid directed relation can be confirmed in the given direction. After re-evaluation: the description of the subject episode includes Jack observing Father Benedetto waving, which sets the context for the subsequent invitation in the object episode. This implies the survey must occur before the invitation response. Scene_48 (survey) and scene_28 (invitation) suggest a discrepancy, but 'doc_47' and 'doc_27' may not reflect chronological order. The narrative logic—Jack observing Benedetto, who then invites him—supports a causal or sequential link. Given that the invitation follows the observation, and Jack's hesitation may be influenced by his prior scanning, the most plausible relation is that the survey precedes the response. Despite conflicting doc/scene IDs, the narrative flow in the descriptions supports 'precedes' with subject before object. Confidence is high but not absolute due to document/scene numbering ambiguity. Final decision: 'precedes' with subject -> object based on narrative coherence.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4811fe0c8e77",
+    "subject_id": "ep_a68489c09914375b",
+    "object_id": "ep_8104e022f9ebf0b6",
+    "relation_type": "precedes",
+    "reason": "The episode 'Evade gunfire and locate the shooter' occurs in scene_4, where Jack identifies the shooter's position, while 'Eliminate the second hunter and prepare for next engagement' occurs in scene_5, involving a subsequent confrontation and reload. The scene numbering and narrative progression indicate a clear temporal order: locating the shooter precedes neutralizing the next threat.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c78d06fe3fd5",
+    "subject_id": "ep_f1cc3beeb7f10697",
+    "object_id": "ep_887a64f8878a841d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Approach the isolated hilltop town' describes Jack's car ascending the mountain road toward the town, culminating in arrival, while 'Jack approaches the old town and reveals his hidden car' depicts him already at the town gates, revealing a car that was previously driven there. The spatial and narrative sequence implies the approach journey occurs before the arrival and revelation, supporting a 'precedes' relation from the approach to the arrival episode.",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4b8390b8aa1d",
+    "subject_id": "ep_887a64f8878a841d",
+    "object_id": "ep_7954c69e53407873",
+    "relation_type": "precedes",
+    "reason": "The episode 'Jack approaches the old town and reveals his hidden car' describes Jack entering the town and revealing his vehicle, which logically and narratively precedes his later decision to leave and drive away from the town. The sequence of arrival before departure is supported by the event flow in the descriptions, with the car's presence established in the first episode and its use in departure in the second.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3182e3616427",
+    "subject_id": "ep_0223e440dce96cb2",
+    "object_id": "ep_887a64f8878a841d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Jack surveys the eerie town' occurs in doc_14 and describes Jack observing the town's desolation, while 'Jack approaches the old town and reveals his hidden car' occurs in doc_17 and depicts him entering the town and revealing his car. The narrative progression from surveying outside to approaching and revealing a hidden vehicle suggests a temporal sequence where observation precedes entry and discovery, supported by the spatial and sequential context in the descriptions.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_672c692a99e2",
+    "subject_id": "ep_f1cc3beeb7f10697",
+    "object_id": "ep_0223e440dce96cb2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Approach the isolated hilltop town' describes Jack's journey up the mountain road and ends with the church bell tolling as he arrives, which sets the scene for 'Jack surveys the eerie town' where he is already present in the town observing its details. The sequential progression from arrival to observation, supported by the shared setting and narrative flow, indicates that the approach precedes the survey.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9e8a8ce0843d",
+    "subject_id": "ep_f1cc3beeb7f10697",
+    "object_id": "ep_7954c69e53407873",
+    "relation_type": "precedes",
+    "reason": "The episode 'Approach the isolated hilltop town' describes Jack's journey toward and arrival at the town, which logically and chronologically occurs before 'Jack decides to leave the town,' where he departs after witnessing the town's atmosphere. The related events in both episodes support a clear sequential order: arrival (scene_13) precedes decision to leave and driving away (scene_15).",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4df93555e8c1",
+    "subject_id": "ep_05654a6969aa4121",
+    "object_id": "ep_42c3adee0eb7a607",
+    "relation_type": "precedes",
+    "reason": "The confrontation with the restrained mongrel occurs in doc_25, scene_26, while the investigation of the barking and discovery of the hidden passage occurs in doc_24, scene_25. The related_events and document IDs indicate that the discovery episode (ep_42c3adee0eb7a607) happens earlier in narrative order, as Jack first hears the barking and investigates (leading to the discovery), then encounters the dog (in the subsequent scene). Thus, the confrontation episode follows the investigation episode, supporting 'precedes' with subject -> object directionality.",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5589ea7babe0",
+    "subject_id": "ep_7cc27a05d716d27a",
+    "object_id": "ep_7954c69e53407873",
+    "relation_type": "precedes",
+    "reason": "The observation of Castelvecchio marks a shift toward purposeful attention, which precedes Jack's later decision to leave the town and drive away, suggesting a narrative progression where growing awareness leads to departure. The events in the second episode occur after the observational focus established in the first, based on the local narrative order implied by increasing engagement and subsequent withdrawal.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_091c5153e0e4",
+    "subject_id": "ep_5a5e26df589976b4",
+    "object_id": "ep_229d216f28f4ce8d",
+    "relation_type": "precedes",
+    "reason": "The surveillance episode (ep_5a5e26df589976b4) occurs at a rural Poste Italiane branch and involves Jack waiting for an hour before leaving, while the package retrieval episode (ep_229d216f28f4ce8d) takes place at a post office where Jack confirms his identity to receive a package from Italian photographic suppliers. The surveillance is preparatory and temporally prior to the package retrieval, as Jack monitors the post office before eventually retrieving the package, indicating a logical and narrative sequence supported by the setting and Jack's goal-directed behavior.",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fcf7a558bc0a",
+    "subject_id": "ep_176c6eeffa033462",
+    "object_id": "ep_6d7cf93eccb24c78",
+    "relation_type": "precedes",
+    "reason": "The 'Complete morning routine' episode occurs before 'Initiate mail collection interaction' as it describes Jack's early morning activities (exercises, showering, dressing) that logically precede his external interaction at the post office, which begins with a greeting and inquiry about mail. The narrative flow suggests a temporal sequence in a typical daily routine, with personal care preceding errands.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3f677d9730d1",
+    "subject_id": "ep_0487bb20308ec8c3",
+    "object_id": "ep_0ceab30b9254fe76",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Observe Castelvecchio through binoculars' involves Jack beginning external observation from his window, which sets the stage for the more focused activity in the object episode 'Survey the square and detect subtle threats', where he actively scans the square and notices specific individuals. The progression from general observation to targeted surveillance suggests a temporal sequence supported by the narrative flow of increasing observational detail and situational focus.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_29b5c9707a1e",
+    "subject_id": "ep_39b9d404a7e81a22",
+    "object_id": "ep_dcb5979cddfa1eb2",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Jack purchases cheese and locates the woman' explicitly occurs before the object episode 'Jack approaches the cafe to observe the woman', as the description states Jack first purchases cheese and locates the woman, then moves toward the cafe. This temporal sequence is directly supported by the narrative order in both descriptions and related events.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_878006817ec0",
+    "subject_id": "ep_0223e440dce96cb2",
+    "object_id": "ep_0ceab30b9254fe76",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Jack surveys the eerie town' involves Jack's initial sensory and observational engagement with the town's desolation, including environmental sounds and a mysterious figure, which sets the stage for the subsequent, more focused action in the object episode 'Survey the square and detect subtle threats,' where Jack scans the town square and notices Father Benedetto. The progression from general observation of the town to specific situational awareness in the square suggests a narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6124a8e88b25",
+    "subject_id": "ep_3bdd731c47aae8ab",
+    "object_id": "ep_1b10d9c9f18a179b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Deliver urgent escape instructions' includes Larry directing Jack to a silver Citroen C2 with Chieti plates, which sets up Jack's subsequent discovery of identity documents and a map inside that same vehicle in the episode 'Jack uncovers hidden identity documents and map'. The narrative sequence implies that receiving the instructions precedes Jack's investigation of the car, as the car and its location are specified in the instructions prior to the discovery.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_235ebe9ea3c2",
+    "subject_id": "ep_64ed6bfed67c15cc",
+    "object_id": "ep_dcb5979cddfa1eb2",
+    "relation_type": "precedes",
+    "reason": "Jack first reemerges and documents his location at the alleyway, then later approaches the cafe after purchasing cheese, indicating a sequential narrative order where the documentation episode precedes the approach episode.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f781f3678095",
+    "subject_id": "ep_3bdd731c47aae8ab",
+    "object_id": "ep_b016f1d263699708",
+    "relation_type": "causes",
+    "reason": "The subject episode involves Larry delivering urgent escape instructions to Jack, including handing over a mobile phone in a cellophane bag for future contact. The object episode involves Jack (or his driver) disposing of a mobile phone in a cellophane bag by throwing it from a car after leaving Castelvecchio—a location explicitly mentioned in the first episode. The disposal is a direct operational consequence of the escape plan, indicating that the instruction to evade surveillance leads directly to the act of discarding a potentially traceable device. This constitutes a clear causal chain supported by matching details (cellophane bag, escape context).",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bcc7f701e91b",
+    "subject_id": "ep_39b9d404a7e81a22",
+    "object_id": "ep_5128ddfb1fdcfc40",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Jack purchases cheese and locates the woman' occurs in doc_37 and involves scene_38, while the object episode 'Detect and assess potential surveillance' occurs in doc_38 and involves scene_39, indicating a clear narrative sequence where the purchase and location activity precedes the surveillance detection. The progression across documents and scenes supports a directed temporal order.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1fe9467bae9c",
+    "subject_id": "ep_39b9d404a7e81a22",
+    "object_id": "ep_2cf8b8b2f81dcf2d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Jack purchases cheese and locates the woman' (scene_38) occurs immediately before the covert identification protocol (scene_39), as evidenced by the sequential scene numbering and the narrative flow where Jack first locates the woman at the cafe before engaging in the identification exchange. This local narrative order supports a 'precedes' relation from the purchase and location episode to the identification protocol episode.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_091937ad4243",
+    "subject_id": "ep_46df1cb539dc17ec",
+    "object_id": "ep_f523a7a717e89393",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs before Ingrid's arrival, while the second involves Ingrid leading Jack through the forest, indicating a subsequent event. The narrative order and character presence support that 'Jack drinks whiskey in quiet solitude' precedes 'Approach the frozen lake and confront unease'.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d9aac2ed173c",
+    "subject_id": "ep_ca600525b9c0fca7",
+    "object_id": "ep_c956624186c586a8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Jack notices Ingrid's presence and they reconnect' occurs in doc_1, scene_2, while 'Jack relaxes after Ingrid's reassurance' occurs in doc_2, scene_3, indicating a later narrative position. The emotional progression from reunion to reassurance and relaxation suggests a sequence where the reconnection precedes the subsequent calming effect, supporting a 'precedes' relation from the earlier to the later episode.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_86207cc7c13e",
+    "subject_id": "ep_4acb761cf754c89c",
+    "object_id": "ep_ecb99d12b743f059",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'React to approaching priest and initiate conversation' occurs in scene_28, while the object episode 'Acknowledge personal philosophy' occurs in scene_30, indicating a clear temporal sequence where the conversation initiation precedes the acknowledgment of personal philosophy.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_dd4925eda081",
+    "subject_id": "ep_f523a7a717e89393",
+    "object_id": "ep_cbdd4821d5415cc5",
+    "relation_type": "precedes",
+    "reason": "The episode 'Approach the frozen lake and confront unease' (scene_3) occurs before 'Discover tracks and detect movement' (scene_4), as indicated by their sequential scene numbers and the narrative progression from approaching the lake to noticing footprints and movement there.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_40f7113afe8b",
+    "subject_id": "ep_2cc4476370e9167f",
+    "object_id": "ep_ecb99d12b743f059",
+    "relation_type": "precedes",
+    "reason": "The episode 'Exchange identities and probe professional background' occurs in doc_27 and scene_28, while 'Acknowledge personal philosophy' occurs in doc_29 and scene_30, indicating a clear narrative sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_66b58f8b606e",
+    "subject_id": "ep_a17f07eacd9f1141",
+    "object_id": "ep_5d27a1e83b73c0ef",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate to the alleyway crossroads' involves Jack moving through the alleyway system and arriving at a convergence point, which sets the stage for his subsequent movement through the hidden archway into the courtyard. The transition from public alleyways to a secluded courtyard implies a sequential progression, with the crossroads navigation occurring before the threshold crossing, as supported by the spatial and narrative flow in the descriptions.",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_eaabcbfadfcc",
+    "subject_id": "ep_42c3adee0eb7a607",
+    "object_id": "ep_64ed6bfed67c15cc",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Jack discovering a hidden archway during a return along his path, which leads to further exploration. The object episode describes Jack reemerging through that same hidden archway and documenting his location. The discovery must occur before reemergence, establishing a clear temporal sequence supported by the narrative flow in the descriptions and related events.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_47f194c3764e",
+    "subject_id": "ep_64ed6bfed67c15cc",
+    "object_id": "ep_77328d0975bd31d6",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Jack reemerging and documenting his location in the alleyway, while the object episode involves him reaching a crossroads and photographing four alleyways. The reemergence and initial documentation logically occur before reaching the intersection, based on spatial and narrative progression implied by the descriptions. The related events in both episodes support a sequential movement through the environment, with no evidence of overlap or reversal.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5324e96b9a69",
+    "subject_id": "ep_42c3adee0eb7a607",
+    "object_id": "ep_5d27a1e83b73c0ef",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Jack discovering the hidden archway, which is a necessary precursor to the object episode where he enters the courtyard through that same archway. The discovery must logically and narratively precede the physical passage, and the related events in both episodes occur in the same scene (scene_25), supporting a direct temporal sequence.",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f830ee98a0ff",
+    "subject_id": "ep_77328d0975bd31d6",
+    "object_id": "ep_42c3adee0eb7a607",
+    "relation_type": "causes",
+    "reason": "The object episode (investigating the barking and discovering the hidden passage) is directly triggered by the subject episode, where Jack observes a barking dog with no visible source while documenting the crossroads. The description of the object episode states that Jack is 'prompted by the increasing volume of the dog's barks,' which links the discovery directly to the earlier observation, establishing a clear causal chain.",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b2d9131d0b7f",
+    "subject_id": "ep_5d27a1e83b73c0ef",
+    "object_id": "ep_64ed6bfed67c15cc",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Jack entering the hidden courtyard through the archway, while the object episode describes him reemerging through the same archway and documenting his location. The physical sequence implies that exiting (reemerging) must follow entering, establishing a clear temporal order supported by the narrative logic of passage through a hidden archway.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1db856f67fde",
+    "subject_id": "ep_4acb761cf754c89c",
+    "object_id": "ep_de7bd3469c33a788",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'React to approaching priest and initiate conversation' involves Jack greeting Father Benedetto, which occurs during the interaction. The object episode 'Jack resumes movement after encounter' begins only after the interaction concludes, as Jack continues walking down the alleyway. The narrative sequence in the descriptions and related events indicates the subject episode occurs before the object episode.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_523c9175426c",
+    "subject_id": "ep_a17f07eacd9f1141",
+    "object_id": "ep_de7bd3469c33a788",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Navigate to the alleyway crossroads' involves Jack's movement through the alleyway system and culminates in his arrival at a crossroads, which sets the initial context for his traversal. The object episode 'Jack resumes movement after encounter' describes Jack continuing his movement after an interaction, which occurs later in the narrative sequence as indicated by the progression from arrival at the crossroads to a subsequent resumption of motion after an encounter. The related events and narrative flow support a clear temporal ordering where the first episode precedes the second.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4bc06d89af19",
+    "subject_id": "ep_146bea2cd5b030a6",
+    "object_id": "ep_4acb761cf754c89c",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs in doc_26 and involves Jack reacting to a motorcyclist, while the object episode occurs in doc_27 and involves Jack interacting with Father Benedetto. The sequential document order (doc_26 before doc_27) and the progression of events suggest a narrative sequence where the motorcyclist encounter precedes the conversation with the priest.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f51f001aeb23",
+    "subject_id": "ep_a17f07eacd9f1141",
+    "object_id": "ep_64ed6bfed67c15cc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate to the alleyway crossroads' describes Jack's initial traversal through the alleyway system and culminates in his arrival at a crossroads, which sets the stage for subsequent actions. The episode 'Jack documents location after reemerging' begins with Jack reappearing through a hidden archway and immediately documenting his surroundings, implying a later point in time after navigation is complete. The narrative sequence and spatial orientation suggest a clear temporal order: Jack must first navigate to the crossroads before he can later reemerge and document his location. This local narrative order is explicitly supported by the event sequences in both episodes.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_952f3c93ecd3",
+    "subject_id": "ep_c291112f58cf84c4",
+    "object_id": "ep_371da581a75f1fe8",
+    "relation_type": "precedes",
+    "reason": "The inspection of the disassembled weapon, including observing the scratched-off serial number, logically occurs before assembling the weapon, as Jack must examine the components before proceeding to assemble them. The shared scene reference (scene_46) and the natural sequence of handling a weapon support this temporal order.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5a4bc3d30dc5",
+    "subject_id": "ep_bcc66fae1ad80950",
+    "object_id": "ep_371da581a75f1fe8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Unpack and reveal weapon components' must occur before 'Assemble the sub-machine gun' because the unpacking confirms all necessary parts are present, which is a prerequisite for assembly. The related events in both episodes occur in the same scene (scene_46), and the logical sequence of revealing components before assembling them supports a clear temporal order.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1d17bb90cb5b",
+    "subject_id": "ep_bcc66fae1ad80950",
+    "object_id": "ep_c291112f58cf84c4",
+    "relation_type": "precedes",
+    "reason": "The episode 'Unpack and reveal weapon components' involves Jack unpacking and arranging the weapon parts, which must occur before the episode 'Inspect the disassembled weapon' where Jack examines the already laid-out components. The related events in both episodes occur in the same scene (scene_46), but the unpacking and arrangement logically precede the inspection, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5e91c464cbb5",
+    "subject_id": "ep_c291112f58cf84c4",
+    "object_id": "ep_2f4b022b0c484db8",
+    "relation_type": "precedes",
+    "reason": "The inspection of the disassembled weapon occurs before assuming a firing position and testing the trigger, as logically and narratively the weapon must be examined prior to being assembled and readied for use. The related events in both episodes are grounded in scene_46, suggesting a sequential order within the same scene, with inspection preceding functional testing.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e7052c792714",
+    "subject_id": "ep_371da581a75f1fe8",
+    "object_id": "ep_2f4b022b0c484db8",
+    "relation_type": "precedes",
+    "reason": "The assembly of the sub-machine gun (inserting barrel, securing receiver, unfolding stock) must logically and temporally precede assuming a firing position and testing the trigger, as the weapon needs to be fully assembled before it can be readied for use. Both episodes occur in the same scene (scene_46) and the sequence of related events supports this order.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8d632a5b6089",
+    "subject_id": "ep_bcc66fae1ad80950",
+    "object_id": "ep_2f4b022b0c484db8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Unpack and reveal weapon components' involves Jack unpacking and arranging the weapon parts, which must logically occur before 'Assume firing position and test trigger', where the weapon is already assembled and being tested. The related events in both episodes are listed in the same scene (scene_46), but the assembly completion implied in the first episode is a necessary precondition for the firing stance and trigger test in the second, supporting a clear narrative order.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e5cadcf477ba",
+    "subject_id": "ep_53a288cbe876b1f1",
+    "object_id": "ep_2cc4476370e9167f",
+    "relation_type": "precedes",
+    "reason": "The exchange between Jack and the motorcyclist occurs in doc_26, scene_27, where Jack's American identity is established and lightly mocked. The subsequent episode with Father Benedetto in doc_27, scene_28 builds on this identity, with Father Benedetto also identifying Jack as American and probing his background. The narrative progression across adjacent scenes and documents suggests a local order where the motorcyclist interaction precedes the more intense interrogation by Father Benedetto.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8dbc489fcc65",
+    "subject_id": "ep_7ab72997412de059",
+    "object_id": "ep_de7bd3469c33a788",
+    "relation_type": "precedes",
+    "reason": "The man's response and entry into the apartment must occur before Jack can resume walking, as Jack's action is described as happening 'once the man has entered his apartment and the immediate interaction concludes,' establishing a clear temporal sequence.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_31fc9531b842",
+    "subject_id": "ep_4acb761cf754c89c",
+    "object_id": "ep_815c4c0cb8287d95",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'React to approaching priest and initiate conversation' occurs in scene_28, while the object episode 'Confront cultural and historical differences' occurs in scene_30, indicating a clear temporal sequence where the initiation of the conversation precedes the deeper cultural discussion.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_055c0478888a",
+    "subject_id": "ep_f35dcacede71afb8",
+    "object_id": "ep_bcc66fae1ad80950",
+    "relation_type": "precedes",
+    "reason": "The weapon specifications briefing (ep_f35dcacede71afb8) occurs during scene_39 at a cafe, where Jack and Mathilde discuss the required characteristics of a concealed firearm. The unpacking and reveal of weapon components (ep_bcc66fae1ad80950) occurs in scene_46, where Jack confirms the completeness of the SOCIMI 821 sub-machine gun parts. The narrative order of scenes (39 before 46) supports that the briefing precedes the unpacking episode.",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_027c5bc82574",
+    "subject_id": "ep_2cc4476370e9167f",
+    "object_id": "ep_815c4c0cb8287d95",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Exchange identities and probe professional background' occurs in doc_27, scene_28, while the object episode 'Confront cultural and historical differences' occurs in doc_29, scene_30, indicating a clear sequential order where the first episode precedes the second in narrative time.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e0fb6e34c714",
+    "subject_id": "ep_0a45955233373e69",
+    "object_id": "ep_3480a16cbf8b0c57",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Engage the hidden attacker' involves Jack firing shots and the attacker being neutralized, which immediately precedes the object episode 'Investigate the dead man' where Jack approaches the same body, confirms death, and searches it. Both episodes occur in scene_4 and share a continuous narrative sequence in which the engagement must logically and temporally precede the investigation of the corpse.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8f615afd36fc",
+    "subject_id": "ep_dabebe3b16bedd27",
+    "object_id": "ep_e09da75bcf383e50",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Larry directing Jack to wait at the L'Aquila bar, which occurs in scene_8. The object episode describes Larry finishing his coffee and wiping his mouth in scene_10, marking the end of the meeting. The progression from giving instructions to concluding the meeting and preparing to depart indicates a clear narrative sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_676e7e7579ef",
+    "subject_id": "ep_f35dcacede71afb8",
+    "object_id": "ep_371da581a75f1fe8",
+    "relation_type": "precedes",
+    "reason": "The weapon specifications briefing (ep_f35dcacede71afb8) involves Jack and Mathilde agreeing on the required characteristics and timeframe for the weapon, which directly informs and sets the conditions for the subsequent assembly of the sub-machine gun (ep_371da581a75f1fe8). The briefing logically precedes the physical assembly, as the specifications discussed (size, concealability, fire rate, etc.) must be determined before assembly can begin with purpose. This order is supported by the goal-driven nature of both episodes and the explicit agreement on development timing in the briefing.",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.85
+  }
+]

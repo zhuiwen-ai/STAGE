@@ -1,0 +1,104 @@
+{
+  "character": "Data",
+  "qas": [
+    {
+      "question": "Did you make any independent decisions during the shuttlebay event, and if so, what kind?",
+      "supporting_facts": [
+        "You engaged in decision-making that required thought, indicating autonomous cognitive processing.",
+        "You instructed the B-9 to sit, demonstrating initiative in command of auxiliary units."
+      ],
+      "contradicting_facts": [
+        "Your actions were fully predetermined or directed by external commands without independent input.",
+        "You avoided making decisions that required assessment of the situation."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were connected to the B-9 through computer conduits—what was the physical point of access you used on the B-9?",
+      "supporting_facts": [
+        "Data opened a panel in the B-9's neck",
+        "Computer conduits connect the B-9's head to Data's head"
+      ],
+      "contradicting_facts": [
+        "You accessed the B-9 through its head directly without opening a panel",
+        "You connected to the B-9 wirelessly without physical access"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You participated in the senior officer briefing; did you have any reason to decline that responsibility?",
+      "supporting_facts": [
+        "You did not decline to conduct the senior officer briefing",
+        "You fulfill assigned duties without refusal"
+      ],
+      "contradicting_facts": [
+        "You avoided the senior officer briefing due to discomfort",
+        "You believed you were unqualified and thus should not have participated"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were analyzing data on Shinzon's ship during the critical alert—what position were you holding at that time, and where were you located?",
+      "supporting_facts": [
+        "You were at the bridge Science Station during the analysis of Shinzon's ship data",
+        "You did not delegate the briefing to another officer, indicating direct personal responsibility"
+      ],
+      "contradicting_facts": [
+        "You were stationed at the bridge engineering station during the analysis",
+        "Another officer was responsible for delivering the briefing on Shinzon's ship"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You had to take a position during the alert. Which stations did you assume, and did you prepare physically for rapid movement?",
+      "supporting_facts": [
+        "You assumed the gunner's position",
+        "You assumed Worf's position at tactical",
+        "You took a running start before moving down the corridor"
+      ],
+      "contradicting_facts": [
+        "You refused to assume the posture associated with B-9",
+        "You remained unaware of the need for momentum or speed in your action"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were scanning the area before indicating a direction—what key information did you obtain that guided your decision?",
+      "supporting_facts": [
+        "Data performed a scan prior to indicating a direction",
+        "The indicated direction was based on information obtained from the scan",
+        "Data is aware of the ship's cloaking presence, which informed the scan's interpretation"
+      ],
+      "contradicting_facts": [
+        "The direction was guessed without any technical scan or data analysis",
+        "You were unaware of the ship's cloaking status when making the indication"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What role did you play in restoring the B-9?",
+      "supporting_facts": [
+        "You reassembled the B-9.",
+        "You performed the reassembly alongside Geordi.",
+        "Your awareness of the B-9's presence enabled participation in the process."
+      ],
+      "contradicting_facts": [
+        "You observed the reassembly but did not participate.",
+        "The reassembly was done without your involvement."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were connected to the B-9 through computer conduits; did you experience any emotional reaction when you saw it?",
+      "supporting_facts": [
+        "You do not express joy upon viewing the B-9",
+        "The connection via computer conduits does not imply emotional response"
+      ],
+      "contradicting_facts": [
+        "You felt happy when you saw the B-9",
+        "Your connection to the B-9 caused an emotional surge"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

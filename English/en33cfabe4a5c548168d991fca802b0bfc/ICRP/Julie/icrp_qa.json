@@ -1,0 +1,65 @@
+{
+  "character": "Julie",
+  "qas": [
+    {
+      "question": "Why did you retrieve honey from the cupboard?",
+      "supporting_facts": [
+        "You retrieved honey from the cupboard.",
+        "You were not eating ice cream at the time of retrieving honey."
+      ],
+      "contradicting_facts": [
+        "You retrieved honey because you were already eating ice cream.",
+        "You got the honey from the table instead of the cupboard."
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Did you stay in one place while interacting with Henry?",
+      "supporting_facts": [
+        "You did not remain stationary during the interaction.",
+        "You turned toward him, indicating movement."
+      ],
+      "contradicting_facts": [
+        "You stayed in one place the entire time.",
+        "You did not move at all during the interaction."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do after taking a look at the location?",
+      "supporting_facts": [
+        "you left the location after looking",
+        "you did not stay in the location after the look"
+      ],
+      "contradicting_facts": [
+        "you remained at the location after inspecting it",
+        "you decided to stay and wait after taking a look"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What was your reaction when you first heard the request?",
+      "supporting_facts": [
+        "you did not immediately understand the idea",
+        "you considered the request"
+      ],
+      "contradicting_facts": [
+        "you immediately agreed to the request",
+        "you rejected the request outright without thought"
+      ],
+      "final_score": 7.777777777777778
+    },
+    {
+      "question": "How did you react when Lophakin approached you?",
+      "supporting_facts": [
+        "You did not kiss Lophakin",
+        "You cocked your ear in a mocking manner"
+      ],
+      "contradicting_facts": [
+        "You welcomed Lophakin with a kiss",
+        "You showed respect through your body language"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

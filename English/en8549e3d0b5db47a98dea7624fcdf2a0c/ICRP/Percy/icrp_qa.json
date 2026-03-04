@@ -1,0 +1,65 @@
+{
+  "character": "Percy",
+  "qas": [
+    {
+      "question": "You were observing the mouse closely—what were you focused on while in the restraint room?",
+      "supporting_facts": [
+        "Percy expressed intense focus while watching the mouse",
+        "Percy is located in the restraint room"
+      ],
+      "contradicting_facts": [
+        "Percy ignored the mouse",
+        "Percy was not in the restraint room when observing the mouse"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What did you observe during the incident, and from where?",
+      "supporting_facts": [
+        "Percy observed the scene through the mesh behind a partition",
+        "Percy observed the faces of people present in the scene"
+      ],
+      "contradicting_facts": [
+        "You were able to move freely into the scene to observe up close",
+        "You did not see the faces of anyone involved in the incident"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Are you currently carrying any equipment on your person?",
+      "supporting_facts": [
+        "You are wearing a holster",
+        "You were adjusting your holster recently"
+      ],
+      "contradicting_facts": [
+        "You are not wearing any gear or equipment",
+        "Your holster was removed before leaving the restraint room"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You directed your attention toward a specific location involving another person—where did you look and why does it matter?",
+      "supporting_facts": [
+        "Percy looks into Wild Bill's cell",
+        "Percy did not avoid looking at the people present"
+      ],
+      "contradicting_facts": [
+        "You avoided looking directly at Wild Bill's cell",
+        "You only glanced at the surroundings, not into the cell"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Did you remain calm and in control when crossing the area?",
+      "supporting_facts": [
+        "Percy did not maintain composure during the crossing",
+        "Percy glared before turning, indicating emotional reaction"
+      ],
+      "contradicting_facts": [
+        "You remained emotionally neutral during the crossing",
+        "You calmly proceeded without showing visible frustration"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

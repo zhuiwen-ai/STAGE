@@ -1,0 +1,65 @@
+{
+  "character": "Georgia_Sykes",
+  "qas": [
+    {
+      "question": "You were waiting near the elevator—what did you do right after pausing?",
+      "supporting_facts": [
+        "waited a beat before initiating the elevator call",
+        "physically interacted with the call button after a delay"
+      ],
+      "contradicting_facts": [
+        "immediately pressed the call button without delay",
+        "left the area without attempting to call the elevator"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Were you prepared to engage if a threat had emerged during the operation?",
+      "supporting_facts": [
+        "You did not refuse to engage in direct action.",
+        "You were equipped with a concealed 9mm firearm."
+      ],
+      "contradicting_facts": [
+        "You avoided or refused to participate in direct confrontation.",
+        "You were unarmed or unprepared to respond to threats."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were injured while trying to reach the control panel—what happened during that attempt?",
+      "supporting_facts": [
+        "You were wounded while approaching the control panel",
+        "You did not board the elevator"
+      ],
+      "contradicting_facts": [
+        "You were injured inside the elevator",
+        "You successfully activated the control panel before being wounded"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you gain access to the elevator by opening the doors yourself?",
+      "supporting_facts": [
+        "You attempted to open elevator doors manually",
+        "You did not board the elevator"
+      ],
+      "contradicting_facts": [
+        "You used a keycard to unlock the elevator doors",
+        "You successfully entered the elevator after opening the doors"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why were you having difficulty reaching the control panel?",
+      "supporting_facts": [
+        "You were struggling during the attempt to reach the control panel",
+        "You have wounds that could impair physical movement"
+      ],
+      "contradicting_facts": [
+        "You reached the control panel without any difficulty",
+        "Your physical condition had no impact on your movement"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

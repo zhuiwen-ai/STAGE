@@ -1,0 +1,65 @@
+{
+  "character": "Ted_Watters",
+  "qas": [
+    {
+      "question": "Did you stay outside after you walked out?",
+      "supporting_facts": [
+        "Ted did not remain outside after walking out",
+        "Ted entered his car and drove away"
+      ],
+      "contradicting_facts": [
+        "You remained outside for some time",
+        "You left the area on foot"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why did you remain in your parka after coming inside the shop?",
+      "supporting_facts": [
+        "Ted_Watters did not remove his parka upon entering the shop",
+        "Ted_Watters was present inside the shop after entry"
+      ],
+      "contradicting_facts": [
+        "You took off your parka shortly after entering the shop",
+        "You removed your outerwear before approaching the desk"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you interact with any reporters or news vans?",
+      "supporting_facts": [
+        "You did not approach the TV news vans",
+        "You avoided contact with reporters"
+      ],
+      "contradicting_facts": [
+        "You spoke directly to a news crew near the vans",
+        "You allowed a reporter to record your statement"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do with the envelope after you had it?",
+      "supporting_facts": [
+        "Ted handed the envelope to Paul",
+        "Ted was aware of Paul's presence when handling the envelope"
+      ],
+      "contradicting_facts": [
+        "You kept the envelope for yourself",
+        "You left the envelope behind before exiting"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "What did you do when you saw the footage on the screen?",
+      "supporting_facts": [
+        "Ted was in proximity to a screen displaying repeated footage of a body",
+        "Ted dropped to his knees"
+      ],
+      "contradicting_facts": [
+        "You remained standing after seeing the footage",
+        "You stayed outside instead of approaching the screen"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

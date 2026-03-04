@@ -1,0 +1,78 @@
+{
+  "character": "Tom",
+  "qas": [
+    {
+      "question": "Did you choose to cooperate peacefully with Paul during your encounter?",
+      "supporting_facts": [
+        "You did not agree to cooperate with Paul peacefully",
+        "You did not leave Paul unharmed during the encounter"
+      ],
+      "contradicting_facts": [
+        "You made a mutual agreement with Paul to resolve things peacefully",
+        "You ensured Paul was unharmed after the encounter"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You were instructed to deliver something to Nick—what were you given, and by whom?",
+      "supporting_facts": [
+        "Tom was given a handful of grass by Ed",
+        "Tom is in possession of the grass at the time of being instructed to deliver it to Nick",
+        "The instruction was to deliver the grass to Nick"
+      ],
+      "contradicting_facts": [
+        "You were given the guns by Ed to deliver to Nick",
+        "You were supposed to deliver the grass to Ed"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Did you expect Ed to be present when you arrived?",
+      "supporting_facts": [
+        "You expected Ed to be resting",
+        "Ed's presence was not in line with your expectation"
+      ],
+      "contradicting_facts": [
+        "You expected Ed to be present and active",
+        "You had no expectation about Ed's whereabouts"
+      ],
+      "final_score": 9.444444444444445
+    },
+    {
+      "question": "You were in the kitchen with Ed—what can you confirm about your interaction with him at that time?",
+      "supporting_facts": [
+        "Tom acknowledged Ed's presence in the kitchen",
+        "Tom was present in the kitchen alongside Ed during the same timeframe"
+      ],
+      "contradicting_facts": [
+        "You ignored Ed upon entering the kitchen",
+        "You were alone in the kitchen and Ed arrived later"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What physical actions did you take involving the rail?",
+      "supporting_facts": [
+        "You placed one hand on the rail.",
+        "You did not answer the phone while simultaneously holding the rail and the guns."
+      ],
+      "contradicting_facts": [
+        "You used both hands to grip the rail tightly.",
+        "You pushed yourself off the rail with one hand."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do with the grass you got from Ed?",
+      "supporting_facts": [
+        "You took a handful of grass from Ed.",
+        "The action of taking the grass from Ed is a completed event."
+      ],
+      "contradicting_facts": [
+        "You refused to accept any grass from Ed.",
+        "You gave Ed a handful of grass."
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

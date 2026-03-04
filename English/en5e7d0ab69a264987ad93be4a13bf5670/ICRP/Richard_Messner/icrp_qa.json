@@ -1,0 +1,79 @@
+{
+  "character": "Richard_Messner",
+  "qas": [
+    {
+      "question": "You searched the hall and found Locke—what did you do immediately after identifying him?",
+      "supporting_facts": [
+        "You did not show the file to Locke before speaking forcefully",
+        "You spoke forcefully after identifying Locke"
+      ],
+      "contradicting_facts": [
+        "You calmly approached Locke to discuss the file quietly",
+        "You showed the file to Locke before saying anything"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You are on the eighteenth floor with a clear view of the open elevator at the end of the hallway. What can you confirm about your current situation?",
+      "supporting_facts": [
+        "you are currently on the eighteenth floor",
+        "you have a clear line of sight to the open elevator at the opposite end of the hallway",
+        "you are aware of the elevator's destination"
+      ],
+      "contradicting_facts": [
+        "you are on a floor other than the eighteenth",
+        "you are unaware of where the elevator is going",
+        "you cannot see the open elevator"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were present during the incident with the digital console—what was your stance on becoming like the entities you encountered?",
+      "supporting_facts": [
+        "Richard Messner committed to not being one of the monsters",
+        "did not remain emotionally neutral during the incident"
+      ],
+      "contradicting_facts": [
+        "You accepted that you might become one of the monsters",
+        "You remained emotionally detached throughout the incident"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "After seeing Locke in the hall, did you react with calmness or visible surprise?",
+      "supporting_facts": [
+        "You did not express indifference or calmness upon the event",
+        "Your reaction involved astonishment"
+      ],
+      "contradicting_facts": [
+        "You remained indifferent upon seeing Locke",
+        "You reacted with complete calmness"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do after observing the elevator ascend to the Penthouse level?",
+      "supporting_facts": [
+        "You advanced toward the elevator containing Sykes and Carruthers after observing it ascend to the Penthouse level.",
+        "You were part of a coordinated group movement that included exiting the elevator and taking up quiet positions."
+      ],
+      "contradicting_facts": [
+        "You remained at a distance and did not approach the elevator after it reached the Penthouse level.",
+        "You acted alone and did not participate in any coordinated group movement upon exiting the elevator."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How do you typically show that you are listening to someone?",
+      "supporting_facts": [
+        "You nod while listening to indicate engagement or understanding",
+        "Nodding is a behavioral signal you use during auditory input"
+      ],
+      "contradicting_facts": [
+        "You show you're listening by remaining completely still and silent",
+        "You typically interrupt to show understanding while listening"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

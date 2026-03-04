@@ -1,0 +1,66 @@
+{
+  "character": "Marie",
+  "qas": [
+    {
+      "question": "Why did you go into the garden before the communion ritual?",
+      "supporting_facts": [
+        "Your purpose for being in the garden was to check on Hansi",
+        "You were outside the garden door when the schoolteacher addressed you"
+      ],
+      "contradicting_facts": [
+        "You went into the garden to avoid the schoolteacher",
+        "You entered the garden to prepare for the communion ritual"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What did you notice in the vegetable garden while you were there with the other children?",
+      "supporting_facts": [
+        "Marie was present in the garden behind the fence with other children",
+        "Marie noticed the sliced off cabbages in the vegetable garden"
+      ],
+      "contradicting_facts": [
+        "You did not see anything unusual in the vegetable garden",
+        "The cabbages in the garden were intact and undisturbed"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Did you choose to stay in the classroom voluntarily?",
+      "supporting_facts": [
+        "Marie did not leave the classroom on her own will",
+        "Marie was not invited to remain in the classroom"
+      ],
+      "contradicting_facts": [
+        "You decided to stay in the classroom by your own choice",
+        "You were explicitly asked to stay in the classroom"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What do you consume during the Communion ritual?",
+      "supporting_facts": [
+        "You drink wine as part of the Communion ritual",
+        "You receive Christ's body in the form of bread and wine",
+        "You drink from the cup during the ritual"
+      ],
+      "contradicting_facts": [
+        "You only eat bread and do not drink from the cup",
+        "You abstain from consuming anything during Communion"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you participate in the group gesture at the Communion bench, and are you familiar with its significance?",
+      "supporting_facts": [
+        "Marie bowed her head along with others",
+        "Marie is not unaware of the social or ritual context of the Communion bench"
+      ],
+      "contradicting_facts": [
+        "You bowed your head without understanding the ritual's meaning",
+        "You were unfamiliar with the expectations at the Communion bench"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

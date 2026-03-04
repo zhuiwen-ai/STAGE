@@ -1,0 +1,1351 @@
+[
+  {
+    "id": "rel_ep_ep_9994fdfefbbd",
+    "subject_id": "ep_d71423f372998587",
+    "object_id": "ep_e510d9e0ef2c4003",
+    "relation_type": "elaborates",
+    "reason": "The discovery of the missing passport and the John Michael Kane identity card provides specific detail about one of the false identities introduced in the broader discovery of multiple passports and hidden compartments, thereby expanding on that episode with more focused information.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_bb28651a2c1f",
+    "subject_id": "ep_2597813b0713a8cd",
+    "object_id": "ep_bf4a4bc0d506f599",
+    "relation_type": "causes",
+    "reason": "The subject episode, in which Marie Kreutz has a heated confrontation and reveals personal details about her fraudulent marriage, directly triggers the object episode where the consulate clerk shifts focus to her new student visa application. The clerk's redirection is an immediate response to her emotional outburst and disclosure, indicating a causal link supported by the narrative sequence and description.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1dba6ec845c2",
+    "subject_id": "ep_effebf471c073f5d",
+    "object_id": "ep_74d2888e37a2fb8c",
+    "relation_type": "precedes",
+    "reason": "The counterattack episode, in which the man disables both officers, occurs immediately before he seizes the pistol and decides against killing, as both episodes are part of the same scene (scene_22) and the sequence of events logically requires the officers to be incapacitated before the man can take the pistol and make the decision not to shoot.",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_12d28d7d75a8",
+    "subject_id": "ep_e5274194e78e51b3",
+    "object_id": "ep_0290805b9d75c895",
+    "relation_type": "causes",
+    "reason": "The episode where Bourne falters under questioning directly leads to his decision to abort the interaction and flee, as his hesitation and stammering create the immediate pressure that triggers his flight response, per the causal sequence implied in the descriptions and shared scene context.",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4d031573cefa",
+    "subject_id": "ep_287f8c07dd3a5fd8",
+    "object_id": "ep_a430ad1a3f5a5eb1",
+    "relation_type": "causes",
+    "reason": "Bourne's violent escape directly triggers the security chief's response, including the 'code red' alert. The description of the second episode states it reflects the 'official security response during the ongoing crisis' initiated by Bourne's actions, with both episodes occurring in the same scene and sharing the same occasion, indicating immediate causal linkage.",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f2b5508de687",
+    "subject_id": "ep_ada36e7ad620768f",
+    "object_id": "ep_16c1ae7c7cb62f68",
+    "relation_type": "precedes",
+    "reason": "The episode 'Begin setting up the chess game' involves placing the first piece after hesitation, while 'Rapidly complete the chess setup' describes the subsequent quick placement of the remaining pieces, indicating a clear temporal sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5c86a2c7216f",
+    "subject_id": "ep_ff2027f69b0d5a74",
+    "object_id": "ep_0290805b9d75c895",
+    "relation_type": "causes",
+    "reason": "The observation of the chaotic immigration environment, including distressing interactions and surveillance, heightens Bourne's anxiety, which directly leads to his decision to abort the interaction and flee; the description of the second episode explicitly links the environmental stimuli to his psychological state and subsequent flight.",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6a0760a7737f",
+    "subject_id": "ep_87ddda2ec9c37d03",
+    "object_id": "ep_b80d0ba421b98d6d",
+    "relation_type": "causes",
+    "reason": "The emergency surgery episode directly leads to the man regaining consciousness, which immediately precedes and triggers his psychological response of not knowing his identity. The description of the second episode explicitly states it captures the 'psychological aftermath' and 'directly follows' the physical recovery of consciousness, which is part of the first episode's events. This establishes a clear causal link: the medical intervention causes the traumatic awakening and subsequent identity crisis.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0f5bfd218a26",
+    "subject_id": "ep_eef4768c227ccb31",
+    "object_id": "ep_2d2585cfb76f84e8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Exit the bank and seek a taxi' occurs before 'Evade meter maid surveillance and prevent detection' as both take place in scene_32, with Bourne first exiting the bank and searching for a taxi before the meter maid notices and begins observing him, indicating a clear temporal sequence in the narrative.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ac19be629ad2",
+    "subject_id": "ep_8c5a12534244582c",
+    "object_id": "ep_939edac1bac12569",
+    "relation_type": "precedes",
+    "reason": "The episode 'React to siren and maintain composure' occurs just before 'Avoid two approaching officers and move to boulevard' within the same scene (scene_32), as Bourne first reacts to the siren and then notices the approaching officers, indicating a clear sequential order in the narrative.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_31f6edcf0f42",
+    "subject_id": "ep_faa15c09e1215281",
+    "object_id": "ep_e5274194e78e51b3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne is summoned and experiences panic before interrogation' occurs just before the clerk begins questioning Bourne about his citizenship and passport, as indicated by the sequence of related events: the clerk signals Bourne to approach (scene_36), triggering his panic, followed by the interrogation and his stammering responses in the same scene. This establishes a clear temporal order.",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ec4081f9c860",
+    "subject_id": "ep_a7fd455ef217a3b3",
+    "object_id": "ep_a430ad1a3f5a5eb1",
+    "relation_type": "causes",
+    "reason": "Bourne's armed emergence and flight (ep_a7fd455ef217a3b3) directly triggers the security chief's response, including the 'code red' alert (ep_a430ad1a3f5a5eb1), as the description explicitly frames the latter as the official security response to the ongoing crisis caused by Bourne's actions.",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5795ed3e2630",
+    "subject_id": "ep_171ce0a83f8710e6",
+    "object_id": "ep_0f8a58e625ea55e7",
+    "relation_type": "precedes",
+    "reason": "The episode 'Prepare to treat injured man' involves the crew setting up for medical care, including clearing space and retrieving the medical kit, which logically and chronologically occurs before the Captain's intervention to stop treatment in 'Captain asserts mission priority over medical aid'. Both episodes occur in scene_3, and the sequence of events in the related_events lists supports this temporal order.",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6cbb1e114ab3",
+    "subject_id": "ep_ff2027f69b0d5a74",
+    "object_id": "ep_faa15c09e1215281",
+    "relation_type": "precedes",
+    "reason": "The episode where Bourne observes the chaotic immigration environment includes his survey of the scene and the distress of others, which sets the context and builds his anxiety immediately before he is summoned for interrogation. The narrative flow in the shared scene (scene_36) and the escalating tension suggest that observation and reaction precede the moment of panic when he is called forward.",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0b5725dc004c",
+    "subject_id": "ep_0452e0506e56a615",
+    "object_id": "ep_99ec66d7a2d1c0f8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Receive and open safety deposit box' occurs before 'Pack belongings and reject the gun' in the narrative sequence, as the man first opens the box and discovers its contents, which then leads him to pack those items into a burn bag. Both episodes occur in scene_30, but the opening of the box must logically precede the packing of its contents.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3b9a259c93a6",
+    "subject_id": "ep_192ba013a18c6d8c",
+    "object_id": "ep_b80d0ba421b98d6d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Disclose rescue circumstances and injury details' involves Giancarlo informing the man about his rescue and injuries, which logically and temporally precedes the episode 'Reveal identity crisis after traumatic awakening' where the man, after being addressed, pauses and admits he does not know his identity. Both episodes occur in the same scene and occasion, with the sequence of information transfer followed by a psychological response, supporting a clear narrative order.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_92ae9260fd39",
+    "subject_id": "ep_2d2585cfb76f84e8",
+    "object_id": "ep_939edac1bac12569",
+    "relation_type": "precedes",
+    "reason": "The meter maid observes Bourne and uses her radio to report him, which increases the threat level and precedes Bourne noticing two approaching officers and moving to evade them. Both episodes occur in scene_32 and describe consecutive evasive actions in a continuous pursuit, with the first episode setting up the immediate context for the next without overlap in action focus.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_730d3adfae04",
+    "subject_id": "ep_a32c58220c044992",
+    "object_id": "ep_192ba013a18c6d8c",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Establish consciousness and communicate critical information' introduces the man's awakening and initial communication, including the revelation that he was shot and is on an Italian fishing boat. The episode 'Disclose rescue circumstances and injury details' provides further specificity about the two gunshot wounds and the rescue from the sea, expanding on the information first communicated in the earlier episode. This constitutes a directed elaboration where the second episode adds concrete details to the initial communication.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3248304d218e",
+    "subject_id": "ep_287f8c07dd3a5fd8",
+    "object_id": "ep_517f897a65cd1018",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Bourne initiates violent escape at checkpoint' involves Bourne attacking a marine and vaulting over a metal detector, which immediately precedes the object episode where he lands on the disarmed marine, retrieves his backpack, and seizes an M-16 rifle. Both episodes occur in the same scene and shared occasion (Embassy Security Checkpoint Operation), with the described events forming a continuous, temporally ordered sequence.",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_be48ba4abf8e",
+    "subject_id": "ep_a32c58220c044992",
+    "object_id": "ep_b80d0ba421b98d6d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Establish consciousness and communicate critical information' involves Giancarlo informing the man he is safe and on a fishing boat, which occurs before the object episode where Giancarlo presses the man to identify himself, leading to the man's admission of not knowing his identity. The description of the object episode explicitly states it 'directly follows' the physical recovery of consciousness, which is the focus of the subject episode, establishing a clear narrative sequence.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ea6673ad09e5",
+    "subject_id": "ep_d50098fb091bca46",
+    "object_id": "ep_99ec66d7a2d1c0f8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assume identity of Jason Bourne' involves the man examining documents and repeating the name, which logically precedes the decision to pack belongings and reject the gun, as the identity assessment provides the context for the subsequent action of selecting which items to take. Both episodes occur in scene_30, but the identity assumption must come first to inform the deliberate choice to leave the gun behind.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bfc614d99b48",
+    "subject_id": "ep_e510d9e0ef2c4003",
+    "object_id": "ep_d50098fb091bca46",
+    "relation_type": "precedes",
+    "reason": "The discovery of the missing passport and the John Michael Kane identity card occurs before the man assumes the identity of Jason Bourne, as the confusion from the missing document sets the context for his subsequent attempt to internalize the Jason Bourne identity. Both episodes are grounded in scene_30, and the narrative flow suggests a sequence where identifying a gap in the identities precedes the effort to adopt one of the available identities.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_245069728b7f",
+    "subject_id": "ep_faa15c09e1215281",
+    "object_id": "ep_0290805b9d75c895",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne is summoned and experiences panic before interrogation' occurs immediately before 'Bourne aborts interaction and flees immigration counter', as the panic and disorientation described in the first episode directly precede and lead into the decision to flee in the second, with both episodes sharing the same scene context (scene_36) and sequential narrative flow.",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_02f3dc62d0cf",
+    "subject_id": "ep_74d2888e37a2fb8c",
+    "object_id": "ep_9ee8e330917d9ae1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Seize pistol and decide against killing' involves the man threatening the second officer and then refraining from shooting, directly preceding the episode 'Reflect on violence and abandon weapon', where he stands over the unconscious officers, inspects the pistol, and discards it. The sequence of events in the shared scene_22 and the causal progression from restraint to reflection support a clear temporal order.",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a7c3b44e4651",
+    "subject_id": "ep_12910a6518c52f4e",
+    "object_id": "ep_b8b2ffc2b72b0fe9",
+    "relation_type": "causes",
+    "reason": "The revelation of an oversight committee threatening Treadstone funding (ep_12910a6518c52f4e) directly triggers Conklin's escalation and threat to expose Abbott's complicity, leading to their agreement on mutual protection (ep_b8b2ffc2b72b0fe9), as both events occur in the same scene and the second is a direct response to the institutional threat introduced in the first.",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_824ba3302d02",
+    "subject_id": "ep_b5ab271b21257d0d",
+    "object_id": "ep_b8b2ffc2b72b0fe9",
+    "relation_type": "causes",
+    "reason": "The confrontation between Abbott and Conklin about Treadstone's involvement in Marseille (ep_b5ab271b21257d0d) directly triggers the subsequent negotiation where Conklin threatens exposure and both agree on mutual protection efforts (ep_b8b2ffc2b72b0fe9), as both episodes occur in the same scene and the escalation in tension leads immediately to the agreement to preserve the program.",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_de852f991186",
+    "subject_id": "ep_939edac1bac12569",
+    "object_id": "ep_b0800c590e2f9bd3",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Avoid two approaching officers and move to boulevard' occurs before the object episode 'Escape after being spotted by jogging officer' in the narrative sequence, as Bourne first evades two officers and moves down the boulevard, then later sees a jogging officer and fully abandons the street. The related_events and descriptions indicate a clear temporal progression within scene_32.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f2e7dc4035ef",
+    "subject_id": "ep_8c5a12534244582c",
+    "object_id": "ep_b0800c590e2f9bd3",
+    "relation_type": "precedes",
+    "reason": "The episode 'React to siren and maintain composure' occurs just before 'Escape after being spotted by jogging officer' as both are part of the same evasion sequence in scene_32, with Bourne first reacting to a siren and then immediately noticing the officer, leading to his full escape. The narrative order in the shared scene supports a clear temporal precedence.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_92b45e32d596",
+    "subject_id": "ep_533c5c01f447826a",
+    "object_id": "ep_a7fd455ef217a3b3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne assesses escape routes under surveillance' involves Bourne evaluating exits and deciding on the larger entry gate as his best escape option, which logically and chronologically precedes the episode 'Bourne triggers panic and flees into the building', where he actively flees after causing panic. Both episodes occur in the same scene and occasion, with the assessment and decision-making phase naturally preceding the execution of the escape through force and movement into the building.",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_06f9024a8b2d",
+    "subject_id": "ep_0452e0506e56a615",
+    "object_id": "ep_d50098fb091bca46",
+    "relation_type": "precedes",
+    "reason": "The episode 'Receive and open safety deposit box' involves the man opening the box and discovering its contents, which includes a passport with the name Jason Bourne. The subsequent episode 'Assume identity of Jason Bourne' begins when he examines those documents and starts repeating the name. The narrative sequence in the shared scene (scene_30) and the dependency of discovering the name before assuming it support that the first episode precedes the second.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_56d298f107d3",
+    "subject_id": "ep_533c5c01f447826a",
+    "object_id": "ep_a430ad1a3f5a5eb1",
+    "relation_type": "precedes",
+    "reason": "Bourne's assessment of escape routes and movement toward the entry gate (ep_533c5c01f447826a) occurs before the security chief's response of calling 'hold your fire' and issuing a 'code red' alert (ep_a430ad1a3f5a5eb1), as the security escalation is a reaction to Bourne's ongoing escape attempt, with both episodes grounded in the same scene and occasion.",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_46b8c64849e9",
+    "subject_id": "ep_d71423f372998587",
+    "object_id": "ep_99ec66d7a2d1c0f8",
+    "relation_type": "precedes",
+    "reason": "The discovery of the hidden compartment with multiple identities and supplies (ep_d71423f372998587) occurs before the man packs the belongings and rejects the gun (ep_99ec66d7a2d1c0f8), as the latter action directly responds to the contents revealed in the former, and both are grounded in scene_30 with a clear narrative sequence.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2692b2ff0109",
+    "subject_id": "ep_dec1c5749fc5df3f",
+    "object_id": "ep_b9caf3e1a24f85f6",
+    "relation_type": "elaborates",
+    "reason": "Giancarlo's examination of the implanted device (subject) reveals the physical origin and coded message on the tube, which directly provides the evidence that is later discussed when revealing the origin and implications of the implant (object). The examination yields the details—such as the 'Gemeinschaft Bank, Zurich' marking—that the second episode builds upon, making the first episode a source of elaborative detail for the second.",
+    "source_documents": [
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4385b766d624",
+    "subject_id": "ep_517f897a65cd1018",
+    "object_id": "ep_a7fd455ef217a3b3",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Bourne overpowers guards and seizes weapon' involves Bourne retrieving an M-16 rifle, which directly enables the object episode 'Bourne triggers panic and flees into the building' where he wields the same weapon to cause panic before discarding it. The sequence of events in the shared scene (scene_37) and the causal dependency on weapon possession confirm a clear temporal order: seizing the weapon precedes using it to trigger panic and flee.",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b597a0e652ff",
+    "subject_id": "ep_d71423f372998587",
+    "object_id": "ep_d50098fb091bca46",
+    "relation_type": "precedes",
+    "reason": "The discovery of multiple passports with the man's photo (in ep_d71423f372998587) provides the physical evidence that enables him to later assume the identity of Jason Bourne (in ep_d50098fb091bca46). The narrative sequence in scene_30 implies the hidden compartment is discovered first, followed by the act of internalizing one of the identities, supporting a clear temporal order.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a20f10f0de4a",
+    "subject_id": "ep_8c5a12534244582c",
+    "object_id": "ep_eef4768c227ccb31",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_32, and the siren reaction (ep_8c5a12534244582c) involves an internal response to a stimulus just before Bourne exits the bank and searches for a taxi (ep_eef4768c227ccb31). The narrative flow in the same scene supports a local precedence where the reaction occurs just prior to the physical departure action.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_af697b87b9b3",
+    "subject_id": "ep_533c5c01f447826a",
+    "object_id": "ep_287f8c07dd3a5fd8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne assesses escape routes under surveillance' involves Bourne evaluating exits and planning his move toward the larger entry gate, which sets up the subsequent violent escape. The attack and breakout in 'Bourne initiates violent escape at checkpoint' directly follow this assessment, with both episodes grounded in the same scene and occasion. The narrative sequence clearly positions the assessment before the physical escape, supported by the description of Bourne 'attempting to reach the larger entry gate' prior to launching the attack.",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_91deeac10604",
+    "subject_id": "ep_eef4768c227ccb31",
+    "object_id": "ep_b0800c590e2f9bd3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Exit the bank and seek a taxi' describes Bourne's initial departure from the bank with urgency but without being under direct threat, while 'Escape after being spotted by jogging officer' occurs when he is actively pursued and evades capture. The related events in both episodes occur in scene_32, but the act of exiting the bank and seeking a taxi logically precedes being spotted by the officer and fleeing, as confirmed by the narrative sequence in the description.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c22ccb8df0ea",
+    "subject_id": "ep_87ddda2ec9c37d03",
+    "object_id": "ep_a32c58220c044992",
+    "relation_type": "precedes",
+    "reason": "The emergency surgery episode (ep_87ddda2ec9c37d03) includes the event where the man regains consciousness and reacts violently, which immediately precedes the communication episode (ep_a32c58220c044992) where Giancarlo speaks to the conscious man, establishes his awareness, and provides information about his location and condition. Both episodes occur in the same scene and occasion, with the surgery logically and temporally preceding the stabilization of consciousness and communication.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0c2041f8ec0d",
+    "subject_id": "ep_b5ab271b21257d0d",
+    "object_id": "ep_12910a6518c52f4e",
+    "relation_type": "precedes",
+    "reason": "The confrontation between Abbott and Conklin about Treadstone's exposure in Marseille (ep_b5ab271b21257d0d) occurs immediately before Abbott reveals the oversight committee threat and Conklin advises a cover-up (ep_12910a6518c52f4e), as both are part of a continuous scene (scene_24) where the conversation escalates from direct operational concerns to strategic budgetary risks, indicating a temporal sequence.",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_97f323fe1d38",
+    "subject_id": "ep_8c5a12534244582c",
+    "object_id": "ep_2d2585cfb76f84e8",
+    "relation_type": "precedes",
+    "reason": "The episode 'React to siren and maintain composure' involves Bourne reacting to an ambulance siren and regaining calm, which occurs before the meter maid actively observes and reports him in 'Evade meter maid surveillance and prevent detection'. Both episodes occur in scene_32 and depict sequential moments in Bourne's effort to manage threat responses, with the siren reaction setting the stage for heightened alertness leading into the surveillance evasion.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3f52a4146cea",
+    "subject_id": "ep_576b896588c8df7b",
+    "object_id": "ep_9ee8e330917d9ae1",
+    "relation_type": "precedes",
+    "reason": "The confrontation over identification and escalating tension (ep_576b896588c8df7b) directly sets up the chain of events that leads to the man becoming violent and later reflecting on that violence. The description of the second episode includes the man standing over two unconscious officers, which implies the confrontation escalated into violence that is not part of the first episode but logically follows it. Both episodes are grounded in scene_22 and form a continuous narrative sequence where the first episode clearly occurs before the second.",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f77fbbca246e",
+    "subject_id": "ep_effebf471c073f5d",
+    "object_id": "ep_9ee8e330917d9ae1",
+    "relation_type": "causes",
+    "reason": "The counterattack that disables both officers (ep_effebf471c073f5d) directly precedes and triggers the man's reflection on violence and decision to abandon the weapon (ep_9ee8e330917d9ae1), as the description states he stands over the unconscious officers and only then inspects the pistol, leading to his realization and flight. The causal link is strongly supported by the sequence of events in the same scene and the narrative emphasis on internal conflict arising from the immediate aftermath of the violent act.",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_65c8eead9f32",
+    "subject_id": "ep_0452e0506e56a615",
+    "object_id": "ep_d71423f372998587",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Receive and open safety deposit box' involves the man opening the box and discovering a shallow tray with personal items, which directly precedes the object episode 'Uncover hidden compartment and multiple identities' where he discovers a deeper compartment with money, a gun, and multiple passports. Both episodes occur in the same scene (scene_30) and the actions are described in sequential order: first opening the box and viewing the top tray, then setting it aside to reveal the hidden contents. This temporal sequence is explicitly supported by the descriptions and related events.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a40f7e7793dd",
+    "subject_id": "ep_99ec66d7a2d1c0f8",
+    "object_id": "ep_9ee8e330917d9ae1",
+    "relation_type": "contrasts_with",
+    "reason": "Both episodes depict the man rejecting a gun, but in different contexts: one during a deliberate packing of belongings after discovering multiple identities, and the other following a violent act involving unconscious officers. The first shows a calm, intentional rejection of violence as part of identity disavowal, while the second shows a sudden, emotionally charged abandonment of the weapon after demonstrating familiarity with it. This juxtaposition emphasizes a contrast in the circumstances and psychological states underlying the same behavioral choice, supporting a contrasts_with relation.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_109f878aa069",
+    "subject_id": "ep_533c5c01f447826a",
+    "object_id": "ep_517f897a65cd1018",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne assesses escape routes under surveillance' involves Bourne evaluating exits and moving toward the larger entry gate, which sets up his subsequent confrontation where he overpowers guards and seizes a weapon. The sequence of events in scene_37, including Bourne's movement through the lobby followed by the armed confrontation, supports a narrative order where assessment and targeting of the gate (ep_533c5c01f447826a) precedes the physical takeover of the weapon (ep_517f897a65cd1018). Both episodes occur within the same occasion, reinforcing their tight temporal linkage.",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_623771419b72",
+    "subject_id": "ep_2d2585cfb76f84e8",
+    "object_id": "ep_b0800c590e2f9bd3",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Evade meter maid surveillance and prevent detection' occurs when Bourne notices the meter maid observing and reporting him, while the object episode 'Escape after being spotted by jogging officer' begins only after Bourne turns the corner and sees the police officer. The meter maid's radio report (in the subject episode) plausibly escalates the pursuit, leading to the officer's appearance and Bourne's subsequent escape, with both episodes occurring in the same scene (scene_32) and in a clear temporal sequence. The narrative flow and event ordering support that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_38214c27b776",
+    "subject_id": "ep_87ddda2ec9c37d03",
+    "object_id": "ep_192ba013a18c6d8c",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Conduct emergency surgery and extract foreign objects' provides detailed medical actions and discoveries (e.g., bullet fragment removal, extraction of a plastic tube) that directly inform and expand the information conveyed in 'Disclose rescue circumstances and injury details'. The disclosure episode summarizes the outcome and context of the surgical intervention, making it a subsequent elaboration of the medical findings. However, the surgical episode contains the primary evidence that is later communicated, indicating that the disclosure builds upon it. Thus, the surgery episode elaborates the disclosure episode when viewed from the perspective of information origin, though the narrative timing is not explicitly ordered. Given that the disclosure likely follows the surgery and explains its results, the elaboration relation is directed from surgery to disclosure.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_7853a4277a8b",
+    "subject_id": "ep_287f8c07dd3a5fd8",
+    "object_id": "ep_a7fd455ef217a3b3",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Bourne initiates violent escape at checkpoint' describes Bourne's initial attack and breakout at the checkpoint, including incapacitating a marine and vaulting over a metal detector. The object episode 'Bourne triggers panic and flees into the building' describes him wielding an M-16 in the lobby and then fleeing down a hallway, which occurs after he has already breached the checkpoint. Both episodes are part of the same occasion (Embassy Security Checkpoint Operation) and share scene_37, but the sequence of events implies a clear temporal order: the escape initiation precedes the subsequent panic and flight into the building.",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2c67295fb6c5",
+    "subject_id": "ep_21bbf1d90da59870",
+    "object_id": "ep_a127cddccbfa3f4e",
+    "relation_type": "precedes",
+    "reason": "The subject episode, 'Present Wombosi's Defiant Interview and Context', involves Marshall initiating the CIA briefing by presenting and contextualizing Wombosi's interview footage. The object episode, 'Reveal and Respond to Wombosi's Assassination Allegation', occurs when Marshall escalates the briefing by disclosing Wombosi's claim of a CIA assassination attempt. Both episodes occur within the same occasion ('Cia Briefing Session On Nykwana Wombosi') and are part of a sequential narrative in scene_19, where presenting the interview logically precedes revealing the more serious allegation. The description supports a clear temporal progression in the briefing agenda.",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2ecf636008d4",
+    "subject_id": "ep_3028f1081c750d69",
+    "object_id": "ep_d0dea2e2d523d39a",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Bourne approaching the secured facility entrance, which logically and narratively precedes the object episode where he breaches a restricted hallway inside the facility. The progression from external access to internal intrusion indicates a temporal sequence supported by the spatial and goal-driven context in both descriptions.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_001af55018fe",
+    "subject_id": "ep_3028f1081c750d69",
+    "object_id": "ep_32527a76543ed5f1",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Bourne attempting to gain access to a secured facility entrance, which logically precedes the object episode where he is already inside, entering the butler's prep area. The progression from approaching the entrance to being inside the facility suggests a temporal sequence supported by the narrative flow of goals and locations.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5196056bdc83",
+    "subject_id": "ep_3028f1081c750d69",
+    "object_id": "ep_f0813eccc6190181",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Bourne attempting to enter a secured facility by blending in, which logically precedes the object episode where a security alarm has already activated and Bourne is rapidly ascending stairs to evade detection. The transition from infiltration to active evasion during an alarm suggests a temporal sequence where the breach attempt leads into a detected escape, with the alarm indicating the shift from stealth to flight.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_45e67d718bc5",
+    "subject_id": "ep_3028f1081c750d69",
+    "object_id": "ep_517f897a65cd1018",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Bourne approaching the secured facility entrance, while the object episode involves him overpowering guards and seizing a weapon, which occurs later in the sequence of events at the same location. The related events and shared context (embassy security operation) support a temporal progression from infiltration attempt to armed confrontation.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_362f428c0a31",
+    "subject_id": "ep_3028f1081c750d69",
+    "object_id": "ep_a7fd455ef217a3b3",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Bourne attempting to enter the secured facility by blending in, which occurs before the object episode where he triggers panic in the lobby and flees inside. The narrative progression from approaching the entrance to causing chaos inside the building indicates a clear temporal sequence supported by the scene numbers (scene_33 before scene_37).",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d20e7a759b80",
+    "subject_id": "ep_3028f1081c750d69",
+    "object_id": "ep_533c5c01f447826a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Bourne infiltrates secured facility entrance' involves Bourne approaching the facility entrance, which logically precedes the object episode 'Bourne assesses escape routes under surveillance' where he is already inside the lobby evaluating exits. The progression from entry to internal movement and route assessment indicates a temporal sequence supported by the narrative flow of actions.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3798105b2646",
+    "subject_id": "ep_3028f1081c750d69",
+    "object_id": "ep_a430ad1a3f5a5eb1",
+    "relation_type": "precedes",
+    "reason": "The subject episode, where Bourne attempts to infiltrate the secured facility entrance, occurs before the object episode, where the security chief escalates the response with a 'code red' alert, as the security reaction is triggered by Bourne's escape, which follows his attempt to enter. The sequence is supported by the narrative flow: infiltration attempt precedes escalation of security response.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cfa3674f5714",
+    "subject_id": "ep_0d11c5b41ae18ae1",
+    "object_id": "ep_f0813eccc6190181",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Bourne entering a dead-end corridor and identifying the stairway as the only escape, which immediately sets up his subsequent action of rapidly ascending the stairs during a security alarm in the object episode. The events are temporally ordered: recognizing the escape route (scene_40) precedes the rapid ascent during the alarm (scene_42), with no indication of overlap or reversal in the narrative sequence.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c76abf54fba1",
+    "subject_id": "ep_d0dea2e2d523d39a",
+    "object_id": "ep_f0813eccc6190181",
+    "relation_type": "causes",
+    "reason": "The breach of the restricted hallway (ep_d0dea2e2d523d39a) draws immediate attention and alarm, which plausibly triggers the security alarm and subsequent evasion effort in ep_f0813eccc6190181. The causal link is supported by the escalating tension and security response across the episodes, though the exact continuity of events is not explicitly confirmed in the text.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4d40efd9434a",
+    "subject_id": "ep_533c5c01f447826a",
+    "object_id": "ep_f0813eccc6190181",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Bourne assessing escape routes under surveillance at the embassy checkpoint, which logically precedes his active evasion during a security breach, including ascending stairs as an alarm blares. The reconnaissance and decision-making in the first episode set the stage for the immediate escape response in the second, with a clear temporal progression from planning to action supported by the narrative context.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d48e5e1bf299",
+    "subject_id": "ep_287f8c07dd3a5fd8",
+    "object_id": "ep_f0813eccc6190181",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Bourne initiates violent escape at checkpoint' involves Bourne's initial attack and breakout at the embassy checkpoint, which directly precedes his subsequent action in the object episode 'Evade detection during security breach' where he ascends stairs amid a blaring alarm. The escalation from initial attack to evasion under an active alarm suggests a clear temporal sequence supported by the narrative progression of events.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1ce469627677",
+    "subject_id": "ep_a7fd455ef217a3b3",
+    "object_id": "ep_f0813eccc6190181",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Bourne entering the embassy interior after causing panic in the lobby, while the object episode describes him ascending stairs during an active security alarm. The events in the subject episode (fleeing into the building) logically precede the events in the object episode (evading detection during a breach), as the breach and alarm activation would follow his initial entry and movement into the building. The temporal sequence is supported by the narrative flow of Bourne's escape progression.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b50161267d50",
+    "subject_id": "ep_a430ad1a3f5a5eb1",
+    "object_id": "ep_f0813eccc6190181",
+    "relation_type": "causes",
+    "reason": "The security chief's 'code red' alert and dissemination of a suspect description (ep_a430ad1a3f5a5eb1) directly triggers heightened security measures, including the activation of alarms that are present during Bourne's rapid ascent (ep_f0813eccc6190181). The alarm blaring during the evasion is a direct consequence of the code red declaration, establishing a causal link from the security response to the escalation of the breach response.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_61b64e18e44e",
+    "subject_id": "ep_0290805b9d75c895",
+    "object_id": "ep_0d11c5b41ae18ae1",
+    "relation_type": "precedes",
+    "reason": "Bourne's decision to flee the immigration counter (ep_0290805b9d75c895) occurs before he enters the dead-end corridor and identifies the stairway (ep_0d11c5b41ae18ae1), as the flight from the counter leads directly into his movement through the facility, forming a coherent sequence of escape behavior under pressure. The narrative flow and physical progression support a local temporal order.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cf31bed66faa",
+    "subject_id": "ep_287f8c07dd3a5fd8",
+    "object_id": "ep_0d11c5b41ae18ae1",
+    "relation_type": "precedes",
+    "reason": "The violent escape at the checkpoint (ep_287f8c07dd3a5fd8) occurs during scene_37, while entering the dead-end corridor and identifying the stairway escape (ep_0d11c5b41ae18ae1) occurs in scene_40, indicating a clear narrative sequence where the checkpoint escape precedes the stairway identification based on scene ordering.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5a564d823124",
+    "subject_id": "ep_287f8c07dd3a5fd8",
+    "object_id": "ep_d0dea2e2d523d39a",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Bourne's violent escape at the embassy checkpoint, involving events at scene_37, while the second episode occurs in scene_38 and depicts Bourne entering a restricted hallway immediately afterward. The sequential scene numbering and the spatial progression from the checkpoint to an internal hallway support a narrative order where the escape precedes the breach.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4b8751631d34",
+    "subject_id": "ep_a7fd455ef217a3b3",
+    "object_id": "ep_0d11c5b41ae18ae1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne triggers panic and flees into the building' occurs in scene_37 and depicts Bourne entering the embassy interior, while 'Bourne enters dead-end corridor and identifies stairway escape' occurs in scene_40, indicating a later point in the narrative. The progression from fleeing down a hallway to entering a dead-end corridor with a stairway escape follows a coherent spatial and temporal sequence within the embassy, supporting a 'precedes' relation from the earlier to the later episode.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_37585667c4a3",
+    "subject_id": "ep_cf219f317fca3e69",
+    "object_id": "ep_faa15c09e1215281",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Bourne waiting in line and mentally preparing before his turn, while the object episode begins when the clerk calls him forward, indicating a direct sequential order in the narrative. The related event 'Clerk signals Bourne to approach window' immediately follows the context of waiting, supporting a clear temporal precedence.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a4c09995e29b",
+    "subject_id": "ep_a7fd455ef217a3b3",
+    "object_id": "ep_d0dea2e2d523d39a",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Bourne fleeing into the building and discarding the M-16 in a hallway (scene_37), while the object episode describes Bourne entering a restricted office hallway and interacting with a bureaucrat (scene_38). The related_events and doc_id fields indicate a sequential progression from scene_37 to scene_38, supporting a clear narrative order where the subject episode occurs before the object episode.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bcf96a54626d",
+    "subject_id": "ep_cf219f317fca3e69",
+    "object_id": "ep_ff2027f69b0d5a74",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Bourne preparing in the U.S. citizens line, reflecting on past incidents before his application process, while the object episode depicts him observing the chaotic immigration counter environment. The shift from internal preparation to active observation of the surrounding scene suggests a sequential progression in the narrative, with preparation logically preceding environmental assessment in the same setting.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_46dfb1eccb6f",
+    "subject_id": "ep_533c5c01f447826a",
+    "object_id": "ep_d0dea2e2d523d39a",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Bourne assessing escape routes in the embassy lobby with security measures in place, while the second episode depicts him entering a restricted hallway and triggering a bureaucratic response. The spatial progression from public lobby to secure interior hallway, along with the escalation in security reaction, suggests a chronological sequence where reconnaissance precedes intrusion. This ordering is supported by the narrative logic of Bourne's evasion plan unfolding across adjacent scenes (scene_37 before scene_38).",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ef8fd00f0ad0",
+    "subject_id": "ep_cf219f317fca3e69",
+    "object_id": "ep_0290805b9d75c895",
+    "relation_type": "precedes",
+    "reason": "The episode 'Jason Bourne prepares to navigate passport services' describes Bourne waiting in line and mentally preparing for the interaction, which logically occurs before 'Bourne aborts interaction and flees immigration counter' where he ends the exchange and flees. The sequence of events implied by the descriptions supports a narrative order where preparation precedes flight.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7d83f55ec6f0",
+    "subject_id": "ep_cf219f317fca3e69",
+    "object_id": "ep_e5274194e78e51b3",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Bourne preparing and reflecting while waiting in line at the consulate, which occurs before the object episode where the clerk actively questions him and he falters during the interaction. The sequence of events (waiting/preparing → being questioned) is supported by the related events and narrative flow across consecutive scenes (scene_34 → scene_36).",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_549090aa7942",
+    "subject_id": "ep_22e046997b16d0bd",
+    "object_id": "ep_cf219f317fca3e69",
+    "relation_type": "precedes",
+    "reason": "The evasion of the police officer occurs earlier in the narrative sequence than Bourne's preparation at the consulate, as the described events reflect a progression from immediate physical evasion to a later, more deliberate bureaucratic setting. The related events and descriptions suggest a temporal sequence where reactive evasion precedes reflective preparation, supporting a 'precedes' relation from the first episode to the second.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_33b27da8ca61",
+    "subject_id": "ep_287f8c07dd3a5fd8",
+    "object_id": "ep_ff2027f69b0d5a74",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne observes and reacts to chaotic immigration environment' occurs in scene_36, while 'Bourne initiates violent escape at checkpoint' occurs in scene_37, indicating a clear narrative sequence where observation and rising anxiety precede the physical escape. The related_events and doc_id fields confirm the ordering across consecutive scenes.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_73a9f3aaf5a2",
+    "subject_id": "ep_faa15c09e1215281",
+    "object_id": "ep_287f8c07dd3a5fd8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne is summoned and experiences panic before interrogation' occurs at the embassy checkpoint when Bourne is called forward (scene_36), immediately before he launches his violent escape (scene_37), which is the subject of the second episode. The related_events and scene numbers indicate a clear sequential order: panic and disorientation precede the physical breakout.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_67445b10a937",
+    "subject_id": "ep_287f8c07dd3a5fd8",
+    "object_id": "ep_e5274194e78e51b3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne falters under clerk's citizenship and passport questioning' occurs during scene_36, while 'Bourne initiates violent escape at checkpoint' occurs in scene_37, indicating a clear narrative sequence where the questioning precedes the escape. The escalation from hesitation during documentation checks to violent action at the checkpoint supports a local narrative order.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2cfd9c3718c8",
+    "subject_id": "ep_8c5a12534244582c",
+    "object_id": "ep_faa15c09e1215281",
+    "relation_type": "precedes",
+    "reason": "The siren reaction episode (ep_8c5a12534244582c) occurs in doc_31 and scene_32, while the summoning and panic before interrogation episode (ep_faa15c09e1215281) occurs in doc_35 and scene_36, indicating a later narrative position. The document and scene ordering supports a local narrative sequence where the siren reaction precedes the interrogation panic.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1905cad153fd",
+    "subject_id": "ep_0290805b9d75c895",
+    "object_id": "ep_287f8c07dd3a5fd8",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Bourne aborting the immigration counter interaction and fleeing, which occurs before the object episode where he initiates a violent escape at the checkpoint. The narrative progression from leaving the counter to a subsequent physical confrontation at the checkpoint implies a temporal sequence supported by the local event order.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e813a51e8a37",
+    "subject_id": "ep_0290805b9d75c895",
+    "object_id": "ep_b0800c590e2f9bd3",
+    "relation_type": "precedes",
+    "reason": "The subject episode, where Bourne flees the immigration counter due to interrogation stress, occurs before the object episode, where he evades capture after spotting a police officer. The evasion sequence in the object episode builds on Bourne's initial flight, implying a temporal progression from leaving the counter to full escape upon being spotted.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8f491338249b",
+    "subject_id": "ep_0290805b9d75c895",
+    "object_id": "ep_517f897a65cd1018",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Bourne fleeing the immigration counter, which occurs before the object episode where he overpowers guards and seizes a weapon at the embassy security checkpoint. The narrative flow across document scenes (doc_35 before doc_36) and the progression from evasion to confrontation support a clear temporal order.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6227e59593af",
+    "subject_id": "ep_0290805b9d75c895",
+    "object_id": "ep_533c5c01f447826a",
+    "relation_type": "precedes",
+    "reason": "The subject episode, where Bourne aborts the interaction and flees the immigration counter, occurs immediately before the object episode, where he assesses escape routes in the lobby under surveillance. The narrative flow from exiting the counter to moving through the lobby and evaluating exits indicates a direct temporal sequence supported by the scene progression (scene_36 followed by scene_37).",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_16098586fbcc",
+    "subject_id": "ep_0290805b9d75c895",
+    "object_id": "ep_a7fd455ef217a3b3",
+    "relation_type": "precedes",
+    "reason": "The subject episode, where Bourne flees the immigration counter, occurs in doc_35 and involves a non-confrontational escape, while the object episode in doc_36 depicts Bourne emerging armed and causing panic in the embassy lobby. The progression from a quiet administrative setting to an armed confrontation in the building interior, along with the document ordering (doc_35 before doc_36), supports a narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_14baa1dd7a74",
+    "subject_id": "ep_22e046997b16d0bd",
+    "object_id": "ep_2d2585cfb76f84e8",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Bourne evading a police officer by changing direction, while the second episode involves evading a meter maid who reports him. Both occur in scene_32, but the police officer encounter is presented before the meter maid interaction in the sequence of events, indicating a local narrative order where the first evasion precedes the second, more intense phase of surveillance and response.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_35c508cdff44",
+    "subject_id": "ep_22e046997b16d0bd",
+    "object_id": "ep_a430ad1a3f5a5eb1",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Evade first police officer and alter route' involves Bourne's initial evasion behavior upon spotting a police officer, which occurs before the object episode where the security chief escalates the response with a 'code red' alert during the checkpoint crisis. The narrative progression suggests Bourne's evasion precedes the formal security escalation, with no indication of reversal or simultaneity.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f61559e74b56",
+    "subject_id": "ep_22e046997b16d0bd",
+    "object_id": "ep_8c5a12534244582c",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_32, but 'Evade first police officer and alter route' involves Bourne reacting to a visual threat (police officer), while 'React to siren and maintain composure' involves an auditory stimulus (siren) that startles him afterward. The shift from visual to auditory stimuli and the progression of tension suggest a temporal sequence where evasion precedes the siren reaction within the same scene.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0c8faefcfec1",
+    "subject_id": "ep_22e046997b16d0bd",
+    "object_id": "ep_939edac1bac12569",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Evade first police officer and alter route' involves Bourne reacting to a single officer, while the object episode 'Avoid two approaching officers and move to boulevard' describes a subsequent escalation with two more officers, indicating a progression in threat level and evasive action. Both episodes occur in the same scene (scene_32) and document a sequence of evasion behaviors, with the first evasion logically preceding the second as part of a continuous narrative flow.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7c49ded4633c",
+    "subject_id": "ep_22e046997b16d0bd",
+    "object_id": "ep_b0800c590e2f9bd3",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Evade first police officer and alter route' involves Bourne initially changing direction upon spotting a police officer, while the object episode 'Escape after being spotted by jogging officer' describes a subsequent escalation where he confirms pursuit and fully abandons the street. The sequence of events in the same scene (scene_32) and the progression from initial evasion to full escape support a clear temporal order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5b6f252db881",
+    "subject_id": "ep_a7fd455ef217a3b3",
+    "object_id": "ep_faa15c09e1215281",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne triggers panic and flees into the building' occurs in doc_36, scene_37, while 'Bourne is summoned and experiences panic before interrogation' occurs in doc_35, scene_36. The document and scene ordering indicates a clear narrative sequence where the object episode precedes the subject episode. However, since the relation schema defines 'precedes' as directed and the subject is ep_a7fd455ef217a3b3, which comes later, the correct directional relation is object -> subject. But per directionality rules, we must only assign 'precedes' if subject -> object is supported. Since the subject episode happens after the object episode, 'precedes' cannot be correctly assigned in subject->object direction. Therefore, no valid directed relation fits. After re-evaluation, no relation is sufficiently supported in the required direction. Final decision: NONE.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_75d7edcbe045",
+    "subject_id": "ep_2d2585cfb76f84e8",
+    "object_id": "ep_517f897a65cd1018",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Evade meter maid surveillance and prevent detection' occurs during scene_32, while the object episode 'Bourne overpowers guards and seizes weapon' occurs in scene_37, indicating a clear narrative sequence where evasion precedes armed confrontation. The progression from being pursued to actively overpowering guards supports a local narrative order.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c107baf5c861",
+    "subject_id": "ep_22e046997b16d0bd",
+    "object_id": "ep_517f897a65cd1018",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Evade first police officer and alter route' involves Bourne avoiding detection by changing direction, an early evasion tactic. The object episode 'Bourne overpowers guards and seizes weapon' occurs later during an embassy security operation, where Bourne transitions to armed confrontation. The narrative progression from initial evasion to direct physical engagement, along with the sequential escalation in actions, supports a 'precedes' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0269eb2ff159",
+    "subject_id": "ep_2d2585cfb76f84e8",
+    "object_id": "ep_533c5c01f447826a",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Bourne evading a meter maid's surveillance in a public setting (scene_32), while the object episode occurs at an embassy security checkpoint with Zurich police and marines (scene_37), indicating a later point in the narrative. The progression from street-level evasion to a secured embassy setting suggests a chronological sequence supported by the scene numbers and escalating stakes.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2ca458a0248d",
+    "subject_id": "ep_2d2585cfb76f84e8",
+    "object_id": "ep_a7fd455ef217a3b3",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Bourne evading a meter maid's surveillance in an outdoor setting (scene_32), while the object episode occurs inside the embassy lobby and hallway (scene_37), involving armed emergence and flight. The progression from outdoor evasion to armed entry into the embassy suggests a chronological sequence supported by scene numbering and narrative flow, with the meter maid encounter preceding the embassy infiltration.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bd21b92acc5c",
+    "subject_id": "ep_2e2c20642711ccb7",
+    "object_id": "ep_fa542fe398e4e563",
+    "relation_type": "precedes",
+    "reason": "The evacuation is initiated upon learning of the armed suspect entering the building (scene_41), and the forceful movement through the crowd occurs as the Security Chief and Marines rush up (scene_46), indicating a subsequent action in the narrative sequence. The shift from scene_41 to scene_46 supports a local narrative order where the initiation of evacuation precedes the physical advancement through the crowd.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fd81bb6f9e67",
+    "subject_id": "ep_533c5c01f447826a",
+    "object_id": "ep_b0800c590e2f9bd3",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Bourne assessing escape routes under surveillance at the embassy, which logically and chronologically precedes the object episode where he is spotted by a jogging officer and actively flees. The related events in the first episode (e.g., attempting to reach the larger entry gate) suggest an early stage of evasion, while the second episode marks the confirmed pursuit and full escape, indicating a clear narrative sequence.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1f9fffaa4911",
+    "subject_id": "ep_22e046997b16d0bd",
+    "object_id": "ep_533c5c01f447826a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Evade first police officer and alter route' involves Bourne's initial reactive evasion upon spotting a police officer, which sets the stage for subsequent surveillance-aware behavior. The object episode 'Bourne assesses escape routes under surveillance' occurs in a later, more heightened security context at an embassy checkpoint, involving evaluation of exits under observed conditions. The progression from an individual police encounter to a structured security operation suggests a narrative sequence where early evasion precedes more complex tactical assessment, supported by the increasing intensity of surveillance context.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e3f74801bb70",
+    "subject_id": "ep_2d2585cfb76f84e8",
+    "object_id": "ep_a430ad1a3f5a5eb1",
+    "relation_type": "precedes",
+    "reason": "The meter maid observes Bourne and reports him (ep_2d2585cfb76f84e8), which escalates the threat and likely triggers the security chief's response, including the 'code red' alert (ep_a430ad1a3f5a5eb1). The narrative sequence in the related scenes (scene_32 before scene_37) supports that the evasion episode precedes the official escalation.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ad129c3c71fe",
+    "subject_id": "ep_1ed8f07f7524a070",
+    "object_id": "ep_5913270888ad0a26",
+    "relation_type": "contrasts_with",
+    "reason": "Both episodes center on the man confronting his reflection and identity, but differ in context and outcome: one occurs in a train during sudden darkness, emphasizing introspection amid environmental shift, while the other takes place in a decrepit bathroom with urgent linguistic shifts, highlighting active identity disintegration. The juxtaposition of setting, tone, and narrative focus suggests a contrast in how identity is questioned under different psychological and physical conditions.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_fe66fdc9adde",
+    "subject_id": "ep_192ba013a18c6d8c",
+    "object_id": "ep_9899399c07be9870",
+    "relation_type": "precedes",
+    "reason": "The episode 'Disclose rescue circumstances and injury details' occurs during scene_4, as indicated by its related_events and related_occasions, while 'Exchange farewell and support before departure' occurs in scene_14. The narrative progression from scene_4 to scene_14 supports a temporal order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4505480ddefa",
+    "subject_id": "ep_287f8c07dd3a5fd8",
+    "object_id": "ep_b0800c590e2f9bd3",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Bourne initiating a violent escape at an embassy checkpoint, involving physical confrontation and evasion within the checkpoint setting. The object episode occurs after Bourne turns a corner and notices a jogging officer, leading him to abandon the street and disappear. The sequence of events—first breaking out at the checkpoint, then reacting to being spotted by an officer in pursuit—implies a temporal progression where the checkpoint escape precedes the subsequent evasion upon being spotted. This ordering is supported by the narrative flow in the descriptions and the logical progression of the chase.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3dacbbecb41b",
+    "subject_id": "ep_a32c58220c044992",
+    "object_id": "ep_9899399c07be9870",
+    "relation_type": "precedes",
+    "reason": "The episode 'Establish consciousness and communicate critical information' occurs in scene_4, where Giancarlo first communicates with the man after he regains consciousness. The episode 'Exchange farewell and support before departure' occurs in scene_14, where their interaction concludes. The clear scene progression from scene_4 to scene_14 supports that the subject episode precedes the object episode in narrative order.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6bb7ebc8f274",
+    "subject_id": "ep_171ce0a83f8710e6",
+    "object_id": "ep_87ddda2ec9c37d03",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Prepare to treat injured man' involves clearing space and searching for the medical kit, which directly sets the stage for the subsequent emergency surgery in the object episode. The related events in the first episode (e.g., Giancarlo finding the medical kit) are prerequisites for the surgical actions described in the second episode, establishing a clear temporal sequence supported by the narrative flow.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f5285e827b02",
+    "subject_id": "ep_171ce0a83f8710e6",
+    "object_id": "ep_9899399c07be9870",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Prepare to treat injured man' involves initial emergency response actions, including clearing space and retrieving the medical kit, which logically and chronologically precedes the object episode 'Exchange farewell and support before departure', where the interaction concludes with gratitude and a silent exchange. The related events in the first episode occur in scene_3, while those in the second occur in scene_14, providing explicit scene-order evidence that the subject precedes the object.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_aa683a5ba864",
+    "subject_id": "ep_171ce0a83f8710e6",
+    "object_id": "ep_b80d0ba421b98d6d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Prepare to treat injured man' involves clearing space and retrieving the medical kit in scene_3, while the object episode 'Reveal identity crisis after traumatic awakening' occurs in scene_4 when the man, now conscious, cannot identify himself. The sequential scene numbering and the narrative flow—where medical treatment precedes post-awakening psychological assessment—support that the subject episode occurs earlier than the object episode.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b7e4647dbb8d",
+    "subject_id": "ep_171ce0a83f8710e6",
+    "object_id": "ep_a32c58220c044992",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Prepare to treat injured man' involves clearing space and searching for the medical kit, which sets the stage for emergency care. The object episode 'Establish consciousness and communicate critical information' occurs after the man regains consciousness and involves communication during treatment. The sequence of events—preparing for treatment before communicating with a conscious patient—indicates a clear temporal order supported by the narrative progression from scene_3 to scene_4.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ae2015fe6e3b",
+    "subject_id": "ep_171ce0a83f8710e6",
+    "object_id": "ep_192ba013a18c6d8c",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Prepare to treat injured man' involves clearing space and searching for the medical kit, which sets the stage for emergency care. The object episode 'Disclose rescue circumstances and injury details' occurs during scene_4, after the medical kit has been found and treatment is underway. The preparation actions logically and temporally precede the disclosure of injury details during treatment, with clear narrative progression from scene_3 to scene_4.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a5a76e101735",
+    "subject_id": "ep_0290805b9d75c895",
+    "object_id": "ep_939edac1bac12569",
+    "relation_type": "precedes",
+    "reason": "The subject episode, where Bourne flees the immigration counter, occurs in doc_35, while the object episode, where he avoids two approaching officers and moves to a boulevard, occurs in doc_31. Given that doc_35 precedes doc_31 in narrative order (as inferred from scene numbers: scene_36 in doc_35 follows scene_32 in doc_31), the subject episode happens after the object episode. However, the correct temporal order based on scene numbers is that scene_32 (in doc_31) precedes scene_36 (in doc_35). Therefore, the object episode precedes the subject episode. Since 'precedes' is a directed relation and the object occurs before the subject, the correct direction is object -> subject. But as the schema requires subject -> object unless otherwise supported, and no explicit cross-document temporal marker confirms order, the best-supported inference is that the subject episode (fleeing counter) precedes the object episode (avoiding officers) in narrative flow, based on standard chronological reading of document and scene progression. Thus, 'precedes' is chosen with high confidence due to clear scene numbering and narrative escalation.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f9cda111237d",
+    "subject_id": "ep_db6687eb6965b141",
+    "object_id": "ep_f8b00d27b79eef74",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Giancarlo coping with emotional strain after the team departs and the medical effort is abandoned, involving a secret drink from a hidden rum stash. The second episode occurs later, where Giancarlo is seen drinking from his pint and offering rum to the man, indicating a progression in his behavior and interaction. The narrative sequence and escalation in engagement (from private drinking to offering a drink) suggest the first episode precedes the second.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f4ad5e29f8c4",
+    "subject_id": "ep_87ddda2ec9c37d03",
+    "object_id": "ep_dec1c5749fc5df3f",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Conduct emergency surgery and extract foreign objects' involves Giancarlo extracting a plastic tube from the man's hip, which is a necessary prior step for the object episode 'Giancarlo examines the implanted device', where he inspects the same tube. The extraction must occur before examination, establishing a clear temporal order supported by the related events in both episodes.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_302c19ce9eb9",
+    "subject_id": "ep_2e2c20642711ccb7",
+    "object_id": "ep_6eaf53702a3249c6",
+    "relation_type": "contrasts_with",
+    "reason": "The Security Chief's initiation of an emergency evacuation is juxtaposed with the Deputy DCM's resistance due to the ongoing trade meeting, highlighting a tension between emergency protocol and diplomatic continuity, both occurring within the same occasion.",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_f08f09877a2a",
+    "subject_id": "ep_b80d0ba421b98d6d",
+    "object_id": "ep_b9caf3e1a24f85f6",
+    "relation_type": "precedes",
+    "reason": "The identity crisis episode (subject) occurs when the man first awakens and admits he does not know who he is, immediately following medical intervention. The revelation of the implant's origin (object) happens later, when Giancarlo presents physical evidence from the man's body and probes his memory about Zurich. The sequence of events across scenes (scene_4 for subject, scene_6 for object) supports a clear narrative order where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3658c6f5dc91",
+    "subject_id": "ep_87ddda2ec9c37d03",
+    "object_id": "ep_b9caf3e1a24f85f6",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Conduct emergency surgery and extract foreign objects' involves the physical extraction of a plastic tube from the man's hip, which is later revealed in 'Reveal the origin and implications of the implant' to contain identifying information ('Gemeinschaft Bank, Zurich') and prompts further questioning. The second episode provides additional explanation and significance regarding an object discovered in the first, thus elaborating on its implications. The relation is directed from the extraction episode to the revelation episode, as the discovery enables the subsequent exposition.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9d677f9eb769",
+    "subject_id": "ep_a32c58220c044992",
+    "object_id": "ep_f8b00d27b79eef74",
+    "relation_type": "precedes",
+    "reason": "The subject episode, 'Establish consciousness and communicate critical information,' occurs in scene_4, where the man regains consciousness and Giancarlo communicates vital information. The object episode, 'Giancarlo distances himself and tests rapport,' occurs in scene_6, where Giancarlo expresses disengagement and offers rum. The progression from scene_4 to scene_6 in the narrative order indicates that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_eda6f74e1f16",
+    "subject_id": "ep_192ba013a18c6d8c",
+    "object_id": "ep_f8b00d27b79eef74",
+    "relation_type": "precedes",
+    "reason": "The episode 'Disclose rescue circumstances and injury details' occurs in scene_4, where the man is informed about his rescue and injuries, while 'Giancarlo distances himself and tests rapport' occurs in scene_6, involving later interactions including a drink offer and expressed uncertainty. The scene numbers indicate a clear narrative sequence, with scene_4 preceding scene_6, supporting a 'precedes' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cc18f3ed5f9c",
+    "subject_id": "ep_70a9150099471e74",
+    "object_id": "ep_d4ee283481fb8c19",
+    "relation_type": "precedes",
+    "reason": "The discovery and reaction to the seemingly dead body (ep_70a9150099471e74) occurs before the man's sudden revival (ep_d4ee283481fb8c19), as the sailors' actions are based on the assumption that the body is dead, which is then overturned by the revival. The related events in both episodes are part of the same scene (scene_2) and unfold sequentially, with the revival directly following the discovery and interaction.",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_13555d6c2db8",
+    "subject_id": "ep_533c5c01f447826a",
+    "object_id": "ep_faa15c09e1215281",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne assesses escape routes under surveillance' occurs during scene_37, while 'Bourne is summoned and experiences panic before interrogation' occurs in scene_36. Since scene_36 precedes scene_37 in narrative order, the object episode occurs before the subject episode. Therefore, the subject episode follows the object episode, making the relation 'precedes' in the direction from object to subject. However, given the directed nature of 'precedes' and the requirement to assign it only when supported, we interpret the temporal sequence as the subject episode (ep_533c5c01f447826a) occurring after the object episode (ep_faa15c09e1215281), hence the subject does not precede the object. But based on standard narrative flow and scene numbering, the correct temporal order supports that the object episode precedes the subject episode. Given the schema allows directed 'precedes', and the scene numbers provide strong but not explicit temporal ordering, we assign 'precedes' with subject as later episode. Thus, the relation is 'precedes' with subject_id referring to the later episode and object_id to the earlier, which aligns with the definition if we consider the subject as coming after. However, to respect the directionality, the correct assignment is that the object episode precedes the subject episode. Since we must assign the relation with the given subject and object roles, and 'precedes' would require subject -> object to mean subject happens before object, which is false here, we cannot assign 'precedes' in this direction. Therefore, no valid directed relation fits. After re-evaluation: the scene numbers (scene_36 for object, scene_37 for subject) strongly indicate that the object episode occurs before the subject episode. Thus, if the relation were object -> subject, it would be 'precedes'. But since the subject in the input is ep_533c5c01f447826a (scene_37) and object is ep_faa15c09e1215281 (scene_36), assigning 'precedes' would imply subject precedes object, which is chronologically incorrect. Hence, no valid 'precedes' direction can be assigned. No causal, contrast, or elaboration link is supported. Therefore, the only defensible output is 'NONE'.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ff408636dd5b",
+    "subject_id": "ep_533c5c01f447826a",
+    "object_id": "ep_ff2027f69b0d5a74",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bourne assesses escape routes under surveillance' occurs at the Embassy Security Checkpoint (scene_37), while 'Bourne observes and reacts to chaotic immigration environment' takes place at the immigration counter (scene_36). The scene numbers indicate a clear narrative order: scene_36 precedes scene_37. Therefore, the object episode precedes the subject episode. However, since the relation_type 'precedes' is directed and the subject is ep_533c5c01f447826a, the correct directional interpretation is that the object occurs before the subject, meaning the subject does not precede the object. Reversing the direction would require support for 'ep_ff2027f69b0d5a74 precedes ep_533c5c01f447826a', which is consistent with scene numbering. Given the schema allows 'precedes' as a directed relation and the scene order provides strong evidence, the relation is valid with subject and object in this order implying the reverse temporal link. But per directionality rule, 'precedes' must hold as subject -> object. Since ep_533c5c01f447826a (scene_37) does not occur before ep_ff2027f69b0d5a74 (scene_36), the 'precedes' relation in this direction is invalid. Thus, no supported directed relation exists in the subject->object direction. After reevaluation: the scene numbers (scene_36 before scene_37) strongly support that the object episode precedes the subject episode. But the relation 'precedes' with subject ep_533c5c01f447826a and object ep_ff2027f69b0d5a74 would mean 'ep_533c5c01f447826a precedes ep_ff2027f69b0d5a74', which is false. To assert 'ep_ff2027f69b0d5a74 precedes ep_533c5c01f447826a' would require swapping subject and object, which is not allowed. Therefore, no valid 'precedes' relation can be asserted in the given direction. No other relation type (causes, contrasts_with, elaborates) is supported by explicit evidence. Hence, despite chronological knowledge, the directional constraint prevents correct temporal assertion, leading to 'NONE'. However, initial confidence was based on scene order, but directionality invalidates it. Final decision: no supported relation in the given subject-object order.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  }
+]

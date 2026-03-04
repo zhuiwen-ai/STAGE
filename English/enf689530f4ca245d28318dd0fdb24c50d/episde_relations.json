@@ -1,0 +1,1797 @@
+[
+  {
+    "id": "rel_ep_ep_97008180e179",
+    "subject_id": "ep_69f2148d6794d62e",
+    "object_id": "ep_dd0996411d4c06ef",
+    "relation_type": "causes",
+    "reason": "The discovery of the baby and Queenie's reaction in the first episode directly triggers her decision to keep the baby in the second episode, as she responds to the infant's abandonment and condition immediately after its discovery and Tizzy's concern.",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1cb951e64188",
+    "subject_id": "ep_9cc00e69d46ebc54",
+    "object_id": "ep_6ec78bf025589241",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Serve dinner to the boarders' establishes the setting and routine of the evening meal, during which the event of correcting Benjamin's table behavior occurs; the latter episode provides a specific interaction that unfolds within the broader context of dinner service, thus elaborating on the social dynamics of the shared occasion.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_abc83653801a",
+    "subject_id": "ep_45a80280d3e8a23b",
+    "object_id": "ep_ab3fd7d809c07ec9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront the dying wife and deliver final promises' occurs immediately before 'Discover the infant's shocking appearance and flee' within scene_21, as Thomas first attends to his dying wife and only afterward approaches the infant. The sequence of related events in the same scene supports a clear narrative order.",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c7f00b9dc21e",
+    "subject_id": "ep_f9c22998da796826",
+    "object_id": "ep_131b552b929f464d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reveal Benjamin's true age and affirm his faith' occurs before the command to walk and the subsequent walk across the stage, as establishing Benjamin's identity and faith precedes the physical demonstration of that faith in the narrative sequence of scene_42.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_42_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_99bb692ac897",
+    "subject_id": "ep_3704f6c3d6d82e99",
+    "object_id": "ep_46b4bce9091d4925",
+    "relation_type": "causes",
+    "reason": "The diagnosis of the Baby's condition by Doctor Rose directly triggers Queenie's emotional distress and Doctor Rose's subsequent questioning of the Baby's origin, as described in the object Episode's reaction to the shocking medical findings.",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_28a3ab8ca560",
+    "subject_id": "ep_d6020c8debef3675",
+    "object_id": "ep_131b552b929f464d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Force Benjamin to rise after collapse' occurs immediately before 'Guide Benjamin's walk of faith to completion' within the same scene (scene_42), as Benjamin collapses during his walk, is commanded to rise, and then continues walking to completion, indicating a clear temporal sequence.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_42_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4e20ea59cbb1",
+    "subject_id": "ep_45a80280d3e8a23b",
+    "object_id": "ep_25fa1b8be4ca99fb",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront the dying wife and deliver final promises' occurs just before 'Respond to the baby's unnatural cry' in scene_21, as the wife's death is immediately followed by the newborn's cry, establishing a clear local narrative order.",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d605510a2864",
+    "subject_id": "ep_de302bdf1c483570",
+    "object_id": "ep_f2050c1522ca6170",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Benjamin's demonic affliction' involves the preacher questioning Benjamin and attempting exorcism, which directly precedes the moment when he commands Benjamin to rise from the wheelchair in the same scene (scene_42), indicating a clear sequential order within the narrative flow of the revival meeting.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_42_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5a6aeb558c5d",
+    "subject_id": "ep_cf3ab441bc7b7489",
+    "object_id": "ep_bd35fbc7aef928b3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Benjamin disrupts the porch routine' includes Benjamin wheeling his chair and being stopped by the old man, which directly precedes the state described in 'Benjamin observes life on the porch' where he is now passively seated and observing. The disruption ends with the old man stopping him, leading into the subsequent calm observation, indicating a clear local narrative order.",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_329b17efa9b6",
+    "subject_id": "ep_f2050c1522ca6170",
+    "object_id": "ep_131b552b929f464d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Command Benjamin to rise from the wheelchair' must occur before 'Guide Benjamin's walk of faith to completion' because Benjamin must stand from his wheelchair before he can hobble across the stage. Both episodes occur in the same scene and occasion, and the sequence of related events indicates a clear temporal order: standing precedes walking.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_42_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4fefd78ec8b7",
+    "subject_id": "ep_bd35fbc7aef928b3",
+    "object_id": "ep_ea24b760502ce077",
+    "relation_type": "precedes",
+    "reason": "The episode 'Benjamin observes life on the porch' involves passive observation among the elderly, which sets the initial scene before Benjamin actively wheels himself to the edge to see the street in the second episode. The shift from passive observation to active movement, followed by intervention for safety, suggests a temporal progression where the first episode precedes the second within the same scene (scene_35).",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d09f56e22c43",
+    "subject_id": "ep_ac96690aaeec9147",
+    "object_id": "ep_36773c24ab2208aa",
+    "relation_type": "precedes",
+    "reason": "The episode 'Introduce Benjamin to the group' occurs first, where Queenie brings the baby and introduces him to the Old People, setting the context for care. This is immediately followed by 'Reveal the baby's condition and elicit reactions', where Queenie discloses Benjamin's condition and the group reacts. The sequence of events in scene_30 supports a clear narrative order: introduction precedes the revelation and reactions.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_18c4a1c80665",
+    "subject_id": "ep_8ef1b2ae6ecaef58",
+    "object_id": "ep_1ec7c00e7b484c22",
+    "relation_type": "causes",
+    "reason": "The lantern revealing Thomas directly leads to the policeman confronting him, which in turn prompts Thomas to flee with the crying baby; the description of the object episode explicitly states that the confrontation initiates a direct challenge, creating the immediate tension that results in the flight, constituting a clear causal chain supported by the narrative sequence.",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_715920db77f5",
+    "subject_id": "ep_45a80280d3e8a23b",
+    "object_id": "ep_767bca3ae1364be8",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Confront the dying wife and deliver final promises' ends with the wife's death, which is immediately followed by the object episode 'Witness the wife's death and perform rites' that begins with the doctor confirming her death and covering her body. The related events in both episodes occur in scene_21 and are sequentially ordered, with the wife's death preceding the rituals and mourning behaviors described in the second episode.",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_12038e3a1f3c",
+    "subject_id": "ep_cafe1c4394a614ed",
+    "object_id": "ep_f758654f1f114425",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Caroline retrieves the journal and prepares to read it at Daisy's request, occurs immediately before the object episode, where she begins reading the journal aloud. The related events and narrative flow in the same scene (scene_18) support a direct temporal sequence: retrieval and preparation precede the act of reading.",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_882d1961d376",
+    "subject_id": "ep_9888513418dd926b",
+    "object_id": "ep_3f0cb988fdc24be8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Daisy shows signs of physical and mental decline' describes Daisy's increasing discomfort and agitation, which prompts Dorothy's intervention. The subsequent episode, 'Dorothy eases Daisy's final suffering', involves increasing morphine to alleviate that suffering, indicating a clear temporal sequence where the decline precedes the palliative response.",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_544b400d7fd9",
+    "subject_id": "ep_f2050c1522ca6170",
+    "object_id": "ep_4edf4b465b1563b2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Command Benjamin to rise from the wheelchair' occurs before the preacher's collapse and death, as both events take place during the same revival meeting (scene_42) and the command to rise is part of the preacher's active exaltation immediately prior to his sudden coronary. The narrative sequence in the shared occasion supports this temporal order.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_42_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_227408d3fed1",
+    "subject_id": "ep_bfc06e7496d67dd8",
+    "object_id": "ep_36773c24ab2208aa",
+    "relation_type": "precedes",
+    "reason": "The Old Woman offers to care for the baby and uncovers his face (ep_bfc06e7496d67dd8), which immediately precedes Queenie revealing the baby's condition and the group's reaction (ep_36773c24ab2208aa), as both occur in scene_30 and the uncovering of the face logically comes before the revelation and subsequent reactions.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_cff4d15f8967",
+    "subject_id": "ep_3704f6c3d6d82e99",
+    "object_id": "ep_ffea26f331ccf7b9",
+    "relation_type": "causes",
+    "reason": "The diagnosis of the Baby's condition by Doctor Rose directly leads to the debate about the Baby's fate, as the medical findings prompt Doctor Rose to recommend institutionalization and provoke Queenie's emotional counterclaim. The causal link is supported by the shared scene (scene_29) and the logical progression from medical assessment to ethical deliberation.",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fc5ad5f7716c",
+    "subject_id": "ep_ac96690aaeec9147",
+    "object_id": "ep_bfc06e7496d67dd8",
+    "relation_type": "precedes",
+    "reason": "The introduction of Benjamin to the group (ep_ac96690aaeec9147) occurs before the Old Woman offers to care for the baby (ep_bfc06e7496d67dd8), as shown by the sequence of related events in scene_30: Queenie first introduces Benjamin and gains attention, then the Old Woman speaks up and requests to hold him.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5e0215b84c6f",
+    "subject_id": "ep_c3c49dd0dd0af94b",
+    "object_id": "ep_83552215894fbeb6",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Correct misreading and assert authority' establishes Tizzy's literacy and authority through a direct correction, which is then expanded upon in 'Confront assumption of ignorance' where Tizzy links the misreading to a broader assertion of identity and heritage. The second episode provides deeper context and personal significance to the earlier moment, elaborating on its implications for Tizzy's self-presentation and relationship with Benjamin.",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b7231166e2ea",
+    "subject_id": "ep_42bf5857f60c8607",
+    "object_id": "ep_074198821f530bd7",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bid farewell to the departing son' describes the son leaving with soldiers, which must temporally precede the episode 'Mr. Gateau retires after learning of his son's death', as the death and its aftermath can only occur after the departure. The narrative order across documents and the causal dependency on the son's absence support this sequence.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ff444bea89a9",
+    "subject_id": "ep_f2050c1522ca6170",
+    "object_id": "ep_d6020c8debef3675",
+    "relation_type": "precedes",
+    "reason": "The episode 'Command Benjamin to rise from the wheelchair' describes Benjamin successfully standing from his wheelchair, while the episode 'Force Benjamin to rise after collapse' describes a subsequent collapse and renewed command for him to rise. The sequence of events in the same scene (scene_42) and the progression from standing to collapsing implies a temporal order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_42_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_197bc3c05088",
+    "subject_id": "ep_d6020c8debef3675",
+    "object_id": "ep_4edf4b465b1563b2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Force Benjamin to rise after collapse' occurs earlier in the narrative sequence of scene_42, as it involves the preacher actively commanding Benjamin to rise, while the subsequent episode describes the preacher's own collapse and death. The shared occasion (Negro Gospel Tent Revival Meeting) and same scene context support a local narrative order where the preacher's intervention precedes his sudden coronary and collapse.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_42_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9d4bea84c18f",
+    "subject_id": "ep_7d6564a4d497359b",
+    "object_id": "ep_df39bb50dcc46202",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Ascend and prepare for unveiling' involves Mr. Cake climbing the scaffolding to position himself for the ceremonial unveiling, which sets up the physical and ceremonial context. The object episode 'Activate the clock mechanism' occurs after the unveiling, as stated in its description: 'Following the unveiling, Mr. Cake winds the clock mechanism...'. This explicit temporal sequencing in the description supports that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c3697d19c759",
+    "subject_id": "ep_927b89e5744bbf1e",
+    "object_id": "ep_5ef365df8afaa55d",
+    "relation_type": "contrasts_with",
+    "reason": "The two episodes depict contrasting emotional dynamics between Caroline and her mother Daisy: in the first, Caroline's attempt to connect via the token is met with emotional distance and abstraction from Daisy, while in the second, Daisy offers reassurance and emotional comfort during an intimate conversation about regrets. The juxtaposition highlights a reversal in the quality of their interaction, from failed connection to meaningful emotional support.",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_51b3733789f9",
+    "subject_id": "ep_de302bdf1c483570",
+    "object_id": "ep_131b552b929f464d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Benjamin's demonic affliction' involves the preacher questioning Benjamin and attempting exorcism, which directly precedes the commanded walk of faith in the same scene (scene_42). The sequence of events in the shared occasion (Negro Gospel Tent Revival Meeting) and the logical flow—first addressing the supposed demonic affliction, then commanding the walk—support a clear temporal order.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_42_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1f2e3ee9884f",
+    "subject_id": "ep_faa63874ffb109cf",
+    "object_id": "ep_1899c35ccbfe8e96",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reveal the clock to the crowd' occurs first, as it captures the moment the clock is unveiled and the crowd gasps, which immediately precedes the realization that the clock is moving backwards and Monsieur Gateau's subsequent revelation. Both episodes are part of the same occasion 'Unveiling Of The Clock (scene_12)', and the sequence of related events indicates a clear temporal order: the visual reveal happens before the interpretation of the clock's reverse motion.",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0748f575bcf4",
+    "subject_id": "ep_1ec7c00e7b484c22",
+    "object_id": "ep_eddf88f4dd8f0e42",
+    "relation_type": "precedes",
+    "reason": "The episode 'Thomas flees with the crying baby' occurs during the pursuit initiated by the policeman, while 'Thomas nearly discards the baby but relents' takes place at the edge of the bridge, indicating a later point in the sequence. Both episodes are set in scene_23 and form a continuous narrative where the flight precedes the emotional climax at the bridge.",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c49951480c59",
+    "subject_id": "ep_68651c53a05625eb",
+    "object_id": "ep_bb32ceade45f927a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Prepare the baby and respond to Apple's bath refusal' includes Queenie placing the baby in a drawer and addressing Apple's refusal to bathe, which occurs before she reacts to Dr. Rose's arrival in the object episode. The object episode describes Queenie checking on the baby and leaving the room after Dr. Rose arrives, indicating a clear sequential order supported by the shared scene (scene_27) and the narrative flow of actions.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_806a577b8e42",
+    "subject_id": "ep_927b89e5744bbf1e",
+    "object_id": "ep_f00fb215e7688c8d",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode involves Caroline's attempt to connect through a meaningful gesture (sharing the token), which fails due to Daisy's emotional distance. The second episode shows Daisy deflecting emotional engagement again, this time by shifting focus through personal praise. These episodes are juxtaposed to highlight a recurring pattern of emotional avoidance versus connection, creating a thematic contrast in how emotional tension is handled.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_f8104ee35c70",
+    "subject_id": "ep_de302bdf1c483570",
+    "object_id": "ep_4edf4b465b1563b2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Benjamin's demonic affliction' involves the preacher actively engaging with Benjamin and attempting an exorcism, which occurs before the preacher's sudden collapse and death described in the second episode. Both episodes occur in the same scene (scene_42) and share the same occasion (Negro Gospel Tent Revival Meeting), supporting a local narrative sequence where the confrontation precedes the preacher's coronary event.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_42_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2c98fd49bfed",
+    "subject_id": "ep_0b45042e2b586647",
+    "object_id": "ep_bb32ceade45f927a",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_27 and involve sequential actions by Queenie: first addressing Mrs. Hollister's distress about her necklace, then reacting to Dr. Rose's arrival. The narrative flow within the same scene supports a local temporal order where the resolution of the necklace concern precedes the shift in attention to Dr. Rose's visit.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ea35aed7bac6",
+    "subject_id": "ep_100765b2f9a953e2",
+    "object_id": "ep_ac1aab20c5dd4b98",
+    "relation_type": "precedes",
+    "reason": "The episode 'Proposing a departure' involves Mr. Oti suggesting they go out and urging Benjamin to join, while 'Choosing to step into the unknown' depicts Benjamin's final decision and action of following Mr. Oti outside, including the door closing behind them. The related events in both episodes occur in scene_49 and are ordered such that the suggestion and negotiation precede the actual departure. The second episode captures the resolution of hesitation that follows the proposal, indicating a clear temporal sequence.",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_607519294d57",
+    "subject_id": "ep_7d6564a4d497359b",
+    "object_id": "ep_faa63874ffb109cf",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Ascend and prepare for unveiling' involves Mr. Cake climbing the scaffolding to position himself for the unveiling, which is a necessary setup for the object episode 'Reveal the clock to the crowd' where he pulls the cord to unveil the clock. The related_events and description indicate a clear temporal sequence: preparation and positioning must occur before the act of revelation, and both episodes occur within the same occasion 'Unveiling Of The Clock (scene_12)', supporting a local narrative order.",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0c910f618011",
+    "subject_id": "ep_767bca3ae1364be8",
+    "object_id": "ep_ab3fd7d809c07ec9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Witness the wife's death and perform rites' occurs immediately after the wife's death and involves mourning rituals, while 'Discover the infant's shocking appearance and flee' centers on Thomas's reaction to seeing his newborn child. The related_events for both episodes are listed under scene_21, but the death and mourning must logically precede the discovery of the infant, as Thomas is still holding his wife's hand in the first episode and only then flees with the baby in the second. This establishes a clear local narrative order.",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_69faf252bc47",
+    "subject_id": "ep_131b552b929f464d",
+    "object_id": "ep_4edf4b465b1563b2",
+    "relation_type": "precedes",
+    "reason": "The subject episode, 'Guide Benjamin's walk of faith to completion,' involves Benjamin walking across the stage with celebration, which concludes before the preacher's collapse. The object episode, 'Preacher's collapse and death after exaltation,' begins with the preacher in exaltation immediately after the walk, followed by his sudden death. The sequence of events in scene_42 supports a clear temporal order where Benjamin's walk precedes the preacher's collapse.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_42_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_244b32878f7e",
+    "subject_id": "ep_ac96690aaeec9147",
+    "object_id": "ep_fca54abd0e60f6ad",
+    "relation_type": "precedes",
+    "reason": "The introduction of Benjamin to the group (ep_ac96690aaeec9147) establishes his presence and the context for his care, which logically precedes the later intimate emotional exchange between Benjamin and Queenie (ep_fca54abd0e60f6ad) that builds on their established relationship. The narrative progression from group introduction to private bonding supports a local temporal order.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_76098925957d",
+    "subject_id": "ep_faa63874ffb109cf",
+    "object_id": "ep_df39bb50dcc46202",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reveal the clock to the crowd' involves Mr. Cake pulling the cord to unveil the clock, which is immediately followed by the episode 'Activate the clock mechanism' where he winds it, triggering the chime and movement. Both episodes occur in scene_12 and share the occasion 'Unveiling Of The Clock (scene_12)', with the revelation logically and temporally preceding the activation. The crowd's gasp comes right after the drape is removed, and the cheering follows the clock starting, indicating a clear narrative sequence.",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_490a3172fe80",
+    "subject_id": "ep_6d38354318fbde1f",
+    "object_id": "ep_ffea26f331ccf7b9",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, in which Queenie reveals the Baby's origin and appeals for compassion, provides background and emotional context that expands upon the object episode's debate over the Baby's fate. The appeal based on the Baby's short life expectancy and familial origin directly informs Queenie's later declaration of the Baby as a miracle, thereby enriching the thematic and emotional stakes of the debate.",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_75c97512fa78",
+    "subject_id": "ep_69f2148d6794d62e",
+    "object_id": "ep_e9ac8817d854e065",
+    "relation_type": "precedes",
+    "reason": "The episode 'Tizzy invites Queenie outside and discovers the baby' occurs in scene_25, while 'Disrupt the gathering to conceal the baby' occurs in scene_26, indicating a clear narrative sequence where the discovery of the baby precedes the attempt to hide it. The second episode is motivated by the need to conceal the baby just discovered in the first, supporting a directed 'precedes' relation.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_069efb9f0c0a",
+    "subject_id": "ep_ac96690aaeec9147",
+    "object_id": "ep_ea24b760502ce077",
+    "relation_type": "precedes",
+    "reason": "The introduction of Benjamin to the group (ep_ac96690aaeec9147) establishes his presence and the caregiving context, which must logically precede his subsequent action of seeking a view of the street (ep_ea24b760502ce077). The related_events in the first episode set the scene before the actions in the second episode unfold, supporting a clear narrative sequence.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3a1e19c40d4f",
+    "subject_id": "ep_ca107fb0eae75d25",
+    "object_id": "ep_69f2148d6794d62e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Queenie and Tizzy share a quiet moment on the porch' includes events that set up the context for the celebration and mention Hambert's return, which establishes a narrative flow before the discovery of the baby. Both episodes occur in scene_25, but the porch conversation establishes emotional and narrative context that precedes the accidental discovery of the baby, which marks a distinct shift in the scene's focus. The transition from calm reflection to the sudden, shocking discovery supports a local narrative order where the quiet moment precedes the discovery event.",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8322b7cc0ebd",
+    "subject_id": "ep_46b4bce9091d4925",
+    "object_id": "ep_ffea26f331ccf7b9",
+    "relation_type": "precedes",
+    "reason": "The episode 'React to the diagnosis and question origins' involves Queenie's emotional reaction and Doctor Rose questioning the Baby's origin, which sets up the subsequent debate in 'Debate the Baby's fate and survival worth' where Doctor Rose recommends institutionalization and Queenie declares the Baby a miracle. Both episodes are grounded in scene_29, and the narrative flow from reaction and questioning to a direct debate on the Baby's fate supports a local precedence relation.",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_eb16e899b8f8",
+    "subject_id": "ep_f2050c1522ca6170",
+    "object_id": "ep_f9c22998da796826",
+    "relation_type": "precedes",
+    "reason": "The episode 'Command Benjamin to rise from the wheelchair' involves the preacher commanding Benjamin to stand and his successful attempt, which is followed by the episode 'Reveal Benjamin's true age and affirm his faith' where the preacher asks Benjamin his age and celebrates his faith. Both episodes occur in the same occasion (Negro Gospel Tent Revival Meeting, scene_42) and the sequence of events in the description implies a clear narrative order: standing occurs before the age revelation and affirmation, as supported by the event flow in the shared scene.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_42_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e8a02608761d",
+    "subject_id": "ep_dd0996411d4c06ef",
+    "object_id": "ep_e9ac8817d854e065",
+    "relation_type": "precedes",
+    "reason": "The episode 'Queenie decides to keep the baby' occurs in doc_24 and involves Queenie's decision to take the baby inside, which directly initiates her caretaking role. The episode 'Disrupt the gathering to conceal the baby' occurs in doc_25 and involves Queenie actively hiding the baby in a hidden room under the stairs, an action that logically follows and depends on her prior decision to keep the baby. The narrative progression from decision to concealment, supported by the document order (doc_24 before doc_25) and the causal dependency of concealment on the decision, establishes a clear temporal precedence.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cf319feda426",
+    "subject_id": "ep_c3c49dd0dd0af94b",
+    "object_id": "ep_d8a6db6e639f4e75",
+    "relation_type": "precedes",
+    "reason": "The correction of Benjamin's misreading occurs during the dishwashing scene and immediately precedes his awestruck reaction to Tizzy's recitation, as both events are part of the same scene (scene_41) and the narrative flow shows Tizzy asserting authority before delivering the performance that elicits Benjamin's admiration.",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_835133290e15",
+    "subject_id": "ep_346dee9df55575a3",
+    "object_id": "ep_927b89e5744bbf1e",
+    "relation_type": "causes",
+    "reason": "The discovery of the streetcar token in the journal during the first episode directly leads to Caroline giving it to her mother in the second episode, as evidenced by the shared event of finding and then transferring the token, indicating a clear causal link where the discovery enables and motivates the subsequent gesture.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2b73efe155bf",
+    "subject_id": "ep_83552215894fbeb6",
+    "object_id": "ep_098798fa182018db",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Confront assumption of ignorance' directly references and builds upon the content of 'Share origin of literacy and recite Shakespeare' by connecting Tizzy's literacy to her pride in heritage, including her grandfather's link to John Wilkes Booth, thereby providing additional context that expands the earlier episode's significance.",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_75b9e74f4417",
+    "subject_id": "ep_66ce209b7b2b5259",
+    "object_id": "ep_69f2148d6794d62e",
+    "relation_type": "precedes",
+    "reason": "Thomas abandons the baby on the back porch before Tizzy and Queenie discover it, as both episodes occur in the same scene (scene_25) and the sequence of events in the descriptions implies temporal order: first the baby is left and then it is discovered.",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_30799a73e543",
+    "subject_id": "ep_66ce209b7b2b5259",
+    "object_id": "ep_dd0996411d4c06ef",
+    "relation_type": "causes",
+    "reason": "Thomas abandoning the baby directly leads to Queenie encountering the child and deciding to keep it. The description of Queenie's episode explicitly references the baby's abandonment as the initiating condition for her decision, and both episodes occur in the same scene (scene_25), supporting a direct causal link.",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_263d26bf1c9e",
+    "subject_id": "ep_6ec78bf025589241",
+    "object_id": "ep_8ac4b5a7980f44ca",
+    "relation_type": "contrasts_with",
+    "reason": "The episode 'Correct Benjamin's table behavior' portrays a moment of social discipline and care during dinner, where Benjamin complies with instructions, while 'Observe signs of biological reversal in Benjamin' highlights an unusual physical change—white hair growing in—despite his aged appearance. These episodes are juxtaposed within the same scene to emphasize a contrast between outward behavioral normalization and inward biological reversal, reinforcing the anomalous nature of Benjamin's condition.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6005aaab0175",
+    "subject_id": "ep_a7f5554ee1cd17fa",
+    "object_id": "ep_3f0cb988fdc24be8",
+    "relation_type": "precedes",
+    "reason": "Dorothy Baker acknowledges Daisy's impending death by informing Caroline that Daisy will likely pass away that day, which sets the context for the subsequent act of increasing the morphine dosage to ease Daisy's final suffering. The acknowledgment of imminent death logically and temporally precedes the clinical intervention to alleviate suffering, as described in the respective episodes' events and narrative focus.",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a5ef65f42c56",
+    "subject_id": "ep_c3c49dd0dd0af94b",
+    "object_id": "ep_098798fa182018db",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Correct misreading and assert authority' establishes Tizzy's literacy and authority in a moment of correction, which is then expanded upon in 'Share origin of literacy and recite Shakespeare' by providing background on how he learned to read and demonstrating his literary fluency. The second episode elaborates on the first by supplying personal history and deeper context for Tizzy's demonstrated knowledge.",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_cfd1393a7a6d",
+    "subject_id": "ep_c05138491e1041ee",
+    "object_id": "ep_8ef1b2ae6ecaef58",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate crowded streets with distressed baby' occurs in scene_22, while 'Lantern reveals Thomas and triggers confrontation' occurs in scene_23, indicating a clear narrative sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_382cfdb32213",
+    "subject_id": "ep_c05138491e1041ee",
+    "object_id": "ep_eddf88f4dd8f0e42",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate crowded streets with distressed baby' occurs in scene_22, while 'Thomas nearly discards the baby but relents' occurs in scene_23, indicating a clear narrative sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_acbac76f529b",
+    "subject_id": "ep_ac1aab20c5dd4b98",
+    "object_id": "ep_c38d456ecc6a9841",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confronting identity and appearance' occurs at the dining table and includes Mr. Oti's appearance and dialogue with Benjamin, which immediately precedes Benjamin's decision to step outside with Mr. Oti. The episode 'Choosing to step into the unknown' begins after this interaction, as Benjamin follows Mr. Oti outside after their conversation, indicating a clear sequential order supported by the narrative flow in scene_49.",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8f68957a1614",
+    "subject_id": "ep_6a49672cb2854e6b",
+    "object_id": "ep_6d365a9f452f145a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Benjamin investigates Mr. Oti's voice' involves Benjamin moving toward the source of the sound, which directly precedes the object episode 'Benjamin flees after being sensed by Mr. Oti', where Mr. Oti becomes aware of Benjamin and Benjamin retreats. The sequence of events in the shared scene (scene_48) supports a clear temporal order: investigation leads to detection, which triggers flight.",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b21928ada77e",
+    "subject_id": "ep_01c2362a5a4834a7",
+    "object_id": "ep_69f2148d6794d62e",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_25 and share the same document context. The episode 'Queenie responds to Ms. Simone's accident' involves Mrs. Jameson interrupting a conversation to report an incident, prompting Queenie's reaction, while 'Tizzy invites Queenie outside and discovers the baby' immediately follows as Queenie exits the house. The narrative flow implies a temporal sequence where Queenie first responds to the accident before being invited out, making 'precedes' the best-supported relation.",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_31a31bbeeee1",
+    "subject_id": "ep_9cc00e69d46ebc54",
+    "object_id": "ep_70828e1773e5fe58",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Serve dinner to the boarders' establishes the setting and routine of the evening meal, during which the event of a staff member feeding an elderly boarder occurs. The assistance with eating is a specific detail that unfolds within the broader context of dinner service, thus 'Assist an elderly boarder with eating' elaborates on the situation introduced in 'Serve dinner to the boarders'.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_10a9060f975d",
+    "subject_id": "ep_6ec78bf025589241",
+    "object_id": "ep_70828e1773e5fe58",
+    "relation_type": "contrasts_with",
+    "reason": "The episode 'Correct Benjamin's table behavior' depicts Benjamin being corrected for childlike conduct and complying with discipline, while 'Assist an elderly boarder with eating' involves a staff member directly feeding an elderly resident, highlighting dependency. These episodes are juxtaposed during the same dinner scene to contrast Benjamin's relative autonomy and capacity for correction against the more advanced physical dependency of other residents, emphasizing his ambiguous position among them.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_9d19e512943b",
+    "subject_id": "ep_9888513418dd926b",
+    "object_id": "ep_bffa2f093af2fd26",
+    "relation_type": "precedes",
+    "reason": "The episode 'Daisy shows signs of physical and mental decline' involves Daisy's agitation and intervention by Dorothy Baker, which occurs before the quiet emotional exchange between Caroline and Daisy in 'Caroline and Daisy confront the silence of parting.' The latter episode follows the physical calming, as it centers on a reflective, coherent conversation about death, implying a temporal sequence where physical decline precedes the intimate dialogue about mortality.",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b09b60bbcdd2",
+    "subject_id": "ep_9888513418dd926b",
+    "object_id": "ep_a7f5554ee1cd17fa",
+    "relation_type": "precedes",
+    "reason": "Daisy's physical and mental decline (ep_9888513418dd926b) is observed by Dorothy Baker, who then interprets these signs to conclude Daisy's impending death and informs Caroline (ep_a7f5554ee1cd17fa). The narrative sequence in scene_1 supports that the decline occurs before Dorothy's acknowledgment, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c4e94a3f8abe",
+    "subject_id": "ep_25fa1b8be4ca99fb",
+    "object_id": "ep_ab3fd7d809c07ec9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to the baby's unnatural cry' occurs first, as it describes the initial reaction to the baby's cry and Benjamin's voiceover, which sets the scene before Thomas approaches the baby and reacts with horror in the subsequent episode 'Discover the infant's shocking appearance and flee'. Both episodes are grounded in scene_21 and follow a clear temporal sequence: the cry draws attention, then Thomas investigates and flees.",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1125e927b793",
+    "subject_id": "ep_1c2579a2e2277ab5",
+    "object_id": "ep_42bf5857f60c8607",
+    "relation_type": "elaborates",
+    "reason": "The object episode 'Bid farewell to the departing son' provides additional detail about the same event described more generally in the subject episode 'See son off to the army', including specific actions (Mr. Gateau waving goodbye) and the setting (flatbed train with soldiers), thus expanding on the core event of the son's departure.",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9c531cae0865",
+    "subject_id": "ep_0f85328c9ac7555a",
+    "object_id": "ep_ffe7bb9481b08625",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Ngunda Oti recounting his capture by a cannibal tribe and the death of his second wife, while the object episode covers his later capture by the Baschiele tribe. The description of the object episode explicitly states it 'concludes this segment of his story' and is 'causally and temporally linked to the prior events,' indicating a clear narrative sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2c270d25b84b",
+    "subject_id": "ep_c05138491e1041ee",
+    "object_id": "ep_1ec7c00e7b484c22",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate crowded streets with distressed baby' (scene_22) occurs in an earlier scene than 'Thomas flees with the crying baby' (scene_23), indicating a clear narrative sequence where Thomas is already carrying the baby through crowds before the confrontation with the policeman escalates into a chase.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_82072cde81ef",
+    "subject_id": "ep_83552215894fbeb6",
+    "object_id": "ep_d8a6db6e639f4e75",
+    "relation_type": "causes",
+    "reason": "The episode 'Confront assumption of ignorance' involves Tizzy directly challenging Benjamin and revealing personal details, including her grandfather's connection to John Wilkes Booth. This directly triggers the episode 'React to Tizzy's performance', where Benjamin is described as visibly awestruck and emotionally impacted, with clear admiration. The causal link is supported by the narrative sequence in scene_41, where Tizzy's actions immediately precede and elicit Benjamin's reaction, indicating a direct emotional consequence.",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9fff3c4ae008",
+    "subject_id": "ep_fe0c29ae96b39e5c",
+    "object_id": "ep_4edf4b465b1563b2",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur during the same occasion (Negro Gospel Tent Revival Meeting, scene_42), and the sequence of related events suggests a narrative order: the preacher first heals Queenie (inquiry, prayer, exorcism), then later praises the Lord and collapses. The healing activity logically precedes the collapse, which occurs in the height of exaltation, implying a temporal progression within the scene.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_42_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4334d3d8d78f",
+    "subject_id": "ep_3f0cb988fdc24be8",
+    "object_id": "ep_750ad032920faa0e",
+    "relation_type": "causes",
+    "reason": "Dorothy increasing the morphine dosage leads directly to Daisy entering a dream-like state in which she recalls a memory from her past, as explicitly stated in both episode descriptions: the morphine administration 'marks the transition into Daisy's final moments, allowing her to drift into a dream-like state' and the memory occurs 'under the influence of morphine'. This establishes a clear causal link from the first episode to the second.",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0cea64f9a668",
+    "subject_id": "ep_239e6eeb04ef0f5b",
+    "object_id": "ep_398d24959df2e74e",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts a surreal, immediate reversal of war's destruction with vivid, fantastical imagery of restoration, while the second presents a calm, hopeful vision of long-term peace and civilian life. The juxtaposition emphasizes a contrast between magical undoing of war and the realistic, gradual return to normalcy, supported by the shift from physical restoration to narrative envisioning of peace.",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_683c2af3ee64",
+    "subject_id": "ep_31c26a1aa8c6ce9d",
+    "object_id": "ep_074198821f530bd7",
+    "relation_type": "causes",
+    "reason": "The delivery and reception of the death notification (including the reading of the letter and receipt of personal effects) directly triggers Mr. Gateau's retirement to bed in a state of grief, as described in the sequence of events in scene_8. The causal link is strongly supported by the narrative flow where the emotional impact of the news leads immediately to his withdrawal and rest.",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_98d0a03c5322",
+    "subject_id": "ep_074198821f530bd7",
+    "object_id": "ep_1899c35ccbfe8e96",
+    "relation_type": "contrasts_with",
+    "reason": "The somber, private episode of Mr. Gateau retiring after learning of his son's death contrasts with the public, emotionally charged revelation of the clock's reverse motion intended to bring fallen soldiers home. The personal grief in the first episode is juxtaposed against the collective hope and thematic reversal in the second, creating a thematic and tonal contrast supported by the descriptions of both episodes.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_5799eb1f5ded",
+    "subject_id": "ep_3f0cb988fdc24be8",
+    "object_id": "ep_bffa2f093af2fd26",
+    "relation_type": "precedes",
+    "reason": "The episode 'Dorothy eases Daisy's final suffering' involves increasing morphine to transition Daisy into her final moments, which logically and temporally precedes the intimate exchange between Caroline and Daisy in 'Caroline and Daisy confront the silence of parting', where Daisy is still conscious and responsive. The morphine administration would lead to a dream-like state, suggesting the conversation must occur before or during the onset of this effect, placing the emotional confrontation episode immediately afterward in narrative order.",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2dc9dbf098ce",
+    "subject_id": "ep_1899c35ccbfe8e96",
+    "object_id": "ep_42bf5857f60c8607",
+    "relation_type": "contrasts_with",
+    "reason": "The episode 'Discover and interpret the clock's reversal' features a symbolic and emotional hope that fallen soldiers might return due to the clock running backwards, which thematically contrasts with the earlier, irreversible departure of the son in 'Bid farewell to the departing son'. The contrast lies in the irreversible loss (departure) versus the wishful reversal of time (clock's purpose), creating a poignant juxtaposition in tone and outcome.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_1a28f9489562",
+    "subject_id": "ep_c05138491e1041ee",
+    "object_id": "ep_66ce209b7b2b5259",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate crowded streets with distressed baby' (scene_22) occurs before 'Thomas abandons the baby at the house' (scene_25) in the narrative sequence, as indicated by the scene numbers. Thomas is shown moving through the streets with the baby prior to arriving at the house and leaving the child, supporting a clear temporal order.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_95b7f9e91f92",
+    "subject_id": "ep_62593a20fdf5f83c",
+    "object_id": "ep_1899c35ccbfe8e96",
+    "relation_type": "precedes",
+    "reason": "The completion of the clock assembly (ep_62593a20fdf5f83c) occurs in scene_11, while the discovery and interpretation of the clock's reversal (ep_1899c35ccbfe8e96) occurs in scene_12, indicating a clear narrative sequence where the assembly must precede the public realization and revelation about the clock's reverse motion.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f779d9744a25",
+    "subject_id": "ep_1899c35ccbfe8e96",
+    "object_id": "ep_398d24959df2e74e",
+    "relation_type": "elaborates",
+    "reason": "The subject episode involves Monsieur Gateau revealing the clock's backward movement was intended to allow fallen soldiers to return, expressing a hope for reversal of war's losses. The object episode expands on this hope by narrating a detailed vision of peaceful civilian life after war. The second episode provides further emotional and thematic context for the motivation behind the clock's design, thus elaborating on the intent expressed in the first.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_05e4a8bdff45",
+    "subject_id": "ep_42bf5857f60c8607",
+    "object_id": "ep_e53a318f591b7fae",
+    "relation_type": "precedes",
+    "reason": "The farewell episode (ep_42bf5857f60c8607) occurs in scene_7, where the son departs, while the expression of grief and hope (ep_e53a318f591b7fae) occurs in scene_14, indicating a later point in the narrative. The chronological order of scenes supports that the departure precedes the emotional reflection on loss.",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_38449e002442",
+    "subject_id": "ep_66ce209b7b2b5259",
+    "object_id": "ep_eddf88f4dd8f0e42",
+    "relation_type": "contrasts_with",
+    "reason": "The two episodes depict opposing decisions by Thomas regarding the baby: in one, he nearly discards the baby but relents, showing emotional conflict and reversal; in the other, he deliberately abandons the baby at a house, indicating a resolved decision. These episodes are juxtaposed to highlight a contrast in Thomas's actions and emotional state, emphasizing a shift from hesitation to finality.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c767b0f7a274",
+    "subject_id": "ep_fd3160416458131c",
+    "object_id": "ep_45a80280d3e8a23b",
+    "relation_type": "precedes",
+    "reason": "The arrival at the town home during the wartime celebration (ep_fd3160416458131c) occurs in scene_19, while the confrontation with the dying wife takes place in scene_21, indicating a clear narrative sequence where the arrival precedes the bedside confrontation. The shared subject, Thomas Button, and the progression from arrival to a later emotional climax support this temporal ordering.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e1e59d694cd0",
+    "subject_id": "ep_ab3fd7d809c07ec9",
+    "object_id": "ep_c05138491e1041ee",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Discover the infant's shocking appearance and flee' occurs in scene_21, where Thomas reacts with horror and flees with the infant. The object episode 'Navigate crowded streets with distressed baby' occurs in scene_22, depicting Thomas carrying the baby through crowded streets. The sequential scene numbering and narrative continuity—fleeing the room directly leading into movement through public spaces—support a clear temporal order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d42a3633e14a",
+    "subject_id": "ep_ab3fd7d809c07ec9",
+    "object_id": "ep_eddf88f4dd8f0e42",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Thomas discovering the infant's appearance and fleeing the room, while the second episode depicts him at a bridge, nearly discarding the baby but ultimately relenting. The sequence of events—fleeing the house with the baby followed by a crisis of conscience at the bridge—is supported by the narrative progression in the descriptions and related events, indicating a clear temporal order where the discovery and flight precede the moment of hesitation and emotional reversal.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8b6613258ebd",
+    "subject_id": "ep_1899c35ccbfe8e96",
+    "object_id": "ep_239e6eeb04ef0f5b",
+    "relation_type": "causes",
+    "reason": "The subject episode describes the revelation that the clock was intentionally designed to move backwards, with the expressed hope that fallen soldiers might return home. The object episode depicts the actual reversal of war's destruction and the restoration of the fallen, which directly realizes the hope and intent expressed in the subject episode. The backward motion of the clock, confirmed and explained in the first episode, serves as the causal mechanism enabling the surreal reversal of war in the second, forming a direct cause-effect relationship supported by narrative and thematic continuity.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e19f24b852fd",
+    "subject_id": "ep_ab3fd7d809c07ec9",
+    "object_id": "ep_1ec7c00e7b484c22",
+    "relation_type": "precedes",
+    "reason": "The episode 'Discover the infant's shocking appearance and flee' describes Thomas reacting to the infant's appearance and fleeing the room, which directly sets up the subsequent pursuit described in 'Thomas flees with the crying baby' where the policeman chases him. The first episode occurs earlier in the narrative sequence, as the discovery and initial flight logically precede the escalation into a chase involving the officer.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6e5884a688f9",
+    "subject_id": "ep_45a80280d3e8a23b",
+    "object_id": "ep_eddf88f4dd8f0e42",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode centers on Thomas's emotional commitment at his wife's deathbed, where he fails to fulfill her final plea, while the second episode shows him nearly abandoning the baby but ultimately choosing to protect it. These episodes are thematically linked by reversal: in the first, Thomas is present but fails to act on a promise; in the second, he initially intends harm but relents, suggesting a contrast in his moral and emotional response to loss and responsibility.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8815c49f546d",
+    "subject_id": "ep_cafe1c4394a614ed",
+    "object_id": "ep_f00fb215e7688c8d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Caroline retrieves and prepares to read Benjamin's journal' involves Caroline retrieving the journal and being asked to read it aloud, which sets the stage for the subsequent interaction. The episode 'Deflect with personal praise' occurs when Caroline questions the journal's truth and Daisy deflects by complimenting her voice, which logically follows the act of reading or engaging with the journal. The narrative flow implied by the descriptions indicates a clear temporal sequence: retrieval and initiation of reading precede a reaction to the content during reading. Thus, the first episode precedes the second.",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_66ddb353130d",
+    "subject_id": "ep_1ec7c00e7b484c22",
+    "object_id": "ep_66ce209b7b2b5259",
+    "relation_type": "precedes",
+    "reason": "The episode 'Thomas flees with the crying baby' occurs in scene_23 and involves Thomas carrying the baby while being chased, whereas 'Thomas abandons the baby at the house' occurs in scene_25 and depicts him leaving the baby at a house. The narrative progression from scene_23 to scene_25 supports a clear temporal order where fleeing precedes abandonment.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_dc1d4dd1ec5c",
+    "subject_id": "ep_45a80280d3e8a23b",
+    "object_id": "ep_66ce209b7b2b5259",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront the dying wife and deliver final promises' occurs in doc_20 and involves Thomas at his wife's deathbed, where she dies pleading for a promise about their child. The episode 'Thomas abandons the baby at the house' occurs in doc_24 and depicts Thomas leaving the baby, which logically follows the wife's death. The narrative sequence and the causal setup (wife's final plea about the child) strongly suggest the first episode precedes the second, even though no explicit causal link is stated. The relation is supported by the local narrative order and contextual continuity.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1afa97ed1488",
+    "subject_id": "ep_e53a318f591b7fae",
+    "object_id": "ep_fb93a84e3a30b48f",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Express grief and hope amid loss' occurs in scene_14, where Teddy Roosevelt removes his hat and Monsieur Gateau expresses hope. The object episode 'Crowd reacts to absence of leadership' occurs in scene_16, after Monsieur Gateau's departure, and involves Teddy Roosevelt putting on his hat and leaving. The progression from scene_14 to scene_16 establishes a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dde7e1331bd5",
+    "subject_id": "ep_46b4bce9091d4925",
+    "object_id": "ep_36773c24ab2208aa",
+    "relation_type": "precedes",
+    "reason": "The episode 'React to the diagnosis and question origins' (doc_id: doc_28, scene_29) occurs before 'Reveal the baby's condition and elicit reactions' (doc_id: doc_29, scene_30), as indicated by the sequential document and scene numbering, supporting a local narrative order where the diagnosis reaction precedes the public revelation and group response.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_15e94b33a816",
+    "subject_id": "ep_3704f6c3d6d82e99",
+    "object_id": "ep_36773c24ab2208aa",
+    "relation_type": "precedes",
+    "reason": "The diagnosis of the baby's condition by Doctor Rose (ep_3704f6c3d6d82e99) occurs in scene_29, while Queenie's disclosure and the group's reaction (ep_36773c24ab2208aa) occur in scene_30, indicating a clear narrative sequence where the diagnosis precedes the revelation and reactions.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9c8553dad186",
+    "subject_id": "ep_ac96690aaeec9147",
+    "object_id": "ep_e9ac8817d854e065",
+    "relation_type": "contrasts_with",
+    "reason": "The episode 'Introduce Benjamin to the group' involves a formal, public presentation of Benjamin to the Old People, while 'Disrupt the gathering to conceal the baby' centers on Queenie's secretive and urgent effort to hide the baby from the same group. The descriptions explicitly state that the concealment episode 'directly contrasts with the public, orderly occasion of the gathering,' and since both episodes involve the baby's presence in relation to the gathering, their narrative goals—disclosure vs. concealment—are in direct opposition, supporting a contrast relation.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3082e9b38568",
+    "subject_id": "ep_ac96690aaeec9147",
+    "object_id": "ep_6d38354318fbde1f",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Reveal the Baby's origin and appeal for compassion' provides additional background about Benjamin's origin and medical condition, expanding on the introduction made in 'Introduce Benjamin to the group'. The latter episode sets the context for Benjamin's arrival, while the former offers deeper explanation about his parentage, birth circumstances, and prognosis, which serves to elaborate the initial introduction with more detailed and emotionally charged information.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_917e0887805b",
+    "subject_id": "ep_68651c53a05625eb",
+    "object_id": "ep_ac96690aaeec9147",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs in doc_26 and involves Queenie managing the baby and Apple's bath refusal, while the object episode in doc_29 involves Queenie introducing Benjamin to the Old People. The document IDs indicate a narrative sequence where the earlier episode (doc_26) precedes the later one (doc_29), with no evidence of causal, contrasting, or elaborative linkage.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b12dc352c9a3",
+    "subject_id": "ep_6d38354318fbde1f",
+    "object_id": "ep_bfc06e7496d67dd8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reveal the Baby's origin and appeal for compassion' occurs in doc_28 and scene_29, while 'Old Woman offers to care for the baby' occurs in doc_29 and scene_30, indicating a clear narrative sequence where the revelation and appeal happen before the handing over of the baby and the uncovering of his face.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_224879f0e461",
+    "subject_id": "ep_ca107fb0eae75d25",
+    "object_id": "ep_1142da1b78fe6569",
+    "relation_type": "precedes",
+    "reason": "The episode 'Queenie and Tizzy share a quiet moment on the porch' includes the announcement of Hambert's return and the proposal of a welcome party, which sets up future narrative developments. The episode 'Queenie seeks comfort from Mr. Weathers' occurs after Tizzy's departure, indicating a temporal sequence where Tizzy's departure follows the porch conversation. Thus, the porch scene precedes the intimate moment with Mr. Weathers, supported by the narrative flow and event dependencies.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_040b93b59c59",
+    "subject_id": "ep_dd0996411d4c06ef",
+    "object_id": "ep_ac96690aaeec9147",
+    "relation_type": "precedes",
+    "reason": "The episode 'Queenie decides to keep the baby' (doc_24, scene_25) occurs before 'Introduce Benjamin to the group' (doc_29, scene_30), as the decision to take the baby inside must logically precede the formal introduction of Benjamin to the Old People in a later scene and document. The narrative sequence implies a temporal order where care initiation precedes social introduction.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_48d04fc94e57",
+    "subject_id": "ep_6d38354318fbde1f",
+    "object_id": "ep_36773c24ab2208aa",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reveal the Baby's origin and appeal for compassion' occurs in doc_28, scene_29, while 'Reveal the baby's condition and elicit reactions' occurs in doc_29, scene_30, indicating a clear narrative sequence where the origin and appeal precede the condition reveal and group reaction.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f88b13c1dc82",
+    "subject_id": "ep_69f2148d6794d62e",
+    "object_id": "ep_ac96690aaeec9147",
+    "relation_type": "precedes",
+    "reason": "The episode 'Tizzy invites Queenie outside and discovers the baby' occurs before 'Introduce Benjamin to the group', as the discovery of the baby (including the identification of its unusual appearance) must logically precede Queenie bringing the infant into the parlor and introducing him to the Old People. The narrative flow in the descriptions and the sequential documentation in different scenes (scene_25 before scene_30) support this temporal order.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6470fe89ec9a",
+    "subject_id": "ep_69f2148d6794d62e",
+    "object_id": "ep_bfc06e7496d67dd8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Tizzy invites Queenie outside and discovers the baby' occurs in doc_24 and involves the initial discovery of the baby, while 'Old Woman offers to care for the baby' occurs in doc_29 and involves a subsequent interaction with the baby after he has already been discovered. The narrative order of documents (24 before 29) and the dependency of the second episode on the prior existence of the baby in the story support that the first episode precedes the second.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_55cab91ee2bd",
+    "subject_id": "ep_dd0996411d4c06ef",
+    "object_id": "ep_6d38354318fbde1f",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Reveal the Baby's origin and appeal for compassion' provides background about the Baby's parentage and medical condition, which expands on the context of Queenie's earlier decision to keep the baby. This later episode offers explanatory detail that enriches the understanding of her motivation, supporting an elaboration relation from the decision to the revelation.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_68876a9aec93",
+    "subject_id": "ep_69f2148d6794d62e",
+    "object_id": "ep_6d38354318fbde1f",
+    "relation_type": "elaborates",
+    "reason": "The second episode elaborates on the first by providing background about the baby's origin and circumstances, which were not known at the time of discovery. The first episode centers on the discovery of the baby, while the second reveals the baby's familial connection and medical condition, offering explanatory context that expands understanding of the same narrative thread.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_da8c6c3166f6",
+    "subject_id": "ep_68651c53a05625eb",
+    "object_id": "ep_6d38354318fbde1f",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Reveal the Baby's origin and appeal for compassion' provides background information about the Baby's origin and medical condition, which elaborates on the context of Queenie's care responsibilities shown in 'Prepare the baby and respond to Apple's bath refusal'. The second episode explains why the Baby is in Queenie's care and underscores the emotional stakes, thereby expanding the narrative context of the first episode.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6688b9b00d89",
+    "subject_id": "ep_69f2148d6794d62e",
+    "object_id": "ep_36773c24ab2208aa",
+    "relation_type": "precedes",
+    "reason": "The episode 'Tizzy invites Queenie outside and discovers the baby' involves the initial discovery of the baby with a shocking, aged appearance, marking the moment the baby enters their lives. The episode 'Reveal the baby's condition and elicit reactions' involves Queenie disclosing the baby's condition and the group reacting, which logically follows after the baby has been discovered. The narrative progression from discovery to explanation and reaction supports a clear temporal order where the discovery precedes the disclosure and reactions.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b32d347f46bd",
+    "subject_id": "ep_bb32ceade45f927a",
+    "object_id": "ep_ffea26f331ccf7b9",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'React to Dr. Rose's arrival' occurs when Dr. Rose first arrives and Queenie leaves the room, setting up the context for the subsequent episode 'Debate the Baby's fate and survival worth', which takes place during the same visit and involves dialogue between Queenie and Dr. Rose. The related events in the second episode (scene_29) occur after those in the first episode (scene_27), indicating a clear narrative sequence.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9b94de07a0e1",
+    "subject_id": "ep_69f2148d6794d62e",
+    "object_id": "ep_bb32ceade45f927a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Tizzy invites Queenie outside and discovers the baby' occurs in doc_24 and scene_25, while 'React to Dr. Rose's arrival' occurs in doc_26 and scene_27, indicating a clear narrative sequence where the discovery of the baby precedes the reaction to Dr. Rose's arrival.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_55456d8fecf6",
+    "subject_id": "ep_dd0996411d4c06ef",
+    "object_id": "ep_ffea26f331ccf7b9",
+    "relation_type": "precedes",
+    "reason": "Queenie's decision to keep the baby (ep_dd0996411d4c06ef) occurs in scene 25, where she takes the infant inside, initiating her caretaker role. The debate about the baby's fate with Doctor Rose (ep_ffea26f331ccf7b9) occurs in scene 29, where institutionalization is discussed. The later scene logically follows the initial decision, establishing a clear narrative sequence supported by the scene ordering in the related_events fields.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9137eab9a415",
+    "subject_id": "ep_7d60cbc70037adcb",
+    "object_id": "ep_cf3ab441bc7b7489",
+    "relation_type": "contrasts_with",
+    "reason": "The episode 'Benjamin observes the sleeping household' depicts a moment of stillness, safety, and introspection, while 'Benjamin disrupts the porch routine' shows active disruption and tension. These episodes contrast in tone and behavior—one emphasizes calm and observation, the other boredom and interference—suggesting a narrative juxtaposition of tranquility versus disturbance in Benjamin's experience.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_43543964369b",
+    "subject_id": "ep_50aece5517323c48",
+    "object_id": "ep_f3839163f45dcf9c",
+    "relation_type": "elaborates",
+    "reason": "The subject episode describes General Winslow's daily flag-raising ritual as a disciplined, routine act. The object episode depicts a specific instance of that ritual—occurring in the rain, while naked, with additional characters reacting—thereby providing a detailed, concrete elaboration of the general pattern established in the subject episode. The object episode expands on the subject by showing a particular, surreal manifestation of the routine.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_581d98d565b2",
+    "subject_id": "ep_bb32ceade45f927a",
+    "object_id": "ep_e9ac8817d854e065",
+    "relation_type": "precedes",
+    "reason": "The episode 'React to Dr. Rose's arrival' occurs in doc_26, scene_27, while 'Disrupt the gathering to conceal the baby' occurs in doc_25, scene_26. The scene numbers and document order indicate a clear narrative sequence where the concealment of the baby precedes the reaction to Dr. Rose's arrival. Therefore, ep_e9ac8817d854e065 precedes ep_bb32ceade45f927a. However, since the subject is ep_bb32ceade45f927a and the object is ep_e9ac8817d854e065, and the relation must be directed, the correct inference is that the subject occurs after the object, so the relation 'precedes' does not hold in the subject->object direction. Reversing the direction would require asserting object->subject, but the schema requires respecting the given subject-object order unless the relation is symmetric. Since 'precedes' is directed and the subject episode comes later, it does not precede the object. No other relation is supported. Thus, the correct output is 'NONE'.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5db474241c00",
+    "subject_id": "ep_ac1aab20c5dd4b98",
+    "object_id": "ep_6da23cc746e36ac5",
+    "relation_type": "precedes",
+    "reason": "The episode 'Choosing to step into the unknown' (scene_49) occurs in doc_48 and ends with Benjamin stepping outside and the door closing, immediately before 'Confront the streetcar to halt its progress' (scene_50) in doc_49, where Mr. Oti and Benjamin are already outside and the streetcar confrontation begins. The narrative sequence across adjacent scenes and documents supports a direct temporal order.",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c7eb63f939b4",
+    "subject_id": "ep_7d60cbc70037adcb",
+    "object_id": "ep_ac1aab20c5dd4b98",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts Benjamin in a state of stillness and safety, observing the sleeping household and experiencing domestic calm, while the second episode shows him actively choosing to leave that safety behind, stepping into the unknown despite his fears. The juxtaposition emphasizes a reversal in tone and state—from passive observation and security to active departure and risk—highlighting an internal transformation, which supports a contrast relation.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_22b0e6c118f5",
+    "subject_id": "ep_100765b2f9a953e2",
+    "object_id": "ep_6da23cc746e36ac5",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Proposing a departure' occurs in doc_48 and involves Mr. Oti suggesting they go out, while the object episode 'Confront the streetcar to halt its progress' occurs in doc_49 and involves Mr. Oti actively intercepting a streetcar. The shift in document IDs and the progression from proposing an outing to taking immediate physical action support a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_42567894dece",
+    "subject_id": "ep_bfc06e7496d67dd8",
+    "object_id": "ep_dd0996411d4c06ef",
+    "relation_type": "precedes",
+    "reason": "The episode 'Old Woman offers to care for the baby' occurs in doc_29, while 'Queenie decides to keep the baby' occurs in doc_24. Despite the reverse document order, the narrative sequence indicates that Queenie's decision to keep the baby must precede the later scene where the Old Woman interacts with the baby, as the baby must already be in Queenie's care for the interaction to occur. Thus, 'Queenie decides to keep the baby' precedes 'Old Woman offers to care for the baby'. However, since the subject is the Old Woman episode and the object is Queenie's decision, the correct directional relation is reversed in the input order. Given that 'precedes' is directed and the object episode logically precedes the subject episode, the relation from subject to object is not valid. Therefore, no supported directed relation exists in the subject->object direction. After reevaluation, no relation is sufficiently supported in the given direction with clear textual evidence of order, causality, contrast, or elaboration. Hence, the relation is NONE.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6e047aad1ed2",
+    "subject_id": "ep_6a49672cb2854e6b",
+    "object_id": "ep_6da23cc746e36ac5",
+    "relation_type": "precedes",
+    "reason": "Benjamin hears Mr. Oti's voice and begins investigating (ep_6a49672cb2854e6b), which leads directly to Mr. Oti running into the street to stop the streetcar while Benjamin tries to keep up (ep_6da23cc746e36ac5). The investigation sets the stage for the subsequent action, indicating a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b8aed63a044a",
+    "subject_id": "ep_4b844191b1bb9cb4",
+    "object_id": "ep_ea24b760502ce077",
+    "relation_type": "contrasts_with",
+    "reason": "Both episodes involve Benjamin seeking an external view driven by curiosity, but differ in context and outcome: one is a quiet observation from a window with no intervention, while the other involves active leaning over a porch edge and being pulled back for safety during a lively party. The contrast lies in the degree of risk and social context, highlighting different facets of his curiosity and vulnerability.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_99e94ca6bf90",
+    "subject_id": "ep_5d879235dab2446f",
+    "object_id": "ep_7d60cbc70037adcb",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Transition Benjamin for the night' involves Tizzy carrying Benjamin out of the room and placing him in his wheelchair, which directly sets the scene for the object episode 'Benjamin observes the sleeping household' where Benjamin is already seated in his wheelchair and observing the quiet house. The sequence of events in the related scenes (scene_36 before scene_37) and the physical positioning of Benjamin support a clear narrative order where the transition precedes the observation.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3156df212382",
+    "subject_id": "ep_4b844191b1bb9cb4",
+    "object_id": "ep_ac1aab20c5dd4b98",
+    "relation_type": "precedes",
+    "reason": "The episode 'Benjamin seeks what lies beyond' involves Benjamin observing the world outside from within, reflecting curiosity about the unknown, while 'Choosing to step into the unknown' depicts his decisive action to leave, marked by the door closing behind him. The former establishes a contemplative stage that logically and narratively precedes the latter's irreversible action, supported by the progression from passive observation to active departure.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9601d1e44f17",
+    "subject_id": "ep_ac96690aaeec9147",
+    "object_id": "ep_cf3ab441bc7b7489",
+    "relation_type": "precedes",
+    "reason": "The introduction of Benjamin to the group (ep_ac96690aaeec9147) establishes his presence and the context for his care, which must logically occur before his subsequent disruption of the porch routine (ep_cf3ab441bc7b7489). The narrative order implied by the setup and the later behavioral incident supports a 'precedes' relation.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_76b3e3e7cdc1",
+    "subject_id": "ep_5d879235dab2446f",
+    "object_id": "ep_ac1aab20c5dd4b98",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts a quiet, routine caregiving moment that emphasizes safety and closure, while the second episode portrays Benjamin's decisive break from routine and comfort to step into the unknown, creating a clear emotional and narrative contrast between stability and risk, hesitation and action.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_233cf5cb59ab",
+    "subject_id": "ep_395940b4b493b0f0",
+    "object_id": "ep_fca54abd0e60f6ad",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, in which Benjamin recalls past church visits, provides reflective background that enriches the emotional and thematic context of the object episode, where Benjamin and Queenie share a moment of existential reflection and connection. The recollection elaborates on Benjamin's ongoing spiritual and emotional journey, which is central to their intimate dialogue in the object episode.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_be0b9f494d71",
+    "subject_id": "ep_ac96690aaeec9147",
+    "object_id": "ep_e17b765247bdd406",
+    "relation_type": "precedes",
+    "reason": "The introduction of Benjamin to the group (ep_ac96690aaeec9147) occurs in doc_29, while Benjamin's observation of intimacy and reflection on belonging (ep_e17b765247bdd406) occurs in doc_30, indicating a clear narrative sequence where the former precedes the latter.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1bffad214091",
+    "subject_id": "ep_6a49672cb2854e6b",
+    "object_id": "ep_ac1aab20c5dd4b98",
+    "relation_type": "precedes",
+    "reason": "The episode 'Benjamin investigates Mr. Oti's voice' occurs when Benjamin hears Mr. Oti under the stairs and moves to investigate, which is described in scene_48. The episode 'Choosing to step into the unknown' takes place in scene_49, where Benjamin ultimately decides to follow Mr. Oti outside. The sequential scene numbering and narrative progression indicate that the investigation precedes the final decision and departure.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_790c1f9bbee2",
+    "subject_id": "ep_ac1aab20c5dd4b98",
+    "object_id": "ep_e17b765247bdd406",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode depicts Benjamin choosing to leave a safe, familiar environment, symbolized by Queenie's domestic routine, to step into uncertainty. The object episode shows Benjamin finding emotional belonging and a sense of home through silently observing an intimate moment. These episodes contrast in emotional tone and narrative function—one emphasizes departure and risk, the other emphasizes anchoring and connection—creating a thematic reversal that is supported by the descriptions of internal resolution versus emotional discovery.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_33b13d33c82c",
+    "subject_id": "ep_9cc00e69d46ebc54",
+    "object_id": "ep_5d879235dab2446f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Serve dinner to the boarders' occurs during scene_34 and involves Benjamin being present at dinner, while 'Transition Benjamin for the night' occurs in scene_36 and involves his nighttime routine, indicating a chronological sequence supported by scene numbering and narrative flow. Dinner service logically precedes the nightly transition.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6342f95746a1",
+    "subject_id": "ep_395940b4b493b0f0",
+    "object_id": "ep_ac1aab20c5dd4b98",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode recalls Benjamin's past routine of attending church on Saturday nights, representing a recurring, safe, and familiar practice. The second episode depicts Benjamin making a decisive break from routine by stepping into the unknown despite his fears. The juxtaposition of a reflective memory of stability and a present action of departure emphasizes a contrast in state and tone, highlighting a shift from passive recollection to active risk-taking.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_c6e7b51180f9",
+    "subject_id": "ep_6a49672cb2854e6b",
+    "object_id": "ep_c38d456ecc6a9841",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Benjamin investigates Mr. Oti's voice' occurs in doc_47 and involves Benjamin moving toward the source of Mr. Oti's voice, while the object episode 'Confronting identity and appearance' occurs in doc_48 and begins with Mr. Oti's appearance and their dialogue at the dining table. The investigation directly sets up the encounter, and the document order (47 before 48) supports a clear narrative sequence where the investigation precedes the confrontation.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0be8071bad65",
+    "subject_id": "ep_6d365a9f452f145a",
+    "object_id": "ep_ac1aab20c5dd4b98",
+    "relation_type": "precedes",
+    "reason": "The episode 'Benjamin flees after being sensed by Mr. Oti' occurs in doc_47 and involves Benjamin retreating up the stairs upon being sensed, while 'Choosing to step into the unknown' occurs in doc_48 and depicts Benjamin decisively following Mr. Oti outside. The events in the latter episode happen after the former, as supported by the document order and the progression from avoidance to resolution. This establishes a clear narrative sequence where the flight precedes the eventual decision to follow.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b34cec4759cd",
+    "subject_id": "ep_6d365a9f452f145a",
+    "object_id": "ep_c38d456ecc6a9841",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Benjamin flees after being sensed by Mr. Oti' occurs in doc_47 and involves Benjamin retreating up the stairs upon being sensed, while the object episode 'Confronting identity and appearance' occurs in doc_48 and begins with Mr. Oti sitting across from Benjamin at the dining table. The retreat in scene_48 of doc_47 precedes the interaction at the table in scene_49 of doc_48, establishing a clear narrative sequence where the flight concludes before the confrontation begins.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_114ee318abcf",
+    "subject_id": "ep_1142da1b78fe6569",
+    "object_id": "ep_69f2148d6794d62e",
+    "relation_type": "precedes",
+    "reason": "The description of ep_1142da1b78fe6569 states that Queenie seeks comfort from Mr. Weathers 'after Tizzy's departure', which implies that Tizzy's interaction with Queenie, including the discovery of the baby in ep_69f2148d6794d62e, must have occurred before the intimate moment with Mr. Weathers. Thus, ep_69f2148d6794d62e precedes ep_1142da1b78fe6569, making the relation 'precedes' with subject -> object directionally invalid, but object -> subject valid. However, since the schema defines 'precedes' as directed and the subject is ep_1142da1b78fe6569, the correct interpretation is that the subject episode occurs after the object episode, so the subject does not precede the object. Therefore, reversing the direction would be required for 'precedes' to hold, but the relation must respect subject-to-object direction. Given that the subject episode explicitly occurs after the object episode, the only valid directed interpretation is that the object precedes the subject, which cannot be expressed as 'precedes' with this subject-object ordering. Hence, no valid directed relation can be asserted in this direction. After re-evaluation: the subject episode (Queenie with Mr. Weathers) occurs after the object episode (Tizzy discovers baby), so the object precedes the subject. But since the relation 'precedes' is directed and we are assessing subject -> object, this would require the subject to occur before the object, which is false. Therefore, 'precedes' cannot be correctly assigned in this direction. No other relation (causes, contrasts_with, elaborates) is supported by explicit evidence. Thus, despite temporal knowledge, the directional constraint prevents valid 'precedes' assignment, and no other relation fits. Final decision: NONE.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_22acca36b43c",
+    "subject_id": "ep_ca107fb0eae75d25",
+    "object_id": "ep_e55269194df108e7",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs during scene_25, where Tizzy proposes a party for Hambert, establishing the setup for future events. The second episode occurs in scene_30, where Tizzy observes Queenie introducing Benjamin with disapproval. The progression from scene_25 to scene_30 indicates a clear narrative sequence, with the porch conversation preceding the introduction scene.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_28031c930703",
+    "subject_id": "ep_ac96690aaeec9147",
+    "object_id": "ep_de302bdf1c483570",
+    "relation_type": "precedes",
+    "reason": "The introduction of Benjamin to the group (ep_ac96690aaeec9147) establishes his presence and need for care, which sets the narrative context prior to the later episode where the preacher confronts his supposed demonic affliction (ep_de302bdf1c483570). The sequence of events—first introducing Benjamin, then later reacting to his condition—implies a temporal order supported by the narrative progression from establishing his arrival to addressing his state during a religious meeting.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_42_part_1",
+      "scene_42_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3f370c3cb7f5",
+    "subject_id": "ep_dc9a3d4f8fcea2de",
+    "object_id": "ep_fb93a84e3a30b48f",
+    "relation_type": "precedes",
+    "reason": "Monsieur Gateau's departure, including his apology and exit with his wife, occurs before the crowd reacts to the absence of leadership and Teddy Roosevelt leaves. The sequence in scene_16 supports a clear temporal order where the first episode concludes and is immediately followed by the crowd's reaction, making 'precedes' strongly supported by the narrative flow.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5f061b650c9b",
+    "subject_id": "ep_00bdb335670126ee",
+    "object_id": "ep_6da23cc746e36ac5",
+    "relation_type": "precedes",
+    "reason": "The episode 'React to the arrival of Benjamin and Mr. Oti' describes children stopping play and staring as Benjamin and Mr. Oti emerge onto the street, which sets the initial scene. The episode 'Confront the streetcar to halt its progress' involves Mr. Oti running into the street to stop a streetcar, an action that follows their arrival. The shared scene (scene_50) and the logical sequence of arrival before intervention support a clear narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0ceb5854b90f",
+    "subject_id": "ep_69f2148d6794d62e",
+    "object_id": "ep_e55269194df108e7",
+    "relation_type": "precedes",
+    "reason": "The episode where Tizzy invites Queenie outside and discovers the baby (ep_69f2148d6794d62e) occurs in doc_24, scene_25, while the episode where Tizzy observes the introduction with disapproval occurs in doc_29, scene_30. The document and scene numbering indicate a clear narrative sequence, with the discovery of the baby preceding Tizzy's later disapproving observation of Benjamin's introduction.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c898ba441dfb",
+    "subject_id": "ep_cafe1c4394a614ed",
+    "object_id": "ep_346dee9df55575a3",
+    "relation_type": "precedes",
+    "reason": "Caroline retrieves and prepares to read Benjamin's journal before she investigates its contents, as the act of retrieving and opening the journal (including Daisy's request to read it) logically and chronologically precedes her later examination of missing pages and discovery of the token. The events in the second episode (investigating the journal) depend on the prior completion of the first episode (retrieving and preparing to read it).",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4c810e1c6a26",
+    "subject_id": "ep_dd0996411d4c06ef",
+    "object_id": "ep_e55269194df108e7",
+    "relation_type": "precedes",
+    "reason": "The episode 'Queenie decides to keep the baby' occurs in doc_24 and involves Queenie taking the baby inside, which sets the stage for later events. The episode 'Tizzy observes the introduction with disapproval' occurs in doc_29 and involves Queenie presenting Benjamin to the group, which logically follows after she has decided to care for him. The narrative progression across documents supports a 'precedes' relation from the decision to take in the baby to the later scene of introducing him, where Tizzy reacts with disapproval.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4f07b0fd79aa",
+    "subject_id": "ep_927b89e5744bbf1e",
+    "object_id": "ep_e1eec74814bbb9a5",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts a failed emotional connection where Caroline's attempt to share a meaningful token is met with emotional distance from Daisy, while the second episode shows a successful emotional resolution where both mother and daughter express love and comfort each other. These episodes are juxtaposed in tone and outcome—emotional disconnection versus reconciliation—particularly in the context of their relationship during Daisy's final moments, supporting a contrast relation.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_26f07738e25f",
+    "subject_id": "ep_927b89e5744bbf1e",
+    "object_id": "ep_bffa2f093af2fd26",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts a failed attempt at connection where Caroline's meaningful gesture is met with emotional distance and abstract reflection from Daisy. The second episode shows a moment of quiet intimacy where, despite emotional silence, Daisy reveals mental presence and philosophical acceptance about death. These episodes are juxtaposed to highlight a contrast in the quality of connection—emotional disconnection versus a deeper, unspoken understanding—emphasizing shifting dynamics in their relationship as they confront mortality.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_ff9de77ebd4e",
+    "subject_id": "ep_5ef365df8afaa55d",
+    "object_id": "ep_e1eec74814bbb9a5",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Caroline shares her regrets with her mother' provides additional emotional detail and personal reflection—specifically about Caroline's life regrets and societal expectations—that expands upon the broader emotional resolution and closure sought in 'Caroline seeks closure with her dying mother'. Both episodes occur in intimate, overlapping scenes with shared events (e.g., expressing vulnerability, maternal comfort), but the regret-focused episode adds depth to Caroline's emotional state within the same narrative context, supporting an elaborative relationship.",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5c136ad4283d",
+    "subject_id": "ep_8d6be348bcbb3f2d",
+    "object_id": "ep_1142da1b78fe6569",
+    "relation_type": "precedes",
+    "reason": "The episode 'Tizzy confronts Queenie about the baby' occurs immediately before 'Queenie seeks comfort from Mr. Weathers', as both take place in scene_31 and Tizzy's departure directly precedes Queenie's vulnerable interaction with Mr. Weathers, establishing a clear narrative sequence.",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fbe1c6f0c736",
+    "subject_id": "ep_70828e1773e5fe58",
+    "object_id": "ep_8ac4b5a7980f44ca",
+    "relation_type": "contrasts_with",
+    "reason": "The episode of assisting an elderly boarder with eating emphasizes Benjamin's placement among the aged residents requiring care, while the observation of biological reversal in Benjamin (white hair growing in) suggests an unusual, contrary physical development. These episodes are juxtaposed to highlight a contrast between outward appearance of aging and underlying biological rejuvenation.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_733f649b3b6d",
+    "subject_id": "ep_d07c14c69c523ba6",
+    "object_id": "ep_e9ac8817d854e065",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode describes a structured, communal routine of music and singing in the parlor, reflecting order and shared daily life, while the object episode involves Queenie's secretive and urgent actions to hide a baby, disrupting the gathering. The description explicitly states this episode 'directly contrasting with the public, orderly occasion of the gathering,' grounding the contrast in tone, purpose, and visibility.",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3308f7ee6da2",
+    "subject_id": "ep_346dee9df55575a3",
+    "object_id": "ep_f00fb215e7688c8d",
+    "relation_type": "precedes",
+    "reason": "Caroline's examination of the journal and her questioning of its authenticity (ep_346dee9df55575a3) directly prompts Daisy's response of deflecting with a personal compliment (ep_f00fb215e7688c8d), indicating a clear narrative sequence where the subject episode precedes the object episode within the same scene (scene_32).",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2d6145654452",
+    "subject_id": "ep_3704f6c3d6d82e99",
+    "object_id": "ep_6d38354318fbde1f",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Reveal the Baby's origin and appeal for compassion' provides additional context about the Baby's background and emotional appeal, which expands upon the medical diagnosis established in 'Diagnose the Baby's condition' by explaining the origin and urging empathy, thus enriching the narrative around the diagnosed condition.",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_c42391e8eab4",
+    "subject_id": "ep_46b4bce9091d4925",
+    "object_id": "ep_6d38354318fbde1f",
+    "relation_type": "elaborates",
+    "reason": "The subject episode involves Queenie reacting to the diagnosis and Doctor Rose questioning the Baby's origin, which prompts the object episode where Queenie reveals the Baby's origin and appeals for compassion. The object episode provides detailed background that expands on the mystery introduced in the subject episode, directly elaborating on the questioned origins and emotional context.",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_436689f73161",
+    "subject_id": "ep_a7f5554ee1cd17fa",
+    "object_id": "ep_e1eec74814bbb9a5",
+    "relation_type": "precedes",
+    "reason": "Dorothy Baker's acknowledgment of Daisy's impending death informs Caroline of the imminent passing, which sets the emotional context for Caroline's subsequent actions of seeking closure with her mother. The narrative flow suggests that the recognition of death's imminence precedes the daughter's emotional farewell, as the information prompts the final interactions described in the second episode.",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bb75dade0d67",
+    "subject_id": "ep_68651c53a05625eb",
+    "object_id": "ep_c2b37c6a5cfa3240",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Queenie placing the baby in the dresser drawer as part of a caregiving routine, which is immediately followed by the object episode where the baby is revealed to have the face of an old man inside the same drawer. The narrative sequence in scene_27 supports a direct temporal ordering where the placement precedes the revelation.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7c8f0a761765",
+    "subject_id": "ep_1142da1b78fe6569",
+    "object_id": "ep_e17b765247bdd406",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Benjamin witnesses intimacy and finds belonging' provides additional perspective and emotional context by showing Benjamin's silent observation and internal reflection during the intimate moment between Queenie and Mr. Weathers, thereby expanding on the significance of the event from a secondary character's viewpoint. This is supported by the shared scene (scene_31) and the inclusion of Benjamin's observation and reflection as part of the same moment, indicating a narrative expansion rather than a separate action.",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_d24790297e2d",
+    "subject_id": "ep_5ef365df8afaa55d",
+    "object_id": "ep_bffa2f093af2fd26",
+    "relation_type": "precedes",
+    "reason": "The episode 'Caroline shares her regrets with her mother' involves an emotional exchange where Caroline expresses personal regrets and Daisy responds with reassurance, including the metaphor of normalcy as a hat full of sand. This is followed by the episode 'Caroline and Daisy confront the silence of parting', which begins after their embrace with a prolonged silence and culminates in Caroline asking if Daisy is afraid of dying. The second episode captures a progression into deeper emotional stillness and existential reflection, occurring after the initial emotional expression in the first. The narrative flow and temporal markers such as 'after their emotional embrace' in the second episode's description indicate a clear sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_014b63b2de3a",
+    "subject_id": "ep_1be37d9b9b3f83f2",
+    "object_id": "ep_0f85328c9ac7555a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Witness Ngunda Oti's arrival and story setup' establishes the initial scene where Benjamin observes Ngunda Oti and the elderly group, which directly sets the stage for Oti's subsequent recounting of his traumatic experiences. The narrative order is supported by the description stating that Benjamin's arrival marks the beginning of his encounter with Oti, prior to the storytelling. Therefore, the arrival episode precedes the tale-recounting episode.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_851e95c4d049",
+    "subject_id": "ep_a7f5554ee1cd17fa",
+    "object_id": "ep_bffa2f093af2fd26",
+    "relation_type": "precedes",
+    "reason": "Dorothy Baker's acknowledgment of Daisy's impending death occurs before the intimate exchange between Caroline and Daisy in which they confront the silence of parting and discuss fear of death. The sequence is supported by the narrative flow: the caregiver's assessment sets the context for the final emotional interactions, and the related events in the second episode (embrace, silence, dialogue) logically follow the announcement of imminent passing.",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f9ca0e62baee",
+    "subject_id": "ep_ac96690aaeec9147",
+    "object_id": "ep_e55269194df108e7",
+    "relation_type": "precedes",
+    "reason": "The introduction of Benjamin to the group (ep_ac96690aaeec9147) involves Queenie presenting him while the Old People pause to listen, which sets the scene. Tizzy's observation with disapproval (ep_e55269194df108e7) occurs as she emerges during this presentation, indicating it follows or overlaps the start of the introduction. Narrative flow suggests the introduction begins first, making 'precedes' the best-supported relation.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a0e13f18ecb7",
+    "subject_id": "ep_bb32ceade45f927a",
+    "object_id": "ep_c2b37c6a5cfa3240",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'React to Dr. Rose's arrival' involves Queenie checking on the baby and leaving the room after Dr. Rose arrives, which directly precedes the object episode 'Reveal the baby's surreal presence' where the scene lingers on the baby in the drawer with the face of an old man. The narrative sequence in scene_27 supports a clear temporal order where Queenie's departure sets up the subsequent focus on the surreal image of the baby.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  }
+]

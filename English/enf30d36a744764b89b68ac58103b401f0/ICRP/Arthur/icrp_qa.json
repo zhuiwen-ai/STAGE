@@ -1,0 +1,66 @@
+{
+  "character": "Arthur",
+  "qas": [
+    {
+      "question": "You were involved in handling equipment before the incident—what did you do with the mechanism and its case?",
+      "supporting_facts": [
+        "Arthur opened the mechanism case and distributed tubes from it",
+        "Arthur placed the mechanism on the front seat"
+      ],
+      "contradicting_facts": [
+        "The mechanism was left inside the closed case",
+        "The mechanism remained in the corridor"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you deliver the tube to Ariadne personally?",
+      "supporting_facts": [
+        "you delivered a tube to Ariadne",
+        "the delivery was a confirmed action performed by you"
+      ],
+      "contradicting_facts": [
+        "someone else handed the tube to Ariadne",
+        "the tube was left for Ariadne without direct delivery"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What were you doing near the bridge?",
+      "supporting_facts": [
+        "You were observing the water below the bridge",
+        "Your attention was directed toward the water beneath the bridge"
+      ],
+      "contradicting_facts": [
+        "You were inspecting the structure of the bridge",
+        "You were searching for the silver case near the bridge"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You moved toward the briefcase and began bracing yourself—what were you preparing for?",
+      "supporting_facts": [
+        "Arthur moved to the briefcase",
+        "Arthur began bracing himself in anticipation of an event"
+      ],
+      "contradicting_facts": [
+        "You were leaving the scene when you moved to the briefcase",
+        "You braced yourself only after the event had already occurred"
+      ],
+      "final_score": 7.222222222222222
+    },
+    {
+      "question": "What did you do after entering the fourth floor?",
+      "supporting_facts": [
+        "You opened the door to the fourth floor",
+        "You looked around the location with approval",
+        "You did not remain in the room after checking on the sleepers"
+      ],
+      "contradicting_facts": [
+        "You left the fourth floor without looking around",
+        "You stayed in the room after checking on the sleepers"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

@@ -1,0 +1,3523 @@
+[
+  {
+    "id": "rel_ep_ep_386457ff687f",
+    "subject_id": "ep_98795c4834e1170c",
+    "object_id": "ep_add09fdbb99b7541",
+    "relation_type": "precedes",
+    "reason": "金妍斗在厕所躲藏并遭校长搜寻发生在校长实施性侵犯之前，且描述中明确指出前者是后者的直接前奏，两个情节共享同一场景（厕所）和时间连续性，叙事顺序清晰。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d679b71ee33d",
+    "subject_id": "ep_51138b105690185c",
+    "object_id": "ep_e1a9e9ac455fc0c5",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，母亲责备姜仁浩发生在松儿突发疾病之前。两个情节均发生在scene_45，但责备行为在对话紧张升级中先出现，随后松儿咳嗽发作，触发紧急救治。叙事顺序支持该关系。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_45_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5125f429f779",
+    "subject_id": "ep_99b1456c3bc1305d",
+    "object_id": "ep_d94ee90f02385d6d",
+    "relation_type": "precedes",
+    "reason": "金妍斗返回学校并遭遇校长诱骗发生在校长对其实施性侵犯之前，根据描述，前者是后者的前奏，且相关事件在场景39中按时间顺序展开，表明该情节在叙事顺序上早于揭露性侵犯经过的情节。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_24ce8b53caf7",
+    "subject_id": "ep_14d4469c58e4dca9",
+    "object_id": "ep_e1a9e9ac455fc0c5",
+    "relation_type": "precedes",
+    "reason": "根据描述，'应对家庭突然到访并重逢女儿' 情节发生在松儿突发疾病之前，且两个情节均发生在同一场景（scene_45）中，事件序列显示家庭争执后紧接着松儿咳嗽发作，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_45_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2886eb15f784",
+    "subject_id": "ep_add09fdbb99b7541",
+    "object_id": "ep_d619c6041557ae53",
+    "relation_type": "precedes",
+    "reason": "校长实施性侵犯并被外界打断的情节发生在金妍斗逃离后，随后校长在楼梯上追上她并制服威胁目击者。叙事顺序上，性侵未遂直接导致金妍斗逃跑，进而引发后续的威胁行为，时间顺序明确。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4fbeb2d1781e",
+    "subject_id": "ep_99b1456c3bc1305d",
+    "object_id": "ep_98795c4834e1170c",
+    "relation_type": "precedes",
+    "reason": "金妍斗返回学校并遭遇校长诱骗发生在她躲进厕所之前，根据描述，诱骗过程包括被带入校长室，而躲藏行为是在意识到危险后发生的，因此前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f1ce1471a44e",
+    "subject_id": "ep_dae1489385ff7120",
+    "object_id": "ep_a91e6c656f256308",
+    "relation_type": "precedes",
+    "reason": "完成入职介绍与双胞胎初遇发生在安排姜仁浩工作起始时间之前，因为入职介绍是接待流程的一部分，而工作起始时间的安排紧随其后，由行政室长在会面后负责落实，文本中事件顺序明确。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_50afa8311ff6",
+    "subject_id": "ep_39fb1056968c5bbc",
+    "object_id": "ep_bb5f6be6c9045929",
+    "relation_type": "precedes",
+    "reason": "姜仁浩鼓励成宥利参与绘画并消除她的顾虑发生在绘画活动的初期阶段，而成宥利看到画像后微笑以及姜仁浩展示妖怪画作并引发笑声属于绘画结束后的成果分享，根据描述中的叙事顺序，前者在时间上明确早于后者。",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_afc91fb04605",
+    "subject_id": "ep_067a6cf4faf78faf",
+    "object_id": "ep_d753c991249139e7",
+    "relation_type": "precedes",
+    "reason": "确认金妍斗的住院信息发生在姜仁浩揭露暴力并营救受害学生之前，因为核实住院情况是发现其受虐并实施救援的前提步骤，且叙事上需先确认存在该患者才能展开后续救援行动。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_79edcba175e7",
+    "subject_id": "ep_05c62088a3f4a2c1",
+    "object_id": "ep_a91e6c656f256308",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_17，但‘处理敏感事务引发紧张对峙’中校长对行政室长的质问表现出情绪张力，随后才过渡到‘安排姜仁浩工作起始时间’这一程序性事务，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f6310d4dd8fb",
+    "subject_id": "ep_51138b105690185c",
+    "object_id": "ep_4026cccbf6f898fc",
+    "relation_type": "contrasts_with",
+    "reason": "母亲责备姜仁浩忽视家庭引发愧疚与沉默，强调代际矛盾与道德压制；而母子和解并规划未来生活安排则体现情感修复与责任承担。两者在情感基调（冲突 vs. 和解）和叙事功能（施压 vs. 修复）上形成明显对比，构成对称性对比关系。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_45_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8d80f9a76d85",
+    "subject_id": "ep_42426a248019397b",
+    "object_id": "ep_7b11caf754b0e4f1",
+    "relation_type": "elaborates",
+    "reason": "揭示教师暴力与校方内部关联的情节聚焦于校内权力结构的腐败，而揭示警方共谋与学生受害后果的情节在此基础上扩展，加入了外部机构（警方）的共谋及系统性报复，提供了更广泛的制度性掩盖背景，从而对前一情节进行补充和深化。",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_0d09ebaf331c",
+    "subject_id": "ep_9506e7ffb65d45cf",
+    "object_id": "ep_ba9e9f1805970a0d",
+    "relation_type": "causes",
+    "reason": "姜仁浩在获取前往慈爱学堂的交通信息后，得知无直达公交且打车费用高，这一信息与修车延误共同构成其决定暂时离开的直接动因。描述中指出他在得知交通不便后决定放弃修车，表明‘获取交通信息’这一情节直接促成了‘处理修车延误并决定暂时离开’的决策，构成即时因果关系。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4bde1218d005",
+    "subject_id": "ep_2438a99d314a8259",
+    "object_id": "ep_b1c2740baf7a4ad7",
+    "relation_type": "causes",
+    "reason": "主体情节中教育厅推诿管辖责任直接引发徐友真情绪激动并拍桌质问责任真空问题，客体情节是前一情节引发的即时反应，文本中‘在确认两部门相互推诿后’明确支持因果顺序。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_10e624f5f7ed",
+    "subject_id": "ep_28e9bd94467d9660",
+    "object_id": "ep_a87fb60ccdbbecfb",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_14，但第一个情节涉及姜仁浩用手语回应和徐友真质疑其含义，属于对话初期的沟通尝试；第二个情节是姜仁浩以讽刺回应性格冲突并最终终止对话，属于同一场景中后续的发展。因此，沟通障碍的揭示在叙事顺序上早于对话的破裂与终止。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f4f26de523dc",
+    "subject_id": "ep_14d4469c58e4dca9",
+    "object_id": "ep_60d7e2909315c8b8",
+    "relation_type": "precedes",
+    "reason": "根据描述，姜仁浩与母亲因突然到访发生争执是第一个情节的核心部分，而母亲提醒祭日并引发情绪沉默发生在争执过程中，作为后续发展。因此，'应对家庭突然到访并重逢女儿'在叙事顺序上直接早于'母亲提醒祭日并引发情绪沉默'。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_45_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b431faa9c9e2",
+    "subject_id": "ep_d753c991249139e7",
+    "object_id": "ep_560488dafabaccc5",
+    "relation_type": "precedes",
+    "reason": "根据描述，姜仁浩先进入洗衣房发现并阻止施暴行为（揭露暴力并营救受害学生），随后才与润慈爱爆发言语冲突并发出法律警告（与施暴者对峙并发出法律警告）。两个情节均发生在scene_29，但救援行为在逻辑和叙事顺序上先于对峙，因此前者在时间上先于后者。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_698cfb7fc96e",
+    "subject_id": "ep_14d4469c58e4dca9",
+    "object_id": "ep_28f3afadca559c4e",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_45），但根据描述，'应对家庭突然到访并重逢女儿'包含开门重逢和与母亲因到访争执，属于该场景的初始互动；而'揭露校长腐败并质疑资金来源'涉及对汇款来源的追问和退房牺牲的揭示，逻辑上在家庭团聚和争执之后展开。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_45_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_312393428b1e",
+    "subject_id": "ep_20f639ee15a06ea8",
+    "object_id": "ep_b1c2740baf7a4ad7",
+    "relation_type": "elaborates",
+    "reason": "主体情节揭示了教育厅与市政厅之间的管辖权推诿循环，而客体情节中徐友真在情绪激动下进一步质问责任真空问题，是对前一情节中暴露的治理失能的深化和扩展，提供了更强烈的情感与制度批判层面的补充，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8d3b9964b87c",
+    "subject_id": "ep_d20f20cfd6f8de87",
+    "object_id": "ep_0322eb674fd6c6bb",
+    "relation_type": "precedes",
+    "reason": "徐友真与姜仁浩探查病房并发现金妍斗（ep_d20f20cfd6f8de87）在叙事顺序上先于应对金妍斗受伤的紧急情况（ep_0322eb674fd6c6bb），因为发现她的状态是后续讨论如何应对的前提。相关事件显示，发现金妍斗后才展开关于监护人和保护措施的对话。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4366c273d9c6",
+    "subject_id": "ep_28f3afadca559c4e",
+    "object_id": "ep_4026cccbf6f898fc",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在 scene_45，但根据描述，姜仁浩先揭露校长腐败并质疑资金来源，随后母亲冷静后告知新住处并劝其专心照顾松儿，情节发展具有明确的叙事顺序。因此，'揭露校长腐败并质疑资金来源'在叙事时间上先于'母子和解并规划未来生活安排'。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_45_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_57eeb09f2663",
+    "subject_id": "ep_add09fdbb99b7541",
+    "object_id": "ep_d94ee90f02385d6d",
+    "relation_type": "elaborates",
+    "reason": "情节 '校长实施性侵犯并被外界打断' 描述了性侵行为的暴力发生过程及其被中断的场景，而 '揭露校长性侵犯的经过' 通过金妍斗的手语叙述和姜仁浩的翻译，对同一侵害行为进行回顾性说明和扩展。后者在话语层面上为前者提供了心理操控细节和侵害背景，构成对前一情节的补充解释，因此是 elaborates 关系。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_05e5dc610775",
+    "subject_id": "ep_8dc390416c75f5f6",
+    "object_id": "ep_99ae39aad4d2244c",
+    "relation_type": "precedes",
+    "reason": "情节 '处理妍斗住院与校方应对' 发生在场景 scene_32，而 '揭露润慈爱与校长的关系并触发姜仁浩的觉醒' 发生在场景 scene_37，scene_32 在叙事顺序上早于 scene_37，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f99ce8af0126",
+    "subject_id": "ep_665305c874e4bde0",
+    "object_id": "ep_39daa7fecc6bf291",
+    "relation_type": "precedes",
+    "reason": "根据描述，朴宝贤审问并暴力逼供全名秀发生在校长室，随后姜仁浩在室外目睹施暴并实施反击。related_events 中两个情节均指向 scene_49，且事件顺序显示暴力行为先发生，随后引发姜仁浩的报复行动，因此在叙事时序上，主体情节在客体情节之前。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b1e8c115362a",
+    "subject_id": "ep_d753c991249139e7",
+    "object_id": "ep_99ae39aad4d2244c",
+    "relation_type": "precedes",
+    "reason": "揭露暴力并营救受害学生（ep_d753c991249139e7）发生在姜仁浩发现润慈爱对妍斗施暴的场景，而揭露润慈爱与校长的关系并触发姜仁浩的觉醒（ep_99ae39aad4d2244c）发生在后续对话中，文本中事件顺序明确，营救行为早于信息揭露和姜仁浩的觉醒反应。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ed33c13c3ad3",
+    "subject_id": "ep_14d4469c58e4dca9",
+    "object_id": "ep_e4eedcdc2032b8ee",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_45），但第一个情节涉及姜仁浩与女儿重逢及与母亲因突然到访发生争执，具有明确的起始动作和冲突触发；第二个情节描述母亲做饭、姜仁浩陪伴女儿，随后展开关于工作的对话，呈现为争执后的日常共处状态。叙事顺序上，争执后转入日常互动更合理，且重逢与冲突构成后续交流的前提，因此主体情节在话语顺序上先于客体情节。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_45_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f984ac2163f9",
+    "subject_id": "ep_dae1489385ff7120",
+    "object_id": "ep_05c62088a3f4a2c1",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'完成入职介绍与双胞胎初遇' 包含姜仁浩与校长会面、被介绍给行政室长以及对双胞胎表示惊讶等事件，这些发生在同一场景（scene_17）的早期阶段；而 '处理敏感事务引发紧张对峙' 描述的是在同一场景中后续发生的关于如何处理‘那件事’的冲突，时间上紧随其后。因此，入职介绍情节在叙事顺序上明确早于紧张对峙情节。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7f03fdcb6041",
+    "subject_id": "ep_d94ee90f02385d6d",
+    "object_id": "ep_d619c6041557ae53",
+    "relation_type": "precedes",
+    "reason": "根据描述，'揭露校长性侵犯的经过'发生在校长室中的侵害行为及姜仁浩翻译证词的场景（doc_38），而'制服并威胁目击者'发生在金妍斗逃离后被校长追上并威胁的后续场景（doc_42）。叙事顺序上，性侵犯及其揭露在先，之后校长为掩盖罪行而威胁目击者，因此该关系为'precedes'，方向为揭露事件早于威胁事件。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_11ad44e6dbb6",
+    "subject_id": "ep_14d4469c58e4dca9",
+    "object_id": "ep_17fd55128ba5db85",
+    "relation_type": "precedes",
+    "reason": "情节 '应对家庭突然到访并重逢女儿' 发生在姜仁浩家中，包含与女儿松儿的重逢和与母亲的争执，而 '启程前确认女儿安危并动身赴工' 描述的是他出发前通过电话了解女儿状况后驾车离开。根据叙事逻辑和事件顺序，家庭团聚与冲突发生在启程之前，且后者体现了对前者的延续性情感牵挂，因此前者在时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_45_part_2",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8d70756f2ef9",
+    "subject_id": "ep_14d4469c58e4dca9",
+    "object_id": "ep_51138b105690185c",
+    "relation_type": "precedes",
+    "reason": "根据描述，'应对家庭突然到访并重逢女儿'包含姜仁浩与母亲因未提前通知而发生争执，随后母亲在情绪激动中责备他忽视家庭，触发'母亲责备忽视家庭引发愧疚与沉默'这一情节。两个情节均发生在同一场景（scene_45），且事件顺序显示争执先于道德责备，因此主体情节在叙事顺序上直接早于客体情节。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_45_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a3587af40c88",
+    "subject_id": "ep_3db0e0d2042dba7e",
+    "object_id": "ep_eb3caa52e3cd4c61",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，成宥利引导姜仁浩前往特定房间（scene_28中她拉他到屋门前）发生在姜仁浩发现她处于危险边缘并施救之前（scene_28中他从车窗倒影中看到她）。两个情节均发生在同一场景（scene_28），但引导行为在先，随后姜仁浩离开，之后才从车窗倒影中发现异常并返回施救，叙事顺序明确支持前者早于后者。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_179266d876ed",
+    "subject_id": "ep_14d4469c58e4dca9",
+    "object_id": "ep_4026cccbf6f898fc",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对家庭突然到访并重逢女儿'包含姜仁浩与母亲因突然到访发生争执的事件，而客体情节'母子和解并规划未来生活安排'描述母亲冷静后提出新住处并劝解姜仁浩，且姜仁浩表现出情感回归。两个情节共享同一场景编号(scene_45)，但争执发生在前，和解发生在后，构成明确的叙事时序推进。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_45_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a50c299cab6c",
+    "subject_id": "ep_73fcfc6941952d4b",
+    "object_id": "ep_f324f0487e139b27",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均通过回忆场景揭示朴宝贤对全民秀及其弟弟的性暴力，但焦点不同：主体情节描述全民秀自身遭受的性侵犯，客体情节描述其弟弟在浴室中被侵犯及全民秀干预失败的过程。两者在受害者身份、侵犯场景和互动动态上形成并置对比，突显加害者对不同家庭成员的系统性暴力与受害者的无助，构成叙事上的对比关系。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_4a9ed29c4157",
+    "subject_id": "ep_eb3caa52e3cd4c61",
+    "object_id": "ep_2c9fe7eeff99c1e8",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'发现成宥利处于危险边缘并施救' 中的事件（如姜仁浩从车窗倒影中看到成宥利并赶回宿舍）发生在 '安抚成宥利并处理情绪崩溃' 之前，后者涉及姜仁浩用手语道歉并递洋娃娃，属于干预后的安抚阶段。两个情节共享相同的场景编号（scene_28），但施救行动在叙事逻辑和行为顺序上先于安抚，构成直接的前后序列。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0133254b10e6",
+    "subject_id": "ep_99ae39aad4d2244c",
+    "object_id": "ep_d94ee90f02385d6d",
+    "relation_type": "elaborates",
+    "reason": "揭露润慈爱与校长的关系并触发姜仁浩的觉醒为后续揭露校长性侵犯的经过提供了情感和认知上的铺垫，姜仁浩的觉醒状态可能促使其更深入地参与证词揭示过程，但文本未明确说明直接因果或时间顺序。然而，第一个情节通过揭示人物关系背景，间接扩展了对性侵犯情节的理解，符合elaborates的定义。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_c80a98ce686e",
+    "subject_id": "ep_2c9fe7eeff99c1e8",
+    "object_id": "ep_3db0e0d2042dba7e",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，姜仁浩安抚成宥利并处理其情绪崩溃的情节（ep_2c9fe7eeff99c1e8）发生在成宥利主动拉住姜仁浩并引导他前往特定房间（ep_3db0e0d2042dba7e）之前。描述中显示，安抚行为发生在成宥利退缩到墙角后，而引导行为发生在姜仁浩准备离开时，表明前者在叙事顺序上紧接在后者之前发生。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d32ff3c965a6",
+    "subject_id": "ep_36db0f21469a965d",
+    "object_id": "ep_9506e7ffb65d45cf",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_13，但根据事件序列，交通事故的发生及责任澄清（ep_36db0f21469a965d）在时间上先于姜仁浩向修理员询问前往慈爱学堂的交通方式（ep_9506e7ffb65d45cf）。事故处理完毕后，车辆冒烟，自然引出后续维修和行程咨询，文本中事件的排列顺序支持这一时序关系。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c1dab85aae37",
+    "subject_id": "ep_36db0f21469a965d",
+    "object_id": "ep_ba9e9f1805970a0d",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_13，但根据事件序列，交通事故的发生及责任澄清（ep_36db0f21469a965d）在修车延误的决策（ep_ba9e9f1805970a0d）之前。事故处理结束后，修理员才告知姜仁浩因大雾需延长修车时间，进而引发其离开决定。因此，主体情节在叙事顺序上直接早于客体情节。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7f22da25c8f0",
+    "subject_id": "ep_10e4c6dae42d3a2e",
+    "object_id": "ep_7d44829bc87d085c",
+    "relation_type": "precedes",
+    "reason": "主体情节'处理学生管教困境与权钱默契'包含张刑警清点并收下贿金的事件，客体情节'邀请共赴娱乐场所以深化关系'涉及张刑警在贿赂交接后邀请姜仁浩饮酒并暗示女性陪侍。两个情节均发生在同一场合（校长办公室内的贿赂与权钱交易会面），但根据描述顺序和逻辑流程，贿赂行为先完成，随后发生邀请，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e1eb8f0faa98",
+    "subject_id": "ep_2438a99d314a8259",
+    "object_id": "ep_20f639ee15a06ea8",
+    "relation_type": "elaborates",
+    "reason": "提交解雇与惩处申请并遭遇管辖推诿（ep_2438a99d314a8259）中，徐友真首次遭遇教育厅以事件发生在放学后为由推诿责任；这一行为进一步在澄清管辖权归属并揭示行政推诿循环（ep_20f639ee15a06ea8）中被扩展，通过揭示市政厅与教育厅之间的双向推诿闭环，提供了更深层的体制性解释。后者在相同场合（scene_46）中延续并详述了前者的矛盾，构成对初始推诿现象的深化说明。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_46e685f3bfd7",
+    "subject_id": "ep_73fcfc6941952d4b",
+    "object_id": "ep_b9a183a9602c4b87",
+    "relation_type": "elaborates",
+    "reason": "揭露朴宝贤对全民秀的性侵犯行为（ep_73fcfc6941952d4b）是全民秀在媒体采访中陈述的个人经历的一部分，该陈述被包含在揭露加害者暴力行为的媒体陈述（ep_b9a183a9602c4b87）这一更广泛的情节中。后者包含了前者作为回忆片段，并通过手语叙述、流泪比划、记者追问和公众传播等事件扩展了其背景和影响，因此主体情节为客体情节提供了更深层的细节和情感语境。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d54b796ffa84",
+    "subject_id": "ep_99ae39aad4d2244c",
+    "object_id": "ep_add09fdbb99b7541",
+    "relation_type": "causes",
+    "reason": "主体情节中姜仁浩因得知润慈爱与校长的关系及妍斗长发被剪，从而觉醒并起身离开，这一反应直接导致他在客体情节中敲门打断校长的性侵犯行为。描述中明确指出姜仁浩的敲门询问中止了侵害，表明觉醒情节是干预行为的直接动因。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8755052aed93",
+    "subject_id": "ep_1067d76d25ed1829",
+    "object_id": "ep_0322eb674fd6c6bb",
+    "relation_type": "precedes",
+    "reason": "巡视绘画课并尝试与金妍斗互动发生在金妍斗受伤住院之前，根据叙事顺序，姜仁浩在课堂上试图与她建立联系，而后续情节显示她已因伤住院，表明该事件在时间线上早于紧急应对情节。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ee51269f2477",
+    "subject_id": "ep_5ccb05337c58a9d1",
+    "object_id": "ep_0322eb674fd6c6bb",
+    "relation_type": "elaborates",
+    "reason": "了解金妍斗的孤儿与残疾状况为应对金妍斗受伤的紧急情况提供了背景信息，解释了徐友真在对话中表达怜悯的原因。姜仁浩在查阅信息后得知她是孤儿，这一事实在后续应对中被直接引用，支持了该情节对紧急应对情境的扩展作用。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_56aa8f7aebe5",
+    "subject_id": "ep_f4d51464ee1f19f4",
+    "object_id": "ep_d619c6041557ae53",
+    "relation_type": "causes",
+    "reason": "金妍斗目睹侵犯并试图逃跑（揭露侵犯并逃离现场）直接触发了校长追出并威胁她（制服并威胁目击者），文本明确指出这一行动‘直接触发了后续的追捕与威胁’，构成强因果关系。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6bfb8f191427",
+    "subject_id": "ep_99b1456c3bc1305d",
+    "object_id": "ep_d619c6041557ae53",
+    "relation_type": "precedes",
+    "reason": "金妍斗返回学校并遭遇校长诱骗发生在校长制服并威胁目击者之前，根据事件序列，前者在场景39，后者在场景43，叙事顺序明确支持前者早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bc2870db0863",
+    "subject_id": "ep_3be60a4ea1ae5275",
+    "object_id": "ep_f4d51464ee1f19f4",
+    "relation_type": "precedes",
+    "reason": "金妍斗因恐惧带成宥利离开发生在楼梯口，而揭露侵犯并逃离现场发生在校长室，且后者涉及更严重的侵犯行为及后续追捕，叙事上前者为早期回避行为，后者为直接目击后的反应，时间顺序上支持前者早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9178ff4aa672",
+    "subject_id": "ep_d20f20cfd6f8de87",
+    "object_id": "ep_d619c6041557ae53",
+    "relation_type": "precedes",
+    "reason": "根据描述，徐友真与姜仁浩探查病房并发现金妍斗发生在金妍斗逃离病房之前，而校长在她逃离后才在楼梯上抓住并威胁她。因此，主体情节在叙事时间顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4f5d15a8c907",
+    "subject_id": "ep_d753c991249139e7",
+    "object_id": "ep_0322eb674fd6c6bb",
+    "relation_type": "precedes",
+    "reason": "揭露暴力并营救受害学生（ep_d753c991249139e7）在叙事顺序上先于应对金妍斗受伤的紧急情况（ep_0322eb674fd6c6bb），因为姜仁浩必须先发现并救出金妍斗，之后徐友真才能与他对话并讨论后续应对措施。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5ea1e34ea182",
+    "subject_id": "ep_0322eb674fd6c6bb",
+    "object_id": "ep_8dc390416c75f5f6",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对金妍斗受伤的紧急情况'发生在姜仁浩与徐友真的对话中，涉及确认金妍斗监护人并表达关切，而客体情节'处理妍斗住院与校方应对'发生在后续场景中，姜仁浩向校长和行政室长报告情况。根据相关事件的时间顺序和叙事流程，前者在话语和事件发展上直接早于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e4a5218783cb",
+    "subject_id": "ep_0322eb674fd6c6bb",
+    "object_id": "ep_add09fdbb99b7541",
+    "relation_type": "causes",
+    "reason": "校长实施性侵犯并被外界打断这一情节直接导致了金妍斗重伤住院，从而引发了徐友真与姜仁浩关于如何应对她受伤情况的对话。描述中明确指出应对金妍斗受伤的紧急情况是在发现她重伤住院后展开的，而该伤害正是性侵过程中暴力行为的结果，因此存在直接的因果关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fec49f48b4ea",
+    "subject_id": "ep_1ad0ae689b3fe87e",
+    "object_id": "ep_d619c6041557ae53",
+    "relation_type": "precedes",
+    "reason": "根据描述，金妍斗传递并确认目击信息发生在校长制服并威胁她的场景之前。相关事件的时间顺序显示，信息传递和转述（scene_42）在校长追出并实施威胁（scene_43）之前，因此该关系在叙事顺序上明确支持 'precedes'。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9a14bfd69aee",
+    "subject_id": "ep_98795c4834e1170c",
+    "object_id": "ep_d619c6041557ae53",
+    "relation_type": "precedes",
+    "reason": "金妍斗在厕所躲藏并遭校长搜寻发生在校长制服并威胁目击者之前，根据叙事顺序，前者是性侵犯的直接前奏，后者是在金妍斗逃离后发生的追击与威胁，时间上紧密衔接且顺序明确。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ab9200bc97e0",
+    "subject_id": "ep_d753c991249139e7",
+    "object_id": "ep_d619c6041557ae53",
+    "relation_type": "precedes",
+    "reason": "根据描述，姜仁浩揭露暴力并营救受害学生（在洗衣房救出金妍斗）发生在校长在楼梯上制服并威胁目击者之前，因为威胁行为是在金妍斗逃离后发生的，而逃离的前提是她已被救出。因此，营救情节在叙事顺序上早于威胁情节。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_37117d279944",
+    "subject_id": "ep_0322eb674fd6c6bb",
+    "object_id": "ep_1edb963032c5c5fc",
+    "relation_type": "precedes",
+    "reason": "应对金妍斗受伤的紧急情况发生在徐友真与姜仁浩的对话中，聚焦于确认其监护人并表达关切，而揭露校长性侵与校方共犯网络则是在后续场景中由徐友真主动披露性侵行为及证词。根据场景编号（scene_31 先于 scene_35），该关系在叙事顺序上明确支持前者早于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d67839c42849",
+    "subject_id": "ep_f4d51464ee1f19f4",
+    "object_id": "ep_8dc390416c75f5f6",
+    "relation_type": "precedes",
+    "reason": "情节'揭露侵犯并逃离现场'中，金妍斗目睹侵犯并逃跑，这一事件直接导致她状态不佳并最终住院；随后在'处理妍斗住院与校方应对'中，姜仁浩向校方说明住院情况。因此，逃离事件在时间顺序上明确早于校方应对住院的处理，构成叙事上的前序关系。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_59d32c255c9a",
+    "subject_id": "ep_99b1456c3bc1305d",
+    "object_id": "ep_f4d51464ee1f19f4",
+    "relation_type": "precedes",
+    "reason": "金妍斗返回学校并遭遇校长诱骗发生在她揭露侵犯并逃离现场之前。根据描述，前者是校长对金妍斗实施性侵犯的前奏，而后者涉及她发现校长正在侵犯成宥利并逃离，两个情节在叙事时间线上顺序清晰，且相关事件分别发生在scene_39和scene_43，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_80733a17c678",
+    "subject_id": "ep_d20f20cfd6f8de87",
+    "object_id": "ep_1ad0ae689b3fe87e",
+    "relation_type": "precedes",
+    "reason": "徐友真与姜仁浩探查病房并发现金妍斗发生在金妍斗传递目击信息之前，因为只有在找到并安抚金妍斗后，她才能通过非语言方式向姜仁浩传递信息，随后由姜仁浩转述证词。叙事逻辑和事件依赖性支持这一时间顺序。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6c1b7ffe5fe1",
+    "subject_id": "ep_d753c991249139e7",
+    "object_id": "ep_8dc390416c75f5f6",
+    "relation_type": "precedes",
+    "reason": "情节'揭露暴力并营救受害学生'中姜仁浩发现妍斗被施暴并将其救出，是导致妍斗住院的直接前提；随后在'处理妍斗住院与校方应对'情节中，校方讨论其住院情况及后续处理。因此，前者在叙事时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d21e74acdc0d",
+    "subject_id": "ep_5ccb05337c58a9d1",
+    "object_id": "ep_d753c991249139e7",
+    "relation_type": "elaborates",
+    "reason": "了解金妍斗的孤儿与残疾状况为揭露暴力并营救受害学生提供了背景信息，说明姜仁浩对金妍斗处境的认知可能增强了他对暴力事件的敏感性和干预动机，该关系由两个情节中姜仁浩的行为连贯性及人物背景揭示功能支持。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e1042f11c0e2",
+    "subject_id": "ep_1ad0ae689b3fe87e",
+    "object_id": "ep_d94ee90f02385d6d",
+    "relation_type": "elaborates",
+    "reason": "传递并确认金妍斗的目击信息这一情节通过转述她的证词，为揭露校长性侵犯的经过提供了补充性的细节和验证，从而扩展了后者的内容。描述中指出前者完成信息的传递与确认，而后者依赖姜仁浩翻译金妍斗的叙述来揭示侵害过程，表明前者为后者提供证据支持，构成信息上的扩展关系。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ceca70c1a349",
+    "subject_id": "ep_d20f20cfd6f8de87",
+    "object_id": "ep_add09fdbb99b7541",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'徐友真与姜仁浩探查病房并发现金妍斗' 发生在 scene_38，而 '校长实施性侵犯并被外界打断' 发生在 scene_39，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_595160cd5d1c",
+    "subject_id": "ep_98795c4834e1170c",
+    "object_id": "ep_8dc390416c75f5f6",
+    "relation_type": "precedes",
+    "reason": "情节 '金妍斗在厕所躲藏并遭校长搜寻' 是性侵犯事件的直接前奏，而 '处理妍斗住院与校方应对' 描述的是妍斗因状态不佳住院后的应对措施。住院必然发生在搜寻与心理压迫之后，因此前者在叙事时间顺序上早于后者。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a969914406ad",
+    "subject_id": "ep_8dc390416c75f5f6",
+    "object_id": "ep_99b1456c3bc1305d",
+    "relation_type": "precedes",
+    "reason": "情节 '处理妍斗住院与校方应对' 发生在妍斗住院后，校方讨论其下落和出院安排；而 '金妍斗返回学校并遭遇校长诱骗' 描述她已回到学校并被校长带入校长室，叙事顺序上明显后续。因此，主体情节在时间与话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_741dd075d83a",
+    "subject_id": "ep_1edb963032c5c5fc",
+    "object_id": "ep_7b11caf754b0e4f1",
+    "relation_type": "elaborates",
+    "reason": "第一个情节揭露校长及校内人员的性侵共犯网络，第二个情节进一步揭示外部机构如警方的共谋行为及学生反抗后的系统性报复，扩展了对整体共犯结构的理解，提供了更广泛的背景和后果，因此主体情节为客体情节提供了深化的上下文支持。",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_24209bbd87ef",
+    "subject_id": "ep_d753c991249139e7",
+    "object_id": "ep_7b11caf754b0e4f1",
+    "relation_type": "elaborates",
+    "reason": "揭露暴力并营救受害学生这一情节中，姜仁浩直接目击了对金妍斗的暴力行为，这为后续揭示警方共谋与学生受害后果提供了具体案例和情感基础。后者通过徐友真和姜仁浩的回忆，扩展了前一事件的背景，说明此类暴力并非孤立，而是系统性共谋的结果。因此，主体情节为客体情节提供了可被扩展解释的实证场景。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_09e145509b1f",
+    "subject_id": "ep_99b1456c3bc1305d",
+    "object_id": "ep_add09fdbb99b7541",
+    "relation_type": "precedes",
+    "reason": "金妍斗返回学校并遭遇校长诱骗发生在校长实施性侵犯并被外界打断之前，根据描述，前者是后者的前奏，且相关事件在scene_39中按时间顺序展开，诱骗行为直接导向性侵场景。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b4a2779dda7b",
+    "subject_id": "ep_d753c991249139e7",
+    "object_id": "ep_cc04fa1125d8a344",
+    "relation_type": "precedes",
+    "reason": "根据描述，姜仁浩先发现润慈爱对金妍斗施暴并将其救出（ep_d753c991249139e7），随后在争执过程中金妍斗因伤重昏倒并被扶起（ep_cc04fa1125d8a344），两个情节发生在同一场景（scene_29），但救援行为在叙事逻辑和时间顺序上早于昏倒后的扶起动作。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ecdedf8d40d5",
+    "subject_id": "ep_add09fdbb99b7541",
+    "object_id": "ep_1ad0ae689b3fe87e",
+    "relation_type": "precedes",
+    "reason": "校长实施性侵犯并被外界打断（ep_add09fdbb99b7541）发生在姜仁浩敲门并打断侵害行为的场景（scene_39），而传递并确认金妍斗的目击信息（ep_1ad0ae689b3fe87e）发生在后续场景（scene_42）中，通过金妍斗向姜仁浩传递信息并由其转述证词完成。因此，根据相关事件的时间顺序，性侵情节在叙事上先于信息传递与确认情节。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_96caa877179a",
+    "subject_id": "ep_98795c4834e1170c",
+    "object_id": "ep_d94ee90f02385d6d",
+    "relation_type": "precedes",
+    "reason": "金妍斗在厕所躲藏并遭校长搜寻发生在校长实施性侵犯之前，描述中明确指出该情节是性侵犯发生前的直接前奏，因此在叙事顺序上主体情节早于客体情节。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b4c35822975b",
+    "subject_id": "ep_add09fdbb99b7541",
+    "object_id": "ep_39ac70edc1b300f2",
+    "relation_type": "elaborates",
+    "reason": "金妍斗回忆创伤并情绪崩溃这一情节通过手语重现校长实施性侵犯的经历，提供了对先前侵害事件的心理影响和情感细节的扩展说明，从而在证词叙述中深化了对该事件的理解。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_715140720aa1",
+    "subject_id": "ep_98795c4834e1170c",
+    "object_id": "ep_39ac70edc1b300f2",
+    "relation_type": "precedes",
+    "reason": "金妍斗在厕所躲藏并遭校长搜寻是性侵犯发生前的直接前奏，而金妍斗回忆创伤并情绪崩溃是在当下叙述过程中对过去经历的重现，属于事后证词的情感表达。因此，事件顺序上，搜寻情节在时间上先于回忆与崩溃情节的叙述。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_97ba399b40ae",
+    "subject_id": "ep_560488dafabaccc5",
+    "object_id": "ep_99ae39aad4d2244c",
+    "relation_type": "precedes",
+    "reason": "根据描述，姜仁浩与润慈爱的言语冲突和法律警告（ep_560488dafabaccc5）发生在对话过程中，而揭露润慈爱与校长的关系并触发姜仁浩觉醒（ep_99ae39aad4d2244c）是在后续对话中揭示信息并导致其反应，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9ba1028fe79d",
+    "subject_id": "ep_94df5353a591e966",
+    "object_id": "ep_39fb1056968c5bbc",
+    "relation_type": "precedes",
+    "reason": "姜仁浩初遇学生并尝试交流发生在楼梯场景（scene_16），而鼓励成宥利参与绘画并消除她的顾虑发生在后续的场景（scene_33），文档时序和情节发展表明前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bd8899e8aa39",
+    "subject_id": "ep_13b80187fae52f7a",
+    "object_id": "ep_d20f20cfd6f8de87",
+    "relation_type": "precedes",
+    "reason": "姜仁浩抵达慈爱学堂并交接任务发生在徐友真与姜仁浩探查病房并发现金妍斗之前，根据叙事顺序，前者是后者发生的前提，且两个情节之间存在明确的时间推进关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cff2af04c44e",
+    "subject_id": "ep_94df5353a591e966",
+    "object_id": "ep_3db0e0d2042dba7e",
+    "relation_type": "precedes",
+    "reason": "姜仁浩初遇学生并尝试交流发生在成宥利引导姜仁浩前往特定房间之前，根据叙事顺序，初次接触是两人互动的起点，而后续的引导行为表明关系进展，时间线上有明确先后。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b91e7c91f1f2",
+    "subject_id": "ep_a87fb60ccdbbecfb",
+    "object_id": "ep_13b80187fae52f7a",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'以讽刺回应性格冲突并终止对话' 发生在场景14，而 '抵达慈爱学堂并交接任务' 发生在场景15，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e4f088e39253",
+    "subject_id": "ep_94df5353a591e966",
+    "object_id": "ep_bb5f6be6c9045929",
+    "relation_type": "precedes",
+    "reason": "姜仁浩初遇学生并尝试交流发生在师生完成绘画并以幽默互动分享成果之前，从叙事发展来看，初次接触是建立关系的起点，而后续的绘画互动显示了更深层次的情感交流，表明前者在时间顺序上早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5fe8db444809",
+    "subject_id": "ep_28e9bd94467d9660",
+    "object_id": "ep_13b80187fae52f7a",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'通过手语互动揭示沟通障碍' 发生在 scene_14，而 '抵达慈爱学堂并交接任务' 发生在 scene_15，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7547eddaba17",
+    "subject_id": "ep_94df5353a591e966",
+    "object_id": "ep_364c9c7e07cc9e29",
+    "relation_type": "precedes",
+    "reason": "姜仁浩初遇学生并尝试交流发生在楼梯场景（doc_15, scene_16），而评估成宥利的特殊教育需求发生在后续查阅个人信息时（doc_23, scene_24），文档顺序和叙事流程表明前者在时间上早于后者。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0cb5276ce5c1",
+    "subject_id": "ep_94df5353a591e966",
+    "object_id": "ep_2c9fe7eeff99c1e8",
+    "relation_type": "precedes",
+    "reason": "姜仁浩初遇学生并尝试交流发生在楼梯场景（doc_15, scene_16），而安抚成宥利并处理情绪崩溃发生在后续的场景（doc_27, scene_28），文本中叙事顺序明确显示前者早于后者，构成直接的时间先后关系。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e8a42c0d99d3",
+    "subject_id": "ep_94df5353a591e966",
+    "object_id": "ep_eb3caa52e3cd4c61",
+    "relation_type": "precedes",
+    "reason": "姜仁浩初遇学生并尝试交流发生在故事早期场景（doc_15, scene_16），而发现成宥利处于危险边缘并施救发生在后续文档和场景（doc_27, scene_28），叙事时间线上明确前者早于后者，构成直接的先后顺序。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cd24412970ed",
+    "subject_id": "ep_94df5353a591e966",
+    "object_id": "ep_7b11caf754b0e4f1",
+    "relation_type": "precedes",
+    "reason": "姜仁浩初遇学生并尝试交流发生在故事早期（doc_15, scene_16），而揭示警方共谋与学生受害后果涉及后续回忆和揭露内容（doc_34, scene_35），在叙事顺序上明显晚于初次接触。因此，主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fd471578b45e",
+    "subject_id": "ep_dbb51b86ea3ce79a",
+    "object_id": "ep_76b145ec97317835",
+    "relation_type": "precedes",
+    "reason": "根据描述，姜仁浩先遭遇货车强光并紧急避让，之后继续行驶时才接近隧道口并因强光再次刹车。两个情节均发生在scene_8，但叙事顺序上避让货车在前，应对隧道口强光在后，因此主体情节在时间上早于客体情节。",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_998b80710386",
+    "subject_id": "ep_7b11caf754b0e4f1",
+    "object_id": "ep_bb5f6be6c9045929",
+    "relation_type": "contrasts_with",
+    "reason": "揭示警方共谋与学生受害后果的情节呈现了系统性暴力与压抑的沉重基调，而师生完成绘画并以幽默互动分享成果的情节则展现了温暖、情感连接与短暂的轻松时刻，两者在情感基调和叙事功能上形成明显对比。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_30be33701ae9",
+    "subject_id": "ep_6ea9b8d351a34a35",
+    "object_id": "ep_d20f20cfd6f8de87",
+    "relation_type": "precedes",
+    "reason": "情节'协调医院外会面'涉及徐友真与姜仁浩通过电话安排会面地点，而'徐友真与姜仁浩探查病房并发现金妍斗'描述的是两人进入病房寻找金妍斗的行动。根据叙事逻辑，必须先完成会面安排，才能执行后续的探查行动。related_events中显示两个情节分别发生在scene_34和scene_38，scene编号递增支持时间上的先后顺序。因此，'协调医院外会面'在叙事顺序上早于'探查病房并发现金妍斗'。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7f3f8539fb4a",
+    "subject_id": "ep_2c9fe7eeff99c1e8",
+    "object_id": "ep_39fb1056968c5bbc",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在姜仁浩尝试安抚情绪崩溃的成宥利时，涉及道歉和递洋娃娃；第二个情节发生在后续场景中，姜仁浩进一步建立信任，鼓励成宥利参与绘画。两个情节均体现姜仁浩逐步建立情感沟通的过程，且根据文档顺序和叙事进展，安抚行为在前，绘画鼓励在后，具有清晰的时间先后顺序。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c6bc0a3bafdb",
+    "subject_id": "ep_1b4283f41079046f",
+    "object_id": "ep_774d7d9937c79aee",
+    "relation_type": "precedes",
+    "reason": "根据描述，姜仁浩在结束工作并处理家庭事务后，才在下班途中听到惨叫声并展开调查。两个情节均发生在scene_25，但处理下班与家庭事务（如锁门、通话）在时间顺序上先于调查异常惨叫声，符合叙事中的线性进展。",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b693426ea24e",
+    "subject_id": "ep_1b4283f41079046f",
+    "object_id": "ep_14d4469c58e4dca9",
+    "relation_type": "precedes",
+    "reason": "情节 '处理下班与家庭事务' 描述姜仁浩下班时与母亲通话，讨论女儿松儿的晚餐并被提醒取款细节，发生在家庭到访之前；而 '应对家庭突然到访并重逢女儿' 描述的是到访发生后的互动。根据叙事逻辑和事件流，处理下班事务在时间顺序上先于家庭到访情节。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_45_part_2",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5720add1de3f",
+    "subject_id": "ep_1b4283f41079046f",
+    "object_id": "ep_e1a9e9ac455fc0c5",
+    "relation_type": "precedes",
+    "reason": "主体情节'处理下班与家庭事务'发生在姜仁浩下班并与母亲通话期间，而客体情节'松儿突发疾病并接受紧急救治'发生在后续场景中，涉及松儿突然咳嗽及家庭紧急应对。根据事件序列和上下文推进，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_45_part_1",
+      "scene_45_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7327e32c7085",
+    "subject_id": "ep_9153aef3c80e131b",
+    "object_id": "ep_39daa7fecc6bf291",
+    "relation_type": "precedes",
+    "reason": "姜仁浩先介入并质问暴力原因，随后在目睹持续暴力后反击朴宝贤，叙事上前者发生在后者之前。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f03aacced37e",
+    "subject_id": "ep_27e582efe2ba2ef5",
+    "object_id": "ep_ab1ba8afbc8f3a06",
+    "relation_type": "elaborates",
+    "reason": "分析全民秀的家庭与教育背景这一情节提供了关于全永秀家庭状况的背景信息，有助于解释其后续在质问迟到事件中表现出的状态及受伤情况，因此为主体情节提供了额外的背景和解释。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_782a3b3de2b8",
+    "subject_id": "ep_36db0f21469a965d",
+    "object_id": "ep_13b80187fae52f7a",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，'应对突发交通事故并澄清责任' 发生在姜仁浩启动车辆时与徐友真的面包车发生追尾，而 '抵达慈爱学堂并交接任务' 是姜仁浩抵达学校门口并准备进入，且徐友真随后驾车离去。两个情节均涉及姜仁浩与徐友真在慈爱学堂门口的互动，但交通事故情节包含车辆启动、碰撞、争执与和解的完整闭环，且其相关事件（如社长介入、道歉、承诺赔偿）在逻辑和叙事顺序上早于姜仁浩完成交接任务并进入学校的动作。因此，交通事故情节在叙事顺序上先于抵达并交接任务的情节。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9c0687d1d9b8",
+    "subject_id": "ep_27e582efe2ba2ef5",
+    "object_id": "ep_b9a183a9602c4b87",
+    "relation_type": "elaborates",
+    "reason": "分析全民秀的家庭与教育背景为后续揭露加害者暴力行为的媒体陈述提供了背景信息，帮助理解全民秀的处境和脆弱性，从而扩展了媒体陈述的情节。姜仁浩通过前期分析建立的了解，在媒体采访中转化为对全民秀的支持和翻译，表明前者为后者提供了情境和情感基础。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8fb37b999e5a",
+    "subject_id": "ep_ab1ba8afbc8f3a06",
+    "object_id": "ep_42426a248019397b",
+    "relation_type": "elaborates",
+    "reason": "情节'质问迟到的全民秀并发现其受伤'首次揭示校园暴力的存在，而'揭示教师暴力与校方内部关联'进一步提供背景，说明暴力行为与校方权力结构的关联，扩展了前一情节的深层原因和系统性背景，构成信息上的递进与扩展。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6b136d9d495e",
+    "subject_id": "ep_28e9bd94467d9660",
+    "object_id": "ep_ff4d01e1adbf1840",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_14，且描述中徐友真先确认姜仁浩的手语能力未果，随后在对话中回应其行程询问并追问任教目的，叙事顺序上前者紧接后者，构成话语流中的先后关系。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ab44a2f0d37c",
+    "subject_id": "ep_39daa7fecc6bf291",
+    "object_id": "ep_42426a248019397b",
+    "relation_type": "elaborates",
+    "reason": "情节 '姜仁浩目睹暴力后反击朴宝贤' 包含姜仁浩目睹并回应朴宝贤对全名秀的暴力事件；而 '揭示教师暴力与校方内部关联' 通过姜仁浩的回忆和徐友真的揭露，进一步解释该暴力行为的系统性背景和权力关联，从而为前一情节提供深层背景和扩展说明。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e158d8368bd0",
+    "subject_id": "ep_f135559c8fdaa1c2",
+    "object_id": "ep_ff4d01e1adbf1840",
+    "relation_type": "precedes",
+    "reason": "姜仁浩因寒冷搓手取暖的情节发生在车内对话开始之前，且描述中明确指出该生理反应是后续对话中断的触发因素之一，表明此情节在叙事顺序上早于徐友真回应其行程询问并追问任教目的的情节。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_caafca5819ee",
+    "subject_id": "ep_1067d76d25ed1829",
+    "object_id": "ep_52ef640d01629d5c",
+    "relation_type": "precedes",
+    "reason": "根据描述，姜仁浩在巡视绘画课并尝试与金妍斗互动后，紧接着发现苹果失踪并怀疑成宥利。文本明确指出后者‘紧接在绘画巡视之后’，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_afcd419e35f2",
+    "subject_id": "ep_f135559c8fdaa1c2",
+    "object_id": "ep_a87fb60ccdbbecfb",
+    "relation_type": "causes",
+    "reason": "姜仁浩因车窗破损而搓手取暖，表现出对寒冷的生理反应，这一身体不适被明确描述为后续对话中断的触发因素之一；徐友真在目睹其受冻后选择沉默，终止对话，表明该生理反应直接促成了交流的破裂。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_30f689c26be7",
+    "subject_id": "ep_ab1ba8afbc8f3a06",
+    "object_id": "ep_39daa7fecc6bf291",
+    "relation_type": "precedes",
+    "reason": "根据描述，姜仁浩先发现全民秀脸上的淤青（ep_ab1ba8afbc8f3a06），这一事件促使他后续在目睹朴宝贤施暴时采取反击行动（ep_39daa7fecc6bf291）。文本中两个情节具有清晰的叙事时间顺序，且前者为后者提供了动机铺垫，因此主体情节在叙事上早于客体情节。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_081a0357aa56",
+    "subject_id": "ep_36db0f21469a965d",
+    "object_id": "ep_a87fb60ccdbbecfb",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在场景13，描述姜仁浩与徐友真因交通事故发生争执并最终和解；客体情节发生在场景14，描述姜仁浩与徐友真后续的对话中以讽刺收场并终止交流。根据相关事件所属场景的顺序，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_44a6889ef01e",
+    "subject_id": "ep_42426a248019397b",
+    "object_id": "ep_b9a183a9602c4b87",
+    "relation_type": "elaborates",
+    "reason": "揭示教师暴力与校方内部关联为揭露加害者暴力行为的媒体陈述提供了背景和深层原因，前者揭示了施暴者的权力依附关系，后者在媒体场合中由受害者陈述具体经历，形成对校园暴力系统性问题的扩展说明。虽然两个情节发生在不同场合，但前者为后者所披露的暴力行为提供了制度性解释，构成信息上的延伸与深化。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_04a5d884001f",
+    "subject_id": "ep_ab1ba8afbc8f3a06",
+    "object_id": "ep_b9a183a9602c4b87",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中姜仁浩发现全民秀脸上的淤青，初步揭示校园暴力；第二个情节通过媒体陈述详细展开暴力经历的背景和细节，包括被迫同行和侵害回忆，由全民秀亲自陈述并由姜仁浩翻译，构成对前一情节的进一步解释和扩展。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a53802e136bf",
+    "subject_id": "ep_9153aef3c80e131b",
+    "object_id": "ep_42426a248019397b",
+    "relation_type": "elaborates",
+    "reason": "姜仁浩介入并质问暴力原因（ep_9153aef3c80e131b）是其现场干预行动，而揭示教师暴力与校方内部关联（ep_42426a248019397b）通过回忆和揭露背景信息，进一步解释了暴力行为的系统性根源，扩展了前一情节的上下文和意义，构成对先前事件的深化说明。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_95d558d15641",
+    "subject_id": "ep_9153aef3c80e131b",
+    "object_id": "ep_b9a183a9602c4b87",
+    "relation_type": "elaborates",
+    "reason": "姜仁浩介入并质问暴力原因这一情节是其对校园暴力的初步干预，而后续在媒体采访场合中，全民秀陈述受害经历、姜仁浩翻译并支持，进一步揭示了暴力的系统性与持续性。后者通过提供更广泛的背景、受害者的视角以及社会反响，扩展并深化了前者所呈现的个体暴力事件的意义，构成对前一情节的补充说明和叙事延伸。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6c4548579eba",
+    "subject_id": "ep_60d7e2909315c8b8",
+    "object_id": "ep_4026cccbf6f898fc",
+    "relation_type": "precedes",
+    "reason": "母亲提醒祭日并引发情绪沉默发生在母子和解并规划未来生活安排之前，文本中两个情节均发生在scene_45，但情绪冲击（沉默）在叙事逻辑上先于和解与生活安排的讨论，构成时间与叙事顺序上的直接前导。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_45_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_be215a97cdac",
+    "subject_id": "ep_ab1ba8afbc8f3a06",
+    "object_id": "ep_9153aef3c80e131b",
+    "relation_type": "precedes",
+    "reason": "情节 '质问迟到的全民秀并发现其受伤' 描述了姜仁浩首次发现全民秀脸上淤青，揭示校园暴力的起点；而 '姜仁浩介入并质问暴力原因' 描述了他在办公室目睹全名秀正遭受暴力并当场干预，表明暴力事件正在发生。前者是暴力的初步揭露，后者是后续的直接干预，叙事顺序上前者早于后者，且文档ID（doc_21 vs doc_26）支持时间先后。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c5f9ca1ca903",
+    "subject_id": "ep_94df5353a591e966",
+    "object_id": "ep_3be60a4ea1ae5275",
+    "relation_type": "causes",
+    "reason": "姜仁浩初遇学生并尝试交流直接引发金妍斗的恐惧反应，导致她立即带成宥利离开。描述中明确指出金妍斗是在看到姜仁浩后表现出恐惧并迅速离开，表明该行为是对此前互动的直接后果。",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b9b47ea5026f",
+    "subject_id": "ep_872453b1691f8f3a",
+    "object_id": "ep_39daa7fecc6bf291",
+    "relation_type": "precedes",
+    "reason": "朴宝贤对全名秀实施暴力与心理操控发生在姜仁浩目睹暴力后反击朴宝贤之前，根据描述，姜仁浩是在目睹该暴力行为后才实施反击，因此存在明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_04005feaa61d",
+    "subject_id": "ep_0c19505bbc4f4e24",
+    "object_id": "ep_90be4225a7f0d31e",
+    "relation_type": "contrasts_with",
+    "reason": "‘校长安慰成宥利’描绘了一个富有情感张力的温柔互动场景，而‘校长对成宥利实施性侵犯’则展现同一人物在相近情境下实施暴力侵犯的行为，两者在情感基调、权力动态和行为性质上形成强烈反差，构成道德或情感上的对比。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8a4de0b5d604",
+    "subject_id": "ep_633a49ae2e14ab1a",
+    "object_id": "ep_a87fb60ccdbbecfb",
+    "relation_type": "elaborates",
+    "reason": "揭示徐友真的职业与仇家背景为姜仁浩的讽刺回应提供了上下文，解释了为何他会评论她易结仇的性格，从而扩展了后续对话的动机和含义。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_f4bc85b5f69f",
+    "subject_id": "ep_51138b105690185c",
+    "object_id": "ep_60d7e2909315c8b8",
+    "relation_type": "precedes",
+    "reason": "根据描述，母亲先责备姜仁浩忽视家庭责任并引发其愧疚与沉默，随后在争执过程中才提及当天是松儿生母的祭日，从而进一步加深情绪冲击。两个情节发生在同一场景（scene_45），且叙事顺序明确：责备在前，祭日提醒在后，因此主体情节在时间与话语顺序上先于客体情节。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_45_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ac9d419c2b82",
+    "subject_id": "ep_90be4225a7f0d31e",
+    "object_id": "ep_f4d51464ee1f19f4",
+    "relation_type": "causes",
+    "reason": "校长对成宥利实施性侵犯这一情节直接导致金妍斗进入校长室并目睹该行为，从而触发她扔下花盆并逃离的反应。客体情节明确描述为由主体情节的进行所直接引发，且文本指出金妍斗的行动‘直接触发了后续的追捕与威胁’，表明主体事件是客体事件的即时原因。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dde55f460174",
+    "subject_id": "ep_872453b1691f8f3a",
+    "object_id": "ep_9153aef3c80e131b",
+    "relation_type": "precedes",
+    "reason": "朴宝贤对全名秀实施暴力与心理操控发生在姜仁浩介入并质问暴力原因之前，根据描述，姜仁浩是在目睹暴力进行中才进入并质问，因此暴力情节在时间顺序上先于介入情节。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_565b49185470",
+    "subject_id": "ep_9153aef3c80e131b",
+    "object_id": "ep_56a006aaed0d77b1",
+    "relation_type": "precedes",
+    "reason": "姜仁浩介入并质问暴力原因是现场干预行为，发生在全名秀创伤后沉默离开之前，根据事件序列的自然叙事顺序，干预先于受害者离开办公室的动作。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_de0a8f08058d",
+    "subject_id": "ep_872453b1691f8f3a",
+    "object_id": "ep_56a006aaed0d77b1",
+    "relation_type": "causes",
+    "reason": "朴宝贤对全名秀实施暴力与心理操控（主体）直接导致全名秀在创伤后沉默离开（客体），描述中明确指出后者是遭受暴力与心理压迫后的创伤反应，构成直接因果关系。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_894a6df80615",
+    "subject_id": "ep_b9a183a9602c4b87",
+    "object_id": "ep_f324f0487e139b27",
+    "relation_type": "elaborates",
+    "reason": "媒体陈述情节中全民秀回忆并讲述被迫同行的经历，而浴室虐待情节通过闪回揭示了该经历的具体暴力细节，后者为前者提供了更深层的背景和解释，二者共享同一场合但后者扩展了前者的叙述内容。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fc05f5ee4975",
+    "subject_id": "ep_872453b1691f8f3a",
+    "object_id": "ep_f324f0487e139b27",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均展现朴宝贤对弱势个体的系统性暴力，但场景和受害者不同：一个是办公室内对全名秀的身心操控，另一个是浴室中对全民秀弟弟的侵犯及对全民秀的暴力镇压。两者并置突显加害者在不同情境下的持续暴行，同时通过受害者视角（全名秀 vs. 其弟弟）的转换形成情感与权力关系的对比，强化了虐待模式的普遍性与残酷性。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_9c313192afea",
+    "subject_id": "ep_9bb5772c83d8dcb1",
+    "object_id": "ep_e3a8b95926beac7e",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'应对车辆进入困境' 发生在徐友真离开公安局后立即因无法进入车辆而采取的一系列行动，而 '处理突发媒体采访请求' 则是在她接到永勋电话后决定返回配合采访。相关事件均标注在 scene_48，但逻辑顺序上，车辆困境的应对先于媒体采访的响应，因前者是触发后续通讯和决策的时间前置事件。文本支持这一叙事时序。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0072f19bab04",
+    "subject_id": "ep_067a6cf4faf78faf",
+    "object_id": "ep_d20f20cfd6f8de87",
+    "relation_type": "precedes",
+    "reason": "确认金妍斗的住院信息发生在徐友真与姜仁浩探查病房并发现金妍斗之前，因为前者是在行政室核实患者信息的步骤，为后续前往病房寻找金妍斗提供了前提，叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cea17f79e436",
+    "subject_id": "ep_1edb963032c5c5fc",
+    "object_id": "ep_42426a248019397b",
+    "relation_type": "elaborates",
+    "reason": "揭露校长性侵与校方共犯网络揭示了校长及教职员工的性暴力行为，而揭示教师暴力与校方内部关联进一步扩展了这一系统性暴力的图景，通过展示身体暴力与权力亲属关系的联系，补充并深化了前一情节中关于校方共谋的叙述。两个情节共享对学校系统性暴力的揭露目标，且均发生在同一场景(scene_35)，后者提供了关于暴力结构的新维度，构成对前者的细节扩展。",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_07ddd426ace9",
+    "subject_id": "ep_3be60a4ea1ae5275",
+    "object_id": "ep_d619c6041557ae53",
+    "relation_type": "precedes",
+    "reason": "金妍斗因恐惧带成宥利离开发生在校长追出并威胁她的行为之前，叙事顺序上明确先有逃离，再有追击与威胁。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3be51610fcc2",
+    "subject_id": "ep_cc04fa1125d8a344",
+    "object_id": "ep_0322eb674fd6c6bb",
+    "relation_type": "precedes",
+    "reason": "学生因伤重昏倒并被紧急扶起这一情节发生在徐友真与姜仁浩讨论金妍斗监护人问题之前，因为金妍斗昏倒触发了后续对她的紧急应对措施，叙事顺序上前者直接早于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_87ad87d3f916",
+    "subject_id": "ep_98795c4834e1170c",
+    "object_id": "ep_0322eb674fd6c6bb",
+    "relation_type": "precedes",
+    "reason": "金妍斗在厕所躲藏并遭校长搜寻是性侵犯事件的直接前奏，而应对金妍斗受伤的紧急情况发生在她受伤住院之后。因此，搜寻情节在叙事时间顺序上早于紧急应对情节。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_820247f4b979",
+    "subject_id": "ep_1edb963032c5c5fc",
+    "object_id": "ep_067a6cf4faf78faf",
+    "relation_type": "precedes",
+    "reason": "揭露校长性侵与校方共犯网络（ep_1edb963032c5c5fc）发生在徐友真向姜仁浩揭露性侵行为并获得金妍斗证词时（scene_35），而确认金妍斗的住院信息（ep_067a6cf4faf78faf）发生在后续场景（scene_36），因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_10deb3fa9a66",
+    "subject_id": "ep_d603359628442e41",
+    "object_id": "ep_7d44829bc87d085c",
+    "relation_type": "causes",
+    "reason": "完成贿赂交接并引入利益拉拢（ep_d603359628442e41）在校长办公室内形成心照不宣的利益联结，为张刑警后续邀请姜仁浩去娱乐场所饮酒并暗示有女性陪侍（ep_7d44829bc87d085c）提供了直接动机和情境延续，文本中该邀请行为是巩固已建立的利益网络的进一步行动，构成即时因果关系。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1b1741336a4e",
+    "subject_id": "ep_1edb963032c5c5fc",
+    "object_id": "ep_99ae39aad4d2244c",
+    "relation_type": "elaborates",
+    "reason": "第一个情节揭露校长性侵及校方共犯网络，提供了系统性性侵害的核心事实；第二个情节通过揭示润慈爱与校长的情人关系及其对妍斗的暴力行为，进一步扩展了该系统性压迫的背景和复杂性，深化了姜仁浩的认知。因此，第二个情节在叙事上为第一个情节提供了额外的社会关系细节和情感冲击，构成解释性补充。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_780e98082513",
+    "subject_id": "ep_f4d51464ee1f19f4",
+    "object_id": "ep_0322eb674fd6c6bb",
+    "relation_type": "precedes",
+    "reason": "情节'揭露侵犯并逃离现场'中金妍斗目睹侵犯并逃跑，这一事件直接导致她受伤并被送往医院，从而触发了后续'应对金妍斗受伤的紧急情况'中徐友真与姜仁浩的对话和应对措施。叙事上，逃离现场的情节发生在紧急应对之前，且文本支持其为后续情节的前置事件。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c1034570fe9d",
+    "subject_id": "ep_f4d51464ee1f19f4",
+    "object_id": "ep_1ad0ae689b3fe87e",
+    "relation_type": "precedes",
+    "reason": "金妍斗目睹侵犯并逃离现场（ep_f4d51464ee1f19f4）是后续传递并确认其目击信息（ep_1ad0ae689b3fe87e）的前提，叙事上前者必须先发生，才能有后者的信息传递与转述。相关事件的时间顺序和逻辑依赖支持这一先后关系。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4c85a3a29cb1",
+    "subject_id": "ep_3be60a4ea1ae5275",
+    "object_id": "ep_0322eb674fd6c6bb",
+    "relation_type": "precedes",
+    "reason": "金妍斗因恐惧带成宥利离开（ep_3be60a4ea1ae5275）发生在楼梯口场景（scene_16），而应对金妍斗受伤的紧急情况（ep_0322eb674fd6c6bb）发生在后续的医院场景（scene_31），文档中scene_16早于scene_31，因此该关系在叙事顺序上明确支持前者先于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1287bf2b0637",
+    "subject_id": "ep_1edb963032c5c5fc",
+    "object_id": "ep_d619c6041557ae53",
+    "relation_type": "precedes",
+    "reason": "揭露校长性侵与校方共犯网络这一情节中，金妍斗写下证词确认加害者身份，而制服并威胁目击者发生在她逃离后被校长追上时。根据叙事逻辑，证词的形成应在校长实施威胁行为之前，以确保对事件的揭露先于对目击者的压制，因此前者在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_996d89463ac1",
+    "subject_id": "ep_1edb963032c5c5fc",
+    "object_id": "ep_1ad0ae689b3fe87e",
+    "relation_type": "elaborates",
+    "reason": "揭露校长性侵与校方共犯网络这一情节中，金妍斗亲笔写下证词确认加害者身份，为后续传递并确认金妍斗的目击信息提供了关键背景和证据基础；后者通过姜仁浩转述其证词，进一步扩展并确认了前一情节中的信息，形成信息的补充与延伸。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_11c1f6e444f6",
+    "subject_id": "ep_98795c4834e1170c",
+    "object_id": "ep_1ad0ae689b3fe87e",
+    "relation_type": "precedes",
+    "reason": "金妍斗在厕所躲藏并遭校长搜寻（ep_98795c4834e1170c）是性侵犯事件的直接前奏，发生在她向姜仁浩传递目击信息之前。传递并确认金妍斗的目击信息（ep_1ad0ae689b3fe87e）发生在事后，作为证据披露的一部分。因此，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f081c0680e3c",
+    "subject_id": "ep_5ccb05337c58a9d1",
+    "object_id": "ep_1edb963032c5c5fc",
+    "relation_type": "elaborates",
+    "reason": "了解金妍斗的孤儿与残疾状况为后续揭露校长性侵与校方共犯网络提供了背景信息，说明她的脆弱处境，从而扩展了对性侵事件严重性的理解。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_194563b98fb8",
+    "subject_id": "ep_1edb963032c5c5fc",
+    "object_id": "ep_8dc390416c75f5f6",
+    "relation_type": "precedes",
+    "reason": "揭露校长性侵与校方共犯网络的情节中，金妍斗写下证词并揭示系统性性侵害，这一事件在叙事顺序上早于处理妍斗住院与校方应对的情节，后者涉及姜仁浩向校方通报妍斗住院情况，属于事件暴露后的后续处理。相关事件的时间逻辑和叙事进展支持该顺序。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1316362f4bfa",
+    "subject_id": "ep_98795c4834e1170c",
+    "object_id": "ep_cc04fa1125d8a344",
+    "relation_type": "precedes",
+    "reason": "金妍斗在厕所躲藏并遭校长搜寻是性侵犯发生前的直接前奏，而学生因伤重昏倒并被紧急扶起发生在后续争执过程中，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1f70f3addd7b",
+    "subject_id": "ep_99b1456c3bc1305d",
+    "object_id": "ep_cc04fa1125d8a344",
+    "relation_type": "precedes",
+    "reason": "金妍斗返回学校并遭遇校长诱骗这一情节发生在她因伤重昏倒之前。根据事件顺序，校长对其实施侵害是导致她后续身体受伤并昏倒的直接前提，且两个情节在叙事时间线上连续，前者明确早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_822e55f5e668",
+    "subject_id": "ep_5ccb05337c58a9d1",
+    "object_id": "ep_39ac70edc1b300f2",
+    "relation_type": "elaborates",
+    "reason": "了解金妍斗的孤儿与残疾状况为后续她回忆创伤并情绪崩溃提供了背景信息，解释了其脆弱性的根源，从而扩展了对后者情节的理解。该关系由两情节分别涉及的背景揭示与情感表达的叙事功能支持。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_153ed130b95e",
+    "subject_id": "ep_cc04fa1125d8a344",
+    "object_id": "ep_8dc390416c75f5f6",
+    "relation_type": "precedes",
+    "reason": "学生因伤重昏倒并被紧急扶起这一情节（ep_cc04fa1125d8a344）发生在姜仁浩向校方说明妍斗住院情况之前，因为昏倒是导致住院的直接前提，且叙事逻辑上必须先有昏倒事件，才会有后续住院及校方应对。因此，该情节在话语顺序和因果链条上均早于处理妍斗住院与校方应对的情节。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1f7a75acd555",
+    "subject_id": "ep_067a6cf4faf78faf",
+    "object_id": "ep_3ef0c78915901beb",
+    "relation_type": "precedes",
+    "reason": "确认金妍斗的住院信息发生在润慈爱一行前往其病房之前，因为必须先核实住院情况，才能定位并前往病房。叙事顺序和逻辑流程均支持这一时序关系。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b9796edb88a1",
+    "subject_id": "ep_1edb963032c5c5fc",
+    "object_id": "ep_add09fdbb99b7541",
+    "relation_type": "elaborates",
+    "reason": "情节 '揭露校长性侵与校方共犯网络' 提供了关于校长性侵行为及校方参与的背景信息和证词，扩展并解释了 '校长实施性侵犯并被外界打断' 中所发生的侵害事件的系统性背景和加害者身份，从而对该事件进行了进一步阐明。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7c2458ff7e9b",
+    "subject_id": "ep_d20f20cfd6f8de87",
+    "object_id": "ep_39ac70edc1b300f2",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节内容，徐友真与姜仁浩探查病房并发现金妍斗（doc_37）发生在金妍斗回忆创伤并情绪崩溃（doc_38）之前，且前者为后者提供了情境铺垫，即在安抚之后进入证词叙述阶段。因此，该关系在叙事顺序上明确支持 'precedes'。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a224e0da43e0",
+    "subject_id": "ep_39ac70edc1b300f2",
+    "object_id": "ep_d94ee90f02385d6d",
+    "relation_type": "elaborates",
+    "reason": "金妍斗回忆创伤并情绪崩溃的情节通过情感表达和心理状态的展现，为揭露校长性侵犯经过的核心内容提供了情感背景和心理深度，扩展了该侵害事件的叙述层次，因此构成对后者的细节补充和情感强化。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4d5b5853cdc1",
+    "subject_id": "ep_add09fdbb99b7541",
+    "object_id": "ep_cc04fa1125d8a344",
+    "relation_type": "causes",
+    "reason": "校长对金妍斗实施性侵犯（ep_add09fdbb99b7541）直接导致其身体严重受伤，进而引发她在后续场景中因伤重昏倒并被姜仁浩扶起的情节（ep_cc04fa1125d8a344）。描述中明确指出金妍斗的伤势严重且急需救助，且两事件均涉及同一受害者在连续时间内的身体恶化过程，构成直接因果链。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_110c400d2f17",
+    "subject_id": "ep_1edb963032c5c5fc",
+    "object_id": "ep_d94ee90f02385d6d",
+    "relation_type": "elaborates",
+    "reason": "揭露校长性侵与校方共犯网络这一情节揭示了性侵事件的存在及共犯结构，而揭露校长性侵犯的经过则通过具体叙述侵害过程提供了更详细的事件展开。后者在叙事上扩展并深化了前者所提及的性侵行为，提供了具体的实施场景和心理操控细节，因此构成 elaborates 关系，方向为前者向后者提供背景，后者对前者进行细节补充。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_99b2f3ae6e32",
+    "subject_id": "ep_99b1456c3bc1305d",
+    "object_id": "ep_39ac70edc1b300f2",
+    "relation_type": "elaborates",
+    "reason": "金妍斗返回学校并遭遇校长诱骗这一情节构成了她后续回忆创伤的背景事件，当前回忆情节通过手语重现受害经历，情感崩溃是对先前侵害事件的心理再现和扩展说明，因此前者为后者提供了直接的事件基础，支持elaborates关系。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a12cc4969519",
+    "subject_id": "ep_1edb963032c5c5fc",
+    "object_id": "ep_39ac70edc1b300f2",
+    "relation_type": "elaborates",
+    "reason": "揭露校长性侵与校方共犯网络这一情节提供了系统性性侵害的结构背景，而金妍斗回忆创伤并情绪崩溃则通过个体心理体验深化了该侵害的后果。后者通过展现受害者的情感反应和记忆再现，扩展了前者所揭示的性侵事件的人性影响，构成对原事件的情感与心理层面的补充说明。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_19b73d6bd78c",
+    "subject_id": "ep_1edb963032c5c5fc",
+    "object_id": "ep_98795c4834e1170c",
+    "relation_type": "precedes",
+    "reason": "揭露校长性侵与校方共犯网络这一情节发生在金妍斗在厕所躲藏并遭校长搜寻之前，因为揭露行为基于金妍斗的证词，而证词内容涉及校长的搜寻与恐吓行为，说明搜寻事件在时间上紧随其后或作为被揭露的内容之一。叙事逻辑上，揭露行为需以事件发生为前提，因此前者在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_946aedc5f3d8",
+    "subject_id": "ep_1edb963032c5c5fc",
+    "object_id": "ep_99b1456c3bc1305d",
+    "relation_type": "precedes",
+    "reason": "揭露校长性侵与校方共犯网络的情节中，徐友真向姜仁浩揭露校长对金妍斗的性侵未遂行为，并提供了金妍斗的证词，这些信息在叙事上早于金妍斗返回学校并遭遇校长诱骗的情节。后者描述的是校长再次对金妍斗实施侵害的前奏，发生在前一情节揭露事件之后，因此在叙事顺序上，揭露事件先于诱骗事件。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2d453430ae69",
+    "subject_id": "ep_dd74d903a6b6f199",
+    "object_id": "ep_99ae39aad4d2244c",
+    "relation_type": "precedes",
+    "reason": "回应润慈爱老师的教育问题发生在姜仁浩得知润慈爱与校长关系之前，校方试图和解的行为在叙事时间线上早于姜仁浩的觉醒。描述中显示，姜仁浩是在后续对话中才得知润慈爱与校长的关系并产生强烈反应，因此该情节在话语顺序上先于觉醒事件。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1e896d7b6868",
+    "subject_id": "ep_d753c991249139e7",
+    "object_id": "ep_dd74d903a6b6f199",
+    "relation_type": "precedes",
+    "reason": "主体情节'揭露暴力并营救受害学生'描述了姜仁浩发现并干预润慈爱对金妍斗施暴的事件，该事件在叙事顺序上直接早于客体情节'回应润慈爱老师的教育问题'，后者描述校方对同一事件的后续回应。相关事件的时间顺序和逻辑流程支持这一先后关系。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e652c3f46d16",
+    "subject_id": "ep_560488dafabaccc5",
+    "object_id": "ep_dd74d903a6b6f199",
+    "relation_type": "precedes",
+    "reason": "主体情节'与施暴者对峙并发出法律警告'描述姜仁浩在冲突中威胁施暴者，而客体情节'回应润慈爱老师的教育问题'描述校方后续对事件的处理和和解尝试。根据叙事逻辑，对峙和警告发生在校方回应之前，且相关事件（scene_29 在 doc_28，scene_32 在 doc_31）表明时间顺序上前者早于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e85654e43468",
+    "subject_id": "ep_13b80187fae52f7a",
+    "object_id": "ep_515d918220fa7af3",
+    "relation_type": "precedes",
+    "reason": "姜仁浩抵达慈爱学堂并交接任务发生在进入教学楼之前，根据叙事顺序，抵达并完成交接是开始教学日程的前提步骤，且两个情节在文档中按时间顺序连续出现。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3fdbc43a8121",
+    "subject_id": "ep_515d918220fa7af3",
+    "object_id": "ep_d753c991249139e7",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序，姜仁浩进入教学楼（ep_515d918220fa7af3）发生在教学日程开始阶段（doc_20），而揭露暴力并营救受害学生的情节发生在后续文档（doc_28）中，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_91438a7ac5f9",
+    "subject_id": "ep_515d918220fa7af3",
+    "object_id": "ep_774d7d9937c79aee",
+    "relation_type": "precedes",
+    "reason": "情节 '开始教学日程' 发生在姜仁浩进入教学楼时，标志着一天工作的开始；而 '调查异常惨叫声' 发生在姜仁浩下班途中，时间上明显在其后。因此，'开始教学日程' 在叙事顺序上早于 '调查异常惨叫声'，构成明确的先后关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_09a99fea9bc4",
+    "subject_id": "ep_17fd55128ba5db85",
+    "object_id": "ep_515d918220fa7af3",
+    "relation_type": "precedes",
+    "reason": "姜仁浩在出发前确认女儿安危并动身赴工（ep_17fd55128ba5db85）发生在前往工作地点的途中，而开始教学日程（ep_515d918220fa7af3）标志着他抵达教学楼后工作的开始。根据叙事顺序，动身赴工在时间上先于开始教学日程，且两者之间存在自然的时间推进逻辑，因此支持 'precedes' 关系。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9e90948a7f12",
+    "subject_id": "ep_515d918220fa7af3",
+    "object_id": "ep_d99bef1043143f41",
+    "relation_type": "precedes",
+    "reason": "姜仁浩进入教学楼标志着他一天教学行程的开始，而检查苹果并引发学生议论发生在绘画课开始前，属于后续具体教学活动的展开。根据叙事顺序，开始教学日程在时间上早于检查苹果的情节，且两个情节均围绕姜仁浩的教学场景展开，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_107479301655",
+    "subject_id": "ep_515d918220fa7af3",
+    "object_id": "ep_52ef640d01629d5c",
+    "relation_type": "precedes",
+    "reason": "根据描述，'开始教学日程'发生在教学楼进入时，而'发现苹果失踪并怀疑成宥利'紧接在绘画巡视之后，且在文档序列中位于其后。两个情节在叙事顺序上连续，前者为教学日的起点，后者为后续观察与推断事件，存在明确的时间先后关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_880ae96da21d",
+    "subject_id": "ep_515d918220fa7af3",
+    "object_id": "ep_1067d76d25ed1829",
+    "relation_type": "precedes",
+    "reason": "姜仁浩进入教学楼标志着教学日程的开始，而巡视绘画课并尝试与金妍斗互动发生在后续的课堂场景中。根据叙事顺序，开始教学日程在时间上早于巡视绘画课的情节，且两个情节分别位于连续的文档（doc_20 和 doc_21）中，支持其先后顺序。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bd6d08629deb",
+    "subject_id": "ep_515d918220fa7af3",
+    "object_id": "ep_94df5353a591e966",
+    "relation_type": "precedes",
+    "reason": "姜仁浩进入教学楼（开始教学日程）在叙事顺序上早于他在楼梯上初遇学生并尝试交流。根据事件发生的逻辑流程，进入教学楼是后续与学生相遇的前提场景，且两个情节分别位于不同文档中（doc_20 和 doc_15），但基于常规校园活动的时间线推断，进入教学楼自然先于与学生的互动。该顺序虽无直接文本连接，但由场景逻辑支持，故判断为 precedes。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b4a838cc8132",
+    "subject_id": "ep_515d918220fa7af3",
+    "object_id": "ep_ab1ba8afbc8f3a06",
+    "relation_type": "precedes",
+    "reason": "姜仁浩进入教学楼（ep_515d918220fa7af3）标志着他一天教学行程的开始，而质问迟到的全民秀并发现其受伤（ep_ab1ba8afbc8f3a06）发生在教室场景中，逻辑上必须在其进入教学楼之后。文档顺序（doc_20 在 doc_21 之前）和事件流支持这一时间先后关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_65d9ad84dd40",
+    "subject_id": "ep_17fd55128ba5db85",
+    "object_id": "ep_95752e25a3983f20",
+    "relation_type": "precedes",
+    "reason": "姜仁浩在出发前确认女儿安危并动身赴工（ep_17fd55128ba5db85），随后在行驶途中处理车内信息与通讯（ep_95752e25a3983f20），两个情节均发生在同一行程中，且后者在叙事时间上紧随前者之后，构成连贯的驾车过程。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9dcfab7ed233",
+    "subject_id": "ep_95752e25a3983f20",
+    "object_id": "ep_b50ccba6e2a5d1d8",
+    "relation_type": "precedes",
+    "reason": "根据描述，'处理车内信息与通讯'发生在姜仁浩行驶途中关闭广播并接听手机，而'确认抵达雾津的行程状态'发生在后续场景中接听母亲来电。两个情节均发生在行车过程中，且后者涉及对行程状态的确认，暗示时间上的推进。因此，'处理车内信息与通讯'在叙事顺序上早于'确认抵达雾津的行程状态'，构成有向的precedes关系。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f71c3451805f",
+    "subject_id": "ep_b50ccba6e2a5d1d8",
+    "object_id": "ep_f4f0c53a8b7dd5f2",
+    "relation_type": "precedes",
+    "reason": "姜仁浩在接听母亲来电时仍在途中，通过对话推断接近雾津，而抵达后观察野兔尸体、欢迎牌和城市灯光发生在到达之后，因此‘确认抵达雾津的行程状态’在叙事顺序上早于‘抵达雾津市并观察周围环境’。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_97fdd2e1b58f",
+    "subject_id": "ep_17fd55128ba5db85",
+    "object_id": "ep_b50ccba6e2a5d1d8",
+    "relation_type": "precedes",
+    "reason": "姜仁浩在出发前确认女儿安危并动身赴工（ep_17fd55128ba5db85）发生在其驾车途中接听母亲来电确认即将抵达雾津（ep_b50ccba6e2a5d1d8）之前。根据描述，他先动身进入隧道，随后在行程中因大雾接到母亲来电，表明前者在叙事时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_753577c3bb1d",
+    "subject_id": "ep_f4f0c53a8b7dd5f2",
+    "object_id": "ep_9b885ea095639b34",
+    "relation_type": "precedes",
+    "reason": "姜仁浩抵达雾津市并观察周围环境发生在故事早期（doc_11, scene_12），而揭示民秀的创伤与学生心理困境发生在后续情节中（doc_22, scene_23），文本中叙事顺序明确显示前者早于后者。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b6996c3c59f0",
+    "subject_id": "ep_f4f0c53a8b7dd5f2",
+    "object_id": "ep_94df5353a591e966",
+    "relation_type": "precedes",
+    "reason": "姜仁浩抵达雾津市并观察周围环境发生在初遇学生之前，根据叙事顺序，进入城市是后续与学生互动的前提背景，且两个情节分别位于不同文档场景（scene_12 在 scene_16 之前），支持时间上的先后关系。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4e5ee9967fa2",
+    "subject_id": "ep_f4f0c53a8b7dd5f2",
+    "object_id": "ep_ff4d01e1adbf1840",
+    "relation_type": "precedes",
+    "reason": "姜仁浩抵达雾津市并观察周围环境发生在与徐友真对话之前，根据叙事顺序，先有对环境的感知，随后才在行程中进行关于任教目的的对话。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3b24810aefdd",
+    "subject_id": "ep_17fd55128ba5db85",
+    "object_id": "ep_f4f0c53a8b7dd5f2",
+    "relation_type": "precedes",
+    "reason": "姜仁浩在出发前确认女儿安危并动身赴工（ep_17fd55128ba5db85），随后抵达雾津市并观察周围环境（ep_f4f0c53a8b7dd5f2），两个情节在叙事时间顺序上连续，前者明确发生在后者之前。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_88a0610ba262",
+    "subject_id": "ep_b50ccba6e2a5d1d8",
+    "object_id": "ep_14d4469c58e4dca9",
+    "relation_type": "precedes",
+    "reason": "情节 '确认抵达雾津的行程状态' 发生在姜仁浩旅途中接听母亲电话，属于早期行程确认，而 '应对家庭突然到访并重逢女儿' 发生在他到家后的场景，包含与女儿和母亲的互动。根据叙事时间顺序，抵达确认必然早于家庭团聚，且两个情节分别位于不同文档（doc_3 和 doc_4），支持其时序先后关系。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_45_part_2",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3121925b5713",
+    "subject_id": "ep_f4f0c53a8b7dd5f2",
+    "object_id": "ep_dae1489385ff7120",
+    "relation_type": "precedes",
+    "reason": "姜仁浩抵达雾津市并观察周围环境发生在其与校长会面及双胞胎初遇之前，根据叙事顺序，进入城市是入职介绍的前提，因此该情节在话语顺序上早于后续的入职接待情节。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dbd4679cf1ca",
+    "subject_id": "ep_f4f0c53a8b7dd5f2",
+    "object_id": "ep_13b80187fae52f7a",
+    "relation_type": "precedes",
+    "reason": "姜仁浩先抵达雾津市并观察周围环境（野兔尸体、欢迎牌、城市灯光），随后才抵达慈爱学堂并交接任务。叙事顺序上，进入城市是到达学校之前的必要步骤，且两个情节分别位于不同文档（doc_11 和 doc_14）中，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7577053dc63c",
+    "subject_id": "ep_1b4283f41079046f",
+    "object_id": "ep_6ea9b8d351a34a35",
+    "relation_type": "precedes",
+    "reason": "姜仁浩在处理下班与家庭事务中确认已结束工作，随后在协调医院外会面中与徐友真沟通会面安排，叙事顺序上前者发生在后者之前，且后者提及姜仁浩已下班，间接支持时间上的先后关系。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_751345ed6a9f",
+    "subject_id": "ep_6ea9b8d351a34a35",
+    "object_id": "ep_7b11caf754b0e4f1",
+    "relation_type": "precedes",
+    "reason": "情节'协调医院外会面'发生在文档33，而'揭示警方共谋与学生受害后果'发生在文档34，且相关事件分别属于scene_34和scene_35，表明前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3f1b21cf3cef",
+    "subject_id": "ep_17fd55128ba5db85",
+    "object_id": "ep_76b145ec97317835",
+    "relation_type": "precedes",
+    "reason": "姜仁浩在出发前确认女儿安危并动身赴工（ep_17fd55128ba5db85）发生在驾车进入隧道后遭遇强光刹车（ep_76b145ec97317835）之前，根据事件的时间顺序，前者在叙事上先于后者。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_93ca3989f798",
+    "subject_id": "ep_17fd55128ba5db85",
+    "object_id": "ep_13b80187fae52f7a",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，姜仁浩在启程前确认女儿安危并动身赴工（ep_17fd55128ba5db85）发生在抵达慈爱学堂并交接任务（ep_13b80187fae52f7a）之前。文档中描述他驾车驶入隧道前往工作地点，逻辑上先于抵达学校，叙事顺序支持该时间先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b267087fce1a",
+    "subject_id": "ep_17fd55128ba5db85",
+    "object_id": "ep_dbb51b86ea3ce79a",
+    "relation_type": "precedes",
+    "reason": "姜仁浩在出发前确认女儿安危并动身赴工（ep_17fd55128ba5db85）发生在驾车进入隧道后，而应对货车强光与紧急避让（ep_dbb51b86ea3ce79a）是其在夜间驾驶过程中遭遇的具体事件。根据叙事顺序，启程是进入隧道行驶的前提，而遭遇货车是在行驶中发生的后续事件，因此前者在话语和时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d868b7876ba2",
+    "subject_id": "ep_17fd55128ba5db85",
+    "object_id": "ep_ff4d01e1adbf1840",
+    "relation_type": "precedes",
+    "reason": "姜仁浩在出发前确认女儿安危并动身赴工（ep_17fd55128ba5db85）发生在前往工作地点的途中早期阶段，而回应行程询问并追问任教目的（ep_ff4d01e1adbf1840）发生在隧道行驶过程中与徐友真的对话场景，文本中叙事顺序明确显示前者早于后者。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7e4ea238e33c",
+    "subject_id": "ep_17fd55128ba5db85",
+    "object_id": "ep_9506e7ffb65d45cf",
+    "relation_type": "precedes",
+    "reason": "姜仁浩在启程前确认女儿安危并动身赴工（ep_17fd55128ba5db85）发生在其向修理员询问前往慈爱学堂交通方式（ep_9506e7ffb65d45cf）之前，根据叙事顺序，前者为出发动作，后者为抵达后的情节，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_de7fbf4f16ef",
+    "subject_id": "ep_17fd55128ba5db85",
+    "object_id": "ep_dae1489385ff7120",
+    "relation_type": "precedes",
+    "reason": "姜仁浩在出发前确认女儿安危并动身赴工（ep_17fd55128ba5db85）发生在前往工作地点的途中，而完成入职介绍与双胞胎初遇（ep_dae1489385ff7120）发生在抵达工作地点后的校长室会面。根据叙事顺序，启程情节在时间上明确早于入职介绍情节，且related_events中的场景编号（scene_6 vs scene_17）支持这一先后顺序。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e65b491e8aa5",
+    "subject_id": "ep_17fd55128ba5db85",
+    "object_id": "ep_36db0f21469a965d",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，姜仁浩在出发前确认女儿安危并动身赴工（ep_17fd55128ba5db85）发生在驾车进入隧道的过程中，而应对突发交通事故（ep_36db0f21469a965d）发生在车辆启动后与其他车辆发生追尾，逻辑上和叙事顺序上前者必须早于后者。related_events 中的 scene_6 早于 scene_13，支持该时间顺序。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a28f5b63bc32",
+    "subject_id": "ep_9b885ea095639b34",
+    "object_id": "ep_b9a183a9602c4b87",
+    "relation_type": "elaborates",
+    "reason": "揭示民秀的创伤与学生心理困境为揭露加害者暴力行为的媒体陈述提供了背景和深层心理动因，说明学生为何难以反抗或表达受害经历，从而扩展了后者的情境和意义。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d32f9834933e",
+    "subject_id": "ep_93b3e4f275b3f97c",
+    "object_id": "ep_c15736b72d883b60",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均围绕姜仁浩面对制度性腐败的压力展开：一个涉及教育系统的高额费用，另一个涉及职场的索贿行为。两者在情境上并置，揭示不同领域但相似的系统性不公，形成社会压力下的个人困境对比。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_008946fa5955",
+    "subject_id": "ep_ab1ba8afbc8f3a06",
+    "object_id": "ep_9b885ea095639b34",
+    "relation_type": "elaborates",
+    "reason": "情节 '质问迟到的全民秀并发现其受伤' 揭示了全民秀遭受暴力的表层证据，而 '揭示民秀的创伤与学生心理困境' 进一步提供了民秀因弟弟死亡而承受心理重创的背景，并扩展至残疾学生群体的心理封闭问题。后者为前者的心理状态和行为反应提供了深层解释和背景，符合 'elaborates' 的定义。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_397e2d284dbf",
+    "subject_id": "ep_93b3e4f275b3f97c",
+    "object_id": "ep_28f3afadca559c4e",
+    "relation_type": "precedes",
+    "reason": "情节 '揭示并应对入学费用压力' 发生在姜仁浩与母亲讨论入学费用及其经济压力时，属于早期家庭经济困境的展现；而 '揭露校长腐败并质疑资金来源' 涉及对资金来源的道德质疑和腐败线索的展开，时间上和叙事发展上紧随其后，具有更深层的冲突升级。根据文档中事件的逻辑推进顺序，前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_45_part_2",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fc6f41088733",
+    "subject_id": "ep_99ae39aad4d2244c",
+    "object_id": "ep_3db0e0d2042dba7e",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'揭露润慈爱与校长的关系并触发姜仁浩的觉醒'中姜仁浩起身离开（scene_37）发生在'成宥利引导姜仁浩前往特定房间'之前（scene_28），scene_37在文档顺序上早于scene_28，因此该情节在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4c4070a43a82",
+    "subject_id": "ep_42426a248019397b",
+    "object_id": "ep_99ae39aad4d2244c",
+    "relation_type": "elaborates",
+    "reason": "实体 #1 揭示教师暴力与校方内部关联，提供了校方权力结构纵容暴力的背景；实体 #2 进一步展示该结构的具体体现（润慈爱与校长的情人关系及其对妍斗的暴力行为），并展现姜仁浩因此觉醒。因此，实体 #2 在情节上扩展和深化了实体 #1 所揭示的系统性包庇问题，提供了更具体的细节和情感冲击，推动角色反应。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5ffed169aa91",
+    "subject_id": "ep_13b80187fae52f7a",
+    "object_id": "ep_c15736b72d883b60",
+    "relation_type": "precedes",
+    "reason": "姜仁浩抵达慈爱学堂并交接任务发生在与行政室长互动之前，根据叙事顺序，他必须先进入学校并开始履职，随后才可能发生职位索贿的揭露。相关事件的时间和逻辑顺序支持这一先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cf50140edb4c",
+    "subject_id": "ep_a91e6c656f256308",
+    "object_id": "ep_c15736b72d883b60",
+    "relation_type": "precedes",
+    "reason": "安排姜仁浩工作起始时间发生在揭露并应对职位索贿之前，因为前者标志着入职流程的收尾和工作启动的明确时间点，而后者涉及入职过程中与行政室长的后续互动，叙事顺序上具有明确的先后关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dcf62dd1d4e4",
+    "subject_id": "ep_c15736b72d883b60",
+    "object_id": "ep_d603359628442e41",
+    "relation_type": "precedes",
+    "reason": "情节 '揭露并应对职位索贿' 发生在姜仁浩与行政室长的互动中（scene_18），而 '完成贿赂交接并引入利益拉拢' 发生在后续的校长办公室场景（scene_26），scene_18 在文档顺序和叙事时间线上均早于 scene_26，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7b0d97c720d2",
+    "subject_id": "ep_99ae39aad4d2244c",
+    "object_id": "ep_4026cccbf6f898fc",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，'揭露润慈爱与校长的关系并触发姜仁浩的觉醒'（ep_99ae39aad4d2244c）中姜仁浩意识到事态严重性并离开现场，是其情感与认知转变的起点；而'母子和解并规划未来生活安排'（ep_4026cccbf6f898fc）则表现姜仁浩回归家庭责任，情感趋于稳定。叙事逻辑上，觉醒先于和解，且文档中scene_37早于scene_45，支持该时间顺序。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_45_part_2",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_41f5ce78834f",
+    "subject_id": "ep_28f3afadca559c4e",
+    "object_id": "ep_c15736b72d883b60",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均围绕腐败揭露展开，但一个聚焦于校长与家庭资金的道德困境，另一个聚焦于行政室长直接索贿的职场腐败。两者在私人牺牲与公共索贿之间形成道德和情境对比，强调不同层面的腐败及其反应，支持对比关系。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_45_part_2",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_15505d3b5193",
+    "subject_id": "ep_dae1489385ff7120",
+    "object_id": "ep_c15736b72d883b60",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'完成入职介绍与双胞胎初遇'（scene_17）发生在'揭露并应对职位索贿'（scene_18）之前。scene_17中的事件为姜仁浩与校长及行政室长的初次会面，而scene_18则紧随其后，展示姜仁浩与行政室长在之后的互动中揭露索贿行为。因此，该关系在叙事顺序上具有明确的先后性。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1f9575530ffd",
+    "subject_id": "ep_94df5353a591e966",
+    "object_id": "ep_0322eb674fd6c6bb",
+    "relation_type": "precedes",
+    "reason": "姜仁浩初遇学生并尝试交流发生在金妍斗受伤住院之前，叙事上属于早期接触阶段，而应对金妍斗受伤的紧急情况是后续事件。根据情节描述的时间逻辑，初次相遇在先，紧急应对在后，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_060fc9ab9d02",
+    "subject_id": "ep_94df5353a591e966",
+    "object_id": "ep_1ad0ae689b3fe87e",
+    "relation_type": "precedes",
+    "reason": "姜仁浩初遇学生并尝试交流发生在故事早期（doc_15），而传递并确认金妍斗的目击信息发生在后续情节（doc_41），文本通过叙事顺序明确支持前者在时间上早于后者。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9a37a573cbf0",
+    "subject_id": "ep_94df5353a591e966",
+    "object_id": "ep_8dc390416c75f5f6",
+    "relation_type": "precedes",
+    "reason": "姜仁浩初遇学生并尝试交流发生在妍斗住院及校方应对之前，根据叙事顺序，初次接触是早期情节，而住院处理是后续事件，两者在时间线上有明确先后。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_338868d85198",
+    "subject_id": "ep_94df5353a591e966",
+    "object_id": "ep_d753c991249139e7",
+    "relation_type": "precedes",
+    "reason": "姜仁浩初遇学生并尝试交流发生在故事早期（doc_15），而揭露暴力并营救受害学生发生在后续文档（doc_28）中，叙事顺序明确显示前者早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_371c9c229c10",
+    "subject_id": "ep_2b50b7943b65fdb3",
+    "object_id": "ep_94df5353a591e966",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，姜仁浩在观察慈爱学堂的门面与条幅后，才在楼梯上初遇学生并尝试交流。两个情节分别发生在文档14和文档15中，且事件序列显示前者在时间上先于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_11a7d080adb2",
+    "subject_id": "ep_13b80187fae52f7a",
+    "object_id": "ep_94df5353a591e966",
+    "relation_type": "precedes",
+    "reason": "姜仁浩抵达慈爱学堂并交接任务发生在楼梯上初遇学生之前，根据场景顺序（scene_15 在 scene_16 之前），且描述中显示他进入学校后才遇到学生，因此该关系在叙事顺序上有明确支持。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b02a76f67ed9",
+    "subject_id": "ep_94df5353a591e966",
+    "object_id": "ep_560488dafabaccc5",
+    "relation_type": "precedes",
+    "reason": "姜仁浩初遇学生并尝试交流发生在 doc_15 的 scene_16，而与施暴者对峙并发出法律警告发生在 doc_28 的 scene_29，文档顺序和场景编号表明前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4f767c00d542",
+    "subject_id": "ep_94df5353a591e966",
+    "object_id": "ep_5ccb05337c58a9d1",
+    "relation_type": "precedes",
+    "reason": "姜仁浩初遇学生并尝试交流发生在楼梯场景（scene_16），而了解金妍斗的孤儿与残疾状况发生在后续查阅个人信息的场景（scene_24），文档顺序和叙事流程表明前者在时间上早于后者。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ce0de8a48f02",
+    "subject_id": "ep_94df5353a591e966",
+    "object_id": "ep_9153aef3c80e131b",
+    "relation_type": "precedes",
+    "reason": "根据文档ID，'姜仁浩初遇学生并尝试交流'（doc_15）发生在'姜仁浩介入并质问暴力原因'（doc_26）之前，叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_433028ce0a67",
+    "subject_id": "ep_94df5353a591e966",
+    "object_id": "ep_42426a248019397b",
+    "relation_type": "precedes",
+    "reason": "姜仁浩初遇学生并尝试交流发生在故事早期（doc_15, scene_16），而揭示教师暴力与校方内部关联发生在后续情节（doc_34, scene_35），文本中叙事顺序明确显示前者早于后者。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a3fda9369e1f",
+    "subject_id": "ep_94df5353a591e966",
+    "object_id": "ep_52ef640d01629d5c",
+    "relation_type": "precedes",
+    "reason": "姜仁浩初遇学生并尝试交流发生在发现苹果失踪并怀疑成宥利之前，根据描述，后者紧接在绘画巡视之后，而初遇是更早的接触场景，叙事顺序明确。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8f4555191f46",
+    "subject_id": "ep_94df5353a591e966",
+    "object_id": "ep_ab1ba8afbc8f3a06",
+    "relation_type": "precedes",
+    "reason": "姜仁浩初遇学生并尝试交流发生在楼梯场景（scene_16），而质问全民秀并发现其受伤发生在教室场景（scene_22），根据文档中的场景编号顺序，前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_874d28bd713f",
+    "subject_id": "ep_94df5353a591e966",
+    "object_id": "ep_1067d76d25ed1829",
+    "relation_type": "precedes",
+    "reason": "姜仁浩初遇学生并尝试交流发生在楼梯场景（doc_15, scene_16），而巡视绘画课并尝试与金妍斗互动发生在后续的绘画课场景（doc_21, scene_22），文档顺序和叙事发展表明前者在时间上早于后者，且构成师生互动的初始接触与后续发展。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_69020b6cf6a3",
+    "subject_id": "ep_13b80187fae52f7a",
+    "object_id": "ep_d753c991249139e7",
+    "relation_type": "precedes",
+    "reason": "姜仁浩抵达慈爱学堂并交接任务发生在进入洗衣房揭露暴力之前，叙事顺序上明确先有抵达和警告，后有发现施暴并营救学生。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7acaba758f9e",
+    "subject_id": "ep_13b80187fae52f7a",
+    "object_id": "ep_560488dafabaccc5",
+    "relation_type": "precedes",
+    "reason": "姜仁浩抵达慈爱学堂并交接任务发生在与施暴者对峙并发出法律警告之前，根据叙事顺序，前者是进入学校的初始步骤，后者是后续发生的冲突事件，时间上存在明确先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1c6b445afb14",
+    "subject_id": "ep_13b80187fae52f7a",
+    "object_id": "ep_774d7d9937c79aee",
+    "relation_type": "precedes",
+    "reason": "姜仁浩抵达慈爱学堂并交接任务发生在调查异常惨叫声之前，根据叙事顺序，他必须先进入学校并开始工作，之后才可能在下班途中听到惨叫并展开调查。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0cd4ebedd04b",
+    "subject_id": "ep_13b80187fae52f7a",
+    "object_id": "ep_9153aef3c80e131b",
+    "relation_type": "precedes",
+    "reason": "姜仁浩抵达慈爱学堂并交接任务发生在进入学校之前，而介入质问暴力事件发生在进入办公室之后，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_47f724ac12f3",
+    "subject_id": "ep_13b80187fae52f7a",
+    "object_id": "ep_d603359628442e41",
+    "relation_type": "precedes",
+    "reason": "姜仁浩抵达慈爱学堂并交接任务发生在其进入校长办公室完成贿赂交接之前，根据叙事顺序，抵达并接受警告在先，随后才发生携带钱袋进入办公室进行贿赂的行为，时间顺序明确。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_756757444f35",
+    "subject_id": "ep_13b80187fae52f7a",
+    "object_id": "ep_3db0e0d2042dba7e",
+    "relation_type": "precedes",
+    "reason": "姜仁浩抵达慈爱学堂并交接任务发生在成宥利引导他前往特定房间之前，根据叙事顺序，前者在文档中先出现，且后者发生在姜仁浩准备离开时，暗示时间上的先后顺序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fc2276c74987",
+    "subject_id": "ep_13b80187fae52f7a",
+    "object_id": "ep_dae1489385ff7120",
+    "relation_type": "precedes",
+    "reason": "姜仁浩抵达慈爱学堂并交接任务发生在与校长会面及入职介绍之前，根据叙事顺序，抵达并交接是进入学校后的初始步骤，随后才进行正式的入职接待和双胞胎初遇情节。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1ff220db800b",
+    "subject_id": "ep_13b80187fae52f7a",
+    "object_id": "ep_a91e6c656f256308",
+    "relation_type": "precedes",
+    "reason": "姜仁浩抵达慈爱学堂并交接任务发生在校长安排其工作起始时间之前，根据叙事顺序，先抵达并交接，随后才进行工作时间的安排，因此该关系在时间线上明确且有向。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_828ef20bfc2c",
+    "subject_id": "ep_13b80187fae52f7a",
+    "object_id": "ep_2b50b7943b65fdb3",
+    "relation_type": "precedes",
+    "reason": "根据描述，姜仁浩在抵达慈爱学堂并完成交接任务后，徐友真驾车离去，随后他转身观察学校门面与条幅。两个情节发生在同一场景（scene_15），但‘抵达并交接任务’中的事件（如徐友真警告和离开）在叙述顺序上明确早于‘观察门面与条幅’，因此主体情节在叙事顺序上先于客体情节。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d29f3052c9f9",
+    "subject_id": "ep_9506e7ffb65d45cf",
+    "object_id": "ep_13b80187fae52f7a",
+    "relation_type": "precedes",
+    "reason": "姜仁浩首先获取前往慈爱学堂的交通信息，随后才抵达慈爱学堂并交接任务。根据描述，获取交通信息是行程规划的一部分，而抵达学校是后续行动，两者在叙事时间顺序上存在明确先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8f2722c864e4",
+    "subject_id": "ep_ba9e9f1805970a0d",
+    "object_id": "ep_13b80187fae52f7a",
+    "relation_type": "precedes",
+    "reason": "姜仁浩在处理修车延误并决定暂时离开后，才抵达慈爱学堂并交接任务。根据事件的时间逻辑顺序，修车延误的情节发生在抵达慈爱学堂之前，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2e981e86b183",
+    "subject_id": "ep_13b80187fae52f7a",
+    "object_id": "ep_1067d76d25ed1829",
+    "relation_type": "precedes",
+    "reason": "姜仁浩抵达慈爱学堂并交接任务发生在巡视绘画课并尝试与金妍斗互动之前，根据叙事顺序，他必须先进入学校并接受任务，之后才能出现在课堂上与学生互动。相关事件的时间和上下文支持这一时间先后关系。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2c182046c926",
+    "subject_id": "ep_13b80187fae52f7a",
+    "object_id": "ep_ab1ba8afbc8f3a06",
+    "relation_type": "precedes",
+    "reason": "姜仁浩抵达慈爱学堂并交接任务发生在其进入学校之后，而质问全民秀并发现其受伤是在教室内的后续事件。根据叙事顺序，抵达并交接任务在时间上先于质问迟到学生的情节，且两个情节均属于姜仁浩到校后的连续行动序列，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1523a64dcca2",
+    "subject_id": "ep_ff4d01e1adbf1840",
+    "object_id": "ep_13b80187fae52f7a",
+    "relation_type": "precedes",
+    "reason": "根据描述，姜仁浩在前往慈爱学堂途中询问到达时间并讨论其任教目的（ep_ff4d01e1adbf1840），随后才抵达学校门口并完成交接任务（ep_13b80187fae52f7a）。related_events 中的 scene_14 发生在 scene_15 之前，支持该时间顺序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_74216a9b4448",
+    "subject_id": "ep_2b50b7943b65fdb3",
+    "object_id": "ep_dae1489385ff7120",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，姜仁浩在观察慈爱学堂门面与条幅后，才进入学校完成入职介绍并与双胞胎兄弟初遇。事件序列显示前者在时间上明确早于后者，且属于进入学校前的外部观察到内部互动的自然推进。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_db707497c265",
+    "subject_id": "ep_ff4d01e1adbf1840",
+    "object_id": "ep_2b50b7943b65fdb3",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件流，徐友真回应姜仁浩的询问并追问其任教目的（doc_13）发生在姜仁浩观察慈爱学堂门面与条幅（doc_14）之前，且场景编号scene_14先于scene_15，表明该情节在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8195a0e43d81",
+    "subject_id": "ep_9506e7ffb65d45cf",
+    "object_id": "ep_2b50b7943b65fdb3",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，姜仁浩首先向修理员询问前往慈爱学堂的交通方式（ep_9506e7ffb65d45cf），随后才到达学校并观察其门面与条幅（ep_2b50b7943b65fdb3）。文档中事件的时序支持这一先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_84301f013d46",
+    "subject_id": "ep_39fb1056968c5bbc",
+    "object_id": "ep_52ef640d01629d5c",
+    "relation_type": "precedes",
+    "reason": "根据描述，'姜仁浩鼓励成宥利参与绘画并消除她的顾虑' 发生在绘画活动期间，而 '发现苹果失踪并怀疑成宥利' 被明确描述为 '紧接在绘画巡视之后'，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0205e18ca410",
+    "subject_id": "ep_d99bef1043143f41",
+    "object_id": "ep_39fb1056968c5bbc",
+    "relation_type": "precedes",
+    "reason": "根据描述，'检查苹果并引发学生议论' 发生在绘画课开始前（scene_22），而 '姜仁浩鼓励成宥利参与绘画并消除她的顾虑' 发生在 scene_33，明确处于后续场景。因此，前者在叙事顺序上早于后者，支持 'precedes' 关系。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_040818c43e4b",
+    "subject_id": "ep_d99bef1043143f41",
+    "object_id": "ep_bb5f6be6c9045929",
+    "relation_type": "precedes",
+    "reason": "根据描述，'检查苹果并引发学生议论' 发生在绘画课开始前，而 '师生完成绘画并以幽默互动分享成果' 发生在绘画结束后，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5593f0013381",
+    "subject_id": "ep_1067d76d25ed1829",
+    "object_id": "ep_bb5f6be6c9045929",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在绘画课进行中，姜仁浩尝试与金妍斗互动但被无视；第二个情节发生在绘画结束后，师生分享成果并产生积极互动。根据叙事顺序，尝试互动的情节在完成绘画并分享成果之前发生。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ab2cf21bc0dc",
+    "subject_id": "ep_52ef640d01629d5c",
+    "object_id": "ep_bb5f6be6c9045929",
+    "relation_type": "precedes",
+    "reason": "根据描述，'发现苹果失踪并怀疑成宥利' 紧接在绘画巡视之后，而 '师生完成绘画并以幽默互动分享成果' 发生在绘画结束后的互动中，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_33b463bd88f0",
+    "subject_id": "ep_3db0e0d2042dba7e",
+    "object_id": "ep_d753c991249139e7",
+    "relation_type": "precedes",
+    "reason": "成宥利引导姜仁浩前往特定房间发生在姜仁浩进入洗衣房揭露暴力并营救受害学生之前，根据场景编号scene_28先于scene_29，表明该情节在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f0dcc6a67e66",
+    "subject_id": "ep_d753c991249139e7",
+    "object_id": "ep_42426a248019397b",
+    "relation_type": "elaborates",
+    "reason": "情节'揭露暴力并营救受害学生'中姜仁浩干预润慈爱对金妍斗施暴的事件，为后续'揭示教师暴力与校方内部关联'提供了直接的实证场景和动机背景；后者通过揭示施暴者润慈爱是校长亲属，扩展并深化了前者所呈现的暴力事件的制度性根源，构成对前一情节的制度背景补充和意义扩展。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6b51f700ef1f",
+    "subject_id": "ep_dae1489385ff7120",
+    "object_id": "ep_d753c991249139e7",
+    "relation_type": "precedes",
+    "reason": "情节 '完成入职介绍与双胞胎初遇' 发生在姜仁浩刚到学校与校长和行政室长会面时，属于其入职初期的社交场景；而 '揭露暴力并营救受害学生' 发生在姜仁浩进入洗衣房发现施暴事件之后，时间上明显靠后。根据叙事顺序，入职介绍情节在前，干预暴力事件的情节在后，有清晰的时间先后关系。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f25b1afb1580",
+    "subject_id": "ep_9153aef3c80e131b",
+    "object_id": "ep_560488dafabaccc5",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件流，姜仁浩介入并质问暴力原因（doc_26）发生在与施暴者对峙并发出法律警告（doc_28）之前。两个情节涉及姜仁浩对暴力行为的反应，且文档编号递增，支持叙事时间顺序上的先后关系。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a3ff3cd59a5c",
+    "subject_id": "ep_42426a248019397b",
+    "object_id": "ep_560488dafabaccc5",
+    "relation_type": "precedes",
+    "reason": "情节 '揭示教师暴力与校方内部关联' 中，徐友真揭露润慈爱是校长亲属，为后续姜仁浩与润慈爱对峙并发出法律警告提供了信息基础和动机。根据叙事逻辑和事件发展顺序，揭露关联在时间上和逻辑上先于对峙行为，且文本中姜仁浩的威胁行为建立在已知润慈爱身份的前提下，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0f7fc37ab799",
+    "subject_id": "ep_1b4283f41079046f",
+    "object_id": "ep_3db0e0d2042dba7e",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节内容，姜仁浩处理下班与家庭事务（doc_24）发生在成宥利引导他前往特定房间（doc_27）之前，且两个情节分别位于连续的场景（scene_25 与 scene_28）中，支持明确的时间先后顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0b462d77b535",
+    "subject_id": "ep_774d7d9937c79aee",
+    "object_id": "ep_add09fdbb99b7541",
+    "relation_type": "causes",
+    "reason": "姜仁浩调查异常惨叫声（敲门询问）直接导致校长性侵犯行为被中止，文本明确指出性侵情节因姜仁浩的敲门而中断，构成直接因果关系。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_34051e2e5878",
+    "subject_id": "ep_ab1ba8afbc8f3a06",
+    "object_id": "ep_7b11caf754b0e4f1",
+    "relation_type": "elaborates",
+    "reason": "‘质问迟到的全民秀并发现其受伤’通过展示全民秀脸上的淤青，首次揭示校园暴力的存在，为后续‘揭示警方共谋与学生受害后果’中更广泛的系统性共谋和报复提供了具体个案基础。后者在描述中引用姜仁浩回忆学生遭受暴力的画面，暗示此类个体受害经历是系统性暴力的一部分，因此前者为后者提供了细节和背景支持。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_c05f12f9d816",
+    "subject_id": "ep_9153aef3c80e131b",
+    "object_id": "ep_2c9fe7eeff99c1e8",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，姜仁浩介入并质问暴力原因（scene_27）发生在成宥利情绪崩溃及后续安抚情节之前（scene_28），表明该情节在叙事顺序上早于安抚成宥利的情节。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c613d5ad79ae",
+    "subject_id": "ep_7b11caf754b0e4f1",
+    "object_id": "ep_b9a183a9602c4b87",
+    "relation_type": "elaborates",
+    "reason": "第一个情节揭示警方与校方共谋及学生遭受系统性报复的背景，第二个情节通过媒体采访场合中全民秀的陈述进一步展开加害者暴力行为的具体细节，包括被迫同行和威胁经历，从而扩展并具体化了前一情节所揭示的系统性暴力。姜仁浩在两个情节中的回忆与翻译角色也强化了这种信息补充关系。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_46aa47955b1c",
+    "subject_id": "ep_9153aef3c80e131b",
+    "object_id": "ep_add09fdbb99b7541",
+    "relation_type": "causes",
+    "reason": "姜仁浩介入并质问暴力原因的情节中，其行动直接导致校长性侵犯行为的中止。根据客体情节描述，姜仁浩在厕所外敲门询问是打断校长性侵的直接外部干预，表明主体情节中的行为（质问/敲门）触发了客体情节的中断，构成直接因果关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9bfa5baeedc8",
+    "subject_id": "ep_9506e7ffb65d45cf",
+    "object_id": "ep_dae1489385ff7120",
+    "relation_type": "precedes",
+    "reason": "姜仁浩在获取前往慈爱学堂的交通信息后，才抵达并完成入职介绍与双胞胎初遇。根据叙事顺序，规划行程的情节发生在实际到达并参与入职接待之前，且两个情节分别位于文档 doc_12 和 doc_16，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_813394373215",
+    "subject_id": "ep_ba9e9f1805970a0d",
+    "object_id": "ep_ff4d01e1adbf1840",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，情节 '处理修车延误并决定暂时离开' 发生在 scene_13，而 '回应姜仁浩的行程询问并追问其任教目的' 发生在 scene_14，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_218c90d1c470",
+    "subject_id": "ep_9506e7ffb65d45cf",
+    "object_id": "ep_ff4d01e1adbf1840",
+    "relation_type": "precedes",
+    "reason": "姜仁浩首先向修理员询问前往慈爱学堂的交通方式，随后在乘车过程中向司机徐友真询问到达时间并被反问任教目的。两个情节分别发生在场景13和场景14，具有明确的叙事顺序，前者为规划行程，后者为行程中对话的推进，因此主体情节在时间与叙事上早于客体情节。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2a8ea4abc54c",
+    "subject_id": "ep_d99bef1043143f41",
+    "object_id": "ep_1067d76d25ed1829",
+    "relation_type": "precedes",
+    "reason": "根据描述，'检查苹果并引发学生议论' 发生在绘画课开始前，而 '巡视绘画课并尝试与金妍斗互动' 发生在学生们开始绘画后，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4e3a08e1c457",
+    "subject_id": "ep_52ef640d01629d5c",
+    "object_id": "ep_d99bef1043143f41",
+    "relation_type": "precedes",
+    "reason": "根据描述，'发现苹果失踪并怀疑成宥利' 情节中姜仁浩注意到成宥利在啃苹果且讲台上的苹果已消失，紧接在绘画巡视之后；而 '检查苹果并引发学生议论' 情节发生在绘画课开始前，且涉及姜仁浩主动拿起并咬苹果的行为。时间顺序上，发现苹果失踪应早于进一步检查苹果的行为，因此主体情节在叙事顺序上先于客体情节。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_284ef892b1b2",
+    "subject_id": "ep_90be4225a7f0d31e",
+    "object_id": "ep_bb5f6be6c9045929",
+    "relation_type": "contrasts_with",
+    "reason": "校长对成宥利实施性侵犯是一个充满权力压迫和创伤的场景，而师生完成绘画并以幽默互动分享成果则体现温暖、平等的情感交流。两者在基调、权力关系和情感状态上形成强烈反差，构成叙事上的对比。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7b844507c97e",
+    "subject_id": "ep_90be4225a7f0d31e",
+    "object_id": "ep_ffb2368c41fdfc72",
+    "relation_type": "causes",
+    "reason": "校长对成宥利实施性侵犯这一情节直接导致成宥利情绪崩溃大哭，进而引发徐友真上前安抚她的情绪。描述中明确指出成宥利因情绪激动而大哭，且该安抚行为发生在性侵犯之后的下一场景，构成直接的因果链。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_58590c4eedce",
+    "subject_id": "ep_ac76bd1c79aa4df5",
+    "object_id": "ep_0c19505bbc4f4e24",
+    "relation_type": "precedes",
+    "reason": "成宥利出现并表现出欲言又止（ep_ac76bd1c79aa4df5）发生在金妍斗作证后的沉默时刻（doc_38），而校长安慰成宥利（ep_0c19505bbc4f4e24）发生在后续场景（doc_39），文档顺序和叙事流程表明前者在时间上早于后者。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eda0d3f54d94",
+    "subject_id": "ep_ac76bd1c79aa4df5",
+    "object_id": "ep_ffb2368c41fdfc72",
+    "relation_type": "precedes",
+    "reason": "成宥利出现并表现出欲言又止发生在她情绪崩溃大哭并被徐友真安抚之前。根据描述，她最初因打翻饮料引起注意并支吾欲言，随后才情绪激动大哭，触发安抚情节。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_300608e4a06e",
+    "subject_id": "ep_ac76bd1c79aa4df5",
+    "object_id": "ep_90be4225a7f0d31e",
+    "relation_type": "precedes",
+    "reason": "成宥利出现并表现出欲言又止的情节发生在金妍斗作证后的沉默时刻（doc_38），而校长对成宥利实施性侵犯的情节是后续被揭示的创伤内容（doc_40）。根据叙事顺序，成宥利的沉默和暗示性行为在时间上早于其遭受性侵犯的具体情节被呈现，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_30e21c5b5ddf",
+    "subject_id": "ep_0c19505bbc4f4e24",
+    "object_id": "ep_d619c6041557ae53",
+    "relation_type": "contrasts_with",
+    "reason": "校长安慰成宥利表现出情感关怀，而制服并威胁目击者展现其暴力压制，两个情节通过校长在不同情境下的行为反差形成道德与情感基调的对比。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_438d85b513a1",
+    "subject_id": "ep_3be60a4ea1ae5275",
+    "object_id": "ep_bb5f6be6c9045929",
+    "relation_type": "contrasts_with",
+    "reason": "金妍斗因恐惧带成宥利离开的情节表现出对姜仁浩的回避和紧张情绪，而师生完成绘画并以幽默互动分享成果的情节则展现姜仁浩与成宥利之间的温暖和信任互动。两个情节在情感基调和人物关系状态上形成明显对比，一个体现恐惧与逃避，另一个体现轻松与联结。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fd592e9c151f",
+    "subject_id": "ep_eb3caa52e3cd4c61",
+    "object_id": "ep_ffb2368c41fdfc72",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，姜仁浩发现成宥利处于危险边缘并施救（ep_eb3caa52e3cd4c61）发生在成宥利情绪崩溃大哭、徐友真上前安抚（ep_ffb2368c41fdfc72）之前。施救行为可能导致情绪释放，进而引发后续安抚情节，且两个情节均围绕成宥利的心理状态变化展开，具有连续叙事顺序。因此，主体情节在叙事时间上先于客体情节。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_10f24839a140",
+    "subject_id": "ep_ac76bd1c79aa4df5",
+    "object_id": "ep_3db0e0d2042dba7e",
+    "relation_type": "precedes",
+    "reason": "成宥利出现并表现出欲言又止（ep_ac76bd1c79aa4df5）发生在金妍斗作证后的沉默时刻，而引导姜仁浩前往特定房间（ep_3db0e0d2042dba7e）发生在姜仁浩准备离开时，叙事时间线上前者早于后者，构成明确的先后顺序。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_03934d9ae8c2",
+    "subject_id": "ep_3be60a4ea1ae5275",
+    "object_id": "ep_2c9fe7eeff99c1e8",
+    "relation_type": "precedes",
+    "reason": "金妍斗因恐惧带成宥利离开（ep_3be60a4ea1ae5275）发生在楼梯口场景（doc_15, scene_16），而姜仁浩安抚成宥利的情绪崩溃（ep_2c9fe7eeff99c1e8）发生在后续的另一场景（doc_27, scene_28），文档顺序和叙事上下文表明前者在时间上早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9a3f568f34ec",
+    "subject_id": "ep_0c19505bbc4f4e24",
+    "object_id": "ep_d94ee90f02385d6d",
+    "relation_type": "contrasts_with",
+    "reason": "校长安慰成宥利展现了一种表面温情、富有情感张力的互动，而揭露校长性侵犯的经过则揭示了其滥用权力、实施侵害的黑暗真相。两个情节通过同一角色（校长）在不同情境下的行为形成道德与情感上的强烈对比，构成明显的基调逆转。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_7b743b9e7569",
+    "subject_id": "ep_90be4225a7f0d31e",
+    "object_id": "ep_d619c6041557ae53",
+    "relation_type": "causes",
+    "reason": "校长对成宥利实施性侵犯后，金妍斗目击并逃离，导致校长追出并制服威胁她以掩盖罪行。客体情节是主体情节的直接后果，由文本中校长阻止泄露的意图支持，构成因果关系。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f84834df0623",
+    "subject_id": "ep_98795c4834e1170c",
+    "object_id": "ep_90be4225a7f0d31e",
+    "relation_type": "precedes",
+    "reason": "金妍斗在厕所躲藏并遭校长搜寻的情节发生在校长对成宥利实施性侵犯之前，且描述中明确指出该情节是性侵犯发生前的直接前奏，具有清晰的叙事时间顺序。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0c5ac2d636bc",
+    "subject_id": "ep_9b885ea095639b34",
+    "object_id": "ep_f324f0487e139b27",
+    "relation_type": "elaborates",
+    "reason": "揭示民秀的创伤与学生心理困境这一情节提供了关于民秀及其弟弟心理状态和背景的解释性信息，而揭露浴室中的虐待与暴力事件则具体呈现了导致该心理创伤的直接经历。后者通过展示虐待的具体场景，为前者的心理状态描述提供了具体事件基础，因此前者通过提供背景和深层心理影响，扩展和阐释了后者的后果与意义。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_60aaaf0a4432",
+    "subject_id": "ep_98795c4834e1170c",
+    "object_id": "ep_0c19505bbc4f4e24",
+    "relation_type": "precedes",
+    "reason": "根据描述，'金妍斗在厕所躲藏并遭校长搜寻' 是性侵犯发生前的直接前奏，而 '校长安慰成宥利' 发生在另一个场景中，且成宥利的情节具有情感张力但未显示与金妍斗事件同时发生。文档ID不同（doc_38 vs doc_39）且事件序列表明校长在对金妍斗实施压迫后，才出现在成宥利的场景中，因此该关系在叙事顺序上支持前者早于后者。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ec304ed591c5",
+    "subject_id": "ep_90be4225a7f0d31e",
+    "object_id": "ep_add09fdbb99b7541",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均描述校长对不同受害者的性侵犯行为，但一个发生在办公室（对成宥利），另一个在厕所隔间（对金妍斗）；一个未被中断，另一个因外部干预而中止。两者的并置突出了情境、暴力程度和结果的差异，形成叙事上的对比。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_5c2e9cb3b4e5",
+    "subject_id": "ep_99b1456c3bc1305d",
+    "object_id": "ep_90be4225a7f0d31e",
+    "relation_type": "precedes",
+    "reason": "金妍斗返回学校并遭遇校长诱骗（ep_99b1456c3bc1305d）发生在校长对成宥利实施性侵犯（ep_90be4225a7f0d31e）之前，根据描述，前者是后者发生的前奏，且两个情节在时间顺序上具有明确的先后关系。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e9ae020fdbc2",
+    "subject_id": "ep_f4d51464ee1f19f4",
+    "object_id": "ep_ffb2368c41fdfc72",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，金妍斗在校长室目睹侵犯并逃离（scene_43）发生在徐友真安抚成宥利（scene_42）之后。但scene_42在文档中先于scene_43被记录，且成宥利情绪崩溃（scene_42）是目睹侵犯前的状态。然而，描述中金妍斗的行动触发了后续追捕，而徐友真的安抚发生在更早的紧张场景中。重新分析scene编号：scene_42先发生，scene_43后发生。因此，'安抚成宥利'（scene_42）在叙事顺序上早于'揭露侵犯并逃离'（scene_43）。故正确方向应为ep_ffb2368c41fdfc72 precedes ep_f4d51464ee1f19f4。但输入中主体是ep_f4d51464ee1f19f4，客体是ep_ffb2368c41fdfc72，因此precedes关系方向不成立。由于scene_42在前，scene_43在后，主体事件实际晚于客体事件，故主体不能precedes客体。因此无有效有向关系成立。无其他明确因果、对比或扩展证据。输出NONE。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_96dbb347e404",
+    "subject_id": "ep_add09fdbb99b7541",
+    "object_id": "ep_f324f0487e139b27",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均描绘了针对听障儿童的性暴力和身体虐待，但一个发生在学校厕所（校长对金妍斗），另一个发生在浴室（朴宝贤对全民秀的弟弟），并通过不同受害者的视角展现系统性暴力。两者在叙事中并置，强调加害者的共通暴行与受害者的无助，形成主题上的对比与呼应，但无明确时间或因果顺序。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_546c0c2dec24",
+    "subject_id": "ep_555813d19b572779",
+    "object_id": "ep_0322eb674fd6c6bb",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序，'应对神秘电话中的紧急指控'（doc_29）发生在'应对金妍斗受伤的紧急情况'（doc_30）之前，且两个情节分别围绕徐友真接获关于殴打残疾儿童的指控和随后处理金妍斗受伤事件展开，具有明确的叙事时间先后顺序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dd72967b4804",
+    "subject_id": "ep_1edb963032c5c5fc",
+    "object_id": "ep_90eaa36937f8cbb5",
+    "relation_type": "precedes",
+    "reason": "揭露校长性侵与校方共犯网络的情节发生在徐友真向警方质问不作为之前，因为获取证词和揭露内部共犯是后续向执法机构施压的前提，叙事逻辑和事件发展顺序支持该时间先后关系。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8ed8604c050e",
+    "subject_id": "ep_b1c2740baf7a4ad7",
+    "object_id": "ep_90eaa36937f8cbb5",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'激烈质问责任真空问题'发生在scene_46，而'质问警方不作为并揭示体制障碍'发生在scene_47，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f8ad3f238add",
+    "subject_id": "ep_90eaa36937f8cbb5",
+    "object_id": "ep_e3a8b95926beac7e",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件流，徐友真在公安局质问张刑警（ep_90eaa36937f8cbb5）后，离开时接到永勋电话通知媒体采访（ep_e3a8b95926beac7e），表明前者在叙事时间上直接早于后者。相关事件发生在scene_47和紧随其后的scene_48，支持该时间顺序。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8455fbca3e96",
+    "subject_id": "ep_2438a99d314a8259",
+    "object_id": "ep_90eaa36937f8cbb5",
+    "relation_type": "precedes",
+    "reason": "徐友真先向教育厅提交解雇与惩处申请并遭遇管辖推诿（ep_2438a99d314a8259），随后在下一场景中质问警方不作为并揭示体制障碍（ep_90eaa36937f8cbb5）。两个情节在叙事顺序上连续，且文档ID（doc_45 → doc_46）支持时间上的先后关系，但无明确因果或对比证据。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_de78bb1a61b9",
+    "subject_id": "ep_1edb963032c5c5fc",
+    "object_id": "ep_2438a99d314a8259",
+    "relation_type": "precedes",
+    "reason": "揭露校长性侵与校方共犯网络的情节发生在徐友真向教育厅提交解雇与惩处申请之前，因为揭露行为提供了后续行动的动机和信息基础，且叙事上先有证据收集与披露，再有正式申诉行为。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a3deadfebac7",
+    "subject_id": "ep_27e582efe2ba2ef5",
+    "object_id": "ep_f324f0487e139b27",
+    "relation_type": "elaborates",
+    "reason": "分析全民秀的家庭与教育背景为揭露浴室中的虐待与暴力事件提供了背景信息，帮助理解受害者的处境和脆弱性，从而扩展了后者的情节内涵。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e96d1feaa094",
+    "subject_id": "ep_633a49ae2e14ab1a",
+    "object_id": "ep_13b80187fae52f7a",
+    "relation_type": "precedes",
+    "reason": "根据描述，徐友真在驾驶途中向姜仁浩解释其职业背景（ep_633a49ae2e14ab1a），这一情节发生在姜仁浩抵达慈爱学堂并交接任务（ep_13b80187fae52f7a）之前，因为对话发生在前往学校的路上，随后徐友真驾车离去，姜仁浩进入学校。叙事顺序明确支持前者早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a685126c6f33",
+    "subject_id": "ep_36db0f21469a965d",
+    "object_id": "ep_633a49ae2e14ab1a",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'应对突发交通事故并澄清责任' 发生在 scene_13，而 '揭示徐友真的职业与仇家背景' 发生在 scene_14，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8adc92f33d67",
+    "subject_id": "ep_665305c874e4bde0",
+    "object_id": "ep_56a006aaed0d77b1",
+    "relation_type": "causes",
+    "reason": "朴宝贤对全名秀实施暴力逼供，直接导致全名秀在创伤后沉默离开办公室，描述中明确将离开行为表现为暴力后的创伤反应，构成直接因果链。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7c90c36e337b",
+    "subject_id": "ep_665305c874e4bde0",
+    "object_id": "ep_9153aef3c80e131b",
+    "relation_type": "precedes",
+    "reason": "朴宝贤审问并暴力逼供全名秀发生在姜仁浩介入并质问暴力原因之前，根据场景顺序，前者在校长室中进行，后者是在姜仁浩进入办公室目睹暴力后立即发生的反应，叙事时间线上有明确先后顺序。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_27fa193395be",
+    "subject_id": "ep_560488dafabaccc5",
+    "object_id": "ep_cc04fa1125d8a344",
+    "relation_type": "causes",
+    "reason": "姜仁浩与润慈爱的言语冲突和对峙过程中，金妍斗因伤重昏倒，该事件紧随争执升级而发生，且描述中显示其伤势在冲突背景下被揭示，表明对峙情境的紧张氛围或间接压力可能加剧了学生的身体崩溃，构成直接触发的因果关系。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e208dc3471c9",
+    "subject_id": "ep_39daa7fecc6bf291",
+    "object_id": "ep_56a006aaed0d77b1",
+    "relation_type": "precedes",
+    "reason": "姜仁浩反击朴宝贤后，暴力事件结束，随后全名秀擦去眼泪并默默离开办公室。根据描述的时间顺序，主体情节在叙事上直接早于客体情节，且二者共享同一事件序列的因果与时间流。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b5ead0360f5c",
+    "subject_id": "ep_42426a248019397b",
+    "object_id": "ep_56a006aaed0d77b1",
+    "relation_type": "elaborates",
+    "reason": "揭示教师暴力与校方内部关联这一情节通过提供施暴者润慈爱是校长亲属的信息，扩展并深化了全名秀在遭受暴力后沉默离开的背景，说明其创伤情境的制度性根源，构成对后一情节的进一步阐释。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_edfc08224a8b",
+    "subject_id": "ep_42426a248019397b",
+    "object_id": "ep_665305c874e4bde0",
+    "relation_type": "elaborates",
+    "reason": "情节 '揭示教师暴力与校方内部关联' 通过姜仁浩回忆朴宝贤殴打全名秀的场景，以及徐友真揭露施暴者为校长亲属，提供了对 '朴宝贤审问并暴力逼供全名秀' 情节的背景和系统性解释，扩展了该暴力事件的制度性语境。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f95e18bf2753",
+    "subject_id": "ep_872453b1691f8f3a",
+    "object_id": "ep_90a92759c861e99e",
+    "relation_type": "causes",
+    "reason": "行政干预直接导致暴力行为中止，文本明确指出外部干预（校长召见通知）使施暴行为被中断，构成直接因果关系。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cd79655dde88",
+    "subject_id": "ep_872453b1691f8f3a",
+    "object_id": "ep_42426a248019397b",
+    "relation_type": "elaborates",
+    "reason": "情节 '朴宝贤对全名秀实施暴力与心理操控' 描述了具体的暴力行为事件，而 '揭示教师暴力与校方内部关联' 通过回忆和揭露扩展了该暴力事件的背景和制度性关联，提供了更深层的上下文解释，因此前者被后者所扩展。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_25ed47cde04a",
+    "subject_id": "ep_56a006aaed0d77b1",
+    "object_id": "ep_73fcfc6941952d4b",
+    "relation_type": "elaborates",
+    "reason": "‘揭露朴宝贤对全民秀的性侵犯行为’通过回忆场景详细揭示了导致‘全名秀在创伤后沉默离开’的心理创伤根源，提供了前者所表现情绪和行为的背景与解释，因此该情节扩展并深化了对主体情节的理解。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_352d6931d1c2",
+    "subject_id": "ep_90a92759c861e99e",
+    "object_id": "ep_56a006aaed0d77b1",
+    "relation_type": "causes",
+    "reason": "行政干预导致暴力中止直接中断了施暴行为，使全名秀能够离开办公室，其创伤后沉默离开是该干预的即时后果，文本明确指出干预为全名秀提供了脱离环境的机会。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8bb33c0eea36",
+    "subject_id": "ep_9153aef3c80e131b",
+    "object_id": "ep_90a92759c861e99e",
+    "relation_type": "precedes",
+    "reason": "姜仁浩介入并质问暴力原因发生在行政室长通知朴宝贤校长召见之前，根据场景顺序，姜仁浩的干预是现场直接反应，而行政干预随后到来并最终中止暴力，因此该关系在叙事时序上成立。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_607794c0b306",
+    "subject_id": "ep_872453b1691f8f3a",
+    "object_id": "ep_b9a183a9602c4b87",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述朴宝贤对全名秀实施身体与心理双重暴力，而客体情节中全民秀在媒体采访中陈述其弟弟被迫同行并遭受威胁的经历，揭示了类似暴力行为的后果与背景。客体情节通过公开陈述和回忆扩展了主体情节所体现的系统性暴力与受害者处境，提供了更广泛的社会揭露层面，构成对主体情节的进一步阐释。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_972cf32df29f",
+    "subject_id": "ep_42426a248019397b",
+    "object_id": "ep_f324f0487e139b27",
+    "relation_type": "elaborates",
+    "reason": "揭示教师暴力与校方内部关联这一情节通过指出施暴者润慈爱是校长亲属，揭示了系统性暴力的权力基础；而揭露浴室中的虐待与暴力事件则具体呈现了暴力实施的场景和过程。后者通过详细展示暴力行为的实际发生，扩展并补充了前者所揭示的结构性问题的具体表现，因此前者为后者提供了制度背景，后者对前者进行情境化细化，构成 elaborates 关系。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_1fe360f1c305",
+    "subject_id": "ep_9ee745b02252b2e8",
+    "object_id": "ep_d20f20cfd6f8de87",
+    "relation_type": "precedes",
+    "reason": "朴宝贤进入病房在叙事顺序上早于徐友真与姜仁浩探查病房并发现金妍斗。文本中两个情节发生在同一场景（scene_38），但朴宝贤的进入是独立且先发生的动作，随后才是徐友真和姜仁浩的进入与发现行为，构成明确的时间先后顺序。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4643d016ddb9",
+    "subject_id": "ep_39ac70edc1b300f2",
+    "object_id": "ep_ac76bd1c79aa4df5",
+    "relation_type": "precedes",
+    "reason": "金妍斗回忆创伤并情绪崩溃发生在成宥利出现并表现出欲言又止之前，根据描述，成宥利的行为是在金妍斗作证后的沉默时刻发生的，表明叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2f324b8ef51d",
+    "subject_id": "ep_ab1ba8afbc8f3a06",
+    "object_id": "ep_f324f0487e139b27",
+    "relation_type": "elaborates",
+    "reason": "情节 '质问迟到的全民秀并发现其受伤' 揭示了全民秀面部淤青，暗示其遭受暴力；而 '揭露浴室中的虐待与暴力事件' 通过回忆场景具体展示了暴力发生的背景和过程，包括全民秀因干预而被殴打。后者为前者的伤害提供了直接的背景解释，构成对先前情节中伤情来源的扩展说明。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_af1967d6a8be",
+    "subject_id": "ep_633a49ae2e14ab1a",
+    "object_id": "ep_ff4d01e1adbf1840",
+    "relation_type": "precedes",
+    "reason": "根据描述，徐友真在驾驶途中首先向姜仁浩解释其职业性质及仇家背景（ep_633a49ae2e14ab1a），随后姜仁浩询问行程并被反问任教目的（ep_ff4d01e1adbf1840），两个情节均发生在scene_14，但叙事顺序上职业背景揭示在前，回应询问并追问目的在后，构成话语上的先后关系。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4bb8aaa38a77",
+    "subject_id": "ep_56a006aaed0d77b1",
+    "object_id": "ep_f324f0487e139b27",
+    "relation_type": "elaborates",
+    "reason": "主体情节'全名秀在创伤后沉默离开'发生在暴力事件之后，表现出其心理后果；客体情节'揭露浴室中的虐待与暴力事件'通过回忆揭示了导致该创伤反应的具体暴力行为。因此，客体为暴力背景提供细节，扩展并解释了主体中全名秀的沉默离开，构成'elaborates'关系，方向为客体->主体，但根据模式，elaborates为有向关系，此处主体是结果状态，客体提供前因细节，故主体被客体所扩展，即客体elaborates主体。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.75
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "character": "Lo",
+  "qas": [
+    {
+      "question": "You stopped a fight at the temple gate—what role did you have in relation to the uniformed men present?",
+      "supporting_facts": [
+        "Lo is not a member of the group of uniformed men",
+        "Lo has stopped a fight",
+        "Lo is at a temple gate"
+      ],
+      "contradicting_facts": [
+        "You are part of the uniformed group that intervened in the fight",
+        "Your authority to stop the fight came from being aligned with the uniformed men"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You stopped a fight without starting it—what was your role in that confrontation?",
+      "supporting_facts": [
+        "You did not initiate the fight you stopped",
+        "You intervened in the fight after arriving",
+        "You untied her during or after the intervention"
+      ],
+      "contradicting_facts": [
+        "You started the fight to rescue her",
+        "You only watched the fight without intervening"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You left the temple and encountered a barren mountain landscape. What did you do after leaving?",
+      "supporting_facts": [
+        "Lo leaves the temple and enters a barren mountain landscape",
+        "Lo is capable of swift and precise physical movement"
+      ],
+      "contradicting_facts": [
+        "You remained behind the curtain",
+        "You avoided physical contact with Jen"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You looked at the dry creek bed—were you observing it from above or from ground level?",
+      "supporting_facts": [
+        "Lo hovered at the window frame",
+        "the window frame is elevated relative to the dry creek bed",
+        "Lo looked at the dry creek bed while at the window"
+      ],
+      "contradicting_facts": [
+        "Lo stood directly beside the dry creek bed to examine it",
+        "Lo approached the creek bed on foot to get a closer look"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What happened after you entered the crowd?",
+      "supporting_facts": [
+        "You ran into the crowd",
+        "You did not remain mounted when entering the crowd"
+      ],
+      "contradicting_facts": [
+        "You stayed outside the crowd to observe",
+        "You remained on horseback while moving through the crowd"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

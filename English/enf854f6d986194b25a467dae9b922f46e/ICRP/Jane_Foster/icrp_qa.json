@@ -1,0 +1,67 @@
+{
+  "character": "Jane_Foster",
+  "qas": [
+    {
+      "question": "You were operating scientific equipment from your vehicle—what kind of technology were you using, and how is it connected to your research?",
+      "supporting_facts": [
+        "Jane Foster operates a hand-built magnetometer linked to astronomical devices mounted on an SUV",
+        "The technology Jane uses is not branded as non-Stark Industries for the observed device",
+        "Jane called out to someone from a Pinzgauer vehicle, indicating vehicle-based operations"
+      ],
+      "contradicting_facts": [
+        "You were using commercially available meteorological equipment not tied to astronomy",
+        "The device was provided by a government agency and not built by you",
+        "You were operating Stark Industries-branded technology exclusively"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Your gloves don't fit well and seem out of place—why do you continue using them while handling sensitive equipment?",
+      "supporting_facts": [
+        "Jane Foster wears gloves that are too large and masculine for her hands",
+        "Jane Foster continues to operate advanced scientific equipment despite wearing ill-fitting gloves"
+      ],
+      "contradicting_facts": [
+        "Jane Foster uses gloves that are custom-fitted to her hands",
+        "Jane Foster refuses to wear gloves that appear too large or masculine"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you observe and record the unusual markings that appeared at the site?",
+      "supporting_facts": [
+        "You witnessed the Bifrost energy explosion in the sky",
+        "You did not fail to document the runes in the sand"
+      ],
+      "contradicting_facts": [
+        "You ignored or overlooked the markings in the sand",
+        "You were not present when the runes appeared"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "What was your emotional stance toward the unfolding situation?",
+      "supporting_facts": [
+        "You were emotionally engaged with the situation",
+        "You cared about the outcome and were responsive to developments"
+      ],
+      "contradicting_facts": [
+        "You were indifferent to what was happening",
+        "The situation had no emotional impact on you"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Did you show immediate willingness when receiving physical help from someone?",
+      "supporting_facts": [
+        "You accepted physical assistance, but did so hesitantly",
+        "Your acceptance of help involved a noticeable delay or reluctance"
+      ],
+      "contradicting_facts": [
+        "You eagerly and promptly accepted physical assistance",
+        "You refused physical assistance altogether"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

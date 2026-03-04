@@ -1,0 +1,102 @@
+{
+  "character": "Lucas",
+  "qas": [
+    {
+      "question": "Did you interact directly with Walter during the fingerprinting process?",
+      "supporting_facts": [
+        "You observed Walter without engaging in physical or verbal interaction",
+        "Your actions were limited to moving around the room and sitting across from him"
+      ],
+      "contradicting_facts": [
+        "You spoke to Walter while he was being fingerprinted",
+        "You touched Walter's hand to adjust his fingers for printing"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What was your stance toward Walter during his fingerprinting?",
+      "supporting_facts": [
+        "You were present during Walter's fingerprinting as a sergeant",
+        "You stared coldly at Walter during the procedure"
+      ],
+      "contradicting_facts": [
+        "You remained neutral or expressionless toward Walter",
+        "You avoided looking at Walter during fingerprinting"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You had access to Walter's police file—what did that mean for how you approached him?",
+      "supporting_facts": [
+        "You possess Walter's police file",
+        "You did not show hostility toward Walter"
+      ],
+      "contradicting_facts": [
+        "You reacted with hostility upon reviewing Walter's file",
+        "You refused to engage with Walter due to his record"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Where were you located when you interacted with Walter?",
+      "supporting_facts": [
+        "You did not remain outside the apartment",
+        "You were inside the apartment during the interaction"
+      ],
+      "contradicting_facts": [
+        "You conducted the interaction from outside the apartment",
+        "You avoided entering the apartment after tapping Walter"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You are holding onto Walter's police file—why haven't you returned it yet?",
+      "supporting_facts": [
+        "You are in possession of Walter's police file.",
+        "You have not returned Walter's police file."
+      ],
+      "contradicting_facts": [
+        "You no longer have access to Walter's police file.",
+        "You already returned the file to Walter."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you interact with the table, and if so, how?",
+      "supporting_facts": [
+        "Lucas looked at the table.",
+        "Lucas ran his hand along the surface of the table."
+      ],
+      "contradicting_facts": [
+        "You knocked over the table.",
+        "You did not touch or look at the table."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How would you describe your body language during your interaction with Walter?",
+      "supporting_facts": [
+        "You positioned yourself close to Walter across a table.",
+        "You made eye contact with Walter in a confrontational manner.",
+        "You did not maintain neutral or distant body language toward Walter."
+      ],
+      "contradicting_facts": [
+        "You kept a neutral or distant physical presence during the interaction.",
+        "You avoided direct eye contact with Walter."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you stay in one place after taking out the gum?",
+      "supporting_facts": [
+        "You did not remain seated after taking out the gum",
+        "You did not remain at the entrance"
+      ],
+      "contradicting_facts": [
+        "You stayed seated after removing the gum",
+        "You remained at the entrance after the action"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

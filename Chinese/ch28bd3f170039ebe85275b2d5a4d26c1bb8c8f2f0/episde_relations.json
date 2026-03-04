@@ -1,0 +1,3107 @@
+[
+  {
+    "id": "rel_ep_ep_f8454c949e3d",
+    "subject_id": "ep_048a98be33e9a17f",
+    "object_id": "ep_b870511909400f5c",
+    "relation_type": "precedes",
+    "reason": "李雪莲质问前夫并要求私下对话发生在秦玉河威胁她停止闹事之前，两个情节均发生在同一场合（餐馆外早餐聚会），且叙事顺序上质问先于威胁，文本支持该时间顺序。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2e5651375eb3",
+    "subject_id": "ep_cf9962c530ec5893",
+    "object_id": "ep_b9779e4acf44d2cd",
+    "relation_type": "precedes",
+    "reason": "施压要求签署不再上访的保证书发生在李雪莲拒绝签字并威胁重新上访之前，直接导致官员终止交涉并离开现场。两个情节共享同一场合，且事件序列在描述中呈现明确的时间顺序。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a08168b88765",
+    "subject_id": "ep_d5dbb2d5b3ea262e",
+    "object_id": "ep_fcc6fd6c8e2f152e",
+    "relation_type": "precedes",
+    "reason": "李雪莲拒绝签字并反抗施压发生在她因逼迫而重申上访决定之前，两个情节均发生在同一场合（scene_40），且拒绝签字是后续重申上访的直接前序行为，叙事顺序清晰。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f0d97921e3d9",
+    "subject_id": "ep_a48fa141dde027bb",
+    "object_id": "ep_14a89a480350a6e0",
+    "relation_type": "precedes",
+    "reason": "处理李雪莲拦车申诉发生在老院长干预并维持秩序之前，因为李雪莲拦车是引发后续老院长询问和荀院长应对的直接起因，叙事顺序上明确先有申诉事件，再有老院长介入及荀院长处理现场秩序的情节。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4a78636df68e",
+    "subject_id": "ep_142a7f2bf3b70ebb",
+    "object_id": "ep_fcc6fd6c8e2f152e",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节描述李雪莲表示不再上访，官员判断劝阻可能成功；第二个情节则显示她在持续施压下警告将重新上访，标志劝阻失败。两者在结果和基调上形成明显逆转与对比，发生在同一场合但呈现相反走向。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_99f82fb21220",
+    "subject_id": "ep_70c771aa91cfc3e5",
+    "object_id": "ep_a5652cf3781cf768",
+    "relation_type": "precedes",
+    "reason": "根据描述，'揭露假离婚背叛并升级争执' 中双方冲突升级后，紧接着秦玉河进行人格羞辱，导致李雪莲情绪崩溃并离开，该序列在 scene_18 内按时间顺序展开，支持前一情节在叙事顺序上早于后一情节。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2c93af188eb6",
+    "subject_id": "ep_cf9962c530ec5893",
+    "object_id": "ep_fcc6fd6c8e2f152e",
+    "relation_type": "causes",
+    "reason": "施压要求签署不再上访的保证书直接导致李雪莲因逼迫而重申上访决定。描述中明确指出，在官员持续施压下，李雪莲警告将改变主意重新上访，表明该行为是前一情节的即时后果。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0ecfd8cec02c",
+    "subject_id": "ep_048a98be33e9a17f",
+    "object_id": "ep_c2c7947eb1d285b0",
+    "relation_type": "precedes",
+    "reason": "质问离婚真相并要求私下对话发生在冲突高潮期间，而旁观者介入缓和与批评是在冲突高潮之后，由秦玉河的朋友先后劝说和批评，文本中事件顺序明确，前者在叙事时间上直接早于后者。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_833e1001f8c3",
+    "subject_id": "ep_7d734136a3bcba99",
+    "object_id": "ep_da646effbe85b5c5",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_29，且根据描述，李雪莲告知赵大头她将独自外出并被告知警卫增加的情况，逻辑上先于她因赵大头的帮助而提出补偿被拒。叙事顺序支持前者在时间上先于后者。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3b6cf4637d33",
+    "subject_id": "ep_d5dbb2d5b3ea262e",
+    "object_id": "ep_b9779e4acf44d2cd",
+    "relation_type": "causes",
+    "reason": "李雪莲拒绝签字并反抗施压直接导致官员终止交涉并离开现场。描述中明确指出，在李雪莲拒绝签字并威胁重新上访后，郑众和王公道停止劝说并离开，表明前者是后者的直接触发原因。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d8f21a497df1",
+    "subject_id": "ep_320bbdb6d91afaaa",
+    "object_id": "ep_a17ea437f9351e7e",
+    "relation_type": "causes",
+    "reason": "蔡沪浜市长在得知李雪莲上访并批评下属处理不力后，因储省长即将检查，随即下令清除上访隐患，直接触发了将李雪莲带走的行动。文本明确显示前一情节中市长的批评和对危机的认知促成了后一情节中的应对指令，构成直接因果关系。",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0c74559f7652",
+    "subject_id": "ep_70c771aa91cfc3e5",
+    "object_id": "ep_c2c7947eb1d285b0",
+    "relation_type": "precedes",
+    "reason": "‘揭露假离婚背叛并升级争执’在叙事顺序上先发生，随后在冲突高潮后‘旁观者介入缓和与批评’发生，二者共享同一场合（早餐聚会），且事件序列显示争执升级后才有朋友介入劝说和批评，时间顺序明确。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7f14f16e0af8",
+    "subject_id": "ep_38567f02f33df41c",
+    "object_id": "ep_ab7dca1d035b8b82",
+    "relation_type": "elaborates",
+    "reason": "建立亲属联系以缓和对峙这一情节通过展示王公道拉近关系的具体行为，为应对长期上访问题的情节提供了社交策略和互动背景，扩展了后者在人际层面的实现方式。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8b6096e52cf6",
+    "subject_id": "ep_048a98be33e9a17f",
+    "object_id": "ep_a5652cf3781cf768",
+    "relation_type": "precedes",
+    "reason": "根据描述，李雪莲质问前夫并要求私下对话发生在秦玉河进行言语侮辱之前，两个情节均发生在同一场景（scene_18）中，且事件顺序为先质问后侮辱，因此‘质问离婚真相并要求私下对话’在叙事顺序上早于‘言语侮辱导致情绪崩溃’。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0a2919bb4a60",
+    "subject_id": "ep_27841db191028d8a",
+    "object_id": "ep_b9779e4acf44d2cd",
+    "relation_type": "precedes",
+    "reason": "官员抵达并开启劝阻对话发生在官员终止交涉并离开现场之前，两个情节共享同一场合 '县长与干部劝阻李雪莲上访的现场会面 (scene_40)'，且事件序列在描述中呈现清晰的时序顺序：先开启对话，后因李雪莲拒绝而终止并离开。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e801f5d3447a",
+    "subject_id": "ep_a16614c0a2c8bd62",
+    "object_id": "ep_7d036821e9af91a8",
+    "relation_type": "precedes",
+    "reason": "赵大头带李雪莲探访并重叙旧情发生在赵大头为李雪莲留宿与警卫争执之前，因为探访是争执的背景和导火索，文本中两事件均发生在同一场景（scene_25），且逻辑上必须先有探访，才可能引发留宿争执。",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3e8235a3c67e",
+    "subject_id": "ep_a5652cf3781cf768",
+    "object_id": "ep_b870511909400f5c",
+    "relation_type": "precedes",
+    "reason": "根据相关事件和场合信息，言语侮辱导致情绪崩溃发生在秦玉河与朋友在餐馆外的早餐聚会中，紧随其后的是秦玉河威胁李雪莲停止闹事以免入狱。两个情节共享同一场景（scene_18）且描述中呈现连续的言语对抗升级过程，表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b2accfcf469e",
+    "subject_id": "ep_11a2bf8aaf044b9d",
+    "object_id": "ep_5afe2b26a5793b32",
+    "relation_type": "elaborates",
+    "reason": "情节 '解释放弃告状的心理转变' 中李雪莲说明听从牛的话而想通，为 '应对官员劝说中的信任危机' 中她提及牛导致被指责为奚落人的反应提供了动机和背景解释，表明前者扩展了后者的心理依据。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_3daad79cc88a",
+    "subject_id": "ep_af5e52c812a8e6de",
+    "object_id": "ep_9c222bee6e8e40f2",
+    "relation_type": "precedes",
+    "reason": "李雪莲登门寻求法律帮助发生在王公道批评其诉讼动机之前，因为只有在李雪莲提出离婚请求并说明情况后，王公道才表达质疑和批评，叙事顺序在相关事件中明确体现。",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b0a968b59b1d",
+    "subject_id": "ep_073cb4b8227ba281",
+    "object_id": "ep_1a6cacfb2c25c128",
+    "relation_type": "precedes",
+    "reason": "厂长在向县长汇报并推卸责任后，郑县长离开现场，随后厂长追赶挽留，表明‘厂长紧急汇报并推脱责任’在叙事顺序上早于‘厂长追赶挽留’。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_70e15fdd5845",
+    "subject_id": "ep_b870511909400f5c",
+    "object_id": "ep_c2c7947eb1d285b0",
+    "relation_type": "precedes",
+    "reason": "根据相关事件和场合信息，秦玉河威胁李雪莲停止闹事发生在同一场景（scene_18）中，并在叙事顺序上早于其朋友介入劝说和批评行为。威胁行为激化冲突后，旁观者才介入缓和局势，表明情节之间存在明确的时间先后顺序。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a66fd94ab1c7",
+    "subject_id": "ep_27841db191028d8a",
+    "object_id": "ep_fcc6fd6c8e2f152e",
+    "relation_type": "precedes",
+    "reason": "官员抵达并开启劝阻对话发生在李雪莲因逼迫而重申上访决定之前，两者均发生在同一场合（scene_40），且叙事逻辑上劝阻对话的开启先于李雪莲的反抗反应。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5a0b77377265",
+    "subject_id": "ep_5afe2b26a5793b32",
+    "object_id": "ep_83406598073b8e89",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述李雪莲在对话中遭遇的信任危机，客体情节进一步揭示她对官员周期性敷衍行为的控诉，表达更深层的系统性不信任，后者为前者提供了社会机制层面的背景解释，扩展了信任破裂的根源。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_299933191c7c",
+    "subject_id": "ep_27841db191028d8a",
+    "object_id": "ep_cf9962c530ec5893",
+    "relation_type": "precedes",
+    "reason": "官员抵达并开启劝阻对话在叙事顺序上早于施压要求签署不再上访的保证书，二者均发生在同一场合（scene_40），且开启对话是后续施压行为的前提步骤。相关事件序列显示，先有县长到场和介绍身份，随后才出现要求签署保证书的行为。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_84d595e4057c",
+    "subject_id": "ep_cf9962c530ec5893",
+    "object_id": "ep_d5dbb2d5b3ea262e",
+    "relation_type": "precedes",
+    "reason": "主体情节描述郑众要求李雪莲签署保证书并试图说服其签署仅为形式的协议，客体情节描述王公道出示协议后李雪莲拒绝签字并反抗。两个情节均发生在同一场合（scene_40），且逻辑上施压要求签署的行为在先，拒绝签字的反抗行为在后，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6d9d7de76880",
+    "subject_id": "ep_27841db191028d8a",
+    "object_id": "ep_d5dbb2d5b3ea262e",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，官员抵达并开启劝阻对话（包括介绍身份）发生在王公道出示协议和李雪莲拒绝签字之前。两个情节均发生在同一场合（scene_40），且叙事顺序上前者为后者铺垫，因此主体情节在话语和叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_274e8dab7a42",
+    "subject_id": "ep_70c771aa91cfc3e5",
+    "object_id": "ep_b870511909400f5c",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合（秦玉河与朋友在餐馆外的早餐聚会），且描述中事件顺序显示李雪莲先揭露假离婚背叛并引发争执，随后秦玉河进行威胁以阻止闹事。文本中事件的叙述顺序和逻辑流程支持‘揭露假离婚背叛并升级争执’在时间上先于‘威胁阻止闹事并扩大矛盾’。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_172739f58c2d",
+    "subject_id": "ep_706f06b0e2b1d784",
+    "object_id": "ep_da646effbe85b5c5",
+    "relation_type": "precedes",
+    "reason": "赵大头夜间探望并说明来意发生在李雪莲提出补偿赵大头被拒之前，两个情节均发生在scene_29，且逻辑上赵大头先说明来意后，李雪莲才因误解而提出补偿，叙事顺序明确。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_71435b5c5cab",
+    "subject_id": "ep_70c771aa91cfc3e5",
+    "object_id": "ep_64455a9cc6f73f58",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'揭露假离婚背叛并升级争执'发生在scene_18，而'应对公开羞辱并准备反击'发生在scene_19，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_69cc53df84a3",
+    "subject_id": "ep_a5652cf3781cf768",
+    "object_id": "ep_c2c7947eb1d285b0",
+    "relation_type": "causes",
+    "reason": "言语侮辱导致情绪崩溃这一情节中，秦玉河对李雪莲的人格羞辱达到高潮，直接引发了后续旁观者介入缓和与批评的情节。秦玉河朋友的劝离和事后批评是对该侮辱行为过激性的直接反应，文本明确指出言辞过重导致局面失控，构成因果关系的直接证据。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5478a7820670",
+    "subject_id": "ep_fcc6fd6c8e2f152e",
+    "object_id": "ep_b9779e4acf44d2cd",
+    "relation_type": "causes",
+    "reason": "李雪莲在被官员施压后警告将重新上访，直接导致郑众和王公道停止劝说并离开现场。描述中明确指出官员的劝阻行动因李雪莲的威胁而结束，构成直接因果关系。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_485cf4353ea0",
+    "subject_id": "ep_31dc3274cfc66433",
+    "object_id": "ep_a57dafa8598afbbb",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述和相关事件，'试探并确认老胡的情感与合作意愿' 发生在 '揭示复仇名单并评估可行性' 之前。李雪莲首先建立情感基础并提出协助请求，随后才递出写有五人名字的纸条并讨论行动可行性，叙事顺序明确。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5b8cd0b99897",
+    "subject_id": "ep_142a7f2bf3b70ebb",
+    "object_id": "ep_cf9962c530ec5893",
+    "relation_type": "precedes",
+    "reason": "主体情节'确认李雪莲不再上访的意向'中，李雪莲口头表示不再上访，随后客体情节'施压要求签署不再上访的保证书'发生，郑众在此基础上要求将口头承诺转化为书面协议。两个情节发生在同一场合（scene_40），且叙事顺序上存在明确先后：先有确认意向，后有施压签署。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_02316ffff1c1",
+    "subject_id": "ep_142a7f2bf3b70ebb",
+    "object_id": "ep_b9779e4acf44d2cd",
+    "relation_type": "precedes",
+    "reason": "根据描述，'确认李雪莲不再上访的意向' 发生在李雪莲表示不再上访后、官员要求签署协议前；而 '官员终止交涉并离开现场' 发生在李雪莲拒绝签字并威胁重新上访之后。两个情节共享同一场合 (scene_40)，且叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dbd192c1c0cd",
+    "subject_id": "ep_ee6a5a10ff5cc5a9",
+    "object_id": "ep_38567f02f33df41c",
+    "relation_type": "precedes",
+    "reason": "王公道突访李雪莲家中是进入对话场景的初始动作，随后才发生通过亲属联系缓和对峙的行为。根据事件顺序，突访发生在建立亲属联系之前，且为后者提供了发生场景，因此在叙事顺序上明确 precedes。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_193697fc09a3",
+    "subject_id": "ep_38646493512aca79",
+    "object_id": "ep_b016dd96ffe5d03c",
+    "relation_type": "elaborates",
+    "reason": "‘揭露假离婚的真相’这一情节中，李雪莲叙述了假离婚的背景和后果，而‘抑制自责情绪’则具体展现了她在叙述过程中因悔恨而情绪失控并被制止的细节。后者在情感层面扩展了前者所揭示的心理负担，提供了更深层的内在反应，因此是前者的进一步阐述。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_666cc67ee602",
+    "subject_id": "ep_620da986c59282e4",
+    "object_id": "ep_4f013d4f5a9eac1b",
+    "relation_type": "precedes",
+    "reason": "协商杀人行动的条件与交换发生在计划破裂并放弃暴力复仇之前，因为李雪莲先与老胡商议复仇的条件，随后在老胡表现出犹豫和试图改变条件后，最终失望并扔下镰刀，导致计划失败。事件序列在scene_21中按时间顺序明确展开。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d075a69df926",
+    "subject_id": "ep_55e120b6225e6895",
+    "object_id": "ep_d6a903be61053abe",
+    "relation_type": "precedes",
+    "reason": "‘准备会议会场’发生在会议开始前，涉及座椅检查和倒茶等布置工作，而‘人大代表入场并就座’标志着会议即将正式开始。根据描述中的时间逻辑，会场准备必须在代表入场之前完成，因此该关系在叙事顺序上为‘precedes’。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b5d37bb3dc7c",
+    "subject_id": "ep_61324f282a6d5e20",
+    "object_id": "ep_87dd6851c03c2ff6",
+    "relation_type": "precedes",
+    "reason": "共进晚餐并交换礼物发生在协商留宿安排之前，因为两人在共享食物表达情谊后，才进入关于住宿安排的对话。两个情节均发生在同一场景（scene_26）中，但共进晚餐的行为逻辑上先于留宿提议，且文本中赵大头先端菜邀请品尝，随后才提出留宿，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4b5062a5c698",
+    "subject_id": "ep_a57dafa8598afbbb",
+    "object_id": "ep_620da986c59282e4",
+    "relation_type": "precedes",
+    "reason": "在‘揭示复仇名单并评估可行性’中，李雪莲递出五人名单，老胡质疑行动可行性，此情节为后续‘协商杀人行动的条件与交换’的前提。后者涉及对执行顺序和回报的具体谈判，逻辑上紧随前者之后，且两情节均发生在同一场景（scene_21），叙事顺序上前者先发生。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d0d498aae07c",
+    "subject_id": "ep_289da49a3e0af47f",
+    "object_id": "ep_83406598073b8e89",
+    "relation_type": "elaborates",
+    "reason": "第一个情节揭示市长劝说李雪莲的真实意图，第二个情节扩展了这一劝说行为的背景，指出官员仅在人代会期间前来劝说是一种周期性敷衍模式。第二个情节通过揭示系统性忽视的周期性行为，为第一个情节中市长的劝说行为提供了更广泛的上下文和解释，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e1b7efc22495",
+    "subject_id": "ep_706f06b0e2b1d784",
+    "object_id": "ep_7d734136a3bcba99",
+    "relation_type": "precedes",
+    "reason": "赵大头夜间探望并说明来意发生在李雪莲计划独行与赵大头警示警卫之前，两个情节均发生在scene_29，但逻辑上赵大头先到访说明来意，随后李雪莲告知其独自外出计划并得到赵大头的提醒，叙事顺序支持该先后关系。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3758166afbb2",
+    "subject_id": "ep_a57dafa8598afbbb",
+    "object_id": "ep_4f013d4f5a9eac1b",
+    "relation_type": "precedes",
+    "reason": "‘揭示复仇名单并评估可行性’在叙事顺序上先于‘计划破裂并放弃暴力复仇’，因为李雪莲首先提出杀人名单并讨论可行性，随后在老胡质疑和退缩的反应下，最终放弃计划并扔下镰刀。两个情节均发生在同一场景（scene_21），且事件序列显示决策失败是评估过程的直接后续。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_57c3ec7f5de2",
+    "subject_id": "ep_af5e52c812a8e6de",
+    "object_id": "ep_0fe6ae4014864518",
+    "relation_type": "elaborates",
+    "reason": "李雪莲登门寻求法律帮助（ep_af5e52c812a8e6de）是她提出离婚请求的初始行动，而阐明假离婚的法律诉求（ep_0fe6ae4014864518）则进一步解释了该请求背后的法律困境和动机。后者通过提供具体法律诉求和王公道的质疑，扩展并深化了前者所启动的法律咨询情境。",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dc6932b2f735",
+    "subject_id": "ep_142a7f2bf3b70ebb",
+    "object_id": "ep_d5dbb2d5b3ea262e",
+    "relation_type": "precedes",
+    "reason": "在县长与干部劝阻李雪莲上访的现场会面中，郑众先询问李雪莲是否继续上访，李雪莲表示今年不再上访；随后王公道出示协议要求签字，李雪莲拒绝并扔掉文件。两个情节发生在同一场景（scene_40），但叙事顺序上‘确认不再上访意向’在前，‘拒绝签字并反抗施压’在后，构成明确的时间先后关系。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7e36b76eb2b3",
+    "subject_id": "ep_289da49a3e0af47f",
+    "object_id": "ep_11a2bf8aaf044b9d",
+    "relation_type": "elaborates",
+    "reason": "情节'揭示市长劝说告状的真实意图'中，马文彬询问李雪莲不再告状的原因，这为后续情节'解释放弃告状的心理转变'提供了话语上的引子；后者通过李雪莲详细说明听从牛的劝告及区分牛与官员动机的不同，进一步解释和扩展了前者所开启的主题，构成对市长劝说背景的深化与补充。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_42914fdbcbc6",
+    "subject_id": "ep_31dc3274cfc66433",
+    "object_id": "ep_4f013d4f5a9eac1b",
+    "relation_type": "precedes",
+    "reason": "情节 '试探并确认老胡的情感与合作意愿' 中，李雪莲提出请求并试探老胡的反应，随后在 '计划破裂并放弃暴力复仇' 中，老胡持续质疑导致李雪莲放弃计划。两个情节发生在同一场景（scene_21），且事件顺序上前者中的请求和权衡直接先于后者中的失望与放弃，叙事顺序明确。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f7cdb5d6706c",
+    "subject_id": "ep_c36fb298521add4c",
+    "object_id": "ep_acb24b33387922c4",
+    "relation_type": "elaborates",
+    "reason": "赵大头抵达并交接公务（ep_c36fb298521add4c）后，讨论李雪莲的安保规格（ep_acb24b33387922c4）进一步扩展了该情境的细节，通过提及布岗最严的地方和调侃安保待遇，强化了对李雪莲被严密看守这一状态的描述，构成对前一情节的补充说明。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_07c4082650a7",
+    "subject_id": "ep_11a2bf8aaf044b9d",
+    "object_id": "ep_83406598073b8e89",
+    "relation_type": "contrasts_with",
+    "reason": "李雪莲解释自己因听从牛的劝告而想通不再告状，体现个体间真诚关怀带来的心理转变；而她控诉官员仅在人代会期间敷衍劝阻，反映对体制内虚伪应对的愤怒。两个情节并置，凸显‘真诚劝导’与‘功利敷衍’之间的动机对比，形成情感与道德层面的强烈反差。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_23199336ce52",
+    "subject_id": "ep_0fe6ae4014864518",
+    "object_id": "ep_9c222bee6e8e40f2",
+    "relation_type": "elaborates",
+    "reason": "‘阐明假离婚的法律诉求’描述了李雪莲提出其法律困境的完整背景，而‘王公道批评李雪莲的诉讼动机’进一步表达了王公道对此诉求的态度和评价，构成对前一情节中行为动机的延伸性评论，因此前者为后者提供了语境和内容基础，支持elaborates关系。",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_642636535706",
+    "subject_id": "ep_27841db191028d8a",
+    "object_id": "ep_142a7f2bf3b70ebb",
+    "relation_type": "precedes",
+    "reason": "官员抵达并开启劝阻对话（ep_27841db191028d8a）包含县长郑众与李雪莲会面的事件，这是后续确认李雪莲不再上访意向（ep_142a7f2bf3b70ebb）的前提。描述中显示郑众在会面后直接询问李雪莲是否继续上访，表明前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_66d78462f520",
+    "subject_id": "ep_a48fa141dde027bb",
+    "object_id": "ep_e67fd6d4ad2f1301",
+    "relation_type": "precedes",
+    "reason": "根据描述，'处理李雪莲拦车申诉'发生在车队撤离之前，且两个情节共享同一场合'老院长退休后出席的正式送别活动'。在该场合中，李雪莲被劝离、车门关闭后，车队才启动离开，表明'处理李雪莲拦车申诉'在叙事顺序上直接早于'车队结束送别并撤离现场'。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_56f446063f1d",
+    "subject_id": "ep_0b60d9060d1f7b40",
+    "object_id": "ep_ab7dca1d035b8b82",
+    "relation_type": "elaborates",
+    "reason": "主体情节'李雪莲拒绝继续交谈并准备离开'发生在客体情节'应对长期上访问题'的对话过程中，是该应对过程的后续行为。客体情节包含王公道反复质疑和劝说的多个事件，主体情节通过李雪莲终止沟通并表示要离开，进一步展示了她对持续质疑的反应，从而扩展和深化了对整体上访应对情境的理解。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0b774a922c09",
+    "subject_id": "ep_14a89a480350a6e0",
+    "object_id": "ep_e67fd6d4ad2f1301",
+    "relation_type": "precedes",
+    "reason": "根据描述，'应对老院长干预并维持秩序' 发生在李雪莲被拦下、老院长介入并被劝离的过程中，而 '车队结束送别并撤离现场' 明确发生在李雪莲被劝离、车门关闭之后，车辆启动驶离，标志着送别活动的终结。因此，前者在叙事顺序上直接早于后者，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8417398873a2",
+    "subject_id": "ep_289da49a3e0af47f",
+    "object_id": "ep_99a345567be92d42",
+    "relation_type": "precedes",
+    "reason": "‘揭示市长劝说告状的真实意图’发生在马市长与李雪莲对话的初期，而‘结束劝说并表达不满’包含马市长离开和王公道责备的后续行为，明确在叙事顺序上紧随其后。两个情节共享同一场景（scene_43），且事件序列显示劝说尝试先发生，失败后劝说结束并引发不满，因此存在清晰的时间先后关系。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a05a3835bee8",
+    "subject_id": "ep_048a98be33e9a17f",
+    "object_id": "ep_70c771aa91cfc3e5",
+    "relation_type": "precedes",
+    "reason": "根据描述，李雪莲先质问前夫离婚真相并要求私下对话（ep_048a98be33e9a17f），在秦玉河拒绝后，她情绪激动下揭露假离婚期间的背叛行为，导致冲突升级（ep_70c771aa91cfc3e5）。两个情节发生在同一场景（scene_18）且共享相关场合，事件顺序清晰，前者直接引出后者，但无明确因果动词支持'causes'，因此最稳妥的关系是'precedes'。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a9e2a012970d",
+    "subject_id": "ep_289da49a3e0af47f",
+    "object_id": "ep_5afe2b26a5793b32",
+    "relation_type": "precedes",
+    "reason": "根据描述，'揭示市长劝说告状的真实意图'中马文彬切入正题并开始询问李雪莲不再告状的原因，直接引出后续对话中李雪莲抱怨被误解以及郑众的指责，这些构成'应对官员劝说中的信任危机'的情节。两个情节均发生在scene_43，但逻辑和话语顺序上，揭示真实意图在先，建立劝说框架，随后出现信任危机的互动，因此存在明确的叙事先后关系。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c9580e25ea44",
+    "subject_id": "ep_e7e2732dc6608145",
+    "object_id": "ep_a6dfa0ac6fb503f6",
+    "relation_type": "precedes",
+    "reason": "首长入场并接受欢迎（ep_e7e2732dc6608145）在叙事顺序上早于纠正过度恭维并重申参与立场（ep_a6dfa0ac6fb503f6），因为首长必须先到场并受到欢迎，随后储敬琏才试图表达敬意并被首长打断。两个情节均发生在同一场合'政府工作报告讨论会'中，且相关事件的时间顺序支持这一先后关系。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fad034edd5a0",
+    "subject_id": "ep_31dc3274cfc66433",
+    "object_id": "ep_620da986c59282e4",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，李雪莲首先试探并确认老胡的情感与合作意愿（ep_31dc3274cfc66433），在此基础上才提出复仇计划并进入协商杀人行动条件的阶段（ep_620da986c59282e4）。related_events 中的事件顺序也支持这一时间先后关系：先有情感试探和请求协助，后有回报协商和行动条件讨论。因此，该关系为 directed 的 'precedes'。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fd60ff0cdecd",
+    "subject_id": "ep_048a98be33e9a17f",
+    "object_id": "ep_64455a9cc6f73f58",
+    "relation_type": "causes",
+    "reason": "李雪莲在餐馆外质问前夫并要求私下对话（ep_048a98be33e9a17f）直接导致秦玉河当众称她为潘金莲，该言论迅速传遍全县，造成她的名誉损害，并引发她在河边磨刀以准备反击的行为（ep_64455a9cc6f73f58）。文本中明确描述了秦玉河的言论是对李雪莲当众质问的回应，构成直接因果链。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a9c4a6eea55c",
+    "subject_id": "ep_d508ae0a0a658c6a",
+    "object_id": "ep_598b799b479f10e7",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合'古宅院安全检查与工作督导现场会 (scene_39)'，但根据描述顺序和事件逻辑，'督导古宅院安全隐患排查整改'包含县长郑众在古宅院现场的训话和指令下达，属于现场会的主体议程；而'商议应对李雪莲上访困局'发生在离开现场后，由郑众与王公道继续讨论，具有明确的后续时间线索。因此，'督导古宅院安全隐患排查整改'在叙事顺序上先于'商议应对李雪莲上访困局'。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d2bb0aec7e33",
+    "subject_id": "ep_61324f282a6d5e20",
+    "object_id": "ep_ef40ed52efb96345",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'共进晚餐并交换礼物'发生在scene_26，而'表达歉意与回应表白'发生在scene_28，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fc1402eb456b",
+    "subject_id": "ep_7d036821e9af91a8",
+    "object_id": "ep_61324f282a6d5e20",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'赵大头为李雪莲留宿与警卫争执'发生在scene_25，而'共进晚餐并交换礼物'发生在scene_26，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_504000e5f823",
+    "subject_id": "ep_38646493512aca79",
+    "object_id": "ep_70c771aa91cfc3e5",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中，李雪莲向审判长解释假离婚的背景和背叛，提供理性叙述；第二个情节在餐馆冲突中情绪化地扩展了该背叛，揭露更多细节如不正当关系和录音设备怀疑，深化了前一情节的情感与冲突层面。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_156c8635a191",
+    "subject_id": "ep_87dd6851c03c2ff6",
+    "object_id": "ep_ef40ed52efb96345",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'协商留宿安排'发生在scene_26，而'表达歉意与回应表白'发生在scene_28，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2161c295bbe6",
+    "subject_id": "ep_a16614c0a2c8bd62",
+    "object_id": "ep_87dd6851c03c2ff6",
+    "relation_type": "precedes",
+    "reason": "赵大头带李雪莲探访并重叙旧情发生在协商留宿安排之前，因为探访是两人重逢的开端，随后才涉及住宿安排的讨论。相关事件的时间顺序和上下文连贯性支持这一叙事先后关系。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_90c6d687aa93",
+    "subject_id": "ep_a16614c0a2c8bd62",
+    "object_id": "ep_c974889f30d8e9de",
+    "relation_type": "precedes",
+    "reason": "赵大头带李雪莲探访并重叙旧情发生在两人交换信物与重启关系尝试之前，描述中前者为探访的开端，后者涉及进一步的情感推进如赠礼和结婚对话，叙事顺序上存在明确先后。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a7bf3ba96799",
+    "subject_id": "ep_a16614c0a2c8bd62",
+    "object_id": "ep_61324f282a6d5e20",
+    "relation_type": "precedes",
+    "reason": "赵大头带李雪莲探访并重叙旧情（发生在scene_25）在叙事顺序上早于共进晚餐并交换礼物（发生在scene_26），且两个情节通过连续场景编号和递进互动（从进入建筑到后厨共餐）表明时间上的先后关系。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_089ce00b410a",
+    "subject_id": "ep_7d036821e9af91a8",
+    "object_id": "ep_da646effbe85b5c5",
+    "relation_type": "precedes",
+    "reason": "赵大头为李雪莲留宿与警卫争执发生在人代会场景25，而李雪莲提出补偿赵大头被拒发生在后续的人大代表驻地讨论会场景29，叙事顺序明确显示前者早于后者。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_577f46d6e5c7",
+    "subject_id": "ep_376cff028ad0bf8e",
+    "object_id": "ep_ea1aa1a297d254fe",
+    "relation_type": "precedes",
+    "reason": "李雪莲决定前往北京上访是她行动的起点，而穿越隧道抵达北京标志着旅途的结束和新环境的进入。根据叙事顺序，决定上访发生在抵达北京之前，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5e15e40db035",
+    "subject_id": "ep_64455a9cc6f73f58",
+    "object_id": "ep_b870511909400f5c",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，秦玉河在餐馆外早餐聚会时威胁李雪莲停止闹事（scene_18）发生在李雪莲因被称作潘金莲而遭受公开羞辱并磨刀准备反击（scene_19）之前。因此，'威胁阻止闹事并扩大矛盾'在叙事顺序上早于'应对公开羞辱并准备反击'。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d220b267524e",
+    "subject_id": "ep_af5e52c812a8e6de",
+    "object_id": "ep_114f46e4ddc1af2d",
+    "relation_type": "precedes",
+    "reason": "李雪莲登门寻求法律帮助发生在她出庭之前，根据叙事顺序，她先向王公道提出离婚请求，随后在法庭上面对庭审言辞问题。相关事件的时间和上下文支持这一先后顺序。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_569a6cedef66",
+    "subject_id": "ep_af5e52c812a8e6de",
+    "object_id": "ep_0b60d9060d1f7b40",
+    "relation_type": "precedes",
+    "reason": "李雪莲登门寻求法律帮助发生在她拒绝继续交谈并准备离开之前，根据叙事顺序，前者是对话的开启，后者是对话的终结，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_993128c8725c",
+    "subject_id": "ep_7d036821e9af91a8",
+    "object_id": "ep_87dd6851c03c2ff6",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在警卫阻止李雪莲留宿的现场，赵大头为其辩护，而第二个情节是赵大头随后邀请李雪莲到仓库留宿并协商安排。根据叙事顺序，争执发生后才出现留宿安排的协商，因此前者在时间上先于后者。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a18ddbc88bb5",
+    "subject_id": "ep_048a98be33e9a17f",
+    "object_id": "ep_38646493512aca79",
+    "relation_type": "elaborates",
+    "reason": "情节'质问离婚真相并要求私下对话'聚焦于李雪莲向秦玉河当面质问假离婚的真相，而'揭露假离婚的真相'则通过向审判长陈述，进一步提供了假离婚计划的背景和背叛细节。后者扩展并解释了前者所涉及事件的来龙去脉，构成对前一情节的背景补充和深化。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_38af8b46e27c",
+    "subject_id": "ep_a5652cf3781cf768",
+    "object_id": "ep_64455a9cc6f73f58",
+    "relation_type": "precedes",
+    "reason": "言语侮辱导致情绪崩溃（ep_a5652cf3781cf768）发生在秦玉河当众称李雪莲是潘金莲并引发全县传播之前，根据事件顺序，情绪崩溃事件（scene_18）在磨刀和名誉损害扩散（scene_19）之前，因此该情节在叙事顺序上早于应对公开羞辱并准备反击。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1d30b3ade9e4",
+    "subject_id": "ep_a16614c0a2c8bd62",
+    "object_id": "ep_ef40ed52efb96345",
+    "relation_type": "precedes",
+    "reason": "赵大头带李雪莲探访并重叙旧情发生在李雪莲表达歉意与赵大头表白之前，根据场景编号scene_25先于scene_28，且两个情节在叙事上连续，前者为私人探访的开端，后者为情感交流的深入，具有明确的时间顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_040e3b13dc1f",
+    "subject_id": "ep_a16614c0a2c8bd62",
+    "object_id": "ep_da646effbe85b5c5",
+    "relation_type": "precedes",
+    "reason": "赵大头带李雪莲探访并重叙旧情发生在李雪莲提出补偿赵大头被拒之前，根据文档中场景顺序（scene_25 在 scene_29 之前），且两个情节分别属于不同场景下的连续发展，前者为私人探访的开端，后者为后续互动中的具体事件，具有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_852e3c27eaf4",
+    "subject_id": "ep_7d036821e9af91a8",
+    "object_id": "ep_7d734136a3bcba99",
+    "relation_type": "precedes",
+    "reason": "赵大头为李雪莲留宿与警卫争执发生在李雪莲计划独行与赵大头警示警卫之前，依据文档顺序（doc_24 在 doc_28 之前）及场景编号（scene_25 在 scene_29 之前），表明前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0e43a6304b2a",
+    "subject_id": "ep_a16614c0a2c8bd62",
+    "object_id": "ep_2e344640433cb0e3",
+    "relation_type": "precedes",
+    "reason": "赵大头带李雪莲探访并重叙旧情发生在故宫内部，而前往九龙壁并开始拍照是后续的户外活动，根据叙事场景的自然顺序，探访建筑内部在时间上早于到达九龙壁拍照，且两个情节分别关联不同场景（scene_25 vs scene_28），支持时间先后关系。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a37433f8319b",
+    "subject_id": "ep_2e344640433cb0e3",
+    "object_id": "ep_da646effbe85b5c5",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'前往九龙壁并开始拍照'发生在scene_28，而'李雪莲提出补偿赵大头被拒'发生在scene_29，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_370c44dcbbfc",
+    "subject_id": "ep_da646effbe85b5c5",
+    "object_id": "ep_ef40ed52efb96345",
+    "relation_type": "precedes",
+    "reason": "根据related_events中的scene编号，'表达歉意与回应表白'发生在scene_28，而'李雪莲提出补偿赵大头被拒'发生在scene_29，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5bdc1bf33069",
+    "subject_id": "ep_53f702586489fa90",
+    "object_id": "ep_bc29dee203c1a099",
+    "relation_type": "precedes",
+    "reason": "‘锁店启程’描述李雪莲锁门并登上三轮车，标志着旅程的开始；‘离开县城’则描述三轮车驶离县城并换乘客车，是后续的移动阶段。两个情节共享场景(scene_23)，且动作顺序在描述中呈现明确的时间先后：先启程，后驶离县城。因此，‘锁店启程’在叙事顺序上直接早于‘离开县城’。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8bf2b94c4c5a",
+    "subject_id": "ep_0fe6ae4014864518",
+    "object_id": "ep_a48fa141dde027bb",
+    "relation_type": "elaborates",
+    "reason": "阐明假离婚的法律诉求为处理李雪莲拦车申诉提供了背景和动机，后者中李雪莲向荀院长申诉离婚案判决错误并指认王公道歪曲事实，进一步扩展了前一情节中提出的法律困境和诉求。拦车申诉情节包含了对原案件处理路径与司法责任的澄清，是对前一情节中法律问题的具体化和深化。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2a5aa0d7649d",
+    "subject_id": "ep_af5e52c812a8e6de",
+    "object_id": "ep_38567f02f33df41c",
+    "relation_type": "precedes",
+    "reason": "李雪莲登门寻求法律帮助（ep_af5e52c812a8e6de）发生在王公道通过亲属联系缓和对峙（ep_38567f02f33df41c）之前，依据相关事件的时间顺序：李雪莲在scene_4提出离婚请求，而王公道在scene_38回应并试图缓和气氛，scene_4早于scene_38。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_76153882ab9f",
+    "subject_id": "ep_7d734136a3bcba99",
+    "object_id": "ep_ef40ed52efb96345",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'表达歉意与回应表白'发生在scene_28，而'李雪莲计划独行与赵大头警示警卫'发生在scene_29，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ad4b03fb08d5",
+    "subject_id": "ep_af5e52c812a8e6de",
+    "object_id": "ep_ab7dca1d035b8b82",
+    "relation_type": "precedes",
+    "reason": "李雪莲登门寻求法律帮助（ep_af5e52c812a8e6de）发生在故事早期（doc_3, scene_4），而应对长期上访问题（ep_ab7dca1d035b8b82）涉及的是后续多年上访行为及王公道在人代会前的防范性拜访（doc_37, scene_38），文本通过文档编号和场景编号暗示了时间顺序，且前者为后者中持续上访行为的起点提供背景，因此该关系在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6c517dd7844b",
+    "subject_id": "ep_114f46e4ddc1af2d",
+    "object_id": "ep_a48fa141dde027bb",
+    "relation_type": "elaborates",
+    "reason": "情节 '应对法庭言辞与出庭质疑' 描述了李雪莲在庭审中因质疑秦玉河未出庭及言辞不当被法官制止，涉及王公道的司法行为；而 '处理李雪莲拦车申诉' 中李雪莲向荀院长申诉离婚案判决错误并指认王公道歪曲事实，进一步提供了关于同一案件处理过程中司法责任和程序问题的背景与细节。后者在内容上扩展了前者所涉及的司法不公疑虑，提供了后续应对与制度反应，因此前者被后者通过补充背景和后果所详述。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_00f9d4fed55c",
+    "subject_id": "ep_0b60d9060d1f7b40",
+    "object_id": "ep_598b799b479f10e7",
+    "relation_type": "precedes",
+    "reason": "李雪莲拒绝继续交谈并准备离开发生在古宅院现场，而商议应对李雪莲上访困局是在离开该现场后进行的讨论。根据相关场合和事件的时间线索，前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e49b92e8c086",
+    "subject_id": "ep_598b799b479f10e7",
+    "object_id": "ep_cf9962c530ec5893",
+    "relation_type": "precedes",
+    "reason": "情节 '商议应对李雪莲上访困局' 发生在古宅院现场会（scene_39），而 '施压要求签署不再上访的保证书' 发生在后续的现场会面（scene_40），相关事件的时间顺序和场景编号表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_54b27cc66e74",
+    "subject_id": "ep_a48fa141dde027bb",
+    "object_id": "ep_598b799b479f10e7",
+    "relation_type": "precedes",
+    "reason": "处理李雪莲拦车申诉发生在县长郑众商议应对上访困局之前。根据描述，拦车事件是李雪莲申诉的早期公开行动，直接引出后续领导层对上访问题的政治讨论，且两个情节分别关联不同场合，时间顺序清晰。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2",
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6b1fa5164fcb",
+    "subject_id": "ep_38567f02f33df41c",
+    "object_id": "ep_d5dbb2d5b3ea262e",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，王公道通过建立亲属联系缓和对峙（scene_38）发生在李雪莲拒绝签字并反抗施压（scene_40）之前，且两个情节分别位于连续的场景中，叙事顺序清晰。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_143048c94e01",
+    "subject_id": "ep_38567f02f33df41c",
+    "object_id": "ep_598b799b479f10e7",
+    "relation_type": "precedes",
+    "reason": "情节'建立亲属联系以缓和对峙'发生在古宅院现场的互动中（scene_38），而'商议应对李雪莲上访困局'发生在离开古宅院现场后（scene_39），根据文档顺序和场景编号，前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d6a78f3d7ae0",
+    "subject_id": "ep_4c017df3340c08fe",
+    "object_id": "ep_289da49a3e0af47f",
+    "relation_type": "precedes",
+    "reason": "ep_4c017df3340c08fe 描述市长马文彬在会议后决定亲自会见李雪莲以纠正官僚主义，这一决策发生在 ep_289da49a3e0af47f 中马市长实际访问并被质疑来访目的之前。related_events 和 description 表明前者是计划阶段，后者是执行阶段，具有清晰的叙事时序。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_369cd175b004",
+    "subject_id": "ep_c47c3d8df5666063",
+    "object_id": "ep_d5dbb2d5b3ea262e",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序，李雪莲以行动安抚王公道（doc_37）发生在李雪莲拒绝签字并反抗施压（doc_39）之前。前者通过归还猪腿和开窗表现平静，后者则展现对抗性行为，两者在叙事顺序上呈现清晰的时间先后。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c3573928b2cf",
+    "subject_id": "ep_ab7dca1d035b8b82",
+    "object_id": "ep_c47c3d8df5666063",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述王公道试图确认李雪莲是否继续上访，而客体情节通过李雪莲归还猪腿和开窗等具体行为，进一步展示她为证明自己不再上访所采取的行动，从而扩展和具象化了主体情节中的心理状态和交流意图。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_192bdbbb5c0b",
+    "subject_id": "ep_eedee7f847af2297",
+    "object_id": "ep_d48298201e5b2bee",
+    "relation_type": "precedes",
+    "reason": "‘下达分权处理指示’发生在桥边，而‘补充工作方法与风险警示’发生在秘书长返回后，表明前者在叙事时间顺序上早于后者。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_475771c570fe",
+    "subject_id": "ep_598b799b479f10e7",
+    "object_id": "ep_142a7f2bf3b70ebb",
+    "relation_type": "precedes",
+    "reason": "情节 '商议应对李雪莲上访困局' 发生在古宅院安全检查与工作督导现场会 (scene_39)，而 '确认李雪莲不再上访的意向' 发生在县长与干部劝阻李雪莲上访的现场会面 (scene_40)，scene_39 在叙事顺序上早于 scene_40，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0caec843e544",
+    "subject_id": "ep_142a7f2bf3b70ebb",
+    "object_id": "ep_4c017df3340c08fe",
+    "relation_type": "precedes",
+    "reason": "确认李雪莲不再上访的意向发生在县长与干部的现场会面（scene_40），而处理李雪莲事件的工作反思与应对策略调整发生在会议结束后市长与县长等人的后续讨论中（scene_41），scene_40在叙事顺序上早于scene_41，因此该关系为precedes。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2a591e1fe2ac",
+    "subject_id": "ep_38567f02f33df41c",
+    "object_id": "ep_0b60d9060d1f7b40",
+    "relation_type": "precedes",
+    "reason": "王公道通过建立亲属联系以缓和对峙的行为发生在李雪莲拒绝继续交谈并准备离开之前，两者均发生在scene_38中，且建立亲属联系是对话初期的缓和尝试，随后因沟通无效导致李雪莲决定终止对话并离开，叙事顺序明确。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1934b5ac3900",
+    "subject_id": "ep_598b799b479f10e7",
+    "object_id": "ep_d5dbb2d5b3ea262e",
+    "relation_type": "precedes",
+    "reason": "情节 '商议应对李雪莲上访困局' 发生在古宅院安全检查与工作督导现场会（scene_39），而 '李雪莲拒绝签字并反抗施压' 发生在县长与干部劝阻李雪莲上访的现场会面（scene_40），scene_39 在叙事顺序上早于 scene_40，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_77cf339f0611",
+    "subject_id": "ep_38567f02f33df41c",
+    "object_id": "ep_c47c3d8df5666063",
+    "relation_type": "precedes",
+    "reason": "王公道通过强调亲属关系和送礼来缓和对峙，发生在李雪莲将猪腿退回并打开窗户以示平静之前。两个情节均发生在scene_38，但王公道的主动亲近行为逻辑上先于李雪莲的回应动作，叙事顺序支持前者引导后者。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_280b5fb13c47",
+    "subject_id": "ep_2e0562dc2cc0e540",
+    "object_id": "ep_1a6cacfb2c25c128",
+    "relation_type": "precedes",
+    "reason": "郑县长施压并离开后，厂长立即追赶上去试图挽留，表明‘郑县长施压并离开’在叙事顺序上先于‘厂长追赶挽留’。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_58a2ca166f42",
+    "subject_id": "ep_073cb4b8227ba281",
+    "object_id": "ep_2e0562dc2cc0e540",
+    "relation_type": "precedes",
+    "reason": "厂长紧急汇报并推脱责任发生在郑县长施压并离开之前，根据描述，厂长先向县长说明问题，随后郑县长才表态并离开，叙事顺序明确。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b16e208fba5b",
+    "subject_id": "ep_c47c3d8df5666063",
+    "object_id": "ep_0b60d9060d1f7b40",
+    "relation_type": "precedes",
+    "reason": "李雪莲以行动安抚王公道（归还猪腿、开窗）发生在她拒绝继续交谈并准备离开之前，根据叙事顺序，安抚行为是试图平息对方疑虑的前置步骤，随后因无效而终止对话。两个情节均发生在同一场景（scene_38），但逻辑和行为顺序支持前者先于后者。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_775bfe2c59a1",
+    "subject_id": "ep_ab7dca1d035b8b82",
+    "object_id": "ep_d5dbb2d5b3ea262e",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述王公道以亲戚身份拜访李雪莲，试探她是否继续上访，发生在人代会召开前的场景38；第二个情节发生在场景40，王公道出示协议要求李雪莲签字，被其拒绝。根据文档中场景编号的顺序（scene_38 在 scene_40 之前），且两个情节均属于官方劝阻上访的连续过程，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9ba71c332f24",
+    "subject_id": "ep_25a0399328a942d9",
+    "object_id": "ep_08dd0f76bb8f4c80",
+    "relation_type": "precedes",
+    "reason": "首长被邀请并决定发言发生在其肯定会议发言与政府报告之前，因为邀请和决定发言是讲话的开端，而对报告和意见的评价是讲话内容的后续展开，两者在同一场合（政府工作会议）中按时间顺序衔接。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9bef2ace327a",
+    "subject_id": "ep_114f46e4ddc1af2d",
+    "object_id": "ep_72ff728624dd06f5",
+    "relation_type": "precedes",
+    "reason": "在庭审过程中，李雪莲质疑秦玉河未出庭并被法官制止发生在先，随后法官王公道宣布合议庭裁决结果，二者在同一场合（光明县人民法院第五审判厅的庭审）中按时间顺序先后发生，叙事顺序明确。",
+    "source_documents": [
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6748aeea329a",
+    "subject_id": "ep_430e029949dc360d",
+    "object_id": "ep_4c017df3340c08fe",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在市里政府会议（scene_41）期间，且根据描述顺序，部署美丽乡村整治行动在会议中先被提出，随后会议结束后的讨论转向处理李雪莲事件的工作反思与应对策略调整，表明前者在叙事和话语顺序上早于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7cf162b4d490",
+    "subject_id": "ep_a6dfa0ac6fb503f6",
+    "object_id": "ep_25a0399328a942d9",
+    "relation_type": "precedes",
+    "reason": "情节 '纠正过度恭维并重申参与立场' 发生在政府工作报告讨论会 (scene_32)，而 '首长被邀请并决定发言' 发生在政府工作会议 (scene_35)，scene_32 在文档顺序上早于 scene_35，且两个情节涉及相同人物和逐步升级的发言动态，支持前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_02cdf8278018",
+    "subject_id": "ep_11a2bf8aaf044b9d",
+    "object_id": "ep_99a345567be92d42",
+    "relation_type": "precedes",
+    "reason": "根据描述，李雪莲解释放弃告状的心理转变发生在马市长离开和王公道拍桌责备之前，两个情节均基于scene_43，且对话结束后的离开与责备行为在叙事顺序上紧随其心理解释之后。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_41807d9be85a",
+    "subject_id": "ep_08dd0f76bb8f4c80",
+    "object_id": "ep_f46abb7e545c6296",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合'政府工作会议 (scene_35)'，但根据相关事件顺序，首长先肯定会议发言与政府报告，随后在记者和摄影师离场后才批评贪污腐化与不正之风，表明前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_531758540cad",
+    "subject_id": "ep_4c017df3340c08fe",
+    "object_id": "ep_d48298201e5b2bee",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述马文彬在会议后反思李雪莲事件并决定亲自会见她以纠正官僚主义；客体情节补充了他进一步指示秘书长转告郑众注意工作方法，强化执行要求。客体情节提供了对主体情节中决策后续执行细节的扩展，进一步说明如何落实改进工作方法的指示，因此构成对主体情节的细化和补充。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_099811221fd5",
+    "subject_id": "ep_f06128f2f332ec49",
+    "object_id": "ep_056912d8d1e323f7",
+    "relation_type": "precedes",
+    "reason": "现任院长表达敬意并澄清宴请性质发生在探讨金婚秘诀引发幽默高潮之前，因为前者设置饭局的正式基调并完成敬酒，后者则是在此之后由年轻人引导展开的轻松互动，两者共享同一场合且叙述顺序上前者先于后者。",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_91d6a6e331f1",
+    "subject_id": "ep_598b799b479f10e7",
+    "object_id": "ep_27841db191028d8a",
+    "relation_type": "precedes",
+    "reason": "情节 '商议应对李雪莲上访困局' 发生在古宅院现场会 (scene_39)，而 '官员抵达并开启劝阻对话' 发生在后续的店铺现场 (scene_40)，相关事件和场合的文档顺序与叙事时序一致，表明前者在时间上先于后者。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_92605c59b897",
+    "subject_id": "ep_598b799b479f10e7",
+    "object_id": "ep_4c017df3340c08fe",
+    "relation_type": "precedes",
+    "reason": "实体#2描述的是在古宅院现场会后郑众与王公道商议应对李雪莲上访问题，而实体#1描述的是市长马文彬在市里政府会议后决定亲自会见李雪莲。根据事件发展逻辑和相关场合的时间顺序，商议应对上访困局发生在高层反思并调整策略之前，且两情节均围绕李雪莲事件的应对展开，前者为后者提供决策背景。因此，'商议应对李雪莲上访困局'在叙事顺序上早于'处理李雪莲事件的工作反思与应对策略调整'。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c921713d9e00",
+    "subject_id": "ep_4c017df3340c08fe",
+    "object_id": "ep_23fe4a36e636a731",
+    "relation_type": "precedes",
+    "reason": "根据文档信息，'处理李雪莲事件的工作反思与应对策略调整'发生在市里政府会议（scene_41），而'马市长召集郑县长并制定新策略'发生在后续场景（scene_44）。scene_41在叙事顺序上早于scene_44，因此该关系为precedes，方向为ep_4c017df3340c08fe -> ep_23fe4a36e636a731。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5db0142ae58d",
+    "subject_id": "ep_598b799b479f10e7",
+    "object_id": "ep_b9779e4acf44d2cd",
+    "relation_type": "precedes",
+    "reason": "情节 '商议应对李雪莲上访困局' 发生在古宅院安全检查与工作督导现场会（scene_39），而 '官员终止交涉并离开现场' 发生在劝阻李雪莲上访的现场会面（scene_40），scene_39 在叙事顺序上早于 scene_40，且前者讨论应对策略，后者为实际劝阻失败后的结束行动，存在明确的时间先后顺序。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ea06bd372fab",
+    "subject_id": "ep_5afe2b26a5793b32",
+    "object_id": "ep_99a345567be92d42",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对官员劝说中的信任危机'描述了马文彬试图缓和气氛并重建对话，而客体情节'结束劝说并表达不满'描述了马市长离开后王公道拍桌责备李雪莲，表明前者在叙事顺序上直接早于后者，且两事件均发生在同一场景(scene_43)中，具有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3918a54f27c8",
+    "subject_id": "ep_8882ad7dc54ee96b",
+    "object_id": "ep_5905373027cf6331",
+    "relation_type": "elaborates",
+    "reason": "新人强调院长禁令以凸显破例意义这一情节提供了关于为何敬酒行为具有特殊意义的背景和解释，从而扩展和深化了新人展示敬意并引发酒局互动的情节。提及禁令为整杯饮酒这一行为赋予了额外的社会和礼仪分量，说明该行为不仅是礼貌，更是一种对老领导的特别尊重。两个情节共享同一场合，且禁令的提及在话语上为后续敬酒行为增强了语用动机。",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c82a23f50e72",
+    "subject_id": "ep_ee6a5a10ff5cc5a9",
+    "object_id": "ep_ab7dca1d035b8b82",
+    "relation_type": "elaborates",
+    "reason": "王公道突访李雪莲家中（ep_ee6a5a10ff5cc5a9）是开启后续对话场景的具体行动，而应对长期上访问题（ep_ab7dca1d035b8b82）则包含了此次访问中的核心交流内容和目的，即探询李雪莲的上访动向。前者为后者提供了具体的情境和行为起点，后者扩展了前者的动机与背景，因此前者通过提供具体行为细节来扩展后者的目标与实施方式。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dce44cbe23ed",
+    "subject_id": "ep_5c6ec5807cd5ec39",
+    "object_id": "ep_bc29dee203c1a099",
+    "relation_type": "precedes",
+    "reason": "李雪莲在雨中克服迷茫并继续前行，标志着她心理和行动的恢复，随后她离开县城，通过三轮车和客车继续行程。描述中‘继续前行’与‘驶离县城’构成连贯的行动序列，且心理转变通常先于具体长途移动，支持前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9009deed12ed",
+    "subject_id": "ep_5c6ec5807cd5ec39",
+    "object_id": "ep_376cff028ad0bf8e",
+    "relation_type": "precedes",
+    "reason": "李雪莲在雨中经历迷茫后重新坚定信念并继续前行（ep_5c6ec5807cd5ec39），这一心理转变发生在她决定转向北京上访寻求公正（ep_376cff028ad0bf8e）之前，文本暗示了从内心挣扎到明确行动方向的叙事进展。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5beb070276f1",
+    "subject_id": "ep_64455a9cc6f73f58",
+    "object_id": "ep_9d8ef0ead6e71255",
+    "relation_type": "precedes",
+    "reason": "李雪莲在河边磨刀并因被称作潘金莲而遭受公开羞辱（ep_64455a9cc6f73f58）发生在她向菩萨祈求公正与澄清之前（ep_9d8ef0ead6e71255），叙事上先有羞辱事件引发情绪与行动，继而转向宗教祈求以寻求正义，时间顺序清晰且由事件发展逻辑支持。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0f647726621d",
+    "subject_id": "ep_264e3530f83260c5",
+    "object_id": "ep_9d8ef0ead6e71255",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述李雪莲向他人申辩自己不是潘金莲，开启名誉澄清的抗争；第二个情节显示她在神佛前进一步祈求公正和身份澄清，延续并深化了同一核心诉求。祈求行为扩展了申辩的背景，表现为在精神层面对同一问题的进一步表达，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_0_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_421f10cc1864",
+    "subject_id": "ep_0fe6ae4014864518",
+    "object_id": "ep_d88555d250a7376c",
+    "relation_type": "precedes",
+    "reason": "情节'阐明假离婚的法律诉求'发生在法院判决之前，而'回应不公判决并踏上旅途'直接由该判决引发，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_14a6fe46e29d",
+    "subject_id": "ep_d88555d250a7376c",
+    "object_id": "ep_320bbdb6d91afaaa",
+    "relation_type": "precedes",
+    "reason": "李雪莲因法院判决感到愤怒并牵牛前行（回应不公判决并踏上旅途）发生在她到市政府静坐之前，而应对李雪莲上访危机的情节明确描述她在市政府门口静坐已三天，表明前者在时间顺序上早于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8c20c93c572d",
+    "subject_id": "ep_38646493512aca79",
+    "object_id": "ep_d88555d250a7376c",
+    "relation_type": "precedes",
+    "reason": "根据描述，'揭露假离婚的真相'发生在李雪莲向审判长讲述假离婚经过的场景中（scene_5），而'回应不公判决并踏上旅途'发生在法院判决引发她愤怒之后（scene_7）。scene_5在叙事顺序上早于scene_7，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ac33636e1ff9",
+    "subject_id": "ep_d88555d250a7376c",
+    "object_id": "ep_15f1d0a598ed9b17",
+    "relation_type": "precedes",
+    "reason": "情节'回应不公判决并踏上旅途'发生在李雪莲因法院判决愤怒并开始行程，而'拦车申诉并揭露身份真相'是其后续在申诉过程中与县长互动的具体事件。根据叙事逻辑和事件发展顺序，前者为后者提供了行动起点，且相关事件在文档中按时间顺序排列，支持该先后关系。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_514a9704a013",
+    "subject_id": "ep_b016dd96ffe5d03c",
+    "object_id": "ep_d88555d250a7376c",
+    "relation_type": "precedes",
+    "reason": "根据描述，'抑制自责情绪'发生在李雪莲因悔恨提出假离婚而情绪激动并被制止的场景（scene_5），而'回应不公判决并踏上旅途'发生在法院判决后李雪莲牵牛前行的场景（scene_7）。scene_5在叙事顺序上早于scene_7，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7088c5a0d452",
+    "subject_id": "ep_af5e52c812a8e6de",
+    "object_id": "ep_d88555d250a7376c",
+    "relation_type": "precedes",
+    "reason": "李雪莲登门寻求法律帮助发生在法院判决之前，这是她试图通过合法途径解决离婚问题的初始步骤；而回应不公判决并踏上旅途是在法院判决之后，因对结果不满而采取的后续行动。根据叙事顺序，寻求法律帮助的情节在时间上先于对判决不满而启程的情节。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9b1faa7e3243",
+    "subject_id": "ep_d88555d250a7376c",
+    "object_id": "ep_f2a0828a0e49de3a",
+    "relation_type": "precedes",
+    "reason": "李雪莲因法院判决感到愤怒并开始旅程（牵牛前行）发生在她到达北京后意识到告状无门之前。根据叙事顺序，踏上旅途在先，随后才出现在北京面临困境的意识，因此主体情节在时间上早于客体情节。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f6ba53456c3f",
+    "subject_id": "ep_d88555d250a7376c",
+    "object_id": "ep_760f49423d60f905",
+    "relation_type": "precedes",
+    "reason": "李雪莲因不公判决而愤怒并踏上旅途（ep_d88555d250a7376c）发生在她被拦截并带走以掩盖冤情证据（ep_760f49423d60f905）之前，根据叙事逻辑和事件发展顺序，申诉行为先于被压制行为，文本中相关事件的时间上下文支持这一先后顺序。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6276f32bc3d8",
+    "subject_id": "ep_d88555d250a7376c",
+    "object_id": "ep_8d71ed0b90046b2d",
+    "relation_type": "precedes",
+    "reason": "李雪莲因不公判决而愤怒并踏上旅途（ep_d88555d250a7376c）发生在她最终决定放弃诉讼前寻求真相（ep_8d71ed0b90046b2d）之前。根据叙事顺序，情绪驱动的出发是早期抗争行为，而牛棚前的内心挣扎和放弃决定是后期情节，表明前者在时间上早于后者。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_76b5d8e80443",
+    "subject_id": "ep_d88555d250a7376c",
+    "object_id": "ep_bc29dee203c1a099",
+    "relation_type": "precedes",
+    "reason": "情节'回应不公判决并踏上旅途'描述李雪莲因判决愤怒而牵牛前行，象征旅程的开始，发生在'离开县城'之前，后者涉及她换乘客车继续行程。两个情节共享旅程启动的上下文，且'牵牛前行'在叙事顺序上早于'驶离县城'和'换乘客车'，构成连贯移动阶段的前序动作。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f3d22c677cf5",
+    "subject_id": "ep_d88555d250a7376c",
+    "object_id": "ep_4f013d4f5a9eac1b",
+    "relation_type": "precedes",
+    "reason": "情节 '回应不公判决并踏上旅途' 发生在李雪莲最初开始抗争的阶段（doc_6, scene_7），而 '计划破裂并放弃暴力复仇' 发生在后续场景中（doc_20, scene_21），明确显示前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9bc72e79ac8f",
+    "subject_id": "ep_d88555d250a7376c",
+    "object_id": "ep_376cff028ad0bf8e",
+    "relation_type": "precedes",
+    "reason": "情节'回应不公判决并踏上旅途'描述了李雪莲因法院判决愤怒而开始行动，牵牛前行，标志着抗争的起点；而'转向北京上访寻求公正'则是在本地申诉和私人复仇失败后的下一步行动。根据叙事逻辑，前者在时间顺序上早于后者，构成情节发展的前序阶段。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bd28b5dda54e",
+    "subject_id": "ep_d88555d250a7376c",
+    "object_id": "ep_a48fa141dde027bb",
+    "relation_type": "precedes",
+    "reason": "根据描述，'回应不公判决并踏上旅途'发生在李雪莲因法院判决愤怒后牵牛前行的场景（scene_7），而'处理李雪莲拦车申诉'发生在老院长退休送别活动结束时（scene_10），scene_7在叙事顺序上早于scene_10，因此该关系为precedes，方向为ep_d88555d250a7376c -> ep_a48fa141dde027bb。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_938a824abbaf",
+    "subject_id": "ep_264e3530f83260c5",
+    "object_id": "ep_64455a9cc6f73f58",
+    "relation_type": "elaborates",
+    "reason": "情节 '澄清名誉：李雪莲申辩非潘金莲' 描述了李雪莲在名誉受损后向他人申辩的行为，而 '应对公开羞辱并准备反击' 提供了更具体的背景，包括言论传播全县和她在河边磨刀的细节，进一步解释了她申辩所处的社会情境与情绪状态，从而扩展和深化了前一情节的内涵。",
+    "source_documents": [
+      "scene_0_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ef1855b9b6a2",
+    "subject_id": "ep_17dcf8109ce55edf",
+    "object_id": "ep_66403f9e61b61565",
+    "relation_type": "precedes",
+    "reason": "完成训诫并达成释放协议发生在警察实际打开铁门释放李雪莲之前，根据描述，训诫和签字协议是释放的前提步骤，且两个情节分别位于连续的场景（scene_15 和 scene_16），支持明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ec08ddae6e11",
+    "subject_id": "ep_64455a9cc6f73f58",
+    "object_id": "ep_376cff028ad0bf8e",
+    "relation_type": "precedes",
+    "reason": "李雪莲因被公开羞辱而情绪压抑并开始磨刀，这一行为发生在她决定前往北京上访之前。描述中表明，羞辱事件引发她的愤怒和行动意图，随后在本地申诉无果和复仇失败后，她转向北京上访。因此，'应对公开羞辱并准备反击'在叙事顺序上早于'转向北京上访寻求公正'。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_807f2d870d7c",
+    "subject_id": "ep_64455a9cc6f73f58",
+    "object_id": "ep_4f013d4f5a9eac1b",
+    "relation_type": "precedes",
+    "reason": "情节 '应对公开羞辱并准备反击' 中，李雪莲在河边磨刀并因秦玉河的言论遭受名誉损害，这是她采取暴力复仇的起始阶段；而 '计划破裂并放弃暴力复仇' 描述了她最终扔下镰刀、放弃计划的结局。根据叙事顺序，准备反击发生在计划失败之前，且两个情节共享与镰刀和暴力意图相关的事件线索，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4b55ae966640",
+    "subject_id": "ep_64455a9cc6f73f58",
+    "object_id": "ep_e6109cb878c00ffb",
+    "relation_type": "precedes",
+    "reason": "李雪莲在河边磨刀并因秦玉河称其为潘金莲而遭受羞辱的情节（ep_64455a9cc6f73f58）在叙事顺序上早于她前往弟弟家寻求协助复仇的情节（ep_e6109cb878c00ffb），后者是前一情节中压抑情绪和愤怒的延续与升级，且文档顺序（doc_18 到 doc_19）支持该时间序列。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3f751a61d642",
+    "subject_id": "ep_64455a9cc6f73f58",
+    "object_id": "ep_620da986c59282e4",
+    "relation_type": "precedes",
+    "reason": "情节'应对公开羞辱并准备反击'中，李雪莲因秦玉河称她为潘金莲而磨刀，表现出愤怒与行动前兆；随后在'协商杀人行动的条件与交换'中，她主动提出复仇计划并与老胡商议具体执行。文本中李雪莲从遭受羞辱到策划杀人存在明确的叙事时序推进，且后者依赖前者的动机建立，因此该关系为precedes。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3e2c91f35e0d",
+    "subject_id": "ep_17dcf8109ce55edf",
+    "object_id": "ep_bc29dee203c1a099",
+    "relation_type": "precedes",
+    "reason": "完成训诫并达成释放协议发生在李雪莲被允许回家之前，而离开县城是她开始实际离开的行动。根据叙事顺序，训诫和释放协议的达成逻辑上先于她离开县城的移动阶段，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_aebb825051ac",
+    "subject_id": "ep_17dcf8109ce55edf",
+    "object_id": "ep_53f702586489fa90",
+    "relation_type": "precedes",
+    "reason": "完成训诫并达成释放协议发生在李雪莲离开前的场景中，而锁店启程标志着她旅程的开始。根据叙事顺序，训诫和释放协议的达成应在她实际启程之前，因此该情节在话语顺序上早于锁店启程。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_aa458b363287",
+    "subject_id": "ep_8d71ed0b90046b2d",
+    "object_id": "ep_5c6ec5807cd5ec39",
+    "relation_type": "precedes",
+    "reason": "李雪莲决定放弃诉讼前寻求真相（ep_8d71ed0b90046b2d）发生在牛棚前的内心挣扎和对话场景中（scene_17），而李雪莲克服迷茫继续前行（ep_5c6ec5807cd5ec39）发生在雨中站立后继续前行的场景（scene_3）。根据文档中场景编号的顺序（scene_3 在 scene_17 之前），该关系在叙事顺序上应为 ep_5c6ec5807cd5ec39 在前，ep_8d71ed0b90046b2d 在后。但主体为 ep_8d71ed0b90046b2d，客体为 ep_5c6ec5807cd5ec39，因此方向相反。然而，scene_3 和 scene_17 的编号表明 scene_3 早于 scene_17，因此 ep_5c6ec5807cd5ec39 实际上在叙事顺序上早于 ep_8d71ed0b90046b2d。因此，正确的方向应为 ep_5c6ec5807cd5ec39 precedes ep_8d71ed0b90046b2d。由于当前主体是 ep_8d71ed0b90046b2d，不能支持其 precedes 客体 ep_5c6ec5807cd5ec39。因此，尽管存在时间顺序，方向错误导致无法成立。重新评估：两个情节分别属于不同文档（doc_2 和 doc_16），且无明确跨文档时间或因果线索。scene_3 在 doc_2，scene_17 在 doc_16，无足够证据支持跨文档的明确叙事顺序。因此，不能确认 precedes。无因果、对比或扩展的明确证据。故最终输出 NONE。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f8797fb4b7f9",
+    "subject_id": "ep_38646493512aca79",
+    "object_id": "ep_8d71ed0b90046b2d",
+    "relation_type": "elaborates",
+    "reason": "揭露假离婚的真相这一情节提供了李雪莲后续决定放弃诉讼前寻求真相的背景和动机，解释了她为何执着于说出真相。该关系由两个情节的描述和相关事件支持：前者说明假离婚的背叛导致她的困境，后者表明她在放弃前需澄清事实，显示前者为后者提供了情感和叙事上的深层解释。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_93f77747261f",
+    "subject_id": "ep_8d71ed0b90046b2d",
+    "object_id": "ep_289da49a3e0af47f",
+    "relation_type": "precedes",
+    "reason": "李雪莲决定放弃诉讼前寻求真相发生在市长劝说她停止告状之前，叙事顺序上前者为后者提供动机背景，马市长的劝说是在她已有放弃意愿的基础上展开的。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8252ed122863",
+    "subject_id": "ep_8d71ed0b90046b2d",
+    "object_id": "ep_11a2bf8aaf044b9d",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述李雪莲在放弃诉讼前寻求真相的心理动机，客体情节进一步解释她因‘听牛的话’而想通并区分牛与官员的劝阻动机，提供了对主体情节中决策背后心理转变的额外说明和深化，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cc446df13409",
+    "subject_id": "ep_264e3530f83260c5",
+    "object_id": "ep_8d71ed0b90046b2d",
+    "relation_type": "precedes",
+    "reason": "情节 '澄清名誉：李雪莲申辩非潘金莲' 描述了李雪莲因丈夫称她为潘金莲而开始抗争的起点，这是整个事件链的初始反应；而 '李雪莲决定放弃诉讼前寻求真相' 描述了她在长期诉讼后内心挣扎并决定停止打官司的转折点。根据叙事逻辑和事件发展顺序，申辩名誉发生在决定放弃诉讼之前，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_0_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ac24fbb482f6",
+    "subject_id": "ep_8d71ed0b90046b2d",
+    "object_id": "ep_e6109cb878c00ffb",
+    "relation_type": "precedes",
+    "reason": "李雪莲在牛棚前决定放弃诉讼但想先说清真相（ep_8d71ed0b90046b2d）发生在她寻求弟弟协助复仇（ep_e6109cb878c00ffb）之前。根据叙事逻辑，她是在彻底绝望并尝试通过合法途径寻求真相无果后，才转向暴力复仇的极端手段。因此，前一情节在话语顺序和心理发展上早于后一情节。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2b0e6d8063ea",
+    "subject_id": "ep_8d71ed0b90046b2d",
+    "object_id": "ep_376cff028ad0bf8e",
+    "relation_type": "precedes",
+    "reason": "李雪莲决定放弃诉讼前寻求真相发生在她转向北京上访之前。根据描述，她在本地申诉无果、私人复仇失败后才决定前往北京，而放弃诉讼的决定是在此之前的内心挣扎阶段，表明时间顺序上前者早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3d0ebc2b2b8c",
+    "subject_id": "ep_8d71ed0b90046b2d",
+    "object_id": "ep_ab7dca1d035b8b82",
+    "relation_type": "contrasts_with",
+    "reason": "李雪莲在内心挣扎后决定放弃诉讼并寻求真相，表现出个人层面的绝望与和解意愿；而王公道代表官方持续质疑她的决定，反映出制度性防范与不信任。两者在个人情感终结与官方持续戒备之间形成态度和基调上的对比。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_65bb23adab93",
+    "subject_id": "ep_8d71ed0b90046b2d",
+    "object_id": "ep_fcc6fd6c8e2f152e",
+    "relation_type": "contrasts_with",
+    "reason": "李雪莲决定放弃诉讼前寻求真相体现的是她基于内心挣扎后趋向终结抗争的意愿，而李雪莲因逼迫而重申上访决定则反映外部压力导致她重新启动抗争。两个情节在状态和结果上形成逆转：前者是主动寻求终结，后者是被动重启斗争，构成明显的对比关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_1f3ef56f4bee",
+    "subject_id": "ep_8d71ed0b90046b2d",
+    "object_id": "ep_70c771aa91cfc3e5",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节内容，李雪莲决定放弃诉讼前寻求真相（ep_8d71ed0b90046b2d）发生在她与秦玉河当面对质并揭露背叛（ep_70c771aa91cfc3e5）之前。前者发生在牛棚前的内心挣扎阶段，后者则是她与秦玉河在餐馆外的激烈冲突，叙事顺序明确支持该时间先后关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_77701f7c1b4d",
+    "subject_id": "ep_a17ea437f9351e7e",
+    "object_id": "ep_760f49423d60f905",
+    "relation_type": "causes",
+    "reason": "蔡沪浜市长为迎接储省长检查而下令清除上访隐患，直接导致了对李雪莲的拦截和带走行动，以掩盖其申诉证据。文本明确显示前者是后者发生的直接动因。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0e458ed597de",
+    "subject_id": "ep_8d71ed0b90046b2d",
+    "object_id": "ep_048a98be33e9a17f",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，李雪莲在牛棚前决定放弃诉讼但希望说清真相（ep_8d71ed0b90046b2d）发生在她当众质问前夫离婚真相并要求私下对话（ep_048a98be33e9a17f）之前。文档ID（doc_16 vs doc_17）和场景编号（scene_17 vs scene_18）支持这一时间顺序。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7c191da89bce",
+    "subject_id": "ep_8d71ed0b90046b2d",
+    "object_id": "ep_4f013d4f5a9eac1b",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，李雪莲在牛棚前决定放弃诉讼但希望先说清真相（ep_8d71ed0b90046b2d）发生在她计划暴力复仇并最终放弃（ep_4f013d4f5a9eac1b）之前。相关事件分别位于scene_17和scene_21，scene_17在文本时序上早于scene_21，因此该关系为precedes。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_359321e71c29",
+    "subject_id": "ep_760f49423d60f905",
+    "object_id": "ep_66403f9e61b61565",
+    "relation_type": "precedes",
+    "reason": "拦截并带走李雪莲以掩盖冤情证据（ep_760f49423d60f905）发生在她被拘禁之后、释放之前，逻辑上在叙事顺序中早于释放李雪莲（ep_66403f9e61b61565）。虽然文档ID不同，但事件序列表明拦截和拘禁是连续过程，释放是后续阶段，因此该关系在时间线上有较强支持。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ea59c82b1ae6",
+    "subject_id": "ep_8d71ed0b90046b2d",
+    "object_id": "ep_0b60d9060d1f7b40",
+    "relation_type": "precedes",
+    "reason": "李雪莲决定放弃诉讼前寻求真相（ep_8d71ed0b90046b2d）发生在牛棚前的内心挣扎和对话中，属于早期心理转折点；而她拒绝继续交谈并准备离开（ep_0b60d9060d1f7b40）是在与王公道对话时的后续行为，表明其已进入行动阶段。根据叙事逻辑和事件发展顺序，决定放弃并寻求真相在时间上先于实际终止沟通并离开的行为。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a7911850821c",
+    "subject_id": "ep_320bbdb6d91afaaa",
+    "object_id": "ep_760f49423d60f905",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对李雪莲上访危机'描述蔡沪浜市长返回后得知李雪莲在市政府静坐三天并批评下属，该事件发生在文档12；客体情节'拦截并带走李雪莲以掩盖冤情证据'发生在文档13，描述李雪莲在桥上被面包车带走且其'冤'字纸板被捡走。根据文档顺序和事件发展逻辑，市政府上访危机处理在先，随后发生拦截与掩盖行为，叙事顺序明确支持主体情节早于客体情节。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e064a52e7287",
+    "subject_id": "ep_264e3530f83260c5",
+    "object_id": "ep_15f1d0a598ed9b17",
+    "relation_type": "precedes",
+    "reason": "情节'澄清名誉：李雪莲申辩非潘金莲'发生在故事开端（doc_0），是李雪莲整个申诉旅程的起点；而'拦车申诉并揭露身份真相'发生在后续具体场景中（doc_10），是其申诉行为的延续。因此，申辩非潘金莲在叙事顺序上早于拦车申诉事件，构成明确的时间先后关系。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_0_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_42f4146558bb",
+    "subject_id": "ep_15f1d0a598ed9b17",
+    "object_id": "ep_376cff028ad0bf8e",
+    "relation_type": "precedes",
+    "reason": "拦车申诉并揭露身份真相发生在本地申诉场景中，而转向北京上访是在本地申诉无果后的下一步行动，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dd4241884480",
+    "subject_id": "ep_15f1d0a598ed9b17",
+    "object_id": "ep_4c017df3340c08fe",
+    "relation_type": "causes",
+    "reason": "拦车申诉并揭露身份真相这一情节中，李雪莲的公开申诉行为引起了高层关注，直接促使市长马文彬在后续会议中反思工作方法并决定亲自会见李雪莲，文本明确指出该事件引发对官僚主义的警觉和应对策略调整，构成直接因果关系。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1abb00a0a3c2",
+    "subject_id": "ep_9fcdb12420390431",
+    "object_id": "ep_87dd6851c03c2ff6",
+    "relation_type": "elaborates",
+    "reason": "情节'李雪莲试图进入北湖宾馆寻找同学'中提及赵大头的外号，引出后续情节'协商留宿安排'中赵大头与李雪莲的互动，后者提供了关于赵大头身份和关系的进一步背景信息，因此该关系为前者向后者的细节扩展。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_87fee99a3e31",
+    "subject_id": "ep_9fcdb12420390431",
+    "object_id": "ep_a16614c0a2c8bd62",
+    "relation_type": "precedes",
+    "reason": "李雪莲试图进入北湖宾馆被警卫阻止（ep_9fcdb12420390431）发生在赵大头带她进入建筑内部并重叙旧情（ep_a16614c0a2c8bd62）之前。相关事件序列显示，李雪莲先在宾馆外受阻，随后才由赵大头接应进入，构成明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0f814c248bb2",
+    "subject_id": "ep_376cff028ad0bf8e",
+    "object_id": "ep_9fcdb12420390431",
+    "relation_type": "precedes",
+    "reason": "李雪莲决定前往北京上访是她行动的起点，随后她抵达北湖宾馆试图寻找同学赵敬礼。叙事顺序上，转向北京上访发生在试图进入北湖宾馆之前，且后者是前者的具体实施步骤之一。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5982f7e9129d",
+    "subject_id": "ep_7d734136a3bcba99",
+    "object_id": "ep_9fcdb12420390431",
+    "relation_type": "precedes",
+    "reason": "李雪莲计划独行并与赵大头交谈发生在她抵达北湖宾馆并试图进入之前。赵大头在对话中透露警卫已增派，暗示大领导即将到访，而李雪莲随后前往北湖宾馆时被警卫阻止，说明该事件发生在警卫加强之后。因此，计划与警示情节在时间顺序上先于试图进入宾馆的情节。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_796d805f891c",
+    "subject_id": "ep_53f702586489fa90",
+    "object_id": "ep_9fcdb12420390431",
+    "relation_type": "precedes",
+    "reason": "李雪莲锁店启程（ep_53f702586489fa90）描述她离开店铺并开始出行，而李雪莲试图进入北湖宾馆寻找同学（ep_9fcdb12420390431）发生在她抵达北湖宾馆之后。根据叙事顺序，启程必然在抵达并尝试进入宾馆之前，因此前者在话语顺序上明确早于后者。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cab7ffbc0e2d",
+    "subject_id": "ep_66403f9e61b61565",
+    "object_id": "ep_bc29dee203c1a099",
+    "relation_type": "precedes",
+    "reason": "释放李雪莲是她离开县城的前提，逻辑上必须先被释放才能启程离开县城，且描述中‘离开拘禁场所’与‘驶离县城’构成连续行动序列，支持叙事上的先后顺序。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2a3e9bbc129f",
+    "subject_id": "ep_a48fa141dde027bb",
+    "object_id": "ep_15f1d0a598ed9b17",
+    "relation_type": "precedes",
+    "reason": "根据描述，'处理李雪莲拦车申诉'发生在老院长退休送别活动结束时，李雪莲拦停荀院长的车辆进行申诉；而'拦车申诉并揭露身份真相'中，李雪莲拦停的是县长车辆，并涉及秘书身份误认与路人揭示真相的情节。两个情节均为独立的拦车申诉事件，但'处理李雪莲拦车申诉'（doc_9）在文档顺序上早于'拦车申诉并揭露身份真相'（doc_10），且前者针对法院系统，后者转向地方政府，构成叙事上的先后顺序。因此，'处理李雪莲拦车申诉'在叙事顺序上 precedes 后者。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_232fa51b66b7",
+    "subject_id": "ep_9fcdb12420390431",
+    "object_id": "ep_7d036821e9af91a8",
+    "relation_type": "precedes",
+    "reason": "李雪莲试图进入北湖宾馆寻找同学的情节（ep_9fcdb12420390431）发生在赵大头为李雪莲留宿与警卫争执的情节（ep_7d036821e9af91a8）之前，因为前者中李雪莲提及赵大头的外号，引出了后者中赵大头本人出场并与警卫争执的事件，叙事顺序清晰且文档场景编号（scene_24 在 scene_25 之前）支持该时序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0005783dcf79",
+    "subject_id": "ep_a17ea437f9351e7e",
+    "object_id": "ep_66403f9e61b61565",
+    "relation_type": "causes",
+    "reason": "为迎接储省长检查清除上访隐患这一情节中，蔡沪浜市长下令将李雪莲带走，直接导致后续她被拘禁；而释放李雪莲作为结束该拘禁状态的行为，是此前拘禁行动的直接后果。因此，清除上访隐患的指令启动了一系列事件，最终导致释放行为成为必要，构成因果链中的前置动因。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1a07494fbb55",
+    "subject_id": "ep_38646493512aca79",
+    "object_id": "ep_e6109cb878c00ffb",
+    "relation_type": "precedes",
+    "reason": "李雪莲向审判长揭示假离婚的真相发生在她寻求弟弟协助复仇之前。根据描述，她首先在法庭场景中解释假离婚的经过及其后果，之后才前往弟弟家策划报复，叙事顺序明确支持该时间先后关系。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9fa7cbf8769e",
+    "subject_id": "ep_264e3530f83260c5",
+    "object_id": "ep_38646493512aca79",
+    "relation_type": "elaborates",
+    "reason": "情节'澄清名誉：李雪莲申辩非潘金莲'描述了李雪莲因被称作潘金莲而开启名誉抗争的总体动机，而'揭露假离婚的真相'则通过揭示假离婚的背景和背叛细节，为她的委屈和抗争提供了具体解释和深层原因，构成对前一情节的扩展说明。",
+    "source_documents": [
+      "scene_0_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_90b8a93f67ed",
+    "subject_id": "ep_38646493512aca79",
+    "object_id": "ep_114f46e4ddc1af2d",
+    "relation_type": "precedes",
+    "reason": "揭露假离婚的真相发生在李雪莲向审判长讲述假离婚经过的场景（scene_5），而应对法庭言辞与出庭质疑发生在庭审中（scene_6），scene_5在叙事顺序上早于scene_6，因此该关系为precedes。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3f517f8ee537",
+    "subject_id": "ep_0fe6ae4014864518",
+    "object_id": "ep_38646493512aca79",
+    "relation_type": "elaborates",
+    "reason": "情节'阐明假离婚的法律诉求'中，李雪莲解释其离婚证合法但初衷虚假，希望恢复婚姻再重新离婚；而'揭露假离婚的真相'进一步提供了该假离婚的背景，包括为获取住房资格而策划、被秦玉河背叛等细节。后者为前者的动机和法律困境提供了更深层的背景和解释，构成对前一情节的扩展说明。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ba6998e0c329",
+    "subject_id": "ep_38646493512aca79",
+    "object_id": "ep_376cff028ad0bf8e",
+    "relation_type": "precedes",
+    "reason": "揭露假离婚的真相是李雪莲申诉的起点，发生在她决定前往北京上访之前，为后续转向北京上访寻求公正提供动机和背景。根据叙事逻辑和事件发展顺序，揭露真相在先，转向北京上访在后。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_99651e2dd54d",
+    "subject_id": "ep_38646493512aca79",
+    "object_id": "ep_a48fa141dde027bb",
+    "relation_type": "elaborates",
+    "reason": "‘揭露假离婚的真相’这一情节提供了李雪莲离婚案背景的详细解释，包括假离婚的动机和背叛过程，而‘处理李雪莲拦车申诉’中她向荀院长申诉时提及判决错误和王公道歪曲事实，进一步在具体司法互动中扩展了该背景。前者为后者中的申诉内容提供了基础，后者则通过具体诉求和程序讨论深化了前者的社会与制度后果，符合‘elaborates’关系中一个情节扩展另一个情节的定义。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b8d7299e3aa3",
+    "subject_id": "ep_a5652cf3781cf768",
+    "object_id": "ep_e6109cb878c00ffb",
+    "relation_type": "precedes",
+    "reason": "言语侮辱导致情绪崩溃发生在李雪莲寻求弟弟协助复仇之前，根据文档顺序和叙事流程，李雪莲在遭受羞辱后情绪受创，随后采取进一步行动寻求报复，时间顺序明确。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1199edeabc7d",
+    "subject_id": "ep_e6109cb878c00ffb",
+    "object_id": "ep_376cff028ad0bf8e",
+    "relation_type": "precedes",
+    "reason": "李雪莲寻求弟弟协助复仇发生在她转向北京上访之前，文本描述中明确指出在私人复仇失败后，她才决定前往北京上访，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3a67f366151b",
+    "subject_id": "ep_e6109cb878c00ffb",
+    "object_id": "ep_31dc3274cfc66433",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件内容，李雪莲先在弟弟家门口请求英勇协助复仇（doc_19），随后才前往猪肉铺试探并确认老胡的情感与合作意愿（doc_20），因此该情节在叙事顺序上早于与老胡的互动。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ba5fcdb98264",
+    "subject_id": "ep_70c771aa91cfc3e5",
+    "object_id": "ep_e6109cb878c00ffb",
+    "relation_type": "precedes",
+    "reason": "揭露假离婚背叛并升级争执发生在李雪莲与秦玉河的早餐对峙场景（scene_18），而李雪莲寻求弟弟协助复仇发生在后续的scene_20。根据文档顺序和场景编号，前者在叙事时间线上明确早于后者，构成直接的先后顺序。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_919d341734c7",
+    "subject_id": "ep_048a98be33e9a17f",
+    "object_id": "ep_e6109cb878c00ffb",
+    "relation_type": "precedes",
+    "reason": "李雪莲在餐馆外质问前夫秦玉河离婚真相的情节发生在她寻求弟弟协助复仇之前，根据文档顺序（doc_17 在 doc_19 之前）和叙事流程，前者是后者动机发展的前提，且两个情节之间无重叠或因果直接触发，但存在清晰的时间先后顺序。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1254d43e4632",
+    "subject_id": "ep_e6109cb878c00ffb",
+    "object_id": "ep_620da986c59282e4",
+    "relation_type": "precedes",
+    "reason": "李雪莲先寻求弟弟英勇的协助复仇，被拒绝后离开，随后才与老胡协商杀人行动的条件与交换。两个情节在叙事顺序上呈现清晰的时间先后关系，且均围绕同一复仇目标展开，但无证据表明存在直接因果或对比关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_08524b005a0a",
+    "subject_id": "ep_b870511909400f5c",
+    "object_id": "ep_e6109cb878c00ffb",
+    "relation_type": "causes",
+    "reason": "秦玉河威胁李雪莲停止闹事并强调她对抗的是整个司法体系，这一威慑行为激化了李雪莲的对立情绪，直接导致她转向寻求弟弟协助实施复仇，构成从威胁到极端报复意图的因果链。文本中李雪莲在被警告后试图策划杀人，显示该威胁是触发后续复仇计划的直接动因。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_0d33886703fc",
+    "subject_id": "ep_e6109cb878c00ffb",
+    "object_id": "ep_a57dafa8598afbbb",
+    "relation_type": "precedes",
+    "reason": "李雪莲先寻求弟弟英勇协助复仇（ep_e6109cb878c00ffb），在被拒绝后，才向老胡揭示包含前夫和多名官员的复仇名单并讨论可行性（ep_a57dafa8598afbbb），两个情节在叙事顺序上呈现清晰的时间先后关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_48f2757188fe",
+    "subject_id": "ep_e6109cb878c00ffb",
+    "object_id": "ep_4f013d4f5a9eac1b",
+    "relation_type": "precedes",
+    "reason": "李雪莲先寻求弟弟英勇协助复仇（ep_e6109cb878c00ffb），在被拒绝后，随后发生她与老胡对峙并最终放弃暴力复仇的情节（ep_4f013d4f5a9eac1b）。两个情节在叙事顺序上呈现清晰的时间先后关系，且共享‘暴力复仇’的失败主题，前者为后者提供了直接的前置背景。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bbd73f63b174",
+    "subject_id": "ep_264e3530f83260c5",
+    "object_id": "ep_048a98be33e9a17f",
+    "relation_type": "precedes",
+    "reason": "根据描述，李雪莲申辩自己不是潘金莲（ep_264e3530f83260c5）发生在故事开端（scene_0），而质问前夫离婚真相（ep_048a98be33e9a17f）发生在scene_18，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_0_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8683a4392cac",
+    "subject_id": "ep_11a2bf8aaf044b9d",
+    "object_id": "ep_15118eea81ab0f44",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节中李雪莲因听从牛的劝告而决定不再告状，表现出一种心理上的释然和内在转变；第二个情节中她因官员的逼迫和监视而无法放弃告状，并请求帮助逃离，表现出被迫继续抗争的困境。两者在心理状态和行为动机上形成明显对比：一个是主动放下，另一个是被迫坚持，因此构成对比关系。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_d46b855cede5",
+    "subject_id": "ep_7d036821e9af91a8",
+    "object_id": "ep_83406598073b8e89",
+    "relation_type": "contrasts_with",
+    "reason": "赵大头为李雪莲留宿与警卫争执体现个体在特定场合中对规则与人情的即时冲突，而揭露官员敷衍应对的周期性模式则反映系统性忽视与制度性应付的长期行为，二者在应对李雪莲诉求的态度上形成道德立场与行为模式的对比：前者展现个人层面的正义辩护，后者揭示官僚体系的周期性回避，构成人情干预与制度冷漠之间的张力。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_97c749647bed",
+    "subject_id": "ep_320bbdb6d91afaaa",
+    "object_id": "ep_376cff028ad0bf8e",
+    "relation_type": "precedes",
+    "reason": "应对李雪莲上访危机发生在本地，而转向北京上访是她在本地申诉无果后的下一步行动。描述中明确指出李雪莲在本地处理失败后决定前往北京，因此前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bcba20d90932",
+    "subject_id": "ep_5458bd70923e3623",
+    "object_id": "ep_53f702586489fa90",
+    "relation_type": "precedes",
+    "reason": "李雪莲在案前劳作发生在锁店启程之前，因为她在离开前必须先完成店内的活动，且锁店启程明确标志着旅程的开始，而案前劳作是其日常状态的展现，逻辑上和叙事上应早于启程动作。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e97d6b53c5b7",
+    "subject_id": "ep_53f702586489fa90",
+    "object_id": "ep_f2a0828a0e49de3a",
+    "relation_type": "precedes",
+    "reason": "李雪莲锁店启程标志着她旅程的开始，而意识到告状无门的困境发生在抵达北京之后。根据叙事顺序，启程在前，意识到困境在后，因此'锁店启程'在话语顺序上早于'意识到告状无门的困境'。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_189443705a54",
+    "subject_id": "ep_53f702586489fa90",
+    "object_id": "ep_ea1aa1a297d254fe",
+    "relation_type": "precedes",
+    "reason": "‘锁店启程’描述了李雪莲锁门并登上三轮车，标志着旅程的开始；而‘穿越隧道抵达北京’描述了客车驶出隧道并抵达北京，标志着旅途的结束。根据叙事顺序，启程在前，抵达在后，因此‘锁店启程’在话语顺序上早于‘穿越隧道抵达北京’。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3e94d8b66e90",
+    "subject_id": "ep_320bbdb6d91afaaa",
+    "object_id": "ep_4c017df3340c08fe",
+    "relation_type": "elaborates",
+    "reason": "主体情节'应对李雪莲上访危机'描述了蔡沪浜市长对下属处理李雪莲静坐事件的批评，而客体情节'处理李雪莲事件的工作反思与应对策略调整'进一步提供了后续会议中马文彬市长对同一事件的深层反思、态度转变及应对策略升级。客体情节通过扩展干部对群众态度、信息时代政治风险和纠正官僚主义的讨论，为如何应对类似危机提供了更广泛的背景和解释，从而在叙事上对主体情节的问题进行了深化和扩展。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9cdee70fb24d",
+    "subject_id": "ep_ea1aa1a297d254fe",
+    "object_id": "ep_f2a0828a0e49de3a",
+    "relation_type": "precedes",
+    "reason": "‘穿越隧道抵达北京’描述了李雪莲到达北京的物理过程，紧随其后的是她在新环境中‘意识到告状无门的困境’。抵达北京是意识到困境的前提，且两个情节在叙事顺序上连续，前者在场景23，后者在场景28，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c5351e81dcc0",
+    "subject_id": "ep_bc29dee203c1a099",
+    "object_id": "ep_ea1aa1a297d254fe",
+    "relation_type": "precedes",
+    "reason": "‘离开县城’描述李雪莲从本地出发并换乘客车，构成旅途的开始阶段；‘穿越隧道抵达北京’描述客车抵达北京及李雪莲进入新环境，标志着旅途结束。两个情节共享交通旅程的上下文，且‘离开县城’在叙事顺序上明确早于‘穿越隧道抵达北京’，构成连贯移动的前后阶段。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9502dd0cab1e",
+    "subject_id": "ep_0fe6ae4014864518",
+    "object_id": "ep_376cff028ad0bf8e",
+    "relation_type": "precedes",
+    "reason": "阐明假离婚的法律诉求发生在李雪莲本地申诉阶段，而转向北京上访是在本地申诉无果之后的下一步行动，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_643e4d9869f7",
+    "subject_id": "ep_376cff028ad0bf8e",
+    "object_id": "ep_f2a0828a0e49de3a",
+    "relation_type": "precedes",
+    "reason": "李雪莲决定前往北京上访发生在她意识到不知道去哪里告状之前，叙事顺序上前者先于后者，且逻辑上必须先到达北京后才可能产生对告状路径的困惑。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2772e1bb5a44",
+    "subject_id": "ep_142a7f2bf3b70ebb",
+    "object_id": "ep_11a2bf8aaf044b9d",
+    "relation_type": "elaborates",
+    "reason": "情节 '确认李雪莲不再上访的意向' 中李雪莲表示今年不再上访，而情节 '解释放弃告状的心理转变' 进一步提供了她做出该决定的心理原因和动机，即听了牛的话并区分了牛与官员的劝阻动机，从而为前一情节提供了更深层的解释和背景。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_629d5bdc8769",
+    "subject_id": "ep_11a2bf8aaf044b9d",
+    "object_id": "ep_cf9962c530ec5893",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '解释放弃告状的心理转变' 展示李雪莲出于内在想通而自愿放弃上访，动机来自牛的关心；而 '施压要求签署不再上访的保证书' 展示官员试图通过形式化手段强制确认其承诺。两者并置突出了自愿觉悟与体制施压之间的动机和道义对比，构成状态与基调上的明显逆转。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4573d16316b0",
+    "subject_id": "ep_11a2bf8aaf044b9d",
+    "object_id": "ep_ab7dca1d035b8b82",
+    "relation_type": "elaborates",
+    "reason": "主体情节‘解释放弃告状的心理转变’通过揭示李雪莲因听从牛的话而想通的内在动机，进一步解释和扩展了客体情节‘应对长期上访问题’中李雪莲宣布不再上访的决定。客体情节描述了王公道质疑并劝说李雪莲停止上访，而主体情节提供了她心理转变的深层原因，从而为她的行为变化提供了额外背景和情感深度。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b92ce70b1f01",
+    "subject_id": "ep_11a2bf8aaf044b9d",
+    "object_id": "ep_fcc6fd6c8e2f152e",
+    "relation_type": "contrasts_with",
+    "reason": "情节 ep_11a2bf8aaf044b9d 描述李雪莲因听从牛的劝告而主动放弃告状，体现内在心理转变；而情节 ep_fcc6fd6c8e2f152e 描述她在官员施压下威胁重新上访，体现外部压迫导致的反抗。两者在动机来源（内在想通 vs 外部逼迫）和结果倾向（放弃 vs 重申）上形成明显对比，构成态度与反应的逆转，支持 contrasts_with 关系。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_626f3cc0fd31",
+    "subject_id": "ep_83406598073b8e89",
+    "object_id": "ep_fcc6fd6c8e2f152e",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节揭示官员周期性敷衍应对的模式，体现系统性忽视；第二个情节展示李雪莲在持续施压下重新决定上访，反映劝阻失败。两者并置突显了官僚应付策略与民众反抗之间的对立和张力，形成政策执行表面控制与实际失效的对比。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_7ae84fa699c7",
+    "subject_id": "ep_4c017df3340c08fe",
+    "object_id": "ep_83406598073b8e89",
+    "relation_type": "contrasts_with",
+    "reason": "主体情节描述官员反思并决定亲自会见李雪莲以纠正官僚主义，体现对群众的尊重；而客体情节揭示李雪莲控诉官员仅在人代会期间敷衍应对，表达对系统性忽视的不信任。两者在官员态度与群众感知之间形成明显对比，突显实际行为与群众认知之间的张力。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_f33266588d26",
+    "subject_id": "ep_83406598073b8e89",
+    "object_id": "ep_ab7dca1d035b8b82",
+    "relation_type": "contrasts_with",
+    "reason": "主体情节揭露官员仅在人代会期间敷衍应对的周期性模式，表达对系统性忽视的愤怒；客体情节展示官员王公道试图通过私人关系劝说李雪莲停止上访，反映官方对长期上访的持续关注与防范。两者并置凸显了官员表面敷衍与私下积极干预之间的态度对比，形成对官方应对方式的讽刺性对照。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_217aaf9fd1a4",
+    "subject_id": "ep_598b799b479f10e7",
+    "object_id": "ep_83406598073b8e89",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '商议应对李雪莲上访困局' 展现官员在正式场合下讨论如何合法应对上访问题，体现出对制度与法律的表面尊重；而 '揭露官员敷衍应对的周期性模式' 则揭示李雪莲对官员仅在人代会期间形式化劝说、事后搁置问题的控诉，反映系统性敷衍。两者并置，凸显官员话语与实际行为之间的反差，构成态度与实践的对比。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_75dec265d550",
+    "subject_id": "ep_142a7f2bf3b70ebb",
+    "object_id": "ep_83406598073b8e89",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '确认李雪莲不再上访的意向' 描述官员试图通过直接询问和协议达成劝阻，暗示劝阻可能成功；而 '揭露官员敷衍应对的周期性模式' 揭示李雪莲对官员仅在人代会期间临时劝说、事后搁置的系统性不满。两个情节在官员表面积极应对与实质敷衍之间形成态度和行为的对比，构成叙事上的对立。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6ee1a5a8f716",
+    "subject_id": "ep_048a98be33e9a17f",
+    "object_id": "ep_376cff028ad0bf8e",
+    "relation_type": "precedes",
+    "reason": "李雪莲在餐馆外质问前夫秦玉河离婚真相的情节发生在本地申诉无果之后，而她决定转向北京上访是此后的下一步行动。根据叙事顺序，质问失败是推动她升级申诉方式的关键节点，文本支持该情节在时间顺序上先于前往北京上访的决定。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e51c43019ddf",
+    "subject_id": "ep_598b799b479f10e7",
+    "object_id": "ep_fcc6fd6c8e2f152e",
+    "relation_type": "precedes",
+    "reason": "情节 '商议应对李雪莲上访困局' 发生在县长郑众与王公道在古宅院现场会后的讨论中（scene_39），而情节 '李雪莲因逼迫而重申上访决定' 发生在后续的劝阻会面现场（scene_40），scene_39 在文档顺序和叙事时序上早于 scene_40，且前者为官员内部商议，后者为对李雪莲的直接施压结果，存在清晰的时间先后顺序。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5c498f917e0d",
+    "subject_id": "ep_b870511909400f5c",
+    "object_id": "ep_fcc6fd6c8e2f152e",
+    "relation_type": "causes",
+    "reason": "秦玉河威胁李雪莲停止闹事并强调其对抗整个司法体系，这一威慑行为加剧了对立情绪，直接导致李雪莲在被逼迫下重申上访决定，构成劝阻失败的即时后果，文本中体现出因果链条。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_f2874217a0eb",
+    "subject_id": "ep_142a7f2bf3b70ebb",
+    "object_id": "ep_ab7dca1d035b8b82",
+    "relation_type": "elaborates",
+    "reason": "确认李雪莲不再上访的意向这一情节提供了关于李雪莲当前上访状态的具体进展，进一步扩展和细化了应对长期上访问题这一更广泛的情节背景。王公道此前的劝说和质疑为郑众后续直接确认其意向提供了上下文，表明后者是对前者所关注问题的延续与具体化。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4c39bfd89c61",
+    "subject_id": "ep_c47c3d8df5666063",
+    "object_id": "ep_fcc6fd6c8e2f152e",
+    "relation_type": "contrasts_with",
+    "reason": "李雪莲试图通过归还猪腿和开窗等行为表现平静以安抚王公道，与后续在官员施压下警告将重新上访形成鲜明对比，体现出从克制到反抗的情绪与行为逆转，构成情节上的对比关系。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_abf7736864b4",
+    "subject_id": "ep_31dc3274cfc66433",
+    "object_id": "ep_376cff028ad0bf8e",
+    "relation_type": "precedes",
+    "reason": "试探并确认老胡的情感与合作意愿发生在李雪莲决定转向北京上访之前，两者均在scene_21中按顺序展开：先尝试通过私人关系解决问题，失败后才决定前往北京上访，叙事顺序明确。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a9c55a879a6d",
+    "subject_id": "ep_ab7dca1d035b8b82",
+    "object_id": "ep_cf9962c530ec5893",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对长期上访问题'发生在王公道与李雪莲的对话中，李雪莲表示已死心不再上访；客体情节'施压要求签署不再上访的保证书'发生在后续场景中，郑众在得知其不上访决定后仍要求书面保证。相关事件的时间顺序和上下文表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5b0f74fb8201",
+    "subject_id": "ep_376cff028ad0bf8e",
+    "object_id": "ep_fcc6fd6c8e2f152e",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述李雪莲决定前往北京上访，作为她申诉路径的新开端；第二个情节显示她在被官员逼迫下重申上访决定，进一步揭示其决心的动态变化和外部压力的影响。第二个情节通过展示劝阻失败和她重新确认上访意图的条件，扩展并深化了第一个情节中确立的决策背景。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_c9944ce1768b",
+    "subject_id": "ep_4f013d4f5a9eac1b",
+    "object_id": "ep_376cff028ad0bf8e",
+    "relation_type": "precedes",
+    "reason": "根据描述，'计划破裂并放弃暴力复仇'标志着李雪莲通过私人手段寻求正义的尝试终结，随后她决定转向北京上访寻求公正，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_41c27e6a78fd",
+    "subject_id": "ep_ab7dca1d035b8b82",
+    "object_id": "ep_fcc6fd6c8e2f152e",
+    "relation_type": "precedes",
+    "reason": "主体情节描述王公道试图劝阻李雪莲上访，并质疑其不再上访的决定，而客体情节描述在官员持续施压下，李雪莲因被逼迫而重申将重新上访。根据叙事顺序，劝阻和质疑行为发生在李雪莲重新决定上访之前，且相关事件在文档中按时间顺序排列（doc_37 在 doc_39 之前），支持主体情节在前、客体情节在后的时序关系。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_af07ea97bf36",
+    "subject_id": "ep_a57dafa8598afbbb",
+    "object_id": "ep_376cff028ad0bf8e",
+    "relation_type": "precedes",
+    "reason": "在李雪莲揭示复仇名单并评估可行性的情节中，她与老胡讨论杀人计划，但因风险过高未实施；随后她转向北京上访寻求公正，表明在私人复仇路径受阻后选择制度性申诉。文本描述中‘不再依赖地方力量’和‘开启新的申诉路径’暗示此顺序，支持‘揭示复仇名单’在‘转向北京上访’之前发生。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8060c36e37ef",
+    "subject_id": "ep_376cff028ad0bf8e",
+    "object_id": "ep_ab7dca1d035b8b82",
+    "relation_type": "elaborates",
+    "reason": "情节 '转向北京上访寻求公正' 描述了李雪莲决定前往北京上访的初始动机和行动，而 '应对长期上访问题' 提供了后续背景下官方对她多年持续上访行为的反应和互动细节，包括她是否继续上访的讨论。后者通过展示长期后果和他人对其行为的回应，扩展并丰富了前者的背景和影响，构成对前期情节的进一步阐述。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ca3fc4a0bb81",
+    "subject_id": "ep_8bc13e013a228578",
+    "object_id": "ep_ab6d775e52ff4ee2",
+    "relation_type": "precedes",
+    "reason": "赵大头在厨房接到头儿召唤并准备前往（ep_8bc13e013a228578），随后进入办公室遭遇警察身份核查（ep_ab6d775e52ff4ee2）。根据相关事件的时间顺序，响应召唤发生在进入办公室之前，因此该情节在叙事顺序上先于另一情节。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bd9899eedf9a",
+    "subject_id": "ep_a48fa141dde027bb",
+    "object_id": "ep_4c017df3340c08fe",
+    "relation_type": "elaborates",
+    "reason": "处理李雪莲拦车申诉（ep_a48fa141dde027bb）呈现了李雪莲首次向高层司法官员提出冤情的直接场景，揭示了案件起因和司法系统初步反应；而处理李雪莲事件的工作反思与应对策略调整（ep_4c017df3340c08fe）则展示了该事件在更高行政层面引发的后续反思与政策应对，包括对官僚主义的批评和亲自会见的决策。后者在叙事上扩展了前者的政治与管理意涵，提供了高层视角的响应与深层解释，构成对前一情节的进一步阐述。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_c68f8e693557",
+    "subject_id": "ep_27841db191028d8a",
+    "object_id": "ep_2e0562dc2cc0e540",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'官员抵达并开启劝阻对话'发生在scene_40，而'郑县长施压并离开'发生在scene_45，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_85a855a70410",
+    "subject_id": "ep_2e0562dc2cc0e540",
+    "object_id": "ep_598b799b479f10e7",
+    "relation_type": "precedes",
+    "reason": "根据描述，'郑县长施压并离开'发生在古宅院现场，而'商议应对李雪莲上访困局'明确是在'离开古宅院现场后'发生的，因此前者在叙事时间顺序上直接早于后者。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_43679215fefb",
+    "subject_id": "ep_27841db191028d8a",
+    "object_id": "ep_5afe2b26a5793b32",
+    "relation_type": "precedes",
+    "reason": "主体情节'官员抵达并开启劝阻对话'发生在场景40，客体情节'应对官员劝说中的信任危机'发生在场景43，文本中场景顺序明确显示前者在后者之前，构成直接的叙事时序关系。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1de47b9e8def",
+    "subject_id": "ep_23fe4a36e636a731",
+    "object_id": "ep_2e0562dc2cc0e540",
+    "relation_type": "precedes",
+    "reason": "马市长召集郑县长并制定新策略（ep_23fe4a36e636a731）发生在文档 doc_43，而郑县长施压并离开（ep_2e0562dc2cc0e540）发生在文档 doc_44，且相关事件分别位于 scene_44 和 scene_45，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_708a7ad36b79",
+    "subject_id": "ep_eedee7f847af2297",
+    "object_id": "ep_7a6ea9a71ac6fd63",
+    "relation_type": "precedes",
+    "reason": "根据描述，马文彬先下达分权处理指示，随后在秘书长再次离开之际强调后果的严重性，完成指令闭环，表明‘下达分权处理指示’在叙事顺序上早于‘最终强调后果严重性’。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_057791d5792f",
+    "subject_id": "ep_19e4aead840e1dfa",
+    "object_id": "ep_66403f9e61b61565",
+    "relation_type": "contrasts_with",
+    "reason": "执行被扭曲的市长指示导致李雪莲被关押，而释放李雪莲的行为直接逆转了该状态，两者在结果上形成明显对立，体现出指令执行与实际行为之间的矛盾。",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_44d55ee064ea",
+    "subject_id": "ep_7ca24eb8b99c7a0b",
+    "object_id": "ep_f0e53582472726a5",
+    "relation_type": "precedes",
+    "reason": "应对突发停电恢复照明发生在王公道持煤油灯进入并照亮饭桌之前，因为前者包括寻找煤油的行动，而后者是该行动的结果，标志着照明恢复后的场景启用。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_748e290f0c6e",
+    "subject_id": "ep_99a345567be92d42",
+    "object_id": "ep_23fe4a36e636a731",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件流，'结束劝说并表达不满'（doc_42）发生在马市长离开李雪莲住所并引发王公道责备，而'马市长召集郑县长并制定新策略'（doc_43）是在此之后的后续行动。因此，前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_55cc03f9b872",
+    "subject_id": "ep_430e029949dc360d",
+    "object_id": "ep_23fe4a36e636a731",
+    "relation_type": "elaborates",
+    "reason": "部署美丽乡村整治行动这一情节设定了整治任务的总体要求和紧迫性，而马市长召集郑县长并制定新策略的情节则具体展示了在该任务背景下如何针对实际困难调整工作方法，提供了执行层面的细节和策略调整的背景，因此后者对前者进行了执行层面的扩展和细化。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_c5067863c234",
+    "subject_id": "ep_9c222bee6e8e40f2",
+    "object_id": "ep_99a345567be92d42",
+    "relation_type": "precedes",
+    "reason": "王公道批评李雪莲的诉讼动机（scene_4）发生在马市长离开及王公道拍桌责备之前（scene_43），根据文档中场景编号的顺序，情节存在明确的时间先后关系。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_47a351e1b19a",
+    "subject_id": "ep_289da49a3e0af47f",
+    "object_id": "ep_23fe4a36e636a731",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件流，马市长被李雪莲质疑来访真实意图（ep_289da49a3e0af47f）发生在其召见郑县长并制定新策略（ep_23fe4a36e636a731）之前。scene_43 描述市长与李雪莲的对话，scene_44 紧随其后描述市长下车后召见郑县长，表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d41724aeb8d3",
+    "subject_id": "ep_0fe6ae4014864518",
+    "object_id": "ep_72ff728624dd06f5",
+    "relation_type": "precedes",
+    "reason": "情节 '阐明假离婚的法律诉求' 发生在李雪莲向王公道解释其诉求的阶段，而 '宣布合议庭裁决结果' 是后续庭审合议后的正式裁决。根据司法程序逻辑和事件流，当事人陈述诉求在前，法庭宣布裁决在后，因此该关系在叙事和程序顺序上成立。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e787f1a008b5",
+    "subject_id": "ep_9c222bee6e8e40f2",
+    "object_id": "ep_a48fa141dde027bb",
+    "relation_type": "elaborates",
+    "reason": "王公道批评李雪莲的诉讼动机这一情节中，王公道对其诉求的质疑为后续李雪莲拦车申诉时指认王公道歪曲事实、贪赃枉法提供了背景和动机上的扩展。处理拦车申诉的情节进一步揭示了李雪莲为何不满王公道，从而在内容上对前一情节的冲突进行了具体化和深化，构成解释性补充。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4e019996b961",
+    "subject_id": "ep_ee6a5a10ff5cc5a9",
+    "object_id": "ep_f0e53582472726a5",
+    "relation_type": "precedes",
+    "reason": "王公道突访李雪莲家中发生在其用煤油灯照亮饭桌之前，因为进入住所是开启对话场景的前提，而照亮饭桌是该场景初始化的物理动作，叙事顺序上前者紧接后者。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_462fd3359fdf",
+    "subject_id": "ep_d5dbb2d5b3ea262e",
+    "object_id": "ep_99a345567be92d42",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间和上下文，李雪莲拒绝签字并反抗施压（scene_40）发生在马市长离开及王公道拍桌责备（scene_43）之前，scene_40早于scene_43，因此该关系在叙事顺序上成立。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4e061a31cb03",
+    "subject_id": "ep_ee6a5a10ff5cc5a9",
+    "object_id": "ep_9c222bee6e8e40f2",
+    "relation_type": "elaborates",
+    "reason": "王公道突访李雪莲家中（ep_ee6a5a10ff5cc5a9）开启了对话场景，其目的为探询李雪莲的上访动向；随后王公道批评其诉讼动机（ep_9c222bee6e8e40f2）可视为在该对话中进一步展开的内容，提供了对李雪莲行为逻辑的评价和背景解释，因此前者为后者提供了上下文和展开基础，构成 elaborates 关系。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_89b6253fe02c",
+    "subject_id": "ep_38567f02f33df41c",
+    "object_id": "ep_b9779e4acf44d2cd",
+    "relation_type": "precedes",
+    "reason": "建立亲属联系以缓和对峙发生在王公道与李雪莲的互动场景（scene_38），而官员终止交涉并离开现场发生在后续的scene_40，且两情节属于连续的劝阻过程，前者为后者的时间前序。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_037515ff5bb3",
+    "subject_id": "ep_0b60d9060d1f7b40",
+    "object_id": "ep_b9779e4acf44d2cd",
+    "relation_type": "precedes",
+    "reason": "李雪莲拒绝继续交谈并准备离开发生在王公道和郑众终止交涉并离开现场之前，根据描述，李雪莲的离开意图触发了后续官员停止劝说并离开的行为，表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_68d9f8de2f94",
+    "subject_id": "ep_ab7dca1d035b8b82",
+    "object_id": "ep_99a345567be92d42",
+    "relation_type": "precedes",
+    "reason": "情节 '应对长期上访问题' 发生在王公道拜访李雪莲并劝说她停止上访的场景中（scene_38），而 '结束劝说并表达不满' 发生在后续场景（scene_43）中，马市长离开且王公道拍桌责备李雪莲。根据文档中场景编号的顺序，前者在叙事时间上早于后者，因此支持 'precedes' 关系。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4317037b9650",
+    "subject_id": "ep_e7e2732dc6608145",
+    "object_id": "ep_25a0399328a942d9",
+    "relation_type": "precedes",
+    "reason": "首长入场并接受欢迎发生在政府工作会议开始阶段，标志着首长正式到场；随后在同一次会议中，储敬琏邀请首长发言，首长在鼓掌推动下决定讲话。两个情节共享会议场合且叙事顺序明确，前者在时间上先于后者。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eef2b7f55177",
+    "subject_id": "ep_ee6a5a10ff5cc5a9",
+    "object_id": "ep_d5dbb2d5b3ea262e",
+    "relation_type": "precedes",
+    "reason": "王公道突访李雪莲家中（ep_ee6a5a10ff5cc5a9）发生在县长与干部劝阻李雪莲上访的现场会面（ep_d5dbb2d5b3ea262e）之前，根据文档时序和场景编号（scene_38 在 scene_40 之前），该访问在叙事顺序上早于拒绝签字事件。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_017def402d0c",
+    "subject_id": "ep_ee6a5a10ff5cc5a9",
+    "object_id": "ep_27841db191028d8a",
+    "relation_type": "precedes",
+    "reason": "王公道突访李雪莲家中（ep_ee6a5a10ff5cc5a9）发生在 doc_37，而官员抵达并开启劝阻对话（ep_27841db191028d8a）发生在 doc_39，文档顺序表明前者在叙事时间上早于后者。此外，前者为探询上访动向，后者为正式劝阻，构成递进的干预步骤，支持时间先后关系。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e2d62faaf687",
+    "subject_id": "ep_ee6a5a10ff5cc5a9",
+    "object_id": "ep_598b799b479f10e7",
+    "relation_type": "precedes",
+    "reason": "王公道突访李雪莲家中（ep_ee6a5a10ff5cc5a9）发生在古宅院现场会之前，而商议应对李雪莲上访困局（ep_598b799b479f10e7）是在该现场会之后进行的讨论。根据相关事件的时间顺序，王公道在scene_38中已开始行动，而郑众参与讨论是在scene_39，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2",
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_888f620c8142",
+    "subject_id": "ep_c84024ae7a4afab4",
+    "object_id": "ep_72ff728624dd06f5",
+    "relation_type": "precedes",
+    "reason": "证人作证并确认离婚真实性发生在合议庭裁决之前，因为人证物证的呈现是裁决认定的基础，且庭审中作证通常在宣布结果前进行。两个情节共享同一法庭场合，支持其时间顺序的连贯性。",
+    "source_documents": [
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7118418510e7",
+    "subject_id": "ep_5458bd70923e3623",
+    "object_id": "ep_acb24b33387922c4",
+    "relation_type": "contrasts_with",
+    "reason": "李雪莲在案前劳作展现其日常平凡状态，而赵大头和老陈讨论她受到堪比中南海和美国总统的安保待遇，突显荒诞性；两个情节并置，通过日常劳作与过度安保之间的反差形成对比。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_913ea83036f9",
+    "subject_id": "ep_27841db191028d8a",
+    "object_id": "ep_f0e53582472726a5",
+    "relation_type": "precedes",
+    "reason": "官员抵达并开启劝阻对话（ep_27841db191028d8a）发生在县长和王公道抵达店铺并会面李雪莲的过程中（scene_40），而建立对话场景的物理环境（ep_f0e53582472726a5）涉及王公道用煤油灯照亮饭桌（scene_43），文本中scene_43在scene_40之后，表明物理环境的建立紧随抵达和会面之后，因此前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6f853dc2282c",
+    "subject_id": "ep_ab7dca1d035b8b82",
+    "object_id": "ep_b9779e4acf44d2cd",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对长期上访问题'发生在李雪莲与王公道的对话场景中，涉及对上访计划的劝说与质疑，而客体情节'官员终止交涉并离开现场'发生在李雪莲拒绝签字并威胁重新上访之后，导致劝阻行动结束。根据事件顺序，劝说与交涉的失败直接导致官员离开，且两个情节分别位于scene_38和scene_40，具有明确的先后叙事顺序。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bac068eb01f7",
+    "subject_id": "ep_5905373027cf6331",
+    "object_id": "ep_056912d8d1e323f7",
+    "relation_type": "precedes",
+    "reason": "新人展示敬意并引发酒局互动发生在探讨金婚秘诀引发幽默高潮之前，因为新人先敬酒并获得认可，随后在轻松氛围中老院长与夫人展开关于婚姻秘诀的对话，叙事顺序在描述中呈现清晰的时间先后。",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0baf045f605d",
+    "subject_id": "ep_8882ad7dc54ee96b",
+    "object_id": "ep_056912d8d1e323f7",
+    "relation_type": "elaborates",
+    "reason": "新人强调院长禁令以凸显破例意义为背景，解释了为何院长提议继续喝酒能引发幽默高潮；该破例行为的严肃前提为后续互动提供了语境，从而扩展了对探讨金婚秘诀引发幽默高潮的理解。",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_332c5d4e30b5",
+    "subject_id": "ep_ee6a5a10ff5cc5a9",
+    "object_id": "ep_c47c3d8df5666063",
+    "relation_type": "precedes",
+    "reason": "王公道突访李雪莲家中（ep_ee6a5a10ff5cc5a9）是此次互动的起始行为，发生在李雪莲以行动安抚王公道（ep_c47c3d8df5666063）之前。根据描述，王公道进入家中后才展开对话场景，李雪莲随后通过塞回猪腿、开窗等动作进行安抚，叙事顺序明确支持前者早于后者。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bdb66b190a0d",
+    "subject_id": "ep_ee6a5a10ff5cc5a9",
+    "object_id": "ep_0b60d9060d1f7b40",
+    "relation_type": "precedes",
+    "reason": "王公道突访李雪莲家中是对话的开端，随后在对话中因反复质疑导致李雪莲拒绝继续交谈并准备离开。根据描述，这两个情节发生在同一场景（scene_38），且事件顺序明确：先有王公道的到访和质问，后有李雪莲的拒绝与离开意图。因此，'王公道突访李雪莲家中'在叙事顺序上早于'李雪莲拒绝继续交谈并准备离开'。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_930002db72aa",
+    "subject_id": "ep_2e344640433cb0e3",
+    "object_id": "ep_90f3e531ea60c2e8",
+    "relation_type": "precedes",
+    "reason": "主体情节'前往九龙壁并开始拍照'包含赵大头提出拍照并请求摄影师拍摄两条龙，而客体情节'完成合影并结束拍摄'描述了合影完成及摄影师结束拍摄并招呼下一位顾客。根据描述，拍照开始在前，完成拍摄在后，具有明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_43943ee72a18",
+    "subject_id": "ep_8882ad7dc54ee96b",
+    "object_id": "ep_f06128f2f332ec49",
+    "relation_type": "precedes",
+    "reason": "新人强调院长禁令以凸显破例意义发生在现任院长表达敬意并澄清宴请性质之前，两者均发生在同一饭局场景中，且逻辑上先有对禁令的提及和破例的铺垫，后有院长借机表达敬意并敬酒推进饭局，叙事顺序支持该时序关系。",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_39b08f35f1cd",
+    "subject_id": "ep_e7e2732dc6608145",
+    "object_id": "ep_08dd0f76bb8f4c80",
+    "relation_type": "precedes",
+    "reason": "首长入场并接受欢迎（ep_e7e2732dc6608145）发生在政府工作会议的讨论环节之前，标志着会议的开始；而首长肯定会议发言与政府报告（ep_08dd0f76bb8f4c80）发生在会议进行中，涉及对报告和发言的评价，逻辑上和叙事顺序上紧随入场之后。两个情节共享连续的会议场合但属于不同阶段，前者为后者提供时间上的前序位置。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_35_part_2",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5ad8c0f02d67",
+    "subject_id": "ep_114f46e4ddc1af2d",
+    "object_id": "ep_c84024ae7a4afab4",
+    "relation_type": "precedes",
+    "reason": "根据描述，李雪莲在庭审中质疑秦玉河未出庭并被法官制止，随后证人老古进入法庭作证。两个情节均发生在同一庭审场合（光明县人民法院第五审判厅的庭审），且相关事件的叙述顺序表明质疑与言辞冲突发生在证人作证之前，因此支持'应对法庭言辞与出庭质疑'在叙事顺序上先于'证人作证并确认离婚真实性'。",
+    "source_documents": [
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e5604bd47d31",
+    "subject_id": "ep_99a345567be92d42",
+    "object_id": "ep_b9779e4acf44d2cd",
+    "relation_type": "precedes",
+    "reason": "根据描述，'官员终止交涉并离开现场'（ep_b9779e4acf44d2cd）发生在李雪莲拒绝签字并威胁重新上访后，而'结束劝说并表达不满'（ep_99a345567be92d42）描述的是马市长在对话无果后离开，王公道随后拍桌责备。两个情节均涉及劝说失败后的离开，但马市长的离开及王公道的情绪反应发生在郑众和王公道正式结束劝阻并离开之后的后续场景（scene_43 vs scene_40），因此 ep_b9779e4acf44d2cd 在叙事顺序上早于 ep_99a345567be92d42。关系方向为 object -> subject，故 subject precedes object。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  }
+]

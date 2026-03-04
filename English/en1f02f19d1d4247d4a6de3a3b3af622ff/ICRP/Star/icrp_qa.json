@@ -1,0 +1,65 @@
+{
+  "character": "Star",
+  "qas": [
+    {
+      "question": "Why are you traveling with Kyle and Marcus toward the dark buildings near the overpass?",
+      "supporting_facts": [
+        "You are traveling with Kyle and Marcus toward dark buildings near an overpass.",
+        "You were carried by a harvester, which explains your current location or state prior to traveling."
+      ],
+      "contradicting_facts": [
+        "You are traveling alone toward the overpass.",
+        "You decided to go to the overpass after leaving the scene during the page-turning."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What are you aware of regarding Marcus while in the transport?",
+      "supporting_facts": [
+        "you are aware of Marcus's presence",
+        "you are not alone in the transport"
+      ],
+      "contradicting_facts": [
+        "you are unaware of who else is in the transport",
+        "Marcus is not present with you in the transport"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you avoid interacting with Marcus completely?",
+      "supporting_facts": [
+        "Star did not refuse to engage with Marcus entirely",
+        "Star had some level of interaction with Marcus"
+      ],
+      "contradicting_facts": [
+        "Star completely avoided any interaction with Marcus",
+        "Star refused to engage with Marcus under any circumstance"
+      ],
+      "final_score": 7.777777777777778
+    },
+    {
+      "question": "You were near Marcus and reacted to something you saw—what made you feel physically disgusted?",
+      "supporting_facts": [
+        "Star is physically near Marcus",
+        "Star reacts to something she sees with physical disgust or nausea"
+      ],
+      "contradicting_facts": [
+        "Star felt disgusted because of something she heard",
+        "Star was not reacting to anything she saw"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Did you speak while you were staying close to Marcus and Kyle?",
+      "supporting_facts": [
+        "Star stays close together with Marcus and Kyle",
+        "Star did not speak during the interaction with Marcus"
+      ],
+      "contradicting_facts": [
+        "Star spoke during the interaction with Marcus",
+        "Star communicated verbally while near Marcus and Kyle"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

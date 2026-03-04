@@ -1,0 +1,103 @@
+{
+  "character": "Ripley",
+  "qas": [
+    {
+      "question": "Did you take any physical action to respond to the threat in the corridor?",
+      "supporting_facts": [
+        "Ripley raised her arm to extend a stiletto, indicating offensive or defensive readiness",
+        "Ripley is observing the hallway, establishing situational awareness prior to action"
+      ],
+      "contradicting_facts": [
+        "You refrained from using any weapon or tool in response",
+        "You froze and did not perform any motor response"
+      ],
+      "final_score": 9.444444444444445
+    },
+    {
+      "question": "What did you notice about the environment inside the cell that concerned you?",
+      "supporting_facts": [
+        "You observed alien blood seeping through the machine in your surroundings",
+        "You are currently not outside the cell",
+        "You are experiencing physical or emotional discomfort"
+      ],
+      "contradicting_facts": [
+        "You remained on the ship without entering the cell",
+        "You did not observe any unusual substances in the environment"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you come into direct contact with an alien during this incident?",
+      "supporting_facts": [
+        "You were grabbed by an alien",
+        "You are experiencing physical or emotional discomfort as a result"
+      ],
+      "contradicting_facts": [
+        "You avoided all physical contact with aliens",
+        "Your discomfort was caused solely by environmental factors, not contact"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You fell into the water—what happened immediately after the fall?",
+      "supporting_facts": [
+        "you are not still in the air after the fall",
+        "you disappear beneath the surface of the water"
+      ],
+      "contradicting_facts": [
+        "you remained above the water after falling",
+        "you were still airborne after the impact"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were near the upended harvester during the confrontation—what was your physical position at that moment?",
+      "supporting_facts": [
+        "Ripley was hanging at an angle from the ceiling during the confrontation",
+        "Ripley was in close proximity to the upended harvester during the confrontation"
+      ],
+      "contradicting_facts": [
+        "Ripley was standing upright on the floor near the harvester",
+        "Ripley had full control of their body position without physical strain"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were moving ahead of the others during the climb—were you taking the lead in navigating the path?",
+      "supporting_facts": [
+        "Ripley is positioned ahead of the group during the climb",
+        "did not hesitate before creating an opening to proceed"
+      ],
+      "contradicting_facts": [
+        "Ripley waited for others to lead the way during the climb",
+        "Ripley paused to assess the route before advancing"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Were you disengaged from the people or events around you at that moment?",
+      "supporting_facts": [
+        "Ripley turned to Call, showing directed attention toward another individual",
+        "Ripley raised her arm to extend a stiletto, indicating purposeful action in the environment",
+        "Ripley is not still embedded in the wall, implying mobility and presence"
+      ],
+      "contradicting_facts": [
+        "You showed no response to the immediate social or physical context",
+        "You were isolated and did not perform any interactive movement"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do when you encountered the newborn?",
+      "supporting_facts": [
+        "You attempted to grab the newborn's tentacle",
+        "You took immediate physical action upon encountering the newborn"
+      ],
+      "contradicting_facts": [
+        "You avoided any physical interaction with the newborn",
+        "You showed no attempt to engage the newborn directly"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

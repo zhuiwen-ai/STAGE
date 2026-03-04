@@ -1,0 +1,2110 @@
+[
+  {
+    "id": "rel_ep_ep_c11bf0193a5c",
+    "subject_id": "ep_4ab2d478b5bc1e99",
+    "object_id": "ep_88bc9f8f4313542c",
+    "relation_type": "precedes",
+    "reason": "明道接近家珍并建立初步交流发生在对话的开始阶段，随后才提及排球队和校际联谊赛并发出邀请，叙事顺序上明确早于展示自信并邀请家珍参与未来活动的情节。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_955a55639fc2",
+    "subject_id": "ep_2180d2109de07f35",
+    "object_id": "ep_a5119d9185ad9bee",
+    "relation_type": "precedes",
+    "reason": "老朱完成上岗准备并确认菜单流程发生在发现排翅质量问题之前，因为准备和审阅菜单是初始步骤，而发现食材问题是在后续检查蒸笼时发生的，文本中事件顺序支持这一时间先后。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0778f13cc528",
+    "subject_id": "ep_6c674da38272ce30",
+    "object_id": "ep_f669b0956be63c15",
+    "relation_type": "precedes",
+    "reason": "展示漫画引发温情互动在叙事顺序上早于表达家庭接纳与身份认同，前者营造的温馨氛围为后者的情感表达提供了转折点，且两个情节均发生在scene_31中，存在明确的时间先后逻辑。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a6642f5d2b84",
+    "subject_id": "ep_2180d2109de07f35",
+    "object_id": "ep_37a0bf401e9c2179",
+    "relation_type": "precedes",
+    "reason": "老朱完成上岗准备并确认菜单流程后，领班才移交指挥权并退出厨房，文本中‘在确认老朱已全面接手后’明确表明前者完成是后者发生的前提，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8b7b79a47b13",
+    "subject_id": "ep_a5119d9185ad9bee",
+    "object_id": "ep_9734324d367d0844",
+    "relation_type": "causes",
+    "reason": "发现排翅质量问题并确认危机直接触发了老朱制定应急菜单并决策稳住场面的情节。描述中明确指出该情节‘触发后续应急响应’，且两个情节共享同一场合和文档，事件序列显示危机识别是决策行动的直接前提。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_352f9ef9dbe0",
+    "subject_id": "ep_6d4430fae6e8cbdc",
+    "object_id": "ep_c6fe3454c5537b68",
+    "relation_type": "precedes",
+    "reason": "老朱抵达并接管厨房指挥发生在其与老温前往蒸笼区评估后续任务之前，描述中明确指出后者是前一阶段准备工作的延续，表明清晰的叙事时序先后关系。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e61611c78f0c",
+    "subject_id": "ep_2180d2109de07f35",
+    "object_id": "ep_c6fe3454c5537b68",
+    "relation_type": "precedes",
+    "reason": "老朱完成上岗准备并确认菜单流程在时间顺序上先于他与老温前往蒸笼区评估后续任务。描述中明确指出后者是前一阶段准备工作的延续，且两个情节共享同一场合和文档上下文，支持叙事上的先后顺序。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a1fc5df1debc",
+    "subject_id": "ep_273952c99198c7e0",
+    "object_id": "ep_0d2b327036e58590",
+    "relation_type": "precedes",
+    "reason": "醉酒同行开启对话为后续老朱反击挑衅并化解情绪提供了情境起点，且从描述中的行进和对话发展逻辑可推断前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_39ca71186def",
+    "subject_id": "ep_9734324d367d0844",
+    "object_id": "ep_c6fe3454c5537b68",
+    "relation_type": "precedes",
+    "reason": "老朱制定应急菜单并决策稳住场面发生在老朱与老温前往蒸笼区评估后续任务之前，前者聚焦于危机决策，后者是该决策后对后续出餐流程的执行监督，二者在同一场合下按时间顺序衔接。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fb20592da841",
+    "subject_id": "ep_6f8b9e5b664c638c",
+    "object_id": "ep_d45b3286f982d36e",
+    "relation_type": "causes",
+    "reason": "查处并处置课堂情书事件直接引发了学生以‘催化剂’进行调侃的反应，文本明确指出在情书被查处后，学生随即以化学术语制造幽默并引发全班大笑，构成即时因果关系。",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1c7d868c7785",
+    "subject_id": "ep_1670136727da4716",
+    "object_id": "ep_e201303d2300e101",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在 scene_29，且‘通报锦荣到访并问候家人’在叙事顺序上先于‘讨论锦荣的新发型’，因为家宁是在确认锦荣到来并完成初步问候后才注意到其发型变化。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a3f558004e65",
+    "subject_id": "ep_9734324d367d0844",
+    "object_id": "ep_5949124940cd573d",
+    "relation_type": "causes",
+    "reason": "老朱制定应急菜单并决策稳住场面直接触发了老温组织团队执行新菜式，描述中明确指出'在老朱做出决策后，老温立即组织厨师团队'，表明该决策是执行行动的直接原因。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e254ca15c20d",
+    "subject_id": "ep_a5119d9185ad9bee",
+    "object_id": "ep_5949124940cd573d",
+    "relation_type": "causes",
+    "reason": "发现排翅质量问题并确认危机直接触发了老温组织团队执行新菜式的情节，因为原定菜式无法完成，必须启动应急方案。描述中明确指出该情节'触发后续应急响应'，而另一情节正是对这一响应的执行。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4141e11d0f60",
+    "subject_id": "ep_0d2b327036e58590",
+    "object_id": "ep_e8592cb20e2ef549",
+    "relation_type": "precedes",
+    "reason": "老朱反击挑衅并化解情绪发生在两人笑闹并肩离去之前，描述中显示前者是紧张互动的回应，后者是情绪缓和后的结果，且两个情节共享同一场景（scene_34），叙事顺序上前者先于后者。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bbe289158361",
+    "subject_id": "ep_6d4430fae6e8cbdc",
+    "object_id": "ep_9734324d367d0844",
+    "relation_type": "precedes",
+    "reason": "老朱抵达并接管厨房指挥发生在面对假翅危机之前，文本中描述的事件顺序显示他先进入厨房并接手指挥，随后才分析问题并制定应急菜单。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_20a32bc1dfe2",
+    "subject_id": "ep_37a0bf401e9c2179",
+    "object_id": "ep_c6fe3454c5537b68",
+    "relation_type": "precedes",
+    "reason": "领班移交指挥权并退出厨房发生在老朱与老温前往蒸笼区评估后续任务之前，文本中描述的职责转移为老朱后续行动提供了叙事上的时间顺序基础，且两个情节共享同一场合和文档背景，支持明确的先后顺序。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_94d6f9ebfb83",
+    "subject_id": "ep_6d4430fae6e8cbdc",
+    "object_id": "ep_37a0bf401e9c2179",
+    "relation_type": "precedes",
+    "reason": "老朱抵达并接管厨房指挥（ep_6d4430fae6e8cbdc）在时间顺序上先于领班移交指挥权并退出厨房（ep_37a0bf401e9c2179），因为移交行为发生在老朱全面接手之后，文本明确描述了这一先后顺序。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b82cfabea667",
+    "subject_id": "ep_6c674da38272ce30",
+    "object_id": "ep_88c822940fa9b1fd",
+    "relation_type": "contrasts_with",
+    "reason": "展示漫画引发温情互动营造了温馨的家庭氛围，而讨论家庭赡养压力与姐妹矛盾则揭示了家庭内部的紧张关系和冲突，两者在情感基调上形成明显对比，一个展现和谐，一个暴露矛盾。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a07ff707e510",
+    "subject_id": "ep_f0f4bd275dbd4309",
+    "object_id": "ep_3a169489a5b0e7e2",
+    "relation_type": "precedes",
+    "reason": "根据描述，家宁传递小芝芝迟到消息并引发钟国伦情绪反应后，才进行临别前交代物品归还并观察钟国伦反应。两个情节均发生在同一场景（scene_14__2），但情绪爆发后家宁才离开，表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_14__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_df21e860bf49",
+    "subject_id": "ep_6d4430fae6e8cbdc",
+    "object_id": "ep_a5119d9185ad9bee",
+    "relation_type": "precedes",
+    "reason": "老朱抵达并接管厨房指挥发生在发现排翅质量问题之前，文本中描述的事件顺序显示老朱先完成准备并接手厨房，随后老温报告排翅问题，且两个情节共享同一场合'圆山饭店金龙厅宴席'，支持其在时间线上的先后关系。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0b953a345935",
+    "subject_id": "ep_88c822940fa9b1fd",
+    "object_id": "ep_c2d001ac217405a9",
+    "relation_type": "elaborates",
+    "reason": "第一个情节讨论家珍和锦荣对家庭赡养压力及姐妹矛盾的交流，第二个情节在此基础上进一步探讨赡养责任的个人承担与方式差异，家珍表达将持续照顾父亲的决心，锦荣则比较父母的自理能力并质疑照顾方式，提供了更深层的反思和背景，扩展了前一情节的主题。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_24898456459e",
+    "subject_id": "ep_37a0bf401e9c2179",
+    "object_id": "ep_a5119d9185ad9bee",
+    "relation_type": "precedes",
+    "reason": "领班移交指挥权并退出厨房发生在老朱接手后，而发现排翅质量问题是由老朱在接手指挥权后亲自确认的。因此，移交指挥权在叙事顺序上早于发现食材危机，且两个情节共享同一场合'圆山饭店金龙厅宴席'，时间顺序明确。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b8f933614f12",
+    "subject_id": "ep_be42ed83b46f7a81",
+    "object_id": "ep_d8dc62e7b7ad5389",
+    "relation_type": "precedes",
+    "reason": "在朱家家庭聚餐（scene_21）中，老朱先表达对承担额外家庭责任的不满，随后发生关于煨鱼翅味道的争执。两个情节均发生在同一场合，且描述中事件序列显示前者在话语顺序上早于后者，支持'precedes'关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a105d31673a0",
+    "subject_id": "ep_8b26699c74ff2586",
+    "object_id": "ep_a7e6527201ed7956",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_12，但根据描述顺序和事件逻辑，'分享亲密时刻并交流近况'中的事件（如递水、轻抚背部、表达压力）在时间上先于'回应邀请并重申家庭义务'中的邀请与拒绝行为，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fb823bec30d6",
+    "subject_id": "ep_23d46911291a6b46",
+    "object_id": "ep_6b990cbb8143fa90",
+    "relation_type": "precedes",
+    "reason": "张姊妹劝说家珍参加团契并提及蔡弟兄的行为在叙事顺序上先于家珍表达对被物化声音的抗拒，二者发生在同一场景（教会团契练唱），且家珍的回应是对张姊妹劝说的直接反应，表明时间上的先后顺序明确。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_26973f722a3e",
+    "subject_id": "ep_2180d2109de07f35",
+    "object_id": "ep_9734324d367d0844",
+    "relation_type": "precedes",
+    "reason": "老朱完成上岗准备并确认菜单流程发生在面对假翅危机之前，是其投入工作的初始步骤；随后在危机出现后，他制定应急菜单并决策稳住场面。两个情节共享同一场合'圆山饭店金龙厅宴席'，且叙事顺序上存在明确先后：准备与审阅菜单在前，应对突发问题决策在后，由related_events中的动作序列支持。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2038e7e6e30e",
+    "subject_id": "ep_88c822940fa9b1fd",
+    "object_id": "ep_968f261e9067a81a",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述家珍和锦荣讨论家庭赡养压力及锦凤与母亲的冲突，第二个情节中家珍基于同一情境提出暂缓锦凤回归的建议，是对前一情节中问题的进一步回应和扩展，提供了应对矛盾的具体策略，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_65c2de586ba9",
+    "subject_id": "ep_d8dc62e7b7ad5389",
+    "object_id": "ep_db1130046b12492b",
+    "relation_type": "precedes",
+    "reason": "争执煨鱼翅的味道引发紧张气氛中，老朱因不满起身返回厨房；随后在协调饭桌对话顺序中，老朱已返回座位，且家珍与家宁开始互动。两个情节均发生在同一场合'朱家家庭聚餐'中，且事件序列显示前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a44737e2a6c2",
+    "subject_id": "ep_d3b39665c3bf54df",
+    "object_id": "ep_d8dc62e7b7ad5389",
+    "relation_type": "precedes",
+    "reason": "主体情节'开始家庭聚餐并进行餐前祷告'在叙事顺序上先于客体情节'争执煨鱼翅的味道引发紧张气氛'，两者均发生在同一场合'朱家家庭聚餐'中，且描述中显示祷告结束后老朱试图讲话时被家倩打断，从而引发争执，时间顺序明确。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0a49a6853dab",
+    "subject_id": "ep_968f261e9067a81a",
+    "object_id": "ep_f669b0956be63c15",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节涉及因家庭矛盾而建议暂缓成员回归，体现出紧张和回避；第二个情节则展现家庭接纳与身份认同的温情氛围，强化非血缘成员的归属感。两者在情感基调和家庭互动状态上形成明显对比，一个强调冲突回避，另一个强调情感融合。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_223f7c428c05",
+    "subject_id": "ep_be42ed83b46f7a81",
+    "object_id": "ep_db1130046b12492b",
+    "relation_type": "precedes",
+    "reason": "老朱表达不满并拒绝额外家庭责任的情节涉及他对家倩提议的反应和瞪眼，随后在老朱返回座位后发生家珍和家宁协调发言顺序的情节。两个情节共享同一场合'朱家家庭聚餐'，且相关事件在scene_21中按顺序展开，表明前者在叙事时间上先于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b1d021f30a43",
+    "subject_id": "ep_273952c99198c7e0",
+    "object_id": "ep_e8592cb20e2ef549",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_34）的厨房走廊，主体情节描述老朱和老温醉酒走出并开始行走，为对话提供起点；客体情节描述两人笑闹并肩离去，包含大笑、搭肩和唱歌等行为，表明互动已进入更轻松的阶段。根据叙事顺序，醉酒同行开启对话在前，笑闹并肩离去在后，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d55ac25034e9",
+    "subject_id": "ep_23d46911291a6b46",
+    "object_id": "ep_9f55959ef482c621",
+    "relation_type": "precedes",
+    "reason": "劝说家珍参加团契并提及蔡弟兄发生在教会团契练唱的语境中，而结束接送并表达感谢是张姊妹载家珍回家并在巷口下车的事件，逻辑上劝说行为发生在接送结束之前，且两个情节共享同一场景（scene_17）和场合（教会团契练唱），但劝说在叙事顺序上先于接送完成。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_35fae70ea08d",
+    "subject_id": "ep_5818c66fc7c2bbfd",
+    "object_id": "ep_c7c020a7f3d2d34f",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述老温醉酒后的情绪释放及老朱的冷静指认，客体情节进一步展开两人在饮酒中的深层对话，涉及女儿婚恋困境与亲情疏离。客体情节在相同场景（scene_33）中扩展了主体情节的情感基调，提供了更丰富的背景和情感细节，因此主体情节为客体情节的情感状态提供了铺垫，客体对主体进行了内容上的深化和补充。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ba53228c7c59",
+    "subject_id": "ep_6c674da38272ce30",
+    "object_id": "ep_75d71a487a87c86d",
+    "relation_type": "precedes",
+    "reason": "展示漫画引发温情互动发生在锦荣提出回家之前，根据场景顺序（scene_31）中的事件流，温情互动为后续结束聚会并准备回家的情节提供情感铺垫，且两个情节共享同一场景编号，表明其在叙事时间上的连续性，前者在顺序上明确早于后者。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_24f1c5f8f9d3",
+    "subject_id": "ep_88c822940fa9b1fd",
+    "object_id": "ep_f669b0956be63c15",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均发生在同一场景（scene_31）中，围绕家庭关系展开，但基调和焦点形成对比：一个讨论家庭赡养压力与姐妹矛盾，充满紧张与责任负担；另一个表达家庭接纳与身份认同，强调温情与归属感。二者并置突显了家庭关系中冲突与和解的对比。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_887ac6443f66",
+    "subject_id": "ep_5818c66fc7c2bbfd",
+    "object_id": "ep_f49ba89672cc59f7",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均发生在同一场景（scene_33）中，展现老温与老朱之间情感互动的不同面向：前者聚焦醉酒情绪释放与关系张力，后者转向对老朱职业尊严的深层慰藉。两者在情感基调上形成对比——前者是外露、轻松中带紧张的互动，后者是内省、温情且富有哲思的扶持，文本通过并置强化了人物关系的多维性。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_d32bfc7826ab",
+    "subject_id": "ep_f0f4bd275dbd4309",
+    "object_id": "ep_7d00547108c4b646",
+    "relation_type": "precedes",
+    "reason": "传递小芝芝迟到消息并引发钟国伦情绪反应发生在先，直接触发了钟国伦的情绪爆发；随后家宁解释误会并道歉以缓和气氛，作为对情绪反应的后续应对。文本中事件顺序明确，且两情节共享同一场景（scene_14__2），支持时间上的先后关系。",
+    "source_documents": [
+      "scene_14__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ed4bce4de371",
+    "subject_id": "ep_d3b39665c3bf54df",
+    "object_id": "ep_db1130046b12492b",
+    "relation_type": "precedes",
+    "reason": "主体情节'开始家庭聚餐并进行餐前祷告'包含老朱端出炸响铃并准备讲话，以及家珍带领祷告的事件；客体情节'协调饭桌对话顺序'发生在老朱返回座位后，家珍与家宁同时开口并谦让发言。根据相关事件的时间顺序，餐前祷告完成后才进入饭桌对话协调阶段，因此主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_72dac2ed821d",
+    "subject_id": "ep_a5119d9185ad9bee",
+    "object_id": "ep_c6fe3454c5537b68",
+    "relation_type": "precedes",
+    "reason": "主体情节'发现排翅质量问题并确认危机'中，老朱确认食材劣质并引发团队关注，构成危机触发点；客体情节'老朱与老温前往蒸笼区评估后续任务'描述其随后走向蒸笼区域监督出餐，是应对危机后的延续行动。两个情节共享同一场合，且客体情节在叙事顺序上紧随主体情节之后，体现为对前一危机的响应，因此主体情节在话语和叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_be3ba48632b9",
+    "subject_id": "ep_1670136727da4716",
+    "object_id": "ep_1fdc5f6d92b354cf",
+    "relation_type": "precedes",
+    "reason": "通报锦荣到访并问候家人发生在厨房内的互动场景中，而结束厨房互动并转移活动场所涉及家宁带珊珊离开厨房，标志着该场景的收尾。根据描述，前者构成迎接与问候的叙事单元，后者推动叙事转向个人活动，且两个情节共享同一场景编号（scene_29），表明它们按顺序发生。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a9c2610f47ab",
+    "subject_id": "ep_6d4430fae6e8cbdc",
+    "object_id": "ep_2180d2109de07f35",
+    "relation_type": "precedes",
+    "reason": "老朱抵达并接管厨房指挥（ep_6d4430fae6e8cbdc）包含他进入主厨房、观察作业状态等行动，之后才进行洗手、换衣、审阅菜单等上岗准备动作（ep_2180d2109de07f35）。相关事件的时序表明，接管指挥是准备工作的前提，且描述中‘迅速完成准备并从领班手中接过指挥权’支持抵达与接管在前，上岗准备在后。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8aa3505e93d4",
+    "subject_id": "ep_968f261e9067a81a",
+    "object_id": "ep_c2d001ac217405a9",
+    "relation_type": "elaborates",
+    "reason": "第一个情节聚焦于家珍建议暂缓锦凤回归以缓解家庭矛盾，体现对当前家庭紧张关系的应对；第二个情节扩展了赡养议题，通过家珍表达将终身照顾父亲、锦荣比较父母自理能力及质疑照顾方式，进一步揭示双方对长期赡养责任的态度与深层思考。第二个情节在相同场景（scene_31）中深化了第一个情节所触及的家庭责任主题，提供了更广泛的背景和情感复杂性，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_bfd8a6ca7a8b",
+    "subject_id": "ep_88c822940fa9b1fd",
+    "object_id": "ep_75d71a487a87c86d",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一文档（doc_30）的同一场景（scene_31）中。根据描述，讨论家庭赡养压力与姐妹矛盾的情节涉及家珍和锦荣在院子里聊天嗑瓜子，而结束聚会并准备回家的情节则包括锦荣提出该回家了以及推辞汤包等告别行为。叙事逻辑和日常情境表明，谈话内容发生在聚会结束前，因此‘讨论家庭赡养压力与姐妹矛盾’在话语顺序和事件发展上早于‘结束聚会并准备回家’。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a8662e44cf13",
+    "subject_id": "ep_6ad9b3ab284932d5",
+    "object_id": "ep_8b26699c74ff2586",
+    "relation_type": "precedes",
+    "reason": "完成亲密行为的高潮在时间上先于分享亲密时刻并交流近况，因为性高潮标志着亲密行为的结束，随后发生的递水、抚摸和对话是典型的性行为后互动，且相关事件（如scene_12）在叙述顺序上紧随高潮之后。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0eb5e48b055c",
+    "subject_id": "ep_14a7ef522d38c59e",
+    "object_id": "ep_30c3b8302336edc7",
+    "relation_type": "elaborates",
+    "reason": "主体情节‘提出父亲未来生活的情感需求’中家倩的玩笑被包含在客体情节‘争论父母一代的爱与婚姻模式’的相关事件中，表明该建议成为后续争论的组成部分，从而为主体情节提供了关于家庭对婚姻观念分歧的更广泛背景。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5aff7521b9eb",
+    "subject_id": "ep_0077847c7394e677",
+    "object_id": "ep_68b0a0bde2fb47dd",
+    "relation_type": "precedes",
+    "reason": "李凯迟到并引发互动发生在会议开始阶段，随后在会议进行中才出现家倩与李凯目光相遇的微妙情绪互动，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4236ade32f06",
+    "subject_id": "ep_27879c3f6cf6bb40",
+    "object_id": "ep_1fdc5f6d92b354cf",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在 scene_29，且‘回应家庭琐事与日常抱怨’涉及珊珊在厨房中的初始互动，随后‘结束厨房互动并转移活动场所’描述了离开厨房的行动，叙事顺序上前者紧接后者，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_70ea7bff8ad3",
+    "subject_id": "ep_9f55959ef482c621",
+    "object_id": "ep_b04fae8a27251bb6",
+    "relation_type": "precedes",
+    "reason": "根据描述，家珍在巷口下车并向张姊妹道谢后，张姊妹才在骑车离开时抱怨介绍对象困难，因此‘结束接送并表达感谢’在叙事顺序上先于‘张姊妹抱怨介绍对象困难’。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_034dd1f3d03c",
+    "subject_id": "ep_0c7e1ab7ded7d0b3",
+    "object_id": "ep_b9dc6c47275ce9f4",
+    "relation_type": "precedes",
+    "reason": "家倩汇报航线竞争策略在会议中先发生，随后总经理介绍李凯并宣布其负责航线谈判，两个情节均发生在同一会议场景（scene_43）中，且描述顺序和事件流表明前者在叙事和话语顺序上早于后者。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e0fc15b8ac14",
+    "subject_id": "ep_2180d2109de07f35",
+    "object_id": "ep_5949124940cd573d",
+    "relation_type": "causes",
+    "reason": "老朱完成上岗准备并确认菜单流程后，老温立即组织团队执行新菜式，描述中明确指出‘在老朱做出决策后，老温立即组织厨师团队’，表明前一情节直接触发了后一情节的执行，具有明确的因果时序和动作延续性。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0902fd705fcf",
+    "subject_id": "ep_faecd292c601a3c0",
+    "object_id": "ep_e8592cb20e2ef549",
+    "relation_type": "precedes",
+    "reason": "根据描述，老温询问食经并引发死亡玩笑后，两人在紧张与玩笑交织中大笑并肩离去。这表明‘老温询问食经并引发死亡玩笑’在叙事顺序上先于‘两人笑闹并肩离去’，且相关事件均发生在scene_34，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b32a596fdefa",
+    "subject_id": "ep_23d46911291a6b46",
+    "object_id": "ep_b04fae8a27251bb6",
+    "relation_type": "precedes",
+    "reason": "根据描述，张姊妹先劝说家珍参加团契并提及蔡弟兄，随后在骑车离开时抱怨介绍对象困难。两个情节发生在同一场景（scene_17），但劝说行为在先，抱怨在后，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_68bc02440329",
+    "subject_id": "ep_d50f801f44018b54",
+    "object_id": "ep_e58f75305c1dbef5",
+    "relation_type": "precedes",
+    "reason": "根据描述，班长翻找情书引发围观发生在家珍完成课堂教学并结束课程之后，因为家珍一离开教室该事件就发生，而家珍的离开是下课的结果。因此，'完成课堂教学并结束课程'在叙事顺序上先于'班长翻找情书引发围观'。",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8c035e42d933",
+    "subject_id": "ep_273952c99198c7e0",
+    "object_id": "ep_faecd292c601a3c0",
+    "relation_type": "precedes",
+    "reason": "‘醉酒同行开启对话’描述了老朱和老温从厨房走出并行走在长廊上，为后续对话提供情境起点；而‘老温询问食经并引发死亡玩笑’发生在同一场景（scene_34）中后续的停顿对话环节，文本明确支持前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ab40aa717561",
+    "subject_id": "ep_5949124940cd573d",
+    "object_id": "ep_c6fe3454c5537b68",
+    "relation_type": "precedes",
+    "reason": "老温组织团队执行新菜式的情节描述了从决策到执行的过渡，确保宴席继续推进；随后老朱与老温前往蒸笼区评估后续任务，该情节被明确描述为前一阶段准备工作的延续。因此，主体情节在叙事顺序上早于客体情节，且文本支持这一时间先后关系。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_34f525baafd8",
+    "subject_id": "ep_a89a76aa9a1a5b90",
+    "object_id": "ep_e025a007f73556b2",
+    "relation_type": "precedes",
+    "reason": "根据描述，老朱在公车站偶遇珊珊并关心她的早餐与午餐安排，发生在珊珊匆忙结束早餐挤上公车之前。文本中，老朱与珊珊的互动（包括询问、邀请）在叙事顺序上先于珊珊将汤包塞进口袋并挤上车的动作，且两个情节共享同一场景（scene_38），但事件序列显示关心安排在上车前发生。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c5d05ad4756f",
+    "subject_id": "ep_5b0a9ef5c3da778e",
+    "object_id": "ep_b9dc6c47275ce9f4",
+    "relation_type": "precedes",
+    "reason": "在航空公司高级主管会议中，总经理儿子质疑飞机数量并被斥责离席后，总经理尴尬解释并恢复秩序，随后才介绍李凯并宣布其负责航线谈判。两个情节均发生在同一场合（scene_43），且描述中的动作顺序表明‘处理总经理儿子的干扰’在叙事时间上先于‘引入李凯主导航线谈判’。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a0677c263bb8",
+    "subject_id": "ep_5b1444375af48983",
+    "object_id": "ep_b7c1e1e029ed797c",
+    "relation_type": "precedes",
+    "reason": "老朱叫醒家宁发生在清晨六点左右，而老朱出门前叮嘱家人并离开是在准备出门时的后续行为，根据常理和描述顺序，叫醒家宁的情节在时间上早于老朱离开家的情节，因此‘叫醒家宁起床’在叙事顺序上先于‘老朱出门前叮嘱家人并离开’。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_21__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_187f1c3eee23",
+    "subject_id": "ep_a89a76aa9a1a5b90",
+    "object_id": "ep_b53577e4eaefde77",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中老朱关心珊珊的饮食安排并邀请她吃饭，表现出他对女儿生活细节的关切；第二个情节中老朱送便当到学校，进一步体现他对珊珊日常饮食的持续照顾。第二个情节通过具体行动扩展了第一个情节中表达的父爱和关怀，提供了更深入的行为体现，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_936cb99400d4",
+    "subject_id": "ep_5818c66fc7c2bbfd",
+    "object_id": "ep_e8592cb20e2ef549",
+    "relation_type": "precedes",
+    "reason": "情节 '醉酒后的情绪释放与现实指认' 发生在场景 scene_33，而 '两人笑闹并肩离去' 发生在 scene_34，文档中场景顺序表明前者在叙事顺序上早于后者，且情绪释放与指认后自然过渡到笑闹离开，时间顺序明确。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_51944256a6cb",
+    "subject_id": "ep_a0d187d6cef06820",
+    "object_id": "ep_41096ac3d6c9ab7d",
+    "relation_type": "precedes",
+    "reason": "处理草鱼以备烹饪是食材准备的初始步骤，而制作多道传统菜肴并调控火候涉及后续的系统性烹饪操作。相关事件在scene_3中按顺序呈现，且食材处理逻辑上早于复杂烹饪流程，因此该关系在叙事和操作顺序上得到明确支持。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_751285b1c75b",
+    "subject_id": "ep_c7c020a7f3d2d34f",
+    "object_id": "ep_3689f71085ab676f",
+    "relation_type": "precedes",
+    "reason": "饮酒间谈论女儿的婚恋困境与亲情疏离发生在老朱警告老温不得嘲笑女儿信仰之后，随后两人以戏谑动作收束争执，叙事顺序上前者早于后者，且相关事件均发生在scene_33中，具有明确的时间先后。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3cc782b59714",
+    "subject_id": "ep_342a9009bf50e835",
+    "object_id": "ep_db1130046b12492b",
+    "relation_type": "precedes",
+    "reason": "老朱接神秘电话后突然离席发生在饭桌对话协调之前，根据描述，老朱离席后返回座位才出现家珍和家宁协调发言顺序的情节，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6ad7bd5616d2",
+    "subject_id": "ep_c7c020a7f3d2d34f",
+    "object_id": "ep_e8592cb20e2ef549",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间和场景顺序，'饮酒间谈论女儿的婚恋困境与亲情疏离'（scene_33）发生在'两人笑闹并肩离去'（scene_34）之前。scene_33中的对话和情绪张力在scene_34中得到缓解，表现为笑声和并肩离开，表明叙事上的先后顺序。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5f603be71cd5",
+    "subject_id": "ep_3689f71085ab676f",
+    "object_id": "ep_e8592cb20e2ef549",
+    "relation_type": "precedes",
+    "reason": "根据描述，'以戏谑动作收束争执'发生在老朱与老温的模拟争执之后，而'两人笑闹并肩离去'紧随其后，表现为大笑并搭肩离开，表明前者在叙事顺序上直接早于后者。文档ID的递进（doc_32到doc_33）也支持这一时间顺序。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cae64a195c39",
+    "subject_id": "ep_273952c99198c7e0",
+    "object_id": "ep_3689f71085ab676f",
+    "relation_type": "precedes",
+    "reason": "根据描述，'醉酒同行开启对话'为后续的对话和情感交流提供了情境起点，而'以戏谑动作收束争执'发生在对话的结尾部分，用以化解紧张。因此，'醉酒同行开启对话'在叙事顺序上早于'以戏谑动作收束争执'，形成对话的起始与结束阶段。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b48c4024f8fa",
+    "subject_id": "ep_1ee8aae537c6baae",
+    "object_id": "ep_c6fe3454c5537b68",
+    "relation_type": "precedes",
+    "reason": "主体情节‘确认并定版龙凤呈祥的制作方案’发生在烹饪现场的最终定版与制作完成阶段，客体情节‘老朱与老温前往蒸笼区评估后续任务’涉及转向蒸笼区监督后续炖菜流程。根据描述，前者是当前阶段的收尾工作，后者是接下来对后续任务的推进，体现出明确的叙事时序推进，因此主体情节在话语顺序上先于客体情节。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fac056443f57",
+    "subject_id": "ep_3d91d53a4e20024a",
+    "object_id": "ep_be42ed83b46f7a81",
+    "relation_type": "precedes",
+    "reason": "家倩宣布购房计划并计划搬出发生在老朱表达不满并拒绝额外家庭责任之前，两个情节均发生在同一场合‘朱家家庭聚餐 (scene_21)’中，且描述中的事件顺序表明家倩的提议直接引发老朱的反应，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8697e0af39dc",
+    "subject_id": "ep_d8dc62e7b7ad5389",
+    "object_id": "ep_342a9009bf50e835",
+    "relation_type": "precedes",
+    "reason": "在朱家家庭聚餐中，争执煨鱼翅的味道引发紧张气氛的情节发生在老朱接神秘电话后突然离席之前。描述中显示老朱在争执中起身返回厨房，之后才在欲言又止时被电话打断并离席，表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6454e95c43b1",
+    "subject_id": "ep_41096ac3d6c9ab7d",
+    "object_id": "ep_421a7ad07b5e639a",
+    "relation_type": "elaborates",
+    "reason": "接听电话并讨论清蒸鱼的做法这一情节中，老朱在通话中强调烹饪细节，特别是不应对鱼肉抹盐，这补充说明了他在制作多道传统菜肴时对火候和工艺的精准掌控，从而扩展了主体情节中体现的专业烹饪实践。两个情节共享同一场合，且该通话行为未中断主烹饪流程，而是对其理念的进一步阐释。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_cb259e769659",
+    "subject_id": "ep_273952c99198c7e0",
+    "object_id": "ep_f49ba89672cc59f7",
+    "relation_type": "precedes",
+    "reason": "‘醉酒同行开启对话’描述了老朱和老温从厨房走出并行走在长廊上，为后续的对话提供情境起点，而‘借贝多芬类比慰藉味觉退化’是他们在行走过程中或之后发生的具体对话内容。根据叙事顺序，开启对话的情境在前，具体展开的慰藉对话在后，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b18f0c7c9ac9",
+    "subject_id": "ep_9734324d367d0844",
+    "object_id": "ep_1ee8aae537c6baae",
+    "relation_type": "precedes",
+    "reason": "老朱制定应急菜单并决策稳住场面（ep_9734324d367d0844）发生在确认并定版龙凤呈祥的制作方案（ep_1ee8aae537c6baae）之前。根据描述，老朱先提出改做'龙凤呈祥'的替代方案以应对假翅危机，随后在烹饪现场完成该菜品的定版与制作，二者在叙事顺序上存在明确的先后关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_81f22ee9466d",
+    "subject_id": "ep_2180d2109de07f35",
+    "object_id": "ep_1ee8aae537c6baae",
+    "relation_type": "precedes",
+    "reason": "老朱完成上岗准备并确认菜单流程（ep_2180d2109de07f35）发生在圆山饭店金龙厅宴席的准备阶段，而确认并定版龙凤呈祥的制作方案（ep_1ee8aae537c6baae）涉及具体菜品的最终确定和制作，属于后续执行环节。根据叙事顺序，准备工作在菜品定版之前完成，且两个情节共享同一宴席上下文，支持前者在时间顺序上先于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d8f294de3d18",
+    "subject_id": "ep_a5119d9185ad9bee",
+    "object_id": "ep_1ee8aae537c6baae",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，'发现排翅质量问题并确认危机'（ep_a5119d9185ad9bee）发生在宴席筹备早期，揭示了食材危机并触发应急响应，而'确认并定版龙凤呈祥的制作方案'（ep_1ee8aae537c6baae）是后续在烹饪现场完成的菜品定型与制作。文本中两个情节均发生在圆山饭店的宴席准备过程中，且危机解决后才可能进入正式菜品定版，因此存在明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_46c0aedc44d6",
+    "subject_id": "ep_d3b39665c3bf54df",
+    "object_id": "ep_342a9009bf50e835",
+    "relation_type": "precedes",
+    "reason": "根据描述，'开始家庭聚餐并进行餐前祷告'发生在饭局开始阶段，老朱端菜并进行祷告；而'老朱接神秘电话后突然离席'发生在聚餐过程中，是在祷告之后的后续行为。两个情节共享同一场合'朱家家庭聚餐 (scene_21)'，且叙事顺序明确：先开始聚餐，后接电话离席。因此，主体情节在叙事时间上早于客体情节。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ce87f921022f",
+    "subject_id": "ep_273952c99198c7e0",
+    "object_id": "ep_5818c66fc7c2bbfd",
+    "relation_type": "precedes",
+    "reason": "根据描述，'醉酒同行开启对话'发生在长廊行走过程中，为后续对话和情感交流提供起点；而'醉酒后的情绪释放与现实指认'涉及老温在饮酒中情绪释放和老朱指出其醉态，事件发生在同一场景链中但情绪互动更深入。related_events显示前者关联scene_34，后者关联scene_33，但scene_33在文档顺序上早于scene_34，存在潜在时序矛盾。然而，'开启对话'作为情境起点的叙事功能暗示其在逻辑时序上先于情绪释放，因此判断为precedes，置信度略降。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c59c777a309a",
+    "subject_id": "ep_273952c99198c7e0",
+    "object_id": "ep_c7c020a7f3d2d34f",
+    "relation_type": "precedes",
+    "reason": "‘醉酒同行开启对话’描述老朱和老温从厨房走出并行走在长廊上，为后续对话提供情境起点，而‘饮酒间谈论女儿的婚恋困境与亲情疏离’发生在工作台边的饮酒聊天中，且相关事件(scene_33)在文档中早于长廊行走(scene_34)，因此叙事顺序上后者实际先发生；但根据情节描述的逻辑流程，长廊行走作为对话的开启，暗示了时间上的后续发展，结合‘开启对话’的命名，可推断该情节在话语顺序上紧接并早于深入谈论婚恋与亲情的内容，故支持precedes关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c1dd502107e8",
+    "subject_id": "ep_23d46911291a6b46",
+    "object_id": "ep_2c3ac8b632428baa",
+    "relation_type": "precedes",
+    "reason": "张姊妹劝说家珍参加团契并提及蔡弟兄后，随即离开，之后家珍低声回应拒绝相亲安排。两个情节发生在同一场景（scene_17），且叙述顺序表明前者在时间上先于后者，具有明确的先后叙事顺序。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_44d41685c32a",
+    "subject_id": "ep_3ca89718b5854537",
+    "object_id": "ep_c7df7153b0a3ee6b",
+    "relation_type": "precedes",
+    "reason": "创作并分享朱的武装漫画发生在孩子追逐与坚持传递漫画之前，家宁完成漫画绘制后，珊珊才坚持要将漫画拿去给朱爷爷看并跑向院子，叙事顺序明确。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1d9a2c6e24e7",
+    "subject_id": "ep_2c3ac8b632428baa",
+    "object_id": "ep_6b990cbb8143fa90",
+    "relation_type": "elaborates",
+    "reason": "家珍低声回应拒绝相亲安排与她表达对被物化声音的抗拒均发生在同一场景（scene_17），前者体现她对相亲安排的无奈，后者进一步阐明她拒绝的深层原因是对真诚关系的期待，而非仅被外在特质吸引，因此后者为前者提供了动机层面的扩展说明。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_cca170389c8f",
+    "subject_id": "ep_3ca89718b5854537",
+    "object_id": "ep_5c86699fc0c1cc04",
+    "relation_type": "precedes",
+    "reason": "创作并分享朱的武装漫画发生在家中电脑前，而家宁追回被抢的漫画发生在院子里，且涉及同一漫画的后续争夺。描述中显示漫画先被创作，随后被珊珊拿走引发追逐，因此在叙事顺序上，创作情节在前，追回情节在后。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3158ca361bbe",
+    "subject_id": "ep_0232c3a67456307e",
+    "object_id": "ep_dce966c607769089",
+    "relation_type": "contrasts_with",
+    "reason": "主体情节描述学生集体进行法文听力复诵练习，强调学习活动的规范性和目标性；客体情节描述家宁在同一课堂中分心走神，表现出与集体活动不一致的个人状态。两者在行为专注与分心之间形成并置对比，突显个体与集体、投入与疏离的反差。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_7ba6d1228b27",
+    "subject_id": "ep_113768bb17ec4ba8",
+    "object_id": "ep_5c86699fc0c1cc04",
+    "relation_type": "elaborates",
+    "reason": "家倩在工作间隙观察家庭互动这一情节通过她的视角呈现了家宁追回被抢漫画的场景，提供了观察角度和上下文背景，从而扩展和丰富了对家宁与珊珊互动事件的理解。描述中明确指出家倩的视角串联起外部事件，表明该情节在功能上为客体情节提供补充信息。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_bf770248e7dc",
+    "subject_id": "ep_1fdc5f6d92b354cf",
+    "object_id": "ep_3ca89718b5854537",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述家宁带珊珊离开厨房，结束厨房内的家庭互动；第二个情节发生在电脑前，珊珊坐在家宁腿上共同参与漫画创作。根据场景顺序（scene_29 先于 scene_30）和活动的自然流程，离开厨房是前往下一活动的前提，因此该情节在叙事顺序上明确早于创作漫画的情节。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bf19ef8b9678",
+    "subject_id": "ep_6c674da38272ce30",
+    "object_id": "ep_5c86699fc0c1cc04",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'展示漫画引发温情互动'发生在scene_31，而'家宁追回被抢的漫画'发生在scene_32，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_716a8a838e3b",
+    "subject_id": "ep_3d9876c02ac79eb9",
+    "object_id": "ep_a54198f8d2b1761d",
+    "relation_type": "precedes",
+    "reason": "根据描述，雷蒙将家倩送达并离开后，家倩才进入朱家屋内。两个情节均发生在scene_19，且事件顺序显示‘完成接送并告别’在‘进入家中’之前，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eba5fcd94422",
+    "subject_id": "ep_dbe5c9da0eef0a27",
+    "object_id": "ep_e793dfaa92c11b9a",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述家珍因家倩搬离而情绪低落及家倩表达同住困境，客体情节中家宁通过比较搬家与结婚来劝慰家珍，进一步解释家庭结构变化的合理性，是对前一情节情感反应的延伸与理性补充，提供了应对情绪波动的解释性背景。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1c0710e4e3d2",
+    "subject_id": "ep_f23069af25bf4be8",
+    "object_id": "ep_bb49f0ace586774e",
+    "relation_type": "precedes",
+    "reason": "取菜备用是为后续烹饪做准备的动作，逻辑上发生在烹制菜肴之前，且描述中指出该行为可能是为了后续的食物准备，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_6__2_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9d3bc55b0363",
+    "subject_id": "ep_0077847c7394e677",
+    "object_id": "ep_b9dc6c47275ce9f4",
+    "relation_type": "precedes",
+    "reason": "李凯迟到并引发互动发生在总经理介绍其业绩并委以航线谈判职责之前，根据会议流程的自然顺序和事件描述的时间连贯性，前者在叙事上先于后者。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_efe0d89e65d6",
+    "subject_id": "ep_1fdc5f6d92b354cf",
+    "object_id": "ep_c7df7153b0a3ee6b",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述家宁带珊珊离开厨房，结束厨房内的家庭互动；第二个情节描述珊珊跑向院子并坚持传递漫画，家宁追上去阻止。从场景发展看，离开厨房是进入院子的前提，且文档ID（doc_28到doc_30）和相关事件的时间顺序支持该叙事流向。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2281d0df0c86",
+    "subject_id": "ep_abf002a4cd3cb201",
+    "object_id": "ep_74d21915c6806d2a",
+    "relation_type": "elaborates",
+    "reason": "小芝芝拒绝代班并透露报复计划为家宁劝议延长对钟国伦的惩罚提供了动机背景，说明她为何愿意参与延长惩罚的玩笑，因此前者扩展了后者的心理动因和上下文。",
+    "source_documents": [
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_52ed0c677295",
+    "subject_id": "ep_1670136727da4716",
+    "object_id": "ep_27879c3f6cf6bb40",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在 scene_29，且第一个情节描述锦荣到访并问候家人，第二个情节紧接着描述珊珊进入厨房抱怨煎鱼事件，叙事顺序上前者先发生，构成迎接之后的家庭日常互动，时间顺序明确。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1f19defdf1e2",
+    "subject_id": "ep_88c822940fa9b1fd",
+    "object_id": "ep_fb7f9b928604e221",
+    "relation_type": "elaborates",
+    "reason": "两个情节均发生在同一场景（scene_31）中，家珍和锦荣的对话从家庭赡养压力与姐妹矛盾转向锦荣的离婚官司及私家侦探跟踪，后者为前者的情感和家庭冲突背景提供了更深层的个人困境扩展，构成对家庭关系压力主题的进一步阐述。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8c8f4df89cb7",
+    "subject_id": "ep_6d4430fae6e8cbdc",
+    "object_id": "ep_5949124940cd573d",
+    "relation_type": "precedes",
+    "reason": "老朱抵达并接管厨房指挥发生在老温组织团队执行新菜式之前，因为老朱的接管为后续的应急执行提供了前提，且描述中明确指出老温是在老朱做出决策后才组织团队，表明清晰的叙事时序。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d790f638ea46",
+    "subject_id": "ep_7aeb336613cc681c",
+    "object_id": "ep_3a169489a5b0e7e2",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，家宁与国伦在安全岛相遇并交谈（ep_7aeb336613cc681c）发生在安全岛场景中，而家宁临别前交代物品归还并观察钟国伦反应（ep_3a169489a5b0e7e2）发生在后续的离开场景中，且后者描述中‘准备离开时’和‘最后观察’等措辞暗示其时间位置在前一互动之后，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d04023ff02a4",
+    "subject_id": "ep_6ad9b3ab284932d5",
+    "object_id": "ep_3d9876c02ac79eb9",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，家倩与雷蒙在雷蒙公寓完成亲密行为的高潮（ep_6ad9b3ab284932d5）发生在雷蒙送家倩到朱家门口并告别（ep_3d9876c02ac79eb9）之前，文本中两个情节的时间顺序明确，前者为私密场合的结束，后者为接送任务的完成，具有清晰的先后关系。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9e62280aa214",
+    "subject_id": "ep_37a0bf401e9c2179",
+    "object_id": "ep_5949124940cd573d",
+    "relation_type": "precedes",
+    "reason": "领班移交指挥权并退出厨房发生在老朱接手之后，而老温组织团队执行新菜式是在老朱做出决策之后。因此，指挥权移交在叙事顺序上早于新菜式的执行，两者均服务于宴席的连续运行，且无证据表明存在直接因果或对比关系。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_988de6fd1ede",
+    "subject_id": "ep_6c674da38272ce30",
+    "object_id": "ep_c7df7153b0a3ee6b",
+    "relation_type": "precedes",
+    "reason": "根据描述，'展示漫画引发温情互动'发生在锦荣和家珍看到漫画并相视而笑的场景中，而'孩子追逐与坚持传递漫画'紧随其后，珊珊跑向院子试图将漫画给朱爷爷看，家宁追上去阻止。两个情节共享scene_31中的连续动作，且展示漫画的行为先于追逐发生，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_da08adfdd115",
+    "subject_id": "ep_7aeb336613cc681c",
+    "object_id": "ep_f0f4bd275dbd4309",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述家宁与国伦在安全岛相遇并交谈，涉及对小芝芝是否会赴约的讨论；第二个情节则具体呈现家宁向国伦传递小芝芝将晚一小时下班的消息，并引发其情绪爆发。第二个情节在信息上扩展了第一个情节中未完全揭示的关键细节（即迟到的具体原因和国伦的强烈反应），提供了更深层的情感背景，因此构成 elaborates 关系，方向为 ep_7aeb336613cc681c 被 ep_f0f4bd275dbd4309 所扩展。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_14__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_436e606b63ba",
+    "subject_id": "ep_6b990cbb8143fa90",
+    "object_id": "ep_b04fae8a27251bb6",
+    "relation_type": "contrasts_with",
+    "reason": "家珍表达对被物化声音的抗拒，强调真诚关系的期待，而张姊妹在离开时抱怨介绍对象困难，反映出她好心撮合却未被理解的挫败感。两者在态度和动机上形成对比：一方追求内在情感连接，另一方执着于外在条件匹配，文本通过并置展现人际期待的错位。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_aa8ca22d89cf",
+    "subject_id": "ep_f23069af25bf4be8",
+    "object_id": "ep_54071e0b0430fa6d",
+    "relation_type": "precedes",
+    "reason": "取菜备用是准备食物的早期步骤，发生在老朱前往校园之前，逻辑上为后续携带食盒前往校园提供前提，且两个情节分别涉及从后院取菜和提食盒进入校园，构成连贯行为序列的前序动作。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_316fe0d202f3",
+    "subject_id": "ep_8b26699c74ff2586",
+    "object_id": "ep_3d9876c02ac79eb9",
+    "relation_type": "precedes",
+    "reason": "根据事件的时间顺序，雷蒙和家倩在性行为后交流近况（ep_8b26699c74ff2586）发生在雷蒙送家倩到朱家门口并告别（ep_3d9876c02ac79eb9）之前，相关事件均来自不同场景（scene_12 和 scene_19），且叙事上亲密互动早于接送结束，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5685ebee75b8",
+    "subject_id": "ep_faecd292c601a3c0",
+    "object_id": "ep_0d2b327036e58590",
+    "relation_type": "precedes",
+    "reason": "老温先询问老朱关于食经和死亡的玩笑（用手比划‘咔嚓’），随后老朱以推搡和吹口气的动作进行反击。两个情节发生在同一场景（scene_34），但根据描述的逻辑顺序，老温的言语和动作是引发老朱反应的前提，因此在叙事顺序上，'老温询问食经并引发死亡玩笑'在前，'老朱反击挑衅并化解情绪'紧随其后。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1bfa2cd4367c",
+    "subject_id": "ep_83844141b5eeb1ca",
+    "object_id": "ep_be42ed83b46f7a81",
+    "relation_type": "precedes",
+    "reason": "主体情节‘探讨母亲回来后的家庭照顾安排’中，家倩提出让母亲多来陪老朱聊天，直接引出客体情节‘老朱表达不满并拒绝额外家庭责任’，老朱对此提议表示抱怨和瞪眼，表明该提议在前并触发其反应。两个情节共享同一场合‘朱家家庭聚餐’，且事件序列在描述中呈现清晰的先后话语顺序。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_16ec392dbca7",
+    "subject_id": "ep_2b5bdd6f6825f828",
+    "object_id": "ep_f23069af25bf4be8",
+    "relation_type": "precedes",
+    "reason": "老朱取菜备用（ep_f23069af25bf4be8）是准备食材的前置步骤，而准备晚餐并检查时间（ep_2b5bdd6f6825f828）涉及实际烹饪和时间确认，逻辑上取菜应在烹饪准备之前发生。尽管文档未明确时间顺序，但根据日常烹饪流程，取菜为后续烹饪活动的必要前提，因此该顺序具有强支持。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_99ae67dc88a8",
+    "subject_id": "ep_c7df7153b0a3ee6b",
+    "object_id": "ep_5c86699fc0c1cc04",
+    "relation_type": "precedes",
+    "reason": "根据描述，'孩子追逐与坚持传递漫画'（ep_c7df7153b0a3ee6b）中家宁追着珊珊跑向院子试图阻止她，发生在珊珊拿走漫画并声称要拿给朱爷爷看的阶段，而'家宁追回被抢的漫画'（ep_5c86699fc0c1cc04）则包含后续的追赶、归还和承认玩笑的解决过程。两个情节共享相似的事件链，但后者包含更完整的解决，且相关事件的场景编号（scene_31 vs scene_32）表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ddbb4d91a659",
+    "subject_id": "ep_bb49f0ace586774e",
+    "object_id": "ep_54071e0b0430fa6d",
+    "relation_type": "precedes",
+    "reason": "老朱先在自家厨房准备并烹制菜肴，然后提着食盒前往校园寻找目标，文本中行为顺序明确，构成连贯的时间先后关系。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_6__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_64b247ee936f",
+    "subject_id": "ep_587b92a292e520e7",
+    "object_id": "ep_bb49f0ace586774e",
+    "relation_type": "elaborates",
+    "reason": "处理烤鸭以准备烹饪是准备并烹制菜肴这一更广泛情节中的一个具体步骤，提供了关于如何准备食材的额外细节，因此前者扩展了后者的具体内容。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_6__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_010e8503411d",
+    "subject_id": "ep_2b5bdd6f6825f828",
+    "object_id": "ep_bb49f0ace586774e",
+    "relation_type": "elaborates",
+    "reason": "‘准备晚餐并检查时间’包含对‘准备并烹制菜肴’的额外细节，具体说明了所烹饪的菜肴为‘双脆’，并增加了查看闹钟确认时间的行为，反映出更丰富的上下文和目的性，因此前者扩展了后者的具体内容。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_6__2_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_9d5843936d08",
+    "subject_id": "ep_a0d187d6cef06820",
+    "object_id": "ep_bb49f0ace586774e",
+    "relation_type": "precedes",
+    "reason": "处理草鱼以备烹饪是食材准备的步骤，发生在实际烹制菜肴之前，且两个情节均发生在厨房场景中，具有连续的叙事上下文。因此，该情节在叙事顺序上早于准备并烹制菜肴。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_6__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_01ea141c43fc",
+    "subject_id": "ep_bb49f0ace586774e",
+    "object_id": "ep_b53577e4eaefde77",
+    "relation_type": "precedes",
+    "reason": "老朱必须先完成准备并烹制菜肴，然后才能将便当送给珊珊。描述中显示，烹制行为发生在厨房（scene_6__2），而送便当行为发生在教室（scene_48），且送便当包含对已准备食物的使用，因此在叙事顺序上，准备并烹制菜肴在前。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_6__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_675a02e6170a",
+    "subject_id": "ep_41096ac3d6c9ab7d",
+    "object_id": "ep_bb49f0ace586774e",
+    "relation_type": "elaborates",
+    "reason": "实体 #1 '制作多道传统菜肴并调控火候' 提供了关于老朱烹饪过程的详细操作，包括多种具体菜品和步骤，扩展并细化了实体 #2 '准备并烹制菜肴' 所描述的泛化烹饪行为。因此，实体 #1 对实体 #2 进行了细节补充和内容深化，符合 elaborates 关系。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_6__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_13123a936266",
+    "subject_id": "ep_587b92a292e520e7",
+    "object_id": "ep_64cfab37f2ae669d",
+    "relation_type": "precedes",
+    "reason": "处理烤鸭以准备烹饪发生在完成烤鸭的烹饪之前，吹气处理是烹饪前的准备工作，而取出烤鸭标志着烹饪的完成，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_920acc8a5dc4",
+    "subject_id": "ep_bb49f0ace586774e",
+    "object_id": "ep_d3b39665c3bf54df",
+    "relation_type": "precedes",
+    "reason": "主体情节'准备并烹制菜肴'涉及老朱在厨房中准备和烹制食物，而客体情节'开始家庭聚餐并进行餐前祷告'描述老朱从厨房端出炸响铃并开始聚餐。文本中'端出炸响铃'暗示烹饪已完成，因此准备和烹制菜肴在叙事顺序上早于家庭聚餐的开始。",
+    "source_documents": [
+      "scene_6__2_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_64175f62d229",
+    "subject_id": "ep_bb49f0ace586774e",
+    "object_id": "ep_c6fe3454c5537b68",
+    "relation_type": "precedes",
+    "reason": "主体情节'准备并烹制菜肴'描述老朱在厨房独立完成烹饪的过程，而客体情节'老朱与老温前往蒸笼区评估后续任务'涉及与同事协作并转向监督炖菜出餐，且其描述明确指出该情节是前一阶段准备工作的延续。因此，'准备并烹制菜肴'在叙事顺序上早于'评估后续任务'，构成直接的前序动作。",
+    "source_documents": [
+      "scene_6__2_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_14922e6b7fc4",
+    "subject_id": "ep_64cfab37f2ae669d",
+    "object_id": "ep_c6fe3454c5537b68",
+    "relation_type": "precedes",
+    "reason": "完成烤鸭的烹饪是老朱在后院大熏炉中的关键完成步骤，随后他与老温前往蒸笼区评估后续任务，确保炖菜出餐流程顺利进行。文本中描述后者为前一阶段准备工作的延续，表明存在明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5da24d971caa",
+    "subject_id": "ep_64cfab37f2ae669d",
+    "object_id": "ep_d3b39665c3bf54df",
+    "relation_type": "precedes",
+    "reason": "完成烤鸭的烹饪是准备晚餐的一部分，而开始家庭聚餐并进行餐前祷告发生在家人就座并准备用餐时。根据常理和描述顺序，烹饪完成在聚餐开始之前，且两个情节分别关联到连续的场景（scene_20 和 scene_21），支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_28a739a140ff",
+    "subject_id": "ep_2b5bdd6f6825f828",
+    "object_id": "ep_b7c1e1e029ed797c",
+    "relation_type": "precedes",
+    "reason": "老朱在厨房准备晚餐并查看时间（五点十分）发生在其出门前叮嘱家人并离开之前，时间线索表明前者在叙事顺序上早于后者，且准备晚餐的行为可能为后续离开做铺垫。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_21__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_54a99218f1ee",
+    "subject_id": "ep_587b92a292e520e7",
+    "object_id": "ep_d3b39665c3bf54df",
+    "relation_type": "precedes",
+    "reason": "处理烤鸭以准备烹饪发生在厨房操作阶段，而开始家庭聚餐并进行餐前祷告发生在同一场景后续的用餐阶段，文本中老朱先处理烤鸭，随后端出炸响铃并进入聚餐环节，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3ce1d00be790",
+    "subject_id": "ep_587b92a292e520e7",
+    "object_id": "ep_c6fe3454c5537b68",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述老朱在厨房处理烤鸭的准备工作，第二个情节描述他与老温前往蒸笼区评估后续任务。根据描述，处理烤鸭是烹饪前的准备步骤，而前往蒸笼区监督炖菜是后续工作的延续，表明存在叙事或操作顺序上的先后关系，前者为准备阶段，后者为下一阶段的任务执行。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7d305651c56d",
+    "subject_id": "ep_a0d187d6cef06820",
+    "object_id": "ep_2b5bdd6f6825f828",
+    "relation_type": "precedes",
+    "reason": "处理草鱼以备烹饪是为后续烹饪‘双脆’菜肴做准备的前置步骤，且在叙事逻辑上必须先完成食材处理才能开始正式烹饪，因此该情节在时间顺序上早于准备晚餐并检查时间。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4bf5075e7ae7",
+    "subject_id": "ep_2b5bdd6f6825f828",
+    "object_id": "ep_c6fe3454c5537b68",
+    "relation_type": "precedes",
+    "reason": "老朱在厨房准备晚餐并查看时间（五点十分），该情节发生在其与老温前往蒸笼区评估后续任务之前，后者是前一阶段准备工作的延续，体现出叙事和功能上的时间顺序。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5f4726b62264",
+    "subject_id": "ep_2b5bdd6f6825f828",
+    "object_id": "ep_d3b39665c3bf54df",
+    "relation_type": "precedes",
+    "reason": "老朱在厨房准备晚餐并查看时间（五点十分）发生在家庭聚餐开始之前，且端出菜肴是烹饪完成后的自然延续，文本中时间线索和动作顺序支持该时间先后关系。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_da610f6507bd",
+    "subject_id": "ep_2b5bdd6f6825f828",
+    "object_id": "ep_273952c99198c7e0",
+    "relation_type": "precedes",
+    "reason": "老朱在厨房准备晚餐并查看时间（五点十分）发生在老朱和老温醉酒后行走在长廊上之前，根据常理推断烹饪和时间检查为后续饮酒和行走提供了时间顺序上的前序动作，且两情节均围绕老朱的活动展开，具有明确的叙事先后关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6edb15512070",
+    "subject_id": "ep_b7c1e1e029ed797c",
+    "object_id": "ep_b53577e4eaefde77",
+    "relation_type": "precedes",
+    "reason": "老朱出门前叮嘱家人并离开发生在老朱送便当给珊珊之前，逻辑上必须先离开家才能到达学校送餐，且两个情节之间存在明确的时间顺序。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_21__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b2f75b1165a2",
+    "subject_id": "ep_a03bd166c79960b7",
+    "object_id": "ep_b7c1e1e029ed797c",
+    "relation_type": "precedes",
+    "reason": "老朱在厨房准备并完成便当装盒的情节发生在同一场景中，随后在门廊系鞋带、叮嘱家人并离开家。根据描述，装盒完成后老朱才出门，具有连续的时间逻辑，因此该情节在叙事顺序上早于出门离开的情节。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_21__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ca47cde095df",
+    "subject_id": "ep_b7c1e1e029ed797c",
+    "object_id": "ep_54071e0b0430fa6d",
+    "relation_type": "precedes",
+    "reason": "老朱出门前叮嘱家人并离开（ep_b7c1e1e029ed797c）在叙事顺序上早于他前往校园寻找目标（ep_54071e0b0430fa6d），因为离开家是进入校园的前提行为，且两个情节分别描述了连续的动作序列，构成连贯的时间流。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_21__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3f7187df8289",
+    "subject_id": "ep_342a9009bf50e835",
+    "object_id": "ep_b7c1e1e029ed797c",
+    "relation_type": "precedes",
+    "reason": "老朱接神秘电话后突然离席发生在饭厅，随后在门廊叮嘱家人并离开家，两个情节在叙事顺序上紧密衔接，且离席是出门前行为的前置动作，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d42779d5a530",
+    "subject_id": "ep_54071e0b0430fa6d",
+    "object_id": "ep_b53577e4eaefde77",
+    "relation_type": "precedes",
+    "reason": "老朱前往校园寻找目标发生在老朱送便当给珊珊之前，前者描述其进入校园并张望寻找，后者描述其进入教室完成送餐，叙事顺序连贯且时间上先后明确。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_95aceac473ef",
+    "subject_id": "ep_a03bd166c79960b7",
+    "object_id": "ep_54071e0b0430fa6d",
+    "relation_type": "precedes",
+    "reason": "准备并完成便当装盒发生在老朱前往校园之前，逻辑上他需先完成便当制作才能提着食盒前往校园，且两个情节分别位于文档45和46，按文档顺序也支持该时间先后关系。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1456ec27a972",
+    "subject_id": "ep_b7c1e1e029ed797c",
+    "object_id": "ep_6d4430fae6e8cbdc",
+    "relation_type": "precedes",
+    "reason": "老朱出门前叮嘱家人并离开（ep_b7c1e1e029ed797c）发生在抵达圆山饭店并接管厨房（ep_6d4430fae6e8cbdc）之前，这是叙事时间顺序上的明确先后关系。离开家是抵达饭店的前提，且两个情节分别位于不同文档（doc_21 和 doc_24），符合话语顺序上的先后结构。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_21__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ad7aec49f444",
+    "subject_id": "ep_342a9009bf50e835",
+    "object_id": "ep_54071e0b0430fa6d",
+    "relation_type": "precedes",
+    "reason": "老朱接神秘电话后突然离席发生在饭桌上，随后他前往校园寻找目标。根据叙事顺序，离席是前往校园的前提动作，且两个情节共享时间与行为上的连贯性，支持前者在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_485d19c7541a",
+    "subject_id": "ep_b7c1e1e029ed797c",
+    "object_id": "ep_c6fe3454c5537b68",
+    "relation_type": "precedes",
+    "reason": "老朱出门前叮嘱家人并离开（ep_b7c1e1e029ed797c）发生在家庭场景中，而老朱与老温前往蒸笼区评估后续任务（ep_c6fe3454c5537b68）是其到达工作地点后的行动，描述中明确指出后者是前一阶段准备工作的延续，表明时间上的先后顺序。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_21__2_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_66f4a0d966b2",
+    "subject_id": "ep_b7c1e1e029ed797c",
+    "object_id": "ep_2180d2109de07f35",
+    "relation_type": "precedes",
+    "reason": "老朱出门前叮嘱家人并离开（ep_b7c1e1e029ed797c）发生在前往工作地点之前，而老朱完成上岗准备并确认菜单流程（ep_2180d2109de07f35）是在圆山饭店金龙厅宴席的厨房中进行的准备工作，逻辑上且按常理时间顺序，离家是上岗准备的前提步骤。尽管两个情节来自不同文档，但叙事顺序上，离家必然早于进入厨房后的准备动作，因此主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_21__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eefb245bb1cb",
+    "subject_id": "ep_a03bd166c79960b7",
+    "object_id": "ep_b53577e4eaefde77",
+    "relation_type": "precedes",
+    "reason": "老朱先在厨房准备并完成便当装盒，随后进入教室将便当送给珊珊。两个情节共享便当这一关键元素，且时间顺序明确：装盒完成是送便当的前提。文档ID不同（doc_45 vs doc_47）也支持叙事上的先后顺序。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6ffc3fed4d3e",
+    "subject_id": "ep_a03bd166c79960b7",
+    "object_id": "ep_c6fe3454c5537b68",
+    "relation_type": "precedes",
+    "reason": "主体情节'准备并完成便当装盒'描述老朱在厨房中完成便当的制作，属于前期准备工作；客体情节'老朱与老温前往蒸笼区评估后续任务'表明他随后移动到蒸笼区域监督后续出餐流程，且其描述中明确指出该情节是'前一阶段准备工作的延续'，暗示时间上的顺承关系。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_359e24983c4d",
+    "subject_id": "ep_a03bd166c79960b7",
+    "object_id": "ep_d3b39665c3bf54df",
+    "relation_type": "precedes",
+    "reason": "老朱准备并完成便当装盒发生在厨房操作场景中，而开始家庭聚餐并进行餐前祷告涉及端出炸响铃并进入用餐环节。根据常理和叙事流，便当装盒是为用餐做准备，且两个情节共享家庭晚餐上下文，因此装盒行为在时间顺序上先于聚餐开始。尽管文档ID不同，但操作逻辑和场景连贯性支持该时序关系。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_84a9fb43b58e",
+    "subject_id": "ep_a0d187d6cef06820",
+    "object_id": "ep_1ee8aae537c6baae",
+    "relation_type": "precedes",
+    "reason": "处理草鱼以备烹饪是为后续菜品制作做准备的前期步骤，而确认并定版龙凤呈祥的制作方案发生在该准备之后，属于后续的烹饪与定版阶段。根据叙事顺序，食材处理在前，菜品定版在后，因此主体情节在时间上早于客体情节。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_496452ed4dcf",
+    "subject_id": "ep_37a0bf401e9c2179",
+    "object_id": "ep_1ee8aae537c6baae",
+    "relation_type": "precedes",
+    "reason": "根据场景编号，领班移交指挥权发生在 scene_24，而确认龙凤呈祥制作方案发生在 scene_27，表明前者在叙事顺序上早于后者。虽然两个情节共享宴席准备的上下文，但无直接因果或对比证据，仅能确定时间先后。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_02e20868d8c6",
+    "subject_id": "ep_273952c99198c7e0",
+    "object_id": "ep_bb49f0ace586774e",
+    "relation_type": "precedes",
+    "reason": "根据描述，'醉酒同行开启对话'涉及老朱和老温从厨房走出并行走在长廊上，暗示他们已完成厨房中的活动；而'准备并烹制菜肴'发生在厨房中，是此前的独立行为。因此，'准备并烹制菜肴'在叙事顺序上早于'醉酒同行开启对话'，支持precedes关系（object -> subject），但因关系方向为directed且subject在前，故应为subject precedes object不成立。反向则成立：object precedes subject。但由于关系模式precedes是directed，且输入中subject为ep_273952c99198c7e0，不能颠倒方向强行匹配。因此，无足够支持表明subject precedes object。然而，从事件逻辑看，烹制菜肴必然发生在醉酒同行之前，故'准备并烹制菜肴'（object）在时间上先于'醉酒同行开启对话'（subject），即object precedes subject。但由于relation_type=precedes要求方向为subject->object，而此处实际为object->subject，不能直接赋值。模式不允许反向使用precedes而不调整方向。因此，尽管存在时间先后，但无法以当前subject-object顺序表达为precedes。其他关系类型无支持。最终，因正确方向无法在给定subject-object顺序下表达，且无其他有效关系，输出NONE。但重新评估：precedes是directed，但未规定必须subject->object还是可双向使用；在少样本中，'计划披露发生在金库闯入之前'对应subject precedes object，说明方向由语义决定。因此，若object实际在subject之前，则不应使用precedes。必须严格按subject到object的方向判断。此处，subject'醉酒同行'发生在object'烹制菜肴'之后，故subject不precedes object；相反，object precedes subject，但该方向不可表达。因此，precedes不适用。causes无明确因果证据；contrasts_with无对比基调；elaborates无扩展说明。故无有效关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_6__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fabf2f963dbe",
+    "subject_id": "ep_6d4430fae6e8cbdc",
+    "object_id": "ep_1ee8aae537c6baae",
+    "relation_type": "precedes",
+    "reason": "老朱抵达并接管厨房指挥（ep_6d4430fae6e8cbdc）发生在宴席筹备初期，为后续菜品制作奠定基础；确认并定版龙凤呈祥的制作方案（ep_1ee8aae537c6baae）发生在厨房运作稳定之后，属于后续执行阶段。根据叙事顺序，接管厨房指挥在时间上明确早于菜品定版制作。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c228e649829f",
+    "subject_id": "ep_b53577e4eaefde77",
+    "object_id": "ep_fb5c7e18cf90027d",
+    "relation_type": "contrasts_with",
+    "reason": "老朱送便当给珊珊体现其主动表达关爱，而处理剩菜时的情感压抑则反映其在公共场合的隐忍，两者在情感表达方式上形成对比：一个是外显的父爱，另一个是被抑制的父爱，反映出角色在不同社会情境下的行为反差。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6348d5e8c205",
+    "subject_id": "ep_5818c66fc7c2bbfd",
+    "object_id": "ep_0d2b327036e58590",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'醉酒后的情绪释放与现实指认'中的场景（老温饮酒、唱歌，老朱指出其醉态）发生在'老朱反击挑衅并化解情绪'之前，后者涉及更进一步的互动动作（推搡和吹气），表明叙事上前者早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3f81d7d04388",
+    "subject_id": "ep_a0d187d6cef06820",
+    "object_id": "ep_421a7ad07b5e639a",
+    "relation_type": "precedes",
+    "reason": "处理草鱼以备烹饪是准备食材的初始步骤，而接听电话并讨论清蒸鱼的做法发生在烹饪过程中，文本中描述的叙事顺序表明前者在时间上早于后者。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_50f0daae4a76",
+    "subject_id": "ep_37a0bf401e9c2179",
+    "object_id": "ep_41096ac3d6c9ab7d",
+    "relation_type": "precedes",
+    "reason": "领班移交指挥权并退出厨房发生在老朱开始制作多道传统菜肴之前，文本中领班移交指挥权后老朱全面接手厨房，随后系统性地进行各项烹饪操作，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fa2beffa4a77",
+    "subject_id": "ep_2180d2109de07f35",
+    "object_id": "ep_41096ac3d6c9ab7d",
+    "relation_type": "precedes",
+    "reason": "老朱完成上岗准备并确认菜单流程发生在制作多道传统菜肴之前，因为准备动作（如洗手、换衣、审阅菜单）是进入实际烹饪操作的前提，且相关事件分别属于不同场景（scene_24 vs scene_3），表明时间顺序上的先后关系。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0e3ad86af2de",
+    "subject_id": "ep_6d4430fae6e8cbdc",
+    "object_id": "ep_41096ac3d6c9ab7d",
+    "relation_type": "precedes",
+    "reason": "老朱抵达并接管厨房指挥（ep_6d4430fae6e8cbdc）发生在制作多道传统菜肴并调控火候（ep_41096ac3d6c9ab7d）之前，因为接管厨房是进行后续系统性烹饪操作的前提，且两个情节分别属于宴席筹备的不同阶段，叙事顺序清晰。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_471e3d515788",
+    "subject_id": "ep_41096ac3d6c9ab7d",
+    "object_id": "ep_fb5c7e18cf90027d",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节展现老朱对传统菜肴制作的专注与技艺掌控，第二个情节则呈现他在面对食物浪费时的情感压抑与无奈，两者在情感基调和行为结果上形成明显对比：前者是积极投入的创造过程，后者是沉默退让的情感克制，文本通过这种并置强化了传统技艺价值与现实境遇之间的张力。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cae63ee69a5b",
+    "subject_id": "ep_421a7ad07b5e639a",
+    "object_id": "ep_d3b39665c3bf54df",
+    "relation_type": "precedes",
+    "reason": "接听电话并讨论清蒸鱼的做法发生在老朱准备宴席的过程中（scene_3），而开始家庭聚餐并进行餐前祷告发生在后续场景（scene_21），根据文档中场景编号的顺序，前者在叙事时间上早于后者，构成明确的时间先后关系。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_21_part_1",
+      "scene_21_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b7d83427865c",
+    "subject_id": "ep_41096ac3d6c9ab7d",
+    "object_id": "ep_c6fe3454c5537b68",
+    "relation_type": "precedes",
+    "reason": "主体情节描述老朱在大灶前完成多项烹饪准备工作，包括切配、油炸、炖煮等，属于宴席菜肴的前期制作阶段；客体情节描述老朱与老温前往蒸笼区监督炖菜出餐，是后续环节的延续。描述中明确指出客体情节是‘前一阶段准备工作的延续’，表明主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1411ff41c5af",
+    "subject_id": "ep_41096ac3d6c9ab7d",
+    "object_id": "ep_d3b39665c3bf54df",
+    "relation_type": "precedes",
+    "reason": "主体情节'制作多道传统菜肴并调控火候'发生在厨房准备阶段，包含对多道宴席菜肴的系统性烹饪操作，而客体情节'开始家庭聚餐并进行餐前祷告'发生在同一场景后续的用餐环节，老朱端出炸响铃标志着从烹饪到聚餐的过渡。文本中烹饪活动为聚餐提供直接前提，且叙事顺序上明确先完成菜肴制作后才开始聚餐，因此主体情节在话语和叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_21_part_1",
+      "scene_21_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4830a0e6ce50",
+    "subject_id": "ep_c7c020a7f3d2d34f",
+    "object_id": "ep_fb5c7e18cf90027d",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均发生在同一场景（scene_33），并围绕老朱对子女的情感展开：前者通过饮酒闲聊表达对女儿疏离的失落，后者通过处理剩菜时欲言又止体现压抑的父爱。二者并置，以言语表达与沉默隐忍的反差，强化了情感流露方式的对比。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_ba986292558f",
+    "subject_id": "ep_93841dd8d9a6ade3",
+    "object_id": "ep_e58f75305c1dbef5",
+    "relation_type": "precedes",
+    "reason": "处理排球闯入教室的干扰发生在化学课中，而完成课堂教学并结束课程包含下课铃响和下课仪式，逻辑上排球事件的处理结束于课堂恢复秩序，之后才完成教学并正式下课，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ec0e302cc8ad",
+    "subject_id": "ep_6f8b9e5b664c638c",
+    "object_id": "ep_e58f75305c1dbef5",
+    "relation_type": "precedes",
+    "reason": "‘查处并处置课堂情书事件’发生在场景scene_39，而‘完成课堂教学并结束课程’发生在scene_44，两个情节均属于家珍的课堂教学，但scene_39在叙事顺序上早于scene_44，因此前者在话语顺序上先于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0c2460eb15c6",
+    "subject_id": "ep_e53f1ee71d8e1f37",
+    "object_id": "ep_e58f75305c1dbef5",
+    "relation_type": "precedes",
+    "reason": "主体情节'维持课堂教学注意力'发生在场景39，涉及家珍在课堂中应对学生分心行为；客体情节'完成课堂教学并结束课程'发生在场景44，包含下课铃响、班长起立口令和学生道谢等结束标志。两个情节均属于家珍的课堂教学场合，但分别位于不同场景编号，且描述连续教学过程，前者为教学中的管理挑战，后者为教学收尾与结束，叙事顺序上明确前者早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_22cfbf2caa49",
+    "subject_id": "ep_27879c3f6cf6bb40",
+    "object_id": "ep_75d71a487a87c86d",
+    "relation_type": "precedes",
+    "reason": "情节'回应家庭琐事与日常抱怨'发生在文档doc_28，而'结束聚会并准备回家'发生在文档doc_30，文档编号顺序表明前者在叙事时间上早于后者。两个情节均涉及家珍赠送汤包的互动，但前者是提议准备汤包，后者是实际提出带回家并推辞，构成时间上的先后顺序。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_97ef9bffc798",
+    "subject_id": "ep_9f55959ef482c621",
+    "object_id": "ep_561be854dc39ace8",
+    "relation_type": "precedes",
+    "reason": "根据描述，'结束接送并表达感谢'发生在巷口，家珍向张姊妹道谢后下车，随后'家珍回家结束外出行程'是其进入屋内的后续动作。related_events均指向scene_17，且事件顺序上，下车道谢先于进门，因此该关系在叙事顺序上有明确支持。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b763643f121d",
+    "subject_id": "ep_2c3ac8b632428baa",
+    "object_id": "ep_561be854dc39ace8",
+    "relation_type": "precedes",
+    "reason": "家珍低声回应拒绝相亲安排发生在与张姊妹分别后、回家进屋之前，根据描述中的叙事顺序，该情节在时间上先于家珍回家结束外出行程。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ff03cdde4726",
+    "subject_id": "ep_6b990cbb8143fa90",
+    "object_id": "ep_561be854dc39ace8",
+    "relation_type": "precedes",
+    "reason": "家珍表达对被物化声音的抗拒发生在教会团契练唱场合中，而家珍回家结束外出行程是在与张姊妹分别后进入屋内，表明前者在外出活动期间发生，后者标志活动结束，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_63419915e7f8",
+    "subject_id": "ep_23d46911291a6b46",
+    "object_id": "ep_561be854dc39ace8",
+    "relation_type": "precedes",
+    "reason": "张姊妹劝说家珍参加团契并提及蔡弟兄的情节发生在教会团契练唱的语境中（scene_17），而家珍回家结束外出行程的情节也发生在同一场景（scene_17）且涉及她与张姊妹分别后回家的动作。根据叙事顺序，劝说行为发生在分别和回家之前，因此该情节在话语顺序上先于家珍回家的情节。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d445ae2757bc",
+    "subject_id": "ep_75d71a487a87c86d",
+    "object_id": "ep_561be854dc39ace8",
+    "relation_type": "precedes",
+    "reason": "情节'结束聚会并准备回家'描述了家珍与锦荣在聚会尾声的互动，包括提出回家和推辞礼物，逻辑上发生在'家珍回家结束外出行程'之前，后者明确以家珍开门进屋为标志。叙事顺序上，准备回家先于实际到家，且两个情节共享'回家'这一过渡主题，时间顺序清晰。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_671a5ded46b1",
+    "subject_id": "ep_a1df1d90c40f634f",
+    "object_id": "ep_968f261e9067a81a",
+    "relation_type": "elaborates",
+    "reason": "讨论锦凤母亲回国的原因与影响为建议暂缓家庭成员回归以缓解矛盾提供了背景和动因，说明家庭矛盾的潜在来源，从而扩展了后者的情境基础。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8a22acd4db20",
+    "subject_id": "ep_45e9aaa2f91d902d",
+    "object_id": "ep_7aeb336613cc681c",
+    "relation_type": "precedes",
+    "reason": "家宁赶往朱家附近的情节描述了她下车后边走边跑，表现出前往目的地的行动，而与国伦在安全岛相遇并交谈的情节发生在安全岛，是她到达后的具体互动。根据叙事顺序，前往某地的行动在逻辑和时间上先于在该地点发生的相遇交谈，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_add10ca1a233",
+    "subject_id": "ep_45e9aaa2f91d902d",
+    "object_id": "ep_c7df7153b0a3ee6b",
+    "relation_type": "precedes",
+    "reason": "家宁赶往朱家附近发生在她从窗帘后走出并追珊珊之前，根据叙事顺序，家宁到达朱家附近是后续在院子中互动的前提，且related_events显示家宁在scene_31才加入院子，而赶往朱家附近发生在scene_18，时间顺序支持该关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f9d06589c81b",
+    "subject_id": "ep_45e9aaa2f91d902d",
+    "object_id": "ep_1670136727da4716",
+    "relation_type": "precedes",
+    "reason": "家宁赶往朱家附近（ep_45e9aaa2f91d902d）是她到达朱家的前置行动，而通报锦荣到访并问候家人（ep_1670136727da4716）发生在朱家内部的互动场景。根据叙事逻辑，家宁必须先抵达附近区域，后续场景才可能发生，因此该关系在时间顺序上具有强支持。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f02cbe94bba4",
+    "subject_id": "ep_7aeb336613cc681c",
+    "object_id": "ep_74d21915c6806d2a",
+    "relation_type": "precedes",
+    "reason": "情节 '家宁与国伦在安全岛相遇并交谈' 发生在文档 doc_49，而 '家宁劝议延长对钟国伦的惩罚' 发生在文档 doc_5。根据文档编号顺序，doc_49 在 doc_5 之前，表明前者在叙事顺序上早于后者。此外，前一情节中家宁与国伦的互动为后一情节中家宁提议延长惩罚提供了上下文动机，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a48cb7f9ef4b",
+    "subject_id": "ep_9a5df1fdc8653a54",
+    "object_id": "ep_1fdc5f6d92b354cf",
+    "relation_type": "precedes",
+    "reason": "情节 '完成饭后收拾并平息家庭争执' 发生在厨房场景中，涉及家宁收拾碗盘和劝解争执，而随后 '结束厨房互动并转移活动场所' 描述了家宁带珊珊离开厨房去画画，标志着厨房活动的结束和场景转移。根据叙事顺序，收拾与平息争执必须在离开厨房之前完成，因此前者在话语和时间顺序上先于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_31f8c094f76c",
+    "subject_id": "ep_6ad9b3ab284932d5",
+    "object_id": "ep_a54198f8d2b1761d",
+    "relation_type": "precedes",
+    "reason": "家倩与雷蒙在雷蒙公寓完成亲密行为的高潮后，雷蒙离开，随后家倩进入朱家屋内。叙事上，亲密行为的结束为进入家中创造了时间与情境前提，且事件顺序在描述中呈现明确先后关系。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_78346c80deb3",
+    "subject_id": "ep_a7e6527201ed7956",
+    "object_id": "ep_a54198f8d2b1761d",
+    "relation_type": "precedes",
+    "reason": "家倩在拒绝雷蒙的艺廊邀请后，强调必须回家参加星期天晚餐，随后进入家中，表明‘回应邀请并重申家庭义务’在叙事顺序上早于‘进入家中’。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8888a908fe7e",
+    "subject_id": "ep_3ca89718b5854537",
+    "object_id": "ep_6c674da38272ce30",
+    "relation_type": "precedes",
+    "reason": "创作并分享朱的武装漫画（ep_3ca89718b5854537）发生在文档doc_29，而展示漫画引发温情互动（ep_6c674da38272ce30）发生在文档doc_30，叙事顺序上前者早于后者，且后者中珊珊展示的漫画即为前者中创作的内容，构成直接话语顺序上的先后关系。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_189047a540ce",
+    "subject_id": "ep_27879c3f6cf6bb40",
+    "object_id": "ep_a89a76aa9a1a5b90",
+    "relation_type": "elaborates",
+    "reason": "情节'回应家庭琐事与日常抱怨'中提到家珍准备将蟹粉汤包装袋带给锦荣，而'老朱关心珊珊的早餐与午餐安排'中提及珊珊的母亲挤掉了汤包的汤，后者为前者中汤包状态的后果提供了进一步细节，说明汤包在传递过程中被损坏，从而扩展了前一情节的背景信息。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_313fac7651db",
+    "subject_id": "ep_1670136727da4716",
+    "object_id": "ep_6c674da38272ce30",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'通报锦荣到访并问候家人'发生在scene_29，而'展示漫画引发温情互动'发生在scene_31，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f32e759fcf18",
+    "subject_id": "ep_1670136727da4716",
+    "object_id": "ep_75d71a487a87c86d",
+    "relation_type": "precedes",
+    "reason": "通报锦荣到访并问候家人发生在聚会初期，而结束聚会并准备回家发生在聚会尾声，根据叙事顺序，前者在时间上明确早于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b27a3f8f68e6",
+    "subject_id": "ep_1670136727da4716",
+    "object_id": "ep_88c822940fa9b1fd",
+    "relation_type": "precedes",
+    "reason": "通报锦荣到访并问候家人发生在客厅和厨房，而讨论家庭赡养压力与姐妹矛盾发生在院子，且涉及更深入的对话内容，叙事顺序上前者为迎接阶段，后者为后续交流，因此主体情节在时间上早于客体情节。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_93822cf9cb13",
+    "subject_id": "ep_27879c3f6cf6bb40",
+    "object_id": "ep_e025a007f73556b2",
+    "relation_type": "precedes",
+    "reason": "情节 '回应家庭琐事与日常抱怨' 发生在家庭早餐场景中，涉及珊珊与家珍、锦荣的互动；而 '珊珊匆忙结束早餐挤上公车' 描述珊珊在公车到站后离开的行动，包含将未吃完的汤包塞进口袋的细节，暗示这是前一情节的延续。文本通过共享人物（珊珊）、连续活动（吃早餐 → 离开）和物品（汤包）支持时间上的先后顺序，但未明确说明因果或对比关系。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_63d65500ce81",
+    "subject_id": "ep_1ee8aae537c6baae",
+    "object_id": "ep_5949124940cd573d",
+    "relation_type": "precedes",
+    "reason": "主体情节‘确认并定版龙凤呈祥的制作方案’发生在圆山饭店大厨房的烹饪现场，老朱完成菜品定版并制作完毕；客体情节‘老温组织团队执行新菜式’描述在老朱决策后，老温立即组织团队准备新菜品。文本明确指出‘在老朱做出决策后’，老温开始组织执行，表明主体情节在叙事顺序上直接早于客体情节。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dc38d4d041e7",
+    "subject_id": "ep_b53577e4eaefde77",
+    "object_id": "ep_00822f5017bf2505",
+    "relation_type": "precedes",
+    "reason": "老朱送便当给珊珊（ep_b53577e4eaefde77）在叙事顺序上先于同学们围观珊珊的丰盛便当（ep_00822f5017bf2505），因为便当被送达后才引起其他小朋友的注意并围观看。描述中‘珊珊收到父亲送来的四菜一汤便当后’明确支持该时间顺序。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f2eab8e2db27",
+    "subject_id": "ep_30c3b8302336edc7",
+    "object_id": "ep_9a5df1fdc8653a54",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_26）中，且'争论父母一代的爱与婚姻模式'涉及家珍、家倩的言语冲突，而'完成饭后收拾并平息家庭争执'包含家宁劝解姐妹停止争执。描述中家宁是在争执升级时出面劝阻，表明争执先发生，随后被平息，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "character": "Megan",
+  "qas": [
+    {
+      "question": "Have you completed your first jump, and what was your position relative to elevation afterward?",
+      "supporting_facts": [
+        "You have completed your first jump",
+        "You are positioned at a high elevation",
+        "You are not at a low elevation after the jump"
+      ],
+      "contradicting_facts": [
+        "You have not yet completed your first jump",
+        "After the jump, you ended up below water level"
+      ],
+      "final_score": 5.0
+    },
+    {
+      "question": "You were at the top of a structure or position—have you left that location?",
+      "supporting_facts": [
+        "You have not left the location at the top",
+        "You remained at the top after rising out of the water"
+      ],
+      "contradicting_facts": [
+        "You descended from the top location after emerging from the water",
+        "You are no longer at the top of the structure"
+      ],
+      "final_score": 5.0
+    },
+    {
+      "question": "Did you fail to complete your first jump?",
+      "supporting_facts": [
+        "You successfully completed your first jump",
+        "The jump was executed without failure"
+      ],
+      "contradicting_facts": [
+        "You failed during your first jump attempt",
+        "Your first jump was incomplete or unsuccessful"
+      ],
+      "final_score": 5.0
+    },
+    {
+      "question": "You showed an image to Aron—can you confirm where you were positioned when you did it?",
+      "supporting_facts": [
+        "You were at a high elevation when you showed the image to Aron",
+        "You are not below water level after rising",
+        "You are not at a low elevation"
+      ],
+      "contradicting_facts": [
+        "You were at a low elevation when showing the image to Aron",
+        "You were below water level when interacting with Aron"
+      ],
+      "final_score": 3.3333333333333335
+    },
+    {
+      "question": "Did you withhold the image from Aron?",
+      "supporting_facts": [
+        "You did not withhold the image from Aron",
+        "You provided the image to Aron when expected"
+      ],
+      "contradicting_facts": [
+        "You chose to keep the image from Aron",
+        "You delayed giving the image to Aron intentionally"
+      ],
+      "final_score": 3.3333333333333335
+    }
+  ]
+}

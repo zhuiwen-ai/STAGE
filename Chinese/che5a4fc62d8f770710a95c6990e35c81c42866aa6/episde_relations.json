@@ -1,0 +1,4728 @@
+[
+  {
+    "id": "rel_ep_ep_107828bb8111",
+    "subject_id": "ep_80984ec82c1214c3",
+    "object_id": "ep_dfda3c74d5bc7662",
+    "relation_type": "precedes",
+    "reason": "郑山傲苏醒并质问阴谋发生在拒绝房产并谴责徒弟夺名之前，两个情节均发生在scene_41，但逻辑上质问在前，拒绝补偿在后，叙事顺序支持此先后关系。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c61f90c5de72",
+    "subject_id": "ep_2437f85db045792e",
+    "object_id": "ep_2a1efb0431a2ad80",
+    "relation_type": "precedes",
+    "reason": "耿良辰返回仓房并遭遇搜查发生在师徒对峙中的情感倾诉与试探之前，两个情节共享同一场景（scene_36），且搜查行为为后续对峙建立紧张氛围，逻辑上前者先发生。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_22d9410d34be",
+    "subject_id": "ep_2437f85db045792e",
+    "object_id": "ep_2a5c7f1a18ee1c46",
+    "relation_type": "precedes",
+    "reason": "耿良辰返回仓房并遭遇搜查发生在冲突升级与控制权反转之前，两个情节均发生在scene_36，但搜查行为在描述中先于夺刀和制住动作，构成明确的叙事时序先后。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bc5f95bf9ecf",
+    "subject_id": "ep_8dc623aede598d78",
+    "object_id": "ep_ba7173bb27dd1d52",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均发生在同一场景（scene_30），但分别聚焦于耿良辰的执拗训练与两人之间的情感冲突，通过动作与情感的并置，凸显其关系中的张力与性格反差。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2b5177fe8b49",
+    "subject_id": "ep_c9c197487295c9c2",
+    "object_id": "ep_9b35663cd96dca97",
+    "relation_type": "precedes",
+    "reason": "‘迎接师父并准备比武录像’发生在比武开始前，而‘结束冲突并停止录像’标志着比武录像场合的终结，二者共享同一场合‘军府比武录像 (scene_41)’，且叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ae085625df94",
+    "subject_id": "ep_655e1047ca9d6aee",
+    "object_id": "ep_766d509e6a8fffd9",
+    "relation_type": "precedes",
+    "reason": "夺回手包并震慑对手发生在头目大爷威胁后逃离现场之前，因为陈识先通过武力对峙夺回手包，随后头目大爷在归还手包后立即逃跑并发出威胁，叙事顺序明确。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6b54ccf3eb71",
+    "subject_id": "ep_c9c197487295c9c2",
+    "object_id": "ep_1ce462a46989c14e",
+    "relation_type": "precedes",
+    "reason": "‘迎接师父并准备比武录像’发生在‘林文希突袭并引发搏斗’之前，两者均在‘军府比武录像’的场合下展开，且描述中显示准备活动先于突袭和搏斗的发生，构成明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cb9c0de0b887",
+    "subject_id": "ep_c9c197487295c9c2",
+    "object_id": "ep_fdffa5ff16c3e267",
+    "relation_type": "precedes",
+    "reason": "主体情节'迎接师父并准备比武录像'包含穿戴护具和准备影像资料的活动，客体情节'进行比武并教学招式'涉及实际比武和招式指导，二者共享'军府比武录像'场合，且准备活动在叙事顺序上明确早于比武执行。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fb55ee7d8606",
+    "subject_id": "ep_2437f85db045792e",
+    "object_id": "ep_d539296f8cd2d370",
+    "relation_type": "precedes",
+    "reason": "耿良辰返回仓房并遭遇搜查发生在赵国卉准备离开前，随后耿良辰主动澄清比武的公正性以安抚师娘，两个情节在scene_36内按时间顺序连续发生，前者为后者提供直接上下文。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b335b1eccd79",
+    "subject_id": "ep_5629e3f6a66f5a11",
+    "object_id": "ep_dfda3c74d5bc7662",
+    "relation_type": "elaborates",
+    "reason": "邹馆长解释谢师礼的江湖规矩旨在通过文化惯例平息冲突，为后续拒绝房产并谴责徒弟夺名的情节提供背景和动机解释，说明郑山傲拒绝物质补偿的深层原因在于江湖道义的破裂，因此前者扩展了后者的语境。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e56ce13d4c69",
+    "subject_id": "ep_e8562379046fb538",
+    "object_id": "ep_46a83fc7b04f26f4",
+    "relation_type": "precedes",
+    "reason": "耿良辰登门挑战比试发生在陈识邀徒并确立师徒关系之前。描述中显示，比试后三人共进螃蟹，气氛缓和，随后陈识邀请耿良辰拜师，表明挑战比试是后续师徒关系建立的前提事件。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_19f5a43bc013",
+    "subject_id": "ep_8dc623aede598d78",
+    "object_id": "ep_7bff86a29f825d56",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，耿良辰在劝阻踢馆与激烈训练中因训练摔倒后，紧接着出现倒地不起被茶汤女救助的情节，且两个情节共享scene_30的上下文，表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5415c607b349",
+    "subject_id": "ep_1ce462a46989c14e",
+    "object_id": "ep_9b35663cd96dca97",
+    "relation_type": "precedes",
+    "reason": "林文希突袭并引发搏斗发生在郑山傲倒下和林文希示意关闭摄像机之前，两个情节均发生在同一场合（军府比武录像）中，且描述的事件序列显示搏斗结束后才出现停止录像的行为，因此存在明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ac15d692d6c1",
+    "subject_id": "ep_d783219a58d12461",
+    "object_id": "ep_049d3819b05c40d2",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在'武厅会面 (scene_40)'这一场合中。根据描述，陈识先质询对决安排，随后目送郑山傲一行人离开，叙事顺序上前者早于后者，且事件链符合会面结束前后的自然流程。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a217405048a4",
+    "subject_id": "ep_5629e3f6a66f5a11",
+    "object_id": "ep_80984ec82c1214c3",
+    "relation_type": "precedes",
+    "reason": "邹馆长解释谢师礼的江湖规矩发生在郑山傲苏醒并质问阴谋之前，根据场景编号scene_41中的叙述顺序，前者是劝说郑山傲接受结果，后者是郑山傲在意识到被算计后愤怒质问，逻辑和叙事顺序上前者先于后者。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_42dba932bc32",
+    "subject_id": "ep_2a1efb0431a2ad80",
+    "object_id": "ep_2a5c7f1a18ee1c46",
+    "relation_type": "precedes",
+    "reason": "根据描述，耿良辰递水被拒及情感倾诉发生在先，随后赵国卉劈碗，耿良辰夺刀制住她，导致控制权反转。两个情节均发生在scene_36，且事件序列显示情感试探后立即升级为肢体冲突，支持叙事顺序上的先后关系。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_32f20be84e4a",
+    "subject_id": "ep_fdffa5ff16c3e267",
+    "object_id": "ep_1ce462a46989c14e",
+    "relation_type": "precedes",
+    "reason": "根据描述，'进行比武并教学招式'发生在林文希突袭之前，是师徒间正式的技艺传承过程，而'林文希突袭并引发搏斗'是随后发生的冲突升级，二者共享同一场合'军府比武录像'，且事件序列显示教学比武在先，突袭搏斗在后。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f7d358db9b9a",
+    "subject_id": "ep_fdffa5ff16c3e267",
+    "object_id": "ep_9b35663cd96dca97",
+    "relation_type": "precedes",
+    "reason": "‘进行比武并教学招式’发生在‘结束冲突并停止录像’之前，两个情节共享同一场合‘军府比武录像 (scene_41)’，且描述中显示比武教学过程后，段锐干预意图出现，郑山傲倒下，林文希才示意关闭摄像机，构成明确的叙事时序先后。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_41a623febcf4",
+    "subject_id": "ep_e8562379046fb538",
+    "object_id": "ep_e312c7498871671a",
+    "relation_type": "precedes",
+    "reason": "耿良辰登门挑战比试发生在陈识回应挑战并准备比试之前，根据描述，耿良辰先提出挑战并等待陈识回家，随后陈识才做出回应并准备比试，叙事顺序明确。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_951a46c14bb4",
+    "subject_id": "ep_dd6c9520cb9bc656",
+    "object_id": "ep_46a83fc7b04f26f4",
+    "relation_type": "precedes",
+    "reason": "耿良辰进攻被化解发生在比试过程中，随后三人共进螃蟹，陈识邀请耿良辰拜师，师徒关系确立。叙事顺序上，进攻被化解在前，邀徒并确立师徒关系在后，且在同一场景（scene_14）中连续发生，支持precedes关系。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bbe370efa46f",
+    "subject_id": "ep_cefbf0e1c64e32b3",
+    "object_id": "ep_4b6303c9b5cf0251",
+    "relation_type": "precedes",
+    "reason": "邹馆长率众突访院内后，陈识才擦脸走出屋外并应对质问，两个情节发生在同一场景（scene_31），且突访行为在叙事顺序上直接先于陈识现身应对，构成明确的时间先后关系。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3c4ad380369b",
+    "subject_id": "ep_3df1c2103ba569ff",
+    "object_id": "ep_5ebe1097e2a6d798",
+    "relation_type": "precedes",
+    "reason": "实施刺刀压制与连续闪避发生在比试过程中，而战后搂抱晕倒的对手发生在比试结束后，两者共享同一场合'武厅双刀比试 (scene_28)'，且叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c800eee13b45",
+    "subject_id": "ep_dd6c9520cb9bc656",
+    "object_id": "ep_e312c7498871671a",
+    "relation_type": "precedes",
+    "reason": "耿良辰进攻被化解发生在陈识回应挑战并准备比试之前，因为耿良辰的攻击是挑衅的开端，而陈识在回家后才得知情况并做出回应，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8838c6e560c0",
+    "subject_id": "ep_e312c7498871671a",
+    "object_id": "ep_46a83fc7b04f26f4",
+    "relation_type": "precedes",
+    "reason": "陈识回应挑战并准备比试发生在比试之后的共进螃蟹及拜师之前。根据描述，比试结束后三人共进螃蟹，气氛缓和后陈识才邀请耿良辰拜师，因此‘陈识回应挑战并准备比试’在叙事顺序上早于‘陈识邀徒并确立师徒关系’。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_296c2a914413",
+    "subject_id": "ep_1510086b4b186a03",
+    "object_id": "ep_ce1dda1e76eb9111",
+    "relation_type": "precedes",
+    "reason": "根据描述，陈识与赵国卉互诉离别情感发生在陈识表明回归广东决心之前，两者均发生在scene_23__2，但情感交流为告别铺垫，随后陈识重申返回广东的决定，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_23__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eccf771e02cd",
+    "subject_id": "ep_7d288786bb85f576",
+    "object_id": "ep_ba7173bb27dd1d52",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_30，但根据描述，耿良辰先击打双刀并承诺改变以回应茶汤女的冷漠，随后茶汤女因被亲吻而羞愤逃离，情感冲突升级。叙事顺序上，承诺改变的行为在情感冲突与逃离之前发生。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1e44dc9741f7",
+    "subject_id": "ep_85a84363552c4e07",
+    "object_id": "ep_5ebe1097e2a6d798",
+    "relation_type": "precedes",
+    "reason": "开启武厅双刀比试准备描述了比试开始前的对峙和准备动作，而战后搂抱晕倒的对手发生在比试结束之后，二者共享同一场合'武厅双刀比试'，且叙事顺序明确：准备发生在前，战后互动发生在后。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9eafcedba153",
+    "subject_id": "ep_ad323618ad71442c",
+    "object_id": "ep_5ebe1097e2a6d798",
+    "relation_type": "precedes",
+    "reason": "近身缠斗并以头击晕对手导致旗袍女子晕倒，随后耿良辰搂住晕倒的女子，因此前者在叙事顺序上直接早于后者。两个情节共享同一场合'武厅双刀比试'，且事件序列在描述中呈现明确的时间先后。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_03b187b0ac5c",
+    "subject_id": "ep_8a5d51afacb4c50f",
+    "object_id": "ep_b93e83e2ad3988fd",
+    "relation_type": "elaborates",
+    "reason": "第一个情节聚焦于陈识与赵国卉讨论比武后果并决定逃离，第二个情节进一步展开二人在情感层面的告别细节，包括赵国卉设定离别条件和陈识以拍肩完成送行。两个情节共享同一场景（scene_43）和核心互动，后者通过情感表达深化了前者中决策的人际影响，构成对前一情节的扩展说明。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_abeb2c482e59",
+    "subject_id": "ep_7bff86a29f825d56",
+    "object_id": "ep_ba7173bb27dd1d52",
+    "relation_type": "precedes",
+    "reason": "根据描述，'救助与突然亲吻'中耿良辰苏醒并亲吻茶汤女，直接引发后续'情感冲突与逃离'中茶汤女的羞愤反应和逃离行为，两个情节发生在同一场景（scene_30），但事件顺序上前者先发生，后者作为即时后续反应，叙事顺序明确。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e663c8581eb4",
+    "subject_id": "ep_655e1047ca9d6aee",
+    "object_id": "ep_f24318b226035b84",
+    "relation_type": "precedes",
+    "reason": "夺回手包并震慑对手发生在陈识察觉真实威胁并紧急撤离之前，两个情节共享同一场景（scene_23），且事件序列显示夺回手包后，陈识才突然警觉并决定撤离，叙事顺序明确。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_878d0767243b",
+    "subject_id": "ep_2a1efb0431a2ad80",
+    "object_id": "ep_d539296f8cd2d370",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，耿良辰先表达对师父师娘的依赖（ep_2a1efb0431a2ad80），随后在赵国卉准备离开时澄清比武的公正性（ep_d539296f8cd2d370），两个情节均发生在scene_36，且叙事顺序支持前者早于后者。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dc41dbd0130e",
+    "subject_id": "ep_3df1c2103ba569ff",
+    "object_id": "ep_787e004c79956167",
+    "relation_type": "precedes",
+    "reason": "耿良辰从左侧发动刺刀进攻并迫使旗袍女子两次闪避形成一字马，发生在女子展开双刀交锋并使用白腿攻击之前，根据描述中动作的逻辑顺序，攻防起始于耿良辰的主动进攻，随后女子转为反击，因此主体情节在叙事时序上先于客体情节。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cffaf3818c56",
+    "subject_id": "ep_055cd9f80191cdf8",
+    "object_id": "ep_b903476e452d1525",
+    "relation_type": "elaborates",
+    "reason": "‘质疑会议权威并确认仪式意图’中邹馆长重申摆茶仪式的意图，而‘揭示摆茶仪式的立场与规则’进一步解释该仪式的象征意义和北方武行的规矩，提供了更深层的背景和规则依据，因此后者对前者中提到的仪式意图进行了扩展和阐明。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_14a5cff51de2",
+    "subject_id": "ep_2a5c7f1a18ee1c46",
+    "object_id": "ep_d539296f8cd2d370",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'冲突升级与控制权反转'中的事件（耿良辰夺刀并制住赵国卉）发生在'澄清误会以安抚师娘'之前（耿良辰澄清比武的公正性），两者均发生在scene_36，但控制权反转在前，随后耿良辰进行解释以安抚赵国卉，因此叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_67004169141e",
+    "subject_id": "ep_787e004c79956167",
+    "object_id": "ep_5ebe1097e2a6d798",
+    "relation_type": "precedes",
+    "reason": "‘展开双刀交锋与非常规腿攻’发生在比试过程中，而‘战后搂抱晕倒的对手’发生在比试结束后，两者共享同一场合‘武厅双刀比试 (scene_28)’，且事件顺序明确：交锋在前，搂抱晕倒者在后。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1189f047ae6b",
+    "subject_id": "ep_787e004c79956167",
+    "object_id": "ep_ad323618ad71442c",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合'武厅双刀比试 (scene_28)'中，且描述的事件序列显示：旗袍女子先使用白腿攻击并引发耿良辰质问，随后进入近身缠斗并被头撞击晕倒。叙事顺序和事件发展逻辑支持第一个情节在时间上早于第二个情节。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_10d7149e5b43",
+    "subject_id": "ep_64de946f2c2e43e3",
+    "object_id": "ep_fc781b0e84ad330e",
+    "relation_type": "precedes",
+    "reason": "根据描述，陈识传授比试要领并考验耿良辰发生在巷道中，且耿良辰随后离开；而箱带脱落发生在耿良辰离开之后，陈识情绪波动时。因此，传授与考验情节在叙事顺序上直接早于箱带脱落情节。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d8e55b9b3808",
+    "subject_id": "ep_85a84363552c4e07",
+    "object_id": "ep_3df1c2103ba569ff",
+    "relation_type": "precedes",
+    "reason": "开启武厅双刀比试准备描述了耿良辰与旗袍女子为比试做准备的对峙场景，而实施刺刀压制与连续闪避则是比试开始后的具体攻防动作。根据叙事顺序，准备阶段在实际交手之前，且两个情节共享同一场合'武厅双刀比试'，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b6d955e6a488",
+    "subject_id": "ep_46a83fc7b04f26f4",
+    "object_id": "ep_cc39ee50d4a1bcf5",
+    "relation_type": "precedes",
+    "reason": "陈识邀徒并确立师徒关系发生在耿良辰踢馆归家之前，因为师徒关系的建立是后续归家情节中称呼和互动的前提。文本中耿良辰归家时已称陈识为师父，表明师徒关系早已确立。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_05d287cab73a",
+    "subject_id": "ep_3537e8b3a0e12ed6",
+    "object_id": "ep_db92e480fc32433d",
+    "relation_type": "elaborates",
+    "reason": "陈识通过武道精神表达情感约束的情节，以挥刀习惯为隐喻，扩展并深化了此前与赵国卉确立婚姻中相互承诺时所表达的情感与界限。该行为为前一情节中未完全阐明的情感承诺提供了具体化和象征性解释，构成对主体承诺的进一步阐述。",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2bcff0e9bd97",
+    "subject_id": "ep_1d6227ec40035cc9",
+    "object_id": "ep_1510086b4b186a03",
+    "relation_type": "elaborates",
+    "reason": "赵国卉表达家族归属与婚姻牺牲的情节提供了关于她与陈识离别情感的深层文化与个人牺牲背景，扩展了后续情感交流的内涵。两个情节均发生在同一场景（scene_23__2），且前者为后者中情感深度的建立提供解释，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_23__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6dbff1928a41",
+    "subject_id": "ep_3ab261f615c96f74",
+    "object_id": "ep_766d509e6a8fffd9",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_23，且陈识表达战斗意图并安抚赵国卉的事件在叙事顺序上早于头目大爷威胁后逃离现场。前者为对峙前的情绪铺垫，后者为对峙的直接发展，文本中事件序列支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ca23ad8691ac",
+    "subject_id": "ep_3df1c2103ba569ff",
+    "object_id": "ep_ad323618ad71442c",
+    "relation_type": "precedes",
+    "reason": "耿良辰先实施刺刀压制与连续闪避，迫使旗袍女子扑空成一字马，随后进入近身缠斗并以头击晕对手。两个情节发生在同一场合'武厅双刀比试'中，且描述的行动具有明确的先后顺序：先远程进攻压制，再近身终结，叙事顺序清晰。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e26e8584cfcb",
+    "subject_id": "ep_85a84363552c4e07",
+    "object_id": "ep_ad323618ad71442c",
+    "relation_type": "precedes",
+    "reason": "‘开启武厅双刀比试准备’描述了耿良辰与旗袍女子为双刀比试做准备并拉开序幕，而‘近身缠斗并以头击晕对手’描述了比试中的决定性动作，二者共享同一场合‘武厅双刀比试’，且准备阶段在叙事顺序上明确早于缠斗决胜阶段。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c69cabf937e5",
+    "subject_id": "ep_5b23304802a5d858",
+    "object_id": "ep_cc39ee50d4a1bcf5",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_25），但根据描述，'回应缺席酒席并展示胜利成果'中耿良辰宣称大胜并带回螃蟹，逻辑上先于'处理踢馆后的归家与安顿'中他叫醒师父、被安置等后续互动，叙事顺序上前者紧接后者发生，因此主体情节在话语和事件流中先于客体情节。",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_55f9735712ed",
+    "subject_id": "ep_766d509e6a8fffd9",
+    "object_id": "ep_f24318b226035b84",
+    "relation_type": "precedes",
+    "reason": "头目大爷威胁后逃离现场发生在陈识察觉真实威胁并紧急撤离之前。根据描述，头目大爷逃跑并挑衅后，陈识才突然警觉、小黄狗示警，随后迅速撤离，表明两个情节在同一个场景（scene_23）中按时间顺序先后发生。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b9b5ee3e0737",
+    "subject_id": "ep_85a84363552c4e07",
+    "object_id": "ep_787e004c79956167",
+    "relation_type": "precedes",
+    "reason": "开启武厅双刀比试准备描述了耿良辰与旗袍女子为比试做准备并拉开序幕，而展开双刀交锋与非常规腿攻描述了比试开始后的具体对抗动作。根据叙事顺序，准备阶段在交锋动作之前，且两个情节共享同一场合'武厅双刀比试'，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a5ef893a498a",
+    "subject_id": "ep_d3384b08e132a9a9",
+    "object_id": "ep_6433f7d8cb00292d",
+    "relation_type": "precedes",
+    "reason": "双刀比试（包括突袭与反击）发生在陈识拔出刀片示警之前，根据描述，拔出带血刀片是比试结束后的动作，用于表明比试的危险性，因此‘展开双刀比试并应对突袭’在叙事顺序上直接早于‘处理比试后的伤情以示警示’。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_980ce5708171",
+    "subject_id": "ep_7bff86a29f825d56",
+    "object_id": "ep_7d288786bb85f576",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'救助与突然亲吻'中的事件（茶汤女呼喊并扶起耿良辰，耿良辰亲吻她）发生在'承诺改变以回应关切'之前（耿良辰击打木桩并承诺不再踢馆）。两个情节均发生在scene_30，但亲吻事件先发生，随后茶汤女表达冷漠态度，进而引发耿良辰的承诺行为，叙事顺序明确。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eaf24b3dd9a2",
+    "subject_id": "ep_2ce50d80489cdb00",
+    "object_id": "ep_c3007c9e8e8c7b96",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一文档（doc_23）的同一场景（scene_23__2）中。根据描述，陈识先讲述身世与武艺渊源，期间制服多名赤膊男子；随后背起赵国卉回家，结束离别。事件序列在叙述中呈现清晰的时间顺序，前者在话语和行动上直接早于后者。",
+    "source_documents": [
+      "scene_23__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7150c8102410",
+    "subject_id": "ep_8dc623aede598d78",
+    "object_id": "ep_7d288786bb85f576",
+    "relation_type": "precedes",
+    "reason": "根据描述，茶汤女劝阻耿良辰不要去踢馆并引发其激烈训练（ep_8dc623aede598d78）发生在耿良辰击打木桩双刀以承诺改变（ep_7d288786bb85f576）之前，二者均基于scene_30的连续动作，前者为因，后者为果，具有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_47443e03a2b4",
+    "subject_id": "ep_3ab261f615c96f74",
+    "object_id": "ep_655e1047ca9d6aee",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一文档（doc_22）的同一场景（scene_23）中。主体情节描述陈识表达战斗意图并安抚赵国卉，涉及提及狗和蹲下安抚的动作；客体情节描述陈识实际执行武力夺回手包并震慑对手，包含打斗和对峙。根据叙事逻辑，表达意图和情感安抚在动作执行之前，构成自然的时间顺序。因此，主体情节在叙事顺序上先于客体情节。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_726b877140ef",
+    "subject_id": "ep_14b89e50919a5282",
+    "object_id": "ep_faaea1c867e59209",
+    "relation_type": "precedes",
+    "reason": "根据描述，陈识终止师徒关系并揭示踢馆规则后，郑山傲才要求私谈并遣退段锐，两个情节均发生在scene_16，且事件顺序在叙述中呈现为先后发生：先有陈识拒绝承认段锐为徒和郑山傲揭示规则，随后郑山傲示意段锐离开。因此，'终止师徒关系并揭示踢馆规则'在叙事顺序上直接早于'郑山傲要求私谈并遣退段锐'。",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_11c1a5fbb370",
+    "subject_id": "ep_8ef4977087f1ad06",
+    "object_id": "ep_8b8365825d717e8d",
+    "relation_type": "elaborates",
+    "reason": "情节'发起踢馆并确立挑战条件'中耿良辰的挑战行为为背景，'揭示双方的相互关注'通过邹馆长透露前期关注耿良辰的举动，进一步扩展了双方互动的深层动机和背景，提供了对挑战情境的额外解释。两个情节共享同一场合'耿良辰踢馆挑战'，且后者未改变叙事方向或产生直接后果，而是补充了主体间的相互认知，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2065ae8ff4bc",
+    "subject_id": "ep_cc39ee50d4a1bcf5",
+    "object_id": "ep_2876d5910c99344d",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'处理踢馆后的归家与安顿'发生在耿良辰踢馆归来后立即回家并引发家庭反应，而'共进晚餐并评价踢馆首日的意义'则是在之后的晚餐场景中对当天事件进行回顾和评价。两个情节共享scene_25的事件，且叙事顺序上归家安顿在前，共进晚餐在后，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_27cb7ca86f00",
+    "subject_id": "ep_b222d4d4e89c038b",
+    "object_id": "ep_700eacad696f8511",
+    "relation_type": "precedes",
+    "reason": "双刀对练中展示挟刀揉手技法发生在郑山傲评价刀法支持两年踢馆之前，因为对练是评价的直接前提，文本中郑山傲在对练结束后才做出该评价。",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b59984ca7def",
+    "subject_id": "ep_3ab261f615c96f74",
+    "object_id": "ep_f24318b226035b84",
+    "relation_type": "precedes",
+    "reason": "陈识表达战斗意图并安抚赵国卉发生在察觉真实威胁并紧急撤离之前，两个情节均位于scene_23，且逻辑上情绪表达和安抚行为先于警觉和撤离行动，叙事顺序支持此先后关系。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ec55236969a5",
+    "subject_id": "ep_e8f0ab5181742b29",
+    "object_id": "ep_fb26685de7bb30a1",
+    "relation_type": "causes",
+    "reason": "耿良辰拒绝退行费并捍卫小车的行为直接引发东家围攻并摧毁书摊，描述中明确指出‘在耿良辰拒绝妥协后，东家下令打砸书摊’，构成直接因果关系。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5ec68033b6c1",
+    "subject_id": "ep_b903476e452d1525",
+    "object_id": "ep_e1ecb597575953d4",
+    "relation_type": "elaborates",
+    "reason": "揭示摆茶仪式的立场与规则为后续协商武馆开设条件提供了背景和规则依据，说明北方武行的规矩如何影响谈判结果，因此该情节扩展了解释性背景。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e05dee9bed6d",
+    "subject_id": "ep_1ce462a46989c14e",
+    "object_id": "ep_80984ec82c1214c3",
+    "relation_type": "precedes",
+    "reason": "林文希突袭并引发搏斗发生在郑山傲苏醒并质问阴谋之前，根据相关事件的时间顺序，搏斗结束后郑山傲才在桌上醒来并意识到被算计，因此该关系在叙事顺序上明确支持。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fe9bbc37ecdb",
+    "subject_id": "ep_e8562379046fb538",
+    "object_id": "ep_dd6c9520cb9bc656",
+    "relation_type": "precedes",
+    "reason": "耿良辰登门挑战比试发生在耿良辰进攻被化解之前，因为登门挑战是发起比试的行为，而进攻被化解是比试过程中的具体交手情节，二者在叙事顺序上具有明确的先后关系。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_886e7d2d0446",
+    "subject_id": "ep_bed8761d26983221",
+    "object_id": "ep_144cb753110d564a",
+    "relation_type": "precedes",
+    "reason": "耿良辰展示武艺并挑战光头中年男子发生在比武过程中，而耿良辰带伤离开现场发生在比武结束后，描述中明确指出后者标志着比武事件的结束，因此前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8bc2c1da4054",
+    "subject_id": "ep_413ce15ddfc6c546",
+    "object_id": "ep_6e6004da7fcb87d4",
+    "relation_type": "precedes",
+    "reason": "林副官先控制冲突并夺下茶汤女的匕首，随后才将匕首归还并指示她去通知警察。两个情节发生在同一场景（scene_48），且描述中的动作顺序表明前者在叙事和时间顺序上直接早于后者。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5d0bb57dc68a",
+    "subject_id": "ep_b903476e452d1525",
+    "object_id": "ep_024e350ec2544080",
+    "relation_type": "elaborates",
+    "reason": "揭示摆茶仪式的立场与规则为陈识后续提出离开天津的条件提供了背景和规则依据，说明其请求的语境和武行内部的象征意义，因此该情节扩展并解释了后者的情境。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_fa0a277d3ace",
+    "subject_id": "ep_1ce462a46989c14e",
+    "object_id": "ep_dfda3c74d5bc7662",
+    "relation_type": "precedes",
+    "reason": "根据相关事件均发生在scene_41且描述的叙事顺序，'林文希突袭并引发搏斗'在时间上先于'拒绝房产并谴责徒弟夺名'，前者是冲突的高潮，后者是冲突后的结果性对话，因此存在明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2f9a79b261f2",
+    "subject_id": "ep_8ef4977087f1ad06",
+    "object_id": "ep_a62f17b22d907396",
+    "relation_type": "elaborates",
+    "reason": "在挑战确立后，耿良辰提出以喝咖啡代替喝茶汤，这一行为扩展了先前确立挑战时的尊严界限，通过现代方式表达尊重，从而对‘发起踢馆并确立挑战条件’这一情节提供了额外的仪式性细节和意图说明。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d08a05992f20",
+    "subject_id": "ep_055cd9f80191cdf8",
+    "object_id": "ep_024e350ec2544080",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'质疑会议权威并确认仪式意图'发生在scene_45，而'陈识以离开天津为条件求邹馆长放过徒弟'发生在scene_47，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8c87977194d1",
+    "subject_id": "ep_32a2f5539a7e9d81",
+    "object_id": "ep_7d2d456824bb48ca",
+    "relation_type": "elaborates",
+    "reason": "揭示武馆衰落的根源为应对踢馆危机并追忆武术荣光提供了背景和深层原因，说明当前危机的根源在于传承断裂和虚假繁荣，从而扩展了后者的情境和动机。",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ac4b92a4a1ed",
+    "subject_id": "ep_4b6303c9b5cf0251",
+    "object_id": "ep_e1ecb597575953d4",
+    "relation_type": "precedes",
+    "reason": "陈识现身应对权力试探发生在邹馆长与陈识协商武馆开设条件之前，根据事件序列，陈识先表明自己无意争斗，随后双方在茶馆阳台就徒弟踢馆引发的风波进行谈判并达成协议。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b1457619c1b1",
+    "subject_id": "ep_9967c5db2e2b8f07",
+    "object_id": "ep_b93e83e2ad3988fd",
+    "relation_type": "precedes",
+    "reason": "陈识带赵国卉同行发生在一年后两人关系的延续场景，而确立离别条件并完成最终告别是后续的情感终结事件，叙事上前者早于后者。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_de7371369ea4",
+    "subject_id": "ep_055cd9f80191cdf8",
+    "object_id": "ep_e1ecb597575953d4",
+    "relation_type": "precedes",
+    "reason": "质疑会议权威并确认仪式意图发生在武行馆长会议上，而协商武馆开设条件是在后续的茶馆阳台会面中进行的，文本中事件顺序明确，前者为后者提供叙事前提，因此该关系在时间顺序上得到明确支持。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_866c459eb8af",
+    "subject_id": "ep_532c24190770fcad",
+    "object_id": "ep_9967c5db2e2b8f07",
+    "relation_type": "precedes",
+    "reason": "主体情节描述陈识承诺一年后带赵国卉离开，客体情节描述一年后两人在街道上并肩而行，构成承诺实现的后续场景。时间顺序明确，叙事上前者直接早于后者。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4b7d965e853e",
+    "subject_id": "ep_08d3ebb1864c663c",
+    "object_id": "ep_9967c5db2e2b8f07",
+    "relation_type": "precedes",
+    "reason": "揭示赵国卉抽烟的恶习发生在文档11的场景12，而陈识带赵国卉同行发生在文档18的场景19，且描述中明确指出后者为‘一年后’，因此前者在时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_31729a0d8243",
+    "subject_id": "ep_9967c5db2e2b8f07",
+    "object_id": "ep_b640528a6f6621db",
+    "relation_type": "elaborates",
+    "reason": "陈识带赵国卉同行展现了两人关系的延续，为赵国卉倾诉过往并获得承诺提供了情感和情境背景，后者在对话和情感层面上深化了前者的互动内涵。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b38123748596",
+    "subject_id": "ep_9967c5db2e2b8f07",
+    "object_id": "ep_ce1dda1e76eb9111",
+    "relation_type": "precedes",
+    "reason": "根据描述，'陈识带赵国卉同行'发生在'一年后'，而'陈识表明回归广东的决心'发生在击退众人之后，结合叙事上下文，前者在时间顺序上早于后者，构成明确的先后关系。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_23__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_32f1d045daf9",
+    "subject_id": "ep_41eb79699963278f",
+    "object_id": "ep_9967c5db2e2b8f07",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在大桥上，陈识解救赵国卉并带离现场，时间为当前事件；第二个情节描述一年后两人在街道上并肩而行。根据时间信息，解救事件明显早于后续同行事件，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c17755e71b91",
+    "subject_id": "ep_5c767102d8c62c68",
+    "object_id": "ep_7c459f88f11f5b6e",
+    "relation_type": "precedes",
+    "reason": "‘进行双刀比武并裁定胜负’发生在英华武馆比武场合中，随后耿良辰被邀请参加晚宴，并带领馆主和公证人前往茶汤女摊位。描述中的事件顺序表明比武结束后才发生聚餐邀请和转移，因此该情节在叙事顺序上早于‘邀请并转移至茶汤女摊位聚餐’。",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8abcbb6ac264",
+    "subject_id": "ep_a0c86c6dc850d6cc",
+    "object_id": "ep_9967c5db2e2b8f07",
+    "relation_type": "elaborates",
+    "reason": "协商婚姻中的日常陪伴与物质态度这一情节通过对话展现了陈识与赵国卉之间关于陪伴和生活态度的共识，为后续陈识带赵国卉同行这一共现叙事提供了动机和背景解释，表明同行行为是此前协商结果的体现。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4879f7c9fccc",
+    "subject_id": "ep_3537e8b3a0e12ed6",
+    "object_id": "ep_9967c5db2e2b8f07",
+    "relation_type": "precedes",
+    "reason": "主体情节描述陈识在某一时刻宣布以赵国卉为人生约束，具有明确的承诺行为；客体情节发生在一年后，展现两人并肩而行。根据时间线索'一年后'，主体情节在叙事时间上明确早于客体情节，因此支持'precedes'关系。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_57e0ca0fb6f6",
+    "subject_id": "ep_34a17f7449d398ba",
+    "object_id": "ep_049d3819b05c40d2",
+    "relation_type": "precedes",
+    "reason": "‘揭露武馆转型与军界出路’发生在武厅会面中，郑山傲宣布武馆没落并指明军界前途，随后陈识目送郑山傲一行人离开武厅，象征旧时代的落幕。两个情节共享同一场合（武厅会面），且‘揭露’在叙事顺序上直接先于‘目送离开’，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_01b9581ec246",
+    "subject_id": "ep_5d5255934e7d4600",
+    "object_id": "ep_9967c5db2e2b8f07",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在餐馆外，陈识提出带赵国卉回广东或留钱，但被拒绝；第二个情节发生在一年后，陈识与赵国卉在街道上并肩而行。根据时间描述‘一年后’，可以明确第一个情节在叙事时间上早于第二个情节，因此支持‘precedes’关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3821a163e4aa",
+    "subject_id": "ep_7d2d456824bb48ca",
+    "object_id": "ep_5629e3f6a66f5a11",
+    "relation_type": "elaborates",
+    "reason": "情节 '应对踢馆危机并追忆武术荣光' 中郑山傲回忆韩兄弟的武术成就与早逝影响，为后续 '邹馆长解释谢师礼的江湖规矩' 提供了文化与情感背景，说明当前危机和规矩讨论植根于更深层的武术传统和失落感，因此前者扩展了解释江湖规矩的情节。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_dfd5111ea84a",
+    "subject_id": "ep_db92e480fc32433d",
+    "object_id": "ep_9967c5db2e2b8f07",
+    "relation_type": "precedes",
+    "reason": "情节'确立婚姻中的相互承诺'发生在婚前对话中，而'陈识带赵国卉同行'描述一年后两人在街道上并肩而行，表明后者在时间上晚于前者。因此，'确立婚姻中的相互承诺'在叙事顺序上早于'陈识带赵国卉同行'，构成precedes关系。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ebc1ae00ee43",
+    "subject_id": "ep_08d3ebb1864c663c",
+    "object_id": "ep_532c24190770fcad",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'揭示赵国卉抽烟的恶习'发生在scene_12，而'陈识返回并与赵国卉相会并许诺未来'发生在scene_17，scene_12在叙事顺序上早于scene_17，因此该关系为precedes。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2f19a54af7ba",
+    "subject_id": "ep_3537e8b3a0e12ed6",
+    "object_id": "ep_08d3ebb1864c663c",
+    "relation_type": "contrasts_with",
+    "reason": "陈识通过武道纪律表达自我克制和情感承诺，与赵国卉展现抽烟这一不受约束的个人恶习形成对比；两个情节在行为控制与放纵之间建立基调上的对立，且分别发生在亲密互动前后的不同场景中，凸显性格与态度的差异。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5e3a302e1324",
+    "subject_id": "ep_9967c5db2e2b8f07",
+    "object_id": "ep_b3bc7322ee4c8b37",
+    "relation_type": "precedes",
+    "reason": "根据描述，'陈识带赵国卉同行'发生于'一年后'，展现两人关系的延续，而'揭露婚姻真相并终结关系'则涉及婚姻伪装的暴露与关系决裂，包含赵国卉离开的结局。叙事上，关系的发展（同行）在时间上早于关系的终结（揭露与分离），因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c0a66c38a665",
+    "subject_id": "ep_7d2d456824bb48ca",
+    "object_id": "ep_80984ec82c1214c3",
+    "relation_type": "precedes",
+    "reason": "情节 '应对踢馆危机并追忆武术荣光' 发生在文档 doc_38，而 '郑山傲苏醒并质问阴谋' 发生在文档 doc_40，文档编号顺序表明前者在叙事时间线上早于后者。此外，前者涉及郑山傲决定应对危机，后者则展现其被徒弟算计后的反应，逻辑上前者为后者的背景铺垫。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_34b621bc28f9",
+    "subject_id": "ep_4b6303c9b5cf0251",
+    "object_id": "ep_024e350ec2544080",
+    "relation_type": "precedes",
+    "reason": "陈识现身应对权力试探（ep_4b6303c9b5cf0251）发生在与邹馆长的早期互动中，展示其试图通过谦卑姿态避免冲突；而陈识以离开天津为条件求邹馆长放过徒弟（ep_024e350ec2544080）是后续的让步请求，表明关系恶化后的进一步退让。根据叙事逻辑和事件升级顺序，前者在时间上先于后者。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7afab8c27ff7",
+    "subject_id": "ep_532c24190770fcad",
+    "object_id": "ep_b3bc7322ee4c8b37",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节描绘陈识与赵国卉重逢并承诺未来，展现情感联结与希望；第二个情节揭示婚姻伪装、关系决裂，最终赵国卉离开，呈现情感破裂与终结。两者在情感基调、关系状态和结果上形成明显逆转与对比，构成叙事上的对照。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_15f70d2ebe47",
+    "subject_id": "ep_532c24190770fcad",
+    "object_id": "ep_5d5255934e7d4600",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均围绕陈识向赵国卉提出未来安排展开，但第一个情节中陈识承诺并怀抱希望，第二个情节中其提议遭拒绝且赵国卉傲娇离开，形成情感结果上的明显逆转与对比，体现了从期望到挫败的叙事反差。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_97f6baec29b8",
+    "subject_id": "ep_532c24190770fcad",
+    "object_id": "ep_ce1dda1e76eb9111",
+    "relation_type": "precedes",
+    "reason": "陈识返回并与赵国卉相会并许诺未来发生在陈识表明回归广东的决心之前，依据叙事顺序，承诺一年后带她离开的事件早于他重申必须返回广东的决定，且两者在情感发展上呈现时间上的先后连贯性。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_23__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3d578e0d1431",
+    "subject_id": "ep_3537e8b3a0e12ed6",
+    "object_id": "ep_532c24190770fcad",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中陈识通过武道习惯表达自我约束，并将赵国卉视为人生约束，为第二个情节中他返回与赵国卉相会并承诺未来提供了情感和动机上的解释与扩展。后者的行为体现了前一情节所确立的情感承诺的具体实现，因此前者通过提供内在动机背景来扩展后者。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a0b89c7fff6b",
+    "subject_id": "ep_1d6227ec40035cc9",
+    "object_id": "ep_b3bc7322ee4c8b37",
+    "relation_type": "precedes",
+    "reason": "赵国卉表达家族归属与婚姻牺牲发生在她揭露婚姻真相并终结关系之前，前者是情感铺垫，后者是关系的最终决裂，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_23__2_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c5b2df139cfc",
+    "subject_id": "ep_db92e480fc32433d",
+    "object_id": "ep_b3bc7322ee4c8b37",
+    "relation_type": "precedes",
+    "reason": "情节'确立婚姻中的相互承诺'发生在婚前对话场景中，而'揭露婚姻真相并终结关系'发生在后续院内对峙场景，包含婚姻伪装的暴露与关系结束。根据事件时序，婚前承诺的确立在叙事顺序上明确早于婚姻关系的揭露与终结。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8f6be3340981",
+    "subject_id": "ep_3537e8b3a0e12ed6",
+    "object_id": "ep_b3bc7322ee4c8b37",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节中陈识以武道精神表达情感约束，展现承诺与自我克制的升华；而第二个情节中婚姻被揭露为伪装并以决裂告终，形成情感承诺与现实破裂之间的强烈对比。两个情节在情感基调和结果上呈现逆转，构成对比关系。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6e28802e2339",
+    "subject_id": "ep_41eb79699963278f",
+    "object_id": "ep_532c24190770fcad",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，陈识解救赵国卉并带离现场（ep_41eb79699963278f）发生在大桥上的冲突场景（scene_13），而陈识返回并与赵国卉相会并许诺未来（ep_532c24190770fcad）发生在后续的房屋场景（scene_17），文档中scene_13在scene_17之前，因此该关系为precedes。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_88c73b997928",
+    "subject_id": "ep_b3bc7322ee4c8b37",
+    "object_id": "ep_b93e83e2ad3988fd",
+    "relation_type": "precedes",
+    "reason": "情节 '揭露婚姻真相并终结关系' 发生在赵国卉带着行李离开的对峙场景中（scene_33），而 '确立离别条件并完成最终告别' 发生在后续场景（scene_43），文本中场景编号递增且事件逻辑连贯，表明前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_790691bcef15",
+    "subject_id": "ep_b640528a6f6621db",
+    "object_id": "ep_b3bc7322ee4c8b37",
+    "relation_type": "precedes",
+    "reason": "赵国卉倾诉过往并获得承诺发生在她揭露婚姻真相并终结关系之前，情感承诺的建立与后续关系的破裂形成叙事上的先后顺序，且两个情节分别位于不同文档场景中（scene_23 在 scene_33 之前），支持明确的时间顺序。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a7f2c45c133a",
+    "subject_id": "ep_532c24190770fcad",
+    "object_id": "ep_b93e83e2ad3988fd",
+    "relation_type": "precedes",
+    "reason": "陈识返回并与赵国卉相会并许诺未来发生在陈识即将离开的背景下，而确立离别条件并完成最终告别是该离别过程的后续步骤。描述中，陈识承诺一年后带她离开，但最终未能实现，转而发展为赵国卉设定离别条件并接受送行，表明前者在叙事顺序上早于后者。两个情节共享人物和情感线索，但构成时间上的先后阶段，因此支持'precedes'关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eecfa42d0a83",
+    "subject_id": "ep_41eb79699963278f",
+    "object_id": "ep_b93e83e2ad3988fd",
+    "relation_type": "precedes",
+    "reason": "解救赵国卉并带离现场发生在大桥冲突场景中，而确立离别条件并完成最终告别发生在后续的离别场景，两个情节在叙事顺序上具有明确的时间先后关系，前者早于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_539e3fd37f5b",
+    "subject_id": "ep_5d5255934e7d4600",
+    "object_id": "ep_b3bc7322ee4c8b37",
+    "relation_type": "precedes",
+    "reason": "情节 '陈识提议赵国卉共赴未来并遭拒绝' 发生在餐馆外，围绕陈识提出未来安排并被赵国卉情感性拒绝展开；而 '揭露婚姻真相并终结关系' 发生在院内，涉及婚姻伪装的暴露与关系的正式决裂。根据叙事逻辑和事件发展，情感拒绝为后续婚姻真相揭露和关系终结提供了情感与动机铺垫，且两个情节具有清晰的时间推进性，前者在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d3daa82f92ba",
+    "subject_id": "ep_532c24190770fcad",
+    "object_id": "ep_1510086b4b186a03",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，陈识返回并与赵国卉相会并许诺未来（ep_532c24190770fcad）发生在陈识与赵国卉互诉离别情感（ep_1510086b4b186a03）之前。前者包含陈识承诺一年后带她离开，后者则是两人告别时的情感交流，逻辑上承诺在前，离别在后，且文档中事件序列支持该时间顺序。",
+    "source_documents": [
+      "scene_23__2_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d44a216ed5f0",
+    "subject_id": "ep_3ab261f615c96f74",
+    "object_id": "ep_b3bc7322ee4c8b37",
+    "relation_type": "precedes",
+    "reason": "情节'陈识表达战斗意图并安抚赵国卉'发生在紧张局势初期，涉及对战斗意愿的表达和对小黄狗的情感安抚；而'揭露婚姻真相并终结关系'则发生在后续场景中，包含婚姻伪装的暴露、对峙升级及赵国卉离开的闭环结局。根据叙事顺序和事件发展逻辑，前者在时间线上明确早于后者。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1c098afde9d2",
+    "subject_id": "ep_5d5255934e7d4600",
+    "object_id": "ep_ce1dda1e76eb9111",
+    "relation_type": "precedes",
+    "reason": "陈识提议赵国卉共赴未来并遭拒绝发生在陈识表明回归广东的决心之前。前者发生在餐馆外，以情感冲突为主；后者发生在击退众人后，陈识重申必须返回广东。两个情节共享陈识与赵国卉的互动线索，且叙事顺序上前者早于后者，构成明确的时间先后关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_23__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_63a23747859b",
+    "subject_id": "ep_41eb79699963278f",
+    "object_id": "ep_e312c7498871671a",
+    "relation_type": "precedes",
+    "reason": "解救赵国卉并带离现场发生在大桥上（scene_13），而陈识回应挑战并准备比试发生在回家之后（scene_14），scene_13在叙事顺序上早于scene_14，因此该情节在话语顺序上先于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e5886852f668",
+    "subject_id": "ep_5d5255934e7d4600",
+    "object_id": "ep_b93e83e2ad3988fd",
+    "relation_type": "precedes",
+    "reason": "陈识提议赵国卉共赴未来并遭拒绝发生在赵国卉确立离别条件并完成最终告别之前。前者是陈识主动提出未来安排但被情感性拒绝，后者是双方明确离别条件并完成告别仪式，叙事顺序上前者为后续的正式告别铺垫，且相关事件均发生在不同场景（scene_9 vs scene_43），支持明确的时间先后关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5de26621d4df",
+    "subject_id": "ep_41eb79699963278f",
+    "object_id": "ep_46a83fc7b04f26f4",
+    "relation_type": "precedes",
+    "reason": "解救赵国卉并带离现场发生在大桥上（scene_13），而陈识邀徒并确立师徒关系发生在之后的共进螃蟹场景（scene_14），文档中场景编号递增且事件顺序连贯，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2c27706d2ef7",
+    "subject_id": "ep_41eb79699963278f",
+    "object_id": "ep_5d5255934e7d4600",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，解救赵国卉并带离现场（scene_13）在叙事顺序上晚于陈识提议赵国卉共赴未来并遭拒绝（scene_9），因此后者在时间上先于前者。故关系为 'precedes'，方向为 ep_5d5255934e7d4600 -> ep_41eb79699963278f。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7c159ae7b9ff",
+    "subject_id": "ep_41eb79699963278f",
+    "object_id": "ep_1510086b4b186a03",
+    "relation_type": "precedes",
+    "reason": "解救赵国卉并带离现场发生在陈识与赵国卉互诉离别情感之前，根据叙事顺序，陈识先在大桥上解救赵国卉，之后两人才有情感交流与告别。相关事件的时间和上下文支持这一先后顺序。",
+    "source_documents": [
+      "scene_23__2_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d096ab6b0c5b",
+    "subject_id": "ep_5d5255934e7d4600",
+    "object_id": "ep_e312c7498871671a",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节内容，陈识提议赵国卉共赴未来并遭拒绝（ep_5d5255934e7d4600）发生在餐馆外场景（scene_9），而陈识回应挑战并准备比试（ep_e312c7498871671a）发生在回家后的场景（scene_14），scene_9在叙事顺序上早于scene_14，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c81d1fbeb7e6",
+    "subject_id": "ep_5d5255934e7d4600",
+    "object_id": "ep_1510086b4b186a03",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，陈识提议赵国卉共赴未来并遭拒绝（ep_5d5255934e7d4600）发生在餐馆外，而陈识与赵国卉互诉离别情感（ep_1510086b4b186a03）发生在后续的情感告别场景中，具有明确的叙事顺序。前者为公开场合的未来提议与拒绝，后者为私密情感交流与照片托付，逻辑与话语顺序上前者早于后者。",
+    "source_documents": [
+      "scene_23__2_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_575f1f8668e5",
+    "subject_id": "ep_46a83fc7b04f26f4",
+    "object_id": "ep_5e1b73ded15c141c",
+    "relation_type": "precedes",
+    "reason": "陈识邀徒并确立师徒关系发生在先，为后续赵国卉对徒弟品行的担忧提供了前提；应对徒弟品行问题的对话发生在师徒关系确立之后，且涉及对已存在徒弟的评价，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_032acca2ba24",
+    "subject_id": "ep_9a95845799c66d4c",
+    "object_id": "ep_ac4b9614ad9cb185",
+    "relation_type": "causes",
+    "reason": "陈识通过提议让狗陪伴赵国卉表达关心，直接引发赵国卉的情绪波动和逃离行为，文本描述中明确将她的逃离置于该提议之后并归因于情感压力，构成直接的因果关系。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_f59fa196c6cc",
+    "subject_id": "ep_6ae465f79c87f3a5",
+    "object_id": "ep_9a95845799c66d4c",
+    "relation_type": "contrasts_with",
+    "reason": "赵国卉重申不购物的约定强调规则和克制，而陈识通过小狗表达陪伴意图则体现情感流露和突破常规的关心，二者在行为动机和情感表达上形成对比，构成基调上的对立。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_974bbd240283",
+    "subject_id": "ep_6ae465f79c87f3a5",
+    "object_id": "ep_ac4b9614ad9cb185",
+    "relation_type": "contrasts_with",
+    "reason": "赵国卉重申不购物的约定体现对规则的克制与控制，而她随后因情感压力选择逃离则表现出情绪失控与回避，二者在情感表达和行为反应上形成对比，突显其内在矛盾。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b6f1ee5199c7",
+    "subject_id": "ep_184995cac5d6bfe4",
+    "object_id": "ep_d539296f8cd2d370",
+    "relation_type": "precedes",
+    "reason": "赵国卉评价耿良辰并获回应发生在耿良辰澄清误会以安抚师娘之前，根据相关事件的场景编号（scene_26 在 scene_36 之前），叙事顺序明确支持该关系。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_026ea4cef6fb",
+    "subject_id": "ep_184995cac5d6bfe4",
+    "object_id": "ep_2437f85db045792e",
+    "relation_type": "precedes",
+    "reason": "赵国卉评价耿良辰并获回应发生在耿良辰返回仓房并遭遇搜查之前，根据叙事顺序，前者在文档25中，后者在文档35中，且情节发展显示两人关系从礼节性互动转向紧张对峙，时间顺序明确。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fd6e6d10c0e1",
+    "subject_id": "ep_184995cac5d6bfe4",
+    "object_id": "ep_2a5c7f1a18ee1c46",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节展示赵国卉与耿良辰之间礼节性、温和的互动，体现拘谨与敬意；第二个情节则展现两人之间紧张、对抗性的对峙，局势反转，体现出信任与危险的张力。两个情节在互动基调和权力关系上形成明显对比，支持'contrasts_with'关系。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_20ecafc64d48",
+    "subject_id": "ep_184995cac5d6bfe4",
+    "object_id": "ep_2a1efb0431a2ad80",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中赵国卉与耿良辰的礼节性互动展现了表面的拘谨与敬意，而第二个情节通过耿良辰的情感倾诉揭示了他更深层的孤独与对师门的依赖，从而扩展并深化了人物关系的理解。因此，第一个情节为第二个情节提供了背景，后者对其进行了情感上的扩展。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e4760aeed0ae",
+    "subject_id": "ep_184995cac5d6bfe4",
+    "object_id": "ep_46a83fc7b04f26f4",
+    "relation_type": "precedes",
+    "reason": "赵国卉评价耿良辰并获回应发生在陈识邀徒并确立师徒关系之前，因为前者是两人初次互动的礼节性交流，而后者涉及陈识邀请耿良辰拜师及正式确立师徒关系，包含共进螃蟹等后续情节，叙事顺序上明确前者早于后者。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6fefc59b925a",
+    "subject_id": "ep_184995cac5d6bfe4",
+    "object_id": "ep_e8562379046fb538",
+    "relation_type": "precedes",
+    "reason": "赵国卉评价耿良辰并获回应发生在耿良辰登门挑战比试之前，根据叙事顺序，前者为两人初次互动体现礼节性交流，后者为耿良辰因觊觎赵国卉美色而发起挑战，时间上存在先后关系，且前者为后者的动机铺垫提供了上下文。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_272032e34dd5",
+    "subject_id": "ep_2876d5910c99344d",
+    "object_id": "ep_a0c86c6dc850d6cc",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均围绕‘螃蟹’展开家庭对话，但语境和功能不同：一个是师门内部对弟子成长的深层评价与情感联结，另一个是夫妻间关于日常陪伴与物质态度的轻松协商。两者在叙事基调上形成对比——前者庄重、富有传承意义，后者轻松、生活化，通过相似符号（螃蟹）展现不同关系维度和情感层次。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_f9c15cd59745",
+    "subject_id": "ep_2a5c7f1a18ee1c46",
+    "object_id": "ep_46a83fc7b04f26f4",
+    "relation_type": "precedes",
+    "reason": "情节'冲突升级与控制权反转'发生在耿良辰与赵国卉的对峙中，而'陈识邀徒并确立师徒关系'发生在比试后三人共进螃蟹时，叙事顺序上前者早于后者，且两者之间存在明确的事件发展流程。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b8caaa7f9a05",
+    "subject_id": "ep_46a83fc7b04f26f4",
+    "object_id": "ep_2a1efb0431a2ad80",
+    "relation_type": "precedes",
+    "reason": "陈识邀徒并确立师徒关系发生在耿良辰向赵国卉递水被拒及情感倾诉之前，根据叙事顺序，师徒关系的正式确立是后续互动的前提。相关事件在文档中按时间顺序呈现，doc_13（确立关系）早于doc_35（情感试探），支持该时序关系。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_804878f87871",
+    "subject_id": "ep_e8562379046fb538",
+    "object_id": "ep_2a1efb0431a2ad80",
+    "relation_type": "precedes",
+    "reason": "耿良辰登门挑战比试（ep_e8562379046fb538）发生在师徒对峙中的情感倾诉与试探（ep_2a1efb0431a2ad80）之前，根据相关事件的时间顺序：挑战比试出现在scene_14，而情感倾诉出现在scene_36，表明前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3a4ea291d1ad",
+    "subject_id": "ep_e8562379046fb538",
+    "object_id": "ep_d539296f8cd2d370",
+    "relation_type": "precedes",
+    "reason": "耿良辰登门挑战比试发生在赵国卉担忧比武后果之前，因此‘耿良辰登门挑战比试’在叙事顺序上早于‘澄清误会以安抚师娘’。挑战事件引发赵国卉的担忧，随后耿良辰在她离开前进行解释，时间顺序明确。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ccf07550cf81",
+    "subject_id": "ep_e8562379046fb538",
+    "object_id": "ep_2a5c7f1a18ee1c46",
+    "relation_type": "precedes",
+    "reason": "耿良辰登门挑战比试发生在冲突升级与控制权反转之前。根据描述，登门挑战时耿良辰搭话赵国卉并被告知等待陈识回来，而冲突升级发生在后续互动中，耿良辰递水被拒后局势突变。叙事时间线上，挑战比试为前序事件，为后续对峙埋下伏笔，因此存在明确的先后顺序。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_df13eaff00c1",
+    "subject_id": "ep_b640528a6f6621db",
+    "object_id": "ep_b93e83e2ad3988fd",
+    "relation_type": "precedes",
+    "reason": "赵国卉倾诉过往并获得承诺发生在陈识请求送行和最终告别之前，情感发展上从建立共同目标到面对分离，叙事顺序上由doc_22早于doc_42支持。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_17b13e20ff39",
+    "subject_id": "ep_1d6227ec40035cc9",
+    "object_id": "ep_b93e83e2ad3988fd",
+    "relation_type": "elaborates",
+    "reason": "赵国卉表达家族归属与婚姻牺牲的情节为她后来在确立离别条件时拒绝跟随陈识回广东提供了情感和文化背景，说明其决定根植于对家族传统的责任感，因此该情节扩展并深化了后续离别行为的动机。",
+    "source_documents": [
+      "scene_23__2_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_d11bb4432202",
+    "subject_id": "ep_ce1dda1e76eb9111",
+    "object_id": "ep_b93e83e2ad3988fd",
+    "relation_type": "precedes",
+    "reason": "陈识在击退众人后表明必须返回广东的决心（ep_ce1dda1e76eb9111），随后赵国卉提出离别条件并完成告别（ep_b93e83e2ad3988fd），叙事顺序明确，前者发生在后者之前。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_23__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e7de4f6044b9",
+    "subject_id": "ep_1510086b4b186a03",
+    "object_id": "ep_b93e83e2ad3988fd",
+    "relation_type": "precedes",
+    "reason": "陈识与赵国卉互诉离别情感发生在确立离别条件并完成最终告别之前，前者聚焦于情感交流与照片象征意义的建立，后者则包含明确的条件设定与拍肩动作完成告别，叙事顺序上前者为情感铺垫，后者为行动终结，具有清晰的时间先后关系。",
+    "source_documents": [
+      "scene_23__2_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a98cf4559bdf",
+    "subject_id": "ep_3ab261f615c96f74",
+    "object_id": "ep_46a83fc7b04f26f4",
+    "relation_type": "precedes",
+    "reason": "陈识表达战斗意图并安抚赵国卉发生在比试前的紧张时刻，而陈识邀徒并确立师徒关系发生在比试后共进螃蟹时，叙事顺序明确显示前者早于后者。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b7d3b6cf79cd",
+    "subject_id": "ep_cc39ee50d4a1bcf5",
+    "object_id": "ep_d539296f8cd2d370",
+    "relation_type": "precedes",
+    "reason": "情节 '处理踢馆后的归家与安顿' 发生在耿良辰刚踢馆归来，引发师门内部短暂紧张；而 '澄清误会以安抚师娘' 发生在后续场景中，耿良辰进一步解释比武的公正性以消除赵国卉的担忧。根据叙事顺序，归家安顿在前，澄清误会紧随其后，文本通过场景编号（scene_25 先于 scene_36）支持该时间顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_78fda756600c",
+    "subject_id": "ep_e8562379046fb538",
+    "object_id": "ep_cc39ee50d4a1bcf5",
+    "relation_type": "precedes",
+    "reason": "耿良辰登门挑战比试（ep_e8562379046fb538）发生在其踢馆归来并归家安顿（ep_cc39ee50d4a1bcf5）之前，叙事上先有挑战的发起与约定，后有踢馆完成后的归家场景，时间顺序明确。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d57c7424782a",
+    "subject_id": "ep_655e1047ca9d6aee",
+    "object_id": "ep_ce1dda1e76eb9111",
+    "relation_type": "precedes",
+    "reason": "夺回手包并震慑对手发生在陈识表明回归广东的决心之前，依据相关事件的时间顺序：夺回手包的相关事件位于scene_23，而表明决心的相关事件位于scene_23__2，表明叙事上的先后顺序。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_23__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7b1383712b8e",
+    "subject_id": "ep_3ab261f615c96f74",
+    "object_id": "ep_ce1dda1e76eb9111",
+    "relation_type": "precedes",
+    "reason": "情节 '陈识表达战斗意图并安抚赵国卉' 发生在 '陈识表明回归广东的决心' 之前，依据是前者发生在击退众人前的紧张局势中，而后者明确发生在击退众人之后，具有清晰的叙事时序。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_23__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a1a7e13d6594",
+    "subject_id": "ep_b640528a6f6621db",
+    "object_id": "ep_ce1dda1e76eb9111",
+    "relation_type": "precedes",
+    "reason": "赵国卉倾诉过往并获得承诺的情节发生在陈识表明回归广东决心之前，依据相关事件均出自scene_23及scene_23__2，且scene_23在叙事顺序上早于scene_23__2，支持该时间顺序。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_23__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6e147d1cc7a9",
+    "subject_id": "ep_3ab261f615c96f74",
+    "object_id": "ep_1510086b4b186a03",
+    "relation_type": "precedes",
+    "reason": "根据文档ID，'陈识表达战斗意图并安抚赵国卉'发生在doc_22，而'陈识与赵国卉互诉离别情感'发生在doc_23，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_23__2_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ce76b8e54145",
+    "subject_id": "ep_b640528a6f6621db",
+    "object_id": "ep_1510086b4b186a03",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节内容，赵国卉倾诉过往并获得承诺（doc_22）发生在陈识与赵国卉互诉离别情感（doc_23）之前，且情感发展逻辑上由坦白与承诺推进至告别，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_23__2_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_445cd4e92f1d",
+    "subject_id": "ep_0a73395dacd331b3",
+    "object_id": "ep_8ec4c56553620a88",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和叙事流程，陈识展示咏春实力并获得郑山傲认可（doc_2）发生在郑山傲带陈识潜入特殊舞厅之前（doc_3），且两个情节之间存在连续的人物互动和场景推进，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0212a5e1bf71",
+    "subject_id": "ep_46a83fc7b04f26f4",
+    "object_id": "ep_2876d5910c99344d",
+    "relation_type": "precedes",
+    "reason": "陈识邀徒并确立师徒关系发生在共进晚餐并评价踢馆首日的意义之前，因为师徒关系的确立是基于耿良辰踢馆成功后的比试与邀请，而评价踢馆首日则是对这一事件后续的反思。两个情节均涉及三人共进螃蟹晚餐，但确立师徒关系的情节（doc_13, scene_14）在文档顺序和叙事逻辑上早于对踢馆首日意义的评价（doc_24, scene_25）。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cff47dd325cc",
+    "subject_id": "ep_46a83fc7b04f26f4",
+    "object_id": "ep_6a0599cd48e40049",
+    "relation_type": "precedes",
+    "reason": "陈识邀徒并确立师徒关系发生在耿良辰首次进入师父房间之前，是师徒关系建立的初始步骤，而传递师门传承发生在师徒关系确立后的后续互动中，具有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cd8405b4fee4",
+    "subject_id": "ep_0a73395dacd331b3",
+    "object_id": "ep_88fd67671cae34ad",
+    "relation_type": "precedes",
+    "reason": "陈识展示咏春实力并获得郑山傲认可发生在郑山傲提出传承真功夫的提议之前，根据叙事顺序，郑山傲在认可陈识的功夫后才提出支持其开馆的条件。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a87a6ee5095b",
+    "subject_id": "ep_0a73395dacd331b3",
+    "object_id": "ep_14b89e50919a5282",
+    "relation_type": "precedes",
+    "reason": "陈识展示咏春实力并获得郑山傲认可发生在早期场景（scene_3），而终止师徒关系并揭示踢馆规则发生在后续场景（scene_16），文本中场景编号明确支持时间顺序上的先后关系。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1d14c7639121",
+    "subject_id": "ep_0a73395dacd331b3",
+    "object_id": "ep_c7981edaf5e0c7be",
+    "relation_type": "precedes",
+    "reason": "陈识展示咏春实力并获得郑山傲认可发生在西餐厅场景之前，根据叙事顺序，陈识先展示武术技艺并获得初步认可，随后才进行以食明志的非正式试炼，二者均涉及郑山傲对陈识的考验，且文档中事件序列支持该时间顺序。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3deaa2c6da61",
+    "subject_id": "ep_64de946f2c2e43e3",
+    "object_id": "ep_5b23304802a5d858",
+    "relation_type": "precedes",
+    "reason": "陈识传授比试要领并考验耿良辰发生在比试前的巷道中，而回应缺席酒席并展示胜利成果发生在比试之后的庆功酒席场景，叙事时间线上前者明确早于后者。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_58b8921115bb",
+    "subject_id": "ep_6a0599cd48e40049",
+    "object_id": "ep_7c50b29bebcfcac2",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中陈识传递师门传承，建立师徒间精神代际传递的主题；第二个情节中陈识通过回忆学拳往事进一步展开这一主题，并促使耿良辰在情感认知上成长。第二个情节在情感层面扩展了第一个情节所建立的传承内涵，提供了更具体的代际经验传递实例，因此构成对前一情节的补充性深化。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_fbb9322aa784",
+    "subject_id": "ep_dd6c9520cb9bc656",
+    "object_id": "ep_6a0599cd48e40049",
+    "relation_type": "precedes",
+    "reason": "耿良辰进攻被化解（ep_dd6c9520cb9bc656）发生在陈识向耿良辰传递师门传承（ep_6a0599cd48e40049）之前，依据文本中事件的叙事顺序：先有武艺较量以测试实力，随后才有资格进入师父房间接受传承，且相关场景编号（scene_14 在 scene_29 之前）支持该时间顺序。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_87646c42deb5",
+    "subject_id": "ep_dd6c9520cb9bc656",
+    "object_id": "ep_64de946f2c2e43e3",
+    "relation_type": "precedes",
+    "reason": "耿良辰进攻被化解发生在陈识传授比试要领并考验耿良辰之前，因为前者是陈识评估耿良辰当前实力的初始互动，而后者是陈识在确认其潜力后进行的指导与测试，叙事上呈现为递进顺序。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8fe50dfb86da",
+    "subject_id": "ep_fc8071ec1ff21305",
+    "object_id": "ep_88fd67671cae34ad",
+    "relation_type": "elaborates",
+    "reason": "‘表达隐退前的传承夙愿’提供了郑山傲提出传承计划背后的动机和背景，解释了他为何在此时推动真功夫传承，从而为‘促成真功夫传承的提议与回应’中的提议行为提供了深层原因和上下文扩展。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_acdccd3786c3",
+    "subject_id": "ep_f6619d909c897d2e",
+    "object_id": "ep_c7981edaf5e0c7be",
+    "relation_type": "elaborates",
+    "reason": "陈识立誓在天津立足这一情节表达了其内在动机和目标，而以食明志：挑战面包极限则通过具体行动象征性地体现该决心，后者在行为层面上扩展和具象化了前者的承诺，二者共享同一场合和场景，且后者为前者提供实践层面的补充说明。",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_efcfd533119f",
+    "subject_id": "ep_64de946f2c2e43e3",
+    "object_id": "ep_cc39ee50d4a1bcf5",
+    "relation_type": "precedes",
+    "reason": "情节 '陈识传授比试要领并考验耿良辰' 发生在比试前的巷道中，而 '处理踢馆后的归家与安顿' 描述的是耿良辰踢馆归来后的场景，逻辑上踢馆行为必须发生在归家之前，因此传授要领与考验的情节在叙事顺序上早于归家安顿的情节。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_00c254202945",
+    "subject_id": "ep_46a83fc7b04f26f4",
+    "object_id": "ep_64de946f2c2e43e3",
+    "relation_type": "precedes",
+    "reason": "陈识邀徒并确立师徒关系发生在比试前的互动之前，而传授要领和考验耿良辰是在比试前的巷道中发生的，逻辑上师徒关系确立后才可能有后续的临行叮嘱与考验，且描述中‘比试后三人共进螃蟹’与‘比试前的巷道中’提供了明确的时间顺序支持。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_696caf604ff2",
+    "subject_id": "ep_2ce50d80489cdb00",
+    "object_id": "ep_ce1dda1e76eb9111",
+    "relation_type": "precedes",
+    "reason": "陈识讲述身世与武艺渊源发生在击退赤膊男子之后、重申回归广东决心之前，叙事顺序上明确早于后者。描述中前者包含多个战斗事件，后者紧随其后以重申决定和离开现场结束，时间顺序清晰。",
+    "source_documents": [
+      "scene_23__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bf7cf1d2c7ce",
+    "subject_id": "ep_1510086b4b186a03",
+    "object_id": "ep_c3007c9e8e8c7b96",
+    "relation_type": "precedes",
+    "reason": "陈识与赵国卉互诉离别情感发生在陈识背赵国卉回家之前，描述中前者为情感交流的告别，后者以背行方式结束离别场景，叙事顺序上前者先于后者。",
+    "source_documents": [
+      "scene_23__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fef4db22bba9",
+    "subject_id": "ep_1d6227ec40035cc9",
+    "object_id": "ep_c3007c9e8e8c7b96",
+    "relation_type": "precedes",
+    "reason": "赵国卉表达家族归属与婚姻牺牲发生在陈识背她回家并结束离别之前，两者均位于同一场景（scene_23__2），且情感坦白在前，背行离别作为后续行动，构成明确的叙事顺序。",
+    "source_documents": [
+      "scene_23__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3b20ded24a54",
+    "subject_id": "ep_46a83fc7b04f26f4",
+    "object_id": "ep_5b23304802a5d858",
+    "relation_type": "precedes",
+    "reason": "陈识邀徒并确立师徒关系发生在耿良辰缺席酒席并带回螃蟹之前。师徒关系的建立是后续耿良辰回应缺席和展示胜利成果的前提，文本中‘回应’一词表明后者是对前者的后续行为，且叙事逻辑上拜师在先，行动回应在后。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_63a5dcd6e462",
+    "subject_id": "ep_faaea1c867e59209",
+    "object_id": "ep_47724699322d002d",
+    "relation_type": "precedes",
+    "reason": "郑山傲要求私谈并遣退段锐发生在其行拜师礼之前，因为必须先清退旁人，才能进行坦白和请求指导的正式对话，叙事顺序和事件逻辑支持该时序。",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_306a8f27c86b",
+    "subject_id": "ep_700eacad696f8511",
+    "object_id": "ep_14b89e50919a5282",
+    "relation_type": "elaborates",
+    "reason": "郑山傲评价陈识刀法可支撑两年踢馆，为后续揭示踢馆规则提供了背景和铺垫，间接解释了为何踢馆挑战具有如此高的门槛和后果，从而扩展了对踢馆规则的理解。",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_7a037d36e3d7",
+    "subject_id": "ep_88fd67671cae34ad",
+    "object_id": "ep_c7981edaf5e0c7be",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，郑山傲向陈识提出传承真功夫的提议（ep_88fd67671cae34ad）发生在陈识通过食用八份面包来证明决心（ep_c7981edaf5e0c7be）之前。提议引发了后续的非正式试炼，该试炼用于确认陈识的意志和规则的严肃性，因此前者在话语和事件发展上直接先于后者。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e1b064825f84",
+    "subject_id": "ep_46a83fc7b04f26f4",
+    "object_id": "ep_7c50b29bebcfcac2",
+    "relation_type": "precedes",
+    "reason": "情节'陈识邀徒并确立师徒关系'发生在'讲述学拳往事并领悟情感表达'之前，因为师徒关系的建立是后续情感交流和往事讲述的前提。描述中显示，陈识在师徒关系确立后才向耿良辰分享学拳往事，推动后者的情感领悟，这构成了清晰的叙事时序。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7f294e7336d2",
+    "subject_id": "ep_402a44576a62606e",
+    "object_id": "ep_c7ec8459837fbc1b",
+    "relation_type": "causes",
+    "reason": "耿良辰在取书过程中被男子打倒在地，直接导致茶汤女目睹其受伤并立即实施急救。文本明确支持前一情节作为后一情节的直接触发事件。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4c9d127bff25",
+    "subject_id": "ep_47724699322d002d",
+    "object_id": "ep_700eacad696f8511",
+    "relation_type": "precedes",
+    "reason": "郑山傲行拜师礼是为掌握陈识全部技艺以迎战，而评价刀法是在对练结束后发生，文本中拜师在前，对练及评价在后，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_31f2abb1e7b2",
+    "subject_id": "ep_14b89e50919a5282",
+    "object_id": "ep_47724699322d002d",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中郑山傲揭示踢馆规则，为后续其决定向陈识拜师以掌握全部武艺提供了背景和动机解释；第二个情节扩展了在相同场合下角色行为的深层原因，因此前者为后者提供上下文说明。",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_9ff10cd5514c",
+    "subject_id": "ep_c7981edaf5e0c7be",
+    "object_id": "ep_b4bf247517d0cad0",
+    "relation_type": "precedes",
+    "reason": "在西餐厅场景中，陈识通过食用八份面包展示决心（以食明志：挑战面包极限）发生在郑山傲同意其通过培养本地徒弟代为挑战八家武馆（确立徒弟代战方案）之前，二者均发生在scene_7且共享同一场合，叙事顺序上前者为后者的前提条件。",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ce65060b5431",
+    "subject_id": "ep_5b23304802a5d858",
+    "object_id": "ep_2876d5910c99344d",
+    "relation_type": "elaborates",
+    "reason": "情节'回应缺席酒席并展示胜利成果'中耿良辰带回螃蟹并宣称胜利，为后续'共进晚餐并评价踢馆首日的意义'中三人共享螃蟹晚餐及陈识评价踢馆首日提供了行为动机和物质前提；后者通过家庭聚餐场景对前者的行为结果进行情感深化与意义阐释，构成对前一情节的扩展性叙述。",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_39e952a6985a",
+    "subject_id": "ep_2f7d28a49d88af17",
+    "object_id": "ep_c7981edaf5e0c7be",
+    "relation_type": "precedes",
+    "reason": "郑山傲邀请陈识三天后在起士林餐馆见面，作为最终决定的场合，该会面安排在先；随后陈识在该场合中点下八份面包并坚持食用，构成后续情节。时间顺序由‘三天后’明确支持，且‘起士林餐馆’作为共同场景连接两个情节，表明前者在叙事和话语顺序上早于后者。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_625ddc533b9d",
+    "subject_id": "ep_c3007c9e8e8c7b96",
+    "object_id": "ep_ce1dda1e76eb9111",
+    "relation_type": "precedes",
+    "reason": "根据描述，陈识背赵国卉回家并结束离别发生在击退众人之后、陈识表明回归广东决心之前。相关事件如'陈识拉着赵国卉离开现场'和'赵国卉表示并未挽留陈识'发生在同一场景（scene_23__2），但背行回家是离别终结的象征，逻辑上在表达回归决心之前完成，因此该情节在叙事顺序上先于另一情节。",
+    "source_documents": [
+      "scene_23__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a74c094dd948",
+    "subject_id": "ep_47724699322d002d",
+    "object_id": "ep_b222d4d4e89c038b",
+    "relation_type": "elaborates",
+    "reason": "郑山傲行拜师礼以求完整武艺的情节中，其目标是掌握陈识所会的全部技艺；随后的双刀对练展示挟刀揉手技法，具体呈现了陈识指导郑山傲掌握技艺的过程，提供了关于拜师后训练内容的进一步细节，因此该对练情节扩展并具体化了拜师的目的和实践，构成 elaborates 关系。",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5177920938ae",
+    "subject_id": "ep_7b1efa88ffa4feb2",
+    "object_id": "ep_c7ec8459837fbc1b",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节中茶汤女因耿良辰挑衅而驱逐他，体现冲突与排斥；第二个情节中她却紧急救治受伤的耿良辰，体现关怀与救助。两者在人物关系和情感基调上形成明显逆转与对比，文本通过并置展现态度转变。",
+    "source_documents": [
+      "scene_36__2_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2e3cf98f71d5",
+    "subject_id": "ep_402a44576a62606e",
+    "object_id": "ep_7bff86a29f825d56",
+    "relation_type": "precedes",
+    "reason": "耿良辰在为林副官取书过程中被男子打倒在地（ep_402a44576a62606e），随后茶汤女发现他倒地并上前救助，紧接着耿良辰突然苏醒并亲吻她（ep_7bff86a29f825d56）。两个情节在时间上紧密衔接，且事件序列在描述中呈现明确的先后顺序。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e31a3dc0c4b6",
+    "subject_id": "ep_8dc623aede598d78",
+    "object_id": "ep_c7ec8459837fbc1b",
+    "relation_type": "precedes",
+    "reason": "情节'劝阻踢馆与激烈训练'中耿良辰因训练摔倒导致受伤，直接为后续'茶汤女紧急救治耿良辰伤口'提供伤情前提，且训练受伤在叙事顺序上早于救治行为，文本通过事件链条明确支持时间先后。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1b458e1266ab",
+    "subject_id": "ep_7b1efa88ffa4feb2",
+    "object_id": "ep_7d288786bb85f576",
+    "relation_type": "precedes",
+    "reason": "耿良辰被茶汤女驱逐（ep_7b1efa88ffa4feb2）发生在其后承诺改变（ep_7d288786bb85f576）之前，逻辑上被驱逐和受到指责在先，随后才出现回应关切的行为。相关事件的时间顺序和叙事逻辑支持该先后关系。",
+    "source_documents": [
+      "scene_36__2_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_553aedfaee4d",
+    "subject_id": "ep_64de946f2c2e43e3",
+    "object_id": "ep_f16ea312e5422463",
+    "relation_type": "precedes",
+    "reason": "陈识传授比试要领并考验耿良辰发生在耿良辰启程参加正式比试之前，描述中明确指出在完成师父的叮嘱与突袭考验后，耿良辰才继续前往武馆，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a230dd93500e",
+    "subject_id": "ep_ad323618ad71442c",
+    "object_id": "ep_1c6b4b5dea936a07",
+    "relation_type": "precedes",
+    "reason": "近身缠斗并以头击晕对手直接导致比试结果的确认，裁判在对手被击晕后宣布耿良辰获胜，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e989c6c157de",
+    "subject_id": "ep_c7ec8459837fbc1b",
+    "object_id": "ep_7bff86a29f825d56",
+    "relation_type": "precedes",
+    "reason": "茶汤女紧急救治耿良辰伤口（燃烧头发止血）在叙事逻辑上必须发生在他苏醒并亲吻她之前，因为救治行为针对的是倒地受伤状态，而亲吻发生在苏醒瞬间。因此，救治情节在时间顺序上先于救助与突然亲吻情节。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0d13bd514a22",
+    "subject_id": "ep_24f37176785c8b57",
+    "object_id": "ep_83d8acb7c2d30d68",
+    "relation_type": "precedes",
+    "reason": "耿良辰反抗绑架并遭背叛发生在脚行弟兄试图营救并被迫放弃之前，因为耿良辰被刺是脚行弟兄准备反抗的直接触发点，且事件顺序在scene_50中按此序列展开。",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fb6cfbfcedd7",
+    "subject_id": "ep_144cb753110d564a",
+    "object_id": "ep_66b70bb746e4c98e",
+    "relation_type": "precedes",
+    "reason": "耿良辰带伤离开现场发生在比武结束后，而处理比武后的伤者与善后涉及邹馆长拖走晕倒的随从，属于同一场合的后续行动。根据叙事顺序，主角离开后才进行现场善后，因此该关系在时间顺序上明确支持。",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_04f4596376f2",
+    "subject_id": "ep_1c6b4b5dea936a07",
+    "object_id": "ep_5ebe1097e2a6d798",
+    "relation_type": "precedes",
+    "reason": "裁判宣布耿良辰获胜标志着比试的正式结束，随后耿良辰搂住晕倒的旗袍女子，这一行为发生在比试结束后。因此，'确认胜利并宣布结果'在叙事顺序上早于'战后搂抱晕倒的对手'。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_00d27d97fdb4",
+    "subject_id": "ep_65b58d7dfca8d61c",
+    "object_id": "ep_d2cc2bc8cc7575db",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '沉浸于舞女表演的感官场景' 聚焦陈识对表演的感官沉浸与恍惚状态，而情节 '展示权势关系并安排账务' 展现郑山傲在相同时机中主动运用权势与处理事务的掌控行为；两者在同一场合下并置，形成被动体验与主动施控行为之间的对比。",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_f9070d906538",
+    "subject_id": "ep_8b8365825d717e8d",
+    "object_id": "ep_a62f17b22d907396",
+    "relation_type": "precedes",
+    "reason": "邹馆长透露对耿良辰的关注发生在挑战确立的语境中，而耿良辰提出喝咖啡作为挑战后的尊重仪式，表明前者在叙事顺序上先于后者。两个情节均发生在同一场合（踢馆挑战），但揭示关注是建立挑战背景的一部分，而尊重仪式则发生在挑战确立之后，具有清晰的时间先后顺序。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d9f5d5868296",
+    "subject_id": "ep_bed8761d26983221",
+    "object_id": "ep_66b70bb746e4c98e",
+    "relation_type": "precedes",
+    "reason": "耿良辰展示武艺并挑战光头中年男子的情节发生在比武过程中，而处理比武后的伤者与善后涉及比武结束后邹馆长拖走晕倒的随从，因此前者在叙事顺序上明确早于后者。两个情节共享同一场合'咖啡馆内的比武对谈'，且事件序列支持时间上的先后关系。",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bdf4c137c782",
+    "subject_id": "ep_8ef4977087f1ad06",
+    "object_id": "ep_e1ecb597575953d4",
+    "relation_type": "causes",
+    "reason": "耿良辰踢馆挑战直接引发武行内部矛盾升级，导致邹馆长与陈识在茶馆会面协商解决条件，文本中明确将徒弟踢馆作为谈判的起因，构成直接因果关系。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_617d902516d1",
+    "subject_id": "ep_85a84363552c4e07",
+    "object_id": "ep_1c6b4b5dea936a07",
+    "relation_type": "precedes",
+    "reason": "开启武厅双刀比试准备描述了比试开始前的对峙和准备阶段，而确认胜利并宣布结果描述了比试结束后的裁决和反应。两个情节共享同一场合'武厅双刀比试'，且叙事顺序上明显前者早于后者，由准备到结束构成连贯的时间进程。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fb05ddcb1688",
+    "subject_id": "ep_cefbf0e1c64e32b3",
+    "object_id": "ep_e1ecb597575953d4",
+    "relation_type": "precedes",
+    "reason": "邹馆长率众突访院内发生在陈识与邹馆长协商武馆开设条件之前，根据事件顺序，突访导致陈识被唤醒并介入后续谈判，文本中两事件分别位于doc_30和doc_48，显示明确的时间先后顺序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3c7da89a472e",
+    "subject_id": "ep_e1ecb597575953d4",
+    "object_id": "ep_7539557a82deb96e",
+    "relation_type": "precedes",
+    "reason": "协商武馆开设条件以平息武行矛盾发生在耿良辰被带走之前，而邹馆长宣告武行自治终结是在耿良辰被带走之后。根据事件顺序，协商事件在叙事时间上早于宣告军人接管的事件，因此前者在时间顺序上先于后者。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_738e287c08ec",
+    "subject_id": "ep_7c459f88f11f5b6e",
+    "object_id": "ep_7d288786bb85f576",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在比武结束后的晚宴场景（doc_19, scene_20），耿良辰带领馆主等人前往茶汤女摊位并点餐，茶汤女流露出欣喜之情。第二个情节发生在后续场景中（doc_29, scene_30），茶汤女对耿良辰表达冷漠和担忧，耿良辰通过击打木桩承诺改变。两个情节在叙事时间上连续，且文档和场景编号表明前者早于后者，因此支持 'precedes' 关系。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_424b6670e5c9",
+    "subject_id": "ep_024e350ec2544080",
+    "object_id": "ep_7539557a82deb96e",
+    "relation_type": "precedes",
+    "reason": "陈识以离开天津为条件求邹馆长放过徒弟发生在耿良辰被带走之前的情节中，而邹馆长宣告武行自治终结是在耿良辰被带走之后发表的言论。根据事件的时间顺序，陈识求情的情节在叙事顺序上早于邹馆长宣告武行自治终结，因此支持'precedes'关系。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ae910a863b18",
+    "subject_id": "ep_8ef4977087f1ad06",
+    "object_id": "ep_024e350ec2544080",
+    "relation_type": "precedes",
+    "reason": "发起踢馆并确立挑战条件（ep_8ef4977087f1ad06）发生在陈识请求邹馆长放过徒弟（ep_024e350ec2544080）之前，因为踢馆事件引发后续冲突升级，导致陈识不得不提出离开天津的条件以求保全徒弟，叙事顺序和事件逻辑支持该时间先后关系。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a56f53bea21d",
+    "subject_id": "ep_32a2f5539a7e9d81",
+    "object_id": "ep_97f5ffbb703ed749",
+    "relation_type": "elaborates",
+    "reason": "揭示武馆衰落的根源这一情节聚焦于结构性和制度性问题，而表达对先夫声誉失落的悲叹则从个人情感层面补充了邹馆长的动机与内心负担。后者通过揭示其个人情感背景，扩展和深化了前者所呈现的衰落主题，构成对更广泛衰落议题的补充说明。",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_62710bc141cd",
+    "subject_id": "ep_8ef4977087f1ad06",
+    "object_id": "ep_66b70bb746e4c98e",
+    "relation_type": "precedes",
+    "reason": "发起踢馆并确立挑战条件发生在比武之前，而处理比武后的伤者与善后发生在比武结束后，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4fd50686a53f",
+    "subject_id": "ep_97f5ffbb703ed749",
+    "object_id": "ep_dfda3c74d5bc7662",
+    "relation_type": "elaborates",
+    "reason": "表达对先夫声誉失落的悲叹为拒绝房产并谴责徒弟夺名提供了情感背景，说明邹馆长和郑山傲对名声失落的共同重视，从而扩展了后者的情感动机。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b452642909c4",
+    "subject_id": "ep_8ef4977087f1ad06",
+    "object_id": "ep_7539557a82deb96e",
+    "relation_type": "precedes",
+    "reason": "发起踢馆并确立挑战条件发生在耿良辰被带走之前，而邹馆长宣告武行自治终结是在耿良辰被带走之后，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7ae56f48d1c7",
+    "subject_id": "ep_7d2d456824bb48ca",
+    "object_id": "ep_97f5ffbb703ed749",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述郑山傲应对踢馆危机并追忆武术荣光，涉及邹馆长诉说困境；客体情节聚焦邹馆长表达未能延续先夫声誉的悲叹。后者通过揭示邹馆长个人情感层面的负担，为前者中她所处的困境提供了更深层的背景和情感扩展，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_83403cd3f8dc",
+    "subject_id": "ep_8ef4977087f1ad06",
+    "object_id": "ep_5629e3f6a66f5a11",
+    "relation_type": "precedes",
+    "reason": "发起踢馆并确立挑战条件发生在邹馆长解释谢师礼的江湖规矩之前，因为踢馆事件（scene_38）在文档时序上早于邹馆长劝郑山傲接受江湖规矩的场景（scene_41），且前者为后者提供了需要调解的冲突背景。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_646f9973c26c",
+    "subject_id": "ep_66b70bb746e4c98e",
+    "object_id": "ep_7539557a82deb96e",
+    "relation_type": "precedes",
+    "reason": "处理比武后的伤者与善后发生在耿良辰被带走之前，而邹馆长宣告武行自治终结是在耿良辰被带走之后。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c1861a7d1d5a",
+    "subject_id": "ep_8ef4977087f1ad06",
+    "object_id": "ep_7d2d456824bb48ca",
+    "relation_type": "precedes",
+    "reason": "发起踢馆并确立挑战条件（ep_8ef4977087f1ad06）发生在耿良辰闯入邹馆长武馆并宣布挑战的场景（scene_38），而应对踢馆危机并追忆武术荣光（ep_7d2d456824bb48ca）发生在郑山傲决定出面应对危机的下一场景（scene_39），文本中场景编号顺序明确支持前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_40ccee16f715",
+    "subject_id": "ep_9967c5db2e2b8f07",
+    "object_id": "ep_ac4b9614ad9cb185",
+    "relation_type": "precedes",
+    "reason": "根据描述，陈识带赵国卉同行发生在一年后的一个街道场景中，而赵国卉因情感压力选择逃离发生在陈识提出让狗陪伴她之后，这一互动在叙事上紧随前者之后。因此，'陈识带赵国卉同行'在叙事顺序上早于'赵国卉因情感压力选择逃离'，构成明确的先后关系。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9b8b0c5d52e1",
+    "subject_id": "ep_08d3ebb1864c663c",
+    "object_id": "ep_ac4b9614ad9cb185",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，陈识注意到赵国卉抽烟并展开对话发生在赵国卉情绪波动后逃离现场之前。描述中‘在两人亲密行为结束后’和‘在陈识提出让狗陪伴她之后’表明前者在时间上早于后者，支持‘precedes’关系。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8ba12b973cac",
+    "subject_id": "ep_0d7324cbe4beade1",
+    "object_id": "ep_655e1047ca9d6aee",
+    "relation_type": "precedes",
+    "reason": "‘追赶抢包小孩以夺回手包’发生在小孩抢包后并止于追进被围住的场景，而‘夺回手包并震慑对手’始于小孩将包交给头目大爷，包含陈识介入、打斗和对峙等后续事件。两个情节共享手包被抢的起始点，但后者在叙事顺序上紧随其前，且依赖前者的结果作为前提，因此主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_21__2_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_180041f7f76e",
+    "subject_id": "ep_6ae465f79c87f3a5",
+    "object_id": "ep_b3bc7322ee4c8b37",
+    "relation_type": "contrasts_with",
+    "reason": "赵国卉重申逛街不购物的约定体现的是两人关系早期的规则性互动，带有日常与克制的基调；而揭露婚姻真相并终结关系则展现关系的彻底破裂与情感爆发。两者在情感走向和关系状态上形成明显逆转，构成对比关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_25c00e231fc0",
+    "subject_id": "ep_b3bc7322ee4c8b37",
+    "object_id": "ep_d539296f8cd2d370",
+    "relation_type": "precedes",
+    "reason": "主体情节'揭露婚姻真相并终结关系'发生在场景33，客体情节'澄清误会以安抚师娘'发生在场景36，根据文档中场景编号的顺序，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ff7ac1178a79",
+    "subject_id": "ep_ac4b9614ad9cb185",
+    "object_id": "ep_b3bc7322ee4c8b37",
+    "relation_type": "precedes",
+    "reason": "赵国卉因情感压力选择逃离发生在陈识提出让狗陪伴她之后，而揭露婚姻真相并终结关系发生在后续场景中，包含赵国卉带着行李离开的明确结束动作。根据叙事顺序，情感逃避的情节在前，婚姻真相揭露与关系终结的情节在后，具有清晰的时间先后关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_395eb6758de5",
+    "subject_id": "ep_532c24190770fcad",
+    "object_id": "ep_ac4b9614ad9cb185",
+    "relation_type": "precedes",
+    "reason": "陈识返回并与赵国卉相会并许诺未来（ep_532c24190770fcad）发生在赵国卉因情感压力选择逃离（ep_ac4b9614ad9cb185）之前，根据描述，陈识的承诺和情感互动直接导致赵国卉后续的情绪波动和逃离行为，文本中虽未明确时间标记，但事件逻辑和叙事顺序支持前者在先、后者为反应性后果，因此构成明确的叙事先后关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7b833e873f8a",
+    "subject_id": "ep_6da9c2a4778bec57",
+    "object_id": "ep_b3bc7322ee4c8b37",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节描绘赵国卉在家庭环境中与宠物互动的平静日常，展现温情与安宁；第二个情节则揭示婚姻的虚假性并以对峙和离别结束，充满紧张与决裂。两者在情感基调和关系状态上形成强烈对比，构成叙事上的逆转。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_64157f941cef",
+    "subject_id": "ep_5d5255934e7d4600",
+    "object_id": "ep_f56b1cbb0f659160",
+    "relation_type": "precedes",
+    "reason": "陈识提议赵国卉共赴未来并遭拒绝发生在赵国卉离开餐馆之后，而赵国卉发现小黄狗跟随是在她离开途中半路的情节，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_29c0d90238ad",
+    "subject_id": "ep_60e004b35a859339",
+    "object_id": "ep_b3bc7322ee4c8b37",
+    "relation_type": "precedes",
+    "reason": "赵国卉反思关系与生死观发生在她揭露婚姻真相并终结关系之前，前者是内在心理陈述，后者是外部冲突爆发与关系终结，叙事上前者为后者的动机提供铺垫，且事件序列在文本中呈现为从回忆与反思到对峙与离开的推进。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c31138d6b077",
+    "subject_id": "ep_41eb79699963278f",
+    "object_id": "ep_6da9c2a4778bec57",
+    "relation_type": "contrasts_with",
+    "reason": "解救赵国卉并带离现场展现紧张冲突和外部威胁，而处理家庭日常与宠物互动呈现平静、温馨的私人生活，两者在基调和情境上形成明显对比。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_dc3248abf739",
+    "subject_id": "ep_cefbf0e1c64e32b3",
+    "object_id": "ep_b3bc7322ee4c8b37",
+    "relation_type": "precedes",
+    "reason": "邹馆长率众突访院内（scene_31）发生在赵国卉揭露婚姻真相并离开（scene_33）之前，根据相关事件的时间顺序，前者为后续对峙和关系终结的展开创造了条件。两个情节均发生在同一空间（院内），且突访事件打破了原有宁静，推动了后续情节发展。尽管无直接因果表述，但叙事时序上明确前者早于后者。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_570d14cc34ef",
+    "subject_id": "ep_41eb79699963278f",
+    "object_id": "ep_f56b1cbb0f659160",
+    "relation_type": "precedes",
+    "reason": "根据描述，'解救赵国卉并带离现场'发生在大桥上，而'赵国卉发现小黄狗跟随'是在离开途中半路发生的事件。因此，解救事件在叙事顺序上早于发现小黄狗的事件。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_892cd5d4726e",
+    "subject_id": "ep_9f43202e69bab338",
+    "object_id": "ep_5d5255934e7d4600",
+    "relation_type": "precedes",
+    "reason": "根据相关事件发生场景编号，'指出免费面包的代价以引出人生道理' 发生在 scene_43，而 '陈识提议赵国卉共赴未来并遭拒绝' 发生在 scene_9，scene_43 在叙事顺序上晚于 scene_9。因此，主体情节在时间顺序上先于客体情节。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_051d5011d928",
+    "subject_id": "ep_b3bc7322ee4c8b37",
+    "object_id": "ep_f56b1cbb0f659160",
+    "relation_type": "precedes",
+    "reason": "赵国卉在院内揭露婚姻真相并被陈识制服后带着行李离开，随后在离开途中发现小黄狗跟随。根据描述，'赵国卉带着行李离开'发生在scene_33，而'发现小黄狗跟随'发生在scene_26，但scene_26在文档顺序上早于scene_33，然而情节的叙事顺序应依据事件逻辑而非文档编号。赵国卉必须先离开住所，才可能在途中发现狗跟随，因此'揭露婚姻真相并终结关系'在叙事时序上先于'赵国卉发现小黄狗跟随'。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c591d6ace165",
+    "subject_id": "ep_5d5255934e7d4600",
+    "object_id": "ep_ac4b9614ad9cb185",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，陈识在餐馆外提出带赵国卉回广东或留钱的提议（ep_5d5255934e7d4600）发生在赵国卉因情感压力选择逃离（ep_ac4b9614ad9cb185）之前。后者描述中提到‘在陈识提出让狗陪伴她之后’，表明前一情节在叙事顺序上直接早于后一情节，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6aee00e316e9",
+    "subject_id": "ep_5d5255934e7d4600",
+    "object_id": "ep_60e004b35a859339",
+    "relation_type": "elaborates",
+    "reason": "情节'陈识提议赵国卉共赴未来并遭拒绝'中，陈识提出经济安排而赵国卉情感性拒绝，埋下关系张力；后续情节'赵国卉反思关系与生死观'通过回忆和独白，揭示她对男女关系与自我命运的深层思考，扩展了前一情节的情感与观念背景，构成对先前互动的内在心理补充。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_915c54ac3722",
+    "subject_id": "ep_41eb79699963278f",
+    "object_id": "ep_ac4b9614ad9cb185",
+    "relation_type": "precedes",
+    "reason": "根据描述，解救赵国卉并带离现场（ep_41eb79699963278f）发生在大桥上的冲突场景（scene_13），而赵国卉因情感压力选择逃离（ep_ac4b9614ad9cb185）发生在scene_21，scene_13在叙事顺序上早于scene_21，因此该关系为precedes。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a6788f808dd7",
+    "subject_id": "ep_6ae465f79c87f3a5",
+    "object_id": "ep_a0c86c6dc850d6cc",
+    "relation_type": "elaborates",
+    "reason": "赵国卉重申逛街不购物的约定这一情节，通过提醒规则的方式为协商婚姻中的日常陪伴与物质态度提供了后续的上下文强化和细节补充，表明此前的对话（如‘螃蟹，管够’）不仅是即时互动，更在持续关系中被重申和体现，因此主体情节对客体情节起到了扩展和深化的作用。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2ce77a03fad8",
+    "subject_id": "ep_3537e8b3a0e12ed6",
+    "object_id": "ep_6ae465f79c87f3a5",
+    "relation_type": "contrasts_with",
+    "reason": "陈识以武道精神表达情感约束体现的是将纪律转化为深情承诺，具有仪式感和内在转变；而赵国卉重申逛街不购物的约定则强调规则的外在遵守，构成行为上的克制。两者在情感表达方式上形成对比：一个是通过自我约束表达投入，另一个是通过规则重申维持界限，文本通过并置强化了这种情感基调的差异。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e4bdd27f4351",
+    "subject_id": "ep_9a95845799c66d4c",
+    "object_id": "ep_f56b1cbb0f659160",
+    "relation_type": "precedes",
+    "reason": "陈识通过小狗表达陪伴意图（ep_9a95845799c66d4c）发生在赵国卉发现小黄狗跟随（ep_f56b1cbb0f659160）之前，因为前者是主动提议陪伴的行为，而后者是该狗后续独立出现并被发现的情节，时间顺序上前者早于后者，且文档ID（doc_20 vs doc_25）支持这一叙事先后顺序。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0b53e606c6f0",
+    "subject_id": "ep_6ae465f79c87f3a5",
+    "object_id": "ep_655e1047ca9d6aee",
+    "relation_type": "contrasts_with",
+    "reason": "赵国卉重申逛街不购物的约定展现克制与规则遵守，而夺回手包并震慑对手展现暴力与权威展示，两者在基调和行为模式上形成明显对比，构成情感与行为上的逆转。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e2abc3dd1d04",
+    "subject_id": "ep_6ae465f79c87f3a5",
+    "object_id": "ep_1510086b4b186a03",
+    "relation_type": "contrasts_with",
+    "reason": "赵国卉重申逛街不购物的约定体现理性规则的坚持，而陈识与赵国卉互诉离别情感则展现深层情感流露，两者在行为基调上形成克制与感性的对比，构成叙事上的对比关系。",
+    "source_documents": [
+      "scene_23__2_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_367468451705",
+    "subject_id": "ep_6ae465f79c87f3a5",
+    "object_id": "ep_b640528a6f6621db",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节中赵国卉强调遵守不购物的约定，体现克制和规则性；第二个情节中她情感流露，倾诉失去孩子的痛苦并获得情感承诺，体现情感释放与亲密。两者在情感基调和互动深度上形成明显对比，构成叙事上的对比关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_61caa16ac222",
+    "subject_id": "ep_ac4b9614ad9cb185",
+    "object_id": "ep_f56b1cbb0f659160",
+    "relation_type": "precedes",
+    "reason": "赵国卉因情感压力选择逃离发生在她发现小黄狗跟随之前，叙事顺序上明确先后：逃离行为（scene_21）在前，发现狗跟随（scene_26）在后，且文档ID（doc_20 vs doc_25）支持时间推进。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_df86f5f8c64f",
+    "subject_id": "ep_ac4b9614ad9cb185",
+    "object_id": "ep_b93e83e2ad3988fd",
+    "relation_type": "precedes",
+    "reason": "赵国卉因情感压力选择逃离发生在陈识提出让狗陪伴她之后，而确立离别条件并完成最终告别发生在后续场景中，两个情节在叙事顺序上呈现明确的时间先后关系，前者早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cb7dc2ef71ff",
+    "subject_id": "ep_3537e8b3a0e12ed6",
+    "object_id": "ep_ac4b9614ad9cb185",
+    "relation_type": "causes",
+    "reason": "陈识通过武道精神表达情感约束，宣布以赵国卉为人生约束，这一情感表达直接导致赵国卉因情感压力选择逃离现场。描述中指出赵国卉的逃离是在陈识提出让狗陪伴她之后发生的，显示出情感互动的升级和她的回避反应，构成直接的情感触发关系。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_253b1cb4cb49",
+    "subject_id": "ep_6da9c2a4778bec57",
+    "object_id": "ep_ac4b9614ad9cb185",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节描绘赵国卉在平静的家庭环境中与宠物互动，展现情感安定；第二个情节中她在情感压力下突然逃离，表现出情感回避。两者在情感状态和行为反应上形成明显对比，一个展现接纳与安宁，另一个展现回避与动荡，构成基调上的逆转。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_3d37afc8be84",
+    "subject_id": "ep_ac4b9614ad9cb185",
+    "object_id": "ep_b640528a6f6621db",
+    "relation_type": "contrasts_with",
+    "reason": "赵国卉因情感压力选择逃离表现出对情感互动的回避，而赵国卉倾诉过往并获得承诺则展现她情感的完全敞开与信任建立，两者在情感表达的开放性与心理状态上形成明显对比，构成情感回避与情感释放的逆转。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_1a99a456597c",
+    "subject_id": "ep_1510086b4b186a03",
+    "object_id": "ep_ac4b9614ad9cb185",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，陈识与赵国卉互诉离别情感发生在赵国卉因情感压力选择逃离之前。描述中显示两人在情感交流中完成告别后，赵国卉在陈识提出让狗陪伴她时情绪波动并逃离，表明前者在时间上直接先于后者。",
+    "source_documents": [
+      "scene_23__2_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5b732680f2d0",
+    "subject_id": "ep_bd5b5c3efa1b036c",
+    "object_id": "ep_f56b1cbb0f659160",
+    "relation_type": "precedes",
+    "reason": "根据描述，赵国卉与茶汤女的互动发生在她离开途中发现小黄狗之前，两者均位于scene_26，但互动顺序上前者为坐于摊位时发生，后者为走到半路时发现，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e9d4b61e6f60",
+    "subject_id": "ep_3ab261f615c96f74",
+    "object_id": "ep_ac4b9614ad9cb185",
+    "relation_type": "precedes",
+    "reason": "根据描述，陈识表达战斗意图并安抚赵国卉（ep_3ab261f615c96f74）发生在赵国卉因情感压力选择逃离（ep_ac4b9614ad9cb185）之前，因为陈识提及狗后赵国卉才表现出情绪波动并逃离，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d6f67c2b7d44",
+    "subject_id": "ep_6da9c2a4778bec57",
+    "object_id": "ep_bd5b5c3efa1b036c",
+    "relation_type": "contrasts_with",
+    "reason": "处理家庭日常与宠物互动展现赵国卉平静、温情的家庭生活，而与茶汤女的互动则揭示了她与外界社会成员之间的情感错位和社会隔阂。两个情节通过情绪基调和人际关系性质的差异形成对比：一个是亲密、和谐的私人场景，另一个是疏离、尴尬的公共互动。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ca8222829c71",
+    "subject_id": "ep_184995cac5d6bfe4",
+    "object_id": "ep_e312c7498871671a",
+    "relation_type": "precedes",
+    "reason": "赵国卉评价耿良辰并获回应发生在陈识回应挑战并准备比试之前，因为赵国卉在回家后向陈识耳语的内容包括她此前与耿良辰的互动，表明该事件在叙事顺序上早于陈识的回应。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e5061e592dde",
+    "subject_id": "ep_1510086b4b186a03",
+    "object_id": "ep_f56b1cbb0f659160",
+    "relation_type": "precedes",
+    "reason": "陈识与赵国卉互诉离别情感发生在赵国卉离开前的互动场景中，而赵国卉发现小黄狗跟随是在她离开途中，叙事顺序上明确前者早于后者。",
+    "source_documents": [
+      "scene_23__2_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_99b5aa518a76",
+    "subject_id": "ep_60e004b35a859339",
+    "object_id": "ep_f56b1cbb0f659160",
+    "relation_type": "precedes",
+    "reason": "赵国卉反思关系与生死观发生在scene_23，而赵国卉发现小黄狗跟随发生在scene_26，根据文档顺序和场景编号，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4d760c5e254e",
+    "subject_id": "ep_2a1efb0431a2ad80",
+    "object_id": "ep_db92e480fc32433d",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节分别展现不同人物关系中的情感动态：一个是徒弟向师娘表达依赖却被拒绝，体现单向情感诉求；另一个是夫妻婚前平等对话，强调相互承诺与人格尊严。两者在情感权力结构和关系对等性上形成对比。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_d61da6e1ec30",
+    "subject_id": "ep_9f43202e69bab338",
+    "object_id": "ep_c7981edaf5e0c7be",
+    "relation_type": "elaborates",
+    "reason": "情节 '指出免费面包的代价以引出人生道理' 中赵国卉向陈识说明免费面包需点菜的规则，为后续陈识点八份面包的行为提供规则背景和语境；该规则的传达在 '以食明志：挑战面包极限' 中被具体化和扩展，陈识通过大量点餐并坚持食用来象征性地回应这一规则，从而展示意志和挑战极限。因此，主体情节为客体情节提供了规则框架的解释，构成 elaborates 关系。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_01c783edd126",
+    "subject_id": "ep_60e004b35a859339",
+    "object_id": "ep_b93e83e2ad3988fd",
+    "relation_type": "elaborates",
+    "reason": "赵国卉反思关系与生死观的情节通过表达她对男女关系和自我意识的看法，为后续确立离别条件并完成最终告别提供了情感和心理背景，说明其不跟随陈识的决定源于深层的自我认知，因此前者扩展了解释后者的内在动因。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_371a6416a4e1",
+    "subject_id": "ep_e8562379046fb538",
+    "object_id": "ep_8a5d51afacb4c50f",
+    "relation_type": "precedes",
+    "reason": "耿良辰登门挑战比试（ep_e8562379046fb538）发生在陈识揭示比武后果并制定逃离计划（ep_8a5d51afacb4c50f）之前，因为挑战行为引发了后续对郑老爷子将下狠手的预测和逃离计划的制定，时间顺序在叙事上明确。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eb39d6919f59",
+    "subject_id": "ep_e8562379046fb538",
+    "object_id": "ep_2876d5910c99344d",
+    "relation_type": "precedes",
+    "reason": "耿良辰登门挑战比试（ep_e8562379046fb538）发生在踢馆首日，而共进晚餐并评价踢馆首日的意义（ep_2876d5910c99344d）明确是对该事件的回顾与评价，因此挑战情节在叙事顺序上早于评价情节。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2b5a16edc9a0",
+    "subject_id": "ep_60e004b35a859339",
+    "object_id": "ep_1510086b4b186a03",
+    "relation_type": "precedes",
+    "reason": "赵国卉反思关系与生死观的情节发生在陈识与赵国卉互诉离别情感之前，依据文档中场景顺序（doc_22 在 doc_23 之前）及内容连贯性，前者为离别前的心理铺垫，后者为实际告别场景。",
+    "source_documents": [
+      "scene_23__2_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ab043935b75b",
+    "subject_id": "ep_9967c5db2e2b8f07",
+    "object_id": "ep_c3007c9e8e8c7b96",
+    "relation_type": "precedes",
+    "reason": "根据描述，'陈识带赵国卉同行'发生在'一年后'，而'陈识背赵国卉回家并结束离别'标志着两人关系的终结。时间线索和关系发展轨迹表明前者在叙事顺序上早于后者，构成连贯的情感进程，因此支持'precedes'关系。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_23__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6ad443bed373",
+    "subject_id": "ep_882ab41f6df4d51d",
+    "object_id": "ep_bbed3e3f91384aba",
+    "relation_type": "elaborates",
+    "reason": "陈识目睹耿良辰被绑架后心生忧虑，这一情节为后续陈识在雷雨夜握刀沉思、谋划行动提供了情感和动机背景。第二个情节通过展现其内心挣扎和决策过程，进一步扩展和深化了第一个情节所引发的心理状态，构成对前一情节的内在响应与细节补充。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_dc0a601e512a",
+    "subject_id": "ep_bbed3e3f91384aba",
+    "object_id": "ep_e312c7498871671a",
+    "relation_type": "precedes",
+    "reason": "陈识握刀沉思谋划发生在雷雨夜，属于其内心挣扎与决策的叙事单元；而陈识回应挑战并准备比试发生在回家后面对耿良辰挑衅的场景，包含具体对外行动。根据叙事逻辑，沉思谋划在前，为后续应对挑战做心理准备，构成时间与意图上的先后顺序，但无明确因果或对比证据。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_47ad3051bca4",
+    "subject_id": "ep_f6619d909c897d2e",
+    "object_id": "ep_024e350ec2544080",
+    "relation_type": "contrasts_with",
+    "reason": "陈识立誓在天津立足体现其雄心与主动进取，而他后来以离开天津为条件求邹馆长放过徒弟则反映其被迫退让与失败结局，二者在目标追求与实际结果之间形成明显对比。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_d99bd75266eb",
+    "subject_id": "ep_024e350ec2544080",
+    "object_id": "ep_882ab41f6df4d51d",
+    "relation_type": "precedes",
+    "reason": "陈识以离开天津为条件求邹馆长放过徒弟发生在耿良辰被绑架之前，根据叙事顺序，陈识提出条件未果后，耿良辰随后被绑架，因此该情节在时间上先于陈识目睹事件后心生忧虑。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1f1f2c15ae7f",
+    "subject_id": "ep_8a5d51afacb4c50f",
+    "object_id": "ep_024e350ec2544080",
+    "relation_type": "precedes",
+    "reason": "情节 '揭示比武的严重后果并制定逃离计划' 发生在陈识向赵国卉透露郑老爷子将违背约定并决定带耿良辰离开天津的场景中（scene_43），而 '陈识以离开天津为条件求邹馆长放过徒弟' 发生在后续场景（scene_47），因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_44f0f6c38643",
+    "subject_id": "ep_14b89e50919a5282",
+    "object_id": "ep_024e350ec2544080",
+    "relation_type": "elaborates",
+    "reason": "情节'终止师徒关系并揭示踢馆规则'中揭示的天津武馆踢馆规则为'陈识以离开天津为条件求邹馆长放过徒弟'提供了背景和动机解释，说明陈识为何愿意师徒二人离开天津，因此前者扩展了后者的上下文。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_0b3f651c5205",
+    "subject_id": "ep_8ec4c56553620a88",
+    "object_id": "ep_65b58d7dfca8d61c",
+    "relation_type": "precedes",
+    "reason": "根据描述，'潜入特殊舞厅并观察表演' 中陈识冷静观察舞池前方，而随后在 '沉浸于舞女表演的感官场景' 中陈识表现出醉态和恍惚，说明前者在时间顺序上早于后者，且两个情节共享同一场合（白俄舞女表演），但陈识的状态从警觉转为沉浸，形成明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3923d2e222c2",
+    "subject_id": "ep_5278d897296d3b5f",
+    "object_id": "ep_532c24190770fcad",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，陈识在湖边完成与郑山傲的谈判结果确认后，才返回与赵国卉相会并做出未来承诺。该时间顺序由两个情节的事件链和场景编号（scene_10 早于 scene_17）支持，表明前者在话语和叙事流程上明确早于后者。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0c3d7ce3cb1c",
+    "subject_id": "ep_6a0599cd48e40049",
+    "object_id": "ep_fc781b0e84ad330e",
+    "relation_type": "precedes",
+    "reason": "陈识向耿良辰传递师门传承发生在耿良辰离开前的房间对话中（scene_29），而箱带脱落事件发生在耿良辰离开后、比试前（scene_34），叙事顺序明确显示前者早于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_815fc2d80051",
+    "subject_id": "ep_88fd67671cae34ad",
+    "object_id": "ep_6a0599cd48e40049",
+    "relation_type": "elaborates",
+    "reason": "陈识向耿良辰传递师门传承的情节扩展了郑山傲提出真功夫传承提议的背景，展示了陈识在受到提议震动后如何将这一理念付诸实践，通过师徒间的代际传承体现其对真功夫传承的认真回应。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_3a6778f7787f",
+    "subject_id": "ep_5278d897296d3b5f",
+    "object_id": "ep_e312c7498871671a",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，陈识在湖边等待并确认担保条件的情节（ep_5278d897296d3b5f）发生在陈识回家后回应耿良辰挑战并准备比试（ep_e312c7498871671a）之前。相关事件分别位于文档 doc_9 和 doc_13，且场景编号 scene_10 早于 scene_14，支持该时间顺序。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ed6f24bd4ed2",
+    "subject_id": "ep_2876d5910c99344d",
+    "object_id": "ep_6a0599cd48e40049",
+    "relation_type": "elaborates",
+    "reason": "共进晚餐情节中陈识评价踢馆首日为人生重要时刻，为后续向耿良辰传递师门传承提供了情感和叙事铺垫；后者进一步展开并深化了前者的传承主题，通过具体传承话语完成精神内核的传递，因此前者为后者提供了背景和动机上的扩展。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b9077c954b61",
+    "subject_id": "ep_532c24190770fcad",
+    "object_id": "ep_f24318b226035b84",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，'陈识返回并与赵国卉相会并许诺未来' 发生在场景 scene_17，而 '察觉真实威胁并紧急撤离' 发生在场景 scene_23，scene_17 在叙事顺序上早于 scene_23，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b00941ec0b45",
+    "subject_id": "ep_4b6303c9b5cf0251",
+    "object_id": "ep_b3bc7322ee4c8b37",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节内容，'陈识现身应对权力试探'（doc_30）发生在'揭露婚姻真相并终结关系'（doc_32）之前，且两情节分别位于连续场景（scene_31 与 scene_33）中，具有明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_51ade2a56247",
+    "subject_id": "ep_0a73395dacd331b3",
+    "object_id": "ep_e1ecb597575953d4",
+    "relation_type": "precedes",
+    "reason": "陈识展示咏春实力并获得郑山傲认可发生在邹馆长与陈识协商武馆开设条件之前，叙事上前者为后者提供了背景和动机，郑山傲的认可为陈识后续在天津开设武馆的谈判创造了前提，时间顺序明确。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8f1249fd3d86",
+    "subject_id": "ep_0a73395dacd331b3",
+    "object_id": "ep_6433f7d8cb00292d",
+    "relation_type": "precedes",
+    "reason": "陈识展示咏春实力并获得郑山傲认可发生在比试过程中（scene_3），而处理比试后的伤情以示警示发生在比试结束后（scene_27），根据场景编号的顺序，前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f578dd1d45b7",
+    "subject_id": "ep_532c24190770fcad",
+    "object_id": "ep_c3007c9e8e8c7b96",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，陈识返回并与赵国卉相会并许诺未来（ep_532c24190770fcad）发生在陈识背赵国卉回家并结束离别（ep_c3007c9e8e8c7b96）之前。前者包含对未来一年后带她离开的承诺，而后者以背行方式结束离别，象征关系的终结，表明承诺未实现且情节发展具有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_23__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_820f244cc11f",
+    "subject_id": "ep_0a73395dacd331b3",
+    "object_id": "ep_d783219a58d12461",
+    "relation_type": "precedes",
+    "reason": "陈识展示咏春实力并获得郑山傲认可发生在武厅会面之前，后者是陈识进一步询问对决安排的场合。根据叙事顺序，先有陈识展示实力获得认可，之后才在武厅会面中质询对决安排，时间顺序明确。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1c6848c0fd99",
+    "subject_id": "ep_0a73395dacd331b3",
+    "object_id": "ep_049d3819b05c40d2",
+    "relation_type": "precedes",
+    "reason": "陈识展示咏春实力并获得郑山傲认可发生在武厅会面期间（scene_3），而目送郑山傲一行人离开武厅是会面结束后的场景（scene_40），根据相关事件的时间顺序，前者在叙事上明确早于后者。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_34d7697e70e0",
+    "subject_id": "ep_5d5255934e7d4600",
+    "object_id": "ep_c3007c9e8e8c7b96",
+    "relation_type": "precedes",
+    "reason": "情节'陈识提议赵国卉共赴未来并遭拒绝'发生在餐馆外，是两人关系走向终结的开端；而'陈识背赵国卉回家并结束离别'是后续的收束场景，明确在叙事顺序上紧随其后，构成离别的完成。两个情节共享离别主题，且后者具有终结性和仪式感，表明前者在时间与叙事逻辑上先于后者。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_23__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9061047e5922",
+    "subject_id": "ep_0a73395dacd331b3",
+    "object_id": "ep_7a0d3bde52e48a3d",
+    "relation_type": "precedes",
+    "reason": "陈识展示咏春实力并获得郑山傲认可发生在与郑山傲的对话中（scene_3），而陈识在对话后观察保龄球全垒发生在对话结束后（scene_5），文本明确指出后者在时间上紧随前者之后，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ab613d8b4633",
+    "subject_id": "ep_0a73395dacd331b3",
+    "object_id": "ep_46a83fc7b04f26f4",
+    "relation_type": "precedes",
+    "reason": "陈识展示咏春实力并获得郑山傲认可发生在比武场景（scene_3），而陈识邀徒并确立师徒关系发生在后续的共进螃蟹场景（scene_14），文本中scene_3早于scene_14，因此该关系在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_43b6b2b430b4",
+    "subject_id": "ep_0a73395dacd331b3",
+    "object_id": "ep_f6619d909c897d2e",
+    "relation_type": "elaborates",
+    "reason": "陈识展示咏春实力并获得郑山傲认可这一情节中，陈识通过实战证明了自己的武术能力，并引发了郑山傲对其发展前景的评价；随后在陈识立誓在天津立足的情节中，他进一步表达了内在动机和挑战八家武馆的目标。后者在对话语境上延续并深化了前一情节中建立的意图和外部认可背景，提供了关于其目标的更多内在解释和未来行动计划，因此构成对前一情节动机层面的扩展说明。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_41c540c96f43",
+    "subject_id": "ep_df9c89cf3776ab50",
+    "object_id": "ep_e1ecb597575953d4",
+    "relation_type": "precedes",
+    "reason": "陈识与武行弟子会面并上楼是开启武行事务交涉的初始步骤，发生在与邹馆长协商开设武馆条件之前，叙事顺序明确。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_748b8222ea8c",
+    "subject_id": "ep_41eb79699963278f",
+    "object_id": "ep_c3007c9e8e8c7b96",
+    "relation_type": "precedes",
+    "reason": "根据描述，'解救赵国卉并带离现场'发生在大桥上，是冲突的即时解决，而'陈识背赵国卉回家并结束离别'发生在后续场景，具有情感终结和告别的性质，表明前者在叙事顺序上早于后者。两个情节分别位于不同文档（doc_12 和 doc_23），且后者呈现关系的结束，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_23__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1a9e0b76016e",
+    "subject_id": "ep_f6619d909c897d2e",
+    "object_id": "ep_e1ecb597575953d4",
+    "relation_type": "elaborates",
+    "reason": "陈识立誓在天津立足这一情节揭示了其挑战八家武馆的内在动机和目标，为后续协商武馆开设条件的情节提供了背景和动机解释，表明开设武馆不仅是个人野心，也是实现立足天津这一更广泛目标的一部分。因此，该情节通过补充动机性背景，扩展并深化了对协商条件情节的理解。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_78403238ca9a",
+    "subject_id": "ep_41eb79699963278f",
+    "object_id": "ep_f24318b226035b84",
+    "relation_type": "precedes",
+    "reason": "第一个情节'解救赵国卉并带离现场'描述了陈识在大桥上制服混混并揽着赵国卉离开，该事件发生在场景13；而第二个情节'察觉真实威胁并紧急撤离'发生在场景23，包含陈识持竹棍带赵国卉离开的后续行动。场景编号的递增（13到23）表明叙事顺序上前者早于后者，且两个情节均涉及带离赵国卉的行动，但后者响应新的威胁，构成后续发展。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_24a8f56bfef0",
+    "subject_id": "ep_14b89e50919a5282",
+    "object_id": "ep_e1ecb597575953d4",
+    "relation_type": "causes",
+    "reason": "终止师徒关系并揭示踢馆规则这一情节中，段锐踢八家武馆的行为直接触发了武行内部矛盾，导致邹馆长与陈识后续协商武馆开设条件以平息风波。文本中明确指出协商的起因是‘陈识徒弟踢了八家武馆’，而踢馆规则的揭示正是在前一情节中由郑山傲说明，因此存在直接因果链。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1cf72ffab24d",
+    "subject_id": "ep_5e1b73ded15c141c",
+    "object_id": "ep_fc781b0e84ad330e",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述赵国卉对徒弟品行的担忧及陈识对其通过练拳改变态度的信心，聚焦于师徒关系的期望；第二个情节展示陈识在徒弟离开后情绪外露导致箱带脱落，暗示其复杂情感。第二个情节通过展现陈识私下流露的情感，进一步扩展和深化了第一个情节中隐含的师徒情感张力，构成对前一情节情感层面的补充说明。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_dedc0e4ef4bb",
+    "subject_id": "ep_d783219a58d12461",
+    "object_id": "ep_d3384b08e132a9a9",
+    "relation_type": "precedes",
+    "reason": "质询并确认对决安排发生在双刀比试之前，因为陈识在武厅会面中试图明确即将到来的比武时间表，而双刀比试是实际进行的武艺较量，叙事上前者为后者做铺垫。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b7a36c0e0a00",
+    "subject_id": "ep_f6619d909c897d2e",
+    "object_id": "ep_d3384b08e132a9a9",
+    "relation_type": "elaborates",
+    "reason": "陈识立誓在天津立足这一情节表达了其内在动机和目标，为后续在天津武馆与郑山傲展开双刀比试并应对突袭提供了动机背景。比试事件体现了他实现立足目标的具体行动，因此前者通过揭示动机扩展了后者的叙事意义。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_95e36942da7a",
+    "subject_id": "ep_64de946f2c2e43e3",
+    "object_id": "ep_6433f7d8cb00292d",
+    "relation_type": "precedes",
+    "reason": "情节'陈识传授比试要领并考验耿良辰'发生在比试前的巷道中，而'处理比试后的伤情以示警示'发生在比试结束后，明确表明前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7e4cf92d8433",
+    "subject_id": "ep_e312c7498871671a",
+    "object_id": "ep_6433f7d8cb00292d",
+    "relation_type": "precedes",
+    "reason": "陈识回应挑战并准备比试发生在比试过程中，而处理比试后的伤情以示警示发生在比试结束后，根据叙事顺序，准备比试的情节在前，处理伤情的情节在后。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7cff7fa4366f",
+    "subject_id": "ep_e312c7498871671a",
+    "object_id": "ep_d3384b08e132a9a9",
+    "relation_type": "precedes",
+    "reason": "陈识回应挑战并准备比试发生在天津武馆双刀比试之前，根据叙事顺序，陈识准备比试（与耿良辰相关）早于与郑山傲的实际比试。两个情节分别关联不同场景（scene_14 与 scene_27），且涉及不同对手，但共享比试准备与执行的上下文，支持时间先后关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_09ff685fd156",
+    "subject_id": "ep_dd6c9520cb9bc656",
+    "object_id": "ep_fc781b0e84ad330e",
+    "relation_type": "precedes",
+    "reason": "耿良辰进攻被化解发生在比试过程中，而陈识情绪外露导致箱带脱落是在耿良辰离开后，根据描述中的时间线索，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_561bbbd8e602",
+    "subject_id": "ep_9a95845799c66d4c",
+    "object_id": "ep_f24318b226035b84",
+    "relation_type": "precedes",
+    "reason": "陈识通过小狗表达陪伴意图发生在逛街场景中（doc_20），而察觉真实威胁并紧急撤离发生在后续的对话与危险情境中（doc_22），两个情节在叙事顺序上连续，且文档ID表明时间推进，前者为温和互动，后者突转为紧张撤离，支持前一情节在叙事上早于后一情节。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7aa22538ddca",
+    "subject_id": "ep_64de946f2c2e43e3",
+    "object_id": "ep_882ab41f6df4d51d",
+    "relation_type": "precedes",
+    "reason": "陈识传授比试要领并考验耿良辰发生在比试前的巷道中（scene_34），而陈识目睹耿良辰被绑架带走发生在scene_50，文档时序明确显示前者在后者之前。因此，该关系在叙事顺序上为precedes。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b64536c0e72a",
+    "subject_id": "ep_5b23304802a5d858",
+    "object_id": "ep_fc781b0e84ad330e",
+    "relation_type": "precedes",
+    "reason": "根据描述，耿良辰在回应缺席酒席并展示胜利成果后离开，随后陈识因情绪波动导致箱带脱落。叙事顺序上，前者发生在后者之前，且文档中事件的时间线索支持这一先后关系。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e15349248af1",
+    "subject_id": "ep_e312c7498871671a",
+    "object_id": "ep_fc781b0e84ad330e",
+    "relation_type": "precedes",
+    "reason": "陈识回应挑战并准备比试发生在比试前，而箱带脱落事件描述中明确指出‘在耿良辰离开后’，且相关事件为‘比试前掉落’，结合叙事顺序，比试准备情节在时间上先于箱带脱落情节。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_450289859c98",
+    "subject_id": "ep_8a5d51afacb4c50f",
+    "object_id": "ep_fc781b0e84ad330e",
+    "relation_type": "precedes",
+    "reason": "情节 '揭示比武的严重后果并制定逃离计划' 发生在比武前，陈识与赵国卉商议对策；而 '陈识情绪外露导致箱带脱落' 发生在耿良辰离开后、比试前，时间上紧随其后。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_04fcdd103b53",
+    "subject_id": "ep_7c50b29bebcfcac2",
+    "object_id": "ep_fc781b0e84ad330e",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述陈识回忆往事并传递情感认知，推动耿良辰的情感成长；第二个情节展示陈识在耿良辰离开后情绪外露导致箱带脱落，暗示其对徒弟的复杂情感。后者通过身体细节进一步揭示前一情节中师徒情感交流的深层影响，构成对前一情节情感内涵的延伸与补充。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_498169415607",
+    "subject_id": "ep_cc39ee50d4a1bcf5",
+    "object_id": "ep_fc781b0e84ad330e",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，耿良辰踢馆归来并被安顿发生在陈识情绪外露导致箱带脱落之前。前者发生在耿良辰尚在场时，后者明确指出是在耿良辰离开后发生，因此在叙事顺序上，处理踢馆后的归家与安顿在前，陈识情绪外露导致箱带脱落紧随其后。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_745327302b77",
+    "subject_id": "ep_c3007c9e8e8c7b96",
+    "object_id": "ep_db92e480fc32433d",
+    "relation_type": "contrasts_with",
+    "reason": "情节'陈识背赵国卉回家并结束离别'呈现两人关系的终结与尊严的留存，而'确立婚姻中的相互承诺'则展现婚姻初期对尊重与真诚的追求。两者在情感状态和关系阶段上形成对比：前者是离别的终结，后者是承诺的开始，体现出关系动态的逆转与情感基调的对照。",
+    "source_documents": [
+      "scene_23__2_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_fe2886d9b1eb",
+    "subject_id": "ep_d783219a58d12461",
+    "object_id": "ep_8a5d51afacb4c50f",
+    "relation_type": "precedes",
+    "reason": "质询并确认对决安排发生在陈识向赵国卉透露郑老爷子将违背约定之前，因为只有在得知比武安排后，陈识才能进一步判断其后果并制定逃离计划。相关事件的时间顺序和叙事逻辑支持这一先后关系。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1644e0f7b926",
+    "subject_id": "ep_d783219a58d12461",
+    "object_id": "ep_7a0d3bde52e48a3d",
+    "relation_type": "precedes",
+    "reason": "根据描述，陈识在武厅会面中质询对决安排（ep_d783219a58d12461）发生在与郑山傲的对话期间，而陈识在对话后观察保龄球全垒（ep_7a0d3bde52e48a3d）明确发生在对话结束后，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b53de780b325",
+    "subject_id": "ep_88fd67671cae34ad",
+    "object_id": "ep_049d3819b05c40d2",
+    "relation_type": "precedes",
+    "reason": "促成真功夫传承的提议与回应发生在武厅会面期间（scene_5），而目送郑山傲一行人离开武厅发生在会面结束后（scene_40），因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fc045ac949b2",
+    "subject_id": "ep_88fd67671cae34ad",
+    "object_id": "ep_f6619d909c897d2e",
+    "relation_type": "elaborates",
+    "reason": "促成真功夫传承的提议与回应为陈识立誓在天津立足提供了背景和动机解释，郑山傲的提议促使陈识思考自身传承与立足的问题，从而引出其内在恐惧与目标，因此前者扩展了后者的动因背景。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_9464e23a9f0f",
+    "subject_id": "ep_14b89e50919a5282",
+    "object_id": "ep_049d3819b05c40d2",
+    "relation_type": "precedes",
+    "reason": "终止师徒关系并揭示踢馆规则发生在武厅会面期间（scene_16），而目送郑山傲一行人离开武厅发生在武厅会面结束后（scene_40），根据相关场景编号和事件顺序，前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e2e8728ece72",
+    "subject_id": "ep_f6619d909c897d2e",
+    "object_id": "ep_ce1dda1e76eb9111",
+    "relation_type": "contrasts_with",
+    "reason": "陈识立誓在天津立足表达其早期建立名声的雄心，而陈识表明回归广东的决心则反映其因师恩和外部压力而改变方向，两者在目标和情境上形成对比，体现人物动机的转变。",
+    "source_documents": [
+      "scene_23__2_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6d4e9709a0c4",
+    "subject_id": "ep_f6619d909c897d2e",
+    "object_id": "ep_14b89e50919a5282",
+    "relation_type": "elaborates",
+    "reason": "陈识立誓在天津立足这一情节揭示了其挑战八家武馆的动机，而终止师徒关系并揭示踢馆规则则进一步解释了该挑战的规则和后果，从而为前一情节的目标提供了制度性背景和深层含义。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_3ed34376e6b6",
+    "subject_id": "ep_f6619d909c897d2e",
+    "object_id": "ep_fc8071ec1ff21305",
+    "relation_type": "contrasts_with",
+    "reason": "陈识立誓在天津立足体现其积极进取、欲通过挑战传统扬名的动机，而郑山傲表达隐退前的传承夙愿则反映一种退居幕后、弥补过往遗憾的心态；二者在同一对话场景中并置，凸显了新一代武人追求成名与老一代武人反思传承之间的价值观对比。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_eab0e3bac8f7",
+    "subject_id": "ep_f6619d909c897d2e",
+    "object_id": "ep_4b6303c9b5cf0251",
+    "relation_type": "contrasts_with",
+    "reason": "陈识立誓在天津立足展现其主动挑战传统、追求扬名的雄心，而陈识现身应对权力试探则表现其在权威面前收敛锋芒、强调无意争斗的退让姿态，二者在行为基调与情境反应上形成明显对比，凸显其从主动进取到被动应对的转变。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_d92f6fa92179",
+    "subject_id": "ep_88fd67671cae34ad",
+    "object_id": "ep_7a0d3bde52e48a3d",
+    "relation_type": "precedes",
+    "reason": "根据描述，郑山傲向陈识提出传承真功夫的提议并引发陈识情绪反应后，紧接着是陈识在对话结束后静默观察保龄球全垒的场景，表明该情节在叙事顺序上紧随其前，因此主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fd28db746b0c",
+    "subject_id": "ep_fc8071ec1ff21305",
+    "object_id": "ep_7a0d3bde52e48a3d",
+    "relation_type": "precedes",
+    "reason": "根据描述，郑山傲表达隐退前的传承夙愿发生在对话中，而陈识在对话后观察保龄球全垒，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_204733112b65",
+    "subject_id": "ep_3ab261f615c96f74",
+    "object_id": "ep_4b6303c9b5cf0251",
+    "relation_type": "contrasts_with",
+    "reason": "陈识在第一个情节中表达战斗意图并展现对局势的掌控暗示，而在第二个情节中则表现出顺从、退让并强调只想安稳生活，两者在态度和立场上形成明显对比，体现出角色在外部压力下的行为转变。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_40dc5d05cf32",
+    "subject_id": "ep_b93e83e2ad3988fd",
+    "object_id": "ep_c3007c9e8e8c7b96",
+    "relation_type": "precedes",
+    "reason": "情节 '确立离别条件并完成最终告别' 描述了陈识与赵国卉在分别前的对话和拍肩告别，而 '陈识背赵国卉回家并结束离别' 描述了后续背行回家的过程，标志着离别的实际结束。根据叙事顺序，告别动作发生在背行之前，因此前者在话语顺序上先于后者。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_23__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d79b89b42284",
+    "subject_id": "ep_46a83fc7b04f26f4",
+    "object_id": "ep_882ab41f6df4d51d",
+    "relation_type": "precedes",
+    "reason": "陈识邀徒并确立师徒关系发生在耿良辰被绑架之前，而陈识目睹耿良辰被带走是后续事件。根据叙事顺序，师徒关系的建立早于陈识因耿良辰被绑架而心生忧虑，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_12a915fbfefb",
+    "subject_id": "ep_46a83fc7b04f26f4",
+    "object_id": "ep_14b89e50919a5282",
+    "relation_type": "precedes",
+    "reason": "陈识邀徒并确立师徒关系发生在终止师徒关系并揭示踢馆规则之前，因为师徒关系的建立是后续拒绝承认段锐为徒的前提，且事件发展逻辑上从建立到破裂具有明确的时间顺序。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_92f1ca0e9bba",
+    "subject_id": "ep_b640528a6f6621db",
+    "object_id": "ep_c3007c9e8e8c7b96",
+    "relation_type": "precedes",
+    "reason": "赵国卉倾诉过往并获得承诺发生在陈识背她回家之前，根据相关事件的时间顺序和场景编号（scene_23 在 scene_23__2 之前），表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_23__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_392d5bc921ff",
+    "subject_id": "ep_3ab261f615c96f74",
+    "object_id": "ep_2ce50d80489cdb00",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'陈识表达战斗意图并安抚赵国卉' 发生在 '陈识讲述身世与武艺渊源' 之前，前者相关事件位于 scene_23，后者位于 scene_23__2，编号上的递进暗示叙事顺序的先后。",
+    "source_documents": [
+      "scene_23__2_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2db971405d3c",
+    "subject_id": "ep_655e1047ca9d6aee",
+    "object_id": "ep_c3007c9e8e8c7b96",
+    "relation_type": "precedes",
+    "reason": "夺回手包并震慑对手发生在陈识背赵国卉回家并结束离别之前，两个情节均发生在scene_23及其后续场景中，且叙事顺序上先有对峙与夺回手包，随后才有背行回家的情感收束，时间顺序明确。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_23__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8fe696b23b46",
+    "subject_id": "ep_2ce50d80489cdb00",
+    "object_id": "ep_f24318b226035b84",
+    "relation_type": "precedes",
+    "reason": "陈识讲述身世与武艺渊源发生在察觉真实威胁并紧急撤离之前，根据相关事件的时间顺序，前者在场景23__2中展开，后者紧接在场景23中发生，且陈识在完成讲述后才突然警觉危险，表明叙事上的先后顺序。",
+    "source_documents": [
+      "scene_23__2_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1fee0a19650b",
+    "subject_id": "ep_8ec4c56553620a88",
+    "object_id": "ep_d2cc2bc8cc7575db",
+    "relation_type": "precedes",
+    "reason": "根据描述，'潜入特殊舞厅并观察表演' 发生在 scene_4，而 '展示权势关系并安排账务' 发生在 scene_35，scene_4 在叙事顺序上早于 scene_35，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_55fb90cd3819",
+    "subject_id": "ep_3ab261f615c96f74",
+    "object_id": "ep_c3007c9e8e8c7b96",
+    "relation_type": "precedes",
+    "reason": "情节 '陈识表达战斗意图并安抚赵国卉' 发生在文档 doc_22，而 '陈识背赵国卉回家并结束离别' 发生在文档 doc_23，表明前者在叙事顺序上早于后者。两个情节均涉及陈识与赵国卉的互动，且情感基调从紧张与暗示过渡到终结与尊重，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_23__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_002aa1c7368f",
+    "subject_id": "ep_0a73395dacd331b3",
+    "object_id": "ep_2f7d28a49d88af17",
+    "relation_type": "precedes",
+    "reason": "陈识展示咏春实力并获得郑山傲认可发生在郑山傲邀请其三天后在起士林餐馆见面之前，根据叙事顺序，展示实力是引发后续会面邀请的前置事件，且会面时间明确设定在三天后，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9ceef146ed13",
+    "subject_id": "ep_0a73395dacd331b3",
+    "object_id": "ep_b4bf247517d0cad0",
+    "relation_type": "precedes",
+    "reason": "陈识展示咏春实力并获得郑山傲认可发生在西餐厅对话之前，为后续确立徒弟代战方案提供了前提。郑山傲在认可陈识功夫非同凡俗后，才同意其通过培养本地徒弟代为挑战武馆，叙事顺序清晰且文本中场景编号（scene_3 先于 scene_7）支持该时序。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a31a1d885bf3",
+    "subject_id": "ep_0a73395dacd331b3",
+    "object_id": "ep_700eacad696f8511",
+    "relation_type": "elaborates",
+    "reason": "郑山傲评价刀法支持两年踢馆这一情节进一步扩展了陈识展示咏春实力并获得郑山傲认可的情节，提供了对陈识武艺水平的更具体评估，强化了其功夫非同凡俗的判断。该评价建立在之前展示和对话的基础上，补充了郑山傲对其能力的进一步肯定。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ce2dbd4f5c60",
+    "subject_id": "ep_47724699322d002d",
+    "object_id": "ep_d3384b08e132a9a9",
+    "relation_type": "precedes",
+    "reason": "郑山傲行拜师礼以求完整武艺发生在双刀比试之前，因为拜师是为掌握陈识全部技艺所做的准备，而双刀比试是后续展示和检验武艺的场合，叙事顺序上具有明确先后关系。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c2e03d6f4740",
+    "subject_id": "ep_b4bf247517d0cad0",
+    "object_id": "ep_d3384b08e132a9a9",
+    "relation_type": "precedes",
+    "reason": "确立徒弟代战方案发生在陈识与郑山傲建立信任并商定规则的阶段，而双刀比试是后续实际展示武艺与应变能力的场合。根据叙事逻辑和事件发展顺序，制定代战方案在前，武艺切磋验证实力在后，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0b60a0f6eae2",
+    "subject_id": "ep_d3384b08e132a9a9",
+    "object_id": "ep_700eacad696f8511",
+    "relation_type": "precedes",
+    "reason": "双刀比试发生在郑山傲评价陈识刀法之前，因为评价是基于比试中展现的武艺，且比试中的事件（如突袭与反击）为后续评价提供了直接依据。文本中比试场景（scene_27）在文档顺序和叙事逻辑上早于评价场景（scene_16）。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_11618ceba818",
+    "subject_id": "ep_32a2f5539a7e9d81",
+    "object_id": "ep_34a17f7449d398ba",
+    "relation_type": "elaborates",
+    "reason": "第一个情节揭示武馆衰落的根源，包括教学不传真和依赖捐款；第二个情节在此基础上进一步说明武馆即将没落，并提出习武者的新出路在军界，从而扩展并深化了前一个情节的主题。因此，第二个情节对第一个情节进行了具体化和推进，构成 elaborates 关系。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d928744bf157",
+    "subject_id": "ep_7d2d456824bb48ca",
+    "object_id": "ep_34a17f7449d398ba",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'应对踢馆危机并追忆武术荣光' 发生在 scene_39，而 '揭露武馆转型与军界出路' 发生在 scene_40，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_51fbaac13510",
+    "subject_id": "ep_34a17f7449d398ba",
+    "object_id": "ep_fdffa5ff16c3e267",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中郑山傲宣布武馆转型并指明军界为习武新出路，第二个情节展示他在军府实际进行比武教学，用护具进行招式指导，体现了前一情节中所提军界前途的具体实践，因此后者为前者提供具体实施细节，构成 elaborates 关系。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_01cd2e5db050",
+    "subject_id": "ep_88fd67671cae34ad",
+    "object_id": "ep_b4bf247517d0cad0",
+    "relation_type": "precedes",
+    "reason": "郑山傲向陈识提出推动真功夫传承的提议（ep_88fd67671cae34ad）发生在陈识证明自身决心后郑山傲同意确立徒弟代战方案（ep_b4bf247517d0cad0）之前，叙事顺序上前者早于后者，且后者是前者提议的后续回应与推进。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_496c56189d7c",
+    "subject_id": "ep_34a17f7449d398ba",
+    "object_id": "ep_c9c197487295c9c2",
+    "relation_type": "precedes",
+    "reason": "情节'揭露武馆转型与军界出路'中，郑山傲宣布武馆没落并计划面见督军，为后续向督军呈送比武录像做铺垫；而'迎接师父并准备比武录像'发生在军府，是为向督军提供影像资料的具体行动，时间与逻辑上紧随前者。因此，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2334a168d7b1",
+    "subject_id": "ep_b4bf247517d0cad0",
+    "object_id": "ep_14b89e50919a5282",
+    "relation_type": "elaborates",
+    "reason": "情节'确立徒弟代战方案'提出了通过培养本地徒弟代为挑战八家武馆的规则，而'终止师徒关系并揭示踢馆规则'进一步解释了踢馆失败的后果及完整潜规则，后者为前者所提方案的背景和后果提供补充说明，因此构成elaborates关系。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_90da7bd3239a",
+    "subject_id": "ep_b4bf247517d0cad0",
+    "object_id": "ep_47724699322d002d",
+    "relation_type": "precedes",
+    "reason": "确立徒弟代战方案发生在郑山傲行拜师礼之前，因为只有在陈识被允许通过徒弟代战并满足条件后，郑山傲才需要为最终决战掌握陈识的全部技艺，从而推动其行拜师礼请求指导。叙事逻辑和上下文顺序支持这一时间先后关系。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3da2d5694ced",
+    "subject_id": "ep_fc8071ec1ff21305",
+    "object_id": "ep_2f7d28a49d88af17",
+    "relation_type": "elaborates",
+    "reason": "表达隐退前的传承夙愿为约定最终决定的会面提供了动机和背景，说明郑山傲邀请陈识见面的深层原因是为了在隐退前促成真功夫传承，这一愿望在会面场合中得以展开。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cb275bd19750",
+    "subject_id": "ep_88fd67671cae34ad",
+    "object_id": "ep_2f7d28a49d88af17",
+    "relation_type": "precedes",
+    "reason": "‘促成真功夫传承的提议与回应’发生在郑山傲提出条件、陈识情绪激动的场景中，而‘约定最终决定的会面’是郑山傲邀请三天后在起士林见面以定夺结果，明确在时间上后续发生。因此，提议与回应的情节在叙事顺序上先于最终决定的会面。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cc1a7bda0900",
+    "subject_id": "ep_fc8071ec1ff21305",
+    "object_id": "ep_dfda3c74d5bc7662",
+    "relation_type": "elaborates",
+    "reason": "郑山傲表达隐退前的传承夙愿为背景，解释了他后来拒绝房产并谴责徒弟夺名的行为动机；后者体现了他对名声被背叛的重视，呼应了他早前强调的传承愿望，因此前者为后者提供了动机性解释。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_3c9db5bb0d3b",
+    "subject_id": "ep_88fd67671cae34ad",
+    "object_id": "ep_47724699322d002d",
+    "relation_type": "precedes",
+    "reason": "郑山傲向陈识提出推动真功夫传承的提议（ep_88fd67671cae34ad）发生在陈识决定指导其完整武艺之前。随后，郑山傲为掌握陈识的全部技艺而行拜师礼（ep_47724699322d002d），表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_88f4ce662be5",
+    "subject_id": "ep_402a44576a62606e",
+    "object_id": "ep_f16ea312e5422463",
+    "relation_type": "precedes",
+    "reason": "耿良辰为林副官取书并遭遇突袭的情节发生在前往武馆参加正式比试之前，根据描述，取书任务中断后，耿良辰在完成师父的叮嘱与突袭考验后才启程参加比试，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1b802ae91a7c",
+    "subject_id": "ep_6a0599cd48e40049",
+    "object_id": "ep_f16ea312e5422463",
+    "relation_type": "precedes",
+    "reason": "陈识向耿良辰传递师门传承发生在耿良辰启程参加正式比试之前，文本中描述前者为师徒间的传承时刻，后者为完成师父叮嘱后的行动，具有明确的叙事时序先后。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b2e8f8bc7138",
+    "subject_id": "ep_a9b9461c1fc06e1e",
+    "object_id": "ep_e8562379046fb538",
+    "relation_type": "precedes",
+    "reason": "耿良辰观察陈识与赵国卉离去发生在耿良辰登门挑战比试之前，前者为其后续行动提供了动机和叙事铺垫，时间顺序明确。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8b010292f46b",
+    "subject_id": "ep_a9b9461c1fc06e1e",
+    "object_id": "ep_dd6c9520cb9bc656",
+    "relation_type": "precedes",
+    "reason": "耿良辰观察陈识与赵国卉离去发生在耿良辰进攻被化解之前，根据叙事顺序，前者为后者提供了动机和背景，且两个情节通过耿良辰的视角连续展开，文本支持明确的时间先后关系。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_96a71b364cb9",
+    "subject_id": "ep_a9b9461c1fc06e1e",
+    "object_id": "ep_cc39ee50d4a1bcf5",
+    "relation_type": "precedes",
+    "reason": "耿良辰观察陈识与赵国卉离去发生在耿良辰踢馆归来并引发归家安顿情节之前，叙事时间线上前者为后者提供铺垫，且描述中‘为后续情节埋下伏笔’明确支持该顺序。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8343bfeba3f0",
+    "subject_id": "ep_a9b9461c1fc06e1e",
+    "object_id": "ep_46a83fc7b04f26f4",
+    "relation_type": "precedes",
+    "reason": "耿良辰观察陈识与赵国卉离去（scene_13）发生在陈识邀徒并确立师徒关系（scene_14）之前，文档中场景编号递增且事件顺序连贯，支持该时间先后关系。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8eb1e8d85a6a",
+    "subject_id": "ep_2e6162686ac05a93",
+    "object_id": "ep_c7ec8459837fbc1b",
+    "relation_type": "precedes",
+    "reason": "目睹耿良辰被围攻的街头冲突发生在茶汤女紧急救治耿良辰伤口之前，因为围攻导致耿良辰受伤倒地，随后茶汤女才进行急救，文本支持这一时间顺序。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e89bdf76dc22",
+    "subject_id": "ep_24f37176785c8b57",
+    "object_id": "ep_2e6162686ac05a93",
+    "relation_type": "precedes",
+    "reason": "根据描述，'目睹耿良辰被围攻的街头冲突'发生在邹馆长与陈识谈话期间（scene_49），而'耿良辰反抗绑架并遭背叛'发生在scene_50，且涉及林副官刺伤耿良辰并塞入车内。related_events中的scene编号表明前者在时间上先于后者，支持precedes关系。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_236cdd891779",
+    "subject_id": "ep_7b1efa88ffa4feb2",
+    "object_id": "ep_c2a9eb11ff031d50",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序和叙事流程，耿良辰先因挑衅段锐被茶汤女指责并被驱逐，随后才注意到段锐腿部白皙并与其交手，因此'与茶汤女争执并被驱逐'在叙事顺序上早于'揭露伪装车夫并与其交手'。",
+    "source_documents": [
+      "scene_36__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_987dc3a5eb33",
+    "subject_id": "ep_64de946f2c2e43e3",
+    "object_id": "ep_c2a9eb11ff031d50",
+    "relation_type": "precedes",
+    "reason": "根据文档时序和情节内容，陈识传授比试要领并考验耿良辰发生在耿良辰前往武馆之前，而揭露伪装车夫的情节发生在后续场景（doc_36），表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_36__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_cbb2738525cb",
+    "subject_id": "ep_c2a9eb11ff031d50",
+    "object_id": "ep_c7ec8459837fbc1b",
+    "relation_type": "precedes",
+    "reason": "耿良辰在与伪装车夫段锐交手过程中受伤，随后茶汤女立即对其进行急救，文本中事件顺序明确：交手导致受伤，受伤后触发急救，因此‘揭露伪装车夫并与其交手’在叙事顺序上早于‘茶汤女紧急救治耿良辰伤口’。",
+    "source_documents": [
+      "scene_36__2_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_78e970ba794d",
+    "subject_id": "ep_7b1efa88ffa4feb2",
+    "object_id": "ep_8ef4977087f1ad06",
+    "relation_type": "precedes",
+    "reason": "耿良辰在与茶汤女争执并被驱逐后，随后闯入邹馆长武馆发起踢馆挑战。两个情节在叙事顺序上连续，前者发生在街头茶汤摊位，后者发生在武馆，且主角行为具有递进性：被社会边缘化后转向正式挑战权威。文档ID（doc_36 vs doc_37）也支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_36__2_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1bb6085998f8",
+    "subject_id": "ep_694efec54384c7ca",
+    "object_id": "ep_f16ea312e5422463",
+    "relation_type": "precedes",
+    "reason": "耿良辰在书摊放松并观察周围发生在他启程参加正式比试之前，描述中暗示他尚处于准备或过渡阶段，而启程比试标志着他正式开始挑战，具有明确的叙事时序推进。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2451ce3c3ed2",
+    "subject_id": "ep_694efec54384c7ca",
+    "object_id": "ep_fb26685de7bb30a1",
+    "relation_type": "precedes",
+    "reason": "耿良辰在书摊放松并观察周围的情节发生在东家围攻他并摧毁书摊之前，叙事上前者表现为平静状态，后者为冲突爆发，且事件序列显示暴力事件紧随其后，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fe59d59fd8e8",
+    "subject_id": "ep_64de946f2c2e43e3",
+    "object_id": "ep_5c767102d8c62c68",
+    "relation_type": "precedes",
+    "reason": "陈识传授比试要领并考验耿良辰发生在比武之前，根据描述，这是在耿良辰前往英华武馆比武前的准备环节，具有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e19607a9a35e",
+    "subject_id": "ep_5c767102d8c62c68",
+    "object_id": "ep_5b23304802a5d858",
+    "relation_type": "precedes",
+    "reason": "双刀比武是耿良辰取得胜利的直接事件，而回应缺席酒席并展示胜利成果发生在比武之后，耿良辰带回螃蟹并解释缺席行为，表明比武胜利在前，庆功回应在后，叙事顺序明确。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a41dedfb65e1",
+    "subject_id": "ep_8ef4977087f1ad06",
+    "object_id": "ep_7c459f88f11f5b6e",
+    "relation_type": "precedes",
+    "reason": "发起踢馆并确立挑战条件发生在比武之前，而邀请并转移至茶汤女摊位聚餐发生在比武结束后，因此踢馆挑战情节在叙事顺序上早于聚餐情节。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_664ad532c491",
+    "subject_id": "ep_8ef4977087f1ad06",
+    "object_id": "ep_5c767102d8c62c68",
+    "relation_type": "precedes",
+    "reason": "发起踢馆并确立挑战条件（ep_8ef4977087f1ad06）在叙事顺序上早于进行双刀比武并裁定胜负（ep_5c767102d8c62c68），因为挑战的建立是比武发生的前提，且描述中显示踢馆发生在scene_38，而比武发生在scene_20，按文档顺序scene_38在scene_20之前，支持该时间顺序。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_507ffa620e00",
+    "subject_id": "ep_5c767102d8c62c68",
+    "object_id": "ep_d539296f8cd2d370",
+    "relation_type": "precedes",
+    "reason": "耿良辰在英华武馆比武并获胜（ep_5c767102d8c62c68）发生在场景20，而他向赵国卉澄清比武公正性以安抚师娘（ep_d539296f8cd2d370）发生在场景36，文档中场景编号递增表明叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b414401c0d1f",
+    "subject_id": "ep_64de946f2c2e43e3",
+    "object_id": "ep_7c459f88f11f5b6e",
+    "relation_type": "precedes",
+    "reason": "情节 '陈识传授比试要领并考验耿良辰' 发生在比试前的巷道中，而 '邀请并转移至茶汤女摊位聚餐' 发生在比武结束后，根据叙事时间顺序，前者在后者之前发生。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_72a9d41a5bbb",
+    "subject_id": "ep_8dc623aede598d78",
+    "object_id": "ep_5c767102d8c62c68",
+    "relation_type": "precedes",
+    "reason": "茶汤女劝阻耿良辰不要去踢馆并伴随其激烈训练的情节（ep_8dc623aede598d78）在叙事时间线上早于耿良辰在英华武馆进行双刀比武并被裁定获胜的情节（ep_5c767102d8c62c68），前者体现其为踢馆做准备的心理与行为状态，后者为实际执行踢馆的结果，时间顺序清晰且由角色行为动机支持。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e9af2acf3b92",
+    "subject_id": "ep_e8562379046fb538",
+    "object_id": "ep_5c767102d8c62c68",
+    "relation_type": "precedes",
+    "reason": "耿良辰登门挑战比试（ep_e8562379046fb538）发生在英华武馆的双刀比武（ep_5c767102d8c62c68）之前，挑战行为为后续比武提供了直接的叙事起点。文本中挑战时赵国卉告知需等待陈识归来，暗示比武尚未开始，而双刀比武是后续发生的独立情节，因此存在明确的时间先后顺序。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0048b11539f4",
+    "subject_id": "ep_5c767102d8c62c68",
+    "object_id": "ep_5ebe1097e2a6d798",
+    "relation_type": "precedes",
+    "reason": "第一个情节'进行双刀比武并裁定胜负'发生在英华武馆的比武场合（scene_20），而第二个情节'战后搂抱晕倒的对手'发生在武厅双刀比试（scene_28），scene_20在叙事顺序上早于scene_28，且比武结束后的动作自然衔接至后续互动，因此主体情节在时间顺序上先于客体情节。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f7e23cb991e2",
+    "subject_id": "ep_8ef4977087f1ad06",
+    "object_id": "ep_7d288786bb85f576",
+    "relation_type": "precedes",
+    "reason": "耿良辰发起踢馆并确立挑战条件发生在茶汤女表达冷漠态度之前，随后耿良辰通过击打木桩承诺改变以回应她的关切，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2851a71dc232",
+    "subject_id": "ep_8ef4977087f1ad06",
+    "object_id": "ep_f16ea312e5422463",
+    "relation_type": "precedes",
+    "reason": "发起踢馆并确立挑战条件发生在耿良辰启程参加正式比试之前，因为挑战的规则和条件必须先被确立，随后耿良辰才动身前往武馆参加比试，叙事顺序上具有明确的先后关系。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_73a9300a6677",
+    "subject_id": "ep_144cb753110d564a",
+    "object_id": "ep_7c459f88f11f5b6e",
+    "relation_type": "precedes",
+    "reason": "耿良辰带伤离开咖啡馆的比武现场（ep_144cb753110d564a）在叙事顺序上早于他随后邀请馆主和公证人前往茶汤女摊位聚餐的情节（ep_7c459f88f11f5b6e），两个情节分别发生在scene_1和scene_20，且后者明确发生在比武结束后，因此存在清晰的时间先后顺序。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_451cd7711d99",
+    "subject_id": "ep_85a84363552c4e07",
+    "object_id": "ep_5c767102d8c62c68",
+    "relation_type": "precedes",
+    "reason": "开启武厅双刀比试准备描述的是耿良辰与旗袍女子在武厅为双刀比试做准备，正式拉开比试序幕；而进行双刀比武并裁定胜负则发生在英华武馆，涉及耿良辰与光头男子的比武过程及结果裁定。两个情节均围绕双刀比试，但准备阶段在叙事逻辑上早于实际比武与裁定，且场合不同（武厅 vs 英华武馆），表明这是两个独立但顺序相连的情节。因此，'开启武厅双刀比试准备'在叙事顺序上先于'进行双刀比武并裁定胜负'。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c310b6b9caad",
+    "subject_id": "ep_64de946f2c2e43e3",
+    "object_id": "ep_8ef4977087f1ad06",
+    "relation_type": "precedes",
+    "reason": "陈识传授比试要领并考验耿良辰发生在耿良辰前往武馆之前，而发起踢馆并确立挑战条件是耿良辰到达武馆后的行为。根据事件顺序，师父的叮嘱与测试在叙事上明确早于踢馆挑战的宣布。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c312f3d4f44e",
+    "subject_id": "ep_7c459f88f11f5b6e",
+    "object_id": "ep_5b23304802a5d858",
+    "relation_type": "precedes",
+    "reason": "情节 '邀请并转移至茶汤女摊位聚餐' 发生在比武结束后，而 '回应缺席酒席并展示胜利成果' 涉及耿良辰未出席武馆庆功酒席，表明后者发生在前者所指的酒席时间之后。因此，'邀请并转移至茶汤女摊位聚餐' 在叙事时间顺序上早于 '回应缺席酒席并展示胜利成果'。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_917d74504ff9",
+    "subject_id": "ep_8ef4977087f1ad06",
+    "object_id": "ep_cc39ee50d4a1bcf5",
+    "relation_type": "precedes",
+    "reason": "耿良辰先闯入邹馆长武馆并确立挑战条件，随后才发生他踢馆归来、呼唤师父及被安置的场景。根据叙事顺序，发起踢馆在前，处理踢馆后的归家与安顿在后，时间顺序明确。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b2d567dff921",
+    "subject_id": "ep_5ebe1097e2a6d798",
+    "object_id": "ep_7c459f88f11f5b6e",
+    "relation_type": "precedes",
+    "reason": "‘战后搂抱晕倒的对手’发生在武厅双刀比试结束后，而‘邀请并转移至茶汤女摊位聚餐’始于比武结束后武馆馆主发出晚宴邀请。根据描述，比试结束后的搂抱行为在叙事顺序上先于聚餐邀请及转移至茶汤女摊位的情节，因此主体情节在时间上早于客体情节。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_53c69b0ddf78",
+    "subject_id": "ep_8dc623aede598d78",
+    "object_id": "ep_8ef4977087f1ad06",
+    "relation_type": "precedes",
+    "reason": "情节'劝阻踢馆与激烈训练'中耿良辰在被劝阻后进行激烈训练并摔倒，发生在'发起踢馆并确立挑战条件'之前，后者描述其闯入武馆发起挑战。文本中训练与摔倒的事件（scene_30）早于闯入武馆（scene_38），因此存在明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_abc33aff537a",
+    "subject_id": "ep_8ef4977087f1ad06",
+    "object_id": "ep_787e004c79956167",
+    "relation_type": "precedes",
+    "reason": "发起踢馆并确立挑战条件发生在武厅双刀比试之前，因为挑战的建立是比试开始的前提。相关场合 '耿良辰踢馆挑战 (scene_38)' 在时间上早于 '武厅双刀比试 (scene_28)'，且比试是踢馆挑战的直接延续。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_764d4c72b0a9",
+    "subject_id": "ep_ad323618ad71442c",
+    "object_id": "ep_c7ec8459837fbc1b",
+    "relation_type": "precedes",
+    "reason": "耿良辰在近身缠斗中击晕对手后受伤倒地，随后茶汤女立即对其进行急救，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_195321d5dd29",
+    "subject_id": "ep_144cb753110d564a",
+    "object_id": "ep_c7ec8459837fbc1b",
+    "relation_type": "precedes",
+    "reason": "耿良辰带伤离开现场后，茶汤女才目睹其受伤并实施急救，因此‘耿良辰带伤离开现场’在叙事顺序上早于‘茶汤女紧急救治耿良辰伤口’。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d66fbe4ae25f",
+    "subject_id": "ep_64de946f2c2e43e3",
+    "object_id": "ep_144cb753110d564a",
+    "relation_type": "precedes",
+    "reason": "陈识传授比试要领并考验耿良辰发生在比试前的巷道中，而耿良辰带伤离开现场是比武结束后的结果，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5bbfc752ae82",
+    "subject_id": "ep_64de946f2c2e43e3",
+    "object_id": "ep_5ebe1097e2a6d798",
+    "relation_type": "precedes",
+    "reason": "陈识传授比试要领并考验耿良辰发生在比试前的巷道中，而战后搂抱晕倒的对手发生在比试结束后，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fd9ee02b37bc",
+    "subject_id": "ep_64de946f2c2e43e3",
+    "object_id": "ep_ad323618ad71442c",
+    "relation_type": "precedes",
+    "reason": "陈识传授比试要领并考验耿良辰发生在耿良辰与旗袍女子进行武厅双刀比试之前，前者是比试前的准备与测试，后者是实际比试的结果场景，叙事顺序明确。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_279a4a9cafc3",
+    "subject_id": "ep_24f37176785c8b57",
+    "object_id": "ep_c7ec8459837fbc1b",
+    "relation_type": "precedes",
+    "reason": "耿良辰在被绑架过程中遭林副官刺伤并被塞入车内（ep_24f37176785c8b57）是其受伤的直接原因，随后茶汤女立即对其进行急救（ep_c7ec8459837fbc1b），在叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aa55b696e105",
+    "subject_id": "ep_64de946f2c2e43e3",
+    "object_id": "ep_24f37176785c8b57",
+    "relation_type": "precedes",
+    "reason": "陈识传授比试要领并考验耿良辰发生在比试前的巷道中，而耿良辰反抗绑架并遭背叛发生在被绑架过程中，叙事上前者为比试准备阶段，后者为后续遭遇，文本支持前者在时间顺序上早于后者。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e4fbc6bf6f57",
+    "subject_id": "ep_144cb753110d564a",
+    "object_id": "ep_f16ea312e5422463",
+    "relation_type": "precedes",
+    "reason": "耿良辰带伤离开现场发生在咖啡馆比武之后，而启程参加正式比试是在完成师父考验后前往武馆，叙事上前者为早期事件，后者为后续发展，存在明确的时间推进顺序。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_90568837249c",
+    "subject_id": "ep_64de946f2c2e43e3",
+    "object_id": "ep_787e004c79956167",
+    "relation_type": "precedes",
+    "reason": "陈识传授比试要领并考验耿良辰发生在比试开始前的巷道场景中，而展开双刀交锋与非常规腿攻发生在比试正式开始后的武厅场景中，根据叙事顺序，传授与考验情节在时间上明确早于双刀交锋情节。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_621a320c1399",
+    "subject_id": "ep_8dc623aede598d78",
+    "object_id": "ep_f16ea312e5422463",
+    "relation_type": "precedes",
+    "reason": "‘劝阻踢馆与激烈训练’发生在耿良辰启程参加正式比试之前，根据描述，前者体现其训练过程中的执拗，后者标志着他完成准备后正式踏上比试之路，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f1a1af92e592",
+    "subject_id": "ep_64de946f2c2e43e3",
+    "object_id": "ep_3df1c2103ba569ff",
+    "relation_type": "precedes",
+    "reason": "陈识传授比试要领并考验耿良辰发生在比试开始前的准备阶段，而实施刺刀压制与连续闪避是比试中的具体攻防动作。根据描述，前者在叙事顺序上明确早于后者，属于比试前的训练与测试环节，因此支持'precedes'关系。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_121da1e4b543",
+    "subject_id": "ep_7d288786bb85f576",
+    "object_id": "ep_f16ea312e5422463",
+    "relation_type": "precedes",
+    "reason": "耿良辰在茶汤女表达冷漠后承诺改变，这一情节发生在完成师父叮嘱并启程参加正式比试之前，根据叙事顺序，承诺改变作为个人决心的表达，早于他正式踏上比试之路的行动。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c926f4d0068d",
+    "subject_id": "ep_8dc623aede598d78",
+    "object_id": "ep_64de946f2c2e43e3",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，'劝阻踢馆与激烈训练'发生在比试前的准备阶段，而'陈识传授比试要领并考验耿良辰'也发生在比试前，但更接近比试时刻。茶汤女劝阻和耿良辰的激烈训练是早期反应，随后才有陈识对耿良辰的正式叮嘱与考验，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_413094075061",
+    "subject_id": "ep_7c50b29bebcfcac2",
+    "object_id": "ep_f16ea312e5422463",
+    "relation_type": "precedes",
+    "reason": "陈识回忆学拳往事并引导耿良辰情感领悟的情节发生在耿良辰启程参加正式比试之前，文本中师徒对话为后续行动提供情感铺垫，支持叙事上的先后顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2401c0a0cc14",
+    "subject_id": "ep_bed8761d26983221",
+    "object_id": "ep_f16ea312e5422463",
+    "relation_type": "precedes",
+    "reason": "耿良辰在咖啡馆展示武艺并挑战光头中年男子的情节发生在非正式比武场合，而启程参加正式比试是在完成师父考验后前往武馆，标志着正式挑战的开始。根据叙事发展逻辑，非正式比武展示应早于正式比试的启程，构成情节上的先后顺序。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5ddfee76afbb",
+    "subject_id": "ep_cc39ee50d4a1bcf5",
+    "object_id": "ep_f16ea312e5422463",
+    "relation_type": "precedes",
+    "reason": "耿良辰踢馆归来并被安顿的情节发生在其启程参加正式比试之前，文本中描述前者为归家后的场景，后者为完成师父叮嘱后继续前往武馆，具有明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8c6d383cc974",
+    "subject_id": "ep_e8562379046fb538",
+    "object_id": "ep_f16ea312e5422463",
+    "relation_type": "precedes",
+    "reason": "耿良辰登门挑战比试发生在其启程参加正式比试之前。描述中显示，登门挑战是比试的前置事件，而启程参加正式比试是在完成师父叮嘱和考验之后的行为，表明叙事时间线上前者早于后者。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d8674d39b295",
+    "subject_id": "ep_dd6c9520cb9bc656",
+    "object_id": "ep_f16ea312e5422463",
+    "relation_type": "precedes",
+    "reason": "耿良辰进攻被化解发生在比试前的考验阶段，而启程参加正式比试是在完成考验后的情节，描述中‘在完成师父的叮嘱与突袭考验后’暗示了时间上的先后顺序，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_54e9ca261c5f",
+    "subject_id": "ep_64de946f2c2e43e3",
+    "object_id": "ep_85a84363552c4e07",
+    "relation_type": "precedes",
+    "reason": "陈识传授比试要领并考验耿良辰发生在巷道中，是比试前的准备行为；而开启武厅双刀比试准备发生在武厅内，标志着比试即将开始。根据叙事顺序，师父的叮嘱和测试在时间上先于正式比试的准备，且相关事件描述中耿良辰在受训后才前往武馆，支持该时序关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8a49505fe7aa",
+    "subject_id": "ep_46a83fc7b04f26f4",
+    "object_id": "ep_f16ea312e5422463",
+    "relation_type": "precedes",
+    "reason": "陈识邀徒并确立师徒关系发生在耿良辰启程参加正式比试之前，因为耿良辰需先成为陈识弟子，才能接受师父的叮嘱与考验，进而前往武馆参加比试。描述中‘在完成师父的叮嘱与突袭考验后’表明师徒关系确立在前，是后续行动的前提。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2eceedfd4c37",
+    "subject_id": "ep_85a84363552c4e07",
+    "object_id": "ep_f16ea312e5422463",
+    "relation_type": "precedes",
+    "reason": "‘开启武厅双刀比试准备’描述耿良辰与旗袍女子在武厅内为比试做准备，是比试前的直接准备阶段；而‘耿良辰启程参加正式比试’描述他完成师父考验后前往武馆，标志着正式比试的开始。根据叙事逻辑，准备活动在启程参加正式比试之前发生，因此主体情节在时间顺序上早于客体情节。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_524d49880422",
+    "subject_id": "ep_144cb753110d564a",
+    "object_id": "ep_7bff86a29f825d56",
+    "relation_type": "precedes",
+    "reason": "耿良辰带伤离开咖啡馆后，随后在别处倒地被茶汤女发现并救助，且亲吻事件发生在其受伤之后，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8f591d774f95",
+    "subject_id": "ep_f16ea312e5422463",
+    "object_id": "ep_787e004c79956167",
+    "relation_type": "precedes",
+    "reason": "耿良辰启程参加正式比试（ep_f16ea312e5422463）发生在武厅双刀比试开始之前，而展开双刀交锋与非常规腿攻（ep_787e004c79956167）是比试中的具体对抗情节，叙事顺序上明显后续发生。因此，启程参加比试在话语和事件发展顺序上先于双刀交锋。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_743b4e99a071",
+    "subject_id": "ep_144cb753110d564a",
+    "object_id": "ep_2437f85db045792e",
+    "relation_type": "precedes",
+    "reason": "耿良辰带伤离开咖啡馆后，随后在雨中返回仓房并遭遇搜查，两个情节在叙事顺序上呈现清晰的时间先后关系，且无证据表明后者发生在前者之前。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_62a0a5d4db9f",
+    "subject_id": "ep_5b23304802a5d858",
+    "object_id": "ep_f16ea312e5422463",
+    "relation_type": "precedes",
+    "reason": "根据描述，'回应缺席酒席并展示胜利成果' 发生在耿良辰完成比试前的庆功酒席背景中，而 '耿良辰启程参加正式比试' 标志着他正式踏上比试之路。尽管'启程'在逻辑上应在比试前，但'回应缺席'的情节涉及比试后的成果展示（如带回螃蟹作为胜利象征），暗示该事件发生在比试结果已知之后。因此，'回应缺席酒席' 应在 '启程参加正式比试' 之前，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ca45320acf4b",
+    "subject_id": "ep_144cb753110d564a",
+    "object_id": "ep_5b23304802a5d858",
+    "relation_type": "precedes",
+    "reason": "耿良辰带伤离开现场发生在比武之后，而回应缺席酒席并展示胜利成果涉及庆功酒席的缺席及战果展示，逻辑上比武结束之后才可能缺席酒席并展示成果，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8b6ce0c9f3e1",
+    "subject_id": "ep_2a1efb0431a2ad80",
+    "object_id": "ep_f16ea312e5422463",
+    "relation_type": "precedes",
+    "reason": "根据描述，耿良辰在师徒对峙中表达情感后，才启程参加正式比试。'耿良辰向赵国卉递水被拒'和'表达依赖'发生在scene_36，而'走向武馆参加比试'发生在scene_34，但scene_34在文档顺序上早于scene_36，然而情节的叙事逻辑显示情感对峙发生在比试前的心理准备阶段，且'完成师父叮嘱与突袭考验'暗示此前已有互动。综合判断，情感倾诉与试探在叙事功能上为比试情节铺垫，支持'precedes'关系，方向为ep_2a1efb0431a2ad80 -> ep_f16ea312e5422463。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3973589614ac",
+    "subject_id": "ep_8dc623aede598d78",
+    "object_id": "ep_cc39ee50d4a1bcf5",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，'劝阻踢馆与激烈训练'发生在耿良辰决定踢馆之前，体现其执拗性格；而'处理踢馆后的归家与安顿'明确发生在踢馆归来之后。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_75a50d42f0f0",
+    "subject_id": "ep_8dc623aede598d78",
+    "object_id": "ep_e8562379046fb538",
+    "relation_type": "precedes",
+    "reason": "‘劝阻踢馆与激烈训练’描述耿良辰在被劝阻后进行训练并摔倒，体现其执拗性格；‘耿良辰登门挑战比试’则是他实际执行踢馆挑战的行为。根据叙事逻辑和事件发展，训练反应发生在实际挑战之前，因此前者在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c2447a2e69d9",
+    "subject_id": "ep_24f37176785c8b57",
+    "object_id": "ep_7bff86a29f825d56",
+    "relation_type": "precedes",
+    "reason": "耿良辰在被绑架并遭背叛后受伤倒地，随后被茶汤女发现并救助，且在救助过程中突然苏醒亲吻她。因此，'耿良辰反抗绑架并遭背叛'在叙事顺序上直接早于'救助与突然亲吻'，由事件因果链和场景顺序支持。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8ac7facd1447",
+    "subject_id": "ep_7c50b29bebcfcac2",
+    "object_id": "ep_ba7173bb27dd1d52",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中，陈识回忆学拳往事并传递情感表达的领悟，耿良辰由此理解情感的表达方式；第二个情节展示了耿良辰在与茶汤女互动中实际经历的情感冲突。前者为后者提供了情感认知上的背景和解释，说明他如何尝试应用这种领悟，因此主体情节扩展了客体情节的情感动机和心理背景。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_be3d25be769a",
+    "subject_id": "ep_e8562379046fb538",
+    "object_id": "ep_24f37176785c8b57",
+    "relation_type": "precedes",
+    "reason": "耿良辰登门挑战比试发生在其被绑架之前，文本中挑战比试为早期事件，而绑架及反抗是后续发展，具有明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f370abe8eae3",
+    "subject_id": "ep_e8562379046fb538",
+    "object_id": "ep_787e004c79956167",
+    "relation_type": "precedes",
+    "reason": "耿良辰登门挑战比试（ep_e8562379046fb538）发生在武厅双刀比试（ep_787e004c79956167）之前，前者是挑战的发起，后者是比试的实际展开，叙事顺序明确。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7723844b5a49",
+    "subject_id": "ep_e8562379046fb538",
+    "object_id": "ep_ad323618ad71442c",
+    "relation_type": "precedes",
+    "reason": "耿良辰登门挑战比试（ep_e8562379046fb538）发生在武厅双刀比试之前，后者是挑战的执行结果。描述中提到挑战后需等待陈识归来再比试，暗示后续发生近身缠斗并击晕对手的情节（ep_ad323618ad71442c），因此存在明确的叙事时间先后顺序。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cad9708c8e86",
+    "subject_id": "ep_41eb79699963278f",
+    "object_id": "ep_a9b9461c1fc06e1e",
+    "relation_type": "precedes",
+    "reason": "解救赵国卉并带离现场发生在耿良辰观察陈识与赵国卉离去之前，二者均发生在scene_13，但陈识行动先发生，随后耿良辰才目睹该场景，叙事顺序上具有明确先后关系。",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c4e12f416b44",
+    "subject_id": "ep_a27ee7faf2f5917f",
+    "object_id": "ep_413ce15ddfc6c546",
+    "relation_type": "precedes",
+    "reason": "林副官与段锐抵达茶汤摊位执行任务（scene_44）在时间上早于林副官介入冲突并控制茶汤女的事件（scene_48），根据文档中场景编号的顺序，情节之间存在明确的叙事先后关系。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0e206f014772",
+    "subject_id": "ep_117e8e8b3ec14b25",
+    "object_id": "ep_c21e24da89b278dd",
+    "relation_type": "elaborates",
+    "reason": "切磋球艺并展开对话为揭露女子悲惨身世提供了互动场景和叙事背景，后者在对话中展开，说明前者为后者的发生提供了上下文，且描述中明确指出练球活动为后续对话提供人际情境，支持了前一情节扩展和铺垫后一情节的关系。",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d829b14ab427",
+    "subject_id": "ep_5ebe1097e2a6d798",
+    "object_id": "ep_e8562379046fb538",
+    "relation_type": "precedes",
+    "reason": "根据描述，'耿良辰登门挑战比试'是比试的起始事件，而'战后搂抱晕倒的对手'发生在比试结束后，因此后者在叙事顺序上晚于前者。尽管两个情节的直接时间关系未在文本中明确串联，但'战后'这一状态和相关场合（武厅双刀比试）表明该情节发生在挑战之后，支持'登门挑战'在前、'战后搂抱'在后的顺序。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6d942aade97f",
+    "subject_id": "ep_24f37176785c8b57",
+    "object_id": "ep_7539557a82deb96e",
+    "relation_type": "causes",
+    "reason": "耿良辰被绑架并遭背叛后，邹馆长随即宣告武行自治终结，文本明确指出军人插手是因武行无法自理事务，表明前者直接触发了后者的声明。",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e739221364b5",
+    "subject_id": "ep_7539557a82deb96e",
+    "object_id": "ep_882ab41f6df4d51d",
+    "relation_type": "contrasts_with",
+    "reason": "邹馆长宣告武行自治终结体现制度性决断，而陈识目睹事件后心生忧虑表现个体情感反应，二者在同一场合下并置，凸显公共立场与私人情绪之间的对比。",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4b9f361cfe44",
+    "subject_id": "ep_f6619d909c897d2e",
+    "object_id": "ep_b4bf247517d0cad0",
+    "relation_type": "elaborates",
+    "reason": "陈识立誓在天津立足这一情节确立了其挑战八家武馆的总体目标和内在动机，而确立徒弟代战方案则进一步提供具体实施路径，作为对前一情节的扩展和细化，二者共享同一场合且后者在话语中直接回应前者的目标。",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d26172f54e4b",
+    "subject_id": "ep_08d951da0bd08fe8",
+    "object_id": "ep_413ce15ddfc6c546",
+    "relation_type": "precedes",
+    "reason": "车夫暗中持刀支援行动发生在茶汤女被控制之前，根据描述，车夫在茶汤女离开后开始跟随林副官，而控制冲突并保护茶汤女涉及茶汤女当场试图干预并被制止，二者共享scene_48但顺序上车夫行动在前，作为后续事件的伏笔，因此该情节在叙事顺序上早于控制冲突事件。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4c4f17ed8ed0",
+    "subject_id": "ep_a27ee7faf2f5917f",
+    "object_id": "ep_6e6004da7fcb87d4",
+    "relation_type": "precedes",
+    "reason": "林副官与段锐抵达茶汤摊位执行任务（ep_a27ee7faf2f5917f）发生在控制住茶汤女并指示其寻求警方援助（ep_6e6004da7fcb87d4）之前，根据任务执行的逻辑顺序和场景编号（scene_44 在 scene_48 之前），该时间顺序得到明确支持。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b51826fd6940",
+    "subject_id": "ep_83d8acb7c2d30d68",
+    "object_id": "ep_882ab41f6df4d51d",
+    "relation_type": "contrasts_with",
+    "reason": "脚行弟兄试图营救并被迫放弃体现集体行动的挫败与兄弟情义的断裂，而陈识目睹事件后心生忧虑则表现个体对传统崩塌的沉默忧思，二者在公开对抗与私下情绪反应之间形成情感与行为上的对比，共享同一场合但展现不同层次的悲剧性回应。",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_0cdffc54d3b4",
+    "subject_id": "ep_7539557a82deb96e",
+    "object_id": "ep_83d8acb7c2d30d68",
+    "relation_type": "precedes",
+    "reason": "邹馆长宣告武行自治终结发生在脚行弟兄试图营救并被迫放弃之后。根据描述，脚行弟兄的营救尝试和东家的制止是耿良辰被绑架现场的直接反应，而邹馆长的宣告是对该事件的后续处理，标志着权力交接的正式完成，因此在叙事顺序上前者紧随后者之后。",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c2bf1016e0e6",
+    "subject_id": "ep_6e6004da7fcb87d4",
+    "object_id": "ep_08d951da0bd08fe8",
+    "relation_type": "precedes",
+    "reason": "根据描述，'指示茶汤女寻求警方援助' 发生在林副官控制茶汤女并归还匕首后，而车夫持刀跟随的行动是在茶汤女离开后开始的，因此该情节在叙事顺序上紧随其后。两个情节均发生在 scene_48，但指示茶汤女离开在先，车夫随后跟随林副官进入街道，形成时间上的先后关系。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_36e86917d666",
+    "subject_id": "ep_24f37176785c8b57",
+    "object_id": "ep_882ab41f6df4d51d",
+    "relation_type": "contrasts_with",
+    "reason": "耿良辰在被绑架过程中奋起反抗但最终遭背叛，体现其身体上的抗争与悲惨结局；而陈识在远处目睹全过程并心生忧虑，反映其精神层面的无力与对武行传统崩塌的哀叹。两个情节在行动与静观、反抗与无奈之间形成对比，通过并置强化了个人抗争与时代变迁之间的张力，符合contrasts_with的对称对比关系。",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6c5a4722032e",
+    "subject_id": "ep_ad323618ad71442c",
+    "object_id": "ep_cc39ee50d4a1bcf5",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'近身缠斗并以头击晕对手' 发生在 scene_28，而 '处理踢馆后的归家与安顿' 发生在 scene_25，但 scene_25 在叙事时间线上实际早于 scene_28。然而，'处理踢馆后的归家与安顿' 描述的是耿良辰踢馆归来后的情节，逻辑上应紧随比试之后。结合事件内容与场景编号矛盾，以叙事逻辑为准：比试结束导致踢馆归来，因此 '近身缠斗并以头击晕对手' 在叙事顺序上先于 '处理踢馆后的归家与安顿'，支持 'precedes' 关系。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  }
+]

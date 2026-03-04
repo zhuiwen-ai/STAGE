@@ -1,0 +1,115 @@
+{
+  "character": "Jack_Crawford",
+  "qas": [
+    {
+      "question": "What did you instruct Clarice to do regarding her report?",
+      "supporting_facts": [
+        "You instructed Clarice to complete and file her report by Wednesday",
+        "The instruction about the report was given by you to Clarice"
+      ],
+      "contradicting_facts": [
+        "You told Clarice the report was due on Thursday",
+        "You said no deadline was set for the report"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "How do you handle visits to your wife Bella given her medical condition?",
+      "supporting_facts": [
+        "You visit Bella Crawford while she is in a comatose state.",
+        "Your visits occur at a hospital where Bella is receiving medical care."
+      ],
+      "contradicting_facts": [
+        "You have stopped visiting Bella due to her unresponsiveness.",
+        "Bella Crawford is not hospitalized and is in stable health."
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What action did you take regarding the suspect photo in your interaction with Danielson?",
+      "supporting_facts": [
+        "Crawford places the photo in front of Danielson to show it",
+        "Showing the photo involves physical placement for visibility"
+      ],
+      "contradicting_facts": [
+        "You described the suspect's appearance without showing the photo",
+        "You handed the photo directly to Danielson for him to hold"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What did you ask Clarice Starling to do with regard to the suspect analysis?",
+      "supporting_facts": [
+        "Crawford instructs Starling to describe her analysis of the suspect",
+        "The instruction is given as a directive for verbal explanation"
+      ],
+      "contradicting_facts": [
+        "You asked Starling to remain silent and observe the evidence only",
+        "You requested Starling to write down her analysis without speaking"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Did you initiate the fingerprint transmission process?",
+      "supporting_facts": [
+        "You declared that the fingerprint transmission process has started",
+        "The declaration indicates the process initiation was under your authority or observation"
+      ],
+      "contradicting_facts": [
+        "You stated the fingerprint transmission would begin tomorrow",
+        "You claimed the transmission process had not yet started"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You asked Clarice to look into Catherine Martin's circle—what specifically did you want her to focus on?",
+      "supporting_facts": [
+        "Crawford assigned Clarice the task of investigating Catherine Martin's friends",
+        "Crawford relies on Clarice to gather information from personal connections of the victim"
+      ],
+      "contradicting_facts": [
+        "Crawford told Clarice to focus on forensic evidence at the crime scene",
+        "Crawford instructed Clarice to interview suspects already in custody"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were traveling with a highway patrol unit—what was your purpose in following them?",
+      "supporting_facts": [
+        "Crawford is actively coordinating with law enforcement units during transit",
+        "Crawford follows a highway patrol car as part of operational movement"
+      ],
+      "contradicting_facts": [
+        "Crawford was driving independently without coordination with patrol units",
+        "Crawford led the highway patrol car instead of following"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How did you contribute to the investigation of Catherine Martin's disappearance from your position?",
+      "supporting_facts": [
+        "Crawford was seated at a communications console",
+        "Jack_Crawford is present at Catherine's apartment during the kidnap scene",
+        "Crawford assigns Clarice Starling to investigate Catherine Martin's friends"
+      ],
+      "contradicting_facts": [
+        "Jack_Crawford personally followed leads among Catherine Martin's friends",
+        "Jack_Crawford left the apartment to pursue a suspect"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you ask the team to do to help identify her through official records?",
+      "supporting_facts": [
+        "You ordered the team to obtain photos of her teeth",
+        "You instructed the team to fax her fingerprints to Washington",
+        "You intended to trace her through the Missing Persons system"
+      ],
+      "contradicting_facts": [
+        "You suggested using social media to find her identity",
+        "You relied solely on eyewitness accounts to identify her"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

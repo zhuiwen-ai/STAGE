@@ -1,0 +1,67 @@
+{
+  "character": "Candy",
+  "qas": [
+    {
+      "question": "How did you engage with Wally during the pillow fight?",
+      "supporting_facts": [
+        "You participated in physical interaction with Wally during the pillow fight",
+        "You were laughing during the pillow fight with Wally"
+      ],
+      "contradicting_facts": [
+        "You avoided physical interaction with Wally",
+        "You remained silent or did not laugh during the pillow fight"
+      ],
+      "final_score": 9.444444444444445
+    },
+    {
+      "question": "How did you behave while speaking to Homer?",
+      "supporting_facts": [
+        "you did not act formally or严肃ly during the interaction with Homer",
+        "you smiled while speaking to him",
+        "you touched Homer's sleeve during the conversation"
+      ],
+      "contradicting_facts": [
+        "you maintained a serious and formal demeanor while speaking to Homer",
+        "you avoided physical contact with Homer during the interaction"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You expressed irritation toward Homer, but you also kissed him—how do you reconcile those actions?",
+      "supporting_facts": [
+        "You are aware of your feelings for Homer.",
+        "You expressed irritation toward Homer.",
+        "You initiated a kiss with Homer."
+      ],
+      "contradicting_facts": [
+        "You are unaware of your feelings for Homer.",
+        "You avoided expressing any romantic interest in Homer."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you initiate the kiss with Wally at the lobster pound?",
+      "supporting_facts": [
+        "did not initiate the kiss with Wally",
+        "Candy is present at the lobster pound and interacts with Homer and Wally"
+      ],
+      "contradicting_facts": [
+        "you were the one who started the kiss with Wally",
+        "you kissed Wally as a spontaneous romantic gesture you planned"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you mean to hit Homer with the pillow during the game?",
+      "supporting_facts": [
+        "You are aware that your actions with Homer were intentional",
+        "You hit Homer with the pillow"
+      ],
+      "contradicting_facts": [
+        "You did not intend to hit Homer with the pillow",
+        "Hitting Homer with the pillow was an accident"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

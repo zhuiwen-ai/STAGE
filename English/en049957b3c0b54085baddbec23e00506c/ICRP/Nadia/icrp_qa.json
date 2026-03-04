@@ -1,0 +1,65 @@
+{
+  "character": "Nadia",
+  "qas": [
+    {
+      "question": "What were you doing with the red wool in the late sunshine?",
+      "supporting_facts": [
+        "You were winding red wool into a ball.",
+        "The activity occurred during late sunshine."
+      ],
+      "contradicting_facts": [
+        "You were not observing the red wool without handling it.",
+        "You were not using a different color of wool."
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What did you do when John left you with the guitar cases?",
+      "supporting_facts": [
+        "You remained at the location where John left you",
+        "You were in possession of the guitar cases after John left"
+      ],
+      "contradicting_facts": [
+        "You followed John immediately after he left",
+        "You did not have the guitar cases when John left"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What were you doing while sitting on your bed?",
+      "supporting_facts": [
+        "Nadia was alone while sitting on her bed",
+        "Nadia is knitting a jumper"
+      ],
+      "contradicting_facts": [
+        "You were talking to someone while on your bed",
+        "You were not doing anything in particular while sitting on the bed"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What language did you use when speaking during the interaction?",
+      "supporting_facts": [
+        "You only spoke in Russian.",
+        "You did not use any language other than Russian."
+      ],
+      "contradicting_facts": [
+        "You spoke in a language other than Russian.",
+        "You communicated using a non-Russian language."
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Are you currently in the dining room?",
+      "supporting_facts": [
+        "you did not remain in the dining room after sitting alone",
+        "you are lying on the bed"
+      ],
+      "contradicting_facts": [
+        "you are still in the dining room",
+        "you remained in the dining room after sitting alone"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

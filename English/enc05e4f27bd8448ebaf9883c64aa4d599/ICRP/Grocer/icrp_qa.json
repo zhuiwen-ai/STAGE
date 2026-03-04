@@ -1,0 +1,65 @@
+{
+  "character": "Grocer",
+  "qas": [
+    {
+      "question": "You were present when Martin arrived—did you notice him entering the building?",
+      "supporting_facts": [
+        "you are aware of Martin's presence",
+        "you were in a position to observe Martin's arrival"
+      ],
+      "contradicting_facts": [
+        "you were unaware of Martin's arrival",
+        "you did not perceive Martin entering the building"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were behind the counter when the incident started — did you stay there the entire time?",
+      "supporting_facts": [
+        "Grocer was rising from his side of the counter, indicating movement away from a grounded position",
+        "Grocer did not continue approaching after Martin fired at the door, implying a halt in movement"
+      ],
+      "contradicting_facts": [
+        "Grocer remained stationary behind the counter throughout the incident",
+        "Grocer advanced toward the door after Martin fired"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were in a confrontation with Martin—what was your position relative to him during the standoff?",
+      "supporting_facts": [
+        "You were separated from Martin by the counter during the standoff",
+        "You were in a standoff position with Martin"
+      ],
+      "contradicting_facts": [
+        "You were standing next to Martin during the confrontation",
+        "You had moved around the counter to approach Martin"
+      ],
+      "final_score": 7.777777777777778
+    },
+    {
+      "question": "What did you do immediately after Martin fired at the front door?",
+      "supporting_facts": [
+        "You retreated from the front door after Martin fired at it",
+        "You did not remain at the front door after Martin fired at it"
+      ],
+      "contradicting_facts": [
+        "You stayed at the front door to assess the damage",
+        "You advanced toward the door after the gunfire"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You were behind the counter when the situation escalated—what did you do in response to the threat?",
+      "supporting_facts": [
+        "Grocer began to rise from his side of the counter",
+        "Grocer cocked his gun"
+      ],
+      "contradicting_facts": [
+        "Grocer remained seated and did not react",
+        "Grocer kept the gun uncocked and holstered"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "character": "Ben_Rand",
+  "qas": [
+    {
+      "question": "Did you light Chance's cigar personally?",
+      "supporting_facts": [
+        "Ben Rand only handed the lighter to Chance",
+        "Rand did not personally light Chance's cigar"
+      ],
+      "contradicting_facts": [
+        "You used your own flame to light Chance's cigar",
+        "You directly ignited the cigar with your hand"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You were moving with Chance—how were you able to stay with them despite your condition?",
+      "supporting_facts": [
+        "You are physically impaired and move slowly.",
+        "You relied on Chance for physical support while moving.",
+        "You remained in contact with Chance as you moved together."
+      ],
+      "contradicting_facts": [
+        "You walked independently without assistance.",
+        "You moved quickly or ahead of Chance."
+      ],
+      "final_score": 8.88888888888889
+    },
+    {
+      "question": "Did you attend the meeting with Chance and Constance?",
+      "supporting_facts": [
+        "you were present at the meeting location",
+        "you interacted with Chance",
+        "you became aware of Constance's entrance"
+      ],
+      "contradicting_facts": [
+        "you were not at the meeting location",
+        "you refused to interact with Chance"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you show any signs of hostility toward Chance during your interaction?",
+      "supporting_facts": [
+        "Ben_Rand did not show hostility toward Chance in his actions",
+        "Ben_Rand offered a cigar to Chance"
+      ],
+      "contradicting_facts": [
+        "You acted with hostility toward Chance",
+        "You refused to offer Chance a cigar"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You've been in close contact with Chance—how would you describe your current relationship status with them?",
+      "supporting_facts": [
+        "Rand has physical contact with Chance, indicating closeness or dependence",
+        "did not refuse to introduce Chance, suggesting openness about the relationship"
+      ],
+      "contradicting_facts": [
+        "You are deliberately avoiding physical interaction with Chance",
+        "You have refused to acknowledge Chance in any social or personal context"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were holding Chance's hand—what does that suggest about your willingness to cooperate at that time?",
+      "supporting_facts": [
+        "You held Chance's hand, indicating a form of physical cooperation.",
+        "You did not pull away or refuse cooperation when contact was established."
+      ],
+      "contradicting_facts": [
+        "You explicitly refused to cooperate by pushing Chance away.",
+        "Holding Chance's hand was involuntary because you were unconscious."
+      ],
+      "final_score": 7.777777777777779
+    },
+    {
+      "question": "You promised to show someone the gardens tomorrow—can you confirm who that was?",
+      "supporting_facts": [
+        "Ben Rand made a promise to show the gardens to Chauncey",
+        "The promise to show the gardens is scheduled for tomorrow"
+      ],
+      "contradicting_facts": [
+        "The person promised the garden tour was Eve",
+        "The garden tour was scheduled for today"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

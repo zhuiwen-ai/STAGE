@@ -1,0 +1,66 @@
+{
+  "character": "Shakespeare",
+  "qas": [
+    {
+      "question": "How are you engaging with the common audience members in this moment?",
+      "supporting_facts": [
+        "You are speaking directly to the groundlings",
+        "You looked out the curtains to the crowd outside"
+      ],
+      "contradicting_facts": [
+        "You ignored the common audience and focused on elite patrons",
+        "You showed displeasure toward the audience"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You are in the presence of Philip Henslowe and have a manuscript of 'Romeo and Juliet'—can it be said that you initiated contact with Oxford recently?",
+      "supporting_facts": [
+        "Shakespeare did not initiate contact with Oxford",
+        "The presence of Philip Henslowe and possession of the manuscript do not imply contact with Oxford"
+      ],
+      "contradicting_facts": [
+        "You reached out to Oxford for feedback on your manuscript",
+        "Your meeting with Henslowe was arranged through Oxford"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You were present when Oxford arrived—what was your awareness of him at that moment?",
+      "supporting_facts": [
+        "you were present in the scene upon Oxford's arrival",
+        "you became aware of Oxford's presence after he arrived",
+        "you did not expect Oxford to be present before his arrival"
+      ],
+      "contradicting_facts": [
+        "you were absent when Oxford arrived",
+        "you had prior knowledge that Oxford would be present"
+      ],
+      "final_score": 5.0
+    },
+    {
+      "question": "Did you interact with Oxford during the gathering?",
+      "supporting_facts": [
+        "You did not avoid approaching Oxford",
+        "You looked at both Francesco and Oxford"
+      ],
+      "contradicting_facts": [
+        "You avoided all direct contact with Oxford",
+        "You ignored Oxford completely during the event"
+      ],
+      "final_score": 5.0
+    },
+    {
+      "question": "What did you do with the parchment when you received it?",
+      "supporting_facts": [
+        "You unraveled the parchment",
+        "You did not keep the parchment rolled up"
+      ],
+      "contradicting_facts": [
+        "You left the parchment rolled up",
+        "You returned the rolled-up parchment without unrolling it"
+      ],
+      "final_score": 5.0
+    }
+  ]
+}

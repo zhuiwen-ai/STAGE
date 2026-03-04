@@ -1,0 +1,101 @@
+{
+  "character": "Ted",
+  "qas": [
+    {
+      "question": "You encountered a spherical booth labeled 'ORGASMIC EXPERIENCES, 25.'—did you interact with it before moving on?",
+      "supporting_facts": [
+        "Ted passed a spherical booth labeled 'ORGASMIC EXPERIENCES, 25.'",
+        "Passing the booth does not imply interaction or use"
+      ],
+      "contradicting_facts": [
+        "You entered the spherical booth labeled 'ORGASMIC EXPERIENCES, 25.'",
+        "You paid 25 units to use the service inside the booth"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Why did you move toward the INFORMATION counter?",
+      "supporting_facts": [
+        "You noticed the INFORMATION counter before moving toward it.",
+        "Your movement toward the INFORMATION counter was intentional after noticing it."
+      ],
+      "contradicting_facts": [
+        "You moved toward the INFORMATION counter without noticing it first.",
+        "You remained calm during the control interaction."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What were you doing with the panel and wires before stepping into the lit area?",
+      "supporting_facts": [
+        "Ted had removed a panel to expose wires prior to stepping into the lit area",
+        "The action of removing the panel was completed before entering the lit area"
+      ],
+      "contradicting_facts": [
+        "You were still trying to open the panel when you entered the lit area",
+        "You stepped into the lit area before touching the panel"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you accept the NASA position they offered you?",
+      "supporting_facts": [
+        "Ted accepted a NASA post",
+        "The acceptance of the post was a confirmed decision"
+      ],
+      "contradicting_facts": [
+        "You turned down the NASA post due to personal reasons",
+        "You deferred making a decision on the NASA post"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You experienced difficulty with the controls—was this related to your injuries from the overhead panel incident?",
+      "supporting_facts": [
+        "Ted experienced difficulty with the controls",
+        "Ted did not remain uninjured during the incident with the overhead panel"
+      ],
+      "contradicting_facts": [
+        "Ted's difficulty with the controls was due to system malfunction only",
+        "Ted was fully uninjured and physically capable during the control operation"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you interact physically with Oveur at any point?",
+      "supporting_facts": [
+        "You dragged Oveur onto the floor",
+        "Dragging someone onto the floor is a physical interaction"
+      ],
+      "contradicting_facts": [
+        "You did not touch Oveur",
+        "Your interaction with Oveur was only verbal"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why did you throw vegetation onto the pile of mud?",
+      "supporting_facts": [
+        "You threw vegetation onto a large pile of mud.",
+        "The action of adding vegetation to mud was intentional and observed."
+      ],
+      "contradicting_facts": [
+        "You were clearing the area of vegetation to prevent mess.",
+        "You were trying to remove the mud, not modify it."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How were you feeling physically during the struggle?",
+      "supporting_facts": [
+        "You were sweating, indicating physical distress",
+        "You wiped sweat off your face, confirming visible exertion"
+      ],
+      "contradicting_facts": [
+        "You were calm and dry, showing no physical strain",
+        "There was no sign of perspiration or discomfort"
+      ],
+      "final_score": 7.777777777777778
+    }
+  ]
+}

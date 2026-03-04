@@ -1,0 +1,67 @@
+{
+  "character": "Leena_Klammer",
+  "qas": [
+    {
+      "question": "Did you use any tools or materials to help start the fire on the floor?",
+      "supporting_facts": [
+        "You possess a BOOK OF MATCHES.",
+        "You lit a match.",
+        "You doused the floor with lighter fluid."
+      ],
+      "contradicting_facts": [
+        "You did not use any fire-starting tools or accelerants.",
+        "You avoided using flammable liquids on the floor."
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Did you take any actions that contributed to igniting the floor after applying the accelerant?",
+      "supporting_facts": [
+        "You doused the floor with lighter fluid.",
+        "You lit a match.",
+        "You did not refrain from using fire accelerants on the floor."
+      ],
+      "contradicting_facts": [
+        "You decided not to ignite the floor after applying the fluid.",
+        "You refrained from using open flames near the accelerant."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What happened to the contents of the aquarium after it was destroyed?",
+      "supporting_facts": [
+        "You did not preserve the contents of the aquarium after its destruction",
+        "The destruction of the aquarium resulted in irreversible loss of its contents"
+      ],
+      "contradicting_facts": [
+        "You saved or secured the contents of the aquarium before or after destruction",
+        "The contents of the aquarium were kept intact despite the destruction"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Do you currently have access to any flammable materials?",
+      "supporting_facts": [
+        "You are in possession of charcoal and lighter fluid",
+        "Charcoal and lighter fluid are substances capable of igniting fire"
+      ],
+      "contradicting_facts": [
+        "You do not have any materials that could be used to start a fire",
+        "Your access to flammable substances is currently blocked or nonexistent"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "How did you react when you heard the name 'Esther'?",
+      "supporting_facts": [
+        "You did not speak after hearing the name 'Esther'",
+        "Your response to hearing 'Esther' involved a break in verbal communication"
+      ],
+      "contradicting_facts": [
+        "You responded verbally immediately after hearing the name 'Esther'",
+        "You calmly asked for more information upon hearing the name 'Esther'"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

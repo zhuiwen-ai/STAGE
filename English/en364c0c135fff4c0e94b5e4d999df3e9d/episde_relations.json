@@ -1,0 +1,1443 @@
+[
+  {
+    "id": "rel_ep_ep_02ef91bdf6ac",
+    "subject_id": "ep_9a44f9dfe1a3fd50",
+    "object_id": "ep_c2c54bd0936aaab5",
+    "relation_type": "precedes",
+    "reason": "John flees the scene and vomits before Quinn recognizes him and begins observing, as indicated by the sequence in the related events: John passes by, then Quinn recognizes and watches him, continuing after eye contact. The narrative order in scene_150 supports that the fleeing episode precedes the recognition and observation episode.",
+    "source_documents": [
+      "scene_150_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_53b969bb7a06",
+    "subject_id": "ep_34546489f88c0140",
+    "object_id": "ep_f92bf432c47905ec",
+    "relation_type": "precedes",
+    "reason": "The confrontation and exchange between John and Mike occurs during scene_143, where Mike hands over the passports. Immediately afterward, in the same scene, John reviews the new passports after the motorcyclists leave. The narrative sequence in scene_143 supports that the exchange precedes the inspection.",
+    "source_documents": [
+      "scene_143_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0d2ab924a135",
+    "subject_id": "ep_6c849429beeef0c9",
+    "object_id": "ep_1c2fd5d6e5e8a8e4",
+    "relation_type": "precedes",
+    "reason": "The episode 'John awaits and observes the preceding interview' occurs before 'Conclude prior interview and transition to John's turn' as John is waiting while the black woman is being interviewed, and the transition to his turn only happens after she exits. The narrative flow and shared scene context support this temporal ordering.",
+    "source_documents": [
+      "scene_147_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cbc53a988d2b",
+    "subject_id": "ep_7a94b8ea812c4666",
+    "object_id": "ep_d716ea3d0e4bf500",
+    "relation_type": "precedes",
+    "reason": "The episode 'Receive and respond to birthday invitation' involves the delivery and initial social exchange of the invitation, directly followed by John declining attendance due to personal complications in the next episode. The sequence is supported by the shared scene (scene_157) and the logical flow from invitation to response, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_157_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a04dfad743e6",
+    "subject_id": "ep_268df1cfd4e709d0",
+    "object_id": "ep_152b8468eb94d6b1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Review CCTV footage to establish John's location' occurs first in the interrogation sequence, as it establishes John's physical presence using CCTV before escalating to the direct confrontation with evidence and psychological pressure in the subsequent episode. Both episodes occur in the same scene (scene_148), and the shift from location-based questioning to direct confrontation indicates a chronological and narrative progression.",
+    "source_documents": [
+      "scene_148_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d5725576c26d",
+    "subject_id": "ep_57ff3e9da93bb8da",
+    "object_id": "ep_dae7d83459d8246c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Check on Luke and resume gameplay' occurs while Luke is actively playing the video game, and the episode 'Call Luke to bed' involves John instructing Luke to stop playing and go to bed, indicating a subsequent action. The narrative flow and goal progression (monitoring activity → ending activity) support a temporal sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_177_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3235f752568a",
+    "subject_id": "ep_34546489f88c0140",
+    "object_id": "ep_78095b2b2ef40162",
+    "relation_type": "causes",
+    "reason": "The confrontation and exchange episode includes Mike revealing that the man John watched was a cop, which directly leads to John realizing his mistake and feeling foolish, as stated in the object episode's description. This causal link is explicitly supported by the text.",
+    "source_documents": [
+      "scene_143_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_07fca82a0286",
+    "subject_id": "ep_bf8741977af63aa4",
+    "object_id": "ep_23f4f546e6f1288b",
+    "relation_type": "precedes",
+    "reason": "The episode 'John informs guard of brief delay' creates the private moment that immediately precedes the emotional exchange between John and Lara, as both occur in scene_135 and the delay is necessary to set up the subsequent private interaction.",
+    "source_documents": [
+      "scene_135_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_85986104a4ad",
+    "subject_id": "ep_57ff3e9da93bb8da",
+    "object_id": "ep_5899d9a3f0f4fb18",
+    "relation_type": "precedes",
+    "reason": "The episode 'Check on Luke and resume gameplay' occurs while John and Luke are still present during the interaction with Nicole, and the episode 'Conclude encounter and depart' involves John deciding to leave and thanking Nicole, which logically follows afterward. The narrative flow indicated by the descriptions and related events supports a temporal sequence where checking on Luke precedes the departure.",
+    "source_documents": [
+      "scene_177_part_1",
+      "scene_157_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7462fbe2c208",
+    "subject_id": "ep_34546489f88c0140",
+    "object_id": "ep_4322c3e4e4d6b0fc",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Mike confronting John, inspecting payment, and receiving the envelope, while the second episode describes actions after the transaction is completed, including Mike speeding off and the second rider following. The sequence of events in the same scene (scene_143) and the explicit mention of post-transaction actions in the second episode indicate that the first episode occurs before the second.",
+    "source_documents": [
+      "scene_143_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ea4c5476858d",
+    "subject_id": "ep_78095b2b2ef40162",
+    "object_id": "ep_f92bf432c47905ec",
+    "relation_type": "precedes",
+    "reason": "The realization and embarrassment of John occurs immediately after Mike reveals the man was a cop, which precedes John's subsequent action of reviewing the new passports after the motorcyclists leave, indicating a clear local narrative order where the emotional reaction comes before the inspection of the acquired documents.",
+    "source_documents": [
+      "scene_143_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1c843cfb312b",
+    "subject_id": "ep_c2c54bd0936aaab5",
+    "object_id": "ep_4f85749db0e27f58",
+    "relation_type": "causes",
+    "reason": "Quinn's recognition and sustained observation of John directly causes Collero to notice Quinn's distraction and subsequently see John leaving, as explicitly stated in the description of ep_4f85749db0e27f58 where Collero follows Quinn's gaze after realizing he is not listening.",
+    "source_documents": [
+      "scene_150_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6e0b191d12b0",
+    "subject_id": "ep_0b747c9186c83971",
+    "object_id": "ep_34546489f88c0140",
+    "relation_type": "precedes",
+    "reason": "The surveillance episode (John observing the man and the man driving away) occurs immediately before the confrontation with Mike, where Mike references John's failure to leave and reveals the man was a cop. The events in the first episode directly set the context for Mike's reprimand in the second, and both are anchored in the same scene (scene_143), with the departure of the man logically preceding the exchange about it.",
+    "source_documents": [
+      "scene_143_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3ef437c04e3c",
+    "subject_id": "ep_4f85749db0e27f58",
+    "object_id": "ep_9a44f9dfe1a3fd50",
+    "relation_type": "precedes",
+    "reason": "Collero notices Quinn's distraction and sees John leave occurs just before John flees the scene in distress, as the observation of John walking away and disappearing around the corner immediately precedes his rushed exit and vomiting, based on the shared scene (scene_150) and the temporal sequence implied in the related events.",
+    "source_documents": [
+      "scene_150_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a505329dcd05",
+    "subject_id": "ep_8d9e6cc7e8ce9fc8",
+    "object_id": "ep_5899d9a3f0f4fb18",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrange class coverage due to emergency departure' involves John deciding to leave because Luke is unwell and making arrangements to cover his class, which logically precedes the episode 'Conclude encounter and depart' where John thanks Nicole and departs with Luke. The causal and temporal sequence is supported by the shared context of Luke's illness and the narrative flow of preparing to leave before actually doing so.",
+    "source_documents": [
+      "scene_157_part_1",
+      "scene_141_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3105e6675a78",
+    "subject_id": "ep_ed969f3122d020b2",
+    "object_id": "ep_5899d9a3f0f4fb18",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront uncertainty and respond to Luke's call' occurs in doc_155 and includes scene_156, while 'Conclude encounter and depart' occurs in doc_156 and includes scene_157, indicating a sequential narrative order where John's contemplation and interaction with Luke precede the departure. The scene numbering and document order support a local narrative sequence.",
+    "source_documents": [
+      "scene_157_part_1",
+      "scene_156_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9b5214b9d831",
+    "subject_id": "ep_6c849429beeef0c9",
+    "object_id": "ep_268df1cfd4e709d0",
+    "relation_type": "precedes",
+    "reason": "The episode 'John awaits and observes the preceding interview' occurs in doc_146 and involves John waiting before his interrogation, while 'Review CCTV footage to establish John's location' occurs in doc_148 and is part of the interrogation itself. The narrative order and document sequence indicate that John's observation of the prior interview happens before the CCTV review, establishing a clear temporal precedence.",
+    "source_documents": [
+      "scene_148_part_1",
+      "scene_147_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_05f4958eef2a",
+    "subject_id": "ep_a21c3a656e658916",
+    "object_id": "ep_dae7d83459d8246c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Share a letter from Luke's mother' occurs in doc_159 and involves John reading a letter to Luke during an intimate moment, while 'Call Luke to bed' occurs in doc_178 and follows John's interaction with a medical form. The narrative order across documents indicates that the letter-sharing episode precedes the bedtime call, with no intervening contradictory events, supporting a directed 'precedes' relation.",
+    "source_documents": [
+      "scene_160_part_1",
+      "scene_179_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dd22edfbad6a",
+    "subject_id": "ep_59cd090695800f6b",
+    "object_id": "ep_794a0129748c2911",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Paula directly asking John to water her plants and revealing her medical condition, which provides the motivation for the subsequent action in the object episode where John and Luke water the garden and discuss her absence. The narrative logic and shared context (watering the garden due to Paula's condition) strongly suggest a temporal sequence where the request and explanation precede the action it prompts.",
+    "source_documents": [
+      "scene_139_part_1",
+      "scene_161_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a147d59437aa",
+    "subject_id": "ep_5104e1b8114bcb38",
+    "object_id": "ep_984e9b01159c6747",
+    "relation_type": "precedes",
+    "reason": "The episode 'Nicole reengages John with apology and recognition' involves Nicole apologizing and reintroducing herself, leading to John's acknowledgment, which sets the stage for the subsequent invitation to lunch. The lunch invitation in 'Accept lunch invitation through light humor' occurs after the reengagement and relies on the reestablished connection, indicating a clear sequential order in the narrative as both episodes occur in scene_157 but the apology and recognition logically precede the invitation and acceptance.",
+    "source_documents": [
+      "scene_157_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_977441a57f44",
+    "subject_id": "ep_5104e1b8114bcb38",
+    "object_id": "ep_7a94b8ea812c4666",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_157 and share the same document context. The reengagement via apology and recognition (ep_5104e1b8114bcb38) establishes the social connection that immediately precedes the exchange of the birthday invitation (ep_7a94b8ea812c4666), as the invitation is extended after Nicole introduces herself and John acknowledges her. The narrative flow within the scene supports a clear temporal ordering.",
+    "source_documents": [
+      "scene_157_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1536c32b0b94",
+    "subject_id": "ep_567313d2dcb5e3b1",
+    "object_id": "ep_2d277dc4803fd02b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Position and conceal the bump key attempt' involves John inserting the bump key into the lock, which must occur before 'Conceal evidence and rejoin the crowd', where he discards the broken key fragment after it breaks in the lock. The sequence of events in the shared scene (scene_146) supports a clear temporal order: insertion attempt precedes concealment of the broken key.",
+    "source_documents": [
+      "scene_146_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e075b9c8de01",
+    "subject_id": "ep_690f2031d9ae7353",
+    "object_id": "ep_1de3c0050745a359",
+    "relation_type": "precedes",
+    "reason": "The episode 'Prepare and submit items for screening' involves John placing the dish with the bump key into the X-ray machine, which must occur before the episode 'Evade detection during dish exchange' where he palms the key during the exchange with the guard. The sequence of events in the shared occasion 'Jail Security Screening (scene_145)' supports a clear temporal order: first submission, then retrieval and concealment.",
+    "source_documents": [
+      "scene_145_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_141fd9cacc2b",
+    "subject_id": "ep_690f2031d9ae7353",
+    "object_id": "ep_534f8d2d17f42d73",
+    "relation_type": "precedes",
+    "reason": "The episode 'Prepare and submit items for screening' involves John placing the bump key into the dish for X-ray screening, which must occur before he can pocket the key during the screening process described in 'Conceal bump key and enter jail'. Both episodes occur within the same occasion 'Jail Security Screening (scene_145)', and the sequence of related events indicates a clear temporal order: removal and submission precede the concealment and entry.",
+    "source_documents": [
+      "scene_145_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_721e50736238",
+    "subject_id": "ep_1de3c0050745a359",
+    "object_id": "ep_534f8d2d17f42d73",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Evade detection during dish exchange' involves John palming the bump key during the screening, which immediately precedes the object episode 'Conceal bump key and enter jail' where he pockets the key as he proceeds into the jail. The sequence is supported by the shared scene (scene_145) and the logical, temporal progression: palming occurs during the exchange, and pocketing occurs afterward as he enters the jail.",
+    "source_documents": [
+      "scene_145_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c5839baa788d",
+    "subject_id": "ep_ce3ed7ad978abf04",
+    "object_id": "ep_2d277dc4803fd02b",
+    "relation_type": "causes",
+    "reason": "The subject episode 'Struggle with and fail to operate the bump key' directly results in the broken key fragment being left in the lock, which prompts John to conceal the evidence and rejoin the crowd, as described in the object episode. The causal link is explicitly supported by the sequence of events: the key breaks during the struggle (in scene_146), and immediately afterward, John discards the fragment and hides it, then rejoins the group.",
+    "source_documents": [
+      "scene_146_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c4583c3fd8df",
+    "subject_id": "ep_23f4f546e6f1288b",
+    "object_id": "ep_18a45e8d93c993f2",
+    "relation_type": "precedes",
+    "reason": "The exchange of emotional reassurances and regrets (ep_23f4f546e6f1288b) occurs in a private moment after the notarization, while the affirmation of commitment and confrontation of future separation (ep_18a45e8d93c993f2) involves a structured discussion about honesty and future absence, suggesting a progression within the same scene (scene_135). The private emotional exchange likely precedes the more forward-looking commitment dialogue, based on the narrative flow implied by vulnerability preceding resolution.",
+    "source_documents": [
+      "scene_135_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0cb0eececaa9",
+    "subject_id": "ep_794a0129748c2911",
+    "object_id": "ep_ddb69093e46e5987",
+    "relation_type": "causes",
+    "reason": "The first episode involves Luke and John watering the garden and discussing Paula's illness, which sets up John's emotional state. In the second episode, John has a sudden realization while looking at the garage, leading him to abruptly leave the garden. The shift in action is directly triggered by John's recollection, which is contextually linked to the concern about Paula established in the first episode. The description of the second episode states it captures an 'immediate, goal-driven response to a mental recollection,' indicating a causal link from the concern and discussion in the first episode to the abrupt change in behavior in the second.",
+    "source_documents": [
+      "scene_161_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_50166edc3da8",
+    "subject_id": "ep_ba328d847abcfd94",
+    "object_id": "ep_34546489f88c0140",
+    "relation_type": "precedes",
+    "reason": "The episode 'Receive voicemail and become startled by Mike's arrival' occurs when Mike arrives on a motorcycle and taps on John's window, which immediately precedes the confrontation where Mike questions John about staying and they exchange the passports and payment. Both episodes occur in scene_143, and the sequence of events in the related_events lists supports a clear temporal order: Mike's arrival (in ep_ba328d847abcfd94) directly precedes the confrontation and exchange (in ep_34546489f88c0140).",
+    "source_documents": [
+      "scene_143_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_03fd082f2a7e",
+    "subject_id": "ep_567313d2dcb5e3b1",
+    "object_id": "ep_ce3ed7ad978abf04",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Position and conceal the bump key attempt' involves John positioning himself and concealing the bump key insertion, which logically and chronologically precedes the object episode 'Struggle with and fail to operate the bump key', where he attempts and fails to turn the key. Both episodes occur in the same scene (scene_146) and describe consecutive actions in a single continuous attempt, with the first step (positioning and concealing) necessarily coming before the subsequent struggle to operate the lock.",
+    "source_documents": [
+      "scene_146_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b091b90c39cf",
+    "subject_id": "ep_0b747c9186c83971",
+    "object_id": "ep_78095b2b2ef40162",
+    "relation_type": "precedes",
+    "reason": "The surveillance episode (ep_0b747c9186c83971) occurs as John observes the man leaving the restaurant, with events culminating in the man driving away. The realization of mistake (ep_78095b2b2ef40162) happens afterward, when Mike reveals the man was a cop, leading John to feel foolish. The narrative sequence in scene_143 supports that observation precedes realization.",
+    "source_documents": [
+      "scene_143_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d94015b47574",
+    "subject_id": "ep_29a2efc8bf121b4c",
+    "object_id": "ep_5104e1b8114bcb38",
+    "relation_type": "precedes",
+    "reason": "The exchange of cookies and initiation of contact (ep_29a2efc8bf121b4c) involves Luke delivering cookies to Carrie, which sets the stage for social engagement. Nicole's reengagement with John through apology and recognition (ep_5104e1b8114bcb38) follows as a response to Carrie's behavior, indicating a sequential narrative order where the first episode precedes the second. Both episodes occur in scene_157, but the causal and narrative flow implies the child's action comes before the adult's corrective social gesture.",
+    "source_documents": [
+      "scene_157_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ddec0ba95356",
+    "subject_id": "ep_b8eacebff57b5a64",
+    "object_id": "ep_4322c3e4e4d6b0fc",
+    "relation_type": "precedes",
+    "reason": "The second rider arrives and positions at the passenger window before Mike warns John and departs with the second rider, as both episodes occur in scene_143 and the arrival logically precedes the departure in the sequence of events described.",
+    "source_documents": [
+      "scene_143_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8bcc295f5997",
+    "subject_id": "ep_316aaade7b540d26",
+    "object_id": "ep_23f4f546e6f1288b",
+    "relation_type": "precedes",
+    "reason": "The notarization procedure is completed by the notary departing, which marks the end of the formal session; the emotional exchange between John and Lara occurs in a private moment afterward, indicating a clear sequential order supported by the narrative structure within the shared occasion (scene_135).",
+    "source_documents": [
+      "scene_135_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0eccb5478666",
+    "subject_id": "ep_29a2efc8bf121b4c",
+    "object_id": "ep_984e9b01159c6747",
+    "relation_type": "precedes",
+    "reason": "The exchange of cookies and initiation of contact (ep_29a2efc8bf121b4c) occurs before the lunch invitation, which references the cookie exchange as a reason for inclusion ('they owe him for the cookies'), indicating a clear temporal and narrative sequence where the first episode sets up the social context for the second.",
+    "source_documents": [
+      "scene_157_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_dc4b6629e9c0",
+    "subject_id": "ep_2d277dc4803fd02b",
+    "object_id": "ep_cc6a64c2688d471b",
+    "relation_type": "causes",
+    "reason": "John concealing the broken key fragment directly leads to the subsequent guard discovering the tampering when attempting to use the lock, which triggers the alarm. The causal chain is supported by the sequence of events: the concealment hides but does not fix the damage, making the tampering detectable and resulting in the alarm activation upon the next access attempt.",
+    "source_documents": [
+      "scene_146_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6c926d6c57a9",
+    "subject_id": "ep_510c5ff345e1cdc0",
+    "object_id": "ep_22bc4f0ddeec590c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Demand entry at the door' (scene_153) occurs immediately before 'Confront John's absence with the neighbor' (scene_154), as indicated by the sequential scene numbers and the narrative flow where Mick first attempts to gain entry and then turns to the neighbor for information.",
+    "source_documents": [
+      "scene_154_part_1",
+      "scene_153_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1adad5cbf7ee",
+    "subject_id": "ep_bdc6113934a1bc2e",
+    "object_id": "ep_cc6a64c2688d471b",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Witness observes but ignores the tampering' occurs when John is tampering with the elevator lock and is observed, while the object episode 'Trigger the alarm through failed access' happens afterward when another guard discovers the tampering and triggers the alarm. The sequence is supported by the description stating 'After John leaves the scene' before the alarm is triggered, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_146_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_09afd1fdb584",
+    "subject_id": "ep_4322c3e4e4d6b0fc",
+    "object_id": "ep_f92bf432c47905ec",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Mike warns John and departs with second rider' concludes with Mike and the second rider leaving the scene, after which the object episode 'John reviews the new passports' begins, as explicitly stated in its description: 'After the motorcyclists leave, John examines the passports'. This establishes a clear temporal sequence where the subject episode occurs before the object episode.",
+    "source_documents": [
+      "scene_143_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f6251ae02547",
+    "subject_id": "ep_22bc4f0ddeec590c",
+    "object_id": "ep_3ac476d7275453b7",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront John's absence with the neighbor' occurs before 'Pound on John's door and give up', as Mick first confronts the neighbor and then, after the hostile exchange, moves to pound on John's door. The shared scene ID (scene_154) and the narrative progression from confrontation to final attempt and resignation support a clear temporal sequence.",
+    "source_documents": [
+      "scene_154_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e734cb4c293f",
+    "subject_id": "ep_510c5ff345e1cdc0",
+    "object_id": "ep_3ac476d7275453b7",
+    "relation_type": "precedes",
+    "reason": "The episode 'Demand entry at the door' occurs in doc_152 and involves Mick banging on the door and shouting, while 'Pound on John's door and give up' occurs in doc_154 and depicts a more intense, final attempt followed by resignation. The progression from demanding entry to aggressively pounding and then giving up indicates a clear temporal sequence supported by the narrative order across scenes.",
+    "source_documents": [
+      "scene_154_part_1",
+      "scene_153_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9dd70986bceb",
+    "subject_id": "ep_4e84d9919442cfdd",
+    "object_id": "ep_ed969f3122d020b2",
+    "relation_type": "precedes",
+    "reason": "The first episode describes John immediately after his brother's departure, listening to the car drive away, while the second episode occurs in the next scene (scene_156) where John is already engaged in contemplation before Luke calls him. The sequential scene numbering and the progression from physical departure to internal reflection followed by an incoming call support a clear narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_155_part_1",
+      "scene_156_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_03c8eba211ad",
+    "subject_id": "ep_4e84d9919442cfdd",
+    "object_id": "ep_ba328d847abcfd94",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Confront Solitude After Brother's Departure' involves John alone in a room immediately after his brother leaves, while the object episode 'Receive voicemail and become startled by Mike's arrival' occurs later in a parking lot setting after the area has emptied, suggesting a temporal sequence where the first episode precedes the second based on the narrative flow and setting transition.",
+    "source_documents": [
+      "scene_155_part_1",
+      "scene_143_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d1a2b07e3dd4",
+    "subject_id": "ep_510c5ff345e1cdc0",
+    "object_id": "ep_afaada86ee5650c8",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Demand entry at the door' involves Mick banging and shouting to gain entry, which is the external disturbance that prompts John's reaction in the object episode 'Respond to the door disturbance'. The related events in the object episode include John hearing the pounding and then recognizing his brother's voice, indicating that the demand for entry occurs just before and triggers the response. This temporal sequence is supported by the narrative flow in the descriptions and related events, with Mick's action directly preceding John's reaction.",
+    "source_documents": [
+      "scene_153_part_1",
+      "scene_152_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c322ce5c1f33",
+    "subject_id": "ep_9a44f9dfe1a3fd50",
+    "object_id": "ep_4e84d9919442cfdd",
+    "relation_type": "precedes",
+    "reason": "The episode 'John flees the scene in distress' includes John rushing past others and vomiting, which suggests an immediate reaction to a prior event, while 'Confront Solitude After Brother's Departure' describes a subsequent moment of stillness and isolation after the brother has already left. The distress and flight likely precede the quiet confrontation with solitude, establishing a plausible temporal sequence supported by the narrative flow of emotional escalation followed by withdrawal.",
+    "source_documents": [
+      "scene_155_part_1",
+      "scene_150_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8cc4acd8eb59",
+    "subject_id": "ep_4f85749db0e27f58",
+    "object_id": "ep_375b4f473e43e684",
+    "relation_type": "precedes",
+    "reason": "The object episode 'Flee and assess pursuit after plan failure' occurs after the subject episode 'Collero notices Quinn's distraction and sees John leave', as John's departure (seen by Collero in scene_150) directly precedes his ride home and emotional distress described in scene_151, establishing a clear narrative sequence.",
+    "source_documents": [
+      "scene_151_part_1",
+      "scene_150_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b8ec918cc649",
+    "subject_id": "ep_9a44f9dfe1a3fd50",
+    "object_id": "ep_375b4f473e43e684",
+    "relation_type": "precedes",
+    "reason": "The episode 'John flees the scene in distress' (doc_149, scene_150) occurs immediately before 'Flee and assess pursuit after plan failure' (doc_150, scene_151), as evidenced by the sequential document and scene IDs, and the narrative progression from fleeing the scene to riding home while checking for pursuit.",
+    "source_documents": [
+      "scene_151_part_1",
+      "scene_150_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a7c538579310",
+    "subject_id": "ep_0b747c9186c83971",
+    "object_id": "ep_375b4f473e43e684",
+    "relation_type": "precedes",
+    "reason": "The first episode involves John observing a man leaving a restaurant and driving away, with no indication of a failed plan. The second episode explicitly follows a failed plan and involves John fleeing while emotionally distressed and checking for pursuit. The logical narrative progression and emotional shift suggest the observation episode precedes the flight after failure, supported by the local narrative order implied in the descriptions.",
+    "source_documents": [
+      "scene_143_part_1",
+      "scene_151_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7c7c5f0b1532",
+    "subject_id": "ep_ce3ed7ad978abf04",
+    "object_id": "ep_375b4f473e43e684",
+    "relation_type": "precedes",
+    "reason": "The failed attempt to operate the bump key (ep_ce3ed7ad978abf04) occurs during the break-in attempt, and the subsequent episode involves John fleeing the scene and assessing pursuit after the plan's failure (ep_375b4f473e43e684), indicating a clear temporal sequence where the failure directly precedes the escape and threat assessment.",
+    "source_documents": [
+      "scene_151_part_1",
+      "scene_146_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3a5d59cd6060",
+    "subject_id": "ep_924f75ba18814afa",
+    "object_id": "ep_1190803f0bf2629e",
+    "relation_type": "precedes",
+    "reason": "The retrieval of the Allegheny County Jail envelope tray (ep_924f75ba18814afa) logically precedes the act of retrieving and documenting the card from the envelope (ep_1190803f0bf2629e), as the latter requires access to the tray first. The related events and goal structure imply a sequential dependency where the tray must be obtained before its contents can be examined.",
+    "source_documents": [
+      "scene_175_part_1",
+      "scene_173_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4e1a16123fc6",
+    "subject_id": "ep_64cfc74e758434bf",
+    "object_id": "ep_b0d308eee784b60a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Search for and examine Lara's insulin' occurs in doc_id doc_161 and involves events in scene_162, while the object episode 'Access medical information on diabetes complications' occurs in doc_id doc_162 and involves scene_163, indicating a clear narrative sequence where examining the insulin precedes seeking medical information about diabetes complications.",
+    "source_documents": [
+      "scene_162_part_1",
+      "scene_163_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a8cff4cfbe21",
+    "subject_id": "ep_34546489f88c0140",
+    "object_id": "ep_375b4f473e43e684",
+    "relation_type": "precedes",
+    "reason": "The confrontation and exchange between John and Mike (ep_34546489f88c0140) occurs in scene_143, while John's departure and assessment of pursuit (ep_375b4f473e43e684) occurs in scene_151, indicating a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_143_part_1",
+      "scene_151_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c04d1b50024b",
+    "subject_id": "ep_2d277dc4803fd02b",
+    "object_id": "ep_375b4f473e43e684",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Conceal evidence and rejoin the crowd' occurs immediately after the failed lock attempt and before departure from the scene, while the object episode 'Flee and assess pursuit after plan failure' involves leaving the location and checking for pursuit, which logically and narratively follows the concealment action. The related_events and descriptions indicate a clear sequence: first hiding the evidence and rejoining the crowd, then riding home and checking for followers, supporting a directed 'precedes' relation.",
+    "source_documents": [
+      "scene_146_part_1",
+      "scene_151_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e8bb79a28f11",
+    "subject_id": "ep_2db94146a46dda01",
+    "object_id": "ep_1190803f0bf2629e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Check for mail from Lara' occurs when John and Luke enter the room and John sorts through the mail, finding nothing from Lara. This establishes John's anticipation of communication from Lara. The subsequent episode, 'Retrieve and document the card from the envelope', involves John discovering an envelope labeled with Lara Brennan's name and secretly photographing its contents. The narrative progression suggests that the act of checking for mail sets up John's later focused attention on an item explicitly associated with Lara, making the first episode temporally prior to the second. The doc_id values (157 before 174) further support a local narrative order where checking for mail precedes retrieving and documenting the card.",
+    "source_documents": [
+      "scene_175_part_1",
+      "scene_158_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_be551e62e103",
+    "subject_id": "ep_534f8d2d17f42d73",
+    "object_id": "ep_f4fc625d9203bc52",
+    "relation_type": "precedes",
+    "reason": "The episode 'Conceal bump key and enter jail' involves John pocketing the bump key during a security screening, which must occur before he can attempt to use the bump key in 'Attempt to unlock door with bump key'. The possession of the key is a necessary precondition for the subsequent attempt, and the narrative sequence implied by the events supports a clear temporal order.",
+    "source_documents": [
+      "scene_145_part_1",
+      "scene_130_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_53bd391b7e14",
+    "subject_id": "ep_f4fc625d9203bc52",
+    "object_id": "ep_152b8468eb94d6b1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Attempt to unlock door with bump key' involves John's direct action of using a bump key, which fails. The episode 'Confront John with evidence and psychological pressure' involves the Major presenting the broken piece of the key as evidence, implying that the failed attempt must have occurred prior. The narrative logic and evidentiary use of the broken key support that the attempt precedes the confrontation.",
+    "source_documents": [
+      "scene_148_part_1",
+      "scene_130_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f6510ad3e783",
+    "subject_id": "ep_e1d7ae852c251d40",
+    "object_id": "ep_3222057c0b1f6a02",
+    "relation_type": "precedes",
+    "reason": "The preparation and modification of the tennis ball (heating screwdriver and applying it to the ball) must occur before John can use the modified tennis ball to breach the van door, as the modified ball is a necessary tool for the lock manipulation. The episodes occur in different scenes (doc_168 and doc_171) with sequential event dependencies, supporting a temporal precedence.",
+    "source_documents": [
+      "scene_172_part_1",
+      "scene_169_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dbe767171e76",
+    "subject_id": "ep_567313d2dcb5e3b1",
+    "object_id": "ep_f4fc625d9203bc52",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Position and conceal the bump key attempt' involves John positioning himself and concealing the bump key insertion, which logically and temporally precedes the object episode 'Attempt to unlock door with bump key' where he actively uses the bump key to unlock the door. The related events in both episodes occur in distinct scenes (scene_146 vs scene_130), and the action sequence implies a temporal order where preparation precedes execution.",
+    "source_documents": [
+      "scene_146_part_1",
+      "scene_130_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b8afa9d60088",
+    "subject_id": "ep_f4fc625d9203bc52",
+    "object_id": "ep_2d277dc4803fd02b",
+    "relation_type": "precedes",
+    "reason": "The attempt to unlock the door with the bump key (ep_f4fc625d9203bc52) must occur before concealing the broken key fragment and rejoining the crowd (ep_2d277dc4803fd02b), as the failure causes the key to break, which directly necessitates the concealment action. The narrative sequence is supported by the causal dependency and temporal order implied in the event descriptions.",
+    "source_documents": [
+      "scene_146_part_1",
+      "scene_130_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f1023de3dfe5",
+    "subject_id": "ep_7d1657676232ff34",
+    "object_id": "ep_a21c3a656e658916",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts John's secretive and morally hesitant behavior as he hides a gun and reflects, while the second shows a moment of emotional connection and vulnerability as he shares a letter from Luke's mother. These episodes are juxtaposed in tone and intent—concealment versus openness, tension versus tenderness—suggesting a thematic contrast in John's actions toward Luke.",
+    "source_documents": [
+      "scene_144_part_1",
+      "scene_160_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4b4ce0e970d8",
+    "subject_id": "ep_8d9e6cc7e8ce9fc8",
+    "object_id": "ep_95bcef5ac6b62450",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Arrange class coverage due to emergency departure' occurs in doc_140 and involves scenes from before 2:30, while the object episode 'Respond to Mick's call and prepare for confrontation' occurs in doc_141 and begins at 2:27, indicating a clear temporal sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_141_part_1",
+      "scene_142_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4f7237fa49d3",
+    "subject_id": "ep_95bcef5ac6b62450",
+    "object_id": "ep_a1ae4f9bade4fd20",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves John receiving a call from Mick and checking for his gun, indicating preparation for potential confrontation. The object episode describes John escaping the van undetected just before the driver arrives. The sequence of events suggests a temporal progression where John's decision to avoid contact and prepare for danger (in the first episode) occurs before his physical evasion (in the second), with both episodes contributing to a coherent narrative of avoidance and escape.",
+    "source_documents": [
+      "scene_142_part_1",
+      "scene_176_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1c633135a574",
+    "subject_id": "ep_9776701910414963",
+    "object_id": "ep_95bcef5ac6b62450",
+    "relation_type": "precedes",
+    "reason": "The episode 'John waits and monitors the time for an expected arrival' occurs at 1:49 PM, while 'Respond to Mick's call and prepare for confrontation' involves a later time (2:27) and subsequent actions including receiving and ignoring a call from Mick and checking for a gun. The temporal progression in the related events supports that the waiting episode precedes the confrontation preparation episode.",
+    "source_documents": [
+      "scene_142_part_1",
+      "scene_140_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e94a171f4234",
+    "subject_id": "ep_7df1f6775f689aa3",
+    "object_id": "ep_95bcef5ac6b62450",
+    "relation_type": "precedes",
+    "reason": "The episode 'Retrieve and conceal the handgun' involves John placing the gun between the car seats, which must occur before the episode 'Respond to Mick's call and prepare for confrontation', where John checks for the gun in the same location. The narrative sequence implied by the physical dependency of the gun being present to be checked supports a clear temporal order.",
+    "source_documents": [
+      "scene_139_part_1",
+      "scene_142_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e151af59b594",
+    "subject_id": "ep_95bcef5ac6b62450",
+    "object_id": "ep_ba328d847abcfd94",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves John ignoring a phone call from Mick and checking for his gun in scene_142, while the object episode occurs in scene_143, where John checks voicemail and is startled by Mike's arrival. The sequential scene numbering and narrative flow indicate that the first episode precedes the second.",
+    "source_documents": [
+      "scene_142_part_1",
+      "scene_143_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b6b74e0f63da",
+    "subject_id": "ep_95bcef5ac6b62450",
+    "object_id": "ep_34546489f88c0140",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to Mick's call and prepare for confrontation' occurs in doc_141 and includes John checking the time (2:27) and preparing for danger, while the object episode 'Confrontation and exchange between John and Mike' occurs in doc_142 and involves a subsequent interaction with Mike. The narrative order across documents and the temporal progression support that the preparation and avoidance sequence precedes the confrontation and exchange.",
+    "source_documents": [
+      "scene_143_part_1",
+      "scene_142_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_139c59897310",
+    "subject_id": "ep_ed969f3122d020b2",
+    "object_id": "ep_73aebf9bd6ccc987",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs in doc_155 and features events from scene_156, while the object episode occurs in doc_156 and features events from scene_157. The document and scene ordering (155 before 156) provides explicit, unambiguous support for a 'precedes' relation from the subject to the object.",
+    "source_documents": [
+      "scene_157_part_1",
+      "scene_156_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_eabd1395ce8d",
+    "subject_id": "ep_3222057c0b1f6a02",
+    "object_id": "ep_a1ae4f9bade4fd20",
+    "relation_type": "precedes",
+    "reason": "The subject episode, where John breaches the van by exploiting an unlocked moment, occurs before the object episode, where he escapes undetected after exiting the van, as supported by the sequence of events: breaching the van must precede escaping from it, and the driver's approach (in object episode) happens after John has already entered (implied by context).",
+    "source_documents": [
+      "scene_172_part_1",
+      "scene_176_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_597a4583265b",
+    "subject_id": "ep_95bcef5ac6b62450",
+    "object_id": "ep_152b8468eb94d6b1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Mick's call and prepare for confrontation' occurs in doc_141 and involves John checking the time (2:27), ignoring a call from Mick, and checking for his gun. The episode 'Confront John with evidence and psychological pressure' occurs in doc_147 and involves the Major confronting John with evidence. The document IDs and narrative progression indicate a clear temporal sequence: John's preparation for confrontation precedes the Major's direct interrogation. This local narrative order supports the 'precedes' relation from ep_95bcef5ac6b62450 to ep_152b8468eb94d6b1.",
+    "source_documents": [
+      "scene_148_part_1",
+      "scene_142_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_48212bdfef13",
+    "subject_id": "ep_7d1657676232ff34",
+    "object_id": "ep_ed969f3122d020b2",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'John conceals the gun and reflects' (doc_id: doc_143) occurs in an earlier document than the object episode 'Confront uncertainty and respond to Luke's call' (doc_id: doc_155), and the related_events in the latter episode include Luke calling John 'Dad', suggesting a narrative progression where John's prior concealment and reflection set the stage for the subsequent interaction. The temporal order across documents and the escalation from private action to interpersonal engagement support a 'precedes' relation.",
+    "source_documents": [
+      "scene_144_part_1",
+      "scene_156_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e03011943551",
+    "subject_id": "ep_34020563af74fd69",
+    "object_id": "ep_a1ae4f9bade4fd20",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Pass time while awaiting event' involves John waiting and eating a donut prior to observing the driver, establishing a state of anticipation. The object episode 'John escapes the van undetected' occurs just before the driver arrives and involves John exiting the van to avoid confrontation. The narrative sequence implied by the descriptions—waiting followed by escape as the driver approaches—supports a temporal ordering where the waiting precedes the escape, with both episodes linked by the shared context of avoiding detection.",
+    "source_documents": [
+      "scene_170_part_1",
+      "scene_176_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d8b147d351dc",
+    "subject_id": "ep_95bcef5ac6b62450",
+    "object_id": "ep_0b747c9186c83971",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to Mick's call and prepare for confrontation' occurs in doc_141, scene_142, where John checks his watch showing 2:27, receives and ignores a call from Mick, and checks for his gun. The object episode 'Observe and monitor the man from the restaurant' occurs in doc_142, scene_143, involving subsequent actions including the man driving away. The sequential scene numbering (142 before 143) and the continuity in John's actions and time-checking behavior indicate a direct narrative order where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_143_part_1",
+      "scene_142_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_37089fba10fa",
+    "subject_id": "ep_a1ae4f9bade4fd20",
+    "object_id": "ep_ba328d847abcfd94",
+    "relation_type": "precedes",
+    "reason": "The first episode, 'John escapes the van undetected,' occurs just before the driver arrives, while the second episode, 'Receive voicemail and become startled by Mike's arrival,' takes place after the parking lot empties. The sequence implies a temporal progression where John's escape precedes the subsequent event in a quieter, emptied parking lot, supporting a 'precedes' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_176_part_1",
+      "scene_143_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_10371e0a0a1e",
+    "subject_id": "ep_217e6568a10457a5",
+    "object_id": "ep_a1ae4f9bade4fd20",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Observe driver's departure sequence' occurs in scene_170, where John observes the driver exiting the lab and walking to the van. The object episode 'John escapes the van undetected' occurs in scene_176, where John exits the van just before the driver arrives. The sequential scene numbers and the narrative flow indicate that the observation of the driver's departure precedes John's escape from the van, which happens later when the driver returns. This temporal ordering is explicitly supported by the scene references and event descriptions.",
+    "source_documents": [
+      "scene_170_part_1",
+      "scene_176_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_204c26565a3e",
+    "subject_id": "ep_34020563af74fd69",
+    "object_id": "ep_d414a258c60e5a4a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Pass time while awaiting event' involves John eating a donut while waiting, which establishes a state of anticipation prior to observing the driver. The object episode 'Observe and intercept driver after jail exit' involves John actively observing the driver post-jail, indicating a subsequent narrative stage. The description of the subject episode explicitly frames it as setting context prior to observation, supporting a temporal precedence.",
+    "source_documents": [
+      "scene_170_part_1",
+      "scene_165_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b70367909b2a",
+    "subject_id": "ep_d414a258c60e5a4a",
+    "object_id": "ep_3222057c0b1f6a02",
+    "relation_type": "precedes",
+    "reason": "The observation of the driver exiting the jail and opening the van's back door (ep_d414a258c60e5a4a) sets the stage for John's subsequent exploitation of the unlocked moment to breach the van (ep_3222057c0b1f6a02). The sequence of events in the related scenes (scene_165 before scene_172) and the dependency on the driver's actions as a precondition for the breach support a clear temporal order where the observational episode precedes the breach episode.",
+    "source_documents": [
+      "scene_172_part_1",
+      "scene_165_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cc961887bc05",
+    "subject_id": "ep_534f8d2d17f42d73",
+    "object_id": "ep_d414a258c60e5a4a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Conceal bump key and enter jail' involves John entering the jail, which logically and temporally must occur before the object episode 'Observe and intercept driver after jail exit', where John is positioned outside the jail observing the driver exiting. The sequence of entering the jail precedes any subsequent observation upon exit, as supported by the narrative flow in the related events and descriptions.",
+    "source_documents": [
+      "scene_145_part_1",
+      "scene_165_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ab315cfbe9a3",
+    "subject_id": "ep_8d9e6cc7e8ce9fc8",
+    "object_id": "ep_9a44f9dfe1a3fd50",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrange class coverage due to emergency departure' involves John making calls to arrange coverage before leaving, which logically and narratively precedes 'John flees the scene in distress', where he is already in motion toward the exit and physically reacting. The related events in the first episode (calling the receptionist, requesting coverage) imply an ordered sequence before his visible distress and flight, supporting a 'precedes' relation with strong but slightly indirect temporal evidence.",
+    "source_documents": [
+      "scene_141_part_1",
+      "scene_150_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8dc21607a04b",
+    "subject_id": "ep_152b8468eb94d6b1",
+    "object_id": "ep_fd7806afc02f71c5",
+    "relation_type": "causes",
+    "reason": "The Major's confrontation with John, including presenting the broken key piece and explaining bump keys, directly responds to John's prior act of stealing the elevator key, which likely led to the key jamming in the lock. This establishes a causal link where John's infiltration (object) triggers the Major's investigative confrontation (subject) as an immediate consequence.",
+    "source_documents": [
+      "scene_148_part_1",
+      "scene_137_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c37b3b424398",
+    "subject_id": "ep_7d1657676232ff34",
+    "object_id": "ep_95bcef5ac6b62450",
+    "relation_type": "precedes",
+    "reason": "The events in 'John conceals the gun and reflects' (scene_144) occur after the events in 'Respond to Mick's call and prepare for confrontation' (scene_142), based on scene numbering, indicating a clear narrative order where the object episode precedes the subject episode. However, since the relation_type 'precedes' is directed and the subject is ep_7d1657676232ff34 while the object is ep_95bcef5ac6b62450, and the subject occurs later, the correct directional interpretation is that the object precedes the subject. But per schema usage, 'precedes' should reflect subject -> object temporal order. Given that the subject episode happens after the object episode, the relation 'precedes' cannot be correctly applied from subject to object. Therefore, despite clear temporal ordering, the directionality contradicts the required subject->object interpretation. Hence, no valid directed relation fits, and the correct output is NONE. However, upon re-evaluation: if scene_142 precedes scene_144, then ep_95bcef5ac6b62450 (object) occurs before ep_7d1657676232ff34 (subject), meaning the subject episode does NOT precede the object episode. Thus, 'precedes' cannot be justified in the subject->object direction. No other relation is supported: no causal link is stated, no contrast is evident, and neither episode elaborates the other. Therefore, the only valid conclusion is NONE.",
+    "source_documents": [
+      "scene_144_part_1",
+      "scene_142_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0e8a436cf1d1",
+    "subject_id": "ep_fd7806afc02f71c5",
+    "object_id": "ep_2d277dc4803fd02b",
+    "relation_type": "precedes",
+    "reason": "The episode 'John infiltrates the janitor's office to steal the elevator key' involves John obtaining the key labeled 'ELEVATORS', which must occur before the episode where he uses it and subsequently breaks it, leading to the need to conceal the fragment. The narrative sequence implied by the goal of gaining access and the subsequent panic after breaking the key supports a clear temporal order: stealing the key precedes concealing the broken fragment.",
+    "source_documents": [
+      "scene_146_part_1",
+      "scene_137_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3c9af0764a96",
+    "subject_id": "ep_34020563af74fd69",
+    "object_id": "ep_3222057c0b1f6a02",
+    "relation_type": "precedes",
+    "reason": "The episode 'Pass time while awaiting event' involves John waiting and eating a donut prior to observing the driver, which sets the context before he exploits the unlocked moment to breach the van. The narrative sequence implied by the descriptions—waiting, then acting upon an opportunity—supports a temporal order where the waiting episode precedes the breach episode.",
+    "source_documents": [
+      "scene_172_part_1",
+      "scene_170_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_41613bf6007a",
+    "subject_id": "ep_9776701910414963",
+    "object_id": "ep_ba328d847abcfd94",
+    "relation_type": "precedes",
+    "reason": "The first episode describes John waiting in the parking lot at 1:49 PM, while the second episode occurs after the parking lot empties and involves a subsequent interaction with Mike. The temporal markers and narrative flow indicate that the waiting episode occurs before the voicemail and startling arrival episode.",
+    "source_documents": [
+      "scene_140_part_1",
+      "scene_143_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_cbd1611835dc",
+    "subject_id": "ep_fd55c9589e860cf7",
+    "object_id": "ep_3158624595107362",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate school entrance amid social tension' (doc_id: doc_132) occurs in scene_133, while 'Observe surroundings and await proceedings' (doc_id: doc_133) occurs in scene_134, indicating a clear sequential order where the subject episode precedes the object episode in narrative time.",
+    "source_documents": [
+      "scene_134_part_1",
+      "scene_133_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d05e3a46b227",
+    "subject_id": "ep_34020563af74fd69",
+    "object_id": "ep_217e6568a10457a5",
+    "relation_type": "precedes",
+    "reason": "The episode 'Pass time while awaiting event' involves John eating a donut while waiting, which establishes a state of anticipation prior to observing the driver. The description explicitly states this occurs 'prior to observing the driver', and both episodes are grounded in the same scene (scene_170). This temporal ordering supports that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_170_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_98fb1ea52294",
+    "subject_id": "ep_34020563af74fd69",
+    "object_id": "ep_c2c54bd0936aaab5",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Pass time while awaiting event' involves John eating a donut while waiting, which occurs before Quinn recognizes and observes John in the object episode. The object episode's description states 'After John passes by, Quinn identifies him,' implying a temporal sequence where John's waiting and passing precede Quinn's recognition and observation.",
+    "source_documents": [
+      "scene_170_part_1",
+      "scene_150_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_03356394f23b",
+    "subject_id": "ep_9776701910414963",
+    "object_id": "ep_0b747c9186c83971",
+    "relation_type": "precedes",
+    "reason": "The episode 'John waits and monitors the time for an expected arrival' occurs at 1:49 PM, as explicitly noted in the related event of checking the watch. The episode 'Observe and monitor the man from the restaurant' involves John observing the man leaving the restaurant and driving away, which logically follows his prior waiting and monitoring. The temporal marker in the second episode and the narrative continuity of John's surveillance activity support that the waiting episode precedes the observation episode.",
+    "source_documents": [
+      "scene_143_part_1",
+      "scene_140_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7ce7b3bd45b6",
+    "subject_id": "ep_34020563af74fd69",
+    "object_id": "ep_3158624595107362",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Pass time while awaiting event' involves John eating a donut while waiting, establishing a state of anticipation prior to observing the driver or the room. The object episode 'Observe surroundings and await proceedings' occurs in a different document (doc_133) and describes a later point where John is actively scanning the room during a notary session setup. The narrative progression from passive waiting (eating) to active observation (scanning) and the distinct document contexts support a local narrative order where passing time precedes attentive observation.",
+    "source_documents": [
+      "scene_134_part_1",
+      "scene_170_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_808d6fce946c",
+    "subject_id": "ep_34020563af74fd69",
+    "object_id": "ep_0b747c9186c83971",
+    "relation_type": "precedes",
+    "reason": "The episode 'Pass time while awaiting event' involves John eating a donut while waiting, which establishes a state of anticipation prior to observing the man. The subsequent episode 'Observe and monitor the man from the restaurant' begins with John already in surveillance mode, indicating a temporal sequence. The description of the second episode explicitly references the observational goal that follows the waiting period, supporting a directed 'precedes' relation from the waiting episode to the observation episode.",
+    "source_documents": [
+      "scene_143_part_1",
+      "scene_170_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7f0db8cea4c2",
+    "subject_id": "ep_34020563af74fd69",
+    "object_id": "ep_6c849429beeef0c9",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Pass time while awaiting event' involves John eating a donut while waiting, establishing a state of inactivity prior to observation. The object episode 'John awaits and observes the preceding interview' involves John waiting in line and observing an ongoing interview, indicating a progression in his anticipatory behavior. The first episode sets an earlier context of passive waiting, which is followed by a more focused observational stance in the second, supporting a local narrative order where the donut-eating occurs before the structured observation at the office door.",
+    "source_documents": [
+      "scene_170_part_1",
+      "scene_147_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_72bd59ff0f3a",
+    "subject_id": "ep_0b747c9186c83971",
+    "object_id": "ep_7d1657676232ff34",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs in doc_142 and involves John observing a man leaving a restaurant and driving away, while the second episode occurs in doc_143 and involves John hiding a gun and reflecting afterward. The document IDs and scene numbers (scene_143 followed by scene_144) indicate a clear narrative sequence where the observation episode precedes the concealment and reflection episode.",
+    "source_documents": [
+      "scene_143_part_1",
+      "scene_144_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_65aba35e9b5d",
+    "subject_id": "ep_567313d2dcb5e3b1",
+    "object_id": "ep_6c849429beeef0c9",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Position and conceal the bump key attempt' occurs in doc_id 'doc_145' and scene_146, while the object episode 'John awaits and observes the preceding interview' occurs in doc_id 'doc_146' and scene_147, indicating a clear narrative sequence where the bump key attempt happens before John waits for his interview. The progression across document and scene IDs supports a local narrative order.",
+    "source_documents": [
+      "scene_146_part_1",
+      "scene_147_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7b295b9e3810",
+    "subject_id": "ep_534f8d2d17f42d73",
+    "object_id": "ep_152b8468eb94d6b1",
+    "relation_type": "precedes",
+    "reason": "The concealment of the bump key occurs during jail screening (scene_145), which precedes the Major's confrontation with John using the key fragment as evidence (scene_148), establishing a clear temporal sequence in the narrative.",
+    "source_documents": [
+      "scene_148_part_1",
+      "scene_145_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_47f4769bc921",
+    "subject_id": "ep_690f2031d9ae7353",
+    "object_id": "ep_152b8468eb94d6b1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Prepare and submit items for screening' occurs during jail security screening (scene_145), where John submits the bump key, which later becomes the tangible evidence the Major uses in the confrontation episode (scene_148). The submission of the bump key must precede its use as evidence in the confrontation, establishing a clear temporal order supported by scene numbering and narrative logic.",
+    "source_documents": [
+      "scene_148_part_1",
+      "scene_145_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_da08fb83057e",
+    "subject_id": "ep_1de3c0050745a359",
+    "object_id": "ep_567313d2dcb5e3b1",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs during scene_145 at a metal detector, where John conceals the bump key during a dish exchange. The second episode occurs in scene_146 at an elevator, where John attempts to use the bump key. The sequential scene numbers and distinct locations indicate that the first episode precedes the second in narrative order.",
+    "source_documents": [
+      "scene_145_part_1",
+      "scene_146_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a3853a735fc2",
+    "subject_id": "ep_690f2031d9ae7353",
+    "object_id": "ep_ce3ed7ad978abf04",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Prepare and submit items for screening' occurs during scene_145, while the object episode 'Struggle with and fail to operate the bump key' occurs in scene_146, indicating a clear narrative sequence where the security screening precedes the attempt to use the bump key. The shared context of John and the jail setting supports continuity, and the scene numbering provides temporal ordering.",
+    "source_documents": [
+      "scene_145_part_1",
+      "scene_146_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0be4c5b2fa2b",
+    "subject_id": "ep_690f2031d9ae7353",
+    "object_id": "ep_2d277dc4803fd02b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Prepare and submit items for screening' occurs during scene_145, where John places the bump key into the screening dish, while 'Conceal evidence and rejoin the crowd' occurs in scene_146, involving the aftermath of breaking the key in the lock. The scene numbering and narrative sequence indicate that the submission happens before the concealment, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_146_part_1",
+      "scene_145_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_67e69af67d12",
+    "subject_id": "ep_1de3c0050745a359",
+    "object_id": "ep_152b8468eb94d6b1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Evade detection during dish exchange' (doc_144, scene_145) occurs during a jail security screening, which is chronologically prior to the confrontation with John in 'Confront John with evidence and psychological pressure' (doc_147, scene_148), as indicated by the document and scene ordering. The successful concealment of the bump key enables the later use of that evidence in the confrontation, supporting a narrative sequence where the former precedes the latter.",
+    "source_documents": [
+      "scene_148_part_1",
+      "scene_145_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cb3075c73e6d",
+    "subject_id": "ep_2d277dc4803fd02b",
+    "object_id": "ep_152b8468eb94d6b1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Conceal evidence and rejoin the crowd' involves John discarding a broken bump key fragment (scene_146), which directly provides the physical evidence (the key piece) that the Major later presents during the confrontation in 'Confront John with evidence and psychological pressure' (scene_148). The narrative order and evidentiary dependency—where the object episode relies on the outcome of the subject episode—support that the concealment event precedes the confrontation.",
+    "source_documents": [
+      "scene_148_part_1",
+      "scene_146_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7edc63945177",
+    "subject_id": "ep_2d277dc4803fd02b",
+    "object_id": "ep_268df1cfd4e709d0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Conceal evidence and rejoin the crowd' occurs in doc_145, scene_146, where John hides the broken key fragment and returns to the group. The episode 'Review CCTV footage to establish John's location' occurs in doc_147, scene_148, where the Major uses CCTV to question John's whereabouts. The document and scene numbering indicate a clear narrative sequence: the concealment happens before the interrogation via CCTV review. This local narrative order supports a 'precedes' relation from the concealment episode to the CCTV review episode.",
+    "source_documents": [
+      "scene_148_part_1",
+      "scene_146_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e1ad59d84550",
+    "subject_id": "ep_1de3c0050745a359",
+    "object_id": "ep_ce3ed7ad978abf04",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Evade detection during dish exchange' occurs in scene_145, where John successfully conceals the bump key during a security screening. The object episode 'Struggle with and fail to operate the bump key' occurs in scene_146, where John attempts to use the same key on the elevator lock. The sequential scene numbers and narrative flow indicate that the concealment of the key must precede its attempted use, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_145_part_1",
+      "scene_146_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_65d6f4b7ddf0",
+    "subject_id": "ep_534f8d2d17f42d73",
+    "object_id": "ep_567313d2dcb5e3b1",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Conceal bump key and enter jail' occurs during scene_145, where John pockets the bump key upon entering the jail. The object episode 'Position and conceal the bump key attempt' occurs in scene_146, where John uses the bump key at the elevator. The sequential scene numbers and the logical progression of actions (acquiring the key before using it) support that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_145_part_1",
+      "scene_146_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0d1e4f1def15",
+    "subject_id": "ep_534f8d2d17f42d73",
+    "object_id": "ep_ce3ed7ad978abf04",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Conceal bump key and enter jail' occurs during scene_145, where John pockets the bump key during the security screening. The object episode 'Struggle with and fail to operate the bump key' occurs in scene_146, where John attempts to use the key on the elevator lock. The sequential scene numbers and narrative flow indicate that concealing the key must precede attempting to use it, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_145_part_1",
+      "scene_146_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_897a73745c6b",
+    "subject_id": "ep_534f8d2d17f42d73",
+    "object_id": "ep_2d277dc4803fd02b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Conceal bump key and enter jail' occurs during scene_145, where John pockets the bump key upon entering the jail. The episode 'Conceal evidence and rejoin the crowd' occurs in scene_146, where John discards a broken key fragment and rejoins the crowd. The scene numbers (145 before 146) provide explicit chronological ordering, supporting that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_146_part_1",
+      "scene_145_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e6f53109f7fe",
+    "subject_id": "ep_ce3ed7ad978abf04",
+    "object_id": "ep_152b8468eb94d6b1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Struggle with and fail to operate the bump key' (ep_ce3ed7ad978abf04) occurs during John's attempt to break into the elevator, which is part of the earlier heist action. The episode 'Confront John with evidence and psychological pressure' (ep_152b8468eb94d6b1) occurs later during an interrogation where the Major presents the broken key piece as evidence. The narrative sequence implies the failure with the bump key must precede its use as evidence in the confrontation, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_148_part_1",
+      "scene_146_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_094ba72f3afb",
+    "subject_id": "ep_984e9b01159c6747",
+    "object_id": "ep_5899d9a3f0f4fb18",
+    "relation_type": "precedes",
+    "reason": "The lunch invitation acceptance occurs during the interaction with Nicole, while the departure episode explicitly marks the end of the encounter. The narrative order in the shared scene (scene_157) and the logical sequence of social interaction support that accepting the invitation precedes concluding the encounter and leaving.",
+    "source_documents": [
+      "scene_157_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_81872e1c0b3e",
+    "subject_id": "ep_2d277dc4803fd02b",
+    "object_id": "ep_9a44f9dfe1a3fd50",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Conceal evidence and rejoin the crowd' occurs in doc_145 and involves John hiding the broken key and returning to the group near the visiting room door. The object episode 'John flees the scene in distress' occurs in doc_149 and describes John rushing past officers and vomiting, indicating a later point in the narrative. The progression from concealing evidence to fleeing in distress, along with the document order (145 before 149), supports a clear temporal sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_146_part_1",
+      "scene_150_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c9e0a4003f71",
+    "subject_id": "ep_268df1cfd4e709d0",
+    "object_id": "ep_567313d2dcb5e3b1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Review CCTV footage to establish John's location' involves the Major interrogating John using footage that captures past events, including John's attempt to use a bump key. The CCTV footage reviewed in ep_268df1cfd4e709d0 explicitly references the scene where John positions and conceals the bump key attempt (ep_567313d2dcb5e3b1), indicating that the bump key episode occurred earlier in the narrative timeline. Thus, ep_567313d2dcb5e3b1 precedes ep_268df1cfd4e709d0, and the relation is directed as subject (review) follows object (bump key attempt) in time.",
+    "source_documents": [
+      "scene_148_part_1",
+      "scene_146_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6360feadce4c",
+    "subject_id": "ep_5104e1b8114bcb38",
+    "object_id": "ep_5899d9a3f0f4fb18",
+    "relation_type": "precedes",
+    "reason": "The episode 'Nicole reengages John with apology and recognition' involves an active interaction where Nicole apologizes and John acknowledges her, which must occur before the subsequent episode 'Conclude encounter and depart', where John decides to leave and thanks Nicole. The narrative flow in the descriptions and the shared scene (scene_157) support a clear temporal sequence: reengagement precedes departure.",
+    "source_documents": [
+      "scene_157_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9c7ff7088ab6",
+    "subject_id": "ep_9776701910414963",
+    "object_id": "ep_107ef0b51c7922cb",
+    "relation_type": "precedes",
+    "reason": "John waits and monitors the time before the man arrives and enters the restaurant, as indicated by the sequence of events in the shared scene: John is already waiting in the parking lot when another car arrives and the man exits and enters the restaurant, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_140_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_01ef3fdcd958",
+    "subject_id": "ep_725025e731df7321",
+    "object_id": "ep_4f85749db0e27f58",
+    "relation_type": "elaborates",
+    "reason": "Quinn's recollection of advising Collero not to date cops provides contextual background that helps explain the interpersonal dynamics during the moment when Collero notices Quinn's distraction and sees John leave, suggesting the prior advice informs the current tension.",
+    "source_documents": [
+      "scene_150_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_256cdf687413",
+    "subject_id": "ep_b6524606e640041e",
+    "object_id": "ep_3222057c0b1f6a02",
+    "relation_type": "precedes",
+    "reason": "The driver securing the van and entering the building establishes the opportunity for John's breach by leaving the van unattended; the sequence of related events in the same scene (scene_172) and the causal setup imply a clear temporal order where the driver's action occurs first.",
+    "source_documents": [
+      "scene_172_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_53a3248929a6",
+    "subject_id": "ep_567313d2dcb5e3b1",
+    "object_id": "ep_152b8468eb94d6b1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Position and conceal the bump key attempt' (ep_567313d2dcb5e3b1) occurs in doc_145, scene_146, where John attempts to use a bump key. The episode 'Confront John with evidence and psychological pressure' (ep_152b8468eb94d6b1) occurs in doc_147, scene_148, where the Major confronts John with evidence including the broken piece of the key. The document and scene ordering (145 before 147, 146 before 148) provides explicit chronological support that the bump key attempt precedes the confrontation.",
+    "source_documents": [
+      "scene_148_part_1",
+      "scene_146_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ff56c7e50f1d",
+    "subject_id": "ep_7a94b8ea812c4666",
+    "object_id": "ep_5899d9a3f0f4fb18",
+    "relation_type": "precedes",
+    "reason": "The episode 'Receive and respond to birthday invitation' involves Nicole delivering and John reacting to the invitation, which sets up the social interaction. The episode 'Conclude encounter and depart' describes John ending the interaction and leaving, which logically and narratively follows the invitation exchange. Both episodes occur in the same scene (scene_157) and are part of a continuous sequence, with the invitation preceding the departure.",
+    "source_documents": [
+      "scene_157_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c48972e289b1",
+    "subject_id": "ep_4322c3e4e4d6b0fc",
+    "object_id": "ep_78095b2b2ef40162",
+    "relation_type": "precedes",
+    "reason": "The episode 'Mike warns John and departs with second rider' includes Mike revealing that the man was a cop, which directly precedes John's realization of his mistake and feeling foolish in the subsequent episode, as the realization is a reaction to that revelation.",
+    "source_documents": [
+      "scene_143_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_294109a50444",
+    "subject_id": "ep_316aaade7b540d26",
+    "object_id": "ep_bf8741977af63aa4",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Complete the notarization procedure' ends with the notary departing after finalizing the documentation, and the object episode 'John informs guard of brief delay' begins after this conclusion, as indicated by 'After the notary concludes the procedure'. This explicit temporal sequencing supports a directed 'precedes' relation from the subject to the object.",
+    "source_documents": [
+      "scene_135_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b3de1c0e8e9c",
+    "subject_id": "ep_567313d2dcb5e3b1",
+    "object_id": "ep_bdc6113934a1bc2e",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Position and conceal the bump key attempt' involves John actively inserting the bump key while blending in, which must occur before the object episode where a witness observes and ignores the tampering. The related events in both episodes are from the same scene (scene_146), but the action of tampering logically precedes its observation, supporting a 'precedes' relation.",
+    "source_documents": [
+      "scene_146_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f31eaa129bed",
+    "subject_id": "ep_ce3ed7ad978abf04",
+    "object_id": "ep_cc6a64c2688d471b",
+    "relation_type": "causes",
+    "reason": "John's failed attempt to operate the bump key results in it being broken in the lock, which is later discovered by another guard. This discovery directly leads to the triggering of the alarm, as described in the object episode. The causal chain is supported by the sequence of events: the tampering (from the subject episode) enables the subsequent detection and alarm (in the object episode).",
+    "source_documents": [
+      "scene_146_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9174090a56bf",
+    "subject_id": "ep_567313d2dcb5e3b1",
+    "object_id": "ep_cc6a64c2688d471b",
+    "relation_type": "causes",
+    "reason": "The subject episode 'Position and conceal the bump key attempt' directly leads to the object episode 'Trigger the alarm through failed access' because the tampering with the elevator lock (inserting the bump key) is what the guard discovers, causing the alarm to trigger upon his attempt to use his key. Both episodes occur in the same scene and are causally linked through the sequence of tampering followed by discovery and alarm activation.",
+    "source_documents": [
+      "scene_146_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_96befac2c67c",
+    "subject_id": "ep_bdc6113934a1bc2e",
+    "object_id": "ep_ce3ed7ad978abf04",
+    "relation_type": "precedes",
+    "reason": "The witness observes and ignores John's tampering, which includes his struggle with the bump key; the observation episode occurs as John is attempting the lock, and the description of the witness deliberately looking away implies a temporal sequence where observation frames the ongoing tampering attempt, supporting that the witnessing precedes or is concurrent with but not after the failure. Given the narrative flow in scene_146, the observation is presented first, then the detailed struggle, justifying 'precedes' with strong but slightly indirect support.",
+    "source_documents": [
+      "scene_146_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ee8af8455699",
+    "subject_id": "ep_ba328d847abcfd94",
+    "object_id": "ep_b8eacebff57b5a64",
+    "relation_type": "precedes",
+    "reason": "The episode 'Receive voicemail and become startled by Mike's arrival' includes Mike arriving on a motorcycle and tapping on John's window, which sets the initial confrontation. The episode 'Second rider arrives and positions at passenger window' describes the second rider pulling up afterward, reinforcing the tension. The sequence of events in the shared scene (scene_143) implies a temporal order where the first arrival (Mike) precedes the second rider's positioning, supporting a 'precedes' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_143_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2b9b4cb1c094",
+    "subject_id": "ep_7d1657676232ff34",
+    "object_id": "ep_e18551238686ecfd",
+    "relation_type": "precedes",
+    "reason": "John conceals the gun and reflects after observing Luke enter the house, which means the episode 'John conceals the gun and reflects' occurs after 'Luke returns home from work' in the narrative sequence. The description of the first episode explicitly states that John acts after observing Luke's entry, establishing a clear temporal order where the object episode precedes the subject episode. However, since 'precedes' is directed and the subject is John's episode and the object is Luke's episode, the correct directional interpretation is that Luke's return precedes John's actions, but the relation must be evaluated as subject -> object. Given that John's episode happens after Luke's, the subject episode does not precede the object episode, so the relation cannot be 'precedes' in the subject->object direction. Therefore, no directed relation is supported in the required direction. After reevaluation, no relation is sufficiently supported in the specified direction with clear evidence, leading to 'NONE' as the appropriate output.",
+    "source_documents": [
+      "scene_144_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5b9b6d94b91f",
+    "subject_id": "ep_567313d2dcb5e3b1",
+    "object_id": "ep_690f2031d9ae7353",
+    "relation_type": "precedes",
+    "reason": "The 'Position and conceal the bump key attempt' occurs during a group pause near the elevator (doc_id: doc_145), while 'Prepare and submit items for screening' takes place during jail security screening (doc_id: doc_144). Document order (doc_144 before doc_145) and the logical sequence of security screening preceding an attempt to use a bump key support that the object episode precedes the subject episode. Therefore, subject follows object, so the relation is 'precedes' with subject -> object direction reversed; however, based on narrative flow, object occurs before subject, so 'precedes' holds as object -> subject. But per schema directionality, we assign subject -> object only if subject comes first. Since it does not, we invert the temporal inference: the screening (object) happens before the bump key attempt (subject), so subject does not precede object. Hence, no valid directed 'precedes' from subject to object. Re-evaluating: if object (screening) occurs before subject (bump key attempt), then subject cannot precede object. Thus, the correct temporal order is object precedes subject, but the schema requires directionality. Since the relation 'precedes' is directed and the subject episode did not occur first, the relation cannot be 'precedes' in subject->object direction. No other relation is supported. Therefore, despite temporal sequence, the direction does not match the input order. Output 'NONE' would be appropriate if we cannot assert subject->object. However, the schema allows us to choose the relation only if supported in the given direction. Since the subject episode happens after the object episode, 'precedes' cannot hold as subject->object. Causality, contrast, and elaboration lack evidence. Final decision: 'NONE'.",
+    "source_documents": [
+      "scene_146_part_1",
+      "scene_145_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3bdc45b85596",
+    "subject_id": "ep_a1ae4f9bade4fd20",
+    "object_id": "ep_d414a258c60e5a4a",
+    "relation_type": "precedes",
+    "reason": "The episode 'John escapes the van undetected' occurs after the driver opens the back door of the van, which is part of the episode 'Observe and intercept driver after jail exit'. The latter episode includes the driver opening the van door, which must precede John exiting and closing the door behind him. Thus, 'Observe and intercept driver after jail exit' precedes 'John escapes the van undetected'. Given the temporal sequence of events in the related scenes, the direction is object -> subject, but since the relation is directed and 'precedes' expects subject -> object, we assign 'precedes' with subject as ep_a1ae4f9bade4fd20 only if it came first. However, evidence shows the observation and driver's actions happen first. Therefore, the correct temporal order is object precedes subject, but the schema requires subject -> object. Since we cannot reverse subject-object order, and 'precedes' is directed, we cannot assert subject precedes object. Hence, despite clear temporal order, the direction does not align with subject-to-object. Thus, no valid directed relation can be asserted in the given direction. After re-evaluation: 'John escapes the van undetected' includes John exiting and closing the van door just before the driver arrives — this contradicts the object episode where the driver opens the van door. These cannot both happen unless one precedes the other. The subject episode explicitly states the driver has not yet arrived when John exits, while the object episode has the driver opening the van door. Therefore, the object episode must occur after the subject episode — but this contradicts the event sequence: driver must open the door before John can exit? No — in subject episode, John opens the back door and exits, then closes it before driver arrives. In object episode, driver opens the back door. So John must have re-opened it? Or the door was left open? Unlikely. More plausible: object episode occurs first — driver opens door (but John is not yet present), then John later uses the van? But subject episode says John exits the van just before driver arrives — implying John was inside. Contradiction. Alternatively, the two episodes describe the same moment from different perspectives? But in one, John is exiting; in the other, driver is opening the door. Cannot both be true unless sequential. Best interpretation: driver opens van door (object episode), then leaves it open or closes it, then John later opens it from inside to escape (subject episode), but subject episode says driver has not yet arrived — so driver hasn't opened it yet. Therefore, subject episode must precede object episode. But object episode includes driver opening the back door — which must happen after John escapes. Contradiction. Unless the van has multiple back doors? Not indicated. Most coherent interpretation: the two episodes describe mutually exclusive sequences. But both involve the same van, same back door, same driver. Therefore, they must be sequential. The only way to resolve: in object episode, driver exits jail and opens van door — this is the beginning of the sequence. Then, at some point, John is inside the van. Then, in subject episode, John exits the van just before driver returns — meaning driver had left the van unattended. This is plausible: driver opens van, does something, leaves, John hides inside, then escapes before driver comes back. But object episode ends with driver opening the back door — it does not say he enters or leaves again. So the observation episode is prior. Then John gets in, hides. Then later, escapes. So subject episode happens after a gap. Therefore, object episode precedes subject episode. But relation is directed: 'precedes' from object to subject. However, in our input, subject is ep_a1ae4f9bade4fd20 (escape), object is ep_d414a258c60e5a4a (observe/intercept). So to say object precedes subject, we would need to assert that, but the schema requires subject -> object. Since 'precedes' is directed, we can only say subject precedes object if escape happens before observation. But it does not. Therefore, we cannot assert 'precedes' in the subject->object direction. And the schema does not allow 'follows'. So even though there is a clear temporal order, we cannot express it in the required direction. Therefore, no valid relation can be asserted. Hence, output 'NONE'. But wait — is there a way? Let's recheck: can we interpret 'precedes' as subject precedes object? Only if escape happens before observation. But observation includes driver opening the van door — which must happen before John can be inside to escape. Unless John was already inside before driver opened it? But then driver would see him. Not stated. Most plausible: driver opens van (object episode), leaves, John enters and hides, then escapes just before driver returns (subject episode). So object episode happens first. Therefore, subject episode does NOT precede object episode. So 'precedes' (subject->object) is false. 'causes'? Does escaping cause the observation? No — observation happens first. 'contrasts_with'? No clear tonal or outcome contrast. 'elaborates'? Does one elaborate the other? No — they are sequential but not explanatory. Therefore, no relation in the allowed schema can be validly asserted in the subject->object direction. Hence, output 'NONE'.",
+    "source_documents": [
+      "scene_176_part_1",
+      "scene_165_part_1"
+    ],
+    "confidence": 0.9
+  }
+]

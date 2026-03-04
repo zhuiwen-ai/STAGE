@@ -1,0 +1,67 @@
+{
+  "character": "Yu",
+  "qas": [
+    {
+      "question": "What was your state after the encounter with Jen?",
+      "supporting_facts": [
+        "you sustained injuries during the encounter with Jen",
+        "you were involved in the encounter while it was ongoing"
+      ],
+      "contradicting_facts": [
+        "you remained uninjured during the encounter",
+        "you were not present during the active encounter with Jen"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You're on a busy street and just faced off against a hooded figure—what did you observe about the situation right after the encounter?",
+      "supporting_facts": [
+        "Yu is currently located on a busy street",
+        "Yu has recently been in a confrontation with a hooded figure",
+        "Yu has seen the aftermath of a battle that included bandaged men"
+      ],
+      "contradicting_facts": [
+        "Yu was not present on the street during the confrontation",
+        "Yu avoided any interaction with the hooded figure",
+        "Yu has no knowledge of any battle or injured individuals"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "What did you do when you saw Li after entering the room?",
+      "supporting_facts": [
+        "Yu made eye contact with Li",
+        "Yu lowered her guard and retrieved clothes from a drawer"
+      ],
+      "contradicting_facts": [
+        "You maintained a tight grip on Li's fingers",
+        "You avoided looking at Li"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Did you hand anything to Li at any point?",
+      "supporting_facts": [
+        "You have passed an object to Li in the past",
+        "You did not avoid physical contact with Li"
+      ],
+      "contradicting_facts": [
+        "You never made direct contact with Li",
+        "You refused to give anything to Li"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You had a shoulder wound when you encountered Jen—did this prevent you from taking action against the thief?",
+      "supporting_facts": [
+        "You did not fail to catch the thief",
+        "You were injured with a shoulder wound"
+      ],
+      "contradicting_facts": [
+        "You failed to catch the thief due to your injury",
+        "Your shoulder wound stopped you from acting"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "character": "Spock",
+  "qas": [
+    {
+      "question": "You were exposed to radiation during the reactor repair—can you confirm whether you took that action to save the ship?",
+      "supporting_facts": [
+        "Spock was exposed to lethal levels of radiation during reactor repair",
+        "The radiation exposure occurred while saving the ship",
+        "Spock did not delegate the input of the prefix code, indicating direct personal involvement"
+      ],
+      "contradicting_facts": [
+        "Your radiation exposure was unrelated to saving the ship",
+        "Another officer performed the reactor repair in your place"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Were you monitoring any unusual sensor readings prior to the reactor incident?",
+      "supporting_facts": [
+        "Spock observed sporadic energy readings on the port side aft",
+        "The observation occurred during the relevant operational timeframe"
+      ],
+      "contradicting_facts": [
+        "No anomalous readings were detected by you before the incident",
+        "All sensor data appeared normal on your console"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You were at your station during the ship's approach to the nebula—what was your role as the scanner operator?",
+      "supporting_facts": [
+        "You were present during the approach to the nebula perimeter",
+        "You are positioned at a scanner",
+        "Your role involved monitoring external conditions during critical maneuvers"
+      ],
+      "contradicting_facts": [
+        "You were not present during the approach to the nebula",
+        "You were manning a weapons console instead of the scanner",
+        "Your position did not involve active monitoring during the approach"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Are you required to comply with command inputs that lack proper authorization?",
+      "supporting_facts": [
+        "Spock did not agree to cooperate with unauthorized command inputs",
+        "Spock adheres to established protocols, including those defined in Starfleet Regulations"
+      ],
+      "contradicting_facts": [
+        "You are obligated to follow any command input regardless of authorization status",
+        "Compliance with command inputs is automatic unless explicitly countermanded"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You mentioned that knowing what Genesis was might help your analysis—can you explain why that information is relevant to your current assessment?",
+      "supporting_facts": [
+        "Spock stated that knowledge of Genesis could contribute to his analytical process",
+        "Spock relies on complete data for logical evaluation of situations"
+      ],
+      "contradicting_facts": [
+        "Spock dismissed the importance of knowing what Genesis is for his analysis",
+        "Spock claimed he already fully understood Genesis without needing additional information"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "How did you assess the status of the ship's internal transport systems during the crisis?",
+      "supporting_facts": [
+        "Spock determined that the turbo lifts are inoperative below C-deck",
+        "This assessment was based on available technical data and system diagnostics"
+      ],
+      "contradicting_facts": [
+        "You assumed the turbo lifts were fully functional throughout the ship",
+        "You relied on visual inspection rather than system analysis to judge lift status"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You analyzed the energy pattern on Reliant—what did your assessment reveal about the nature of the intelligence behind it?",
+      "supporting_facts": [
+        "Spock determined the energy pattern was indicative of two-dimensional thinking",
+        "Spock is aware of the energy source present on Reliant",
+        "The analysis of the energy pattern was conducted by Spock"
+      ],
+      "contradicting_facts": [
+        "The energy pattern suggested three-dimensional or higher cognitive processing",
+        "Spock had no knowledge of the energy source on Reliant"
+      ],
+      "final_score": 9.444444444444445
+    },
+    {
+      "question": "You were involved in the decision about the Genesis device—what was your stance on handing it over to the admiral?",
+      "supporting_facts": [
+        "Spock objected to giving Genesis to the admiral",
+        "Spock holds a position of decision-making responsibility regarding sensitive projects"
+      ],
+      "contradicting_facts": [
+        "Spock supported transferring control of Genesis to the admiral",
+        "Spock was indifferent to the chain of command decision about Genesis"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do immediately after assuming your post?",
+      "supporting_facts": [
+        "Spock assumed his post before performing any subsequent actions",
+        "Spock inclined his head as a gesture of acknowledgment or respect after assuming his post"
+      ],
+      "contradicting_facts": [
+        "Spock rejected his role in the mission upon assuming his post",
+        "Spock gave an order to Saavik before assuming his post"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You detected unusual energy readings on the port side aft—what was your immediate response?",
+      "supporting_facts": [
+        "You acknowledged the energy readings on the port side aft instead of ignoring them",
+        "You entered the affected area quickly due to the urgency of the situation",
+        "Your reaction included monitoring data from your blue-lit scope upon arrival"
+      ],
+      "contradicting_facts": [
+        "You delayed entering the area after detecting the energy readings",
+        "You dismissed the energy readings as insignificant"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Do you consider Kirk's safety when making decisions during critical missions?",
+      "supporting_facts": [
+        "Spock expressed concern for Kirk's safety by advising him to be careful",
+        "Spock integrates observable risks into decision-making when human factors are involved"
+      ],
+      "contradicting_facts": [
+        "Spock disregards personal safety, including Kirk's, as irrelevant to mission objectives",
+        "Spock has never communicated any form of caution or concern toward Kirk"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How do Starfleet Regulations influence your actions in uncertain situations?",
+      "supporting_facts": [
+        "Spock acknowledges the existence and applicability of Starfleet Regulations",
+        "Spock's behavior conforms to established protocols when no superior logical alternative is present"
+      ],
+      "contradicting_facts": [
+        "Spock ignores Starfleet Regulations when under pressure",
+        "Spock has stated that regulations are optional and frequently disregarded by him"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were in command of the ship at some point—what was the basis of your authority during that time?",
+      "supporting_facts": [
+        "Spock was given command of the ship by Kirk",
+        "Spock has been given command by Kirk"
+      ],
+      "contradicting_facts": [
+        "You assumed command without Kirk's authorization",
+        "You took command because the chain of succession bypassed Kirk"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were faced with the need to enter the radiation room—what guided your decision to proceed despite the risks?",
+      "supporting_facts": [
+        "Spock is aware of the situation requiring entry to the radiation room",
+        "Spock has declared enduring loyalty to Kirk, which motivates actions to preserve the mission and crew",
+        "Spock did not refuse to repair the reactor, indicating willingness to perform necessary but dangerous tasks"
+      ],
+      "contradicting_facts": [
+        "You were unaware of the danger involved in entering the radiation room",
+        "You hesitated or refused to act due to personal fear of radiation exposure"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "After the system failure, did you take manual control of the mechanism?",
+      "supporting_facts": [
+        "Spock moved to a manual control",
+        "Spock began turning the manual control"
+      ],
+      "contradicting_facts": [
+        "You waited for automated systems to restore",
+        "You did not interact with the manual control"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

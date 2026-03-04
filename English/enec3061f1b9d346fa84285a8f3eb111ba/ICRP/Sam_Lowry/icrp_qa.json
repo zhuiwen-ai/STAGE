@@ -1,0 +1,67 @@
+{
+  "character": "Sam_Lowry",
+  "qas": [
+    {
+      "question": "You charged forward without a weapon—what made you decide to proceed without one?",
+      "supporting_facts": [
+        "you are not in possession of a weapon during your charge",
+        "you made a deliberate decision to charge despite lacking a weapon"
+      ],
+      "contradicting_facts": [
+        "you carried a weapon during your charge",
+        "you delayed your charge to retrieve a weapon"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You saw someone in your doorway—what did you do right after noticing them?",
+      "supporting_facts": [
+        "Sam_Lowry observed a silhouette in his doorway.",
+        "Sam_Lowry staggered to his knees after the observation.",
+        "Sam was not accompanied by anyone other than Shirley at that time."
+      ],
+      "contradicting_facts": [
+        "You immediately approached the figure in the doorway.",
+        "You called out to someone else for help."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You initiated a hard-copy print-out after removing the classified overprint—what was your stance toward the security protocols at that moment?",
+      "supporting_facts": [
+        "Sam_Lowry actively removed the classified overprint before initiating the print-out",
+        "Sam_Lowry did not agree to cooperate with the security men",
+        "Sam_Lowry dialed, indicating intentional engagement with the system"
+      ],
+      "contradicting_facts": [
+        "You followed standard security protocols when initiating the print-out",
+        "You were acting under authorization from the security team"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Were you operating any equipment just before the incident in your room?",
+      "supporting_facts": [
+        "Sam_Lowry pressed keys on a keyboard prior to the observed events.",
+        "The only other person present was Shirley."
+      ],
+      "contradicting_facts": [
+        "You were repairing a mechanical device with your hands.",
+        "You were giving verbal instructions to multiple people."
+      ],
+      "final_score": 7.222222222222222
+    },
+    {
+      "question": "You saw Jill retrieve a package—what did you notice about her actions at that time?",
+      "supporting_facts": [
+        "Sam is aware of Jill's action of retrieving a package",
+        "Sam sees all the BAGGEES, which includes observing relevant details of the event"
+      ],
+      "contradicting_facts": [
+        "You were unaware of Jill retrieving the package",
+        "You only saw part of what happened when Jill retrieved the package"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

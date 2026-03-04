@@ -1,0 +1,1737 @@
+[
+  {
+    "id": "rel_ep_ep_e555c49aa1e7",
+    "subject_id": "ep_3706f0004a954927",
+    "object_id": "ep_9cc772f5513442ec",
+    "relation_type": "precedes",
+    "reason": "The medical examination of newborns establishes the clinical context in scene_37, and only after this does Larch notice the missing name sheet and initiate the naming process, indicating a local narrative sequence where examination precedes naming.",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b9b975c5e13f",
+    "subject_id": "ep_ce7b06f327e2d82a",
+    "object_id": "ep_472cf2819c8b3aa2",
+    "relation_type": "precedes",
+    "reason": "The examination of Dorothy's uterine condition must occur before the disposal of the uterine remains, as the disposal is of the same tissue that was just examined, and the description of the disposal episode refers to it as 'marking the physical conclusion of the medical examination.' This establishes a clear temporal sequence.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2e3ba23a68fd",
+    "subject_id": "ep_5fcb1c574680edcc",
+    "object_id": "ep_aa5c6af8be3d8058",
+    "relation_type": "elaborates",
+    "reason": "The subject episode reveals Dorothy's background and the discovery of the French Lunar Solution, which sets up the object episode where the substance is identified and its medical effects explained. The object episode provides detailed analysis and explanation of the French Lunar Solution introduced in the subject episode, thus elaborating on it with causal and diagnostic information.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0489624e56ca",
+    "subject_id": "ep_4b534cea0b627f2e",
+    "object_id": "ep_b9affbda38ac7e2e",
+    "relation_type": "contrasts_with",
+    "reason": "Carla's emotional shift from refusing to see the baby to demanding to see it contrasts with Edna's steady, comforting presence that provides emotional support, highlighting a juxtaposition between Carla's internal turmoil and Edna's stabilizing reassurance in the same postpartum scene.",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_c26b6b4075f6",
+    "subject_id": "ep_215c8a2abdf1b804",
+    "object_id": "ep_6f036532b5b63d95",
+    "relation_type": "causes",
+    "reason": "Homer's refusal to assist with the patient delivery directly leads to Dr. Larch deciding to perform the delivery himself, as explicitly stated in the object episode's description: 'Faced with Homer's continued refusal... Dr. Larch reluctantly agrees to perform the delivery himself.' This constitutes clear causal evidence.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5e133be82f1f",
+    "subject_id": "ep_2e2ee9a803072e74",
+    "object_id": "ep_70faba3940b8f0f5",
+    "relation_type": "precedes",
+    "reason": "Homer enters the dormitory and settles in before the young boy runs to his bed to discuss Dr. Larch's ritual, as both episodes occur during the same bedtime occasion (scene_34) and the sequence of events implies temporal order: first Homer settles in, then the conversation begins after Dr. Larch leaves.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c5d98d178821",
+    "subject_id": "ep_a37a5c806b7c58a4",
+    "object_id": "ep_c69bf3e301a0aa12",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_48 and are part of a continuous dialogue where Fuzzy first asks about Larch's father and then moves to questioning about his mother. The narrative flow in the related events shows a sequential order: inquiries about the father precede those about the mother, supporting a local discourse order where the subject episode occurs before the object episode.",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d4f2c8aa22eb",
+    "subject_id": "ep_0d323ce25ae1e579",
+    "object_id": "ep_bf678c3def22ca82",
+    "relation_type": "precedes",
+    "reason": "Homer seeks Dr. Larch urgently before Dr. Larch enters the delivery room and assesses the newborn, as indicated by the sequence of related events across the episodes: calling out in the corridor (scene_22) precedes Larch entering the delivery room (scene_26).",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b7b56a021151",
+    "subject_id": "ep_8ddfad5971fc2edb",
+    "object_id": "ep_b9affbda38ac7e2e",
+    "relation_type": "precedes",
+    "reason": "Homer's delivery and reassurance of Carla (ep_8ddfad5971fc2edb) establishes the immediate postpartum moment, after which Edna's comfort to Carla (ep_b9affbda38ac7e2e) occurs, indicating a sequence where medical stabilization precedes emotional support in the narrative flow of scene_26.",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_41fd39bafc93",
+    "subject_id": "ep_d35a8a7789708df1",
+    "object_id": "ep_d76bacc4dc57de9e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Handle payment and ethical terms of the procedure' involves Dorothy expressing inability to pay and Larch proposing a future donation, which occurs before the administration of ether. Both episodes are part of the same occasion 'Abortion Procedure At The Clinic (scene_25)', and the payment discussion logically precedes the procedural climax of anesthesia induction, as supported by the narrative sequence in the shared scene.",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ba1133363b01",
+    "subject_id": "ep_bf678c3def22ca82",
+    "object_id": "ep_ce7b06f327e2d82a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Larch assesses the newborn and delegates follow-up task' occurs in doc_id 'doc_25' and involves scene_26, while the object episode 'Examine Dorothy's uterine condition' occurs in doc_id 'doc_26' and involves scene_27. The sequential document and scene numbering indicate a clear narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0fb0b8d5fca3",
+    "subject_id": "ep_63d7073b33779964",
+    "object_id": "ep_67d4b65632ccb664",
+    "relation_type": "precedes",
+    "reason": "The episode 'Carry Homer to the orphanage' describes Homer's arrival at St. Cloud's, establishing his initial presence at the institution. The episode 'Larch demands Homer's active participation at St. Cloud's' occurs later, during a subsequent instructional scene where Homer is already present and being taught. The narrative progression from arrival to later instruction supports a temporal ordering where the first episode precedes the second.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fe7d6bb4a376",
+    "subject_id": "ep_0d323ce25ae1e579",
+    "object_id": "ep_e857cc71f3c44ceb",
+    "relation_type": "precedes",
+    "reason": "Homer's urgent search for Dr. Larch (subject) occurs before Dr. Larch arrives and observes the interaction between Homer and the distraught woman (object), as indicated by the sequence of events: calling out in the corridor precedes the scene where Dr. Larch is present at the doorway observing the climax of the encounter.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_26076ce852e7",
+    "subject_id": "ep_0e3cd7c80ff9ae1f",
+    "object_id": "ep_3b731ead855bd918",
+    "relation_type": "precedes",
+    "reason": "The orphans' engagement with the King Kong screening (including emotional reactions and discussion) occurs before the film projection fails and the orphans react to the disruption. Both episodes occur during the same occasion (Orphanage Movie Night Screening) and are part of a continuous narrative sequence in scene_47, with the screening disruption following the viewing as a next event.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4a0adc770d02",
+    "subject_id": "ep_0d323ce25ae1e579",
+    "object_id": "ep_cf0d010ae9e227f1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Seek Dr. Larch urgently' involves Homer entering the corridor and calling out for Dr. Larch, which logically and narratively precedes his active participation in the childbirth delivery with Dr. Larch. The urgency to locate Dr. Larch suggests a temporal sequence leading into the medical procedure, supporting a 'precedes' relation from seeking to assisting.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bab7ef871f77",
+    "subject_id": "ep_8ddfad5971fc2edb",
+    "object_id": "ep_4b534cea0b627f2e",
+    "relation_type": "precedes",
+    "reason": "Homer delivering the baby and reassuring Carla (ep_8ddfad5971fc2edb) occurs immediately before Carla's emotional shift from refusal to requesting to see the newborn (ep_4b534cea0b627f2e), as both are part of the same scene (scene_26) and the delivery must logically precede the post-delivery emotional response.",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9e1d62fe1661",
+    "subject_id": "ep_8511b37924d5f2ce",
+    "object_id": "ep_d76bacc4dc57de9e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Address Dorothy's concerns about ether' involves Larch and Angela discussing Dorothy's anxiety and reassuring her before the procedure, which logically and narratively occurs before the episode 'Administer ether to Dorothy', where the actual administration takes place. Both episodes are part of the same occasion 'Abortion Procedure At The Clinic (scene_25)', and the sequence is supported by the progression from reassurance to action, with no indication of overlap or reversal.",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_63ec12204570",
+    "subject_id": "ep_0d323ce25ae1e579",
+    "object_id": "ep_0071fbbc3fa5cd59",
+    "relation_type": "precedes",
+    "reason": "The episode 'Seek Dr. Larch urgently' involves Homer actively looking for Dr. Larch, which logically precedes the subsequent conversation in 'Confront ethical differences on abortion and duty' where they are already engaged in dialogue. The urgency to locate Larch must occur before the ethical discussion can take place, establishing a clear temporal order supported by the narrative sequence of events.",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_41f2c8a609e3",
+    "subject_id": "ep_d01d7b59b150fdf8",
+    "object_id": "ep_eb09147e3bc5881e",
+    "relation_type": "precedes",
+    "reason": "The dialogue about the ether smell occurs during the walk to the incinerator, as both episodes are grounded in scene_29 and share the same journey context. The conversation (Confront the mystery of the ether smell) unfolds en route and thus precedes the physical act of emptying the pail at the incinerator, which marks the culmination of the journey. Temporal order is supported by the narrative flow within the shared scene.",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7632dc639a79",
+    "subject_id": "ep_1bf14abf48c4a213",
+    "object_id": "ep_ce9db7a451517fca",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, in which Homer and Buster interpret Mary Agnes's outburst as rooted in abandonment, provides emotional context that expands on the object episode's deeper exploration of parental abandonment and identity. Both episodes occur in the same scene (scene_46) and are thematically linked, with the subject offering a proximate reflection on emotional responses to rejection that elaborates the core theme developed more fully in the object episode.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ac7ba0fd84e3",
+    "subject_id": "ep_1cff852dedcefee2",
+    "object_id": "ep_911c2ee2e3ef8cd3",
+    "relation_type": "precedes",
+    "reason": "The retaliation and overpowering of the boys (ep_1cff852dedcefee2) occurs during the fight, immediately followed by the justification of actions and assignment of blame (ep_911c2ee2e3ef8cd3) in the aftermath, as both episodes are anchored in scene_35 and the causal-temporal sequence is supported by the narrative flow: physical confrontation precedes verbal response.",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c78cc9f28274",
+    "subject_id": "ep_63d7073b33779964",
+    "object_id": "ep_d7ffea15a3a45d9a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Carry Homer to the orphanage' describes Homer's arrival at St. Cloud's, while 'Bid farewell to Homer at departure' describes his departure from the same location. Arrival logically precedes departure in narrative sequence, and both episodes involve Homer's transition at the orphanage, supporting a clear temporal order.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7b50c4bf5f1c",
+    "subject_id": "ep_5eafebb31ef4bbfb",
+    "object_id": "ep_e30078e2877c292a",
+    "relation_type": "elaborates",
+    "reason": "The subject episode elaborates on the emotional dynamics introduced in the object episode by expanding on Mary Agnes's trauma and Edna's reframing of rejection, providing deeper context to Edna's defense of Hazel's adoption day. Both episodes occur during the same occasion (Hazel's Adoption Day) and build on the intergenerational tension, with the subject adding psychological depth to the stance Edna takes in the object episode.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_88b3beff1a93",
+    "subject_id": "ep_561565ad4eac92fe",
+    "object_id": "ep_e857cc71f3c44ceb",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Homer being approached by the distressed pregnant woman and her initial invitation to touch her baby, while the second episode depicts the escalation of that interaction with her pressing his head against her belly and Dr. Larch's arrival. The events in the second episode build directly on and intensify the situation initiated in the first, indicating a clear sequential order within the same scene (scene_45), with the first episode occurring before the second.",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_153dc511c95b",
+    "subject_id": "ep_b75be61485781106",
+    "object_id": "ep_c69bf3e301a0aa12",
+    "relation_type": "elaborates",
+    "reason": "The subject episode involves Fuzzy questioning Larch about David Copperfield's father, which leads directly into the object episode where Fuzzy continues with further personal questions about Larch's mother and origins. The object episode expands on the conversational context initiated in the subject episode by providing deeper background on Larch's family, thereby elaborating on the theme of parental loss and personal history. The continuity in dialogue and thematic focus supports the elaboration relation.",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_789edf2e2f76",
+    "subject_id": "ep_8c4fa0540504d67a",
+    "object_id": "ep_262935e5867acdc9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrive and Support at the Orphanage Door' describes Homer and the pregnant woman waiting at the door and sharing a moment of connection before entry, which directly precedes 'Enter the Orphanage and Receive Welcome' where Nurse Edna opens the door and welcomes them in. Both episodes occur in scene_15 and share the occasion 'Arrival At St. Cloud'S Orphanage', with the first logically and temporally preceding the second as arrival happens before entry and welcome.",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_68f8ebacdc7e",
+    "subject_id": "ep_9c39f3cacd8d7c33",
+    "object_id": "ep_d7ffea15a3a45d9a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Homer observes Dr. Larch and departs' involves Homer leaving the room, which occurs before the object episode 'Bid farewell to Homer at departure' where Larch and the nurses bid farewell at the front door. The departure sequence logically follows Homer's initial exit, with the farewell marking a later stage of his departure, supported by the narrative progression of events.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e791fae7b7d5",
+    "subject_id": "ep_0d323ce25ae1e579",
+    "object_id": "ep_570298f7f7ccddef",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Seek Dr. Larch urgently' involves Homer calling out for Dr. Larch upon entering the corridor, which directly precedes the object episode where Dr. Larch wakes up, is informed about the patients by Homer, and they depart together. The sequence of events in the description and related events shows that Homer must first locate Dr. Larch before reporting the urgent medical situation, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_82c09d3845f6",
+    "subject_id": "ep_1c1c532cc6c0f12a",
+    "object_id": "ep_6e5278bd0c03b008",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode involves Dr. Larch actively involving Homer in a life-affirming experience of fetal movement, emphasizing mentorship and emotional connection, while the second episode shows Larch shielding Homer from the reality of abortion by concealing the patient, highlighting a moral or emotional contrast in Larch's actions toward Homer's exposure to prenatal life and its complexities.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_1e27046136d3",
+    "subject_id": "ep_b75be61485781106",
+    "object_id": "ep_a37a5c806b7c58a4",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Discuss David Copperfield's father' introduces the theme of paternal death through a literary reference, which prompts Larch to disclose his own father's death in the episode 'Reveal Larch's father's death'. The latter episode provides personal background and emotional depth that expands on the earlier literary discussion, grounding it in Larch's lived experience. This is supported by the shared scene (scene_48) and the thematic linkage in the description of connecting the story to the boys' own experiences with loss.",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d8896218e158",
+    "subject_id": "ep_0d323ce25ae1e579",
+    "object_id": "ep_1d8bfa38ab17f426",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Seek Dr. Larch urgently' involves Homer calling out for Dr. Larch upon entering the corridor, which sets up his intent to locate Dr. Larch. The object episode 'Transfer caregiving responsibility' begins with Dr. Larch entering the room and taking over care, which logically follows after being located. The narrative sequence implied by the events—Homer seeking Larch and then Larch appearing to assume responsibility—supports a local narrative order where the seeking precedes the transfer of duty.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2a303cea61d7",
+    "subject_id": "ep_0d323ce25ae1e579",
+    "object_id": "ep_9c39f3cacd8d7c33",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Seek Dr. Larch urgently' involves Homer calling out for Dr. Larch upon entering the corridor, which logically and narratively precedes the object episode where Homer enters the room, observes Dr. Larch, and departs. The related event in the subject occurs in scene_22, while the object's events occur in scene_21, but the narrative flow suggests scene numbering may be inverted; the urgency to seek implies a prior attempt before the silent observation and departure, supporting a 'precedes' relation based on goal progression.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a7d149cb4ef1",
+    "subject_id": "ep_6e5278bd0c03b008",
+    "object_id": "ep_9c39f3cacd8d7c33",
+    "relation_type": "precedes",
+    "reason": "The episode 'Conceal the abortion patient from Homer' involves Dr. Larch closing the door to hide the patient before Homer enters, which must occur prior to 'Homer observes Dr. Larch and departs', where Homer enters and observes the scene. The sequence of events implies a clear temporal order supported by the narrative logic in the descriptions.",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c7cba4af6181",
+    "subject_id": "ep_6e5278bd0c03b008",
+    "object_id": "ep_0071fbbc3fa5cd59",
+    "relation_type": "precedes",
+    "reason": "The episode 'Conceal the abortion patient from Homer' (scene_18) occurs before the episode 'Confront ethical differences on abortion and duty' (scene_24), as indicated by the chronological order of scenes in the document. The concealment action precedes the explicit discussion of ethical differences, establishing a narrative sequence where Homer's later resistance is informed by prior events.",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_82a7ea5fca5e",
+    "subject_id": "ep_63d7073b33779964",
+    "object_id": "ep_beb5c9d6fe73bbc9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Carry Homer to the orphanage' describes Homer's initial arrival at St. Cloud's, while 'Rescue Homer from abusive foster parents' involves a later intervention after abuse has occurred. The narrative logic and event sequence imply that Homer must first be placed in the orphanage before being sent to foster care and subsequently rescued, making the first episode temporally prior to the second.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_52c2e32da3f0",
+    "subject_id": "ep_63d7073b33779964",
+    "object_id": "ep_dcf3fea767994508",
+    "relation_type": "precedes",
+    "reason": "The episode 'Carry Homer to the orphanage' describes Dr. Larch bringing Homer to St. Cloud's, which logically and chronologically occurs before the episode 'Welcome Homer and convey care instructions', where Homer is welcomed by the third couple upon arrival. The narrative sequence implied by the transition of care and arrival context supports a clear 'precedes' relation from the first episode to the second.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3f934b9d17a5",
+    "subject_id": "ep_63d7073b33779964",
+    "object_id": "ep_c6dc696fa3148c68",
+    "relation_type": "precedes",
+    "reason": "The episode 'Carry Homer to the orphanage' describes Homer's arrival at St. Cloud's, which logically and chronologically occurs before the episode 'Present infant and explain name to adopting parents', where Dr. Larch hands over the infant Homer to adopting parents. The narrative sequence of arrival followed by adoption presentation supports a directed 'precedes' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bfc4c3686698",
+    "subject_id": "ep_b2dfd3be3c2e9464",
+    "object_id": "ep_63d7073b33779964",
+    "relation_type": "precedes",
+    "reason": "The episode 'Adopting parents reject baby Homer over his silence' occurs when Homer is first brought to the orphanage and rejected by adoptive parents, which directly precedes Dr. Larch carrying Homer up the hill to the orphanage as described in the second episode. The rejection leads to Homer remaining in the orphanage, making the carrying event a subsequent moment of transition within the same narrative sequence.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1bd0069b5c0b",
+    "subject_id": "ep_270d50ade87cc999",
+    "object_id": "ep_cf0d010ae9e227f1",
+    "relation_type": "precedes",
+    "reason": "Homer's practice of fetal listening under Larch's observation (ep_270d50ade87cc999) occurs in scene_11, while assisting in childbirth delivery (ep_cf0d010ae9e227f1) occurs in scene_19, indicating a clear narrative sequence where the earlier episode precedes the later one based on scene ordering.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5d33811ed9a7",
+    "subject_id": "ep_570298f7f7ccddef",
+    "object_id": "ep_cf0d010ae9e227f1",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to new patients and prepare for delivery' involves Dr. Larch and Homer departing to attend to a medical situation, including a patient requiring delivery. The object episode 'Assist in childbirth delivery' involves Homer actively helping in the delivery of a baby. The departure to attend the medical situation must temporally precede the actual assistance in childbirth, based on the narrative sequence implied by the goal-driven medical response.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_00be09aa7854",
+    "subject_id": "ep_67d4b65632ccb664",
+    "object_id": "ep_cf0d010ae9e227f1",
+    "relation_type": "precedes",
+    "reason": "The episode where Larch demands Homer's active participation occurs in doc_15, scene_16, while the episode where Homer assists in a childbirth delivery occurs in doc_18, scene_19. The document and scene ordering (doc_15 before doc_18, scene_16 before scene_19) provides strong evidence that the first episode precedes the second in narrative order.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_be394d8e9b50",
+    "subject_id": "ep_1c1c532cc6c0f12a",
+    "object_id": "ep_cf0d010ae9e227f1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Guide Homer in experiencing fetal movement' occurs during a prenatal examination (scene_17), while 'Assist in childbirth delivery' takes place during a delivery procedure (scene_19). The related_events reference consecutive scenes (17 and 19), indicating a narrative sequence where feeling fetal movement precedes active participation in childbirth. This local narrative order supports a 'precedes' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_37933aac7c3a",
+    "subject_id": "ep_bf678c3def22ca82",
+    "object_id": "ep_cf0d010ae9e227f1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Larch assesses the newborn and delegates follow-up task' occurs after the delivery is completed, as it involves post-delivery assessment and delegation, while 'Assist in childbirth delivery' centers on the active process of delivering the baby. The related event 'Homer helps Larch deliver a baby (scene_19)' precedes 'Larch enters delivery room and observes newborn baby (scene_26)', supporting a clear narrative sequence where delivery assistance happens before newborn assessment.",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2d920295ebb6",
+    "subject_id": "ep_b2dfd3be3c2e9464",
+    "object_id": "ep_beb5c9d6fe73bbc9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Adopting parents reject baby Homer over his silence' occurs when Homer is first returned to Dr. Larch due to the adopting couple's concern, which happens before the later episode where Homer is placed with abusive foster parents and subsequently rescued. The sequence is supported by the narrative progression: initial rejection leads to Homer remaining in the orphanage, after which he is later placed elsewhere and rescued. This establishes a clear temporal order.",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b677e91d0ad0",
+    "subject_id": "ep_beb5c9d6fe73bbc9",
+    "object_id": "ep_dcf3fea767994508",
+    "relation_type": "precedes",
+    "reason": "The rescue of Homer from abusive foster parents (ep_beb5c9d6fe73bbc9) involves Larch removing Homer after abuse, while the subsequent episode (ep_dcf3fea767994508) depicts Homer being welcomed by a new foster family with care instructions from Larch. The narrative sequence implies the rescue must occur before Homer can be placed and welcomed elsewhere, establishing a clear temporal order supported by the causal logic of foster placement following removal.",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a8efb6d7dfb6",
+    "subject_id": "ep_1c1c532cc6c0f12a",
+    "object_id": "ep_bf678c3def22ca82",
+    "relation_type": "precedes",
+    "reason": "The episode 'Guide Homer in experiencing fetal movement' occurs during scene_17, while 'Larch assesses the newborn and delegates follow-up task' occurs in scene_26, indicating a clear narrative sequence where the subject episode precedes the object episode based on scene ordering.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_31494e7c3c06",
+    "subject_id": "ep_0071fbbc3fa5cd59",
+    "object_id": "ep_1c1c532cc6c0f12a",
+    "relation_type": "contrasts_with",
+    "reason": "The episode 'Confront ethical differences on abortion and duty' centers on moral conflict and resistance to learning abortion procedures, while 'Guide Homer in experiencing fetal movement' emphasizes emotional connection to prenatal life and mentorship through a positive, intimate medical experience. These episodes juxtapose opposing aspects of the abortion discourse—one highlighting ethical tension and legality, the other fostering empathy and life affirmation—supporting a contrastive relationship.",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8a42488df1ab",
+    "subject_id": "ep_1c1c532cc6c0f12a",
+    "object_id": "ep_e857cc71f3c44ceb",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Dr. Larch guiding Homer to feel fetal movement, which occurs during a medical examination. The second episode depicts a subsequent intensification of that same moment, where the woman forces prolonged contact and Dr. Larch intervenes by observing. The events in the second episode (scene_45) directly continue and escalate the situation initiated in the first episode (scene_17), indicating a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_64f4d1e47823",
+    "subject_id": "ep_570298f7f7ccddef",
+    "object_id": "ep_bf678c3def22ca82",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Dr. Larch and Homer departing to attend to new patients, one requiring delivery, while the object episode occurs in the delivery room where Larch assesses the newborn. The departure to attend the medical situation must temporally precede the assessment of the newborn during delivery, as supported by the sequence of events across the scenes (scene_23 before scene_26).",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_215d500a6c40",
+    "subject_id": "ep_0071fbbc3fa5cd59",
+    "object_id": "ep_570298f7f7ccddef",
+    "relation_type": "precedes",
+    "reason": "The ethical confrontation between Homer and Larch (ep_0071fbbc3fa5cd59) occurs in scene_24, while the response to new patients and preparation for delivery (ep_570298f7f7ccddef) occurs in scene_23. Since scene_23 precedes scene_24 in narrative order, the object episode occurs earlier than the subject episode. Therefore, the subject episode follows the object episode, meaning the object precedes the subject. Given the directed nature of 'precedes', the correct assignment is object -> subject; however, since the subject is listed first in the input, and the relation must be directed, we assign 'precedes' with the subject occurring after the object based on scene numbering.",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2c147293cd6e",
+    "subject_id": "ep_472cf2819c8b3aa2",
+    "object_id": "ep_d7ffea15a3a45d9a",
+    "relation_type": "precedes",
+    "reason": "The disposal of uterine remains occurs during a medical examination scene (scene_27), while the farewell to Homer takes place at the front door (scene_5). Given that scene_27 occurs after scene_5 in narrative order, the object episode (farewell) precedes the subject episode (disposal). However, based on the episode descriptions and related events, the disposal episode is part of a later scene, meaning the farewell happens earlier. Thus, the relation is 'precedes' with the subject (disposal) occurring after the object (farewell), so the object precedes the subject. But since 'precedes' is directed and we are evaluating subject -> object, the subject does not precede the object. Reversing the direction: the object episode (farewell, scene_5) clearly occurs earlier than the subject episode (disposal, scene_27), so 'precedes' holds as object -> subject. However, the schema requires us to assess subject -> object. Since the subject does not precede the object, and no other relation is supported, the correct output is 'NONE'. Wait — correction: the relation 'precedes' can be applied if subject precedes object. Here, subject (ep_472cf2819c8b3aa2) is in scene_27, object (ep_d7ffea15a3a45d9a) is in scene_5. Since scene_27 occurs after scene_5, the subject does NOT precede the object. Therefore, 'precedes' cannot hold in subject->object direction. No causal, contrastive, or elaborative link is stated or implied. Thus, no valid directed or symmetric relation can be established from subject to object. Final decision: NONE.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_db71605aabf4",
+    "subject_id": "ep_fe554d672f73ae7d",
+    "object_id": "ep_f330e3df18bb9c91",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rouse Larch and rekindle playfulness through song and touch' sets the tone for intimate banter by awakening Larch and shifting his mood, which directly precedes the subsequent episode where Angela tests the sincerity of his affection through playful emotional banter. Both episodes occur in scene_44 and share sequential events that establish a coherent narrative flow from reawakening to emotional testing.",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_27b7fc0df99e",
+    "subject_id": "ep_67d4b65632ccb664",
+    "object_id": "ep_215c8a2abdf1b804",
+    "relation_type": "precedes",
+    "reason": "The episode 'Larch demands Homer's active participation at St. Cloud's' (doc_15, scene_16) occurs earlier in the narrative than 'Homer refuses delivery duty and conflict escalates' (doc_46, scene_47), as indicated by the document and scene IDs, which reflect chronological order. This supports a directed 'precedes' relation from the former to the latter.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9fe2640e0f52",
+    "subject_id": "ep_0071fbbc3fa5cd59",
+    "object_id": "ep_215c8a2abdf1b804",
+    "relation_type": "precedes",
+    "reason": "The ethical discussion between Homer and Larch (ep_0071fbbc3fa5cd59) occurs in scene_24, while the refusal of delivery duty (ep_215c8a2abdf1b804) occurs in scene_47, indicating a clear narrative sequence where the former precedes the latter based on scene ordering.",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e5eb655868ae",
+    "subject_id": "ep_8511b37924d5f2ce",
+    "object_id": "ep_bf678c3def22ca82",
+    "relation_type": "precedes",
+    "reason": "The episode 'Address Dorothy's concerns about ether' occurs during scene_25, while 'Larch assesses the newborn and delegates follow-up task' occurs in scene_26, indicating a clear narrative sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_24fb3eb187d4",
+    "subject_id": "ep_3706f0004a954927",
+    "object_id": "ep_b2dfd3be3c2e9464",
+    "relation_type": "causes",
+    "reason": "The medical examination of newborns (including Homer) establishes the clinical context in which the adopting parents observe Homer's silence, which directly leads to their concern and decision to reject him. The related_events in the object Episode explicitly include 'Larch examines baby Homer upon parents' concern', indicating that the examination is part of the causal chain triggering the rejection. Thus, the subject Episode contributes to the conditions that cause the object Episode.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2815a29f93ea",
+    "subject_id": "ep_0071fbbc3fa5cd59",
+    "object_id": "ep_9c39f3cacd8d7c33",
+    "relation_type": "precedes",
+    "reason": "The ethical confrontation between Homer and Larch (ep_0071fbbc3fa5cd59) involves a direct conversation about abortion and duty, which logically precedes Homer's subsequent silent observation and departure (ep_9c39f3cacd8d7c33), where he chooses not to engage further. The shift from active dialogue to passive observation and withdrawal indicates a narrative sequence where the confrontation occurs first, followed by Homer's nonverbal reaction and exit.",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2169ac695915",
+    "subject_id": "ep_bf678c3def22ca82",
+    "object_id": "ep_472cf2819c8b3aa2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Larch assesses the newborn and delegates follow-up task' occurs in scene_26, where Larch instructs Homer about Dorothy. The episode 'Dispose of uterine remains' occurs in scene_27, where Homer disposes of the uterine contents. The scene numbering indicates a clear narrative sequence, with the delegation happening before the disposal action.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_66f07eaaff99",
+    "subject_id": "ep_3706f0004a954927",
+    "object_id": "ep_bf678c3def22ca82",
+    "relation_type": "precedes",
+    "reason": "The medical examination of newborns involves a general check by multiple doctors, including Larch and Homer, establishing the clinical context. Larch's subsequent entry into the delivery room and private instruction to Homer about Dorothy represents a shift in focus and task delegation that follows the initial examination. The narrative flow suggests the general examination occurs before Larch's specific assessment and directive, supporting a 'precedes' relation from the general examination to Larch's targeted actions.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bdfa2417762f",
+    "subject_id": "ep_8511b37924d5f2ce",
+    "object_id": "ep_ce7b06f327e2d82a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Address Dorothy's concerns about ether' occurs during scene_25, while 'Examine Dorothy's uterine condition' occurs in scene_27, indicating a clear narrative sequence where the former precedes the latter based on scene ordering in the document.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_79d8367f0c56",
+    "subject_id": "ep_9cc772f5513442ec",
+    "object_id": "ep_9423777c5d7bc79d",
+    "relation_type": "precedes",
+    "reason": "The initiation of the baby naming process (noticing the missing name sheet and revealing the baby is unnamed) occurs before Larch asserts his turn and names the baby 'Little Dorrit', as the narrative sequence in scene_37 establishes a clear temporal order where the need for naming precedes the act of naming.",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e9ebcfb5fbcb",
+    "subject_id": "ep_47b35ff29de5d3cb",
+    "object_id": "ep_316e64e0d316e014",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Discuss Fuzzy's medical vulnerability' provides clinical context and experiential knowledge about Fuzzy's condition, which elaborates on the ongoing caregiving actions in 'Maintain Fuzzy's breathing apparatus'. The discussion during the construction of the tent directly informs the medical necessity behind the maintenance work, establishing a directed explanatory relationship from the discussion to the maintenance activity.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_fbc465558035",
+    "subject_id": "ep_47b35ff29de5d3cb",
+    "object_id": "ep_b5add76b61fd4e30",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Discuss Fuzzy's medical vulnerability' provides clinical context and justification for the medical intervention in 'Construct and deploy humidified tent for Fuzzy', explaining why Fuzzy requires such care based on his prematurity and maternal alcoholism. This explanatory link is grounded in the shared focus on Fuzzy's condition and the didactic moment occurring during the setup of the tent, indicating that the discussion elaborates on the rationale behind the action.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ee4a749237cd",
+    "subject_id": "ep_3706f0004a954927",
+    "object_id": "ep_9423777c5d7bc79d",
+    "relation_type": "precedes",
+    "reason": "The medical examination of newborns establishes the clinical context in scene_37, and the naming of the baby occurs afterward within the same scene, as indicated by the sequence of related events. The examination sets the stage before Larch names the baby, which then causes the baby to cry, supporting a local narrative order where the examination precedes the naming attempt.",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_65703b08c62e",
+    "subject_id": "ep_4ba3d27664f4625b",
+    "object_id": "ep_d01d7b59b150fdf8",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Buster interrupts Homer's task to offer and force help' occurs in scene_28, while the object episode 'Confront the mystery of the ether smell' occurs in scene_29, indicating a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_41a5d4034bd9",
+    "subject_id": "ep_da70ddae02550a78",
+    "object_id": "ep_613a27031cb02fbc",
+    "relation_type": "precedes",
+    "reason": "Homer's reassurance of Curly, including lifting him and taking his suitcase, occurs in the same scene (scene_40) and immediately before carrying him into the bunk room, indicating a sequential narrative progression from emotional comfort to physical transition.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7ab83b267d12",
+    "subject_id": "ep_8ddfad5971fc2edb",
+    "object_id": "ep_bf678c3def22ca82",
+    "relation_type": "precedes",
+    "reason": "Homer completes the delivery and reassures Carla before Dr. Larch enters the room and gives instructions, as evidenced by the sequence of related events in scene_26: delivery and reassurance occur first, followed by Larch's entry and private instruction to Homer.",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ab1c3b5282c8",
+    "subject_id": "ep_b5add76b61fd4e30",
+    "object_id": "ep_316e64e0d316e014",
+    "relation_type": "precedes",
+    "reason": "The construction and deployment of the humidified tent for Fuzzy (ep_b5add76b61fd4e30) must occur before the ongoing maintenance of Fuzzy's breathing apparatus (ep_316e64e0d316e014), as maintenance logically follows the initial setup of the apparatus. The related events in the first episode describe building and placing Fuzzy in the tent, while the second episode describes continued monitoring and adjustment, indicating a sequential narrative order.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1241971d6890",
+    "subject_id": "ep_ce7b06f327e2d82a",
+    "object_id": "ep_aa5c6af8be3d8058",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Examine Dorothy's uterine condition' establishes the medical mystery by noting tissue deterioration and Homer's tentative attribution to scurvy. The episode 'Identify French Lunar Solution' provides a direct explanation for the cause of scurvy, confirming the earlier suspicion and thereby elaborating on the initial mystery. The second episode supplies the causal mechanism (oil of tansy impairing Vitamin C absorption) that resolves the condition introduced in the first, fulfilling an explanatory, elaborative role.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f9b46982cea8",
+    "subject_id": "ep_1d8bfa38ab17f426",
+    "object_id": "ep_316e64e0d316e014",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Transfer caregiving responsibility' involves Larch taking over care of Fuzzy, which sets the context for the subsequent and ongoing activity in 'Maintain Fuzzy's breathing apparatus', where Larch is shown actively managing Fuzzy's medical needs. The second episode provides further detail on how the caregiving responsibility is being carried out after the transfer, thus elaborating on the execution of the care task initiated in the first episode.",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4f1282405c77",
+    "subject_id": "ep_d1689edae5e91577",
+    "object_id": "ep_613a27031cb02fbc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Homer greets Curly and notices his suitcase' occurs in the corridor and initiates the interaction, while 'Homer carries Curly into the boys' bunk room' represents the resolution and transition to a private space, indicating a clear sequential order supported by the narrative progression from greeting to carrying into the bunk room.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_926771d523cd",
+    "subject_id": "ep_4ba3d27664f4625b",
+    "object_id": "ep_eb09147e3bc5881e",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Buster interrupts Homer and follows him after offering unwanted help, occurs in scene_28, while the object episode, involving the journey to and use of the incinerator, takes place in scene_29. The sequential scene numbering and narrative continuity—Homer carrying the pail with Buster following—support that the first episode precedes the second.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_018c4e5804ae",
+    "subject_id": "ep_893798596c61836b",
+    "object_id": "ep_e857cc71f3c44ceb",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Homer voluntarily touching and listening to the baby at the woman's request, while the object episode depicts an escalation where the woman forces prolonged contact and Dr. Larch intervenes. The progression from consensual to forced contact, followed by an authoritative observation, indicates a clear narrative sequence in scene_45, with the first episode preceding the second.",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9d7798219039",
+    "subject_id": "ep_d1689edae5e91577",
+    "object_id": "ep_da70ddae02550a78",
+    "relation_type": "precedes",
+    "reason": "The episode 'Homer greets Curly and notices his suitcase' initiates the interaction in the corridor, which is followed by 'Homer reassures Curly of his worth' involving responsive actions like lifting and verbal reassurance. The sequence of events in the shared scene (scene_40) supports a clear narrative order where the greeting and observation precede the emotional reassurance.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f08d83c67806",
+    "subject_id": "ep_9cc772f5513442ec",
+    "object_id": "ep_20fcd9f5591fa581",
+    "relation_type": "precedes",
+    "reason": "The initiation of the baby naming process, where Larch notices the absence of a name and Homer reveals the baby is unnamed, occurs before the event where Homer proposes and finalizes the name 'Wilbur'. The sequence is supported by the shared scene (scene_37) and the logical dependency: the need to name the baby must precede the actual naming decision.",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a50e341d90ed",
+    "subject_id": "ep_561565ad4eac92fe",
+    "object_id": "ep_893798596c61836b",
+    "relation_type": "precedes",
+    "reason": "The first episode describes the distressed pregnant woman approaching Homer and inviting him to touch her unborn baby, establishing the initial interaction. The second episode describes Homer responding to her request by touching her belly and pressing his ear against it, which is a direct continuation of the interaction. The sequence of events in the same scene (scene_45) and the dependency of physical connection on the prior invitation support that the first episode precedes the second.",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ad9cf89c8685",
+    "subject_id": "ep_1d8bfa38ab17f426",
+    "object_id": "ep_8d53d161a82f40c6",
+    "relation_type": "precedes",
+    "reason": "The transfer of caregiving responsibility from Homer to Larch occurs before the bedtime reading ritual begins, as evidenced by the sequence of events in scene_48: Larch takes over care, then the boys climb into bed and Homer initiates the reading. This local narrative order supports a 'precedes' relation from the caregiving transfer to the bedtime reading.",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_115d63e63fb5",
+    "subject_id": "ep_eaec474df2b8a269",
+    "object_id": "ep_613a27031cb02fbc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Curly reveals his fear of being unwanted' occurs before 'Homer carries Curly into the bunk room' in the narrative sequence, as emotional vulnerability is expressed first, followed by Homer's protective action, indicating a clear local narrative order supported by the scene flow in doc_39.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_13f0f3a372ca",
+    "subject_id": "ep_586f95e0fbdc5de7",
+    "object_id": "ep_711ffc607fe64f34",
+    "relation_type": "precedes",
+    "reason": "The episode 'Prepare Hazel for Departure' involves Edna fussing over Hazel as she holds her suitcase and doll, marking the beginning of her departure. This is followed by 'Bid farewell to Hazel', where Edna and the girls give a goodbye blessing, indicating emotional closure. The preparation logically and temporally precedes the farewell, with both episodes tied to the same departure narrative, supporting a clear 'precedes' relation.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c82d8b46d83d",
+    "subject_id": "ep_3826b349fcc87a6a",
+    "object_id": "ep_8d53d161a82f40c6",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Transport Fuzzy for story time' involves moving Fuzzy from the dispensary to the hallway for a story, which logically precedes the object episode 'Begin bedtime reading ritual' where the boys are already in bed and Homer starts reading 'David Copperfield'. The sequence of events—wheeling Fuzzy out for story time followed by the initiation of the reading ritual—indicates a clear temporal order supported by the narrative flow.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d4ac86986830",
+    "subject_id": "ep_087f1bbe0da184f0",
+    "object_id": "ep_0201999d240986db",
+    "relation_type": "precedes",
+    "reason": "The couple's observation and fixation on Hazel (ep_087f1bbe0da184f0) establishes their initial interest, which Angela and Edna then attempt to redirect toward older children (ep_0201999d240986db). The redirection effort logically follows the observed fixation, indicating a local narrative sequence where the intervention responds to the couple's attention, supported by the shared scene and causal context.",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6b95403157af",
+    "subject_id": "ep_0e3cd7c80ff9ae1f",
+    "object_id": "ep_8d53d161a82f40c6",
+    "relation_type": "precedes",
+    "reason": "The orphans watching the King Kong screening (ep_0e3cd7c80ff9ae1f) occurs during scene_47, while the bedtime reading ritual (ep_8d53d161a82f40c6) begins in scene_48, indicating a clear sequential order where the screening precedes the reading. Additionally, Fuzzy's question about King Kong's feelings during the reading is a direct continuation of the prior discussion during the film, further supporting the temporal precedence.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eaf39cea1838",
+    "subject_id": "ep_586f95e0fbdc5de7",
+    "object_id": "ep_5eafebb31ef4bbfb",
+    "relation_type": "precedes",
+    "reason": "The episode 'Prepare Hazel for Departure' involves Edna fussing over Hazel with her suitcase and doll, marking the beginning of her departure, while 'Confront the Consequences of Crying During Adoption' involves dialogue about emotional regulation during adoption, including warnings and personal revelations. Both episodes occur during 'Hazel'S Adoption Day (scene_38)', and preparation logically precedes the emotional confrontation about crying, supported by the narrative flow of departure activities. The temporal order is contextually implied by the goal-driven sequence of events on adoption day.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_baf7c030741a",
+    "subject_id": "ep_8d53d161a82f40c6",
+    "object_id": "ep_b75be61485781106",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Begin bedtime reading ritual' includes Homer beginning to read 'David Copperfield', which sets up the narrative context. The object episode 'Discuss David Copperfield's father' occurs as a reaction to content from the reading, specifically when Homer reads about David being a posthumous child. The sequence of events in scene_48 supports that the reading initiation precedes the boys' discussion about David's father.",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_931554a92083",
+    "subject_id": "ep_7f722be261687975",
+    "object_id": "ep_911c2ee2e3ef8cd3",
+    "relation_type": "precedes",
+    "reason": "The ambush initiation (ep_7f722be261687975) occurs during the snowball fight's explosive start, while the justification and blame assignment (ep_911c2ee2e3ef8cd3) happens in the immediate aftermath, indicating a clear temporal sequence supported by the narrative order in scene_35.",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_12b3e2abf7c1",
+    "subject_id": "ep_7707c3efc9af3955",
+    "object_id": "ep_9ef540ec602dcab5",
+    "relation_type": "elaborates",
+    "reason": "The camera revealing the dispensary and living space provides contextual and environmental detail that sets the scene for Dr. Larch's ether administration, thereby elaborating on the setting in which the subsequent episode occurs. Both episodes share the same occasion (St. Cloud's, Maine, March 1943) and location, with the first offering a visual establishment of the space where the second episode's actions take place.",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_41107290e583",
+    "subject_id": "ep_0d323ce25ae1e579",
+    "object_id": "ep_6f036532b5b63d95",
+    "relation_type": "precedes",
+    "reason": "The episode 'Seek Dr. Larch urgently' involves Homer entering the corridor and calling out for Dr. Larch, which sets up a direct narrative lead-in to the subsequent refusal and Dr. Larch's decision to take over the delivery. The urgency in seeking Dr. Larch logically precedes the confrontation and resolution described in the second episode, establishing a clear local narrative order.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_eab67a6a5560",
+    "subject_id": "ep_a6a98269e5e80499",
+    "object_id": "ep_70faba3940b8f0f5",
+    "relation_type": "precedes",
+    "reason": "The bedtime reading performed by Dr. Larch (ep_a6a98269e5e80499) formally marks the end of the day's activities, after which the boys discuss the meaning of the ritual (ep_70faba3940b8f0f5). The sequence is supported by the description stating 'After Dr. Larch leaves, a young boy runs to Homer's bed,' indicating a clear temporal order where the reading precedes the discussion.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a8074a005c9f",
+    "subject_id": "ep_7f722be261687975",
+    "object_id": "ep_1cff852dedcefee2",
+    "relation_type": "precedes",
+    "reason": "The ambush initiation (ep_7f722be261687975) occurs first, as the boys launch a surprise attack on the girls who are preparing, and immediately afterward, Mary Agnes and the girls retaliate by overpowering the boys (ep_1cff852dedcefee2), as both episodes are part of the same scene (scene_35) and the sequence is causally and temporally ordered in the description.",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9570c1d14f00",
+    "subject_id": "ep_2fe7b635d6324858",
+    "object_id": "ep_1bf14abf48c4a213",
+    "relation_type": "precedes",
+    "reason": "The episode 'Mary Agnes confronts soldier harassment at the station' occurs first, as it depicts the immediate event of Mary Agnes's outburst, which is then observed and discussed by Homer and Buster in the subsequent episode 'Homer and Buster observe and interpret Mary Agnes's outburst'. Both episodes are grounded in scene_46, and the causal sequence of events implies a clear temporal order where the confrontation precedes the observation and commentary.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c44a1d938142",
+    "subject_id": "ep_63d7073b33779964",
+    "object_id": "ep_f8d291980366f145",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Larch confesses guilt over Homer's fate' provides reflective, emotionally charged background that elaborates on the significance of 'Carry Homer to the orphanage' by revealing Larch's internal conflict and motivation behind the act, framed as a voiceover during the title sequence which contextualizes the earlier event.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a7e1e6fe4b8d",
+    "subject_id": "ep_5fcb1c574680edcc",
+    "object_id": "ep_8511b37924d5f2ce",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Reveal Dorothy's background and medical risk' occurs during scene_27, while the object episode 'Address Dorothy's concerns about ether' occurs during scene_25. Since scene_25 precedes scene_27 in narrative order, the object episode occurs before the subject episode. However, the relation 'precedes' is directed, and the subject must precede the object for a valid 'precedes' relation. Here, the subject occurs after the object, so the correct directional relation would be object -> subject. Since the required direction (subject -> object) is not supported, and reversing direction is not allowed without evidence for that specific direction, the best-supported relation in the correct direction is 'NONE'. But given that the episodes are ordered and the schema allows 'precedes' with correct scene-based evidence, and considering the narrative flow where medical risk revelation follows the discussion of ether concerns, the subject episode does not precede the object. Thus, the only justifiable conclusion is that no valid directed relation exists in the subject->object direction. Therefore, after careful reconsideration, the relation cannot be 'precedes' in the required direction. No other relation type is supported. Final decision: NONE.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bded30697c0f",
+    "subject_id": "ep_acecffc4910cab95",
+    "object_id": "ep_c6dc696fa3148c68",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to adopting couple's arrival' involves Angela informing Larch that the couple has arrived, which logically and narratively occurs before the object episode 'Present infant and explain name to adopting parents', where Larch hands over the infant and discusses the name. The sequence of events—notification of arrival followed by the presentation of the child—is supported by the causal and temporal flow implied in the descriptions and related events.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0bbf85b26023",
+    "subject_id": "ep_570298f7f7ccddef",
+    "object_id": "ep_6f036532b5b63d95",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Dr. Larch and Homer departing together to attend to new patients, including one requiring delivery, which sets up the medical situation. The object episode occurs when Homer refuses to assist in the delivery, leading Dr. Larch to take over. The sequence of events implies a temporal progression where the response and preparation precede the refusal and subsequent assumption of responsibility, supported by the narrative flow in the descriptions.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3002176aae5d",
+    "subject_id": "ep_67d4b65632ccb664",
+    "object_id": "ep_6f036532b5b63d95",
+    "relation_type": "precedes",
+    "reason": "The episode where Larch demands Homer's active participation occurs during a teaching moment in scene_16, while the episode where Larch accepts delivery responsibility after Homer's refusal takes place in scene_47, indicating a clear narrative sequence. The earlier episode establishes Larch's expectation for Homer's involvement, which contrasts with Homer's later refusal, making 'precedes' the best-supported relation.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6330edf280a7",
+    "subject_id": "ep_0071fbbc3fa5cd59",
+    "object_id": "ep_d35a8a7789708df1",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode centers on a philosophical and ethical conflict between Homer and Larch regarding abortion and duty, emphasizing resistance and moral justification in a professional context. The second episode depicts a compassionate, patient-centered financial arrangement around the same medical service, highlighting care and accessibility. These episodes are thematically linked through clinic ethics but differ in focus—one on internal professional conflict, the other on external patient support—creating a contrast in how ethical responsibility is enacted.",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_0d9f68e4221c",
+    "subject_id": "ep_b2dfd3be3c2e9464",
+    "object_id": "ep_f8d291980366f145",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Larch confesses guilt over Homer's fate' provides reflective, emotionally charged background that elaborates on the circumstances of Homer's orphanhood, which includes events such as his rejection by adopting parents. The voiceover during the title sequence frames Homer's destiny and Larch's role in it, offering contextual expansion on earlier narrative developments like the adoption rejection. This supports an elaborative, rather than sequential or causal, relationship.",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a13fe9275825",
+    "subject_id": "ep_0071fbbc3fa5cd59",
+    "object_id": "ep_6f036532b5b63d95",
+    "relation_type": "precedes",
+    "reason": "The ethical confrontation between Homer and Larch (ep_0071fbbc3fa5cd59) sets up the conflict over professional responsibility, which culminates in Homer's refusal to assist in the delivery, leading directly to Larch taking over the procedure (ep_6f036532b5b63d95). The narrative sequence is supported by the progression from ethical debate to action in response to Homer's stance, indicating a clear temporal order.",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3997bc1a9410",
+    "subject_id": "ep_80fcd0a9f824e738",
+    "object_id": "ep_a6a98269e5e80499",
+    "relation_type": "elaborates",
+    "reason": "The subject episode describes Larch delivering a nightly benediction as a routine, while the object episode provides additional detail about the same ritual, including reading from Oliver Twist and turning off the lights, thereby expanding on the benediction event with richer contextual actions. The object episode includes the benediction as part of a broader bedtime ritual, suggesting it elaborates upon the more narrowly described subject episode.",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_63465f27816e",
+    "subject_id": "ep_6f036532b5b63d95",
+    "object_id": "ep_bf678c3def22ca82",
+    "relation_type": "precedes",
+    "reason": "The episode where Larch accepts delivery responsibility after Homer's refusal must occur before Larch assesses the newborn and delegates a follow-up task, as the delivery must first be accepted and performed before the newborn can be assessed. The sequence of events in the delivery process supports a clear temporal order.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c942273be497",
+    "subject_id": "ep_6f036532b5b63d95",
+    "object_id": "ep_9c39f3cacd8d7c33",
+    "relation_type": "precedes",
+    "reason": "The episode where Dr. Larch accepts delivery responsibility occurs in doc_46, while Homer's observation and departure takes place in doc_20. Given the narrative flow and the causal setup in the first episode (Homer's refusal leading to Larch's decision), it is strongly implied that Larch's acceptance of responsibility precedes Homer's later observation of him, as the latter reflects a reaction to the prior resolution of the delivery situation.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_be4ac94ab5e7",
+    "subject_id": "ep_0d323ce25ae1e579",
+    "object_id": "ep_d85b540f6a6aa02a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Seek Dr. Larch urgently' occurs when Homer enters the corridor calling for Dr. Larch, which directly precedes the subsequent scene in which Homer and Larch part ways and enter separate operating rooms, as indicated by the sequential scene numbers (scene_22 before scene_24) and narrative flow across doc_21 and doc_23.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_58fea09f2bf7",
+    "subject_id": "ep_aec9051ad4d0e862",
+    "object_id": "ep_d7ffea15a3a45d9a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Return Homer to the facility' occurs during a nighttime visit in doc_5, while 'Bid farewell to Homer at departure' marks the conclusion of Homer's departure in doc_4. Given the narrative logic of returning before departing and the temporal markers (nighttime return vs. final departure), the return episode likely precedes the farewell episode in the overall story sequence.",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_240806a9bf95",
+    "subject_id": "ep_262935e5867acdc9",
+    "object_id": "ep_d7ffea15a3a45d9a",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode depicts entry into the orphanage with affection and welcome, while the object episode shows departure from the same location with farewell and closure. These episodes are structurally and emotionally inverse, occurring at the same setting (orphanage door) but representing opposing transitions—arrival versus departure—creating a narrative contrast in tone and direction of movement.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_d75fe2b4bcc2",
+    "subject_id": "ep_6e5278bd0c03b008",
+    "object_id": "ep_d85b540f6a6aa02a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Conceal the abortion patient from Homer' occurs when Dr. Larch closes the door to hide the patient, which takes place in scene_18, while 'Part ways and enter operating rooms' occurs in scene_24. The clear scene ordering (18 before 24) supports that the first episode precedes the second in narrative sequence.",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8b171719e28a",
+    "subject_id": "ep_613a27031cb02fbc",
+    "object_id": "ep_63d7073b33779964",
+    "relation_type": "contrasts_with",
+    "reason": "Both episodes involve a caretaker carrying a child into an orphanage setting, but they are separated by time and role reversal: Dr. Larch carries infant Homer into St. Cloud's, while later Homer carries Curly into the bunk room. The parallel structure emphasizes a reversal of roles—Homer now performs the caring act once done for him—creating a thematic contrast in generational care and continuity.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_3d9694bd7261",
+    "subject_id": "ep_63d7073b33779964",
+    "object_id": "ep_262935e5867acdc9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Carry Homer to the orphanage' involves Dr. Larch carrying Homer up the hill to St. Cloud's, which logically and narratively occurs before 'Enter the Orphanage and Receive Welcome,' where Nurse Edna opens the door and welcomes the pregnant woman and Homer into the institution. The carrying episode represents arrival at the location, while the entering episode marks the formal transition inside, indicating a clear sequential order supported by the descriptions and related events.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0ec0128b533d",
+    "subject_id": "ep_63d7073b33779964",
+    "object_id": "ep_8c4fa0540504d67a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Carry Homer to the orphanage' describes Homer's arrival and transition into St. Cloud's Orphanage under Dr. Larch's care, which establishes his initial entry into the institution. The episode 'Arrive and Support at the Orphanage Door' involves Homer already present and interacting with a pregnant woman at the orphanage door, implying a later point in time when he is capable of offering comfort to others. The narrative progression from being carried in as an infant to later supporting someone else at the door suggests a temporal sequence, with the first episode preceding the second.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d040b3de1d00",
+    "subject_id": "ep_1c1c532cc6c0f12a",
+    "object_id": "ep_d85b540f6a6aa02a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Guide Homer in experiencing fetal movement' occurs in doc_16 and scene_17, while 'Part ways and enter operating rooms' occurs in doc_23 and scene_24, indicating a later narrative position. The progression from an early mentorship moment to a later symbolic separation supports a local narrative order where the first precedes the second.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4b106f10da0c",
+    "subject_id": "ep_561565ad4eac92fe",
+    "object_id": "ep_1c1c532cc6c0f12a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Homer delivers water and is approached by a distressed woman' involves a pregnant woman inviting Homer to touch her baby, which sets up the subsequent episode where Dr. Larch guides Homer to feel fetal movement during a medical examination. The first episode establishes the initial human connection with the fetus, which is then formalized in a clinical context in the second episode, indicating a narrative sequence where the former precedes the latter.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_49185d95982c",
+    "subject_id": "ep_0f1958410e07d960",
+    "object_id": "ep_262935e5867acdc9",
+    "relation_type": "precedes",
+    "reason": "Homer's departure and final glance with the stepsister occurs in scene_14, while entering the orphanage and receiving welcome occurs in scene_15, indicating a direct narrative sequence where the first episode precedes the second based on scene ordering and the progression of Homer's journey.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8b00a261e40c",
+    "subject_id": "ep_8c4fa0540504d67a",
+    "object_id": "ep_dcf3fea767994508",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Arrive and Support at the Orphanage Door' involves Homer arriving and waiting at the orphanage door with a pregnant woman, while the object episode 'Welcome Homer and convey care instructions' involves the third couple opening the door and welcoming Homer. The sequence of events implies that arrival and waiting must occur before the door is opened and the welcome takes place, establishing a clear temporal order supported by the narrative logic of the scenes.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fd3fb35ddcac",
+    "subject_id": "ep_570298f7f7ccddef",
+    "object_id": "ep_8ddfad5971fc2edb",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Dr. Larch and Homer departing to attend to new patients, one of whom is implied to require delivery. The object episode depicts Homer completing the delivery of Carla's baby. The sequence of events, where preparation and response to the medical need precede the actual delivery, supports a clear narrative order. The related events and descriptions indicate that the departure to attend the patients occurs before the delivery is completed.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2fb956818426",
+    "subject_id": "ep_570298f7f7ccddef",
+    "object_id": "ep_d85b540f6a6aa02a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to new patients and prepare for delivery' occurs in doc_22 and involves Dr. Larch and Homer departing together to attend to medical needs, while the object episode 'Part ways and enter operating rooms' occurs in doc_23 and describes their separation into different operating rooms. The progression from departing together to physically parting in the next document supports a clear narrative sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a1b77745f486",
+    "subject_id": "ep_67d4b65632ccb664",
+    "object_id": "ep_d85b540f6a6aa02a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Larch demands Homer's active participation at St. Cloud's' occurs in doc_15, scene_16, while 'Part ways and enter operating rooms' occurs in doc_23, scene_24, indicating a clear narrative sequence where the former precedes the latter. Additionally, the object episode includes Homer reflecting on Larch's demand to be 'of use,' which directly references the subject episode, reinforcing the temporal and thematic progression.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0db4f1eaf922",
+    "subject_id": "ep_8c4fa0540504d67a",
+    "object_id": "ep_e857cc71f3c44ceb",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Arrive and Support at the Orphanage Door' involves Homer and the pregnant woman waiting at the door and establishing emotional connection, supported by events in scene_15. The object episode 'Woman forces prolonged contact and Dr. Larch intervenes by observing' occurs in scene_45 and depicts an escalation of that interaction with Dr. Larch's arrival. The progression from scene_15 to scene_45 indicates a clear narrative sequence where the arrival and initial support precede the intensified emotional moment and intervention.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7502cdb56446",
+    "subject_id": "ep_b2dfd3be3c2e9464",
+    "object_id": "ep_d3d03486f313c3c5",
+    "relation_type": "precedes",
+    "reason": "The first episode, in which adopting parents reject baby Homer due to his silence, occurs in doc_6 and scene_7, while the second episode, in which a different family elicits sounds from Homer, occurs in doc_7 and scene_8. The narrative progression across documents and scenes supports a clear temporal order where the rejection precedes the subsequent interaction with the second family.",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a8add71ecfad",
+    "subject_id": "ep_262935e5867acdc9",
+    "object_id": "ep_e857cc71f3c44ceb",
+    "relation_type": "precedes",
+    "reason": "The episode 'Enter the Orphanage and Receive Welcome' involves Nurse Edna opening the door and welcoming the woman and Homer into the orphanage, establishing their entry. The subsequent episode 'Woman forces prolonged contact and Dr. Larch intervenes by observing' occurs in the same doorway setting but involves an escalated emotional scene and the arrival of Dr. Larch, indicating a progression in the narrative sequence. The shared setting and the escalation of events suggest a temporal order where the welcome and entry must precede the intensified interaction and observation by Dr. Larch.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f99495fd08fe",
+    "subject_id": "ep_561565ad4eac92fe",
+    "object_id": "ep_262935e5867acdc9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Homer delivers water and is approached by a distressed woman' occurs in a hospital setting where Homer is performing duties, implying he is already an adult, while 'Enter the Orphanage and Receive Welcome' depicts Homer as a child re-entering the orphanage with a pregnant woman. The latter episode represents an earlier point in Homer's life, making it temporally prior. Thus, the hospital episode likely follows the orphanage arrival in narrative chronology, supporting a 'precedes' relation from the hospital episode to the orphanage episode. However, the documents are different (doc_44 vs doc_14), so the ordering is inferred from character development rather than explicit timeline markers.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0f6c07280021",
+    "subject_id": "ep_0071fbbc3fa5cd59",
+    "object_id": "ep_d85b540f6a6aa02a",
+    "relation_type": "precedes",
+    "reason": "The ethical discussion between Homer and Larch (ep_0071fbbc3fa5cd59) occurs before they part ways and enter separate operating rooms (ep_d85b540f6a6aa02a), as indicated by the sequence of events in scene_24 and the narrative flow where the unresolved conversation directly leads to their physical separation.",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d788558344fd",
+    "subject_id": "ep_f5089e90a45e0b38",
+    "object_id": "ep_eb09147e3bc5881e",
+    "relation_type": "precedes",
+    "reason": "The discovery of the pail's contents by Homer (in doc_19, scene_20) occurs before the journey to and use of the incinerator (in doc_28, scene_29), as the former is part of the initial action leading to the latter. The narrative sequence shows Homer first discovering the contents during transport, then later completing the task at the incinerator with Buster present.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_90badc9d8dd2",
+    "subject_id": "ep_472cf2819c8b3aa2",
+    "object_id": "ep_eb09147e3bc5881e",
+    "relation_type": "precedes",
+    "reason": "The disposal of uterine remains into a pail (ep_472cf2819c8b3aa2) occurs during scene_27, while the journey to the incinerator and emptying of the pail (ep_eb09147e3bc5881e) occurs in scene_29, indicating a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_63c1d1003298",
+    "subject_id": "ep_9c39f3cacd8d7c33",
+    "object_id": "ep_d85b540f6a6aa02a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Homer observes Dr. Larch and departs' occurs in scene_21, while the object episode 'Part ways and enter operating rooms' occurs in scene_24, indicating a clear narrative sequence where Homer's observation and departure precede the physical separation in later scenes. The progression from silent observation to parting ways with symbolic divergence supports a directed temporal order.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_47187779f688",
+    "subject_id": "ep_215c8a2abdf1b804",
+    "object_id": "ep_d85b540f6a6aa02a",
+    "relation_type": "precedes",
+    "reason": "The refusal and conflict escalation in 'Homer refuses delivery duty and conflict escalates' sets up the unresolved ethical discussion that immediately precedes the physical separation in 'Part ways and enter operating rooms', where Homer and Larch enter different operating rooms. The latter episode closes with a reflective moment tied to the prior confrontation, indicating a direct narrative sequence supported by the progression of events and scene numbering (scene_47 before scene_24, though doc_id differs, the thematic and causal continuity implies local narrative order).",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c62d84ff3826",
+    "subject_id": "ep_561565ad4eac92fe",
+    "object_id": "ep_8ddfad5971fc2edb",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Homer being approached by a pregnant woman during a water delivery, establishing initial contact and emotional connection. The second episode depicts Homer delivering the same woman's baby and reassuring her postpartum, which logically follows childbirth. The narrative progression from initial interaction to delivery implies a temporal sequence supported by the shared characters and context, with no indication of reversal or alternative order.",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ae9a9f2a0eea",
+    "subject_id": "ep_472cf2819c8b3aa2",
+    "object_id": "ep_f5089e90a45e0b38",
+    "relation_type": "precedes",
+    "reason": "The disposal of uterine remains (ep_472cf2819c8b3aa2) occurs when Homer empties the basin into the pail under Larch's instruction, which must happen before Homer carries that same pail to the incinerator and discovers its contents (ep_f5089e90a45e0b38), establishing a clear temporal sequence supported by the narrative flow and shared physical object (the pail).",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ae719cbc2de6",
+    "subject_id": "ep_0b71db0fbe518250",
+    "object_id": "ep_3826b349fcc87a6a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Mary Agnes's tongue injury' occurs before 'Transport Fuzzy for story time' within the same scene (scene_30), as Homer first attends to Mary Agnes and then wheels Fuzzy out for story time, indicating a clear sequential order in the narrative.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e43b9c4c4250",
+    "subject_id": "ep_472cf2819c8b3aa2",
+    "object_id": "ep_d85b540f6a6aa02a",
+    "relation_type": "precedes",
+    "reason": "The disposal of uterine remains occurs in doc_26, scene_27, while parting ways and entering operating rooms occurs in doc_23, scene_24. Despite the document order discrepancy, scene numbering and narrative flow indicate that entering operating rooms (scene_24) precedes the disposal task (scene_27). Thus, ep_d85b540f6a6aa02a precedes ep_472cf2819c8b3aa2. However, since the subject is ep_472cf2819c8b3aa2 and the object is ep_d85b540f6a6aa02a, and the relation is directed, the correct directional assignment is not supported. Therefore, no valid directed relation from subject to object can be established, leading to 'NONE'—but based on scene order, the reverse precedence is clear. Given the requirement to assign relation from subject to object only, and that the subject episode occurs later, the relation 'precedes' is not valid in this direction. Hence, no supported relation exists from subject to object. Final decision: NONE.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8b941b728b51",
+    "subject_id": "ep_1d8bfa38ab17f426",
+    "object_id": "ep_3826b349fcc87a6a",
+    "relation_type": "precedes",
+    "reason": "The caregiving transfer episode involves Larch taking over Fuzzy's care, which implies a prior state of care management before Fuzzy is transported. The transport episode occurs after care has been assumed, as Homer wheels Fuzzy out for story time, suggesting a sequence where care responsibility is first transferred and then enacted. This temporal ordering is supported by the narrative flow of caregiving duties preceding their execution in a new setting.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7550f110e612",
+    "subject_id": "ep_2e2ee9a803072e74",
+    "object_id": "ep_8d53d161a82f40c6",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Enter dormitory and settle in' occurs during the bedtime reading, as Homer enters quietly while the reading is already ongoing. The object episode 'Begin bedtime reading ritual' includes Homer beginning the reading, which establishes that the reading starts before Homer enters. Therefore, the object episode precedes the subject episode. However, since the relation type 'precedes' is directed and the subject is listed first, the correct directional interpretation is that the object precedes the subject, meaning the subject does not precede the object. Thus, no valid directed relation can be asserted in the subject->object direction. Given the temporal conflict and potential for misordering, the safest conclusion is that no supported relation exists in the required direction.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e20e6e0bb3fc",
+    "subject_id": "ep_087f1bbe0da184f0",
+    "object_id": "ep_6ca1ac257b622033",
+    "relation_type": "precedes",
+    "reason": "The couple observing orphans and fixating on Hazel occurs during breakfast at the orphanage, which logically precedes Hazel leaving the orphanage with her new parents, as adoption typically follows selection. The narrative progression from observation to departure supports a clear temporal order.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_75bda9f0ad39",
+    "subject_id": "ep_711ffc607fe64f34",
+    "object_id": "ep_8f7577e40e6753b7",
+    "relation_type": "precedes",
+    "reason": "The farewell to Hazel is a narrative moment of emotional closure that occurs before Edna's off-screen monologue, which serves as a broader meditative coda to the events at St. Cloud's. The monologue's function as a narrative coda suggests it follows the specific character departure, supporting a 'precedes' relation from the farewell episode to the monologue episode.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_60e45f730a28",
+    "subject_id": "ep_88e695a865afd53b",
+    "object_id": "ep_e7e81079a32c6df9",
+    "relation_type": "elaborates",
+    "reason": "The subject episode 'Lead a prayer and receive communal affirmation' provides a specific instance of communal affirmation and a detailed moment within the broader recurring activity described in the object episode 'Lead evening prayers in the bunk room'. The subject includes additional detail—such as Edna asking for divine mercy, safe lodging, rest, and peace, and the girls responding with 'Amen!'—that expands upon the general nightly devotional routine, indicating elaboration rather than a separate causal or temporal unit.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_30db61b8843a",
+    "subject_id": "ep_7db8a5d853963144",
+    "object_id": "ep_711ffc607fe64f34",
+    "relation_type": "precedes",
+    "reason": "The episode 'Receive news of Hazel's adoption' occurs before 'Bid farewell to Hazel' because the adoption announcement logically precedes the farewell ritual, as the news of adoption sets the context for the subsequent emotional goodbye. The narrative sequence implied by the events—first learning of the adoption, then bidding farewell—supports a clear temporal order.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_03509ad312dd",
+    "subject_id": "ep_7db8a5d853963144",
+    "object_id": "ep_6ca1ac257b622033",
+    "relation_type": "precedes",
+    "reason": "The episode 'Receive news of Hazel's adoption' describes the announcement of Hazel's selection by the adopting couple, which logically and temporally precedes her actual departure from the orphanage in 'Hazel leaves the orphanage with her new parents'. The announcement interrupts a ritual, and the departure shows the consequence of that decision, indicating a clear narrative sequence.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8ddcc801c989",
+    "subject_id": "ep_e30078e2877c292a",
+    "object_id": "ep_711ffc607fe64f34",
+    "relation_type": "precedes",
+    "reason": "The episode 'Defend Hazel's Adoption Day from Criticism' centers on protecting the significance of Hazel's adoption day, which establishes the emotional and narrative context prior to the farewell. The farewell episode involves saying good night and giving a blessing, indicating a subsequent closure after the defense of the adoption day's importance. The adoption day must logically precede the farewell, and the related occasion 'Hazel's Adoption Day' in the first episode supports this temporal ordering.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_af0d3b0e4afa",
+    "subject_id": "ep_4b534cea0b627f2e",
+    "object_id": "ep_b6723b9233645b29",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Carla resists then requests to see her newborn, occurs during scene_26, while the object episode, in which Carla departs St. Cloud's in grief, occurs in scene_32. The narrative order of scenes indicates that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_73d25a4290fd",
+    "subject_id": "ep_6ca1ac257b622033",
+    "object_id": "ep_711ffc607fe64f34",
+    "relation_type": "precedes",
+    "reason": "The episode 'Hazel leaves the orphanage with her new parents' describes Hazel physically departing the orphanage, while the episode 'Bid farewell to Hazel' centers on Edna and the girls giving a goodbye blessing and wishing her well. The act of leaving logically precedes the emotional closure and well-wishing from the observers, as the farewell occurs after Hazel has begun her departure. The narrative sequence implied by the descriptions supports a clear temporal order.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f4ac22e975e5",
+    "subject_id": "ep_eaec474df2b8a269",
+    "object_id": "ep_da70ddae02550a78",
+    "relation_type": "causes",
+    "reason": "Curly's expression of fear and insecurity directly prompts Homer's reassurance, as the description states that Homer's comforting actions are a direct response to Curly's emotional vulnerability, establishing a clear cause-effect relationship where the subject episode triggers the object episode.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_eff46b2460fc",
+    "subject_id": "ep_d1689edae5e91577",
+    "object_id": "ep_eaec474df2b8a269",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Homer greets Curly and notices his suitcase' occurs first, initiating the interaction, and is directly followed by the object episode 'Curly reveals his fear of being unwanted' as a response to Homer's question, establishing a clear local narrative order.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0ef0abe9807f",
+    "subject_id": "ep_087f1bbe0da184f0",
+    "object_id": "ep_7db8a5d853963144",
+    "relation_type": "precedes",
+    "reason": "The couple's observation and fixation on Hazel (ep_087f1bbe0da184f0) occurs during breakfast in doc_35, while the announcement of Hazel's adoption (ep_7db8a5d853963144) happens in doc_36, where Copperfield interrupts a naming ritual to report the couple's selection. The narrative order and document sequence indicate the first episode precedes the second.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c57b9154199b",
+    "subject_id": "ep_b2dfd3be3c2e9464",
+    "object_id": "ep_6f54b73f556f35ff",
+    "relation_type": "contrasts_with",
+    "reason": "The adopting parents reject baby Homer due to his silence, perceiving it as unnerving, while immediately afterward, baby Homer squeals joyfully in Dr. Larch's arms, revealing his true nature. These episodes are juxtaposed to emphasize a contrast between the parents' misperception and the baby's authentic emotional expression.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_de90c785f1c6",
+    "subject_id": "ep_8ddfad5971fc2edb",
+    "object_id": "ep_b6723b9233645b29",
+    "relation_type": "precedes",
+    "reason": "The delivery and immediate postpartum reassurance of Carla (ep_8ddfad5971fc2edb) logically and chronologically precedes her emotional departure from St. Cloud's while sobbing (ep_b6723b9233645b29), as the latter occurs after the birth and reflects a subsequent emotional state and action. The related events and descriptions establish a clear narrative sequence: childbirth and stabilization first, followed by departure in grief.",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ad0633345286",
+    "subject_id": "ep_467725d8eeb1631a",
+    "object_id": "ep_c9e08a4ef42e6504",
+    "relation_type": "contrasts_with",
+    "reason": "The episode of Edna assessing the frightened girl involves intense, goal-driven concern and alarm, while the episode of children playing near the incinerator depicts normalcy and everyday activity. The description explicitly states that the children's play frames the scene and provides contrast with the central narrative of Edna's intervention, supporting a deliberate juxtaposition in tone and state.",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_feeb05f7d312",
+    "subject_id": "ep_f923a12d809bd7c3",
+    "object_id": "ep_5eafebb31ef4bbfb",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Respond to Clara's Observation About Adoptable Children' introduces the emotional context of adoptive parents preferring non-verbal infants, which prompts Hazel's distress and leads into the subsequent episode where Mary Agnes reveals her own trauma and Edna reframes emotional expression. The first episode provides background that expands the understanding of Hazel's vulnerability in the second, supporting an elaboration relation from the first to the second.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_8319a82a6511",
+    "subject_id": "ep_e30078e2877c292a",
+    "object_id": "ep_f923a12d809bd7c3",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Respond to Clara's Observation About Adoptable Children' expands on the emotional stakes established in 'Defend Hazel's Adoption Day from Criticism' by revealing deeper trauma behind adoptive preferences, thereby providing additional context that enriches the significance of Hazel's adoption day and the tension among the orphans. Both episodes occur during the same occasion and build emotional depth around Hazel's vulnerability.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_857f47d0234c",
+    "subject_id": "ep_20fcd9f5591fa581",
+    "object_id": "ep_9423777c5d7bc79d",
+    "relation_type": "precedes",
+    "reason": "Homer first proposes and finalizes the name 'Wilbur' before Larch asserts his turn to name the baby 'Little Dorrit,' indicating a sequential narrative order where the naming of Wilbur occurs prior to the attempt to name the baby Little Dorrit, as both events are described in the same scene (scene_37) and Larch's action is framed as a response to Homer's completion.",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_541d23b2c8c9",
+    "subject_id": "ep_86a839f95d746810",
+    "object_id": "ep_3b731ead855bd918",
+    "relation_type": "precedes",
+    "reason": "Dr. Larch reads the letter and reveals the institutional threat while the film is still playing, which occurs before the film projector breaks and the orphans react. Both episodes occur during the same occasion (Orphanage Movie Night Screening in scene_47), and the description of ep_86a839f95d746810 explicitly states 'while the film plays,' whereas ep_3b731ead855bd918 describes the disruption after the film breaks, establishing a clear temporal sequence.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c16f0b5083b3",
+    "subject_id": "ep_4ba3d27664f4625b",
+    "object_id": "ep_f5089e90a45e0b38",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Buster interrupting Homer as he passes through the dining room with a pail, which occurs in scene_28. The object episode involves Homer discovering the pail's contents at the incinerator in scene_20. Scene numbers indicate that the object episode (scene_20) occurs before the subject episode (scene_28), so the subject does not precede the object. However, the narrative flow suggests that carrying the pail to the incinerator and discovering its contents must logically precede Homer being seen with the pail later in the dining room. Given the discrepancy between scene numbering and narrative causality, and the fact that Homer must discover the contents before reacting while carrying it, the object episode (discovery) likely precedes the subject episode (interruption). Therefore, the correct directional relation is object -> subject, but since the schema requires subject -> object for 'precedes', and we cannot invert the direction arbitrarily, the only justifiable relation is 'precedes' with subject as ep_4ba3d27664f4625b and object as ep_f5089e90a45e0b38 only if scene order is taken as narrative order. Scene 20 precedes scene 28, so ep_f5089e90a45e0b38 precedes ep_4ba3d27664f4625b. Thus, the subject episode does not precede the object episode. Given this, no valid directed relation can be established in the subject->object direction. Therefore, despite temporal logic, the scene order contradicts the narrative flow, and no relation is sufficiently supported in the required direction. After re-evaluation, the pail is carried to the incinerator in scene 20 (object episode), and later Homer is seen passing through the dining room with the pail in scene 28 (subject episode). This implies the object episode occurs before the subject episode. Therefore, the subject episode does not precede the object episode. Hence, 'precedes' cannot hold in subject->object direction. No other relation is supported: no causal link is stated, no contrast is evident, and no elaboration occurs. Thus, the only defensible output is NONE. However, initial confidence was misplaced. Correcting: the object episode (scene 20) occurs before the subject episode (scene 28), so if 'precedes' were in object->subject, it would hold, but the schema requires evaluating subject->object. Since none of the directed relations hold in subject->object and no symmetric relation applies, the correct output is NONE. Final decision: NONE due to lack of support for any relation in the required direction.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  }
+]

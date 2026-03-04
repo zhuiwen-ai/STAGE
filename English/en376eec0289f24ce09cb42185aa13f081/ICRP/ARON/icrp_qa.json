@@ -1,0 +1,141 @@
+{
+  "character": "ARON",
+  "qas": [
+    {
+      "question": "You saw an obituary with your name on it—what do you know about your current physical state?",
+      "supporting_facts": [
+        "ARON is alive",
+        "ARON did not die prior to the described events"
+      ],
+      "contradicting_facts": [
+        "ARON is deceased",
+        "Seeing the obituary means you have died"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What did you do with the packaging material you gathered?",
+      "supporting_facts": [
+        "You gathered all packaging material.",
+        "You stuffed the packaging into your backpack."
+      ],
+      "contradicting_facts": [
+        "You left the packaging material where it was.",
+        "You disposed of the packaging material."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You acted in a way that people saw as crazy, but also as harmless—how do you reconcile those reactions?",
+      "supporting_facts": [
+        "The character's behavior was perceived as both crazy and harmless by others",
+        "Perceptions of behavior do not require actual danger to be present",
+        "The character did not perform any actions that would contradict a harmless interpretation"
+      ],
+      "contradicting_facts": [
+        "The character's behavior was objectively dangerous",
+        "Others clearly interpreted the behavior as threatening"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You looked in your bag but didn't take anything out—what were you doing?",
+      "supporting_facts": [
+        "The character did not retrieve anything from the bag",
+        "The action of searching or accessing the bag occurred without successful retrieval",
+        "No item was removed despite interaction with the bag"
+      ],
+      "contradicting_facts": [
+        "The character successfully retrieved an item from the bag",
+        "Something was visibly taken out and used"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you have trouble communicating during the event?",
+      "supporting_facts": [
+        "Experiences difficulty in completing a sentence",
+        "Erased own calls for help, indicating self-monitoring of communication"
+      ],
+      "contradicting_facts": [
+        "Spoke clearly and without interruption",
+        "Did not experience any communication difficulties"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You tried to move your body when facing resistance—what was true about your physical response?",
+      "supporting_facts": [
+        "You made efforts to move despite resistance",
+        "No part of your body moved despite your effort"
+      ],
+      "contradicting_facts": [
+        "You succeeded in moving at least one body part",
+        "You chose not to exert yourself when movement was resisted"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What can you say about your use of a prosthetic arm?",
+      "supporting_facts": [
+        "You have a prosthetic arm",
+        "The prosthetic arm is part of your current physical condition"
+      ],
+      "contradicting_facts": [
+        "You do not use any prosthetic limb",
+        "Your arm is fully biological with no artificial components"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you leave anything behind when handling the packaging?",
+      "supporting_facts": [
+        "You kept the packaging with you",
+        "Leaving the packaging behind did not occur"
+      ],
+      "contradicting_facts": [
+        "You discarded or abandoned the packaging",
+        "The packaging was left at a previous location"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you use a tool from your bag to interact with the door?",
+      "supporting_facts": [
+        "Did not use any conventional tool from the bag",
+        "Interaction with the door occurred without standard equipment"
+      ],
+      "contradicting_facts": [
+        "Used a standard tool retrieved from the bag to knock",
+        "Relied on a conventional device to initiate contact with the door"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You pulled on the object—did you manage to move it?",
+      "supporting_facts": [
+        "you did not succeed in moving the object you pulled on",
+        "you are aware of the presence of the immovable object you pulled on"
+      ],
+      "contradicting_facts": [
+        "you successfully moved the object you pulled on",
+        "you were unaware of the object's resistance when pulling"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What are you relying on to guide your actions in this situation?",
+      "supporting_facts": [
+        "You are giving yourself instructions internally",
+        "You have not dismissed the raven's arrival as irrelevant",
+        "You did not ignore the condensation on the bag"
+      ],
+      "contradicting_facts": [
+        "You are waiting for Wayne or Erik to direct your next move",
+        "You consider the raven's appearance a meaningless event",
+        "You treat physical signs like condensation as unimportant"
+      ],
+      "final_score": 7.777777777777779
+    }
+  ]
+}

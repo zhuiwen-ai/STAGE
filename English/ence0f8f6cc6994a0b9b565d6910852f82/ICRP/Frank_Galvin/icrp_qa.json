@@ -1,0 +1,89 @@
+{
+  "character": "Frank_Galvin",
+  "qas": [
+    {
+      "question": "Did you take the case knowing you would only get paid if you won?",
+      "supporting_facts": [
+        "You agreed to represent the clients on a contingency basis.",
+        "A contingency basis means payment is dependent on winning the case."
+      ],
+      "contradicting_facts": [
+        "You insisted on an upfront retainer before taking the case.",
+        "You expected to be paid regardless of the trial outcome."
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Did you agree to take on the case for your clients without charging them upfront fees?",
+      "supporting_facts": [
+        "You agreed to represent the clients on a contingency basis, meaning payment depends on winning the case",
+        "Taking the case on contingency implies no initial payment was required from the clients"
+      ],
+      "contradicting_facts": [
+        "You required the clients to pay legal fees at the start of the representation",
+        "You declined to work on a contingency basis and insisted on hourly billing"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Did you express confidence that the case would go to trial?",
+      "supporting_facts": [
+        "you did not express confidence that the case would go to trial",
+        "your stance on the trial outcome was non-committal"
+      ],
+      "contradicting_facts": [
+        "you stated clearly that the case would definitely go to trial",
+        "you expressed strong belief in a trial happening"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How would you describe the state of the office you observed upon arrival?",
+      "supporting_facts": [
+        "You perceived the office as dead and resigned",
+        "Your observation of the office reflected a lack of vitality or hope"
+      ],
+      "contradicting_facts": [
+        "You found the office to be lively and well-maintained",
+        "You thought the office appeared temporarily unoccupied but functional"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were in a corridor with Sally Doneghy and a phone rang—what did you do right after?",
+      "supporting_facts": [
+        "You answered the ringing phone promptly.",
+        "You were present in the corridor with Sally Doneghy when the phone rang."
+      ],
+      "contradicting_facts": [
+        "You ignored the ringing phone.",
+        "You left the corridor before the phone was answered."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you initiate the conversation during your meeting with Laura?",
+      "supporting_facts": [
+        "Frank_Galvin did not initiate dialogue during the described actions",
+        "The meeting with Laura occurred during the described actions"
+      ],
+      "contradicting_facts": [
+        "You were the first to speak during the meeting with Laura",
+        "You started the conversation while sober"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You knocked on the office door—what happened after that?",
+      "supporting_facts": [
+        "Frank_Galvin knocked on the door of the office twice without receiving a response",
+        "Frank_Galvin turned to the open door to the Courtroom after not getting a response"
+      ],
+      "contradicting_facts": [
+        "You were invited into the office immediately after knocking",
+        "You left the area without approaching any other location after the door was not answered"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

@@ -1,0 +1,624 @@
+[
+  {
+    "id": "rel_ep_ep_a4e4d31cb594",
+    "subject_id": "ep_44820ba65c8e7e31",
+    "object_id": "ep_eed8f0f9a849d39d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Receive silent refusal and retreat into laughter' occurs during scene_30, while 'Joe wakes and reacts to departure' occurs in scene_35, indicating a clear narrative sequence where the first episode precedes the second based on scene ordering in the document.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_10f5beae0ca0",
+    "subject_id": "ep_87b5429b3faefb5f",
+    "object_id": "ep_c2d7e0c26dfd2c88",
+    "relation_type": "elaborates",
+    "reason": "The second episode expands on the group bonding initiated in the first by detailing how crude humor and personal recollection deepen Joe's emotional connection, building upon the initial camaraderie established through shared military culture. Both episodes occur in the same scene and share overlapping events, with the second providing richer affective context to the bonding process.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5adc119806a4",
+    "subject_id": "ep_c2d7e0c26dfd2c88",
+    "object_id": "ep_ed742cf3fe2e27c1",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode establishes group bonding through shared humor and nostalgia, fostering inclusion, while the second episode disrupts this cohesion by exposing Joe's non-combat role, leading to his emotional withdrawal. The juxtaposition highlights a reversal in tone and social dynamics—from inclusion to exclusion—emphasizing a contrast in affective outcomes and narrative function within the same scene.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c995cf9a6bd0",
+    "subject_id": "ep_87b5429b3faefb5f",
+    "object_id": "ep_ed742cf3fe2e27c1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Establish camaraderie through shared military culture' occurs before 'Test and disrupt Joe's belonging through service inquiry' in the narrative sequence, as the group first builds inclusion through shared traditions, then the Marine's question disrupts it by exposing Joe's non-combat role, with both episodes occurring in scene_39 and the causal flow implying temporal order.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a4fe373e8cb5",
+    "subject_id": "ep_01055c4d2f1f863a",
+    "object_id": "ep_cc2e6883f804d846",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Joe initiating contact by offering a light, which is followed by the second episode where the Old Cowhand reacts to the smoke and Joe continues the interaction with banter and a question about Woodsy Niles. The sequence of events in the shared scene (scene_30) supports a clear temporal order: initiation of contact precedes the subsequent conversation.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1738fe3166a0",
+    "subject_id": "ep_083b464837f8e9f1",
+    "object_id": "ep_8466aaaba90e905b",
+    "relation_type": "precedes",
+    "reason": "The first episode involves the manager checking his watch and expressing concern about Joe Buck's absence, which sets up the context for the subsequent episode where the manager asserts authority and dismisses Joe. The progression from searching for Joe to interacting with him indicates a temporal sequence supported by the narrative flow in the related events.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f30e0edc1876",
+    "subject_id": "ep_cc2e6883f804d846",
+    "object_id": "ep_44820ba65c8e7e31",
+    "relation_type": "precedes",
+    "reason": "The episode 'Exchange banter and ask about Woodsy Niles' includes Joe asking the Old Cowhand about Woodsy Niles, which directly precedes the Old Cowhand's silent refusal and Joe's subsequent laughter described in 'Receive silent refusal and retreat into laughter'. Both episodes occur in scene_30 and are part of a continuous interaction, with the sequence of events clearly ordered in the narrative.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_47c628e2313f",
+    "subject_id": "ep_01055c4d2f1f863a",
+    "object_id": "ep_5b5e10725a1f0ac7",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Joe offering a light to the old cowhand, which is a distinct social initiation. The second episode involves Joe offering a cigarette and the cowhand refusing, referencing the already lit cigarette from the prior interaction. The textual reference to the previously lit cigarette in the second episode indicates that the first episode occurs before the second, establishing a clear narrative sequence.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_acf1c71eb2f7",
+    "subject_id": "ep_137055744bf683c5",
+    "object_id": "ep_e7cf7edd6d6910bf",
+    "relation_type": "precedes",
+    "reason": "The preparation of a new identity by packing cowboy clothes and calling out 'Joe Buck' logically precedes the symbolic exit through the dining room, as the former establishes the intent and means for transformation, while the latter enacts it in a social context. The narrative progression from private preparation to public performance supports a directed 'precedes' relation.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_39c55ba114ff",
+    "subject_id": "ep_3cd0b40413fcbceb",
+    "object_id": "ep_3f6552bdd206244d",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Woodsy initiating intimacy by lifting Sally and carrying her to the bed, which directly sets up the scene where Sally protests the intimacy in the presence of Little Joe. The events in the second episode (falling onto the bed, Sally's protest, and Woodsy's response) unfold immediately after the initiation of intimacy, indicating a clear temporal sequence supported by shared scene context (scene_31).",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8ae900b8f565",
+    "subject_id": "ep_cc2e6883f804d846",
+    "object_id": "ep_eed8f0f9a849d39d",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs during scene_30, where Joe interacts with the Old Cowhand while on the bus, while the object episode occurs in scene_35, where Joe wakes up as the Old Cowhand prepares to disembark. The progression from scene_30 to scene_35 indicates a clear narrative sequence where the exchange of banter precedes Joe's awakening and reaction to departure.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_913c33388c8c",
+    "subject_id": "ep_529d98d45555cf96",
+    "object_id": "ep_d9ea4878c9d88d53",
+    "relation_type": "precedes",
+    "reason": "The episode 'Joe asserts presence at the front of the bus' occurs first, where Joe attempts to engage the driver, and is followed by 'Joe reacts to social rejection with self-focused distraction', which begins after his joke is ignored and he becomes withdrawn. The sequence of events in scene_25 supports a clear temporal order: initial social attempt precedes reaction to rejection.",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ad3a0ada5f7d",
+    "subject_id": "ep_01055c4d2f1f863a",
+    "object_id": "ep_44820ba65c8e7e31",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Observe and initiate contact with the Old Cowhand' involves Joe offering a light, which initiates the interaction. The object episode 'Receive silent refusal and retreat into laughter' describes the Old Cowhand's refusal and Joe's subsequent laughter, which occurs after the offer. The sequence of events in the shared scene (scene_30) supports a clear temporal order where initiation precedes the response and conclusion of the interaction.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4c03196c9e82",
+    "subject_id": "ep_8466aaaba90e905b",
+    "object_id": "ep_5f58648cd203646f",
+    "relation_type": "precedes",
+    "reason": "The Manager dismisses Joe before Joe announces his departure and rejection of final pay, as indicated by the sequence of related events in scene_19: Joe's request to speak is dismissed (in ep_8466aaaba90e905b), and only after the Manager leaves does Joe inform Ralph of his plans (in ep_5f58648cd203646f). This establishes a clear temporal order.",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_924231d7d140",
+    "subject_id": "ep_8240ce7d9dc6a856",
+    "object_id": "ep_d9ea4878c9d88d53",
+    "relation_type": "causes",
+    "reason": "The first episode describes Joe's attempt to connect socially by offering gum and making a joke, which falls flat when the woman closes her eyes. The second episode begins with Joe becoming 'mildly depressed' as a direct result of this rejection, leading to self-focused distraction and introspection. The causal link is explicitly supported in the description of the second episode, which states the emotional shift occurs 'after his joke falls flat,' grounding the cause-effect relationship.",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_950b5738bbbe",
+    "subject_id": "ep_5b5e10725a1f0ac7",
+    "object_id": "ep_eed8f0f9a849d39d",
+    "relation_type": "precedes",
+    "reason": "The cigarette exchange (ep_5b5e10725a1f0ac7) occurs while both characters are still on the bus before departure, and Joe's awakening and reaction to the Old Cowhand's departure (ep_eed8f0f9a849d39d) begins with Joe regaining awareness as the Old Cowhand prepares to disembark, indicating a clear temporal sequence where the offer and refusal precede the farewell and departure.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ea31282af2e6",
+    "subject_id": "ep_137055744bf683c5",
+    "object_id": "ep_eed8f0f9a849d39d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Prepare for a new identity' involves Joe packing cowboy clothes and calling out 'Joe Buck', which symbolizes preparation for a transformation, while 'Joe wakes and reacts to departure' occurs on a bus with the Old Cowhand disembarking, indicating a later point in the journey. The preparation and symbolic identity shift plausibly occur before the awakening and departure scene, supporting a narrative sequence where preparation precedes the reaction to departure.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_161aefb51d13",
+    "subject_id": "ep_01055c4d2f1f863a",
+    "object_id": "ep_eed8f0f9a849d39d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Observe and initiate contact with the Old Cowhand' occurs when Joe first interacts with the Old Cowhand on the bus, including offering a light. The object episode 'Joe wakes and reacts to departure' describes Joe awakening as the Old Cowhand prepares to disembark, followed by a farewell. The sequence of events—initial contact followed later by departure—establishes a clear temporal order supported by the narrative progression across scenes 30 and 35. Thus, the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_25d1860c53d0",
+    "subject_id": "ep_529d98d45555cf96",
+    "object_id": "ep_8240ce7d9dc6a856",
+    "relation_type": "precedes",
+    "reason": "The subject episode, where Joe asserts presence at the front of the bus, occurs before the object episode, where Joe engages with passengers at the back, as supported by the sequence of related events: Joe first comments on the engine at the front, then moves to the back to interact with others. This temporal order is explicitly indicated in the description of ep_8240ce7d9dc6a856 stating 'After moving to the back of the bus,' implying the prior occurrence of the front-of-bus interaction.",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fc7a8e21068c",
+    "subject_id": "ep_bfce5c4d3f9ea36c",
+    "object_id": "ep_87b5429b3faefb5f",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Initiate group singing as bonding moment' describes Joe initiating a specific instance of group singing that contributes to the broader goal of establishing camaraderie through shared military culture. The singing event in ep_bfce5c4d3f9ea36c provides a focused, actionable instance that expands on the general atmosphere and activities described in ep_87b5429b3faefb5f, thereby elaborating its narrative.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_68c0692d6d1a",
+    "subject_id": "ep_137055744bf683c5",
+    "object_id": "ep_244ce2318b455bc9",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Prepare for a new identity' involves Joe packing cowboy clothes into a new suitcase, which is a preparatory action. The object episode 'Joe prepares and departs with defiant confidence' includes securing the suitcase and final self-presentational acts before leaving. The sequence of packing (ep_137055744bf683c5) followed by securing the suitcase and departure preparation (ep_244ce2318b455bc9) indicates a clear temporal order supported by the narrative progression in the related events.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_78883751e1df",
+    "subject_id": "ep_3f6552bdd206244d",
+    "object_id": "ep_14cd8d166ccd3e87",
+    "relation_type": "precedes",
+    "reason": "The episode 'Sally protests as intimacy unfolds before Little Joe' includes Woodsy and Sally falling onto the bed and Sally expressing concern while Woodsy asserts Little Joe should learn about adult matters (scene_31). The episode 'Woodsy performs a drunken serenade' involves Woodsy singing drunkenly on the bed with Little Joe present under the covers (scene_33). The progression from scene_31 to scene_33 in the document sequence and the escalating intimacy suggest a temporal order where the protest and initial intimacy occur before the serenade, supporting a 'precedes' relation from the protest episode to the serenade episode.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4f92da443a60",
+    "subject_id": "ep_8ac15dab94043d79",
+    "object_id": "ep_b32064e9224f63fa",
+    "relation_type": "precedes",
+    "reason": "Ralph calls out for Joe Buck during the scene with the dirty dishes, and Joe then interrupts his morning routine to answer the call, indicating that the confrontation with the dishes and the call occur just before Joe's routine is briefly paused. The narrative sequence shows Ralph's episode preceding Joe's episode.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_62c071c06ed9",
+    "subject_id": "ep_b32064e9224f63fa",
+    "object_id": "ep_e7cf7edd6d6910bf",
+    "relation_type": "precedes",
+    "reason": "The morning routine episode (dressing and singing in scene_11) occurs before Joe's symbolic exit through the dining room (scene_20), as indicated by the sequential scene numbers and the narrative progression from preparation to departure.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4008ba5c696b",
+    "subject_id": "ep_9d777857d5839b96",
+    "object_id": "ep_e7cf7edd6d6910bf",
+    "relation_type": "precedes",
+    "reason": "The episode 'Joe prepares his appearance while singing' occurs in scene_13, where Joe is still in a dressing routine, while 'Joe makes a symbolic exit from his past life' occurs in scene_20, where he emerges and walks through the dining room. The clear scene progression from 13 to 20 supports that the subject episode precedes the object episode in narrative order.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_35405183ad5c",
+    "subject_id": "ep_14358e8a5b2c1f88",
+    "object_id": "ep_244ce2318b455bc9",
+    "relation_type": "precedes",
+    "reason": "The first episode depicts Joe Buck performing domestic labor in scene_5, while the second episode occurs in scene_17, where he prepares to leave. The clear scene progression from 5 to 17 supports that the domestic labor episode precedes the departure episode in narrative order.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_79ac5ec4f89e",
+    "subject_id": "ep_244ce2318b455bc9",
+    "object_id": "ep_8466aaaba90e905b",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Joe prepares to leave with defiant confidence, occurs in scene_17, while the object episode, where the Manager dismisses Joe, occurs in scene_19. The sequential scene numbering indicates a clear narrative order, with the departure preparation preceding the confrontation with the Manager.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1b01b0983be0",
+    "subject_id": "ep_244ce2318b455bc9",
+    "object_id": "ep_8240ce7d9dc6a856",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Joe prepares and departs with defiant confidence, occurs in scene_17, while the object episode, in which Joe engages with fellow passengers on the bus, occurs in scene_25. The narrative order of scenes indicates that the departure episode precedes the bus interaction episode.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bcc05afff9bb",
+    "subject_id": "ep_d9ea4878c9d88d53",
+    "object_id": "ep_eed8f0f9a849d39d",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Joe reacts to social rejection by lying down, grooming, and smoking, occurs in scene_25, while the object episode, in which Joe wakes and reacts to the Old Cowhand's departure, occurs in scene_35. The progression from scene_25 to scene_35 indicates a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_613c4137dce9",
+    "subject_id": "ep_33cbe4475c5536be",
+    "object_id": "ep_87b5429b3faefb5f",
+    "relation_type": "elaborates",
+    "reason": "The subject episode 'Join the Sing-Along at the Gathering' depicts a specific moment of communal singing and bottle-passing that exemplifies the broader goal of establishing camaraderie through shared military culture described in the object episode. The object episode includes similar events (singing military anthem, passing bottle) in a prior scene (scene_39), suggesting it sets up a recurring pattern that the subject episode further illustrates in a later context (scene_41), thereby elaborating on the earlier episode's theme.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2202b2a35175",
+    "subject_id": "ep_244ce2318b455bc9",
+    "object_id": "ep_e7cf7edd6d6910bf",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Joe preparing to leave, including locking his suitcase and adjusting his appearance, which occurs in scene_17. The object episode describes Joe emerging from the employees-only area and walking through the dining room, which occurs in scene_20. The progression from scene_17 to scene_20 establishes a clear narrative sequence where the preparation and departure precede the symbolic exit through the dining room.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f9de8143c72e",
+    "subject_id": "ep_4060c0cf32c3871f",
+    "object_id": "ep_e7cf7edd6d6910bf",
+    "relation_type": "precedes",
+    "reason": "The first episode depicts Joe completing his morning routine in scene_9, while the second episode occurs in scene_20, where Joe exits the employees-only area. The clear scene progression from 9 to 20 in the narrative order supports that the morning routine precedes the symbolic exit.",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_114b5d8953b5",
+    "subject_id": "ep_0de166dc8dc82dd5",
+    "object_id": "ep_eed8f0f9a849d39d",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Joe departing the cafeteria and beginning his journey to the bus depot, which logically precedes the object episode where Joe is already on the bus, waking up as it departs the stop. The sequence of events implies a temporal order: Joe must reach and board the bus after walking to the depot, and only then can he awaken during departure. This local narrative order supports a 'precedes' relation from the departure journey to the awakening on the bus.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a299f4b8315c",
+    "subject_id": "ep_244ce2318b455bc9",
+    "object_id": "ep_5f58648cd203646f",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Joe prepares to leave and departs with defiant confidence, occurs in scene_17, while the object episode, where Joe announces his departure to Ralph and refuses final pay, occurs in scene_19. The progression from scene_17 to scene_19 supports a narrative order where preparation and departure precede the explicit announcement and rejection of pay, indicating a local narrative sequence.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cf55e351b12d",
+    "subject_id": "ep_244ce2318b455bc9",
+    "object_id": "ep_d9ea4878c9d88d53",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode portrays Joe preparing to leave with defiant confidence and control over his appearance, while the second depicts him reacting to social rejection with introspection, isolation, and self-focused distraction. The contrast in emotional tone—defiant self-assurance versus vulnerable self-absorption—is supported by the descriptions and related events of both episodes, suggesting a narrative juxtaposition of outward confidence versus inner desolation.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_9f7067d86391",
+    "subject_id": "ep_244ce2318b455bc9",
+    "object_id": "ep_529d98d45555cf96",
+    "relation_type": "precedes",
+    "reason": "The first episode depicts Joe preparing to leave his home, a private and self-contained act of defiance and grooming, while the second episode shows him already on the bus attempting to engage the driver. The sequence of events—departure from home followed by presence on the bus—implies a temporal order where the preparation and departure logically precede the bus scene. The descriptions and related events support this local narrative chronology without explicit causal or contrasting intent.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_699bb4c78cf0",
+    "subject_id": "ep_8466aaaba90e905b",
+    "object_id": "ep_e7cf7edd6d6910bf",
+    "relation_type": "precedes",
+    "reason": "The Manager dismisses Joe in scene_19, and Joe's symbolic exit occurs in scene_20, indicating a clear sequential order where the dismissal precedes Joe's departure through the dining room.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2192c2b0e491",
+    "subject_id": "ep_0de166dc8dc82dd5",
+    "object_id": "ep_e7cf7edd6d6910bf",
+    "relation_type": "precedes",
+    "reason": "The episode 'Joe departs the cafeteria and begins journey to the bus depot' occurs after Joe has already left the dining area, while 'Joe makes a symbolic exit from his past life' involves his emergence from the employees-only area and walk through the dining room, suggesting a prior narrative moment. The related_events and scene numbers (scene_20 for symbolic exit, scene_21 for departure to bus depot) indicate a clear local narrative order where the symbolic exit precedes the physical journey.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_852f17e1f439",
+    "subject_id": "ep_5f58648cd203646f",
+    "object_id": "ep_e7cf7edd6d6910bf",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Joe announces his departure and rejects his final pay after the Manager leaves, occurs in scene_19, while the object episode, where Joe walks through the dining room in a symbolic exit, occurs in scene_20. The sequential scene numbering and narrative flow indicate that the announcement and decision precede the physical and symbolic act of leaving, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ef94d5bf7f3e",
+    "subject_id": "ep_0de166dc8dc82dd5",
+    "object_id": "ep_63fff2439dc320ef",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Joe departing the cafeteria and beginning his journey to the bus depot, while the object episode describes him continuing that walk through town with the radio broadcasting grain prices. The progression from starting the journey to being in the midst of it indicates a clear narrative sequence where the departure precedes the ongoing walk, supported by the shared context of Joe's movement through the town toward the bus depot.",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6ce77e88259e",
+    "subject_id": "ep_e6f6fff79f3bd412",
+    "object_id": "ep_f2ebb7cc74e936ef",
+    "relation_type": "precedes",
+    "reason": "The traveling salesman's lecture on salesmanship (establishing credibility and sharing philosophy) occurs before Joe's hesitant response, as the response is directly prompted by the salesman's assertions. The related events in both episodes are drawn from the same scene (scene_27), and the narrative flow indicates the salesman speaks first, followed by Joe's minimal reply, supporting a clear temporal order.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5467ee7a023c",
+    "subject_id": "ep_0de166dc8dc82dd5",
+    "object_id": "ep_529d98d45555cf96",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Joe departing the cafeteria and beginning his journey to the bus depot, which logically and chronologically precedes the object episode where Joe is already on the bus and asserting his presence at the front. The narrative progression from traveling to arriving supports a 'precedes' relation with strong but slightly indirect temporal evidence, as the exact transition is not described but implied by the sequence of events.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cf893fe67617",
+    "subject_id": "ep_4060c0cf32c3871f",
+    "object_id": "ep_d9ea4878c9d88d53",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts Joe in a confident, playful, and self-presentational morning routine, culminating in a stylized moment with a new hat, while the second episode shows him reacting to social rejection with introspection, isolation, and self-soothing behaviors. The contrast in tone—playful self-expression versus melancholic self-absorption—is supported by the descriptions of both episodes, suggesting a narrative juxtaposition of emotional states.",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_965b22103257",
+    "subject_id": "ep_5f58648cd203646f",
+    "object_id": "ep_0de166dc8dc82dd5",
+    "relation_type": "precedes",
+    "reason": "The episode 'Joe announces departure and rejects final pay' occurs in doc_18 and includes Joe informing Ralph of his departure and refusing final pay, which logically precedes the episode 'Joe departs the cafeteria and begins journey to the bus depot' in doc_20, where he is already en route. The narrative progression from decision and announcement to physical departure supports a 'precedes' relation with strong but slightly indirect temporal evidence.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_558502c59a92",
+    "subject_id": "ep_0de166dc8dc82dd5",
+    "object_id": "ep_8240ce7d9dc6a856",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Joe departs the cafeteria and begins walking to the bus depot, occurs before the object episode, where Joe engages with fellow passengers on the bus. The sequence is supported by the narrative progression: Joe must reach and board the bus before interacting with passengers, and the related events in the object episode (e.g., moving to a seat at the back of the bus) presuppose arrival at the depot and boarding, which follows from the journey initiated in the subject episode.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_35f9df778943",
+    "subject_id": "ep_01055c4d2f1f863a",
+    "object_id": "ep_529d98d45555cf96",
+    "relation_type": "precedes",
+    "reason": "The episode 'Joe asserts presence at the front of the bus' occurs at the beginning of the scene (scene_25), while 'Observe and initiate contact with the Old Cowhand' takes place in scene_30. The narrative order of scenes indicates that the assertion of presence precedes the initiation of contact with the Old Cowhand.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e7fe192a30f3",
+    "subject_id": "ep_8240ce7d9dc6a856",
+    "object_id": "ep_e6f6fff79f3bd412",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs in doc_24 and involves Joe interacting with a pale blonde woman at the back of the bus, while the object episode occurs in doc_26 and involves the salesman taking a seat next to Joe and beginning his lecture. The related_events in the subject episode (scene_25) precede the events in the object episode (scene_27), indicating a clear narrative sequence where Joe's interaction with the woman happens before the salesman initiates conversation.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a3f618ebd45e",
+    "subject_id": "ep_0de166dc8dc82dd5",
+    "object_id": "ep_d9ea4878c9d88d53",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Joe leaving the cafeteria and beginning his journey to the bus depot, which sets the physical and emotional context for his travel. The object episode occurs later, aboard the bus, where Joe reacts to social rejection by turning on the radio, grooming, and lighting a cigarette. The sequence of events (leaving the cafeteria, then reacting emotionally during the bus ride) implies a temporal progression supported by the narrative flow and scene numbering (scene_21 before scene_25), making 'precedes' the best-supported relation.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cc9468f0a445",
+    "subject_id": "ep_8302f9118a02b9d7",
+    "object_id": "ep_e6f6fff79f3bd412",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode depicts the salesman's underlying financial anxiety and insecurity, revealed through his private calculations and nervous behavior, which contrasts with the object episode where he projects confidence and success by boasting about luxuries and sharing his sales philosophy. The dissonance between appearance and reality is explicitly noted in the subject description, supporting a deliberate juxtaposition between the two episodes.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_309b69b0aa76",
+    "subject_id": "ep_3cd0b40413fcbceb",
+    "object_id": "ep_14cd8d166ccd3e87",
+    "relation_type": "precedes",
+    "reason": "The episode 'Woodsy seeks approval and initiates intimacy' includes Woodsy lifting Sally Buck and carrying her to the bed (scene_31), which sets the stage for the subsequent scene where Woodsy performs a drunken serenade while sitting on the bed (scene_33). The narrative sequence across scenes 31 to 33 supports a local order where the initiation of intimacy precedes the serenade.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5f684741a653",
+    "subject_id": "ep_44820ba65c8e7e31",
+    "object_id": "ep_d9ea4878c9d88d53",
+    "relation_type": "contrasts_with",
+    "reason": "Both episodes depict Joe's response to social rejection, but in different contexts and with differing internal reactions: one involves silent refusal from the Old Cowhand followed by laughter, the other involves a failed joke and descent into introspection. The episodes are not causally or temporally linked per the descriptions, but they are thematically juxtaposed—using similar emotional triggers (rejection) to highlight contrasting behavioral responses (external laughter vs. internal withdrawal)—supporting a contrastive relationship.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6759f2da3185",
+    "subject_id": "ep_529d98d45555cf96",
+    "object_id": "ep_e6f6fff79f3bd412",
+    "relation_type": "precedes",
+    "reason": "The subject episode, 'Joe asserts presence at the front of the bus,' occurs in scene_25 and involves Joe's initial attempt to engage the driver, which is ignored. The object episode, 'Salesman establishes credibility and shares sales philosophy,' begins in scene_27 when the salesman takes a seat next to Joe and starts lecturing. The progression from scene_25 to scene_27 indicates a clear narrative sequence where Joe's early attempt at connection precedes the later interaction with the salesman. This ordering is supported by the scene references in the related_events fields of both episodes.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f5ca101a4f2b",
+    "subject_id": "ep_5b5e10725a1f0ac7",
+    "object_id": "ep_cc2e6883f804d846",
+    "relation_type": "precedes",
+    "reason": "The cigarette offer and refusal (ep_5b5e10725a1f0ac7) occurs in scene_32, while the banter and question about Woodsy Niles (ep_cc2e6883f804d846) occurs in scene_30. Since scene_30 precedes scene_32 in narrative order, the object episode occurs earlier than the subject episode. Therefore, the subject episode does not precede the object; rather, the object precedes the subject. However, given the relation schema directionality and the requirement to assign 'precedes' only when A occurs before B, and here A (ep_5b5e10725a1f0ac7) occurs after B (ep_cc2e6883f804d846), the correct directional assignment under the schema is not supported. Thus, no valid 'precedes' relation can be asserted from subject to object. After reevaluation: the related_events in ep_cc2e6883f804d846 include coughing and wiping eyes from smoke, which plausibly follows lighting and smoking a cigarette, an action implied in the cigarette exchange of ep_5b5e10725a1f0ac7. This suggests that the cigarette offer and acceptance (implied completion) in ep_5b5e10725a1f0ac7 must precede the coughing and subsequent banter in ep_cc2e6883f804d846. Despite the scene numbering discrepancy (scene_32 vs scene_30), the event semantics suggest a more plausible chronological order where the cigarette exchange comes first. Given that the description of ep_5b5e10725a1f0ac7 references scene_32 and ep_cc2e6883f804d846 references scene_30, but the causal plausibility of smoking leading to coughing, the scene numbers may be misaligned. However, per strict evidence grounding, narrative order should follow scene numbers unless contradicted by explicit temporal cues. Since scene_30 precedes scene_32, and ep_cc2e6883f804d846 occurs in scene_30 while ep_5b5e10725a1f0ac7 occurs in scene_32, the object episode precedes the subject episode. Therefore, the relation 'precedes' is directionally invalid as subject -> object. No other relation is supported. Hence, the only defensible output is 'NONE'. But wait: the description of ep_5b5e10725a1f0ac7 says 'Joe offers a cigarette to the old Cowhand' and 'the old Cowhand... showing the cigarette Joe had already lit for him'. This implies the cigarette was already lit and in use — suggesting prior initiation. Then in ep_cc2e6883f804d846, the old Cowhand coughs from inhaling smoke — a likely consequence of that smoking. Thus, the smoking (and hence the exchange) must be ongoing or completed before the coughing. Therefore, despite scene numbering, the event sequence implies ep_5b5e10725a1f0ac7 precedes ep_cc2e6883f804d846. Scene numbers may be erroneous or non-chronological. Given that the related_events in ep_cc2e6883f804d846 include coughing from smoke, which depends on prior smoking, and the smoking is confirmed in ep_5b5e10725a1f0ac7, the latter must precede. Thus, subject (ep_5b5e10725a1f0ac7) precedes object (ep_cc2e6883f804d846). Confidence is high but not perfect due to conflicting scene numbers. Therefore, 'precedes' is justified with confidence 0.85.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  }
+]

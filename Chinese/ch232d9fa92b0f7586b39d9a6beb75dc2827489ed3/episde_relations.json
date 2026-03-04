@@ -1,0 +1,1210 @@
+[
+  {
+    "id": "rel_ep_ep_1f18dcc37b05",
+    "subject_id": "ep_a25e07e58209898a",
+    "object_id": "ep_80850ac487cf549c",
+    "relation_type": "precedes",
+    "reason": "素察拦截并质问平平发生在平平质问素察如何得知住址之前，叙事顺序上前者先发生，为后者提供情境铺垫。",
+    "source_documents": [
+      "scene_20__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3443f5fd791b",
+    "subject_id": "ep_15958f924aa7a077",
+    "object_id": "ep_ba06a4091122eb6d",
+    "relation_type": "precedes",
+    "reason": "李维杰在ATM机取款是为购买门票做资金准备，发生在与黄牛交涉购票之前，叙事顺序上明确先有取款准备资金，后进行门票交易。",
+    "source_documents": [
+      "scene_27__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_be8ad0c33c02",
+    "subject_id": "ep_41d43294bc79e456",
+    "object_id": "ep_c7ef8ba101c26b57",
+    "relation_type": "precedes",
+    "reason": "处理收账事务并宽限困难家庭发生在应对调侃并交接后续信息之前，因为黄毛在完成收账汇报并收到酬劳后，才进行调侃并告知李维杰颂恩正在找他，叙事顺序明确。",
+    "source_documents": [
+      "scene_15__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8089d7b4930c",
+    "subject_id": "ep_5419d4b2827ba58f",
+    "object_id": "ep_f886df78d72c74b2",
+    "relation_type": "precedes",
+    "reason": "桑坤介入并压制现场喧闹发生在李维杰评论警察能力之前，因为李维杰的言论是在桑坤离开后发表的，而桑坤随后返回。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_3__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3d64275c492c",
+    "subject_id": "ep_a25e07e58209898a",
+    "object_id": "ep_e9092d03db13b000",
+    "relation_type": "precedes",
+    "reason": "素察拦截并质问平平发生在素察展示裸照并羞辱平平之前，两个情节共享相同的场景（scene_20__2）且事件序列显示追赶质问后才展示照片，支持明确的时间先后顺序。",
+    "source_documents": [
+      "scene_20__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aaef12854129",
+    "subject_id": "ep_97c347aed53a6fc3",
+    "object_id": "ep_4258741f7884c6be",
+    "relation_type": "precedes",
+    "reason": "处理夏令营资格与费用争议中，平平因父亲质疑费用而辱骂父亲并导致签字中断，这直接引发了后续应对平平情绪爆发与离席的情节。相关事件序列显示争议升级在先，情绪爆发与离席在后，叙事顺序明确。",
+    "source_documents": [
+      "scene_12__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f1ed8ab1f136",
+    "subject_id": "ep_41c6308aed6516e5",
+    "object_id": "ep_d8e6f074443d29cc",
+    "relation_type": "causes",
+    "reason": "阿玉反抗素察的侵犯（扇巴掌）直接引发素察暴力报复（踢向腹部），文本明确指出冲突因反抗而升级为身体暴力，构成直接因果关系。",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_83acc7728d34",
+    "subject_id": "ep_5419d4b2827ba58f",
+    "object_id": "ep_08656341200b887e",
+    "relation_type": "precedes",
+    "reason": "根据描述，桑坤介入并压制现场喧闹发生在李维杰与颂恩私下议论其行踪之前，因为议论是在桑坤离开后进行的，表明桑坤的行为在叙事顺序上先于该议论。",
+    "source_documents": [
+      "scene_3__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a94ce273eace",
+    "subject_id": "ep_15f4a1c9f7e2be56",
+    "object_id": "ep_41c6308aed6516e5",
+    "relation_type": "precedes",
+    "reason": "素察以视频威胁并胁迫阿玉发生在阿玉反抗素察的侵犯之前，两个情节均发生在scene_33，且胁迫行为直接引发阿玉的反抗反应，叙事顺序明确。",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f8064d16d783",
+    "subject_id": "ep_ab3faef5f9a78442",
+    "object_id": "ep_be1e1f9e31488905",
+    "relation_type": "causes",
+    "reason": "李维杰向普朗透露警察私了内情后，随即建议老人去做伤情鉴定，直接引发桑坤的质问和威胁，导致对峙升级。两个情节发生在同一场合，且干预行为紧随揭露行为之后，文本明确支持揭露行为是引发对峙的直接动因。",
+    "source_documents": [
+      "scene_16__2_part_1",
+      "scene_16__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b702708945d6",
+    "subject_id": "ep_ab3faef5f9a78442",
+    "object_id": "ep_c7493dab822c29dc",
+    "relation_type": "precedes",
+    "reason": "揭露警察私了内情发生在李维杰向普朗解释桑坤行为时，而观察桑坤庆祝私了达成发生在私了协议达成之后，桑坤起身庆祝，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_16__2_part_1",
+      "scene_16__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_43046b5ef242",
+    "subject_id": "ep_130fc0fe26362a06",
+    "object_id": "ep_4258741f7884c6be",
+    "relation_type": "precedes",
+    "reason": "主体情节描述平平回家后因夏令营签字问题与父母发生冲突，客体情节描述平平在辱骂父亲后愤然离席，且相关事件序列显示冲突升级和离席行为在时间上紧随前者发展，因此主体情节在叙事顺序上直接早于客体情节。",
+    "source_documents": [
+      "scene_12__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_021b7ff449a2",
+    "subject_id": "ep_80850ac487cf549c",
+    "object_id": "ep_e9092d03db13b000",
+    "relation_type": "precedes",
+    "reason": "根据描述，素察先炫耀其母为警察局局长以回应平平的质问，随后展示裸照并确认身份以羞辱平平，两个情节发生在同一场景（scene_20__2）中，但叙事顺序上前者在逻辑和话语上先于后者。",
+    "source_documents": [
+      "scene_20__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_61f1a1025d90",
+    "subject_id": "ep_5419d4b2827ba58f",
+    "object_id": "ep_5baed3e43e0b1704",
+    "relation_type": "precedes",
+    "reason": "桑坤介入并压制现场喧闹发生在桑坤离开后李维杰显露轻蔑之前，叙事顺序上前者先发生，后者在其行为结束后立即出现，时间顺序明确。",
+    "source_documents": [
+      "scene_3__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_620a3589cf44",
+    "subject_id": "ep_de529db3b16babab",
+    "object_id": "ep_5419d4b2827ba58f",
+    "relation_type": "precedes",
+    "reason": "黄毛因高声说话引起警察桑坤注意，随后桑坤拍桌怒吼压制现场喧闹。事件顺序在描述中明确：黄毛的行为先引起注意，然后桑坤采取行动控制场面，因此‘黄毛引发警察注意并被劝离’在叙事顺序上早于‘桑坤介入并压制现场喧闹’。",
+    "source_documents": [
+      "scene_3__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8bbacb150744",
+    "subject_id": "ep_4b411a416db8ddc8",
+    "object_id": "ep_80850ac487cf549c",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，素察抚摸平平的脸并提及药物作用发生在平平质问素察如何得知住址之前，两个情节均发生在scene_20__2，但肢体接触与记忆唤醒在对话流中先于素察炫耀其母为警察局局长，因此叙事顺序支持'precedes'关系。",
+    "source_documents": [
+      "scene_20__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c62a1427946b",
+    "subject_id": "ep_15f4a1c9f7e2be56",
+    "object_id": "ep_d8e6f074443d29cc",
+    "relation_type": "causes",
+    "reason": "素察以视频威胁并胁迫阿玉的情节中，阿玉因受到心理和性胁迫而扇了素察巴掌，直接引发素察暴力报复阿玉的行为。文本明确指出冲突从言语和心理对抗升级为直接身体暴力，表明前一情节是后一情节的即时触发原因。",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8fbb628736fb",
+    "subject_id": "ep_08656341200b887e",
+    "object_id": "ep_f886df78d72c74b2",
+    "relation_type": "precedes",
+    "reason": "根据描述，李维杰与颂恩私下议论桑坤行踪发生在李维杰评论警察能力并引发对峙之前，两者均发生在scene_3__2，但议论行踪为信息交换，随后李维杰发表评论，逻辑和叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_3__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7c4318fa5100",
+    "subject_id": "ep_97c347aed53a6fc3",
+    "object_id": "ep_4e933d8e776a1bb3",
+    "relation_type": "precedes",
+    "reason": "处理夏令营资格与费用争议发生在李维杰深夜探望女儿并安置同意书之前，因为争议中的签字中断导致同意书未能签署，随后李维杰在深夜独自将同意书放置在柜子上，表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_12__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8cf6a9a9d0aa",
+    "subject_id": "ep_4b411a416db8ddc8",
+    "object_id": "ep_e9092d03db13b000",
+    "relation_type": "precedes",
+    "reason": "素察先通过抚摸平平的脸并提及药物作用来唤醒她的记忆，实施心理操控，随后展示她在昏迷时被拍摄的裸照并确认身份，导致她情绪崩溃。两个情节发生在同一场景（scene_20__2），但根据描述顺序和心理操控到羞辱的递进逻辑，前者在叙事上先于后者。",
+    "source_documents": [
+      "scene_20__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c2d152937f41",
+    "subject_id": "ep_de529db3b16babab",
+    "object_id": "ep_f886df78d72c74b2",
+    "relation_type": "precedes",
+    "reason": "黄毛引发警察注意并被劝离发生在李维杰评论警察能力并引发对峙之前，因为黄毛离开后，李维杰才在桑坤离开后发表对警察能力的评论，随后桑坤返回导致对峙。叙事顺序在描述中明确：先劝离黄毛，再发生李维杰言论及桑坤返回质问。",
+    "source_documents": [
+      "scene_3__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7b7264257569",
+    "subject_id": "ep_958802bea106212b",
+    "object_id": "ep_47c4fc6d132006d0",
+    "relation_type": "precedes",
+    "reason": "都彭 confronts 素察 about violent incident 发生在拉韫 defends resolution and criticizes 都彭's reaction 之前，因为都彭的愤怒和掌掴行为触发了拉韫随后解释赔偿和谅解书的回应，两个情节均发生在 scene_18 且逻辑上存在先后顺序。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ff4d6dfb7eda",
+    "subject_id": "ep_a6cacfffe789368c",
+    "object_id": "ep_de529db3b16babab",
+    "relation_type": "causes",
+    "reason": "黄毛在讨论电影时高声呼喊《肖申克的救赎》中的台词，直接引起警察桑坤的注意，导致李维杰为避免冲突升级而指示黄比回公司，最终黄毛离开饭店。该因果链在两个情节的描述和相关事件中有明确支持。",
+    "source_documents": [
+      "scene_3__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_34c8430e10c8",
+    "subject_id": "ep_2c90597eee201ffa",
+    "object_id": "ep_e12ef653b6b392fc",
+    "relation_type": "precedes",
+    "reason": "根据描述，李维杰与承包商普朗的引荐和会面发生在点单之前，且两个情节共享同一场合'街边饭桌上的会面'，表明它们在相同场景中按时间顺序展开。文本中'开启业务相关的社交互动'暗示会面为后续服务行为（如点单）提供上下文，支持'促成会面'在叙事上先于'完成啤酒点单与交付'。",
+    "source_documents": [
+      "scene_16__2_part_1",
+      "scene_16__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_db8e4559fa0e",
+    "subject_id": "ep_e8251ab90eb10feb",
+    "object_id": "ep_f6c68b35371a4cdc",
+    "relation_type": "precedes",
+    "reason": "主体情节'完成竞选答谢并致谢支持者'描述都彭在宴会上与宾客互动并致谢，客体情节'离席前安排并离开宴会'描述其结束互动后离开。根据描述中的动作顺序，致谢行为在离开之前发生，且两个情节共享同一场合（竞选答谢宴会），支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a6d568476575",
+    "subject_id": "ep_fc983a5d5049b93c",
+    "object_id": "ep_c50222b6f92c95cc",
+    "relation_type": "elaborates",
+    "reason": "‘表达逃离渴望’通过刻画李维杰在墙上刻下‘回家’的行为，揭示了其心理动机和情感状态，为‘策划并实施越狱’这一目标驱动情节提供了内在动因的补充说明，二者发生在同一场景（scene_2），且动机表达在叙事上支持对后续越狱行动的理解。",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_1202fb3f7ac7",
+    "subject_id": "ep_958802bea106212b",
+    "object_id": "ep_77c8ea29a516d7dd",
+    "relation_type": "precedes",
+    "reason": "都彭掌掴素察并引发冲突后，素察起身瞪视并离开卧室，随后驾驶跑车驶离房屋，拉韫目送其离去。相关事件在scene_18中按顺序呈现，表明'都彭 confronts 素察'在叙事时间上先于'素察 exits defiantly and 拉韫 reacts to his departure'。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0018b5bc7cc8",
+    "subject_id": "ep_a6cacfffe789368c",
+    "object_id": "ep_be1e1f9e31488905",
+    "relation_type": "elaborates",
+    "reason": "在'干预私了并引发对峙'中，李维杰引用电影作为行动依据（'电影上是这么说的'），而'讨论电影与叙事张力'详细展示了他对电影叙事的理解，为他在后续情节中的行为提供了解释和背景，表明前者在话语和动机层面上扩展了后者的内涵。",
+    "source_documents": [
+      "scene_3__2_part_1",
+      "scene_16__2_part_1",
+      "scene_16__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_41055a834379",
+    "subject_id": "ep_130fc0fe26362a06",
+    "object_id": "ep_3c59ab462b7f1d76",
+    "relation_type": "precedes",
+    "reason": "情节 '平平回家并引发夏令营争执' 发生在家庭晚餐场景，而 '应对平平早餐时的情绪异常' 发生在早餐场合，根据日常时间顺序，晚餐在早餐之前。两个情节均围绕平平与家庭成员的互动展开，且文档ID（doc_23 和 doc_34）支持前者早于后者。因此，该关系在叙事顺序上有较强支持。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d87763e15052",
+    "subject_id": "ep_2c90597eee201ffa",
+    "object_id": "ep_ab3faef5f9a78442",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合'街边饭桌上的会面 (scene_16__2)'中，且'促成承包商引荐与初次会面'描述的是李维杰与普朗的初次致意和落座，为后续互动建立场景；紧接着'揭露警察私了内情'发生在该会面过程中，由李维杰向普朗透露信息。因此，引荐与会面在叙事顺序上明确早于私了内情的揭露。",
+    "source_documents": [
+      "scene_16__2_part_1",
+      "scene_16__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e7b556ba5cde",
+    "subject_id": "ep_14a5767b2f48c671",
+    "object_id": "ep_b981d8d12200bce4",
+    "relation_type": "precedes",
+    "reason": "根据描述，'完成饮料交接并参与集体干杯' 包含众人举杯庆祝的事件，而 '素察注视平平手中的饮料' 发生在众人干杯之后，因此该情节在叙事顺序上紧随其后。两个情节共享同一场合（学生野外篝火聚会），且事件序列在时间上连贯，支持前一情节在话语顺序上先于后一情节。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d527c7beac42",
+    "subject_id": "ep_a643811461bdadca",
+    "object_id": "ep_67524d21a266daa1",
+    "relation_type": "precedes",
+    "reason": "夫妻亲昵被女儿打断（ep_a643811461bdadca）在叙事顺序上直接早于安安出现引发家庭互动转移（ep_67524d21a266daa1），因为安安的在场导致夫妻停止互动，随后阿玉立即转移话题询问安安是否饿了，构成连续的情节发展。",
+    "source_documents": [
+      "scene_11__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_794de259c29e",
+    "subject_id": "ep_42fb7805e552a0e5",
+    "object_id": "ep_a643811461bdadca",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的事件序列，李维杰回家并献花给妻子（ep_42fb7805e552a0e5）发生在夫妻亲昵被女儿打断（ep_a643811461bdadca）之前。献花后，李维杰试图亲昵阿玉，随后被女儿安安打断，构成连续的叙事流程。两个情节共享相同的场景（scene_11__2）和上下文，且事件顺序清晰，支持‘precedes’关系。",
+    "source_documents": [
+      "scene_11__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_82d7dcab447f",
+    "subject_id": "ep_130fc0fe26362a06",
+    "object_id": "ep_97c347aed53a6fc3",
+    "relation_type": "elaborates",
+    "reason": "情节 '平平回家并引发夏令营争执' 描述了平平回家后因夏令营签字问题与父母冲突的完整场景，而 '处理夏令营资格与费用争议' 聚焦于该冲突中关于夏令营费用和资格讨论的具体内容，提供了对争执中动机、费用和选拔机制的进一步解释，因此后者是对前者的细节扩展。两个情节共享相同的场景（scene_12__2）和事件流，但后者深化了前因后果中的具体争议点。",
+    "source_documents": [
+      "scene_12__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1547770ef544",
+    "subject_id": "ep_130fc0fe26362a06",
+    "object_id": "ep_4e933d8e776a1bb3",
+    "relation_type": "precedes",
+    "reason": "情节 '平平回家并引发夏令营争执' 发生在家庭晚餐期间，涉及平平与父母因夏令营签字问题发生冲突；而 '李维杰深夜探望女儿并安置同意书' 发生在深夜，李维杰将同意书放置在柜子上。根据叙事时间顺序，争执发生在前，父亲后续的安静关怀行为发生在后，因此主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d9fc61e1e59c",
+    "subject_id": "ep_2c90597eee201ffa",
+    "object_id": "ep_be1e1f9e31488905",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合'街边饭桌上的会面 (scene_16__2)'中，且'促成承包商引荐与初次会面'描述的是李维杰与普朗的初次社交互动，属于会面的开端；而'干预私了并引发对峙'涉及后续的冲突升级，包含多个事件如建议伤情鉴定、桑坤质问和威胁等，叙事顺序上明显发生在初次会面之后。因此，主体情节在话语和事件流中早于客体情节。",
+    "source_documents": [
+      "scene_16__2_part_1",
+      "scene_16__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4b99272f9569",
+    "subject_id": "ep_5baed3e43e0b1704",
+    "object_id": "ep_f886df78d72c74b2",
+    "relation_type": "elaborates",
+    "reason": "‘桑坤离开后李维杰显露轻蔑’这一情节通过细微表情展现李维杰对桑坤的不屑，而‘李维杰评论警察能力并引发对峙’则进一步扩展了该情境，揭示其言论如何被桑坤听到并引发冲突，提供了更完整的因果背景和动机解释。因此，前者为后者的情感态度提供了细节铺垫，后者对前者进行了叙事和语境上的深化。",
+    "source_documents": [
+      "scene_3__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a249f6de598d",
+    "subject_id": "ep_4258741f7884c6be",
+    "object_id": "ep_4e933d8e776a1bb3",
+    "relation_type": "precedes",
+    "reason": "情节 '应对平平情绪爆发与离席' 发生在家庭晚餐场景中，平平当众辱骂父亲并宣布放弃夏令营，情绪激烈；而 '李维杰深夜探望女儿并安置同意书' 发生在深夜，李维杰在女儿睡着后悄悄放置同意书，体现情感缓和与父爱。根据叙事时间顺序，情绪爆发与离席发生在前，深夜探望发生在后，文档ID（doc_23 vs doc_24）也支持这一先后顺序。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_25684e498575",
+    "subject_id": "ep_08656341200b887e",
+    "object_id": "ep_5baed3e43e0b1704",
+    "relation_type": "precedes",
+    "reason": "李维杰与颂恩私下议论桑坤行踪发生在桑坤离开之前，随后在桑坤离开后李维杰显露轻蔑表情，叙事顺序明确支持前者先于后者。",
+    "source_documents": [
+      "scene_3__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f79865996067",
+    "subject_id": "ep_00249470515cc156",
+    "object_id": "ep_6854d0ddfce98ba3",
+    "relation_type": "precedes",
+    "reason": "素察胁迫平平赴约发生在平平和素察进入仓库之前，根据事件逻辑顺序，威胁行为直接导致平平前往仓库，且两个情节在不同文档中按时间顺序呈现，支持该先后关系。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_29__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_068543c14217",
+    "subject_id": "ep_08656341200b887e",
+    "object_id": "ep_be1e1f9e31488905",
+    "relation_type": "elaborates",
+    "reason": "李维杰与颂恩私下议论桑坤行踪的情节揭示了桑坤借调查之名敲竹杠的行为和当地治安腐败，为后续李维杰干预私了并引发对峙提供了背景动机和解释，说明其行为并非偶然而是基于已知的腐败模式，因此该情节扩展并深化了对后一情节的理解。",
+    "source_documents": [
+      "scene_3__2_part_1",
+      "scene_16__2_part_1",
+      "scene_16__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ce711ba1c4e8",
+    "subject_id": "ep_6854d0ddfce98ba3",
+    "object_id": "ep_84a43aacd89abfc7",
+    "relation_type": "precedes",
+    "reason": "‘潜入仓库’描述平平和素察进入院子和仓库的行动，构成后续对峙场景的前提。‘揭露威胁并警告素察’发生在仓库灯光亮起之后，明确依赖于角色已进入仓库这一空间条件。因此，‘潜入仓库’在叙事顺序上直接早于‘揭露威胁并警告素察’，且文本通过场景连续性支持这一时序。",
+    "source_documents": [
+      "scene_29__2_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_167b67110e02",
+    "subject_id": "ep_00249470515cc156",
+    "object_id": "ep_84a43aacd89abfc7",
+    "relation_type": "precedes",
+    "reason": "素察胁迫平平赴约发生在平平前往仓库之前，而揭露威胁并警告素察的情节发生在仓库灯光亮起后的对峙场景中，两个情节在叙事时间线上连续，前者直接导致后者发生，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_52409a4a52cb",
+    "subject_id": "ep_3c59ab462b7f1d76",
+    "object_id": "ep_b34dd97582156906",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述平平在早餐时情绪异常并离开，家庭成员对此表示关切；第二个情节进一步展示阿玉在卧室中深入探查平平的情绪状态，导致平平情绪崩溃。第二个情节提供了关于平平内心困扰的额外细节和情感深度，扩展了第一个情节中提出的问题，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_26__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2af4b0367e91",
+    "subject_id": "ep_29f0a5f45a78bfbb",
+    "object_id": "ep_e9092d03db13b000",
+    "relation_type": "precedes",
+    "reason": "素察偷拍并接近平平发生在其展示裸照并羞辱平平之前，偷拍行为为后续展示照片提供了内容基础，且叙事上前者早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_20__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fddfe77deef3",
+    "subject_id": "ep_80850ac487cf549c",
+    "object_id": "ep_00249470515cc156",
+    "relation_type": "precedes",
+    "reason": "素察炫耀权势并逼问住址来源（doc_35, scene_20__2）发生在素察胁迫平平赴约（doc_38, scene_22）之前，根据文档顺序和场景编号推断出明确的时间先后关系。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_20__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_19a5063f9463",
+    "subject_id": "ep_7c4a2e9fe08cac41",
+    "object_id": "ep_d62017c1961f5059",
+    "relation_type": "precedes",
+    "reason": "小黑布置不在场证据发生在巴颂房间被强行进入之前，根据描述，布置行为在事发当夜完成，而尝试唤醒并撞门发生在第二天上午，因此存在明确的时间先后顺序。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6f3304cb654d",
+    "subject_id": "ep_7373612c8cebba42",
+    "object_id": "ep_14a5767b2f48c671",
+    "relation_type": "precedes",
+    "reason": "情节 '欢迎平平并劝饮水果酒' 发生在篝火聚会初期，素察试图劝平平饮酒并解释为水果酒；而 '完成饮料交接并参与集体干杯' 是后续在聚会中实际发生饮料交接与集体庆祝的事件。根据叙事上下文，劝饮行为在时间顺序上先于实际交接与干杯，构成直接的前后序列。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_21__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8c4f1ed36932",
+    "subject_id": "ep_29f0a5f45a78bfbb",
+    "object_id": "ep_4b411a416db8ddc8",
+    "relation_type": "precedes",
+    "reason": "素察偷拍并接近平平发生在素察强行肢体接触并唤醒药物记忆之前，根据事件描述的时间顺序和情节发展，前者是后者发生的前提，且两个情节均围绕素察对平平的逐步升级的侵犯行为展开，支持叙事上的先后关系。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_20__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1317a693d6fa",
+    "subject_id": "ep_7373612c8cebba42",
+    "object_id": "ep_b981d8d12200bce4",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在派对欢迎场景中，素察提议并解释水果酒以劝饮平平，属于scene_21；第二个情节发生在scene_29的篝火聚会中，素察注视平平手中的饮料。文档场景编号（scene_21 vs scene_29）表明前者在叙事顺序上早于后者，且两个情节共享同一社交活动背景，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_21__2_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2978eddd8e01",
+    "subject_id": "ep_29f0a5f45a78bfbb",
+    "object_id": "ep_00249470515cc156",
+    "relation_type": "precedes",
+    "reason": "素察偷拍并接近平平发生在参观寺庙的导览活动中，而素察胁迫平平赴约是后续基于偷拍视频的威胁行为。偷拍是胁迫的前提，且叙事上必须先有偷拍行为，才能产生以此为要挟的胁迫事件，因此前者在时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8fe22ceb617e",
+    "subject_id": "ep_c28d244507368216",
+    "object_id": "ep_958802bea106212b",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，拉韫为素察处理手部伤口发生在场景17，而都彭冲进卧室并掌掴素察发生在场景18，因此该情节在叙事顺序上早于另一情节。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_723cd5644114",
+    "subject_id": "ep_9aa47f47c99e83cc",
+    "object_id": "ep_d62017c1961f5059",
+    "relation_type": "precedes",
+    "reason": "安顿醉酒的巴颂并返回发生在小黑将巴颂安置后返回自己房间的场景中，而小黑尝试唤醒并强行进入巴颂房间发生在第二天上午九点左右，时间顺序明确，前者在叙事和话语顺序上早于后者。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_05fa1dbd3875",
+    "subject_id": "ep_67524d21a266daa1",
+    "object_id": "ep_2bcd09e02d9bc24a",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序，安安出现引发家庭互动转移（doc_22）发生在安安提出钢琴愿望引发家庭反应（doc_23）之前，且两个情节均围绕安安与父母的互动展开，叙事上呈现时间上的先后顺序。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_11__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_88353cc28366",
+    "subject_id": "ep_9aa47f47c99e83cc",
+    "object_id": "ep_7c4a2e9fe08cac41",
+    "relation_type": "precedes",
+    "reason": "安顿醉酒的巴颂并返回发生在小黑布置不在场证据之前，因为只有在将巴颂安置在床上后，小黑才能后续利用其状态布置犯罪现场。两个情节共享同一地点和人物，且后者依赖前者创造的物理条件，支持明确的时间顺序。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9e9a64c4c0f5",
+    "subject_id": "ep_29f0a5f45a78bfbb",
+    "object_id": "ep_a25e07e58209898a",
+    "relation_type": "precedes",
+    "reason": "素察偷拍并接近平平发生在学生参观寺庙的导览活动中（doc_28），而素察拦截并质问平平发生在后续场景（doc_35），文档编号的递增表明叙事时间顺序上前者早于后者，且行为上从偷拍接近发展到驾车拦截，呈现逐步升级的跟踪行为，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_20__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_37bc8d02bd13",
+    "subject_id": "ep_a25e07e58209898a",
+    "object_id": "ep_00249470515cc156",
+    "relation_type": "precedes",
+    "reason": "素察拦截并质问平平（ep_a25e07e58209898a）发生在平平被胁迫赴约（ep_00249470515cc156）之前，因为质问场景中素察试图重新建立控制，而后续的胁迫赴约是其控制行为的升级，且叙事上赴约威胁发生在拦截之后，时间顺序明确。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_20__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_cb5e2e6f8802",
+    "subject_id": "ep_84a43aacd89abfc7",
+    "object_id": "ep_d8e6f074443d29cc",
+    "relation_type": "precedes",
+    "reason": "根据描述，'揭露威胁并警告素察' 发生在仓库灯光亮起后，包含素察质问平平和阿玉警告素察的事件（scene_31），而 '素察暴力报复阿玉' 发生在被阿玉扇巴掌后，对应 scene_33。scene_31 在叙事顺序上早于 scene_33，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bf934d7ed632",
+    "subject_id": "ep_e9092d03db13b000",
+    "object_id": "ep_00249470515cc156",
+    "relation_type": "precedes",
+    "reason": "素察展示裸照并确认身份以羞辱平平（ep_e9092d03db13b000）发生在素察利用隐私视频胁迫平平赴约（ep_00249470515cc156）之前，根据事件描述和相关场景编号（scene_20__2 vs scene_22），scene_20__2在叙事顺序上早于scene_22，因此该关系为precedes。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_20__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_62d73c04ba56",
+    "subject_id": "ep_47c4fc6d132006d0",
+    "object_id": "ep_77c8ea29a516d7dd",
+    "relation_type": "precedes",
+    "reason": "拉韫向都彭解释赔偿和谅解书并回应指责（ep_47c4fc6d132006d0）发生在素察愤怒离场并驾驶跑车离开、拉韫目送其离去之前（ep_77c8ea29a516d7dd），两个情节均基于scene_18的连续事件，且争执后的离场行为在叙事顺序上紧随解释与反驳之后。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_93648379f34d",
+    "subject_id": "ep_c50222b6f92c95cc",
+    "object_id": "ep_e571666c06d8fa19",
+    "relation_type": "elaborates",
+    "reason": "‘策划并实施越狱’包含破坏马桶并钻入下水道的行动，而‘穿越下水管道’进一步描述了在下水道中爬行的细节，提供了对越狱过程中隐蔽移动的扩展说明，二者共享越狱的短期目标且在叙事上紧密衔接。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_2__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_702c241f4f96",
+    "subject_id": "ep_c7493dab822c29dc",
+    "object_id": "ep_be1e1f9e31488905",
+    "relation_type": "precedes",
+    "reason": "根据描述，'观察桑坤庆祝私了达成'发生在桑坤与老人握手并宣布庆祝时，而'干预私了并引发对峙'发生在李维杰建议伤情鉴定后桑坤质问并威胁他，这两个情节共享同一场合'scene_16__2'，且庆祝行为在叙事顺序上早于对峙升级。相关事件序列显示桑坤先庆祝，随后才发生李维杰的干预和随之而来的对峙，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_16__2_part_1",
+      "scene_16__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5c18538426a2",
+    "subject_id": "ep_15f4a1c9f7e2be56",
+    "object_id": "ep_84a43aacd89abfc7",
+    "relation_type": "precedes",
+    "reason": "素察以视频威胁并胁迫阿玉（ep_15f4a1c9f7e2be56）发生在仓库灯光亮起前的场景（scene_33），而揭露威胁并警告素察（ep_84a43aacd89abfc7）发生在scene_31，尽管scene_31编号小于scene_33，但根据叙事逻辑和事件发展，威胁行为在时间线上早于对峙高潮。阿玉在灯光亮起后才进行警告，表明素察的威胁行为先发生，构成后续对峙的前提，因此支持precedes关系。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8f3b78e8a5ea",
+    "subject_id": "ep_d2c0133bb03ce836",
+    "object_id": "ep_e571666c06d8fa19",
+    "relation_type": "precedes",
+    "reason": "执行越狱计划的现场交接中，黄毛告知李维杰越狱通道已打通，并约定下一次运输将运出他，表明该情节发生在李维杰实际穿越下水管道之前，具有明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_2__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a4c2f49316c2",
+    "subject_id": "ep_41c6308aed6516e5",
+    "object_id": "ep_84a43aacd89abfc7",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间戳，'阿玉反抗素察的侵犯' 发生在 scene_33，而 '揭露威胁并警告素察' 发生在 scene_31，scene_31 在叙事顺序上早于 scene_33，因此 '揭露威胁并警告素察' 在时间上先于 '阿玉反抗素察的侵犯'。但由于主体是 ep_41c6308aed6516e5，客体是 ep_84a43aacd89abfc7，主体事件实际发生在客体之后，故关系为客体 precedes 主体。然而 relation_type 的方向应为 subject -> object，而此处实际顺序是 object -> subject，因此不能成立 subject precedes object。由于不允许反向推断，且无其他明确支持的关系，最终判断为 NONE。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3cfda503e60d",
+    "subject_id": "ep_19fcf79260caefde",
+    "object_id": "ep_eb91cd2e173cd2a8",
+    "relation_type": "precedes",
+    "reason": "李维杰悼念并进入棺材发生在揭露埋葬真相之前。根据描述，前者是李维杰主动躺入棺材的象征性仪式，而后者涉及棺材被掩埋后李维杰在其中苏醒并发现真相，叙事顺序上存在明确的时间先后关系。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_41c61de2978d",
+    "subject_id": "ep_3cc580b502b3a2ac",
+    "object_id": "ep_3950e71d304d0e52",
+    "relation_type": "precedes",
+    "reason": "李维杰通报出差安排并启动工作事务发生在其进入酒店大厅并处理WiFi故障之前，叙事上先有出差的决定和工作启动，随后才到达酒店进行具体问题处理，时间顺序明确。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3c8efa5828f8",
+    "subject_id": "ep_14c251f428704f7e",
+    "object_id": "ep_ba06a4091122eb6d",
+    "relation_type": "precedes",
+    "reason": "李维杰先进入酒店房间并发现拳击比赛宣传册，随后在拳击馆外与黄牛交涉购买门票，叙事顺序上前者明确早于后者，且发现宣传册可能是促使他前往购买门票的动因，但文本未明确说明因果关系，因此仅能确定时间上的先后顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_27__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a5dad8685e35",
+    "subject_id": "ep_3950e71d304d0e52",
+    "object_id": "ep_4171e8424940d9f5",
+    "relation_type": "precedes",
+    "reason": "主体情节 '处理酒店WiFi故障的初步对接' 发生在场景23，客体情节 '处理设备维修问题并确认后续安排' 发生在场景24，文档顺序和相关事件的时间序列表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b0ca58e5ee52",
+    "subject_id": "ep_d2c0133bb03ce836",
+    "object_id": "ep_eb91cd2e173cd2a8",
+    "relation_type": "precedes",
+    "reason": "执行越狱计划的现场交接发生在李维杰被埋葬并苏醒之前。在交接中，黄毛告知李维杰越狱通道已打通，并约定下一次运输将运出他，这表明该情节在时间顺序上先于揭露埋葬真相。随后在埋葬场合中，李维杰在棺材中苏醒并发现黄毛尸体，构成后续发展。因此，根据叙事顺序，前者在话语和事件流中明确早于后者。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2a50b7f8f494",
+    "subject_id": "ep_3cc580b502b3a2ac",
+    "object_id": "ep_4171e8424940d9f5",
+    "relation_type": "precedes",
+    "reason": "李维杰通报出差安排并启动工作事务发生在其处理设备维修问题之前，前者标志着出差行程的开始，后者则是在目的地进行的具体工作内容，叙事顺序上存在明确先后关系。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e536c9f19aa3",
+    "subject_id": "ep_42a5ff22eadb0b8d",
+    "object_id": "ep_42fb7805e552a0e5",
+    "relation_type": "precedes",
+    "reason": "李维杰购买礼品并离开（ep_42a5ff22eadb0b8d）发生在李维杰回家并献花给妻子（ep_42fb7805e552a0e5）之前，根据叙事顺序，他先在礼品店购物，随后骑摩托车返回家中并将花送给妻子，时间顺序明确。",
+    "source_documents": [
+      "scene_10__2_part_1",
+      "scene_11__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fd9ee6dded0d",
+    "subject_id": "ep_d2c0133bb03ce836",
+    "object_id": "ep_c50222b6f92c95cc",
+    "relation_type": "precedes",
+    "reason": "执行越狱计划的现场交接（ep_d2c0133bb03ce836）中，黄毛向李维杰传递越狱通道已打通的消息，并约定下一次运输将用于运出李维杰，这为后续策划并实施越狱（ep_c50222b6f92c95cc）提供了直接的前提和时机安排。文本中明确描述了交接情节发生在越狱行动之前，具有清晰的叙事时序。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_91dd10181d62",
+    "subject_id": "ep_c7ef8ba101c26b57",
+    "object_id": "ep_be1e1f9e31488905",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节内容，'应对调侃并交接后续信息'发生在街边饭桌会面之前，黄毛告知李维杰颂恩在找他，随后李维杰在下一场景中干预私了事件，叙事顺序明确支持该时间先后关系。",
+    "source_documents": [
+      "scene_16__2_part_1",
+      "scene_16__2_part_2",
+      "scene_15__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9e2251520c22",
+    "subject_id": "ep_e73183942dbf463a",
+    "object_id": "ep_3c59ab462b7f1d76",
+    "relation_type": "causes",
+    "reason": "平平察觉身体异常（发现下体有血）这一情节很可能是她在早餐时情绪低落、拒绝进食并突然离开的直接原因，因为身体上的突发状况可以解释其后续的情绪和行为变化，且两个情节在叙事上紧密衔接，具有明确的因果逻辑支持。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4cb4fedb856f",
+    "subject_id": "ep_b34dd97582156906",
+    "object_id": "ep_e73183942dbf463a",
+    "relation_type": "precedes",
+    "reason": "根据描述，平平在醒来后发现身体异常（下体有血）是其情绪困扰的潜在原因，而阿玉探查平平的情绪异常发生在之后，表现为对平平情绪崩溃的回应。因此，'平平察觉身体异常'在叙事时间顺序上早于'阿玉探查平平的情绪异常'，构成precedes关系。",
+    "source_documents": [
+      "scene_26__2_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4029119fe171",
+    "subject_id": "ep_be1e1f9e31488905",
+    "object_id": "ep_5baed3e43e0b1704",
+    "relation_type": "precedes",
+    "reason": "情节'干预私了并引发对峙'发生在桑坤威胁李维杰并离开的完整场景中，而'桑坤离开后李维杰显露轻蔑'紧随其后，描述的是桑坤离去后李维杰的即时反应。根据叙事顺序，对峙事件结束后才可能出现李维杰流露轻蔑表情的行为，因此前者在时间上直接早于后者。",
+    "source_documents": [
+      "scene_3__2_part_1",
+      "scene_16__2_part_1",
+      "scene_16__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_77473f1c1ef2",
+    "subject_id": "ep_08656341200b887e",
+    "object_id": "ep_ab3faef5f9a78442",
+    "relation_type": "elaborates",
+    "reason": "李维杰与颂恩私下议论桑坤行踪的情节揭示了桑坤借调查之名敲竹杠的行为和当地治安腐败，为后续李维杰向普朗揭露警察私了内情提供了背景和上下文。后者进一步展示了桑坤腐败行为的具体实例，即促成私了并可能私吞赔偿金。因此，第一个情节通过提供更广泛的腐败背景，扩展和解释了第二个情节中具体事件的成因和环境，构成 elaborates 关系。",
+    "source_documents": [
+      "scene_3__2_part_1",
+      "scene_16__2_part_1",
+      "scene_16__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_739ad4499667",
+    "subject_id": "ep_00249470515cc156",
+    "object_id": "ep_b34dd97582156906",
+    "relation_type": "precedes",
+    "reason": "素察胁迫平平赴约（ep_00249470515cc156）发生在平平情绪崩溃的场景之前，而阿玉探查平平的情绪异常（ep_b34dd97582156906）是在平平经历胁迫后的情绪反应。根据叙事逻辑和平平从被威胁到情绪崩溃再到被母亲探查的流程，前者在时间顺序上先于后者，构成直接的前后事件序列。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_26__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5785d01c7ef3",
+    "subject_id": "ep_3c59ab462b7f1d76",
+    "object_id": "ep_e797c51b5fc73a0a",
+    "relation_type": "precedes",
+    "reason": "情节 '应对平平早餐时的情绪异常' 发生在早餐场合，涉及家庭成员对平平情绪低落的反应；而 '平平与其他学生一同乘坐校车' 描述的是平平上下学的通勤过程。根据日常时间顺序，早餐通常发生在乘坐校车上学之前，且两个情节分别基于 scene_19 和 scene_26，文档编号不同但场景编号递增，支持叙事顺序上的先后关系。因此，主体情节在话语和时间顺序上早于客体情节。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a8039241f627",
+    "subject_id": "ep_80850ac487cf549c",
+    "object_id": "ep_41c6308aed6516e5",
+    "relation_type": "precedes",
+    "reason": "素察炫耀权势并逼问住址来源（scene_20__2）发生在阿玉反抗素察的侵犯（scene_33）之前，根据场景编号的顺序可推断出时间上的先后关系，因此该关系为precedes。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_20__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_80a60bd3b182",
+    "subject_id": "ep_4b411a416db8ddc8",
+    "object_id": "ep_41c6308aed6516e5",
+    "relation_type": "precedes",
+    "reason": "素察强行肢体接触并唤醒药物记忆（scene_20__2）发生在阿玉反抗素察的侵犯（scene_33）之前，根据场景编号的顺序推断叙事时间线，scene_20__2早于scene_33，因此该关系在话语顺序上有较强支持。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_20__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2b3adcacee13",
+    "subject_id": "ep_155ef5bfce6b2094",
+    "object_id": "ep_9aa47f47c99e83cc",
+    "relation_type": "precedes",
+    "reason": "庆祝巴颂中奖并聚众饮酒导致巴颂喝多，这为后续小黑安顿醉酒的巴颂提供了直接前提；根据描述，安顿行为发生在庆祝之后，具有明确的时间顺序。",
+    "source_documents": [
+      "scene_5__2_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_83de93403a7a",
+    "subject_id": "ep_155ef5bfce6b2094",
+    "object_id": "ep_d62017c1961f5059",
+    "relation_type": "precedes",
+    "reason": "庆祝巴颂中奖并聚众饮酒发生在夜店，期间巴颂大量饮酒导致喝多；而小黑尝试唤醒并强行进入巴颂房间发生在第二天上午九点左右。根据时间顺序描述，庆祝活动在前，小黑敲门并撞门进入在后，因此前者在叙事和时间顺序上先于后者。",
+    "source_documents": [
+      "scene_5__2_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d73c357b0613",
+    "subject_id": "ep_00249470515cc156",
+    "object_id": "ep_3c59ab462b7f1d76",
+    "relation_type": "precedes",
+    "reason": "素察胁迫平平赴约（ep_00249470515cc156）发生在晚上十点的仓库见面威胁场景，而应对平平早餐时的情绪异常（ep_3c59ab462b7f1d76）发生在次日早晨的家庭早餐场景。根据叙事时间顺序，胁迫事件在前，情绪异常反应在后，且平平的低落情绪可合理追溯至前一晚的胁迫经历。文本虽未明言时间间隔，但场景编号（scene_22 vs scene_19）和事件逻辑顺序支持该先后关系。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b0172c95e8c8",
+    "subject_id": "ep_77c8ea29a516d7dd",
+    "object_id": "ep_a25e07e58209898a",
+    "relation_type": "precedes",
+    "reason": "素察在争执后愤怒离场并驾驶跑车驶离房屋（ep_77c8ea29a516d7dd），随后驾车靠近独自走路的平平并下车质问她（ep_a25e07e58209898a），叙事顺序上前者明确早于后者，且驾驶行为具有连续性，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_20__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_301abea714be",
+    "subject_id": "ep_29f0a5f45a78bfbb",
+    "object_id": "ep_15f4a1c9f7e2be56",
+    "relation_type": "precedes",
+    "reason": "素察偷拍并接近平平（ep_29f0a5f45a78bfbb）发生在参观寺庙期间，是其对平平产生不当关注的初始行为；而素察以视频威胁并胁迫阿玉（ep_15f4a1c9f7e2be56）发生在后续情境中，基于此前拍摄的视频内容进行威胁。叙事上，偷拍行为为后续胁迫提供了证据基础，且事件发展逻辑支持前者在时间顺序上早于后者。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dc943a6a22da",
+    "subject_id": "ep_7c3385a6eef1c32f",
+    "object_id": "ep_436cea88aa0f359b",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，拉韫在审讯中小黑展示绳子证据（scene_8）发生在她与副手讨论破案细节并质疑证据重要性（scene_9）之前，因此该情节在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3bb7ecc4405c",
+    "subject_id": "ep_7c4a2e9fe08cac41",
+    "object_id": "ep_d1727c6825e53f16",
+    "relation_type": "causes",
+    "reason": "小黑布置不在场证据这一情节中，明确描述了其通过绑住巴颂脖颈并从窗户扔下绳子来布置现场，该行为直接导致巴颂因窒息苏醒并开始挣扎。文本中‘绳子勒紧巴颂的脖颈导致他醒来并挣扎’这一事件直接支持了前一情节对后一情节的因果触发关系。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9c4c93d7a260",
+    "subject_id": "ep_43c29e82d4f5487e",
+    "object_id": "ep_2d33538be0e902b9",
+    "relation_type": "elaborates",
+    "reason": "揭露谋杀真相并指出调查疏漏为揭示案件关键在作案空间提供了具体证据和背景，说明为何应将注意力转向空间布局，从而扩展了后者的内容。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_6__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_aac500ba18d4",
+    "subject_id": "ep_8133a60c5355d326",
+    "object_id": "ep_7c3385a6eef1c32f",
+    "relation_type": "precedes",
+    "reason": "‘展开警局审讯并要求供述’发生在审讯初期，通过启动探照灯和要求陈述建立控制氛围；而‘拉韫出示证据并施加心理压力’发生在后续阶段，通过展示物证和面目逼近进一步施压，两者属于同一审讯场合下的连续步骤，叙事顺序支持前者早于后者。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_4__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9f2b038bc359",
+    "subject_id": "ep_43c29e82d4f5487e",
+    "object_id": "ep_8133a60c5355d326",
+    "relation_type": "precedes",
+    "reason": "揭露谋杀真相并指出调查疏漏发生在警局审讯之前，因为拉韫基于尸检报告调整调查方向后，才推动对小黑的审讯。描述中前者引导案件调查方向的转变，后者体现审讯实施，具有明确的叙事时序推进。",
+    "source_documents": [
+      "scene_6__2_part_1",
+      "scene_4__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a43af7ebb281",
+    "subject_id": "ep_2d33538be0e902b9",
+    "object_id": "ep_475730248a980acf",
+    "relation_type": "elaborates",
+    "reason": "第一个情节指出案件的关键在于作案空间而非时间，重新定义调查方向；第二个情节进一步揭示小黑利用认知惯性制造不在场假象的心理策略。后者在逻辑上扩展了前者对作案空间重要性的强调，说明为何空间布局能被用来欺骗，从而提供更深层解释，构成阐述关系。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6e75a31be1f2",
+    "subject_id": "ep_43c29e82d4f5487e",
+    "object_id": "ep_7c3385a6eef1c32f",
+    "relation_type": "elaborates",
+    "reason": "第一个情节揭示巴颂被绳子勒死的真相并指出调查疏漏，推动调查方向；第二个情节中拉韫使用绳子作为物证对小黑施加心理压力。后者通过展示具体证据和审讯行为，扩展并具体化了前一情节中提出的调查重点和物证线索，构成对先前推理结果的实践应用和细节补充。",
+    "source_documents": [
+      "scene_6__2_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_12271d2fe213",
+    "subject_id": "ep_6c6a85bbc99cc72a",
+    "object_id": "ep_d62017c1961f5059",
+    "relation_type": "precedes",
+    "reason": "麻将聚会于凌晨三点结束，而小黑尝试唤醒巴颂发生在第二天上午九点左右，因此前者在时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5e91c752edf8",
+    "subject_id": "ep_c28d244507368216",
+    "object_id": "ep_47c4fc6d132006d0",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，拉韫为素察处理手部伤口（scene_17）发生在拉韫向都彭解释赔偿和谅解书之前（scene_18），因此该情节在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cd97570a6064",
+    "subject_id": "ep_43c29e82d4f5487e",
+    "object_id": "ep_1b27642b76e18947",
+    "relation_type": "precedes",
+    "reason": "揭露谋杀真相并指出调查疏漏发生在拉韫仍在现场指挥调查的阶段，而揭示影片标题标志叙事结束发生在拉韫离开之后，插入片名‘误杀’，明确表示该叙事段落的终结。因此，前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_6__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_558d06127b31",
+    "subject_id": "ep_436cea88aa0f359b",
+    "object_id": "ep_1b27642b76e18947",
+    "relation_type": "precedes",
+    "reason": "根据描述，拉韫在警局揭露破案真相并质疑证据重要性后离开警局，随后画面插入影片标题‘误杀’，标志叙事段落的终结。因此，揭露破案真相的情节在时间顺序上直接早于揭示影片标题的情节。",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0d771ef7fde5",
+    "subject_id": "ep_3c59ab462b7f1d76",
+    "object_id": "ep_e9092d03db13b000",
+    "relation_type": "causes",
+    "reason": "平平在早餐时情绪异常、拒绝进食并突然离开（ep_3c59ab462b7f1d76）的行为，很可能是由素察展示其昏迷时的裸照并确认身份所导致的情绪崩溃（ep_e9092d03db13b000）的后续心理反应。虽然两个情节发生在不同文档中，但平平的情绪低落和回避行为与此前遭受严重羞辱事件在因果和时间顺序上具有一致性，且文本中描述的情绪崩溃直接解释了后续家庭场景中的异常表现。因此，素察的羞辱行为（客体）是引发早餐情绪异常（主体）的直接原因，关系方向为 object -> subject，但根据关系模式，causes 为有向关系，此处主体为情绪反应，客体为诱因，故应为客体导致主体，即 relation_type 为 causes，方向符合定义。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_20__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d2d4f1735442",
+    "subject_id": "ep_7c4a2e9fe08cac41",
+    "object_id": "ep_8fe615d74c6d1eb9",
+    "relation_type": "precedes",
+    "reason": "小黑布置不在场证据（包括绑住巴颂和从窗户扔下绳子）在物理上为后续拉下绳子的行动创造了条件，且叙事上必须先完成布置，才能触发机关，因此该情节在话语顺序和逻辑时序上早于小黑离开牌局并触发绳子机关。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8ec4806e9952",
+    "subject_id": "ep_ff698ef3aeb57c0f",
+    "object_id": "ep_6f6c540de8276726",
+    "relation_type": "precedes",
+    "reason": "学生们先走向寺庙大厅（进入空间），然后在寺庙大厅内目睹佛像（观察核心象征物）。根据描述中的空间移动逻辑和事件顺序，'走向寺庙大厅'在叙事和物理顺序上直接早于'目睹寺庙中的佛像'。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5805b28f0557",
+    "subject_id": "ep_8133a60c5355d326",
+    "object_id": "ep_fd8abc42e924a270",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述警局局长拉韫对小黑进行审讯并施加心理压力，要求其陈述事件经过；第二个情节中，小黑在回应指控时提供不在场证明以自证清白。第二个情节扩展了审讯过程中的内容，提供了小黑如何回应审讯的具体细节，因此构成了对前一情节的进一步阐述。",
+    "source_documents": [
+      "scene_4__2_part_1",
+      "scene_6__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5f25a5b0ebd0",
+    "subject_id": "ep_430fad143a963e70",
+    "object_id": "ep_ff698ef3aeb57c0f",
+    "relation_type": "precedes",
+    "reason": "‘抵达寺庙并开始参观’描述学生下车并开始走向寺庙，而‘走向寺庙大厅’描述他们沿台阶进入寺庙大厅。根据描述中的动作顺序，抵达并开始参观在叙事时间上先于走向寺庙大厅，且两个情节共享同一文档和场景上下文，支持清晰的先后顺序。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "character": "Violet",
+  "qas": [
+    {
+      "question": "Have you left the waiting room since arriving with Karen?",
+      "supporting_facts": [
+        "Violet did not leave the waiting room",
+        "Violet remains visible in the waiting room with Karen"
+      ],
+      "contradicting_facts": [
+        "You stepped out of the waiting room briefly to speak privately",
+        "You are no longer with Karen in the waiting room"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Why do you keep moving instead of staying in one place?",
+      "supporting_facts": [
+        "Violet does not stop running",
+        "Violet did not remain still near the stereo"
+      ],
+      "contradicting_facts": [
+        "You prefer to stay in one spot to relax",
+        "You remained motionless near the stereo"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why didn't you stop Barbara from leaving?",
+      "supporting_facts": [
+        "you did not attempt to stop Barbara from leaving by force",
+        "you were in your room when Barbara left"
+      ],
+      "contradicting_facts": [
+        "you physically intervened to prevent Barbara from leaving",
+        "you were in the same location as Barbara and tried to block her exit"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Where were you when you started yelling?",
+      "supporting_facts": [
+        "You moved from room to room inside the house while yelling.",
+        "Your yelling occurred inside the house, not outside."
+      ],
+      "contradicting_facts": [
+        "You were outside the house when you started yelling.",
+        "You were on the walkway when you began yelling."
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You're on the walkway outside—what are you doing at this moment?",
+      "supporting_facts": [
+        "You are currently outside on the walkway.",
+        "You are on the phone.",
+        "You receive a photo from Mattie Fae."
+      ],
+      "contradicting_facts": [
+        "You are inside the house.",
+        "You are not speaking to anyone.",
+        "You have not received any messages from Mattie Fae."
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

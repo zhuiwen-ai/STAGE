@@ -1,0 +1,2130 @@
+[
+  {
+    "id": "rel_ep_ep_ac3d46e2d61b",
+    "subject_id": "ep_d6fcb41eeca07ef5",
+    "object_id": "ep_e8899dd05a86b1be",
+    "relation_type": "precedes",
+    "reason": "完成修车服务并收取费用发生在收拾工具并准备离开摊位之前，因为服务结束后才开始收摊准备返程，叙事顺序上具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e74d872ce102",
+    "subject_id": "ep_d6fcb41eeca07ef5",
+    "object_id": "ep_65c3b1f33a9814d5",
+    "relation_type": "precedes",
+    "reason": "完成修车服务并收取费用发生在车夫抵达并提醒爷爷收工回家之前，因为服务结束后爷爷才与车夫互动决定回家，时间顺序在描述中明确。",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d3656aeb15ec",
+    "subject_id": "ep_b99bdf6de4e60cfc",
+    "object_id": "ep_5b067e7f901b4315",
+    "relation_type": "precedes",
+    "reason": "车夫购买汽油和汗衫发生在制作并点燃燃烧瓶之前，为后续行动获取关键材料，叙事顺序明确。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_61f5a6c77363",
+    "subject_id": "ep_60a31e24cf8df0f7",
+    "object_id": "ep_a1f587efd2033ddf",
+    "relation_type": "precedes",
+    "reason": "根据描述，姐姐脱衣并接受丝袜标志着服务的开始，而嫖客为姐姐洗脚并护理脚部发生在服务开始之后，动作更为深入和细致，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_826fce7ef33d",
+    "subject_id": "ep_d36bdbc459d7ddd5",
+    "object_id": "ep_b89c01857f210aa1",
+    "relation_type": "precedes",
+    "reason": "车夫完成前一单载客任务后，紧接着遭遇地盘冲突并被驱赶。两个情节均发生在scene_11，且逻辑上服务完成在先，冲突发生在后。",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b17bf23fd763",
+    "subject_id": "ep_65c3b1f33a9814d5",
+    "object_id": "ep_e8899dd05a86b1be",
+    "relation_type": "precedes",
+    "reason": "车夫抵达并提醒爷爷收工回家在时间顺序上先于收拾工具并准备离开摊位，因为提醒收工是启动收摊准备动作的前提，且两个情节均发生在scene_13，具有紧密的时序衔接。",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_55d505639cfe",
+    "subject_id": "ep_f42994a8bd26cdee",
+    "object_id": "ep_93fb38d5b68e62d1",
+    "relation_type": "causes",
+    "reason": "伙伴B将医生称为屠夫的讽刺言论直接引发了在场所有人的笑声，包括车夫，这在描述中被明确表述为‘引发笑声’，且两个情节共享同一场景(scene_7)，表明前者是后者的直接原因。",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_09cc5e998bd7",
+    "subject_id": "ep_b2af6a053f7d465d",
+    "object_id": "ep_81ef43ddf5d600ac",
+    "relation_type": "precedes",
+    "reason": "在卧室中老板娘帮助诗人整理衣物并点燃香烟，通过细微动作建立情感联结，为后续叙述生育创伤与情感崩溃的情节奠定了情绪基调，表明该情节在叙事顺序上早于回忆难产经历的情节。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e6262c82a823",
+    "subject_id": "ep_a1f587efd2033ddf",
+    "object_id": "ep_3e807cc2261c01b7",
+    "relation_type": "precedes",
+    "reason": "姐姐脱衣并接受丝袜标志着服务的开始，随后嫖客处理姐姐的丝袜与脚部，动作在叙事顺序上紧随其后。描述中两者均发生在scene_41，但穿戴丝袜在逻辑和行为顺序上先于剪开丝袜并抚摸脚部。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a78ce53b766c",
+    "subject_id": "ep_169bab3209444c59",
+    "object_id": "ep_73b04deb88fdde68",
+    "relation_type": "elaborates",
+    "reason": "确认车夫的家庭背景与经济状况这一情节包含了对父亲死亡的初步提及，而确认父亲事故的具体细节则进一步核实了事故地点，提供了更精确的信息，从而扩展和细化了先前内容。因此，前者被后者以补充细节的方式展开。",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9128ec602481",
+    "subject_id": "ep_460102b70901496a",
+    "object_id": "ep_4d7748917d90d03b",
+    "relation_type": "precedes",
+    "reason": "妓女B寻求留宿确认被拒发生在诗人进入房间并处理未接来电之前，根据scene_31中的事件顺序，诗人拒绝请求后才进入房间面对电话，因此该情节在叙事顺序上早于处理未接来电并陷入沉思。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0d2d5ce2c7ca",
+    "subject_id": "ep_161f02497d1baa8d",
+    "object_id": "ep_e2fd4f976c69f8f6",
+    "relation_type": "precedes",
+    "reason": "‘唤醒家人并开始早晨 routine’标志着家庭早晨的开始，发生在‘准备和分发早餐’之前，两个情节均发生在scene_24，但唤醒家人是早晨活动的起始步骤，逻辑上先于早餐的准备和分发。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_73c5b4c35839",
+    "subject_id": "ep_7a627f5e689f70d5",
+    "object_id": "ep_b588081e79c9f677",
+    "relation_type": "precedes",
+    "reason": "车夫的姐姐到访并情绪崩溃发生在诗人处理离别后事务并观察街道之前，因为相关事件描述中，姐姐进入房间及情绪崩溃与敲门事件均在场景31中早于诗人关上门、放置酒杯及走向阳台等行为，叙事顺序明确。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ef9e511938cb",
+    "subject_id": "ep_28abbf01fb9e8ffe",
+    "object_id": "ep_b37b3c38b888a152",
+    "relation_type": "precedes",
+    "reason": "白衫衣在报告请求时遭遇电击，这一事件打断了信息传递流程；随后他恢复后才走向诗人进行通报。因此，电击事件在时间顺序上明确早于通报行为。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a4b94b84e2e9",
+    "subject_id": "ep_892231767d1a6240",
+    "object_id": "ep_460102b70901496a",
+    "relation_type": "precedes",
+    "reason": "妓女A结束陪伴并准备离开发生在妓女B寻求留宿确认被拒之前，因为描述中明确指出在妓女A离开之际，妓女B才拉住她并询问是否留下过夜，表明时间顺序上前者先于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8d32c0cbfba9",
+    "subject_id": "ep_f5603586c595ccf0",
+    "object_id": "ep_153250e515a157a0",
+    "relation_type": "causes",
+    "reason": "揭露大胡子偷车并引发对峙直接导致了后续的冲突压制行为：诗人否认指控后，白衬衣通过推搡车夫强制终止争论，促使队伍继续前行。该因果链在描述中明确支持，前者是冲突的起因，后者是平息该冲突的直接响应。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5183d68f28c3",
+    "subject_id": "ep_73b04deb88fdde68",
+    "object_id": "ep_b0766e81cf174c92",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合‘贷款申请面谈 (scene_2)’中，且描述中官员先确认事故地点，再询问家庭经济来源，符合面谈过程中信息收集的自然顺序。因此，‘确认父亲事故的具体细节’在叙事顺序上早于‘核实家庭成员的经济来源’。",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1bd5f6431572",
+    "subject_id": "ep_d36bdbc459d7ddd5",
+    "object_id": "ep_459346d32931bd07",
+    "relation_type": "precedes",
+    "reason": "车夫完成前一单载客任务后，才接受新乘客并准备出发，两个情节在时间顺序上连续，且共享同一车夫角色和人力车服务上下文，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0afc18785ca1",
+    "subject_id": "ep_169bab3209444c59",
+    "object_id": "ep_56b7b8492ffee5e4",
+    "relation_type": "precedes",
+    "reason": "确认车夫的家庭背景与经济状况发生在贷款申请面谈过程中，且在官员结束面谈并处理申请之前。两个情节共享同一场合'贷款申请面谈 (scene_2)'，且叙事顺序上前者为信息收集阶段，后者为收尾阶段，明确支持'precedes'关系。",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b2e62185d056",
+    "subject_id": "ep_460102b70901496a",
+    "object_id": "ep_b588081e79c9f677",
+    "relation_type": "precedes",
+    "reason": "妓女B寻求留宿确认被拒发生在两名姑娘离开之前，而诗人处理离别后事务并观察街道发生在她们离开之后，根据描述中的事件顺序，前者在叙事时间上直接早于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3764a7536add",
+    "subject_id": "ep_299f0fdf863e0de2",
+    "object_id": "ep_c1e23bfd6cb99ba1",
+    "relation_type": "elaborates",
+    "reason": "协助三轮车启动 departure 描述了协助醉酒男子离场并安排送返的最后一步，即推动三轮车以帮助其顺利起步，提供了该情节在执行阶段的额外细节，扩展了主体情节的完成过程。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8ade8100d733",
+    "subject_id": "ep_72bfc61b4b294a38",
+    "object_id": "ep_8653f30a8b8e8cc6",
+    "relation_type": "causes",
+    "reason": "黑衬衣逼迫车夫接受新任务导致车夫表现出恐惧和拒绝，进而引发黑衬衣以金鱼容器进行更具体的威胁和警告，两个情节在因果链上紧密衔接，且发生在同一场景（scene_34），文本显示威胁升级是对车夫抗拒的直接回应。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a472f566b2d2",
+    "subject_id": "ep_b37b3c38b888a152",
+    "object_id": "ep_495429f73933b2d0",
+    "relation_type": "precedes",
+    "reason": "白衫衣向诗人通报车夫请求发生在诗人暴力阻止车夫加入之前，根据描述，通报行为是冲突爆发前的最后铺垫，随后诗人立即采取暴力行动，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_09d20d81acab",
+    "subject_id": "ep_3e807cc2261c01b7",
+    "object_id": "ep_60a31e24cf8df0f7",
+    "relation_type": "precedes",
+    "reason": "主体情节描述嫖客剪开姐姐丝袜并抚摸脚部，客体情节描述随后为姐姐洗脚并护理脚部，包括涂抹指甲油等更进一步的护理动作。两个情节发生在同一场景（scene_41），且护理行为在逻辑和叙事顺序上紧随脱袜与初始接触之后，因此主体情节在话语顺序和行为发展上早于客体情节。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_51076e2fea12",
+    "subject_id": "ep_e626ad2cfecbff32",
+    "object_id": "ep_efa4bb1073cc74d9",
+    "relation_type": "precedes",
+    "reason": "主体情节'建立控制与下达指令'包含诗人对车夫下达禁足命令并离开的事件，客体情节'车夫应对孤立与环境威胁'发生在诗人离开之后，描述车夫独自面对环境和身体痛苦的反应。两个情节共享同一场景（scene_30），且事件序列显示指令下达在先，车夫反应在后，因此存在明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4d0ce89307cd",
+    "subject_id": "ep_d3dc5386c8bfe032",
+    "object_id": "ep_325f471d0f45b9df",
+    "relation_type": "precedes",
+    "reason": "根据描述，白衫衣介入质问与诗人离开发生在诗人一行准备并实施灌酒惩罚之前。相关事件序列显示，诗人及其手下离开后又返回实施惩罚，表明‘白衫衣介入质问与诗人离开’在叙事顺序上先于‘灌酒惩罚’情节。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0b0b91038642",
+    "subject_id": "ep_28abbf01fb9e8ffe",
+    "object_id": "ep_495429f73933b2d0",
+    "relation_type": "precedes",
+    "reason": "白衫衣在试图传达车夫请求时因电击受阻，随后诗人听到请求后情绪失控并暴力阻止车夫加入。两个情节均发生在同一场景（scene_48），且电击事件在叙事流程中先于诗人暴力行为，构成明确的时间顺序。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_905dc96c9f76",
+    "subject_id": "ep_4d7748917d90d03b",
+    "object_id": "ep_7a627f5e689f70d5",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，诗人处理未接来电并陷入沉思发生在车夫的姐姐到访之前。在scene_31中，诗人先面对电话未接，随后才开门让姐姐进入，因此该情节在叙事顺序上早于姐姐情绪崩溃的情节。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4dfce107fde2",
+    "subject_id": "ep_e5484989c7a61011",
+    "object_id": "ep_299f0fdf863e0de2",
+    "relation_type": "precedes",
+    "reason": "根据描述，男青年先向醉倒的朋友告别并预告次日探望，随后才协助推动三轮车以帮助其出发，两个情节发生在同一场景（scene_22），但告别行为在叙事逻辑和动作顺序上早于推动三轮车的启动行为。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9b6802a0a6f7",
+    "subject_id": "ep_c59897b2cfdf688b",
+    "object_id": "ep_d0c51ed8fb569716",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均发生在同一场景（scene_50）中，卢尔比对被绑青年实施心理操控通过温柔动作与压迫性言语结合，而展示伤疤则是通过暴力过往的叙述建立威慑，两者在手段上形成情感与策略上的对比：前者是扭曲的安抚，后者是赤裸的恐吓，文本通过并置强化青年精神崩溃的过程。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a1127f332347",
+    "subject_id": "ep_d7c766a6443cb870",
+    "object_id": "ep_e18b429b68f519f1",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述诗人一行进入屋内并开始对峙，黑衬衣对车夫施加言语和心理压迫，为后续行为建立上下文；第二个情节发生在暴力行为结束后，诗人安抚车夫并朗诵诗歌。根据描述中的时间线索‘在暴力行为结束后’，可明确推断前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_57a1c01e803f",
+    "subject_id": "ep_24294f5daa7634fe",
+    "object_id": "ep_7a627f5e689f70d5",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，诗人警告中年男子并允许其进入发生在车夫的姐姐到访之前，两者均发生在scene_31，但中年男子请求进入和被警告的事件序列早于姐姐进入房间并情绪崩溃的描述，表明前者在叙事顺序上直接先于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2fd8f8c7796b",
+    "subject_id": "ep_0021509cffe70bed",
+    "object_id": "ep_b588081e79c9f677",
+    "relation_type": "precedes",
+    "reason": "诗人与妓女B建立情感连接的情节包含两人共处的亲密互动，而处理离别后事务并观察街道的情节始于两名姑娘离开之后，包括关门、收拾物品和阳台观望等动作。根据事件序列，情感连接发生在离别之前，因此主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_04df16c3fe1c",
+    "subject_id": "ep_169bab3209444c59",
+    "object_id": "ep_b0766e81cf174c92",
+    "relation_type": "elaborates",
+    "reason": "第一个情节涉及贷款官员确认车夫的家庭背景与经济状况，包括父母的职业与死因；第二个情节进一步扩展了家庭经济来源的细节，包括姐姐、妹妹和爷爷的工作。两个情节均发生在同一场合（贷款申请面谈），且第二个情节在主题上深化了对家庭经济状况的了解，因此主体情节为客体情节提供了更广泛的背景和补充信息，构成 elaborates 关系。",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_132f52a3c905",
+    "subject_id": "ep_d06fbd1044af4feb",
+    "object_id": "ep_a73ed54786bd1d9e",
+    "relation_type": "precedes",
+    "reason": "情节 '开始家庭探访并建立温馨氛围' 描述了诗人带姐姐到家后母亲与其交谈、展示照片并邀请吃饭等行为，营造出试图维持温情的氛围；随后情节 '应对父亲的拒绝与家庭冲突' 描述了父亲出现后表达不满、辱骂姐姐、殴打诗人等冲突升级事件。两个情节共享同一场景（scene_36），但事件序列显示温馨互动发生在家庭冲突之前，且冲突是在探访建立的氛围基础上发展而来，因此存在明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cb0295af7d40",
+    "subject_id": "ep_0021509cffe70bed",
+    "object_id": "ep_460102b70901496a",
+    "relation_type": "precedes",
+    "reason": "诗人与妓女B建立情感连接的情节包含一系列亲密互动，如抚摸、拥抱和共饮，最终在歌声中相拥，体现情感升温；而妓女B寻求留宿被拒的情节紧随其后，发生在同一场景（scene_31），且以诗人婉拒请求终结情感发展，恢复关系界限。两个情节共享同一场景编号，且后者在叙事上直接承接前者的情感推进，形成时间上的先后顺序。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_275f82da39f2",
+    "subject_id": "ep_c1e23bfd6cb99ba1",
+    "object_id": "ep_e5484989c7a61011",
+    "relation_type": "elaborates",
+    "reason": "‘告别醉酒朋友并表达后续关切’提供了‘协助醉酒男子离场并安排送返’中未明确表达的情感细节和后续意图，通过拍打和预告探望补充了男青年的关怀动机，扩展了主体情节的人际维度。两个情节共享同一场景（scene_22）和时间点（三轮车出发前），但‘告别’行为为‘协助离场’增添了情感背景，构成对主体行动的补充说明。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_d9fa3081231c",
+    "subject_id": "ep_63ecd6bf65b88ecf",
+    "object_id": "ep_8dd39e447f882e39",
+    "relation_type": "precedes",
+    "reason": "车夫妹妹在应对陌生男青年干扰后，继续走向擦鞋区坐下工作（ep_63ecd6bf65b88ecf），随后主动招揽顾客并启动擦鞋服务（ep_8dd39e447f882e39）。两个情节均发生在scene_8，且前者描述的是进入工作位置并稳定下来的过程，后者是开始主动服务顾客，叙事顺序上存在连贯进展，支持'precedes'关系。",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_52aa4b053aff",
+    "subject_id": "ep_d7c766a6443cb870",
+    "object_id": "ep_495429f73933b2d0",
+    "relation_type": "precedes",
+    "reason": "诗人一行进入并开始对峙（ep_d7c766a6443cb870）在叙事顺序上早于诗人暴力阻止车夫加入（ep_495429f73933b2d0），因为对峙建立上下文后才发生暴力行为，且相关事件的时间戳（scene_34 在 scene_48 之前）支持该顺序。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_33af73b66851",
+    "subject_id": "ep_d7c766a6443cb870",
+    "object_id": "ep_325f471d0f45b9df",
+    "relation_type": "precedes",
+    "reason": "诗人一行进入并开始对峙（ep_d7c766a6443cb870）在叙事顺序上早于灌酒惩罚的实施（ep_325f471d0f45b9df），因为对峙建立了后续惩罚行为的上下文，且相关事件如进入屋内和言语压迫发生在购买酒精、控制车夫和灌酒之前。描述中明确显示对峙为后续威胁行为建立上下文，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fddeb8ba223e",
+    "subject_id": "ep_72bfc61b4b294a38",
+    "object_id": "ep_325f471d0f45b9df",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，黑衬衣逼迫车夫接受新任务（包括车夫拒绝并表达恐惧）发生在诗人一行准备并实施灌酒惩罚之前，灌酒是对其拒绝任务的直接惩罚。两个情节共享同一场景编号（scene_34），但逻辑和因果顺序表明逼迫任务在前，灌酒惩罚在后。因此，'黑衬衣逼迫车夫接受新任务'在叙事顺序上早于'诗人一行准备并实施灌酒惩罚'。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_034dd5939928",
+    "subject_id": "ep_491ca851e6da482a",
+    "object_id": "ep_9e21aa31177e6f4b",
+    "relation_type": "elaborates",
+    "reason": "情节'家人团聚并开始日常家务'描绘了家庭成员回家后展开日常活动的整体场景，而'姐姐安排照顾爷爷的健康'在此基础上提供了关于姐姐如何具体关心爷爷健康的额外细节，包括询问疼痛、安排拿烟和承诺带药，这些行为发生在同一场景（scene_16）中，作为对家庭日常互动的进一步展开和深化。因此，后者在叙事上扩展了前者的社会互动层面，构成 elaborates 关系。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_f172db4e119c",
+    "subject_id": "ep_d3dc5386c8bfe032",
+    "object_id": "ep_e18b429b68f519f1",
+    "relation_type": "precedes",
+    "reason": "根据描述，'白衫衣介入质问与诗人离开' 包含诗人叠起报纸离开及手下跟随的事件，标志着对峙现场的结束；随后 '诗人安抚车夫并朗诵诗歌' 发生在暴力结束后，诗人起身抚摸车夫头发并开始朗诵，时间上紧随其后。两个情节均发生在 scene_34，但前者为撤离动作，后者为安抚与诗意氛围的营造，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3eb8ab9955e1",
+    "subject_id": "ep_d7c766a6443cb870",
+    "object_id": "ep_d3dc5386c8bfe032",
+    "relation_type": "precedes",
+    "reason": "诗人一行进入并开始对峙（ep_d7c766a6443cb870）标志着对峙的开始，随后白衫衣介入质问与诗人离开（ep_d3dc5386c8bfe032）描述了对峙的升级和结束，两个情节发生在同一场景（scene_34），且事件顺序在描述中呈现清晰的先后时间流：进入与对峙开始 → 质问升级 → 诗人离开。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_62f4e3e1c98a",
+    "subject_id": "ep_e2012bf6c549f1a6",
+    "object_id": "ep_e78ce624a543ce20",
+    "relation_type": "precedes",
+    "reason": "根据描述，'应对突发声响并控制车夫逃离'发生在车夫因远处响声受惊后被控制的情节，而'救援落水者未遂并重新控制车夫'发生在有人失足落水后车夫再次试图行动的情节。两个情节均发生在scene_32，但逻辑顺序上，先有对突发声响的反应，后有对落水事件的反应，文本中事件序列支持前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bdc7bef4d68e",
+    "subject_id": "ep_4d7748917d90d03b",
+    "object_id": "ep_b588081e79c9f677",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一文档（doc_30）的同一场景（scene_31）中，但根据描述顺序和事件流，诗人先处理未接来电并陷入沉思，随后进行关门、放置酒杯、收钱、走向阳台等动作，表明该情节在叙事顺序上紧接其后。因此，'处理未接来电并陷入沉思'在话语顺序上早于'诗人处理离别后事务并观察街道'。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7778a1975e27",
+    "subject_id": "ep_51443cad43b8ef98",
+    "object_id": "ep_2e02c3c3423872d8",
+    "relation_type": "precedes",
+    "reason": "根据描述，'揭示隐秘民歌与建立保密约定' 情节中老板娘要求车夫保密，并为后续行动设定隐秘基调；紧接着在叙事顺序上，'安排后续会面并传递秘密指令' 情节明确指示车夫次日前往制冰厂接受进一步交代，构成直接的后续行动。两个情节共享同一场景（scene_27）和文档（doc_26），且后者在时间与目标推进上紧随前者，因此支持 'precedes' 关系。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a59df884183c",
+    "subject_id": "ep_fad65f13bc218d95",
+    "object_id": "ep_460102b70901496a",
+    "relation_type": "precedes",
+    "reason": "根据描述，两名妓女出现并打破沉默的情节中，妓女A亲吻诗人并开始唱歌，建立了三人互动的初始场景；随后在妓女B寻求留宿确认被拒的情节中，妓女A离开，妓女B试图挽留并询问留宿被拒。这两个情节共享同一文档和场景编号（scene_31），但事件序列显示前者为互动开端，后者为互动结束，因此在叙事顺序上，'两名妓女出现并打破沉默'在'妓女B寻求留宿确认被拒'之前。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6b636c82ff5a",
+    "subject_id": "ep_8653f30a8b8e8cc6",
+    "object_id": "ep_325f471d0f45b9df",
+    "relation_type": "elaborates",
+    "reason": "黑衬衣以金鱼容器再次威胁并警告（ep_8653f30a8b8e8cc6）通过象征性展示惩罚手段和口头警告，为后续实施灌酒惩罚（ep_325f471d0f45b9df）提供动机和背景解释，扩展了该情节的意图和上下文。两个情节共享同一场景（scene_34）和目标（压制车夫），且威胁行为在逻辑上先于实际执行，但文本未明确时间顺序，因此更符合‘elaborates’而非‘precedes’或‘causes’。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2d359faf47d8",
+    "subject_id": "ep_4528d9b473c1914d",
+    "object_id": "ep_819cd9df36edd2ff",
+    "relation_type": "contrasts_with",
+    "reason": "车夫汇报工作与安全情况体现其作为健康成年人的正常生活状态，而老板娘回忆儿子天生残疾则流露出对儿子命运的感伤，二者在人物境遇和情感基调上形成对比。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_12_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_83094cc42130",
+    "subject_id": "ep_8504f8fd2a28eb0e",
+    "object_id": "ep_092ab447263ab1a3",
+    "relation_type": "precedes",
+    "reason": "车夫在街头寻找乘客并聆听父亲忠告的情节展现了其当前生存状态与内心动摇，为后续会面伙伴并获取扶贫贷款信息提供叙事铺垫；尽管无明确时间标记，但逻辑上对现状的反思先于寻求出路的行动，支持该顺序。",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_61db79f2be6c",
+    "subject_id": "ep_81ef43ddf5d600ac",
+    "object_id": "ep_b98f3d266576d0c1",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_37）中，且根据描述顺序，老板娘先回忆难产经历并情绪崩溃，随后才讲述孩子父亲离开的故事并实现情绪释放，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e24448c59680",
+    "subject_id": "ep_8504f8fd2a28eb0e",
+    "object_id": "ep_a2893f8523ab49dd",
+    "relation_type": "precedes",
+    "reason": "车夫在街头寻找乘客并聆听父亲忠告的情节，发生在其用水降温并交接三轮车之前，依据描述中‘寻找乘客’为初始活动，而‘交接三轮车’和‘步行离开’暗示该工作阶段的结束，具有清晰的叙事时序顺序。",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_739bcc45b6f5",
+    "subject_id": "ep_ecd10665fd5b47dd",
+    "object_id": "ep_495429f73933b2d0",
+    "relation_type": "causes",
+    "reason": "车夫提出加入帮会的请求直接引发诗人情绪失控并实施暴力，文本明确描述该请求导致诗人将其打倒在地，构成直接因果关系。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cca2f9e42b76",
+    "subject_id": "ep_b2af6a053f7d465d",
+    "object_id": "ep_1be4f13eae52d7d4",
+    "relation_type": "elaborates",
+    "reason": "情节'开启回忆与情感联结'通过建立静谧氛围和情感纽带，为'讲述饥荒中的生存挣扎'这一回忆内容的展开提供了情绪铺垫和叙事启动，后者在前者创造的情境下被引出并得到扩展，因此前者为后者的情感背景和叙述契机提供了补充说明。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_abd62fb9b9ad",
+    "subject_id": "ep_495429f73933b2d0",
+    "object_id": "ep_d3dc5386c8bfe032",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'诗人暴力阻止车夫加入'（scene_48）发生在'白衫衣介入质问与诗人离开'（scene_34）之前。尽管scene编号存在倒置（34在48前），但scene_34属于doc_33，scene_48属于doc_47，文档编号表明doc_33早于doc_47，因此scene编号应按文档顺序解释。然而，两个episode的事件均发生在同一场景序列中，且描述中'诗人离开'是暴力事件后的结果性行为。结合叙事流，暴力事件后白衫衣质问并最终诗人离开，构成直接后续。因此，主体episode在叙事顺序上先于客体episode。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_12abf959a3a3",
+    "subject_id": "ep_4528d9b473c1914d",
+    "object_id": "ep_5e5b60b7730a97e6",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_12）中，且根据描述顺序，车夫汇报工作与安全情况先发生，随后两名男青年进入店铺并处理钱款与牙痛问题，体现出叙事上的先后顺序。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_12_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c065475de79e",
+    "subject_id": "ep_161f02497d1baa8d",
+    "object_id": "ep_cb3e520e904be1fa",
+    "relation_type": "precedes",
+    "reason": "主体情节描述家庭成员被唤醒，标志着早晨的开始，而客体情节描述妹妹已完成着装准备上学，属于早晨 routine 的后续阶段。根据叙事顺序，唤醒家人应在个人准备完成之前，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ab8a007f7377",
+    "subject_id": "ep_0cd17d1c325d282e",
+    "object_id": "ep_56b7b8492ffee5e4",
+    "relation_type": "precedes",
+    "reason": "记录车辆租赁的财务细节发生在贷款申请面谈的询问阶段，而结束贷款申请面谈并处理申请是在所有信息记录完成后进行的，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4d2f83e487fc",
+    "subject_id": "ep_161f02497d1baa8d",
+    "object_id": "ep_7d5f277de8db75ea",
+    "relation_type": "precedes",
+    "reason": "‘唤醒家人并开始早晨 routine’在叙事顺序上早于‘督促弟弟完成洗漱’，因为姐姐先叫弟弟起床，随后提醒他去洗脸，两个情节均发生在scene_24，且逻辑上起床是洗漱的前提。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6dedb576a7dc",
+    "subject_id": "ep_4893cb86bb8b077d",
+    "object_id": "ep_ecd10665fd5b47dd",
+    "relation_type": "precedes",
+    "reason": "根据描述，'戏弄车夫并赠予钞票'发生在车夫接受馈赠后，紧接着他提出加入帮会的请求。文本明确指出'在收到馈赠后，车夫突然表达想加入帮会的愿望'，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5f9e5dde1395",
+    "subject_id": "ep_1be4f13eae52d7d4",
+    "object_id": "ep_b98f3d266576d0c1",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节聚焦于饥荒时期极端生存的集体苦难，基调沉重且具生存压迫感；第二个情节转向个人情感揭示，从怨恨到理解再到突然的笑声，完成情绪释放。两者在情感基调（压抑 vs. 释放）和关注焦点（外部生存 vs. 内部情感）上形成并置对比，符合文本中情绪转折的叙述功能。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6d7b956a5667",
+    "subject_id": "ep_2300bea04e491242",
+    "object_id": "ep_d66ff4465fa086f2",
+    "relation_type": "causes",
+    "reason": "车夫发现车辆被盗并开始追赶，导致其在追击过程中遭受殴打并因伤痛倒地翻滚，描述中追赶行为与后续受伤状态存在直接因果链，且两情节共享同一场景（scene_26），支持追赶行为引发冲突和伤害后果。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3019fdd8205c",
+    "subject_id": "ep_d7c766a6443cb870",
+    "object_id": "ep_fe5521ba45166de3",
+    "relation_type": "precedes",
+    "reason": "诗人一行进入并开始对峙标志着对峙的开始，随后黑衬衣强行赏钱并表达轻蔑是该对峙情境下的后续行为。根据描述，进入和对峙建立上下文，之后发生具体的羞辱行为，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cfbf9a622824",
+    "subject_id": "ep_72bfc61b4b294a38",
+    "object_id": "ep_fe5521ba45166de3",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_34）中，且根据描述顺序，黑衬衣先逼迫车夫接受任务，随后才强行塞钱并表达轻蔑，叙事顺序支持前者在时间上先于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2df0b292d49d",
+    "subject_id": "ep_65c3b1f33a9814d5",
+    "object_id": "ep_a6ff5ecf74c1225a",
+    "relation_type": "precedes",
+    "reason": "车夫抵达并提醒爷爷收工回家发生在他们进入胡同之前，因为收工是回家行动的起点，进入胡同是后续移动的一部分，叙事顺序上前者先于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_166725b562a7",
+    "subject_id": "ep_ada4b24b6bac9d06",
+    "object_id": "ep_c34adb1518008f68",
+    "relation_type": "precedes",
+    "reason": "旁观者观察审讯场景发生在卢尔比杀害被绑青年之前，因为审讯与伤疤展示是卢尔比行凶前的行为，随后才发生割喉杀人及对车夫的心理震慑。相关事件序列在scene_50中按时间顺序呈现，支持该叙事先后关系。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_551b5b912514",
+    "subject_id": "ep_325f471d0f45b9df",
+    "object_id": "ep_ebe98f1203729c01",
+    "relation_type": "precedes",
+    "reason": "诗人一行准备并实施灌酒惩罚发生在对峙期间，而车夫整理物品并观察离去者发生在对峙结束后，根据描述中的时间线索'对峙结束后'，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2ef15c6fc031",
+    "subject_id": "ep_7d3c14feff350300",
+    "object_id": "ep_819cd9df36edd2ff",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节展现老板娘对儿子日常照料的主动安排，体现当下的关怀与控制；第二个情节则转向她对儿子天生残疾命运的被动感伤，流露深层悲情。两者在情感基调（积极照料 vs. 消极哀伤）和行动性（外在行为 vs. 内在回忆）上形成明显对比，通过并置强化母爱的复杂性。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_12_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2134232f3f4b",
+    "subject_id": "ep_325f471d0f45b9df",
+    "object_id": "ep_e18b429b68f519f1",
+    "relation_type": "precedes",
+    "reason": "根据描述，'诗人一行准备并实施灌酒惩罚' 包含一系列暴力行为，而'诗人安抚车夫并朗诵诗歌'发生在'暴力行为结束后'，明确表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6c4dc5587a48",
+    "subject_id": "ep_72bfc61b4b294a38",
+    "object_id": "ep_e18b429b68f519f1",
+    "relation_type": "precedes",
+    "reason": "黑衬衣逼迫车夫接受新任务发生在诗人安抚车夫并朗诵诗歌之前，两个情节均发生在scene_34，但描述中明确显示暴力事件结束后诗人才开始安抚行为，因此存在清晰的叙事时序先后关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4114f7999e83",
+    "subject_id": "ep_0cd17d1c325d282e",
+    "object_id": "ep_b0766e81cf174c92",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合'贷款申请面谈 (scene_2)'中，且描述中官员依次记录车辆租赁细节后，再询问并记录家庭成员的经济来源，表明存在清晰的叙事顺序。记录车辆租赁信息在前，核实家庭经济来源在后，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c107998de79b",
+    "subject_id": "ep_8653f30a8b8e8cc6",
+    "object_id": "ep_fe5521ba45166de3",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一文档（doc_33）的同一场景（scene_34）中，但根据描述顺序和行为逻辑，黑衬衣先以金鱼容器进行威胁和警告，随后才强行塞钱并表达轻蔑，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d5a7bb6fbbd7",
+    "subject_id": "ep_72bfc61b4b294a38",
+    "object_id": "ep_ae061a4a3b8ec1b5",
+    "relation_type": "elaborates",
+    "reason": "黑衬衣逼迫车夫接受新任务与随后以金鱼和骷髅进行象征性威胁的行为发生在同一场景（scene_34），后者通过隐喻性动作深化前者中的权力压迫和心理威慑，扩展了对车夫的警告层面，因此构成对前一情节的进一步阐释。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_315a30b29c0e",
+    "subject_id": "ep_d7c766a6443cb870",
+    "object_id": "ep_72bfc61b4b294a38",
+    "relation_type": "precedes",
+    "reason": "诗人一行进入并开始对峙的情节中，描述明确指出‘诗人沉默旁观，而黑衬衣随即展开对车夫的言语和心理压迫’，表明‘诗人一行进入并开始对峙’在叙事顺序上紧接并早于‘黑衬衣逼迫车夫接受新任务’，构成直接的前后事件序列。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ebfcf8f926e3",
+    "subject_id": "ep_e18b429b68f519f1",
+    "object_id": "ep_ebe98f1203729c01",
+    "relation_type": "precedes",
+    "reason": "根据描述，诗人安抚车夫并朗诵诗歌发生在对峙刚结束时，而车夫整理物品并观察离去者是在此之后的行为。两个情节均发生在scene_34，但安抚与朗诵在先，整理物品和观察离去者在后，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_201d4ecea9c4",
+    "subject_id": "ep_4893cb86bb8b077d",
+    "object_id": "ep_495429f73933b2d0",
+    "relation_type": "contrasts_with",
+    "reason": "‘戏弄车夫并赠予钞票’展示了一种居高临下的善意与短暂的欢笑，而紧随其后的‘诗人暴力阻止车夫加入’则以极端暴力终结车夫的归属幻想，两者在行为态度和结果上形成强烈反差，构成对同一人物加入企图的两种截然不同的回应，文本中并置呈现以强调权力、接纳与排斥之间的张力。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7ebe3915b33c",
+    "subject_id": "ep_8653f30a8b8e8cc6",
+    "object_id": "ep_ae061a4a3b8ec1b5",
+    "relation_type": "elaborates",
+    "reason": "两个情节均发生在同一场景（scene_34）且涉及黑衬衣对车夫的威胁行为。第一个情节通过金鱼容器和酒精展示惩罚手段，第二个情节通过金鱼与铁制骷髅的象征性投掷进一步扩展其讽刺与心理威慑的含义，构成对同一威胁主题的深化和补充。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_d09116c0272b",
+    "subject_id": "ep_4d7748917d90d03b",
+    "object_id": "ep_fad65f13bc218d95",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，诗人处理未接来电并陷入沉思发生在两名妓女出现并打破沉默之前。两个情节均发生在scene_31，但‘电话响起’和‘凝视烟盒’在叙述上先于‘两个年轻姑娘走出’和后续互动，表明清晰的叙事先后顺序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fa77602f99a8",
+    "subject_id": "ep_188db1b411d4f109",
+    "object_id": "ep_f81ece99303fac62",
+    "relation_type": "precedes",
+    "reason": "根据描述，四名青年先盗取三轮车并逃离，随后对车夫进行暴力殴打并再次逃离。两个情节均发生在同一文档（doc_25）的同一场景（scene_26），但盗车行为在叙事顺序上早于暴力殴打行为，因此‘盗取三轮车并逃离’在时间顺序上先于‘暴力殴打车夫并逃离’。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fa5d020bff66",
+    "subject_id": "ep_d7c766a6443cb870",
+    "object_id": "ep_8653f30a8b8e8cc6",
+    "relation_type": "precedes",
+    "reason": "根据描述，诗人一行进入并开始对峙的情节中，黑衬衣随即展开对车夫的言语和心理压迫，为后续用金鱼容器进行威胁的行为建立上下文。这表明‘诗人一行进入并开始对峙’在叙事顺序上早于‘黑衬衣以金鱼容器再次威胁并警告’，且两者发生在同一场景（scene_34），具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d2f7ae61496b",
+    "subject_id": "ep_65c3b1f33a9814d5",
+    "object_id": "ep_491ca851e6da482a",
+    "relation_type": "precedes",
+    "reason": "车夫抵达并提醒爷爷收工回家发生在家人团聚并开始日常家务之前，因为爷爷需要先结束工作才能回家参与家庭活动，且相关事件在不同文档中按时间顺序排列，支持这一叙事顺序。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_39be1261db71",
+    "subject_id": "ep_a6ff5ecf74c1225a",
+    "object_id": "ep_491ca851e6da482a",
+    "relation_type": "precedes",
+    "reason": "车夫推着载有爷爷的车进入胡同（ep_a6ff5ecf74c1225a）是他们回家的前提行动，随后车夫和爷爷回到家中并开始家务活动（ep_491ca851e6da482a），在叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8b25891a4269",
+    "subject_id": "ep_d7c766a6443cb870",
+    "object_id": "ep_ae061a4a3b8ec1b5",
+    "relation_type": "precedes",
+    "reason": "根据描述，诗人一行进入并开始对峙（ep_d7c766a6443cb870）标志着对峙的开始，随后黑衬衣展开讽刺与威胁行为（ep_ae061a4a3b8ec1b5），二者发生在同一场景（scene_34），但进入和建立上下文在时间上先于具体的象征性威胁行为。因此，该关系在叙事顺序上为 precedes。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5f904e3c8c53",
+    "subject_id": "ep_0021509cffe70bed",
+    "object_id": "ep_892231767d1a6240",
+    "relation_type": "precedes",
+    "reason": "诗人与妓女B建立情感连接的情节包含一系列亲密互动，最终以两人默默相拥结束；随后妓女A取出钱、走向相拥的两人并宣布离开，标志着其陪伴的终结。两个情节均发生在scene_31，但事件序列显示情感连接的建立在先，妓女A的离开行为在后，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3a59aaf6bb45",
+    "subject_id": "ep_5c0bdf510130f860",
+    "object_id": "ep_40a6942848d67921",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件流，车夫运送三轮车至家中过道（doc_14, scene_15）发生在车夫提议用错寄的秤为爷爷创收（doc_15, scene_16）之前，两个情节分别属于连续场景，且主体行为具有时间上的先后顺序。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b087f62e1cdc",
+    "subject_id": "ep_5720c5e6ce40d338",
+    "object_id": "ep_65df71655d1940f8",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述诗人观察车夫的姐姐进入房间，第二个情节进一步描述诗人继续注视姐姐的举动，提供了更详细的观察行为，扩展了前一个情节的观察过程。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_1ca3f95b9916",
+    "subject_id": "ep_161f02497d1baa8d",
+    "object_id": "ep_491ca851e6da482a",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述家庭成员被唤醒并开始早晨routine，发生在家庭成员团聚并开始家务之前。根据描述，车夫和爷爷是‘回到’家中，暗示此前家庭尚未完全聚集，因此‘唤醒家人’在时间顺序上早于‘家人团聚并开始日常家务’。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_191d571aad84",
+    "subject_id": "ep_65c3b1f33a9814d5",
+    "object_id": "ep_5c0bdf510130f860",
+    "relation_type": "precedes",
+    "reason": "车夫抵达并提醒爷爷收工回家（ep_65c3b1f33a9814d5）发生在车夫运送三轮车至家中过道（ep_5c0bdf510130f860）之前，因为收工决定后才进行三轮车的运送，且两情节共享车夫与爷爷的行动流，时间顺序上具有连贯性。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7204e32c4570",
+    "subject_id": "ep_ae061a4a3b8ec1b5",
+    "object_id": "ep_fe5521ba45166de3",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均发生在同一场景（scene_34）中，黑衬衣通过象征性行为（金鱼与骷髅）进行心理威慑，随后以强行赏钱和身体接触表达轻蔑。两者并置，强化了对车夫的羞辱，但方式不同：前者是隐喻性威胁，后者是直接的身体性羞辱。这种行为模式的并置在方式和象征层面上形成对比，一个侧重讽刺与象征，另一个侧重物质施压与身体厌恶，共同构建权力压制但通过不同修辞手段实现，因此构成对比关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_1aa0f0712d6c",
+    "subject_id": "ep_5c0bdf510130f860",
+    "object_id": "ep_491ca851e6da482a",
+    "relation_type": "precedes",
+    "reason": "车夫运送三轮车至家中过道（ep_5c0bdf510130f860）发生在车夫和爷爷进入家中房间之后，而家人团聚并开始日常家务（ep_491ca851e6da482a）始于他们进入家中，且爷爷洗手后加入家务。根据事件序列，三轮车运送完成之后，家庭成员才开始各自活动，因此该情节在叙事顺序上先于家人团聚并开始家务。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5674d59396ff",
+    "subject_id": "ep_fad65f13bc218d95",
+    "object_id": "ep_0021509cffe70bed",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，两名妓女出现并打破沉默（ep_fad65f13bc218d95）包含的事件如‘两个年轻姑娘从另一房间走出’和‘妓女A亲吻诗人并开始唱歌’在叙事中早于诗人与妓女B建立情感连接（ep_0021509cffe70bed）中的动作，如抚摸、共饮和相拥。这些事件均发生在同一场景（scene_31），但逻辑和动作发展顺序表明前者启动了互动，后者深化了特定人物间的情感，因此存在明确的叙事先后关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b2e505cb76be",
+    "subject_id": "ep_3038255c5ae5825e",
+    "object_id": "ep_5720c5e6ce40d338",
+    "relation_type": "precedes",
+    "reason": "诗人先观察街景并被车夫姐姐吸引（ep_3038255c5ae5825e），随后才目睹她进入房间（ep_5720c5e6ce40d338），两个情节在叙事顺序上存在明确的时间先后关系，由相关事件的描述支持。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ad87f3635862",
+    "subject_id": "ep_5720c5e6ce40d338",
+    "object_id": "ep_3d80fae79b3e0346",
+    "relation_type": "precedes",
+    "reason": "‘观察车夫的姐姐进入房间’描述的是车夫姐姐进入诗人房间的初始动作（scene_43），而‘诗人观察屋内车夫姐姐的行踪’描述的是诗人后续持续观察她在屋内的停留状态（scene_44），两个情节基于相关事件的场景编号和动作逻辑顺序，支持前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2168d42d9864",
+    "subject_id": "ep_5720c5e6ce40d338",
+    "object_id": "ep_d5500369408444e1",
+    "relation_type": "precedes",
+    "reason": "诗人目睹车夫的姐姐进入房间后，才察觉室内互动并介入，扔掉烟进入房间。这一时间顺序在两个情节的描述中明确体现：观察是介入的前提，且相关事件（如诗人进入房间）在叙事上紧随观察之后发生。因此，'观察车夫的姐姐进入房间'在叙事顺序上早于'诗人一行介入并监控现场局势'。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4a8aed5e7e39",
+    "subject_id": "ep_28c9bb373c56e58b",
+    "object_id": "ep_65df71655d1940f8",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述诗人观察姐姐寻找自己，构成静默情感线索；第二个情节进一步聚焦诗人通过注视回应姐姐的举动，以观察为核心目标。第二个情节在行为细节上扩展了第一个情节中的观察行为，提供了更具体的反应方式，因此构成对前者的细化和补充说明。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fcbff5b163e6",
+    "subject_id": "ep_3d80fae79b3e0346",
+    "object_id": "ep_65df71655d1940f8",
+    "relation_type": "elaborates",
+    "reason": "两个情节都围绕诗人对车夫姐姐的观察行为展开。主体情节描述诗人通过敞开的门注意到姐姐停留在屋内，客体情节进一步描述诗人通过沉默注视回应姐姐东张西望的举动，提供了更具体的观察细节和互动方式，构成对前一情节的扩展和深化。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_9c8f665757b0",
+    "subject_id": "ep_65df71655d1940f8",
+    "object_id": "ep_7a627f5e689f70d5",
+    "relation_type": "elaborates",
+    "reason": "‘观察姐姐的举动’通过诗人沉默注视的行为，提供了对‘车夫的姐姐到访并情绪崩溃’中诗人反应的额外细节，扩展了该情节的情感氛围和互动动态，构成对主体情境的深化描述。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8ee2256bf3cb",
+    "subject_id": "ep_3038255c5ae5825e",
+    "object_id": "ep_65df71655d1940f8",
+    "relation_type": "precedes",
+    "reason": "诗人先观察街景并被车夫姐姐吸引（ep_3038255c5ae5825e），随后在下一个场景中沉默注视姐姐的举动（ep_65df71655d1940f8），两个情节在叙事顺序上连续，且后者依赖前者建立注意力转移的基础，因此前者在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c7fbe13f0a1a",
+    "subject_id": "ep_5720c5e6ce40d338",
+    "object_id": "ep_7a627f5e689f70d5",
+    "relation_type": "elaborates",
+    "reason": "主体情节'观察车夫的姐姐进入房间'描述了姐姐进入房间的初始观察，而客体情节'车夫的姐姐到访并情绪崩溃'包含了进入房间后的详细行为与情感表达，包括绕屋行走、情绪崩溃和诉说被迫前来的背景。客体情节在相同场景中扩展了主体情节的细节，提供了更丰富的行为和情感背景，构成对初始观察的进一步阐述。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b35dab626583",
+    "subject_id": "ep_2e02c3c3423872d8",
+    "object_id": "ep_8874887d84ed3fca",
+    "relation_type": "precedes",
+    "reason": "主体情节中老板娘指示车夫次日前往制冰厂接受进一步交代，暗示了后续行动的时间顺序；客体情节描述诗人到达制冰厂并进入房间，构成该后续行动的具体展开。因此，主体情节在叙事时间上明确早于客体情节，形成直接的先后关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ccbb47f2b7e0",
+    "subject_id": "ep_8874887d84ed3fca",
+    "object_id": "ep_e626ad2cfecbff32",
+    "relation_type": "precedes",
+    "reason": "诗人进入制冰厂的房间（ep_8874887d84ed3fca）发生在对车夫下达指令（ep_e626ad2cfecbff32）之前，根据场景顺序和空间逻辑，进入房间是后续控制行为的前提。related_events 显示两个情节均发生在连续场景（scene_29 到 scene_30），支持叙事上的先后顺序。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ad0c815a01c4",
+    "subject_id": "ep_8874887d84ed3fca",
+    "object_id": "ep_d5500369408444e1",
+    "relation_type": "precedes",
+    "reason": "诗人使用钥匙打开门并进入房间（ep_8874887d84ed3fca）发生在诗人察觉室内互动后扔掉烟并进入房间（ep_d5500369408444e1）之前，根据事件描述中的动作顺序，进入房间是后续介入和监控行为的前提，因此在叙事时序上前者早于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_32f58e416b5d",
+    "subject_id": "ep_8874887d84ed3fca",
+    "object_id": "ep_4d7748917d90d03b",
+    "relation_type": "precedes",
+    "reason": "诗人先进入制冰厂的房间（ep_8874887d84ed3fca），随后在该空间内处理未接来电并陷入沉思（ep_4d7748917d90d03b），两个情节在空间和动作顺序上连续，且描述中的事件序列支持前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1c6f3e79ad87",
+    "subject_id": "ep_8874887d84ed3fca",
+    "object_id": "ep_d7c766a6443cb870",
+    "relation_type": "precedes",
+    "reason": "主体情节'进入制冰厂的房间'描述诗人使用钥匙打开门并进入房间，这是进入空间的初始动作；客体情节'诗人一行进入并开始对峙'描述诗人及其手下进入屋内并对车夫展开压迫，标志着对峙的开始。根据叙事顺序，先进入房间，随后才可能发生对峙，且related_events中主体涉及开门，客体涉及进入和对峙启动，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_049edf163e94",
+    "subject_id": "ep_d7417a5daf9d2692",
+    "object_id": "ep_e18b429b68f519f1",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节描述诗人暴力殴打车夫并下令处置，表现出愤怒与控制；第二个情节中诗人蹲下抚摸车夫头发并朗诵诗歌，展现出矛盾的同情与诗意沉思。两个情节在情绪和行为上形成鲜明对比，文本通过这种并置强调诗人复杂、矛盾的心理状态。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fc2e0bd2506f",
+    "subject_id": "ep_d3dc5386c8bfe032",
+    "object_id": "ep_d7417a5daf9d2692",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述白衫衣介入质问车夫，随后诗人离开现场，事件发生在scene_34；第二个情节描述诗人因殴打车夫而手部受伤并下令处置车夫，事件发生在scene_49。scene_34在叙事顺序上早于scene_49，因此主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6d4372819611",
+    "subject_id": "ep_495429f73933b2d0",
+    "object_id": "ep_d7417a5daf9d2692",
+    "relation_type": "precedes",
+    "reason": "诗人暴力阻止车夫加入的情节中，诗人殴打车夫导致其面部流血，紧随其后在处理伤情并下令处置车夫的情节中，诗人因打人而手部受伤并进行处理，且下令处置车夫。两个情节在叙事上连续，前者为后者的直接前提，文档场景编号从scene_48到scene_49也支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_33dd9af71cf9",
+    "subject_id": "ep_d7c766a6443cb870",
+    "object_id": "ep_d7417a5daf9d2692",
+    "relation_type": "precedes",
+    "reason": "诗人一行进入并开始对峙（ep_d7c766a6443cb870）在叙事顺序上早于处理伤情并下令处置车夫（ep_d7417a5daf9d2692），因为对峙是殴打车夫及其后续行为的前置场景，且相关事件（如进入屋内）发生在导致手部受伤的冲突之前。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3158cca227da",
+    "subject_id": "ep_3038255c5ae5825e",
+    "object_id": "ep_d06fbd1044af4feb",
+    "relation_type": "precedes",
+    "reason": "诗人先在阳台上观察街景并被车夫姐姐吸引（ep_3038255c5ae5825e），随后带她前往父母家开始家庭探访（ep_d06fbd1044af4feb），叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_36_part_1",
+      "scene_36_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5da595e1e741",
+    "subject_id": "ep_3038255c5ae5825e",
+    "object_id": "ep_dc017e6e672bb839",
+    "relation_type": "precedes",
+    "reason": "诗人先观察街景并被车夫姐姐吸引（ep_3038255c5ae5825e），随后与姐姐共坐并流露情感（ep_dc017e6e672bb839），两个情节在叙事顺序上呈现清晰的时间先后，前者为后者的情节发展提供前提。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_972ed6511a60",
+    "subject_id": "ep_3d80fae79b3e0346",
+    "object_id": "ep_d5500369408444e1",
+    "relation_type": "precedes",
+    "reason": "诗人首先观察到车夫姐姐在屋内的行踪，随后才扔掉烟并进入房间，触发介入与监控现场的情节。描述中‘诗人观察后扔掉烟进入房间’明确支持观察情节在介入情节之前发生。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7a5dc0a03117",
+    "subject_id": "ep_3038255c5ae5825e",
+    "object_id": "ep_7a627f5e689f70d5",
+    "relation_type": "precedes",
+    "reason": "诗人观察街景并被车夫姐姐吸引这一情节发生在车夫姐姐进入房间并情绪崩溃之前。根据描述，诗人先在阳台观察街景并注意到车夫姐姐走向其住处，随后她进入房间并发生情绪崩溃，叙事顺序明确支持前者在时间上先于后者。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f321cbc53b24",
+    "subject_id": "ep_3038255c5ae5825e",
+    "object_id": "ep_02f5f39835ed3919",
+    "relation_type": "precedes",
+    "reason": "诗人首先在阳台上观察街景并被车夫姐姐吸引（ep_3038255c5ae5825e），随后才潜入楼上房间阳台监视屋内行为（ep_02f5f39835ed3919），两个情节在叙事顺序上存在明确的时间先后关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bd5fba1aec95",
+    "subject_id": "ep_d5500369408444e1",
+    "object_id": "ep_e626ad2cfecbff32",
+    "relation_type": "precedes",
+    "reason": "诗人一行介入并监控现场局势（scene_27）发生在建立控制与下达指令（scene_30）之前，根据相关事件的时间顺序，scene_27在叙事上早于scene_30，因此该关系为precedes。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_288f49c3e596",
+    "subject_id": "ep_3d80fae79b3e0346",
+    "object_id": "ep_7a627f5e689f70d5",
+    "relation_type": "elaborates",
+    "reason": "诗人观察屋内车夫姐姐的行踪这一情节，通过描述诗人注意到姐姐仍在屋内，为车夫的姐姐到访并情绪崩溃的情节提供了观察视角和背景信息。后者包含姐姐进入房间、绕行、情绪爆发等具体事件，而前者聚焦于诗人对这一场景的察觉，从而在叙事上扩展了主体对客体事件的感知上下文。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_02e838d12d84",
+    "subject_id": "ep_d7c766a6443cb870",
+    "object_id": "ep_e626ad2cfecbff32",
+    "relation_type": "precedes",
+    "reason": "诗人一行进入并开始对峙（ep_d7c766a6443cb870）标志着对峙的开始，随后诗人通过沉默和命令建立控制并下达指令（ep_e626ad2cfecbff32），在叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9abb49cf85c9",
+    "subject_id": "ep_e626ad2cfecbff32",
+    "object_id": "ep_e18b429b68f519f1",
+    "relation_type": "precedes",
+    "reason": "情节'建立控制与下达指令'发生在暴力事件期间，诗人命令车夫蹲下并限制其行动，而'诗人安抚车夫并朗诵诗歌'发生在暴力行为结束后，诗人表现出同情并开始朗诵诗歌。根据描述中的时间线索，控制建立在前，安抚与朗诵在后，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b86168cd7138",
+    "subject_id": "ep_d5500369408444e1",
+    "object_id": "ep_f5603586c595ccf0",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'诗人一行介入并监控现场局势' 发生在 scene_27，而 '揭露大胡子偷车并引发对峙' 发生在 scene_28，scene_27 在叙事顺序上早于 scene_28，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_298fda60fadf",
+    "subject_id": "ep_b588081e79c9f677",
+    "object_id": "ep_e626ad2cfecbff32",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序，'建立控制与下达指令'（doc_29）发生在'诗人处理离别后事务并观察街道'（doc_30）之前。两个情节分别属于连续的场景（scene_30 和 scene_31），且事件序列显示诗人先对车夫下达指令，随后在姑娘们离开后处理个人事务并望向街道，因此存在明确的叙事时间先后顺序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3ce95e157f7d",
+    "subject_id": "ep_d3dc5386c8bfe032",
+    "object_id": "ep_e626ad2cfecbff32",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，'建立控制与下达指令'（ep_e626ad2cfecbff32）发生在诗人命令车夫蹲下并留下等待时，而'白衫衣介入质问与诗人离开'（ep_d3dc5386c8bfe032）发生在后续场景中，诗人叠起报纸后离开，且两个手下跟随。这表明前者在叙事顺序上先于后者，构成情节的先后推进。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_49c969c19b39",
+    "subject_id": "ep_d7c766a6443cb870",
+    "object_id": "ep_f5603586c595ccf0",
+    "relation_type": "precedes",
+    "reason": "诗人一行进入并开始对峙（ep_d7c766a6443cb870）在叙事顺序上早于揭露大胡子偷车并引发对峙（ep_f5603586c595ccf0），因为前者标志着对峙的开始，而后者是在该对峙背景下展开的具体冲突事件，且相关事件发生在同一场景序列中，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dc758ac99349",
+    "subject_id": "ep_28c9bb373c56e58b",
+    "object_id": "ep_b588081e79c9f677",
+    "relation_type": "contrasts_with",
+    "reason": "诗人观察姐姐寻找自己构成一条静默情感线索，而诗人在处理离别后事务时选择回避姐姐的视线，体现疏离与克制。两个情节并置，通过情感表达上的静默关注与主动回避形成对比，强调诗人内心情感与外在行为之间的张力。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_9fac4943344c",
+    "subject_id": "ep_7a627f5e689f70d5",
+    "object_id": "ep_dc017e6e672bb839",
+    "relation_type": "precedes",
+    "reason": "车夫的姐姐到访并情绪崩溃发生在诗人与姐姐共坐并流露情感之前，根据相关场景编号（scene_31 在 scene_35 之前）可明确叙事顺序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b3fffced5398",
+    "subject_id": "ep_d06fbd1044af4feb",
+    "object_id": "ep_28c9bb373c56e58b",
+    "relation_type": "contrasts_with",
+    "reason": "情节'开始家庭探访并建立温馨氛围'描绘了家庭内部主动营造的温情互动，而'诗人观察姐姐寻找自己'则呈现了诗人外部视角下姐姐静默寻找他的情感线索，两者在互动方式（主动交流 vs. 静默张望）和空间位置（室内家庭场景 vs. 对面楼阳台）上形成并置对比，强调情感表达的内外差异。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_36_part_1",
+      "scene_36_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_bc4d0a2e722c",
+    "subject_id": "ep_e18b429b68f519f1",
+    "object_id": "ep_eb5652ac5ae05497",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中诗人开始朗诵诗歌，第二个情节继续以画外音形式深入表达生命感悟，后者在内容上扩展和深化了前者的主题与情感，构成对前一情节的进一步阐释。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6a9ae01fe7a2",
+    "subject_id": "ep_28c9bb373c56e58b",
+    "object_id": "ep_7a627f5e689f70d5",
+    "relation_type": "contrasts_with",
+    "reason": "诗人观察姐姐在阳台静默寻找自己，与车夫的姐姐到访后情绪崩溃形成情感基调上的对比：前者是克制、远距离的凝视，后者是直接、压抑情绪的爆发。两个情节都涉及‘姐姐’和‘诗人’，但一个表现外部观察的静默线索，另一个表现内部冲突的情感释放，构成情感表达方式的并置对比。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4df4beac36f1",
+    "subject_id": "ep_b588081e79c9f677",
+    "object_id": "ep_dc017e6e672bb839",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节中诗人回避车夫的姐姐，体现疏离与克制；第二个情节中诗人与同一人物亲密共坐，流露情感。两个情节通过情感状态的对立（回避 vs. 亲近）形成鲜明对比，强调诗人与姐姐之间关系的张力或转变，构成基调与行为上的逆转。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_cded44cda21c",
+    "subject_id": "ep_d3dc5386c8bfe032",
+    "object_id": "ep_f5603586c595ccf0",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，'揭露大胡子偷车并引发对峙'（ep_f5603586c595ccf0）发生在车夫认出大胡子并举报、诗人否认的场景中（scene_28），而'白衫衣介入质问与诗人离开'（ep_d3dc5386c8bfe032）发生在后续场景（scene_34），包含白衫衣冲上质问和诗人离开的动作。scene_28在文档时序上早于scene_34，因此前者在叙事顺序上先于后者，支持precedes关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c0220f04dc2a",
+    "subject_id": "ep_d5500369408444e1",
+    "object_id": "ep_e18b429b68f519f1",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，实体 #1 发生在 scene_27，而实体 #2 发生在 scene_34，scene_27 在叙事顺序上早于 scene_34，因此 '诗人一行介入并监控现场局势' 在时间上先于 '诗人安抚车夫并朗诵诗歌'。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_44438392a329",
+    "subject_id": "ep_02f5f39835ed3919",
+    "object_id": "ep_d5500369408444e1",
+    "relation_type": "precedes",
+    "reason": "诗人先潜入阳台并监视屋内行为，在此过程中情绪激动流鼻血；随后才扔掉烟进入房间，触发介入行动。叙事顺序上，监视行为发生在介入之前，且相关事件在不同文档中按时间推进，支持该顺序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6c3c3fd1df7c",
+    "subject_id": "ep_d5500369408444e1",
+    "object_id": "ep_d3dc5386c8bfe032",
+    "relation_type": "precedes",
+    "reason": "诗人一行介入并监控现场局势（ep_d5500369408444e1）发生在白衫衣介入质问与诗人离开（ep_d3dc5386c8bfe032）之前，因为前者描述诗人进入房间并建立监控，后者描述诗人随后叠起报纸离开，表明介入之后是对峙升级和最终撤离，具有清晰的叙事时序。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cc0a8155ece9",
+    "subject_id": "ep_02f5f39835ed3919",
+    "object_id": "ep_d7c766a6443cb870",
+    "relation_type": "precedes",
+    "reason": "诗人潜入阳台并监视屋内行为发生在诗人一行进入并开始对峙之前，依据文档中事件的叙述顺序：监视行为在scene_31，而进入屋内发生在scene_34，表明前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fa4fb5791381",
+    "subject_id": "ep_02f5f39835ed3919",
+    "object_id": "ep_4d7748917d90d03b",
+    "relation_type": "precedes",
+    "reason": "诗人潜入阳台并监视屋内行为发生在处理未接来电并陷入沉思之前，依据两个情节的事件序列均来自scene_31且描述中行为具有时间上的先后顺序：监视行为结束后诗人才进入房间面对电话。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ea9ed1a9750f",
+    "subject_id": "ep_02f5f39835ed3919",
+    "object_id": "ep_24294f5daa7634fe",
+    "relation_type": "precedes",
+    "reason": "诗人潜入阳台并监视屋内行为发生在诗人警告中年男子并允许其进入之前，根据描述，诗人先观察屋内情况并流鼻血，随后才突然开门警告男子，叙事顺序明确。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ed1d95db2de3",
+    "subject_id": "ep_02f5f39835ed3919",
+    "object_id": "ep_b588081e79c9f677",
+    "relation_type": "precedes",
+    "reason": "诗人潜入阳台并监视屋内行为发生在两名姑娘离开之前，而诗人处理离别后事务并观察街道明确以‘两名姑娘离开后’为时间起点，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0256d8c73388",
+    "subject_id": "ep_495429f73933b2d0",
+    "object_id": "ep_e18b429b68f519f1",
+    "relation_type": "precedes",
+    "reason": "诗人暴力阻止车夫加入的情节包含事件如将车夫打倒在地并致其流血，发生在场景scene_48；而诗人安抚车夫并朗诵诗歌的情节包含事件如抚摸车夫头发和画外音朗诵，发生在场景scene_34。尽管scene_34编号小于scene_48，但根据叙事逻辑和事件流，暴力行为（scene_48）在时间上应晚于安抚行为（scene_34）的描述存在矛盾。然而，根据两个episode的描述顺序和‘在暴力行为结束后’这一明确时间指示，表明‘诗人暴力阻止车夫加入’在时间上先于‘诗人安抚车夫并朗诵诗歌’。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3b7d136e1502",
+    "subject_id": "ep_24294f5daa7634fe",
+    "object_id": "ep_b588081e79c9f677",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，诗人警告中年男子并允许其进入的情节发生在两名姑娘离开之前，而诗人处理离别后事务并观察街道的情节明确以‘两名姑娘离开后’为开端，因此前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b6b8da0969d9",
+    "subject_id": "ep_02f5f39835ed3919",
+    "object_id": "ep_e18b429b68f519f1",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述诗人潜入阳台并监视屋内行为，发生在暴力行为进行期间；第二个情节描述暴力行为结束后诗人安抚车夫并朗诵诗歌。根据叙事顺序，监视行为在安抚行为之前发生，且文档中的场景编号（scene_31 先于 scene_34）支持这一时间先后关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_da2b34986bf9",
+    "subject_id": "ep_7a627f5e689f70d5",
+    "object_id": "ep_02f5f39835ed3919",
+    "relation_type": "precedes",
+    "reason": "车夫的姐姐到访并情绪崩溃的情节发生在诗人潜入阳台并监视屋内行为之前，因为姐姐进入房间并表达情绪是后续监视和屋内事件的前提，且相关事件序列在scene_31中按时间顺序呈现。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9bd9c6211e8e",
+    "subject_id": "ep_a73ed54786bd1d9e",
+    "object_id": "ep_e18b429b68f519f1",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对父亲的拒绝与家庭冲突'发生在场景36，客体情节'诗人安抚车夫并朗诵诗歌'发生在场景34，但根据相关事件的时间逻辑和叙事流，家庭冲突事件（如父亲殴打诗人、母亲与姐姐哭泣）在时间上紧随其后并结束于场景36，而安抚车夫和诗歌朗诵发生在暴力事件之后的平静阶段，且文档中场景编号和事件描述表明'诗人旁观整个过程'中的'过程'指代前述冲突，因此客体情节实际在叙事顺序上紧接主体情节之后。故主体情节在叙事顺序上早于客体情节，支持'precedes'关系。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_083ca522b4cc",
+    "subject_id": "ep_b37b3c38b888a152",
+    "object_id": "ep_d7c766a6443cb870",
+    "relation_type": "precedes",
+    "reason": "白衫衣向诗人通报车夫请求发生在诗人一行进入并开始对峙之前，通报行为是冲突爆发前的最后铺垫，而对峙标志着冲突的开始，因此该情节在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c12c4b6bee27",
+    "subject_id": "ep_48daba046c35d259",
+    "object_id": "ep_b37b3c38b888a152",
+    "relation_type": "precedes",
+    "reason": "调侃车夫的穿着引发连串玩笑（ep_48daba046c35d259）发生在场景46，而白衫衣向诗人通报车夫请求（ep_b37b3c38b888a152）发生在场景48，根据相关事件的时间顺序，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_780eea788cf5",
+    "subject_id": "ep_4528d9b473c1914d",
+    "object_id": "ep_2e02c3c3423872d8",
+    "relation_type": "precedes",
+    "reason": "车夫汇报当日工作与安全情况发生在老板娘安排后续会面并传递秘密指令之前，因为前者涉及当天的收尾汇报，而后者明确指向次日行动，构成清晰的叙事时间顺序。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_12_part_1",
+      "scene_12_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_603fbecc9847",
+    "subject_id": "ep_b37b3c38b888a152",
+    "object_id": "ep_d3dc5386c8bfe032",
+    "relation_type": "precedes",
+    "reason": "白衫衣向诗人通报车夫请求的情节发生在诗人离开之前，且描述中指出该通报是冲突爆发前的最后铺垫，而冲突升级和诗人离开发生在‘白衫衣介入质问与诗人离开’中，因此前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aaad02849bb5",
+    "subject_id": "ep_b99bdf6de4e60cfc",
+    "object_id": "ep_05c7e7e29d7c566a",
+    "relation_type": "precedes",
+    "reason": "车夫购买汽油和汗衫发生在其实施纵火并逃离现场之前，为纵火准备了关键材料，叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f3a18e482d01",
+    "subject_id": "ep_819cd9df36edd2ff",
+    "object_id": "ep_81ef43ddf5d600ac",
+    "relation_type": "elaborates",
+    "reason": "‘揭示儿子天生残疾的往事’描述了老板娘对儿子智力障碍的感伤，而‘叙述生育创伤与情感崩溃’通过回忆难产经历、医生预言及情绪反应，进一步提供了导致儿子残疾的背景和情感深度，扩展了前一情节的成因和情感维度，构成对往事的详细阐释。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_12_part_2",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cc461784d36f",
+    "subject_id": "ep_819cd9df36edd2ff",
+    "object_id": "ep_b98f3d266576d0c1",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述老板娘对儿子天生残疾的感伤，第二个情节进一步揭示孩子父亲因恐惧离开及其情绪转变。第二个情节通过提供家庭背景和情感复杂性，扩展了第一个情节中隐含的家庭创伤背景，构成对母子困境的深层解释。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_12_part_2",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_cf5a87fe1a42",
+    "subject_id": "ep_5b067e7f901b4315",
+    "object_id": "ep_05c7e7e29d7c566a",
+    "relation_type": "precedes",
+    "reason": "车夫制作并点燃燃烧瓶是纵火行动的准备步骤，发生在投掷燃烧瓶并引发火灾之前，叙事顺序上明确早于车夫实施纵火并逃离现场。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_97e4d0b0a1c2",
+    "subject_id": "ep_188db1b411d4f109",
+    "object_id": "ep_2300bea04e491242",
+    "relation_type": "causes",
+    "reason": "盗取三轮车并逃离直接导致车夫发现失窃并开始追赶，文本明确描述车夫在发现车辆被盗后立即追赶，构成直接因果链。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_335b335d17dd",
+    "subject_id": "ep_4fbf776ca32dd336",
+    "object_id": "ep_e2fd4f976c69f8f6",
+    "relation_type": "precedes",
+    "reason": "妹妹协助完成烹饪准备发生在姐姐准备早餐之前，且其行为（递菜和佐料）为后续做饭提供直接准备，文本中‘摘完菜后’和‘最后准备工作’暗示时间上的先后顺序，因此该情节在叙事顺序上早于准备和分发早餐。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ffbc33a4ba8d",
+    "subject_id": "ep_ecd10665fd5b47dd",
+    "object_id": "ep_b37b3c38b888a152",
+    "relation_type": "precedes",
+    "reason": "车夫提出加入帮会的请求发生在白衫衣向诗人通报该请求之前，根据描述，白衫衣是在车夫提出请求后才走向诗人进行通报的，因此存在明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_973cee98fa23",
+    "subject_id": "ep_ecd10665fd5b47dd",
+    "object_id": "ep_28abbf01fb9e8ffe",
+    "relation_type": "precedes",
+    "reason": "车夫提出加入帮会的请求发生在白衫衣报告该请求时遭遇电击之前，因为电击事件是白衫衣在尝试传达车夫请求的过程中被中断的结果，叙事顺序上前者触发了后者的行动意图。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_845aca8d0129",
+    "subject_id": "ep_2300bea04e491242",
+    "object_id": "ep_5c23f367dd8a8ce2",
+    "relation_type": "precedes",
+    "reason": "车夫发现失窃并开始追赶发生在盗车者发现被追并停车拦截之前，因为追赶行为是盗车者察觉并决定停车的先决条件，叙事顺序上前者直接早于后者。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c066a7f8675d",
+    "subject_id": "ep_2300bea04e491242",
+    "object_id": "ep_f81ece99303fac62",
+    "relation_type": "precedes",
+    "reason": "车夫发现失窃并开始追赶发生在盗车者暴力殴打车夫之前，根据事件描述的叙事顺序，追赶行为先于施暴行为，且两者共享同一场景（scene_26）的时间上下文。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fdbcfed86863",
+    "subject_id": "ep_05c7e7e29d7c566a",
+    "object_id": "ep_ba189759c428cbdb",
+    "relation_type": "precedes",
+    "reason": "车夫实施纵火并逃离现场后，警察才开始追捕车夫。两个情节均发生在scene_38，但纵火和逃离行为逻辑上先于追捕行动的启动，因此在叙事顺序上，主体情节早于客体情节。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4dd1d588643a",
+    "subject_id": "ep_188db1b411d4f109",
+    "object_id": "ep_5c23f367dd8a8ce2",
+    "relation_type": "precedes",
+    "reason": "盗取三轮车并逃离发生在盗车者发现被追并停车拦截之前，因为只有在盗车行为发生后，车夫才会开始追赶，从而导致盗车者察觉并决定停车反击。叙事顺序和事件逻辑支持这一时间先后关系。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_897f0575ea84",
+    "subject_id": "ep_5c23f367dd8a8ce2",
+    "object_id": "ep_f81ece99303fac62",
+    "relation_type": "precedes",
+    "reason": "盗车者发现被追并停车拦截后，紧接着对车夫实施暴力殴打并逃离。描述中显示停车拦截是为阻止追击而采取行动的开始，随后发生殴打和逃离，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_252031a82577",
+    "subject_id": "ep_05c7e7e29d7c566a",
+    "object_id": "ep_f10ae2d90cb1ee06",
+    "relation_type": "causes",
+    "reason": "车夫投掷燃烧瓶引发粮店大火，直接导致一名男子浑身着火从店内逃出，警察随后实施救援。纵火事件是着火男子出现并需要救援的直接原因，文本中两个情节共享同一场景（scene_38）且事件逻辑连贯，支持明确的因果关系。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d2f887629f35",
+    "subject_id": "ep_d0c51ed8fb569716",
+    "object_id": "ep_c34adb1518008f68",
+    "relation_type": "precedes",
+    "reason": "根据描述，卢尔比先展示伤疤以建立心理威慑，随后杀害被绑青年，这两个情节发生在同一场景（scene_50），但展示伤疤的行为在逻辑和叙事顺序上早于杀害行为，构成明确的时间先后关系。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b469d6dd5584",
+    "subject_id": "ep_5c23f367dd8a8ce2",
+    "object_id": "ep_d66ff4465fa086f2",
+    "relation_type": "causes",
+    "reason": "盗车者停车并返回现场实施暴力行动，直接导致车夫遭受殴打后因伤痛倒地翻滚。描述中‘为阻止追击而采取暴力行动’与‘车夫在遭受殴打后腹部剧痛’表明前者是后者的直接原因。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c634f704e34c",
+    "subject_id": "ep_4893cb86bb8b077d",
+    "object_id": "ep_b37b3c38b888a152",
+    "relation_type": "precedes",
+    "reason": "根据描述，'戏弄车夫并赠予钞票' 发生在场景 scene_48 的早期，而 '白衫衣向诗人通报车夫请求' 是冲突爆发前的最后铺垫，表明该事件紧随其前。两个情节均位于同一文档和场景中，且叙事顺序上前者先于后者发生。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2563f30057cc",
+    "subject_id": "ep_f81ece99303fac62",
+    "object_id": "ep_d66ff4465fa086f2",
+    "relation_type": "causes",
+    "reason": "暴力殴打车夫并逃离这一情节中，明确描述了盗车者对车夫进行头部击打并踢击其腹部，直接导致车夫因伤痛倒地翻滚。因此，该暴力行为是车夫后续痛苦反应的直接原因，文本提供了明确的因果证据。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ce857b1ed713",
+    "subject_id": "ep_c59897b2cfdf688b",
+    "object_id": "ep_c34adb1518008f68",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序和叙事流程，卢尔比对被绑青年实施心理操控（如贴近耳边吟唱、温柔动作与压迫性言语）发生在青年被割颈致死之前，因此该情节在叙事顺序上早于杀害青年并震慑旁观者的情节。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6b1d2068bd54",
+    "subject_id": "ep_d7c766a6443cb870",
+    "object_id": "ep_ebe98f1203729c01",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述诗人一行进入并开始对峙，第二个情节描述对峙结束后车夫整理物品并观察离去者。文本中明确指出‘对峙结束后’，表明第一个情节在叙事顺序上直接早于第二个情节。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6dcd666016b8",
+    "subject_id": "ep_a73ed54786bd1d9e",
+    "object_id": "ep_e591f9954d3ac4ec",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节描绘家庭内部激烈的情感冲突和暴力，氛围压抑紧张；第二个情节通过诗人视角展现外部街边一位母亲为孩子洗澡的平静、温情场景，形成家庭温暖与家庭破裂之间的意象对照。两个情节在情感基调和家庭关系状态上形成明显对比，支持'contrasts_with'关系。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4539d0373e8f",
+    "subject_id": "ep_ada4b24b6bac9d06",
+    "object_id": "ep_d0c51ed8fb569716",
+    "relation_type": "elaborates",
+    "reason": "旁观者观察审讯场景通过展示车夫、黑衬衣和白衬衣对卢尔比展示伤疤过程的反应，提供了关于该审讯情境的社会动态和人物心理状态的额外细节，从而扩展和丰富了卢尔比展示伤疤以威慑被绑青年这一核心情节的语境。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6172f704b3b1",
+    "subject_id": "ep_491ca851e6da482a",
+    "object_id": "ep_4fbf776ca32dd336",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述家庭成员团聚后开始日常家务的整体场景，包括姐姐做饭、妹妹摘菜等；客体情节进一步聚焦妹妹将洗好的菜和佐料递给姐姐的细节，补充了做饭准备工作的具体步骤，因此是对主体情节中‘姐姐做饭’这一活动的细化和扩展。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a391cec98988",
+    "subject_id": "ep_ada4b24b6bac9d06",
+    "object_id": "ep_c59897b2cfdf688b",
+    "relation_type": "elaborates",
+    "reason": "旁观者观察审讯场景通过展示车夫、黑衬衣和白衬衣对卢尔比实施心理操控的反应，提供了关于该心理操控场景的外部视角和情境氛围，从而扩展并丰富了主体事件的叙事背景。两个情节共享同一场景（scene_50），且‘观察’行为在功能上服务于对核心操控行为的强化呈现。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6bb3b8ebe86a",
+    "subject_id": "ep_d06fbd1044af4feb",
+    "object_id": "ep_e591f9954d3ac4ec",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节描绘了诗人家庭内部温馨但略显紧张的探访场景，强调家庭关系和情感维系；第二个情节通过诗人视角切换到街边一位母亲为孩子洗澡的公共场景，呈现朴素的生活画面。两个情节在空间和情感基调上形成对照：室内的人为温情与室外的自然质朴、家庭互动的拘谨与孩童嬉戏的自由，构成叙事上的对比关系。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_cd3e6a8b4b9d",
+    "subject_id": "ep_72bfc61b4b294a38",
+    "object_id": "ep_d3dc5386c8bfe032",
+    "relation_type": "precedes",
+    "reason": "黑衬衣逼迫车夫接受新任务发生在白衫衣介入质问与诗人离开之前，两个情节均发生在scene_34，且描述中事件顺序显示对车夫的逼迫先于白衫衣的介入和诗人的离开，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_218a3bebd0c2",
+    "subject_id": "ep_fad65f13bc218d95",
+    "object_id": "ep_b588081e79c9f677",
+    "relation_type": "precedes",
+    "reason": "两名妓女出现并打破沉默的情节发生在诗人处理离别后事务并观察街道之前，因为前者描述的是姑娘们进入房间并互动的开始，而后者描述的是她们离开后的后续行为，包括关门、收钱和望向街道，叙事顺序明确。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_052922b315fb",
+    "subject_id": "ep_892231767d1a6240",
+    "object_id": "ep_b588081e79c9f677",
+    "relation_type": "precedes",
+    "reason": "妓女A结束陪伴并准备离开发生在诗人处理离别后事务并观察街道之前。描述中显示，诗人是在两名姑娘离开后才开始关门、收钱、走向阳台等行为，因此该情节在叙事顺序上紧随其后。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f115949780c9",
+    "subject_id": "ep_d3dc5386c8bfe032",
+    "object_id": "ep_ebe98f1203729c01",
+    "relation_type": "precedes",
+    "reason": "‘白衫衣介入质问与诗人离开’描述对峙的高潮和诗人一方的离开，而‘车夫整理物品并观察离去者’发生在对峙结束后，车夫收拾物品并观察离去者，明显在时间顺序上紧随其后。因此，主体情节在叙事顺序上先于客体情节。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fd754475b5d6",
+    "subject_id": "ep_7a627f5e689f70d5",
+    "object_id": "ep_fad65f13bc218d95",
+    "relation_type": "precedes",
+    "reason": "车夫的姐姐到访并情绪崩溃的情节中，相关事件包括外界敲门但诗人未回应；随后两名妓女从另一房间走出并打破沉默，表明前者在叙事顺序上先于后者发生。两个情节均发生在scene_31，但姐姐的情绪崩溃和外界敲门未被回应后，妓女才出现，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_31_part_3"
+    ],
+    "confidence": 0.95
+  }
+]

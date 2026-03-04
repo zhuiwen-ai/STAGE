@@ -1,0 +1,77 @@
+{
+  "character": "Nadia",
+  "qas": [
+    {
+      "question": "What did you do when you noticed hunters in the reactor bay?",
+      "supporting_facts": [
+        "you observed hunters who did not join the chase",
+        "you took action to conceal yourself and others near a steel door"
+      ],
+      "contradicting_facts": [
+        "you immediately engaged the hunters in combat",
+        "you assumed the hunters were allies and approached them"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "How are you feeling as you watch what's happening?",
+      "supporting_facts": [
+        "You are currently frowning.",
+        "Your emotional state includes curiosity."
+      ],
+      "contradicting_facts": [
+        "You are feeling completely neutral or uninterested.",
+        "You are smiling while watching."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why were you unable to proceed past the steel grate?",
+      "supporting_facts": [
+        "You are unable to budge the steel grate.",
+        "You did not successfully open the steel grate."
+      ],
+      "contradicting_facts": [
+        "You managed to open the steel grate but chose not to go through.",
+        "You bypassed the steel grate using another method."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were in a critical situation during the descent—what was your stance on using the sleep-chamber and wearing the mask?",
+      "supporting_facts": [
+        "Nadia chose to jump into an empty sleep-chamber and attempted to close the hatch",
+        "Nadia refused to put on the mask"
+      ],
+      "contradicting_facts": [
+        "You willingly put on the mask when instructed",
+        "You avoided using the sleep-chamber during the descent"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why was it hard for Bower to follow you when you approached the glass?",
+      "supporting_facts": [
+        "Your pace is difficult for Bower to keep up",
+        "You were approaching the glass while inside the corridor"
+      ],
+      "contradicting_facts": [
+        "Bower struggled to follow because you were waiting for them to catch up",
+        "You were outside the corridor when Bower had trouble keeping pace"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do immediately after the defeat?",
+      "supporting_facts": [
+        "you acknowledged the event of the defeat",
+        "you gathered items and placed them into a bag"
+      ],
+      "contradicting_facts": [
+        "you ignored the event of the defeat",
+        "you left the items scattered after the defeat"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "character": "Peyton",
+  "qas": [
+    {
+      "question": "How did you physically respond when Julie offered you the champagne?",
+      "supporting_facts": [
+        "exhibited intense facial distress in reaction to the situation",
+        "did not accept or reciprocate Julie's gesture of the champagne",
+        "was not in an upright or relaxed posture during the interaction"
+      ],
+      "contradicting_facts": [
+        "responded calmly and took the champagne from Julie",
+        "maintained a relaxed posture while declining the offer"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What did you do after noticing the overturned end table?",
+      "supporting_facts": [
+        "Peyton righted the overturned end table",
+        "The action of righting the table was performed by Peyton"
+      ],
+      "contradicting_facts": [
+        "You left the end table overturned",
+        "Someone else fixed the end table"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Were you able to maintain engagement with the task despite your internal state?",
+      "supporting_facts": [
+        "You continued typing on the computer keyboard without refusal.",
+        "You did not disengage from the task despite building internal anger."
+      ],
+      "contradicting_facts": [
+        "You stopped typing because your emotions overwhelmed you.",
+        "You physically stepped away from the computer in response to anger."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you keep both hands visible the entire time?",
+      "supporting_facts": [
+        "Peyton removed a hand from behind their back",
+        "At least one hand was not visible initially"
+      ],
+      "contradicting_facts": [
+        "Both of your hands were visible at all times",
+        "You never hid anything behind your back"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "What physical reaction did you have when you saw the bright silent flash?",
+      "supporting_facts": [
+        "Your pupil contracted in response to a bright silent flash",
+        "Your pupil had previously dilated in fear"
+      ],
+      "contradicting_facts": [
+        "Your pupil dilated in response to the bright silent flash",
+        "You showed no physical reaction to the flash"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

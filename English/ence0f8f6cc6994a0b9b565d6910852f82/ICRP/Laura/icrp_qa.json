@@ -1,0 +1,64 @@
+{
+  "character": "Laura",
+  "qas": [
+    {
+      "question": "What were you doing immediately after exiting the courtroom?",
+      "supporting_facts": [
+        "Laura came out of the courtroom and looked around tentatively",
+        "Laura is smoking a cigarette"
+      ],
+      "contradicting_facts": [
+        "You went straight to your car without stopping",
+        "You were talking to someone right after exiting"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were in the anteroom—what did you do with your coat?",
+      "supporting_facts": [
+        "Laura picked up her coat from the couch in the anteroom",
+        "Laura had physical access to the anteroom's couch"
+      ],
+      "contradicting_facts": [
+        "You left your coat on the couch",
+        "You brought the coat from somewhere other than the couch"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you go through the door you stopped in front of?",
+      "supporting_facts": [
+        "you stopped before a door",
+        "there is no information indicating you proceeded through the door"
+      ],
+      "contradicting_facts": [
+        "you opened and walked through the door after stopping"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were sitting at the worktable—what did you notice about Galvin's belongings while you were there?",
+      "supporting_facts": [
+        "Galvin's briefcase and files were located on the worktable where Laura was seated",
+        "Laura did not leave the scene immediately after getting up, implying continued presence near the worktable"
+      ],
+      "contradicting_facts": [
+        "Galvin's belongings were not present on the worktable while you were there",
+        "You left the scene immediately after getting up, interrupting observation of the worktable area"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were asked to go to New York—what was the reason you needed to be there?",
+      "supporting_facts": [
+        "You were informed that you needed to go to New York to sign divorce papers",
+        "You agreed to meet Frank in New York"
+      ],
+      "contradicting_facts": [
+        "You went to New York to start a new job",
+        "You refused to go to New York until the terms were renegotiated"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

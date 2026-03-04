@@ -1,0 +1,65 @@
+{
+  "character": "Cara",
+  "qas": [
+    {
+      "question": "You were moving toward the Cipriani—were you using any form of transport other than walking?",
+      "supporting_facts": [
+        "Cara is traveling on foot toward the Cipriani",
+        "Traveling on foot implies no other transport is being used"
+      ],
+      "contradicting_facts": [
+        "You were riding a vehicle toward the Cipriani",
+        "You used a boat to reach the Cipriani"
+      ],
+      "final_score": 8.88888888888889
+    },
+    {
+      "question": "What did you notice when you saw yourself in the window?",
+      "supporting_facts": [
+        "You caught sight of your reflection in a floor-to-ceiling window.",
+        "The observation of your reflection occurred without prior intent."
+      ],
+      "contradicting_facts": [
+        "You looked at the window to fix your appearance deliberately.",
+        "You avoided seeing your reflection by turning away."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Were you directly involved with Frank during the boarding action?",
+      "supporting_facts": [
+        "You did not avoid direct involvement with Frank in the boarding action",
+        "Your role included active engagement with Frank"
+      ],
+      "contradicting_facts": [
+        "You kept your distance from Frank during the boarding action",
+        "You declined or sidestepped working with Frank"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you say anything after reading what was written?",
+      "supporting_facts": [
+        "You did not verbally respond to what you read",
+        "Your reaction remained nonverbal"
+      ],
+      "contradicting_facts": [
+        "You spoke aloud or gave a verbal reaction immediately after reading",
+        "You commented on the content of what you read"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You moved to the sofa and interacted with the cushions—what did you do after sitting down?",
+      "supporting_facts": [
+        "Cara shifted deeper into the leather cushions after moving to the sofa",
+        "Cara did not remain standing after moving to the sofa"
+      ],
+      "contradicting_facts": [
+        "You remained standing after moving to the sofa",
+        "You left the room immediately after sitting down"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

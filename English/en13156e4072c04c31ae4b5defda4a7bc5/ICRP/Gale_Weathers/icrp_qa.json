@@ -1,0 +1,66 @@
+{
+  "character": "Gale_Weathers",
+  "qas": [
+    {
+      "question": "You were at the set and saw the 'AUTHORIZED PERSONNEL ONLY' sign—what did you notice about access control there?",
+      "supporting_facts": [
+        "Gale is present at the set",
+        "Gale observed the card lock and the 'AUTHORIZED PERSONNEL ONLY' sign"
+      ],
+      "contradicting_facts": [
+        "You did not see any signage restricting access",
+        "You found the area completely unsecured with no locks"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Were you with Dewey when you made your way to the patio doors?",
+      "supporting_facts": [
+        "You emerged with Dewey and Jennifer from the darkness",
+        "You did not leave Dewey behind during the run to the patio"
+      ],
+      "contradicting_facts": [
+        "You abandoned Dewey before reaching the patio doors",
+        "You exited the patio alone"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you observe when you looked toward the stage area?",
+      "supporting_facts": [
+        "Gale looked up at a sign hanging over the stage",
+        "Gale observed the card lock and the 'AUTHORIZED PERSONNEL ONLY' sign"
+      ],
+      "contradicting_facts": [
+        "You saw no signs or markings near the stage",
+        "You focused only on the floor and noticed no overhead details"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do after receiving Detective Kincaid's business card?",
+      "supporting_facts": [
+        "You received Detective Kincaid's business card at some point.",
+        "After receiving the card, you ran for the patio.",
+        "Running for the patio involved multiple actions and was not a passive movement."
+      ],
+      "contradicting_facts": [
+        "You stayed in place after receiving the business card without further action.",
+        "You avoided expressing any audible reaction while moving toward the patio."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do when you saw the costumed individual by the exit door?",
+      "supporting_facts": [
+        "You dove into the elevator after noticing the costumed individual",
+        "You noticed the costumed individual watching from a half-open exit door"
+      ],
+      "contradicting_facts": [
+        "You confronted the costumed individual directly",
+        "You did not see anyone near the exit door before taking action"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

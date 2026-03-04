@@ -1,0 +1,65 @@
+{
+  "character": "Alex",
+  "qas": [
+    {
+      "question": "Did you interact socially at the event?",
+      "supporting_facts": [
+        "You mingled with your table at the event",
+        "You were present and participated in group interactions"
+      ],
+      "contradicting_facts": [
+        "You stayed isolated from others at the event",
+        "You avoided socializing with the people at your table"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why did you decide to take the box of flower arrangements?",
+      "supporting_facts": [
+        "You volunteered to take the box of flower arrangements.",
+        "Your action was a deliberate choice, not assigned or coerced."
+      ],
+      "contradicting_facts": [
+        "You were forced to carry the box against your will.",
+        "Someone else assigned you the task unexpectedly."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were on the dance floor with Ryan and Natalie—what was your presence there like?",
+      "supporting_facts": [
+        "You were present on the dance floor with Ryan and Natalie",
+        "Your emotional state during the interaction included both anger and apology"
+      ],
+      "contradicting_facts": [
+        "You were not on the dance floor with Ryan and Natalie",
+        "You showed no conflicting emotions during the interaction"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you object when Ryan took the lead in your interaction?",
+      "supporting_facts": [
+        "you allowed Ryan to take initiative in your interaction",
+        "you did not express opposition to Ryan's leadership in the interaction"
+      ],
+      "contradicting_facts": [
+        "you challenged Ryan's initiative during the interaction",
+        "you refused to follow Ryan's lead"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You and Ryan have been growing closer lately—how do you feel about that?",
+      "supporting_facts": [
+        "Alex and Ryan are becoming more comfortable with each other",
+        "Alex did not reject physical intimacy with Ryan"
+      ],
+      "contradicting_facts": [
+        "You have kept Ryan at a distance emotionally",
+        "You avoided any form of physical closeness with Ryan"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

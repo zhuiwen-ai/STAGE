@@ -1,0 +1,66 @@
+{
+  "character": "BARRY",
+  "qas": [
+    {
+      "question": "Were you focused on Lena when you got back to the car?",
+      "supporting_facts": [
+        "you did not look away from Lena",
+        "you initiated physical contact by hugging her",
+        "you did not stay outside after returning to the car"
+      ],
+      "contradicting_facts": [
+        "you avoided eye contact with Lena",
+        "you left the car again immediately after returning"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You observed the street and left after the outburst. Did you interact with anyone while you were there?",
+      "supporting_facts": [
+        "you did not interact with anyone on the empty street",
+        "you observed the empty street before leaving"
+      ],
+      "contradicting_facts": [
+        "you spoke to someone on the street after the outburst",
+        "you remained at the same location until others arrived"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you start the interaction with Lena?",
+      "supporting_facts": [
+        "You did not initiate the interaction with Lena.",
+        "The interaction began through someone or something other than your action."
+      ],
+      "contradicting_facts": [
+        "You were the first to speak or reach out to Lena.",
+        "You planned and approached Lena to begin the interaction."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do right after walking down the small hall with Walter?",
+      "supporting_facts": [
+        "You physically reacted by putting your fist through a wall.",
+        "The action of hitting the wall was followed by dropping to the ground."
+      ],
+      "contradicting_facts": [
+        "You continued walking past the wall without stopping.",
+        "You spoke to someone after walking down the hall."
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Did you continue staying in your office after the incident occurred?",
+      "supporting_facts": [
+        "Barry left his office while speaking on the phone",
+        "Barry did not stay in his office after the fall"
+      ],
+      "contradicting_facts": [
+        "You remained in the office to assess the situation",
+        "You returned to your office immediately after the fall"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

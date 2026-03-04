@@ -1,0 +1,66 @@
+{
+  "character": "Finn",
+  "qas": [
+    {
+      "question": "Why did you choose to use cover when approaching the base?",
+      "supporting_facts": [
+        "You prioritized protective cover during the approach to the base structure",
+        "You did not approach the base structure openly without taking cover",
+        "You did not ignore the need for protective cover"
+      ],
+      "contradicting_facts": [
+        "You approached the base structure without concern for cover",
+        "You saw no value in using protective cover during the approach"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "As you moved through the tent marketplace, what determined your path?",
+      "supporting_facts": [
+        "You navigate by turning corners",
+        "Your movement was interrupted by the sound from the sky"
+      ],
+      "contradicting_facts": [
+        "You moved in a straight line without changing direction",
+        "You avoided turning corners and stayed in open areas"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You were with Han and Chewie during part of your journey—what can you confirm about Han's role in the Rebellion?",
+      "supporting_facts": [
+        "Finn has stated that Han Solo fought with the Rebellion",
+        "Finn traveled across terrain with Han and Chewie"
+      ],
+      "contradicting_facts": [
+        "You believe Han Solo was not involved with the Rebellion",
+        "You claim Han Solo worked for the Empire during the time you traveled together"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you help operate the Millennium Falcon when escaping from the First Order?",
+      "supporting_facts": [
+        "You operated controls on the Falcon by flicking switches",
+        "You complied with Han's instructions regarding Chewie during the escape"
+      ],
+      "contradicting_facts": [
+        "You refused to assist with the operation of the Falcon's systems",
+        "You acted independently of Han's directions during the escape"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You moved through the crowd when you arrived — was your approach cautious or urgent?",
+      "supporting_facts": [
+        "Finn moved urgently upon arrival",
+        "Finn's movement through the crowd was not slow or cautious"
+      ],
+      "contradicting_facts": [
+        "Finn carefully scanned the crowd before moving",
+        "Finn took his time to assess the situation upon arrival"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

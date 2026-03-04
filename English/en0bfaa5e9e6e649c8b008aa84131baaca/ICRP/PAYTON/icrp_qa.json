@@ -1,0 +1,169 @@
+{
+  "character": "PAYTON",
+  "qas": [
+    {
+      "question": "Why did you keep monitoring the screens during the frequency search?",
+      "supporting_facts": [
+        "You remained at the control console throughout the frequency search",
+        "You actively monitored the flickering screens",
+        "You did not ignore the flickering monitors"
+      ],
+      "contradicting_facts": [
+        "You left the control console unattended during the frequency search",
+        "You ignored the flickering monitors"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What did you observe about the condition of the doors you approached?",
+      "supporting_facts": [
+        "The doors showed signs of prior forceful impact or attempted escape",
+        "Your approach to the doors occurred without possession of the pipe weapon"
+      ],
+      "contradicting_facts": [
+        "The doors appeared undisturbed and intact with no signs of damage",
+        "You broke through the doors yourself using the pipe weapon"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You noticed something was wrong with the ship's systems—what did you do in response?",
+      "supporting_facts": [
+        "you adjusted the radio frequency to address a concern",
+        "you interacted with the computer system",
+        "you remained engaged with the ship's controls"
+      ],
+      "contradicting_facts": [
+        "you remained disengaged from the ship's controls",
+        "you failed to interact with the computer system"
+      ],
+      "final_score": 9.444444444444445
+    },
+    {
+      "question": "You saw Gallo when he was passed out—what did you do right after noticing him?",
+      "supporting_facts": [
+        "you remained within the control area upon Gallo's appearance",
+        "you observed Gallo was unconscious on a nearby bunk",
+        "you did not initiate aggressive confrontation with Gallo at that moment"
+      ],
+      "contradicting_facts": [
+        "you left the control area to approach Gallo immediately",
+        "you confronted Gallo aggressively upon seeing him"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "As the Captain, are you aware of both Gallo's presence and the status of the sleep-chamber while monitoring the control panel?",
+      "supporting_facts": [
+        "PAYTON is the Captain on the bridge",
+        "PAYTON is aware of GALLO's presence in the compartment",
+        "PAYTON is aware of the empty sleep-chamber"
+      ],
+      "contradicting_facts": [
+        "PAYTON is unaware of GALLO's presence",
+        "PAYTON does not know the sleep-chamber is empty"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why did you use the pipe during the confrontation?",
+      "supporting_facts": [
+        "You used the pipe to secure a hatch against GALLO's attempts to open it",
+        "You were in a physical confrontation and displayed rage",
+        "You were holding the pipe in a defensive or combative stance"
+      ],
+      "contradicting_facts": [
+        "You used the pipe to signal for help",
+        "You were using the pipe to repair a system"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You're at the control desk as the light panels fade—what are you focused on, and why aren't you looking away?",
+      "supporting_facts": [
+        "is seated at a control desk when light panels are fading",
+        "is not looking away from the computer",
+        "is not in possession of an active signal"
+      ],
+      "contradicting_facts": [
+        "is monitoring an active external signal from Earth",
+        "looks away from the computer to assess the fading light panels"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Where did you direct your attention after interacting with the console?",
+      "supporting_facts": [
+        "PAYTON returned to the console and typed into the terminal",
+        "PAYTON directed attention toward Gallo after using the terminal"
+      ],
+      "contradicting_facts": [
+        "PAYTON looked back at the sleep-chamber after typing",
+        "PAYTON focused on the pipe weapon after leaving the console"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do when you tried to comfort the other person?",
+      "supporting_facts": [
+        "You touched the individual's arm as a gesture of consolation",
+        "Your intent was to provide comfort through physical reassurance"
+      ],
+      "contradicting_facts": [
+        "You verbally reassured them without any physical contact",
+        "You walked away to give them space during their distress"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What is your current priority in this situation?",
+      "supporting_facts": [
+        "primary focus is on completing the immediate task",
+        "maintains concentration on operational objectives despite distractions"
+      ],
+      "contradicting_facts": [
+        "is primarily concerned with personal safety over mission success",
+        "is distracted by events unrelated to the current operation"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What were you doing at the control console when the system failure occurred?",
+      "supporting_facts": [
+        "You were actively typing at the control console.",
+        "You opened an emergency auxiliary-power panel at the control desk."
+      ],
+      "contradicting_facts": [
+        "You left the control console immediately when the failure began.",
+        "You did not interact with any physical panels at the console."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What are you currently doing to ensure the Reactor Bay's systems are functioning properly?",
+      "supporting_facts": [
+        "You are actively monitoring and acting, not passively observing",
+        "You are reviewing blueprints with markings specific to the Reactor Bay",
+        "You are scrolling through radio frequencies, indicating active system checks"
+      ],
+      "contradicting_facts": [
+        "You are only looking at the blueprints without taking further action",
+        "You are waiting for someone else to handle system monitoring",
+        "You are not engaged with any communication or control systems"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You heard the hatch and screams—did you leave the control console or stop what you were doing?",
+      "supporting_facts": [
+        "you remained at the control console after hearing the hatch",
+        "you continued typing despite the screams"
+      ],
+      "contradicting_facts": [
+        "you abandoned the control console after hearing the hatch",
+        "you stopped typing in response to the screams"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

@@ -1,0 +1,1594 @@
+[
+  {
+    "id": "rel_ep_ep_bd24498dcece",
+    "subject_id": "ep_ab59a7d1dd6422a2",
+    "object_id": "ep_a9d7aac1f0e915a5",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_13, and the confrontation where Marcel punches Sami logically precedes the offer of a job under threat, as the escalation of coercion begins with violence and then shifts to conditional leniency with instructions, indicating a sequential narrative flow within the same scene.",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_86101e001ef2",
+    "subject_id": "ep_68ac06e9e5de662d",
+    "object_id": "ep_d79f80bb645d1a7f",
+    "relation_type": "causes",
+    "reason": "The subject episode describes Julien's actions that inadvertently set the canvas on fire, directly leading to the object episode where Daniel discovers the painting is ruined. The description of the object episode explicitly attributes the damage to Julien's chaotic actions, providing clear causal evidence.",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e5d863c55321",
+    "subject_id": "ep_018156a99b130400",
+    "object_id": "ep_5a4385753c279abd",
+    "relation_type": "precedes",
+    "reason": "Marcel's quiet singing occurs after the radio is turned off, which is the outcome of Bastaldi's intervention; thus, Bastaldi's action of turning off the radio must precede Marcel's subtle resistance through singing, placing the episodes in a clear temporal sequence.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7670a8922257",
+    "subject_id": "ep_50f9129d99bd6e41",
+    "object_id": "ep_8b3eb312738c85dc",
+    "relation_type": "precedes",
+    "reason": "Sami's introduction occurs before Julien's warning, as the warning is a direct response to Sami's behavior during or immediately after his introduction, establishing a clear local narrative order in scene_14.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6c613816f8bf",
+    "subject_id": "ep_cba1f5a08b477f50",
+    "object_id": "ep_12ae5e07b48b379f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Demand and refuse safe access' occurs before 'Assault and flee the scene' as the failed attempt to open the safe directly precedes the violent assault and escape, with both episodes occurring in scene_36 and forming a sequential narrative progression in the robbery.",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a93abdb2e595",
+    "subject_id": "ep_78db7e39440f7332",
+    "object_id": "ep_f3dd9a8acba75b7a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Sami reveals his prison tattoo and past betrayal' occurs before 'Sophie flirts with Sami through tattoo talk' in the same scene (scene_34), as the emotional disclosure directly precedes the shift in tone initiated by Sophie's flirtatious comment about tattoos, indicating a clear local narrative order.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_75fdcff4fcfd",
+    "subject_id": "ep_d410a14b314ff85e",
+    "object_id": "ep_56461f0b9b139abd",
+    "relation_type": "precedes",
+    "reason": "The observation of Raymond's anxiety during the drive sets the emotional tone and provides the immediate context for the subsequent confrontation about his driving competence, with both episodes sharing scene_8 and the nervous driving behavior as grounding; the description of the confrontation episode references the ongoing tension established by the observation, indicating a clear narrative sequence where the observation comes first.",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_24627c64c536",
+    "subject_id": "ep_a64dd1e2cc61ee22",
+    "object_id": "ep_87ede938ace2adb9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Prepare and initiate confrontation at the door' involves Marcel knocking on the door and being confronted by the Biker, which immediately precedes the violent attack described in 'Assault the Biker with head butt and punches'. The description of the assault episode states it is 'immediately following the door confrontation', establishing a clear temporal order.",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c8828c17950b",
+    "subject_id": "ep_14be55fefec05eac",
+    "object_id": "ep_2241acc73fa16392",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Illuminate the room and react to the intruder's command' includes the old man issuing a command while standing at the top of the stairs, which must occur before the object episode where he falls down the stairs. The related events and narrative sequence in the description establish a clear temporal order: the confrontation under light precedes the fall and subsequent shock.",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3ad3c09c5505",
+    "subject_id": "ep_d266e43d6d782081",
+    "object_id": "ep_59171a079a24980f",
+    "relation_type": "precedes",
+    "reason": "The planning of the break-in entry strategy, including role assignment and feasibility assessment, logically and temporally occurs before the team repositions for infiltration after disarming the alarm. The description of the second episode references a successful breach, which depends on the prior planning episode.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1f0001b7f41f",
+    "subject_id": "ep_3004bfa0722a2da9",
+    "object_id": "ep_849151652147a6dc",
+    "relation_type": "causes",
+    "reason": "The confrontation escalation, including Julien's accusation and Daniel's observation of the old man with a shotgun, directly triggers Raymond's preparation for escape under Daniel's urgent command. The description of the second episode explicitly references responding to the threat detected in the first, with overlapping events in the same scene, supporting a direct causal link.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_43d9a9eb6ef2",
+    "subject_id": "ep_14be55fefec05eac",
+    "object_id": "ep_a4a97a44cf02094f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Illuminate the room and react to the intruder's command' occurs first, as it involves Julien lighting a lighter and the old man issuing a command, followed by the old man regaining consciousness and grabbing his shotgun in the next episode, which triggers the flight. The sequence of events in scene_5 supports a clear temporal order where illumination and initial confrontation precede the escalation leading to escape.",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7f6e12d695ed",
+    "subject_id": "ep_2241acc73fa16392",
+    "object_id": "ep_a4a97a44cf02094f",
+    "relation_type": "precedes",
+    "reason": "The subject episode, where Daniel and Julien react to the old man's fall with shock, occurs before the object episode, where they flee after the old man regains consciousness and grabs his shotgun. The sequence is supported by the causal progression in the related events: the fall happens first, then the man stirs and grabs the weapon, prompting flight. This establishes a clear temporal order within the same scene.",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b1b387b128e7",
+    "subject_id": "ep_b9a4a3981d68df78",
+    "object_id": "ep_90178d12962b2a74",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Hector and assert dominance' includes Raphael berating Hector and ordering him to get beers, which directly precedes Hector leaving the room in the episode 'Expel Hector and vow revenge'. Both episodes occur in scene_41 and share a tight temporal sequence, with the expulsion and revenge vow following the public humiliation.",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e5bc3bd3dd91",
+    "subject_id": "ep_0ea148dafafd8dff",
+    "object_id": "ep_b0ae94a6e72379ed",
+    "relation_type": "precedes",
+    "reason": "Sami's attempt to flee occurs immediately before Marcel confronts him about his debt, as evidenced by the sequence of events in scene_12: Sami tries to escape upon seeing Marcel enter, is blocked, and then turns back just as Marcel approaches to confront him. The narrative order in the related events supports a clear temporal sequence.",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b7b4516408e8",
+    "subject_id": "ep_8b48eaffafcffedb",
+    "object_id": "ep_9ac5ce470312f9ab",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves the assignment of the America heist and confirmation of departure for the next day, while the object episode occurs upon arrival with suitcases and Marcel's unexpected accompaniment, indicating a subsequent event in the narrative sequence. The departure is confirmed in the first episode, and the second episode depicts the immediate follow-up at the point of departure, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_84e95634cc45",
+    "subject_id": "ep_4b3132b984c8a3b0",
+    "object_id": "ep_f3dd9a8acba75b7a",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_34, and the description of the first episode involves Sami questioning Sophie and her revealing criminal ties, which sets up an emotional exchange. The second episode follows by explicitly stating 'Following the emotional exchange about Sami's tattoo, Sophie shifts the tone by flirting,' indicating a clear sequential order where the discussion of criminal ties precedes the flirtation via tattoo talk.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5e6f44fbed2e",
+    "subject_id": "ep_c665c0db28353a23",
+    "object_id": "ep_12ae5e07b48b379f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate armed robbery at the counter' occurs first, involving the initial confrontation and acquisition of cash, followed by 'Assault and flee the scene', where the intruders escalate violence and escape. The sequence is supported by the shared scene (scene_36) and the logical progression from initial robbery to failed safe opening, assault, and flight.",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0f7509ae16be",
+    "subject_id": "ep_27734170f96e2f80",
+    "object_id": "ep_3d518342bf70dc5a",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur during the same occasion (the meeting in scene_44), and the events in the first episode (clarifying terminology and discussing mob philosophy) set up the subsequent focus on loyalty concerns and the conclusion of the meeting. The transition from abstract discussion to personal inquiry and closure indicates a clear narrative sequence where the subject episode occurs before the object episode.",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fea637ee8d76",
+    "subject_id": "ep_e3698ecc7b1fe5c7",
+    "object_id": "ep_8b3eb312738c85dc",
+    "relation_type": "precedes",
+    "reason": "The exchange between Sami and Zero about language occurs in the same scene (scene_14) and immediately precedes Julien's warning to Sami, as the warning is a direct response to Sami's interaction with Zero. The narrative sequence in the shared scene supports a clear temporal order where the language exchange prompts the subsequent warning.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1146074215cf",
+    "subject_id": "ep_a9f7816d0d7da0bb",
+    "object_id": "ep_ab59a7d1dd6422a2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to interruption and reassert control' involves Marcel slamming the door and pulling Sami up after an external interruption, while 'Confront Marcel about rumors and endure assault' involves Sami confronting Marcel about rumors and being punched. The related events in both episodes occur in scene_13, but the reassertion of control by Marcel logically precedes the subsequent confrontation and assault within the same scene, based on the narrative sequence implied by the descriptions.",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a6a1f6be2e77",
+    "subject_id": "ep_56e350df6dcf1725",
+    "object_id": "ep_abc268d2488a47f8",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves setting the operation for tonight and instructing Sami to take a nap to prepare, which establishes readiness. The object episode involves finalizing preparations, responding to a call confirming transportation, and departing. The narrative flow from setting timing and preparing (via rest) to packing gear and leaving indicates a clear temporal sequence where the subject episode occurs before the object episode.",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_983fc83486c1",
+    "subject_id": "ep_49bee14e28d9152a",
+    "object_id": "ep_f54611d3ed7bd549",
+    "relation_type": "precedes",
+    "reason": "The guest arrival and accommodation episode (ep_49bee14e28d9152a) occurs in scene_21, while the noisy neighbors episode (ep_f54611d3ed7bd549) occurs in scene_26, indicating a clear sequential order where the first episode precedes the second based on scene numbering.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4185c1eac7d7",
+    "subject_id": "ep_56e350df6dcf1725",
+    "object_id": "ep_59171a079a24980f",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves setting the operation for tonight and preparing the team, including instructing Sami to take a nap, which implies readiness before execution. The object episode describes repositioning after the alarm is disarmed, indicating a later tactical phase. The narrative progression from preparation to active infiltration supports a 'precedes' relation with strong but slightly indirect temporal evidence.",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_23e3fc8514b1",
+    "subject_id": "ep_c665c0db28353a23",
+    "object_id": "ep_cba1f5a08b477f50",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate armed robbery at the counter' involves the robbers entering and obtaining cash from the register, which is explicitly followed by the object episode 'Demand and refuse safe access' where Raphael demands the safe be opened after the cash has already been handed over. The sequence is supported by the narrative flow in both descriptions and the shared scene context (scene_36), indicating a clear temporal order.",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0fa0f03a26db",
+    "subject_id": "ep_49bee14e28d9152a",
+    "object_id": "ep_56e350df6dcf1725",
+    "relation_type": "precedes",
+    "reason": "The guest arrival and accommodations episode (ep_49bee14e28d9152a) occurs in scene_21, while the operation timing and readiness episode (ep_56e350df6dcf1725) occurs in scene_24, indicating a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1837e602a25d",
+    "subject_id": "ep_56e350df6dcf1725",
+    "object_id": "ep_d266e43d6d782081",
+    "relation_type": "elaborates",
+    "reason": "The subject episode 'Set operation timing and manage readiness' includes Sophie confirming the operation must proceed tonight due to occupants' absence, which is also a key point in the object episode 'Plan the break-in entry strategy' where Sophie confirms the target will be unoccupied. The subject episode provides contextual background (timing and readiness) that supports and expands the planning context of the object episode, particularly regarding the urgency and feasibility of the entry strategy. This justifies an elaboration relation from subject to object.",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2084664dafe1",
+    "subject_id": "ep_4b3132b984c8a3b0",
+    "object_id": "ep_78db7e39440f7332",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Sami and Sophie discuss their criminal ties' establishes mutual understanding of their morally ambiguous roles, which provides contextual background that enriches the subsequent revelation in 'Sami reveals his prison tattoo and past betrayal'; the shared theme of past betrayals and criminal history suggests the first episode elaborates on the personal disclosures in the second, particularly as both are prompted by Sophie and occur in the same scene (scene_34), supporting a directed elaboration from the first to the second.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5792ea857e33",
+    "subject_id": "ep_a9f7816d0d7da0bb",
+    "object_id": "ep_a9d7aac1f0e915a5",
+    "relation_type": "precedes",
+    "reason": "The interruption by the Large Man and Marcel's response to reassert control (ep_a9f7816d0d7da0bb) occurs immediately before Marcel shifts to offering Sami a job under threat (ep_a9d7aac1f0e915a5), as both are part of scene_13 and the reassertion of control sets the stage for the conditional offer. The sequence of events within the same scene supports a local narrative order where reestablishing dominance precedes the proposal.",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_532a3df89f59",
+    "subject_id": "ep_4b3132b984c8a3b0",
+    "object_id": "ep_e59a49793346837c",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_34, but the discussion about criminal ties (ep_4b3132b984c8a3b0) establishes mutual understanding before Sophie comments on Sami's interest in the bag (ep_e59a49793346837c), which initiates the bag preparation episode. The narrative flow within the shared scene supports a local precedence of the conversation before the action around the bag.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9a3162b05090",
+    "subject_id": "ep_026b06e80a11ff5a",
+    "object_id": "ep_22c716d2d936cbf9",
+    "relation_type": "causes",
+    "reason": "The confrontation over the unpaid debt (ep_026b06e80a11ff5a) directly leads to the escalation of punishment (ep_22c716d2d936cbf9), as Zammito's anger over the breach of trust and damaged reputation results in his decision to enforce consequences by ordering Vinny's arm to be broken. The causal link is supported by the shared context in scene_23 and the explicit narrative progression from confrontation to punishment.",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_780bae1ca37f",
+    "subject_id": "ep_00121e1b6ea82dbc",
+    "object_id": "ep_49bee14e28d9152a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'React to Sophie's appearance upon entry' occurs immediately after Sophie opens the door and is revealed, while the object episode 'Handle guest arrival and accommodations' begins with Sophie reacting to the number of guests and offering sleeping bags. The related events in the subject (scene_20) precede those in the object (scene_21), establishing a clear local narrative order where Sami's reaction to Sophie's appearance comes before the logistical arrangements for the guests.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ec4a7e426b63",
+    "subject_id": "ep_9d434d3cd383058e",
+    "object_id": "ep_aee45442c7ca6044",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Confront Bobby Beans over property interest' includes events where Bobby Beans is present and being challenged by Zammito, while the object episode 'React to Bobby Beans' departure' begins after Bobby leaves and includes Zammito's insult post-departure. The related events and descriptions establish a clear temporal sequence: the confrontation ends with Bobby's departure, which is immediately followed by Zammito's reaction, supporting a direct 'precedes' relation.",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dbc1c8cdac92",
+    "subject_id": "ep_fa19cffe2274cba3",
+    "object_id": "ep_14be55fefec05eac",
+    "relation_type": "precedes",
+    "reason": "The troubleshooting of the flashlight failure occurs in scene_1, where Daniel and Julien attempt to use a non-functional flashlight and debate the lack of batteries. The illumination via lighter and confrontation with the old man occurs in scene_5, where Julien uses a lighter after the flashlight fails. The sequence of scenes (1 before 5) and the shared context of darkness resolution support that the flashlight troubleshooting precedes the illumination and confrontation episode.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3a79be2b3d4a",
+    "subject_id": "ep_ab59a7d1dd6422a2",
+    "object_id": "ep_b0ae94a6e72379ed",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Marcel about rumors and endure assault' (doc_12, scene_13) occurs after 'Marcel confronts Sami about his debt' (doc_11, scene_12), as indicated by the document and scene ordering. Scene_12 precedes scene_13, and both episodes involve escalating tension between Sami and Marcel, with the debt confrontation setting up the later physical assault. The narrative order supports a 'precedes' relation from the debt confrontation to the assault.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3f244f92e650",
+    "subject_id": "ep_0394f977225fd8d9",
+    "object_id": "ep_c9a430174984179f",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Arrive and deploy team in upscale neighborhood' involves the crew arriving and preparing for their operation, which establishes the initial setup. The object episode 'Initiate紧急 escape and enter the vehicle' involves a rapid escape sequence triggered by urgency, including running to and entering the vehicle. Given that arrival and deployment logically precede an escape attempt, and both episodes involve the same vehicle and crew in the same location, the narrative order strongly supports a 'precedes' relation from arrival to escape.",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0b54f90fafed",
+    "subject_id": "ep_8b48eaffafcffedb",
+    "object_id": "ep_66b2fca0878dca6f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assign and reinforce the America heist mandate' establishes the crew's mandatory assignment to the heist in America, including their departure the next day and the financial incentive. This sets the foundational context for subsequent planning steps. The episode 'Plan recruitment of a local guide' occurs afterward, as Julien and Marcel address a logistical challenge (lack of local knowledge) that arises only after the mission has been assigned. The narrative flow in scene_10 supports this order: first the mandate is enforced, then the crew begins adapting the plan, including recruiting a guide. Thus, the mandate episode precedes the recruitment planning episode.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e87ca2482363",
+    "subject_id": "ep_b0ae94a6e72379ed",
+    "object_id": "ep_a9d7aac1f0e915a5",
+    "relation_type": "precedes",
+    "reason": "The confrontation about the debt (ep_b0ae94a6e72379ed) occurs in doc_11, scene_12, where Marcel establishes Sami's debt and pushes him into the bathroom. The job offer under threat (ep_a9d7aac1f0e915a5) occurs in doc_12, scene_13, where Marcel shifts to conditional leniency by offering a repayment path. The sequential scene numbering (12 before 13) and document order (doc_11 before doc_12) provide clear narrative chronology, supporting that the confrontation precedes the job offer.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d162e868bb72",
+    "subject_id": "ep_74c09cfd5cd5819d",
+    "object_id": "ep_a14a022dde190de3",
+    "relation_type": "precedes",
+    "reason": "The introduction of Raymond to Wayne occurs before Sophie redirects the group's focus to food, as the interruption of the philosophical exchange implies a sequential narrative order where the introduction must happen first.",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9abf16f8e8ef",
+    "subject_id": "ep_14be55fefec05eac",
+    "object_id": "ep_c9a430174984179f",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Daniel and Julien reacting to an intruder's command in a dark room, with events occurring in scene_5. The object episode describes their rapid escape and entry into a vehicle, with events in scene_6. The progression from scene_5 to scene_6 in the narrative order indicates that the subject episode occurs earlier than the object episode, supporting a 'precedes' relation.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_76eb8e1f01a9",
+    "subject_id": "ep_8fec976db019177d",
+    "object_id": "ep_68ac06e9e5de662d",
+    "relation_type": "precedes",
+    "reason": "The 'Retrieve the stolen painting' episode involves Daniel Foray cutting and rolling the canvas, which must occur before Julien uses the canvas to beat the flames in the 'Attempt to extinguish the fire with disastrous results' episode. The shared context in scene_3 and the physical use of the same canvas support a clear temporal sequence.",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4477d3f4832d",
+    "subject_id": "ep_026edadcebc81519",
+    "object_id": "ep_57c73dd12484102b",
+    "relation_type": "causes",
+    "reason": "The threat is neutralized when Zero uses superior force, causing Lamar and his gang to flee; this directly enables the group to regroup safely, collect their belongings, and depart without further danger, as described in the sequence of events in scene_19.",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_99cabfb7ae44",
+    "subject_id": "ep_25d785df5c94ca6c",
+    "object_id": "ep_e3698ecc7b1fe5c7",
+    "relation_type": "precedes",
+    "reason": "The episode 'Zero enters and is introduced to Sami' sets the initial encounter, which logically and chronologically precedes the subsequent exchange about language in 'Sami and Zero exchange language-related remarks', both occurring in scene_14 of doc_13.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bf78492c7141",
+    "subject_id": "ep_14be55fefec05eac",
+    "object_id": "ep_3004bfa0722a2da9",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Julien lighting a lighter and the old man commanding them to stop, occurring in scene_5. The second episode involves Julien accusing Raymond and Daniel observing the old man with a shotgun in scene_7, which happens later in the narrative sequence. The progression from scene_5 to scene_7 supports a clear temporal order where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_938913ce78b5",
+    "subject_id": "ep_8fec976db019177d",
+    "object_id": "ep_d79f80bb645d1a7f",
+    "relation_type": "causes",
+    "reason": "The retrieval of the stolen painting, which involved cutting and rolling the canvas, directly leads to the discovery that the painting is destroyed after the fire, as described in the object episode's consequence of Julien's chaotic actions. The causal link is supported by the narrative flow where the method of handling the painting during retrieval results in its ruined state upon inspection.",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d7189a0c2719",
+    "subject_id": "ep_aba82eb366d1f851",
+    "object_id": "ep_018156a99b130400",
+    "relation_type": "precedes",
+    "reason": "The radio music conflict between Zero and Marcel occurs first, as Marcel changes the station and they struggle over it; only after the radio is turned off does Marcel begin quietly singing, which constitutes the subsequent episode. The sequence of events in scene_16 supports a clear temporal order where the conflict over the radio precedes the quiet singing act of defiance.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1433244edb10",
+    "subject_id": "ep_82b1a242a7faf839",
+    "object_id": "ep_213cc399fa0ceb2d",
+    "relation_type": "precedes",
+    "reason": "Sami stealing a man's wallet occurs before he flees from approaching police, as the theft is the initiating action of his spree and the flight is a reaction to being detected, establishing a clear temporal sequence in the narrative.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6a7e8c99e4ff",
+    "subject_id": "ep_a4a97a44cf02094f",
+    "object_id": "ep_c9a430174984179f",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Flee after the old man regains consciousness' occurs in scene_5 and involves Daniel and Julien fleeing toward the door, while the object episode 'Initiate紧急 escape and enter the vehicle' occurs in scene_6 and involves them running to the street, entering the car, and Raymond starting the engine. The progression from door to street to vehicle entry indicates a continuous escape sequence, with scene_5 preceding scene_6 in narrative order.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_db1cac82820d",
+    "subject_id": "ep_fab4ee812f14f4fe",
+    "object_id": "ep_00121e1b6ea82dbc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate contact and gain entry to Sophie's door' includes the event where Sophie opens the door, which immediately precedes Sami's reaction expressed in 'React to Sophie's appearance upon entry'. The sequence of events in scene_20 supports a clear temporal order where gaining entry occurs before the reaction to Sophie's appearance.",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6f981edb998c",
+    "subject_id": "ep_1951ba696e1d9bd6",
+    "object_id": "ep_6c1e28bd1922b253",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Approach and initiate contact at the noisy door' involves Raymond knocking and being greeted by the biker, which directly sets up the subsequent request and rejection in the object episode. The related events in both episodes occur in the same scene (scene_27) and follow a clear temporal sequence: approach and greeting precede the request and its rejection.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7d32209bb76d",
+    "subject_id": "ep_a18ba7948600369c",
+    "object_id": "ep_026edadcebc81519",
+    "relation_type": "precedes",
+    "reason": "Lamar escalates the threat by drawing a knife and demanding the suitcases, which immediately precedes Zero's response of revealing a firearm and neutralizing the threat. The sequence of events in scene_19 supports a clear temporal order where the escalation occurs before the neutralization.",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fc291527a2e4",
+    "subject_id": "ep_82b1a242a7faf839",
+    "object_id": "ep_5d14ddc271f49687",
+    "relation_type": "precedes",
+    "reason": "The episode 'Sami steals a man's wallet in the plaza' occurs before 'Sami is attacked and exposed by the victim', as the latter involves a subsequent theft attempt that results in confrontation, indicating a chronological sequence supported by the narrative progression in the description.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4dbff7af03e8",
+    "subject_id": "ep_6f5fbf55df9f7ebc",
+    "object_id": "ep_213cc399fa0ceb2d",
+    "relation_type": "precedes",
+    "reason": "The attempt to steal from the woman's purse occurs first, as it is part of the sequence leading to Sami being knocked down and noticing the police, which directly triggers his flight. The description of the fleeing episode references the aftermath of the failed theft, supporting the temporal order.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d3d3692c63fb",
+    "subject_id": "ep_5438eb49f90c2389",
+    "object_id": "ep_026edadcebc81519",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrive and get surrounded by hostile gang' sets up the confrontation with Lamar's gang, which is directly resolved in the subsequent episode 'Zero neutralizes the threat with superior force', as both episodes are grounded in scene_19 and describe a sequential progression from threat establishment to threat resolution.",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_beeb4824c512",
+    "subject_id": "ep_0ea148dafafd8dff",
+    "object_id": "ep_ab59a7d1dd6422a2",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Sami attempts to flee from Marcel' occurs in scene_12, while the object episode 'Confront Marcel about rumors and endure assault' occurs in scene_13, indicating a clear narrative sequence where the flight attempt precedes the confrontation and assault.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4af3c35ff004",
+    "subject_id": "ep_5fc3cf5c6dbaa86a",
+    "object_id": "ep_59171a079a24980f",
+    "relation_type": "precedes",
+    "reason": "The object episode 'Reposition the team for infiltration' begins after the alarm is disarmed, which is the culmination of the subject episode 'Disable security and confirm entry'. The subject episode includes deactivating the hall alarm and confirming entry, which directly precedes the team's repositioning as described in the object episode. The narrative sequence is explicitly supported by the descriptions and related events of both episodes.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ef4c0bbafc3c",
+    "subject_id": "ep_25d785df5c94ca6c",
+    "object_id": "ep_097ff8366dd5d5b8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Zero enters and is introduced to Sami' occurs first, establishing Zero's presence in the scene, followed by 'Zero seeks confirmation of violent role' where he questions his purpose. Both episodes occur in scene_14, and the sequence of events in the description implies a temporal order: entry and introduction precede the dialogue about killing. Therefore, the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_76250298ddff",
+    "subject_id": "ep_528ccf67154bf94e",
+    "object_id": "ep_84f2de06e4dc5b34",
+    "relation_type": "precedes",
+    "reason": "Julien's entry into the building is explicitly described as occurring before Zero follows him in, as the sequence is presented in a single scene (scene_48) with a clear temporal order: Julien completes his actions (placing ladder, climbing, prying window, climbing through) before Zero follows. This is supported by the description of the object episode stating 'After Julien successfully enters the building... Zero follows him.'",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a525aed7240e",
+    "subject_id": "ep_c9a430174984179f",
+    "object_id": "ep_849151652147a6dc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate紧急 escape and enter the vehicle' (doc_5, scene_6) occurs before 'Raymond prepares for escape under fire' (doc_6, scene_7), as evidenced by the sequential scene numbering and the progression from starting the engine to executing an escape maneuver under fire. The events in the first episode directly set up the conditions for the second, with Daniel's command and Raymond starting the car preceding the subsequent attempt to free the car and evade threat in the next scene.",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_123cbf045061",
+    "subject_id": "ep_0ea148dafafd8dff",
+    "object_id": "ep_a9f7816d0d7da0bb",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Sami attempts to flee from Marcel' occurs in scene_12, while the object episode 'Respond to interruption and reassert control' occurs in scene_13, indicating a clear narrative sequence where the flight attempt precedes the response to interruption and reassertion of control.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_05d0c8421803",
+    "subject_id": "ep_59171a079a24980f",
+    "object_id": "ep_84f2de06e4dc5b34",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Reposition the team for infiltration' occurs in doc_46 and describes Julien and Zero moving to the side of the house, prior to entry. The object episode 'Zero follows Julien into the building' occurs in doc_47 and describes the actual entry into the building. The repositioning directly precedes the entry, as supported by the narrative sequence across adjacent documents and the logical progression of the infiltration operation.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_115a1cb1ff45",
+    "subject_id": "ep_50f9129d99bd6e41",
+    "object_id": "ep_59171a079a24980f",
+    "relation_type": "precedes",
+    "reason": "Sami's introduction to the group occurs early in the narrative when he arrives and establishes his background, while the repositioning for infiltration happens after the alarm is disarmed, indicating a later tactical phase. The sequence of events implies a temporal order where the introduction precedes the operational repositioning.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_eec259d307f6",
+    "subject_id": "ep_a0c41a2d7ce0a598",
+    "object_id": "ep_b674016d77e6ff45",
+    "relation_type": "elaborates",
+    "reason": "The subject episode involves Zammito addressing his brother's injury and issuing initial recovery instructions. The object episode adds a final instruction—sending steaks—under the same context and goal, thereby providing an additional detail that expands upon the initial response. This is supported by the description stating the action 'completing his response to the injury news,' indicating elaboration rather than a separate or preceding event.",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8a329d53b2d3",
+    "subject_id": "ep_5438eb49f90c2389",
+    "object_id": "ep_a18ba7948600369c",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Arrive and get surrounded by hostile gang' establishes the initial confrontation with Lamar and his gang, which is immediately followed by the object episode where Lamar escalates the threat by drawing a knife and demanding the suitcases. The sequence of events in scene_19 supports a clear narrative order where the surrounding occurs before the escalation of violence.",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6c483eee9012",
+    "subject_id": "ep_834f3febd7a0b5a3",
+    "object_id": "ep_bf748a2c00eaa365",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_22 and involve interactions with the waitress regarding restaurant policies. The smoking enforcement (subject) occurs when Zero attempts to smoke, followed immediately by the beverage ordering confusion (object) as Julien attempts to order wine. The sequence of events within the same scene supports a local narrative order where the no-smoking incident precedes the drink ordering process.",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5f5582b30a76",
+    "subject_id": "ep_c9a430174984179f",
+    "object_id": "ep_9e67be271cb6108e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate紧急 escape and enter the vehicle' includes events where Raymond starts the car engine and Daniel and Julien enter the back seat, which must occur before the subsequent attempt to maneuver the car out of the tight space. The description of 'Struggle to free the car from tight parking space' begins with the car already occupied and running, indicating it follows the initiation of the escape. Thus, the first episode clearly precedes the second in narrative order.",
+    "source_documents": [
+      "scene_6_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_51b45abe9f15",
+    "subject_id": "ep_49bee14e28d9152a",
+    "object_id": "ep_74c09cfd5cd5819d",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_21 and share the same doc_id. The subject episode involves Sophie reacting to guest arrival and offering sleeping bags, which establishes initial hospitality. The object episode involves Sophie introducing Wayne to the group and Raymond approaching him, which builds on the established presence of guests. The logistical setup (accommodations) logically precedes and enables the subsequent social introductions, indicating a clear narrative sequence supported by the event order in the description.",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ebc0ebc02c8a",
+    "subject_id": "ep_105558a0f98e86c3",
+    "object_id": "ep_27734170f96e2f80",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Zammito initiating the meeting and reporting intelligence, which sets the context for the subsequent episode where Bonanno responds to Zammito's language and shifts the conversation to philosophical matters. The narrative flow within the same scene (scene_44) and the sequential dependency of topics indicate that the initiation and intelligence exchange logically and temporally precede the clarification of terminology and philosophical discussion.",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c9a241941b8d",
+    "subject_id": "ep_5d14ddc271f49687",
+    "object_id": "ep_213cc399fa0ceb2d",
+    "relation_type": "causes",
+    "reason": "The episode 'Sami is attacked and exposed by the victim' directly leads to 'Sami flees from approaching police' as the physical confrontation causes stolen wallets to scatter and alerts nearby officers, prompting Sami's flight. The causal link is strongly supported by the sequence of events in the shared scene and the description stating Sami flees upon seeing police after the attack.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fd7aff3d4fa3",
+    "subject_id": "ep_82b1a242a7faf839",
+    "object_id": "ep_6f5fbf55df9f7ebc",
+    "relation_type": "precedes",
+    "reason": "The description of ep_82b1a242a7faf839 states it 'marks the beginning of his petty theft spree,' and ep_6f5fbf55df9f7ebc describes a subsequent failed attempt. The narrative order implied by 'beginning' and the lack of causal coupling indicate a temporal sequence where the successful theft precedes the failed attempt.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_16e1c285231f",
+    "subject_id": "ep_65f9d2d8881ab16d",
+    "object_id": "ep_90178d12962b2a74",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Discover and react to the missing car' involves Raphael and Hector immediately responding to the car's absence, while the object episode 'Expel Hector and vow revenge' occurs later when Raphael, now alone, asserts control and threatens revenge. The sequence of events—first the car is discovered missing with Hector present, then Hector is sent away and Raphael makes a threat—supports a local narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2e3c901acd86",
+    "subject_id": "ep_3004bfa0722a2da9",
+    "object_id": "ep_c9a430174984179f",
+    "relation_type": "precedes",
+    "reason": "The confrontation escalation episode involves Julien blaming Raymond and Daniel observing the old man with a shotgun, which sets up immediate danger. The escape episode follows, with Daniel and Julien running to the car and Raymond starting the engine to flee. The events in the escape episode (scene_6) occur after the threat is detected in the confrontation episode (scene_7), but scene numbering suggests a possible discrepancy; however, narrative logic and the description of escalating tension leading to flight support that the confrontation precedes the escape. The relation is based on local narrative order and causal plausibility, though scene IDs suggest potential misalignment, slightly reducing confidence.",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d776be40c505",
+    "subject_id": "ep_50f9129d99bd6e41",
+    "object_id": "ep_ab59a7d1dd6422a2",
+    "relation_type": "precedes",
+    "reason": "Sami introduces himself to Daniel and Julien before confronting Marcel about rumors, as establishing his presence and background logically precedes the later confrontation with Marcel in the narrative sequence. The introduction sets up Sami's integration into the group, which must occur prior to his conflict with Marcel.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7e3512b2412e",
+    "subject_id": "ep_0ea148dafafd8dff",
+    "object_id": "ep_a9d7aac1f0e915a5",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Sami attempts to flee from Marcel' occurs in scene_12, while the object episode 'Offer Sami a job opportunity under threat' occurs in scene_13, indicating a clear narrative sequence where Sami's failed escape immediately precedes Marcel's conditional offer. The events are temporally ordered within the story, with no indication of overlap or reversal.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_733a0752de6d",
+    "subject_id": "ep_7e4eaac4d620c102",
+    "object_id": "ep_68ac06e9e5de662d",
+    "relation_type": "causes",
+    "reason": "The fire is triggered when Julien flings the burning Zippo lighter, igniting the curtains (ep_7e4eaac4d620c102); this uncontrolled fire leads directly to his panicked attempt to beat the flames with the canvas, which then catches fire (ep_68ac06e9e5de662d). The causal sequence is explicitly supported by the event descriptions in scene_3.",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_31daddc73caf",
+    "subject_id": "ep_105558a0f98e86c3",
+    "object_id": "ep_3d518342bf70dc5a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate the meeting and exchange intelligence' involves the beginning of the meeting with Zammito reporting intelligence, while the object episode 'Address loyalty concerns and conclude the meeting' involves Bonanno probing personal loyalty and the meeting drawing to a close. The sequence of events within the shared occasion 'Meeting Between Zammito And Angelo Bonanno (scene_44)' supports a clear temporal order where initiation and intelligence exchange occur before loyalty concerns are addressed and the meeting concludes.",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1eb1e2ab2756",
+    "subject_id": "ep_6f5fbf55df9f7ebc",
+    "object_id": "ep_5d14ddc271f49687",
+    "relation_type": "precedes",
+    "reason": "The attempt and failure to steal (ep_6f5fbf55df9f7ebc) directly precedes the attack and exposure (ep_5d14ddc271f49687), as the victim's zipping of the purse and catching Sami's arm hair leads immediately to the physical confrontation described in the second episode. Both episodes occur in scene_11 and are causally and temporally linked, with the failure setting up the retaliation.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_490709dd9b37",
+    "subject_id": "ep_0ea148dafafd8dff",
+    "object_id": "ep_50f9129d99bd6e41",
+    "relation_type": "precedes",
+    "reason": "The episode 'Sami attempts to flee from Marcel' occurs in doc_11, scene_12, while 'Sami introduces himself to the group' occurs in doc_13, scene_14. The document and scene ordering (doc_11 before doc_13, scene_12 before scene_14) provides strong evidence that the flight attempt precedes the introduction. Additionally, narrative coherence suggests Sami's failed escape leads to his forced interaction with Marcel's associates, making the introduction a subsequent event.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_20af0f517829",
+    "subject_id": "ep_14448692e945f87b",
+    "object_id": "ep_849151652147a6dc",
+    "relation_type": "causes",
+    "reason": "The gunfire from the old man directly triggers the group's reaction and prompts Daniel's command for escape, which initiates Raymond's actions to free the car and prepare for flight. The description of ep_849151652147a6dc explicitly states it occurs 'in response to Daniel's urgent command to flee,' which itself is a direct consequence of the attack described in ep_14448692e945f87b. The temporal and causal linkage is supported by the shared scene and the reactive nature of the events.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e9eed0f9c4cb",
+    "subject_id": "ep_50f9129d99bd6e41",
+    "object_id": "ep_d266e43d6d782081",
+    "relation_type": "precedes",
+    "reason": "Sami introduces himself to the group before the team plans the break-in entry strategy, as his introduction establishes his presence and credibility within the group, which logically precedes his participation in the planning discussion where he proposes entering through the bedroom window. The related events in the second episode include Sami contributing to the plan, implying his prior introduction was necessary for his inclusion in the team discussion.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5a9771b3204e",
+    "subject_id": "ep_50f9129d99bd6e41",
+    "object_id": "ep_4b3132b984c8a3b0",
+    "relation_type": "precedes",
+    "reason": "Sami introduces himself to Daniel and Julien before discussing his criminal ties with Sophie, as establishing his identity and background with the group logically precedes a more personal conversation about criminal justifications. The narrative flow suggests a sequence where initial introductions occur before deeper discussions, supporting a 'precedes' relation from the introduction episode to the discussion episode.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bf4356854546",
+    "subject_id": "ep_a9d7aac1f0e915a5",
+    "object_id": "ep_50f9129d99bd6e41",
+    "relation_type": "precedes",
+    "reason": "The episode 'Offer Sami a job opportunity under threat' occurs in doc_12 and involves Marcel giving Sami instructions to appear at an address the next morning. The episode 'Sami introduces himself to the group' occurs in doc_13 and depicts Sami arriving and introducing himself to Daniel and Julien. Given the narrative flow and the instruction to appear the next morning, it is strongly supported that the job offer and instructions precede Sami's arrival and introduction to the group.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9fe45eb4cf87",
+    "subject_id": "ep_0394f977225fd8d9",
+    "object_id": "ep_59171a079a24980f",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves the crew arriving and deploying in the neighborhood, setting up initial positioning, while the object episode describes repositioning after the alarm is disarmed, indicating a subsequent tactical movement. The sequence of events implies a temporal order where deployment precedes repositioning during infiltration, supported by the narrative flow in the descriptions.",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8e90211d6f8d",
+    "subject_id": "ep_2bc80895013bc213",
+    "object_id": "ep_ba3444f87f1e79e9",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Address transportation logistics' involves planning and arranging vehicle theft for travel, which logically precedes the object episode 'Travel to and enter the warehouse' where the team physically moves to and enters the location. The sequential dependency in planning before execution and the shared participants support a directed 'precedes' relation.",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b2328d47b8b9",
+    "subject_id": "ep_fa19cffe2274cba3",
+    "object_id": "ep_8fec976db019177d",
+    "relation_type": "precedes",
+    "reason": "The troubleshooting of the flashlight failure occurs in scene_1, where the characters are in pitch darkness and attempt to activate the flashlight, while the retrieval of the stolen painting occurs in scene_3, involving lighting the room and cutting the canvas. The scene numbering and narrative progression indicate that the flashlight troubleshooting happens earlier than the painting retrieval.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5da06685def9",
+    "subject_id": "ep_14be55fefec05eac",
+    "object_id": "ep_2432ce74484472d2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Break into the building' involves Daniel and others entering the building using a locksmith tool, which establishes their presence inside. The episode 'Illuminate the room and react to the intruder's command' occurs afterward, as it involves Julien lighting a lighter inside the dark room and encountering an old man, indicating they are already inside. The narrative sequence implied by the events—gaining entry followed by internal navigation and confrontation—supports a 'precedes' relation from break-in to illumination and confrontation.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2db2f862caf1",
+    "subject_id": "ep_2bc80895013bc213",
+    "object_id": "ep_0394f977225fd8d9",
+    "relation_type": "precedes",
+    "reason": "The transportation logistics are addressed before the crew arrives and deploys in the upscale neighborhood. Raymond is tasked with stealing a vehicle in Episode ep_2bc80895013bc213, which must occur prior to the crew arriving in the Impala in Episode ep_0394f977225fd8d9, implying a clear temporal sequence supported by the narrative flow of preparation followed by arrival.",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7410d4a3944a",
+    "subject_id": "ep_8fec976db019177d",
+    "object_id": "ep_c9a430174984179f",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Retrieve the stolen painting' involves Daniel Foray stealing the artwork in scene_3, while the object episode 'Initiate紧急 escape and enter the vehicle' occurs in scene_6, where the characters flee the scene. The events in the related scenes are ordered sequentially in the narrative, with the theft preceding the escape, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_50473bbf6e13",
+    "subject_id": "ep_0394f977225fd8d9",
+    "object_id": "ep_3004bfa0722a2da9",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Arrive and deploy team in upscale neighborhood' involves the crew arriving and preparing for their operation, which sets the initial context. The object episode 'Confrontation escalates with accusation and threat detection' describes a subsequent rise in tension involving an accusation and the appearance of a threat with a shotgun. The events in the object episode (scene_7) occur after the arrival and deployment in the subject episode (scene_46), establishing a clear temporal sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_252c8baf256f",
+    "subject_id": "ep_2bc80895013bc213",
+    "object_id": "ep_c9a430174984179f",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Address transportation logistics' involves planning and assigning Raymond to steal a vehicle, which logically precedes the object episode 'Initiate紧急 escape and enter the vehicle' where Raymond is already starting the car and the team is fleeing. The events in the object episode (e.g., Raymond starting the engine, Daniel and Julien rushing to the car) depend on the prior resolution of transportation logistics, indicating a clear temporal sequence supported by narrative coherence.",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8be2349f7eab",
+    "subject_id": "ep_14be55fefec05eac",
+    "object_id": "ep_849151652147a6dc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Illuminate the room and react to the intruder's command' occurs in scene_5, where the old man first appears and issues a command, while 'Raymond prepares for escape under fire' occurs in scene_7, involving a later response to renewed threat as the old man reloads. The progression from initial confrontation to escape preparation, along with the explicit scene ordering (scene_5 before scene_7), supports a clear narrative sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3f50cffb01a9",
+    "subject_id": "ep_a64dd1e2cc61ee22",
+    "object_id": "ep_255c8192b0f99f5b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Prepare and initiate confrontation at the door' occurs in doc_28 and includes Marcel approaching and knocking on the door, which immediately precedes the attack from Biker #2 that triggers the countermeasures in 'Neutralize Biker #2 in close combat' in doc_29. The narrative sequence is supported by the document order and the causal setup in the description of the second episode, which responds to the initial hostility established in the first.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_76e2b013cf6c",
+    "subject_id": "ep_255c8192b0f99f5b",
+    "object_id": "ep_d02bc430818975e2",
+    "relation_type": "causes",
+    "reason": "The neutralization of Biker #2 directly leads to the third Biker's surrender, as the description of the second episode explicitly states that the third Biker de-escalates after witnessing Marcel defeat Biker #2, indicating a clear causal link.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_97f4d1d27ae4",
+    "subject_id": "ep_56461f0b9b139abd",
+    "object_id": "ep_c9a430174984179f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Raymond about his driving competence' describes a critique of Raymond's driving during a tense escape, referencing events in scene_8, while 'Initiate紧急 escape and enter the vehicle' occurs in scene_6 and depicts the initial escape sequence. Since scene_6 precedes scene_8 in narrative order, the object episode occurs earlier than the subject episode. Therefore, the subject episode follows the object episode, making the relation 'precedes' with subject -> object direction incorrect; however, the correct temporal order is object -> subject. Given that 'precedes' is a directed relation and the subject must precede the object, this directionality is violated. Thus, the correct assignment is that the object precedes the subject, but since the schema requires the subject to be the source, the relation cannot be validly asserted in this direction. After reevaluation, no supported directed relation exists from subject to object. However, the scene numbers provide clear evidence of temporal order: ep_c9a430174984179f (scene_6) precedes ep_56461f0b9b139abd (scene_8). Therefore, if the subject is ep_56461f0b9b139abd and the object is ep_c9a430174984179f, then the subject does not precede the object. Hence, 'precedes' cannot hold in this direction. No other relation (causes, contrasts_with, elaborates) is supported. Therefore, the only valid conclusion is that no supported relation exists from subject to object.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d501f571c0bd",
+    "subject_id": "ep_87ede938ace2adb9",
+    "object_id": "ep_255c8192b0f99f5b",
+    "relation_type": "precedes",
+    "reason": "The assault with head butt and punches (ep_87ede938ace2adb9) occurs in scene_29, while the neutralization of Biker #2 in close combat (ep_255c8192b0f99f5b) occurs in scene_30, indicating a direct narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_606d6cdc4ca8",
+    "subject_id": "ep_abc268d2488a47f8",
+    "object_id": "ep_0394f977225fd8d9",
+    "relation_type": "precedes",
+    "reason": "The 'Prepare and depart for operation' episode involves the crew finalizing preparations and leaving their location, which logically precedes the 'Arrive and deploy team in upscale neighborhood' episode where they are already arriving at the target location. The departure (subject) must occur before the arrival (object), based on the narrative sequence implied by the goal-driven actions in both episodes.",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b52a33ed889b",
+    "subject_id": "ep_f54611d3ed7bd549",
+    "object_id": "ep_1951ba696e1d9bd6",
+    "relation_type": "precedes",
+    "reason": "The episode 'Address the noisy neighbors' includes Raymond offering to talk to the neighbors and leaving the apartment to confront them, which directly precedes the episode 'Approach and initiate contact at the noisy door' where he arrives at and knocks on the door. The related events and narrative flow establish a clear temporal sequence.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9abff720a817",
+    "subject_id": "ep_9967bfe6740c8e4f",
+    "object_id": "ep_9e67be271cb6108e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Raymond Gayet surveils the neighborhood' involves Raymond waiting in the Peugeot before any attempt to move the car, while 'Struggle to free the car from tight parking space' occurs after the car is occupied and in motion. The narrative sequence implied by the events—surveillance while stationary followed by attempted departure—supports a temporal order where surveillance precedes the struggle to exit the parking space.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b157f7086bef",
+    "subject_id": "ep_f54611d3ed7bd549",
+    "object_id": "ep_6c1e28bd1922b253",
+    "relation_type": "precedes",
+    "reason": "The episode 'Address the noisy neighbors' includes Raymond offering to talk to the neighbors and leaving to confront them, which directly sets up the subsequent episode where he makes the request and is rejected. The events in the second episode (request and rejection) occur after Raymond leaves in the first, establishing a clear temporal sequence.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8246b10d5447",
+    "subject_id": "ep_9967bfe6740c8e4f",
+    "object_id": "ep_f0ec248e486bb77c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Raymond Gayet surveils the neighborhood' establishes Raymond waiting in a Peugeot in a tense, observational state, which sets the initial scene. The episode 'Observe suspicious activity near the liquor store' occurs when Raymond notices specific details (flashing alarm, men exiting a car) that represent a development within the surveillance context. The first episode provides the setting and posture for the second, more specific observation, indicating a temporal progression from general surveillance to focused detection of suspicious activity.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_08488fd00ccd",
+    "subject_id": "ep_ef67f0922050541f",
+    "object_id": "ep_981c699357724eca",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate the journey by car' involves active navigation during travel, including map study, which logically precedes the realization in 'Realize they took a wrong turn' when stopped in a parking lot. The latter episode reflects on a misdirection that would have occurred during the ongoing navigation, indicating a temporal sequence supported by the narrative flow of events.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bfc070710475",
+    "subject_id": "ep_9e67be271cb6108e",
+    "object_id": "ep_849151652147a6dc",
+    "relation_type": "precedes",
+    "reason": "The struggle to free the car from the tight parking space (ep_9e67be271cb6108e) occurs in scene_6, while Raymond's preparation for escape under fire, including revving the engine and steering left, occurs in scene_7. The related_events and scene numbers indicate a clear narrative sequence where the earlier episode directly precedes the later one.",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8c7a76ae853d",
+    "subject_id": "ep_528ccf67154bf94e",
+    "object_id": "ep_753de24208704965",
+    "relation_type": "precedes",
+    "reason": "Julien gains entry to the building by climbing through a window, which logically precedes the need to disable the alarm system once inside. The related events in both episodes suggest a sequential narrative order: physical entry occurs before interacting with the alarm panel, supporting a 'precedes' relation from entry to disarming.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_73fbb0a9d958",
+    "subject_id": "ep_d266e43d6d782081",
+    "object_id": "ep_5fc3cf5c6dbaa86a",
+    "relation_type": "precedes",
+    "reason": "The planning episode, where the team discusses and assigns roles for entry based on the security layout, occurs before the execution episode in which Julien disables alarm panels and Zero confirms successful entry. The planning sets the stage for the actions taken during the breach, with clear chronological order implied by the narrative sequence: strategy formulation precedes its implementation.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0f88538ffee4",
+    "subject_id": "ep_abc268d2488a47f8",
+    "object_id": "ep_ef67f0922050541f",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Prepare and depart for operation' involves the crew finalizing preparations and leaving the location (scene_38), while the object episode 'Navigate the journey by car' occurs during a car ride in scene_40. The departure in scene_38 logically precedes the in-transit navigation in scene_40, with no intervening events described, supporting a direct narrative sequence.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_944eb93bce8a",
+    "subject_id": "ep_9e67be271cb6108e",
+    "object_id": "ep_56461f0b9b139abd",
+    "relation_type": "precedes",
+    "reason": "The struggle to free the car from the tight parking space (ep_9e67be271cb6108e) occurs during the drive and directly leads to Daniel confronting Raymond about his driving competence (ep_56461f0b9b139abd), as the failed maneuver provides the immediate context for the criticism. The related events in both episodes are situated in consecutive scenes (scene_6 and scene_8), supporting a local narrative order where the struggle precedes the confrontation.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_05b9dd0eb0de",
+    "subject_id": "ep_753de24208704965",
+    "object_id": "ep_84f2de06e4dc5b34",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Disable the alarm system' involves Julien disarming the alarm in scene_47, which must occur before the object episode 'Zero follows Julien into the building' in scene_48, indicating a clear temporal sequence where the alarm is disabled prior to entry.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e912f20eb726",
+    "subject_id": "ep_d266e43d6d782081",
+    "object_id": "ep_528ccf67154bf94e",
+    "relation_type": "precedes",
+    "reason": "The planning episode, where the team discusses and assigns entry roles based on the security layout, occurs before Julien's physical execution of gaining entry to the building. The planning includes assessing alarm feasibility and proposing the bedroom window entry, which directly informs the subsequent action of Julien using a ladder and window to enter. This sequence establishes a clear temporal order supported by the narrative structure.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_58261ae1baeb",
+    "subject_id": "ep_528ccf67154bf94e",
+    "object_id": "ep_c9a430174984179f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Julien gains entry to the building' involves Julien entering a structure through a window, which logically precedes the escape sequence in 'Initiate紧急 escape and enter the vehicle', where Daniel and Julien flee the scene. The events in the first episode occur before the urgent escape begins, as gaining entry is a prerequisite to escaping after an intrusion, and the narrative flow implies a temporal sequence from infiltration to escape.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b14bfcd31d97",
+    "subject_id": "ep_c9a430174984179f",
+    "object_id": "ep_ef67f0922050541f",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate紧急 escape and enter the vehicle' involves Daniel, Julien, and Raymond entering the car in a rush to flee, which logically and temporally precedes the object episode 'Navigate the journey by car' where the group is already traveling and Julien is studying a map. Both episodes occur in continuous scenes (scene_6 and scene_40 respectively), and the transition from entering the vehicle to navigating during travel indicates a clear sequential order in the narrative.",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_384a85a7c3b2",
+    "subject_id": "ep_528ccf67154bf94e",
+    "object_id": "ep_5fc3cf5c6dbaa86a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Julien gains entry to the building' involves Julien climbing through a window to enter the building, which is a necessary precursor to the object episode 'Disable security and confirm entry', where Julien deactivates alarm panels inside the building. The related events in the object episode (e.g., disabling alarms, Zero signaling entry) logically occur after physical entry, and the scene numbers (scene_48 for entry, scene_49 for disabling security) support a direct narrative sequence.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e782cd053780",
+    "subject_id": "ep_753de24208704965",
+    "object_id": "ep_5fc3cf5c6dbaa86a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Disable the alarm system' (ep_753de24208704965) involves Julien disarming the alarm by cracking and entering the code, which is a necessary prior step to 'Disable security and confirm entry' (ep_5fc3cf5c6dbaa86a), where he deactivates additional panels and Zero confirms entry. The sequential dependency and progression of alarm-disabling actions indicate a clear narrative order where the former occurs before the latter.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ef1dcb1ac324",
+    "subject_id": "ep_5fc3cf5c6dbaa86a",
+    "object_id": "ep_84f2de06e4dc5b34",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Disable security and confirm entry' involves Julien deactivating alarms and Zero confirming entry via a phone call, which logically and chronologically must occur after both individuals have entered the building. The object episode 'Zero follows Julien into the building' describes the physical entry of Zero into the building, a necessary precursor to the confirmation of entry. Therefore, the object episode precedes the subject episode. However, given the narrative structure and the fact that the confirmation of entry (part of the subject) happens after full entry, the subject episode as a whole is temporally subsequent. Thus, the relation is 'precedes' with subject following object, but since 'precedes' is directed, we assign it as object -> subject. To respect the required directionality in the schema and maintain correct subject-object order in the output, the relation is reversed: the subject does not precede the object. Hence, no valid directed 'precedes' fits in subject->object direction. Given this, the only justifiable conclusion is that the object episode precedes the subject episode, but since the schema requires correct directionality and we cannot assert 'precedes' in the subject->object direction, we must reject it. After reevaluation: the description of ep_5fc3cf5c6dbaa86a includes Zero signaling successful entry, which can only happen after both have entered — thus ep_84f2de06e4dc5b34 must occur first. Therefore, ep_84f2de06e4dc5b34 precedes ep_5fc3cf5c6dbaa86a. But in our output, subject is ep_5fc3cf5c6dbaa86a and object is ep_84f2de06e4dc5b34, so subject does NOT precede object. No other relation fits: no causal link is stated, no contrast or elaboration. Thus, despite temporal ordering, the direction is opposite to subject->object, and we cannot assert 'precedes' in reverse without flipping subject/object. Therefore, no valid relation can be asserted in the given direction with sufficient support. Final decision: NONE.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3d5647d7e81a",
+    "subject_id": "ep_753de24208704965",
+    "object_id": "ep_59171a079a24980f",
+    "relation_type": "precedes",
+    "reason": "The description of 'Disable the alarm system' states that it enables the team's infiltration, and the description of 'Reposition the team for infiltration' begins with 'After the alarm is disarmed', indicating a clear temporal sequence where disabling the alarm occurs before repositioning for infiltration.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_72eebe2295c1",
+    "subject_id": "ep_d266e43d6d782081",
+    "object_id": "ep_753de24208704965",
+    "relation_type": "precedes",
+    "reason": "The planning of the break-in entry strategy, including assessing the alarm's feasibility and assigning roles, occurs before the actual disabling of the alarm system. The plan sets the stage for Julien to later execute the alarm bypass, indicating a clear temporal sequence supported by the narrative order of events.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e7c2884be78b",
+    "subject_id": "ep_c9a430174984179f",
+    "object_id": "ep_d410a14b314ff85e",
+    "relation_type": "precedes",
+    "reason": "The escape and entry into the vehicle (ep_c9a430174984179f) occurs in scene_6, while the observation of Raymond's anxiety during the drive (ep_d410a14b314ff85e) occurs in scene_8, indicating a clear narrative sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e007e3e83878",
+    "subject_id": "ep_25d785df5c94ca6c",
+    "object_id": "ep_59171a079a24980f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Zero enters and is introduced to Sami' establishes Zero's initial presence and integration into the group, which logically precedes the later tactical repositioning during the infiltration in 'Reposition the team for infiltration'. The introduction of Zero must occur before he can participate in coordinated team movements, and the narrative flow implies a chronological sequence where character introduction precedes operational execution.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2506d08cca85",
+    "subject_id": "ep_fab4ee812f14f4fe",
+    "object_id": "ep_74c09cfd5cd5819d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate contact and gain entry to Sophie's door' occurs in doc_19 and involves the crew gaining access to Sophie's location, which is a necessary precondition for the subsequent episode in doc_20 where Raymond is introduced to Wayne. The narrative sequence across documents supports a clear temporal order: entry must precede social introductions inside the location.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7b54ba780a58",
+    "subject_id": "ep_25d785df5c94ca6c",
+    "object_id": "ep_57c73dd12484102b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Zero enters and is introduced to Sami' occurs earlier in the narrative sequence, establishing Zero's initial presence and tension, while 'Group regroups and departs safely' describes a later resolution after a confrontation, supported by the progression from introduction to post-conflict departure in their respective descriptions and document IDs (doc_13 before doc_18).",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_24fa0114c693",
+    "subject_id": "ep_25d785df5c94ca6c",
+    "object_id": "ep_026edadcebc81519",
+    "relation_type": "precedes",
+    "reason": "The episode 'Zero enters and is introduced to Sami' occurs when Zero first arrives at the bar and is introduced, establishing his presence. The episode 'Zero neutralizes the threat with superior force' involves a later confrontation where Zero uses a firearm to end a threat. The narrative sequence implied by the scene numbers (scene_14 for the introduction, scene_19 for the confrontation) supports that the introduction precedes the threat neutralization.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ffb74c5554b7",
+    "subject_id": "ep_9ac5ce470312f9ab",
+    "object_id": "ep_5a4385753c279abd",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Marcel's unexpected accompaniment' occurs in scene_15, where Marcel exits the limousine and Bastaldi announces his accompaniment. The episode 'Bastaldi intervenes in the radio conflict' occurs in scene_16, involving a subsequent event in the same limo setting. Scene numbering provides explicit chronological order, supporting that the first episode precedes the second.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0ccd0948a587",
+    "subject_id": "ep_12ae5e07b48b379f",
+    "object_id": "ep_65f9d2d8881ab16d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assault and flee the scene' ends with Raphael and the intruders fleeing the store, which directly precedes the episode 'Discover and react to the missing car' where they are already outside and removing their masks. The narrative sequence is supported by the related events and the logical progression from escaping the crime scene to confronting the absence of their getaway vehicle.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_744a3f054948",
+    "subject_id": "ep_65f9d2d8881ab16d",
+    "object_id": "ep_c665c0db28353a23",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate armed robbery at the counter' (doc_id: doc_35) occurs in scene_36, while 'Discover and react to the missing car' (doc_id: doc_36) occurs in scene_37. The document and scene ordering indicates that the robbery episode precedes the discovery of the missing car, with clear narrative progression from the heist to its aftermath.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ee1705e1b03b",
+    "subject_id": "ep_6c1e28bd1922b253",
+    "object_id": "ep_a64dd1e2cc61ee22",
+    "relation_type": "precedes",
+    "reason": "The rejection of Raymond's request (including beer being poured and door slammed) occurs in scene_27, while Marcel's preparation and confrontation initiation occurs in scene_29, indicating a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4756463cd56b",
+    "subject_id": "ep_de57cbfa8909320c",
+    "object_id": "ep_3d518342bf70dc5a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Mr. B's summons' occurs when Zammito leaves his date to meet Mr. B, which initiates the sequence of events leading to the meeting with Bonanno. The episode 'Address loyalty concerns and conclude the meeting' takes place during a later scene (scene_44) where Bonanno interacts with Zammito, indicating a subsequent point in the narrative. The scene IDs (scene_42 before scene_44) and the natural progression from being summoned to attending and concluding a meeting provide clear chronological ordering.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_45ba39d3bf5d",
+    "subject_id": "ep_6c1e28bd1922b253",
+    "object_id": "ep_87ede938ace2adb9",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Request volume reduction and suffer rejection' occurs in scene_27 and involves Raymond being rejected and assaulted by the biker, while the object episode 'Assault the Biker with head butt and punches' occurs in scene_29 and involves Marcel attacking the biker. The scene numbers and narrative flow indicate that the first episode precedes the second in the local narrative order.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e1525f5fe1fd",
+    "subject_id": "ep_aba82eb366d1f851",
+    "object_id": "ep_5a4385753c279abd",
+    "relation_type": "precedes",
+    "reason": "The conflict between Zero and Marcel over the radio music (selecting Renaud, changing to Johnny Hallyday, back-and-forth struggle) occurs first, and Bastaldi's intervention (shouting, turning off the radio) directly follows to stop it, as both episodes are grounded in scene_16 with a clear temporal sequence.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2dafa6c28b60",
+    "subject_id": "ep_25d785df5c94ca6c",
+    "object_id": "ep_50f9129d99bd6e41",
+    "relation_type": "precedes",
+    "reason": "Zero enters and is introduced to Sami after Sami has already introduced himself to Daniel and Julien, as both episodes occur in scene_14 and the narrative order implies Sami's introduction precedes Zero's entrance and introduction.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e059b627acd0",
+    "subject_id": "ep_7e4eaac4d620c102",
+    "object_id": "ep_d79f80bb645d1a7f",
+    "relation_type": "causes",
+    "reason": "The fire incident triggered by Julien directly results in the destruction of the painting, as described in the object episode's consequence of Julien's actions. The causal chain is explicitly supported by the narrative: the lighter ignites the curtains (in subject episode), leading to the fire that ruins the painting (in object episode).",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3526cd0b6829",
+    "subject_id": "ep_3004bfa0722a2da9",
+    "object_id": "ep_14448692e945f87b",
+    "relation_type": "precedes",
+    "reason": "The confrontation escalation episode includes Daniel observing the old man emerging with a shotgun, which directly precedes the gunfire and group reaction episode where the old man fires the weapon. The narrative sequence in scene_7 supports a clear temporal order: threat detection occurs before the actual attack.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2efa83cbd19d",
+    "subject_id": "ep_de57cbfa8909320c",
+    "object_id": "ep_105558a0f98e86c3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Mr. B's summons' (ep_de57cbfa8909320c) occurs when Zammito is called and leaves his date, leading directly to his arrival at Bonanno's presence, which initiates the meeting described in 'Initiate the meeting and exchange intelligence' (ep_105558a0f98e86c3). The sequence of events is supported by the narrative flow: the summons prompts the meeting, and the related occasions and events indicate a clear temporal order where the response to the summons precedes the intelligence exchange.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_94b63d056698",
+    "subject_id": "ep_2bc80895013bc213",
+    "object_id": "ep_d266e43d6d782081",
+    "relation_type": "precedes",
+    "reason": "The transportation logistics episode involves evaluating and assigning the task of acquiring a vehicle, which must be resolved before the team can finalize the entry strategy for the break-in. Both episodes occur in the same scene (scene_24) and are part of the planning phase, but logistical preparation logically precedes the detailed assignment of entry roles and tactics, indicating a local narrative order where transportation is settled first.",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1fc0c576e79d",
+    "subject_id": "ep_849151652147a6dc",
+    "object_id": "ep_0378fd82b4763a16",
+    "relation_type": "causes",
+    "reason": "Raymond's actions in preparing for escape under fire—specifically releasing the brake and steering left—directly trigger the Peugeot lurching forward and colliding with the Mercedes, as described in the object episode. The causal sequence is explicitly supported by the related events and descriptions in both episodes.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7d886bec2c7c",
+    "subject_id": "ep_105558a0f98e86c3",
+    "object_id": "ep_a35e3ae66abe0deb",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode involves a serious discussion of a territorial threat, establishing tension and mob-related stakes, while the second episode subverts this gravity by revealing Bonanno's 'appointment' is watching Judge Judy, creating an ironic contrast between criminal life and courtroom television. This juxtaposition is explicitly noted in the description of the second episode.",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9d9b13ebdd6a",
+    "subject_id": "ep_25d785df5c94ca6c",
+    "object_id": "ep_8b3eb312738c85dc",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Zero enters and is introduced to Sami' occurs first, as it includes Sami making a joke that falls flat, which directly precedes the object episode where Julien warns Sami about Zero's volatility in response to that interaction. Both episodes are grounded in scene_14 of doc_13 and follow a clear temporal sequence in the narrative.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c468662d89ca",
+    "subject_id": "ep_3004bfa0722a2da9",
+    "object_id": "ep_0378fd82b4763a16",
+    "relation_type": "precedes",
+    "reason": "The confrontation escalates with Julien's accusation and Daniel observing the old man with a shotgun, which sets the stage for the immediate physical action of the car lurching forward and colliding with the Mercedes. The escalation of tension and external threat in the first episode directly precedes the vehicle's movement and impact in the second, as both occur in scene_7 and form a tightly coupled sequence where rising danger leads to the escape attempt's culmination.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_98e7a3eead90",
+    "subject_id": "ep_a35e3ae66abe0deb",
+    "object_id": "ep_3d518342bf70dc5a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reveal Bonanno's television ritual' includes Bonanno inviting Zammito to stay and watch Judge Judy, which immediately precedes Zammito's decision to leave and go home in the episode 'Address loyalty concerns and conclude the meeting'. Both episodes occur within the same occasion (scene_44), and the sequence of related events indicates a clear temporal order: the invitation to watch TV happens before Zammito declines and departs.",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eb043a8ae0ad",
+    "subject_id": "ep_56461f0b9b139abd",
+    "object_id": "ep_849151652147a6dc",
+    "relation_type": "precedes",
+    "reason": "The confrontation about Raymond's driving competence (ep_56461f0b9b139abd) occurs during scene_8, while the preparation for escape under fire (ep_849151652147a6dc) takes place in scene_7, indicating that the object episode precedes the subject episode in narrative order. Therefore, the subject episode follows the object episode, making 'precedes' valid in the direction from object to subject. However, since the relation is directed and the subject is listed first, the correct assignment is that the subject episode does not precede the object episode. Re-evaluating: the evidence shows the object episode (scene_7) happens before the subject episode (scene_8), so the object precedes the subject. But the schema requires the relation to be assessed as subject -> object. Since the subject episode (confrontation) happens after the object episode (escape prep), it cannot precede it. Thus, the correct relation is 'precedes' only if we interpret the direction as object -> subject, but the schema requires subject -> object. Given this, no directed relation is valid in the required direction. However, narrative chronology is clear: escape prep (ep_849151652147a6dc) comes before confrontation (ep_56461f0b9b139abd). Therefore, if the subject is ep_56461f0b9b139abd and the object is ep_849151652147a6dc, then subject does NOT precede object. Hence, 'precedes' is not valid in this direction. No other relation is supported: no causal link is stated, no contrast is highlighted, and no elaboration occurs. Thus, despite clear chronology, the direction is wrong for 'precedes'. Therefore, no valid relation can be asserted in the required direction.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  }
+]

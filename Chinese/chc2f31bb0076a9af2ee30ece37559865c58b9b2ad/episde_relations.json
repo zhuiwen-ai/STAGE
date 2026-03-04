@@ -1,0 +1,4404 @@
+[
+  {
+    "id": "rel_ep_ep_b2f6f1d5e965",
+    "subject_id": "ep_288a6b5161f2d6f3",
+    "object_id": "ep_c2d8f6f1f269fd42",
+    "relation_type": "precedes",
+    "reason": "阿狗发现邻居归来并确认其回家的情节发生在阿好提议拜访邻居之前，因为阿好是在确认邻居归来之后才提出拜访，叙事顺序上前者直接先于后者。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ba58cdb307cc",
+    "subject_id": "ep_05fb6be7b0dd48f4",
+    "object_id": "ep_f7f3bed3ca5ea881",
+    "relation_type": "precedes",
+    "reason": "车夫甲先邀请万发饮酒并打趣其回家原因，随后进一步贴近追问回家时间是否太早，两个情节发生在同一场合（村庄食堂傍晚纳凉聚会），且事件序列显示前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_be35de159073",
+    "subject_id": "ep_f656127b9f30727f",
+    "object_id": "ep_6585ffd8d286f31a",
+    "relation_type": "precedes",
+    "reason": "准备并完成稀饭的烹煮在叙事顺序上早于父子确认用餐安排并解决配菜问题，因为稀饭煮熟是决定开饭的前提，且相关事件在scene_12中按此顺序发生。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6a3b5fa126aa",
+    "subject_id": "ep_63d99f90227ef540",
+    "object_id": "ep_9eabbbe451708d13",
+    "relation_type": "precedes",
+    "reason": "万发以温和方式驱牛上坡发生在牛只中途停滞之前，因为温和驱赶是初始行为，而牛停在半途并引发危机是后续事件，两者在同一个劳作场景中按时间顺序展开。",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b9721480cb41",
+    "subject_id": "ep_a33aea0eebd34a0f",
+    "object_id": "ep_81da8a41cfd6e14c",
+    "relation_type": "precedes",
+    "reason": "车主家庭共进晚餐发生在孩子请求买咸粥并获得应允之前，因为孩子是从晚饭中跑出后才提出请求，文本中的事件顺序支持这一时间先后关系。",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_54fe32890d7b",
+    "subject_id": "ep_0b720356f0c85c64",
+    "object_id": "ep_e42bf1f3ed946774",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述阿好告别妇女们准备离开，客体情节进一步提供她离开原因的解释，即必须回家煮饭，回应调侃并澄清动机，从而扩展和丰富了主体情节的背景和意图。",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6c9b756d4a71",
+    "subject_id": "ep_476f4e45f3996dc8",
+    "object_id": "ep_ff478eb8bf354194",
+    "relation_type": "causes",
+    "reason": "万发因被打扰而怒骂简的行为直接引发了阿好抱怨万发的双重标准，文本中阿好的回应明确指向万发的责骂，构成即时因果关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9f999cc0ff1c",
+    "subject_id": "ep_3d1c17c72835d569",
+    "object_id": "ep_69aeff2cd01ff212",
+    "relation_type": "contrasts_with",
+    "reason": "阿狗主动自行前往拜访邻居，体现孩子的积极性和参与感；而万发则拒绝参与并引发争执，表现出冷漠与抵触。两个情节在同一社交场合下并置，通过行为态度的对立凸显代际或性格上的差异，形成明确的对比关系。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_80c6416bdfbb",
+    "subject_id": "ep_9d550c8ae29eb45f",
+    "object_id": "ep_da209960c0854b39",
+    "relation_type": "precedes",
+    "reason": "阿狗索要买冰钱并被拒绝发生在先，随后他返回以揭发阿好打牌为威胁继续索要钱，两个情节在叙述顺序上连续，且后者是对前者被拒绝的直接回应，文本中事件序列清晰。",
+    "source_documents": [
+      "scene_（四）_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ed2e38822e32",
+    "subject_id": "ep_789ce55a43452321",
+    "object_id": "ep_ee94a363c8d4bdf3",
+    "relation_type": "precedes",
+    "reason": "‘开始吃晚餐并点亮油灯’为家庭聚餐创造了基本条件，随后在相同场景中发生‘争抢鱼块并接受训诫’，两个情节共享同一文档上下文（doc_12）和连续的叙事流程，表明前者在时间顺序上早于后者。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_18a6a69337f9",
+    "subject_id": "ep_51ddbc06f543614f",
+    "object_id": "ep_6d92d54fba984aee",
+    "relation_type": "precedes",
+    "reason": "根据描述，阿好责备并照料简底发生在简底冒雨赶回并表达感激之前：简底回家后才发现阿好已处理漏水和衣物，并因此表示感谢。这表明照料行为在叙事顺序上先于感激行为。",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f93b6878cc69",
+    "subject_id": "ep_18f6cd05c1176833",
+    "object_id": "ep_78621e470220b159",
+    "relation_type": "elaborates",
+    "reason": "阿好主动提出为简底缝补衣物的情节展示了她主动协助的意愿，而阿好协调万发与简底的对话并揭示耳疾的情节进一步扩展了她在邻里互动中的沟通角色和家庭内部动态，提供了更丰富的社会关系背景，因此前者被后者在功能上扩展。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_dac18dbb30b9",
+    "subject_id": "ep_18f6cd05c1176833",
+    "object_id": "ep_3d1c17c72835d569",
+    "relation_type": "precedes",
+    "reason": "阿好主动提出为简底缝补衣物时，阿狗试图跟随但被斥回屋；随后在母亲默许下，阿狗才自行前往拜访邻居。叙事顺序上，阿好提出缝补的行为发生在阿狗出发之前，且阿狗的行动是在被阻止后坚持的结果，时间顺序明确。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e6d152b92e27",
+    "subject_id": "ep_288a6b5161f2d6f3",
+    "object_id": "ep_3d1c17c72835d569",
+    "relation_type": "precedes",
+    "reason": "‘发现邻居归来并确认其回家’在叙事顺序上早于‘阿狗自行前往拜访邻居’，因为阿狗首先注意到草屋亮灯并告知母亲，确认邻居归来后，才在母亲默许下独自前往拜访，相关事件序列在scene_19中按时间顺序展开。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_48e0ac184b20",
+    "subject_id": "ep_67940dbb86d4bdaa",
+    "object_id": "ep_bf7ff9bc318ceb5b",
+    "relation_type": "elaborates",
+    "reason": "阿好主动提出帮忙整理屋子的情节展现了她对简底的关怀，为后续简底表达阿好如母般的情感共鸣提供了情感铺垫和背景；简底的情感流露可视为对之前互动中积累情绪的深化，因此前者通过情境和关系发展扩展了后者的内涵。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ea3f9643dd3a",
+    "subject_id": "ep_9d550c8ae29eb45f",
+    "object_id": "ep_deb86840fb731b09",
+    "relation_type": "precedes",
+    "reason": "根据描述，阿狗索要买冰钱并被拒绝发生在离开前询问晚餐内容之前，两个情节均发生在scene_（四），且叙事顺序上索要冰钱在先，随后才有关于晚餐的对话，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_（四）_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_00198a230149",
+    "subject_id": "ep_69aeff2cd01ff212",
+    "object_id": "ep_84f9c37b79931866",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在 scene_19，且第一个情节中万发拒绝拜访并引发争执，随后在第二个情节中他进一步用手捂住阿好的嘴并表达经济困境，叙事顺序上存在明确的先后关系。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9c612e5576d5",
+    "subject_id": "ep_a87e361715ef0219",
+    "object_id": "ep_f9925eeb6a0440c5",
+    "relation_type": "elaborates",
+    "reason": "情节'万发拒绝社交邀请并保持沉默'通过展示万发在劝说后非语言的坚持行为，进一步扩展和具体化了'劝说万发放弃额外劳作'中的互动结果，提供了关于其决定的额外细节。两个情节共享同一场合和场景，且描述的是连续的行为反应。",
+    "source_documents": [
+      "scene_（二）_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5290461b1131",
+    "subject_id": "ep_adf861e10eee6256",
+    "object_id": "ep_bf7ff9bc318ceb5b",
+    "relation_type": "precedes",
+    "reason": "阿好完成缝补并确认后续需求的情节包含她继续完成缝补和询问是否还有衣物需要修补的事件，这些发生在简底表达情感共鸣之前。文本中，阿好在缝补过程中被简底突然表达情感，因此缝补完成及询问行为在时间顺序上先于情感表达，支持'precedes'关系。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_576fa8551e52",
+    "subject_id": "ep_53aef83c57f530ee",
+    "object_id": "ep_ff478eb8bf354194",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一文档（doc_17）和同一场景（scene_18）中。根据描述，阿好先通过模仿口音讽刺万发为光棍，随后在回应万发的责骂时抱怨其双重标准。叙事顺序表明前者在时间上先于后者，且后者是对前者引发互动的延续，因此支持 'precedes' 关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6b2c10f1d8bb",
+    "subject_id": "ep_e8a1d944d621b42a",
+    "object_id": "ep_45fbd08d09847dde",
+    "relation_type": "precedes",
+    "reason": "车主交代次日工作安排并确认理解（ep_e8a1d944d621b42a）发生在万发寻求真实指令的澄清（ep_45fbd08d09847dde）之前，因为万发是在车主离开后才因未听清而向年轻车夫询问，说明原指令已下达但未被正确接收，时间顺序明确。",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ca8794b131c2",
+    "subject_id": "ep_69aeff2cd01ff212",
+    "object_id": "ep_d2ccd9ae2c00d59b",
+    "relation_type": "precedes",
+    "reason": "万发拒绝参与邻里拜访并引发争执发生在简底与万发初次会面之前，因为只有在万发被说服或情境推进后，简底才得以与万发互动；相关事件序列显示争执先发生，随后阿好介绍简底并展开交流，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b6290c1d5c80",
+    "subject_id": "ep_c2d8f6f1f269fd42",
+    "object_id": "ep_3d1c17c72835d569",
+    "relation_type": "precedes",
+    "reason": "提议拜访新归来的邻居（ep_c2d8f6f1f269fd42）在叙事顺序上先于阿狗自行前往拜访邻居（ep_3d1c17c72835d569），因为提议发生后，阿狗才请求并最终独自执行拜访行动。描述中显示阿狗的行为是在母亲提议后的响应，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_761e5d045173",
+    "subject_id": "ep_d2ccd9ae2c00d59b",
+    "object_id": "ep_84f9c37b79931866",
+    "relation_type": "precedes",
+    "reason": "简底与万发初次会面并尝试交流发生在万发表达经济困境并拒绝进一步交流之前，两个情节共享同一场合'邻居间晚间拜访的提议'，且相关事件序列显示初次交流的互动先于万发表达抗拒和经济困境，构成明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_214306b8a19f",
+    "subject_id": "ep_714834763595c133",
+    "object_id": "ep_ec9c8f9c5508238b",
+    "relation_type": "elaborates",
+    "reason": "两个情节均涉及阿好表达孤独感，且发生在同一场景（scene_12__2）。'阿好抱怨沉默并引发模仿' 展现了家庭互动中的沉闷与短暂打破，而 '催促洗澡并表达孤独' 进一步通过阿好对对面空屋的凝望和对人际交流的渴望，深化了其孤独情感。后者在情感层面扩展了前者的心理背景，构成对阿好内心状态的进一步揭示。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_934ecf6389e6",
+    "subject_id": "ep_a62d272e75deed57",
+    "object_id": "ep_e2d8b7707a232f4f",
+    "relation_type": "precedes",
+    "reason": "根据描述，阿好辱骂万发无能并激怒对方发生在争执初期，通过言语和非言语方式达到情绪高点；随后在万发试图回避时，阿好采取身体接触和挑逗行为使冲突升级。related_events 中的事件序列显示辱骂和激怒先于扳住身体、解扣等动作，支持该叙事顺序。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_27bdee733d5c",
+    "subject_id": "ep_7c70b02fbc11e535",
+    "object_id": "ep_0f823e64f81a2b37",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'唤醒与调侃：重逢的嬉闹' 中阿好通过弹鼻头唤醒简底并开始对话，是两人互动的起点；随后在'揭示真实心意与赞美'中，对话内容转向宗教、生活物资及情感表达，属于后续发展。两个情节共享同一场景（scene_31）且事件序列连贯，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1198d07258e5",
+    "subject_id": "ep_7c70b02fbc11e535",
+    "object_id": "ep_b0d501f73a7346d2",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述和共享的场景编号（scene_31），'唤醒与调侃：重逢的嬉闹'在叙事顺序上先于'试探与否认：赌牌还是礼拜'。阿好先以弹鼻头的方式唤醒简底并开启轻松对话，随后才进入关于她是否去赌牌或做礼拜的试探性互动。事件序列在同一个场景中连续展开，支持前一情节在话语和时间顺序上早于后一情节。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_157fdd82f847",
+    "subject_id": "ep_d2ccd9ae2c00d59b",
+    "object_id": "ep_78621e470220b159",
+    "relation_type": "precedes",
+    "reason": "简底与万发初次会面并尝试交流（ep_d2ccd9ae2c00d59b）发生在阿好协调万发与简底的对话并揭示耳疾（ep_78621e470220b159）之前，因为初次会面中简底刚坐下并开始说话，而后续情节中阿好才介入传话并透露万发耳疾，相关事件序列在scene_19中按时间顺序展开。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6960e6cc5155",
+    "subject_id": "ep_c2d8f6f1f269fd42",
+    "object_id": "ep_69aeff2cd01ff212",
+    "relation_type": "precedes",
+    "reason": "提议拜访新归来的邻居（ep_c2d8f6f1f269fd42）在叙事顺序上先发生，随后万发拒绝参与邻里拜访并引发争执（ep_69aeff2cd01ff212）作为对提议的回应。两个情节共享同一场合'邻居间晚间拜访的提议 (scene_19)'，且事件序列在描述中呈现明确的时间先后：阿好先提议，万发随后拒绝并引发冲突。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e863a8f00dfe",
+    "subject_id": "ep_789ce55a43452321",
+    "object_id": "ep_2a026794e19a5410",
+    "relation_type": "precedes",
+    "reason": "情节 '开始吃晚餐并点亮油灯' 中，阿好刚回家并命令点亮油灯，为聚餐创造条件；紧接着在 '解释晚归并分享食物' 中，她解释晚归原因并分发食物，表明前者在叙事顺序上紧接在后者之前发生。两个情节均发生在同一场景（scene_12__2），且事件序列显示时间上的先后关系：先点亮油灯，再解释与分享食物。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_abcacc4ebd8e",
+    "subject_id": "ep_3226bf98b55079ee",
+    "object_id": "ep_714834763595c133",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_12__2）中，且根据描述的事件序列，'万发让鱼并引发家庭对话'中的一系列互动（如夹鱼、埋怨、谈论新人）在叙事顺序上早于'阿好抱怨沉默并引发模仿'中的饭后抽烟、模仿和洗碗命令，因此该情节在话语顺序上直接先于后者。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a1ef2af40676",
+    "subject_id": "ep_789ce55a43452321",
+    "object_id": "ep_3226bf98b55079ee",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'开始吃晚餐并点亮油灯'中的事件（如阿狗和万发开始吃粥、阿好回家并命令点灯）在'万发让鱼并引发家庭对话'中的事件（如万发夹鱼给阿狗、阿好埋怨、阿狗报告新人）之前发生，且两者共享同一场景（scene_12__2），表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_543140bcfbf2",
+    "subject_id": "ep_b0d501f73a7346d2",
+    "object_id": "ep_0f823e64f81a2b37",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'试探与否认：赌牌还是礼拜' 中简底通过比划赌牌动作开始调侃阿好，阿好回应称自己去教堂做礼拜；随后在 '揭示真实心意与赞美' 中，对话转向阿好展示奶粉和衣服，简底称赞其穿着，情感氛围进一步发展。两个情节均发生在同一场景（scene_31），且前一情节的互动直接引出后一情节的亲密调侃与赞美，叙事顺序清晰，前者在话语和行为上早于后者。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9b77487118a9",
+    "subject_id": "ep_78621e470220b159",
+    "object_id": "ep_84f9c37b79931866",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述阿好协调万发与简底的对话并揭示耳疾，涵盖传话过程及家庭张力；客体情节聚焦万发用手捂住阿好嘴并表达经济困境，拒绝进一步交流。客体情节在主体情节的语境下深化了万发的心理状态与社交退缩，提供了关于其抗拒传话行为的动机和情感背景，构成对主体情节中行为的扩展说明。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d0e3d96b8e63",
+    "subject_id": "ep_789ce55a43452321",
+    "object_id": "ep_714834763595c133",
+    "relation_type": "precedes",
+    "reason": "根据描述，'开始吃晚餐并点亮油灯' 是阿好回家后责备阿狗点灯、点亮油灯使室内明亮，为家庭聚餐创造条件；随后在相同场景中，阿好抱怨万发沉默并引发模仿，事件序列在 scene_12__2 中按时间顺序展开。related_events 显示点亮油灯后才有后续的埋怨与模仿行为，因此该情节在叙事顺序上明确早于'阿好抱怨沉默并引发模仿'。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d30aeda26a46",
+    "subject_id": "ep_0b720356f0c85c64",
+    "object_id": "ep_c1c23b14bdea77c9",
+    "relation_type": "precedes",
+    "reason": "阿好告别妇女们准备离开发生在她完成剥花生工作并领取报酬之后，根据叙事顺序，领取工钱标志着劳动结束，随后她才离开，因此‘阿好告别妇女们准备离开’在时间上晚于‘完成剥花生工作并领取报酬’，故后者在前，前者在后，关系为precedes（object -> subject），但因relation_type为有向且定义为A precedes B表示A在B之前，此处应为ep_c1c23b14bdea77c9 precedes ep_0b720356f0c85c64。",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eb9c72d254ed",
+    "subject_id": "ep_69aeff2cd01ff212",
+    "object_id": "ep_78621e470220b159",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_19）且共享‘邻居间晚间拜访的提议’这一场合。主体情节‘万发拒绝参与邻里拜访并引发争执’描述的是拜访前的准备阶段，涉及阿好催促与万发拒绝；而客体情节‘阿好协调万发与简底的对话并揭示耳疾’描述的是实际与邻居简底互动的过程。文本中事件序列显示，争执发生后才进入与简底的正式交流，因此在叙事顺序上，主体情节在前，客体情节紧随其后。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f17f4b8940e5",
+    "subject_id": "ep_0ed4a1ed92018966",
+    "object_id": "ep_d0950a46b71e2db4",
+    "relation_type": "precedes",
+    "reason": "根据描述，简接收干衣并表达感激发生在简突然握住阿好的手之前，因为前者是正常交接衣物的预期动作，而后者被描述为对这一动作的转折性干预，表明叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4cbbfee94bcf",
+    "subject_id": "ep_4d90dea65ac93948",
+    "object_id": "ep_84ce0020b7db5e3c",
+    "relation_type": "precedes",
+    "reason": "根据描述，简底先说明生活困难并婉拒帮助，随后才询问阿好孩子的情况，两个情节发生在同一场景（scene_15）中，且叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d48eae9e64e6",
+    "subject_id": "ep_7992a4868f52234f",
+    "object_id": "ep_6d92d54fba984aee",
+    "relation_type": "causes",
+    "reason": "阿好冒雨救助家中财物（关窗、转移衣物、接水）直接防止了财产损失，这一行动被简底目睹或知晓，从而引发简底回家后表达感激。文本明确支持阿好的救助行为是简底表达感激的直接原因。",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3913357bc6f4",
+    "subject_id": "ep_d1d42e3c94486cab",
+    "object_id": "ep_ab852bbebf2e7e00",
+    "relation_type": "precedes",
+    "reason": "简底赠送衣物并表达感谢的情节中，阿好接受衣物后，阿狗才接过裤子并学习道谢，两个情节发生在同一场景（scene_23），但赠送行为在逻辑和叙述顺序上先于阿狗的反应和学习礼貌的过程。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_667358a1e741",
+    "subject_id": "ep_eec15d856bc802df",
+    "object_id": "ep_6d92d54fba984aee",
+    "relation_type": "precedes",
+    "reason": "阿好冒雨前往简底家（ep_eec15d856bc802df）发生在简底赶回并表达感激（ep_6d92d54fba984aee）之前，因为阿好必须先到达并处理漏水和衣物，简底回家后才能表达感谢。文本中事件顺序和逻辑依赖支持这一时间先后关系。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_14beda2bdc53",
+    "subject_id": "ep_3c9d6749e0d7c211",
+    "object_id": "ep_84ce0020b7db5e3c",
+    "relation_type": "precedes",
+    "reason": "阿好初遇新邻居并确认身份发生在简底询问阿好孩子情况之前，两个情节均发生在scene_15，且逻辑上必须先确认身份后才能基于此展开进一步对话，叙事顺序支持该时序关系。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_267d6437f2ec",
+    "subject_id": "ep_67940dbb86d4bdaa",
+    "object_id": "ep_adf861e10eee6256",
+    "relation_type": "precedes",
+    "reason": "阿好主动提出帮忙整理屋子发生在阿好完成缝补并确认后续需求之前，两个情节均发生在scene_20，且逻辑上整理屋子的提议早于缝补完成的动作，文本中事件顺序支持这一时间先后关系。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4dedf9993a30",
+    "subject_id": "ep_03a411374075082c",
+    "object_id": "ep_9d550c8ae29eb45f",
+    "relation_type": "precedes",
+    "reason": "阿好数工钱并安排家务发生在阿狗索要买冰钱并被拒绝之前，根据描述顺序和事件逻辑，阿好先安排阿狗回家煮饭，随后才发生索要买冰钱被拒的事件，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_（四）_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_581a2ac00959",
+    "subject_id": "ep_3d1c17c72835d569",
+    "object_id": "ep_ab852bbebf2e7e00",
+    "relation_type": "precedes",
+    "reason": "主体情节'阿狗自行前往拜访邻居'发生在场景19，客体情节'阿狗接受裤子并学习道谢'发生在场景23，文档中场景编号递增表明明确的叙事时间顺序，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_04a983dca0ba",
+    "subject_id": "ep_03a411374075082c",
+    "object_id": "ep_da209960c0854b39",
+    "relation_type": "precedes",
+    "reason": "阿好数工钱并安排家务发生在阿狗返回并威胁揭发她打牌之前，根据叙事顺序，阿好先在路口清点工钱并指示阿狗回家煮饭，随后阿狗才返回向她勒索，因此该关系在时间顺序上明确支持。",
+    "source_documents": [
+      "scene_（四）_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f3bbabb465f4",
+    "subject_id": "ep_92e9b80bd4a2177b",
+    "object_id": "ep_fffef744aabe56ba",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一文档（doc_31）的同一场景（scene_32）中，但共进餐食并展现互动差异在叙事顺序上先于简底提议并劝说阿好参与赌博。进食行为和亲密互动为后续赌博提议提供了情境铺垫，且相关事件的描述顺序支持这一时间先后关系。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2af0b7ef1778",
+    "subject_id": "ep_67940dbb86d4bdaa",
+    "object_id": "ep_bdc6d637dcf7675e",
+    "relation_type": "precedes",
+    "reason": "阿好主动提出帮忙整理屋子发生在简底向阿好致谢之前，根据描述，前者是互动的开始，后者标志着互动的结束，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6d1e076f3490",
+    "subject_id": "ep_7c70b02fbc11e535",
+    "object_id": "ep_ec403bd278cbf50a",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_31）中，且第一个情节描述阿好唤醒简底并开始互动，第二个情节继续该场景中的后续对话，包括饭局邀约与推辞。叙事顺序上，唤醒与调侃发生在饭局邀约之前，构成自然的时间先后关系。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_28a9f9c17ac1",
+    "subject_id": "ep_03a411374075082c",
+    "object_id": "ep_deb86840fb731b09",
+    "relation_type": "precedes",
+    "reason": "阿好数工钱并安排家务发生在确认晚餐内容并抱怨饮食之前。描述中显示阿好先指示阿狗回家煮饭，随后阿狗才询问晚餐内容并引发关于饮食的抱怨，两者均发生在同一场景（scene_（四））中，但事件顺序清晰，具有明确的叙事先后关系。",
+    "source_documents": [
+      "scene_（四）_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f5994effa17d",
+    "subject_id": "ep_ec35f945ea69895a",
+    "object_id": "ep_d51ea2d334c6183d",
+    "relation_type": "elaborates",
+    "reason": "情节 '应对茅屋漏雨的干扰' 描述了简底与阿好在漏雨环境中逐渐意识到问题并最终展示用蓑衣遮雨的解决方式，而 '展示用蓑衣遮雨的聪明办法' 聚焦于该解决方案的具体呈现。后者为前者的高潮或结果提供细节和扩展，因此前者通过叙述发展为后者，后者对前者的关键解决行为进行具体化和补充说明。",
+    "source_documents": [
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_59013bbc16a3",
+    "subject_id": "ep_eec15d856bc802df",
+    "object_id": "ep_51ddbc06f543614f",
+    "relation_type": "precedes",
+    "reason": "阿好冒雨前往简底家（ep_eec15d856bc802df）发生在她责备并照料简底（ep_51ddbc06f543614f）之前，因为只有到达简底家后，她才能发现窗户未关及简底湿透的情况。文档顺序（doc_37 在 doc_38 之前）和事件逻辑支持这一时间先后关系。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c1a9c49bde03",
+    "subject_id": "ep_0f823e64f81a2b37",
+    "object_id": "ep_ec403bd278cbf50a",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_31），且描述的事件序列显示，简底与阿好关于宗教与礼物的对话（揭示真实心意与赞美）在前，随后阿好发现阿狗不见并推辞饭局（饭局邀约与急事推辞）发生，叙事顺序明确。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cf1fe9fc135e",
+    "subject_id": "ep_7fb1fc6b0e7a74c3",
+    "object_id": "ep_168cfe58cb154b69",
+    "relation_type": "precedes",
+    "reason": "回应顾客询价并辩护商品价值的情节发生在演示原子衫特性并促成交易之前，因为报价和价值辩护是销售流程的初始阶段，随后才是试穿、议价和成交等步骤，相关事件在scene_24中按此顺序展开。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_24_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c421d80a90f3",
+    "subject_id": "ep_db76d81453285ddf",
+    "object_id": "ep_ebc1434cca5bee8b",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述简底与阿好共同参与并介入十胡牌局，包括简底指导阿好出牌；客体情节进一步展示该指导过程中身体接触引发的亲密互动及旁人调侃。客体情节在相同场合（市场里的非法牌局）中扩展了主体情节中的指导行为，提供了更丰富的社会反应和互动细节，因此主体情节为客体情节提供了基础情境，客体情节对主体情节中的互动进行了具体化和深化。",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bc75b9ef4725",
+    "subject_id": "ep_24fb310cecde6e22",
+    "object_id": "ep_e81a0bc29dfc7222",
+    "relation_type": "contrasts_with",
+    "reason": "阿好在祷告期间关注物资发放的行为与牧师庄严祈求神恩和福音传播形成鲜明对比，突显个人物质关切与宗教神圣主题之间的张力。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_52421d84e2a0",
+    "subject_id": "ep_3a1c1a44c263c39d",
+    "object_id": "ep_e2d8b7707a232f4f",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_18）中，且根据描述顺序和事件流，阿好训斥阿狗插嘴并纠正称呼发生在她与万发争执升级并挑逗之前。文本中阿好在处理完阿狗的行为后，才转向与万发的互动，表明时间上的先后顺序。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1f76560df919",
+    "subject_id": "ep_63d99f90227ef540",
+    "object_id": "ep_f6b293a6a7e2c70a",
+    "relation_type": "precedes",
+    "reason": "万发以温和方式驱牛上坡发生在牛重新启动并走向坡顶之前，且相关事件在scene_1中按顺序展开：先有轻拍、抚摸和吆喝，随后牛在帮助下继续走向坡顶。叙事顺序明确支持该关系。",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1f61c386f673",
+    "subject_id": "ep_2a026794e19a5410",
+    "object_id": "ep_fb30d463a3aa2cc4",
+    "relation_type": "precedes",
+    "reason": "阿好先解释晚归并分享带回的食物（包括咸白带鱼），随后将咸白带鱼拿去煎制并上桌。描述中的动作顺序表明‘解释晚归并分享食物’在‘准备并上桌煎白带鱼’之前发生，且两个情节均发生在同一场景（scene_12__2）中，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3b4fc0b8d106",
+    "subject_id": "ep_0f823e64f81a2b37",
+    "object_id": "ep_eaa5b460567884e9",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述简底与阿好之间通过对话揭示情感与现实关怀的互动，第二个情节以影像方式收束前文的情感张力与亲密氛围，通过视觉意象（衣物交缠、头影轻触）诗意化地扩展了前一情节的情感内涵。因此，影像情节作为对先前对话情节的情感与主题的进一步深化和表现，构成 elaborates 关系。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a2665208c76c",
+    "subject_id": "ep_309417126af1e9ce",
+    "object_id": "ep_f6b293a6a7e2c70a",
+    "relation_type": "precedes",
+    "reason": "车夫丁即兴唱谣调侃万发发生在万发助牛成功登顶并引发嘲笑之前，根据叙事逻辑和相关事件顺序，调侃行为在先，成功登顶及随后的嘲笑在后，因此主体情节在时间顺序上早于客体情节。",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ba39414bcce9",
+    "subject_id": "ep_5966d0ed9013bb51",
+    "object_id": "ep_cf92e8bf63e375c3",
+    "relation_type": "precedes",
+    "reason": "简底先返回家中并发现房间被整理整齐（ep_5966d0ed9013bb51），随后才对阿好的整理行为作出情感回应并翻找衣物（ep_cf92e8bf63e375c3），两个情节在同一个场景（scene_22）中按时间顺序连续发生，前者为后者的直接前提。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_81e2f1c31d69",
+    "subject_id": "ep_309417126af1e9ce",
+    "object_id": "ep_63d99f90227ef540",
+    "relation_type": "contrasts_with",
+    "reason": "车夫丁即兴唱谣调侃万发的行为与万发温和驱牛上坡的情节形成对比，前者通过戏谑表达对万发人牛关系错位的不解，后者展现万发非暴力、关爱式的劳作方式，二者在态度和行为基调上被并置以突显差异。",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8d4617380d64",
+    "subject_id": "ep_2a026794e19a5410",
+    "object_id": "ep_ee94a363c8d4bdf3",
+    "relation_type": "precedes",
+    "reason": "在情节'解释晚归并分享食物'中，阿好带回食物并开始共享，阿狗抢吃花生米；随后在'争抢鱼块并接受训诫'中，阿狗与万发争抢白带鱼并引发训诫。两个情节共享同一场景（scene_12__2）且事件序列连贯，食物分享先于争抢鱼块的发生，叙事顺序明确支持前者早于后者。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8c2c95d0543c",
+    "subject_id": "ep_e1b7abf5fd4aa3a3",
+    "object_id": "ep_3a1c1a44c263c39d",
+    "relation_type": "causes",
+    "reason": "阿狗抱怨父母吵闹并提及简体臭的情节中，其插话称姓简的人身体很臭，直接引发了阿好训斥阿狗插嘴并纠正称呼的反应。描述中明确指出该行为‘引发阿好强烈反应’，构成直接因果关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ee821fedc1bc",
+    "subject_id": "ep_309417126af1e9ce",
+    "object_id": "ep_9eabbbe451708d13",
+    "relation_type": "contrasts_with",
+    "reason": "车夫丁即兴唱谣调侃万发爱牛如妻，体现群体对万发行为的戏谑与不解；而应对牛只中途停滞的危机中，万发坚持温和对待牛只，亲自推车，体现其个人立场。两个情节在群体态度与个体行为之间形成并置，强调对人牛关系处理方式的对比。",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_72e03d6c37e5",
+    "subject_id": "ep_c2d8f6f1f269fd42",
+    "object_id": "ep_78621e470220b159",
+    "relation_type": "precedes",
+    "reason": "提议拜访新归来的邻居（ep_c2d8f6f1f269fd42）发生在阿好协调万发与简底的对话并揭示耳疾（ep_78621e470220b159）之前，因为前者是引发后续对话场景的初始行动，且两个情节共享同一场合'邻居间晚间拜访的提议 (scene_19)'，表明它们在相同场景中按时间顺序展开，拜访提议先于具体对话协调。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dedae7c9f4ef",
+    "subject_id": "ep_9eabbbe451708d13",
+    "object_id": "ep_f6b293a6a7e2c70a",
+    "relation_type": "precedes",
+    "reason": "主体情节描述牛在上坡中途停滞及万发决定推车协助，客体情节描述在万发帮助下牛重新启动并登顶，随后引发其他车夫嘲笑。两个情节共享同一劳作场景，且事件序列在描述中呈现明确的先后顺序：停滞与应对发生在先，成功登顶与社会反应发生在后。因此，主体情节在叙事顺序上直接早于客体情节。",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f849529a942d",
+    "subject_id": "ep_b0d501f73a7346d2",
+    "object_id": "ep_ec403bd278cbf50a",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_31）中，且第一个情节‘试探与否认：赌牌还是礼拜’围绕简底猜测阿好去赌牌、阿好辩称去教堂展开，而第二个情节‘饭局邀约与急事推辞’紧随其后，涉及阿好发现阿狗不见、简底解释其去吃饭并提议饭局，逻辑和话语流上呈现清晰的先后顺序。文本中事件序列显示，关于行为动机的试探先于饭局邀约和推辞，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a91f88c2a222",
+    "subject_id": "ep_7fbf873f8d0f1435",
+    "object_id": "ep_c162f08d6c336e98",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在文档24，客体情节发生在文档28，依据文档顺序可推断主体情节在叙事时间上早于客体情节；两个情节均涉及万发对阿好与简姓雇主关系的质疑及阿好的回应，构成逐步升级的言语冲突序列，但无明确因果或对比表述，因此最稳妥的关系是时间上的先后。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_314bb3060b63",
+    "subject_id": "ep_c162f08d6c336e98",
+    "object_id": "ep_e2d8b7707a232f4f",
+    "relation_type": "precedes",
+    "reason": "阿好回应万发的质疑并反击发生在万发试图回避之前，而万发的回避行为是阿好与万发争执升级并挑逗的起始动作之一。根据相关事件的时间顺序，前者在叙事上直接早于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_27fdd24124b3",
+    "subject_id": "ep_9a72a5891ba59915",
+    "object_id": "ep_6585ffd8d286f31a",
+    "relation_type": "precedes",
+    "reason": "万发进入厨房并被阿狗认出发生在父子确认用餐安排并解决配菜问题之前，两个情节均发生在scene_12，且叙事上先有相认，后有关于用餐的对话和决策。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_db1a56093630",
+    "subject_id": "ep_6585ffd8d286f31a",
+    "object_id": "ep_3226bf98b55079ee",
+    "relation_type": "precedes",
+    "reason": "根据文档ID，'父子确认用餐安排并解决配菜问题'（doc_11）发生在'万发让鱼并引发家庭对话'（doc_12）之前，两个情节分别属于连续场景scene_12和scene_12__2，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_259f9d191573",
+    "subject_id": "ep_6585ffd8d286f31a",
+    "object_id": "ep_789ce55a43452321",
+    "relation_type": "precedes",
+    "reason": "主体情节描述万发与阿狗确认稀饭煮熟并决定开饭，解决配菜问题，发生在阿好回家并命令点灯之前。客体情节中阿狗和万发开始吃粥时阿好才回家，表明用餐安排确认在前，点灯及后续聚餐场景在后，叙事顺序明确。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_32d7dbfa0285",
+    "subject_id": "ep_9233ec9b9910f63a",
+    "object_id": "ep_f671966720bf004c",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述车夫们通过歌谣得知万发妻子外遇并集体嘲讽他，形成群体性羞辱；第二个情节聚焦年轻车夫当面改编歌词直接攻击万发，导致其情绪变化。第二个情节通过具体化羞辱的升级方式，提供了对前一集体嘲讽事件的进一步细节和深化，展示了从间接调侃到直接攻击的转变，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a044ed7a111c",
+    "subject_id": "ep_789ce55a43452321",
+    "object_id": "ep_f656127b9f30727f",
+    "relation_type": "precedes",
+    "reason": "准备并完成稀饭的烹煮（ep_f656127b9f30727f）在叙事顺序上早于开始吃晚餐并点亮油灯（ep_789ce55a43452321），因为稀饭必须先煮熟才能开始食用，且相关事件如万发询问稀饭是否煮熟并决定先吃饭（scene_12）出现在吃粥之前，支持该时间顺序。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_18ba900f7328",
+    "subject_id": "ep_789ce55a43452321",
+    "object_id": "ep_427f5bd1f7abe401",
+    "relation_type": "precedes",
+    "reason": "情节 '开始吃晚餐并点亮油灯' 发生在文档 doc_12 中，涉及阿狗和万发开始吃粥及阿好命令点灯；而 '抱怨伙食并讨论改善饮食' 发生在文档 doc_24，时间上明显靠后。两个情节均围绕家庭晚餐场景展开，但前者建立进餐条件，后者在此基础上讨论饮食质量，叙事顺序支持前者早于后者。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ca0f02836c7c",
+    "subject_id": "ep_6585ffd8d286f31a",
+    "object_id": "ep_714834763595c133",
+    "relation_type": "precedes",
+    "reason": "主体情节描述的是用餐安排的确认与解决，涉及稀饭和配菜问题，发生在饭前或用餐期间；客体情节描述的是饭后阿好对万发沉默的抱怨及后续互动，包括洗碗等饭后行为。根据日常生活逻辑和描述中的行为序列，用餐事件必然在饭后场景之前发生，且两个情节共享同一家庭背景和人物，构成连续叙事。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_24e1a3de9e87",
+    "subject_id": "ep_7fbf873f8d0f1435",
+    "object_id": "ep_e2d8b7707a232f4f",
+    "relation_type": "precedes",
+    "reason": "主体情节描述万发以酸意质疑阿好与简姓雇主的关系，引发阿好的言语斥责，形成一次言语对抗的闭环；客体情节则描述在万发试图回避后，阿好进一步采取身体动作扳住他并升级冲突，包含挑逗与羞辱行为。从事件发展逻辑和相关场景编号（scene_25 先于 scene_18）推断，言语冲突的完成早于后续身体对抗与情绪升级的情节，因此主体情节在叙事顺序上先于客体情节。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_29607ea39d32",
+    "subject_id": "ep_2d1e9b1a9df744c2",
+    "object_id": "ep_a7410466fe9dab71",
+    "relation_type": "causes",
+    "reason": "万发在驱赶孩童后的愤怒情绪中直接做出减少拉车趟数的决定，文本明确指出该决定是在冲突结束后的情绪状态下触发的，构成直接因果关系。",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b8998a7b2b33",
+    "subject_id": "ep_261c1807c9257c15",
+    "object_id": "ep_45fbd08d09847dde",
+    "relation_type": "precedes",
+    "reason": "车主监督卸车与牛只归棚发生在车主离开之前，而万发寻求指令澄清是在车主离开之后，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_88d08bfc6bb4",
+    "subject_id": "ep_2d1e9b1a9df744c2",
+    "object_id": "ep_b4a2cfe18af090b1",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'万发吟唱引发孩童模仿并驱赶他们' 发生在万发与牛独处之前，因为孩童逃离后，万发才拉着空牛车返回并与牛对话，叙事顺序明确支持该关系。",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5cf0bb974cda",
+    "subject_id": "ep_53aef83c57f530ee",
+    "object_id": "ep_e2d8b7707a232f4f",
+    "relation_type": "precedes",
+    "reason": "阿好讽刺万发为光棍并模仿其口音发生在争执升级之前，根据相关事件序列，模仿口音和身份讽刺是引发后续身体对抗和挑逗行为的起始动作，叙事顺序明确支持该时间先后关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6b5c6a41126d",
+    "subject_id": "ep_53aef83c57f530ee",
+    "object_id": "ep_a62d272e75deed57",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_18）中，且阿好先讽刺万发为光棍并模仿其口音，随后进一步升级为辱骂无能并激怒对方，文本中情绪逐步升级的描述支持这一时间顺序。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b0eec7a40daf",
+    "subject_id": "ep_e2d8b7707a232f4f",
+    "object_id": "ep_ff478eb8bf354194",
+    "relation_type": "elaborates",
+    "reason": "阿好与万发争执升级并挑逗的情节包含了多个互动事件，其中包括阿好抱怨万发对声音的双重标准这一具体行为。后者作为前者中情感冲突和对抗性交流的一部分，被嵌入在更广泛的挑逗与争执语境中，因此该情节为前一情节中阿好情绪和动机的进一步解释提供了细节。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_70070d4829f1",
+    "subject_id": "ep_a62d272e75deed57",
+    "object_id": "ep_ff478eb8bf354194",
+    "relation_type": "precedes",
+    "reason": "根据描述，阿好辱骂万发无能并激怒对方是争执中情绪高点的表现，而阿好抱怨万发的双重标准是对此前责骂的回应。因此，辱骂和激怒的情节在叙事顺序上先于抱怨双重标准的情节，二者均发生在scene_18，但逻辑和叙述流程支持前者触发后者回应，具有较强的时间先后依据。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_36ae8ce4be7a",
+    "subject_id": "ep_e2d8b7707a232f4f",
+    "object_id": "ep_f8b3553749c60feb",
+    "relation_type": "precedes",
+    "reason": "根据相关事件均发生在scene_18且描述中阿好的挑逗行为包含多个连续动作，而万发抱怨姓简的仅出现在后续单一动作中，可推断争执升级并挑逗的情节在叙事顺序上先于抱怨行为发生。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_afec7e7dce01",
+    "subject_id": "ep_a62d272e75deed57",
+    "object_id": "ep_f8b3553749c60feb",
+    "relation_type": "precedes",
+    "reason": "根据相关事件均发生在scene_18，且阿好辱骂万发无能并激怒对方在先，万发因嫉妒而抱怨阿好反复提及姓简的在后，文本暗示情绪升级的顺序，支持前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6e76d0a10a92",
+    "subject_id": "ep_53aef83c57f530ee",
+    "object_id": "ep_69aeff2cd01ff212",
+    "relation_type": "precedes",
+    "reason": "阿好讽刺万发为光棍并模仿其口音（ep_53aef83c57f530ee）发生在万发拒绝参与邻里拜访并引发争执（ep_69aeff2cd01ff212）之前，依据文档中事件序列的叙述顺序，前者出现在doc_17，后者在doc_18，且两情节之间存在连续的互动升级，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a00d84d254f0",
+    "subject_id": "ep_53aef83c57f530ee",
+    "object_id": "ep_84f9c37b79931866",
+    "relation_type": "precedes",
+    "reason": "阿好讽刺万发并模仿其口音（ep_53aef83c57f530ee）发生在万发表达经济困境并拒绝交流（ep_84f9c37b79931866）之前，依据相关事件scene_18在scene_19之前的叙事顺序，且万发的反应可视为对阿好先前挑衅的回应，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_16197f61e53d",
+    "subject_id": "ep_a62d272e75deed57",
+    "object_id": "ep_78621e470220b159",
+    "relation_type": "precedes",
+    "reason": "主体情节'阿好辱骂万发无能并激怒对方'发生在场景18，而客体情节'阿好协调万发与简底的对话并揭示耳疾'发生在场景19，根据文档中场景编号的顺序，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_38308babe2fb",
+    "subject_id": "ep_05fb6be7b0dd48f4",
+    "object_id": "ep_0dd654a85efa6bbd",
+    "relation_type": "contrasts_with",
+    "reason": "车夫甲热情邀请万发饮酒并打趣，与食堂老板对万发冷漠注视、不予招呼形成鲜明对比，二者在同一场合（村庄食堂傍晚纳凉聚会）中并置，突显不同人物对万发的态度差异。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_aa3f2eadf8b4",
+    "subject_id": "ep_0dd654a85efa6bbd",
+    "object_id": "ep_f8ed4180a105a3c4",
+    "relation_type": "contrasts_with",
+    "reason": "食堂老板对其他客人的热情招呼与对万发的冷漠形成鲜明对比，而车夫们在食堂的热闹聚餐进一步凸显了万发被孤立的社会处境，两个情节通过社交互动的反差强调了万发的边缘化状态。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5cf7f506f1e2",
+    "subject_id": "ep_3226bf98b55079ee",
+    "object_id": "ep_97cb31d8bfa54c23",
+    "relation_type": "precedes",
+    "reason": "根据描述，万发让鱼并引发家庭对话发生在吃饭过程中，而万发抽烟陷入恍惚发生在饭后，因此前者在叙事时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_efd91faf25bc",
+    "subject_id": "ep_05fb6be7b0dd48f4",
+    "object_id": "ep_7126613e466af40c",
+    "relation_type": "precedes",
+    "reason": "车夫甲邀请万发饮酒并打趣其回家原因是村庄食堂傍晚纳凉聚会中的早期事件，随后万发在众人嘲笑中误解调侃并离去，二者共享同一场合且叙事顺序上前者明确早于后者。相关事件链显示万发从被邀请、误笑回应到最终默默离开的线性发展，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a4caecfcdae5",
+    "subject_id": "ep_31a95e55046bb682",
+    "object_id": "ep_f8ed4180a105a3c4",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均发生在同一场合‘村庄食堂傍晚纳凉聚会’，但分别描绘了不同群体的活动：村民在树下聚会娱乐强调传统、围观与调侃，而车夫们在食堂内划拳聚餐展现劳工群体的内部社交。两者在空间上邻近但活动内容、参与人群和互动方式形成对比，体现同一时间下村庄中不同社会群体的休闲状态。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_206bf6c45da1",
+    "subject_id": "ep_eec15d856bc802df",
+    "object_id": "ep_c8dae4e52d22c0c7",
+    "relation_type": "precedes",
+    "reason": "阿好冒雨前往简底家是前往特定地点的行为，而她在雨中泥地翻滚是到达后发生的情感宣泄行为；根据叙事逻辑，前往某地应在到达并参与后续活动之前，因此该关系在时间顺序上合理且有间接支持。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7cf6d5b4a3f6",
+    "subject_id": "ep_3226bf98b55079ee",
+    "object_id": "ep_ec9c8f9c5508238b",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_12__2）中，且第一个情节描述万发让鱼及家庭成员间的互动，包括阿好打断谈话；第二个情节中阿好催促万发洗澡并表达孤独，逻辑上应在家庭对话基本结束后发生。叙事顺序和事件流支持‘万发让鱼并引发家庭对话’在时间上先于‘催促洗澡并表达孤独’。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_763281528527",
+    "subject_id": "ep_84f9c37b79931866",
+    "object_id": "ep_e2d8b7707a232f4f",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，主体情节发生在scene_19，而客体情节发生在scene_18，因此主体情节在叙事顺序上晚于客体情节。由于'precedes'为有向关系，此处应为客体precedes主体，但输入顺序为主体到客体，方向相反，故不成立。然而，若将方向视为object -> subject，则ep_e2d8b7707a232f4f (scene_18) precedes ep_84f9c37b79931866 (scene_19)，有明确文本支持。但由于关系方向必须符合subject -> object才能输出precedes，而此处实际顺序相反，因此不能输出precedes。综上，无符合方向的支持关系，输出NONE。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_119ee6f02911",
+    "subject_id": "ep_92e9b80bd4a2177b",
+    "object_id": "ep_c8dae4e52d22c0c7",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节分别展现了简底与阿好在不同情境下的互动方式：前者是在市场小吃摊共进餐食，表现出文雅与亲密的氛围；后者是在雨中泥地翻滚，表现出原始而放纵的欢愉。两者在行为风格和情境基调上形成明显对比，一个克制而细腻，另一个奔放而自然，构成行为与情感表达方式的对置。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_995c4d17460a",
+    "subject_id": "ep_a9f04da071f1ff05",
+    "object_id": "ep_cfb1753e5ba2ff45",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均涉及阿好与简底的亲密行为及其引发的周围反应，但场景和氛围形成鲜明对比：一者在猪圈边伴随人与动物的和谐共融及《老长寿》的应和，呈现温情与接纳；另一者在墓地旁因私会引发村民惊恐呼喊‘有鬼’，呈现神秘与恐慌。这种并置强调了相似行为在不同语境下的不同社会反应，构成基调与结果的对比。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_1d30f5f7c1f1",
+    "subject_id": "ep_f4d860930d36d526",
+    "object_id": "ep_0150b125bfa4f2ab",
+    "relation_type": "precedes",
+    "reason": "简底载阿狗出行并接阿好同往花生工厂发生在阿好下车之后，村妇们才开始对她乘车行为指指点点，因此前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_294774cb8faf",
+    "subject_id": "ep_25c4aa8bb69f6043",
+    "object_id": "ep_98a39f221e9fa87d",
+    "relation_type": "elaborates",
+    "reason": "情节'完成家务清洁'包含一系列家务活动，而'发现并处理简底'聚焦于其中整理脏衣物时的具体细节，即从脏内衣中找出简底并表现出嫌弃。这为整体清洁过程提供了更具体的背景和细节，因此前者被后者在局部上加以扩展和阐明。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1bc8cef67af4",
+    "subject_id": "ep_a9f04da071f1ff05",
+    "object_id": "ep_eaa5b460567884e9",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述阿好与简底在猪圈边相拥并引发环境反应，展现直接的情感互动；第二个情节通过影像收束，以象征性画面（衣物交缠、头影轻触）诗意化地延续并升华前一情节的情感张力。虽然无明确时间或因果陈述，但第二个情节在视觉和主题上对第一个情节的情感氛围进行了抽象化扩展，构成对前一情节的意象性深化。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9d6f29d6b5a6",
+    "subject_id": "ep_cf92e8bf63e375c3",
+    "object_id": "ep_d1d42e3c94486cab",
+    "relation_type": "precedes",
+    "reason": "主体情节'回应阿好的整理并寻找衣物'发生在简底翻找衣物的场景（scene_22），而客体情节'简底赠送衣物并表达感谢'发生在后续场景（scene_23），根据文档顺序和相关事件的时间序列，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_904fbc7b1cf7",
+    "subject_id": "ep_67940dbb86d4bdaa",
+    "object_id": "ep_cf92e8bf63e375c3",
+    "relation_type": "precedes",
+    "reason": "阿好主动提出帮忙整理屋子发生在简底回应整理并寻找衣物之前。根据描述，阿好的整理行为导致房间变整洁，从而引发简底闻嗅洗净衣物并翻找所需衣物的情节，时间顺序明确且由相关事件序列支持。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_20_part_2",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_59288f314c35",
+    "subject_id": "ep_cf92e8bf63e375c3",
+    "object_id": "ep_eaa5b460567884e9",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述简底实际寻找衣物的行为，体现其情感与需求的结合；第二个情节通过象征性影像收束前文的情感张力与亲密氛围，以诗意方式扩展了前一情节的情感内涵。因此，第二个情节对第一个情节的情感层面进行了意象化深化和补充说明。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a6f63ed6e7f6",
+    "subject_id": "ep_eec15d856bc802df",
+    "object_id": "ep_d51ea2d334c6183d",
+    "relation_type": "precedes",
+    "reason": "阿好冒雨前往简底家发生在简底与阿好展示用蓑衣遮雨的聪明办法之前，因为前者是前往过程中的行动，而后者是两人在屋内共同应对漏水的情景，逻辑上需先到达后才能合作布置蓑衣雨篷。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d6b029888f5d",
+    "subject_id": "ep_eec15d856bc802df",
+    "object_id": "ep_7992a4868f52234f",
+    "relation_type": "precedes",
+    "reason": "阿好冒雨前往简底家（ep_eec15d856bc802df）发生在她到达后救助家中财物（ep_7992a4868f52234f）之前，根据事件顺序，前往是救助行动的前提，且文档中场景编号（scene_38 在 scene_39 之前）支持该时间顺序。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_70a365de41c7",
+    "subject_id": "ep_69aeff2cd01ff212",
+    "object_id": "ep_e2d8b7707a232f4f",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间戳，'万发拒绝参与邻里拜访并引发争执' 发生在 scene_19，而 '阿好与万发争执升级并挑逗' 发生在 scene_18，scene_18 在叙事顺序上早于 scene_19，因此后者在时间上晚于前者。尽管争执内容连续，但 scene_19 描述的是对 scene_18 中未解决冲突的延续，表明 ep_69aeff2cd01ff212 在叙事顺序上紧随 ep_e2d8b7707a232f4f 之后。然而，由于主体是 ep_69aeff2cd01ff212，客体是 ep_e2d8b7707a232f4f，且主体事件在时间上晚于客体，因此正确方向应为客体 precedes 主体。但关系模式要求主体 -> 客体方向，而此处主体并未在时间上早于客体，故不能成立 precedes(subject->object)。重新评估：若主体发生在后，则不能 precedes 客体。因此原判断方向错误。实际 scene_18 先于 scene_19，即 ep_e2d8b7707a232f4f 先于 ep_69aeff2cd01ff212，故 ep_69aeff2cd01ff212 不能 precedes ep_e2d8b7707a232f4f。因此关系方向不成立，应输出 NONE。但进一步分析发现：描述中 ep_69aeff2cd01ff212 是对 ep_e2d8b7707a232f4f 中冲突的延续，即争执在 ep_e2d8b7707a232f4f 中已发生，ep_69aeff2cd01ff212 是其后续发展，因此 ep_e2d8b7707a232f4f 应 precedes ep_69aeff2cd01ff212。但当前主体是 ep_69aeff2cd01ff212，客体是 ep_e2d8b7707a232f4f，若要成立 precedes，需主体在前，但事实相反。因此不能输出 precedes。无其他关系模式支持，故最终应为 NONE。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fa185153f2a5",
+    "subject_id": "ep_4d90dea65ac93948",
+    "object_id": "ep_de7c54f32709a3eb",
+    "relation_type": "precedes",
+    "reason": "简底说明生活困难并婉拒帮助发生在阿好递还牙粉并化解尴尬之前，根据相关事件的场景编号（scene_15 先于 scene_17），叙事顺序明确。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a2fb4fcfb925",
+    "subject_id": "ep_3c9d6749e0d7c211",
+    "object_id": "ep_de7c54f32709a3eb",
+    "relation_type": "precedes",
+    "reason": "阿好初遇新邻居并确认身份发生在递还牙粉并化解尴尬之前，依据事件序列和文档顺序，前者在scene_15，后者在scene_17，具有明确的叙事时间先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6383c978faa8",
+    "subject_id": "ep_fffef744aabe56ba",
+    "object_id": "ep_db76d81453285ddf",
+    "relation_type": "precedes",
+    "reason": "简底提议并劝说阿好参与赌博的情节发生在参与并介入十胡牌局之前，因为阿好从拒绝到默许再到同意的过程为后续共同参与牌局提供了前提，且相关事件分别位于文档31和32，表明时间顺序上的先后。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bf2b87c8f49c",
+    "subject_id": "ep_b0d501f73a7346d2",
+    "object_id": "ep_db76d81453285ddf",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节中阿好否认去赌牌并声称去教堂做礼拜，表现出道德正当性；第二个情节中她实际参与非法牌局，行为与先前声明形成直接对立。两个情节通过言行不一的反差强调了角色表里之间的张力，构成明确的对比关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a75351113d6c",
+    "subject_id": "ep_fffef744aabe56ba",
+    "object_id": "ep_ebc1434cca5bee8b",
+    "relation_type": "precedes",
+    "reason": "简底提议并劝说阿好参与赌博发生在市场里的非法牌局中，且在时间顺序上早于指导出牌及后续亲密互动；相关事件分别位于scene_32和scene_33，文档顺序支持该叙事时序。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5a38fd59c9da",
+    "subject_id": "ep_2fcfffe9e39e2f6a",
+    "object_id": "ep_fffef744aabe56ba",
+    "relation_type": "precedes",
+    "reason": "阿好在市场卖姑婆叶并接受简底款待的情节发生在简底提议并劝说阿好参与赌博之前，根据事件序列和文档顺序，前者为后续互动提供了社会关系铺垫，且两个情节均发生在连续场景中（scene_27 和 scene_32），支持明确的时间先后关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_822afbd8a4ed",
+    "subject_id": "ep_2fcfffe9e39e2f6a",
+    "object_id": "ep_92e9b80bd4a2177b",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述阿好在市场卖姑婆叶后被简底邀请共进餐食，并体验到阿狗分享香肠的温暖；第二个情节进一步描绘了简底与阿好在小吃摊共餐时的进食方式和互动氛围，特别强调阿好文雅进食与其平日形象的反差。第二个情节在相同场景（市场共餐）基础上提供了更细致的行为与互动描写，扩展了第一个情节中开始的共享餐食事件，因此构成对前一情节的细节补充和深化。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_bb2e0dc40f88",
+    "subject_id": "ep_2fcfffe9e39e2f6a",
+    "object_id": "ep_ec403bd278cbf50a",
+    "relation_type": "precedes",
+    "reason": "主体情节'阿好卖姑婆叶并接受简底款待'发生在市场卖叶和共享食物的场景中（scene_27），而客体情节'饭局邀约与急事推辞'涉及阿好整理衣服、发现阿狗不见及后续互动（scene_31），根据文档场景编号的顺序，scene_27在scene_31之前，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_74a735b7d9f3",
+    "subject_id": "ep_67940dbb86d4bdaa",
+    "object_id": "ep_6d92d54fba984aee",
+    "relation_type": "precedes",
+    "reason": "阿好主动提出帮忙整理屋子发生在简底冒雨赶回并表达感激之前，根据事件顺序，阿好的帮助行为在先，简底返回后发现并感谢是后续发展，叙事时间线上明确先后。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_20_part_2",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ef3c18b90e29",
+    "subject_id": "ep_18f6cd05c1176833",
+    "object_id": "ep_6d92d54fba984aee",
+    "relation_type": "precedes",
+    "reason": "阿好主动提出为简底缝补衣物发生在简底说明需缝补夜服之后，且在简底冒雨赶回并表达感激之前；文本中简底回家后发现阿好已处理好衣物并表示感谢，表明缝补行为在前，感激行为在后，存在明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d9840ed5a249",
+    "subject_id": "ep_3c9d6749e0d7c211",
+    "object_id": "ep_51ddbc06f543614f",
+    "relation_type": "precedes",
+    "reason": "阿好初遇新邻居并确认身份发生在阿好责备并照料简底之前，因为只有在确认简底为新邻居后，阿好才可能在后续情节中对其未关窗户的行为进行责备并照料其换衣，叙事顺序上具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_41b24dac0932",
+    "subject_id": "ep_7c70b02fbc11e535",
+    "object_id": "ep_92e9b80bd4a2177b",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述阿好唤醒简底并开始对话，发生在市场小吃摊共进餐食之前，且两个情节均位于连续场景（scene_31 和 scene_32）中，表明叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_131ea4519c3f",
+    "subject_id": "ep_3c9d6749e0d7c211",
+    "object_id": "ep_fffef744aabe56ba",
+    "relation_type": "precedes",
+    "reason": "阿好初遇新邻居并确认身份发生在简底提议赌博之前，根据叙事顺序，建立身份认知是后续互动的前提，且两个情节分别位于文档 doc_14 和 doc_31，显示时间上的先后顺序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_591c2dbc3c31",
+    "subject_id": "ep_92e9b80bd4a2177b",
+    "object_id": "ep_eaa5b460567884e9",
+    "relation_type": "contrasts_with",
+    "reason": "主体情节展现简底与阿好在市场共进餐食时的亲密互动，强调现实中的行为差异与微妙氛围；客体情节以诗意影像收束，通过头影轻触的象征画面凝练前文情感张力。两者在表现形式上形成现实行为与象征意象的并置，强化了亲密关系的表达，构成基调与呈现方式上的对比。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ed709278b3cc",
+    "subject_id": "ep_ec403bd278cbf50a",
+    "object_id": "ep_92e9b80bd4a2177b",
+    "relation_type": "precedes",
+    "reason": "情节'饭局邀约与急事推辞'中简底提议等阿狗回来一起吃饭，而阿狗已被派去市场吃饭；随后在'共进餐食并展现互动差异'中，简底与阿好实际在市场小吃摊共进餐食。两个情节通过阿狗去市场吃饭这一线索连接，且叙事顺序上前者为后者提供铺垫，因此前者在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_151af4cf472c",
+    "subject_id": "ep_b0d501f73a7346d2",
+    "object_id": "ep_fffef744aabe56ba",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在简底试探阿好是否去赌牌，而阿好否认并声称去教堂做礼拜；第二个情节中简底主动提议赌博并最终说服阿好参与。两个情节在叙事上连续，且事件序列从试探转向实际提议，文档ID从doc_30到doc_31也支持时间顺序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3cbdeec6c79d",
+    "subject_id": "ep_65165684f3cdfa64",
+    "object_id": "ep_92e9b80bd4a2177b",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '阿好化妆并赴约简底' 展现阿好为见简底而刻意厚重化妆并与其亲密互动，呈现出一种热烈而滑稽的情感状态；而情节 '共进餐食并展现互动差异' 中阿好在公共场合以细嚼慢咽的文雅方式进食，与其在家或私密场合的形象形成反差。两个情节通过阿好在不同情境下的行为差异，突出了她在私人情感表达与公共行为举止之间的对比，构成对角色多面性的并置强调。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_74b8f7cf7af9",
+    "subject_id": "ep_7c70b02fbc11e535",
+    "object_id": "ep_fffef744aabe56ba",
+    "relation_type": "precedes",
+    "reason": "第一个情节'唤醒与调侃：重逢的嬉闹'描述了阿好唤醒简底并开始轻松对话的场景，发生在简底提议赌博之前。第二个情节'简底提议并劝说阿好参与赌博'紧随其后，包含明确的劝说和接受过程。两个情节在叙事顺序上连续，且文档ID（doc_30 vs doc_31）支持时间上的先后关系，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_19d983241862",
+    "subject_id": "ep_deb86840fb731b09",
+    "object_id": "ep_714834763595c133",
+    "relation_type": "precedes",
+    "reason": "根据文档ID，'确认晚餐内容并抱怨饮食'（doc_3）发生在'阿好抱怨沉默并引发模仿'（doc_12）之前，叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3",
+      "scene_（四）_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2e2b8ad81c0e",
+    "subject_id": "ep_ec403bd278cbf50a",
+    "object_id": "ep_fffef744aabe56ba",
+    "relation_type": "precedes",
+    "reason": "第一个情节‘饭局邀约与急事推辞’发生在简底和阿好讨论吃饭安排并提及阿狗去市场吃饭的场景（scene_31），而第二个情节‘简底提议并劝说阿好参与赌博’发生在后续场景（scene_32），其中简底开始提议赌博并逐步说服阿好。两个情节在叙述顺序上连续，且事件编号从scene_31到scene_32表明时间上的先后顺序，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_97cc8ad57f51",
+    "subject_id": "ep_67940dbb86d4bdaa",
+    "object_id": "ep_d1d42e3c94486cab",
+    "relation_type": "precedes",
+    "reason": "阿好主动提出帮忙整理屋子发生在简底赠送衣物并表达感谢之前，根据事件序列，整理屋子的行为先完成，随后简底出于感激赠送衣物，叙事顺序明确。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_20_part_2",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_50d8020982ec",
+    "subject_id": "ep_d1d42e3c94486cab",
+    "object_id": "ep_2bb74f05b2f65a9d",
+    "relation_type": "precedes",
+    "reason": "简底赠送衣物并表达感谢发生在阿好转达赠衣意图并促成接受之前，因为只有在简底完成赠送行为后，阿好才能将该意图转达给万发和阿狗。相关事件均发生在scene_23，但逻辑顺序上赠送行为先于转达意图。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b16bf7292a95",
+    "subject_id": "ep_2bb74f05b2f65a9d",
+    "object_id": "ep_ab852bbebf2e7e00",
+    "relation_type": "precedes",
+    "reason": "阿好转达赠衣意图并促成接受发生在阿狗接受裤子并学习道谢之前，因为转达赠送意图是接收和回应行为的前提，且两个情节共享同一场景（scene_23），叙事顺序上逻辑连贯。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_954f1983d057",
+    "subject_id": "ep_c1c23b14bdea77c9",
+    "object_id": "ep_2a026794e19a5410",
+    "relation_type": "precedes",
+    "reason": "阿好与阿狗完成剥花生工作并领取报酬（ep_c1c23b14bdea77c9）发生在她们回家之后向家人解释晚归并分享食物（ep_2a026794e19a5410）之前，根据事件逻辑顺序，劳动结束是回家的前提，因此该关系在叙事时间线上有明确的先后顺序。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6031cc096c96",
+    "subject_id": "ep_3c9d6749e0d7c211",
+    "object_id": "ep_ab852bbebf2e7e00",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'阿好初遇新邻居并确认身份' 发生在 scene_15，而 '阿狗接受裤子并学习道谢' 发生在 scene_23，scene_15 在叙事顺序上早于 scene_23，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2806dfba1f85",
+    "subject_id": "ep_ab852bbebf2e7e00",
+    "object_id": "ep_ec403bd278cbf50a",
+    "relation_type": "precedes",
+    "reason": "情节 '阿狗接受裤子并学习道谢' 发生在场景 scene_23，而情节 '饭局邀约与急事推辞' 发生在场景 scene_31，scene_23 在叙事顺序上早于 scene_31，因此前者在话语顺序上先于后者。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_efb4f4f88a80",
+    "subject_id": "ep_d1d42e3c94486cab",
+    "object_id": "ep_ec403bd278cbf50a",
+    "relation_type": "precedes",
+    "reason": "根据事件的时间顺序和上下文，'简底赠送衣物并表达感谢' 发生在 '饭局邀约与急事推辞' 之前。前者发生在阿好整理猪寮后立即获得衣物馈赠，后者涉及阿好在整理衣物过程中发现阿狗不见，且简底提到已让他去吃饭，表明时间推进到了后续阶段。两个情节在叙事上连续，且无重叠，支持明确的先后顺序。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6faa12e248d9",
+    "subject_id": "ep_3c9d6749e0d7c211",
+    "object_id": "ep_65165684f3cdfa64",
+    "relation_type": "precedes",
+    "reason": "阿好初遇新邻居并确认身份发生在阿好化妆并赴约简底之前，因为只有在确认对方身份后，才可能发展出后续的亲密互动。相关事件的时间顺序和叙事逻辑支持这一先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b10744fe6deb",
+    "subject_id": "ep_3c9d6749e0d7c211",
+    "object_id": "ep_67ef2a1e437cb94e",
+    "relation_type": "precedes",
+    "reason": "阿好初遇新邻居并确认身份发生在对话初期，随后才进一步询问籍贯并调整沟通方式，两个情节共享同一场景（scene_15），且事件序列显示身份确认在前，交流籍贯在后，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e64a805dd7e0",
+    "subject_id": "ep_67ef2a1e437cb94e",
+    "object_id": "ep_84ce0020b7db5e3c",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在 scene_15，且阿好先询问简底籍贯并调整沟通方式，随后简底转向询问阿好孩子的情况，叙事顺序上存在明确的先后关系。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6f547cd50060",
+    "subject_id": "ep_3c9d6749e0d7c211",
+    "object_id": "ep_67940dbb86d4bdaa",
+    "relation_type": "precedes",
+    "reason": "阿好初遇新邻居并确认身份发生在阿好主动提出帮忙整理屋子之前，根据叙事顺序，先有初次见面与身份确认，随后才有基于此关系发展的主动帮助行为。相关事件的时间和上下文支持这一先后顺序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_44ff38d6a555",
+    "subject_id": "ep_3c9d6749e0d7c211",
+    "object_id": "ep_7656dfc5dfc1656e",
+    "relation_type": "precedes",
+    "reason": "阿好初遇新邻居并确认身份发生在阿好发现并缝补简底背心裂缝之前，依据事件的自然发展逻辑和邻里关系逐步深化的叙事顺序，初次相认是后续亲密互动的前提。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f208890923e2",
+    "subject_id": "ep_3c9d6749e0d7c211",
+    "object_id": "ep_6f6596bae2305e88",
+    "relation_type": "precedes",
+    "reason": "阿好初遇新邻居并确认身份发生在她决定进屋帮忙取牙粉之前，两个情节均发生在scene_15，且逻辑上必须先确认对方身份后才可能发展到进入屋内提供帮助，叙事顺序支持此先后关系。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9e90294b9534",
+    "subject_id": "ep_775209664200c389",
+    "object_id": "ep_84ce0020b7db5e3c",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在 scene_15，且阿好提议称呼方式并展现女性化姿态后，简底才询问孩子情况，叙事顺序上存在明确先后。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bb9c7b3e9a97",
+    "subject_id": "ep_3c9d6749e0d7c211",
+    "object_id": "ep_775209664200c389",
+    "relation_type": "precedes",
+    "reason": "阿好初遇新邻居并确认身份发生在对话初期，随后在对方称呼她为‘大嫂’后，才引发她提议新的称呼方式并展现女性化姿态，两个情节在同一个场景（scene_15）中按时间顺序连续发生，前者为后者提供直接上下文。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_471bc41a08bf",
+    "subject_id": "ep_3c9d6749e0d7c211",
+    "object_id": "ep_7c70b02fbc11e535",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述阿好初遇新邻居并确认其身份，是两人关系建立的起点；第二个情节描述阿好与简底以嬉闹方式重逢并互动，表明他们已相识并有亲密互动。因此，初遇在叙事顺序上必然早于重逢，且文本中‘重逢’一词明确支持该时间顺序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0cc5e0c27bee",
+    "subject_id": "ep_67ef2a1e437cb94e",
+    "object_id": "ep_6f6596bae2305e88",
+    "relation_type": "precedes",
+    "reason": "阿好与简底交流籍贯并调整沟通方式发生在阿好决定进屋取牙粉之前，两个情节均发生在scene_15，且交流行为在叙事顺序上先于进入屋内的行动。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dada0f25b5e1",
+    "subject_id": "ep_3c9d6749e0d7c211",
+    "object_id": "ep_3d1c17c72835d569",
+    "relation_type": "precedes",
+    "reason": "情节 '阿好初遇新邻居并确认身份' 发生在阿好与新邻居简底初次互动的场景（scene_15），而情节 '阿狗自行前往拜访邻居' 发生在后续场景（scene_19），包含阿狗向阿好告知简底到来等事件，表明其发生在阿好已知邻居身份之后。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0a7f67fd34a2",
+    "subject_id": "ep_4d90dea65ac93948",
+    "object_id": "ep_6f6596bae2305e88",
+    "relation_type": "precedes",
+    "reason": "简底说明生活困难并婉拒帮助发生在阿好坚持帮忙取牙粉并进入屋内之前，根据描述，简底先推辞，随后阿好仍决定进屋，体现明确的叙事时序。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_748303e59d88",
+    "subject_id": "ep_67ef2a1e437cb94e",
+    "object_id": "ep_775209664200c389",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_15，但阿好先与简底交流籍贯并调整沟通方式（如要求放慢语速），随后才在被称呼为‘大嫂’后提议新的称呼并展现女性化姿态，叙事顺序上存在明确先后。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7a7b0b908408",
+    "subject_id": "ep_3c9d6749e0d7c211",
+    "object_id": "ep_d2ccd9ae2c00d59b",
+    "relation_type": "precedes",
+    "reason": "阿好初遇新邻居并确认身份（ep_3c9d6749e0d7c211）发生在简底与万发初次会面并尝试交流（ep_d2ccd9ae2c00d59b）之前，因为只有在确认简底为新邻居后，才可能由阿好引荐简底给万发，构成后续会面的基础。相关事件序列显示阿好在前者中确认身份，在后者中主动介绍简底，表明时间顺序上的先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aaf61be72ca8",
+    "subject_id": "ep_4d90dea65ac93948",
+    "object_id": "ep_bf7ff9bc318ceb5b",
+    "relation_type": "elaborates",
+    "reason": "简底在第一个情节中婉拒帮助表现出其独立与窘迫，第二个情节中她表达对阿好如母般的情感，进一步揭示其内心情感和对关怀的复杂反应，后者为前者提供了情感背景和深层动机，构成对先前行为的扩展解释。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_18195ffb3857",
+    "subject_id": "ep_6f6596bae2305e88",
+    "object_id": "ep_775209664200c389",
+    "relation_type": "precedes",
+    "reason": "阿好进入屋内取牙粉的情节发生在她与简底互动并提议称呼方式之前，根据描述中的行为顺序，先进入屋内，随后发生称呼纠正和女性化举止的展现，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_aac7974d6965",
+    "subject_id": "ep_67940dbb86d4bdaa",
+    "object_id": "ep_ec403bd278cbf50a",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'阿好主动提出帮忙整理屋子' 发生在 scene_20，而 '饭局邀约与急事推辞' 发生在 scene_31，scene_20 在叙事顺序上早于 scene_31，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_20_part_2",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dba30eedb47a",
+    "subject_id": "ep_67940dbb86d4bdaa",
+    "object_id": "ep_7656dfc5dfc1656e",
+    "relation_type": "precedes",
+    "reason": "阿好主动提出帮忙整理屋子发生在她发现并缝补简底背心裂缝之前，两个情节均发生在scene_20，且整理屋子的提议为后续的缝补互动提供了情境铺垫，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1b4ecec44ac1",
+    "subject_id": "ep_3d1c17c72835d569",
+    "object_id": "ep_67940dbb86d4bdaa",
+    "relation_type": "precedes",
+    "reason": "主体情节'阿狗自行前往拜访邻居'发生在场景19，客体情节'阿好主动提出帮忙整理屋子'发生在场景20，文档中场景顺序明确，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a7e5ec89707c",
+    "subject_id": "ep_18f6cd05c1176833",
+    "object_id": "ep_ec403bd278cbf50a",
+    "relation_type": "precedes",
+    "reason": "阿好主动提出为简底缝补衣物的情节发生在饭局邀约与急事推辞之前，依据文档顺序（doc_18 在 doc_30 之前）及事件流：先有缝补提议，后有整理衣物时发现阿狗不见并讨论饭局。文本中相关事件的时间线索支持这一叙事顺序。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_99f388cfe326",
+    "subject_id": "ep_18f6cd05c1176833",
+    "object_id": "ep_bf7ff9bc318ceb5b",
+    "relation_type": "precedes",
+    "reason": "阿好主动提出为简底缝补衣物的情节发生在简底表达阿好如母般情感共鸣之前，依据相关事件的时间顺序：缝补行为在scene_19，而情感表达在scene_20。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_06e9a80b18ae",
+    "subject_id": "ep_78621e470220b159",
+    "object_id": "ep_bf7ff9bc318ceb5b",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在文档18（doc_18），客体情节发生在文档19（doc_19），根据文档顺序，阿好协调万发与简底的对话并揭示耳疾的情节在简底表达阿好如母般的情感共鸣之前，具有明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_84a71cbdb88b",
+    "subject_id": "ep_7656dfc5dfc1656e",
+    "object_id": "ep_bf7ff9bc318ceb5b",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，阿好缝补简底背心的事件（如阿好靠近腋下开始缝补）发生在简底表达阿好如母般情感之前（如简底沉默后坦言相似性），且两个情节共享同一场景（scene_20），缝补动作在先，情感表达在后，叙事顺序明确。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a4a200a78fbf",
+    "subject_id": "ep_2a026794e19a5410",
+    "object_id": "ep_714834763595c133",
+    "relation_type": "precedes",
+    "reason": "根据描述，阿好解释晚归并分享食物后，家庭成员开始共享食物，随后阿好抱怨万发沉默并引发模仿行为，两个情节在同一个场景（scene_12__2）中按时间顺序展开，前者为后者提供上下文，叙事顺序明确。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_29fb78865507",
+    "subject_id": "ep_84f9c37b79931866",
+    "object_id": "ep_c2d8f6f1f269fd42",
+    "relation_type": "contrasts_with",
+    "reason": "万发表达经济困境并拒绝交流的情节展现出消极、退缩的心态，而提议拜访新归来的邻居的情节则体现主动、关怀的社区互动意愿，两者在行为倾向和情感基调上形成明显对比。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_0185d94e8aae",
+    "subject_id": "ep_fb30d463a3aa2cc4",
+    "object_id": "ep_ee94a363c8d4bdf3",
+    "relation_type": "precedes",
+    "reason": "准备并上桌煎白带鱼在叙事顺序上早于争抢鱼块并接受训诫，因为阿好先将鱼煎好并端上桌，随后阿狗与万发才开始争抢鱼块，这一时间顺序在两个情节的描述和相关事件中均有明确支持。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_26efeb5a86c6",
+    "subject_id": "ep_2a026794e19a5410",
+    "object_id": "ep_3226bf98b55079ee",
+    "relation_type": "precedes",
+    "reason": "在描述中，阿好解释晚归并分享食物后，家庭成员开始共享食物，随后万发将鱼块夹给阿狗并引发后续对话。两个情节均发生在同一场景（scene_12__2）中，但事件序列显示食物分享行为在先，万发让鱼及后续互动在后，因此存在明确的叙事顺序。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0c45bf572802",
+    "subject_id": "ep_18f6cd05c1176833",
+    "object_id": "ep_7656dfc5dfc1656e",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在简底说明需缝补夜服后，阿好主动提出帮忙；客体情节发生在后续场景中，阿好发现简底背心裂缝并缝补。两个情节均涉及阿好为简底缝补衣物，且客体情节的场景编号（scene_20）晚于主体情节的场景编号（scene_19），表明叙事顺序上主体先于客体。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0afd02d4dd79",
+    "subject_id": "ep_e2434d31549d84b5",
+    "object_id": "ep_f1879e120e2b22cb",
+    "relation_type": "precedes",
+    "reason": "根据描述，阿狗先向父亲报告母亲动向并安排煮粥，随后尝试分享邻居搬入的消息但被父亲打断，表明前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_584a7c83d840",
+    "subject_id": "ep_c2d8f6f1f269fd42",
+    "object_id": "ep_d2ccd9ae2c00d59b",
+    "relation_type": "precedes",
+    "reason": "主体情节'提议拜访新归来的邻居'描述阿好主动提议与万发一同去打招呼，而客体情节'简底与万发初次会面并尝试交流'描述两人实际会面与交流的场景。根据related_events和related_occasions均指向scene_19，且提议拜访在逻辑和叙事顺序上必然早于实际会面，因此主体情节在话语顺序上先于客体情节。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b06342578ca1",
+    "subject_id": "ep_e2434d31549d84b5",
+    "object_id": "ep_f656127b9f30727f",
+    "relation_type": "precedes",
+    "reason": "阿狗向父亲报告母亲动向发生在准备并完成稀饭烹煮之前，因为报告内容中安排了煮粥任务，随后阿狗在厨房执行该任务，叙事顺序明确。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_946badee40f6",
+    "subject_id": "ep_3226bf98b55079ee",
+    "object_id": "ep_c2d8f6f1f269fd42",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述万发让鱼并引发家庭对话，期间阿狗报告对面搬来新人，阿好怀疑是鬼并打断谈话，事件发生在文档12。第二个情节描述阿好意识到邻居归来，主动提议拜访新人，发生在文档18，叙事顺序上明显晚于前者。因此，'万发让鱼并引发家庭对话'在时间顺序上先于'提议拜访新归来的邻居'，构成直接的先后关系。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3",
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f7f5d8038441",
+    "subject_id": "ep_eafe86dce1a98bb5",
+    "object_id": "ep_556723a7266a7540",
+    "relation_type": "precedes",
+    "reason": "简底离开自食摊并开始购物发生在其询价并完成购买决定之前，浏览摊位的行为为后续购买决策提供了上下文，且两个情节在场景43中按时间顺序先后出现。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_932e81073d33",
+    "subject_id": "ep_4d90dea65ac93948",
+    "object_id": "ep_f67e8a5fe2d294ab",
+    "relation_type": "precedes",
+    "reason": "根据描述，简底先说明生活困难并婉拒帮助，随后在阿好进屋后才迟疑地呼唤‘阿好姊’，事件顺序表明前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0133895de531",
+    "subject_id": "ep_e2434d31549d84b5",
+    "object_id": "ep_6585ffd8d286f31a",
+    "relation_type": "precedes",
+    "reason": "阿狗向父亲报告母亲动向（ep_e2434d31549d84b5）发生在万发与阿狗确认用餐安排并解决配菜问题（ep_6585ffd8d286f31a）之前，因为前者提供了煮粥的背景，后者基于粥已煮好展开，叙事顺序明确。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d2719d8f7ab9",
+    "subject_id": "ep_0092633c332ab120",
+    "object_id": "ep_f67e8a5fe2d294ab",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在 scene_15，且简底因牙刷被注视而感到羞怯在叙事上先于他迟疑中呼唤阿好姊，描述中前者为即时情绪反应，后者为后续行动尝试，具有清晰的时间顺序。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_646200622d99",
+    "subject_id": "ep_10dbe3da18110f3c",
+    "object_id": "ep_e9ec775a106aafac",
+    "relation_type": "precedes",
+    "reason": "启动并开展冰棒售卖活动在叙事顺序上先于阿狗实施偷吃冰棒并逃离。售卖活动是阿狗偷吃的前提，儿童购得冰棒后阿狗才得以实施偷吃，事件序列在scene_4中按时间顺序展开。",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2a9bff3ed4c6",
+    "subject_id": "ep_81da8a41cfd6e14c",
+    "object_id": "ep_a7ecf273712cb991",
+    "relation_type": "contrasts_with",
+    "reason": "孩子请求买咸粥并获得应允的情节展现了孩子的自由与被宠爱，而万发目送孩子并产生内心感触的情节暗示了他对自身处境的反思，两者在情感状态和境遇上形成对比，文本通过并置强化了这种情绪反差。",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_517cbd1ac527",
+    "subject_id": "ep_21868266aa827a9a",
+    "object_id": "ep_55138329183676a7",
+    "relation_type": "precedes",
+    "reason": "根据描述，'完成卸货与交接手续'标志着运输任务的结束，而'发起晚间聚饮提议并集体响应'发生在卸货之后，由车夫在任务结束后提议聚饮。因此，'完成卸货与交接手续'在叙事顺序上直接早于'发起晚间聚饮提议并集体响应'，有明确的时间先后关系。",
+    "source_documents": [
+      "scene_（二）_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4ffea9e306cc",
+    "subject_id": "ep_adf861e10eee6256",
+    "object_id": "ep_bdc6d637dcf7675e",
+    "relation_type": "precedes",
+    "reason": "阿好完成缝补并确认后续需求发生在简底向阿好致谢之前，因为只有在阿好完成所有缝补工作并询问是否还有需要修补的衣物后，简底才表示没有更多需要修补的衣物并表达感谢，这标志着互动的结束。叙事顺序和事件逻辑支持这一时间先后关系。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e4cdffedce60",
+    "subject_id": "ep_9233ec9b9910f63a",
+    "object_id": "ep_b4a2cfe18af090b1",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'揭露万发妻子外遇的嘲讽事件'发生在scene_49，而'万发与牛独处对话并寻求认同'发生在scene_50，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8a22f3eb5b41",
+    "subject_id": "ep_6e2759b1f89d7d0b",
+    "object_id": "ep_f671966720bf004c",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节描述老者通过弹唱《思想起》间接嘲讽万发耳疾，引发村人集体合唱回应，属于公共场合的群体调侃；第二个情节中年轻车夫当面改编歌词直接攻击万发妻子不忠，导致万发情绪明显变化，标志着羞辱升级为个人直接攻击。两者在羞辱的形式（间接 vs. 直接）和对万发心理影响的程度上形成对比，文本通过并置强化了这种从群体戏谑到个体伤害的张力。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_23bdca8fed57",
+    "subject_id": "ep_05fb6be7b0dd48f4",
+    "object_id": "ep_6e2759b1f89d7d0b",
+    "relation_type": "precedes",
+    "reason": "情节 '车夫甲邀请万发饮酒并打趣其回家原因' 发生在村庄食堂傍晚的场合中（doc_9, scene_10），而 '揭露并嘲讽万发的耳疾往事' 发生在万发赤脚回家途中（doc_10, scene_11），文本中场景编号的递增（scene_10 到 scene_11）和事件流表明前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c24c67b466ff",
+    "subject_id": "ep_6e2759b1f89d7d0b",
+    "object_id": "ep_78621e470220b159",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述了村人通过《思想起》公开嘲讽万发耳疾的公共场景，揭示了其伤痛被集体戏谑的外部视角；第二个情节则展示了阿好在家庭内部协调对话时透露万发耳疾，呈现了耳疾在私人关系中的沟通障碍与情感张力。后者通过家庭互动的细节扩展了前者所揭示的耳疾主题，提供了更深层的社会关系背景和个体反应，构成对同一健康问题在不同社会语境下的补充说明。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_c0a1c81ab13f",
+    "subject_id": "ep_9233ec9b9910f63a",
+    "object_id": "ep_2d1e9b1a9df744c2",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序，车夫们通过歌谣嘲讽万发妻子外遇（ep_9233ec9b9910f63a）发生在万发因情绪波动而吟唱并引发孩童模仿（ep_2d1e9b1a9df744c2）之前。两个情节均涉及歌谣的使用，且前者中万发已表现出压抑的反应，后者中他情绪失控，表明叙事上的先后发展。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4110d9dad7eb",
+    "subject_id": "ep_ee826faa02baa3f2",
+    "object_id": "ep_f671966720bf004c",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在村庄妇女集体剥花生的聚会中，涉及乙妇揭露阿好赌博过往并引发议论；客体情节发生在河边，涉及年轻车夫当面嘲讽万发导致其情绪变化。根据文档ID（doc_2 vs doc_48）和场景编号（scene_2 vs scene_49），主体情节在叙事顺序上明显早于客体情节，构成清晰的时间先后关系。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b56fade46135",
+    "subject_id": "ep_2d1e9b1a9df744c2",
+    "object_id": "ep_f671966720bf004c",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'年轻车夫当面嘲讽引发万发情绪变化'（doc_48）发生在万发走向河边并与年轻车夫互动的场景（scene_49），而'万发吟唱引发孩童模仿并驱赶他们'（doc_49）发生在后续场景（scene_50），因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f39308215131",
+    "subject_id": "ep_f671966720bf004c",
+    "object_id": "ep_a7410466fe9dab71",
+    "relation_type": "precedes",
+    "reason": "年轻车夫当面嘲讽引发万发情绪变化（ep_f671966720bf004c）发生在万发决定减少拉车趟数以专注看守（ep_a7410466fe9dab71）之前，文本中情绪变化导致后续决定，且相关事件在scene_49先于scene_50发生，支持时间顺序上的前序关系。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_58d635844239",
+    "subject_id": "ep_64d76ef4b04b05ac",
+    "object_id": "ep_ee826faa02baa3f2",
+    "relation_type": "contrasts_with",
+    "reason": "万发自嘲父子饮食反差展现其家庭内部的物质不平等与情感疏离，而揭露阿好赌博过往并评价其家庭关系则呈现外部社群对其家庭失序的批评与嘲笑。两个情节通过内部自述与外部评判的视角反差，强化了万发家庭困境的不同维度，形成社会评价与私人体验之间的对比。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_67d39ee3f6aa",
+    "subject_id": "ep_64d76ef4b04b05ac",
+    "object_id": "ep_a7ecf273712cb991",
+    "relation_type": "contrasts_with",
+    "reason": "万发自嘲父子饮食反差强调物质分配的不公与情感疏离，而万发目送孩子引发内心感触则展现其在孩子自由与宠爱背景下对自身处境的深沉反思，两个情节通过父子境遇的对比形成情感与状态上的反差。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_dd8c6724e33b",
+    "subject_id": "ep_427f5bd1f7abe401",
+    "object_id": "ep_64d76ef4b04b05ac",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节中，万发与阿好讨论通过改善经济状况来提升饮食，体现出对更好生活的期待；第二个情节中，万发自嘲自己作为父亲反而吃不到食物，孩子却大鱼大肉，反映出家庭内部的不公与情感疏离。两者在家庭成员间饮食分配的期望与现实之间形成明显对比，构成基调和状态上的反差。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6b909017a7ab",
+    "subject_id": "ep_64d76ef4b04b05ac",
+    "object_id": "ep_6585ffd8d286f31a",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节中万发以自嘲方式描述父亲没饭吃而孩子大鱼大肉，反映饮食不公与情感疏离；第二个情节中父子共同确认用餐安排并实际解决配菜问题，表现出合作与共餐的现实场景。两者在父子关系状态和饮食情境上形成基调对比：前者是讽刺性的社会批判，后者是务实的日常互动，构成情境与情感基调的并置对比。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_1bc7ff21c57f",
+    "subject_id": "ep_3226bf98b55079ee",
+    "object_id": "ep_64d76ef4b04b05ac",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '万发让鱼并引发家庭对话' 展示万发疼爱孩子、家庭互动频繁，甚至孩子调侃长辈；而 '万发自嘲父子饮食反差' 则反映万发作为父亲被忽视、饮食匮乏，父子关系疏离。两者在家庭内部对待父亲的态度和父子关系状态上形成情感与现实的对比，构成基调上的逆转。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_99e5cca0a367",
+    "subject_id": "ep_64d76ef4b04b05ac",
+    "object_id": "ep_ee94a363c8d4bdf3",
+    "relation_type": "contrasts_with",
+    "reason": "万发自嘲父子饮食反差描述父亲无食而孩子饱食的现象，反映家庭困境；争抢鱼块并接受训诫则展现家庭聚餐中对长幼秩序的强调和资源争夺。两者在家庭内部食物分配与代际关系的处理上形成基调与行为模式的对比：前者是疏离与无奈，后者是规范与训导，构成对家庭伦理状态的并置对比。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_3673d0307031",
+    "subject_id": "ep_05fb6be7b0dd48f4",
+    "object_id": "ep_a87e361715ef0219",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节中车夫甲主动邀请并调侃万发饮酒，展现社交互动的活跃氛围；第二个情节中万发选择沉默拒绝并坚持工作，体现其疏离与克制。两者在社交参与与个人退缩之间形成态度和行为上的对比。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2",
+      "scene_（二）_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_04f38315ee21",
+    "subject_id": "ep_84f9c37b79931866",
+    "object_id": "ep_a87e361715ef0219",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均展现万发在社交压力下的沉默与退缩，但分别发生在邻里互动和同事邀请的不同场合；二者并置凸显其在不同社会情境中持续的消极心态，形成跨情境的行为对比。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_（二）_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_303168c782d3",
+    "subject_id": "ep_69aeff2cd01ff212",
+    "object_id": "ep_a87e361715ef0219",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均展现万发拒绝社交参与，但情境不同：一为家庭邻里互动中与阿好的言语冲突，一为工作环境中对同事邀请的沉默回避。两者并置凸显其在不同社会语境下拒绝方式的差异——前者具对抗性，后者为被动抵抗，形成行为基调上的对比。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_（二）_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_902096b05e97",
+    "subject_id": "ep_6585ffd8d286f31a",
+    "object_id": "ep_97cb31d8bfa54c23",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述万发与阿狗确认用餐安排并解决配菜问题，发生在吃饭前；第二个情节描述万发在吃完饭后抽烟陷入恍惚。根据描述中的时间线索'吃完饭后'，可以确定第一个情节在叙事顺序上早于第二个情节。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c378ab953b86",
+    "subject_id": "ep_9a72a5891ba59915",
+    "object_id": "ep_ee94a363c8d4bdf3",
+    "relation_type": "precedes",
+    "reason": "万发进入厨房并被阿狗认出发生在争抢鱼块并接受训诫之前，父子相认后才共同进餐，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e80e2c0c818b",
+    "subject_id": "ep_9a72a5891ba59915",
+    "object_id": "ep_3226bf98b55079ee",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件流，万发进入厨房并被阿狗认出（ep_9a72a5891ba59915）发生在万发让鱼并引发家庭对话（ep_3226bf98b55079ee）之前，前者属于scene_12，后者属于scene_12__2，编号上的递进表明叙事顺序上的先后关系。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cc0d937c41cc",
+    "subject_id": "ep_7fbf873f8d0f1435",
+    "object_id": "ep_97cb31d8bfa54c23",
+    "relation_type": "precedes",
+    "reason": "根据描述，'处理万发的猜疑引发的冲突' 发生在吃饭过程中，而 '万发抽烟陷入恍惚' 明确发生在吃完饭之后，因此前者在叙事时间顺序上早于后者。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e6436345b5df",
+    "subject_id": "ep_f8b3553749c60feb",
+    "object_id": "ep_7fbf873f8d0f1435",
+    "relation_type": "precedes",
+    "reason": "万发抱怨阿好反复提及姓简的（ep_f8b3553749c60feb）在事件顺序上早于处理万发的猜疑引发的冲突（ep_7fbf873f8d0f1435），前者表现为万发单方面表达不满，后者则是双方言语对抗的完整闭环，表明前者为后者的铺垫。文档ID（doc_17 vs doc_24）和事件发展逻辑支持该时间顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_15f3dab2e3f8",
+    "subject_id": "ep_a7ecf273712cb991",
+    "object_id": "ep_b4a2cfe18af090b1",
+    "relation_type": "contrasts_with",
+    "reason": "万发目送孩子获得自由与宠爱，流露出对自身处境的感触；随后与牛独处并寻求认同，表现出孤独与情感缺失。两个情节通过孩子与动物、自由与束缚、被爱与孤独之间的并置，形成情感基调上的对比。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_0d7f77dc39db",
+    "subject_id": "ep_84f9c37b79931866",
+    "object_id": "ep_b4a2cfe18af090b1",
+    "relation_type": "contrasts_with",
+    "reason": "万发在人际交流中表现出消极退缩（拒绝对话、苦笑敷衍），而在与牛的独处中则主动寻求情感认同，两者在社交行为和情感表达上形成鲜明对比，凸显其人际疏离与动物陪伴之间的张力。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2cbbed3c6504",
+    "subject_id": "ep_63d99f90227ef540",
+    "object_id": "ep_b4a2cfe18af090b1",
+    "relation_type": "contrasts_with",
+    "reason": "万发以温和方式驱牛上坡展现其对牛的关爱，与其他车夫的暴力方式形成对比；而万发与牛独处对话并寻求认同则进一步深化了他与牛之间的情感联结，表现出孤独中的拟人化交流。这两个情节虽无直接时间或因果联系，但共同构建了万发区别于其他车夫的非暴力、情感化劳作形象，形成内在基调上的呼应与对比：前者是对外行为的对比，后者是向内情感的延伸，因此构成对称性的对比关系。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_17ce000bdf7b",
+    "subject_id": "ep_b4a2cfe18af090b1",
+    "object_id": "ep_ec9c8f9c5508238b",
+    "relation_type": "contrasts_with",
+    "reason": "万发与牛独处对话并寻求认同的情节表现了人与动物之间的情感交流和内心孤独的流露，而阿好催促洗澡并表达孤独的情节则展示了人类角色之间的生活互动及对人际陪伴的渴望。两个情节均围绕孤独主题，但通过不同关系（人与动物 vs. 人与人）和情境（主动寻求认同 vs. 被动感叹寂寞）形成情感表达上的并置对比。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_9343fe003af8",
+    "subject_id": "ep_d2ccd9ae2c00d59b",
+    "object_id": "ep_b277e1f86a4e4448",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'简底与万发初次会面并尝试交流'发生在万发检查衣物之前，因为初次会面是互动的开端，随后才发展到赠送和检查衣物的情节。虽然没有明确时间戳，但叙事逻辑和事件顺序支持该先后关系。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c7ac772d589e",
+    "subject_id": "ep_a7ecf273712cb991",
+    "object_id": "ep_ec9c8f9c5508238b",
+    "relation_type": "contrasts_with",
+    "reason": "万发目睹孩子获得自由与宠爱后内心感触，与后续阿好表达孤独和生活困顿形成情感基调上的对比，凸显人物间境遇与情感状态的差异。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_cd2015c62232",
+    "subject_id": "ep_a33aea0eebd34a0f",
+    "object_id": "ep_f8ed4180a105a3c4",
+    "relation_type": "contrasts_with",
+    "reason": "车主家庭共进晚餐展现家庭生活的温馨日常，而车夫们在食堂聚餐划拳则呈现劳工群体的社交场景，两者在社会阶层和生活情境上形成并置对比，强调不同群体的生活状态差异。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b5686831d41f",
+    "subject_id": "ep_f8b3553749c60feb",
+    "object_id": "ep_ff478eb8bf354194",
+    "relation_type": "precedes",
+    "reason": "根据相关事件均发生在scene_18且万发先表达抱怨，阿好随后回应，文本支持该顺序，因此‘万发抱怨阿好反复提及姓简的’在叙事顺序上先于‘阿好抱怨万发的双重标准’。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cbd893ba3d85",
+    "subject_id": "ep_53aef83c57f530ee",
+    "object_id": "ep_f8b3553749c60feb",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_18）中，且阿好先讽刺万发为光棍并模仿其口音，随后万发因情绪受激而抱怨阿好反复提及姓简的，文本暗示了清晰的叙事顺序。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_25b108fb83b5",
+    "subject_id": "ep_f8b3553749c60feb",
+    "object_id": "ep_78621e470220b159",
+    "relation_type": "precedes",
+    "reason": "主体情节'万发抱怨阿好反复提及姓简的'发生在场景18，而客体情节'阿好协调万发与简底的对话并揭示耳疾'发生在场景19，根据文档中场景编号的顺序，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_93e1dec04a89",
+    "subject_id": "ep_f8b3553749c60feb",
+    "object_id": "ep_84f9c37b79931866",
+    "relation_type": "precedes",
+    "reason": "根据文档ID，'万发抱怨阿好反复提及姓简的'发生在doc_17，而'万发表达经济困境并拒绝进一步交流'发生在doc_18，表明前者在叙事顺序上早于后者。两个情节均涉及万发与阿好的互动，并呈现其情绪状态的延续，但无明确因果或对比证据。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1fbc4d6b60de",
+    "subject_id": "ep_97cb31d8bfa54c23",
+    "object_id": "ep_714834763595c133",
+    "relation_type": "precedes",
+    "reason": "万发抽烟陷入恍惚发生在阿好抱怨并引发模仿之前，根据描述，万发的沉默和抽烟是阿好抱怨的直接导火索，因此在叙事顺序上，'万发抽烟陷入恍惚'先于'阿好抱怨沉默并引发模仿'。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0ce79385a2b2",
+    "subject_id": "ep_31a32e9ebdfa63e9",
+    "object_id": "ep_de7c54f32709a3eb",
+    "relation_type": "precedes",
+    "reason": "‘寻找并取出牙粉’发生在厨房场景中，而‘递还牙粉并化解尴尬’发生在下一场景，涉及将找到的牙粉递给简底。文本中‘related_events’的时间顺序和叙事连贯性表明前者在话语顺序上直接早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_37c7c8369b4d",
+    "subject_id": "ep_4d90dea65ac93948",
+    "object_id": "ep_31a32e9ebdfa63e9",
+    "relation_type": "precedes",
+    "reason": "简底婉拒阿好帮忙拿牙粉的情节（ep_4d90dea65ac93948）发生在阿好自行去厨房寻找牙粉的情节（ep_31a32e9ebdfa63e9）之前，根据叙事顺序，拒绝帮助先于后续的搜寻行动。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_051e8da7873b",
+    "subject_id": "ep_547e7d1ff00c7913",
+    "object_id": "ep_6c28eec9583fc2e3",
+    "relation_type": "precedes",
+    "reason": "主体情节'准备并出发挖番薯'描述阿好为挖番薯做准备，包括取下并戴上斗笠、携带工具，意图明确指向开始劳作；客体情节'表达邻里信任与温情告别'包含阿好戴上斗笠准备出门并邀请简底使用家中物品，且发生在同一出门场景中。根据相关事件的时间逻辑，准备动作应在与邻居互动之前或同时发生，但文本中'准备出发'为初始动作，随后展开与简底的互动，因此主体情节在叙事顺序上先于客体情节。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4a1503fda132",
+    "subject_id": "ep_6f6596bae2305e88",
+    "object_id": "ep_31a32e9ebdfa63e9",
+    "relation_type": "precedes",
+    "reason": "阿好坚持帮忙取牙粉并进入屋内（ep_6f6596bae2305e88）发生在她实际在厨房中寻找并取出牙粉（ep_31a32e9ebdfa63e9）之前，根据叙事顺序，进入屋内是寻找和取出牙粉的前提动作，且两个情节共享同一目标（取得牙粉），时间上紧密衔接。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_84dcbf8621e9",
+    "subject_id": "ep_427f5bd1f7abe401",
+    "object_id": "ep_c7df59d51d1e6e06",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节描述万发和阿好因经济拮据而抱怨伙食并期待改善，体现出生活困苦；第二个情节揭示阿狗与简底共居的优渥条件，包括同床、完整蚊帐和通风环境。两者通过生活条件的并置形成鲜明对比，突显家庭成员间的生活差异。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_96ee898beb39",
+    "subject_id": "ep_4c0bef063425f7cf",
+    "object_id": "ep_c7df59d51d1e6e06",
+    "relation_type": "contrasts_with",
+    "reason": "阿好对简未归的担忧及其生活窘迫（昏暗、无油灯）与阿狗和简底共居的优渥条件（板床、蚊帐、通风）形成鲜明对比，两个情节通过生活状态的差异并置，突显人物处境的不平等。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b891764ff0e7",
+    "subject_id": "ep_6c28eec9583fc2e3",
+    "object_id": "ep_c7df59d51d1e6e06",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节展现阿好与简底之间朴素、信任的邻里关系，房屋破旧但情感真挚；第二个情节揭示简底与阿狗共居的优渥生活条件，包括板床、完整蚊帐和通风环境。两者在居住条件和生活状态上形成明显对比，暗示社会资源分配或人际关系亲疏的差异，构成叙事上的对比关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a6140bdbeb53",
+    "subject_id": "ep_6976e63f3b3392ac",
+    "object_id": "ep_c7df59d51d1e6e06",
+    "relation_type": "contrasts_with",
+    "reason": "阿好因蚊虫滋扰而烦躁不安的情节与阿狗和简底同床共眠、享有优渥居住条件（如完整蚊帐和通风环境）的情节形成鲜明对比，两者通过居住舒适度的差异突显了人物处境的不平等，构成对称性的状态对比。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5180bfcd5c44",
+    "subject_id": "ep_6ecbfc774c50f6a5",
+    "object_id": "ep_c7df59d51d1e6e06",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述万发关心阿狗在简家的适应情况，而第二个情节通过展示阿狗与简底同吃同睡及优越生活条件，进一步提供了阿狗在简家生活状况的具体细节，从而扩展并丰富了前一情节中提及的‘适应良好’的状态。因此，第二个情节对第一个情节进行了细节补充和背景深化。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8929727d369c",
+    "subject_id": "ep_d1d42e3c94486cab",
+    "object_id": "ep_c3cc620b4368a11c",
+    "relation_type": "precedes",
+    "reason": "简底赠送衣物并表达感谢的情节发生在阿好试穿并评估美国衫的合身与装饰之前，因为阿好必须先收到衣物才能进行试穿和评估。相关事件的时间顺序和逻辑依赖支持这一叙事先后关系。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_87dfc5a8dfa5",
+    "subject_id": "ep_c3cc620b4368a11c",
+    "object_id": "ep_fa0f8c778447c605",
+    "relation_type": "precedes",
+    "reason": "主体情节'试穿并评估美国衫的合身与装饰'发生在阿好开始修改美国衫的阶段，而客体情节'阿好察觉天气变化并赶往简家'始于她正在阳光下修改衣服时天气突变，因此前者在叙事顺序上直接早于后者。相关事件的时间流显示试穿和测量尺寸先于修改过程中的天气变化。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9d0babfb5737",
+    "subject_id": "ep_9f526b964b2aef0e",
+    "object_id": "ep_c3cc620b4368a11c",
+    "relation_type": "precedes",
+    "reason": "主体情节描述阿好在教会聚会中确认物资发放并讨论信仰动机，客体情节描述她回家后试穿并评估领到的美国衫。根据叙事顺序，领取物资的讨论发生在试穿之前，且相关事件分别位于文档29和34，时间顺序连贯，因此主体情节在话语和事件流上先于客体情节。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f387eda09756",
+    "subject_id": "ep_0f823e64f81a2b37",
+    "object_id": "ep_c3cc620b4368a11c",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中，简底拿起美国衫比在阿好身上并称赞她穿起来漂亮动人，这引发了对美国衫的关注和其穿着效果的评价；第二个情节中，阿好在镜子前试穿同一件美国衫并评估其合身与装饰，进一步展开和细化了这件衣服的实际适配情况。因此，第二个情节在细节上扩展了第一个情节中引入的试衣情境。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2021d174c479",
+    "subject_id": "ep_e23c3364d487551a",
+    "object_id": "ep_e42bf1f3ed946774",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节展现阿好在赌博聚会中狂野、非文明化的行为，而第二个情节中她坚决否认参与赌博并强调家庭责任，两个情节通过行为与自我呈现的反差形成对比，突显其公共形象与私人身份之间的张力。",
+    "source_documents": [
+      "scene_六_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_13476269699a",
+    "subject_id": "ep_fffef744aabe56ba",
+    "object_id": "ep_e23c3364d487551a",
+    "relation_type": "precedes",
+    "reason": "情节 '简底提议并劝说阿好参与赌博' 描述了阿好从拒绝到最终同意参与赌博的转变过程，包含明确的决策和接受动作（如轻戳额头表示接受），这在叙事顺序上逻辑地早于 '揭露村庄赌博聚会的原始狂野面貌' 中阿好已参与并展现狂野举止的状态。后者依赖于前者的结果作为其前提，因此存在清晰的先后顺序。",
+    "source_documents": [
+      "scene_六_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c750be700d2b",
+    "subject_id": "ep_b0d501f73a7346d2",
+    "object_id": "ep_e23c3364d487551a",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '试探与否认：赌牌还是礼拜' 描绘阿好否认参与赌博并声称去教堂做礼拜，而情节 '揭露村庄赌博聚会的原始狂野面貌' 展示她实际参与赌博并表现狂野举止。两个情节通过阿好行为的公开否认与私下真实参与形成道德与行为上的对比，构成明显的反差关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_六_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_38a21ff27346",
+    "subject_id": "ep_25d9d5df3051a0a0",
+    "object_id": "ep_e23c3364d487551a",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述家庭成员对工资被用于赌博的担忧，并提及阿好父亲前往车马炮，暗示赌博行为的存在；客体情节具体展现村庄中四色牌赌博聚会的狂野场景，包括阿好的参与和强烈感官氛围。客体情节通过展示赌博场合的具体行为和环境，为主体情节中提到的赌博问题提供了背景和细节扩展，形成解释性补充关系。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_六_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_514cb935b16a",
+    "subject_id": "ep_d0950a46b71e2db4",
+    "object_id": "ep_a9f04da071f1ff05",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件发展逻辑，'简突然握住阿好的手'（scene_40）发生在'在猪圈边表达爱意并引发周围反应'（scene_47）之前，两者均涉及阿好与简底之间的情感互动升级，且scene_40在文档中编号早于scene_47，支持叙事上的先后顺序。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_548e3a055ce5",
+    "subject_id": "ep_fa0f8c778447c605",
+    "object_id": "ep_7992a4868f52234f",
+    "relation_type": "precedes",
+    "reason": "阿好察觉天气变化并赶往简家发生在她冒雨救助家中财物之前，根据描述，她因预感雷阵雨将至而赶往简家，随后在雨中进行财物救助，构成明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a27157084083",
+    "subject_id": "ep_fa0f8c778447c605",
+    "object_id": "ep_fc7259448fe1309f",
+    "relation_type": "precedes",
+    "reason": "主体情节描述阿好察觉天气变化并赶往简家，发生在暴雨来临之前；客体情节描述暴雨突至后阿好收衣并应对漏水，包含大雨开始降下和房屋漏水等事件。根据相关事件的时间顺序，主体情节在叙事上先于客体情节。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cd296c4daa95",
+    "subject_id": "ep_fa0f8c778447c605",
+    "object_id": "ep_b26d602af86e5864",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，阿好察觉天气变化并赶往简家（doc_35）发生在阿好收取并处理简底和阿狗的衣物（doc_36）之前。文档编号的顺序（doc_35 在 doc_36 之前）以及情节中事件的自然时序（赶往简家是收取衣物的前提）支持这一叙事顺序。",
+    "source_documents": [
+      "scene_三十七_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c0161e6e5a43",
+    "subject_id": "ep_fa0f8c778447c605",
+    "object_id": "ep_d51ea2d334c6183d",
+    "relation_type": "precedes",
+    "reason": "阿好察觉天气变化并赶往简家发生在雷阵雨来临之前，而展示用蓑衣遮雨的聪明办法是对屋顶漏水的应对，逻辑上和叙事上应在阿好到达之后或雨已降下时发生。因此，'阿好察觉天气变化并赶往简家'在时间顺序上先于'展示用蓑衣遮雨的聪明办法'。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c521f245bb11",
+    "subject_id": "ep_fa0f8c778447c605",
+    "object_id": "ep_eec15d856bc802df",
+    "relation_type": "precedes",
+    "reason": "阿好察觉天气变化并赶往简家（ep_fa0f8c778447c605）发生在她冒雨前往简底家（ep_eec15d856bc802df）之前，前者描述她因天气突变而决定赶往简家，后者描述她已穿上蓑衣在雨中前往，表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_313355423eb3",
+    "subject_id": "ep_fa0f8c778447c605",
+    "object_id": "ep_ec35f945ea69895a",
+    "relation_type": "precedes",
+    "reason": "阿好察觉天气变化并赶往简家（ep_fa0f8c778447c605）在叙事顺序上早于应对茅屋漏雨的干扰（ep_ec35f945ea69895a），因为前者描述的是雷阵雨来临前阿好前往简家的行动，而后者发生在雨已落下且茅屋开始漏雨的亲密场景中，时间顺序明确。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_26331a83493a",
+    "subject_id": "ep_fa0f8c778447c605",
+    "object_id": "ep_6d92d54fba984aee",
+    "relation_type": "precedes",
+    "reason": "阿好察觉天气变化并赶往简家（ep_fa0f8c778447c605）发生在简底冒雨赶回并表达感激（ep_6d92d54fba984aee）之前，因为阿好在雷阵雨来临前主动前往简家处理隐患，而简底是在雨中返回后才发现阿好已帮忙，叙事顺序明确。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3080af86d522",
+    "subject_id": "ep_fa0f8c778447c605",
+    "object_id": "ep_51ddbc06f543614f",
+    "relation_type": "precedes",
+    "reason": "阿好察觉天气变化并赶往简家（ep_fa0f8c778447c605）在时间顺序上早于阿好责备并照料简底（ep_51ddbc06f543614f），因为前者是阿好因雷阵雨将至赶往简家，而后者发生在简家内部，涉及简底已淋湿和阿好处理后果，叙事上构成连续事件链的前序动作。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fba2cb423855",
+    "subject_id": "ep_b26d602af86e5864",
+    "object_id": "ep_cf92e8bf63e375c3",
+    "relation_type": "precedes",
+    "reason": "阿好收取并处理简底和阿狗的衣物发生在简底发现整洁房间并闻嗅洗净衣物之前，叙事顺序上主体情节先于客体情节，且客体情节依赖于主体情节中完成的衣物清洗和整理行为。",
+    "source_documents": [
+      "scene_三十七_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_129a13e48a7c",
+    "subject_id": "ep_7992a4868f52234f",
+    "object_id": "ep_0ed4a1ed92018966",
+    "relation_type": "precedes",
+    "reason": "阿好冒雨救助家中财物发生在简接收干衣并表达感激之前，因为阿好先在雨中抢救并晾干衣物，之后简才能接收这些干衣，叙事时间顺序由事件因果链支持。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_679d209abd1f",
+    "subject_id": "ep_7992a4868f52234f",
+    "object_id": "ep_d0950a46b71e2db4",
+    "relation_type": "precedes",
+    "reason": "阿好冒雨救助家中财物发生在简突然握住阿好的手之前，根据相关场景编号（scene_39 在 scene_40 之前）可确定叙事顺序。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_53b09c481e23",
+    "subject_id": "ep_6d92d54fba984aee",
+    "object_id": "ep_d0950a46b71e2db4",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'简底冒雨赶回并表达感激' 发生在 scene_39，而 '简突然握住阿好的手' 发生在 scene_40，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b350ab75b034",
+    "subject_id": "ep_51ddbc06f543614f",
+    "object_id": "ep_d0950a46b71e2db4",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序，阿好责备并照料简底（doc_38）发生在简突然握住阿好的手（doc_39）之前，且两个情节分别关联 scene_39 和 scene_40，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7db22c40f272",
+    "subject_id": "ep_7c70b02fbc11e535",
+    "object_id": "ep_d0950a46b71e2db4",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述阿好唤醒简底并开始轻松对话，发生在简突然握住阿好的手之前。相关事件的场景编号（scene_31 在 scene_40 之前）支持该叙事顺序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f4c53c7443f6",
+    "subject_id": "ep_3c9d6749e0d7c211",
+    "object_id": "ep_d0950a46b71e2db4",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'阿好初遇新邻居并确认身份' 发生在 scene_15，而 '简突然握住阿好的手' 发生在 scene_40，scene_15 在叙事顺序上早于 scene_40，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_402cdc4294ce",
+    "subject_id": "ep_6f6596bae2305e88",
+    "object_id": "ep_d0950a46b71e2db4",
+    "relation_type": "precedes",
+    "reason": "阿好进入屋内取牙粉的行为发生在简突然握住她手之前，根据叙事顺序，前者为后续互动提供了场景和上下文，且两个情节分别关联到不同文档中的连续场景（scene_15 和 scene_40），支持时间上的先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a9b8b87a4c9d",
+    "subject_id": "ep_0f823e64f81a2b37",
+    "object_id": "ep_d0950a46b71e2db4",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'揭示真实心意与赞美'中的互动发生在scene_31，而'简突然握住阿好的手'发生在scene_40，scene_31早于scene_40，因此该情节在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4c855b93b4f6",
+    "subject_id": "ep_d0950a46b71e2db4",
+    "object_id": "ep_eaa5b460567884e9",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述简突然握住阿好的手，标志着情感张力的升级；第二个情节通过影像收束，以衣物下头影轻触的诗意画面回应并扩展了此前的情感氛围。虽然两者不构成直接因果或时间先后，但第二个情节以象征性影像深化了第一个情节的情感张力，构成对前一情节的意象化延伸。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a2770d65d8dc",
+    "subject_id": "ep_25c4aa8bb69f6043",
+    "object_id": "ep_cf92e8bf63e375c3",
+    "relation_type": "precedes",
+    "reason": "阿好完成家务清洁（包括清洗并晾晒衣物）在叙事上为简底后续闻嗅洗净内衣裤和翻找衣物提供了前提条件，且相关事件在scene_21后发生于scene_22，表明时间顺序上的先后关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5e513545ae38",
+    "subject_id": "ep_25c4aa8bb69f6043",
+    "object_id": "ep_d1d42e3c94486cab",
+    "relation_type": "causes",
+    "reason": "阿好完成家务清洁（包括整理猪寮）直接导致简底赠送衣物并表达感谢，文本明确指出赠送行为是为了感谢她将猪寮整理得整洁如王宫，构成直接因果关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_64f005006e5a",
+    "subject_id": "ep_25c4aa8bb69f6043",
+    "object_id": "ep_fc7259448fe1309f",
+    "relation_type": "precedes",
+    "reason": "主体情节'完成家务清洁'包括清洗并晾晒衣物，这在逻辑和时间顺序上必须发生在客体情节'收好晾晒衣物并应对突降暴雨'之前，因为后者涉及收回已晾晒的衣物。文本中'阿好收进屋外晾晒的衣服'表明衣物此前已被晾出，支持前一情节先发生。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_399accdef818",
+    "subject_id": "ep_98a39f221e9fa87d",
+    "object_id": "ep_cf92e8bf63e375c3",
+    "relation_type": "precedes",
+    "reason": "主体情节'发现并处理简底'发生在阿好整理脏内衣并找出简底的过程中，而客体情节'回应阿好的整理并寻找衣物'描述了简底对已洗净衣物的反应及后续翻找行为。根据叙事顺序，阿好先完成整理和清洗，简底才能闻嗅洗净的衣物并翻找，因此主体情节在时间上直接先于客体情节。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_db8e335d0aa8",
+    "subject_id": "ep_98a39f221e9fa87d",
+    "object_id": "ep_ec403bd278cbf50a",
+    "relation_type": "precedes",
+    "reason": "主体情节'发现并处理简底'发生在整理未洗内衣的过程中，而客体情节'饭局邀约与急事推辞'中阿好指出处理这些物品耗去一上午，表明前者在时间上直接早于后者，且两情节共享同一活动流，叙事顺序清晰。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0f50f268db61",
+    "subject_id": "ep_67940dbb86d4bdaa",
+    "object_id": "ep_98a39f221e9fa87d",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在简底居住环境凌乱的背景下，阿好主动提出帮忙整理屋子，而客体情节涉及在整理过程中发现并处理简底的脏内衣，包含更进一步的具体行动。related_events 显示前者发生在 scene_20，后者发生在 scene_21，表明叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_20_part_2",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d13d3655d35e",
+    "subject_id": "ep_0150b125bfa4f2ab",
+    "object_id": "ep_ec403bd278cbf50a",
+    "relation_type": "precedes",
+    "reason": "村妇们对阿好乘车行为指指点点发生在阿好从简底的车上下来之后，而饭局邀约与急事推辞发生在后续场景中，简底提及阿狗已去市场吃饭，表明时间线上已推进。叙事顺序和事件上下文支持前者在后者之前发生。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5d335a409a0c",
+    "subject_id": "ep_cf92e8bf63e375c3",
+    "object_id": "ep_2bb74f05b2f65a9d",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'回应阿好的整理并寻找衣物'发生在scene_22，而'阿好转达赠衣意图并促成接受'发生在scene_23，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_686071935602",
+    "subject_id": "ep_fc7259448fe1309f",
+    "object_id": "ep_6d92d54fba984aee",
+    "relation_type": "precedes",
+    "reason": "阿好在雨中收衣并处理漏水发生在简底冒雨赶回并表达感激之前，根据事件的时间顺序和场景编号（scene_38 在 scene_39 之前），该关系在叙事顺序上明确支持。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5957f395952f",
+    "subject_id": "ep_fc7259448fe1309f",
+    "object_id": "ep_d51ea2d334c6183d",
+    "relation_type": "precedes",
+    "reason": "收好晾晒衣物并应对突降暴雨的情节中，阿好关窗、用器皿接漏雨等行为发生在房屋多处漏水之后，而展示用蓑衣遮雨的聪明办法是对持续漏水问题的进一步应对措施，表明前者在叙事时间线上早于后者。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_48d342b54fc9",
+    "subject_id": "ep_51ddbc06f543614f",
+    "object_id": "ep_fc7259448fe1309f",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，阿好收好晾晒衣物并应对暴雨（doc_37, scene_38）发生在阿好责备并照料简底（doc_38, scene_39）之前，文档编号和场景编号表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8a2ee7ffc0f5",
+    "subject_id": "ep_0b720356f0c85c64",
+    "object_id": "ep_eec15d856bc802df",
+    "relation_type": "precedes",
+    "reason": "阿好告别妇女们准备离开（ep_0b720356f0c85c64）发生在村庄剥花生的场合中（doc_2），而冒雨前往简底家（ep_eec15d856bc802df）发生在后续场景（doc_37），且需以离开为前提。文档顺序和事件逻辑支持前者在叙事上早于后者。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_73454375caf7",
+    "subject_id": "ep_7992a4868f52234f",
+    "object_id": "ep_fc7259448fe1309f",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'收好晾晒衣物并应对突降暴雨'（doc_37）发生在暴雨开始前及初期，涉及将衣物收进屋内和应对雨水侵入；而'阿好冒雨救助家中财物'（doc_38）发生在雨势已大、阿好冒雨赶到简家后，包括关窗、转移衣物和接漏雨。两个情节均涉及阿好应对暴雨保护财物，但叙事顺序上，前者为准备和初始应对，后者为后续紧急救助，因此主体情节在时间上晚于客体情节，支持'precedes'关系（客体 -> 主体），故主体在客体之后，即客体先于主体。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_291ed9ae11e4",
+    "subject_id": "ep_7992a4868f52234f",
+    "object_id": "ep_d51ea2d334c6183d",
+    "relation_type": "elaborates",
+    "reason": "阿好冒雨救助家中财物的情节描述了应对屋顶漏水的初步行动，而展示用蓑衣遮雨的聪明办法进一步扩展了这一应对过程，显示了简底与阿好在相同漏水情境下的合作与机智，提供了更具体的解决方案细节，因此构成对前一情节的补充说明。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_07fe2f5675d7",
+    "subject_id": "ep_775209664200c389",
+    "object_id": "ep_de7c54f32709a3eb",
+    "relation_type": "precedes",
+    "reason": "阿好提议称呼方式并展现女性化姿态发生在场景15，而递还牙粉并化解尴尬发生在场景17，根据文档中场景编号的顺序，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c614c4826d12",
+    "subject_id": "ep_67ef2a1e437cb94e",
+    "object_id": "ep_de7c54f32709a3eb",
+    "relation_type": "precedes",
+    "reason": "根据文档ID，情节'阿好与简底交流籍贯并调整沟通方式'（doc_14）发生在'递还牙粉并化解尴尬'（doc_16）之前，且两个情节均涉及阿好与简底的互动，呈现连续的叙事顺序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ffbc97d43914",
+    "subject_id": "ep_6f6596bae2305e88",
+    "object_id": "ep_de7c54f32709a3eb",
+    "relation_type": "precedes",
+    "reason": "阿好坚持帮忙取牙粉并进入屋内发生在递还牙粉并化解尴尬之前，根据叙事顺序，取牙粉是递还牙粉的前提动作，且related_events显示进入屋内（scene_15）早于擦拭和递还牙粉（scene_17）。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d4f82f779092",
+    "subject_id": "ep_4d90dea65ac93948",
+    "object_id": "ep_6c28eec9583fc2e3",
+    "relation_type": "precedes",
+    "reason": "情节 '简底说明生活困难并婉拒帮助' 发生在场景15，而 '表达邻里信任与温情告别' 发生在场景17，文档顺序和场景编号表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_50b59ac7818e",
+    "subject_id": "ep_3c9d6749e0d7c211",
+    "object_id": "ep_6c28eec9583fc2e3",
+    "relation_type": "precedes",
+    "reason": "情节 '阿好初遇新邻居并确认身份' 发生在 '表达邻里信任与温情告别' 之前，因为前者建立初步认知，后者展现进一步发展的邻里情谊，且相关事件分别位于 scene_15 和 scene_17，支持叙事顺序上的先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_440bf8f0eec7",
+    "subject_id": "ep_67ef2a1e437cb94e",
+    "object_id": "ep_6c28eec9583fc2e3",
+    "relation_type": "precedes",
+    "reason": "情节 '阿好与简底交流籍贯并调整沟通方式' 发生在场景 scene_15，而 '表达邻里信任与温情告别' 发生在场景 scene_17，根据文档中场景编号的顺序，scene_15 在 scene_17 之前，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_055a81d5fc6d",
+    "subject_id": "ep_6f6596bae2305e88",
+    "object_id": "ep_6d92d54fba984aee",
+    "relation_type": "precedes",
+    "reason": "阿好进入屋内取牙粉的行为发生在简底冒雨赶回并表达感激之前，因为简底回家后才发现阿好已帮忙处理家中事务，表明阿好的行动在时间上先于简底的感激情节。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6399cb53a6e9",
+    "subject_id": "ep_0b720356f0c85c64",
+    "object_id": "ep_72e2bf729da391da",
+    "relation_type": "precedes",
+    "reason": "阿好告别妇女们准备离开（doc_2）发生在村庄剥花生的场景中，而阿好途经村道并沉浸于歌声与回忆（doc_33）发生在后续的村道行走场景（scene_34），文档顺序和场景编号表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3d31e0325d79",
+    "subject_id": "ep_1d83106196ea8fa1",
+    "object_id": "ep_84f9c37b79931866",
+    "relation_type": "contrasts_with",
+    "reason": "阿好由羡慕转为失落认出万发的情节呈现她从幻想热闹到感知孤独的情绪逆转，而万发表达经济困境并拒绝交流的情节则凸显其社会退缩与生活压抑；两个情节通过情感基调的落差——一个从希望跌入失望，另一个直接展现困顿——形成情绪与社会境况上的对比。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2265ddb11d12",
+    "subject_id": "ep_427f5bd1f7abe401",
+    "object_id": "ep_92e9b80bd4a2177b",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均涉及阿好与他人共餐，但情境和行为形成鲜明对比：在家中因经济拮据抱怨伙食，阿好与万发互动体现生存压力；而在市场小吃摊与简底共餐时，阿好表现得文雅克制，展现出不同社会语境下的行为差异，构成行为与氛围的对比。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4cd898b5e0ef",
+    "subject_id": "ep_789ce55a43452321",
+    "object_id": "ep_92e9b80bd4a2177b",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节中阿好在家中的行为是粗野且命令式的，而第二个情节中她在市场小吃摊以文雅、细嚼慢咽的方式进食，两者并置突出了她在不同社会语境下的行为与形象差异，形成鲜明对比。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_02eb9e2f5701",
+    "subject_id": "ep_7fbf873f8d0f1435",
+    "object_id": "ep_92e9b80bd4a2177b",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '处理万发的猜疑引发的冲突' 展现阿好在家庭中的粗野对抗行为，而 '共进餐食并展现互动差异' 展示阿好在与简底外出时的文雅举止和亲密氛围，两者通过阿好在不同社交语境下的行为差异形成鲜明对比，强调其在家庭内外互动方式的逆转。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_abef6a12c8e4",
+    "subject_id": "ep_714834763595c133",
+    "object_id": "ep_92e9b80bd4a2177b",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '阿好抱怨沉默并引发模仿' 展现阿好在家中的粗野、抱怨和控制行为，而 '共进餐食并展现互动差异' 中阿好在市场与简底共餐时表现出细嚼慢咽、文雅的一面，两者并置突显其行为与形象的显著差异，形成鲜明对比。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2726435be825",
+    "subject_id": "ep_c1c23b14bdea77c9",
+    "object_id": "ep_03a411374075082c",
+    "relation_type": "precedes",
+    "reason": "完成剥花生工作并领取报酬发生在阿好数工钱并安排家务之前，因为阿好是在领取工钱后立即清点工钱并规划后续行动，叙事上具有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_（四）_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_65e5f8556441",
+    "subject_id": "ep_2a026794e19a5410",
+    "object_id": "ep_92e9b80bd4a2177b",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '解释晚归并分享食物' 描述阿好在家中的行为，包括家庭成员共享食物和阿狗抢食的粗放场景；而情节 '共进餐食并展现互动差异' 描述阿好在市场与简底共餐时细嚼慢咽、举止文雅，形成鲜明对比。两个情节通过阿好在不同社会语境下的行为差异，突显其形象的对比，文本明确支持这种并置的对比关系。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8475a3f41446",
+    "subject_id": "ep_03a411374075082c",
+    "object_id": "ep_e42bf1f3ed946774",
+    "relation_type": "precedes",
+    "reason": "阿好数工钱并安排家务发生在她回应赌博调侃并澄清回家目的之前，因为她在清点工钱后才前往市场途中遭遇乙妇调侃，叙事顺序上前者先于后者。",
+    "source_documents": [
+      "scene_（四）_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0a2a38c24a3e",
+    "subject_id": "ep_03a411374075082c",
+    "object_id": "ep_789ce55a43452321",
+    "relation_type": "precedes",
+    "reason": "阿好数工钱并安排家务发生在回家前，而开始吃晚餐并点亮油灯发生在阿好回家之后，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_（四）_part_1",
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3ce2453d6d3e",
+    "subject_id": "ep_03a411374075082c",
+    "object_id": "ep_ec403bd278cbf50a",
+    "relation_type": "precedes",
+    "reason": "阿好数工钱并安排家务发生在回家前去市场的准备阶段，而饭局邀约与急事推辞发生在阿好回家后整理衣服时发现阿狗不见的后续场景，叙事顺序上前者早于后者，且两者均围绕家庭日常安排展开，具有连续的时间线索支持。",
+    "source_documents": [
+      "scene_（四）_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8af1ce733ee7",
+    "subject_id": "ep_0b720356f0c85c64",
+    "object_id": "ep_03a411374075082c",
+    "relation_type": "precedes",
+    "reason": "阿好告别妇女们准备离开（ep_0b720356f0c85c64）发生在她清点工钱并安排家务（ep_03a411374075082c）之前，根据叙事顺序，告别和离开是回家途中的第一步，随后才是在路口清点工钱并分配任务，因此该关系在时间线上有明确的先后顺序支持。",
+    "source_documents": [
+      "scene_（四）_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_dbc978f9a290",
+    "subject_id": "ep_03a411374075082c",
+    "object_id": "ep_fb30d463a3aa2cc4",
+    "relation_type": "precedes",
+    "reason": "阿好数工钱并安排家务发生在回家前去市场的阶段，而准备并上桌煎白带鱼是晚餐的最后准备步骤，两者属于同一晚餐准备过程的不同阶段，且清点工钱和指派任务在时间顺序上早于煎鱼上桌，叙事顺序连贯。",
+    "source_documents": [
+      "scene_（四）_part_1",
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f8a630f044c3",
+    "subject_id": "ep_03a411374075082c",
+    "object_id": "ep_2a026794e19a5410",
+    "relation_type": "precedes",
+    "reason": "阿好数工钱并安排家务发生在回家前去市场的准备阶段，而解释晚归并分享食物发生在回家后向家人说明情况并分发食材时。根据叙事顺序，准备回家和分配任务在时间上早于实际回家并解释晚归的原因，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_（四）_part_1",
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_003ae17e3428",
+    "subject_id": "ep_b0d501f73a7346d2",
+    "object_id": "ep_da209960c0854b39",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '试探与否认：赌牌还是礼拜' 中，阿好否认去赌牌并声称自己去教堂做礼拜，表现出正当行为；而情节 '阿狗威胁揭发阿好打牌' 中，阿狗揭露阿好实际去砖窑打牌赌博，构成行为真相的暴露。两个情节在表面否认与实际行为之间形成道德或行为状态的对比，支持 'contrasts_with' 关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_（四）_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_f41427681127",
+    "subject_id": "ep_427f5bd1f7abe401",
+    "object_id": "ep_deb86840fb731b09",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均围绕家庭饮食条件展开，但呈现不同人物视角和态度：主体情节中万发抱怨伙食并期待改善，阿好表达未来希望；客体情节中阿狗抱怨当前饮食状况，阿好则强调现实经济困难。二者在情绪基调（期待 vs. 抱怨）和对现状的反应（希望改善 vs. 接受现实）上形成对比。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_（四）_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e604594444d6",
+    "subject_id": "ep_0b720356f0c85c64",
+    "object_id": "ep_ec403bd278cbf50a",
+    "relation_type": "precedes",
+    "reason": "阿好告别妇女们准备离开（ep_0b720356f0c85c64）发生在村庄剥花生的场景中（scene_2），而饭局邀约与急事推辞（ep_ec403bd278cbf50a）发生在后续的scene_31，且涉及阿狗去市场等新情境，表明叙事时间顺序上前者早于后者。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f687b0accb2f",
+    "subject_id": "ep_0b720356f0c85c64",
+    "object_id": "ep_2a026794e19a5410",
+    "relation_type": "precedes",
+    "reason": "阿好告别妇女们准备离开（ep_0b720356f0c85c64）发生在她回家并向万发解释晚归原因、分享食物（ep_2a026794e19a5410）之前，叙事顺序上前者为后者提供时间前提，且离开是回家并解释行为的必要前序动作。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0c749dfdca7e",
+    "subject_id": "ep_0b720356f0c85c64",
+    "object_id": "ep_99958bf3cd7b0843",
+    "relation_type": "precedes",
+    "reason": "阿好告别妇女们准备离开（ep_0b720356f0c85c64）发生在村庄妇女们议论她与卖衣男子关系（ep_99958bf3cd7b0843）之前，因为她的离开触发了后续的对话和议论。两个情节共享‘村庄妇女集体剥花生’的场合，且叙事上前者为后者提供了话题的起因，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1dbaae9397d6",
+    "subject_id": "ep_25d9d5df3051a0a0",
+    "object_id": "ep_e42bf1f3ed946774",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节都涉及对赌博的否认或担忧，但语境不同：一个是万发担忧工资被家人用于赌博，反映家庭财务忧虑；另一个是阿好被调侃去赌博时坚决否认并强调回家煮饭的责任。两者在态度和情境上形成对比——前者是被动担忧赌博发生，后者是主动否认并强调家庭责任，凸显对赌博的不同立场和行为反应。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_fa41dd38a007",
+    "subject_id": "ep_b0d501f73a7346d2",
+    "object_id": "ep_e42bf1f3ed946774",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均涉及阿好被他人调侃去赌博，但她的回应方式和情境存在明显对比：在第一个情节中，她以半笑半恼的态度否认并强调自己去教堂做礼拜，带有宗教庄重意味；在第二个情节中，她坚决否认并强调回家煮饭的责任，突出家庭义务。两者并置凸显了阿好在不同社交场合下对类似质疑所采取的不同辩护策略和身份定位，形成语境与基调上的对比。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_ebd7e1585791",
+    "subject_id": "ep_3a1c1a44c263c39d",
+    "object_id": "ep_ab852bbebf2e7e00",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中阿好训斥阿狗插嘴并纠正其对简的称呼，强调尊重与规矩；第二个情节中阿狗在提醒下向简底纠正称呼并道谢，表现出礼貌的养成。后者展示了阿狗在前一情节训诫影响下的行为改进，从而扩展和具体化了前一情节所强调的教育成果，因此主体情节为客体情节提供了行为转变的背景和动因，构成 elaborates 关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6b54de1a1439",
+    "subject_id": "ep_3c9d6749e0d7c211",
+    "object_id": "ep_90b80f5487035ea2",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述阿好初遇新邻居并确认其身份，第二个情节中阿好复述该邻居简的身世背景。后者提供了关于同一人物的额外信息和背景，扩展了前一情节中建立的初步认知，构成对初遇情节的进一步说明。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ef44f669d09c",
+    "subject_id": "ep_3c9d6749e0d7c211",
+    "object_id": "ep_c2d8f6f1f269fd42",
+    "relation_type": "precedes",
+    "reason": "阿好初遇新邻居并确认身份发生在她提议拜访新归来的邻居之前，因为只有在确认对方身份后，阿好才可能基于这一认知主动提议拜访，且两个情节分别位于文档14和文档18，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ce9accfb913e",
+    "subject_id": "ep_67ef2a1e437cb94e",
+    "object_id": "ep_bf7ff9bc318ceb5b",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中阿好主动调整与简底的沟通方式，建立亲近关系；第二个情节中简底表达阿好如母亲般的情感共鸣，进一步深化了两人情感联结。第二个情节在情感层面上扩展了第一个情节所建立的亲密互动，提供了更深层的情感背景和关系发展，因此主体情节为客体情节提供了情感铺垫，客体情节对主体中开始的关系动态进行了进一步阐释。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4baf1556c314",
+    "subject_id": "ep_67ef2a1e437cb94e",
+    "object_id": "ep_78621e470220b159",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在阿好与简底初次交流并调整沟通方式的场景（scene_15），而客体情节发生在后续的邻里拜访场合（scene_19），其中阿好进一步协调万发与简底的对话。两个情节在叙事顺序上连续，且客体情节中已存在主体情节所建立的沟通模式，表明主体情节在时间与话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4f44eaf51104",
+    "subject_id": "ep_6f6596bae2305e88",
+    "object_id": "ep_7656dfc5dfc1656e",
+    "relation_type": "precedes",
+    "reason": "阿好坚持帮忙取牙粉并进入屋内发生在她发现并缝补简底背心裂缝之前，根据叙事顺序，进入屋内是后续缝补行为的前提动作，且两个情节共享同一场景上下文，时间上连贯。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f047d85b867c",
+    "subject_id": "ep_24fb310cecde6e22",
+    "object_id": "ep_b0d501f73a7346d2",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节分别展现了阿好在宗教场合中的行为：一个是在教堂礼拜中因关注物资发放而打断祷告，表现出物质关切压倒宗教虔诚；另一个是她与简底关于去赌牌还是做礼拜的言语试探与辩驳。两者并置，凸显了阿好外在宗教行为与潜在世俗动机之间的张力，形成行为动机与社会期待之间的对比。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1644176b0e3c",
+    "subject_id": "ep_5c098faf3dd09c2e",
+    "object_id": "ep_b0d501f73a7346d2",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '参与唱诗并形式性投入礼拜' 描述阿好在教堂外在参与但内心未真正投入的宗教状态，而情节 '试探与否认：赌牌还是礼拜' 展现她对外声称去教堂做礼拜却遭人质疑其真实动机，两者在公开宣称的宗教行为与潜在世俗动机之间形成态度和真实性的对比，构成对形式化宗教参与的反讽性对照。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6f1ade434118",
+    "subject_id": "ep_24fb310cecde6e22",
+    "object_id": "ep_0f823e64f81a2b37",
+    "relation_type": "contrasts_with",
+    "reason": "‘打断祷告询问物资发放’展现阿好在宗教场合中对物质利益的直接关切，缺乏虔诚；而‘揭示真实心意与赞美’中，阿好以幽默方式表达对生活物资的重视，同时与简底发展出温情互动。两者并置，凸显阿好从公共场合的功利行为到私人对话中情感流露的对比，形成行为与情境之间的张力。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ca632bd094b2",
+    "subject_id": "ep_adf861e10eee6256",
+    "object_id": "ep_ec403bd278cbf50a",
+    "relation_type": "precedes",
+    "reason": "阿好完成缝补并确认后续需求的情节发生在饭局邀约与急事推辞之前，依据文本中事件的叙述顺序：缝补完成后才进入关于吃饭的对话。相关事件如‘阿好询问是否还有需要缝补的衣物’与‘简底提议等阿狗回来一起吃饭’在场景编号（scene_20 vs scene_31）上也支持该时间顺序。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_20_part_2",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b2adde0796a0",
+    "subject_id": "ep_24fb310cecde6e22",
+    "object_id": "ep_9f526b964b2aef0e",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述阿好在祷告中打断询问物资发放，客体情节进一步展开她对物资发放的持续追问及由此引发的信仰动机讨论，提供了更详细的背景和后续互动，扩展了主体情节中表现出的物质关切主题。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_064b2ed0acc3",
+    "subject_id": "ep_5c098faf3dd09c2e",
+    "object_id": "ep_0f823e64f81a2b37",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '参与唱诗并形式性投入礼拜' 描述阿好在教堂外在参与但内心未真正投入，表现出形式化的宗教参与；而情节 '揭示真实心意与赞美' 展示她通过物质关怀表达真实情感，并与简底展开真诚互动。两者在宗教表象与现实生活关怀之间形成明确对比，强调阿好真正‘礼拜’的是实际生活物资而非宗教仪式，构成对形式化信仰与实质情感表达的并置对比。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_76154131a4ae",
+    "subject_id": "ep_9f526b964b2aef0e",
+    "object_id": "ep_0f823e64f81a2b37",
+    "relation_type": "elaborates",
+    "reason": "情节 '确认物资发放并讨论信仰动机' 描述了阿好在教会聚会中首次接触救济物资并讨论信仰的表面动机，而 '揭示真实心意与赞美' 进一步展示了她与简底之间更私人的互动，通过调侃‘面粉教’和对衣物的赞美，深化了对物质关怀胜于宗教信仰这一主题的表达。后者在人物情感和关系层面扩展了前者的社会观察，提供了更丰富的个人动机和情感背景。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2b1b224c7fe6",
+    "subject_id": "ep_5c098faf3dd09c2e",
+    "object_id": "ep_9f526b964b2aef0e",
+    "relation_type": "elaborates",
+    "reason": "情节 '参与唱诗并形式性投入礼拜' 描述阿好外在参与但内心未真正投入的宗教状态，而 '确认物资发放并讨论信仰动机' 通过她对救济物资的关注和对信仰动机的讨论，进一步揭示其形式化参与背后的物质驱动逻辑，从而扩展并深化了前一情节的主题。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_3e6bf00f99de",
+    "subject_id": "ep_288a6b5161f2d6f3",
+    "object_id": "ep_67940dbb86d4bdaa",
+    "relation_type": "precedes",
+    "reason": "主体情节‘发现邻居归来并确认其回家’发生在文档18，而客体情节‘阿好主动提出帮忙整理屋子’发生在文档19，且后者的情节依赖于前者确认邻居已归来的事实，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_01e83f3efe12",
+    "subject_id": "ep_7656dfc5dfc1656e",
+    "object_id": "ep_adf861e10eee6256",
+    "relation_type": "precedes",
+    "reason": "阿好发现并缝补简底背心裂缝发生在缝补过程的执行阶段，而阿好完成缝补并确认后续需求发生在缝补结束之后，包括咬断线头和询问是否还有衣物需要修补，文本中事件顺序明确，具有清晰的叙事先后关系。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3cce233fb952",
+    "subject_id": "ep_18f6cd05c1176833",
+    "object_id": "ep_adf861e10eee6256",
+    "relation_type": "precedes",
+    "reason": "阿好主动提出为简底缝补衣物发生在缝补完成并确认后续需求之前，相关事件的时间顺序显示前者在场景19，后者在场景20，表明明确的叙事先后关系。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a8c32a371b6c",
+    "subject_id": "ep_78621e470220b159",
+    "object_id": "ep_adf861e10eee6256",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在场景19，涉及阿好在万发与简底之间传话及揭示耳疾；客体情节发生在场景20，描述阿好完成缝补并询问后续需求。根据相关事件所属的场景编号顺序（scene_19 → scene_20），主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f9c74d0458b5",
+    "subject_id": "ep_90b80f5487035ea2",
+    "object_id": "ep_78621e470220b159",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'阿好复述简的身世背景'发生在scene_18，而'阿好协调万发与简底的对话并揭示耳疾'发生在scene_19，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b87a000835e7",
+    "subject_id": "ep_fb30d463a3aa2cc4",
+    "object_id": "ep_3226bf98b55079ee",
+    "relation_type": "precedes",
+    "reason": "准备并上桌煎白带鱼是晚餐的最后准备步骤，随后万发将鱼块夹给阿狗并引发家庭对话，叙事顺序上前者紧接后者发生，且相关事件在同一个场景(scene_12__2)中按此顺序展开。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_55bec45ffb0e",
+    "subject_id": "ep_4c0bef063425f7cf",
+    "object_id": "ep_288a6b5161f2d6f3",
+    "relation_type": "precedes",
+    "reason": "阿好望窗推测简未归（ep_4c0bef063425f7cf）发生在文档doc_17，而发现邻居归来并确认其回家（ep_288a6b5161f2d6f3）发生在文档doc_18，文档顺序表明前者在叙事时间上早于后者，且事件发展逻辑为从推测未归到确认归来，构成清晰的时间先后关系。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9184d064c067",
+    "subject_id": "ep_deb86840fb731b09",
+    "object_id": "ep_bd289eb2e806bb4e",
+    "relation_type": "precedes",
+    "reason": "阿狗确认晚餐内容并抱怨饮食（煮粥）发生在 doc_3 的 scene_（四），而准备煮粥并确保家人分量足够的行为发生在 doc_6，文档编号更大，表明叙事时间顺序上前者早于后者。因此，'确认晚餐内容并抱怨饮食' 在话语顺序上先于 '准备煮粥并确保家人分量足够'。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_（四）_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cb500570fc1c",
+    "subject_id": "ep_3226bf98b55079ee",
+    "object_id": "ep_3a1c1a44c263c39d",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在家庭共进晚餐时，阿狗提及对面搬来新人并被阿好打断；第二个情节中，阿好因阿狗在谈话中插嘴并称新邻居为‘鬼’而训斥他。两个情节共享对新邻居的反应主题，且第二个情节明显是对第一个情节中阿狗行为的延续与纠正，叙事顺序上由doc_12到doc_17，支持ep_3226bf98b55079ee在前。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3",
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bbf07ea6ba56",
+    "subject_id": "ep_bd289eb2e806bb4e",
+    "object_id": "ep_f656127b9f30727f",
+    "relation_type": "precedes",
+    "reason": "主体情节描述阿狗准备米并计算分量以确保够煮七碗粥，属于煮粥前的准备阶段；客体情节描述阿狗在厨房实际烹煮稀饭，包括加番薯和照看至煮熟，属于煮粥的执行阶段。两个情节共享同一任务目标（完成煮粥），且准备米的步骤在时间顺序上明确早于实际烹煮过程，因此主体情节在叙事顺序上先于客体情节。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_86fb23854c15",
+    "subject_id": "ep_6585ffd8d286f31a",
+    "object_id": "ep_bd289eb2e806bb4e",
+    "relation_type": "precedes",
+    "reason": "准备煮粥并确保家人分量足够（ep_bd289eb2e806bb4e）在逻辑和叙事顺序上早于确认用餐安排并解决配菜问题（ep_6585ffd8d286f31a），因为必须先完成煮粥准备，才能进行后续的用餐决策。描述中的事件链条支持这一时间顺序：先量米煮粥，再讨论稀饭是否煮熟并决定开饭。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ce654d3594a0",
+    "subject_id": "ep_deb86840fb731b09",
+    "object_id": "ep_e50305f87e7b7b6a",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '确认晚餐内容并抱怨饮食' 描述阿狗因家庭经济困难只能吃粥而感到饥饿，体现出生活拮据；而情节 '简底与阿狗在市场享用餐食' 展示阿狗在简底照顾下享用丰盛食物、生活富足。两个情节通过阿狗在不同情境下的饮食状况形成鲜明对比，强调生活条件的差异，构成对比关系。",
+    "source_documents": [
+      "scene_（四）_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7fd702dee1e3",
+    "subject_id": "ep_2a026794e19a5410",
+    "object_id": "ep_e50305f87e7b7b6a",
+    "relation_type": "contrasts_with",
+    "reason": "情节'解释晚归并分享食物'描述阿好家庭共享有限食物（如花生米、咸白带鱼），阿狗抢食，反映出资源匮乏；而'简底与阿狗在市场享用餐食'显示简底带阿狗享用丰盛市场食物，生活富足。两个情节通过阿狗在不同情境下的饮食状态并置，突出生活条件与照顾质量的对比，形成社会经济状态和关爱程度的反差。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ae293eb8f666",
+    "subject_id": "ep_6585ffd8d286f31a",
+    "object_id": "ep_2a026794e19a5410",
+    "relation_type": "precedes",
+    "reason": "情节 '父子确认用餐安排并解决配菜问题' 发生在阿好带回食物之前，因为该情节涉及万发和阿狗在没有配菜的情况下决定开饭并用酱油替代，而下一情节中阿好解释晚归并带来花生米等配菜，构成叙事上的时间顺序。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7c9dd5f05a9d",
+    "subject_id": "ep_e50305f87e7b7b6a",
+    "object_id": "ep_eafe86dce1a98bb5",
+    "relation_type": "precedes",
+    "reason": "简底与阿狗在市场享用餐食发生在简底离开自食摊并开始购物之前，根据描述，用餐结束后简底才离开并开始浏览摊位，存在明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4762e2d66486",
+    "subject_id": "ep_f1879e120e2b22cb",
+    "object_id": "ep_3226bf98b55079ee",
+    "relation_type": "precedes",
+    "reason": "阿狗尝试分享邻居搬入的消息（ep_f1879e120e2b22cb）发生在万发让鱼并引发家庭对话（ep_3226bf98b55079ee）之前，因为前者在文档中被描述为阿狗兴奋地告知万发对面有人搬来，但被万发同时开口询问粥况所打断，而后者紧随其后展开家庭内部关于新人的讨论，表明前者在叙事顺序上直接先于后者。",
+    "source_documents": [
+      "scene_12__2_part_1",
+      "scene_12__2_part_2",
+      "scene_12__2_part_3",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_916e2e84eeec",
+    "subject_id": "ep_92e9b80bd4a2177b",
+    "object_id": "ep_eafe86dce1a98bb5",
+    "relation_type": "precedes",
+    "reason": "简底与阿好在市场小吃摊共进餐食并展现互动差异的情节发生在简底离开自食摊并开始购物之前，根据描述中的叙事顺序，用餐结束后简底才离开并开始浏览商品，因此该关系在时间顺序上明确支持。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e77cad29c56c",
+    "subject_id": "ep_eec15d856bc802df",
+    "object_id": "ep_5966d0ed9013bb51",
+    "relation_type": "precedes",
+    "reason": "阿好冒雨前往简底家发生在简底返回家中并发现房间被整理之前，因为阿好整理房间的行为必须在其到达之后完成，而简底的发现是在他回家后发生的，因此该关系在时间顺序上具有强支持。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1450ab647af5",
+    "subject_id": "ep_5966d0ed9013bb51",
+    "object_id": "ep_d1d42e3c94486cab",
+    "relation_type": "causes",
+    "reason": "简底发现房间被阿好整理得整齐（ep_5966d0ed9013bb51）直接引发他赠送衣物以表达感谢（ep_d1d42e3c94486cab），文本明确指出赠送行为是出于对阿好整理猪寮的感谢，构成直接因果关系。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_48b0cd06020b",
+    "subject_id": "ep_5966d0ed9013bb51",
+    "object_id": "ep_6d92d54fba984aee",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述简底返回家中并发现房间被整理，反映出他对阿好行为的意外与触动；第二个情节描述他因天气恶化冒雨赶回并表达感激。根据叙事逻辑，发现房间被整理应发生在表达感激之前，且后者提及对阿好帮忙的感谢，暗示此前已知其行为，因此前者在时间顺序上先于后者。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3a68ef0c0073",
+    "subject_id": "ep_67940dbb86d4bdaa",
+    "object_id": "ep_5966d0ed9013bb51",
+    "relation_type": "precedes",
+    "reason": "阿好主动提出帮忙整理屋子发生在简底返回家中并发现房间被整理得整齐之前，根据叙事逻辑和事件顺序，提议整理是导致后续房间被整理并被发现的前提，且两个情节分别位于文档19和21，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5f0e46a78f64",
+    "subject_id": "ep_eec15d856bc802df",
+    "object_id": "ep_f67e8a5fe2d294ab",
+    "relation_type": "precedes",
+    "reason": "阿好冒雨前往简底家发生在简底迟疑中呼唤阿好姊之前，因为只有在阿好到达后，简底才可能在她进屋后呼唤她。叙事逻辑和事件顺序支持这一时间先后关系。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7977291ff300",
+    "subject_id": "ep_18f6cd05c1176833",
+    "object_id": "ep_5966d0ed9013bb51",
+    "relation_type": "precedes",
+    "reason": "阿好主动提出为简底缝补衣物发生在简底返回家中并发现房间被整理之前。根据事件描述，阿好在简底说明需缝补衣物后立即提出帮助并前往协助，而简底返回家中发现房间整齐是后续情节，具有明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6aa1f1d3ea3f",
+    "subject_id": "ep_7656dfc5dfc1656e",
+    "object_id": "ep_5966d0ed9013bb51",
+    "relation_type": "precedes",
+    "reason": "阿好缝补简底背心的情节发生在简底返回家中发现房间被整理之前，依据文本中事件的时间顺序：缝补行为体现阿好对简底的关怀，这一行为在叙事上早于简底回家后察觉房间整洁并产生触动。因此，'阿好发现并缝补简底背心裂缝'在话语顺序和情节发展上先于'返回家中并检查屋内状况'。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_32cec9a7c0fa",
+    "subject_id": "ep_0092633c332ab120",
+    "object_id": "ep_de7c54f32709a3eb",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述简底因牙刷被注视而感到羞怯，第二个情节扩展了该互动的后续，包括阿好递还牙粉、擦拭盒子、自嘲缓解气氛，以及简底拘谨接受并多次道谢，表现出相似的羞怯与体谅情绪。第二个情节在相同社交尴尬背景下提供了更丰富的行为细节和情感回应，从而对第一个情节中的情绪状态和互动张力进行了深化和扩展。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_edd2fe10f15e",
+    "subject_id": "ep_92e9b80bd4a2177b",
+    "object_id": "ep_e50305f87e7b7b6a",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均发生在市场食摊，涉及简底与不同人物（阿好 vs 阿狗）共餐，但互动氛围和进食方式形成对比：阿好表现文雅、互动微妙，而阿狗吃得满足、生活富足，反映出简底与不同人物关系的差异。这种并置强调了人物互动和状态上的对比。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_aa7d51d0f0b3",
+    "subject_id": "ep_e50305f87e7b7b6a",
+    "object_id": "ep_ec403bd278cbf50a",
+    "relation_type": "elaborates",
+    "reason": "情节'简底与阿狗在市场享用餐食'描述了阿狗在市场吃饭的场景，而'饭局邀约与急事推辞'中简底提到阿狗已去市场吃饭，并以此为由提议与阿好共进餐食。后者通过提及前者的情节细节来提供上下文和动机，从而扩展了前者的叙事意义，因此构成elaborates关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_9a15516e7bc6",
+    "subject_id": "ep_51ddbc06f543614f",
+    "object_id": "ep_bdc6d637dcf7675e",
+    "relation_type": "precedes",
+    "reason": "阿好责备并照料简底的情节包含简底被提醒脱衣并前往卧室换衣的事件，发生在简底向阿好致谢之前。致谢行为明确是在‘完成所有帮助后’发生的，表明照料行为在叙事顺序上先于致谢。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f8db5582ba23",
+    "subject_id": "ep_6d92d54fba984aee",
+    "object_id": "ep_bdc6d637dcf7675e",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述简底冒雨赶回并因阿好处理家务而表达感激，包含多个相关事件；第二个情节聚焦于简底向阿好致谢的明确行为，且发生在帮助完成后。第二个情节可视为对第一个情节中‘表达感激’部分的进一步细化和情感深化，提供了该感激互动的完成态和结束标志，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5120af298e17",
+    "subject_id": "ep_4d90dea65ac93948",
+    "object_id": "ep_bdc6d637dcf7675e",
+    "relation_type": "precedes",
+    "reason": "简底说明生活困难并婉拒帮助发生在与阿好的互动早期，而简底向阿好致谢发生在所有帮助完成后，标志着互动的结束，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5b34e760e6e7",
+    "subject_id": "ep_d2ccd9ae2c00d59b",
+    "object_id": "ep_f67e8a5fe2d294ab",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'简底与万发初次会面并尝试交流' 中阿好离开取针线后，简底在互动过程中继续说话，而'简底迟疑中呼唤阿好姊'发生在阿好进屋之后，简底意识到她已离开才迟疑呼唤，表明该行为在叙事顺序上紧随前者之后，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_48de5d88b1b7",
+    "subject_id": "ep_7656dfc5dfc1656e",
+    "object_id": "ep_bdc6d637dcf7675e",
+    "relation_type": "precedes",
+    "reason": "阿好发现并缝补简底背心裂缝的情节在叙事顺序上先于简底向阿好致谢的情节，因为感谢行为发生在缝补完成后，作为互动的结束标志。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fb4ae876e6cf",
+    "subject_id": "ep_18f6cd05c1176833",
+    "object_id": "ep_bdc6d637dcf7675e",
+    "relation_type": "precedes",
+    "reason": "阿好主动提出为简底缝补衣物发生在简底向阿好致谢之前，根据事件描述顺序和相关场景编号（scene_19 在 scene_20 之前），表明前者在叙事时间上先于后者。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_837d3db6aafb",
+    "subject_id": "ep_9a72a5891ba59915",
+    "object_id": "ep_e2434d31549d84b5",
+    "relation_type": "precedes",
+    "reason": "万发进入厨房并被阿狗认出发生在阿狗向父亲报告母亲动向之前，因为父子相认后阿狗才开始向刚进屋的万发解释母亲的情况，叙事顺序明确。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e4ee99299780",
+    "subject_id": "ep_92e9b80bd4a2177b",
+    "object_id": "ep_76d4aa75783c2163",
+    "relation_type": "causes",
+    "reason": "简底与阿好在市场小吃摊共进餐食并展现亲密互动（主体）直接引起旁桌食客的好奇和张望（客体），描述中明确指出其互动的显著性导致周围注意，构成直接因果关系。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_68f31397441d",
+    "subject_id": "ep_9a72a5891ba59915",
+    "object_id": "ep_f1879e120e2b22cb",
+    "relation_type": "precedes",
+    "reason": "万发进入厨房并被阿狗认出发生在阿狗尝试分享邻居搬入的消息之前，因为父子相认是后续对话的前提，且两个情节共享同一场景（scene_12），叙事顺序上前者先发生。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_93eaa95fd734",
+    "subject_id": "ep_7c70b02fbc11e535",
+    "object_id": "ep_bdc6d637dcf7675e",
+    "relation_type": "precedes",
+    "reason": "情节 '唤醒与调侃：重逢的嬉闹' 描述了阿好与简底互动的开端，通过玩笑和调侃建立轻松氛围，而 '简底向阿好致谢' 则明确发生在所有帮助完成后，标志着互动的结束。因此，前者在叙事顺序上明显早于后者，构成直接的先后关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8ea1affc7aad",
+    "subject_id": "ep_0f823e64f81a2b37",
+    "object_id": "ep_bdc6d637dcf7675e",
+    "relation_type": "precedes",
+    "reason": "情节 '揭示真实心意与赞美' 发生在简底与阿好互动的中间阶段，涉及对话的深化和情感表达；而 '简底向阿好致谢' 明确发生在所有帮助行为结束后，标志着互动的终结。因此，前者在叙事顺序上早于后者，构成 directed 的 'precedes' 关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a14d694ec139",
+    "subject_id": "ep_2bb74f05b2f65a9d",
+    "object_id": "ep_b277e1f86a4e4448",
+    "relation_type": "precedes",
+    "reason": "阿好转达赠衣意图并促成接受发生在万发检查衣物并礼貌推辞之前，因为转达意图是接收方做出反应的前提，且两个情节共享同一场景（scene_23），叙事顺序上逻辑连贯。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9cbbfaf525bf",
+    "subject_id": "ep_1d83106196ea8fa1",
+    "object_id": "ep_ab8fd6b707f43562",
+    "relation_type": "elaborates",
+    "reason": "阿好由羡慕转为失落认出万发这一情节，通过她的主观情绪变化和认知转变，进一步扩展和深化了展嫁妆队伍游行展示聘礼盛况这一客观场景的意义，揭示了仪式表象下的个人孤独与社会落差，提供了对同一场合的内在心理层面的补充描述。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b751e0d44339",
+    "subject_id": "ep_67ef2a1e437cb94e",
+    "object_id": "ep_f67e8a5fe2d294ab",
+    "relation_type": "precedes",
+    "reason": "阿好与简底交流籍贯并调整沟通方式发生在简底迟疑中呼唤阿好姊之前，根据场景15中的事件顺序，阿好先进屋并进行交流互动，随后简底才在迟疑中呼唤，因此存在明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d8588c848bda",
+    "subject_id": "ep_6f6596bae2305e88",
+    "object_id": "ep_f67e8a5fe2d294ab",
+    "relation_type": "precedes",
+    "reason": "阿好进入屋内取牙粉发生在简底呼唤阿好姊之前，根据描述顺序和事件逻辑，前者为后者的前提，且两者共享同一场景（scene_15），表明明确的叙事时序先后。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4e172b4e47f6",
+    "subject_id": "ep_775209664200c389",
+    "object_id": "ep_f67e8a5fe2d294ab",
+    "relation_type": "precedes",
+    "reason": "阿好提议称呼方式并展现女性化姿态发生在简底迟疑中呼唤阿好姊之前，两者均在scene_15中按顺序展开，前者为提议行为，后者为对未被听见的称呼的迟疑回应，具有明确的叙事时序先后。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_95c65f22fd94",
+    "subject_id": "ep_78621e470220b159",
+    "object_id": "ep_bdc6d637dcf7675e",
+    "relation_type": "precedes",
+    "reason": "主体情节'阿好协调万发与简底的对话并揭示耳疾'发生在场景19，涉及阿好在万发与简底之间传递信息并揭示万发耳疾的多个事件；客体情节'简底向阿好致谢'发生在场景20，是后续互动的结束标志。根据文档顺序和场景编号，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_19_part_2",
+      "scene_19_part_3",
+      "scene_19_part_4",
+      "scene_20_part_1",
+      "scene_20_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fd64173437c6",
+    "subject_id": "ep_e1b7abf5fd4aa3a3",
+    "object_id": "ep_f8b3553749c60feb",
+    "relation_type": "causes",
+    "reason": "阿狗提及姓简的人身体很臭引发阿好的强烈反应，这一互动可能激化了万发的嫉妒情绪，导致他随后抱怨阿好反复提及姓简的；文本显示该事件序列在同场景中紧密衔接，且万发的烦躁与阿好对姓简的关注直接相关，构成情节间的直接触发关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_9ee1b6c44ba2",
+    "subject_id": "ep_31a95e55046bb682",
+    "object_id": "ep_c80f1bfb07b0ccdc",
+    "relation_type": "elaborates",
+    "reason": "两个情节共享相同的场合'村庄食堂傍晚纳凉聚会 (scene_10)'，主体情节'村民在树下聚会娱乐'描述了该场合下的具体娱乐活动，而客体情节'村庄傍晚纳凉与食堂准备营业'描述了同一时间段内食堂的准备工作。主体情节通过展示村民的社交互动，进一步扩展和丰富了客体情节所设定的傍晚纳凉聚会背景，因此构成对客体情节的细节补充。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_10_part_2"
+    ],
+    "confidence": 0.75
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "character": "Eve",
+  "qas": [
+    {
+      "question": "Did you make physical contact with the person you approached after the crash?",
+      "supporting_facts": [
+        "Eve approached someone after the crash",
+        "Eve pushed someone's hands away"
+      ],
+      "contradicting_facts": [
+        "You avoided all physical contact with the person you approached",
+        "You did not touch the other person at any point"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You became agitated while using the microwave—what about that situation affects you this way?",
+      "supporting_facts": [
+        "Eve becomes agitated while using the microwave",
+        "The agitation occurs specifically during microwave use"
+      ],
+      "contradicting_facts": [
+        "Your agitation is unrelated to appliance use",
+        "You remain calm when using kitchen appliances"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Do you have a device that can record and store incoming voice messages?",
+      "supporting_facts": [
+        "You own an answering machine",
+        "The answering machine is a functional device capable of handling voice messages"
+      ],
+      "contradicting_facts": [
+        "You do not possess any device capable of recording incoming calls",
+        "You rely solely on personal attendance for receiving messages"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do when you were grabbed by CHEV?",
+      "supporting_facts": [
+        "You were taken toward the elevator shaft by CHEV",
+        "You attempted to pry the person's hand from under your arm"
+      ],
+      "contradicting_facts": [
+        "You went willingly with CHEV without resistance",
+        "You used your free hand to attack CHEV's face"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "How were you feeling during the encounter with CHEV?",
+      "supporting_facts": [
+        "You were overwhelmed",
+        "You pushed away in response to physical contact"
+      ],
+      "contradicting_facts": [
+        "You remained calm and in control",
+        "You initiated physical contact confidently"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

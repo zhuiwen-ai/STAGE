@@ -1,0 +1,3774 @@
+[
+  {
+    "id": "rel_ep_ep_2ba8bca78464",
+    "subject_id": "ep_eb2517ada43a851a",
+    "object_id": "ep_206e829dc76e6590",
+    "relation_type": "precedes",
+    "reason": "完成结业点名并准备合影在叙事顺序上早于执行结业合影拍摄，因为点名和设备准备是为集体拍照创造条件的前置步骤，描述中明确指出其目标是为接下来的集体拍照做准备。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4b60ee71ae4f",
+    "subject_id": "ep_e5df11c0c328b04d",
+    "object_id": "ep_79b51ced2544ed79",
+    "relation_type": "precedes",
+    "reason": "应对妻子对来电的质询发生在严守一成功转移话题并离开住所之前，叙事上前者是后者发生的前提，且两个情节共享同一场景（scene_13）的时间上下文，支持明确的时间先后顺序。",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c8023f6f1cb5",
+    "subject_id": "ep_9219fd13f6f08cf0",
+    "object_id": "ep_b931214800159011",
+    "relation_type": "precedes",
+    "reason": "严守一回家并报告工作进展发生在其准备服药休息之前，描述中显示他先向于文娟说明情况，随后走向内室脱衣服药，具有明确的时序先后。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7e44a8c1e9ce",
+    "subject_id": "ep_177da769b61e3d1e",
+    "object_id": "ep_43b4843a58e5f7ee",
+    "relation_type": "precedes",
+    "reason": "根据描述，'回应路之信来电并讨论手机使用' 发生在对话过程中，而 '赠送香烟以示友好' 明确发生在对话结束后，因此前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_40805795bd78",
+    "subject_id": "ep_6d86cdba7f4ec94b",
+    "object_id": "ep_594a836b52813088",
+    "relation_type": "precedes",
+    "reason": "根据描述，'准备就寝与亲密互动'发生在深夜来电之前，因为严守一和于文娟开始准备休息并互动，随后手机才响起，触发后续的信任危机事件。两个情节均发生在scene_30，但事件序列显示就寝准备先于电话事件。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a93a58034705",
+    "subject_id": "ep_6d86cdba7f4ec94b",
+    "object_id": "ep_8114b898d3b35428",
+    "relation_type": "precedes",
+    "reason": "根据描述，严守一和于文娟先进行准备就寝与亲密互动，随后于文娟才察觉严守一身上有异样气味并引发对峙，两个情节发生在同一场景（scene_30）中，且叙事顺序明确，前者在时间上直接早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_405a0099b670",
+    "subject_id": "ep_594a836b52813088",
+    "object_id": "ep_d1bf69a526a3b16a",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_30，但根据描述顺序和事件流，'深夜来电引发信任危机'中的事件（手机响起、接电话、质询）在时间上先于'中断亲热寻找纪录片'中严守一推开妻子并寻找资料的行为，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1f7d25837070",
+    "subject_id": "ep_e5df11c0c328b04d",
+    "object_id": "ep_fbba807a8f4dd32a",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节分别描绘了严守一在面对妻子时的掩饰行为与在婚外关系中主动投入的亲密互动，形成家庭责任与婚外情感之间的张力对比。前者强调隐瞒和防御，后者展现情感释放和主动转向，二者在行为基调和关系状态上构成明显逆转，支持对比关系。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3cb1dba2a79f",
+    "subject_id": "ep_8ee1fee57cc67255",
+    "object_id": "ep_98c93f6b0c82efce",
+    "relation_type": "precedes",
+    "reason": "砖头哥向费墨敬酒引发僵局后，因拒酒导致面子压力，进而引发沈雪被迫连续饮酒以维护面子。事件序列显示前者在叙事顺序上直接早于后者，且共享同一场合和紧张氛围的延续。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b50858d25cf9",
+    "subject_id": "ep_6d86cdba7f4ec94b",
+    "object_id": "ep_6e05bff22b23dccd",
+    "relation_type": "precedes",
+    "reason": "准备就寝与亲密互动发生在发现暧昧短信直面背叛之前，因为于文娟是在两人准备休息过程中查看手机并发现短信，情节在时间顺序上紧密衔接，且文档场景编号相同（scene_30），表明叙事顺序为先日常互动后冲突爆发。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_59790237d926",
+    "subject_id": "ep_6db7f1de6341e805",
+    "object_id": "ep_ab5a3aec03ae9c97",
+    "relation_type": "precedes",
+    "reason": "主体情节'离婚后的情感余波与新关系确立'发生在台词短训班结业时，严守一表达想娶沈雪，而客体情节'讨论向家人介绍关系的方式'发生在后续通话中，涉及对沈雪身份的进一步讨论，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_667678c4952c",
+    "subject_id": "ep_ab8ddb466f80a201",
+    "object_id": "ep_275b403e70ad1da3",
+    "relation_type": "precedes",
+    "reason": "沈雪质问并处置严守一使用手机（夺过手机并扔进垃圾桶）在叙事顺序上先于严守一要求归还手机引发对峙升级（要求捡回手机，沈雪拍笔离场）。两个情节均发生在同一场合'scene_16'，且事件链条显示处置手机行为直接引发后续对峙升级，时间顺序明确。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8449ef6966fe",
+    "subject_id": "ep_9ca24cbb142efa69",
+    "object_id": "ep_a5b9cb25fc74519e",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间戳（scene_40. 15）和叙事逻辑，'以拐杖责备传递失望'中奶奶用拐杖戳严守一胸口、重重放下拐杖等动作发生在严守一沉默点头之前，该沉默点头是'表达对文娟的坚持与接纳'情节的触发点。因此，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_40. 15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0cff2506605e",
+    "subject_id": "ep_ab8ddb466f80a201",
+    "object_id": "ep_c5ab23b367c526bd",
+    "relation_type": "causes",
+    "reason": "沈雪质问并处置严守一使用手机的行为直接导致其他学员陆续离场，最终使严守一被孤立在空教室中。文本中明确描述了沈雪离场后学员跟随离开，且有人提醒严守一玩笑过度，表明其行为后果由前一情节直接引发。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_42e559f481df",
+    "subject_id": "ep_275b403e70ad1da3",
+    "object_id": "ep_c5ab23b367c526bd",
+    "relation_type": "causes",
+    "reason": "严守一要求归还手机引发对峙升级，直接导致沈雪离场，进而引发其他学员陆续离开，最终使严守一被孤立。文本明确描述了这一系列行为的因果链条：师生冲突达到顶点后，教学活动彻底中断，随后学员离场并留下严守一独自一人。因此，第一个情节直接触发了第二个情节的发生。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a014e9128f31",
+    "subject_id": "ep_70610dc74de972db",
+    "object_id": "ep_265c4d0682beb119",
+    "relation_type": "precedes",
+    "reason": "‘确认通话接通并传递电话’描述了电话接通、众人反应及电话被交给严守一的过程，这是‘交接通话并传达寻人请求’的前提；严守一必须先接到电话才能进行后续的喊话和寻人请求。叙事顺序和事件依赖关系表明前者紧接在后者之前发生。",
+    "source_documents": [
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_456f3230b7e1",
+    "subject_id": "ep_6a3908c49ca7a44b",
+    "object_id": "ep_956b80eb41ced173",
+    "relation_type": "precedes",
+    "reason": "严守一先删除武月的信息以消除痕迹，随后接听武月来电并进行掩饰，两个情节在叙事顺序上呈现明确的时间先后关系，删除信息的行为发生在应对来电之前，构成逻辑上的前置步骤。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3d0ebe05f2fd",
+    "subject_id": "ep_7dd9a19b9781f610",
+    "object_id": "ep_8e674072e4c1b783",
+    "relation_type": "precedes",
+    "reason": "严守一整顿会议纪律并重启讨论发生在费墨提出以手机为主题的新节目构想之前，二者均发生在同一策划会场景中，且整顿纪律后会议秩序恢复，才使费墨能提出新节目构想，叙事顺序明确。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_634a929e7fda",
+    "subject_id": "ep_6a3908c49ca7a44b",
+    "object_id": "ep_e5df11c0c328b04d",
+    "relation_type": "precedes",
+    "reason": "删除敏感信息以消除痕迹发生在严守一回家前的停车期间，而应对妻子对来电的质询发生在回家后，根据事件时序逻辑，删除信息的行为在叙事顺序上早于应对质询，构成时间上的先后关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_682d53c46c9e",
+    "subject_id": "ep_ca94c6fced1aaad9",
+    "object_id": "ep_d7c3ff3aed3cefa1",
+    "relation_type": "elaborates",
+    "reason": "第一个情节围绕宋朝语言正统性的争论展开，涉及李师师的语言背景；第二个情节中，沈雪和费墨确认吴侬软语即吴语，进一步澄清了前一情节中提到的语言概念，提供了术语上的解释和扩展。因此，第二个情节对第一个情节中的语言讨论进行了细化和补充。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e36533375041",
+    "subject_id": "ep_d0c85c9aad214a85",
+    "object_id": "ep_e594b232898964e5",
+    "relation_type": "precedes",
+    "reason": "主体情节'准备出发并启程前往镇里'描述了清理自行车、调整姿势、坐上后座及开始骑行的动作，这些构成出发前的准备；客体情节'骑行前往镇里'描述的是稳定行进状态，承接前序动作。文本中明确将后者描述为'独立但承接前序准备动作'，表明时间上的先后顺序，因此主体在叙事顺序上早于客体。",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e1b6eed85439",
+    "subject_id": "ep_e7a43abed60e6e71",
+    "object_id": "ep_6db7f1de6341e805",
+    "relation_type": "precedes",
+    "reason": "命令脱衣揭露身体证据这一情节发生在离婚后的情感余波与新关系确立之前。根据描述，于文娟在确认背叛后选择退离，直接导致严守一与于文娟离婚的结果，而离婚后的情感余波及与沈雪关系的变化发生在半年后，具有明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_26f43c42180c",
+    "subject_id": "ep_e80988cde1556c89",
+    "object_id": "ep_5b92cb0fe896d4b4",
+    "relation_type": "precedes",
+    "reason": "轿车抵达并下车是女生们到达现场的初始场景，标志着活动的开始；随后她们发现大门被锁并提议翻墙。根据描述的时间顺序和事件流，'轿车抵达并下车'在叙事顺序上早于'发现大门被锁并提议翻墙'。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c243c4bc0db9",
+    "subject_id": "ep_60099dfc4f0ba9d5",
+    "object_id": "ep_cc61e331192099cd",
+    "relation_type": "precedes",
+    "reason": "劝酒成功后众人发笑发生在沈雪喝完酒后的即时反应，而劝酒后提醒吃菜缓解不适是在饮酒行为结束后进一步的后续动作，文本中事件顺序明确：先有劝酒成功发笑，再有提醒吃菜，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7f6b1ea3388d",
+    "subject_id": "ep_a059e53e8299bd88",
+    "object_id": "ep_c0dae732828a4adf",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节发生在同一场景（scene_45.17），但分别聚焦于不同的情感动态：一个通过幽默和共鸣化解紧张并共同大笑，另一个展现亲密试探与情绪推拉中的张力。两者在情感基调上形成对比——前者是释放与和解，后者是压抑与角力，文本通过并置强化这种情绪状态的逆转。",
+    "source_documents": [
+      "scene_45. 17_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_cfebfbf4b29d",
+    "subject_id": "ep_d0c85c9aad214a85",
+    "object_id": "ep_faf83a5193b4ec72",
+    "relation_type": "precedes",
+    "reason": "主体情节描述严守一和吕桂花启程前往镇里，客体情节描述他们推车前往邮局，邮局行程发生在抵达镇里之后。根据叙事顺序，启程前往镇里在先，随后进入镇内前往邮局，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8910baaf17c3",
+    "subject_id": "ep_03f1eb0614c475da",
+    "object_id": "ep_ae87c957c8ecfba0",
+    "relation_type": "elaborates",
+    "reason": "‘女生在光照下苏醒’描述了女生被光照后爬起并揉眼睛的初始反应，而‘确认女生状况并询问情况’在此基础上扩展了后续互动，包括沈雪的询问和女生解释自己因病滞留及对他人行踪不知情。后者通过提供额外对话和背景信息，进一步详述了前一情节中引发的情境，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c58a601f53d0",
+    "subject_id": "ep_6d86cdba7f4ec94b",
+    "object_id": "ep_d1bf69a526a3b16a",
+    "relation_type": "precedes",
+    "reason": "根据描述，严守一和于文娟先进行准备就寝与亲密互动，随后在亲热被中断后，严守一想起未完成的任务并开始寻找纪录片资料。两个情节发生在同一场景（scene_30）中，且第二个情节以‘突然打断’为转折，明确表明时间上的先后顺序。因此，‘准备就寝与亲密互动’在叙事顺序上早于‘中断亲热寻找纪录片’。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_793a0ef351cb",
+    "subject_id": "ep_594a836b52813088",
+    "object_id": "ep_8114b898d3b35428",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'深夜来电引发信任危机' 包含于文娟接电话并质询严守一的行为，而 '察觉异样气味引发对峙' 描述的是她随后指出严守一身上有异样气味，两者发生在同一场景（scene_30），且逻辑上电话事件先发生，气味质疑紧随其后，构成明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a3c5b436300b",
+    "subject_id": "ep_6e05bff22b23dccd",
+    "object_id": "ep_d1bf69a526a3b16a",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在 scene_30，但'发现暧昧短信直面背叛'中于文娟质问严守一并引发冲突，该冲突未解决即转入'中断亲热寻找纪录片'，严守一推开妻子并转向任务，叙事顺序上前者紧接后者，且情绪脉络连续，支持前者在话语顺序上先于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0260c8717bf1",
+    "subject_id": "ep_434b31000ef6cbd0",
+    "object_id": "ep_70610dc74de972db",
+    "relation_type": "precedes",
+    "reason": "主体情节描述严守一请求并开始尝试接通三矿电话，包括支付费用和老头启动拨号过程；客体情节描述电话意外接通后，老头将电话交给严守一。两个情节共享同一场景（scene_6），且描述的事件在时间上连续：拨号尝试先于接通和电话交接。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7b277af58f2f",
+    "subject_id": "ep_2e2fbf67904c231e",
+    "object_id": "ep_3793cacf63975f83",
+    "relation_type": "precedes",
+    "reason": "根据描述，严守一先启动手机并拨打电话联系武月，随后在通话中接受她的建议并结束通话。这两个情节发生在同一场景（scene_26）中，且叙事顺序明确：建立联系发生在采纳建议和结束通话之前。因此，'启动手机并拨打电话联系武月'在叙事顺序上早于'接受建议并结束通话'，符合'precedes'关系。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_80d3e9bd3da0",
+    "subject_id": "ep_4c35b9f364177a2d",
+    "object_id": "ep_a059e53e8299bd88",
+    "relation_type": "precedes",
+    "reason": "主体情节'转移话题至书籍合作提议'中，武月提出为费墨的书写序并调侃严守一，直接引出客体情节'共同创造书名玩笑并化解紧张'，其中严守一反建议书名并引发共笑。相关事件序列显示前者在叙事顺序上明确早于后者，且为后者的发生提供语境铺垫。",
+    "source_documents": [
+      "scene_45. 17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0bf0069623a4",
+    "subject_id": "ep_64ced96b084045cc",
+    "object_id": "ep_a5b9cb25fc74519e",
+    "relation_type": "precedes",
+    "reason": "‘揭开戒指背后的托付’以奶奶发现戒指并质问严守一为起点，随后严守一沉默点头，触发‘表达对文娟的坚持与接纳’中奶奶情绪转变并强调文娟的地位。两个情节发生在同一场景（scene_40.15），但事件序列显示前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_40. 15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dfbf9bb7af3e",
+    "subject_id": "ep_3793cacf63975f83",
+    "object_id": "ep_6a3908c49ca7a44b",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，严守一在通话结束后才停车并删除武月的信息。'严守一接受建议并结束通话'（scene_26）发生在'严守一删除武月的信息'（scene_27）之前，因此该情节在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_80eb4d1844d2",
+    "subject_id": "ep_d072d323f9b20c39",
+    "object_id": "ep_c60df1df4194b9b1",
+    "relation_type": "precedes",
+    "reason": "吕桂花送饭并离开（ep_d072d323f9b20c39）在叙事顺序上先于严守一开始吃面（ep_c60df1df4194b9b1），因为严守一是在吕桂花离开后才开始吃面，且相关事件序列显示递面、询问、擦拭米饭团后离开，随后开始吃面。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4c1dcf47d804",
+    "subject_id": "ep_8114b898d3b35428",
+    "object_id": "ep_d1bf69a526a3b16a",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'察觉异样气味引发对峙'发生在严守一和于文娟互动的紧张升级阶段，而'中断亲热寻找纪录片'始于亲热被突然打断后严守一想起未完成的任务。两个情节共享scene_30的事件，且'察觉异样气味'作为冲突起点，逻辑上早于'中断亲热'后的任务寻找行为，因此在叙事顺序上前者先于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8561429afc7d",
+    "subject_id": "ep_c0dae732828a4adf",
+    "object_id": "ep_4c35b9f364177a2d",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'处理亲密互动与情绪张力'中的行为（如争执、亲昵互动）发生在洗手间场景的前半部分，而'转移话题至书籍合作提议'涉及武月说明来意并转向正式事务，标志着对话从私人情绪转向公共事务，该转变在叙事顺序上紧随前者之后。因此，'处理亲密互动与情绪张力'在话语顺序上先于'转移话题至书籍合作提议'。",
+    "source_documents": [
+      "scene_45. 17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_82df5dc28e06",
+    "subject_id": "ep_1ba51a404e17de74",
+    "object_id": "ep_1cbd81ca7d18139d",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，严守一和沈雪在深夜值班期间因照片问题发生言语冲突（ep_1ba51a404e17de74）后，紧接着严守一关闭灯光并提醒沈雪低声说话，共同观察窗外学生动态（ep_1cbd81ca7d18139d），两个情节发生在同一场景（scene_48）内，且冲突事件在叙述顺序上先于突袭观察行动。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5b545a10b355",
+    "subject_id": "ep_295176d0b69803d1",
+    "object_id": "ep_6a3908c49ca7a44b",
+    "relation_type": "precedes",
+    "reason": "情节 '阻止中止亲密行为并强化控制' 发生在车内亲密互动场景中，涉及武月拔出车钥匙以阻止离开（scene_18）；而 '删除敏感信息以消除痕迹' 发生在停车后，严守一删除武月的信息（scene_27）。根据相关事件的场景编号和描述顺序，前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d2f9a7a8a0b0",
+    "subject_id": "ep_faf83a5193b4ec72",
+    "object_id": "ep_d072d323f9b20c39",
+    "relation_type": "precedes",
+    "reason": "根据描述，'前往邮局'发生在严守一和吕桂花到达邮局前的行进过程中，而'吕桂花送饭并离开'发生在邮局门口，包含递面条、擦拭米饭团等事件。related_events中显示送饭行为发生在scene_5，而前往邮局的行为发生在scene_3，scene_3在scene_5之前，因此'前往邮局'在叙事顺序上早于'吕桂花送饭并离开'。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d2b14d01fc26",
+    "subject_id": "ep_265c4d0682beb119",
+    "object_id": "ep_7f532ec915179b43",
+    "relation_type": "precedes",
+    "reason": "主体情节描述严守一在电话中传达寻人请求，客体情节描述广播员处理该请求时的反应，包括挂断电话并准备广播。根据叙事顺序，严守一发起通话并表达请求（主体）在时间上先于广播员接听、不耐烦并挂断电话（客体），且两者的相关事件在连续场景（scene_6 到 scene_7）中呈现，支持明确的先后顺序。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3746bc43c6dc",
+    "subject_id": "ep_e594b232898964e5",
+    "object_id": "ep_faf83a5193b4ec72",
+    "relation_type": "precedes",
+    "reason": "主体情节'骑行前往镇里'描述严守一载着吕桂花沿山路骑行，向镇里前进，是前往目的地的初始行进阶段；客体情节'前往邮局'发生在镇内环境中，描述两人推车穿行于行人增多的区域，表明已进入镇中心。根据空间和情境的递进，'骑行前往镇里'在叙事顺序上早于'前往邮局'，构成向具体地点（邮局）移动的前序阶段。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8fd8fc989d72",
+    "subject_id": "ep_594a836b52813088",
+    "object_id": "ep_6e05bff22b23dccd",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'深夜来电引发信任危机' 中的事件（如于文娟代接电话、挂断后质询）发生在严守一手机响起后的第一时间，而 '发现暧昧短信直面背叛' 紧随其后，涉及于文娟查看短信内容并展示给严守一，逻辑和叙事顺序上明显后置。两个情节均发生在同一场景（scene_30），但事件序列显示来电处理先于短信发现，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0786cdf5fc0c",
+    "subject_id": "ep_8114b898d3b35428",
+    "object_id": "ep_6e05bff22b23dccd",
+    "relation_type": "precedes",
+    "reason": "‘察觉异样气味引发对峙’中，于文娟指出严守一身上有异样气味，严守一否认并反问，气氛开始紧张，为后续冲突埋下伏笔；紧接着在‘发现暧昧短信直面背叛’中，于文娟查看短信并直接 confront 严守一，冲突达到高潮。两个情节均发生在 scene_30，但前者为后者铺垫，叙事顺序上前者早于后者，且文本明确将前者描述为‘埋下伏笔’，支持 precedes 关系。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d90fa25f21f6",
+    "subject_id": "ep_8160acb9c43ef2b5",
+    "object_id": "ep_1a721742aa9db15e",
+    "relation_type": "precedes",
+    "reason": "根据描述，'展开对奶奶的关怀与奉承' 发生在房间内招呼吃饭、安慰奶奶等互动场景中，而 '搀扶奶奶前往用餐' 是在决定吃饭后从炕上起身并走向屋外的行动。related_events 显示两者均发生在 scene_35，但逻辑顺序上，先有室内互动（关怀与奉承），随后才起身搀扶奶奶外出用餐，因此该关系在叙事顺序上支持 'ep_8160acb9c43ef2b5' 先于 'ep_1a721742aa9db15e'。",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_67e3f5f26c59",
+    "subject_id": "ep_64ced96b084045cc",
+    "object_id": "ep_9ca24cbb142efa69",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'揭开戒指背后的托付'以奶奶发现戒指并质问严守一为起点，通过对话建立叙事张力；而'以拐杖责备传递失望'发生在情感宣泄之后，通过身体动作和沉默完成情感表达。两个情节共享同一场景编号(scene_40. 15)，且逻辑顺序上，质问（对话）在先，责备（身体动作与沉默）在后，构成清晰的叙事时序。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_40. 15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_de1b38b98071",
+    "subject_id": "ep_295176d0b69803d1",
+    "object_id": "ep_a059e53e8299bd88",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节涉及紧张的亲密行为控制，基调压抑且充满权力张力；第二个情节通过共同玩笑和大笑化解紧张，基调轻松幽默。两个情节在情感氛围和互动性质上形成明显对比，文本支持从紧张到缓和的情绪逆转。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_45. 17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_52f9f3525e4b",
+    "subject_id": "ep_295176d0b69803d1",
+    "object_id": "ep_fbba807a8f4dd32a",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间和场景顺序，'阻止中止亲密行为并强化控制'（scene_18）发生在'应对家庭来电并维持亲密关系'（scene_19）之前，两个情节分别关联到连续的场景编号，表明明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d2b89e08e6fb",
+    "subject_id": "ep_9219fd13f6f08cf0",
+    "object_id": "ep_79b51ced2544ed79",
+    "relation_type": "precedes",
+    "reason": "严守一回家并报告工作进展发生在其结束对话并离开住所之前，根据叙事逻辑和家庭互动的自然流程，回家并沟通是后续离开的前提，且两个情节共享同一人物和场景上下文，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d26d3d1d6045",
+    "subject_id": "ep_8114b898d3b35428",
+    "object_id": "ep_79b51ced2544ed79",
+    "relation_type": "precedes",
+    "reason": "‘察觉异样气味引发对峙’发生在‘结束对话并离开住所’之前，因为对峙升级后严守一通过转移话题并离开来终结互动，表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_61fe744aa006",
+    "subject_id": "ep_3793cacf63975f83",
+    "object_id": "ep_e5df11c0c328b04d",
+    "relation_type": "precedes",
+    "reason": "情节 '接受建议并结束通话' 发生在严守一与武月通话期间，而 '应对妻子对来电的质询' 发生在他回家后发现来电并面对妻子的询问时。根据叙事顺序，通话结束之后才涉及回家后对来电的掩饰行为，因此前者在时间上先于后者。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8f64f763fc6a",
+    "subject_id": "ep_e5df11c0c328b04d",
+    "object_id": "ep_6e05bff22b23dccd",
+    "relation_type": "precedes",
+    "reason": "情节'应对妻子对来电的质询'发生在严守一回家后发现武月来电并编造借口，而'发现暧昧短信直面背叛'是后续冲突升级的高潮事件。根据叙事逻辑和事件发展顺序，掩饰通话行为在前，妻子发现短信并直面背叛在后，存在明确的时间先后顺序。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_754faca97885",
+    "subject_id": "ep_6d86cdba7f4ec94b",
+    "object_id": "ep_79b51ced2544ed79",
+    "relation_type": "precedes",
+    "reason": "情节 '准备就寝与亲密互动' 发生在卧室中，严守一和于文娟进行睡前互动，而 '结束对话并离开住所' 描述严守一离开房间，于文娟目送其离去。根据叙事顺序，准备就寝发生在离开住所之前，且两个情节共享同一人物和家庭场景，构成连续的行为序列。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1c70d8d730df",
+    "subject_id": "ep_594a836b52813088",
+    "object_id": "ep_79b51ced2544ed79",
+    "relation_type": "precedes",
+    "reason": "根据描述，'深夜来电引发信任危机' 发生在严守一与于文娟的紧张互动中，而 '结束对话并离开住所' 标志着该次家庭互动的终结。事件序列显示前者在叙事顺序上先于后者，且两者均涉及同一对人物和逐步升级的疏离过程，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c2da292d84ca",
+    "subject_id": "ep_e5df11c0c328b04d",
+    "object_id": "ep_e7a43abed60e6e71",
+    "relation_type": "precedes",
+    "reason": "情节'应对妻子对来电的质询'发生在严守一隐瞒武月来电的初期阶段，而'命令脱衣揭露身体证据'则是于文娟进一步追查并最终确认背叛的后续高潮事件。根据叙事逻辑和事件发展顺序，掩饰来电行为在时间上和情节推进上早于身体证据的揭露，且两者共享婚姻危机这一上下文，但前者为后者提供了累积张力的基础。因此，该关系符合'precedes'的定义。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ca2dfd462a09",
+    "subject_id": "ep_79b51ced2544ed79",
+    "object_id": "ep_6db7f1de6341e805",
+    "relation_type": "precedes",
+    "reason": "情节 '结束对话并离开住所' 发生在严守一与于文娟的互动场景中（scene_13），而 '离婚后的情感余波与新关系确立' 涉及离婚后的状态及半年后在台词短训班结业时的情感转移（scene_30），文本明确支持前者在时间顺序上早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3ac3b1b5279b",
+    "subject_id": "ep_6e05bff22b23dccd",
+    "object_id": "ep_79b51ced2544ed79",
+    "relation_type": "precedes",
+    "reason": "情节 '发现暧昧短信直面背叛' 描述了于文娟发现短信后与严守一的对峙，冲突达到高潮，而 '结束对话并离开住所' 描述了严守一随后离开房间、互动终结的场景。根据叙事顺序，对峙事件在前，离开行为在后，且后者标志着互动的结束，因此该关系在时间顺序上明确支持 'precedes'。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6817579d5c25",
+    "subject_id": "ep_b698d35ebeb811bf",
+    "object_id": "ep_de37a71ac33dae63",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均发生在会议场合中，涉及手机干扰和应对方式，但处理方式形成对比：在第一个情节中，严守一因私人电话紧急介入并警告武月，体现私事优先；而在第二个情节中，严守一主动维持会议秩序，催促记录员返回并安排恢复工作，体现公务优先。这种并置突显了在相似干扰情境下行为反应的差异，构成行为与态度上的对比。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_c63ebf01d188",
+    "subject_id": "ep_b698d35ebeb811bf",
+    "object_id": "ep_7dd9a19b9781f610",
+    "relation_type": "precedes",
+    "reason": "根据相关场合的时间顺序，'应对会议中的电话干扰'发生在策划会 scene_42，而'严守一整顿会议纪律并重启讨论'发生在策划会 scene_44，scene_42早于scene_44，因此该情节在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8de9642d6d20",
+    "subject_id": "ep_1ba51a404e17de74",
+    "object_id": "ep_eb2517ada43a851a",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节分别展现了严守一和沈雪之间紧张冲突与轻松亲昵的互动状态，前者涉及隐私侵犯和言语摩擦，后者发生在结业仪式准备中并包含轻打头部等亲昵行为，形成情感基调上的明显对比，支持对比关系。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_9247d8bdf1af",
+    "subject_id": "ep_b698d35ebeb811bf",
+    "object_id": "ep_8e674072e4c1b783",
+    "relation_type": "precedes",
+    "reason": "应对会议中的电话干扰（scene_42）发生在费墨提出以手机为主题的新节目构想（scene_44）之前，且两个情节均发生在策划会中，但scene_42早于scene_44，因此前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_379b810aae7e",
+    "subject_id": "ep_1ba51a404e17de74",
+    "object_id": "ep_c2feb755e135e416",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在深夜值班期间，涉及严守一和沈雪因照片问题产生冲突，其相关事件均标记为scene_48；客体情节中严守一清点人数并表达好奇，相关事件标记为scene_49，表明该情节在叙事顺序上紧随其后。因此，主体情节在时间顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c6d39b291514",
+    "subject_id": "ep_275b403e70ad1da3",
+    "object_id": "ep_eb2517ada43a851a",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均发生在同一培训课程的不同场景中，但呈现了严守一与沈雪之间关系的极端对比：前者是冲突顶点导致教学中断，后者是轻松互动为合影做准备，形成明显的基调与关系状态逆转。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_40ba8f38fa4e",
+    "subject_id": "ep_1cbd81ca7d18139d",
+    "object_id": "ep_c2feb755e135e416",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在严守一和沈雪关灯并望向窗外观察学院大门方向，准备观察学生动态；第二个情节发生在严守一进一步趴在窗口清点进入的女生人数并表达好奇。两个情节在叙事上连续，且相关事件的场景编号（scene_48 → scene_49）支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5a4f64c2e42e",
+    "subject_id": "ep_28544c224944a9e4",
+    "object_id": "ep_36ed86b9659a7fbf",
+    "relation_type": "contrasts_with",
+    "reason": "严守一童年时声音通过物理方式在局部远距离传播，与三十年后其声音通过电视媒体传遍全国形成对比，二者在传播方式、范围和媒介上构成显著反差，文本通过并置强调其声音影响力的演变。",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ec6b23c63eb9",
+    "subject_id": "ep_1ba51a404e17de74",
+    "object_id": "ep_c5ab23b367c526bd",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对深夜值班中的情感摩擦'发生在沈雪仍在场并与严守一发生冲突的阶段，而客体情节'学员离场与严守一被孤立'描述的是沈雪离场后其他学员陆续离开、严守一被单独留下的后续场景。根据相关事件的时间逻辑和叙事顺序，情感冲突直接先于孤立结果的发生，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_de81fc316fcf",
+    "subject_id": "ep_594a836b52813088",
+    "object_id": "ep_fbba807a8f4dd32a",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节分别呈现严守一在家庭关系中的紧张与婚外关系中的亲密，通过他在深夜来电中被妻子质询和在公路通话中转向情人的行为形成对比，突显其在家庭责任与婚外情感之间的张力。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_4fbdd4156d5f",
+    "subject_id": "ep_1ba51a404e17de74",
+    "object_id": "ep_6db7f1de6341e805",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对深夜值班中的情感摩擦'发生在严守一与沈雪关系紧张但尚未明确发展的阶段，而客体情节'离婚后的情感余波与新关系确立'明确描述了严守一离婚后情感重心转向沈雪，且包含'台词短训班结业'这一后续事件。根据叙事时间线，深夜值班冲突早于离婚结果和新关系的正式确立，因此主体情节在时间顺序上先于客体情节。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1c71d8fafb3b",
+    "subject_id": "ep_ab8ddb466f80a201",
+    "object_id": "ep_eb2517ada43a851a",
+    "relation_type": "precedes",
+    "reason": "主体情节'沈雪质问并处置严守一使用手机'发生在第三期主持人台词短训班的教学过程中（scene_16），而客体情节'完成结业点名并准备合影'发生在同一培训的结业仪式场合（scene_31），scene_16在文档顺序和叙事时序上早于scene_31，表明前者在时间上先于后者发生。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c4e2ca21ac77",
+    "subject_id": "ep_956b80eb41ced173",
+    "object_id": "ep_fbba807a8f4dd32a",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均展现严守一应对来电的掩饰行为，但一个针对婚外情人武月（谎称在火车上），另一个针对妻子于文娟（被武月干扰通话），二者在关系张力和掩饰策略上形成道德与情感基调的对比：前者是主动表演性欺骗，后者是被动沉沦，凸显家庭责任与婚外情之间的对立状态。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_41fd2254bc48",
+    "subject_id": "ep_6db7f1de6341e805",
+    "object_id": "ep_eb2517ada43a851a",
+    "relation_type": "precedes",
+    "reason": "主体情节'离婚后的情感余波与新关系确立'发生在台词短训班结业时，描述严守一在此时向费墨表达想娶沈雪的意愿；客体情节'完成结业点名并准备合影'发生在同一结业仪式中，但点名和准备合影是集体拍照前的步骤，叙事顺序上紧随其后。相关事件的时间逻辑和场合衔接表明主体情节在话语顺序上先于客体情节。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_07f1b516c5ab",
+    "subject_id": "ep_fbba807a8f4dd32a",
+    "object_id": "ep_8114b898d3b35428",
+    "relation_type": "precedes",
+    "reason": "情节'应对家庭来电并维持亲密关系'（ep_fbba807a8f4dd32a）发生在公路上的场景19，而'察觉异样气味引发对峙'（ep_8114b898d3b35428）发生在后续的场景30。根据文档中的场景编号顺序，前者在叙事时间上明确早于后者，构成直接的先后关系。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_134524e20aed",
+    "subject_id": "ep_6d86cdba7f4ec94b",
+    "object_id": "ep_fbba807a8f4dd32a",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '准备就寝与亲密互动' 描绘了严守一与妻子于文娟之间在家庭环境中的日常亲密与疲惫，而情节 '应对家庭来电并维持亲密关系' 展现了严守一在外部情境中面对同一妻子的关心时，却转向婚外情人武月的亲密行为。两个情节通过相似的亲密主题但截然不同的行为选择形成道德与情感上的对比，突显其家庭责任与婚外欲望之间的张力。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_ec96928598df",
+    "subject_id": "ep_c2feb755e135e416",
+    "object_id": "ep_c5ab23b367c526bd",
+    "relation_type": "precedes",
+    "reason": "严守一清点人数并表达好奇发生在学员离场与严守一被孤立之前，前者在场景49，后者在场景16，文档中场景编号表明时间顺序，因此该关系在叙事顺序上明确支持。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_03fde826f1d2",
+    "subject_id": "ep_fbba807a8f4dd32a",
+    "object_id": "ep_6e05bff22b23dccd",
+    "relation_type": "precedes",
+    "reason": "情节'应对家庭来电并维持亲密关系'发生在公路上，严守一还在与武月互动，尚未被于文娟当面质问；而'发现暧昧短信直面背叛'是于文娟已掌握证据并直接 confront 严守一的高潮场景。根据叙事逻辑和事件发展，婚外情的持续（主体）在时间上先于背叛的揭露（客体），且两个情节分别位于不同文档（doc_18 和 doc_29），支持其按时间顺序排列。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c7a8641fad8c",
+    "subject_id": "ep_9219fd13f6f08cf0",
+    "object_id": "ep_594a836b52813088",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'严守一回家并报告工作进展'发生在scene_29，而'深夜来电引发信任危机'发生在scene_30，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4e0432957bc5",
+    "subject_id": "ep_9219fd13f6f08cf0",
+    "object_id": "ep_d1bf69a526a3b16a",
+    "relation_type": "precedes",
+    "reason": "严守一回家并报告工作进展发生在文档28，而中断亲热寻找纪录片发生在文档29，文档编号顺序表明前者在叙事时间上早于后者，且两个情节分别位于连续场景中，支持明确的时间先后关系。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_43770af04b9b",
+    "subject_id": "ep_9219fd13f6f08cf0",
+    "object_id": "ep_8114b898d3b35428",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'严守一回家并报告工作进展'发生在scene_29，而'察觉异样气味引发对峙'发生在scene_30，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d930da0a9da2",
+    "subject_id": "ep_9219fd13f6f08cf0",
+    "object_id": "ep_6d86cdba7f4ec94b",
+    "relation_type": "precedes",
+    "reason": "严守一回家并报告工作进展发生在准备就寝与亲密互动之前，依据事件的时间顺序：严守一先进门、换鞋并汇报会议情况，随后与妻子在卧室中准备休息。两个情节共享连续的场景序列（scene_29 到 scene_30），支持其时间上的先后关系。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_40199ecf2ed5",
+    "subject_id": "ep_9219fd13f6f08cf0",
+    "object_id": "ep_6e05bff22b23dccd",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，严守一回家并报告工作进展（发生在scene_29）在发现暧昧短信直面背叛（发生在scene_30）之前，叙事顺序明确，scene编号递增且事件连贯，支持该关系。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5931bde6ab53",
+    "subject_id": "ep_9219fd13f6f08cf0",
+    "object_id": "ep_e7a43abed60e6e71",
+    "relation_type": "precedes",
+    "reason": "严守一回家并报告工作进展发生在策划会相关场景（scene_29），而命令脱衣揭露身体证据发生在后续场景（scene_30），文档顺序和场景编号表明前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_efeb7b4bb6fe",
+    "subject_id": "ep_a1d406c3d9503479",
+    "object_id": "ep_355ee204b7455c4e",
+    "relation_type": "precedes",
+    "reason": "说明录制时间安排并引发观众反应发生在节目正式开始之前，严守一在开场前向观众解释录制安排并引发笑声，随后才正式鞠躬并宣布节目开始，因此该情节在叙事顺序上早于完成节目开场仪式。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_18dd3340acc5",
+    "subject_id": "ep_434b31000ef6cbd0",
+    "object_id": "ep_265c4d0682beb119",
+    "relation_type": "precedes",
+    "reason": "请求并尝试接通三矿电话发生在交接通话并传达寻人请求之前，因为必须先建立通话连接，才能进行后续的通话内容传递；描述中前者聚焦拨号尝试，后者聚焦通话内容表达，符合叙事顺序。",
+    "source_documents": [
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_00fad37f7910",
+    "subject_id": "ep_9219fd13f6f08cf0",
+    "object_id": "ep_6db7f1de6341e805",
+    "relation_type": "precedes",
+    "reason": "根据描述，'严守一回家并报告工作进展' 发生在离婚前的共同生活期间（doc_28, scene_29），而 '离婚后的情感余波与新关系确立' 明确发生在离婚后半年（doc_29, scene_30），因此前者在叙事时间顺序上早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f747aabef5be",
+    "subject_id": "ep_95b317be0ff133b3",
+    "object_id": "ep_d0926b221f3ba9d5",
+    "relation_type": "precedes",
+    "reason": "严守一试图道歉并提交检查发生在其进一步哄劝沈雪之前，根据描述中的行为顺序，先递交检查后继续靠近哄劝，表明叙事上的先后关系。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_66bea08ba473",
+    "subject_id": "ep_253f8a8557d27771",
+    "object_id": "ep_43b4843a58e5f7ee",
+    "relation_type": "precedes",
+    "reason": "根据描述，结算建房费用并处理争执发生在赠送香烟以示友好之前，两者均在scene_34中按顺序叙述，严守一先完成金钱支付，随后才拿出香烟赠送，因此存在明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fcc85523b96a",
+    "subject_id": "ep_95b317be0ff133b3",
+    "object_id": "ep_b1b1df8e699ca268",
+    "relation_type": "precedes",
+    "reason": "严守一试图道歉并提交检查发生在其阻止沈雪离开并类比检查之前，两个情节均发生在scene_17，且逻辑上递出检查的行为先于抢过外衣并进行类比的反应性举动，叙事顺序支持前者先于后者。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ad2e15f3f7f9",
+    "subject_id": "ep_0f3fec71348e24ea",
+    "object_id": "ep_d0926b221f3ba9d5",
+    "relation_type": "precedes",
+    "reason": "根据描述，严守一在下课铃响后归还外衣与检查，通过恭敬而幽默的方式缓和气氛，随后进一步哄劝沈雪，表明归还外衣行为在前，进一步哄劝在后，具有清晰的叙事顺序。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2c5ba62abeb4",
+    "subject_id": "ep_95b317be0ff133b3",
+    "object_id": "ep_0f3fec71348e24ea",
+    "relation_type": "precedes",
+    "reason": "严守一试图道歉并提交检查发生在下课铃响后归还外衣与检查之前，因为前者是主动递还检查的尝试，而后者是在下课铃声响起时利用时机完成的归还行为，二者发生在同一场景（scene_17）且叙事顺序上存在明确先后。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2d64522f9218",
+    "subject_id": "ep_275b403e70ad1da3",
+    "object_id": "ep_7c556589c5828db6",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述严守一与沈雪在课堂上的冲突达到顶点并导致教学活动中断，第二个情节描述冲突平息后严守一煮面并关切沈雪，恢复日常生活节奏。根据叙事顺序，冲突事件发生在后续和解与日常恢复之前，因此主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5391ac478f16",
+    "subject_id": "ep_b1b1df8e699ca268",
+    "object_id": "ep_d0926b221f3ba9d5",
+    "relation_type": "precedes",
+    "reason": "严守一先通过类比检查的方式试图缓解紧张关系，随后进一步靠近沈雪并明确以哄劝为目标，推动关系缓和。两个情节发生在同一场景（scene_17），且描述中存在清晰的行动递进顺序：先阻止离开并类比，再继续哄劝，支持叙事上的先后关系。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_088b6997fe71",
+    "subject_id": "ep_b1b1df8e699ca268",
+    "object_id": "ep_0f3fec71348e24ea",
+    "relation_type": "precedes",
+    "reason": "根据描述，严守一阻止沈雪离开并类比检查发生在下课铃响后归还外衣与检查之前，因为前者涉及抢过外衣和言语类比，后者是随后将检查放回外衣上的和解动作，二者在scene_17中按顺序发生，且叙事逻辑上前者引发后者。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_30f556d47ef9",
+    "subject_id": "ep_956b80eb41ced173",
+    "object_id": "ep_ab5a3aec03ae9c97",
+    "relation_type": "precedes",
+    "reason": "根据描述，严守一接听武月来电并掩饰行踪发生在通话结束后，沈雪询问如何向家人介绍关系之前。两个情节均发生在scene_33，且第一个情节以武月挂断电话结束，紧接着进入第二个情节的对话，因此在叙事顺序上存在明确的先后关系。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9a34cc55384b",
+    "subject_id": "ep_867c51c123a5cecd",
+    "object_id": "ep_ab8ddb466f80a201",
+    "relation_type": "precedes",
+    "reason": "提醒严守一注意课堂点名发生在沈雪质问并处置其使用手机之前，因为后排学员的提醒是对沈雪开始点名批评的即时反应，而随后沈雪才走下讲台进行质问和处置，叙事顺序明确。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c229bfed61f4",
+    "subject_id": "ep_8ee1fee57cc67255",
+    "object_id": "ep_744168690acc8de1",
+    "relation_type": "elaborates",
+    "reason": "情节'砖头哥向费墨敬酒引发僵局'中出现了因拒酒导致的面子冲突，而'揭示劝酒背后的地域礼俗'通过解释河南待客饮酒的文化背景，为前述僵局中的劝酒行为提供文化层面的解释和扩展，二者共享同一场合（奶奶的寿宴），且后者在叙述上补充了前者的社会意义。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_db899cc161a0",
+    "subject_id": "ep_6db7f1de6341e805",
+    "object_id": "ep_7c556589c5828db6",
+    "relation_type": "precedes",
+    "reason": "主体情节'离婚后的情感余波与新关系确立'描述严守一在台词短训班结业时与沈雪关系发生变化，并向费墨表达娶沈雪的意愿，发生在冲突后的日常恢复之前；客体情节'严守一煮面并关切沈雪'发生在冲突平息后，恢复日常生活节奏的场景。根据叙事顺序，情感重心的转移先于后续日常生活中的关切表现，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9188da28a45a",
+    "subject_id": "ep_6d86cdba7f4ec94b",
+    "object_id": "ep_6db7f1de6341e805",
+    "relation_type": "contrasts_with",
+    "reason": "‘准备就寝与亲密互动’描绘了严守一与于文娟婚姻中尚存的亲密与日常疲惫，而‘离婚后的情感余波与新关系确立’揭示两人已离婚，严守一情感转向沈雪，两个情节通过婚姻关系的前后状态形成情感与关系状态上的鲜明对比。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c386df450aa7",
+    "subject_id": "ep_867c51c123a5cecd",
+    "object_id": "ep_275b403e70ad1da3",
+    "relation_type": "precedes",
+    "reason": "在第三期主持人台词短训班中，严守一因玩手机被后排学员提醒点名发生在先，随后发展为严守一要求归还手机并引发对峙升级，教学活动中断。两个情节共享同一场合，且事件序列在scene_16中按时间顺序推进，前者为后者铺垫了紧张氛围。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0b4d25fa99c0",
+    "subject_id": "ep_867c51c123a5cecd",
+    "object_id": "ep_c5ab23b367c526bd",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述严守一在课堂点名期间被提醒注意，发生在沈雪批评学员和点名过程中；第二个情节描述沈雪离场后学员陆续离开，严守一被孤立。两个情节共享同一场合（第三期主持人台词短训班），且事件序列显示点名提醒发生在离场与孤立之前，叙事顺序明确。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3299206c774e",
+    "subject_id": "ep_8114b898d3b35428",
+    "object_id": "ep_6db7f1de6341e805",
+    "relation_type": "precedes",
+    "reason": "‘察觉异样气味引发对峙’发生在严守一与于文娟婚姻关系破裂的初期阶段，而‘离婚后的情感余波与新关系确立’明确描述了离婚后半年严守一与沈雪关系的变化，时间顺序清晰，前者在叙事上早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a3722d724a7f",
+    "subject_id": "ep_8114b898d3b35428",
+    "object_id": "ep_e7a43abed60e6e71",
+    "relation_type": "precedes",
+    "reason": "‘察觉异样气味引发对峙’在叙事顺序上先于‘命令脱衣揭露身体证据’，前者中于文娟指出气味异常并引发紧张气氛，后者则是该对峙的升级，直接导致身体检查和证据揭露。两个情节共享同一场景（scene_30），且逻辑上前者为后者的导火索，时间顺序明确。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_114df38fe82a",
+    "subject_id": "ep_6d86cdba7f4ec94b",
+    "object_id": "ep_e7a43abed60e6e71",
+    "relation_type": "precedes",
+    "reason": "根据描述，'准备就寝与亲密互动' 中于文娟表达关心并试图亲热，而严守一表示疲惫，这一情节在叙事顺序上直接早于 '命令脱衣揭露身体证据' 中于文娟要求脱衣并发现牙印的场景。两个情节均发生在同一场景（scene_30）中，且从互动升温到冲突爆发存在清晰的时间推进，前者为后者提供了直接的上下文铺垫。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d0cfb6068042",
+    "subject_id": "ep_6e05bff22b23dccd",
+    "object_id": "ep_e7a43abed60e6e71",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'发现暧昧短信直面背叛' 中于文娟通过短信内容质问严守一，而'命令脱衣揭露身体证据' 紧随其后，通过身体检查进一步确认背叛。两个情节共享同一场景（scene_30），且事件序列显示短信对峙在前，脱衣查验在后，构成明确的叙事时序。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_11aba6c7b82b",
+    "subject_id": "ep_9219fd13f6f08cf0",
+    "object_id": "ep_727c7bd5bd913e8c",
+    "relation_type": "precedes",
+    "reason": "严守一回家并报告工作进展发生在在于文娟回应其疲惫状态之前，因为于文娟的回应是基于严守一所述的会议情况和其疲惫表现，且相关事件在scene_29中按此顺序展开。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_075a7eae6c20",
+    "subject_id": "ep_32f07416f7855b32",
+    "object_id": "ep_8e674072e4c1b783",
+    "relation_type": "causes",
+    "reason": "处理同事电话干扰引发的尴尬直接导致费墨情绪激动并提出以手机为主题的新节目构想。文本中明确描述费墨在批评会议氛围和手机干扰后提议制作该节目，表明前者是后者的直接触发因素。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c3b059841ac0",
+    "subject_id": "ep_6e05bff22b23dccd",
+    "object_id": "ep_6db7f1de6341e805",
+    "relation_type": "precedes",
+    "reason": "‘发现暧昧短信直面背叛’描述了严守一与于文娟婚姻破裂的直接导火索，发生在离婚前；而‘离婚后的情感余波与新关系确立’明确发生在离婚后，且提及半年后在台词短训班结业时情感转移。因此，前者在叙事时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_350c5ad10fb7",
+    "subject_id": "ep_594a836b52813088",
+    "object_id": "ep_e7a43abed60e6e71",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'深夜来电引发信任危机' 中的事件（如于文娟代接电话并质询严守一）在叙事顺序上先于 '命令脱衣揭露身体证据' 中的事件（如于文娟要求脱衣并发现牙印）。两个情节均发生在同一场景（scene_30），但相关事件序列显示，电话事件在前，脱衣查验在后，构成明确的时间先后关系。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b57a77195231",
+    "subject_id": "ep_8e674072e4c1b783",
+    "object_id": "ep_de37a71ac33dae63",
+    "relation_type": "precedes",
+    "reason": "费墨提出以手机为主题的新节目构想发生在女记录员离场事件之后的讨论中，但根据场景编号（同为scene_44）和事件流逻辑，手机提议是对会议中手机干扰现象的回应，因此应对女记录员离场的情节在叙事顺序上先发生。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_699f4591c60e",
+    "subject_id": "ep_d1bf69a526a3b16a",
+    "object_id": "ep_e7a43abed60e6e71",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'中断亲热寻找纪录片' 发生在严守一想起未完成任务并决定改天再找之后，而 '命令脱衣揭露身体证据' 是于文娟在后续直接要求查验身体并发现牙印的过程。两个情节均发生在 scene_30，但前者涉及寻找资料和转向洗澡的意图，后者紧随其后表现为脱衣查验和情绪崩溃，叙事顺序上存在明确先后。因此，'中断亲热寻找纪录片' 在话语顺序上先于 '命令脱衣揭露身体证据'。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e06935a0c58b",
+    "subject_id": "ep_594a836b52813088",
+    "object_id": "ep_6db7f1de6341e805",
+    "relation_type": "precedes",
+    "reason": "主体情节'深夜来电引发信任危机'描述了严守一与于文娟婚姻关系紧张的直接导火索，包含于文娟质询严守一的场景；客体情节'离婚后的情感余波与新关系确立'明确指出两人已离婚，并提及离婚后的挽回尝试及半年后与沈雪关系变化。根据描述中的时间线索（离婚发生在信任危机之后，且后续发展具有明确时间顺序），主体情节在叙事时间上早于客体情节，构成直接的先后顺序。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d2d19ea98f5c",
+    "subject_id": "ep_d49718f006e47fc3",
+    "object_id": "ep_cba18432411a6c5b",
+    "relation_type": "precedes",
+    "reason": "沈雪准备离开教室（收拾教案、取外衣）发生在她表达不满并设定课堂规则之前，根据事件顺序，准备离开是触发后续表达不满和设定规则的前提动作。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_35938b91001b",
+    "subject_id": "ep_7dd9a19b9781f610",
+    "object_id": "ep_de37a71ac33dae63",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'应对女记录员离场并维持会议进行'中女记录员手机响铃并离场是触发严守一后续整顿会议纪律的直接导火索；在叙事顺序上，手机响铃和离场事件发生在严守一要求关机之前，且两个情节共享同一场合'策划会 (scene_44)'，表明时间上的连续性。因此，'应对女记录员离场'在叙事顺序上先于'整顿会议纪律并重启讨论'。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_824dabfcd258",
+    "subject_id": "ep_ab5a3aec03ae9c97",
+    "object_id": "ep_1a721742aa9db15e",
+    "relation_type": "precedes",
+    "reason": "根据描述，'讨论向家人介绍关系的方式'发生在通话结束后，而'搀扶奶奶前往用餐'始于决定吃饭后从炕上起身，逻辑上讨论发生在前往用餐之前，且两情节共享连续场景过渡，支持时间顺序上的先后关系。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_19e841dc897b",
+    "subject_id": "ep_98c93f6b0c82efce",
+    "object_id": "ep_1b6dc86f59d4d473",
+    "relation_type": "precedes",
+    "reason": "沈雪被迫连续饮酒以维护面子发生在她向奶奶诉苦之前，根据叙事顺序，饮酒过程中的委屈情绪积累后，她转向奶奶诉说被欺负，因此该关系在时间顺序上明确支持。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_16bfcf441ba1",
+    "subject_id": "ep_ae23fa1f98d079af",
+    "object_id": "ep_1a721742aa9db15e",
+    "relation_type": "precedes",
+    "reason": "根据描述，'回忆饥荒时期的艰难往事'发生在炕上聊天期间，而'搀扶奶奶前往用餐'是在决定吃饭后从炕上起身并走向屋外的行动。两个情节均发生在scene_35，但回忆发生在行动之前，作为从交谈过渡到用餐前的叙事顺序的一部分。因此，回忆情节在叙事时间上先于搀扶前往用餐的情节。",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7d81191d5187",
+    "subject_id": "ep_2fff14fa7b4ca2ea",
+    "object_id": "ep_c5ab23b367c526bd",
+    "relation_type": "precedes",
+    "reason": "沈雪以沉默回应严守一的漠视发生在学员离场与严守一被孤立之前，描述中显示沈雪沉默盯视后，其他学员才陆续离开教室，叙事顺序明确。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e8be9d70dbf0",
+    "subject_id": "ep_9704bcf7ddfc434c",
+    "object_id": "ep_ca0a883733b90061",
+    "relation_type": "causes",
+    "reason": "劝酒小伙强行劝酒并引发推搡，直接导致沈雪情绪激动地冲进厨房质问严守一，并通过拍打、用脚蹬等方式发泄不满。两个情节发生在同一场景（scene_38），且描述中显示前者是后者情绪爆发的直接导火索，具有明确的因果链条。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e9b1c0e84a7f",
+    "subject_id": "ep_98c93f6b0c82efce",
+    "object_id": "ep_cc61e331192099cd",
+    "relation_type": "precedes",
+    "reason": "沈雪被迫连续饮酒以维护面子的情节在时间顺序上先发生，随后砖头哥和小伙在她喝完酒后提醒她夹菜缓解不适，叙事顺序明确。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_db18c4934c22",
+    "subject_id": "ep_188a632e433bd450",
+    "object_id": "ep_bec22c5c272e61f3",
+    "relation_type": "precedes",
+    "reason": "根据描述，费墨在会议被打断后重启讨论并转换核心比喻，随后在严守一再次模仿电话对话引发干扰时，费墨表达对会议纪律的不满并离开。两个情节均发生在同一场景（scene_44），但重启讨论发生在先，表达不满是对后续干扰的反应，因此存在明确的叙事顺序。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f16041a89e5b",
+    "subject_id": "ep_d49718f006e47fc3",
+    "object_id": "ep_403292b1022c439c",
+    "relation_type": "precedes",
+    "reason": "沈雪准备离开教室（收拾教案、沉默取外衣）发生在严守一哄劝她之前，是冲突尚未化解的状态；随后在同一个场景中，沈雪情绪缓和并接受和解，标志着状态的转变。因此，该情节在叙事顺序上明确早于和解情节。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5178262d3263",
+    "subject_id": "ep_98c93f6b0c82efce",
+    "object_id": "ep_60099dfc4f0ba9d5",
+    "relation_type": "causes",
+    "reason": "沈雪被迫连续饮酒以维护面子这一情节直接导致砖头哥和小伙因劝酒成功而发笑，文本中明确描述劝酒成功后众人发笑，表现出因果关系。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_82ebabfa648c",
+    "subject_id": "ep_2fff14fa7b4ca2ea",
+    "object_id": "ep_ab8ddb466f80a201",
+    "relation_type": "precedes",
+    "reason": "沈雪以沉默回应严守一的漠视发生在其质问并处置严守一使用手机之前，根据描述顺序和事件发展逻辑，沉默与盯视是对其行为的初步反应，随后才升级为直接质问和处置，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5d63f3396380",
+    "subject_id": "ep_aad4ae24400d8ce3",
+    "object_id": "ep_c5ab23b367c526bd",
+    "relation_type": "causes",
+    "reason": "宣布开课与点名处理旷课引发学员的不同反应，导致课堂秩序失控，进而促使沈雪离场并引发其他学员陆续离开，最终使严守一被孤立。文本中描述的事件序列表明前一情节直接触发了后一情节的连锁反应，构成即时因果关系。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_76a81840d24a",
+    "subject_id": "ep_cba18432411a6c5b",
+    "object_id": "ep_403292b1022c439c",
+    "relation_type": "precedes",
+    "reason": "沈雪表达不满并设定课堂规则发生在严守一哄劝她之前，是冲突的起始点；随后在同一个场景（scene_17）中，沈雪情绪缓和并接受和解，表明该情节在叙事顺序上紧随其后。两个情节共享同一场景编号，且行为逻辑上呈现先冲突后缓和的时序结构。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_47e8b6e42109",
+    "subject_id": "ep_a613e8c6da2d3d7f",
+    "object_id": "ep_aad4ae24400d8ce3",
+    "relation_type": "precedes",
+    "reason": "根据描述，沈雪先强调台词基本功并引发质疑，随后宣布开课与处理旷课，二者发生在同一场合'第三期主持人台词短训班'中，且'宣布开课'在逻辑和叙事顺序上紧随自我介绍与教学重点强调之后，因此主体情节在时间顺序上先于客体情节。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f4911fd6ab26",
+    "subject_id": "ep_aad4ae24400d8ce3",
+    "object_id": "ep_ab8ddb466f80a201",
+    "relation_type": "precedes",
+    "reason": "在第三期主持人台词短训班中，沈雪老师首先宣布开课并处理旷课情况，随后才发生她质问并处置严守一使用手机的行为。两个情节均发生在同一场合（scene_16），且叙事顺序上前者为课堂初始环节，后者为后续纪律冲突，文本支持明确的时间先后顺序。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9b7e14015274",
+    "subject_id": "ep_2fff14fa7b4ca2ea",
+    "object_id": "ep_275b403e70ad1da3",
+    "relation_type": "precedes",
+    "reason": "根据描述，沈雪以沉默回应严守一的漠视发生在学员哄笑之后、严守一要求归还手机之前，属于冲突升级的前一阶段；而要求归还手机导致对峙进一步激化并最终课程中断，叙事顺序上明确前者早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6558c0b02220",
+    "subject_id": "ep_aad4ae24400d8ce3",
+    "object_id": "ep_2fff14fa7b4ca2ea",
+    "relation_type": "precedes",
+    "reason": "‘宣布开课与点名处理旷课’是课堂初始阶段的组织行为，引发学员反应，而‘沈雪以沉默回应严守一的漠视’发生在后续互动中，描述中提及‘在学员哄笑后’，表明其时间顺序在点名及反应之后，因此该关系在叙事顺序上明确支持前者早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5d4417174969",
+    "subject_id": "ep_262dcaa09e2ae1e2",
+    "object_id": "ep_ae87c957c8ecfba0",
+    "relation_type": "precedes",
+    "reason": "搜寻宿舍并发现留守女生在叙事顺序上直接早于确认女生状况并询问情况，因为必须先发现女生才能进行后续询问，且两个情节共享同一场景编号(scene_47)并呈现连续动作流。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b7c33c91175a",
+    "subject_id": "ep_262dcaa09e2ae1e2",
+    "object_id": "ep_03f1eb0614c475da",
+    "relation_type": "causes",
+    "reason": "沈雪用手电筒检查宿舍并在上铺发现女生，手电筒光直接照射导致该女生苏醒并爬起揉眼睛，文本中光照是唤醒的直接触发因素，构成明确的因果关系。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4dbe5cea1797",
+    "subject_id": "ep_aad4ae24400d8ce3",
+    "object_id": "ep_275b403e70ad1da3",
+    "relation_type": "precedes",
+    "reason": "根据描述，'宣布开课与点名处理旷课' 是第三期主持人台词短训班的初始环节，而 '严守一要求归还手机引发对峙升级' 是后续冲突升级的结果，发生在同一场景（scene_16）中，具有明确的叙事时间顺序。因此，前者在叙事上早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_50b462bff9ed",
+    "subject_id": "ep_a613e8c6da2d3d7f",
+    "object_id": "ep_c5ab23b367c526bd",
+    "relation_type": "precedes",
+    "reason": "主体情节中沈雪强调基本功并引发质疑，随后她离场，进而导致其他学员离开，严守一被孤立。叙事顺序上，质疑和哄笑发生在沈雪离场之前，而学员陆续离场和严守一被孤立是后续事件，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6e9ed00f589d",
+    "subject_id": "ep_9704bcf7ddfc434c",
+    "object_id": "ep_a054621f2d70309e",
+    "relation_type": "causes",
+    "reason": "小伙强行劝酒引发冲突直接导致农妇干预终止骚扰。描述中，农妇因目睹小伙对沈雪的骚扰行为而采取行动，使用瓢击打并将其推出厨房，事件之间存在明确的因果链。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b1ead35e6b6d",
+    "subject_id": "ep_8ee1fee57cc67255",
+    "object_id": "ep_cc61e331192099cd",
+    "relation_type": "precedes",
+    "reason": "砖头哥向费墨敬酒引发僵局这一情节包含敬酒、拒酒及代饮等事件，发生在劝酒后提醒吃菜缓解不适之前。根据描述，沈雪代饮完成后，砖头哥和小伙才提醒她吃菜，因此在叙事顺序上，主体情节明确早于客体情节。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f40758b9c6c8",
+    "subject_id": "ep_8ee1fee57cc67255",
+    "object_id": "ep_60099dfc4f0ba9d5",
+    "relation_type": "precedes",
+    "reason": "在奶奶的寿宴场合中，砖头哥向费墨敬酒引发僵局后，众人通过劝酒成功（沈雪代饮）缓解了紧张气氛，随后砖头哥和小伙因劝酒成功而发笑。叙事顺序上，僵局的解决先于群体发笑，构成时间上的先后关系。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_03d0149e6d5c",
+    "subject_id": "ep_ca0a883733b90061",
+    "object_id": "ep_7c556589c5828db6",
+    "relation_type": "precedes",
+    "reason": "沈雪发泄不满并质问严守一（ep_ca0a883733b90061）后，冲突平息，严守一继续煮面并关切沈雪（ep_7c556589c5828db6），表明前者在叙事顺序上直接早于后者。两个情节共享同一场景（scene_38），且后者描述的是冲突后的日常恢复，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_439f0df763a7",
+    "subject_id": "ep_1ba51a404e17de74",
+    "object_id": "ep_7c556589c5828db6",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对深夜值班中的情感摩擦'描述了严守一和沈雪之间的言语冲突，而客体情节'严守一煮面并关切沈雪'发生在冲突平息后，展现日常节奏的恢复。related_events中的场景编号（scene_48 vs scene_38）表明主体情节在叙事顺序上晚于客体情节，但根据事件内容和逻辑流程，冲突发生后才进入平息状态，因此scene_38应在scene_48之前；然而文档中scene_38出现在doc_37，scene_48在doc_47，按文档顺序推断ep_1ba51a404e17de74发生在ep_7c556589c5828db6之后。综合判断，'应对深夜值班中的情感摩擦'在叙事时间上紧接在'煮面并关切'之前，因此ep_1ba51a404e17de74 precedes ep_7c556589c5828db6不成立；反向成立。但因subject为ep_1ba51a404e17de74，object为ep_7c556589c5828db6，正确方向应为object precedes subject，故当前方向不成立。重新评估：若subject为先发情节，则必须有证据支持其时间在前。但描述中'冲突平息后'表明ep_7c556589c5828db6发生在ep_1ba51a404e17de74之后，因此ep_1ba51a404e17de74 precedes ep_7c556589c5828db6为正确方向。scene编号（38早于48）与doc_id（37早于47）一致支持此时间顺序。因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f332df34f5ea",
+    "subject_id": "ep_a613e8c6da2d3d7f",
+    "object_id": "ep_275b403e70ad1da3",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合'第三期主持人台词短训班 (scene_16)'中。'强调台词基本功并引发质疑'是课程初期沈雪介绍自己并提出训练要求，随后学员质疑，为冲突的起点；而'严守一要求归还手机引发对峙升级'是后续师生矛盾激化至顶点、教学中断的高潮事件。根据叙事顺序，基本功强调与质疑发生在前，对峙升级发生在后，文本支持明确的时间先后顺序。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_99ea827f7ecc",
+    "subject_id": "ep_deb02c60a44278f7",
+    "object_id": "ep_9219fd13f6f08cf0",
+    "relation_type": "precedes",
+    "reason": "严守一抵达并停车（ep_deb02c60a44278f7）在逻辑和时间顺序上早于他回家并向于文娟报告工作进展（ep_9219fd13f6f08cf0），因为停车是进入家中的前提动作，且描述中‘严守一进入家中’暗示了抵达和停车已完成。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f5a589ee27bc",
+    "subject_id": "ep_b446e7c0b2930de7",
+    "object_id": "ep_deb02c60a44278f7",
+    "relation_type": "precedes",
+    "reason": "严守一在收费站发现忘带手机并决定返家（ep_b446e7c0b2930de7）发生在其驾驶返回并停车（ep_deb02c60a44278f7）之前，根据叙事顺序，折返决定先于抵达停车动作，且相关事件在scene_11和scene_12中按时间顺序排列。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ac9aded71c9a",
+    "subject_id": "ep_deb02c60a44278f7",
+    "object_id": "ep_54fe0511cb000018",
+    "relation_type": "precedes",
+    "reason": "严守一抵达并停车（ep_deb02c60a44278f7）在时间顺序上早于其处理访客登记与停车调侃（ep_54fe0511cb000018），因为停车是后续与同事互动和电话登记的前提，且事件流符合常规行为逻辑：先抵达停车，再进行登记与交流。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3b2d2f0c9f3e",
+    "subject_id": "ep_2e2fbf67904c231e",
+    "object_id": "ep_6a3908c49ca7a44b",
+    "relation_type": "precedes",
+    "reason": "严守一在开车回家途中启动手机并拨打电话联系武月（ep_2e2fbf67904c231e），随后在停车后删除武月发来的信息以消除痕迹（ep_6a3908c49ca7a44b）。根据描述中的时间顺序和行为逻辑，拨打电话发生在删除信息之前，构成明确的叙事先后关系。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0c5bb0732fe0",
+    "subject_id": "ep_6a3908c49ca7a44b",
+    "object_id": "ep_6d86cdba7f4ec94b",
+    "relation_type": "precedes",
+    "reason": "严守一删除武月的信息发生在停车后，而准备就寝与亲密互动发生在卧室中，根据叙事上下文，删除信息的情节在时间顺序上早于就寝准备，且两个情节分别位于不同文档（doc_26 vs doc_29），支持其按时间推进的顺序。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_600d7aa31ef7",
+    "subject_id": "ep_6a3908c49ca7a44b",
+    "object_id": "ep_6e05bff22b23dccd",
+    "relation_type": "precedes",
+    "reason": "严守一删除武月的信息发生在其妻子于文娟发现暧昧短信之前，逻辑上删除行为试图掩盖证据，而发现短信构成冲突爆发，叙事顺序上删除痕迹在前，发现背叛在后，文本支持这一时间序列。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2cba6e61b723",
+    "subject_id": "ep_54fe0511cb000018",
+    "object_id": "ep_6a3908c49ca7a44b",
+    "relation_type": "precedes",
+    "reason": "严守一先处理访客登记与停车调侃，随后在停车后删除武月的信息。根据描述中的时间线索'停车后'，'处理访客登记与停车调侃'在叙事顺序上早于'删除敏感信息以消除痕迹'，因此前者在时间上先于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e454b9d2692a",
+    "subject_id": "ep_145868dcf7a8e545",
+    "object_id": "ep_79b51ced2544ed79",
+    "relation_type": "precedes",
+    "reason": "根据描述，'检查衣物并恢复镇静'发生在严守一进门后，而'结束对话并离开住所'涉及其离开房间，逻辑上进入后调整状态应在离开之前。尽管两个情节来自不同文档，但叙事顺序上存在合理的时间先后关系，支持前者早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6cc8056941ae",
+    "subject_id": "ep_145868dcf7a8e545",
+    "object_id": "ep_b931214800159011",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'检查衣物并恢复镇静' 发生在 scene_28，而 '严守一准备服药休息' 发生在 scene_29，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_01fbe06df754",
+    "subject_id": "ep_145868dcf7a8e545",
+    "object_id": "ep_6d86cdba7f4ec94b",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节内容，'检查衣物并恢复镇静'发生在严守一进门后，而'准备就寝与亲密互动'发生在卧室中后续场景，文本通过场景推进暗示了时间上的先后顺序，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_cce88ada65a1",
+    "subject_id": "ep_145868dcf7a8e545",
+    "object_id": "ep_8114b898d3b35428",
+    "relation_type": "precedes",
+    "reason": "根据描述，严守一进门后检查衣物并恢复镇静发生在其与于文娟对峙之前。相关事件的时间顺序表明，自我确认和情绪调整是后续因气味被察觉而引发冲突的前置行为。因此，'检查衣物并恢复镇静'在叙事顺序上早于'察觉异样气味引发对峙'。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cad6dbf2997a",
+    "subject_id": "ep_145868dcf7a8e545",
+    "object_id": "ep_7c556589c5828db6",
+    "relation_type": "precedes",
+    "reason": "主体情节'检查衣物并恢复镇静'发生在严守一进门后，通过闻衣服拉链处和调整情绪来恢复心理镇静；客体情节'严守一煮面并关切沈雪'发生在冲突平息后，严守一继续煮面并展现对沈雪的关切。根据叙事上下文，恢复镇静的行为在时间上早于恢复日常活动（煮面并关切他人），且两个情节分别位于不同文档（doc_27 vs doc_37），支持其按时间顺序排列。因此，主体情节在话语顺序上先于客体情节。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0874fc788ba8",
+    "subject_id": "ep_107ec25875265f0b",
+    "object_id": "ep_7f532ec915179b43",
+    "relation_type": "precedes",
+    "reason": "主体情节'触发故事的电话拨打'描述的是从通讯录中查找并拨打严守一号码的行为，作为整个故事的起点。客体情节'处理严守一关于牛三斤的询问'涉及严守一主动打电话询问牛三斤的情况，这在叙事逻辑上必须发生在他被拨打电话之后。因此，主体情节在叙事顺序上早于客体情节，构成明确的前序关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_19b20021f86e",
+    "subject_id": "ep_70610dc74de972db",
+    "object_id": "ep_7f532ec915179b43",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在电话接通三矿并完成交接的场景（scene_6），第二个情节发生在严守一打电话询问牛三斤并被挂断的场景（scene_7），根据文档中的场景编号顺序，scene_6在scene_7之前，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_df6d153ae97f",
+    "subject_id": "ep_434b31000ef6cbd0",
+    "object_id": "ep_7f532ec915179b43",
+    "relation_type": "precedes",
+    "reason": "主体情节描述严守一请求并尝试接通三矿电话，客体情节描述他成功拨打电话后询问牛三斤的情况并被广播员挂断。根据叙事顺序，尝试接通电话发生在实际通话和被挂断之前，且两个情节共享通话这一连续动作，因此主体情节在话语顺序上直接早于客体情节。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_85bf549eef1b",
+    "subject_id": "ep_145868dcf7a8e545",
+    "object_id": "ep_e7a43abed60e6e71",
+    "relation_type": "precedes",
+    "reason": "根据描述，'检查衣物并恢复镇静'发生在严守一进门后，通过闻衣服拉链处进行自我确认并调整情绪，而'命令脱衣揭露身体证据'则是于文娟要求严守一脱衣以查验身体并发现牙印，情绪崩溃后退离。这两个情节均发生在同一冲突场景的连续阶段，前者为严守一单方面的内在状态处理，后者为于文娟主动发起的对质与证据确认。文本中事件序列显示，自我确认和情绪调整在前，随后才进入被要求脱衣的对质高潮，因此'检查衣物并恢复镇静'在叙事顺序上早于'命令脱衣揭露身体证据'。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_863047ab4e52",
+    "subject_id": "ep_30e79288898c8545",
+    "object_id": "ep_2e2fbf67904c231e",
+    "relation_type": "precedes",
+    "reason": "费墨尝试联系并批评严守一关机行为发生在严守一启动手机并拨打电话联系武月之前，因为严守一的手机在费墨拨打时已关机，而后续严守一开机后才拨打电话，表明时间顺序上前者早于后者。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ade4daca4ae7",
+    "subject_id": "ep_30e79288898c8545",
+    "object_id": "ep_9219fd13f6f08cf0",
+    "relation_type": "precedes",
+    "reason": "费墨尝试联系并批评严守一关机行为发生在严守一回家并报告工作进展之前，因为费墨拨打手机时严守一仍在外参与策划会且手机关机，而严守一回家后才向于文娟提及与费墨的争论，表明前一情节在叙事时间上早于后一情节。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_96f1bb9caae0",
+    "subject_id": "ep_61873789e68a8405",
+    "object_id": "ep_70610dc74de972db",
+    "relation_type": "precedes",
+    "reason": "严守一试图打电话被拒发生在电话意外接通三矿并传递电话之前，根据场景顺序（scene_4 在 scene_6 之前），且前者失败后才出现后者成功接通的转折，叙事时间顺序明确。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bb633b2a9610",
+    "subject_id": "ep_61873789e68a8405",
+    "object_id": "ep_265c4d0682beb119",
+    "relation_type": "precedes",
+    "reason": "严守一试图打电话被拒发生在交接通话并传达寻人请求之前，因为前者描述的是电话被锁、无法拨打电话的失败尝试（doc_3, scene_4），而后者描述的是成功接通电话并传达寻人信息的过程（doc_5, scene_6），文档顺序和事件进展支持该时间先后关系。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d2440e7742fa",
+    "subject_id": "ep_295176d0b69803d1",
+    "object_id": "ep_a9b082bf51c49231",
+    "relation_type": "precedes",
+    "reason": "主体情节'阻止中止亲密行为并强化控制'发生在车辆内，以武月扔出车钥匙结束，该事件直接导致后续情节'寻找车钥匙以恢复行动控制'的发生。客体情节描述严守一在之后试图找回钥匙，逻辑和时间顺序上紧随其前，因此主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1403377ae77d",
+    "subject_id": "ep_a7f4775bb17ad8e4",
+    "object_id": "ep_2e2fbf67904c231e",
+    "relation_type": "precedes",
+    "reason": "于文娟尝试联系严守一但发现其手机关机（ep_a7f4775bb17ad8e4）发生在严守一开机并拨打电话给武月（ep_2e2fbf67904c231e）之前，根据事件逻辑顺序，手机必须先开机才能被拨通，因此前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d6bd492061f5",
+    "subject_id": "ep_107ec25875265f0b",
+    "object_id": "ep_e5df11c0c328b04d",
+    "relation_type": "precedes",
+    "reason": "触发故事的电话拨打是叙事的起点，引出主角严守一及其背景，而应对妻子对来电的质询发生在严守一回家后发现武月来电并进行掩饰，时间顺序上明显在前者之后。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f14f4d5602be",
+    "subject_id": "ep_2e2fbf67904c231e",
+    "object_id": "ep_e5df11c0c328b04d",
+    "relation_type": "precedes",
+    "reason": "主体情节'启动手机并拨打电话联系武月'发生在严守一开车回家途中，而客体情节'应对妻子对来电的质询'发生在回家后，且涉及对武月来电的后续掩饰行为。根据相关事件的时间和场景顺序，前者在叙事上明确早于后者。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e9798b288f19",
+    "subject_id": "ep_434b31000ef6cbd0",
+    "object_id": "ep_e5df11c0c328b04d",
+    "relation_type": "precedes",
+    "reason": "请求并尝试接通三矿电话发生在严守一与武月通话之后，而应对妻子对来电的质询是基于该通话的后续行为。根据叙事逻辑，通话尝试成功后才可能有来电记录，进而引发妻子质询，因此前者在时间顺序上先于后者。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7720cd69e8ef",
+    "subject_id": "ep_b698d35ebeb811bf",
+    "object_id": "ep_e5df11c0c328b04d",
+    "relation_type": "precedes",
+    "reason": "情节 '应对会议中的电话干扰' 发生在策划会期间，严守一在会上接听武月电话并警告她不要前来；而情节 '应对妻子对来电的质询' 发生在严守一回家后，面对妻子对于武月来电的询问进行掩饰。根据叙事顺序，会议中的电话事件在时间上明确早于回家后的质询事件，因此前者在话语顺序上 precedes 后者。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2093c60dda57",
+    "subject_id": "ep_b446e7c0b2930de7",
+    "object_id": "ep_e5df11c0c328b04d",
+    "relation_type": "precedes",
+    "reason": "严守一在收费站发现忘带手机并决定返家（ep_b446e7c0b2930de7）发生在其回家后应对妻子对武月来电质询（ep_e5df11c0c328b04d）之前。根据事件流，返家取手机是触发后续隐瞒行为的前提，且两个情节在叙事顺序上连续，前者直接导致后者发生。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c9efbc3eb860",
+    "subject_id": "ep_a15c17f10f8f3a78",
+    "object_id": "ep_b698d35ebeb811bf",
+    "relation_type": "elaborates",
+    "reason": "主体情节'手机铃声打断对话'描述了一个通用的中断事件，而客体情节'应对会议中的电话干扰'提供了更具体的场景细节，包括在策划会中手机持续响起、费墨中止讲话、严守一接通电话并警告武月，这些内容扩展并丰富了主体情节中的基本中断概念。因此，客体情节对主体情节进行了具体化和补充说明。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ebad526204d0",
+    "subject_id": "ep_1ba51a404e17de74",
+    "object_id": "ep_d0926b221f3ba9d5",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对深夜值班中的情感摩擦'描述了严守一和沈雪因照片问题发生言语冲突，而客体情节'严守一进一步哄劝沈雪'描述了严守一后续试图缓和关系的行为。根据事件逻辑顺序，冲突发生后才可能进行哄劝，且相关事件(scene_48)早于(scene_17)，支持该时间顺序。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b7c38a8d1480",
+    "subject_id": "ep_1ba51a404e17de74",
+    "object_id": "ep_95b317be0ff133b3",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对深夜值班中的情感摩擦'描述了严守一和沈雪因照片问题发生冲突的事件，而客体情节'严守一试图道歉并提交检查'描述了严守一在冲突后主动道歉并递交检查的行为。根据事件逻辑顺序，冲突发生后才可能引发道歉行为，且相关事件中未提及道歉发生在冲突前，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c1e7dfcabcf9",
+    "subject_id": "ep_1ba51a404e17de74",
+    "object_id": "ep_b1b1df8e699ca268",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对深夜值班中的情感摩擦'包含严守一与沈雪因照片问题发生言语冲突的事件，而客体情节'严守一阻止沈雪离开并类比检查'描述的是在沈雪沉默取衣时严守一采取行动并用类比试图缓解紧张，这一行为逻辑上发生在冲突之后、关系缓和阶段。相关事件的时间顺序和叙事流表明前者在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eb3b8a3cd4fb",
+    "subject_id": "ep_2e2fbf67904c231e",
+    "object_id": "ep_fbba807a8f4dd32a",
+    "relation_type": "precedes",
+    "reason": "主体情节'启动手机并拨打电话联系武月'描述严守一主动拨打电话的行为，而客体情节'应对家庭来电并维持亲密关系'包含他接听妻子电话并被武月干扰的场景。根据相关事件的时间逻辑，主动拨打电话联系武月应在与武月实际互动并中断家庭通话之前发生，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9f97a5cba9ec",
+    "subject_id": "ep_b446e7c0b2930de7",
+    "object_id": "ep_2e2fbf67904c231e",
+    "relation_type": "precedes",
+    "reason": "严守一在收费站发现忘带手机并决定返家（ep_b446e7c0b2930de7）发生在其后续启动手机并拨打电话联系武月（ep_2e2fbf67904c231e）之前。根据描述，取回手机是拨打电话的前提，且事件序列在叙事中具有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f953de733aed",
+    "subject_id": "ep_2e2fbf67904c231e",
+    "object_id": "ep_a15c17f10f8f3a78",
+    "relation_type": "precedes",
+    "reason": "主体情节描述严守一主动拨打电话联系武月，构成对话的开端；客体情节描述手机铃声打断当前对话，暗示对话已在进行中。因此，拨打电话的行为在叙事顺序上早于手机铃声打断对话，支持'precedes'关系。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3767b3a5ace8",
+    "subject_id": "ep_2e2fbf67904c231e",
+    "object_id": "ep_70610dc74de972db",
+    "relation_type": "precedes",
+    "reason": "主体情节描述严守一在开车回家途中启动手机并拨打电话给武月，是通话建立的初始动作；客体情节描述电话意外接通三矿后众人反应及电话交接，属于通话接通后的后续场景。根据叙事顺序，拨打电话的行为在通话接通和传递之前，且两个情节共享通话建立的上下文，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7064979a1402",
+    "subject_id": "ep_2e2fbf67904c231e",
+    "object_id": "ep_956b80eb41ced173",
+    "relation_type": "precedes",
+    "reason": "主体情节'启动手机并拨打电话联系武月'描述了严守一主动拨打电话的行为，而客体情节'应对武月来电并掩饰行踪'描述了他接听武月来电并进行掩饰的后续互动。根据叙事逻辑和事件顺序，主动拨打电话在时间上先于被叫回应，且'related_events'中显示前者发生在scene_26，后者在scene_33，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_668374d9b092",
+    "subject_id": "ep_36ed86b9659a7fbf",
+    "object_id": "ep_d679b733f5045f0f",
+    "relation_type": "precedes",
+    "reason": "严守一成为知名节目主持人发生在三十年后，而经历青春期的生理变化发生在他十三岁时，因此后者在时间上早于前者。根据叙事时间顺序，'经历青春期的生理变化'在'严守一成为知名节目主持人'之前。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_27778626b24b",
+    "subject_id": "ep_867c51c123a5cecd",
+    "object_id": "ep_eb2517ada43a851a",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在课堂训练期间，严守一因玩手机被提醒注意点名，而第二个情节发生在结业仪式上进行结业点名并准备合影，两个情节共享同一培训场合但处于不同时间点，结业点名明显晚于课堂点名批评，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c7fe9ce0f5d2",
+    "subject_id": "ep_107ec25875265f0b",
+    "object_id": "ep_fbba807a8f4dd32a",
+    "relation_type": "precedes",
+    "reason": "主体情节'触发故事的电话拨打'作为叙事起点，引出主角严守一及其背景，发生在客体情节'应对家庭来电并维持亲密关系'之前，后者涉及严守一在公路上接听妻子电话并与武月互动，时间顺序和叙事结构上明确前者早于后者。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_26f1cc1d494e",
+    "subject_id": "ep_867c51c123a5cecd",
+    "object_id": "ep_206e829dc76e6590",
+    "relation_type": "precedes",
+    "reason": "‘提醒严守一注意课堂点名’发生在第三期主持人台词短训班的课堂阶段（scene_16），而‘执行结业合影拍摄’发生在同一培训的结业场合（scene_31），scene_16在叙事顺序上早于scene_31，因此该情节在时间顺序上先于结业合影。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1a326a5cce3e",
+    "subject_id": "ep_107ec25875265f0b",
+    "object_id": "ep_70610dc74de972db",
+    "relation_type": "precedes",
+    "reason": "主体情节'触发故事的电话拨打'描述了拨打电话的行为，作为故事的起点；客体情节'确认通话接通并传递电话'描述了电话接通后的反应和交接过程。根据叙事顺序，拨打电话必须在通话接通和传递之前发生，且两个情节共享相关场景（scene_6 和 scene_9）的时间线逻辑，支持前者在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b933f83039ba",
+    "subject_id": "ep_107ec25875265f0b",
+    "object_id": "ep_265c4d0682beb119",
+    "relation_type": "precedes",
+    "reason": "主体情节'触发故事的电话拨打'描述的是从通讯录中查找并拨打电话的行为，作为故事的起点；客体情节'交接通话并传达寻人请求'描述的是严守一接过电话后处理通话并明确寻人目的的行为。根据叙事逻辑和事件流程，拨打电话必须在交接通话和传达请求之前发生，因此主体情节在叙事顺序上直接先于客体情节。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d55c5ae147cc",
+    "subject_id": "ep_36ed86b9659a7fbf",
+    "object_id": "ep_a1d406c3d9503479",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述严守一成为知名节目主持人，建立其公共影响力；客体情节具体展示他在《有一说一》节目录制前与观众互动的细节，进一步说明其主持人角色的实际表现和现场情境，从而扩展和丰富了主体情节的内容。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f88303c47de6",
+    "subject_id": "ep_b446e7c0b2930de7",
+    "object_id": "ep_fbba807a8f4dd32a",
+    "relation_type": "precedes",
+    "reason": "主体情节'发现忘带手机并决定返家'发生在收费站交费时（scene_11），而客体情节'应对家庭来电并维持亲密关系'发生在公路上接听妻子电话时（scene_19），scene_11在叙事顺序上早于scene_19，因此该关系为precedes。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9d617464398c",
+    "subject_id": "ep_a9b082bf51c49231",
+    "object_id": "ep_c0dae732828a4adf",
+    "relation_type": "contrasts_with",
+    "reason": "寻找车钥匙以恢复行动控制体现严守一试图维持理性和行为控制，而处理亲密互动与情绪张力则展现他在情感冲动中的挣扎，两者在目标（理性控制 vs. 情感释放）和行为状态（专注任务 vs. 情绪纠缠）上形成并置对比。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_45. 17_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_1378715971ad",
+    "subject_id": "ep_32f07416f7855b32",
+    "object_id": "ep_fbba807a8f4dd32a",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均涉及电话通话中的社会或情感张力，但情境和关系性质相反：一个是在公共会议中因私人电话引发尴尬并被同事调侃，体现公开羞辱和社交不适；另一个是在私人空间中处理家庭责任与婚外亲密关系的冲突，体现情感纠葛与私密张力。两者在场合性质（公共 vs 私人）和关系动态（被取笑 vs 被依恋）上形成对比。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6ffb483e856c",
+    "subject_id": "ep_b446e7c0b2930de7",
+    "object_id": "ep_594a836b52813088",
+    "relation_type": "precedes",
+    "reason": "情节'发现忘带手机并决定返家'发生在收费站场景（scene_11），而'深夜来电引发信任危机'发生在scene_30，根据文档中的场景编号顺序，scene_11早于scene_30，因此该关系在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_52930b5fdd63",
+    "subject_id": "ep_7dd9a19b9781f610",
+    "object_id": "ep_9219fd13f6f08cf0",
+    "relation_type": "precedes",
+    "reason": "情节'严守一整顿会议纪律并重启讨论'发生在策划会期间（scene_44），而'严守一回家并报告工作进展'发生在回家后向于文娟汇报会议情况（scene_29），根据场景编号和事件逻辑顺序，会议中的事件早于回家后的汇报，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_590a1170b4ad",
+    "subject_id": "ep_b931214800159011",
+    "object_id": "ep_6d86cdba7f4ec94b",
+    "relation_type": "precedes",
+    "reason": "严守一准备服药休息发生在卧室就寝互动之前，根据相关场景编号（scene_29 在 scene_30 之前），表明该情节在叙事顺序上早于准备就寝与亲密互动。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0c391b5ca744",
+    "subject_id": "ep_b931214800159011",
+    "object_id": "ep_8114b898d3b35428",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'严守一准备服药休息' 发生在 scene_29，而 '察觉异样气味引发对峙' 发生在 scene_30，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a3ee03f659ff",
+    "subject_id": "ep_b931214800159011",
+    "object_id": "ep_6e05bff22b23dccd",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，严守一准备服药休息（scene_29）发生在发现暧昧短信直面背叛（scene_30）之前，两个情节分别关联到连续的场景编号，表明叙事上的先后顺序。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0c00cfebe1c1",
+    "subject_id": "ep_b931214800159011",
+    "object_id": "ep_594a836b52813088",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'严守一准备服药休息' 发生在 '深夜来电引发信任危机' 之前。前者相关事件位于 scene_29，后者位于 scene_30，文档中场景编号递增表明叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cb4fc81301c7",
+    "subject_id": "ep_265c4d0682beb119",
+    "object_id": "ep_ab5a3aec03ae9c97",
+    "relation_type": "precedes",
+    "reason": "根据描述，'交接通话并传达寻人请求'发生在通话过程中，而'讨论向家人介绍关系的方式'明确发生在通话结束后，因此前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7bf39711ccc5",
+    "subject_id": "ep_6d86cdba7f4ec94b",
+    "object_id": "ep_c0dae732828a4adf",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节分别描绘了严守一与妻子于文娟之间疲惫而克制的亲密互动，以及与武月之间充满张力和试探性的亲密互动。两者在情感基调和关系状态上形成对比：前者是日常婚姻中的疏离与倦怠，后者是婚外关系中的激情与推拉，文本通过并置强化了这种情感对比。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_45. 17_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6cb16efa46bf",
+    "subject_id": "ep_a15c17f10f8f3a78",
+    "object_id": "ep_177da769b61e3d1e",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'手机铃声打断对话'发生在scene_33，而'回应路之信来电并讨论手机使用'发生在scene_34，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5063597be381",
+    "subject_id": "ep_177da769b61e3d1e",
+    "object_id": "ep_32f07416f7855b32",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均涉及手机来电引发的社会互动和尴尬，但情境不同：一个是私人通话被同事询问并引发对攀比的讥讽，另一个是在正式会议中被来电打断后遭调侃。二者并置突显了在不同社交场合下手机使用带来的尴尬与人际张力，形成情境对比。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_76233779ca89",
+    "subject_id": "ep_956b80eb41ced173",
+    "object_id": "ep_7c556589c5828db6",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节内容，'应对武月来电并掩饰行踪'（doc_32）发生在'严守一煮面并关切沈雪'（doc_37）之前，且两者均发生在同一叙事场景链中，前者为冲突性互动，后者为冲突平息后的日常恢复，时间顺序上有明确先后。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_efbe11059218",
+    "subject_id": "ep_0f3fec71348e24ea",
+    "object_id": "ep_7c556589c5828db6",
+    "relation_type": "precedes",
+    "reason": "根据描述，'下课铃响后归还外衣与检查'发生在课堂场景中（doc_16），而'严守一煮面并关切沈雪'发生在冲突平息后的家庭场景中（doc_37），且涉及恢复日常生活节奏，表明该情节在时间上紧随前者之后。叙事顺序和场景转换支持前者在时间上先于后者。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_14b93a33f417",
+    "subject_id": "ep_95b317be0ff133b3",
+    "object_id": "ep_7c556589c5828db6",
+    "relation_type": "precedes",
+    "reason": "根据描述，严守一试图道歉并提交检查（ep_95b317be0ff133b3）发生在冲突期间或刚结束后，而严守一煮面并关切沈雪（ep_7c556589c5828db6）明确发生在冲突平息后，恢复日常生活节奏。因此，道歉情节在叙事顺序上早于煮面情节。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_62fca01a935a",
+    "subject_id": "ep_275b403e70ad1da3",
+    "object_id": "ep_95b317be0ff133b3",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在第三期主持人台词短训班（scene_16），客体情节发生在scene_17，相关事件的场景编号连续且递增，表明叙事顺序上主体情节早于客体情节。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_28f5afaa42d2",
+    "subject_id": "ep_6e05bff22b23dccd",
+    "object_id": "ep_7c556589c5828db6",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述于文娟发现暧昧短信并直面严守一，冲突达到高潮；第二个情节描述冲突平息后严守一煮面并关切沈雪，恢复日常生活节奏。文本中明确提到‘冲突平息后’，表明‘发现暧昧短信直面背叛’在时间顺序上先于‘严守一煮面并关切沈雪’。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_15ef9ace0259",
+    "subject_id": "ep_ab8ddb466f80a201",
+    "object_id": "ep_b1b1df8e699ca268",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在第三期主持人台词短训班（scene_16），客体情节发生在scene_17，根据场景编号的顺序，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7199916cdd84",
+    "subject_id": "ep_867c51c123a5cecd",
+    "object_id": "ep_95b317be0ff133b3",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在第三期主持人台词短训班的课堂场景（doc_15, scene_16），而第二个情节发生在后续场景（doc_16, scene_17），其中严守一试图道歉并提交检查。文本通过文档和场景编号的顺序表明，提醒严守一注意课堂点名在叙事顺序上早于他试图道歉并提交检查的行为。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ad5e681dcc61",
+    "subject_id": "ep_275b403e70ad1da3",
+    "object_id": "ep_b1b1df8e699ca268",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在第三期主持人台词短训班（scene_16），而第二个情节发生在scene_17，表明叙事顺序上前者早于后者。相关事件的场景编号连续且递增，支持严格的时间先后关系。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5882a7e8a59a",
+    "subject_id": "ep_ab8ddb466f80a201",
+    "object_id": "ep_d0926b221f3ba9d5",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在第三期主持人台词短训班（scene_16），客体情节发生在scene_17，根据文档顺序和场景编号，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_145228e47713",
+    "subject_id": "ep_ab8ddb466f80a201",
+    "object_id": "ep_95b317be0ff133b3",
+    "relation_type": "precedes",
+    "reason": "沈雪质问并处置严守一使用手机（ep_ab8ddb466f80a201）发生在严守一试图道歉并提交检查（ep_95b317be0ff133b3）之前，依据事件描述中的行为逻辑顺序：先有严守一上课使用手机被沈雪当场制止并扔掉手机，之后严守一才主动道歉并递交检查以求谅解。相关事件序列和文档上下文支持这一时间先后关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8c874fa6d645",
+    "subject_id": "ep_275b403e70ad1da3",
+    "object_id": "ep_d0926b221f3ba9d5",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在第三期主持人台词短训班（scene_16），客体情节发生在scene_17，根据文档顺序和场景编号，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3d498547939c",
+    "subject_id": "ep_c5ab23b367c526bd",
+    "object_id": "ep_d0926b221f3ba9d5",
+    "relation_type": "precedes",
+    "reason": "主体情节'学员离场与严守一被孤立'发生在第三期主持人台词短训班场景16，客体情节'严守一进一步哄劝沈雪'发生在场景17，场景编号的递进表明叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ae240031a6d2",
+    "subject_id": "ep_ab8ddb466f80a201",
+    "object_id": "ep_0f3fec71348e24ea",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，沈雪质问并处置严守一使用手机（scene_16）发生在下课铃响后归还外衣与检查（scene_17）之前，scene_16和scene_17的编号表明了明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_93ddf9aed2dc",
+    "subject_id": "ep_a15c17f10f8f3a78",
+    "object_id": "ep_956b80eb41ced173",
+    "relation_type": "precedes",
+    "reason": "手机铃声打断对话发生在严守一接听武月来电并掩饰行踪之前，因为手机响起是触发该掩饰行为的直接前序事件，且related_events显示两者均发生在scene_33，铃声响起为初始事件。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_14cf1bea6266",
+    "subject_id": "ep_275b403e70ad1da3",
+    "object_id": "ep_0f3fec71348e24ea",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'严守一要求归还手机引发对峙升级'（scene_16）发生在'下课铃响后归还外衣与检查'（scene_17）之前，scene_16的冲突导致课程中断，随后在scene_17下课铃响时进行外衣与检查的归还，叙事顺序明确。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3108511392b8",
+    "subject_id": "ep_95b317be0ff133b3",
+    "object_id": "ep_c5ab23b367c526bd",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'学员离场与严守一被孤立'（scene_16）发生在'严守一试图道歉并提交检查'（scene_17）之前。因此，主体情节在叙事顺序上晚于客体情节，关系为'precedes'，方向为客体 -> 主体，但因关系类型为有向且定义为A precedes B，故主体不能先于客体。然而，scene_16在文档中编号早于scene_17，表明客体情节先发生，主体情节紧随其后。因此，主体情节并不先于客体，而是被客体所precede。但由于关系方向必须符合subject -> object，而此处subject并未在时间上先于object，故不能成立precedes。重新评估：两个情节之间无明确因果、对比或扩展关系。无足够证据支持任何允许的关系类型，故输出NONE。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e8ede000b15a",
+    "subject_id": "ep_a15c17f10f8f3a78",
+    "object_id": "ep_8e674072e4c1b783",
+    "relation_type": "precedes",
+    "reason": "手机铃声打断对话发生在策划会上讨论手机主题之前，根据事件时序，中断事件为后续提出以手机为主题的节目构想提供了直接的上下文触发，因此该情节在叙事顺序上早于费墨提出新节目构想。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0a101b165d88",
+    "subject_id": "ep_8114b898d3b35428",
+    "object_id": "ep_a15c17f10f8f3a78",
+    "relation_type": "precedes",
+    "reason": "根据描述，'察觉异样气味引发对峙'发生在对话紧张升级的语境中，而'手机铃声打断对话'明确中断了正在进行的交谈，暗示前者在叙事顺序上先于后者发生。文档ID和场景编号（scene_30 vs scene_33）进一步支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_46ad94d00d8a",
+    "subject_id": "ep_867c51c123a5cecd",
+    "object_id": "ep_6db7f1de6341e805",
+    "relation_type": "precedes",
+    "reason": "情节 '提醒严守一注意课堂点名' 发生在第三期主持人台词短训班的课堂场景中（scene_16），而 '离婚后的情感余波与新关系确立' 涉及台词短训班结业时的事件（scene_30），scene_16 在叙事顺序上早于 scene_30，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b8a4a6a41d65",
+    "subject_id": "ep_b1b1df8e699ca268",
+    "object_id": "ep_c5ab23b367c526bd",
+    "relation_type": "precedes",
+    "reason": "严守一阻止沈雪离开并类比检查发生在沈雪离场之后学员陆续离开、严守一被孤立之前，叙事顺序上前者结束直接导致后者开始，且相关事件的时间上下文（scene_17 vs scene_16）表明 ep_b1b1df8e699ca268 在时间上晚于 ep_c5ab23b367c526bd，因此正确方向应为 object -> subject；但根据关系定义，precedes 要求主体在前，故此处不能成立。重新判断：ep_c5ab23b367c526bd 中的事件（如学员离场、提醒、外衣遗留）发生在 scene_16，而 ep_b1b1df8e699ca268 发生在 scene_17，说明主体事件实际在客体之后，因此主体不能 precedes 客体。相反，客体情节在叙事上早于主体情节。由于关系方向必须严格匹配，且不允许反向推断为 subject precedes object，因此无支持关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e268dae3f870",
+    "subject_id": "ep_8e674072e4c1b783",
+    "object_id": "ep_ab8ddb466f80a201",
+    "relation_type": "contrasts_with",
+    "reason": "费墨提出以手机为主题的新节目构想，批判手机对真实沟通的破坏，具有讽刺和反思性质；而沈雪直接处置严守一上课使用手机的行为，体现对规则的严格执行。两个情节围绕手机使用这一共同主题，但在处理方式上形成鲜明对比：一个是通过媒体内容进行社会批判，另一个是通过现实行动维护纪律，构成主题上的并置与基调上的反差。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_d6b8ecb8ff92",
+    "subject_id": "ep_32f07416f7855b32",
+    "object_id": "ep_c5ab23b367c526bd",
+    "relation_type": "causes",
+    "reason": "处理同事电话干扰引发的尴尬直接导致学员对严守一的行为产生负面反应，进而引发沈雪离场及其他学员陆续离开，最终使严守一被孤立。描述中‘有人提醒严守一玩笑过度’表明前一情节中的调侃行为是后一情节中社交后果的直接诱因，构成明确的因果链。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bc4d5e0aaf1d",
+    "subject_id": "ep_d5be40f68ab4c8c3",
+    "object_id": "ep_faf83a5193b4ec72",
+    "relation_type": "precedes",
+    "reason": "迎接新嫁到村里的表嫂吕桂花是严守一记忆中的早期人事变化，而前往邮局是后续具体行动，两者在叙事时间线上呈现先后顺序，吕桂花的到来为后续共同出行提供人物关系基础。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_43e524afef24",
+    "subject_id": "ep_d5be40f68ab4c8c3",
+    "object_id": "ep_d0c85c9aad214a85",
+    "relation_type": "precedes",
+    "reason": "吕桂花嫁到村里是严守一与她共同启程前往镇里的前提，事件顺序上，她的到来早于两人骑行出发的行为，且描述中表明这是严守一记忆中的人事变化起点，支持该时间顺序。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f64f430c9e67",
+    "subject_id": "ep_d5be40f68ab4c8c3",
+    "object_id": "ep_d072d323f9b20c39",
+    "relation_type": "elaborates",
+    "reason": "迎接新嫁到村里的表嫂吕桂花这一情节建立了吕桂花的身份和她在村中的初次出现，而吕桂花送饭并离开则进一步展示了她与严守一之间的互动细节，扩展了她作为新成员融入情境的行为表现，因此后者通过具体行为细节对前者进行了补充和扩展。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_bfebc06dfbe2",
+    "subject_id": "ep_d5be40f68ab4c8c3",
+    "object_id": "ep_e594b232898964e5",
+    "relation_type": "precedes",
+    "reason": "迎接新嫁到村里的表嫂吕桂花是严守一与吕桂花互动的初始事件，骑行前往镇里发生在其后，作为后续行动。描述中‘严守一载着吕桂花’暗示两人关系已建立，承接‘迎接’之后的情境，因此‘迎接’在叙事顺序上早于‘骑行前往镇里’。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b02c94ca820b",
+    "subject_id": "ep_a7f4775bb17ad8e4",
+    "object_id": "ep_9311c4589be4e4ce",
+    "relation_type": "precedes",
+    "reason": "处理砖头哥的来电请求发生在洗脚过程中于文娟发泄情绪并结束通话之前。根据相关场景（scene_20 和 scene_22）的时间顺序，于文娟先尝试联系严守一但发现手机关机，随后在后续场景中因情绪激动而重重放下电话，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3fdee35235b6",
+    "subject_id": "ep_80df830aca805281",
+    "object_id": "ep_79b51ced2544ed79",
+    "relation_type": "precedes",
+    "reason": "处理严守一的来电并产生疑虑发生在严守一结束对话并离开住所之前，因为于文娟在接听电话并产生疑虑时仍处于家庭互动过程中，而严守一的离开标志着该互动的终结，叙事时间线上前者早于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b9be9c3a9ee7",
+    "subject_id": "ep_80df830aca805281",
+    "object_id": "ep_e5df11c0c328b04d",
+    "relation_type": "precedes",
+    "reason": "情节 '处理严守一的来电并产生疑虑' 发生在于文娟接听电话并产生疑虑时，而 '应对妻子对来电的质询' 发生在严守一回家后面对妻子的质询并掩饰反应，叙事顺序上前者明确早于后者，且后者的情节触发依赖于前者中电话事件的发生。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_74b16930c04b",
+    "subject_id": "ep_80df830aca805281",
+    "object_id": "ep_9219fd13f6f08cf0",
+    "relation_type": "precedes",
+    "reason": "于文娟接听严守一的来电并产生疑虑（ep_80df830aca805281）发生在严守一回家并报告工作进展（ep_9219fd13f6f08cf0）之前，根据叙事顺序，前者在场景10，后者在场景29，时间顺序明确，支持precedes关系。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0642d001d540",
+    "subject_id": "ep_80df830aca805281",
+    "object_id": "ep_fbba807a8f4dd32a",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节展示于文娟在家中接听严守一来电并产生疑虑，体现家庭关系中的怀疑与疏离；第二个情节展示严守一在外部情境中主动结束与妻子的通话并转向婚外亲密关系，二者在情感状态和关系动态上形成明显对比：一方是怀疑与被动思索，另一方是主动切断联系并投入婚外情，构成家庭责任与婚外欲望之间的张力对比。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ed99f97ae853",
+    "subject_id": "ep_80df830aca805281",
+    "object_id": "ep_e7a43abed60e6e71",
+    "relation_type": "causes",
+    "reason": "于文娟在接听严守一的来电并遭遇对方 abrupt 挂断后产生疑虑，这一情节直接引发她后续要求严守一脱衣查验身体的行为，最终导致牙印被发现和情绪崩溃。描述中‘引发她的思索和疑虑’与‘命令脱衣揭露身体证据’之间存在明确的因果链条，疑虑的积累直接触发了揭露行为，因此支持‘causes’关系。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6113d7d93022",
+    "subject_id": "ep_80df830aca805281",
+    "object_id": "ep_6db7f1de6341e805",
+    "relation_type": "precedes",
+    "reason": "处理严守一的来电并产生疑虑（ep_80df830aca805281）发生于离婚前，严守一仍处于婚姻状态且于文娟接听其来电；而离婚后的情感余波与新关系确立（ep_6db7f1de6341e805）明确发生在离婚后半年，时间顺序上前者早于后者，叙事顺序清晰。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c0a62027198a",
+    "subject_id": "ep_727c7bd5bd913e8c",
+    "object_id": "ep_79b51ced2544ed79",
+    "relation_type": "precedes",
+    "reason": "于文娟回应严守一的疲惫状态发生在严守一结束对话并离开住所之前，描述中显示于文娟关切互动后，严守一才以离开为由打开门走出房间，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fe9ecd18980f",
+    "subject_id": "ep_727c7bd5bd913e8c",
+    "object_id": "ep_d1bf69a526a3b16a",
+    "relation_type": "precedes",
+    "reason": "于文娟回应严守一的疲惫状态发生在严守一打断亲热并寻找纪录片之前，根据文档顺序（doc_28 在 doc_29 之前）和场景连续性，该情节在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0ff2efc4d7c5",
+    "subject_id": "ep_727c7bd5bd913e8c",
+    "object_id": "ep_594a836b52813088",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'于文娟回应严守一的疲惫状态'发生在scene_29，而'深夜来电引发信任危机'发生在scene_30，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_edb4c08d9cee",
+    "subject_id": "ep_727c7bd5bd913e8c",
+    "object_id": "ep_6e05bff22b23dccd",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'于文娟回应严守一的疲惫状态'（scene_29）发生在于文娟查看短信并直面背叛（scene_30）之前，文档中scene编号的递增顺序支持该叙事时序。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_67d9946f3cbf",
+    "subject_id": "ep_727c7bd5bd913e8c",
+    "object_id": "ep_e7a43abed60e6e71",
+    "relation_type": "precedes",
+    "reason": "于文娟回应严守一的疲惫状态发生在她命令脱衣揭露身体证据之前，根据相关事件的时间顺序和叙事流程，前者（关闭电视并走向严守一）为后续脱衣查验行为的铺垫，具有明确的先后顺序。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2e3c34e7999f",
+    "subject_id": "ep_80df830aca805281",
+    "object_id": "ep_6e05bff22b23dccd",
+    "relation_type": "precedes",
+    "reason": "于文娟在打扫时接听严守一的来电并产生疑虑（ep_80df830aca805281），这一情节触发了她对丈夫行为的初步怀疑；随后她查看严守一深夜收到的暧昧短信并直面背叛（ep_6e05bff22b23dccd），冲突升级。根据叙事逻辑和因果链条，产生疑虑在时间顺序和情节发展上早于直面背叛，且文档中两个情节分别由独立场景（scene_10 和 scene_30）支持，表明明确的先后顺序。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_966a07d03803",
+    "subject_id": "ep_727c7bd5bd913e8c",
+    "object_id": "ep_8114b898d3b35428",
+    "relation_type": "precedes",
+    "reason": "于文娟回应严守一的疲惫状态发生在她察觉严守一身上有异样气味之前，根据文档顺序（doc_28 在 doc_29 之前）和场景连续性（scene_29 在 scene_30 之前），该关系在叙事顺序上明确支持。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_84cae91cd8fd",
+    "subject_id": "ep_727c7bd5bd913e8c",
+    "object_id": "ep_6db7f1de6341e805",
+    "relation_type": "precedes",
+    "reason": "于文娟回应严守一的疲惫状态发生在离婚前的互动场景（scene_29），而离婚后的情感余波与新关系确立涉及离婚后的事件及半年后的发展（scene_30），因此前者在叙事时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f628693d9c5c",
+    "subject_id": "ep_80df830aca805281",
+    "object_id": "ep_594a836b52813088",
+    "relation_type": "precedes",
+    "reason": "ep_80df830aca805281 描述于文娟在打扫时接听严守一的手机来电并产生疑虑，该事件发生在 doc_9 的 scene_10；而 ep_594a836b52813088 描述深夜来电引发信任危机，发生在 doc_29 的 scene_30。根据文档编号和场景编号的顺序，ep_80df830aca805281 在叙事时间线上早于 ep_594a836b52813088，构成明确的先后关系。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e37cf419f9c6",
+    "subject_id": "ep_38359b37fb02ec3b",
+    "object_id": "ep_956b80eb41ced173",
+    "relation_type": "causes",
+    "reason": "武月在车内通过电话质问对方的谎言直接触发了严守一接听电话并掩饰行踪的行为。两个情节共享同一通电话事件（scene_33），且严守一的掩饰行为是对武月质问的即时反应，文本明确支持这一因果链。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1ff45df413b8",
+    "subject_id": "ep_727c7bd5bd913e8c",
+    "object_id": "ep_6d86cdba7f4ec94b",
+    "relation_type": "precedes",
+    "reason": "于文娟回应严守一的疲惫状态（ep_727c7bd5bd913e8c）发生在严守一表达筋疲力尽之前，根据相关事件的时间顺序：于文娟关闭电视并走向严守一（scene_29）在严守一回应疲惫（scene_30）之前，因此该情节在叙事顺序上早于准备就寝与亲密互动（ep_6d86cdba7f4ec94b）。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_090ba8537ebd",
+    "subject_id": "ep_30e79288898c8545",
+    "object_id": "ep_bec22c5c272e61f3",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'费墨尝试联系并批评严守一关机行为'（scene_25）发生在'费墨表达对会议纪律的不满'（scene_44）之前，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ae1f16759562",
+    "subject_id": "ep_d70714f7a08a105c",
+    "object_id": "ep_7dd9a19b9781f610",
+    "relation_type": "precedes",
+    "reason": "接听于文娟电话并回忆会议安排发生在严守一整顿会议纪律并重启讨论之前，因为费墨在电话中经提醒才记起会议安排，此情节为后续会议事件的前置认知准备，时间顺序由事件逻辑支持。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_64dfd4102d65",
+    "subject_id": "ep_d70714f7a08a105c",
+    "object_id": "ep_bec22c5c272e61f3",
+    "relation_type": "precedes",
+    "reason": "接听于文娟电话并回忆会议安排发生在费墨表达对会议纪律不满之前，因为前者是费墨在散步时被提醒会议安排的记忆恢复事件，而后者是在会议进行中因干扰加剧而产生的反应，叙事时间线上有明确先后顺序。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e8d7074e62aa",
+    "subject_id": "ep_586d1cd93ad786f0",
+    "object_id": "ep_8e674072e4c1b783",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在策划会场景中，但第一个情节（阐述节目选题的核心原则）出现在文档41，第二个情节（费墨提出以手机为主题的新节目构想）出现在文档43，且相关场景分别为scene_42和scene_44，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8641539629a6",
+    "subject_id": "ep_b698d35ebeb811bf",
+    "object_id": "ep_bec22c5c272e61f3",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对会议中的电话干扰'发生在策划会中，严守一接电话并警告武月，随后在客体情节'费墨表达对会议纪律的不满'中，费墨因持续干扰而起身离开。相关事件的时间顺序（scene_42 先于 scene_44）和叙事流程表明前者在时间上早于后者。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e0fcfff4fa5b",
+    "subject_id": "ep_956b80eb41ced173",
+    "object_id": "ep_bec22c5c272e61f3",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对武月来电并掩饰行踪'发生在场景33，客体情节'费墨表达对会议纪律的不满'发生在场景44，文档中场景编号的递增顺序表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bf561efa521c",
+    "subject_id": "ep_188a632e433bd450",
+    "object_id": "ep_8e674072e4c1b783",
+    "relation_type": "precedes",
+    "reason": "费墨在重启讨论并转换核心比喻后，紧接着提出以手机为主题的新节目构想，两个情节均发生在同一策划会（scene_44）中，且描述中的事件顺序表明前者在话语流程上直接早于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3106fae245fc",
+    "subject_id": "ep_bec22c5c272e61f3",
+    "object_id": "ep_8e674072e4c1b783",
+    "relation_type": "precedes",
+    "reason": "费墨表达对会议纪律的不满（起身离开）发生在其提出以手机为主题的新节目构想之前，根据相关事件在scene_44中的叙述顺序，情绪反应和非语言抗议先于正式提议，表明该情节在叙事时序上早于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b554efc4c165",
+    "subject_id": "ep_10a60c21f9abd78b",
+    "object_id": "ep_bec22c5c272e61f3",
+    "relation_type": "precedes",
+    "reason": "根据描述，费墨指出严守一在节目中的错误并导致沉默（ep_10a60c21f9abd78b）发生在严守一模仿电话对话引发进一步干扰之前；随后在干扰持续下，费墨表达不满并离开（ep_bec22c5c272e61f3）。因此，第一个情节在叙事顺序上早于第二个情节，支持 'precedes' 关系。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_74cfe08f0203",
+    "subject_id": "ep_32f07416f7855b32",
+    "object_id": "ep_bec22c5c272e61f3",
+    "relation_type": "causes",
+    "reason": "处理同事电话干扰引发的尴尬这一情节中，严守一模仿电话对话取笑同事，导致会议进一步被打断，直接触发了费墨表达对会议纪律的不满，表现为他起身离开。文本明确支持这一因果链：干扰行为加剧后，费墨以非语言方式表达强烈不满。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_871c8e0734f0",
+    "subject_id": "ep_bec22c5c272e61f3",
+    "object_id": "ep_7dd9a19b9781f610",
+    "relation_type": "precedes",
+    "reason": "费墨表达对会议纪律的不满（起身离开）发生在严守一整顿会议纪律并重启讨论（要求关机、制止离场）之前，根据事件描述的逻辑顺序和相关场景（scene_44）中的行为序列，费墨的离场行为是严守一采取整顿行动的直接导火索。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ca2b6f9f97cf",
+    "subject_id": "ep_7dd9a19b9781f610",
+    "object_id": "ep_188a632e433bd450",
+    "relation_type": "precedes",
+    "reason": "严守一整顿会议纪律并重启讨论发生在费墨转换核心比喻之前，因为会议纪律整顿后费墨才重新开始发言并引入新比喻。两个情节共享同一场景（scene_44），且描述中显示费墨是在被劝回并情绪激动后，才放弃原比喻转而提出新类比，表明时间顺序上的先后关系。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_395103ed9cbe",
+    "subject_id": "ep_4a24af2a55e8285b",
+    "object_id": "ep_262dcaa09e2ae1e2",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节内容，'处理深夜喧哗并查房'（doc_45）发生在'搜寻宿舍并发现留守女生'（doc_46）之前，且两者均涉及沈雪用手电筒查房，构成连续的夜间巡查行动，前者为后者的时间和行动上的前序。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6e0bc7f125c2",
+    "subject_id": "ep_7f532ec915179b43",
+    "object_id": "ep_e20d8e9108e4d449",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述严守一打电话询问牛三斤下落并被挂断，客体情节描述广播系统在工地反复播放寻人消息，两者共同围绕寻找牛三斤展开；客体通过展示寻人信息在工地的实际传播，扩展并补充了主体事件的后续影响和背景，构成对主体情节的进一步说明。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_44b963487b1d",
+    "subject_id": "ep_1cbd81ca7d18139d",
+    "object_id": "ep_a69844d8f97b1b08",
+    "relation_type": "precedes",
+    "reason": "突袭观察学生动态发生在沈雪检查被逮着的学生之前，因为前者是发现学生异常的准备行动，后者是发现后展开的问责行动，且两个情节分别位于文档47和49，按顺序排列，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_05bfedfa0a4e",
+    "subject_id": "ep_1ba51a404e17de74",
+    "object_id": "ep_403292b1022c439c",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对深夜值班中的情感摩擦'描述了严守一和沈雪之间的言语冲突，而客体情节'沈雪情绪缓和并接受和解'描述了冲突的化解。根据事件顺序，冲突发生在前，和解发生在后，且和解情节中的行为（被逗笑、接过外衣离开）是冲突之后的结果，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0396d045a52b",
+    "subject_id": "ep_1ba51a404e17de74",
+    "object_id": "ep_cba18432411a6c5b",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对深夜值班中的情感摩擦'发生在深夜值班期间，涉及严守一和沈雪因照片问题产生的直接冲突；客体情节'沈雪表达不满并设定课堂规则'中，沈雪通过放下手机和声明规则来确立边界，该行为在叙事逻辑上是前一冲突的后续反应。尽管两个情节来自不同文档，但事件链条显示情感摩擦在先，设定规则作为回应在后，因此支持'precedes'关系。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e742fe9c0eb0",
+    "subject_id": "ep_aad4ae24400d8ce3",
+    "object_id": "ep_206e829dc76e6590",
+    "relation_type": "precedes",
+    "reason": "‘宣布开课与点名处理旷课’发生在第三期主持人台词短训班的开课阶段，而‘执行结业合影拍摄’发生在同一培训的结业阶段，二者属于同一场合的时间序列两端。根据叙事顺序，开课情节明确早于结业情节。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_697eef721b0d",
+    "subject_id": "ep_aad4ae24400d8ce3",
+    "object_id": "ep_eb2517ada43a851a",
+    "relation_type": "precedes",
+    "reason": "主体情节'宣布开课与点名处理旷课'发生在第三期主持人台词短训班的开课阶段，而客体情节'完成结业点名并准备合影'发生在同一培训课程的结业仪式阶段。根据常识性课程流程和文本中隐含的时间顺序，开课事件必然早于结业事件，因此主体情节在叙事顺序上先于客体情节。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dce93707ebab",
+    "subject_id": "ep_98c93f6b0c82efce",
+    "object_id": "ep_ca0a883733b90061",
+    "relation_type": "precedes",
+    "reason": "沈雪被迫连续饮酒以维护面子发生在奶奶的寿宴场景（scene_37），而沈雪发泄不满并质问严守一发生在后续的厨房场景（scene_38），文本中场景编号的递进和事件的自然流程表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a8b99c36f85b",
+    "subject_id": "ep_1b6dc86f59d4d473",
+    "object_id": "ep_ca0a883733b90061",
+    "relation_type": "precedes",
+    "reason": "沈雪向奶奶诉苦被欺负发生在寿宴场合中，情绪表达较为克制，以玩笑方式呈现；随后她冲进厨房质问严守一并采取激烈行为，情绪升级。根据叙事顺序和情绪发展，前者在时间上早于后者，且文档ID（doc_36 vs doc_37）支持该顺序。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c90286eb5b6b",
+    "subject_id": "ep_1b6dc86f59d4d473",
+    "object_id": "ep_9704bcf7ddfc434c",
+    "relation_type": "precedes",
+    "reason": "沈雪向奶奶诉苦被欺负发生在劝酒冲突之前，根据描述，她在连续饮酒过程中感到委屈并诉苦，随后劝酒小伙闯入厨房强求喝酒并引发推搡，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a31538b70c7a",
+    "subject_id": "ep_8ee1fee57cc67255",
+    "object_id": "ep_ca0a883733b90061",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在奶奶的寿宴（scene_37），包含多个与敬酒相关的事件；客体情节发生在scene_38，涉及沈雪在厨房对严守一发泄不满。scene_37在叙事顺序上早于scene_38，且客体情节中沈雪抱怨劝酒行为，可视为对主体情节中劝酒僵局的后续情绪反应。因此，主体情节在话语顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_589b76bed702",
+    "subject_id": "ep_a613e8c6da2d3d7f",
+    "object_id": "ep_cba18432411a6c5b",
+    "relation_type": "precedes",
+    "reason": "实体#1发生在第三期主持人台词短训班的scene_16，而实体#2发生在scene_17，根据文档顺序和相关场景编号，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_93625e5564c4",
+    "subject_id": "ep_403292b1022c439c",
+    "object_id": "ep_7c556589c5828db6",
+    "relation_type": "precedes",
+    "reason": "根据描述，'沈雪情绪缓和并接受和解'发生在教室内冲突的化解阶段，而'严守一煮面并关切沈雪'明确发生在冲突平息后，恢复日常生活节奏的场景中。因此，前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8f0d34ea6f41",
+    "subject_id": "ep_275b403e70ad1da3",
+    "object_id": "ep_cba18432411a6c5b",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'严守一要求归还手机引发对峙升级' 发生在 scene_16，而 '沈雪表达不满并设定课堂规则' 发生在 scene_17，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7d5dbd981946",
+    "subject_id": "ep_ab8ddb466f80a201",
+    "object_id": "ep_cba18432411a6c5b",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在第三期主持人台词短训班的scene_16，客体情节发生在scene_17，scene编号的递增表明叙事顺序上前者早于后者，且两个情节均围绕沈雪对严守一的课堂管理行为展开，具有连续性。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2a32a60d3fb5",
+    "subject_id": "ep_a613e8c6da2d3d7f",
+    "object_id": "ep_d49718f006e47fc3",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在第三期主持人台词短训班的第16场，沈雪介绍自己并强调台词基本功，引发学员质疑；第二个情节发生在第17场，沈雪准备离开教室。根据相关场景编号的顺序，前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3c189791a711",
+    "subject_id": "ep_c5ab23b367c526bd",
+    "object_id": "ep_cba18432411a6c5b",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'学员离场与严守一被孤立' 发生在沈雪表达不满之后，因为沈雪离场引发其他学员离开，随后在下一场景中沈雪才通过放下手机和声明设定规则，表明后者在叙事顺序上紧随其前。因此，主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a4fca79d1b26",
+    "subject_id": "ep_2fff14fa7b4ca2ea",
+    "object_id": "ep_d49718f006e47fc3",
+    "relation_type": "precedes",
+    "reason": "沈雪以沉默回应严守一的漠视发生在学员哄笑后且严守一仍在低头玩手机时，而沈雪准备离开教室发生在课程接近尾声，她收拾教案并取外衣。根据描述的时间顺序，前者发生在课程进行中，后者标志着课程结束，因此在叙事顺序上，主体情节早于客体情节。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d78e5b06ce2f",
+    "subject_id": "ep_2fff14fa7b4ca2ea",
+    "object_id": "ep_cba18432411a6c5b",
+    "relation_type": "precedes",
+    "reason": "沈雪以沉默回应严守一的漠视发生在学员哄笑后，而沈雪表达不满并设定课堂规则紧随其后，通过重重放下手机和口头声明进一步升级反应。related_events中的scene_16和scene_17表明明确的时序顺序，且两个情节共享同一教学场合的上下文，支持前一情节在叙事顺序上早于后一情节。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_356a462e496a",
+    "subject_id": "ep_ab8ddb466f80a201",
+    "object_id": "ep_d49718f006e47fc3",
+    "relation_type": "precedes",
+    "reason": "情节 '沈雪质问并处置严守一使用手机' 发生在第三期主持人台词短训班的 scene_16，而 '沈雪准备离开教室' 发生在 scene_17，且描述中显示课程接近尾声，表明该情节紧随前者之后。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6e9782c67c63",
+    "subject_id": "ep_aad4ae24400d8ce3",
+    "object_id": "ep_cba18432411a6c5b",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述沈雪老师在开课时宣布出勤情况并处理旷课，引发学员反应，课堂秩序开始失控；第二个情节描述沈雪随后通过放下手机和口头声明表达对严守一的不满，并设定课堂规则。两个情节发生在连续的场景（scene_16 和 scene_17）中，且叙事顺序明确，前者为后者提供上下文，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_45e96f3aab7d",
+    "subject_id": "ep_2fff14fa7b4ca2ea",
+    "object_id": "ep_403292b1022c439c",
+    "relation_type": "precedes",
+    "reason": "沈雪以沉默回应严守一的漠视发生在学员哄笑后，而沈雪情绪缓和并接受和解发生在后续哄劝和互动之后，相关事件的叙述顺序表明前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ebc146d6fc65",
+    "subject_id": "ep_c5ab23b367c526bd",
+    "object_id": "ep_d49718f006e47fc3",
+    "relation_type": "precedes",
+    "reason": "根据描述，'学员离场与严守一被孤立'发生在沈雪离场之后，其他学员陆续离开，而'沈雪准备离开教室'是课程尾声时沈雪收拾教案并取外衣的行为，时间上早于主体情节中描述的集体离场和严守一被孤立的结果。因此，客体情节在叙事顺序上先于主体情节。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d2be8e8df40b",
+    "subject_id": "ep_275b403e70ad1da3",
+    "object_id": "ep_d49718f006e47fc3",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在第三期主持人台词短训班期间（doc_15），描述的是严守一与沈雪的对峙导致课程中断；客体情节发生在课程接近尾声时（doc_16），描述沈雪准备离开教室。根据文档顺序和情节发展逻辑，对峙升级导致教学活动中断，随后沈雪准备离开，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_340cf7d9e6b6",
+    "subject_id": "ep_403292b1022c439c",
+    "object_id": "ep_c5ab23b367c526bd",
+    "relation_type": "precedes",
+    "reason": "沈雪情绪缓和并接受和解后离开教室，随后其他学员陆续离场并留下严守一独自一人，叙事顺序上前者直接早于后者，且‘沈雪离场’是连接两个情节的关键动作。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_541ce1faf808",
+    "subject_id": "ep_cba18432411a6c5b",
+    "object_id": "ep_6db7f1de6341e805",
+    "relation_type": "precedes",
+    "reason": "沈雪表达不满并设定课堂规则（ep_cba18432411a6c5b）发生在台词短训班期间（scene_17），而严守一在离婚后情感转移并表达娶沈雪意愿（ep_6db7f1de6341e805）发生在短训班结业时（scene_30），scene_17在叙事顺序上早于scene_30，因此该关系为precedes。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9954a708140f",
+    "subject_id": "ep_aad4ae24400d8ce3",
+    "object_id": "ep_403292b1022c439c",
+    "relation_type": "precedes",
+    "reason": "‘宣布开课与点名处理旷课’发生在教室场景的开始阶段（doc_15, scene_16），而‘沈雪情绪缓和并接受和解’发生在后续哄劝情节中（doc_16, scene_17），文本中场景编号和事件顺序表明前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ba9a585e4bef",
+    "subject_id": "ep_5551af76f6739871",
+    "object_id": "ep_ab5a3aec03ae9c97",
+    "relation_type": "precedes",
+    "reason": "在场景 scene_33 中，沈雪先讲述父子笑话并引发笑声，随后在通话结束后讨论如何向奶奶介绍关系，两个情节按时间顺序先后发生，且描述中明确分隔为连续但独立的互动单元。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c3fb2226b39c",
+    "subject_id": "ep_275b403e70ad1da3",
+    "object_id": "ep_403292b1022c439c",
+    "relation_type": "precedes",
+    "reason": "情节 '严守一要求归还手机引发对峙升级' 发生在第三期主持人台词短训班（scene_16），而 '沈雪情绪缓和并接受和解' 发生在 scene_17，scene_16 在叙事顺序上明确早于 scene_17，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_97d51f1b83f5",
+    "subject_id": "ep_5551af76f6739871",
+    "object_id": "ep_c5ab23b367c526bd",
+    "relation_type": "precedes",
+    "reason": "讲述并回应父子笑话发生在沈雪离场之前，而沈雪离场触发了其他学员陆续离开教室及严守一被孤立的情节。根据事件序列，笑话分享在叙事顺序上直接早于学员离场与严守一被孤立。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f10157de08e6",
+    "subject_id": "ep_2fff14fa7b4ca2ea",
+    "object_id": "ep_6db7f1de6341e805",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述沈雪以沉默回应严守一的漠视，发生在台词短训班期间；客体情节描述离婚后情感余波及严守一与沈雪关系的变化，包括结业时关系转变和他表达娶沈雪意愿。主体情节通过展示两人早期互动细节，为客体情节中关系变化提供情感和行为背景，构成对后续情感重心转移的铺垫与扩展。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_19f2ba19796a",
+    "subject_id": "ep_cba18432411a6c5b",
+    "object_id": "ep_d0926b221f3ba9d5",
+    "relation_type": "precedes",
+    "reason": "沈雪表达不满并设定课堂规则发生在严守一进一步哄劝沈雪之前，因为设定规则是引发后续哄劝行为的直接前提，文本中事件顺序支持这一时间先后关系。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4f57f4b4d63d",
+    "subject_id": "ep_ab8ddb466f80a201",
+    "object_id": "ep_403292b1022c439c",
+    "relation_type": "precedes",
+    "reason": "沈雪质问并处置严守一使用手机（ep_ab8ddb466f80a201）发生在教室内冲突升级的场景（scene_16），而沈雪情绪缓和并接受和解（ep_403292b1022c439c）描述的是后续冲突化解的过程，包含‘被逗笑’和‘接过外衣离开’等动作，逻辑上必须在冲突发生之后。两个情节共享同一教学场合上下文，且叙事顺序明确，前者为冲突爆发，后者为冲突缓和，因此前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_825ea242a7ff",
+    "subject_id": "ep_d49718f006e47fc3",
+    "object_id": "ep_b1b1df8e699ca268",
+    "relation_type": "precedes",
+    "reason": "沈雪准备离开教室（取衣、收拾教案）发生在严守一阻止她离开并进行类比检查之前，根据场景时序逻辑，前者是触发后者反应的前置行为，叙事顺序明确。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_712cab8d341a",
+    "subject_id": "ep_e80988cde1556c89",
+    "object_id": "ep_c2feb755e135e416",
+    "relation_type": "precedes",
+    "reason": "轿车抵达并下车是女生们到达现场的初始场景，标志着活动的开始；随后严守一才开始清点人数并表达好奇。根据事件顺序，客体情节中的观察行为依赖于主体情节中车辆抵达和人员下车的完成，因此主体在叙事时间上先于客体。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_03bca9544e15",
+    "subject_id": "ep_a054621f2d70309e",
+    "object_id": "ep_ca0a883733b90061",
+    "relation_type": "precedes",
+    "reason": "根据描述，农妇干预终止骚扰发生在沈雪发泄不满并质问严守一之前，两者均发生在scene_38，但农妇行动针对小伙骚扰沈雪，随后沈雪冲进厨房表达情绪，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_35c57d6d5825",
+    "subject_id": "ep_95b317be0ff133b3",
+    "object_id": "ep_d49718f006e47fc3",
+    "relation_type": "precedes",
+    "reason": "严守一试图道歉并提交检查发生在沈雪准备离开教室之前，根据场景描述的顺序，严守一的道歉行为是在沈雪收拾教案和取外衣之前发生的，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9853a19f9864",
+    "subject_id": "ep_727c7bd5bd913e8c",
+    "object_id": "ep_b931214800159011",
+    "relation_type": "precedes",
+    "reason": "于文娟回应严守一的疲惫状态发生在严守一准备服药休息之前，根据描述，于文娟在严守一表达疲惫前表现出关切并走向他，而严守一随后走过去并宣布要服药睡觉，表明事件的时间顺序为前者先于后者。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a48effb80677",
+    "subject_id": "ep_95b317be0ff133b3",
+    "object_id": "ep_cba18432411a6c5b",
+    "relation_type": "precedes",
+    "reason": "严守一试图道歉并提交检查发生在沈雪表达不满并设定课堂规则之前，根据相关事件在scene_17中的叙述顺序，严守一先递出检查，随后沈雪才重重放下手机并宣布规则，表明前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_701b8372bf4b",
+    "subject_id": "ep_b1b1df8e699ca268",
+    "object_id": "ep_cba18432411a6c5b",
+    "relation_type": "precedes",
+    "reason": "根据相关事件均发生在scene_17，严守一阻止沈雪离开并类比检查的行为在叙事顺序上先于沈雪表达不满并设定课堂规则，因为前者试图缓解紧张，后者是对该情境的回应，确立边界，表明前者在时间或话语顺序上早于后者。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6b67fc43ce8d",
+    "subject_id": "ep_cba18432411a6c5b",
+    "object_id": "ep_0f3fec71348e24ea",
+    "relation_type": "precedes",
+    "reason": "根据描述，沈雪表达不满并设定课堂规则后，严守一才在下课铃响时归还外衣并检查，两个情节均发生在scene_17，但逻辑和叙事顺序上，设定规则在前，归还行为作为对规则的响应在后。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_78c6ff2ffecf",
+    "subject_id": "ep_b1b1df8e699ca268",
+    "object_id": "ep_403292b1022c439c",
+    "relation_type": "causes",
+    "reason": "严守一阻止沈雪离开并类比检查的行为直接促成了沈雪情绪缓和并接受和解，描述中指出其举动是哄劝的一部分，最终导致沈雪被逗笑并接过外衣离开，构成即时因果链。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b46b2290f295",
+    "subject_id": "ep_95b317be0ff133b3",
+    "object_id": "ep_403292b1022c439c",
+    "relation_type": "precedes",
+    "reason": "严守一试图道歉并提交检查发生在沈雪情绪缓和并接受和解之前，因为他的道歉和递检查举动是引发沈雪被逗笑并最终接过外衣和检查的直接前提，叙事顺序上具有明确的先后关系。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_80a4141800c2",
+    "subject_id": "ep_0f3fec71348e24ea",
+    "object_id": "ep_403292b1022c439c",
+    "relation_type": "causes",
+    "reason": "严守一归还外衣并双手递还的举动直接导致沈雪情绪缓和并接受和解，文本中描述该行为成功缓和气氛，且沈雪随后被逗笑并接过外衣，构成明确的因果链。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bb2c3e6e8355",
+    "subject_id": "ep_d0926b221f3ba9d5",
+    "object_id": "ep_403292b1022c439c",
+    "relation_type": "causes",
+    "reason": "严守一进一步哄劝沈雪的行为直接促成了沈雪情绪缓和并接受和解的结果，描述中明确指出其哄劝举动推动关系缓和，并导致沈雪被逗笑、说出‘讨厌’并最终离开教室，构成直接因果链。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a4943f9d4abe",
+    "subject_id": "ep_310245b3d7dff9dc",
+    "object_id": "ep_98c93f6b0c82efce",
+    "relation_type": "contrasts_with",
+    "reason": "费墨劝阻沈雪逞强饮酒体现对个人健康的关怀，而沈雪被迫连续饮酒以维护面子则反映社会压力下的自我牺牲，二者在个人关怀与集体面子之间形成情感与动机上的对比。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_20790c6a97e8",
+    "subject_id": "ep_310245b3d7dff9dc",
+    "object_id": "ep_cc61e331192099cd",
+    "relation_type": "precedes",
+    "reason": "费墨劝阻沈雪逞强饮酒发生在沈雪喝下第三碟酒之前，而劝酒后提醒吃菜缓解不适发生在饮酒之后，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d7fa8f80d126",
+    "subject_id": "ep_c15e0bb4717368fc",
+    "object_id": "ep_60099dfc4f0ba9d5",
+    "relation_type": "precedes",
+    "reason": "为奶奶庆寿并开始敬酒是寿宴敬酒环节的开端，劝酒成功后众人发笑发生在劝酒行为之后，文本中劝酒成功是敬酒开始后的结果，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ab568055fe70",
+    "subject_id": "ep_310245b3d7dff9dc",
+    "object_id": "ep_60099dfc4f0ba9d5",
+    "relation_type": "contrasts_with",
+    "reason": "费墨劝阻沈雪逞强饮酒表现出对个体关怀和健康担忧，而劝酒成功后众人发笑则体现群体对劝酒成功的娱乐化反应，二者在情感态度和价值取向上形成明显对比。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4333b770ce14",
+    "subject_id": "ep_d49718f006e47fc3",
+    "object_id": "ep_0f3fec71348e24ea",
+    "relation_type": "precedes",
+    "reason": "沈雪准备离开教室（收拾教案并走下讲台取外衣）发生在严守一归还外衣之前，根据描述，下课铃响后严守一才进行归还动作，而沈雪的离开准备始于课程尾声、铃响之前或同时，因此该情节在叙事顺序上先于归还事件。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_defca5a8df44",
+    "subject_id": "ep_60099dfc4f0ba9d5",
+    "object_id": "ep_1b6dc86f59d4d473",
+    "relation_type": "precedes",
+    "reason": "劝酒成功后众人发笑发生在沈雪向奶奶诉苦之前，因为沈雪是在被劝酒并连续饮酒后感到委屈才诉苦的，叙事顺序上劝酒成功在先，诉苦在后。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bd559cdb6b7a",
+    "subject_id": "ep_c15e0bb4717368fc",
+    "object_id": "ep_744168690acc8de1",
+    "relation_type": "elaborates",
+    "reason": "情节 '为奶奶庆寿并开始敬酒' 描述了寿宴上敬酒行为的开始，而 '揭示劝酒背后的地域礼俗' 提供了该行为的文化背景和解释，说明劝酒源于河南待客传统中的尊重与牺牲，因此后者扩展并解释了前者的行为动机和文化内涵。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0100262bafa8",
+    "subject_id": "ep_aad4ae24400d8ce3",
+    "object_id": "ep_867c51c123a5cecd",
+    "relation_type": "precedes",
+    "reason": "‘宣布开课与点名处理旷课’是课堂初始阶段的组织行为，发生在‘提醒严守一注意课堂点名’之前，后者是在点名过程中对个体学员不专注的后续反应，叙事顺序明确。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_72be2873a0af",
+    "subject_id": "ep_a613e8c6da2d3d7f",
+    "object_id": "ep_867c51c123a5cecd",
+    "relation_type": "precedes",
+    "reason": "沈雪强调台词基本功并引发质疑发生在课堂初期，随后严守一在被点名时仍低头玩手机，后排学员提醒他注意点名，叙事顺序明确支持前者早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6ef067ecbe65",
+    "subject_id": "ep_744168690acc8de1",
+    "object_id": "ep_98c93f6b0c82efce",
+    "relation_type": "elaborates",
+    "reason": "‘揭示劝酒背后的地域礼俗’提供文化背景，解释‘沈雪被迫连续饮酒以维护面子’中劝酒行为的社会动因，说明该行为不仅是个人压力，更是根植于地域传统中的尊重与牺牲，因此前者为后者提供文化层面的扩展说明。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6a70c3c075b3",
+    "subject_id": "ep_1b6dc86f59d4d473",
+    "object_id": "ep_cc61e331192099cd",
+    "relation_type": "precedes",
+    "reason": "沈雪向奶奶诉苦被欺负发生在劝酒后提醒吃菜缓解不适之前，因为诉苦是在饮酒过程中表达委屈，而提醒吃菜是在喝完酒后发生的后续行为，两者均发生在奶奶的寿宴场景中，具有紧密的时间顺序。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_87491beff47d",
+    "subject_id": "ep_744168690acc8de1",
+    "object_id": "ep_cc61e331192099cd",
+    "relation_type": "elaborates",
+    "reason": "‘揭示劝酒背后的地域礼俗’提供文化背景解释，扩展了‘劝酒后提醒吃菜缓解不适’中劝酒行为的社会语境，说明该仪式虽具压迫性但包含有限关怀，二者共享‘奶奶的寿宴’场合且描述互补。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_07b7f4d84530",
+    "subject_id": "ep_c15e0bb4717368fc",
+    "object_id": "ep_1b6dc86f59d4d473",
+    "relation_type": "precedes",
+    "reason": "为奶奶庆寿并开始敬酒是寿宴的初始环节，开启敬酒流程，而沈雪在连续饮酒过程中感到委屈并向奶奶诉苦发生在后续阶段，表明前者在叙事时间顺序上早于后者。两个情节共享同一场合'奶奶的寿宴'，且'连续饮酒'暗示敬酒环节已开始，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dfacfe2e02cc",
+    "subject_id": "ep_c15e0bb4717368fc",
+    "object_id": "ep_cc61e331192099cd",
+    "relation_type": "precedes",
+    "reason": "主体情节'为奶奶庆寿并开始敬酒'描述了寿宴敬酒环节的开启，其中某人向奶奶敬酒并劝其饮用；客体情节'劝酒后提醒吃菜缓解不适'发生在沈雪喝完酒之后，砖头哥和小伙提醒她夹菜以缓解饮酒后的辛辣感。两个情节共享同一场合'奶奶的寿宴'，且事件顺序上，敬酒行为必须先于饮酒后提醒吃菜的行为。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  }
+]

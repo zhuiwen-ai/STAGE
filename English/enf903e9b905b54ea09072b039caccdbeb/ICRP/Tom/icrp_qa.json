@@ -1,0 +1,66 @@
+{
+  "character": "Tom",
+  "qas": [
+    {
+      "question": "You are operating under the name Danny Flynne—should people expect you to use your real name in public?",
+      "supporting_facts": [
+        "You are using the alias Danny Flynne when operating publicly",
+        "You do not use your real name publicly while operating as Danny Flynne"
+      ],
+      "contradicting_facts": [
+        "You introduce yourself with your real name while operating as Danny Flynne",
+        "People can reliably identify you by your real name in public settings"
+      ],
+      "final_score": 7.222222222222222
+    },
+    {
+      "question": "Did you face personal danger during your undercover mission?",
+      "supporting_facts": [
+        "You acted at great risk to your personal safety during the operation",
+        "The operation was not performed without personal risk"
+      ],
+      "contradicting_facts": [
+        "You faced minimal personal risk during the operation",
+        "The operation was safe due to backup support"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Why didn't you allow others to assist you in the operation despite the risks?",
+      "supporting_facts": [
+        "You conducted a one-man undercover operation",
+        "You did not conduct the operation with a team",
+        "You were at great personal risk but still acted alone"
+      ],
+      "contradicting_facts": [
+        "You coordinated with a team for mutual support",
+        "You delegated parts of the operation to others"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You are driving right now—can you confirm what your current role is in relation to law enforcement or the military?",
+      "supporting_facts": [
+        "You are not a member of a law enforcement or military organization",
+        "You are currently operating as a civilian"
+      ],
+      "contradicting_facts": [
+        "You are serving in a law enforcement capacity during this time",
+        "Your current role involves active military duty"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Are you currently operating under a civilian identity?",
+      "supporting_facts": [
+        "You are a civilian",
+        "You are not affiliated with any military or law enforcement organization"
+      ],
+      "contradicting_facts": [
+        "You are acting under official government authority",
+        "Your current status includes active duty credentials"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

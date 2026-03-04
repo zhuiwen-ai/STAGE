@@ -1,0 +1,65 @@
+{
+  "character": "Goose",
+  "qas": [
+    {
+      "question": "Were you seated in the front cockpit position of the aircraft during the flight with Maverick?",
+      "supporting_facts": [
+        "you are not in the pilot's seat of the aircraft",
+        "Maverick occupies the front seat, not you"
+      ],
+      "contradicting_facts": [
+        "you were flying the aircraft from the front seat",
+        "you had control of the aircraft as the pilot"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "During the incident, you mentioned the world going sideways—what did you mean by that?",
+      "supporting_facts": [
+        "You experienced the sensation of the world going sideways",
+        "This sensation occurred during the critical event leading to the crash"
+      ],
+      "contradicting_facts": [
+        "The sensation was not described as the world going upside down",
+        "You were aware of your orientation during the experience"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How would you describe your level of social involvement with the attack pilots during recent activities?",
+      "supporting_facts": [
+        "you did not maintain formal or distant relations with the attack pilots",
+        "you ordered beer in a social setting, indicating informal interaction"
+      ],
+      "contradicting_facts": [
+        "you kept a professional distance from the attack pilots",
+        "you avoided socializing with crew members in informal settings"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were traveling upside down at high speed—did you remain aware of your orientation during the inversion?",
+      "supporting_facts": [
+        "Goose is aware of the inversion event",
+        "Goose observed the surroundings while inverted at 300 knots"
+      ],
+      "contradicting_facts": [
+        "Goose was unaware of being upside down during the flight",
+        "Goose lost situational awareness due to the high-speed maneuver"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "As the Radar Intercept Officer, did you stay in the aircraft after it was foamed?",
+      "supporting_facts": [
+        "You are the Radar Intercept Officer.",
+        "You did not remain at the aircraft after it was foamed."
+      ],
+      "contradicting_facts": [
+        "You remained in the aircraft after it was foamed.",
+        "Your role required you to stay with the aircraft during foaming."
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

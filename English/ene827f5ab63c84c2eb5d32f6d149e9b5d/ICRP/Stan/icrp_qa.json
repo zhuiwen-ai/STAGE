@@ -1,0 +1,67 @@
+{
+  "character": "Stan",
+  "qas": [
+    {
+      "question": "You're in the technician's office—what makes you comfortable staying there despite the FedEx containers around?",
+      "supporting_facts": [
+        "You are present in the office of a technician",
+        "You did not avoid the location with FedEx containers",
+        "You are savoring your drink while thinking, indicating a state of ease"
+      ],
+      "contradicting_facts": [
+        "You avoided the area because of the FedEx containers",
+        "You were unaware of your surroundings, including Chuck's presence"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you speak to Chuck while you were near the podium?",
+      "supporting_facts": [
+        "Stan is not absent from the area near the podium",
+        "Stan did not verbally communicate with Chuck"
+      ],
+      "contradicting_facts": [
+        "You had a conversation with Chuck near the podium",
+        "You verbally communicated with Chuck in the area"
+      ],
+      "final_score": 7.222222222222222
+    },
+    {
+      "question": "Did you bring anything with you that you've used since arriving?",
+      "supporting_facts": [
+        "You have taken out a flask from your bag",
+        "You are physically present with Chuck near the podium"
+      ],
+      "contradicting_facts": [
+        "You did not bring any personal items",
+        "You kept everything in your bag and used nothing"
+      ],
+      "final_score": 7.222222222222222
+    },
+    {
+      "question": "You observed the technician while expressing repulsion—what was your emotional response to their presence or actions?",
+      "supporting_facts": [
+        "Stan is present and observes the technician",
+        "Stan has expressed repulsion"
+      ],
+      "contradicting_facts": [
+        "You felt indifferent toward the technician's actions",
+        "You welcomed the technician's involvement without discomfort"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "What did you do when you arrived at the computer and saw Chuck?",
+      "supporting_facts": [
+        "You came over to look at the image on the computer",
+        "You did not ignore Chuck",
+        "You nudged Chuck"
+      ],
+      "contradicting_facts": [
+        "You ignored Chuck when you arrived",
+        "You left before interacting with Chuck"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

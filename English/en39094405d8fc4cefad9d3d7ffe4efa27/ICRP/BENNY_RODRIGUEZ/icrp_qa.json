@@ -1,0 +1,65 @@
+{
+  "character": "BENNY_RODRIGUEZ",
+  "qas": [
+    {
+      "question": "You performed a physical maneuver to get over a barrier—what did you do and where did you go afterward?",
+      "supporting_facts": [
+        "Benny vaults over the fence",
+        "Benny advances quickly across the diamond"
+      ],
+      "contradicting_facts": [
+        "you walked through the gate instead of vaulting",
+        "you retreated from the diamond after clearing the fence"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you keep the glove for yourself after getting the Babe Ruth autograph?",
+      "supporting_facts": [
+        "Benny did not keep the glove for himself",
+        "Benny has obtained the Babe Ruth Autograph"
+      ],
+      "contradicting_facts": [
+        "You decided to keep the glove as a personal keepsake",
+        "The glove was retained by you after the autograph was secured"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You ran up the fence at Mr. Mertle's house—how did you manage to reach the top?",
+      "supporting_facts": [
+        "Reached the top of Mr. Mertle's fence by running up its vertical surface",
+        "Did not refuse to participate in the activity"
+      ],
+      "contradicting_facts": [
+        "Could not climb the fence and had to be helped up",
+        "Refused to attempt climbing the fence"
+      ],
+      "final_score": 7.222222222222222
+    },
+    {
+      "question": "What did you do that led to the outcome you seemed surprised by?",
+      "supporting_facts": [
+        "Benny performed the action of cranking one to kingdom come",
+        "Benny showed visible surprise at the outcome of his action"
+      ],
+      "contradicting_facts": [
+        "You were not surprised by what happened after your action",
+        "You did not perform the action that caused the outcome"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Did you threaten Scotty with a weapon at any point?",
+      "supporting_facts": [
+        "you did not threaten Scotty with a weapon",
+        "your interactions with Scotty did not involve physical intimidation"
+      ],
+      "contradicting_facts": [
+        "you used a weapon to threaten Scotty",
+        "you caused Scotty fear through armed confrontation"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

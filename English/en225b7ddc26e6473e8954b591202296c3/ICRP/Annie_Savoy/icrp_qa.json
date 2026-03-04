@@ -1,0 +1,77 @@
+{
+  "character": "Annie_Savoy",
+  "qas": [
+    {
+      "question": "Did you leave a note for Crash, and do you expect him to read it?",
+      "supporting_facts": [
+        "The note Crash receives is from you",
+        "You intended Crash to receive the note"
+      ],
+      "contradicting_facts": [
+        "The note was meant for someone else",
+        "You did not write or send any note to Crash"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Where were you positioned while observing the performance involving Crash and Max?",
+      "supporting_facts": [
+        "You were seated at your own table in the corner.",
+        "You watched the performance while remaining seated."
+      ],
+      "contradicting_facts": [
+        "You were standing during the performance.",
+        "You moved close to Crash during the performance."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Were you present in a setting where music was part of the environment?",
+      "supporting_facts": [
+        "You were present while music was playing.",
+        "The location was a Durham, North Carolina neighborhood where the event occurred."
+      ],
+      "contradicting_facts": [
+        "Music was not playing during your presence.",
+        "You were in a silent environment with no background audio."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Were you aware of what the players were doing during the warm-up?",
+      "supporting_facts": [
+        "You are aware of the players' presence during warm-up",
+        "You are aware of the players' actions during warm-up"
+      ],
+      "contradicting_facts": [
+        "You were unaware of the players' activities during warm-up",
+        "You ignored the players during warm-up"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What were you doing while you were in the bar?",
+      "supporting_facts": [
+        "Annie sighed during the interaction in the bar",
+        "Annie was eating a carrot during the bar interaction"
+      ],
+      "contradicting_facts": [
+        "Annie laughed during the bar interaction",
+        "Annie was not eating anything in the bar"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you treat Nuke with generosity when he asked for something?",
+      "supporting_facts": [
+        "You did not refuse to give anything to Nuke",
+        "Your actions toward Nuke included providing what he requested"
+      ],
+      "contradicting_facts": [
+        "You withheld something from Nuke despite his request",
+        "You refused to give Nuke what he asked for"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

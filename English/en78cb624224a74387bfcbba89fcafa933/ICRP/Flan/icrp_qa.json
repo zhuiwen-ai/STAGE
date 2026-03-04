@@ -1,0 +1,66 @@
+{
+  "character": "Flan",
+  "qas": [
+    {
+      "question": "You seemed impatient at times—did you feel secure in the situation despite that frustration?",
+      "supporting_facts": [
+        "Flan groaned impatiently",
+        "Flan is secure in their position or environment"
+      ],
+      "contradicting_facts": [
+        "Your impatience indicated insecurity",
+        "You felt threatened or unstable during the event"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you notice anything unusual about the shirt when you saw it?",
+      "supporting_facts": [
+        "you observed the blood on the shirt",
+        "you were present in the bar with Ouisa and Geoffrey when the shirt was seen"
+      ],
+      "contradicting_facts": [
+        "you did not see the blood on the shirt",
+        "you were not in the bar when the shirt was present"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Have you recently interacted with someone you had never met before?",
+      "supporting_facts": [
+        "you shook hands with a new acquaintance",
+        "the handshake occurred in a social setting involving recent contact"
+      ],
+      "contradicting_facts": [
+        "you avoided all interactions with unfamiliar people",
+        "you have not shaken hands with anyone recently"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were in the living room when the Hustler arrived—what were you doing just before opening the door?",
+      "supporting_facts": [
+        "You opened the front door in response to the Hustler",
+        "You were checking the placement of a slide projector on the desk",
+        "You did not leave the Kandinsky painting on the wall"
+      ],
+      "contradicting_facts": [
+        "You were absent from the living room when the Hustler arrived",
+        "You were still in the parking lot when the Hustler arrived"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Were you physically present with Ouisa inside the Sistine Chapel?",
+      "supporting_facts": [
+        "you stepped onto the Sistine Chapel scaffolding with Ouisa",
+        "your presence in the chapel is confirmed by shared movement with Ouisa"
+      ],
+      "contradicting_facts": [
+        "you waited outside the Sistine Chapel while Ouisa entered alone",
+        "you never entered the Sistine Chapel with Ouisa"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "character": "Stanley",
+  "qas": [
+    {
+      "question": "After entering the car, did you remain at Ben's gate or leave the location?",
+      "supporting_facts": [
+        "Stanley is at Ben's gate",
+        "Stanley did not stay at the location after entering the car"
+      ],
+      "contradicting_facts": [
+        "You remained at Ben's gate after entering the car",
+        "Your presence at the gate continued after entering the vehicle"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Did you offer the 'Lucky Strike' packet to others, or keep it only for yourself?",
+      "supporting_facts": [
+        "you did not keep the packet of 'Lucky Strike' exclusively for yourself",
+        "you made an offer of the 'Lucky Strike' packet to others"
+      ],
+      "contradicting_facts": [
+        "you withheld the 'Lucky Strike' packet and did not offer it to anyone",
+        "you used the 'Lucky Strike' items without sharing or offering"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Why did you signal to Ben to come over?",
+      "supporting_facts": [
+        "Stanley initiated contact with Ben by drawing his attention and beckoning him to approach",
+        "Stanley offered a 'Lucky Strike' to Ben after getting his attention"
+      ],
+      "contradicting_facts": [
+        "You ignored Ben and avoided making contact",
+        "You waited for Ben to approach you first"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You were present at Gordon's funeral—what role did you have during the event?",
+      "supporting_facts": [
+        "You were one of the chief mourners at Gordon's funeral",
+        "You were actively involved, not just observing"
+      ],
+      "contradicting_facts": [
+        "You were only a passive observer at the funeral",
+        "You had no formal or emotional role in the funeral proceedings"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were sitting next to Ben and Margaret during the court hearing—can you describe your position relative to them?",
+      "supporting_facts": [
+        "Stanley is seated in the front row of the public gallery",
+        "Stanley sits beside Ben",
+        "Stanley is sitting next to Margaret"
+      ],
+      "contradicting_facts": [
+        "Stanley was seated behind Ben",
+        "Stanley was not near Margaret during the hearing"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you interact with the children who shouted at you?",
+      "supporting_facts": [
+        "You acknowledged the friendly shouts of the children.",
+        "You called one of the children and engaged in conversation."
+      ],
+      "contradicting_facts": [
+        "You ignored the children's shouts completely.",
+        "You did not speak to any of the children."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were waiting with someone else—did you say anything during that time?",
+      "supporting_facts": [
+        "You were not alone while waiting",
+        "You did not verbally communicate during the interaction"
+      ],
+      "contradicting_facts": [
+        "You spoke to the other person while waiting",
+        "You broke the silence through verbal communication"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How did you approach the interaction with the young woman?",
+      "supporting_facts": [
+        "You initiated a quick, friendly greeting with the young woman",
+        "Your posture was not passive or relaxed during the encounter"
+      ],
+      "contradicting_facts": [
+        "You avoided greeting the young woman",
+        "You were in a relaxed posture when interacting with her"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You interacted with Ben during the funeral—how would you describe that interaction?",
+      "supporting_facts": [
+        "You engaged in an animated conversation with Ben",
+        "You did not ignore Ben during the event"
+      ],
+      "contradicting_facts": [
+        "You avoided talking to Ben",
+        "Your interaction with Ben was brief and unemotional"
+      ],
+      "final_score": 7.222222222222222
+    },
+    {
+      "question": "You broke the silence during your shared activity with Ben—what does that reveal about your role in the interaction?",
+      "supporting_facts": [
+        "Stanley and Ben were engaged in a shared activity",
+        "Stanley initiated speech by breaking the silence"
+      ],
+      "contradicting_facts": [
+        "Ben was the first to speak during the shared activity",
+        "The silence was broken by someone other than Stanley"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

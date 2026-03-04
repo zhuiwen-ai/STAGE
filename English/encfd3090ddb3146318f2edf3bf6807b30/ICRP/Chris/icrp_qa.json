@@ -1,0 +1,65 @@
+{
+  "character": "Chris",
+  "qas": [
+    {
+      "question": "Why didn't you leave the heavy red case behind when you went down the alley?",
+      "supporting_facts": [
+        "you did not abandon the heavy red case",
+        "you started to look down the alley while still in possession of the case"
+      ],
+      "contradicting_facts": [
+        "you left the heavy red case at the entrance of the alley",
+        "you no longer had the case when you looked toward the camera"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You had a manila envelope at some point—was this something you obtained after approaching the Pontiac?",
+      "supporting_facts": [
+        "Chris has a manila envelope.",
+        "Chris did not initiate the approach to the Pontiac alone."
+      ],
+      "contradicting_facts": [
+        "You obtained the manila envelope immediately after approaching the Pontiac by yourself.",
+        "The manila envelope was picked up from the Pontiac during a solo approach."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You saw something that stopped you from acting—what does that suggest about your awareness at the time?",
+      "supporting_facts": [
+        "Chris did not proceed with his action upon seeing something",
+        "Chris is not unaware of the cook's criminal background"
+      ],
+      "contradicting_facts": [
+        "You were unaware of any potential threats in the scene",
+        "You continued with your original plan without hesitation"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do with the drill after using it?",
+      "supporting_facts": [
+        "you heaved the drill aside after use",
+        "you did not retain possession of the drill"
+      ],
+      "contradicting_facts": [
+        "you kept the drill with you after using it",
+        "you handed the drill directly to someone else"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do after cutting open the canvas bags?",
+      "supporting_facts": [
+        "you inspected the contents of the canvas bags",
+        "the bags were opened by you before inspection"
+      ],
+      "contradicting_facts": [
+        "you left the bags unopened after cutting them",
+        "you ignored the contents after opening the bags"
+      ],
+      "final_score": 7.777777777777778
+    }
+  ]
+}

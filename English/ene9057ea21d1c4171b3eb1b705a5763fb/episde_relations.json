@@ -1,0 +1,2643 @@
+[
+  {
+    "id": "rel_ep_ep_739e89b6a7a1",
+    "subject_id": "ep_f5a141744c5540ed",
+    "object_id": "ep_0df93d8144cac7c2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Malcolm's unexpected arrival' occurs in scene_9, while 'Escalate Hostility Toward Media and Staff' occurs in scene_11, indicating a clear temporal sequence where the subject episode precedes the object episode based on scene ordering.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_43ad97457be5",
+    "subject_id": "ep_f5a141744c5540ed",
+    "object_id": "ep_ffa8e660831c6c6e",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to Malcolm's unexpected arrival' occurs in scene_9, while the object episode 'Establish Hierarchy with Newcomer Toby' occurs in scene_11. The narrative order of scenes indicates that the subject episode precedes the object episode in the local discourse sequence.",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4c742b14a714",
+    "subject_id": "ep_ade0342e7dd45f09",
+    "object_id": "ep_fad1c6c2879f7a97",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Attempt to speak and receive external restraints' occurs first, as Simon begins to speak and is physically restrained by Toby, then interrupted by Michael. The object episode 'Suppress reaction and defer confrontation' follows, where Simon chooses not to continue speaking after the interruption and a whisper from Toby, indicating a clear sequential order in the narrative flow of scene_17.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0607cca848ff",
+    "subject_id": "ep_e672a546fcc3b8ba",
+    "object_id": "ep_7291d6f569c4a930",
+    "relation_type": "precedes",
+    "reason": "The arrival and reunion at security (ep_e672a546fcc3b8ba) occurs in scene_16, while the arrival and seating tensions (ep_7291d6f569c4a930) occur in scene_17, indicating a clear sequential order where the former precedes the latter.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ec6a507797de",
+    "subject_id": "ep_6fd3fa11908c1568",
+    "object_id": "ep_335f2f2dc616223c",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Manage distractions during the call' includes Judy overhearing the discussion about Simon's role, which provides additional context to the episode 'Discuss Simon's role in the Karen Clark meeting' by revealing the unintended consequence of the conversation. The interruption and overheard content expand on the significance and implications of Simon's symbolic role, thus elaborating on the main discussion.",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_81380ff4c263",
+    "subject_id": "ep_7291d6f569c4a930",
+    "object_id": "ep_ba7fe16b44ddb2fb",
+    "relation_type": "precedes",
+    "reason": "The first episode describes seating arrangements and tensions during the diplomatic meeting in scene_17, while the second episode occurs in scene_18, where Simon confronts Judy and Toby after the meeting. The scene numbers and narrative flow indicate that the arrival and seating episode occurs before the confrontation episode.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dce70f6fa977",
+    "subject_id": "ep_40227f87950512cb",
+    "object_id": "ep_8fac3d05aa41358c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Welcome the new Minister and Advisor' includes Malcolm's offer to brief the Minister over lunch, which directly sets up the subsequent episode 'Initiate transition with a lunch invitation' where the invitation is extended and discussed. Both episodes occur in scene_123 and are part of a continuous interaction, with the first logically and temporally preceding the second.",
+    "source_documents": [
+      "scene_123_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_10c4c8037010",
+    "subject_id": "ep_cb0af9f9be2e21c6",
+    "object_id": "ep_ffa8e660831c6c6e",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode involves Simon attempting to mediate tensions and welcome Toby warmly, while the object episode features Malcolm asserting dominance and testing Toby through a hostile initiation. These episodes are juxtaposed within the same occasion and involve contrasting approaches to handling the newcomer—collaborative de-escalation versus authoritarian control—highlighting opposing interpersonal dynamics in the office culture.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_cd0c53e56c11",
+    "subject_id": "ep_11efffc48eaf92e1",
+    "object_id": "ep_c1ddfd62ba940ce3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Malcolm manipulates media and notices Toby' occurs in scene_8, while 'Retrieve the blue folder' occurs in scene_112, indicating a clear narrative sequence where the subject episode precedes the object episode based on scene ordering.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_8_part_2",
+      "scene_112_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bea462e513ce",
+    "subject_id": "ep_f21e6ff017312c8c",
+    "object_id": "ep_883fa84fe83191f2",
+    "relation_type": "precedes",
+    "reason": "The confrontation about Simon's conduct and rhetoric occurs first, as Malcolm initiates the interaction by criticizing Simon's behavior and mocking his remarks. This is followed by Malcolm pressing Simon on his position regarding taking a stand, where Simon clarifies his ambivalence. The sequence of events within scene_29 supports a narrative order where the confrontation precedes the clarification of Simon's stance.",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e0ae55742325",
+    "subject_id": "ep_4e65b36a36d77145",
+    "object_id": "ep_5abda31bfad37070",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Malcolm forcing Simon to draft a resignation letter, which occurs before the second episode where Simon confirms the resignation and Malcolm then declares him fired due to the wall collapse. Both episodes occur in the same scene (scene_119) and the sequence of events in the descriptions indicates a clear temporal order: drafting the resignation precedes the formal declaration of termination.",
+    "source_documents": [
+      "scene_119_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0bf9d3f8bddd",
+    "subject_id": "ep_93cc1de883e82b84",
+    "object_id": "ep_0283879f60dac289",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_32 and share the same setting, but the reaction to Judy's laughter (closing blinds, asserting authority) immediately precedes the decision to relocate and form Team Simon, as the tension from the interaction sets the context for the subsequent move and alliance formation.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e3a97ba0d58d",
+    "subject_id": "ep_7291d6f569c4a930",
+    "object_id": "ep_9f32341a5f7ccc93",
+    "relation_type": "precedes",
+    "reason": "The seating adjustments in 'Arrive and take seats amid seating tensions' involve Simon, Toby, and Judy swapping seats as the meeting is about to begin, which sets the stage for Suzy's subsequent mocking gesture from her prominent seat. The gesture in 'Signal status through mocking gesture' occurs after seating is finalized, indicating a clear temporal sequence supported by the narrative flow in scene_17.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_351b4648bd7c",
+    "subject_id": "ep_7291d6f569c4a930",
+    "object_id": "ep_64a1aeb2358d06ac",
+    "relation_type": "precedes",
+    "reason": "The seating arrangement and seat swaps occur as the delegation arrives and takes seats just before the meeting begins, while the delivery and acknowledgment of the critical note happens afterward during the meeting, as both are part of the same occasion 'Diplomatic Meeting At Chad'S Dual Horse-Shoe (scene_17)' and the related events suggest a temporal sequence where seating is resolved prior to in-meeting communication like passing notes.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b69e5d4d1ba5",
+    "subject_id": "ep_6b298c92d09cfa26",
+    "object_id": "ep_cb0af9f9be2e21c6",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode features a confrontational clash between Judy and Malcolm involving authority and personal insults, while the second episode shows Simon attempting to mediate tensions and welcome a newcomer with collegiality. These episodes are juxtaposed within the same occasion (High-Level Security Coordination Meeting) and present contrasting tones and narrative functions: one escalates conflict, the other seeks de-escalation and cooperation.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_c61de57a8cbd",
+    "subject_id": "ep_6b298c92d09cfa26",
+    "object_id": "ep_ffa8e660831c6c6e",
+    "relation_type": "contrasts_with",
+    "reason": "Both episodes occur during the same occasion (High-Level Security Coordination Meeting) and involve Judy attempting professional conduct while Malcolm enforces a toxic power hierarchy. The first episode features Judy asserting formal authority and professionalism, while the second shows Malcolm undermining her and testing Toby's obedience through humiliation. These episodes are juxtaposed to highlight a contrast in workplace dynamics—formal professionalism versus coercive dominance—within the same setting, supporting a contrastive relationship.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4caa61e864ad",
+    "subject_id": "ep_883fa84fe83191f2",
+    "object_id": "ep_e841ff5a58f94492",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_29 and are part of the same interaction between Malcolm and Simon. The episode 'Clarify Simon's position on taking a stand' involves Malcolm pressing Simon on his decision, which immediately precedes Malcolm informing Simon about the Washington fact-finding mission. The narrative sequence in the related events and description supports a clear local order where Simon's clarification of his stance comes before the planning of the trip.",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fe4310f8da04",
+    "subject_id": "ep_5577c2aa154a4abd",
+    "object_id": "ep_acf811fcdb759022",
+    "relation_type": "precedes",
+    "reason": "The power struggle between Karen and Linton over committee transparency occurs before Linton comments on Karen's bleeding mouth and she decides to leave the meeting. Both episodes occur within the same meeting (scene_33), and the sequence of related events indicates that the challenge to authority and deflection happens prior to the injury being highlighted and Karen's exit.",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_80dc2438b11b",
+    "subject_id": "ep_a9d05141a11dd47c",
+    "object_id": "ep_7291d6f569c4a930",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate the dynamics of the upcoming meeting' occurs during scene_15, where the group discusses the meeting before it begins, while 'Arrive and take seats amid seating tensions' occurs during scene_17, involving physical seating arrangements at the start of the meeting. The narrative order and scene numbering indicate that discussion of the meeting dynamics precedes the arrival and seating.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_29f07554ad27",
+    "subject_id": "ep_7291d6f569c4a930",
+    "object_id": "ep_473f7353f64450d0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrive and take seats amid seating tensions' includes the first seat swap between Simon and Judy, setting the initial seating arrangement. The episode 'Adjust seating for better visibility' describes a subsequent attempt to swap seats again after the meeting begins, indicating a later occurrence in the narrative sequence. Both episodes occur within the same occasion and are linked by recurring seat adjustments, with the first episode establishing the context that the second episode reacts to.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_237a8fe387b6",
+    "subject_id": "ep_7291d6f569c4a930",
+    "object_id": "ep_ade0342e7dd45f09",
+    "relation_type": "precedes",
+    "reason": "The seating adjustments in 'Arrive and take seats amid seating tensions' occur before Simon attempts to speak in 'Attempt to speak and receive external restraints', as both episodes are part of the same diplomatic meeting and the sequence of events in the description indicates that seating is resolved prior to Simon's attempt to participate in the discussion.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7a381d0eb402",
+    "subject_id": "ep_ffa8e660831c6c6e",
+    "object_id": "ep_0df93d8144cac7c2",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur during the same occasion (High-Level Security Coordination Meeting, scene_11), but the events in 'Establish Hierarchy with Newcomer Toby' (introducing Toby, Malcolm testing obedience) logically precede those in 'Escalate Hostility Toward Media and Staff' (Malcolm ordering Toby to deliver a threat, insulting Judy), as Toby must first be present and established before being assigned a task. The narrative flow within scene_11 supports this temporal ordering.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_881c3eb0ff8c",
+    "subject_id": "ep_a9d05141a11dd47c",
+    "object_id": "ep_e672a546fcc3b8ba",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Navigate the dynamics of the upcoming meeting' occurs during scene_15 and involves preparation for a future meeting, while the object episode 'Arrive and reunite at security' takes place in scene_16 and marks the physical convergence of the groups for the meeting. The narrative progression from discussing the meeting to arriving and reuniting supports a clear temporal order where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2753db53cf16",
+    "subject_id": "ep_77dea8271b95f960",
+    "object_id": "ep_c2d124ab6d7cc942",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Liza confronts Bob about the Future Planning Committee' occurs first, as Liza approaches and speaks with Bob, which is followed by the object episode where she signals Karen after the conversation. The sequence is supported by the description stating Liza runs back into the toilets 'after concluding her interaction with Bob' to report, indicating a clear temporal order.",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_37a5440179d5",
+    "subject_id": "ep_acf811fcdb759022",
+    "object_id": "ep_3b8b5a3abb562ac5",
+    "relation_type": "causes",
+    "reason": "The subject episode, 'Respond to Karen's injury and exit', directly leads to the object episode, 'Exploit Karen's absence to advance agenda', as Karen's departure creates the absence that Chad and Linton exploit. The related events in both episodes occur in the same scene and are causally linked: Karen leaving the meeting enables the shift in dynamics and agenda control described in the object episode.",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5f72d025f226",
+    "subject_id": "ep_cd50f0ab10d67682",
+    "object_id": "ep_f097c0409274f1f1",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Address Simon's Media Disinvitation and Messaging Discipline' involves Malcolm enforcing strict adherence to the official narrative, which sets the context for the subsequent refinement of political messaging in 'Refine Political Messaging on Foreseeability'. The second episode provides additional detail on how the demand for message discipline is implemented in practice, specifically through crafting a nuanced, politically safe statement. This expansion of how messaging control is exercised supports the 'elaborates' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_d06f0699576b",
+    "subject_id": "ep_f8b51a3da1989bfc",
+    "object_id": "ep_6b298c92d09cfa26",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reassert Control After Defiance' involves Judy silently defying Malcolm's order to leave, which sets the stage for the subsequent confrontation over authority and professional conduct. Both episodes occur in scene_11 during the same meeting, and the description of the second episode explicitly states it 'sets the stage for their later confrontation,' indicating a temporal sequence where the defiance precedes the verbal confrontation.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d1c841a0c76b",
+    "subject_id": "ep_3b2397e3a778a122",
+    "object_id": "ep_6ff6f915b9c61463",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_5 of doc_4, and the description of ep_3b2397e3a778a122 involves Malcolm mocking Simon's public health focus, which is followed by the introduction of the word 'war' by Eddie Mair that triggers ep_6ff6f915b9c61463. The narrative flow in the same scene suggests a sequence where the mockery episode precedes the confrontation over 'war'.",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_907a2299dd78",
+    "subject_id": "ep_7b8a370289c91f3c",
+    "object_id": "ep_cd50f0ab10d67682",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, 'Defend Personal Opinion Using Hypothetical Extremes', provides ethical and rhetorical context for Simon's justification of giving a personal opinion, which is directly referenced in the object episode, 'Address Simon's Media Disinvitation and Messaging Discipline', where Malcolm criticizes Simon for the same unapproved statement. The object episode builds upon the event of Simon giving a personal opinion by addressing its consequences, while the subject episode elaborates on the reasoning behind that opinion, thus expanding the narrative around Simon's noncompliance with messaging discipline.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ed2887e28908",
+    "subject_id": "ep_a830d925550cf4c1",
+    "object_id": "ep_0d7e3c25bba91624",
+    "relation_type": "precedes",
+    "reason": "The bathroom conversation (ep_a830d925550cf4c1) includes Liza narrowing her committee choices and Karen revealing she founded one, which sets up the context for Liza later seeking reassurance about being shouted at regarding the Future Planning Committee (ep_0d7e3c25bba91624). The narrative flow in the same scene (scene_34) and the dependency of the second episode on information established in the first support a preceding temporal order.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_713a093e46b7",
+    "subject_id": "ep_b7a5bfc28b0a0eff",
+    "object_id": "ep_b03ba0024092ae05",
+    "relation_type": "elaborates",
+    "reason": "The object Episode (Toby walks to DFID while on phone with Suzy) expands upon the ongoing conversation introduced in the subject Episode (Address household chores during morning walk), particularly regarding the lasagne and clingfilm. The subject Episode establishes the domestic discussion context as Toby and Suzy walk together, while the object Episode continues and adds detail to the same conversation after they part, with Toby reiterating and defending his use of clingfilm. This continuation provides additional specificity on the same topic, supporting an elaboration relation where the object adds detail to the subject's established narrative thread.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_8_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d045131bae4e",
+    "subject_id": "ep_335f2f2dc616223c",
+    "object_id": "ep_7291d6f569c4a930",
+    "relation_type": "precedes",
+    "reason": "The discussion about Simon's symbolic role in the Karen Clark meeting (ep_335f2f2dc616223c) occurs in scene_13, while the arrival and seating tensions at the diplomatic meeting (ep_7291d6f569c4a930) occur in scene_17. The scene numbers indicate a clear narrative order where the former precedes the latter.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1e32e5a1ba43",
+    "subject_id": "ep_6b298c92d09cfa26",
+    "object_id": "ep_0df93d8144cac7c2",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur during the same occasion (High-Level Security Coordination Meeting, scene_11), and the related events in 'Confrontation Over Authority and Professional Conduct' (e.g., Judy challenging Malcolm, Malcolm mocking her) directly precede the events in 'Escalate Hostility Toward Media and Staff' (e.g., Malcolm ordering Toby to threaten the BBC, insulting Judy, exiting). The narrative sequence within scene_11 supports a clear temporal order where the confrontation occurs before Malcolm escalates his hostility as he exits.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_49d49733f773",
+    "subject_id": "ep_47bbf97ebc9c5d41",
+    "object_id": "ep_94734d136d07524d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to Malcolm's urgent coordinated call' involves Simon and Judy receiving simultaneous calls from Malcolm in scene_27, followed by Simon answering. The object episode 'Confront aftermath of missed opportunity during drive' occurs in the same scene but describes a later moment when they are being driven back to the Department and arguing about the failed operation. The narrative sequence within scene_27 implies the call response precedes the car argument, based on the temporal progression from receiving the call to reflecting on prior actions during transit.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3449a86ecd4d",
+    "subject_id": "ep_a9d05141a11dd47c",
+    "object_id": "ep_ba7fe16b44ddb2fb",
+    "relation_type": "causes",
+    "reason": "The first episode involves Judy, Toby, and Simon discussing the dynamics of the upcoming meeting, where Simon asserts his ability to handle the social interaction. The second episode occurs after the meeting, where Simon confronts Judy and Toby for dismissing him, feeling insulted after being called a 'tit' and labeled 'meat in the room.' The confrontation is a direct emotional consequence of the meeting dynamics discussed and experienced in the first episode. The text supports a causal link: Simon's reaction in the second episode is triggered by the events and remarks from the meeting context introduced in the first episode.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2abcd4a1bce0",
+    "subject_id": "ep_814130536f64519d",
+    "object_id": "ep_efa281ab97d870db",
+    "relation_type": "contrasts_with",
+    "reason": "Karen's episode involves a proactive confrontation with Linton to reassert influence and gather intelligence about power structures, while Chad's episode depicts a failed attempt to gain recognition, resulting in marginalization. Both episodes occur in the same setting (Linton's War Committee context) and highlight opposing outcomes in interactions with Linton: Karen engages assertively and gains information, whereas Chad is ignored despite self-identification. This juxtaposition emphasizes a contrast in agency and effectiveness within the same hierarchical environment.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_17dafcfb9fed",
+    "subject_id": "ep_64a1aeb2358d06ac",
+    "object_id": "ep_ade0342e7dd45f09",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, in which Suzy delivers a critical note about Simon's behavior and Judy acknowledges it, provides contextual motivation and background for the object episode, where Simon attempts to speak but faces external restraints. The note establishes an atmosphere of behavioral monitoring and control, which elaborates on the tension and restraint Simon experiences when attempting to intervene, particularly through Toby's physical restraint and Michael's redirection. Both episodes occur during the same occasion and are linked by the theme of controlling Simon's participation, suggesting the note episode expands the understanding of the dynamics in the speaking attempt episode.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_04451d75e034",
+    "subject_id": "ep_5577c2aa154a4abd",
+    "object_id": "ep_3b8b5a3abb562ac5",
+    "relation_type": "precedes",
+    "reason": "The challenge to Karen's authority (ep_5577c2aa154a4abd) involves Karen questioning Linton and demanding transparency, which occurs before the exploit of her absence (ep_3b8b5a3abb562ac5) when she is no longer present to object. Both episodes occur in the same meeting (scene_33), and the sequence implied by the dependency on Karen's presence (in the first) and her subsequent absence (in the second) supports a temporal order where the challenge precedes the exploitation of her absence.",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_abcdd5b2106d",
+    "subject_id": "ep_6b298c92d09cfa26",
+    "object_id": "ep_f5a141744c5540ed",
+    "relation_type": "precedes",
+    "reason": "The 'Respond to Malcolm's unexpected arrival' episode (scene_9) occurs before the 'Confrontation Over Authority and Professional Conduct' episode (scene_11), as indicated by their respective scene numbers in the document properties. This establishes a clear narrative order where Malcolm's arrival sets the stage for the later confrontation.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_14b827a950a7",
+    "subject_id": "ep_3b2397e3a778a122",
+    "object_id": "ep_cd50f0ab10d67682",
+    "relation_type": "precedes",
+    "reason": "The episode where Malcolm mocks Simon's public health focus occurs during a radio discussion (scene_5), while the episode addressing Simon's media disinvitation takes place in scene_11, which is a later point in the narrative. The sequence of scenes indicates that the mocking event precedes the disciplinary conversation about media messaging, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cf591581628b",
+    "subject_id": "ep_6ff6f915b9c61463",
+    "object_id": "ep_f21e6ff017312c8c",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Malcolm declaring his intent to confront Simon after hearing the word 'war' on the radio, which sets up the subsequent episode where the actual confrontation takes place in the office. The narrative sequence in the related events shows a clear temporal progression from intent to action, with the confrontation in the second episode occurring after the declaration in the first.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e498a058474f",
+    "subject_id": "ep_6ff6f915b9c61463",
+    "object_id": "ep_5abda31bfad37070",
+    "relation_type": "precedes",
+    "reason": "The confrontation over the word 'war' (ep_6ff6f915b9c61463) occurs in scene_5, while the termination confrontation (ep_5abda31bfad37070) occurs in scene_119, indicating a clear narrative sequence where the former precedes the latter based on scene ordering.",
+    "source_documents": [
+      "scene_119_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f20852e94f30",
+    "subject_id": "ep_11efffc48eaf92e1",
+    "object_id": "ep_f5a141744c5540ed",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs in scene_8, where Malcolm interacts with a journalist and expresses frustration toward Toby, while the second episode occurs in scene_9, where Malcolm arrives with Toby and confronts Simon. The scene numbering indicates a clear narrative sequence, with episode ep_11efffc48eaf92e1 preceding ep_f5a141744c5540ed.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_8_part_2",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_29f9a312f97f",
+    "subject_id": "ep_11efffc48eaf92e1",
+    "object_id": "ep_5abda31bfad37070",
+    "relation_type": "causes",
+    "reason": "The first episode involves Malcolm authorizing false media information and threatening exposure, which contributes to media fallout. The second episode explicitly cites 'media fallout' as a justification for Simon's termination. This establishes a causal link where Malcolm's manipulation of the media in the first episode directly contributes to the consequences that enable the termination in the second episode.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_8_part_2",
+      "scene_119_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5ad889d2f20b",
+    "subject_id": "ep_f21e6ff017312c8c",
+    "object_id": "ep_5abda31bfad37070",
+    "relation_type": "precedes",
+    "reason": "The confrontation about Simon's conduct and rhetoric (ep_f21e6ff017312c8c) occurs when Malcolm enters the office, establishing an initial interaction, while the termination over the wall collapse (ep_5abda31bfad37070) follows after Simon confirms his resignation, indicating a sequential narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_119_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9a8e5c433540",
+    "subject_id": "ep_cd50f0ab10d67682",
+    "object_id": "ep_4e65b36a36d77145",
+    "relation_type": "precedes",
+    "reason": "The episode 'Address Simon's Media Disinvitation and Messaging Discipline' (scene_11) occurs before 'Malcolm asserts authority and forces resignation letter' (scene_119), as indicated by the sequential scene numbers. The earlier episode establishes Malcolm's control over Simon's media access, which escalates into the later episode where Malcolm enforces further dominance by forcing a resignation letter.",
+    "source_documents": [
+      "scene_119_part_1",
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c9a374a2ba42",
+    "subject_id": "ep_11efffc48eaf92e1",
+    "object_id": "ep_ffa8e660831c6c6e",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs in scene_8, where Malcolm interacts with a journalist and becomes aware of Toby in the lift, while the second episode occurs in scene_11, where Judy introduces Toby to the minister and Malcolm asserts dominance. Since scene_8 precedes scene_11 in narrative order, the subject episode occurs earlier than the object episode.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_8_part_2",
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_61ebf36fa818",
+    "subject_id": "ep_0df93d8144cac7c2",
+    "object_id": "ep_cb0af9f9be2e21c6",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode involves Malcolm escalating hostility by issuing threats and insults, while the object episode features Simon attempting to mediate tensions and welcome Toby warmly. These episodes are juxtaposed within the same occasion (scene_11) and present opposing responses to the same situation—aggression versus reconciliation—highlighting a clear tonal and behavioral contrast.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_abfab0124936",
+    "subject_id": "ep_11efffc48eaf92e1",
+    "object_id": "ep_0df93d8144cac7c2",
+    "relation_type": "precedes",
+    "reason": "The events in 'Malcolm manipulates media and notices Toby' (scene_8) occur earlier in the narrative than those in 'Escalate Hostility Toward Media and Staff' (scene_11), as indicated by their respective scene numbers. Both episodes involve Malcolm directing hostility toward media and staff, but the scene ordering supports a clear temporal sequence where the former precedes the latter.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_8_part_1",
+      "scene_8_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0657a884a2b6",
+    "subject_id": "ep_6ff6f915b9c61463",
+    "object_id": "ep_4e65b36a36d77145",
+    "relation_type": "precedes",
+    "reason": "The confrontation over the word 'war' (ep_6ff6f915b9c61463) occurs in scene_5, where Malcolm declares his intent to confront Simon, while the assertion of authority and forced resignation (ep_4e65b36a36d77145) occurs in scene_119, indicating a clear earlier-later sequence based on scene numbering. This supports a 'precedes' relation from the confrontation to the assertion of control.",
+    "source_documents": [
+      "scene_119_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_738e1436c376",
+    "subject_id": "ep_883fa84fe83191f2",
+    "object_id": "ep_4e65b36a36d77145",
+    "relation_type": "precedes",
+    "reason": "The episode 'Clarify Simon's position on taking a stand' occurs in scene_29, where Malcolm dismisses Toby and Judy and questions Simon about making a stand. The episode 'Malcolm asserts authority and forces resignation letter' occurs in scene_119, involving subsequent actions by Malcolm to cement control. Scene numbers indicate a clear narrative order, with scene_29 preceding scene_119, supporting the 'precedes' relation from the earlier to the later episode.",
+    "source_documents": [
+      "scene_119_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_dca8bca7d2f4",
+    "subject_id": "ep_0186d4222d19f07a",
+    "object_id": "ep_47bbf97ebc9c5d41",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Simon and Judy discussing Malcolm's lack of response to a prior interview, indicating it occurs after the interview but before any new contact from Malcolm. The object episode involves both receiving simultaneous calls from Malcolm, which represents a new development in response to their prior speculation. The narrative progression from anxious discussion about silence to immediate reaction to Malcolm's call supports a temporal sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0b26d7c9f666",
+    "subject_id": "ep_6b298c92d09cfa26",
+    "object_id": "ep_f097c0409274f1f1",
+    "relation_type": "contrasts_with",
+    "reason": "The two episodes occur in the same occasion (High-Level Security Coordination Meeting, scene_11) and involve overlapping participants, but depict opposing interpersonal dynamics: one is a confrontational clash over authority and decorum, while the other is a focused, collaborative effort to refine political messaging under pressure. The aggressive power struggle in the first contrasts with the strategic, controlled communication in the second, highlighting a reversal in tone and purpose within the same setting.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_cbf46b63d55c",
+    "subject_id": "ep_f21e6ff017312c8c",
+    "object_id": "ep_4e65b36a36d77145",
+    "relation_type": "precedes",
+    "reason": "The confrontation about Simon's conduct (ep_f21e6ff017312c8c) occurs when Malcolm first enters the office and criticizes Simon's rhetoric, while the assertion of authority and forced resignation (ep_4e65b36a36d77145) involves subsequent actions including threats and drafting a resignation letter. The sequence of events in their descriptions and related scenes (scene_29 before scene_119) supports a clear temporal order where the confrontation precedes the assertion of control.",
+    "source_documents": [
+      "scene_119_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9f414cdef873",
+    "subject_id": "ep_cd50f0ab10d67682",
+    "object_id": "ep_e841ff5a58f94492",
+    "relation_type": "precedes",
+    "reason": "The disinvitation and messaging discipline episode (ep_cd50f0ab10d67682) occurs during a High-Level Security Coordination Meeting in scene_11, while the planning of Simon's Washington fact-finding mission (ep_e841ff5a58f94492) occurs in scene_29. The scene numbers indicate a clear narrative order, with scene_11 preceding scene_29, supporting that the first episode precedes the second.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_86ac29bfecab",
+    "subject_id": "ep_9ae684a86b71f217",
+    "object_id": "ep_6ed17d70e87630e0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrive at office and initiate playback setup' includes events where Malcolm arrives, greets Sam, hands over the CD, and Sam inserts it into the player. The episode 'Select listening material and begin radio review' begins with Malcolm proposing a listening choice and starting the radio interview. The setup of playback (including inserting the CD) must logically precede the start of the review, and the events are ordered sequentially in scene_2, supporting a clear 'precedes' relation from setup to review.",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d108718465fb",
+    "subject_id": "ep_cd50f0ab10d67682",
+    "object_id": "ep_0df93d8144cac7c2",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_11 during the High-Level Security Coordination Meeting. The episode 'Address Simon's Media Disinvitation and Messaging Discipline' involves Malcolm directly engaging with Simon about media discipline, which sets a context of tightening control over messaging. This is immediately followed by 'Escalate Hostility Toward Media and Staff', where Malcolm, after exiting, escalates aggression by sending a threatening message via Toby and insulting Judy. The sequence of events in the shared occasion and the narrative flow indicate that disciplining Simon precedes the broader escalation in hostility.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6af8dadae9df",
+    "subject_id": "ep_ba7fe16b44ddb2fb",
+    "object_id": "ep_e803cdf2d5bf7174",
+    "relation_type": "precedes",
+    "reason": "The confrontation with Judy and Toby occurs during scene_18, while the team's reaction to press fallout occurs in scene_26, indicating a clear narrative sequence where the private confrontation precedes the public damage-control exit.",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_53795426ba0f",
+    "subject_id": "ep_002ecda0ca352a7d",
+    "object_id": "ep_a9d05141a11dd47c",
+    "relation_type": "precedes",
+    "reason": "The office tour episode (ep_002ecda0ca352a7d) occurs in scene_14, while the discussion about the upcoming meeting (ep_a9d05141a11dd47c) occurs in scene_15, indicating a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_18ece1e66469",
+    "subject_id": "ep_473f7353f64450d0",
+    "object_id": "ep_ba7fe16b44ddb2fb",
+    "relation_type": "precedes",
+    "reason": "The seating adjustment occurs during the meeting (scene_17), while the confrontation with Judy and Toby takes place afterward, when Simon leads them out of the meeting room into a private space (scene_18), indicating a clear sequential order supported by scene progression.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4f59808ed85d",
+    "subject_id": "ep_a9d05141a11dd47c",
+    "object_id": "ep_473f7353f64450d0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate the dynamics of the upcoming meeting' occurs during scene_15, where the characters discuss the meeting before it begins. The episode 'Adjust seating for better visibility' occurs during scene_17, after the meeting has started. The clear temporal sequence across scenes supports that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_01572a9c4416",
+    "subject_id": "ep_335f2f2dc616223c",
+    "object_id": "ep_ba7fe16b44ddb2fb",
+    "relation_type": "causes",
+    "reason": "The first episode, where Suzy and Michael discuss Simon's symbolic role as 'meat in the room,' directly leads to Simon feeling insulted and confronting Judy and Toby in the second episode. The related_events in the second episode explicitly reference the fallout from the prior discussion, with Judy repeating the 'meat in the room' phrase, indicating a direct causal link.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9d35fd31607e",
+    "subject_id": "ep_002ecda0ca352a7d",
+    "object_id": "ep_ba7fe16b44ddb2fb",
+    "relation_type": "precedes",
+    "reason": "The office tour episode (ep_002ecda0ca352a7d) occurs during scene_14, while the confrontation about being dismissed (ep_ba7fe16b44ddb2fb) occurs in scene_18, indicating a clear narrative sequence where the subject episode precedes the object episode based on scene ordering.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fad18b3d33f0",
+    "subject_id": "ep_64a1aeb2358d06ac",
+    "object_id": "ep_ba7fe16b44ddb2fb",
+    "relation_type": "causes",
+    "reason": "The delivery and acknowledgment of the critical note about Simon's behavior (ep_64a1aeb2358d06ac) directly leads to Simon confronting Judy and Toby about being dismissed (ep_ba7fe16b44ddb2fb), as the note's content provokes his emotional response and subsequent demand for explanation, with clear causal linkage in the narrative flow.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f850d32f97b1",
+    "subject_id": "ep_a9d05141a11dd47c",
+    "object_id": "ep_64a1aeb2358d06ac",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate the dynamics of the upcoming meeting' (scene_15) occurs before 'Deliver and acknowledge critical note on behavior' (scene_17) based on the chronological order of scenes in the document. Scene 15 precedes scene 17, and both episodes are tied to distinct but sequential parts of the narrative leading up to and during a diplomatic meeting, supporting a directed 'precedes' relation from the earlier to the later episode.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e61956293668",
+    "subject_id": "ep_94734d136d07524d",
+    "object_id": "ep_970d42417edfd9f8",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs during the drive back to the Department (doc_26, scene_27), while the object episode takes place as the characters approach Malcolm's office (doc_28, scene_29), indicating a clear sequential order in the narrative flow. The events in the subject episode (back seat argument) precede the discussion about Simon's public stance in the object episode.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7acc00119847",
+    "subject_id": "ep_47bbf97ebc9c5d41",
+    "object_id": "ep_970d42417edfd9f8",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to Malcolm's urgent coordinated call' occurs in doc_26 and involves Simon and Judy receiving calls from Malcolm, while the object episode 'Address Simon's public stance on the war' takes place in doc_28 as they approach Malcolm's office. The narrative progression from receiving the call to moving toward Malcolm's office and discussing the political implications indicates a sequential order, with the call response preceding the discussion about Simon's public stance.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e736bce0b07f",
+    "subject_id": "ep_002ecda0ca352a7d",
+    "object_id": "ep_7291d6f569c4a930",
+    "relation_type": "precedes",
+    "reason": "The office tour episode (ep_002ecda0ca352a7d) occurs during scene_14, while the seating tensions episode (ep_7291d6f569c4a930) occurs during scene_17, indicating a clear narrative sequence where the subject episode precedes the object episode based on scene ordering in the document.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ab588724778a",
+    "subject_id": "ep_e5759b5d97cde67a",
+    "object_id": "ep_e803cdf2d5bf7174",
+    "relation_type": "precedes",
+    "reason": "The subject episode, where Judy prompts Simon to clarify his stance and Simon chooses to improvise, occurs before the object episode, where the team reacts to the press fallout and exits. The related events in both episodes are from the same scene (scene_26), and the sequence of actions—first Simon deciding how to respond, then the team reacting and departing—supports a clear temporal order.",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_94f13dcf4b22",
+    "subject_id": "ep_64a1aeb2358d06ac",
+    "object_id": "ep_94734d136d07524d",
+    "relation_type": "precedes",
+    "reason": "The note delivery and acknowledgment (ep_64a1aeb2358d06ac) occurs during a diplomatic meeting (scene_17), while the confrontation in the car (ep_94734d136d07524d) takes place during a drive back to the Department following a failed operation (scene_27). The scene numbers (17 before 27) and the narrative progression from an in-meeting intervention to a post-operation reckoning support that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_40ee436fc1a4",
+    "subject_id": "ep_970d42417edfd9f8",
+    "object_id": "ep_e803cdf2d5bf7174",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Toby proposing to make Simon's opposition to the war a public issue, which occurs as they approach Malcolm's office, while the object episode describes the team reacting to press fallout after Simon's damaging public statements and departing in a car. The sequence implied by the narrative flow—planning a public stance before dealing with its consequences—supports that the subject episode precedes the object episode in the local narrative order.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a6b072db2f2e",
+    "subject_id": "ep_002ecda0ca352a7d",
+    "object_id": "ep_975edf8ef4a9d4fa",
+    "relation_type": "precedes",
+    "reason": "The office tour episode (ep_002ecda0ca352a7d) includes Toby attempting to address Judy's hostility, which sets up the interpersonal tension. The sarcastic reaction episode (ep_975edf8ef4a9d4fa) occurs after Toby has secured his meeting invitation and is informed of it by Simon, indicating a later point in the same scene. Both episodes occur in scene_14 and share the occasion of the Karen Clark meeting, but the tour logically precedes the reaction to the invitation, establishing a clear narrative sequence.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c6fdef19c387",
+    "subject_id": "ep_f8b51a3da1989bfc",
+    "object_id": "ep_0df93d8144cac7c2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reassert Control After Defiance' involves Judy remaining in the room after being told to leave, which occurs before Malcolm exits and escalates hostility by assigning Toby to deliver a threat and insulting Judy. Both episodes occur in scene_11 during the same occasion, but the defiance must precede the retaliatory escalation, as the description of the second episode positions Malcolm's actions as a response during his exit, implying a sequential order.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_852fd6f3c634",
+    "subject_id": "ep_a9d05141a11dd47c",
+    "object_id": "ep_fad1c6c2879f7a97",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Navigate the dynamics of the upcoming meeting' occurs during scene_15 and involves preparation for a meeting, while the object episode 'Suppress reaction and defer confrontation' occurs in scene_17 during an active diplomatic meeting. The progression from anticipating meeting dynamics to responding to real-time interruptions indicates a temporal sequence supported by the scene numbers and narrative flow.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_93c9f26ce083",
+    "subject_id": "ep_977566c1b0f5a35f",
+    "object_id": "ep_a9d05141a11dd47c",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Exchange affection and workday wishes' occurs as Suzy and Toby are near their workplaces, indicating the start of the day, while the object episode 'Navigate the dynamics of the upcoming meeting' involves a discussion about a future meeting, suggesting it takes place later. The narrative progression from parting at work to later discussing a meeting supports a 'precedes' relation from subject to object.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_8_part_2",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0d6bf509e527",
+    "subject_id": "ep_a9d05141a11dd47c",
+    "object_id": "ep_ade0342e7dd45f09",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Judy, Toby, and Simon discussing the anticipated dynamics of an upcoming meeting (scene_15), while the second episode depicts events during the actual meeting where Simon attempts to speak and is restrained (scene_17). The narrative progression from preparing for the meeting to participating in it, along with the sequential scene numbers (15 before 17), supports that the subject episode occurs earlier than the object episode.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b6b603e57c6c",
+    "subject_id": "ep_811265b45ef2fb10",
+    "object_id": "ep_a9d05141a11dd47c",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Report meeting access and share credit' occurs in scene_14, where Toby informs Simon about securing access to the Foreign Office meeting and Simon shares the news with Judy. The object episode 'Navigate the dynamics of the upcoming meeting' occurs in scene_15, where the trio discusses the anticipated dynamics of the same meeting. The sequential scene numbering and the shift from securing access to discussing participation indicate a clear narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_340a89fd61cf",
+    "subject_id": "ep_ade0342e7dd45f09",
+    "object_id": "ep_ba7fe16b44ddb2fb",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs during scene_17, where Simon participates in the meeting and is interrupted by Michael. The second episode takes place in scene_18, where Simon confronts Judy and Toby after the meeting. The sequential scene numbers and the post-meeting context ('feeling insulted after the meeting') establish a clear temporal order: the first episode precedes the second.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_185a6e4bd45e",
+    "subject_id": "ep_fad1c6c2879f7a97",
+    "object_id": "ep_ba7fe16b44ddb2fb",
+    "relation_type": "precedes",
+    "reason": "The episode 'Suppress reaction and defer confrontation' occurs during scene_17 in the Diplomatic Meeting, where Simon stops speaking after being whispered to by Toby. The episode 'Confront Judy and Toby about being dismissed' occurs in scene_18, where Simon later confronts them in a private space. The scene numbers and narrative flow indicate a clear temporal sequence: deferring confrontation precedes the actual confrontation.",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b7064889cfe7",
+    "subject_id": "ep_811265b45ef2fb10",
+    "object_id": "ep_ba7fe16b44ddb2fb",
+    "relation_type": "precedes",
+    "reason": "The 'Report meeting access and share credit' episode occurs in scene_14, where Toby informs Simon about securing his attendance at the Foreign Office meeting. The 'Confront Judy and Toby about being dismissed' episode occurs in scene_18, where Simon confronts them after feeling insulted during the meeting. The clear scene progression from 14 to 18 supports that the first episode precedes the second in narrative order.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a2642d45561e",
+    "subject_id": "ep_811265b45ef2fb10",
+    "object_id": "ep_970d42417edfd9f8",
+    "relation_type": "precedes",
+    "reason": "The event of Toby informing Simon about securing meeting access and Simon sharing credit occurs in scene_14, while the discussion about making Simon's opposition to the war a public issue occurs in scene_29. The scene numbers indicate a clear narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_42e331e85d7d",
+    "subject_id": "ep_0283879f60dac289",
+    "object_id": "ep_ba7fe16b44ddb2fb",
+    "relation_type": "precedes",
+    "reason": "The episode 'Relocate and form Team Simon' involves Simon and Toby moving to the Box Room and deciding to exclude Judy, which sets up the team dynamics that lead to Simon being dismissed later. The episode 'Confront Judy and Toby about being dismissed' occurs after Simon has already been excluded and reacts to being called a 'tit' and 'meat in the room', indicating a subsequent confrontation. The narrative flow and event dependencies suggest the team formation and exclusion precede the emotional confrontation, supporting a 'precedes' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_16c7b2617d39",
+    "subject_id": "ep_30420d39700cff9d",
+    "object_id": "ep_c53950111e5bb3f7",
+    "relation_type": "elaborates",
+    "reason": "The second episode elaborates on the first by providing background context about Toby's past connection with Liza, which is prompted by the reunion attempt in the first episode. Toby's reflection on their history and his doubts about being remembered directly expand upon the interaction initiated in the first episode, offering emotional and narrative depth to the prior event.",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7dae00773b89",
+    "subject_id": "ep_970d42417edfd9f8",
+    "object_id": "ep_5abda31bfad37070",
+    "relation_type": "precedes",
+    "reason": "The episode 'Address Simon's public stance on the war' occurs as Simon, Judy, and Toby approach Malcolm's office and discuss making the war a resigning issue (scene_29), which directly precedes the confrontation in which Malcolm fires Simon over the wall collapse (scene_119). The narrative sequence in the related scenes supports a clear temporal order.",
+    "source_documents": [
+      "scene_119_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e07f61d48991",
+    "subject_id": "ep_e672a546fcc3b8ba",
+    "object_id": "ep_ade0342e7dd45f09",
+    "relation_type": "precedes",
+    "reason": "The 'Arrive and reunite at security' episode (doc_15, scene_16) occurs before the 'Attempt to speak and receive external restraints' episode (doc_16, scene_17), as indicated by the sequential document and scene numbering, establishing a clear narrative order where the characters first arrive and reunite, then proceed to the meeting where Simon attempts to speak.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fa17bb6f7e3a",
+    "subject_id": "ep_811265b45ef2fb10",
+    "object_id": "ep_ade0342e7dd45f09",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Report meeting access and share credit' occurs in scene_14, where Toby informs Simon about securing access to the Foreign Office meeting. The object episode 'Attempt to speak and receive external restraints' occurs in scene_17 during the actual meeting. The progression from scene_14 to scene_17 establishes a clear narrative order where securing access precedes the attempt to speak during the meeting.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2a317b95bf36",
+    "subject_id": "ep_970d42417edfd9f8",
+    "object_id": "ep_0df93d8144cac7c2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Address Simon's public stance on the war' occurs as Judy, Simon, and Toby approach Malcolm's office (scene_29), which precedes Malcolm's actions in 'Escalate Hostility Toward Media and Staff' that take place during a High-Level Security Coordination Meeting (scene_11). Although scene numbers suggest scene_11 precedes scene_29, the narrative flow indicates that scene_29's events set the stage for the confrontation with Malcolm, implying a reversal in scene numbering or a non-linear presentation. Given the contextual setup in ep_970d42417edfd9f8 leading directly into the interaction with Malcolm in ep_0df93d8144cac7c2, the former logically precedes the latter in narrative order.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_30f9a58b69f4",
+    "subject_id": "ep_5abda31bfad37070",
+    "object_id": "ep_883fa84fe83191f2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Malcolm confronts Simon with termination over the wall' (doc_id: doc_118) occurs in scene 119, while 'Clarify Simon's position on taking a stand' (doc_id: doc_28) occurs in scene 29. Since scene 29 precedes scene 119 in narrative order, the object episode occurs earlier than the subject episode. However, the relation 'precedes' is directed, and the subject episode (ep_5abda31bfad37070) is later than the object episode (ep_883fa84fe83191f2), so the correct directional relation is object -> subject. But since the schema requires the relation to be evaluated as subject -> object unless supported otherwise, and the reverse order is not supported by the description or events, the relation 'precedes' is not valid in the subject-to-object direction. Therefore, no directed relation is justified. After re-evaluation, the scene numbers indicate that ep_883fa84fe83191f2 (scene 29) clearly precedes ep_5abda31bfad37070 (scene 119), so if the subject is ep_5abda31bfad37070 and the object is ep_883fa84fe83191f2, then subject does not precede object. Hence, the correct judgment is that no valid relation exists in the given direction. However, the narrative order is strongly supported by scene numbers, so if the relation were allowed in reverse, it would be 'precedes'. But per instructions, we must not invert unless supported as such. Since the subject episode happens after the object episode, 'precedes' cannot hold from subject to object. No other relation is supported: no causal link is stated, no contrast is evident, and no elaboration is indicated. Thus, despite clear chronology, the direction is wrong for 'precedes', and no other relation fits. Final decision: NONE.",
+    "source_documents": [
+      "scene_119_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_751dbafd32bb",
+    "subject_id": "ep_970d42417edfd9f8",
+    "object_id": "ep_ade0342e7dd45f09",
+    "relation_type": "elaborates",
+    "reason": "The subject episode sets up Simon's public stance on the war as a potential resigning issue, with discussion among Judy, Simon, and Toby about its political consequences. The object episode shows Simon actually articulating his stance in the meeting, confirming that war is currently unforeseeable but his position could evolve. This provides a direct enactment and expansion of the earlier discussed stance, with additional detail on how Simon expresses it under pressure, thus elaborating the prior narrative unit.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_98d0ccabc1e0",
+    "subject_id": "ep_811265b45ef2fb10",
+    "object_id": "ep_e672a546fcc3b8ba",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Report meeting access and share credit' occurs in scene_14, where Toby informs Simon about securing access to the Foreign Office meeting. The object episode 'Arrive and reunite at security' occurs in scene_16, where the group goes through security for the same meeting. Scene numbers indicate a clear narrative order: scene_14 precedes scene_16. Additionally, the Karen Clark Meeting is the shared occasion, and the security screening logically follows the earlier arrangement of access, supporting a 'precedes' relation from the subject to the object.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2168124635b3",
+    "subject_id": "ep_b03ba0024092ae05",
+    "object_id": "ep_977566c1b0f5a35f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Toby walks to DFID while on phone with Suzy' involves Toby already en route to work while continuing a phone conversation with Suzy about domestic matters, which transitions into the subsequent episode 'Exchange affection and workday wishes' where they shift from bickering to supportive farewells as they near their workplaces. The latter episode culminates in mutual well-wishes before parting, indicating it occurs after the walking/phone conversation episode in the narrative sequence.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_8_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_181681b7ef7d",
+    "subject_id": "ep_b7a5bfc28b0a0eff",
+    "object_id": "ep_977566c1b0f5a35f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Address household chores during morning walk' involves Toby and Suzy walking to work and discussing domestic issues, including laundry and lasagne storage, with some conversation continuing over the phone as Toby heads toward DFID. The subsequent episode 'Exchange affection and workday wishes' occurs as they near their workplaces and shifts to supportive farewells, including well-wishes before parting. The narrative flow and shared context in scene_8 indicate a clear temporal sequence where the discussion of chores precedes the emotional farewell, making 'precedes' strongly supported.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_8_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6b8a3888b6c7",
+    "subject_id": "ep_1282e936511dc0d3",
+    "object_id": "ep_4e65b36a36d77145",
+    "relation_type": "precedes",
+    "reason": "Simon's acknowledgment of responsibility occurs just before Malcolm arrives and asserts authority, as indicated by the description stating Simon demonstrates recognition of failure 'just before Malcolm arrives,' which directly precedes Malcolm's actions in the same scene.",
+    "source_documents": [
+      "scene_119_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_abc3201152bf",
+    "subject_id": "ep_8b80685729923904",
+    "object_id": "ep_a830d925550cf4c1",
+    "relation_type": "elaborates",
+    "reason": "The object Episode 'Discuss committee options in the bathroom' provides specific details about the conversation between Karen and Liza that was observed conspiratorially in the subject Episode 'Uncover Karen's secretive conversation'. The bathroom discussion elaborates on the content and context of the earlier-observed interaction, revealing the topic (committee selection) and Karen's involvement, thus expanding the understanding of the secretive conversation Simon witnessed.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4c9db9f33363",
+    "subject_id": "ep_4d072e89da510e41",
+    "object_id": "ep_a830d925550cf4c1",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Discuss committee options in the bathroom' provides additional detail about the strategic discussion initiated in 'Karen and Liza discuss committee strategy', specifically revealing Karen's founding of one of the committees and Liza's narrowed choices, thus expanding on their shared strategic focus. The bathroom conversation elaborates on the earlier discussion by adding concrete information about committee options and personal involvement.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_9315b2f0e90a",
+    "subject_id": "ep_85c7cf1b50bc93cd",
+    "object_id": "ep_8b80685729923904",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs in scene_19, where Chad confronts Liza and she subsequently walks away to join Karen. The object episode occurs in scene_20, where Karen talks conspiratorially with Liza while being observed by Simon. Since scene_19 precedes scene_20 and Liza joining Karen directly sets up their private conversation, the narrative order supports a 'precedes' relation from the confrontation to the secretive conversation.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fcda202823de",
+    "subject_id": "ep_1282e936511dc0d3",
+    "object_id": "ep_5abda31bfad37070",
+    "relation_type": "precedes",
+    "reason": "Simon's acknowledgment of responsibility occurs during his phone call with Mr. Michaelson just before Malcolm arrives, while Malcolm's confrontation and declaration of termination happen after Simon confirms his resignation upon Malcolm's arrival. The sequence of related events in scene_119 supports that the subject episode precedes the object episode in narrative order.",
+    "source_documents": [
+      "scene_119_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_159d5ead35a4",
+    "subject_id": "ep_bb5c13f5dfeed156",
+    "object_id": "ep_008fc83bef38b0c9",
+    "relation_type": "causes",
+    "reason": "Karen assigns covert intelligence tasks to Liza, including actions related to the 'Post War Planning' paper, which directly prompts Liza to investigate and attempt to delay the paper's distribution. The description of the second episode states that Liza acts 'on Karen's indirect directives,' providing clear causal evidence that Karen's assignment of tasks leads to Liza's investigative and delaying actions.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4e0ef9322c7a",
+    "subject_id": "ep_85c7cf1b50bc93cd",
+    "object_id": "ep_acf811fcdb759022",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs during scene_19 at the 'Meeting Of Delegations', while the object episode occurs in scene_33 at a different occasion, 'Meeting With Karen, Liza, Linton, And Staffers'. The progression from scene_19 to scene_33 indicates a narrative sequence where the confrontation between Chad and Liza precedes the response to Karen's injury and exit.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c1ecf6961d88",
+    "subject_id": "ep_b6b06a46755929c7",
+    "object_id": "ep_882298e357b54850",
+    "relation_type": "elaborates",
+    "reason": "The subject episode introduces a paper and a reference to a secret committee, which Bob Adriano downplays. The object episode elaborates on this by reporting the aftermath of the London meeting, including concern over the Committee mention, thus providing further explanation and context for the earlier episode's events.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1e0da57a671d",
+    "subject_id": "ep_970d42417edfd9f8",
+    "object_id": "ep_e841ff5a58f94492",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_29 and are part of the same narrative sequence as Simon approaches Malcolm's office. The discussion about Simon's public stance on the war involves Toby's suggestion and Simon's caution, which immediately precedes Malcolm informing Simon about the Washington fact-finding mission. The local narrative order in the scene supports a 'precedes' relation from the stance discussion to the mission planning.",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7493fa2ca0f4",
+    "subject_id": "ep_473f7353f64450d0",
+    "object_id": "ep_ade0342e7dd45f09",
+    "relation_type": "precedes",
+    "reason": "The seating adjustment occurs early in the meeting as Simon struggles with visibility, and the attempt to speak follows afterward when Simon considers intervening and is restrained by Toby. Both episodes occur within the same occasion (Diplomatic Meeting At Chad'S Dual Horse-Shoe) and the narrative sequence implies that adjusting seating happens before the attempt to speak, based on the flow of events described.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4fa2da612307",
+    "subject_id": "ep_b6b06a46755929c7",
+    "object_id": "ep_77dea8271b95f960",
+    "relation_type": "precedes",
+    "reason": "The episode 'Introduce and challenge deployment logistics paper' occurs in scene_17, where Bob Adriano references a committee in passing, prompting Karen's suspicion. The episode 'Liza confronts Bob about the Future Planning Committee' occurs in scene_35, where Liza reveals that Karen knows about the committee, indicating that Karen's knowledge arose from the earlier scene. The narrative order of scenes (17 before 35) and the progression of information (Karen learning of the committee leading to Liza's confrontation) support that the first episode precedes the second.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b7d0aa3d2ca4",
+    "subject_id": "ep_882298e357b54850",
+    "object_id": "ep_ea7a161bc5f0d62a",
+    "relation_type": "causes",
+    "reason": "The discussion of the London meeting outcomes, including the accidental mention of the Committee, directly triggers the subsequent episode where Linton and Bob Adriano decide to conceal the war committee and alter the meeting minutes. The description of the second episode explicitly references the 'accidental mention' as the motivation for suppression and narrative control, establishing a clear causal link.",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_582c65ed7bc6",
+    "subject_id": "ep_ef509cc7554f0170",
+    "object_id": "ep_fbb4e48bd529a781",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Judy Malloy preparing for the minister's arrival and coordinating the press release before the minister arrives, while the object episode occurs at the moment she notices the minister's approach and reacts to her broken nail. The preparation logically and temporally precedes the immediate reaction upon arrival, as supported by the sequence of events in scene_3.",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5e9bdda6c990",
+    "subject_id": "ep_970d42417edfd9f8",
+    "object_id": "ep_f21e6ff017312c8c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Address Simon's public stance on the war' occurs as Judy, Simon, and Toby approach Malcolm's office, setting the stage for the confrontation. The episode 'Confront Simon about conduct and rhetoric' begins when Malcolm confronts Simon upon entering the office, indicating a direct sequence in narrative order. The related_events in both episodes are from the same scene (scene_29) but the first episode involves preparatory dialogue outside the office, while the second involves the direct confrontation inside, supporting a clear temporal precedence.",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_96df0be1907d",
+    "subject_id": "ep_970d42417edfd9f8",
+    "object_id": "ep_883fa84fe83191f2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Address Simon's public stance on the war' occurs as Simon, Toby, and Judy approach Malcolm's office and discuss making the war a resigning issue, which sets the stage for the subsequent confrontation. The episode 'Clarify Simon's position on taking a stand' occurs during the direct interaction with Malcolm, where Simon clarifies his ambivalence after being pressed. The related_events of both episodes are in scene_29, and the narrative flow indicates the former leads directly into the latter, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f2a5709aae70",
+    "subject_id": "ep_4b8b437a862367f5",
+    "object_id": "ep_ade0342e7dd45f09",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate the diplomatic meeting and set tone' occurs first as Karen Clark opens the meeting and sets a cautious tone, which is followed by Simon's attempt to speak and the subsequent interaction involving Toby, Karen, and Michael. Both episodes occur within the same occasion ('Diplomatic Meeting At Chad'S Dual Horse-Shoe') and the sequence of related events indicates a clear narrative order where the meeting is initiated before Simon's attempt to speak.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_de0e652b70fe",
+    "subject_id": "ep_b64a055b28d3fe0c",
+    "object_id": "ep_d6c21d49db488be7",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_118, but Karen's announcement of resignation and confrontation with General Miller (ep_d6c21d49db488be7) includes her mocking Chad, which occurs after Chad decides to stay with General Miller (ep_b64a055b28d3fe0c). The sequence of events in the shared scene supports that Chad's abandonment and rejection precedes Karen's confrontation.",
+    "source_documents": [
+      "scene_118_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fd992fcca501",
+    "subject_id": "ep_86925df28999d581",
+    "object_id": "ep_e8137efbf2539dbd",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Michael reassures a caller about the Canadians' is a specific action that occurs within the broader context of 'Prepare for the big meeting', as both take place in the same scene and location and are part of coordinated preparation activities. The reassurance call is mentioned as part of the preparation tasks, indicating that it provides additional detail about the larger episode of meeting preparation.",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_341693fac09f",
+    "subject_id": "ep_811265b45ef2fb10",
+    "object_id": "ep_975edf8ef4a9d4fa",
+    "relation_type": "causes",
+    "reason": "The subject episode, in which Toby reports securing Simon's meeting access and Simon shares credit with Judy, directly triggers the object episode, where Judy responds with sarcasm. The description of the object episode explicitly states it occurs 'Upon hearing from Simon' about Toby's achievement, indicating a direct causal link from the information-sharing in the subject episode to Judy's sarcastic reaction.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7bf18f1bb445",
+    "subject_id": "ep_cb0af9f9be2e21c6",
+    "object_id": "ep_f8b51a3da1989bfc",
+    "relation_type": "contrasts_with",
+    "reason": "Simon's effort to mediate tensions and welcome Toby contrasts with Judy's silent defiance of Malcolm's authority, highlighting opposing responses to conflict within the same meeting; the collegial tone of the first episode is juxtaposed against the nonverbal power struggle in the second.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_26488ce8f248",
+    "subject_id": "ep_882298e357b54850",
+    "object_id": "ep_5577c2aa154a4abd",
+    "relation_type": "precedes",
+    "reason": "The London meeting outcomes are reported in scene_31, where Bob Adriano mentions the Committee being flagged, which sets up the subsequent challenge by Karen in scene_33. The mention of the Committee in the Foreign Office meeting (ep_882298e357b54850) precedes and provides context for Karen's direct confrontation with Linton about the committee in ep_5577c2aa154a4abd, establishing a clear temporal order across scenes.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_eb2c507c102e",
+    "subject_id": "ep_ade0342e7dd45f09",
+    "object_id": "ep_d262d1f1d2575240",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Attempt to speak and receive external restraints' occurs first, as it involves Simon being called on and making a statement, followed by Michael redirecting the discussion. The object episode 'Exchange on secret committee and redirect agenda' follows, where Michael again redirects the meeting after a confrontation about a secret committee. Both episodes occur in the same occasion (scene_17) and share Michael's intervention as a narrative pivot, supporting a clear local narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e9dc04aadaa4",
+    "subject_id": "ep_814130536f64519d",
+    "object_id": "ep_bb5c13f5dfeed156",
+    "relation_type": "precedes",
+    "reason": "The episode 'Karen confronts Linton and assesses the political landscape' occurs before 'Karen assigns covert intelligence tasks to Liza' within scene_30, as Karen first gathers information through direct confrontation and then, based on her assessment, assigns intelligence tasks to Liza before departing. The narrative sequence in the related events supports this temporal order.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f1ac8af36535",
+    "subject_id": "ep_aadd51b6c2aa314d",
+    "object_id": "ep_b64a055b28d3fe0c",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_118 and share the same narrative context. The attack on General Miller's identity (ep_aadd51b6c2aa314d) sets up the confrontation in which Chad then chooses to stay with Miller instead of following Karen (ep_b64a055b28d3fe0c), indicating a clear sequence where the identity challenge precedes Chad's abandonment and rejection. The related events in both episodes suggest a temporal flow within the same scene, supporting a 'precedes' relation.",
+    "source_documents": [
+      "scene_118_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a334680bd6a4",
+    "subject_id": "ep_d6c21d49db488be7",
+    "object_id": "ep_b3dc4921236e2022",
+    "relation_type": "precedes",
+    "reason": "Karen's resignation announcement and confrontation with General Miller (ep_d6c21d49db488be7) immediately precedes General Miller's assertion of moral resolve and rejection of Chad (ep_b3dc4921236e2022), as both occur in scene_118 and the sequence is chronologically ordered: Karen's departure prompts Miller's subsequent interaction with Chad.",
+    "source_documents": [
+      "scene_118_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cb0bc57eafac",
+    "subject_id": "ep_b64a055b28d3fe0c",
+    "object_id": "ep_b3dc4921236e2022",
+    "relation_type": "precedes",
+    "reason": "Chad's decision to stay with General Miller and subsequent rejection by both Karen and Miller (ep_b64a055b28d3fe0c) sets the stage for Miller's assertion of moral resolve and final rejection of Chad (ep_b3dc4921236e2022). The sequence of related events in scene_118 implies a narrative order where Chad's loyalty shift and Karen's mockery precede Miller's angry departure.",
+    "source_documents": [
+      "scene_118_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_18e00504a498",
+    "subject_id": "ep_8ef86c5830c1d22b",
+    "object_id": "ep_e803cdf2d5bf7174",
+    "relation_type": "precedes",
+    "reason": "The episode 'Exit the FO and encounter press' describes Simon Judy and Toby exiting the Foreign Office and being confronted by the press, which is immediately followed by the episode 'Team reacts to and exits after press fallout' where the team reacts to Simon's statements and departs in the car. The sequence of related events in the same scene (scene_26) supports a clear temporal order: the encounter happens first, then the reaction and exit, making 'precedes' strongly supported.",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8b3bff5de5a2",
+    "subject_id": "ep_aadd51b6c2aa314d",
+    "object_id": "ep_b3dc4921236e2022",
+    "relation_type": "precedes",
+    "reason": "The description of ep_aadd51b6c2aa314d states that Karen escalates the confrontation with General Miller, and the related events occur in scene_118. The description of ep_b3dc4921236e2022 states that 'after Karen departs', General Miller interacts with Chad, indicating a clear temporal sequence where the first episode ends before the second begins. This temporal ordering is explicitly supported by the text.",
+    "source_documents": [
+      "scene_118_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_122c2c24d1f5",
+    "subject_id": "ep_002ecda0ca352a7d",
+    "object_id": "ep_ffa8e660831c6c6e",
+    "relation_type": "precedes",
+    "reason": "The office tour episode (ep_002ecda0ca352a7d) occurs in scene_14, while the hierarchy establishment episode (ep_ffa8e660831c6c6e) occurs in scene_11. Since scene_11 precedes scene_14 in narrative order, the object episode occurs earlier than the subject episode. Therefore, the subject episode follows the object episode, meaning the object precedes the subject. Given the directed nature of 'precedes', the correct relation is object -> subject, but since the subject is listed first, the relation from subject to object is not 'precedes'. However, reversing the direction, ep_ffa8e660831c6c6e precedes ep_002ecda0ca352a7d. But per instruction, we must assign relation_type based on subject -> object. Since the subject episode happens after the object episode, 'precedes' does not hold in subject -> object direction. Hence, no valid directed relation is supported in the given direction. After re-evaluation: the episodes occur in different scenes (11 and 14), so ep_ffa8e660831c6c6e (scene_11) clearly precedes ep_002ecda0ca352a7d (scene_14). Thus, if the subject is ep_002ecda0ca352a7d and object is ep_ffa8e660831c6c6e, then subject does NOT precede object. Therefore, 'precedes' cannot be applied from subject to object. No other relation (causes, contrasts_with, elaborates) is supported by explicit evidence. Thus, despite chronological knowledge, the relation from subject to object is not 'precedes' — it would be the reverse. Since we cannot express reverse direction with a different label and no symmetric or inverse label is available for 'precedes', and no other relation fits, we default to NONE due to directionality mismatch.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a5d8f6c6271c",
+    "subject_id": "ep_49cfe2c215542935",
+    "object_id": "ep_f5a141744c5540ed",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Arrive early to prepare for the day' describes Malcolm arriving earlier than expected, which sets up the context for the object episode 'Respond to Malcolm's unexpected arrival', where Judy is informed of and reacts to Malcolm's arrival. The narrative order and the element of unexpectedness in the second episode imply that the first episode occurs just before the second, supporting a 'precedes' relation from subject to object.",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3f7188949873",
+    "subject_id": "ep_49cfe2c215542935",
+    "object_id": "ep_40227f87950512cb",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrive early to prepare for the day' involves Malcolm arriving at work early, which logically occurs before the arrival of the new Minister and her Advisor, as described in 'Welcome the new Minister and Advisor'. The related event 'Malcolm greets the new Minister and her Advisor' implies the Minister's arrival happens after Malcolm is already present, supporting a temporal precedence of the subject episode over the object episode.",
+    "source_documents": [
+      "scene_123_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_633482bf0997",
+    "subject_id": "ep_77dea8271b95f960",
+    "object_id": "ep_d262d1f1d2575240",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Liza confronting Bob about the Future Planning Committee immediately after leaving the toilets (scene_35), while the object episode occurs during a diplomatic meeting where Michael redirects the agenda (scene_17). Although the scene numbers suggest scene_17 precedes scene_35, the narrative flow within the descriptions indicates that Liza's confrontation (ep_77dea8271b95f960) directly prompts the subsequent tension and redirection in the meeting (ep_d262d1f1d2575240). Given that Karen confronts Adriano about the secret committee only after Liza reveals Karen's knowledge, and Michael's intervention follows that rising tension, the subject episode logically precedes the object episode in narrative order despite the lower scene number in the latter. This creates a coherent causal-narrative sequence where Liza's action initiates the chain leading to the meeting confrontation and redirection.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f9152ddd82b1",
+    "subject_id": "ep_c359ca90a4fd705f",
+    "object_id": "ep_e841ff5a58f94492",
+    "relation_type": "precedes",
+    "reason": "The confrontation over media exposure occurs in doc_27, while the planning of the Washington mission occurs in doc_28, indicating a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d42839902765",
+    "subject_id": "ep_c359ca90a4fd705f",
+    "object_id": "ep_4e65b36a36d77145",
+    "relation_type": "precedes",
+    "reason": "The confrontation over unauthorized media exposure (watching SKY NEWS and calling Simon) occurs in scene_28, while Malcolm asserting authority and forcing the resignation letter occurs in scene_119, indicating a clear temporal sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_119_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b5c5088a59b1",
+    "subject_id": "ep_49cfe2c215542935",
+    "object_id": "ep_8fac3d05aa41358c",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Arrive early to prepare for the day' involves Malcolm Tucker arriving at work early, which establishes an initial state of preparation and urgency. The object episode 'Initiate transition with a lunch invitation' occurs later, as it involves Malcolm engaging the new Minister in a strategic onboarding conversation during a lunch invitation. The temporal sequence is supported by the narrative logic of arriving early as a precursor to initiating formal interactions later in the day, with no evidence of overlap or reversal. This local narrative order supports a 'precedes' relation from the arrival and preparation episode to the lunch-based orientation episode.",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_123_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b41a66f7238e",
+    "subject_id": "ep_c359ca90a4fd705f",
+    "object_id": "ep_f5a141744c5540ed",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Malcolm calling Simon to confront him after seeing media coverage, which sets up his intent to address the breach. The object episode involves Malcolm's unexpected arrival with Toby and the shift in scene tone, including a direct quote to Simon. The sequence of Malcolm first calling (subject) and then arriving (object) indicates a clear temporal order where the confrontation call precedes the in-person response scene.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8ffc8c884806",
+    "subject_id": "ep_c1ddfd62ba940ce3",
+    "object_id": "ep_85b5441f88302b7a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Retrieve the blue folder' (doc_id: doc_111, scene_112) occurs immediately before 'Deliver intelligence and confront Linton' (doc_id: doc_112, scene_113), as the retrieval of the blue folder logically precedes its delivery in the narrative sequence. The shared focus on the blue folder and the consecutive scene IDs support a clear temporal ordering.",
+    "source_documents": [
+      "scene_113_part_1",
+      "scene_112_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2162411e1738",
+    "subject_id": "ep_6ed17d70e87630e0",
+    "object_id": "ep_c359ca90a4fd705f",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Malcolm beginning to listen to Simon Foster's BBC radio interview, which occurs before the object episode where Malcolm reacts to SKY NEWS coverage of Simon's later mini-press conference. The sequence of media monitoring (BBC first, then SKY NEWS) and the escalation to confrontation implies a temporal progression supported by the narrative flow across scenes.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_28dadf8dde1b",
+    "subject_id": "ep_c359ca90a4fd705f",
+    "object_id": "ep_f21e6ff017312c8c",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Malcolm calling Simon to confront him about media exposure after watching SKY NEWS, which occurs in scene_28. The second episode is the actual confrontation in the office, occurring in scene_29. The narrative order of scenes (28 before 29) and the causal sequence—Malcolm summoning Simon before the in-person confrontation—support that the first episode precedes the second.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d302bea8ec40",
+    "subject_id": "ep_c359ca90a4fd705f",
+    "object_id": "ep_91d55c62cb46122f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Simon over unauthorized media exposure' involves Malcolm reacting to SKY NEWS coverage of Simon's mini-press conference, which prompts him to call Simon. The subsequent heated argument in 'Malcolm confronts Simon in a heated argument' logically follows after Simon arrives in response to the call, indicating a temporal sequence where the confrontation over media exposure precedes the in-person argument. The related events and narrative flow support this local order.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bd4331921fa8",
+    "subject_id": "ep_49cfe2c215542935",
+    "object_id": "ep_9ae684a86b71f217",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Arrive early to prepare for the day' involves Malcolm Tucker arriving at his workplace earlier than expected, which sets up the context for the subsequent actions in the object episode 'Arrive at office and initiate playback setup', where he arrives at his office, greets his assistant, and hands over the CD for playback. The related events in the object episode (e.g., arriving at the office, interacting with Sam, inserting the CD) logically follow the early arrival described in the subject episode, indicating a clear temporal sequence supported by the narrative progression.",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_689baf072a3d",
+    "subject_id": "ep_c359ca90a4fd705f",
+    "object_id": "ep_5abda31bfad37070",
+    "relation_type": "precedes",
+    "reason": "The confrontation over unauthorized media exposure (ep_c359ca90a4fd705f) occurs after Simon's mini-press conference and before the termination episode, which is justified by the wall collapse and political fallout. The media exposure mentioned in ep_c359ca90a4fd705f sets the stage for the political pressure cited in ep_5abda31bfad37070, indicating a temporal sequence where the confrontation precedes the termination.",
+    "source_documents": [
+      "scene_119_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2f3148512dec",
+    "subject_id": "ep_c359ca90a4fd705f",
+    "object_id": "ep_883fa84fe83191f2",
+    "relation_type": "precedes",
+    "reason": "The confrontation over media exposure (ep_c359ca90a4fd705f) occurs in scene_28, as Malcolm reacts to SKY NEWS coverage of Simon's mini-press conference. The clarification of Simon's position (ep_883fa84fe83191f2) occurs in scene_29, where Malcolm presses Simon further after dismissing others. The scene numbers and event flow indicate a clear temporal sequence: the confrontation precedes the clarification.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4b15defd07cf",
+    "subject_id": "ep_6ff6f915b9c61463",
+    "object_id": "ep_f5a141744c5540ed",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Malcolm declaring his intent to confront Simon at the International Development department, which sets up the subsequent episode where Malcolm arrives unexpectedly with Toby and requests privacy to speak with Simon. The narrative sequence is supported by the progression from intent to action across the two episodes, with no intervening events breaking the causal or temporal chain.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_130381275e5c",
+    "subject_id": "ep_91d55c62cb46122f",
+    "object_id": "ep_f5a141744c5540ed",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Malcolm's unexpected arrival' (doc_8, scene_9) occurs before 'Malcolm confronts Simon in a heated argument' (doc_9, scene_10), as evidenced by the sequential document and scene numbering, and the narrative flow where Malcolm's arrival sets up the subsequent confrontation.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3b0706139703",
+    "subject_id": "ep_f5a141744c5540ed",
+    "object_id": "ep_cd50f0ab10d67682",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Malcolm's unexpected arrival' (scene_9) occurs in an earlier scene than 'Address Simon's Media Disinvitation and Messaging Discipline' (scene_11), indicating a clear narrative sequence where Malcolm's arrival sets the stage for the subsequent disciplinary conversation about media messaging.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c2ee0654e612",
+    "subject_id": "ep_f5a141744c5540ed",
+    "object_id": "ep_4e65b36a36d77145",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Malcolm's unexpected arrival' includes Malcolm arriving and requesting privacy with Simon, which sets the immediate context for the subsequent episode where Malcolm asserts authority and forces a resignation letter. The events in the first episode (scene_9) occur before those in the second (scene_119), establishing a clear temporal order.",
+    "source_documents": [
+      "scene_119_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8c61fc38e09e",
+    "subject_id": "ep_9ae684a86b71f217",
+    "object_id": "ep_85b5441f88302b7a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrive at office and initiate playback setup' occurs early in scene_2, involving Malcolm's arrival and handing a CD to Sam, while 'Deliver intelligence and confront Linton' occurs in scene_113, where Malcolm presents a folder and confronts Linton. The scene numbers (2 vs. 113) provide clear narrative order, indicating the first episode precedes the second.",
+    "source_documents": [
+      "scene_113_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1da92aa70f87",
+    "subject_id": "ep_f5a141744c5540ed",
+    "object_id": "ep_f21e6ff017312c8c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Malcolm's unexpected arrival' includes Malcolm arriving and requesting privacy, which sets the scene for the subsequent confrontation with Simon. The events in the object episode, such as Malcolm confronting Simon and mocking his rhetoric, logically follow after the arrival and privacy request. The narrative sequence in the related scenes (scene_9 before scene_29) supports a clear temporal order where the arrival precedes the confrontation.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_69c30152a72a",
+    "subject_id": "ep_f5a141744c5540ed",
+    "object_id": "ep_cb0af9f9be2e21c6",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Malcolm's unexpected arrival' includes Malcolm and Toby arriving and requesting privacy, which sets the scene for Simon's subsequent attempt to mediate tensions and welcome Toby. The narrative flow indicated by the related events and scene numbers (scene_9 before scene_11) supports that the arrival and shift in tone precede Simon's efforts to restore order.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_87fced53b319",
+    "subject_id": "ep_6ff6f915b9c61463",
+    "object_id": "ep_91d55c62cb46122f",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Malcolm declaring his intent to confront Simon after hearing the word 'war' on the radio, which sets up the subsequent confrontation in Simon's office described in the second episode. The sequence of intent declaration followed by the actual argument supports a narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5038e35784a6",
+    "subject_id": "ep_6ff6f915b9c61463",
+    "object_id": "ep_0df93d8144cac7c2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Malcolm confronts Simon over the word 'war'' occurs in scene_5, while 'Escalate Hostility Toward Media and Staff' occurs in scene_11. The scene numbers indicate a clear narrative order, with scene_5 preceding scene_11, supporting that the subject episode occurs earlier than the object episode.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b310a9daff13",
+    "subject_id": "ep_3b2397e3a778a122",
+    "object_id": "ep_91d55c62cb46122f",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode involves Malcolm mocking Simon's public health focus in a radio context with Sam laughing, establishing a dismissive tone. The second episode features a heated argument where Malcolm criticizes Simon's speaking style, indicating escalating tension. These episodes are not explicitly ordered or causally linked, but they contrast in tone and setting—public ridicule versus private confrontation—highlighting a shift from light mockery to serious conflict, which supports a contrastive relationship.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_67dfb28d2a21",
+    "subject_id": "ep_91d55c62cb46122f",
+    "object_id": "ep_5abda31bfad37070",
+    "relation_type": "precedes",
+    "reason": "The heated argument between Malcolm and Simon (ep_91d55c62cb46122f) occurs in scene_10, while Malcolm's termination of Simon over the wall collapse (ep_5abda31bfad37070) occurs in scene_119, indicating a clear narrative sequence where the confrontation precedes the firing.",
+    "source_documents": [
+      "scene_119_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7047c3aaae4b",
+    "subject_id": "ep_91d55c62cb46122f",
+    "object_id": "ep_f21e6ff017312c8c",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Confront Simon about conduct and rhetoric' provides additional detail about the same confrontation mentioned in 'Malcolm confronts Simon in a heated argument', including specific content of the criticism (mocking 'climb the mountain of conflict') and Simon's defense, thereby expanding on the earlier-described argument with more contextual and dialogic detail.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5443e379b2d3",
+    "subject_id": "ep_91d55c62cb46122f",
+    "object_id": "ep_7b8a370289c91f3c",
+    "relation_type": "precedes",
+    "reason": "The argument in ep_91d55c62cb46122f (scene_10) occurs before the discussion about defending personal opinion using hypothetical extremes in ep_7b8a370289c91f3c (scene_11), as indicated by the sequential scene numbers in their respective documents.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0b4e0d158994",
+    "subject_id": "ep_9ae684a86b71f217",
+    "object_id": "ep_4e65b36a36d77145",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrive at office and initiate playback setup' occurs in scene_2, while 'Malcolm asserts authority and forces resignation letter' occurs in scene_119, indicating a clear temporal sequence where the subject episode precedes the object episode based on scene numbering.",
+    "source_documents": [
+      "scene_119_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_608c1f01e9e6",
+    "subject_id": "ep_91d55c62cb46122f",
+    "object_id": "ep_4e65b36a36d77145",
+    "relation_type": "precedes",
+    "reason": "The heated argument between Malcolm and Simon (ep_91d55c62cb46122f) occurs in scene_10, where Malcolm criticizes Simon's speaking style, establishing early conflict. The subsequent episode (ep_4e65b36a36d77145) in scene_119 involves Malcolm asserting control by demanding a resignation letter, indicating a progression in their confrontation. The scene numbers and escalating nature of actions support a temporal sequence where the argument precedes the assertion of authority.",
+    "source_documents": [
+      "scene_119_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_60cdda02915a",
+    "subject_id": "ep_91d55c62cb46122f",
+    "object_id": "ep_cb0af9f9be2e21c6",
+    "relation_type": "precedes",
+    "reason": "The argument between Malcolm and Simon (ep_91d55c62cb46122f) occurs in scene_10, while Simon's attempt to mediate tensions and welcome Toby (ep_cb0af9f9be2e21c6) occurs in scene_11, indicating a clear narrative sequence where the confrontation precedes the damage control effort.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c73854a7cf6a",
+    "subject_id": "ep_4d072e89da510e41",
+    "object_id": "ep_d262d1f1d2575240",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Karen and Liza discuss committee strategy' occurs in scene_19, while the object episode 'Exchange on secret committee and redirect agenda' occurs in scene_17. Although scene_17 precedes scene_19 chronologically, the narrative context in the object episode includes Karen conferring with Liza about the committee (scene_17), which aligns with and likely precedes the more detailed strategic discussion in the subject episode (scene_19). Thus, the object episode's events precede the subject episode, but given the directionality constraint and the subject-to-object framing, the correct relation is reversed. However, based on scene numbering (17 before 19), the object episode precedes the subject episode, so the relation 'precedes' is valid with subject as later episode. Therefore, the subject episode does not precede the object; instead, the object precedes the subject. Since 'precedes' is directed and the subject does not occur before the object, no valid directed relation holds. Hence, 'NONE' is required. Wait — correction: scene_17 (object) occurs before scene_19 (subject), so if we are evaluating subject -> object, it would be incorrect to say subject precedes object. But if the relation is object -> subject, that would be valid. However, we must assess the given subject and object as ordered. Since the subject (scene_19) occurs after the object (scene_17), the subject does not precede the object. No other relation is supported: no causal link is stated, no contrast is evident, and no elaboration is indicated. Therefore, despite the chronological order, the directed 'precedes' relation in the subject->object direction is false. Thus, no valid relation exists in the given direction, and no symmetric relation is justified. Final decision: NONE.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a000a7c0e13c",
+    "subject_id": "ep_91d55c62cb46122f",
+    "object_id": "ep_cd50f0ab10d67682",
+    "relation_type": "causes",
+    "reason": "The heated argument in which Malcolm criticizes Simon's speaking style (ep_91d55c62cb46122f) directly leads to the subsequent episode where Malcolm enforces messaging discipline and informs Simon of his disinvitation from Question Time due to communication issues (ep_cd50f0ab10d67682), indicating a causal link supported by the shared context of Simon's unapproved communication style triggering formal consequences.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_47c034965703",
+    "subject_id": "ep_91d55c62cb46122f",
+    "object_id": "ep_f097c0409274f1f1",
+    "relation_type": "precedes",
+    "reason": "The argument in ep_91d55c62cb46122f (doc_9, scene_10) occurs in an earlier document and scene than ep_f097c0409274f1f1 (doc_10, scene_11), indicating a narrative sequence where the confrontation precedes the subsequent debate on political messaging. The shared participants (Malcolm and Simon) and escalating tension support a directed temporal order.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_eabbde9e9c7a",
+    "subject_id": "ep_6ed17d70e87630e0",
+    "object_id": "ep_4e65b36a36d77145",
+    "relation_type": "precedes",
+    "reason": "The radio review episode (ep_6ed17d70e87630e0) occurs in scene_2, where Malcolm begins listening to Simon's BBC interview, while the assertion of authority episode (ep_4e65b36a36d77145) occurs in scene_119, indicating a clear earlier occurrence of the first episode in the narrative sequence.",
+    "source_documents": [
+      "scene_119_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e35ac8b3a09b",
+    "subject_id": "ep_11efffc48eaf92e1",
+    "object_id": "ep_883fa84fe83191f2",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Malcolm manipulates media and notices Toby' occurs in scene_8, while the object episode 'Clarify Simon's position on taking a stand' occurs in scene_29. The scene numbers indicate a clear narrative order where scene_8 precedes scene_29, supporting a 'precedes' relation from the subject to the object.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_8_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dd9375fc6727",
+    "subject_id": "ep_0df93d8144cac7c2",
+    "object_id": "ep_883fa84fe83191f2",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs during scene_11, where Malcolm exits after giving instructions and insulting Judy, while the object episode occurs in scene_29, where Malcolm dismisses staff and questions Simon. The scene numbers indicate a clear narrative sequence: scene_11 precedes scene_29. No causal, contrasting, or elaborative link is explicitly supported, but the temporal order is evident from the related_events' scene tags.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9576172cd9aa",
+    "subject_id": "ep_9ae684a86b71f217",
+    "object_id": "ep_11efffc48eaf92e1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrive at office and initiate playback setup' occurs in scene_2, where Malcolm arrives at his office and hands a CD to his assistant for playback setup. The episode 'Malcolm manipulates media and notices Toby' occurs in scene_8, involving later interactions with a journalist and Toby in the lift. The explicit scene numbering indicates a clear temporal sequence, with scene_2 preceding scene_8, supporting that the subject episode occurs earlier than the object episode.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_8_part_2",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_203316c84bbf",
+    "subject_id": "ep_11efffc48eaf92e1",
+    "object_id": "ep_cb0af9f9be2e21c6",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Malcolm manipulates media and notices Toby' occurs in scene_8, while the object episode 'Mediate Tensions and Welcome Newcomer' occurs in scene_11. The progression from scene_8 to scene_11 establishes a clear narrative order where Malcolm's hostile behavior toward Toby precedes Simon's attempt to mediate tensions and welcome Toby, supporting a 'precedes' relation from subject to object.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_8_part_2",
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9bcf5c696659",
+    "subject_id": "ep_0186d4222d19f07a",
+    "object_id": "ep_f5a141744c5540ed",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Simon and Judy discussing Malcolm's lack of response to an interview, expressing hope he is dead, which sets up anticipation about his status. The object episode occurs when Malcolm unexpectedly arrives, directly resolving the uncertainty raised in the first episode. The narrative progression from speculation about Malcolm's absence to his sudden appearance indicates a clear temporal sequence where the assessment of his response precedes his arrival.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4f314bf4c0ee",
+    "subject_id": "ep_975edf8ef4a9d4fa",
+    "object_id": "ep_ba7fe16b44ddb2fb",
+    "relation_type": "precedes",
+    "reason": "The sarcastic response by Judy occurs during scene_14 at the Karen Clark Meeting, while Simon's confrontation takes place in scene_18 during the Big Meeting, indicating a clear narrative sequence where the first episode precedes the second based on scene ordering.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_434f266b2f99",
+    "subject_id": "ep_6fd3fa11908c1568",
+    "object_id": "ep_ba7fe16b44ddb2fb",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Manage distractions during the call' occurs during scene_13, while the object episode 'Confront Judy and Toby about being dismissed' occurs in scene_18, indicating a clear temporal sequence where the subject episode precedes the object episode based on scene ordering.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_17d49d0c84a2",
+    "subject_id": "ep_975edf8ef4a9d4fa",
+    "object_id": "ep_a9d05141a11dd47c",
+    "relation_type": "precedes",
+    "reason": "The sarcastic reaction to Toby's invitation (ep_975edf8ef4a9d4fa) occurs during the Karen Clark Meeting discussion in scene_14, while the discussion about navigating the meeting dynamics (ep_a9d05141a11dd47c) takes place in scene_15, indicating a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ac61eed2e77b",
+    "subject_id": "ep_6b298c92d09cfa26",
+    "object_id": "ep_ba7fe16b44ddb2fb",
+    "relation_type": "precedes",
+    "reason": "The Confrontation Over Authority and Professional Conduct (ep_6b298c92d09cfa26) occurs during scene_11, while the confrontation where Simon challenges Judy and Toby about being dismissed (ep_ba7fe16b44ddb2fb) occurs in scene_18. The scene numbers indicate a clear narrative sequence, with scene_11 preceding scene_18, supporting a 'precedes' relation from the first episode to the second.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7d4b4061c3a0",
+    "subject_id": "ep_f5a141744c5540ed",
+    "object_id": "ep_f8b51a3da1989bfc",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to Malcolm's unexpected arrival' occurs in doc_8, scene_9, while the object episode 'Reassert Control After Defiance' occurs in doc_10, scene_11, indicating a later narrative position. The arrival and request for privacy (subject) set the stage for the subsequent defiance when Judy remains after being told to leave (object), supporting a clear temporal sequence.",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_692e34cfa99e",
+    "subject_id": "ep_335f2f2dc616223c",
+    "object_id": "ep_975edf8ef4a9d4fa",
+    "relation_type": "precedes",
+    "reason": "The episode 'Discuss Simon's role in the Karen Clark meeting' occurs in scene_13, where Suzy and Michael define Simon's symbolic role, while 'Respond to achievement with sarcasm' occurs in scene_14, where Judy reacts to Simon's inclusion in the meeting. The scene numbers indicate a clear narrative sequence, with the first episode preceding the second.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d61d0b3081a1",
+    "subject_id": "ep_970d42417edfd9f8",
+    "object_id": "ep_e5759b5d97cde67a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Address Simon's public stance on the war' occurs as Simon, Judy, and Toby approach Malcolm's office and discuss the political implications of Simon's position, setting the stage for the confrontation. The episode 'Judy prompts Simon to clarify his stance' occurs in response to sudden press attention, where Judy advises Simon on managing the public narrative. The latter episode involves a development (press attention) that follows from the earlier discussion about making the war a public issue, indicating a local narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b74a11a64d01",
+    "subject_id": "ep_64a1aeb2358d06ac",
+    "object_id": "ep_e803cdf2d5bf7174",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs during scene_17, where Suzy delivers a note to Judy criticizing Simon's behavior, while the object episode occurs in scene_26, involving the team's reaction to press fallout and departure. The progression from scene_17 to scene_26 in the narrative sequence indicates that the note delivery and acknowledgment precede the public damage-control exit. This temporal ordering is supported by the related_events and doc_id fields placing the episodes in chronologically successive scenes.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_54098c989032",
+    "subject_id": "ep_82a966832ea0fbec",
+    "object_id": "ep_ba7fe16b44ddb2fb",
+    "relation_type": "precedes",
+    "reason": "The episode 'Judy and Toby initiate their meeting' occurs during scene_10, while 'Confront Judy and Toby about being dismissed' occurs in scene_18, indicating a clear temporal sequence where the initiation of the meeting precedes the confrontation about dismissal.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c328994e591e",
+    "subject_id": "ep_0795b9caaae26204",
+    "object_id": "ep_c3019df3d2d65e8b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Clarify airport car booking responsibilities' involves Judy informing Toby that Robbie is responsible for booking the car and that Toby should confirm it. This occurs during a phone call referenced in the second episode, 'Navigate arrival and confirm car pickup', where Toby calls Judy to confirm the arrangement. The first episode logically and temporally precedes the second, as the clarification of responsibility must occur before Toby acts on it during arrival. The related events and narrative flow support a clear before-after sequence.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3cc3e21e0b42",
+    "subject_id": "ep_82a966832ea0fbec",
+    "object_id": "ep_a9d05141a11dd47c",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Judy and Toby initiate their meeting' involves the initial social formalities between Judy and Toby, including name correction and handshake, which logically and temporally precedes the object episode where Judy, Toby, and Simon discuss the dynamics of the upcoming meeting. The transition from introduction to discussion of future plans indicates a narrative progression in which the initiation of the meeting sets the stage for subsequent coordination, supporting a 'precedes' relation.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_91f221bb02a4",
+    "subject_id": "ep_970d42417edfd9f8",
+    "object_id": "ep_6b298c92d09cfa26",
+    "relation_type": "precedes",
+    "reason": "The episode 'Address Simon's public stance on the war' occurs as Judy, Simon, and Toby approach Malcolm's office and discuss making Simon's opposition public (scene_29), which immediately precedes the confrontation between Judy and Malcolm in scene_11. Although scene numbers suggest an inconsistency (scene_29 after scene_11), the narrative flow described in the episodes indicates that the discussion leading up to the confrontation sets the stage for the subsequent clash, implying a local narrative order where the planning and approach precede the direct confrontation. Thus, based on narrative coherence and the setup described, the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7957adfb7ae2",
+    "subject_id": "ep_e8137efbf2539dbd",
+    "object_id": "ep_f8808fe7c73fff05",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Prepare for the big meeting' occurs in scene_12, where Suzy initiates actions including deciding to call Toby. The object episode 'Handle Suzy's phone call' occurs in scene_13, where Toby responds to Suzy's call. The sequential scene numbering and the narrative flow—Suzy deciding to call in scene_12 and Toby answering in scene_13—support a clear temporal order where the preparation episode precedes the phone call handling episode.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3edced2b6e4d",
+    "subject_id": "ep_82a966832ea0fbec",
+    "object_id": "ep_e672a546fcc3b8ba",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Judy and Toby initiate their meeting' occurs during scene_10, while the object episode 'Arrive and reunite at security' occurs during scene_16, indicating a clear narrative sequence where the first meeting precedes the security reunion based on scene ordering.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e4554065d63c",
+    "subject_id": "ep_82a966832ea0fbec",
+    "object_id": "ep_002ecda0ca352a7d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Judy and Toby initiate their meeting' involves their first encounter, including name exchange and handshake, which logically and chronologically precedes the subsequent 'Conduct office tour and address tensions' episode where Judy gives Toby a tour and tensions arise. The related_events in both episodes occur in different scenes (scene_10 vs scene_14), supporting a clear narrative sequence.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a0bfa4185ce7",
+    "subject_id": "ep_82a966832ea0fbec",
+    "object_id": "ep_ffa8e660831c6c6e",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Judy and Toby initiate their meeting' occurs in scene_10, while the object episode 'Establish Hierarchy with Newcomer Toby' occurs in scene_11, indicating a clear sequential order where the introductory meeting precedes the professional introduction and power dynamics display in the next scene.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_11d761233090",
+    "subject_id": "ep_11efffc48eaf92e1",
+    "object_id": "ep_e8d0cb9918781574",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Malcolm interacts with a journalist and notices Toby in the lift, occurs during scene_8, while the object episode, where Toby completes his departure from the office, occurs in scene_123. The significant scene number difference and narrative progression indicate that Malcolm's actions precede Toby's final exit, with Toby's departure being a later narrative development.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_8_part_2",
+      "scene_123_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f371ba323566",
+    "subject_id": "ep_002ecda0ca352a7d",
+    "object_id": "ep_e8d0cb9918781574",
+    "relation_type": "precedes",
+    "reason": "The office tour and tension discussion (ep_002ecda0ca352a7d) occurs during scene_14, while Toby's departure (ep_e8d0cb9918781574) occurs in scene_123, indicating a clear narrative sequence where the earlier episode precedes the later one. The progression from attempting to address tensions to physically leaving supports the temporal order.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_123_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_617b24e58712",
+    "subject_id": "ep_811265b45ef2fb10",
+    "object_id": "ep_f8808fe7c73fff05",
+    "relation_type": "precedes",
+    "reason": "The 'Handle Suzy's phone call' episode occurs in scene_13 and involves Toby receiving information about the Karen Clark meeting, which he later uses to secure Simon's access in the 'Report meeting access and share credit' episode in scene_14. The narrative order and shared context around the Karen Clark meeting indicate that the phone call precedes the reporting of access and credit sharing.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dbef74411fae",
+    "subject_id": "ep_ffa8e660831c6c6e",
+    "object_id": "ep_e8d0cb9918781574",
+    "relation_type": "precedes",
+    "reason": "The episode 'Establish Hierarchy with Newcomer Toby' includes Toby being tested and dismissed, which ends with him leaving after compliance. The episode 'Toby completes his departure from the office' describes the physical act of Toby exiting the building and finishing his departure. The sequence of events implies a temporal progression where the initiation and dismissal occur before the final departure, supporting a 'precedes' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_123_part_1",
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e3ceb877834a",
+    "subject_id": "ep_5dadb632a9788d41",
+    "object_id": "ep_e8d0cb9918781574",
+    "relation_type": "precedes",
+    "reason": "The episode 'Toby attempts admiration and retrieves laptop' occurs in doc_118 and involves Toby being rebuffed and retrieving Simon's laptop, while 'Toby completes his departure from the office' occurs in doc_122 and describes the final act of Toby leaving the office. The retrieval of the laptop is part of the dismissal process that precedes his final departure, with narrative progression indicating a clear temporal sequence supported by document order and event flow.",
+    "source_documents": [
+      "scene_119_part_1",
+      "scene_123_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bb0f962cbd1d",
+    "subject_id": "ep_977566c1b0f5a35f",
+    "object_id": "ep_f8808fe7c73fff05",
+    "relation_type": "precedes",
+    "reason": "The 'Exchange affection and workday wishes' episode occurs as Suzy and Toby are near their workplaces and before Toby begins his workday, while 'Handle Suzy's phone call' takes place during Toby's workday when he receives a call from Suzy and learns about a high-level meeting. The narrative sequence implied by the context—morning farewells followed by a later workday phone call—supports a temporal ordering where the first episode precedes the second.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_8_part_2",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6bd9e1e198d4",
+    "subject_id": "ep_ade0342e7dd45f09",
+    "object_id": "ep_e803cdf2d5bf7174",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Attempt to speak and receive external restraints' occurs during scene_17 in a diplomatic meeting, while the object episode 'Team reacts to and exits after press fallout' occurs in scene_26 and involves a press encounter. The progression from scene_17 to scene_26 indicates a clear narrative sequence where the meeting interaction precedes the public press fallout and team's exit.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_869ecc2effef",
+    "subject_id": "ep_8b80685729923904",
+    "object_id": "ep_bb5c13f5dfeed156",
+    "relation_type": "elaborates",
+    "reason": "The object episode, in which Karen assigns covert intelligence tasks to Liza, provides specific details about the nature of Karen's secretive conversation observed in the subject episode. The instructions to identify the dullest committees and contact General Miller elaborate on the conspiratorial exchange Simon witnesses, offering concrete content to the previously ambiguous interaction.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_345503f4abe9",
+    "subject_id": "ep_977566c1b0f5a35f",
+    "object_id": "ep_ffa8e660831c6c6e",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Exchange affection and workday wishes' occurs as Suzy and Toby are near their workplaces and before Toby begins his first day, while the object episode 'Establish Hierarchy with Newcomer Toby' takes place during Toby's introduction at the office and involves his interaction with the minister and Malcolm. The narrative flow implies that the farewell happens before Toby arrives at the workplace and undergoes the hierarchical initiation, supporting a clear temporal order.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_8_part_2",
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9780c6ffbcbf",
+    "subject_id": "ep_0d7e3c25bba91624",
+    "object_id": "ep_c2d124ab6d7cc942",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs in doc_33 and involves Liza seeking reassurance from Karen before leaving, while the second episode in doc_34 describes Liza returning after her conversation with Bob to signal Karen. The narrative sequence and document order indicate that the first episode precedes the second.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_50a3ffcf6f4c",
+    "subject_id": "ep_0d7e3c25bba91624",
+    "object_id": "ep_77dea8271b95f960",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs in doc_33 and involves Liza seeking reassurance from Karen about the Future Planning Committee, while the object episode occurs in doc_34 and involves Liza confronting Bob about the same committee. The document IDs and narrative flow indicate that the interaction with Karen precedes the confrontation with Bob, as Liza uses information from the prior exchange to inform her approach with Bob.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d75d1fec51a4",
+    "subject_id": "ep_008fc83bef38b0c9",
+    "object_id": "ep_c2d124ab6d7cc942",
+    "relation_type": "precedes",
+    "reason": "The first episode, in which Liza investigates and attempts to delay the 'Post War Planning' paper, occurs during scene_30, while the second episode, where Liza signals Karen after the conversation, takes place in scene_35. The chronological order of scenes supports that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_968ce4ba9e29",
+    "subject_id": "ep_a830d925550cf4c1",
+    "object_id": "ep_77dea8271b95f960",
+    "relation_type": "precedes",
+    "reason": "The episode 'Discuss committee options in the bathroom' (doc_33, scene_34) occurs in an earlier document and scene than 'Liza confronts Bob about the Future Planning Committee' (doc_34, scene_35), indicating a clear narrative sequence where Liza first discusses committee choices with Karen, including the Future Planning Committee, which later motivates her confrontation with Bob about the same committee.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a0d82dacc48a",
+    "subject_id": "ep_4d072e89da510e41",
+    "object_id": "ep_77dea8271b95f960",
+    "relation_type": "precedes",
+    "reason": "The episode 'Karen and Liza discuss committee strategy' occurs during the Meeting Of Delegations (scene_19), while 'Liza confronts Bob about the Future Planning Committee' occurs later in scene_35, after Liza leaves the toilets. The narrative progression from scene_19 to scene_35 supports a clear temporal order where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1d64c676ddcb",
+    "subject_id": "ep_4d072e89da510e41",
+    "object_id": "ep_bb5c13f5dfeed156",
+    "relation_type": "precedes",
+    "reason": "The episode 'Karen and Liza discuss committee strategy' occurs in scene_19 during the Meeting Of Delegations, while 'Karen assigns covert intelligence tasks to Liza' takes place in scene_30 before Karen's departure. The scene numbers and contextual progression indicate that the discussion precedes the assignment of intelligence tasks.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_57dbd47afccb",
+    "subject_id": "ep_bb5c13f5dfeed156",
+    "object_id": "ep_acf811fcdb759022",
+    "relation_type": "precedes",
+    "reason": "Karen assigns covert intelligence tasks to Liza in scene_30, which occurs before the events in scene_33 where Karen's injury is noticed and she exits the meeting. The related_occasions and related_events reference different scenes in chronological order, supporting that the assignment of tasks precedes the response to the injury and exit.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a72e121d2e9f",
+    "subject_id": "ep_a830d925550cf4c1",
+    "object_id": "ep_c2d124ab6d7cc942",
+    "relation_type": "precedes",
+    "reason": "The bathroom conversation between Liza and Karen (ep_a830d925550cf4c1) occurs in scene_34, where they discuss committee options. The subsequent episode (ep_c2d124ab6d7cc942) takes place in scene_35, where Liza signals Karen after her interaction with Bob. The progression from scene_34 to scene_35 establishes a clear narrative order, with the first episode preceding the second.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_87151ffe75b9",
+    "subject_id": "ep_94734d136d07524d",
+    "object_id": "ep_e803cdf2d5bf7174",
+    "relation_type": "precedes",
+    "reason": "The subject episode, 'Confront aftermath of missed opportunity during drive', occurs in scene_27, while the object episode, 'Team reacts to and exits after press fallout', occurs in scene_26. Since scene_26 precedes scene_27 in narrative order, the object episode occurs before the subject episode. Therefore, the subject episode does not precede the object episode. However, reversing the direction, the object episode (doc_25, scene_26) clearly precedes the subject episode (doc_26, scene_27) in the narrative sequence. Thus, the correct directed relation is object -> subject, but since the schema requires subject -> object directionality for 'precedes', and we cannot invert the input roles, the only justifiable conclusion is that the subject episode does not precede the object. Yet, given the clear chronological order from the related_events' scene numbers, the subject episode comes after the object episode, meaning the object precedes the subject. Since 'precedes' is directed and the subject does not precede the object, we must reject 'precedes' in the subject->object direction. No other relation is supported. Therefore, despite the chronological fact, the relation cannot be validly assigned in the given direction. Hence, no valid directed relation exists from subject to object. After careful reconsideration: the subject episode occurs after the object episode in narrative time, so the object precedes the subject. But the relation 'precedes' must be evaluated as subject -> object. Since the subject does not precede the object, and no other relation (causes, contrasts_with, elaborates) is supported by explicit evidence, the correct output is NONE. However, the initial confidence in order is high. But due to directionality constraint, we cannot assert 'precedes' in reverse. No other relation fits. Therefore, after strict evaluation, the only compliant output is NONE with high confidence that no valid relation exists in the required direction.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_25438bc15a28",
+    "subject_id": "ep_a830d925550cf4c1",
+    "object_id": "ep_bb5c13f5dfeed156",
+    "relation_type": "precedes",
+    "reason": "The episode 'Discuss committee options in the bathroom' occurs in scene_34, while 'Karen assigns covert intelligence tasks to Liza' occurs in scene_30. Despite the reverse scene numbering, the narrative context in the descriptions suggests that the bathroom conversation (scene_34) happens after Karen has already assigned the intelligence tasks (scene_30), as the later scene involves follow-up discussion about committees previously mentioned in the task assignment. However, due to the conflicting scene order (30 before 34), and lack of explicit temporal markers, the relation is inferred from narrative progression rather than explicit chronology, leading to high but not absolute confidence.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_935b751b3c70",
+    "subject_id": "ep_15b993cd99154c06",
+    "object_id": "ep_cd50f0ab10d67682",
+    "relation_type": "precedes",
+    "reason": "The preparation for the funny question on Question Time (ep_15b993cd99154c06) occurs in scene_7, while the disinvitation and messaging discipline episode (ep_cd50f0ab10d67682) occurs in scene_11, indicating a clear narrative sequence where the preparation precedes the consequence of being disinvited due to messaging concerns.",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_85629cb5de4b",
+    "subject_id": "ep_1282e936511dc0d3",
+    "object_id": "ep_f21e6ff017312c8c",
+    "relation_type": "precedes",
+    "reason": "Simon's acknowledgment of responsibility occurs just before Malcolm arrives, and the confrontation begins upon Malcolm's entry, indicating a clear temporal sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_119_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7915782769bc",
+    "subject_id": "ep_47bbf97ebc9c5d41",
+    "object_id": "ep_883fa84fe83191f2",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to Malcolm's urgent coordinated call' occurs in doc_26 and involves Simon and Judy receiving calls from Malcolm, leading to Simon answering. The object episode 'Clarify Simon's position on taking a stand' occurs in doc_28 and involves Malcolm pressing Simon after dismissing others, which presupposes prior contact and escalation. The narrative progression across documents and scenes (scene_27 before scene_29) supports a clear temporal order where the coordinated call precedes the direct confrontation and clarification of stance.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_423d1dfcc5c4",
+    "subject_id": "ep_47bbf97ebc9c5d41",
+    "object_id": "ep_4e65b36a36d77145",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Simon and Judy receiving urgent calls from Malcolm, which initiates their awareness of the crisis. The object episode involves Malcolm actively asserting control by demanding the newspaper, threatening Simon, and forcing a resignation letter. The sequence of events suggests that Malcolm's coordinated call (subject) precedes his escalation of control (object), as the call serves as the entry point to the confrontation that culminates in the forced resignation. This ordering is supported by the narrative logic of escalation and the dependency of the object episode on the initiation established in the subject episode.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_119_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b0e9d6efac1c",
+    "subject_id": "ep_335f2f2dc616223c",
+    "object_id": "ep_ade0342e7dd45f09",
+    "relation_type": "elaborates",
+    "reason": "The first episode discusses the plan to include Simon in the Karen Clark meeting in a symbolic role, setting up expectations about his lack of influence. The second episode shows Simon attempting to speak and being restrained, then briefly asserting himself before being cut off by Michael, which concretely illustrates and expands upon the earlier-described symbolic role. This provides narrative elaboration of how Simon's token presence plays out in the actual meeting context.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_80495bca6154",
+    "subject_id": "ep_335f2f2dc616223c",
+    "object_id": "ep_811265b45ef2fb10",
+    "relation_type": "precedes",
+    "reason": "The episode 'Discuss Simon's role in the Karen Clark meeting' occurs in scene_13, where Suzy and Michael discuss Simon's symbolic role in the upcoming meeting. The episode 'Report meeting access and share credit' occurs in scene_14, where Toby informs Simon he has secured his attendance and Simon shares the news with Judy. The sequential scene numbers (13 before 14) and narrative progression from arranging a symbolic role to reporting successful access establish a clear temporal order: the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a4a4fa6805fb",
+    "subject_id": "ep_970d42417edfd9f8",
+    "object_id": "ep_4e65b36a36d77145",
+    "relation_type": "precedes",
+    "reason": "The episode 'Address Simon's public stance on the war' occurs as Judy, Simon, and Toby approach Malcolm's office and discuss making the war a resigning issue (scene_29), while the episode 'Malcolm asserts authority and forces resignation letter' takes place in scene_119 where Malcolm demands the resignation letter. Scene numbers (29 before 119) provide explicit chronological evidence that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_119_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_17115fb9064f",
+    "subject_id": "ep_883fa84fe83191f2",
+    "object_id": "ep_ba7fe16b44ddb2fb",
+    "relation_type": "precedes",
+    "reason": "The subject episode, where Malcolm presses Simon on taking a stand and Simon clarifies his ambivalence, occurs in scene_29. The object episode, where Simon confronts Judy and Toby after being dismissed, occurs in scene_18. Since scene_18 precedes scene_29 in narrative order, the object episode actually occurs earlier. However, the subject episode describes Simon's internal state and decision-making under pressure that directly precedes and motivates the confrontation in the object episode. Given the reverse scene numbering and lack of explicit chronological clarification, the more coherent narrative progression is that Simon's clarification of his position (ep_883fa84fe83191f2) follows the dismissal and thus precedes his confrontation with Judy and Toby (ep_ba7fe16b44ddb2fb). But due to conflicting scene order (scene_18 before scene_29), the relation is uncertain. Re-evaluating: if scene_18 is truly before scene_29, then the confrontation happens *before* Simon's clarification under Malcolm's pressure, making the temporal order object -> subject. Therefore, no directed temporal relation from subject to object can be confidently established. Given this contradiction, no relation is sufficiently supported.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fad3170ec57f",
+    "subject_id": "ep_cb0af9f9be2e21c6",
+    "object_id": "ep_fad1c6c2879f7a97",
+    "relation_type": "precedes",
+    "reason": "The 'Mediate Tensions and Welcome Newcomer' episode occurs during scene_11, where Simon addresses Toby's arrival and Malcolm's behavior. The 'Suppress reaction and defer confrontation' episode occurs in scene_17, where Simon reacts to a whisper from Toby and chooses not to speak further. Since scene_11 precedes scene_17 in narrative order, the subject episode occurs earlier than the object episode, supporting a 'precedes' relation.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_17_part_1",
+      "scene_17_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a89fa4438742",
+    "subject_id": "ep_4b8b437a862367f5",
+    "object_id": "ep_b887c3d92466c87f",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate the diplomatic meeting and set tone' occurs in doc_16, scene_17, while the object episode 'Delegations relocate and establish presence' occurs in doc_18, scene_19, indicating a later narrative order. The meeting is initiated before the delegations relocate, supporting a 'precedes' relation from subject to object.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_17_part_2",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_675cb22babc4",
+    "subject_id": "ep_814130536f64519d",
+    "object_id": "ep_5577c2aa154a4abd",
+    "relation_type": "precedes",
+    "reason": "The episode 'Karen confronts Linton and assesses the political landscape' (scene_30) occurs in an earlier scene than 'Challenge Karen's authority and deflect scrutiny' (scene_33), indicating a clear temporal sequence where Karen's initial confrontation and information gathering precede the later exchange involving committee scrutiny and power dynamics in the meeting.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c608112e903b",
+    "subject_id": "ep_85b5441f88302b7a",
+    "object_id": "ep_0b8bddf4a3720f3d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Deliver intelligence and confront Linton' occurs in doc_112 and involves events in scene_113, while the object episode 'Linton briefs the delegation on the diplomatic strategy' occurs in doc_113 and involves events in scene_114. The document and scene IDs indicate a clear narrative sequence where Malcolm's confrontation with Linton precedes the briefing of the delegation.",
+    "source_documents": [
+      "scene_114_part_1",
+      "scene_113_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_81749abfa520",
+    "subject_id": "ep_882298e357b54850",
+    "object_id": "ep_77dea8271b95f960",
+    "relation_type": "precedes",
+    "reason": "The episode 'Discuss London meeting outcomes and flagged report' (scene_31) occurs before 'Liza confronts Bob about the Future Planning Committee' (scene_35) in narrative order, as indicated by their respective scene numbers. The London meeting includes an accidental mention of the Committee, which may have contributed to Karen's knowledge, setting up Liza's later confrontation with Bob. This temporal sequence supports the 'precedes' relation from the London meeting update to the confrontation.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b343bb3f8c29",
+    "subject_id": "ep_ddd34f8b95a568ab",
+    "object_id": "ep_6ff6f915b9c61463",
+    "relation_type": "precedes",
+    "reason": "The broadcast introduction and initial exchange with Simon Foster (scene_2) occurs before Malcolm confronts Simon over the word 'war' (scene_5), as evidenced by the chronological ordering of scenes in the document. The initial interview sets the context for the later confrontation, which is triggered by ongoing discussion of the word 'war' during the same broadcast.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1b68731c0c25",
+    "subject_id": "ep_335f2f2dc616223c",
+    "object_id": "ep_e8137efbf2539dbd",
+    "relation_type": "precedes",
+    "reason": "The 'Prepare for the big meeting' episode occurs in scene_12, where Suzy and Michael coordinate tasks ahead of the meeting, while the 'Discuss Simon's role in the Karen Clark meeting' episode occurs in scene_13, where the discussion about Simon's symbolic role takes place during the actual meeting. The scene numbers and contextual progression indicate that preparation precedes the discussion within the narrative order.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e0825183551c",
+    "subject_id": "ep_bb54f4b153ec0943",
+    "object_id": "ep_e5759b5d97cde67a",
+    "relation_type": "precedes",
+    "reason": "Simon delivers conflicting metaphors in response to a direct question, which immediately draws press attention; Judy then prompts him to clarify his stance as a reaction to that attention. The sequence of events in scene_26 supports that Simon's metaphor delivery occurs before Judy's intervention to manage the fallout.",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_302a86cda4a0",
+    "subject_id": "ep_30420d39700cff9d",
+    "object_id": "ep_05b5a8899e53d25d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate reunion and clarify communication' includes Toby misinterpreting Liza's gesture and mirroring the typing motion, which directly precedes Judy's observation and mocking of that same gesture in the 'Mock gesture misunderstanding' episode, as both occur in scene_24 and the sequence of events implies temporal order.",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_87f644be1c1d",
+    "subject_id": "ep_ddd34f8b95a568ab",
+    "object_id": "ep_df5a7915ab9dc93f",
+    "relation_type": "precedes",
+    "reason": "The broadcast introduction and initial exchange with Simon Foster occurs before he responds affirmatively to the question about his progress, as the description shows a direct sequence: the interviewer asks a question, then Simon Foster responds. This establishes a clear temporal order supported by the narrative flow in the shared occasion of the BBC radio interview.",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7afeff52a33d",
+    "subject_id": "ep_6ed17d70e87630e0",
+    "object_id": "ep_ddd34f8b95a568ab",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Malcolm selecting and beginning to play the radio interview, which directly sets up the object episode where the broadcast introduction and initial exchange with Simon Foster occur. The sequence is supported by the related_events and shared occasion 'Bbc Radio Interview With Simon Foster (scene_2)', indicating a clear temporal order: first the material is selected and started, then the content of the broadcast unfolds.",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ad365d444b6e",
+    "subject_id": "ep_8ef86c5830c1d22b",
+    "object_id": "ep_e5759b5d97cde67a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Exit the FO and encounter press' describes Simon Judy and Toby exiting the Foreign Office and being confronted by the press, which immediately sets the context for the subsequent episode 'Judy prompts Simon to clarify his stance', where Judy advises Simon on how to respond. The sequence of events in the shared scene (scene_26) and the narrative flow indicate that the encounter with the press must occur before Judy can prompt Simon, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_88f42e6b55eb",
+    "subject_id": "ep_b1260054cc78d69b",
+    "object_id": "ep_41b1fcd551b3a6e4",
+    "relation_type": "precedes",
+    "reason": "The episode 'Challenge DVD selections for military entertainment' (ep_b1260054cc78d69b) occurs during scene_120, where Linton objects to 'I Heart Huckabees' and questions the absence of 'United 93'. The episode 'Confront A.J. over inappropriate DVD selection' (ep_41b1fcd551b3a6e4) occurs in scene_122, where Linton reprimands A.J. for including the same film. The shared event of objecting to the DVD and the progression from a general meeting to a direct confrontation indicate a clear temporal sequence: the challenge to the DVD list precedes the confrontation with A.J.",
+    "source_documents": [
+      "scene_122_part_1",
+      "scene_120_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_59fbc5f23e52",
+    "subject_id": "ep_3b8b5a3abb562ac5",
+    "object_id": "ep_814130536f64519d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Exploit Karen's absence to advance agenda' occurs during scene_33, while the object episode 'Karen confronts Linton and assesses the political landscape' occurs in scene_30 according to their respective doc_id and related_events. However, scene_30 is chronologically prior to scene_33, meaning the object episode actually precedes the subject. But based on narrative order and goal structure, Karen's return and confrontation (object) directly follow and respond to the power shift during her absence (subject). The description of the object episode states Karen 'immediately seeks information' upon return, indicating it directly follows the subject episode in narrative time. Thus, subject precedes object is supported by the temporal and causal flow in the narrative, despite the doc_id ordering, with high confidence due to explicit sequencing in scene references and Karen's reactive actions.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_08959b9119ee",
+    "subject_id": "ep_6fd3fa11908c1568",
+    "object_id": "ep_e8137efbf2539dbd",
+    "relation_type": "precedes",
+    "reason": "The 'Manage distractions during the call' episode occurs in scene_13, while 'Prepare for the big meeting' occurs in scene_12. Since scene_12 precedes scene_13 in narrative order, the object episode occurs before the subject episode. Therefore, the relation is 'precedes' with direction from object to subject, but as the schema is directed and we are to assign relation_type based on subject->object unless contradicted, we infer the subject episode follows the object episode, supporting 'precedes' as subject <- object. However, per directionality rules, we assign 'precedes' only if subject -> object is supported. Given the subject episode happens later, the correct directional inference is that the object precedes the subject, so the relation from subject to object cannot be 'precedes'. Thus, no directed support for subject -> object in 'precedes'. Re-evaluating: no explicit causal, contrastive, or elaborative link is stated between the episodes. The shared occasion 'Big Meeting' appears in both, but one is preparation (scene_12) and the other is during a call (scene_13), suggesting a temporal sequence. Given that preparation logically and textually comes before managing distractions during a call related to the meeting, 'precedes' with object -> subject is strongly supported. But since the schema is directed and we must choose a relation_type that fits the subject-to-object direction unless evidence supports the reverse, and we cannot invert the relation_type arbitrarily, we must assess if 'precedes' holds as subject -> object. It does not, because the subject episode happens after. Therefore, the only valid interpretation is that the object episode precedes the subject episode, but since the relation_type 'precedes' is directed and we are evaluating subject-to-object, we cannot assert it. No other relation is supported. Hence, despite temporal sequence, directionality cannot be correctly expressed under the schema with subject->object, so we default to 'NONE'. However, reconsidering: the schema allows 'precedes' as directed, and if the subject episode occurs after the object, then 'precedes' (subject -> object) is false. But if the object occurs before, then 'precedes' (object -> subject) would be true, but we are not allowed to reverse subject and object. Therefore, we cannot assert 'precedes' from subject to object. No evidence for 'causes', 'contrasts_with', or 'elaborates'. Thus, the only defensible output is 'NONE'. But wait — the few-shot sample shows 'precedes' is used based on narrative order regardless of which episode is subject/object, as long as the subject comes before the object. In the first sample, 'The heist plan is revealed' (subject) precedes 'The team executes the vault break-in' (object), so subject -> object in time. In our case, subject episode is in scene_13, object in scene_12, so subject occurs after object — thus, subject does NOT precede object. Therefore, 'precedes' cannot be applied. No other relation is supported. Final decision: NONE.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  }
+]

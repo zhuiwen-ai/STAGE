@@ -1,0 +1,78 @@
+{
+  "character": "Frank",
+  "qas": [
+    {
+      "question": "You were in the corridor and someone called from behind the door—what did you do when you responded?",
+      "supporting_facts": [
+        "you did not leave the corridor after entering",
+        "you did not approach the door from outside when answering it",
+        "you attempted to speak"
+      ],
+      "contradicting_facts": [
+        "you left the corridor immediately after hearing the call",
+        "you approached the door from the outside to answer it"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were on the landing and saw the drop below—how were you feeling at that moment?",
+      "supporting_facts": [
+        "Frank observed a six-story drop to the cobblestones below",
+        "Frank is nervous"
+      ],
+      "contradicting_facts": [
+        "Frank felt confident and unbothered by the height",
+        "Frank was focused only on the people on the balconies"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you interact with anyone on the balconies while you were on the landing?",
+      "supporting_facts": [
+        "Frank appeared on the landing",
+        "did not engage with anyone on the balconies"
+      ],
+      "contradicting_facts": [
+        "Frank waved to someone on the balcony",
+        "Frank called out to a person above"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you prioritize doing while the gunfire was still happening?",
+      "supporting_facts": [
+        "You shielded Cara until the gunfire ceased",
+        "Your protective action continued without interruption until the threat stopped"
+      ],
+      "contradicting_facts": [
+        "You focused on adjusting your clothes while the gunfire was ongoing",
+        "You attempted to flee the scene instead of protecting Cara"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you take any action that could have started a conflict with the two men?",
+      "supporting_facts": [
+        "Frank did not initiate a confrontation with the two men",
+        "No aggressive or provocative action was started by Frank toward the two men"
+      ],
+      "contradicting_facts": [
+        "You directly challenged or spoke aggressively to the two men first",
+        "You made a move that forced the two men to respond defensively"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do after noticing the label with your name near the room number?",
+      "supporting_facts": [
+        "Frank exits the room",
+        "Frank notices a label with his name on it near a room number"
+      ],
+      "contradicting_facts": [
+        "You ignored the label and stayed in the suite",
+        "You sat back down after seeing the label"
+      ],
+      "final_score": 7.777777777777779
+    }
+  ]
+}

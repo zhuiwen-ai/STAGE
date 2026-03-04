@@ -1,0 +1,928 @@
+[
+  {
+    "id": "rel_ep_ep_867941f3b26a",
+    "subject_id": "ep_8ebb908183bbedda",
+    "object_id": "ep_4cfce75464369f55",
+    "relation_type": "precedes",
+    "reason": "The request for confidential communication occurs in scene_4, while the confrontation at the portal occurs in scene_18, indicating a clear narrative sequence where the earlier episode precedes the later one based on scene ordering.",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_94444c458163",
+    "subject_id": "ep_86709db8cebbc002",
+    "object_id": "ep_9721649e3a22c5ec",
+    "relation_type": "precedes",
+    "reason": "The energy surge affecting Grigory and Von Krupt occurs in scene_19, while the portal's violent implosion and its aftermath occur in scene_20, indicating a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2dea97e508a5",
+    "subject_id": "ep_2043e62900d1c423",
+    "object_id": "ep_8ebb908183bbedda",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Advance into the mountain tunnel and prepare tactical formation' involves the soldiers taking position in the tunnel, and the object episode 'Broom requests confidential communication with Whitman' occurs immediately after the unit takes position, as stated in its description. This establishes a clear temporal sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5ef3c375b5af",
+    "subject_id": "ep_1bc083872ebd63d4",
+    "object_id": "ep_4cfce75464369f55",
+    "relation_type": "precedes",
+    "reason": "The preparation episode (gathering tools and responding to urgency) logically occurs before the confrontation at the portal, as the former involves readiness for action while the latter involves immediate response to an active threat, indicating a sequential narrative order.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_763d9087ffef",
+    "subject_id": "ep_2ca852586b1eb6ac",
+    "object_id": "ep_fd9f31937e863254",
+    "relation_type": "precedes",
+    "reason": "The episode 'Receive diagnosis and reject medical intervention' includes Broom refusing hospitalization and pain management, which occurs before the doctor suggests a second opinion in the same scene (scene_35). The subsequent rejection of the second opinion in 'Decline second opinion' logically follows, establishing a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e79249d9fc23",
+    "subject_id": "ep_b2f4ea7b404c0489",
+    "object_id": "ep_523b8c0d46745cae",
+    "relation_type": "precedes",
+    "reason": "The episode 'Comply with Positioning and Recognize Symbolic Center' involves Myers stepping back and realizing he is at the center of the B.P.R.D. logo, which immediately precedes the floor beneath him activating as an elevator in the episode 'Activate Descent into Secured Area', as both are part of the same security protocol sequence in scene_40.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b1f0066bc9f7",
+    "subject_id": "ep_7e81a0f3e4b64d6b",
+    "object_id": "ep_f18dadaf1e6e37b8",
+    "relation_type": "contrasts_with",
+    "reason": "Both episodes occur within the same occasion (Confrontation In The Ruined Chapel) and highlight opposing worldviews: the first centers on the ideological clash over violence, while the second intensifies the conflict by challenging religious identity and sincerity. The juxtaposition emphasizes a broader thematic contrast in values and sanity, supported by the mutual distrust and opposing stances in tone and content.",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_71133a41db8b",
+    "subject_id": "ep_b9cb9a074b17b363",
+    "object_id": "ep_bd0fc9788b1f3be8",
+    "relation_type": "contrasts_with",
+    "reason": "Both episodes occur in the same scene (scene_50) and revolve around Hellboy's emotional state, but the first focuses on his denial of romantic longing while the second highlights his reflection on isolation and desire for connection; Abe's interpretations in both episodes create a thematic juxtaposition between emotional resistance and vulnerability, supporting a contrast relation.",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_68e31da93b17",
+    "subject_id": "ep_2f152554fb356f1f",
+    "object_id": "ep_b2f4ea7b404c0489",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate B.P.R.D. Entry Security Protocol' involves the guard interrupting Myers and commanding him to step back, which directly precedes the object episode where Myers complies by stepping back and noticing the logo. The sequence of events in the shared scene (scene_40) and the causal-temporal dependency in the descriptions establish a clear narrative order.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_18d061c6af99",
+    "subject_id": "ep_860daee0ce64fada",
+    "object_id": "ep_fd90206884aabc5c",
+    "relation_type": "precedes",
+    "reason": "The debate between Broom and Whitman about the island's paranormal significance occurs earlier in the narrative, as evidenced by the scene numbers (scene_6) in the related_events of the first episode, while the securing of the anomaly site occurs in scene_21, indicating a clear temporal sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_118df7a4c708",
+    "subject_id": "ep_de3ebdda99430361",
+    "object_id": "ep_afea83be3d7ebab8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Introduce Hellboy and reveal his true nature' occurs before 'Initiate mission deployment on Halloween' as evidenced by the sequence of events in scene_46: Myers first discovers Hellboy is real and learns about his identity, which sets the stage for the subsequent alarm-triggered mission deployment. The narrative flow moves from introduction to action, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b7c9af867e51",
+    "subject_id": "ep_7e81a0f3e4b64d6b",
+    "object_id": "ep_b62682d64f9bcfd5",
+    "relation_type": "contrasts_with",
+    "reason": "The two episodes are grounded in the same occasion (Confrontation In The Ruined Chapel) and present opposing ideological actions: Broom's distribution of religious artifacts emphasizing spiritual means versus Whitman's offer of a weapon representing violent means. The juxtaposition highlights a central ideological clash, as explicitly noted in the description of the first episode, supporting a contrast relation.",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fc6208baa546",
+    "subject_id": "ep_1c6132c70363fe8c",
+    "object_id": "ep_4eb94c378f63299a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Assess threat and request immediate backup' involves Whitman directing the radio operator to call for backup, which logically precedes the object episode 'Receive response time and recognize time constraint', where the radio operator receives the response time from Londonderry. The sequence of events is supported by the related_events in both episodes, showing a direct temporal progression in scene_8.",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cfb475b6aacc",
+    "subject_id": "ep_7b1c6948356326d5",
+    "object_id": "ep_b7033162813bfef8",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Broom purchases candy during walk' provides a specific detail—buying candy bars from a vendor—that is already included as an event in the broader episode 'Broom navigates Halloween festivities'. The latter episode encompasses the entire walk and interaction with the festive environment, within which the candy purchase is a component action. Thus, the candy purchase episode elaborates on a sub-event within the larger narrative of navigating the festivities.",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_229247eb5b6c",
+    "subject_id": "ep_54b26278f776e81a",
+    "object_id": "ep_86709db8cebbc002",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes the preparation and setup for the machine activation, including characters positioning themselves and stating intentions, while the object episode depicts a sudden energy surge affecting Grigory and Von Krupt during the activation. The preparation logically and temporally precedes the surge event, with both episodes sharing key participants and occurring in a continuous scene sequence (scene_11 before scene_19), supporting a clear narrative order.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7a209768e311",
+    "subject_id": "ep_5fbf40c99bc163e7",
+    "object_id": "ep_de3ebdda99430361",
+    "relation_type": "elaborates",
+    "reason": "The subject episode 'Confront appearance and provoke personal reaction' provides a deeper, focused exploration of Hellboy's physical form and the social tension around it, which builds upon the initial introduction and revelation of his true nature in the object episode. The events in the subject episode (e.g., Myers reacting to the horn stumps, being warned not to stare) add specific emotional and interpersonal detail to the broader introductory context established in the object episode, thus elaborating on it.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_3691a23cd9b6",
+    "subject_id": "ep_1bc083872ebd63d4",
+    "object_id": "ep_1c6132c70363fe8c",
+    "relation_type": "precedes",
+    "reason": "The preparation episode (gathering tools and responding to urgency) occurs before the threat assessment and backup request, as the sequence moves from internal readiness to external response. The related events in the first episode (scene_3) precede those in the second (scene_8), supporting a local narrative order.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4638b62aa9b8",
+    "subject_id": "ep_ed88d9c8cbd0c75e",
+    "object_id": "ep_03fa571586c2fe1a",
+    "relation_type": "causes",
+    "reason": "Broom retrieving and throwing the grenade directly leads to the explosion in the generator, which triggers Kroenen's attack response and subsequent destruction. The grenade becoming lodged in the moving tie rods (from Broom's action) sets off the chain of events culminating in the blast that destroys Kroenen, as explicitly described in both episodes' related events and descriptions.",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c3e78cebeafe",
+    "subject_id": "ep_67ed4799da7c8a78",
+    "object_id": "ep_fbeab868ee1567d9",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Advance to the slope and prepare for observation' involves Matlin moving with troops and setting down his camera gear, which directly precedes the object episode 'Matlin discovers unexpected lights at the ruin' where he notices lights after setup. The related events and descriptions establish a clear temporal sequence: preparation for observation occurs before the moment of discovery.",
+    "source_documents": [
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_70eedb8c45c1",
+    "subject_id": "ep_4e257e753ddb246e",
+    "object_id": "ep_fd90206884aabc5c",
+    "relation_type": "precedes",
+    "reason": "The observation of Nazi activity at the illuminated Romanesque ruin (ep_4e257e753ddb246e) occurs in scene_6, while the securing of the anomaly site and threat assessment (ep_fd90206884aabc5c) occurs in scene_21, indicating a clear narrative sequence where the former precedes the latter.",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_db748b41cab5",
+    "subject_id": "ep_f18dadaf1e6e37b8",
+    "object_id": "ep_413292581d0a8ada",
+    "relation_type": "precedes",
+    "reason": "The episode 'Challenge religious identity and question sanity' occurs during the peak of interpersonal tension in the confrontation, while 'Observe symbolic absence in sacred image' is described as a reflective conclusion that closes the scene. The latter follows the former in narrative order within the same occasion, 'Confrontation In The Ruined Chapel (scene_5)', supporting a clear temporal sequence.",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_dc907b0d5075",
+    "subject_id": "ep_1c6132c70363fe8c",
+    "object_id": "ep_4cfce75464369f55",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Assess threat and request immediate backup' involves Whitman initiating a call for air and sea backup in scene_8, while the object episode 'Confront the Threat at the Portal' occurs in scene_18 with Broom warning Whitman about the open portal. The progression from scene_8 to scene_18 indicates a clear narrative order where threat assessment and backup request precede the direct confrontation at the portal.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_470da50c7234",
+    "subject_id": "ep_5fbf40c99bc163e7",
+    "object_id": "ep_ef0741d4af3c3d5c",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, which focuses on Myers' reaction to Hellboy's appearance, provides specific detail that expands upon the broader interpersonal dynamics and tensions described in the object episode. Both episodes occur in the same scene (scene_46) and share overlapping events, such as Myers reacting to Hellboy's appearance and Clay offering context about team relationships. The confrontation over staring at the horn stumps adds granularity to the established tensions around acceptance and authority, thereby elaborating on the object episode's theme of strained interpersonal dynamics.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e944fb7a6272",
+    "subject_id": "ep_b62682d64f9bcfd5",
+    "object_id": "ep_413292581d0a8ada",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reveal and distribute religious artifacts' occurs during the confrontation in the ruined chapel when Broom produces the rosaries, while 'Observe symbolic absence in sacred image' happens afterward, as Whitman walks away and Broom looks up at the eyeless Christ figure. The latter event is described as closing the scene, indicating it follows the distribution of artifacts. Both episodes are grounded in the same occasion but are temporally ordered, with the revelation and distribution preceding the reflective observation.",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_64574517e270",
+    "subject_id": "ep_54b26278f776e81a",
+    "object_id": "ep_d928add0f7d2956a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Approach and prepare for the machine activation' sets the stage for the activation sequence, including dialogue and positioning under floodlights, while 'Equip Grigory with the Mecha-Glove' involves the physical attachment of the glove, a subsequent technical step in the same scene. The related events in both episodes occur in scene_11, but the approach and verbal exchanges logically precede the physical equipping, indicating a clear narrative order.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8b86c3315f83",
+    "subject_id": "ep_b62682d64f9bcfd5",
+    "object_id": "ep_f18dadaf1e6e37b8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reveal and distribute religious artifacts' involves Broom introducing rosaries, which prompts Whitman's skeptical reaction and personal challenge to Broom's religious identity in the subsequent episode. Both episodes occur within the same occasion—'Confrontation In The Ruined Chapel'—and the sequence of events suggests a clear narrative order: the distribution of sacred objects precedes the direct questioning of religious sincerity.",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5f0fedbf6ff1",
+    "subject_id": "ep_7b88280f86750f6e",
+    "object_id": "ep_cd1bb33af8193b67",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Suppress Matlin and avoid detection' occurs in doc_16, scene_17, while the object episode 'The creature reveals itself and is identified' occurs in doc_22, scene_23. The narrative progression from scene_17 to scene_23 and the shift from managing internal group conflict to encountering the creature indicate a sequential order where the suppression of Matlin precedes the creature's revelation.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_739a9132d73c",
+    "subject_id": "ep_4cfce75464369f55",
+    "object_id": "ep_fd90206884aabc5c",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Confront the Threat at the Portal' occurs during scene_18, where the portal is open and immediate action is urged, while the object episode 'Secure the anomaly site and assess the threat' occurs in scene_21, involving Allied soldiers arriving at the ruins and securing the site. The progression from scene_18 to scene_21 in the narrative order indicates that the confrontation at the portal precedes the securing and assessment of the anomaly site.",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_77ecbdba76e5",
+    "subject_id": "ep_2f152554fb356f1f",
+    "object_id": "ep_523b8c0d46745cae",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate B.P.R.D. Entry Security Protocol' involves Myers being interrupted and commanded to step back to begin security screening, which directly precedes the object episode 'Activate Descent into Secured Area' where the floor beneath him activates as an elevator after he assumes the correct position. Both episodes are part of the same 'B.P.R.D. Security Screening Procedure' and the sequence is explicitly ordered in the narrative: the descent occurs 'immediately after' Myers complies with the protocol initiated in the first episode.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_10cfa80b5559",
+    "subject_id": "ep_7e81a0f3e4b64d6b",
+    "object_id": "ep_cd1bb33af8193b67",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode centers on an ideological conflict between Whitman and Broom regarding violence, where Broom explicitly rejects Whitman's weapon. In the second episode, Broom again intervenes to stop Whitman from using violence against the creature, reinforcing the recurring contrast in their attitudes. The juxtaposition of these two episodes highlights a consistent ideological contrast between the characters, particularly in their responses to perceived threats, supporting a 'contrasts_with' relation.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_e3714f628093",
+    "subject_id": "ep_cd1bb33af8193b67",
+    "object_id": "ep_5c5df34cae17ff99",
+    "relation_type": "precedes",
+    "reason": "The episode 'The creature reveals itself and is identified' describes the initial sighting and recognition of the creature's true form, including Broom realizing the 'stone' is its hand and stopping Whitman from shooting. This is immediately followed by 'Broom pacifies the creature with candy', where Broom offers candy, gains trust, and redefines the creature as innocent. The events in the first episode set the stage for the trust-building actions in the second, and both occur in scene_23 in a clear temporal sequence: revelation precedes pacification.",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4ddf27b4c2bf",
+    "subject_id": "ep_4c2d9b8c0f7f9b62",
+    "object_id": "ep_cd1bb33af8193b67",
+    "relation_type": "precedes",
+    "reason": "The first episode involves the group detecting and confronting the red creature through gunfire and initial identification, while the second episode depicts a subsequent moment where the creature is more clearly observed and its true form recognized. The related events in both episodes occur in the same scene (scene_23), but the actions in the first episode (e.g., shooting, creature evading) logically precede the tense observation and realization in the second (e.g., noticing the hand, stopping Whitman from firing), indicating a clear temporal sequence within the shared scene.",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2780077bdc45",
+    "subject_id": "ep_7b88280f86750f6e",
+    "object_id": "ep_4cfce75464369f55",
+    "relation_type": "precedes",
+    "reason": "The episode 'Suppress Matlin and avoid detection' occurs in scene_17, where a Nazi scientist detects the commotion caused by Whitman and Matlin. The episode 'Confront the Threat at the Portal' occurs in scene_18, where the same Nazi scientist approaches the box with gold cylinders and Broom warns Whitman about the open portal. The sequential scene numbering indicates a clear narrative order, with the first episode directly preceding the second.",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f0b692caf9fb",
+    "subject_id": "ep_1bc083872ebd63d4",
+    "object_id": "ep_fd90206884aabc5c",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Broom preparing for a mission and responding to Whitman's urgent call to leave, which occurs in scene_3. The object episode takes place at the anomaly site with Allied soldiers arriving at the ruins in scene_21, indicating a later point in the narrative sequence. The progression from preparation to on-site response, supported by the scene numbers and narrative flow, establishes a clear temporal order where the preparation precedes the site assessment.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_dfdfba6bb758",
+    "subject_id": "ep_4cfce75464369f55",
+    "object_id": "ep_cd1bb33af8193b67",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Confront the Threat at the Portal' occurs in doc_17 and involves the Nazi scientist approaching the box while Broom warns Whitman about the open portal. The object episode 'The creature reveals itself and is identified' occurs in doc_22 and describes the group encountering the creature, with Broom realizing its true form. The progression from preparing to confront a threat at the portal to the subsequent revelation and identification of the creature suggests a narrative sequence where the confrontation setup precedes the creature's emergence, supported by the document order and event flow.",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a815b4caa663",
+    "subject_id": "ep_de3ebdda99430361",
+    "object_id": "ep_ef0741d4af3c3d5c",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Introduce Hellboy and reveal his true nature' includes the initial encounter between Myers and Hellboy, culminating in Myers' realization that Hellboy is real. The object episode 'Establish interpersonal dynamics and tensions' builds on this encounter by depicting subsequent interactions, including Hellboy's reaction to Myers as a new liaison and emotional exchanges about authority and Father's return. The shared scene (scene_46) and overlapping events like 'Hellboy drops dumbbell after meeting Myers' suggest a sequential flow where the introduction must precede the development of interpersonal dynamics. This local narrative order is explicitly supported by the event sequence in the description.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c71f6671e289",
+    "subject_id": "ep_0e4a50fe2d2fc2d9",
+    "object_id": "ep_355f47d7bac37ee3",
+    "relation_type": "precedes",
+    "reason": "The subject episode, 'Explore the artifact corridor and discuss Hitler's occult ties,' occurs first as Broom recounts Hitler's involvement with the Thule Society and acquisition of the Spear of Longinus. The object episode, 'Recount the founding of the Bureau and the end of the occult war,' follows chronologically in the narrative, with Broom continuing the historical account by describing President Roosevelt's 1943 decision to found the Bureau and the aftermath of Hitler's death. Both episodes are part of a continuous discourse in scene_45, with the first providing background that sets up the later founding of the Bureau and the conclusion of the occult war.",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_337fc2fa2861",
+    "subject_id": "ep_1bc083872ebd63d4",
+    "object_id": "ep_8ebb908183bbedda",
+    "relation_type": "precedes",
+    "reason": "Episode ep_1bc083872ebd63d4 describes Broom's preparation for a mission and response to Whitman's urgent call to leave, which occurs in scene_3. Episode ep_8ebb908183bbedda involves Broom requesting a private conversation with Whitman after the unit takes position in the tunnel, an event that occurs in scene_4. The sequential scene numbering indicates a narrative order where preparation and urgency response precede the confidential communication request.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d89a8cfb059d",
+    "subject_id": "ep_41a413970d66fb12",
+    "object_id": "ep_d5a53406910eb42f",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Reveal Abe's psychic abilities and their source' provides additional explanatory detail about Abe's abilities, while 'Uncover Abe Sapien's origin and name' establishes the historical and linguistic background of his identity. The psychic ability explanation elaborates on aspects of Abe's character introduced in the origin episode, with both episodes occurring in the same scene (scene_44) and being part of a broader exposition sequence led by Broom. The elaboration is supported by the shared context and expository function, though the direction is from psychic abilities as a feature stemming from his established identity.",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_333b1001f870",
+    "subject_id": "ep_52a7b638d8fb39ef",
+    "object_id": "ep_cd1bb33af8193b67",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Broom tends to injury and group surveys wreckage' establishes the immediate aftermath of an incident, with the group in a state of disarray and assessing the damaged environment. The object episode 'The creature reveals itself and is identified' follows this, as the group's attention shifts from the wreckage to detecting and recognizing the creature through auditory cues and visual realization. Both episodes occur in scene_23 and are part of a continuous narrative sequence where the initial survey of the wreckage directly precedes the emergence and identification of the creature, supported by the chronological flow of related events.",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c372dd4abcc9",
+    "subject_id": "ep_fd90206884aabc5c",
+    "object_id": "ep_5c5df34cae17ff99",
+    "relation_type": "precedes",
+    "reason": "The episode 'Secure the anomaly site and assess the threat' (ep_fd90206884aabc5c) occurs in scene_21, where soldiers arrive and Broom begins securing the site. The episode 'Broom pacifies the creature with candy' (ep_5c5df34cae17ff99) occurs in scene_23, where Broom interacts with the creature using a candy bar. The scene numbers (21 before 23) and narrative progression from threat assessment to pacification provide clear chronological ordering, supporting that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e249433c0946",
+    "subject_id": "ep_52a7b638d8fb39ef",
+    "object_id": "ep_4c2d9b8c0f7f9b62",
+    "relation_type": "precedes",
+    "reason": "The episode 'Broom tends to injury and group surveys wreckage' includes events such as Broom bandaging his bleeding leg and rain pouring through a broken roof, which suggest a post-incident state. The episode 'The group detects and confronts a red creature' involves active confrontation with the creature, including gunfire and evasion. The injury and wreckage are best explained as consequences of the confrontation, implying the confrontation episode follows the aftermath episode in narrative order. Thus, the wreckage survey episode precedes the confrontation episode, despite occurring later in causal sequence, likely due to a narrative presentation of aftermath before showing the event that caused it.",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d1693fb22d8f",
+    "subject_id": "ep_fd90206884aabc5c",
+    "object_id": "ep_4c2d9b8c0f7f9b62",
+    "relation_type": "precedes",
+    "reason": "The episode 'Secure the anomaly site and assess the threat' (ep_fd90206884aabc5c) occurs in scene_21, where soldiers arrive, Broom collects a sample, and the area is cordoned off. The episode 'The group detects and confronts a red creature' (ep_4c2d9b8c0f7f9b62) occurs in scene_23, involving a subsequent hostile encounter with the red creature. The scene numbers indicate a clear narrative order where the securing of the site precedes the confrontation, supporting a 'precedes' relation from ep_fd90206884aabc5c to ep_4c2d9b8c0f7f9b62.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_95081e7f1f54",
+    "subject_id": "ep_8ebb908183bbedda",
+    "object_id": "ep_4eb94c378f63299a",
+    "relation_type": "precedes",
+    "reason": "The request for confidential communication occurs in scene_4, while the response time recognition and urgency reaction occur in scene_8, indicating a clear narrative sequence where Broom's private request precedes the later discussion of time constraints with the radio operator's report.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_648940212dfa",
+    "subject_id": "ep_5c5df34cae17ff99",
+    "object_id": "ep_dbec67ea61fae4bc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Broom pacifies the creature with candy' occurs in scene_23 and establishes initial trust with the creature, while 'Broom bonds with the creature' occurs in scene_24 and involves a subsequent emotional embrace. The scene numbers and narrative progression indicate a clear temporal order where pacification precedes bonding.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e626d6937453",
+    "subject_id": "ep_4c2d9b8c0f7f9b62",
+    "object_id": "ep_5c5df34cae17ff99",
+    "relation_type": "precedes",
+    "reason": "The group's detection and confrontation of the red creature occurs before Broom's pacification of the creature with candy, as both episodes occur in scene_23 and the sequence of events shows the confrontation (e.g., gunfire, evasion) preceding the offering of candy and establishment of trust.",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7eb035847c13",
+    "subject_id": "ep_cd1bb33af8193b67",
+    "object_id": "ep_dbec67ea61fae4bc",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'The creature reveals itself and is identified' occurs in scene_23, where the group first encounters and recognizes the creature. The object episode 'Broom bonds with the creature' occurs in scene_24, where Broom embraces it. The sequential scene numbers indicate a clear narrative order: the identification of the creature precedes the bonding event.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_cf9d55641e0a",
+    "subject_id": "ep_1c6132c70363fe8c",
+    "object_id": "ep_4c2d9b8c0f7f9b62",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Assess threat and request immediate backup' involves Whitman directing a call for air and sea backup, which logically precedes the object episode where the group physically detects and confronts the red creature. The request for backup is an early response to an emerging threat, while the confrontation with the creature represents the escalation of that threat, supported by the sequence of events in their descriptions.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4c2c39c519e4",
+    "subject_id": "ep_54b26278f776e81a",
+    "object_id": "ep_735b1bedfdde04f9",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes the preparation and setup for the machine activation, including characters positioning themselves and verbal commitments, which logically and narratively precedes the object episode where Grigory's levitation is captured. The related events in the first episode occur in scene_11, while those in the second occur in scene_16, indicating a clear temporal sequence in the narrative order.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9c153911cfd0",
+    "subject_id": "ep_0970482306280495",
+    "object_id": "ep_ff734398fd105ab5",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, in which George Matlin begins his wartime recollection, sets the stage for the object episode, where he reveals specific memories and an authentic photograph from the night the individual was found. The object episode provides detailed expansion of the personal narrative initiated in the subject episode, particularly regarding the discovery and naming of the individual, thus elaborating on the broader testimony introduced earlier.",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2e196d68fd91",
+    "subject_id": "ep_5c5df34cae17ff99",
+    "object_id": "ep_813059729062f2a1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Broom pacifies the creature with candy' occurs in doc_22 and describes the initial encounter and trust-building with the creature, culminating in Broom identifying it as a baby boy. The episode 'Broom bonds with infant Hellboy' occurs in doc_25 and depicts an established emotional connection with the infant, indicating a later point in the narrative. The shift from pacification to bonding suggests a chronological progression, with the former preceding the latter.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cbbf952047e9",
+    "subject_id": "ep_1a41bea680f5d6e0",
+    "object_id": "ep_86709db8cebbc002",
+    "relation_type": "causes",
+    "reason": "The activation of the machine by Grigory through incantation and gesture (ep_1a41bea680f5d6e0) directly precedes and triggers the energy surge that ensnares both Grigory and Von Krupt (ep_86709db8cebbc002), as evidenced by the mechanical activation leading to a supernatural or technological force taking effect in the scene.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_efad377b6699",
+    "subject_id": "ep_d928add0f7d2956a",
+    "object_id": "ep_1a41bea680f5d6e0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Equip Grigory with the Mecha-Glove' involves preparing Grigory for interaction with the machine, which logically and chronologically precedes the episode 'Activate the machine with incantation and gesture' where the machine is actually activated. The attachment of the glove and connection to supporting systems (scene_11) must occur before the activation via gesture and incantation (scene_13), establishing a clear narrative and temporal sequence.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9b646b452d68",
+    "subject_id": "ep_67ed4799da7c8a78",
+    "object_id": "ep_d6f789e8f06a5a4f",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Advance to the slope and prepare for observation' involves Matlin moving with troops and setting up camera gear, which establishes readiness for observation. The object episode 'Capture the group photograph' involves actively directing soldiers and taking a photo. The setup and positioning in the subject episode logically precede the active photograph capture in the object episode, with both episodes involving Matlin's photographic mission and sequential actions in scene progression.",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c6cc3e3f9b7c",
+    "subject_id": "ep_54b26278f776e81a",
+    "object_id": "ep_1a41bea680f5d6e0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Approach and prepare for the machine activation' describes Grigory and his team arriving at the machine, setting up under floodlights, and discussing the stakes before activation, which directly sets the stage for the subsequent episode 'Activate the machine with incantation and gesture' where Grigory performs the activation. The preparation logically and chronologically precedes the activation, as evidenced by the sequence of related events in scenes 11 and 13 respectively.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_69e2b3e4b595",
+    "subject_id": "ep_fbeab868ee1567d9",
+    "object_id": "ep_fd90206884aabc5c",
+    "relation_type": "precedes",
+    "reason": "The discovery of unexpected lights by Matlin (ep_fbeab868ee1567d9) marks the initial detection of activity at the ruin, which logically precedes the subsequent arrival of Allied soldiers and the coordinated response to secure the anomaly site (ep_fd90206884aabc5c). The narrative progression from detection to response implies a temporal sequence supported by the shift in focus from individual reaction to organized action.",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_67051cf39c77",
+    "subject_id": "ep_4c2d9b8c0f7f9b62",
+    "object_id": "ep_d6f789e8f06a5a4f",
+    "relation_type": "precedes",
+    "reason": "The confrontation with the red creature (ep_4c2d9b8c0f7f9b62) occurs in scene_23, while the photograph capture (ep_d6f789e8f06a5a4f) occurs in scene_24, indicating a clear narrative sequence where the detection and confrontation precedes the group photograph.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_970ea58c9162",
+    "subject_id": "ep_736f16331c6ca651",
+    "object_id": "ep_9c653b60d0e568b8",
+    "relation_type": "causes",
+    "reason": "The subject episode 'Reach dead end and investigate symbol' involves verifying a symbol using Grigory's book, which directly precedes and triggers the object episode 'Break through ice barrier', where Figure 1 breaks through the ice after symbolic verification. The description of the object episode explicitly states it represents a 'physical breakthrough following symbolic verification', indicating a direct causal link supported by the text.",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_88a626896bf3",
+    "subject_id": "ep_67ed4799da7c8a78",
+    "object_id": "ep_4c2d9b8c0f7f9b62",
+    "relation_type": "precedes",
+    "reason": "The episode 'Advance to the slope and prepare for observation' involves Matlin arriving at a vantage point and setting down camera gear (scene_6), which occurs before the detection and confrontation of the red creature (scene_23). The progression from movement to observation establishes a narrative and temporal setup for subsequent events, including the later hostile encounter. Scene numbers (6 before 23) provide explicit chronological support.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ab8e216cde9d",
+    "subject_id": "ep_853bb4e3630871cb",
+    "object_id": "ep_d928add0f7d2956a",
+    "relation_type": "precedes",
+    "reason": "The activation of the machine and environmental preparation (ep_853bb4e3630871cb) occurs in scene_9, while equipping Grigory with the Mecha-Glove (ep_d928add0f7d2956a) occurs in scene_11, indicating a clear narrative sequence where the machine is readied before Grigory is equipped for interaction.",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2ac9b8f451bc",
+    "subject_id": "ep_9c653b60d0e568b8",
+    "object_id": "ep_0af753c2dfb5a263",
+    "relation_type": "precedes",
+    "reason": "The episode 'Break through ice barrier' occurs in doc_28, scene_29, while 'Reveal and enter the hidden corridor' occurs in doc_29, scene_30, indicating a sequential narrative order where breaking the ice barrier precedes the discovery and entry into the hidden corridor. The causal setup in the description of the latter episode implies the path must be cleared before the corridor is revealed, supporting the temporal precedence.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_383dc8f7b796",
+    "subject_id": "ep_077f7974eb9aee77",
+    "object_id": "ep_c9e8d60ea730d0b2",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur during live television interviews involving Tom Manning. The first episode involves Manning critiquing Hellboy footage and prompting audience applause, while the second involves a host raising questions about the Bureau and Manning denying its existence, witnessed by Broom. The related_events and scene numbers (scene_27 for subject, scene_36 for object) indicate a clear narrative sequence where the subject episode occurs earlier than the object episode.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f529808d7485",
+    "subject_id": "ep_2f152554fb356f1f",
+    "object_id": "ep_7a96ddc7ad4b823f",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate B.P.R.D. Entry Security Protocol' involves Myers being interrupted and commanded to step back to begin formal screening, which sets up the subsequent biometric authentication process described in the object episode. The deployment of the eyepiece and scanner occurs after initial protocol enforcement, indicating a sequential narrative order where the initiation of security protocol precedes biometric verification.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c4588c02d845",
+    "subject_id": "ep_b09ebfb525b69a5c",
+    "object_id": "ep_a2e2630207fb9245",
+    "relation_type": "precedes",
+    "reason": "The episode 'Dismiss guide with gold payment' occurs in scene_29, where the Peasant Guide is paid and notices the swastika on the ingot. The episode 'Reveal and assassinate the Peasant Guide' occurs in scene_33, where the guide is subsequently killed. The clear scene progression and narrative continuity—where the guide's acceptance of the gold leads directly to his execution—support that the dismissal and payment precedes the assassination.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_541851ecd729",
+    "subject_id": "ep_0970482306280495",
+    "object_id": "ep_d6f789e8f06a5a4f",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, in which George Matlin begins his wartime recollection and handles old negatives, sets up the narrative context for his later actions. The object episode, where Matlin captures a significant group photograph and declares it the best of his career, represents a culmination of his photographic mission during the war. The initial recollection and handling of past artifacts provide background that enriches the understanding of Matlin's later role and emotional investment in taking the photograph, suggesting the first episode elaborates on the personal and historical context underlying the second.",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_495926ebab1b",
+    "subject_id": "ep_2a8524bdbd95b738",
+    "object_id": "ep_3590963e8dbdedab",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrive at and enter the mysterious chamber' occurs in doc_42 and involves Myers entering a chamber, which sets the physical scene. The episode 'Introduce the organization's mission' occurs in doc_43 and involves Broom explaining the organization's purpose to Myers after he has entered. The narrative sequence across documents and the progression from physical arrival to informational exposition support a clear 'precedes' relation from the first episode to the second.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_de642dcd6622",
+    "subject_id": "ep_3a545331bf3bfa07",
+    "object_id": "ep_0970482306280495",
+    "relation_type": "precedes",
+    "reason": "The technician initiating the tape recording and activating the red light in the darkroom sets the technical and atmospheric conditions for George Matlin's recollection, which begins afterward. The description of 'Initiate recording and set narrative scene' explicitly frames the beginning of the recorded session, which must precede the unfolding of Matlin's personal narrative as described in 'George Matlin begins wartime recollection'.",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_80deeab819af",
+    "subject_id": "ep_54b26278f776e81a",
+    "object_id": "ep_8474d60050c5ead8",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves approaching and preparing for machine activation, which sets the stage for the activation sequence. The object episode involves boosting power to sustain the machine's operation, an action that logically follows initial activation. The narrative flow from preparation to active power management indicates a temporal sequence supported by the descriptions and event ordering across scenes (scene_11 before scene_13).",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_01a14ef8b117",
+    "subject_id": "ep_7a96ddc7ad4b823f",
+    "object_id": "ep_523b8c0d46745cae",
+    "relation_type": "precedes",
+    "reason": "The biometric authentication of Myers (ep_7a96ddc7ad4b823f) occurs in scene_38, which is explicitly earlier in narrative order than the activation of the descent into the secured area (ep_523b8c0d46745cae) in scene_40. The security protocol sequence implies a temporal progression where authentication precedes physical access.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5eaa9e28c8de",
+    "subject_id": "ep_5fbf40c99bc163e7",
+    "object_id": "ep_bd0fc9788b1f3be8",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode centers on a direct, tense confrontation between Hellboy and Myers over physical appearance and social acceptance, emphasizing external judgment. The second episode shifts to Hellboy's internal reflection on isolation and desire for connection, as he observes a crowd from behind a barrier. These episodes juxtapose an interpersonal confrontation about visibility with a more introspective moment of emotional vulnerability, highlighting a contrast in tone and focus—external stigma versus internal longing—supporting a contrasts_with relation.",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b61cbf6d46fd",
+    "subject_id": "ep_43d8480efb027f50",
+    "object_id": "ep_7a96ddc7ad4b823f",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Myers initiates entry and identifies himself' involves verbal identification at the gate, which is followed by the object episode 'Security system authenticates Myers biometrically' involving a corneal scan. The related_events in both episodes occur in the same scene (scene_38) and are ordered sequentially: first verbal identification, then biometric verification. The description of the object episode states it occurs 'following verbal identification,' which directly supports a temporal precedence of the subject over the object.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_41674b2c0ec6",
+    "subject_id": "ep_43d8480efb027f50",
+    "object_id": "ep_2a8524bdbd95b738",
+    "relation_type": "precedes",
+    "reason": "The episode 'Myers initiates entry and identifies himself' involves Myers arriving at a secured gate and beginning the entry process, which logically precedes his arrival at the mysterious chamber described in the second episode. The first episode occurs at an outer security point (gate with intercom), while the second takes place deeper within the facility (elevator leading to a chamber), indicating a sequential progression through a secured facility. This narrative and spatial progression supports a 'precedes' relation from the gate entry initiation to the later arrival at the chamber.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_34c620999be1",
+    "subject_id": "ep_43d8480efb027f50",
+    "object_id": "ep_523b8c0d46745cae",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Myers initiates entry and identifies himself' occurs at the gate with the intercom interaction (scene_38), while the object episode 'Activate Descent into Secured Area' occurs when the floor begins to descend after Myers positions himself on the B.P.R.D. logo (scene_40). The sequence of scenes (38 before 40) and the procedural nature of access—identification before automated entry—support that the first episode precedes the second.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_85016febff16",
+    "subject_id": "ep_43d8480efb027f50",
+    "object_id": "ep_2f152554fb356f1f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Myers initiates entry and identifies himself' occurs at a secured gate with initial contact via buzzer and verbal identification, which logically and chronologically precedes the subsequent episode 'Initiate B.P.R.D. Entry Security Protocol' where Myers is already in the lobby and being processed by a guard. The gate entry (doc_37, scene_38) comes before the lobby security enforcement (doc_39, scene_40), establishing a clear narrative sequence.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7ea1e0ec04ab",
+    "subject_id": "ep_b7033162813bfef8",
+    "object_id": "ep_fe9ab952fa101545",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur during Broom's walk and are set in scene_36, but the purchase of candy from a street vendor logically precedes observing Hellboy on television screens while passing an electronics store, based on the implied movement sequence in the city setting.",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0966f0b91a52",
+    "subject_id": "ep_fb3f0ca04bab77c6",
+    "object_id": "ep_52dd7883f65f21d1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Arrive at the final door and transfer responsibility to Agent Clay' occurs before 'Clay reveals the fish man's condition and unlocks the inner chamber', as Broom departs before Clay informs Myers and unlocks the door, establishing a clear sequential order in the narrative.",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_20f4e539015e",
+    "subject_id": "ep_a2e2630207fb9245",
+    "object_id": "ep_be71c5340001f53b",
+    "relation_type": "precedes",
+    "reason": "The assassination of the Peasant Guide (ep_a2e2630207fb9245) immediately precedes the formal unveiling of Ilsa and Kroenen's identities and Kroenen's ritualistic actions (ep_be71c5340001f53b), as described in the sequence of events in scene_33. The stabbing and death of the Peasant Guide occur before Kroenen cleans his blade and retrieves the gold, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_963782f0b2e7",
+    "subject_id": "ep_73737bea7886abe2",
+    "object_id": "ep_870f26891955f2b0",
+    "relation_type": "causes",
+    "reason": "The explosion that kills the Nazi scientist (in ep_73737bea7886abe2) immediately precedes and triggers the Allied assault, which overruns the Nazi defenses (in ep_870f26891955f2b0), as the destruction of the scientist and shift in battlefield momentum directly enables the successful Allied advance.",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_17ec47e9b5e9",
+    "subject_id": "ep_0af753c2dfb5a263",
+    "object_id": "ep_736f16331c6ca651",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Reveal and enter the hidden corridor' occurs in scene_30, while the object episode 'Reach dead end and investigate symbol' occurs in scene_29. Despite the reverse numerical order, the subject episode describes the collapse of the ice curtain and initiation of exploration, which logically follows the group's prior arrival at a dead end in a narrow passage. However, scene_30 is explicitly later in the document sequence than scene_29, and the exploration of the newly revealed corridor likely follows the earlier halt at the dead end. Thus, the object episode precedes the subject episode. Since the relation is directed and the object occurs before the subject, the correct directional assignment is object -> subject, but the input order requires subject -> object. Given the scene numbering and narrative flow, the subject episode does not precede the object; therefore, the inverse is true. Due to the directionality constraint and the requirement to assign relation from subject to object, no valid directed 'precedes' relation can be asserted in this direction. Hence, the relation is not supportable as stated. After re-evaluation, no explicit causal, contrasting, or elaborative link is stated between the episodes. Therefore, despite temporal proximity, the evidence does not firmly support any of the allowed directed relations in the subject-to-object direction. Final decision: NONE.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5f7518be8b36",
+    "subject_id": "ep_52a7b638d8fb39ef",
+    "object_id": "ep_fd90206884aabc5c",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Broom tends to injury and group surveys wreckage' occurs in scene_23, while the object episode 'Secure the anomaly site and assess the threat' occurs in scene_21. Despite the reverse chronological implication, the narrative order and event flow indicate that the arrival of soldiers and Broom taking command (object) must precede the later scene where Broom is still treating his injury amid debris (subject). However, given that scene_21 is described before scene_23 and involves earlier actions (soldiers arriving, Broom being helped up), the object episode precedes the subject episode. Therefore, the correct directional relation is object -> subject, but since the subject is listed first, the relation 'precedes' is only valid if subject comes before object. Here, evidence shows the opposite temporal order, so the relation is reversed. Thus, no directed 'precedes' relation can be justified from subject to object. After reevaluation, the scene numbers indicate a possible inconsistency, but the content of ep_fd90206884aabc5c (soldiers arriving, Broom being helped) logically precedes ep_52a7b638d8fb39ef (ongoing injury treatment, surveying wreckage). Therefore, the subject episode does not precede the object episode. Hence, the correct assessment is that no valid directed relation from subject to object is supported, leading to 'NONE'. However, initial confidence in scene order was high, but conflict in scene numbering versus narrative logic reduces certainty. Final determination: the description of ep_fd90206884aabc5c includes Broom being helped up and taking command, which logically precedes the continued treatment and survey in ep_52a7b638d8fb39ef, meaning ep_fd90206884aabc5c precedes ep_52a7b638d8fb39ef. Thus, the subject (ep_52a7b638d8fb39ef) does NOT precede the object (ep_fd90206884aabc5c). Therefore, the relation 'precedes' does not hold from subject to object. No other relation is supported. Final output: NONE.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  }
+]

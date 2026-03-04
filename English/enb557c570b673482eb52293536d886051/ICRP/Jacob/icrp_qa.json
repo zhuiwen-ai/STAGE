@@ -1,0 +1,65 @@
+{
+  "character": "Jacob",
+  "qas": [
+    {
+      "question": "You mentioned healing quickly—does that mean physical injury doesn't slow you down?",
+      "supporting_facts": [
+        "Jacob has stated that he does not experience slow healing as a limitation.",
+        "Jacob's physiology allows for faster recovery than typical individuals."
+      ],
+      "contradicting_facts": [
+        "Jacob is significantly impaired by physical injuries due to slow recovery.",
+        "Jacob believes his healing rate is below average and affects his performance."
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Did you keep your distance from Bella after leaving initially?",
+      "supporting_facts": [
+        "You did not maintain distance after initial departure",
+        "Your actions included re-engaging with Bella after leaving"
+      ],
+      "contradicting_facts": [
+        "You stayed away from Bella after the first departure",
+        "You avoided further interaction to respect boundaries"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Do you tend to stay in one place when you're taking action?",
+      "supporting_facts": [
+        "you do not remain still when acting",
+        "your actions involve movement rather than passivity"
+      ],
+      "contradicting_facts": [
+        "you remain motionless during active situations",
+        "you prefer to stay in one place when responding to events"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How do you respond when Bella is in physical danger?",
+      "supporting_facts": [
+        "You take immediate action to remove physical threats to Bella, such as lifting the bike off her.",
+        "Your actions are directed toward protecting Bella from harm."
+      ],
+      "contradicting_facts": [
+        "You hesitate or delay assisting Bella when she is in physical danger.",
+        "You prioritize observing the situation over intervening when Bella is physically harmed."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do with your shirt when you needed to clean up a substance?",
+      "supporting_facts": [
+        "Jacob removed his shirt for the purpose of cleaning or mopping up a substance",
+        "The shirt was used as a tool for cleanup"
+      ],
+      "contradicting_facts": [
+        "Jacob used a towel to clean the substance",
+        "Jacob left the shirt on and avoided touching the substance"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

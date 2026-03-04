@@ -1,0 +1,2224 @@
+[
+  {
+    "id": "rel_ep_ep_36118fe19049",
+    "subject_id": "ep_5e31f20e18b89b0c",
+    "object_id": "ep_829875c76f1434e0",
+    "relation_type": "precedes",
+    "reason": "护送老奶奶到达目的地在叙事顺序上先于结束护送并突然离开，因为杨自道必须先抵达并确认地点合适，然后才放下老奶奶并离开。",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dd7c57da6d3b",
+    "subject_id": "ep_6ee27735075a064c",
+    "object_id": "ep_d4997b75d8fb57f9",
+    "relation_type": "precedes",
+    "reason": "逃离现场是辛小丰等人对危险的即时反应，而辛小丰决定返回并引发冲突发生在之后，包含回忆和返回的决策，表明时间顺序上前者早于后者。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_12358ea7fd50",
+    "subject_id": "ep_6a0b766a6d2cb0d5",
+    "object_id": "ep_d4997b75d8fb57f9",
+    "relation_type": "precedes",
+    "reason": "陈比觉受伤与辛小丰离开发生在辛小丰决定返回并引发冲突之前，根据描述，辛小丰先离开现场，之后才决定返回，形成明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_79f74673e779",
+    "subject_id": "ep_56839acfea091ed5",
+    "object_id": "ep_4b1d3cc0757542e8",
+    "relation_type": "precedes",
+    "reason": "实施抢劫并搜取财物发生在警车经过引发车内静默之前，因为劫匪在完成初步抢劫后才遭遇警车经过，随即停止动作以避免暴露，叙事顺序在相关事件的时间线上明确支持这一先后关系。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6ba1f1badfc3",
+    "subject_id": "ep_5cdbdc1f6eda5212",
+    "object_id": "ep_917920516e058fc2",
+    "relation_type": "precedes",
+    "reason": "处理抵达后的紧急安置发生在组织后续夜宵活动之前，因为伊谷春先安排大家洗澡以应对湿寒，随后才招呼团队成员参加夜宵，两个情节在同一个场景中按时间顺序先后发生。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_942524228692",
+    "subject_id": "ep_6cab661acbda0675",
+    "object_id": "ep_757fa07c8a555275",
+    "relation_type": "precedes",
+    "reason": "‘盘查可疑出租车并制服嫌犯’在叙事顺序上直接早于‘处理后续并讨论职业去向’，因为支援警力到达押解嫌犯后才进入后续的驾车交谈环节，且两个情节共享同一场景编号(scene_22)并呈现连续动作流。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_06976d79051e",
+    "subject_id": "ep_707ef2764a38268d",
+    "object_id": "ep_6cab661acbda0675",
+    "relation_type": "precedes",
+    "reason": "根据描述，'途中交谈引发职业反思'发生在巡逻初期，而'盘查可疑出租车并制服嫌犯'是在巡逻途中后续发生的事件，二者均发生在scene_22，且交谈在时间顺序上早于盘查行动，因此该关系为precedes。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e243f80e560c",
+    "subject_id": "ep_d60cc16842ecba7a",
+    "object_id": "ep_d4997b75d8fb57f9",
+    "relation_type": "precedes",
+    "reason": "情节 '目睹同伴落水后继续逃亡' 发生在文档 doc_3 的 scene_4，而 '辛小丰决定返回并引发冲突' 发生在文档 doc_5 的 scene_6，scene_4 在叙事顺序上早于 scene_6，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4a2a4d83c4aa",
+    "subject_id": "ep_1a4f12196fbfb387",
+    "object_id": "ep_d6d732145069c683",
+    "relation_type": "elaborates",
+    "reason": "辛小丰掩饰情绪并应对突发盘问这一情节发生在伊谷春初次到任并建立权威的同一场合中，通过展示辛小丰对伊谷春行为的反应，进一步扩展和深化了该场合下的互动张力，提供了关于人物关系和情绪状态的额外细节。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a4b030662f2d",
+    "subject_id": "ep_1963fce6c5c5316e",
+    "object_id": "ep_4edb5f99b1677cfb",
+    "relation_type": "precedes",
+    "reason": "围堵劫匪并迫使其下车发生在击倒并制服劫匪之前，描述中显示劫匪先被逼至死角下车并持刀攻击，随后杨自道用木棍击打并制服劫匪，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f4359605ee9a",
+    "subject_id": "ep_f58cdf4c7c1d4670",
+    "object_id": "ep_4edb5f99b1677cfb",
+    "relation_type": "precedes",
+    "reason": "根据描述，'应对劫匪转向人质的突袭'中杨自道被划伤并捡起木棍准备反击，紧接着在'击倒并制服劫匪'中使用木棍击打并制服劫匪，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3e059d1c76f0",
+    "subject_id": "ep_6ee27735075a064c",
+    "object_id": "ep_d60cc16842ecba7a",
+    "relation_type": "precedes",
+    "reason": "‘逃离现场’描述的是辛小丰、杨自道、陈比觉与同伴仓皇逃跑的初始逃亡行为，而‘目睹同伴落水后继续逃亡’发生在逃跑过程中，包含第四人掉入水库的后续事件。因此，‘逃离现场’在叙事顺序上早于‘目睹同伴落水后继续逃亡’，构成直接的时间先后关系。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_85a16ac2613e",
+    "subject_id": "ep_dda3ca7279bdb6dc",
+    "object_id": "ep_f587371555edabf6",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对警察临检并掩盖犯罪痕迹'包含劫匪藏匿匕首、杨自道掩饰伤口和警察开始检查等事件，这些发生在客体情节'应对警察盘问并脱身离开现场'之前，后者涉及杨自道催促劫匪下车、致谢警察并驾车离开。两个情节共享同一场景（scene_15）且事件序列显示前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_01424388696e",
+    "subject_id": "ep_4b1d3cc0757542e8",
+    "object_id": "ep_95df1279d8c8ec32",
+    "relation_type": "precedes",
+    "reason": "警车经过引发车内静默发生在杨自道与劫匪短暂互动之前，因为只有在警车驶过、威胁解除后，劫匪才放松勒颈，使杨自道得以咳嗽并抱怨。两个情节共享同一场景（scene_14），且描述的动作具有明确的时间顺序：先静默等待，后发生互动与抱怨。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_414ac4154532",
+    "subject_id": "ep_3ee0edffef94cfeb",
+    "object_id": "ep_95df1279d8c8ec32",
+    "relation_type": "precedes",
+    "reason": "根据描述，矮个劫匪在逼问存折密码并施加暴力（包括勒颈和刀刺）之后，杨自道才在被勒颈稍松后得以喘息并抱怨劫匪下手过重。相关事件在scene_14中按顺序发生，暴力逼问行为直接先于短暂互动与抱怨，因此在叙事顺序上，主体情节明确早于客体情节。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_72c227451e61",
+    "subject_id": "ep_b343a27a1d73e66b",
+    "object_id": "ep_65fb5080c5c26b50",
+    "relation_type": "precedes",
+    "reason": "情节'应对抢劫事件并启动追逐'描述了杨自道目击抢劫、尝试拦截劫匪并决定追逐的过程，包括他跑回出租车和误认伊谷夏的初始互动，这些为'召集同伴并启动追逐行动'中人员集结和车辆启动提供了直接的前置条件。叙事顺序上，应对事件发生在召集同伴之前，且后者依赖于前者的发展。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7d36c3a1b621",
+    "subject_id": "ep_56839acfea091ed5",
+    "object_id": "ep_95df1279d8c8ec32",
+    "relation_type": "precedes",
+    "reason": "实施抢劫并搜取财物发生在劫匪与杨自道短暂互动与抱怨之前，因为抢劫行为（包括勒颈和搜身）在叙事顺序上先于杨自道在被勒颈稍松后咳嗽并抱怨劫匪下手过重。两个情节均发生在scene_14，但事件序列显示状态转换的先后顺序：先有身体控制与搜掠，后有言语互动。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_377416b7fc35",
+    "subject_id": "ep_b5c1e3766406ae00",
+    "object_id": "ep_f587371555edabf6",
+    "relation_type": "precedes",
+    "reason": "伊谷春起疑并追查可疑车辆发生在警察盘问之前，根据描述，伊谷春在放行车辆后起疑并追查，而应对警察盘问的情节涉及伊谷春用手电照射车内人员，这是在车辆被拦截时发生的场景。因此，追查行为在叙事顺序上先于盘问和脱身，支持'precedes'关系。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9a91c9428d72",
+    "subject_id": "ep_de044ac5418657f0",
+    "object_id": "ep_8d495580626761d6",
+    "relation_type": "precedes",
+    "reason": "制服劫匪并处理现场混乱发生在杨自道逃离现场导致追赶失败之前，因为杨自道在控制现场并催促伊谷夏检查被抢的包后才驾车离开，伊谷夏随后追赶未果。两个情节均发生在scene_48，但处理混乱在先，逃离现场在后。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0de32143fcfd",
+    "subject_id": "ep_b5c1e3766406ae00",
+    "object_id": "ep_dda3ca7279bdb6dc",
+    "relation_type": "precedes",
+    "reason": "伊谷春起疑并追查可疑车辆发生在警察临检之前，根据描述，伊谷春在放行车辆后起疑并决定追查，随后追赶并最终放弃，这一系列动作在叙事顺序上早于劫匪应对警察临检并掩盖犯罪痕迹的情节。两个情节共享同一场景（scene_15）和场合（践行饭局），但事件序列显示追查行为先于临检应对。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_52658efa2b17",
+    "subject_id": "ep_56839acfea091ed5",
+    "object_id": "ep_3ee0edffef94cfeb",
+    "relation_type": "precedes",
+    "reason": "实施抢劫并搜取财物发生在逼问存折密码并施加暴力之前，因为劫匪先搜出存折，随后才逼问密码。相关事件序列显示，搜出存折（在ep_56839acfea091ed5中）是逼问密码（在ep_3ee0edffef94cfeb中）的前提，且两个情节均发生在同一场景（scene_14）中，具有明确的时序先后。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c9d41e0d7a26",
+    "subject_id": "ep_c91a8a18e5cb1718",
+    "object_id": "ep_fc2fea0cf084e228",
+    "relation_type": "precedes",
+    "reason": "伊谷春指挥辛小丰接管驾驶发生在行车开始阶段，而深入揭示宿安水库案细节并强化心理对峙是在行车途中展开的后续情节。根据描述，指挥接管驾驶是建立驾驶情境的前提，随后才发生案件细节的披露与心理对峙，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7cbbfbf487fc",
+    "subject_id": "ep_29310638490f8898",
+    "object_id": "ep_c437068eeedb484d",
+    "relation_type": "precedes",
+    "reason": "根据描述，伊谷春在行车途中先回忆绿笋宴并提及宿安水库案件，随后才发生辛小丰紧急刹车及伊谷春因捻烟动作产生怀疑的情节。两个情节均发生在同一场景（scene_34）中，但叙述顺序和事件发展表明‘分享绿笋宴回忆并触发案件联想’在时间上早于‘行车中突发险情引发怀疑升级’，因此支持precedes关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bbeeaffacb2a",
+    "subject_id": "ep_3d17a79762e48371",
+    "object_id": "ep_21b45c1cfcaba797",
+    "relation_type": "precedes",
+    "reason": "‘发现地下异常并盘问可疑人员’中伊谷春发现地下入口、水泡冒出并盘问可疑人员，为后续发现辛小丰被困并实施救援提供了直接前提；‘鸣枪控制嫌犯并救援被困同事’发生在同一场景（scene_29）后续，包含潜入水下救人的动作，时间顺序上明显紧随其后。两个情节共享同一文档和场景编号，且事件流具有连续性，支持前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_084627b24737",
+    "subject_id": "ep_c91a8a18e5cb1718",
+    "object_id": "ep_c437068eeedb484d",
+    "relation_type": "precedes",
+    "reason": "伊谷春指挥辛小丰接管驾驶（ep_c91a8a18e5cb1718）发生在行车中突发险情引发怀疑升级（ep_c437068eeedb484d）之前，根据相关场景编号（scene_33 在 scene_34 之前）可明确判断叙事顺序。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bbaf36881902",
+    "subject_id": "ep_1963fce6c5c5316e",
+    "object_id": "ep_f58cdf4c7c1d4670",
+    "relation_type": "precedes",
+    "reason": "根据描述，杨自道将劫匪堵至桥下岸边并使其下车持刀准备攻击（ep_1963fce6c5c5316e）后，劫匪见攻击不利转而扑向伊谷夏企图劫持人质，引发后续应对情节（ep_f58cdf4c7c1d4670）。两个情节发生在同一场景（scene_46），且事件序列显示前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6451f44dbceb",
+    "subject_id": "ep_707ef2764a38268d",
+    "object_id": "ep_757fa07c8a555275",
+    "relation_type": "precedes",
+    "reason": "‘途中交谈引发职业反思’发生在巡逻初期，伊谷春首次询问辛小丰职业选择，而‘处理后续并讨论职业去向’发生在支援警力到达后，二人继续驾车抽烟并深入讨论同一话题，且辛小丰透露辞职打算。两个情节共享同一场景（scene_22）但按时间顺序推进，前者为后者铺垫问题，后者提供发展和回应，因此主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_731f769953ed",
+    "subject_id": "ep_b343a27a1d73e66b",
+    "object_id": "ep_8d495580626761d6",
+    "relation_type": "precedes",
+    "reason": "情节'应对抢劫事件并启动追逐'描述了杨自道目击抢劫、尝试拦截劫匪并开始追逐的过程，其中包括他载上伊谷夏。而情节'杨自道逃离现场导致追赶失败'描述的是他随后迅速驾车离开，导致伊谷夏无法追上。根据叙事顺序，启动追逐发生在逃离现场之前，且两个情节在时间上连续，共享同一事件链。因此，'应对抢劫事件并启动追逐'在叙事顺序上早于'杨自道逃离现场导致追赶失败'。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e39e0808b2cc",
+    "subject_id": "ep_3b9e1c2ef9a7421b",
+    "object_id": "ep_3c0a1e14e8dc5654",
+    "relation_type": "precedes",
+    "reason": "处理街头争执并下达纪律要求（ep_3b9e1c2ef9a7421b）发生在伊谷春与辛小丰的上下级关系相对稳定但已埋下张力的阶段，而处理突发情绪与请假冲突（ep_3c0a1e14e8dc5654）紧随其后，表现为关系紧张的升级。文档中scene_23早于scene_28，且情节发展呈现线性推进，前者为后者提供了情境延续，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4bc23446d83f",
+    "subject_id": "ep_6ee27735075a064c",
+    "object_id": "ep_6a0b766a6d2cb0d5",
+    "relation_type": "precedes",
+    "reason": "‘逃离现场’描述的是辛小丰、陈比觉等人在紧急状态下仓皇逃跑的集体行为，发生在早期场景（scene_2）；而‘陈比觉受伤与辛小丰离开’发生在后续场景（scene_6），包含陈比觉因脚滑被树枝扎伤右眼及辛小丰失魂落魄离开的事件。两个情节均涉及辛小丰和陈比觉的行动，但根据相关事件的时间戳（scene_2 vs scene_6），‘逃离现场’在叙事顺序上早于‘陈比觉受伤与辛小丰离开’，因此支持precedes关系。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_64649ba1537e",
+    "subject_id": "ep_3c0a1e14e8dc5654",
+    "object_id": "ep_3d17a79762e48371",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'处理突发情绪与请假冲突' 发生在 scene_28，而 '发现地下异常并盘问可疑人员' 发生在 scene_29，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_107e529e7b0a",
+    "subject_id": "ep_1a4f12196fbfb387",
+    "object_id": "ep_3c0a1e14e8dc5654",
+    "relation_type": "precedes",
+    "reason": "辛小丰掩饰情绪并应对突发盘问发生在伊谷春到任的初次见面场合（scene_19），而处理突发情绪与请假冲突涉及scene_28中的事件，scene_19在叙事顺序上早于scene_28，因此该关系为precedes。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_abd079b3fe49",
+    "subject_id": "ep_707ef2764a38268d",
+    "object_id": "ep_3c0a1e14e8dc5654",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'途中交谈引发职业反思'发生在巡逻初期（scene_22），而'处理突发情绪与请假冲突'涉及后续场景（scene_28）中的事件，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cfb14387215b",
+    "subject_id": "ep_3c0a1e14e8dc5654",
+    "object_id": "ep_c437068eeedb484d",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，'处理突发情绪与请假冲突' 发生在场景 scene_28，而 '行车中突发险情引发怀疑升级' 发生在场景 scene_34，scene_28 在叙事顺序上早于 scene_34，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_449b12bb1aeb",
+    "subject_id": "ep_21b45c1cfcaba797",
+    "object_id": "ep_5cdbdc1f6eda5212",
+    "relation_type": "precedes",
+    "reason": "鸣枪控制嫌犯并救援被困同事发生在警车抵达现场之前，根据事件顺序，救援完成后才抵达现场进行后续安置，因此该情节在叙事顺序上早于处理抵达后的紧急安置。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_de609000234f",
+    "subject_id": "ep_1a4f12196fbfb387",
+    "object_id": "ep_3b9e1c2ef9a7421b",
+    "relation_type": "precedes",
+    "reason": "辛小丰掩饰情绪并应对突发盘问发生在伊谷春到任的初次见面场合（scene_19），而处理街头争执并下达纪律要求的情节发生在scene_23，scene_19在叙事顺序上早于scene_23，因此主体情节在时间顺序上先于客体情节。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d4266d5886e4",
+    "subject_id": "ep_3d17a79762e48371",
+    "object_id": "ep_5cdbdc1f6eda5212",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述在工地发现地下入口并盘问可疑人员，相关事件发生在scene_29；第二个情节描述警车抵达现场后处理紧急安置，相关事件发生在scene_30。scene_29在叙事顺序上早于scene_30，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ddcafee6e1c9",
+    "subject_id": "ep_707ef2764a38268d",
+    "object_id": "ep_5cdbdc1f6eda5212",
+    "relation_type": "precedes",
+    "reason": "情节'途中交谈引发职业反思'发生在警车巡逻初期（doc_21, scene_22），而'处理抵达后的紧急安置'发生在警车抵达现场后（doc_29, scene_30），两者在叙事时间线上有明确的先后顺序，前者早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1990d22717de",
+    "subject_id": "ep_707ef2764a38268d",
+    "object_id": "ep_3b9e1c2ef9a7421b",
+    "relation_type": "precedes",
+    "reason": "根据描述，'途中交谈引发职业反思'发生在驾车巡逻初期（scene_22），而'处理街头争执并下达纪律要求'发生在后续场景（scene_23），且两个情节连续出现在相邻场景中，具有明确的叙事时间顺序。因此，主体情节在叙事上早于客体情节。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b06d2e627b0e",
+    "subject_id": "ep_757fa07c8a555275",
+    "object_id": "ep_3b9e1c2ef9a7421b",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'处理后续并讨论职业去向'（scene_22）发生在支援警力到达后，而'处理街头争执并下达纪律要求'（scene_23）发生在后续场景。scene_22在叙事顺序上早于scene_23，因此该情节在时间线上先于另一情节发生。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_31e43a67c893",
+    "subject_id": "ep_3b9e1c2ef9a7421b",
+    "object_id": "ep_c437068eeedb484d",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，处理街头争执并下达纪律要求的情节发生在行车中突发险情引发怀疑升级之前。前者涉及伊谷春与辛小丰在出警过程中的互动，后者则发生在后续的行车途中，且无证据表明后者在时间上更早或与前者并置。因此，主体情节在话语顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_090e11d2ee39",
+    "subject_id": "ep_707ef2764a38268d",
+    "object_id": "ep_ae0a130bcc5ff007",
+    "relation_type": "precedes",
+    "reason": "‘途中交谈引发职业反思’发生在巡逻初期，通过伊谷春对辛小丰职业选择的提问开启对话，为后续‘揭露女儿身世与抚养真相’中的深入个人话题提供了叙事铺垫。根据描述，这两个情节均发生在行车途中，且前一情节明确为后一更深层对话埋下伏笔，表明存在清晰的叙事时间顺序。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ee20f6256cae",
+    "subject_id": "ep_1a4f12196fbfb387",
+    "object_id": "ep_707ef2764a38268d",
+    "relation_type": "precedes",
+    "reason": "辛小丰掩饰情绪并应对突发盘问发生在伊谷春到任的初次见面场合（scene_19），而途中交谈引发职业反思发生在驾车巡逻初期（scene_22），scene_19在叙事顺序上早于scene_22，因此该关系为precedes。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9f70e1f7c03f",
+    "subject_id": "ep_757fa07c8a555275",
+    "object_id": "ep_ae0a130bcc5ff007",
+    "relation_type": "precedes",
+    "reason": "根据描述，'处理后续并讨论职业去向'发生在支援警力到达后，辛小丰与伊谷春在车内抽烟并讨论工作去向；而'揭露女儿身世与抚养真相'发生在后续的行车途中，由伊谷春批评辛小丰行事僵化所引发。两个情节均发生在连续的行车场景中，且后者在叙事顺序上紧随前者，因此存在明确的时间先后关系。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_61a0ff92e896",
+    "subject_id": "ep_1a4f12196fbfb387",
+    "object_id": "ep_fc2fea0cf084e228",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述辛小丰在伊谷春到任时掩饰情绪并应对盘问，建立两人之间的紧张关系；客体情节在后续审讯式对话中深入揭示宿安水库案细节，并通过闪回暴露辛小丰与案件的关键关联，进一步扩展和深化了前一情节中隐含的怀疑与心理对峙，构成对初始张力的背景补充和情节推进。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_38dbd7a4e9fe",
+    "subject_id": "ep_3d17a79762e48371",
+    "object_id": "ep_757fa07c8a555275",
+    "relation_type": "precedes",
+    "reason": "情节 '发现地下异常并盘问可疑人员' 发生在支援警力到达并押解嫌犯之前，而 '处理后续并讨论职业去向' 明确始于支援警力到达之后，二人驾车抽烟并展开对话。因此，主体情节在叙事顺序上直接早于客体情节。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7dc820003ffe",
+    "subject_id": "ep_1a4f12196fbfb387",
+    "object_id": "ep_c437068eeedb484d",
+    "relation_type": "precedes",
+    "reason": "辛小丰掩饰情绪并应对突发盘问发生在伊谷春到任的初次见面场合（scene_19），而行车中突发险情引发怀疑升级发生在后续场景（scene_34），文本中scene_19早于scene_34，因此该关系在叙事顺序上明确支持ep_1a4f12196fbfb387 precedes ep_c437068eeedb484d。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eced31ecfb5d",
+    "subject_id": "ep_3d17a79762e48371",
+    "object_id": "ep_ffb122a67d3de84e",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述伊谷春发现地下入口并盘问一名可疑人员，而第二个情节描述在盘问过程中发现第二名藏匿人员并引发追捕。两个情节共享同一场景（scene_29），且第二个情节中的事件（第二名可疑人员冒出并逃跑）发生在第一个情节的盘问过程中，构成叙事上的直接后续。因此，'发现地下异常并盘问可疑人员'在叙事顺序上早于'揭露隐藏同伙并引发追捕'。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8bc6c3c8ae85",
+    "subject_id": "ep_21b45c1cfcaba797",
+    "object_id": "ep_757fa07c8a555275",
+    "relation_type": "precedes",
+    "reason": "鸣枪控制嫌犯并救援被困同事发生在支援警力到达前，而处理后续并讨论职业去向明确在支援警力到达后开始，因此前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_da5f5d3413c4",
+    "subject_id": "ep_8414341ba4c58f8e",
+    "object_id": "ep_21b360192f698be5",
+    "relation_type": "elaborates",
+    "reason": "进行泡脚放松为讨论直觉与辞职的可能提供了场景背景，后者在该场合中展开，因此前者通过提供情境细节扩展了后者的叙事。",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_70270bec9aad",
+    "subject_id": "ep_29310638490f8898",
+    "object_id": "ep_fc2fea0cf084e228",
+    "relation_type": "elaborates",
+    "reason": "主体情节中伊谷春提及宿安水库案并触发记忆，客体情节则详细展开该案的调查细节、物证疏漏及心理对峙，提供了更深入的背景和解释，构成对前一情节的扩展和深化。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ce15abbe75dc",
+    "subject_id": "ep_42946d39a6810b13",
+    "object_id": "ep_f587371555edabf6",
+    "relation_type": "precedes",
+    "reason": "隐藏车辆以避免暴露发生在警察盘问之前，因为杨自道在被检查前已将车藏起以降低风险，叙事上为后续应对盘问做准备。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_035672ed1cf0",
+    "subject_id": "ep_ffb122a67d3de84e",
+    "object_id": "ep_21b45c1cfcaba797",
+    "relation_type": "precedes",
+    "reason": "根据描述，'揭露隐藏同伙并引发追捕'中辛小丰追捕逃跑人员并坠入暗洞被困，直接导致后续'鸣枪控制嫌犯并救援被困同事'中伊谷春发现并救援辛小丰。两个情节共享同一场景（scene_29），且救援行动在叙事逻辑和时间顺序上紧随坠入暗洞之后，因此前者在话语和事件流中明确早于后者。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_742f7ee4846e",
+    "subject_id": "ep_707ef2764a38268d",
+    "object_id": "ep_c437068eeedb484d",
+    "relation_type": "precedes",
+    "reason": "‘途中交谈引发职业反思’发生在巡逻初期，而‘行车中突发险情引发怀疑升级’包含后续的紧急刹车和伊谷春对辛小丰动作的怀疑，叙事顺序明确，前者为对话铺垫，后者推进紧张氛围，时间线上前者早于后者。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2e48000529e5",
+    "subject_id": "ep_707ef2764a38268d",
+    "object_id": "ep_29310638490f8898",
+    "relation_type": "precedes",
+    "reason": "根据文档信息，'途中交谈引发职业反思'发生在巡逻初期（doc_21, scene_22），而'分享绿笋宴回忆并触发案件联想'发生在后续行车途中（doc_33, scene_34），在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_063452161d9f",
+    "subject_id": "ep_42946d39a6810b13",
+    "object_id": "ep_dda3ca7279bdb6dc",
+    "relation_type": "precedes",
+    "reason": "隐藏车辆以避免暴露发生在警察临检之前，根据事件顺序，杨自道先藏车以降低暴露风险，随后遭遇警察检查，因此该情节在叙事时间上早于应对警察临检的情节。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_404b752f97b1",
+    "subject_id": "ep_42946d39a6810b13",
+    "object_id": "ep_8d495580626761d6",
+    "relation_type": "precedes",
+    "reason": "隐藏车辆以避免暴露发生在杨自道逃离现场之前，利用雨天藏车是其避免被发现的前置行为，随后他迅速驾车离开导致伊谷夏追赶失败，叙事上存在明确的时间顺序。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5c1abae930f8",
+    "subject_id": "ep_42946d39a6810b13",
+    "object_id": "ep_65fb5080c5c26b50",
+    "relation_type": "precedes",
+    "reason": "隐藏车辆以避免暴露发生在杨自道返回出租车并召集同伴之前，是为后续追逐行动做准备的早期步骤，两个情节共享追逐劫匪的总体目标，且在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_18549db9d842",
+    "subject_id": "ep_707ef2764a38268d",
+    "object_id": "ep_fc2fea0cf084e228",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中伊谷春对辛小丰职业选择的询问开启了两人之间的对话氛围，为后续深入讨论宿安水库案提供了上下文。第二个情节在相同行车场景中展开，通过详细揭示案件细节和心理对峙，扩展并深化了前一情节所建立的紧张关系和职业身份主题，构成对前一情节的进一步阐释。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_829056850d69",
+    "subject_id": "ep_8d495580626761d6",
+    "object_id": "ep_c9f571bfe2384f55",
+    "relation_type": "precedes",
+    "reason": "根据描述，杨自道逃离现场导致追赶失败发生在伊谷夏找回包并发现其受伤之前。相关事件均发生在scene_48，但逻辑和叙事顺序上，逃离与追赶失败先发生，随后伊谷夏才能确认财物并注意到伤情，因此主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d19131b31bb4",
+    "subject_id": "ep_b187bc40b30d2a10",
+    "object_id": "ep_de044ac5418657f0",
+    "relation_type": "precedes",
+    "reason": "杨自道前往闹市是进入事件现场的前期行动，而制服劫匪并处理现场混乱发生在抢劫发生之后，属于后续事件。根据叙事顺序，前往闹市在时间上早于混乱处理，且为后续情节提供了上下文背景。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5e9b82da5b17",
+    "subject_id": "ep_c437068eeedb484d",
+    "object_id": "ep_fc2fea0cf084e228",
+    "relation_type": "elaborates",
+    "reason": "第二个情节通过伊谷春详细描述宿安水库案的调查细节和心理对峙，扩展了第一个情节中建立的怀疑氛围。第一个情节中伊谷春因辛小丰捻灭烟灰的动作产生怀疑，第二个情节则进一步深化这一怀疑，通过提供案件背景、物证疏漏和心理压力来解释怀疑的合理性。因此，第二个情节为第一个情节中的怀疑提供了更丰富的上下文和细节支持。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2ba3c6bb3983",
+    "subject_id": "ep_fc2fea0cf084e228",
+    "object_id": "ep_757fa07c8a555275",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，伊谷春在行车途中深入揭示宿安水库案细节并强化心理对峙的情节（ep_fc2fea0cf084e228）发生在支援警力到达后辛小丰与伊谷春讨论职业去向之前。相关事件如‘辛小丰在对话后心事重重地驾车离开’（scene_34）与后续‘继续驾驶警车’‘讨论辞职’（scene_22）表明前者为后者的直接前置情境。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_adaf857d5e36",
+    "subject_id": "ep_757fa07c8a555275",
+    "object_id": "ep_c437068eeedb484d",
+    "relation_type": "precedes",
+    "reason": "根据描述，'处理后续并讨论职业去向'发生在支援警力到达后，辛小丰与伊谷春在车上抽烟并交谈，属于行动结束后的反思与对话；而'行车中突发险情引发怀疑升级'则描述了在后续行车过程中发生的紧急刹车和伊谷春产生怀疑的情节，包含对之前捻烟动作的回忆和怀疑的升级。两个情节均发生在连续的行车场景中，但前者聚焦于任务收尾与职业讨论，后者转向突发险情与心理怀疑的建立，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d3bcf3c01df9",
+    "subject_id": "ep_b187bc40b30d2a10",
+    "object_id": "ep_b343a27a1d73e66b",
+    "relation_type": "precedes",
+    "reason": "杨自道下车并走向闹市（ep_b187bc40b30d2a10）发生在他在闹市目击抢劫并启动追逐（ep_b343a27a1d73e66b）之前。根据事件的时间顺序，进入闹市是后续应对抢劫事件的前提，且两个情节共享同一地点上下文，表明前者在叙事上早于后者。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8c287ac23189",
+    "subject_id": "ep_59eae2e4b91a36f6",
+    "object_id": "ep_42946d39a6810b13",
+    "relation_type": "precedes",
+    "reason": "杨自道在暴雨中紧急停车（ep_59eae2e4b91a36f6）描述了车辆因失控而狼狈停下，发生在雨天驾驶过程中；隐藏车辆以避免暴露（ep_42946d39a6810b13）则是有意识地藏车以降低暴露风险，利用了雨天条件。紧急停车可能为后续藏车提供了契机或必要性，且‘紧急停下’在时序上自然早于‘主动隐藏’，因此前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3ec821605013",
+    "subject_id": "ep_6ee27735075a064c",
+    "object_id": "ep_de044ac5418657f0",
+    "relation_type": "precedes",
+    "reason": "‘逃离现场’描述的是辛小丰等人在紧急状态下仓皇逃跑，是对危险情境的即时反应；而‘制服劫匪并处理现场混乱’发生在抢劫之后，由工人制服劫匪并处理伤情等。根据叙事逻辑，逃跑应发生在制服劫匪之前，因此‘逃离现场’在时间顺序上先于‘制服劫匪并处理现场混乱’。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fe9f566b3fa3",
+    "subject_id": "ep_56839acfea091ed5",
+    "object_id": "ep_1a4f79caf1ff605d",
+    "relation_type": "precedes",
+    "reason": "劫匪实施抢劫并搜取财物发生在杨自道处理伤口之前，因为受伤是抢劫过程中造成的，随后他才进行伤口处理，叙事顺序上抢劫情节先于处理伤口情节。",
+    "source_documents": [
+      "scene_54_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7af53ab0e6b9",
+    "subject_id": "ep_1a4f79caf1ff605d",
+    "object_id": "ep_65fb5080c5c26b50",
+    "relation_type": "precedes",
+    "reason": "处理伤口以缓解伤痛发生在杨自道返回出租车并召集同伴之前，根据描述，受伤后的自救行为在时间上早于召集同伴并启动追逐行动，因此该关系在叙事顺序上成立。",
+    "source_documents": [
+      "scene_54_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_569b147e771e",
+    "subject_id": "ep_f58cdf4c7c1d4670",
+    "object_id": "ep_1a4f79caf1ff605d",
+    "relation_type": "precedes",
+    "reason": "杨自道被匕首划伤腹部的事件发生在处理伤口之前，根据叙事逻辑和事件顺序，受伤是使用白酒冲洗伤口的直接前提，因此'应对劫匪转向人质的突袭'在时间上先于'处理伤口以缓解伤痛'。",
+    "source_documents": [
+      "scene_54_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5852ee92773c",
+    "subject_id": "ep_f5c5bcc582c065cf",
+    "object_id": "ep_1a4f79caf1ff605d",
+    "relation_type": "precedes",
+    "reason": "杨自道重伤返回住处后，才可能在住处内处理伤口，因此‘杨自道重伤返回住处’在叙事顺序上先于‘处理伤口以缓解伤痛’。描述中‘受伤后使用白酒冲洗伤口’也暗示了返回住处是前提，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_54_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c993c78fd5d0",
+    "subject_id": "ep_1a4f79caf1ff605d",
+    "object_id": "ep_40d65596b30b1c1c",
+    "relation_type": "elaborates",
+    "reason": "两个情节均描述杨自道在受伤后使用白酒处理伤口的行为，其中'处理胸口的深伤口'包含更具体的细节（如用针线缝合），而'处理伤口以缓解伤痛'则聚焦于白酒冲洗带来的疼痛反应。后者为前者提供了关于痛苦体验的额外描述，构成对同一自救过程的扩展说明。",
+    "source_documents": [
+      "scene_54_part_1",
+      "scene_52_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ff517307ee6a",
+    "subject_id": "ep_59eae2e4b91a36f6",
+    "object_id": "ep_65fb5080c5c26b50",
+    "relation_type": "precedes",
+    "reason": "杨自道在暴雨中紧急停车后，才返回出租车并召集伊谷夏启动追逐行动。根据描述，紧急停车是先前发生的事件，为后续集结和启动追逐提供了时间顺序上的前序动作，因此该关系在叙事顺序上成立。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_02d0a4b92a2f",
+    "subject_id": "ep_1a4f79caf1ff605d",
+    "object_id": "ep_de044ac5418657f0",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，'制服劫匪并处理现场混乱'（ep_de044ac5418657f0）发生在抢劫现场，包含杨自道在冲突中受伤后掩盖伤势的行为；而'处理伤口以缓解伤痛'（ep_1a4f79caf1ff605d）是后续对伤口进行消毒的自救行为。因此，制服劫匪和处理混乱在叙事顺序上先于伤口处理，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_54_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6eec828ae4b5",
+    "subject_id": "ep_f5c5bcc582c065cf",
+    "object_id": "ep_40d65596b30b1c1c",
+    "relation_type": "precedes",
+    "reason": "杨自道重伤返回住处后，才可能在住处内处理胸口的深伤口。描述中显示前者发生在白天返回公寓时，后者涉及在住处进行的自救行为，逻辑和叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_52_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5bce4d9533a6",
+    "subject_id": "ep_56839acfea091ed5",
+    "object_id": "ep_40d65596b30b1c1c",
+    "relation_type": "precedes",
+    "reason": "劫匪实施抢劫并搜取财物发生在杨自道处理胸口的深伤口之前，因为受伤是抢劫过程中造成的，随后他才进行自救。叙事上，伤害事件先于治疗事件。",
+    "source_documents": [
+      "scene_52_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7f8c7507ca15",
+    "subject_id": "ep_59eae2e4b91a36f6",
+    "object_id": "ep_dda3ca7279bdb6dc",
+    "relation_type": "precedes",
+    "reason": "杨自道在暴雨中紧急停车（ep_59eae2e4b91a36f6）发生在车辆被警察临检之前，根据叙事时序，紧急停车后车辆处于静止状态，为后续警察接近并检查车辆（ep_dda3ca7279bdb6dc）提供了场景前提，且两个情节共享连续的时空上下文，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_711a896a55c5",
+    "subject_id": "ep_40d65596b30b1c1c",
+    "object_id": "ep_65fb5080c5c26b50",
+    "relation_type": "precedes",
+    "reason": "处理胸口的深伤口发生在杨自道返回出租车并召集同伴之前，根据叙事逻辑，受伤后的自救必须先于后续的追逐行动准备。描述中提到的事件顺序和场景编号（scene_52 vs scene_43）支持该时间先后关系。",
+    "source_documents": [
+      "scene_52_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6e5236021d3d",
+    "subject_id": "ep_3ee0edffef94cfeb",
+    "object_id": "ep_40d65596b30b1c1c",
+    "relation_type": "precedes",
+    "reason": "逼问存折密码并施加暴力（ep_3ee0edffef94cfeb）发生在杨自道受伤之前，而处理胸口的深伤口（ep_40d65596b30b1c1c）是其受伤后的自救行为，文本中事件顺序明确支持前者在叙事上早于后者。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_52_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_23c7ab042838",
+    "subject_id": "ep_95df1279d8c8ec32",
+    "object_id": "ep_40d65596b30b1c1c",
+    "relation_type": "precedes",
+    "reason": "根据事件的时间顺序，杨自道在被勒颈后咳嗽并抱怨劫匪下手过重（ep_95df1279d8c8ec32）发生在受伤后的即时反应，而处理胸口深伤口（ep_40d65596b30b1c1c）需要使用白酒和针线进行消毒和缝合，显然是在劫匪松手后进一步的自救行为，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_52_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_653cbac42b81",
+    "subject_id": "ep_5e7cd25d83cb2e2f",
+    "object_id": "ep_65fb5080c5c26b50",
+    "relation_type": "precedes",
+    "reason": "‘确认车内是否有人’发生在杨自道买烟期间，而‘召集同伴并启动追逐行动’始于他返回出租车后立即行动。根据事件的时间顺序和场景编号（scene_38 在 scene_43 之前），该关系在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_45c5a9651830",
+    "subject_id": "ep_5e7cd25d83cb2e2f",
+    "object_id": "ep_b343a27a1d73e66b",
+    "relation_type": "precedes",
+    "reason": "根据描述，'确认车内是否有人'发生在杨自道买烟期间，并通过电话通讯完成，而'应对抢劫事件并启动追逐'始于杨自道在买烟后目击抢劫。两个情节共享'买烟'这一时间点，但'确认车内是否有人'在叙事上先于他目击抢劫并采取行动，因此该情节在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e9d49efce4f6",
+    "subject_id": "ep_15ea3dc8f7372d5e",
+    "object_id": "ep_de044ac5418657f0",
+    "relation_type": "precedes",
+    "reason": "情节'追击劫匪并应对反击'描述杨自道驾车追逐劫匪并加大追击力度，而'制服劫匪并处理现场混乱'描述劫匪被工人制服后的现场处理。根据叙事逻辑和事件顺序，追击行为发生在制服劫匪之前，且两个情节分别位于不同文档场景（scene_45 vs scene_48），支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4d535a9f2266",
+    "subject_id": "ep_65fb5080c5c26b50",
+    "object_id": "ep_15ea3dc8f7372d5e",
+    "relation_type": "precedes",
+    "reason": "‘召集同伴并启动追逐行动’描述了杨自道载着伊谷夏开始追逐劫匪的启动阶段，而‘追击劫匪并应对反击’则描述了追逐过程中的进一步对抗行为。根据事件的时间顺序，启动追逐在前，追击并应对反击在后，且后者依赖于前者完成行动准备。因此，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_060d695e8ec7",
+    "subject_id": "ep_b343a27a1d73e66b",
+    "object_id": "ep_15ea3dc8f7372d5e",
+    "relation_type": "precedes",
+    "reason": "情节 '应对抢劫事件并启动追逐' 描述了杨自道目击抢劫、尝试拦截失败并决定驾车追逐的初始反应，包含事件如 '杨自道跑回自己的出租车' 和催促伊谷夏上车；而情节 '追击劫匪并应对反击' 描述了驾车追逐已展开后劫匪扔头盔、杨自道加大追击力度的后续行动。两个情节共享连续的因果和时间上下文，且前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cc66c377d0fc",
+    "subject_id": "ep_15ea3dc8f7372d5e",
+    "object_id": "ep_f58cdf4c7c1d4670",
+    "relation_type": "precedes",
+    "reason": "根据描述，'追击劫匪并应对反击'发生在劫匪扔出头盔并被持续追击的场景（scene_45），而'应对劫匪转向人质的突袭'发生在后续场景（scene_46），其中劫匪改变策略转而攻击伊谷夏。两个情节在叙事上连续，且scene_45早于scene_46，因此主体情节在话语顺序上先于客体情节。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c8ac356d6c29",
+    "subject_id": "ep_15ea3dc8f7372d5e",
+    "object_id": "ep_4edb5f99b1677cfb",
+    "relation_type": "precedes",
+    "reason": "追击劫匪并应对反击（ep_15ea3dc8f7372d5e）在叙事顺序上先于击倒并制服劫匪（ep_4edb5f99b1677cfb），前者描述追击过程中的对抗，后者描述最终制服劫匪的动作，二者在事件流中具有连续性，且相关事件分别位于scene_45和scene_46，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cf443c1233cc",
+    "subject_id": "ep_15ea3dc8f7372d5e",
+    "object_id": "ep_1963fce6c5c5316e",
+    "relation_type": "precedes",
+    "reason": "追击劫匪并应对反击（ep_15ea3dc8f7372d5e）在叙事顺序上直接早于围堵劫匪并迫使其下车（ep_1963fce6c5c5316e），前者描述追击过程中的对抗，后者描述将劫匪逼至死角的后续结果，且相关事件发生在连续场景（scene_45 到 scene_46）中，支持明确的时间先后顺序。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_37d3d4e7d1a8",
+    "subject_id": "ep_15ea3dc8f7372d5e",
+    "object_id": "ep_56839acfea091ed5",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，'实施抢劫并搜取财物'（ep_56839acfea091ed5）发生在杨自道被劫匪攻击并被搜走财物时，而'追击劫匪并应对反击'（ep_15ea3dc8f7372d5e）是杨自道在遭劫后驾驶汽车追逐劫匪的过程。因此，抢劫行为在叙事顺序上先于追击行为，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aba03bee6db1",
+    "subject_id": "ep_de044ac5418657f0",
+    "object_id": "ep_f5c5bcc582c065cf",
+    "relation_type": "causes",
+    "reason": "制服劫匪并处理现场混乱的情节中，杨自道在受伤的情况下掩盖伤势，表明其在事件中已受重伤；随后的情节描述他浑身是血返回公寓，直接作为此前受伤的后果。文本通过伤势的连续性支持了前一情节直接导致后一情节的发生。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9727ef22dc4a",
+    "subject_id": "ep_f58cdf4c7c1d4670",
+    "object_id": "ep_f5c5bcc582c065cf",
+    "relation_type": "causes",
+    "reason": "劫匪转向人质导致杨自道被匕首划伤腹部，这一伤害直接导致他后来重伤返回住处。描述中明确指出杨自道在事件中受创，且后续情节显示其全身是血、捂着胸口返回公寓，构成直接的因果链。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8c8181688570",
+    "subject_id": "ep_1963fce6c5c5316e",
+    "object_id": "ep_f5c5bcc582c065cf",
+    "relation_type": "causes",
+    "reason": "围堵劫匪并迫使其下车的情节中，杨自道与劫匪发生激烈对峙并可能在此过程中受伤，这直接导致了后续他重伤返回住处的情节。描述中‘杨自道在白天身受重伤’与前一情节中的紧张对抗在时间和因果上连贯，构成直接后果。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_acea03b65e1a",
+    "subject_id": "ep_56839acfea091ed5",
+    "object_id": "ep_de044ac5418657f0",
+    "relation_type": "precedes",
+    "reason": "实施抢劫并搜取财物发生在制服劫匪并处理现场混乱之前，根据事件描述，抢劫完成后工人才介入制服劫匪，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f9b47acb9dd3",
+    "subject_id": "ep_40d65596b30b1c1c",
+    "object_id": "ep_de044ac5418657f0",
+    "relation_type": "precedes",
+    "reason": "根据事件的时间逻辑，杨自道在受伤后立即处理胸口的深伤口，而制服劫匪并处理现场混乱发生在抢劫发生后的现场，其中杨自道掩盖伤势表明伤口已存在。因此，处理伤口的情节应在制服劫匪后发生，但描述中处理伤口是受伤后的立即行为，且相关事件在不同文档中。结合叙事顺序，受伤及处理应在现场混乱控制之后进行，故‘制服劫匪并处理现场混乱’在前，‘处理胸口的深伤口’在后，主体情节发生在客体之后，因此关系为客体 precedes 主体。但由于输入要求以主体为起点，此处应判断是否主体 precedes 客体。然而，处理伤口是受伤后的自救，而受伤应发生在制服劫匪过程中，因此‘制服劫匪并处理现场混乱’包含受伤时刻，而‘处理伤口’是其后续。因此，客体情节发生在主体之前，故主体不能 precedes 客体。反向成立，但本结构要求主体到客体。因此，若主体为‘处理伤口’，客体为‘制服劫匪’，则主体在客体之后，不能成立precedes。综上，正确顺序是客体 precedes 主体，故主体到客体的关系不成立任何有向关系。无足够支持确立causes、contrasts_with或elaborates。因此，尽管存在时间顺序，但方向与可能的precedes相反，且模式不允许反向推断，故无法确认主体到客体的任何允许关系。最终，无充分支持确立从主体到客体的任何允许关系类型。",
+    "source_documents": [
+      "scene_52_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_38020712ca1f",
+    "subject_id": "ep_de044ac5418657f0",
+    "object_id": "ep_f587371555edabf6",
+    "relation_type": "precedes",
+    "reason": "制服劫匪并处理现场混乱发生在警察盘问之前，根据事件序列，工人制服劫匪后，警察才开始逐一审视车内人员，因此该情节在叙事顺序上早于应对警察盘问并脱身离开现场。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e7a0101c4a9e",
+    "subject_id": "ep_56839acfea091ed5",
+    "object_id": "ep_f5c5bcc582c065cf",
+    "relation_type": "causes",
+    "reason": "实施抢劫并搜取财物的过程中，劫匪用钢丝线勒住杨自道的脖子并翻找其财物，该暴力行为直接导致杨自道身受重伤；随后情节描述杨自道浑身是血、捂着胸口返回住处，显示其伤势严重，构成前一情节的直接后果。文本中两个情节通过因果链连接：抢劫中的暴力行为导致受害者重伤返回，符合causes关系的定义。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_11bb2fd4dc45",
+    "subject_id": "ep_3ee0edffef94cfeb",
+    "object_id": "ep_de044ac5418657f0",
+    "relation_type": "precedes",
+    "reason": "情节'逼问存折密码并施加暴力'发生在抢劫过程中，而'制服劫匪并处理现场混乱'发生在抢劫之后，由工人制服劫匪并处理后续混乱。根据事件的时间顺序，前者在叙事上明确早于后者。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_df4b6e183539",
+    "subject_id": "ep_3ee0edffef94cfeb",
+    "object_id": "ep_f5c5bcc582c065cf",
+    "relation_type": "causes",
+    "reason": "逼问存折密码并施加暴力的情节中，矮个劫匪对杨自道实施勒颈和刀刺，直接导致其身受重伤；随后的情节描述杨自道浑身是血、捂着胸口返回住处，显示其伤势严重。文本中两个情节通过因果链连接：暴力行为直接引发重伤结果，且相关事件（如刀刺）在场景14中明确记录，支持该因果关系。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0f17e2819f8d",
+    "subject_id": "ep_95df1279d8c8ec32",
+    "object_id": "ep_de044ac5418657f0",
+    "relation_type": "precedes",
+    "reason": "劫匪与杨自道短暂互动与抱怨发生在抢劫过程中，杨自道在被勒颈后抱怨劫匪未遵守协议；而制服劫匪并处理现场混乱发生在抢劫之后，由工人制服劫匪并处理后续。根据事件顺序，前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b17bbc413857",
+    "subject_id": "ep_65fb5080c5c26b50",
+    "object_id": "ep_de044ac5418657f0",
+    "relation_type": "precedes",
+    "reason": "情节 '召集同伴并启动追逐行动' 描述了杨自道载着伊谷夏开始追逐劫匪，是追逐行动的准备阶段；而 '制服劫匪并处理现场混乱' 发生在抢劫之后，涉及劫匪被工人制服及后续现场处理。根据叙事逻辑，启动追逐行动必须在制服劫匪之前发生，因此该关系在时间顺序上明确支持 'precedes'。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9eb56effd51b",
+    "subject_id": "ep_1963fce6c5c5316e",
+    "object_id": "ep_de044ac5418657f0",
+    "relation_type": "precedes",
+    "reason": "情节'围堵劫匪并迫使其下车'描述了劫匪被逼至死角并持刀准备攻击，而'制服劫匪并处理现场混乱'则涉及工人制服劫匪和杨自道应对伤势与混乱，逻辑上前者为冲突升级，后者为冲突解决，且相关事件发生在后续场景(scene_48)，因此该关系在叙事顺序上明确支持前者早于后者。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_925438aeda37",
+    "subject_id": "ep_b343a27a1d73e66b",
+    "object_id": "ep_de044ac5418657f0",
+    "relation_type": "precedes",
+    "reason": "情节 '应对抢劫事件并启动追逐' 描述了杨自道目击抢劫并开始追逐劫匪的过程，包含事件如试图拦截摩的司机和催促伊谷夏上车。而情节 '制服劫匪并处理现场混乱' 发生在抢劫之后，描述工人制服劫匪和杨自道处理伤势与检查被抢包的后续行动。根据叙事顺序，追逐启动在先，制服劫匪和处理现场在后，因此前者在话语顺序上明确早于后者。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_070c542a12d2",
+    "subject_id": "ep_f58cdf4c7c1d4670",
+    "object_id": "ep_de044ac5418657f0",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，'应对劫匪转向人质的突袭'（劫匪扑向伊谷夏，杨自道被划伤）发生在抢劫过程中的冲突升级阶段，而'制服劫匪并处理现场混乱'描述的是在抢劫发生后对现场的控制和善后。related_events 中的 scene_46（前者）在编号上早于 scene_48（后者），表明前者在叙事顺序上先于后者。因此，该关系为'precedes'，且时间顺序明确。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_86357751447a",
+    "subject_id": "ep_b343a27a1d73e66b",
+    "object_id": "ep_f58cdf4c7c1d4670",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对抢劫事件并启动追逐'发生在劫匪转向人质之前，根据叙事顺序，杨自道先启动追逐，随后在后续场景中劫匪转而攻击伊谷夏，该时间顺序由各自related_events中的scene编号（scene_43 vs scene_46）支持。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e09a76230409",
+    "subject_id": "ep_b343a27a1d73e66b",
+    "object_id": "ep_4edb5f99b1677cfb",
+    "relation_type": "precedes",
+    "reason": "情节'应对抢劫事件并启动追逐'描述了杨自道目击抢劫、尝试拦截并开始驾车追逐劫匪的过程，而'击倒并制服劫匪'则是后续对劫匪的最终制服行动。根据叙事顺序，追逐启动在先，最终制服发生在后，且后者依赖于前者建立的追击情境。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_271b230e2996",
+    "subject_id": "ep_56839acfea091ed5",
+    "object_id": "ep_65fb5080c5c26b50",
+    "relation_type": "precedes",
+    "reason": "实施抢劫并搜取财物发生在杨自道返回出租车并召集同伴之前，根据叙事顺序，抢劫是触发后续追逐行动的前置事件，且两个情节在文档中按时间顺序先后出现。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9e674034e5bb",
+    "subject_id": "ep_b343a27a1d73e66b",
+    "object_id": "ep_1963fce6c5c5316e",
+    "relation_type": "precedes",
+    "reason": "情节'应对抢劫事件并启动追逐'描述了杨自道目击抢劫、尝试拦截并开始驾车追逐劫匪的过程，包含事件发生在scene_43；而'围堵劫匪并迫使其下车'发生在后续场景scene_46，明确显示前者在叙事顺序上早于后者。两个情节共享同一事件链和目标（拦截劫匪），构成连续的追逐过程。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dc30b2fbb384",
+    "subject_id": "ep_1963fce6c5c5316e",
+    "object_id": "ep_f587371555edabf6",
+    "relation_type": "precedes",
+    "reason": "围堵劫匪并迫使其下车发生在警察盘问之前，根据事件顺序，劫匪被逼至岸边后才引来警察注意并导致后续盘问，因此该情节在叙事时间上早于应对警察盘问并脱身离开现场。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4420d237e4e6",
+    "subject_id": "ep_b343a27a1d73e66b",
+    "object_id": "ep_4b1d3cc0757542e8",
+    "relation_type": "precedes",
+    "reason": "情节'应对抢劫事件并启动追逐'发生在杨自道目击抢劫并开始追逐劫匪的场景中，而'警车经过引发车内静默'描述的是劫匪在被追逐过程中于车内遭遇警车巡查的后续事件。根据叙事逻辑和事件流，追逐行为必须先于警车经过时的静默反应，因此前者在时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1b60378e48a0",
+    "subject_id": "ep_56839acfea091ed5",
+    "object_id": "ep_1963fce6c5c5316e",
+    "relation_type": "precedes",
+    "reason": "实施抢劫并搜取财物发生在杨自道被劫匪攻击并被搜身的过程中，而围堵劫匪并迫使其下车是后续的反击行动，根据叙事逻辑，抢劫行为在时间顺序上先于围堵和对峙。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7347f25846e1",
+    "subject_id": "ep_65fb5080c5c26b50",
+    "object_id": "ep_4edb5f99b1677cfb",
+    "relation_type": "precedes",
+    "reason": "‘召集同伴并启动追逐行动’描述了杨自道载着伊谷夏开始追逐劫匪，是行动的准备和启动阶段；而‘击倒并制服劫匪’是追逐后的最终对抗结果。根据叙事逻辑和事件顺序，启动追逐在时间上明确早于制服劫匪，且两情节通过共同目标（追捕劫匪）连接，支持precedes关系。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_729056eaf24c",
+    "subject_id": "ep_65fb5080c5c26b50",
+    "object_id": "ep_1963fce6c5c5316e",
+    "relation_type": "precedes",
+    "reason": "‘召集同伴并启动追逐行动’描述了杨自道载着伊谷夏开始追逐劫匪，是追逐的起点；而‘围堵劫匪并迫使其下车’发生在追逐之后，劫匪被逼至死角并持刀对峙，属于后续的收尾阶段。根据叙事顺序，启动追逐在前，围堵劫匪在后，因此前者在话语和事件流上明确早于后者。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dc0e637fc9a1",
+    "subject_id": "ep_65fb5080c5c26b50",
+    "object_id": "ep_f58cdf4c7c1d4670",
+    "relation_type": "precedes",
+    "reason": "情节 '召集同伴并启动追逐行动' 描述了杨自道载着伊谷夏开始追逐劫匪，是追逐行动的准备阶段；而 '应对劫匪转向人质的突袭' 发生在追逐后的冲突现场，涉及劫匪转而攻击伊谷夏并导致杨自道受伤反击。根据叙事顺序，启动追逐在前，突袭应对在后，且两个情节分别位于 scene_43 和 scene_46，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7263d1cbd56d",
+    "subject_id": "ep_4edb5f99b1677cfb",
+    "object_id": "ep_f587371555edabf6",
+    "relation_type": "precedes",
+    "reason": "击倒并制服劫匪发生在警察盘问之前，根据叙事顺序，制服劫匪后才出现警察审视和盘问的场景，因此该情节在时间上先于应对警察盘问并脱身离开现场。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_de009033f967",
+    "subject_id": "ep_3ee0edffef94cfeb",
+    "object_id": "ep_4edb5f99b1677cfb",
+    "relation_type": "precedes",
+    "reason": "逼问存折密码并施加暴力发生在杨自道被劫匪控制期间，而击倒并制服劫匪是其后续反抗行为，根据叙事逻辑和事件发展顺序，前者在时间上明确早于后者。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c2ef3e5bb9f0",
+    "subject_id": "ep_56839acfea091ed5",
+    "object_id": "ep_f587371555edabf6",
+    "relation_type": "precedes",
+    "reason": "实施抢劫并搜取财物发生在警察盘问之前，根据叙事顺序，抢劫完成后劫匪离开车辆，随后警察开始盘问，因此该关系在时间顺序上明确支持。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8500ab988872",
+    "subject_id": "ep_56839acfea091ed5",
+    "object_id": "ep_dda3ca7279bdb6dc",
+    "relation_type": "precedes",
+    "reason": "实施抢劫并搜取财物发生在劫匪发现警察接近之前，根据事件序列，抢劫行为（scene_14）在应对警察临检（scene_15）之前，具有明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fbdea389ad22",
+    "subject_id": "ep_56839acfea091ed5",
+    "object_id": "ep_4edb5f99b1677cfb",
+    "relation_type": "precedes",
+    "reason": "劫匪实施抢劫并搜取财物发生在杨自道击倒并制服劫匪之前，根据事件描述的逻辑顺序，抢劫行为触发了后续的反抗与制服过程，且两个情节分别由不同场景中的连续事件支持，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a8e9c7c124b2",
+    "subject_id": "ep_95df1279d8c8ec32",
+    "object_id": "ep_4edb5f99b1677cfb",
+    "relation_type": "precedes",
+    "reason": "根据描述，劫匪与杨自道的短暂互动发生在杨自道被勒颈后得以喘息并抱怨劫匪下手过重（scene_14），而击倒并制服劫匪的情节发生在后续场景（scene_46），明确显示前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fe6859c81461",
+    "subject_id": "ep_3ee0edffef94cfeb",
+    "object_id": "ep_dda3ca7279bdb6dc",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'逼问存折密码并施加暴力'（scene_14）发生在'应对警察临检并掩盖犯罪痕迹'（scene_15）之前。scene_14中的事件直接为scene_15中劫匪和杨自道掩盖犯罪行为提供上下文，且文档中scene编号递增，支持叙事顺序上的先后关系。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ae441510a740",
+    "subject_id": "ep_4b1d3cc0757542e8",
+    "object_id": "ep_4edb5f99b1677cfb",
+    "relation_type": "precedes",
+    "reason": "警车经过引发车内静默发生在杨自道与劫匪对峙的早期阶段，而击倒并制服劫匪是后续冲突的高潮和结局。根据叙事逻辑和事件发展顺序，静默对峙在时间上先于最终制服劫匪的动作，且两个情节均围绕杨自道与劫匪之间的紧张互动展开，共享同一短期目标脉络。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_670c79a7b627",
+    "subject_id": "ep_95df1279d8c8ec32",
+    "object_id": "ep_f587371555edabf6",
+    "relation_type": "precedes",
+    "reason": "劫匪与杨自道短暂互动与抱怨发生在警察盘问之前，根据事件序列，杨自道在被勒颈后抱怨劫匪下手过重（scene_14），随后才进入警察盘问场景（scene_15），因此该情节在叙事顺序上早于应对警察盘问并脱身离开现场。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8c577915a1bf",
+    "subject_id": "ep_4b1d3cc0757542e8",
+    "object_id": "ep_f587371555edabf6",
+    "relation_type": "precedes",
+    "reason": "警车经过引发车内静默发生在警察盘问之前，根据场景顺序，警车灯光和警笛导致劫匪与杨自道静默（scene_14），随后才是警察伊谷春用手电审视车内并进行盘问（scene_15），因此该情节在叙事顺序上早于应对警察盘问并脱身离开现场。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0ff5ec8bbabb",
+    "subject_id": "ep_219a3a52ad478c56",
+    "object_id": "ep_f88d0d45f1c70601",
+    "relation_type": "precedes",
+    "reason": "辛小丰决定取回小金鱼并启程前往金元岛发生在登陆之前，逻辑上启程是前往目的地的过程，而下船登陆是该行程的结束，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fd4c31d2441a",
+    "subject_id": "ep_95df1279d8c8ec32",
+    "object_id": "ep_dda3ca7279bdb6dc",
+    "relation_type": "precedes",
+    "reason": "主体情节描述杨自道在被勒颈后咳嗽并抱怨劫匪下手过重，该互动发生在劫匪收起绳子、藏匿武器及应对警察临检之前。客体情节包含警察接近、车辆检查等后续行动，且相关事件（如紧急刹车、警察下车）表明场景已推进到外部干预阶段，而主体情节仍处于劫持内部互动阶段。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_85a67c3482c5",
+    "subject_id": "ep_4b1d3cc0757542e8",
+    "object_id": "ep_dda3ca7279bdb6dc",
+    "relation_type": "precedes",
+    "reason": "警车经过引发车内静默（ep_4b1d3cc0757542e8）发生在劫匪和杨自道应对警察临检之前，根据相关事件的时间顺序，警车灯光和警笛出现后，车辆人员屏息静待，随后警察接近并进行检查，触发掩盖行为。因此，该情节在叙事顺序上直接早于应对警察临检并掩盖犯罪痕迹（ep_dda3ca7279bdb6dc）。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dff02787ccc9",
+    "subject_id": "ep_e279dd7e1c19f115",
+    "object_id": "ep_f88d0d45f1c70601",
+    "relation_type": "precedes",
+    "reason": "辛小丰乘船返回并携带空鱼缸（ep_e279dd7e1c19f115）在逻辑和叙事顺序上应发生在他下船登陆（ep_f88d0d45f1c70601）之前，因为必须先返回靠岸后才能下船。描述中‘船靠岸后’进一步支持登陆是返回后的下一步动作。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c4903d1cce26",
+    "subject_id": "ep_219a3a52ad478c56",
+    "object_id": "ep_e279dd7e1c19f115",
+    "relation_type": "precedes",
+    "reason": "辛小丰决定取回小金鱼并启程前往金元岛发生在先，随后他返回时携带空鱼缸，表明行程结束。叙事顺序上，启程在前，返回在后，时间逻辑清晰。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f1e924452aa9",
+    "subject_id": "ep_6ee27735075a064c",
+    "object_id": "ep_5cdbdc1f6eda5212",
+    "relation_type": "precedes",
+    "reason": "逃离现场（ep_6ee27735075a064c）发生在警车抵达现场之前，而处理抵达后的紧急安置（ep_5cdbdc1f6eda5212）以警车抵达为前提，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f47eb4c746f4",
+    "subject_id": "ep_494d5050c2dc7df5",
+    "object_id": "ep_e279dd7e1c19f115",
+    "relation_type": "precedes",
+    "reason": "主体情节描述辛小丰在电话中决定推迟处理问题并发现鱼缸中的鱼全部死亡，构成对突发家庭危机的应对；客体情节描述他乘船返回并携带空鱼缸，情绪低落。从叙事顺序看，发现鱼死亡（主体）在逻辑和时间上早于携带空鱼缸返回（客体），且空鱼缸可能是处理死亡鱼类的结果，因此主体情节在话语和事件流中先于客体情节。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fa29f446265e",
+    "subject_id": "ep_cebdf5d17c7fc159",
+    "object_id": "ep_e279dd7e1c19f115",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节涉及辛小丰交接鱼缸并承认鱼已死亡，表现出一次失败的交接和责任的缺失；第二个情节中辛小丰沉默地携带空鱼缸返回，情绪低落，暗示对同一事件的情感回应或后果。两个情节在叙事上通过鱼缸的状态（有鱼死亡 vs 空鱼缸）和人物情绪（辩解 vs 沉默失落）形成对比，强调状态或情感上的逆转。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5aefe19db7d7",
+    "subject_id": "ep_5cdbdc1f6eda5212",
+    "object_id": "ep_e44625d6f024d0fb",
+    "relation_type": "precedes",
+    "reason": "处理抵达后的紧急安置发生在警车抵达现场并组织洗澡的场景（scene_30），而处理湿透的辞职信发生在洗澡后的穿衣过程中（scene_31），文本中scene_30在scene_31之前，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_314e17486b4c",
+    "subject_id": "ep_6ee27735075a064c",
+    "object_id": "ep_757fa07c8a555275",
+    "relation_type": "precedes",
+    "reason": "‘逃离现场’描述的是辛小丰等人在紧急状态下仓皇逃跑的事件，而‘处理后续并讨论职业去向’发生在支援警力到达并押解嫌犯之后，且涉及行动结束后的反思与对话。根据叙事顺序，逃跑事件在时间上明显早于后续处理与讨论，因此‘逃离现场’在话语顺序上先于‘处理后续并讨论职业去向’。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cfc78df45e75",
+    "subject_id": "ep_3c0a1e14e8dc5654",
+    "object_id": "ep_e44625d6f024d0fb",
+    "relation_type": "precedes",
+    "reason": "主体情节'处理突发情绪与请假冲突'发生在辛小丰试图请假并隐瞒辞职信的场景（scene_28），而客体情节'处理湿透的辞职信'发生在其后（scene_31），其中辞职信被发现并丢弃。根据相关事件的时间顺序，前者在叙事上明确早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_37b3f5e4db24",
+    "subject_id": "ep_db1578b23285f3c5",
+    "object_id": "ep_e44625d6f024d0fb",
+    "relation_type": "precedes",
+    "reason": "主体情节'面对职业离别的内心挣扎'描述辛小丰手持辞职信并流露不舍，发生在其仍持有辞职信的阶段；客体情节'处理湿透的辞职信'涉及发现并扔掉辞职信，是辞职决定的最终行动。根据叙事逻辑，情感挣扎发生在实际处理辞职信之前，且相关事件在scene_27和scene_31中按时间顺序排列，支持该顺序。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8b094f532a93",
+    "subject_id": "ep_757fa07c8a555275",
+    "object_id": "ep_e44625d6f024d0fb",
+    "relation_type": "precedes",
+    "reason": "情节 '处理后续并讨论职业去向' 中辛小丰透露正打算辞职，而后续情节 '处理湿透的辞职信' 展示他发现并扔掉湿透的辞职信，表明这是辞职意图的后续行动。叙事上，讨论辞职意图发生在实际处理辞职信之前，时间顺序明确。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1e1844731012",
+    "subject_id": "ep_21b360192f698be5",
+    "object_id": "ep_e44625d6f024d0fb",
+    "relation_type": "precedes",
+    "reason": "情节'讨论直觉与辞职的可能'发生在辛小丰和杨自道泡脚的场合中，涉及对是否辞职的讨论和建议，而'处理湿透的辞职信'则涉及辛小丰实际发现并丢弃已写的辞职信，表明决策的最终行动。根据叙事逻辑，讨论辞职的直觉和建议发生在实际处理辞职信之前，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6e10fccaaf04",
+    "subject_id": "ep_db1578b23285f3c5",
+    "object_id": "ep_3c0a1e14e8dc5654",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间戳，'面对职业离别的内心挣扎'中的事件（scene_27）发生在'处理突发情绪与请假冲突'中的事件（scene_28）之前，因此该情节在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a937510654a3",
+    "subject_id": "ep_707ef2764a38268d",
+    "object_id": "ep_db1578b23285f3c5",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中辛小丰对职业选择的犹豫为第二个情节中他辞职时的内心挣扎提供了情感和心理背景，表明其职业困惑具有持续性，第二个情节进一步深化了这一主题。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e5ab782af1e6",
+    "subject_id": "ep_3b9e1c2ef9a7421b",
+    "object_id": "ep_db1578b23285f3c5",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节中，伊谷春强化纪律要求，试图稳固辛小丰的警察身份，体现组织权威与职业约束；第二个情节中，辛小丰最终决定辞职，流露出情感挣扎，体现个体与职业的疏离。两者在职业归属的强制维系与自愿终结之间形成情感与叙事上的对比。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_62878a000c9d",
+    "subject_id": "ep_21b360192f698be5",
+    "object_id": "ep_db1578b23285f3c5",
+    "relation_type": "precedes",
+    "reason": "情节 '讨论直觉与辞职的可能' 发生在辛小丰和杨自道泡脚的场合中，涉及对是否辞职的建议；而 '面对职业离别的内心挣扎' 描述辛小丰手持辞职信、目睹同事出警时的不舍，表明已进入辞职执行阶段。叙事上，讨论辞职先于实际面临离职情感冲突，时间顺序明确。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c7be2509423c",
+    "subject_id": "ep_757fa07c8a555275",
+    "object_id": "ep_db1578b23285f3c5",
+    "relation_type": "precedes",
+    "reason": "情节 '处理后续并讨论职业去向' 发生在辛小丰仍担任协警并计划辞职的阶段，而 '面对职业离别的内心挣扎' 描绘了他手持辞职信、目睹同事出警时的情感冲突，时间上紧随其前情节之后。根据叙事顺序，讨论辞职意图在先，展现辞职时的情感挣扎在后，因此前者在话语顺序上明确早于后者。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aa601e253b57",
+    "subject_id": "ep_219a3a52ad478c56",
+    "object_id": "ep_533d313e51c75dc5",
+    "relation_type": "precedes",
+    "reason": "辛小丰决定取回小金鱼并启程前往金元岛发生在登上海上鱼排屋之前，叙事顺序上明确先有启程决定，后有抵达鱼排屋的行动。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_93b05e738de0",
+    "subject_id": "ep_501fdc18a5c3d414",
+    "object_id": "ep_fc2fea0cf084e228",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述发现少女尸体并揭示其被辛小丰性侵致死，而客体情节通过伊谷春与辛小丰的对话深入揭示宿安水库案的细节，包括辛小丰丢弃吊坠的行为和案件的心理对峙。客体情节扩展了主体情节中未充分展开的调查背景和心理动态，尤其是通过闪回和审讯式对话对性侵与死亡关联的进一步说明，构成对主体情节的细节补充和背景深化。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0dd029c3fc3c",
+    "subject_id": "ep_494d5050c2dc7df5",
+    "object_id": "ep_cebdf5d17c7fc159",
+    "relation_type": "precedes",
+    "reason": "主体情节'处理突发家庭危机'中，辛小丰在家中发现鱼缸中的鱼全部死亡，这一事件发生在将鱼缸交接给伊谷春之前。客体情节'交接鱼缸并确认鱼的状况'描述了辛小丰在车上向伊谷春交接鱼缸并承认鱼已死亡，构成后续的叙事顺序。因此，主体情节在叙事时间上直接早于客体情节。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fa1cb8ef5722",
+    "subject_id": "ep_edae44b13ba231da",
+    "object_id": "ep_ffb122a67d3de84e",
+    "relation_type": "precedes",
+    "reason": "情节'制服持械歹徒并控制现场'发生在盘问可疑人员之前，而'揭露隐藏同伙并引发追捕'始于盘问过程中的发现，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0a3cc30a2820",
+    "subject_id": "ep_edae44b13ba231da",
+    "object_id": "ep_757fa07c8a555275",
+    "relation_type": "precedes",
+    "reason": "制服持械歹徒并控制现场发生在支援警力到达之前，而处理后续并讨论职业去向明确发生在支援警力到达之后，因此前者在叙事时间顺序上早于后者。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_04928f6a7c3a",
+    "subject_id": "ep_3c0a1e14e8dc5654",
+    "object_id": "ep_219a3a52ad478c56",
+    "relation_type": "precedes",
+    "reason": "处理突发情绪与请假冲突发生在辛小丰决定取回小金鱼并启程前往金元岛之前。根据描述，辛小丰在与伊谷春对话前已因请假被拒和情绪压力产生内心挣扎，而决定前往金元岛是在与伊谷春对话后发生的行动，表明前者在叙事时间线上早于后者。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a015aa5ba13f",
+    "subject_id": "ep_3c0a1e14e8dc5654",
+    "object_id": "ep_ffb122a67d3de84e",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'处理突发情绪与请假冲突' 发生在 scene_28，而 '揭露隐藏同伙并引发追捕' 发生在 scene_29，scene_28 在叙事顺序上早于 scene_29，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ea9daae04d4a",
+    "subject_id": "ep_21b360192f698be5",
+    "object_id": "ep_3c0a1e14e8dc5654",
+    "relation_type": "precedes",
+    "reason": "情节 '讨论直觉与辞职的可能' 发生在辛小丰和杨自道泡脚的场合中（scene_25），而 '处理突发情绪与请假冲突' 发生在 scene_28，包含伊谷春摔文件和辛小丰试图请假等事件。scene_25 在叙事顺序上早于 scene_28，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_969b5d030eb5",
+    "subject_id": "ep_21b360192f698be5",
+    "object_id": "ep_3b9e1c2ef9a7421b",
+    "relation_type": "precedes",
+    "reason": "情节 '讨论直觉与辞职的可能' 发生在辛小丰和杨自道泡脚的放松场合中，而 '处理街头争执并下达纪律要求' 涉及伊谷春对辛小丰提出一年内不得辞职的要求，表明后者在叙事时间线上紧随前者之后，且辞职话题的延续支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9691ca421361",
+    "subject_id": "ep_219a3a52ad478c56",
+    "object_id": "ep_cebdf5d17c7fc159",
+    "relation_type": "precedes",
+    "reason": "辛小丰决定取回小金鱼并启程前往金元岛发生在交接鱼缸并确认鱼的状况之前，因为只有在行程结束后才会出现鱼已死亡且未妥善交接的情况。叙事顺序和事件逻辑支持这一时间先后关系。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7c6979841612",
+    "subject_id": "ep_1a4f12196fbfb387",
+    "object_id": "ep_9e7ef33b3e6429de",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中辛小丰在与伊谷春互动时表现出紧张与警惕，暗示了他对姓伊之人的敏感；第二个情节中辛小丰明确表达对姓伊之人的担忧，认为其胆大且枪法精准。因此，第二个情节通过揭示辛小丰对姓伊之人的深层忧虑，扩展并解释了第一个情节中其情绪反应的背景，构成 elaborates 关系。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_c63d32b6e748",
+    "subject_id": "ep_1a4f12196fbfb387",
+    "object_id": "ep_219a3a52ad478c56",
+    "relation_type": "precedes",
+    "reason": "辛小丰在伊谷春到任时掩饰情绪并应对盘问的情节发生在与伊谷春对话后决定前往金元岛之前，文本中两个情节通过角色互动和时间顺序呈现，前者为初次见面场景，后者为后续对话引发的行动，叙事顺序明确。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0a756ebf672e",
+    "subject_id": "ep_219a3a52ad478c56",
+    "object_id": "ep_c437068eeedb484d",
+    "relation_type": "precedes",
+    "reason": "辛小丰决定取回小金鱼并启程前往金元岛发生在行车中突发险情之前，根据叙事顺序，启程是行车事件的前提，且相关事件链显示对话与出发先于驾驶中的紧急刹车和怀疑升级。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_197c99a7be2b",
+    "subject_id": "ep_ffb122a67d3de84e",
+    "object_id": "ep_5cdbdc1f6eda5212",
+    "relation_type": "precedes",
+    "reason": "情节 '揭露隐藏同伙并引发追捕' 发生在警车抵达前的现场盘问与追捕过程中（scene_29），而 '处理抵达后的紧急安置' 发生在警车抵达现场后（scene_30），根据场景编号的顺序和事件流，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f98f807a07d6",
+    "subject_id": "ep_21b360192f698be5",
+    "object_id": "ep_757fa07c8a555275",
+    "relation_type": "elaborates",
+    "reason": "情节 '讨论直觉与辞职的可能' 中，辛小丰表达对直觉的关注并讨论辞职想法；而在 '处理后续并讨论职业去向' 中，辛小丰明确透露正打算辞职，并深入讨论其对协警工作的态度。后者提供了关于前者中提及的辞职意向的进一步背景和具体化，构成对前一情节的扩展说明。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ea8164e93ec4",
+    "subject_id": "ep_6a0b766a6d2cb0d5",
+    "object_id": "ep_757fa07c8a555275",
+    "relation_type": "precedes",
+    "reason": "陈比觉受伤与辛小丰离开发生在辛小丰与伊谷春处理后续并讨论职业去向之前。根据描述，前者是现场突发事件导致辛小丰情绪崩溃离开，后者则是在支援警力到达后，在警车上进行的后续对话，叙事顺序明确。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_94495d1c074e",
+    "subject_id": "ep_6cab661acbda0675",
+    "object_id": "ep_ffb122a67d3de84e",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述在巡逻中盘查出租车并制服嫌犯，事件发生在 scene_22；第二个情节描述在盘问过程中发现隐藏同伙并引发追捕，事件发生在 scene_29。scene_22 在叙事顺序上早于 scene_29，且第二个情节以‘在盘问过程中’承接前一情节的后续发展，表明时间上的先后顺序。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7b59fe52014e",
+    "subject_id": "ep_9630620cc720c4c8",
+    "object_id": "ep_c437068eeedb484d",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述辛小丰因分心被烟烫伤并捻灭香烟的下意识反应，反映其心理压力；客体情节中，伊谷春观察到辛小丰捻灭烟灰的动作，并联想到案发阁楼的指纹线索及初次见面时的相同动作，从而建立怀疑。客体情节通过提供更广泛的上下文和观察后果，扩展并深化了主体情节中行为的意义，构成对同一行为模式的进一步阐释。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4600a724ef7d",
+    "subject_id": "ep_6a0b766a6d2cb0d5",
+    "object_id": "ep_85023b6b4040d782",
+    "relation_type": "elaborates",
+    "reason": "陈比觉受伤与辛小丰离开这一情节中，陈比觉因树枝扎伤右眼导致视力受损；后续陈比觉观察鱼并显现视力问题的情节通过其异常行为进一步展示该伤害的后果，提供了关于其身体状态的额外细节，从而扩展了前一情节的影响。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_f52d22515a5e",
+    "subject_id": "ep_d6d732145069c683",
+    "object_id": "ep_3b9e1c2ef9a7421b",
+    "relation_type": "precedes",
+    "reason": "伊谷春初次到任并建立权威发生在其与辛小丰处理街头争执并下达纪律要求之前，根据叙事逻辑和角色关系发展，新警长到任是后续执法互动和权威行使的前提，时间顺序明确。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2fbe73c9ef38",
+    "subject_id": "ep_4218f59a3def7a3b",
+    "object_id": "ep_83c5fbd5bd6df97d",
+    "relation_type": "elaborates",
+    "reason": "实体 #1 描述伊谷春对辛小丰前往金元岛取小金鱼的行为表示怀疑并陷入沉思，而实体 #2 进一步展示了他观察辛小丰乘船后，内心推演其与案件关联并因想法发笑的具体心理过程。这表明实体 #2 在细节和心理层面上扩展了实体 #1 中的沉思内容，构成对前者的深化和具体化。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2a00c6f36827",
+    "subject_id": "ep_29310638490f8898",
+    "object_id": "ep_83c5fbd5bd6df97d",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中伊谷春提及宿安水库强奸杀人案并引发辛小丰的情绪反应，为第二个情节中伊谷春观察辛小丰行踪并反思其与案件关联提供了背景和动机。第二个情节扩展了第一个情节中建立的怀疑线索，进一步展现伊谷春对辛小丰涉案可能性的心理推演，因此构成对前一情节的深化和细节补充。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_79d2ae54fcfb",
+    "subject_id": "ep_c437068eeedb484d",
+    "object_id": "ep_83c5fbd5bd6df97d",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，行车中突发险情（ep_c437068eeedb484d）发生在伊谷春观察辛小丰乘船并开始反思其与案件关联（ep_83c5fbd5bd6df97d）之前。前者中伊谷春初次因捻烟动作产生怀疑，后者则是进一步的心理推演和反思，叙事顺序上前者直接早于后者。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6406d7f80b04",
+    "subject_id": "ep_83c5fbd5bd6df97d",
+    "object_id": "ep_fc2fea0cf084e228",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述伊谷春开始怀疑辛小丰与宿安案的关联，并在心理上推演这一可能性；客体情节则通过伊谷春向辛小丰详细叙述案件细节和关键物证（如吊坠），进一步揭示案件全貌并深化两人之间的心理对峙。客体情节提供了主体情节中所萌生怀疑的具体内容和背景，从而扩展和充实了前者所启动的推理过程，符合‘elaborates’关系的定义。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7844e6dfb24d",
+    "subject_id": "ep_21b45c1cfcaba797",
+    "object_id": "ep_917920516e058fc2",
+    "relation_type": "precedes",
+    "reason": "鸣枪控制嫌犯并救援被困同事发生在组织后续夜宵活动之前，救援完成后才安排洗澡和夜宵，叙事顺序明确。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2cd215c675ba",
+    "subject_id": "ep_4218f59a3def7a3b",
+    "object_id": "ep_c437068eeedb484d",
+    "relation_type": "precedes",
+    "reason": "伊谷春质疑辛小丰的行动并陷入沉思发生在行车中突发险情之前，根据叙事顺序，前者在辛小丰前往金元岛后、行车事件发生前，构成明确的时间先后关系。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_21becc3d8c6c",
+    "subject_id": "ep_4218f59a3def7a3b",
+    "object_id": "ep_cebdf5d17c7fc159",
+    "relation_type": "precedes",
+    "reason": "伊谷春质疑辛小丰的行动并陷入沉思发生在辛小丰取回鱼缸之后、交接之前，叙事上早于交接鱼缸并确认鱼的状况这一情节。根据事件链条，辛小丰前往金元岛取鱼的行为引发伊谷春的怀疑，随后才发生鱼缸交接和鱼已死亡的揭示，因此该顺序在叙事逻辑中明确。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a5c11f2556ad",
+    "subject_id": "ep_4218f59a3def7a3b",
+    "object_id": "ep_fc2fea0cf084e228",
+    "relation_type": "elaborates",
+    "reason": "伊谷春质疑辛小丰的行动并陷入沉思这一情节，通过后续在行车途中深入揭示宿安水库案细节并强化心理对峙，获得了进一步的背景和动机解释。后者通过提供伊谷春对案件的详细重构和心理施压行为，扩展了前者中伊谷春产生怀疑的依据和思考内容，表明其沉思的具体指向。因此，客体情节为前者的怀疑提供了实质性的信息展开，构成 elaborates 关系。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_17df1a7984d2",
+    "subject_id": "ep_d6d732145069c683",
+    "object_id": "ep_6cab661acbda0675",
+    "relation_type": "precedes",
+    "reason": "伊谷春初次到任并建立权威发生在其参与盘查可疑出租车并制服嫌犯之前，时间顺序上明确，前者为新警长到岗的初始场景，后者为后续巡逻中发生的执法行动，叙事顺序支持该关系。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dbe1d99b7016",
+    "subject_id": "ep_d6d732145069c683",
+    "object_id": "ep_707ef2764a38268d",
+    "relation_type": "precedes",
+    "reason": "伊谷春初次到任并建立权威发生在警局场景（scene_19），而途中交谈引发职业反思发生在驾车巡逻初期（scene_22），根据场景编号的顺序，前者在叙事时间上早于后者，且为后续互动提供了上下文。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_333e50d75654",
+    "subject_id": "ep_b5c1e3766406ae00",
+    "object_id": "ep_6cab661acbda0675",
+    "relation_type": "precedes",
+    "reason": "伊谷春起疑并追查可疑车辆发生在盘查可疑出租车并制服嫌犯之前，前者因追查未果而放弃，后者是后续成功拦截和处置的事件，叙事顺序上存在明确先后关系。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_01281051e2be",
+    "subject_id": "ep_8d495580626761d6",
+    "object_id": "ep_ec45421a3e433b62",
+    "relation_type": "precedes",
+    "reason": "杨自道逃离现场导致追赶失败发生在伊谷夏向伊谷春求助之前，根据事件顺序，伊谷夏在未能追上杨自道后才打电话报告事件，因此该情节在叙事时间上先于处理妹妹的紧急求助。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ac4de92dbc07",
+    "subject_id": "ep_219a3a52ad478c56",
+    "object_id": "ep_4218f59a3def7a3b",
+    "relation_type": "precedes",
+    "reason": "辛小丰决定取回小金鱼并启程前往金元岛发生在伊谷春质疑其行动并陷入沉思之前，因为伊谷春的质疑是在辛小丰离开后触发的，描述中明确指出该沉思行为发生在主体行动之后。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a775a8d4b2fd",
+    "subject_id": "ep_c9f571bfe2384f55",
+    "object_id": "ep_ec45421a3e433b62",
+    "relation_type": "precedes",
+    "reason": "伊谷夏在找回被抢的包并发现杨自道受伤后，紧接着打电话向伊谷春求助。根据事件顺序，'确认财物并发现伤情'在'处理妹妹的紧急求助'之前发生，且后者依赖于前者提供的信息，因此存在明确的叙事先后关系。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a3b44b3e7e8d",
+    "subject_id": "ep_59dd49218c55a3e9",
+    "object_id": "ep_8d495580626761d6",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件流，伊谷夏呼救并引导工人介入（doc_42）发生在杨自道逃离现场导致追赶失败（doc_44）之前，且两个情节分别位于scene_46和scene_48，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1ff79eb0b394",
+    "subject_id": "ep_a1734df7ba75fe46",
+    "object_id": "ep_dc42177ef2af6c4a",
+    "relation_type": "contrasts_with",
+    "reason": "杨自道在海边清洗出租车展现的是一个静谧、日常的个人生活片段，而紧急运送孕妇到医院则是一个紧张、目标明确的救援行动。两者在叙事基调和情境紧迫性上形成明显对比，一个强调平静的日常，另一个强调生死攸关的紧急事件，构成对比关系。",
+    "source_documents": [
+      "scene_7__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6a3bc8c975e7",
+    "subject_id": "ep_65fb5080c5c26b50",
+    "object_id": "ep_59dd49218c55a3e9",
+    "relation_type": "precedes",
+    "reason": "‘召集同伴并启动追逐行动’发生在杨自道载着伊谷夏开始追逐劫匪的场景（scene_43），而‘呼救并引导工人介入’发生在后续的冲突现场（scene_46），根据文档中场景编号的顺序，前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_44d085a9bc0f",
+    "subject_id": "ep_b343a27a1d73e66b",
+    "object_id": "ep_c9f571bfe2384f55",
+    "relation_type": "precedes",
+    "reason": "情节 '应对抢劫事件并启动追逐' 发生在抢劫现场，包含杨自道试图拦截劫匪和开始追逐的事件，而 '确认财物并发现伤情' 发生在找回包之后，并揭示杨自道在先前冲突中受伤。相关事件的时间顺序（scene_43 在 scene_48 之前）支持该叙事顺序。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6f146b51f9e7",
+    "subject_id": "ep_1963fce6c5c5316e",
+    "object_id": "ep_59dd49218c55a3e9",
+    "relation_type": "causes",
+    "reason": "围堵劫匪并迫使其下车导致局势紧张升级，促使伊谷夏呼救并引导工人介入，文本中两情节发生在同一场景（scene_46），且呼救行为是对劫匪持刀攻击准备的直接反应，具有明确的因果时序和上下文支持。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bd5971b0fdd6",
+    "subject_id": "ep_65fb5080c5c26b50",
+    "object_id": "ep_c9f571bfe2384f55",
+    "relation_type": "precedes",
+    "reason": "情节 '召集同伴并启动追逐行动' 描述了追逐行动的开始，涉及杨自道载着伊谷夏出发追赶劫匪，而情节 '确认财物并发现伤情' 发生在找回被抢包并发现杨自道受伤之后。根据事件顺序，追逐行动的启动必须在找回财物和发现伤情之前发生，因此该关系在叙事时间线上明确为前序。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e864622d7434",
+    "subject_id": "ep_219a3a52ad478c56",
+    "object_id": "ep_83c5fbd5bd6df97d",
+    "relation_type": "precedes",
+    "reason": "辛小丰决定取回小金鱼并启程前往金元岛（ep_219a3a52ad478c56）在叙事顺序上先于伊谷春观察并反思其行踪与案件关联（ep_83c5fbd5bd6df97d），因为伊谷春的观察行为明确基于辛小丰乘船前往金元岛这一已发生的动作，且相关事件（scene_35）在描述中紧随其后。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ec0ebadd2f91",
+    "subject_id": "ep_59dd49218c55a3e9",
+    "object_id": "ep_c9f571bfe2384f55",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，伊谷夏在冲突中呼救并引导工人介入（ep_59dd49218c55a3e9）发生在她找回被抢的包并发现杨自道受伤之前（ep_c9f571bfe2384f55），相关事件分别位于scene_46和scene_48，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e73eb0813b1a",
+    "subject_id": "ep_59dd49218c55a3e9",
+    "object_id": "ep_f58cdf4c7c1d4670",
+    "relation_type": "precedes",
+    "reason": "根据描述，伊谷夏呼救并引导工人介入发生在劫匪转向人质突袭之前，因为工人介入后冲突区域已被包围，表明外部干预已发生，而劫匪的突袭是此前冲突的升级。因此，'呼救并引导工人介入'在叙事顺序上早于'应对劫匪转向人质的突袭'。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7b0ba4d9c404",
+    "subject_id": "ep_b343a27a1d73e66b",
+    "object_id": "ep_59dd49218c55a3e9",
+    "relation_type": "precedes",
+    "reason": "情节'应对抢劫事件并启动追逐'发生在杨自道目击抢劫并开始行动的场景（scene_43），而'呼救并引导工人介入'发生在后续的冲突中，涉及伊谷夏呼救并引导工人（scene_46）。scene_43在文档时序上早于scene_46，且前者为追逐的开始，后者为冲突升级后的干预，具有明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  }
+]

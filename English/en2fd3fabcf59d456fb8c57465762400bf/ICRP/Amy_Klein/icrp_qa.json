@@ -1,0 +1,65 @@
+{
+  "character": "Amy_Klein",
+  "qas": [
+    {
+      "question": "What did you do with the Puzzle Box, and where was your focus afterward?",
+      "supporting_facts": [
+        "you retrieved the Puzzle Box from your pack",
+        "you are focusing your attention on the puzzle box"
+      ],
+      "contradicting_facts": [
+        "you did not retrieve the Puzzle Box from your pack",
+        "your attention was not on the puzzle box"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were hesitant at some point—did you ultimately decide to keep moving forward?",
+      "supporting_facts": [
+        "Amy did not refuse to move forward after hesitation",
+        "Amy attempted to reach the front of the train"
+      ],
+      "contradicting_facts": [
+        "You stopped moving and refused to go forward after hesitating",
+        "You abandoned your attempt to reach the front of the train"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You heard a train and a phone call—did you pay attention to both?",
+      "supporting_facts": [
+        "you did not ignore the sound of the train",
+        "you did not ignore the phone call"
+      ],
+      "contradicting_facts": [
+        "you ignored the sound of the train",
+        "you ignored the phone call"
+      ],
+      "final_score": 7.777777777777779
+    },
+    {
+      "question": "You tried to look back—what prevented you from completing that movement?",
+      "supporting_facts": [
+        "You looked back toward the direction from which you came",
+        "You did not successfully turn your head"
+      ],
+      "contradicting_facts": [
+        "You fully turned your head without difficulty",
+        "You chose not to look back at all"
+      ],
+      "final_score": 7.222222222222222
+    },
+    {
+      "question": "Did you take time to assess your surroundings before acting in the restricted area?",
+      "supporting_facts": [
+        "Amy did not fail to secure time in the restricted area",
+        "Amy leaned forward and sniffed near the door as a deliberate sensory check"
+      ],
+      "contradicting_facts": [
+        "You acted immediately without pausing to observe",
+        "You had no opportunity to gather sensory information"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

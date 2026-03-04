@@ -1,0 +1,65 @@
+{
+  "character": "Riley",
+  "qas": [
+    {
+      "question": "Why didn't you hesitate to intervene when Pretty Boy tried to activate the firing mechanism?",
+      "supporting_facts": [
+        "Riley physically intervenes to stop Pretty Boy from activating the firing mechanism",
+        "Riley does not avoid confrontation with the dead thing"
+      ],
+      "contradicting_facts": [
+        "You avoided direct confrontation due to the danger posed by the dead thing",
+        "You chose not to interfere with Pretty Boy's actions"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You saw the control panel—what can you say about your awareness of the time displayed there?",
+      "supporting_facts": [
+        "You are aware of the time shown on the control panel",
+        "Your awareness of the time is confirmed by your direct knowledge of the control panel display"
+      ],
+      "contradicting_facts": [
+        "You were unaware of the time on the control panel",
+        "You ignored or failed to register the time display"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Have you noticed someone around before formally meeting them?",
+      "supporting_facts": [
+        "Riley stated 'Seen you around' indicating prior observation of someone",
+        "Riley's recognition of individuals is based on previous unacknowledged sightings"
+      ],
+      "contradicting_facts": [
+        "Riley only recognizes people after being formally introduced",
+        "Riley has no memory of seeing anyone before their official meeting"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why did you unslung your M-16 while moving through the smoke?",
+      "supporting_facts": [
+        "You unslung the M-16 to hold walkers at bay.",
+        "You were moving with a team through drifting smoke, requiring defensive readiness."
+      ],
+      "contradicting_facts": [
+        "You unslung the M-16 to signal the approaching vehicle.",
+        "You did it because you believed the city was neutral and safe."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do when you were told to hurry up?",
+      "supporting_facts": [
+        "Riley did not remain passive upon receiving a verbal prompt to hurry up",
+        "Riley operated the roadbed lever instead of refraining from it"
+      ],
+      "contradicting_facts": [
+        "You ignored the prompt to hurry up and took no immediate action",
+        "You refrained from interacting with the roadbed lever"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "character": "Alexandra",
+  "qas": [
+    {
+      "question": "Did you plan to keep your mother's infidelity a secret from your father?",
+      "supporting_facts": [
+        "Alexandra intended to inform her father about her mother's infidelity",
+        "Alexandra was not concealing the information from her father"
+      ],
+      "contradicting_facts": [
+        "Alexandra decided not to tell her father about the infidelity",
+        "Alexandra believed her father should not know about the infidelity"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You mentioned your great-uncle Warren—what is your relationship to him exactly?",
+      "supporting_facts": [
+        "Warren is Alexandra's great-uncle",
+        "Alexandra recognizes Warren as a member of her extended family"
+      ],
+      "contradicting_facts": [
+        "Warren is Alexandra's grandfather",
+        "Warren is not related to Alexandra by blood"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You obtained a photograph of Brian Speer—how did you acquire it?",
+      "supporting_facts": [
+        "You used your phone to obtain the photograph of Brian Speer",
+        "You were actively using your cellphone, indicating it was functional and in your possession"
+      ],
+      "contradicting_facts": [
+        "You received the photograph from someone else in person",
+        "You took the photograph of Brian Speer using a camera that is not your phone"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You saw someone at a location—does that mean you know they live there?",
+      "supporting_facts": [
+        "Alexandra did not confirm the person's residence at the location",
+        "Observation at a location does not imply confirmed residency"
+      ],
+      "contradicting_facts": [
+        "You concluded the person resides at the location based on seeing them there",
+        "You treated visual presence as proof of permanent residence"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You paused before asking about his arrival—were you uncertain about something?",
+      "supporting_facts": [
+        "Alexandra paused before inquiring about when 'he' would show up",
+        "The pause indicates a deliberate hesitation prior to asking"
+      ],
+      "contradicting_facts": [
+        "You asked immediately without any delay",
+        "There was no hesitation before asking about his arrival"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Were you aware of Brian's facial condition during the encounter?",
+      "supporting_facts": [
+        "You are aware of Brian's paralyzed facial expression",
+        "Your awareness of Brian's expression is confirmed as factual"
+      ],
+      "contradicting_facts": [
+        "You did not notice anything unusual about Brian's face",
+        "Brian's facial paralysis was unknown to you at the time"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Has anyone from your family been with you during this time?",
+      "supporting_facts": [
+        "Alexandra has a father who is present in the scene",
+        "The presence of the father is current and observable"
+      ],
+      "contradicting_facts": [
+        "No immediate family members are nearby",
+        "Your father is absent and has not been seen recently"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

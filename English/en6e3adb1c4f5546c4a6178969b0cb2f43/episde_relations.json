@@ -1,0 +1,2411 @@
+[
+  {
+    "id": "rel_ep_ep_8ff38314604c",
+    "subject_id": "ep_0e4a3dd6b2b3a1ba",
+    "object_id": "ep_59a771d2a7a5bed0",
+    "relation_type": "causes",
+    "reason": "The incision episode directly enables the ignition episode, as the text states the ignition occurs 'following the incision' and involves applying fluid inside the opened abdominal cavity, indicating a direct causal sequence where the incision is necessary for the internal ignition.",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4b7acf3fe497",
+    "subject_id": "ep_3d697b2f6c8abb53",
+    "object_id": "ep_b0d81d18afa79133",
+    "relation_type": "precedes",
+    "reason": "The confrontation where Mrs. Wheatley shows Tudor the blood and he rejects help occurs before she later discovers him incapacitated on the floor, as evidenced by the sequence of events in scene_16: Tudor's refusal happens first, followed by his unresponsiveness and subsequent discovery.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_dffba7ed4ba6",
+    "subject_id": "ep_04355cd2cc00747d",
+    "object_id": "ep_352a26a6561af27c",
+    "relation_type": "precedes",
+    "reason": "The abdominal examination (palpation and percussion) logically and chronologically precedes the discussion of surgical concerns, as the physical exam provides the clinical basis for Parkins' subsequent anxiety about surgery, and both occur in the same scene (scene_27) with a clear narrative progression from physical assessment to emotional reaction.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8929d5dd6b73",
+    "subject_id": "ep_04355cd2cc00747d",
+    "object_id": "ep_31ff6d72d3b672bf",
+    "relation_type": "precedes",
+    "reason": "The abdominal examination (palpation and percussion) occurs before St. Luc questions Parkins about the origin of the lumps, as the physical findings prompt the subsequent inquiry. Both episodes are grounded in scene_27 and the diagnostic progression follows a logical clinical sequence: examination first, then investigation of origin.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ade3663ffa05",
+    "subject_id": "ep_16c08b599d1cfcf7",
+    "object_id": "ep_22d55c2ac23a4a6d",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Forsythe inviting St. Luc to supper and securing his conditional acceptance, with events occurring while she is present. The second episode begins after Forsythe departs, with St. Luc reflecting and resuming work. The narrative sequence clearly indicates that the invitation and negotiation occur before St. Luc's post-interaction actions, establishing a direct temporal order.",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_efd65bc9170a",
+    "subject_id": "ep_8a2592dc9a2f7054",
+    "object_id": "ep_8d5ff8b2d20838df",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to Kresimir's arrival' involves Forsythe answering the door after Kresimir knocks, which directly precedes the object episode 'Confront Kresimir's escalating threat' where Kresimir's behavior worsens and he forces his way in. The sequence of related events in the same scene (scene_50) supports a clear temporal order.",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f9c987d18a63",
+    "subject_id": "ep_0faf0429c0df1033",
+    "object_id": "ep_7b61a95f7a67b9dd",
+    "relation_type": "precedes",
+    "reason": "The 'Sit down for silent breakfast' episode occurs before the 'Exchange tense dialogue about work' episode within scene_7, as the nonverbal routine of sitting and eating establishes the context prior to Janine initiating the conversation about calling Nicholas at the office. The sequence of related events in the same scene supports a clear narrative order.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3de5c1059134",
+    "subject_id": "ep_1fb25915acfe82ca",
+    "object_id": "ep_84efc8d0b666272f",
+    "relation_type": "precedes",
+    "reason": "The 'Engage in Waiting Room Conversation' episode ends when Janine Tudor excuses herself to follow Dr. St. Luc, which is the first action in the 'Initiate Janine Tudor's Clinic Appointment' episode. The related events and description confirm a direct temporal sequence: the conversation is interrupted by the start of the appointment, indicating that the subject episode occurs immediately before the object episode.",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1c802d238c3b",
+    "subject_id": "ep_95ddd78585d234fb",
+    "object_id": "ep_22d55c2ac23a4a6d",
+    "relation_type": "precedes",
+    "reason": "St. Luc references Forsythe's publications during their interaction (scene_35), which must occur before Forsythe departs and St. Luc resumes work (scene_43), establishing a clear narrative sequence across scenes in the document timeline.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d844635cddc3",
+    "subject_id": "ep_3590c970703f87b4",
+    "object_id": "ep_5886e1f4067d5137",
+    "relation_type": "causes",
+    "reason": "The parasite's sudden movement in the first episode directly triggers the children's fear and immediate flight in the second episode, as explicitly described in both episodes' descriptions and related events. The cause-effect relationship is unambiguous: the shock and fear from the parasite's twitch lead directly to their decision to flee.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8157b18037a1",
+    "subject_id": "ep_3015b1a6e2abd5d0",
+    "object_id": "ep_c36c1b9e6c98e17c",
+    "relation_type": "causes",
+    "reason": "The encounter with the old woman, where she calls out to Kurt and he turns to look, directly leads to her grabbing and pulling him into her apartment, resulting in the cart being abandoned. The causal chain is supported by the sequential and event-based connection in the shared scene (scene_46), where the interaction escalates immediately from verbal contact to physical action.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1339d7ef4b23",
+    "subject_id": "ep_384aeacabda0439e",
+    "object_id": "ep_00bb77f1efb85b4b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Mr. Merrick initiates apartment tour' includes events where the doorman keeps the door open and announces Mr. Merrick's arrival, which must occur before the doorman can resume reading. The resumption of reading happens after Mr. Merrick takes over the tour, indicating a clear temporal sequence where the tour initiation precedes the doorman returning to his personal activity.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_dcb5b2ff477b",
+    "subject_id": "ep_a5413f84dfda817c",
+    "object_id": "ep_e784c5add1aae7cb",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in the same scene (scene_35) and document sequential actions by Forsythe in St. Luc's office. The delivery of research materials and the brief kiss precede the clothing change, which is initiated in anticipation of a long phone conversation, implying a temporal sequence within the shared setting.",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5af5cbd98194",
+    "subject_id": "ep_d93a82d36104e8ac",
+    "object_id": "ep_5886e1f4067d5137",
+    "relation_type": "precedes",
+    "reason": "The episode 'Children approach Tudor's apartment with mischief in mind' describes the children initiating a plan to steal a cigarette, which directly precedes their startled reaction and flight in 'Children flee after parasite movement'. Both episodes occur in scene_32 and share a continuous narrative flow where the intrusion leads to the encounter that triggers their escape.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ca6e49f47de9",
+    "subject_id": "ep_c4a329980d0fd039",
+    "object_id": "ep_3d697b2f6c8abb53",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assist and assess Tudor's condition' occurs first, where Mrs. Wheatley notices blood, tends to Tudor, and decides he needs medical help. This is immediately followed by 'Confront Tudor's resistance to medical help', where she shows him the blood and he rejects her concern. The sequence of events in scene_16 supports a clear narrative order: assessment precedes confrontation.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f6edb4900be3",
+    "subject_id": "ep_62be8b5fc21f47e8",
+    "object_id": "ep_e91695149e787a95",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Hobbes initiating a violent struggle with Annabelle, culminating in her being pinned down, which sets the stage for the second episode where he intensifies the strangulation and clamps her lips shut. The events in the second episode require physical control established in the first, indicating a clear temporal sequence supported by the narrative flow in scene_3.",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bd8e8345e03b",
+    "subject_id": "ep_06d8129ea43d6e35",
+    "object_id": "ep_2a05d8306aaf5775",
+    "relation_type": "elaborates",
+    "reason": "The subject episode describes Tudor discovering the crime scene and reacting to the horror, including the presence of Annabelle's body. The object episode provides specific details—such as the surgical clip on her lips and bruises on her neck—that elaborate on how Tudor confirms Annabelle's identity and the nature of her death. This represents a directed expansion of information within the same scene, where the second episode adds focused detail to part of the first.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8ec928f9f1fb",
+    "subject_id": "ep_b0d81d18afa79133",
+    "object_id": "ep_c4a329980d0fd039",
+    "relation_type": "precedes",
+    "reason": "The episode 'Investigate Tudor's unresponsiveness' involves Mrs. Wheatley discovering Tudor incapacitated, which directly precedes her actions in 'Assist and assess Tudor's condition' where she helps him up, notices his injury, and decides he needs medical attention. The sequence of events in the shared scene (scene_16) supports a clear temporal order: discovery and entry precede assistance and assessment.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fb9e6f04f990",
+    "subject_id": "ep_31ff6d72d3b672bf",
+    "object_id": "ep_9287f403fdc4789c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Investigate origin of lumps' involves St. Luc questioning Parkins and identifying Annabelle Horsefield as a potential source of the condition, which occurs before the episode 'Document findings and prepare for imaging' where St. Luc records observations and issues a referral for X-rays. Both episodes occur in scene_27 and are part of a sequential clinical workflow, with diagnosis preceding documentation and next steps, indicating a clear narrative and temporal order.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_23d5362948b1",
+    "subject_id": "ep_384aeacabda0439e",
+    "object_id": "ep_d43d369921b88e50",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Mr. Merrick initiates apartment tour' involves greeting the Svibens and beginning the tour, which is immediately followed by the object episode 'Discuss apartment preferences and floor plans' where Mr. Merrick asks about bedroom preferences and presents floor plans. The related_events in both episodes occur in scene_4 and follow a sequential narrative order: greeting precedes discussion of preferences and viewing floor plans. This local narrative sequence supports a directed 'precedes' relation.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_79b213331bca",
+    "subject_id": "ep_67606f53da4ceb2a",
+    "object_id": "ep_abea2c47d3af051b",
+    "relation_type": "causes",
+    "reason": "The parasite attacking Mrs. Spergazzi directly triggers Mr. Spergazzi's intervention to save her, as described in the object episode's sequence of events where he immediately attempts to strike the parasite after it latches onto her. The causal link is strongly supported by the narrative continuity in the same scene (scene_49), with no intervening episodes or events.",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_77f695413e23",
+    "subject_id": "ep_3015b1a6e2abd5d0",
+    "object_id": "ep_24ed8565d66a61fd",
+    "relation_type": "precedes",
+    "reason": "The episode 'Kurt encounters the old woman in the hallway' describes Kurt noticing the old woman and her initial call to him, which occurs before she escalates her advance by revealing her burned face and declaring her hunger for love, as described in the subsequent episode. The events in the related_events lists are in chronological order within the same scene (scene_46), supporting the narrative sequence.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d657b973b303",
+    "subject_id": "ep_8d5ff8b2d20838df",
+    "object_id": "ep_b76ca2fb497b3641",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Confront Kresimir's escalating threat' ends with Kresimir forcing his way into the kitchen, which immediately precedes the object episode 'Fend off Kresimir's physical attack' where he grabs Forsythe and assaults her. The related events in both episodes are ordered within scene_50, showing a continuous sequence where the first episode's culmination leads directly into the actions of the second, supporting a clear narrative order.",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dfac755692b1",
+    "subject_id": "ep_06d8129ea43d6e35",
+    "object_id": "ep_4a5d52b14f8f5b70",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Discover the crime scene and react to the horror' occurs before the object episode 'Flee the apartment with composure', as Tudor first discovers the bodies and reacts with distress, then regains minimal control and exits the apartment. The sequence is supported by the narrative flow in the shared scene (scene_11) and the causal-temporal progression from discovery to departure.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_86804032addb",
+    "subject_id": "ep_df0524d6612b2242",
+    "object_id": "ep_9282101e5eb425cf",
+    "relation_type": "precedes",
+    "reason": "Tudor's spontaneous decision to join the elevator group must occur before Merrick's pitch to the Svibens, as the pitch involves a nonverbal cue directed at Tudor, implying Tudor is already present. The narrative sequence in scene_9 supports that joining the group precedes the pitch activity.",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ee0b721a91ea",
+    "subject_id": "ep_8a2592dc9a2f7054",
+    "object_id": "ep_b76ca2fb497b3641",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Kresimir's arrival' involves Forsythe answering the door after Kresimir knocks, which directly precedes the physical attack described in 'Fend off Kresimir's physical attack', where Kresimir grabs her and assaults her. The sequence of related events in both episodes occurs within the same scene (scene_50) and follows a clear temporal order: first the knock and response, then the assault and defense.",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3d4e43f10924",
+    "subject_id": "ep_8c1ecbbae1c9ef2f",
+    "object_id": "ep_dd6308510d62cc01",
+    "relation_type": "precedes",
+    "reason": "The episode 'Deliver message and exchange greetings' involves Janine entering Betts' apartment and conveying news about Dr. St. Luc, followed by dialogue establishing context. The episode 'Acknowledge and accept invitation' occurs when Janine silently nods in response to Betts' supper invitation, which concludes the interaction. The sequence of events in scene_31 supports a clear narrative order where the message delivery and greetings precede the acceptance of the invitation.",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8ca7e8923688",
+    "subject_id": "ep_24ed8565d66a61fd",
+    "object_id": "ep_c36c1b9e6c98e17c",
+    "relation_type": "causes",
+    "reason": "The old woman's escalation, including her revelation of a burned face and declaration of hunger for love, immediately precedes and triggers her physical attack on Kurt, which directly results in him being pulled into her apartment and separated from his cart. The related events in both episodes occur in the same scene (scene_46) and depict a direct causal sequence: the advance culminates in the assault and cart abandonment.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c4a9022a8417",
+    "subject_id": "ep_04355cd2cc00747d",
+    "object_id": "ep_9287f403fdc4789c",
+    "relation_type": "precedes",
+    "reason": "The abdominal examination (ep_04355cd2cc00747d) involves St. Luc physically assessing Parkins' abdomen, which is followed by documenting findings and preparing for imaging (ep_9287f403fdc4789c), including writing in the medical file and issuing a referral for X-rays. The description of the second episode explicitly states it occurs 'after the examination,' establishing a clear temporal order.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d9ff02fff363",
+    "subject_id": "ep_4033a2e28e397534",
+    "object_id": "ep_6654d6fe9f248629",
+    "relation_type": "elaborates",
+    "reason": "The first episode explains the Satyr's Tongue project with technical and institutional details, while the second episode builds on that foundation by revealing the emotional and interpersonal motivations behind the project, including Rollo's personal appeal to St. Luc and Hobbes's prior involvement. The second episode expands the context of the project by adding a layer of personal connection and long-term vision, which elaborates on the professional framework established in the first episode.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_13_part_3",
+      "scene_13_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_81bc0f570ea4",
+    "subject_id": "ep_352a26a6561af27c",
+    "object_id": "ep_9287f403fdc4789c",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Address surgical concerns and conclude visit' involves Parkins expressing anxiety and St. Luc's response during the examination, which is followed by the object episode 'Document findings and prepare for imaging' where St. Luc records observations, instructs Parkins to get dressed, and provides a referral for X-rays. The sequence of events in scene_27 supports a clear narrative order where emotional closure of the examination precedes the transition to diagnostic documentation and next steps.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a7c03ca3f71d",
+    "subject_id": "ep_df0524d6612b2242",
+    "object_id": "ep_db8a1a869b890cdf",
+    "relation_type": "precedes",
+    "reason": "The episode 'Tudor joins the elevator group spontaneously' occurs first, as it establishes Tudor's entry into the elevator scene; only after joining does he perform the actions described in 'Tudor asserts independent movement after separation', such as pressing the top floor button and retrieving a key during ascent. The sequence of events in scene_9 supports a clear temporal order.",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_39cebd96fb0f",
+    "subject_id": "ep_95ddd78585d234fb",
+    "object_id": "ep_a5413f84dfda817c",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_35 of doc_34, and the description of St. Luc referencing Forsythe's publications logically precedes her delivering the research materials and sharing a kiss, as the reference implies prior engagement with her work before the physical delivery and interaction. The narrative flow within the same scene supports a temporal ordering where acknowledgment of her work comes before the delivery and personal gesture.",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1d32438281de",
+    "subject_id": "ep_8c1ecbbae1c9ef2f",
+    "object_id": "ep_f9e0ffe70ecc6234",
+    "relation_type": "precedes",
+    "reason": "The episode 'Deliver message and exchange greetings' occurs first, as Janine delivers news about Dr. St. Luc and engages in initial conversation with Betts, which sets the context for the subsequent episode 'Share meal plans and extend invitation', where Betts discusses dinner plans and extends an invitation to Janine. Both episodes are grounded in scene_31 and unfold sequentially within the same interaction, with the greeting and message delivery logically preceding the discussion of meal plans and invitation.",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ab30cf5080ec",
+    "subject_id": "ep_62be8b5fc21f47e8",
+    "object_id": "ep_49b28c824b364152",
+    "relation_type": "precedes",
+    "reason": "The violent struggle with Annabelle (initiated by Hobbes attempting to strangle her) must occur before preparing her lifeless body on the table, as the description of the latter refers to her as 'lifeless,' implying the struggle resulted in her death. The events in both episodes are in scene_3, but the causal and temporal sequence is supported by the narrative logic: the attack leads to her being dead and subsequently placed on the table.",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f2dadf032e64",
+    "subject_id": "ep_e784c5add1aae7cb",
+    "object_id": "ep_51da34cfa71c47ae",
+    "relation_type": "precedes",
+    "reason": "The episode 'Forsythe changes clothes while St. Luc observes' (scene_35) occurs before the episode 'Exchange of a glance and subtle reaction' (scene_39), as indicated by the sequential scene numbers in their related_events. The change of clothes is observed by St. Luc without reaction, and only afterward does Forsythe notice his attention and smile, prompting his averted gaze. This establishes a clear temporal order.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c05804ca6173",
+    "subject_id": "ep_f47b6880a56fd130",
+    "object_id": "ep_710d2be1cb4541e8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Olive prevents search for the creature' involves Olive restraining Vi from investigating the injured creature and urging continuation of the stroll, which directly sets up the subsequent resumption of walking and return home described in the second episode. The narrative flow in the shared scene (scene_26) and the causal continuity—suppressing deviation to maintain routine—supports a temporal sequence where prevention of the search precedes the resumption of the walk home.",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3c9427e619f8",
+    "subject_id": "ep_95ddd78585d234fb",
+    "object_id": "ep_7d59f4335b2e82b8",
+    "relation_type": "elaborates",
+    "reason": "St. Luc referencing Forsythe's publications on Hobbes (ep_95ddd78585d234fb) provides background context that helps explain his later examination of Hobbes's publications and inquiry about Forsythe's actions (ep_7d59f4335b2e82b8), suggesting the former elaborates on the intellectual context motivating the latter.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_242bfde1af1e",
+    "subject_id": "ep_faafa6e80039540a",
+    "object_id": "ep_f5cbeaee76d4dddf",
+    "relation_type": "precedes",
+    "reason": "The episode 'Become aware of the parasite's approach' describes Betts noticing the parasite crawling toward her and the water turning pink with blood, which sets the stage for the subsequent physical assault in 'Endure the parasite's assault', where the parasite makes contact and attacks. The events in the first episode (seeing the parasite approach, water turning pink) logically and chronologically precede the direct physical contact and violent reaction in the second episode, as both occur in scene_47 and form a continuous narrative sequence.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8e65b7adf574",
+    "subject_id": "ep_a5413f84dfda817c",
+    "object_id": "ep_22d55c2ac23a4a6d",
+    "relation_type": "precedes",
+    "reason": "The delivery of research materials and the kiss (ep_a5413f84dfda817c) occurs in scene_35, while St. Luc's reflection and return to work after Forsythe departs (ep_22d55c2ac23a4a6d) occurs in scene_43, indicating a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_08817a739f04",
+    "subject_id": "ep_5a5fb2c5ecde242a",
+    "object_id": "ep_ee040c82258cb680",
+    "relation_type": "elaborates",
+    "reason": "The subject episode focuses on establishing Dr. St. Luc's credibility and alibi through direct questioning about his connection to Hobbes and actions at the scene. The object episode builds upon this by delving into the specific motive behind the meeting, including the cryptic phrase 'furthering your education,' thereby providing additional contextual detail about the same interaction. The object episode expands on the subject by exploring the background and significance of the meeting, which is consistent with an elaborative relationship where the subject provides the core narrative and the object adds explanatory depth.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_12_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_63e9397fcc9c",
+    "subject_id": "ep_9282101e5eb425cf",
+    "object_id": "ep_db8a1a869b890cdf",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Merrick conducts the elevator pitch and ushers the Svibens out, directly precedes the object episode where Tudor acts independently after the elevator doors close. The related events in both episodes occur in scene_9 and follow a clear temporal sequence: the Svibens exit first, then the doors close, after which Tudor presses the top floor button and retrieves a key. This local narrative order is explicitly supported by the event descriptions.",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2f651fc50262",
+    "subject_id": "ep_a34930316d7d2ec5",
+    "object_id": "ep_b70347faaf23bc2c",
+    "relation_type": "elaborates",
+    "reason": "Episode ep_b70347faaf23bc2c provides additional, more severe details about Hobbes's actions toward Annabelle—specifically the parasite implantation, her violent breakdown, and her murder—which expands upon the earlier revelation in ep_a34930316d7d2ec5 of their inappropriate relationship and emotional toll. The second episode deepens the narrative context initiated in the first, offering a causal and thematic continuation that explains the full horror of Hobbes's conduct, thus constituting elaboration rather than mere sequence or contrast.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_13_part_3",
+      "scene_13_part_4",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9b3cbc4b77a7",
+    "subject_id": "ep_7d59f4335b2e82b8",
+    "object_id": "ep_22d55c2ac23a4a6d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Investigate Hobbes's publications and respond to St. Luc's inquiry' occurs in scene_37, while the object episode 'React and resume work after interaction' occurs in scene_43. The progression from scene_37 to scene_43 indicates a clear narrative order where the earlier episode precedes the later one. The departure of Forsythe at the end of the subject episode sets up the transition to the object episode, where St. Luc resumes work after her departure.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f60336c65b1c",
+    "subject_id": "ep_80aeeda8ec25858d",
+    "object_id": "ep_88801f35cd483557",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Tudor endures sudden physical crisis' describes Tudor collapsing due to a spasm and then struggling back to his feet, which marks the end of the initial acute phase. The object episode 'Tudor seeks relief in bathroom' begins with Tudor stumbling into the bathroom overwhelmed by nausea, indicating a progression of symptoms. The sequence of events in the same scene (scene_21) and the escalation from spasm to vomiting suggest a clear temporal order where the physical crisis precedes the attempt to seek relief in the bathroom.",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1f7a2639db83",
+    "subject_id": "ep_e91695149e787a95",
+    "object_id": "ep_49b28c824b364152",
+    "relation_type": "precedes",
+    "reason": "The episode 'Complete the strangulation and suppress speech' involves Hobbes actively strangling Annabelle and clamping her lips shut, which must occur before the episode 'Prepare Annabelle's body on the table' where her lifeless body is moved and undressed. The causal and temporal sequence is supported by the narrative logic in the descriptions: Annabelle must be dead (or incapacitated) before her body can be prepared on the table. The related events in both episodes occur in the same scene (scene_3), but the actions in the strangulation episode logically precede the preparation of the body.",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a2401fc7348f",
+    "subject_id": "ep_51da34cfa71c47ae",
+    "object_id": "ep_22d55c2ac23a4a6d",
+    "relation_type": "precedes",
+    "reason": "The Exchange of a glance and subtle reaction (ep_51da34cfa71c47ae) occurs in scene_39, where St. Luc turns back to his files after a moment with Forsythe. The React and resume work after interaction episode (ep_22d55c2ac23a4a6d) occurs in scene_43, after Forsythe departs, and involves St. Luc resuming work following reflection. The later scene number and the narrative progression—interaction, then departure, then resumption—support that the glance exchange precedes the later resumption of work.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0cb70cc88fe9",
+    "subject_id": "ep_fff36d3332a4f655",
+    "object_id": "ep_80aeeda8ec25858d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Tudor arrives home and settles in' describes Tudor performing a sequence of actions upon returning home, including discarding his jacket, loosening his tie, making a drink, and sitting down to watch TV. The subsequent episode, 'Tudor endures sudden physical crisis', begins after a 'brief moment of calm' and involves Tudor collapsing due to a sudden spasm. The phrase 'after a brief moment of calm' directly follows the settling-in actions in scene_21, indicating a temporal sequence where the arrival and settling precede the physical crisis. This local narrative order in the same scene supports a 'precedes' relation from the settling-in episode to the crisis episode.",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c6371b9ab9e8",
+    "subject_id": "ep_1234cf0083f7c356",
+    "object_id": "ep_b0d81d18afa79133",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Tudor suffers final pain and collapse' occurs before the object episode 'Investigate Tudor's unresponsiveness', as Mrs. Wheatley leaves before Tudor experiences the final pain, and then returns to find him incapacitated, indicating a clear temporal sequence supported by the narrative order in the shared scene.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e9f92671365e",
+    "subject_id": "ep_3d697b2f6c8abb53",
+    "object_id": "ep_1234cf0083f7c356",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Tudor's resistance to medical help' ends with Mrs. Wheatley leaving the office, which directly precedes the episode 'Tudor suffers final pain and collapse' that begins after her departure. The sequence of related events in scene_16 supports this local narrative order.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e4a561f10497",
+    "subject_id": "ep_6d77165083f807eb",
+    "object_id": "ep_db29ddff9e4cee8f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Tudor establishes intimate contact with the abdominal lump' occurs before 'Tudor conceals the abdominal anomaly from Janine' as both episodes are in scene_33 and the sequence of events shows Tudor first interacting with the lump alone, then reacting to Janine's entry by hiding it, indicating a clear temporal order.",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_29f2482d88eb",
+    "subject_id": "ep_c4a329980d0fd039",
+    "object_id": "ep_1234cf0083f7c356",
+    "relation_type": "precedes",
+    "reason": "Mrs. Wheatley assists and assesses Tudor before he suffers his final collapse, as indicated by the sequence in the related events: she helps him, notices blood, and decides he needs medical attention, after which Tudor is described as experiencing another wave of pain and bleeding again. This establishes a clear narrative order where the assessment episode precedes the final collapse episode.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f0f5dc67e4da",
+    "subject_id": "ep_c96cedb58a8c5334",
+    "object_id": "ep_1bb07ecbe20da011",
+    "relation_type": "precedes",
+    "reason": "The episode 'Address Janine's concerns about her husband's health' includes events where St. Luc discusses test results and agrees to a home visit, which directly precedes Janine concluding the consultation and leaving the clinic, as described in the sequence of scene_20 events.",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5af3578230ed",
+    "subject_id": "ep_d43d369921b88e50",
+    "object_id": "ep_9282101e5eb425cf",
+    "relation_type": "precedes",
+    "reason": "The discussion of apartment preferences and floor plans (scene_4) occurs earlier in the narrative sequence than the elevator pitch (scene_9), as indicated by the scene numbers in their respective related_events, supporting a directed 'precedes' relation from the discussion to the elevator pitch.",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_43e99c613c97",
+    "subject_id": "ep_c9beff1caad2a780",
+    "object_id": "ep_b70347faaf23bc2c",
+    "relation_type": "elaborates",
+    "reason": "Rollo examining Hobbes's notes on the parasite provides theoretical background that explains the motivation and design behind the experiment later revealed to have led to Annabelle's death; the notes episode supplies conceptual context that expands understanding of the subsequent disclosure episode.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fde788375060",
+    "subject_id": "ep_b4bb4ff91e08d306",
+    "object_id": "ep_384aeacabda0439e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Gain entry and request assistance' occurs when the Svibens arrive and request help from the doorman, which directly precedes Mr. Merrick's appearance and initiation of the apartment tour. The doorman announces Mr. Merrick's arrival in scene_4, indicating that the request for assistance must occur before the tour begins, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c129e12ba137",
+    "subject_id": "ep_db29ddff9e4cee8f",
+    "object_id": "ep_e059ddac356c17d3",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Tudor conceals the anomaly from Janine and she departs angrily, includes the event 'Janine leaves the bedroom angrily and slams the door (scene_33)'. The object episode begins 'after Janine leaves and slams the door', with Tudor smiling and murmuring to the lump. This explicit temporal sequencing in the description and related events establishes that the subject episode occurs immediately before the object episode.",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3c2e98b5de76",
+    "subject_id": "ep_8a2592dc9a2f7054",
+    "object_id": "ep_b2c066ed307a2e66",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to Kresimir's arrival' occurs when Forsythe answers the door, which immediately precedes the object episode 'Kresimir descends into obsessive worship' that begins after Forsythe's escape, as described in the sequence of events in scene_50.",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bc5386dffb52",
+    "subject_id": "ep_c96cedb58a8c5334",
+    "object_id": "ep_782549826ccb9bc9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Address Janine's concerns about her husband's health' occurs before 'Respond to Mrs. Ementhal's appointment while reviewing concerns' as both take place in scene_20 and the former involves Janine being present, while the latter begins after Janine leaves, indicating a clear sequential order.",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3094f1f1b83b",
+    "subject_id": "ep_7b61a95f7a67b9dd",
+    "object_id": "ep_bac39d094cd46091",
+    "relation_type": "precedes",
+    "reason": "The episode 'Exchange tense dialogue about work' occurs before 'End meal in mutual silence' in the narrative sequence of scene_7, as the dialogue takes place during breakfast and is followed by Nicholas finishing his meal in silence, indicating a direct temporal progression.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7d5665262819",
+    "subject_id": "ep_b4bb4ff91e08d306",
+    "object_id": "ep_2b92f30673578852",
+    "relation_type": "precedes",
+    "reason": "The episode 'Gain entry and request assistance' involves the Svibens arriving and requesting help to locate the rental agent, which logically and temporally precedes the doorman's attempt to contact the agent via intercom. The shared scene context (scene_2) and the narrative flow indicate that the request for assistance comes before the action to fulfill it, supporting a clear 'precedes' relation from the request to the contact attempt.",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_cda045b56fb3",
+    "subject_id": "ep_59a771d2a7a5bed0",
+    "object_id": "ep_08c92a4b6b859779",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ignite corpse's abdominal cavity' describes Hobbes lighting the body, which must occur before the episode 'Observe burning corpse and react emotionally' where he watches the flames consume the corpse. The temporal sequence is explicitly supported by the causal and narrative flow in the descriptions.",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4795f4c6e89e",
+    "subject_id": "ep_13761409880749ae",
+    "object_id": "ep_db29ddff9e4cee8f",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Janine investigates the apartment and enters the bedroom after inferring Nick's presence, directly precedes the object episode where Tudor reacts by concealing the abdominal anomaly upon her entry. The related events in both episodes occur in scene_33 and are sequentially ordered: Janine's entry and observation come before Tudor's defensive actions and her subsequent emotional reaction and departure.",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7212648aab6a",
+    "subject_id": "ep_384aeacabda0439e",
+    "object_id": "ep_9282101e5eb425cf",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Mr. Merrick initiates apartment tour' occurs at the beginning of the interaction with the Svibens, including greeting and initial setup, while the object episode 'Merrick conducts elevator pitch for the Svibens' takes place during the elevator ride, which logically follows the initiation of the tour. The sequence is supported by the narrative flow of a property tour, where greeting precedes moving to and demonstrating features in the elevator.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b07d2d67a229",
+    "subject_id": "ep_0e4a3dd6b2b3a1ba",
+    "object_id": "ep_08c92a4b6b859779",
+    "relation_type": "precedes",
+    "reason": "The surgical incision episode involves Hobbes preparing and making an incision on Annabelle's corpse, which logically and chronologically occurs before the episode where he observes the burning corpse and reacts emotionally. The incision is part of the pre-ignition procedure, while the observation occurs after ignition, indicating a clear narrative sequence.",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7c836002dc85",
+    "subject_id": "ep_6d77165083f807eb",
+    "object_id": "ep_e059ddac356c17d3",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Tudor's initial discovery and interaction with the abdominal lump, including attempts to engage and eventual success in eliciting a response. The second episode occurs after Janine leaves, when Tudor reaffirms his bond with the lump, indicating a subsequent moment in the narrative sequence. The events in the first episode are prerequisites for the emotional context of the second, and the departure of Janine marks a clear temporal progression, supporting that the first episode precedes the second.",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_19b01d0fcf7d",
+    "subject_id": "ep_81f02838e410d831",
+    "object_id": "ep_8c1ecbbae1c9ef2f",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Betts proposing a deceptive plan to have a doctor confront Nick unannounced, with Janine reacting with quiet satisfaction. The second episode involves Janine delivering news that Dr. St. Luc will visit Nick, indicating the plan has moved into execution. The proposal and agreement in the first episode logically precede the follow-up communication about the arranged visit in the second episode, establishing a clear narrative sequence.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7dc320fc2d34",
+    "subject_id": "ep_1e587e8ad3953eef",
+    "object_id": "ep_6654d6fe9f248629",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rollo Linsky initiates phone call and St. Luc responds' involves the initiation of contact and reestablishment of communication, which logically and chronologically precedes the later episode where Rollo proposes a professional partnership and reveals emotional vulnerability. The phone call sets up the conversation that leads to the proposal, and the narrative progression from reconnection to invitation supports a clear 'precedes' relation.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_13_part_3",
+      "scene_13_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_159784599b0a",
+    "subject_id": "ep_0e4a3dd6b2b3a1ba",
+    "object_id": "ep_b70347faaf23bc2c",
+    "relation_type": "elaborates",
+    "reason": "The episode where Rollo reveals Hobbes's experiment and its consequences provides explanatory context that expands on the purpose and backstory of the surgical incision performed on Annabelle's corpse, suggesting the incision was part of the earlier experiment involving parasite implantation. This constitutes a directed elaboration from the revelation episode to the surgical episode, as it supplies critical background about the experiment's nature and outcome.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8f258d025a5c",
+    "subject_id": "ep_3be786ba178d01ad",
+    "object_id": "ep_9d9c429dafd29604",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs while Tudor is brushing his teeth and experiencing abdominal pain, including the malfunction of the water-pick. The second episode begins after Janine leaves and Tudor resumes his examination, indicating a sequential order where the initial pain assessment precedes the subsequent private re-examination. The narrative flow within scene_14 supports a clear temporal sequence.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_059340ba1998",
+    "subject_id": "ep_63756f9826055dc2",
+    "object_id": "ep_9d9c429dafd29604",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Janine investigates and confronts Tudor before leaving the bathroom, occurs immediately before the object episode, where Tudor resumes examining his abdomen after she exits. The temporal sequence is explicitly supported by the description of the object episode stating 'After Janine exits, Tudor waits a moment...' which directly follows the events of the subject episode.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_51e024a8d665",
+    "subject_id": "ep_f3e5294cf2c69156",
+    "object_id": "ep_bbda65310fae47ce",
+    "relation_type": "precedes",
+    "reason": "The episode 'Prepare for a relaxing bath' includes placing the drain plug and preparing the bathtub, which must occur before the drain plug begins to vibrate and be forced out in the episode 'Detect early signs of disturbance'. The sequence of events in the same scene (scene_47) supports a clear temporal order where bath preparation precedes the emergence of the parasite.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bdf242b233db",
+    "subject_id": "ep_b76ca2fb497b3641",
+    "object_id": "ep_b2c066ed307a2e66",
+    "relation_type": "precedes",
+    "reason": "The episode 'Fend off Kresimir's physical attack' includes Forsythe escaping and leaving her clothing behind, which directly precedes Kresimir's subsequent actions of kneeling, inhaling the scent of her torn clothing, and expressing obsessive worship in the episode 'Kresimir descends into obsessive worship'. The shared scene (scene_50) and the causal dependency of Kresimir's behavior on the abandoned clothing confirm the temporal order.",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_229b4a90e307",
+    "subject_id": "ep_08c92a4b6b859779",
+    "object_id": "ep_16c1dbd071704bbc",
+    "relation_type": "causes",
+    "reason": "The description of 'Attempt self-harm after collapse' states it occurs 'immediately following the emotional climax of watching the corpse burn,' and the emotional reaction in 'Observe burning corpse and react emotionally' (including tears) provides clear causal context for the subsequent self-harm episode. This direct temporal and psychological linkage supports a causal relation from the observation and emotional response to the self-harm attempt.",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ecaf00041f5c",
+    "subject_id": "ep_8d5ff8b2d20838df",
+    "object_id": "ep_b2c066ed307a2e66",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Confront Kresimir's escalating threat' culminates in Kresimir forcing his way into the kitchen, during which Forsythe escapes. The object episode 'Kresimir descends into obsessive worship' begins after Forsythe's escape, as Kresimir remains on his knees and interacts with her torn clothing. The sequence of events in scene_50 supports a clear temporal order where the first episode directly precedes the second.",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2252aaf03d6e",
+    "subject_id": "ep_77b1c9ef3ba804d8",
+    "object_id": "ep_13761409880749ae",
+    "relation_type": "precedes",
+    "reason": "The episode 'Janine disengages from the TV and retreats to the sofa' occurs before 'Janine investigates the apartment after inferring Nick's presence' as evidenced by the sequence of events in scene_33: Janine first turns off the TV and returns to the sofa, and only afterward notices the TV is on (implying it was turned back on) and infers Nick's presence, prompting her to enter the bedroom. This local narrative order establishes a clear temporal precedence.",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_70dab398676e",
+    "subject_id": "ep_f9e0ffe70ecc6234",
+    "object_id": "ep_dd6308510d62cc01",
+    "relation_type": "precedes",
+    "reason": "The episode 'Share meal plans and extend invitation' includes Betts inviting Janine to return for supper, which directly precedes Janine's nonverbal acknowledgment and acceptance in the subsequent episode. The narrative sequence in scene_31 supports this temporal order.",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f9a73f49e717",
+    "subject_id": "ep_bbda65310fae47ce",
+    "object_id": "ep_f5cbeaee76d4dddf",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Detect early signs of disturbance' describes the initial emergence of the parasite's tentacles and Betts's unawareness, which directly precedes the object episode 'Endure the parasite's assault' where the tentacles make contact and attack Betts. The related events in both episodes are ordered sequentially in scene_47, with detection occurring before physical assault.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_254977a2032b",
+    "subject_id": "ep_f3e5294cf2c69156",
+    "object_id": "ep_025a2fc55938d8a3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Prepare for a relaxing bath' includes events such as filling the bathtub, adjusting water temperature, undressing, and wrapping in a towel, which logically and chronologically precede the events in 'Settle into the bath and relax', where Betts steps into the filled bathtub and reclines. The sequence of actions is supported by the related events and descriptions in both episodes, indicating a clear temporal order.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_979fd894f2be",
+    "subject_id": "ep_f5cbeaee76d4dddf",
+    "object_id": "ep_464d591a912ed2b9",
+    "relation_type": "causes",
+    "reason": "The parasite's assault (subject) directly triggers the collapse into unconsciousness (object), as evidenced by the sequence in the description: Betts's final convulsion during the assault includes knocking over the glass, which is also the initiating event for the collapse episode. The completion of the parasite's takeover is presented as the immediate consequence of the assault.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0811021589fc",
+    "subject_id": "ep_3be786ba178d01ad",
+    "object_id": "ep_63756f9826055dc2",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Tudor suffers and conceals abdominal pain while using the water-pick, directly sets the stage for the object episode, where Janine notices his odd behavior and confronts him. The related events in both episodes occur in the same scene (scene_14) and describe a continuous sequence: Tudor's physical reaction and self-examination happen before Janine enters and responds to his behavior, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_61633e963504",
+    "subject_id": "ep_0faf0429c0df1033",
+    "object_id": "ep_bac39d094cd46091",
+    "relation_type": "precedes",
+    "reason": "The episode 'Sit down for silent breakfast' describes the beginning of the meal with Nicholas sitting down and eating and Janine serving food and coffee, while 'End meal in mutual silence' describes the conclusion of the same meal, where Nicholas finishes eating and the interaction ends. The sequence of events within the same scene (scene_7) and the narrative flow from starting to finishing the meal provide explicit temporal ordering, supporting that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_70f90dac3e13",
+    "subject_id": "ep_59a771d2a7a5bed0",
+    "object_id": "ep_16c1dbd071704bbc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ignite corpse's abdominal cavity' occurs immediately before 'Attempt self-harm after collapse', as indicated by the shared scene (scene_5) and the causal-temporal sequence in the description: Hobbes first ignites the corpse, then, after watching it burn, attempts self-harm. The name and description of the second episode explicitly reference 'after collapse' and 'immediately following the emotional climax of watching the corpse burn', which grounds the temporal order.",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_26e2ac4aa07b",
+    "subject_id": "ep_025a2fc55938d8a3",
+    "object_id": "ep_faafa6e80039540a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Settle into the bath and relax' describes Betts achieving deep relaxation in the bathtub, which is interrupted by the object episode 'Become aware of the parasite's approach' when water rushes from the drain and she notices the parasite. The narrative sequence in the shared scene (scene_47) and the disruption of relaxation by a startling event establish a clear temporal order: relaxation occurs first, then the disturbance.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d064c7a85929",
+    "subject_id": "ep_a7f1ac419f04504c",
+    "object_id": "ep_6654d6fe9f248629",
+    "relation_type": "precedes",
+    "reason": "The episode 'Share lunch and rekindle old camaraderie' involves Rollo and St. Luc engaging in lighthearted banter over sandwiches, establishing a warm and nostalgic atmosphere. This is followed by the episode 'Invite St. Luc into a professional partnership to combat loneliness', where Rollo shifts to a serious tone and makes a formal proposal. The related events in both episodes occur in scene_13 and are sequentially ordered: sharing lunch precedes the emotional proposal, with no indication of overlap or reversal in timing.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_13_part_3",
+      "scene_13_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_87c81627ee4c",
+    "subject_id": "ep_f3e5294cf2c69156",
+    "object_id": "ep_faafa6e80039540a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Prepare for a relaxing bath' involves Betts setting up the bath, undressing, and returning to the living room, all before the sudden rush of water that marks the start of the object episode 'Become aware of the parasite's approach'. The related events in the first episode occur prior in the scene sequence to the startling event and parasite appearance in the second, establishing a clear temporal order within the same scene (scene_47).",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3c5f75e8610e",
+    "subject_id": "ep_31ff6d72d3b672bf",
+    "object_id": "ep_4a8b39c7e367a5fb",
+    "relation_type": "elaborates",
+    "reason": "The subject episode 'Investigate origin of lumps' involves Parkins disclosing a romantic link to Annabelle Horsefield with similar symptoms, establishing an early epidemiological clue. The object episode 'Reveal Hobbes' death and uncover abdominal growth pattern' expands on this by revealing a broader pattern of abdominal growths among individuals at Starliner Towers, including Forsythe, and confirms the medical mystery hinted at in the subject episode. The object episode thus provides further detail and contextual expansion of the diagnostic线索 initiated in the subject episode, supporting an elaboration relation from subject to object.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_c74acd1831c5",
+    "subject_id": "ep_bbda65310fae47ce",
+    "object_id": "ep_faafa6e80039540a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Detect early signs of disturbance' describes the initial movement of the parasite's tentacles emerging from the drain while Betts is still half-asleep, which is immediately followed by the object episode 'Become aware of the parasite's approach' where Betts is startled by a rush of water and sees the parasite crawling toward her. The sequence of related events in the same scene (scene_47) supports a clear temporal order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e7c937df1510",
+    "subject_id": "ep_025a2fc55938d8a3",
+    "object_id": "ep_f5cbeaee76d4dddf",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts Betts achieving deep relaxation and comfort in the bath, with physical signs of pleasure such as sipping her drink and toes curling in enjoyment. The second episode immediately disrupts this tranquility with a violent, invasive assault by the parasite, causing shock, thrashing, and loss of control. The juxtaposition of serene relaxation against sudden violation creates a strong tonal and experiential contrast, supported by the narrative shift from voluntary comfort to involuntary distress within the same scene.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2c1635df22d1",
+    "subject_id": "ep_8c96cc0ec33265fe",
+    "object_id": "ep_8c1ecbbae1c9ef2f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Receive medical reassurance about Nick' involves Dr. St. Luc evaluating Nick and advising that he needs a vacation, which occurs before Janine delivers this message to Betts in the episode 'Deliver message and exchange greetings'. The narrative order is supported by the fact that Janine is conveying the outcome of Dr. St. Luc's evaluation, implying the medical assessment must precede the message delivery.",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e698e47e53ef",
+    "subject_id": "ep_2222d528c6dadfe2",
+    "object_id": "ep_67606f53da4ceb2a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Retrieve and return the fallen milk jug' occurs immediately before 'Parasite attacks Mrs. Spergazzi at the milk chute', as Mrs. Spergazzi is returning the jug when she notices blood and is attacked. The sequence is supported by the shared scene (scene_49) and the causal-temporal flow in the description: the return of the jug directly sets the stage for the attack.",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_74c9d77dee8b",
+    "subject_id": "ep_faafa6e80039540a",
+    "object_id": "ep_464d591a912ed2b9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Become aware of the parasite's approach' describes Betts being startled by water rushing from the drain and seeing the parasite approaching, with the water turning pink with blood. This is followed by the episode 'Collapse into unconsciousness', where Betts arches her back and falls into a stupor after a full-body spasm, indicating a progression in the narrative sequence. The events in the first episode set the stage for the physical collapse in the second, with both occurring in scene_47 and forming a coherent temporal sequence in the local narrative order.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fe90f274e3aa",
+    "subject_id": "ep_bdd372623fe42220",
+    "object_id": "ep_710d2be1cb4541e8",
+    "relation_type": "precedes",
+    "reason": "The parasite striking during the evening stroll (ep_bdd372623fe42220) immediately disrupts the walk, after which Olive urges Vi to continue and return home (ep_710d2be1cb4541e8), indicating a clear temporal sequence supported by the narrative flow in the shared scene.",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a7e1c6f25708",
+    "subject_id": "ep_da2753eab0da2ae0",
+    "object_id": "ep_fc8350cfbbabf12c",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Secure the laundry room window' occurs before the object episode 'Begin laundry loading process', as the old woman first secures the window and then walks across the room to begin loading the washer, with both actions described in sequence within scene_28.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_63b81d9f344f",
+    "subject_id": "ep_fc8350cfbbabf12c",
+    "object_id": "ep_ca95a0974658db34",
+    "relation_type": "precedes",
+    "reason": "The episode 'Begin laundry loading process' involves the old woman opening the first washing machine and starting to load laundry, which occurs before she moves to the next machine in 'Prepare next washing machine'. The sequence of actions—loading one machine then preparing the next—is supported by the related events and narrative flow within the same scene, indicating a clear temporal order.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c40ea596042f",
+    "subject_id": "ep_fc8350cfbbabf12c",
+    "object_id": "ep_78ec3e4254e3797a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Begin laundry loading process' involves the old woman opening the washer and loading clothes, which must occur before she can add detergent and start the machine, as described in 'Add detergent and start washing machine'. The sequence of actions—loading clothes, then adding detergent and starting the machine—is supported by the event descriptions and their logical order in the laundry routine.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_194a9aa5e3ba",
+    "subject_id": "ep_78ec3e4254e3797a",
+    "object_id": "ep_ca95a0974658db34",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Add detergent and start washing machine' involves completing the setup of the first washing cycle, after which the old woman moves to the next machine in the object episode 'Prepare next washing machine'. The sequence of actions—finishing one cycle setup and then moving to prepare another—is supported by the related events and narrative flow, indicating a clear temporal order.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_42ad9e44093c",
+    "subject_id": "ep_da2753eab0da2ae0",
+    "object_id": "ep_7937bb9cf443f30a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Secure the laundry room window' involves the old woman closing and locking the window in response to a slime trail, which sets the scene before the parasite attacks her from inside the washing machine. The sequence of related events in both episodes occurs in the same scene (scene_28), and the actions of securing the window logically precede the parasite's attack, as the threat is not yet active during the window-securing actions.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b10b3a441c88",
+    "subject_id": "ep_78ec3e4254e3797a",
+    "object_id": "ep_7937bb9cf443f30a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Add detergent and start washing machine' concludes with the old woman confirming the machine operates and returning the detergent bag, immediately before the parasite attacks her in the object episode 'Fend off parasite attack'. Both episodes occur in scene_28 and are sequentially ordered in the narrative, with the first setting up the washing cycle just prior to the attack.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3b69ae7a75e4",
+    "subject_id": "ep_ca95a0974658db34",
+    "object_id": "ep_7937bb9cf443f30a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Prepare next washing machine' includes the old woman inspecting the interior of the washing machine, which immediately precedes the parasite lunging onto her face in the episode 'Fend off parasite attack'. The sequence of related events in the same scene (scene_28) supports a clear temporal order where inspection leads directly to the attack.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_109c5648e897",
+    "subject_id": "ep_fc8350cfbbabf12c",
+    "object_id": "ep_7937bb9cf443f30a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Begin laundry loading process' describes the old woman opening the washer and starting to load laundry, which occurs before the parasite attacks her in the subsequent episode 'Fend off parasite attack'. Both episodes occur in scene_28 and share the same location and context, with the loading process setting up the situation in which the attack happens. The narrative sequence in the related events supports a clear temporal order: loading begins, then the parasite lunges.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d66df6876d8d",
+    "subject_id": "ep_3590c970703f87b4",
+    "object_id": "ep_b851bcd00d45208c",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which the children discover and react to the parasite in the milk box, explicitly occurs before the object episode, where the parasite stirs again after the children have fled. The object episode's description states it happens 'a few seconds after the children flee,' which directly follows the conclusion of the subject episode, establishing a clear temporal sequence.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2f264e41aaba",
+    "subject_id": "ep_d93a82d36104e8ac",
+    "object_id": "ep_3590c970703f87b4",
+    "relation_type": "precedes",
+    "reason": "The episode 'Children approach Tudor's apartment with mischief in mind' occurs before 'Children discover disturbing parasite in milk box' as both take place in scene_32 and the former describes the children initiating their plan, while the latter depicts a subsequent discovery during that same sequence. The narrative flow in the related events supports a clear temporal order: approaching and planning precedes the investigation of the milk box and the resulting shock.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b7838864ca2f",
+    "subject_id": "ep_b7e9a45bd675cfb9",
+    "object_id": "ep_4eaefbb908b1455d",
+    "relation_type": "precedes",
+    "reason": "The doorman assisting Tudor's entry into the building (opening doors and greeting) logically and temporally precedes Tudor gaining entry to Annabelle's apartment, as Tudor must first enter the building before accessing the apartment. The related events in both episodes support this sequential order of actions.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_db5f76fc8139",
+    "subject_id": "ep_9206837d24ac9a5c",
+    "object_id": "ep_3590c970703f87b4",
+    "relation_type": "precedes",
+    "reason": "The episode 'Girl retrieves milk jug to fund cigarette purchase' involves the girl retrieving a milk jug from a neighbor's box and moving toward Tudor's milk box, which sets up the subsequent discovery in 'Children discover disturbing parasite in milk box'. The shared scene reference (scene_32) and the logical progression—retrieving a jug before inspecting Tudor's box—support a clear temporal order where the retrieval precedes the disturbing discovery.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_603a036e9f20",
+    "subject_id": "ep_d93a82d36104e8ac",
+    "object_id": "ep_0bfef57f8b13c64e",
+    "relation_type": "precedes",
+    "reason": "The children's approach and the girl's suggestion to steal a cigarette (ep_d93a82d36104e8ac) occur before the girl asserts independence by threatening to buy her own cigarettes (ep_0bfef57f8b13c64e), as the latter is a direct response to the boy's refusal during the earlier episode. Both episodes are in the same document and scene, with a clear narrative progression from attempting theft to proposing an alternative action.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4787630d7334",
+    "subject_id": "ep_4fe8934c7c96780f",
+    "object_id": "ep_22d55c2ac23a4a6d",
+    "relation_type": "precedes",
+    "reason": "The observation of Forsythe dressing and preparing to depart (ep_4fe8934c7c96780f) occurs in scene_41, while St. Luc resuming work after Forsythe's departure (ep_22d55c2ac23a4a6d) occurs in scene_43, indicating a clear narrative sequence where the first episode precedes the second based on scene ordering.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2f35a96ea42f",
+    "subject_id": "ep_16c08b599d1cfcf7",
+    "object_id": "ep_7c5ca41af1dfc546",
+    "relation_type": "precedes",
+    "reason": "The invitation and negotiation of the supper (ep_16c08b599d1cfcf7) must logically occur before the preparation of the supper (ep_7c5ca41af1dfc546), as the preparation is in response to the accepted invitation. The conditional acceptance in the first episode sets up the subsequent action of cooking, establishing a clear temporal sequence supported by narrative coherence.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b26180d4d021",
+    "subject_id": "ep_b7e9a45bd675cfb9",
+    "object_id": "ep_df0524d6612b2242",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assist Tudor's entry into the building' involves the doorman opening doors and greeting Tudor upon arrival, which logically and narratively precedes Tudor joining the elevator group, as the latter occurs after Tudor has entered the building. The sequence implied by physical access before participation in an elevator ride supports a 'precedes' relation from building entry to joining the elevator group.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9c69c82f80d6",
+    "subject_id": "ep_06d8129ea43d6e35",
+    "object_id": "ep_eada9d5cbee3cb5e",
+    "relation_type": "causes",
+    "reason": "The discovery of the crime scene with its gruesome details, including the smell of burned flesh and the sight of the bodies, directly triggers Tudor's physical distress and subsequent vomiting on the balcony. The causal link is supported by the progression from horror at the scene to physiological collapse in a continuous narrative sequence.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f2c066ddc300",
+    "subject_id": "ep_b7e9a45bd675cfb9",
+    "object_id": "ep_fff36d3332a4f655",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Assist Tudor's entry into the building' involves the doorman opening doors and greeting Tudor upon arrival, which logically and chronologically precedes the object episode 'Tudor arrives home and settles in', where Tudor enters his apartment and begins unwinding. The sequence of actions in the related events (e.g., entry followed by discarding jacket, loosening tie) supports a direct temporal ordering.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e5ab082ee15c",
+    "subject_id": "ep_4fe8934c7c96780f",
+    "object_id": "ep_51da34cfa71c47ae",
+    "relation_type": "precedes",
+    "reason": "The episode 'Observe Forsythe transitioning to departure' involves Forsythe dressing in street clothes, which sets the stage for the subsequent interaction in 'Exchange of a glance and subtle reaction' where she notices St. Luc watching and reacts. The dressing event (scene_41) occurs after the glance and reaction (scene_39) in document order, but the content of the episodes implies a temporal sequence where observation of dressing must precede the mutual awareness and reaction. Given the narrative logic and scene progression, the subject episode is best interpreted as preceding the object episode.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c17559955795",
+    "subject_id": "ep_2a05d8306aaf5775",
+    "object_id": "ep_eada9d5cbee3cb5e",
+    "relation_type": "causes",
+    "reason": "Tudor's identification of Annabelle's body with violent details (surgical clip, bruises) directly precedes and triggers his physical collapse in the form of vomiting on the balcony, as the emotional and visceral impact of the discovery leads to immediate physiological distress. Both episodes are causally linked through a clear stimulus-response pattern in the narrative.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4a94567f9ce6",
+    "subject_id": "ep_4fe8934c7c96780f",
+    "object_id": "ep_e784c5add1aae7cb",
+    "relation_type": "elaborates",
+    "reason": "The subject episode 'Observe Forsythe transitioning to departure' describes St. Luc observing Forsythe dressing in street clothes as a signal of departure, which is a higher-level summary of the more detailed actions in the object episode 'Forsythe changes clothes while St. Luc observes'. The object episode includes specific events—retrieving clothes, changing attire, and being observed—that provide granular detail supporting the transition described in the subject episode. Thus, the object episode elaborates on the subject episode by supplying concrete, scene-level actions that constitute the transition.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_289d93fd651c",
+    "subject_id": "ep_ff07e62d849e17c5",
+    "object_id": "ep_b7e9a45bd675cfb9",
+    "relation_type": "precedes",
+    "reason": "Tudor's arrival and exit from the cab (ep_ff07e62d849e17c5) logically and chronologically precedes the doorman assisting his entry into the building (ep_b7e9a45bd675cfb9), as the latter requires Tudor to have already arrived at the location. The related events in the first episode (exiting the cab) directly set the stage for the subsequent episode involving door opening and greeting.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_98ebc8af9fec",
+    "subject_id": "ep_b7e9a45bd675cfb9",
+    "object_id": "ep_c4a329980d0fd039",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assist Tudor's entry into the building' involves Tudor arriving and being greeted at the building entrance, while 'Assist and assess Tudor's condition' occurs indoors where Mrs. Wheatley observes his injury and decides he needs medical help. The sequence of events—entry followed by assessment of injury—implies a temporal order where entry must precede the discovery of his condition, supported by the narrative flow of Tudor arriving and then immediately needing assistance inside.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_988cdab9eb2b",
+    "subject_id": "ep_3d697b2f6c8abb53",
+    "object_id": "ep_ff07e62d849e17c5",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Mrs. Wheatley confronts Tudor about his injury and he demands a cab, occurs in doc_15 (scene_16), while the object episode, where Tudor arrives and exits the cab at the Towers, occurs in doc_17 (scene_18). The narrative sequence across documents and scenes indicates that Tudor's decision to leave and take a cab precedes his arrival and exit at the destination, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9bba5e99a1ea",
+    "subject_id": "ep_4a5d52b14f8f5b70",
+    "object_id": "ep_ff07e62d849e17c5",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Flee the apartment with composure' involves Tudor leaving his apartment after a traumatic event, while the object episode 'Tudor arrives and exits the cab at the Towers' describes his arrival at a destination via cab. The sequence implied by the actions—fleeing a location followed by arriving at another—suggests a temporal order where fleeing precedes arrival. The presence of the attaché case in the first episode and no mention of it in the second does not contradict this, and the narrative flow supports a directed 'precedes' relation from the first to the second.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_647c1311f2bd",
+    "subject_id": "ep_3d697b2f6c8abb53",
+    "object_id": "ep_eada9d5cbee3cb5e",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs in doc_15, scene_16, where Tudor rejects medical help and demands to go home. The object episode occurs in doc_24, scene_25, where Tudor suffers violent nausea on the balcony. The document and scene numbering indicate a later narrative time for the object episode, supporting a 'precedes' relation from subject to object.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a987afbde894",
+    "subject_id": "ep_eada9d5cbee3cb5e",
+    "object_id": "ep_bdd372623fe42220",
+    "relation_type": "causes",
+    "reason": "Tudor's episode of violent nausea and vomiting on the balcony directly results in the parasite being expelled, which then strikes Vi's umbrella during her stroll, as evidenced by the description stating the parasite was 'vomited from Tudor above' and hit the umbrella with force. This establishes a clear causal chain from Tudor's physiological episode to the impact event in Vi and Olive's episode.",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_86220084349e",
+    "subject_id": "ep_4eaefbb908b1455d",
+    "object_id": "ep_06d8129ea43d6e35",
+    "relation_type": "precedes",
+    "reason": "Tudor must first gain entry to Annabelle's apartment discreetly (unlocking, knocking, entering, and closing the door) before he can discover the crime scene and react to the horror inside. The sequence of events in the related scenes (scene_10 before scene_11) and the logical dependency of discovering the bodies only after entering the apartment provide clear narrative and temporal ordering.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_797101e52a71",
+    "subject_id": "ep_fff36d3332a4f655",
+    "object_id": "ep_06d8129ea43d6e35",
+    "relation_type": "precedes",
+    "reason": "Tudor arrives home and settles in before discovering the crime scene, as the arrival and domestic routine (removing jacket, making a drink) logically and chronologically precede the discovery of the bodies in the apartment. The narrative order in the related events supports this sequence.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_37a8c5c34fc1",
+    "subject_id": "ep_4eaefbb908b1455d",
+    "object_id": "ep_2a05d8306aaf5775",
+    "relation_type": "precedes",
+    "reason": "Tudor gains entry to Annabelle's apartment (ep_4eaefbb908b1455d) before identifying her body in a later scene (ep_2a05d8306aaf5775), as supported by the document order (doc_9 before doc_10) and the logical sequence of investigating a person's apartment prior to examining their corpse.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_48807c9187f2",
+    "subject_id": "ep_4a5d52b14f8f5b70",
+    "object_id": "ep_c4a329980d0fd039",
+    "relation_type": "precedes",
+    "reason": "Tudor flees the apartment in a state of shock, which must occur before Mrs. Wheatley can assist and assess his condition upon his arrival elsewhere; the narrative sequence implied by the events supports a temporal order where fleeing precedes receiving aid.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dbf20d312759",
+    "subject_id": "ep_2a05d8306aaf5775",
+    "object_id": "ep_88801f35cd483557",
+    "relation_type": "causes",
+    "reason": "Tudor's identification of Annabelle's body, with its disturbing details (surgical clip, bruises), directly precedes and plausibly triggers his physical breakdown in the bathroom, as the emotional and psychological impact of the atrocity leads to nausea and vomiting. The causal link is supported by the narrative progression from traumatic realization to physical reaction.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8c56272a1f2e",
+    "subject_id": "ep_06d8129ea43d6e35",
+    "object_id": "ep_80aeeda8ec25858d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Discover the crime scene and react to the horror' occurs in doc_10 and describes Tudor's initial reaction upon entering the apartment and finding the bodies. The object episode 'Tudor endures sudden physical crisis' occurs in doc_20 and begins after a 'brief moment of calm' following prior events, indicating it happens later. The narrative order across documents and the temporal cue support that the discovery and horror reaction precede the physical crisis.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a0687a84758f",
+    "subject_id": "ep_4a5d52b14f8f5b70",
+    "object_id": "ep_88801f35cd483557",
+    "relation_type": "precedes",
+    "reason": "Tudor first flees the apartment with composure, retrieving his attaché case, before later stumbling into the bathroom overcome by nausea and collapsing. The sequence implied by the physical deterioration—retaining minimal control during departure followed by a complete physical breakdown in the bathroom—supports a narrative order where fleeing precedes the breakdown episode.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2c6756e0acf6",
+    "subject_id": "ep_06d8129ea43d6e35",
+    "object_id": "ep_88801f35cd483557",
+    "relation_type": "precedes",
+    "reason": "Tudor discovers the bodies and reacts with distress in the apartment (ep_06d8129ea43d6e35), which immediately precedes his physical breakdown and vomiting in the bathroom (ep_88801f35cd483557), as the horror of the scene directly leads to his physiological reaction. The narrative progression from the dining area to the bathroom and the escalation of distress support the temporal sequence.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_633feb2f58e9",
+    "subject_id": "ep_fff36d3332a4f655",
+    "object_id": "ep_88801f35cd483557",
+    "relation_type": "precedes",
+    "reason": "Tudor arrives home and settles in before seeking relief in the bathroom, as indicated by the sequence of related events in scene_21: entering the apartment, loosening his tie, preparing a drink, and sitting down precede stumbling into the bathroom and vomiting. The narrative order of events supports a clear temporal precedence.",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4602a6b54b85",
+    "subject_id": "ep_4a5d52b14f8f5b70",
+    "object_id": "ep_80aeeda8ec25858d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Flee the apartment with composure' involves Tudor leaving the apartment while retaining minimal control, which is immediately followed by the object episode 'Tudor endures sudden physical crisis' where he collapses due to a physical spasm. The narrative flow and temporal sequence implied by the events—first exiting the scene, then suffering a collapse—support a 'precedes' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_03cad55ff05d",
+    "subject_id": "ep_4a5d52b14f8f5b70",
+    "object_id": "ep_db8a1a869b890cdf",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Flee the apartment with composure' occurs immediately after Tudor confronts a traumatic scene and leaves the apartment, while the object episode 'Tudor asserts independent movement after separation' takes place during an elevator ascent after the Svibens exit with Merrick. The narrative sequence implied by the locations (apartment exit before elevator actions) and the progression from shock to deliberate agency supports that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8c52a0b3f46d",
+    "subject_id": "ep_06d8129ea43d6e35",
+    "object_id": "ep_c4a329980d0fd039",
+    "relation_type": "precedes",
+    "reason": "The discovery of the crime scene and Tudor's reaction (ep_06d8129ea43d6e35) involves him finding the bodies and reacting with distress, which sets the context for Mrs. Wheatley later assisting and assessing his condition (ep_c4a329980d0fd039). The narrative progression across documents (doc_10 before doc_15) and the causal plausibility of Tudor's distress leading to medical concern support a temporal sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6f9787a5766f",
+    "subject_id": "ep_80aeeda8ec25858d",
+    "object_id": "ep_b0d81d18afa79133",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Tudor endures sudden physical crisis' involves Tudor collapsing and struggling back to his feet, which must occur before Mrs. Wheatley discovers him incapacitated in the object episode 'Investigate Tudor's unresponsiveness'. The discovery by Mrs. Wheatley is a response to Tudor's unresponsiveness, implying a temporal sequence where the physical crisis precedes the investigation.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a700a68b6099",
+    "subject_id": "ep_3d697b2f6c8abb53",
+    "object_id": "ep_80aeeda8ec25858d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Confront Tudor's resistance to medical help' occurs in doc_15 and scene_16, while the object episode 'Tudor endures sudden physical crisis' occurs in doc_20 and scene_21, indicating a clear narrative sequence where the confrontation precedes the physical crisis based on document and scene ordering.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6d70dccd7706",
+    "subject_id": "ep_fff36d3332a4f655",
+    "object_id": "ep_6d77165083f807eb",
+    "relation_type": "precedes",
+    "reason": "The episode 'Tudor arrives home and settles in' describes Tudor's return from work and initial domestic routine, which establishes a temporal starting point for the evening. The episode 'Tudor establishes intimate contact with the abdominal lump' occurs later in the same evening, as it involves a subsequent private interaction in his bedroom. The sequence of events (arriving home, unwinding, then discovering the lump) implies a chronological order supported by the narrative setting and progression of activities.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1c156835e52e",
+    "subject_id": "ep_80aeeda8ec25858d",
+    "object_id": "ep_db29ddff9e4cee8f",
+    "relation_type": "precedes",
+    "reason": "The physical crisis in ep_80aeeda8ec25858d (Tudor collapsing and struggling back to his feet) occurs in scene_21, while the concealment of the abdominal anomaly from Janine in ep_db29ddff9e4cee8f occurs in scene_33. The scene numbers indicate a clear narrative sequence, with the first episode preceding the second.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8caf70241512",
+    "subject_id": "ep_88801f35cd483557",
+    "object_id": "ep_b0d81d18afa79133",
+    "relation_type": "precedes",
+    "reason": "Tudor's physical breakdown in the bathroom (vomiting, collapsing) must occur before Mrs. Wheatley discovers him unresponsive in his office, as her investigation is prompted by his incapacitated state. The narrative sequence implied by the causal chain of events supports a temporal order where the bathroom episode precedes the discovery episode.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3e4faf59a016",
+    "subject_id": "ep_fff36d3332a4f655",
+    "object_id": "ep_4a5d52b14f8f5b70",
+    "relation_type": "precedes",
+    "reason": "The episode 'Tudor arrives home and settles in' describes Tudor entering his apartment, discarding his jacket and attaché case, and relaxing, which establishes a normal, controlled state. The episode 'Flee the apartment with composure' describes Tudor leaving the apartment in distress after a traumatic event, remembering to take his attaché case. The reuse of the attaché case and the reversal from settling in to fleeing indicates a temporal sequence where the arrival and settling must occur before the subsequent traumatic event and departure. This local narrative order supports a 'precedes' relation from the arrival episode to the fleeing episode.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b21d0dab187e",
+    "subject_id": "ep_4a5d52b14f8f5b70",
+    "object_id": "ep_df0524d6612b2242",
+    "relation_type": "precedes",
+    "reason": "The episode 'Flee the apartment with composure' involves Tudor exiting the apartment, which logically and narratively must occur before he can join the elevator group in 'Tudor joins the elevator group spontaneously'. The related event 'Tudor staggers away from the crime scene with his attaché case' (scene_11) occurs after scene_9 ('Tudor decides to join the elevator ride'), but the episode descriptions and event ordering suggest that the apartment exit precedes the elevator entry in the local narrative sequence, despite potential scene numbering discrepancies. Thus, the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_15e2a6cba00d",
+    "subject_id": "ep_88801f35cd483557",
+    "object_id": "ep_a8d427c817cef6cb",
+    "relation_type": "causes",
+    "reason": "The subject episode 'Tudor seeks relief in bathroom' directly results in the object episode 'Second parasite lands near basement window', as the parasite is expelled from Tudor during his vomiting episode, which immediately leads to its presence in the grass near the basement window. The causal link is explicitly supported by the biological event of expulsion described in both episodes.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2ca367d671e8",
+    "subject_id": "ep_3d697b2f6c8abb53",
+    "object_id": "ep_88801f35cd483557",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs when Mrs. Wheatley confronts Tudor about his injury in her office, and he insists on leaving. The object episode occurs later, when Tudor is overcome by nausea and collapses in the bathroom, indicating a progression in his physical deterioration immediately following his departure. The narrative sequence across scenes (scene_16 before scene_21) and the escalating physical state support that the confrontation precedes the physical breakdown.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c3096ed54e0a",
+    "subject_id": "ep_1234cf0083f7c356",
+    "object_id": "ep_88801f35cd483557",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Tudor suffering abdominal pain and bleeding from the mouth while still in the main room after Mrs. Wheatley leaves (doc_15, scene_16). The object episode describes Tudor stumbling into the bathroom to vomit and collapsing (doc_20, scene_21), which logically follows his worsening condition. The progression from pain and bleeding to active vomiting and collapse indicates a temporal sequence supported by the narrative flow across scenes.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_df2b5df1a0b5",
+    "subject_id": "ep_88801f35cd483557",
+    "object_id": "ep_bdd372623fe42220",
+    "relation_type": "causes",
+    "reason": "The subject episode 'Tudor seeks relief in bathroom' directly results in the parasite being vomited from Tudor, which then strikes Vi's umbrella in the object episode 'Parasite strikes during evening stroll'. The related event 'Parasite vomited from Tudor strikes Vi's umbrella (scene_26)' explicitly links the outcome of Tudor's vomiting to the occurrence of the strike, providing clear causal evidence.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a3555bf852c5",
+    "subject_id": "ep_88801f35cd483557",
+    "object_id": "ep_db29ddff9e4cee8f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Tudor seeks relief in bathroom' involves Tudor vomiting and collapsing, which represents an acute physical crisis. The subsequent episode 'Tudor conceals the abdominal anomaly from Janine' occurs when Janine enters the bedroom and observes Tudor in bed, indicating a later point in time. The narrative progression from physical collapse to a later interaction in bed supports a 'precedes' relation from the bathroom episode to the concealment episode.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_75d0b8a9104e",
+    "subject_id": "ep_b0d81d18afa79133",
+    "object_id": "ep_db29ddff9e4cee8f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Investigate Tudor's unresponsiveness' describes the discovery of Tudor incapacitated on the floor, which establishes his initial medical condition. The episode 'Tudor conceals the abdominal anomaly from Janine' occurs later, in a bedroom setting, where Tudor is in bed and actively concealing symptoms from Janine. The progression from discovery of incapacitation to a later interaction involving concealment and emotional conflict implies a clear temporal sequence supported by the narrative context.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6a3cf91aba1f",
+    "subject_id": "ep_3d697b2f6c8abb53",
+    "object_id": "ep_db29ddff9e4cee8f",
+    "relation_type": "contrasts_with",
+    "reason": "Both episodes depict Tudor rejecting help from others—first from Mrs. Wheatley, then from Janine—but the emotional responses of the two women differ: Mrs. Wheatley leaves hurt and silent, while Janine breaks down emotionally and departs angrily. This juxtaposition emphasizes a contrast in the interpersonal dynamics and emotional outcomes of Tudor's resistance, supporting a contrasts_with relation.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_89741e338533",
+    "subject_id": "ep_80aeeda8ec25858d",
+    "object_id": "ep_c4a329980d0fd039",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Tudor endures sudden physical crisis' involves Tudor collapsing and struggling back to his feet (scene_21), while the object episode 'Assist and assess Tudor's condition' involves Mrs. Wheatley responding to his distress by helping him, noticing blood, and deciding on medical attention (scene_16). Despite the lower scene number in the object episode, the content of scene_21 (subject) describes the acute physical event that logically precedes the response in scene_16 (object). However, the scene numbering discrepancy introduces some uncertainty, but the narrative logic supports that the physical crisis must occur before the assistance can take place, indicating a local narrative order where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d93c96c9c99e",
+    "subject_id": "ep_2b92f30673578852",
+    "object_id": "ep_384aeacabda0439e",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Contact the rental agent via intercom' involves the doorman attempting to reach the rental agent, which is a necessary step before the agent's arrival and initiation of the apartment tour in the object episode. The related events in the object episode include the doorman announcing Mr. Merrick's arrival, implying that contact was first attempted. Thus, the intercom attempt precedes the tour initiation in narrative order.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a2ea556d7702",
+    "subject_id": "ep_1ba5524253f8e5d6",
+    "object_id": "ep_8c1ecbbae1c9ef2f",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Approach and enter the room' describes Janine entering the room, which is a necessary precursor to the object episode 'Deliver message and exchange greetings' that begins after she has entered Betts' apartment. The related events in the object episode explicitly state that Janine enters the apartment before delivering the message, supporting a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_950278788ef7",
+    "subject_id": "ep_1bb07ecbe20da011",
+    "object_id": "ep_94268fefd5a0aec3",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Conclude consultation and depart the clinic' describes Janine leaving the clinic, which logically and chronologically occurs before the object episode 'Janine returns home undisturbed', where she arrives at and enters her apartment. The narrative flow in the related events supports a direct temporal sequence: departing the clinic precedes returning home.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_95ef8050c752",
+    "subject_id": "ep_0d082826f0e095e3",
+    "object_id": "ep_77b1c9ef3ba804d8",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Purchase and abandon food shopping' occurs in doc_28 and involves Janine leaving the grocery store with a Vogue magazine. The object episode 'Janine disengages from the TV and retreats to the sofa' occurs in doc_32 and shows her already back at home with the magazine, engaging with it. The narrative order and reuse of the magazine as a prop suggest the shopping episode precedes the TV disengagement episode.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4d52c3ee267c",
+    "subject_id": "ep_1bb07ecbe20da011",
+    "object_id": "ep_8c1ecbbae1c9ef2f",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Conclude consultation and depart the clinic' involves Janine leaving the clinic after discussing Dr. St. Luc's visit, while the object episode 'Deliver message and exchange greetings' involves Janine delivering news about that same visit to Betts. The narrative sequence implies that Janine must first conclude the consultation before delivering the message, establishing a clear temporal order supported by the shared context of arranging Dr. St. Luc's visit.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9b78525a8cc5",
+    "subject_id": "ep_88801f35cd483557",
+    "object_id": "ep_c4a329980d0fd039",
+    "relation_type": "precedes",
+    "reason": "Tudor's physical breakdown in the bathroom, including vomiting and collapsing, occurs before Mrs. Wheatley assists him and assesses his condition, as evidenced by the sequence of events: Tudor's collapse (scene_21) follows his entry and vomiting, while Mrs. Wheatley's assistance and decision to seek medical help occur in scene_16. However, scene_16 is chronologically prior to scene_21 based on narrative flow, indicating that the episodes may be out of order. But given that Tudor is already injured and collapsing in ep_88801f35cd483557, and Mrs. Wheatley responds to his visible injury in ep_c4a329980d0fd039, the latter must follow the former. Thus, the subject episode precedes the object episode in narrative time despite the scene numbering discrepancy, as the object episode involves a response to the outcome of the subject episode.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9ae721b22cf7",
+    "subject_id": "ep_656430789f78e81b",
+    "object_id": "ep_a4cddcbf118326f2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Call and enter the examination room' involves Forsythe calling Mr. Parkins into the examination room and him following, which directly precedes the subsequent actions in 'Prepare Parkins for examination' where Forsythe provides a hospital tunic and instructs Parkins to undress. The sequence of events in the description and related_events shows a clear temporal order: entering the room occurs before preparation for examination.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5a76593f1785",
+    "subject_id": "ep_a4cddcbf118326f2",
+    "object_id": "ep_04355cd2cc00747d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Prepare Parkins for examination' involves Forsythe instructing Parkins to undress and change into a hospital tunic, which sets the scene for the doctor's arrival. This is immediately followed by St. Luc performing the abdominal examination. The preparation logically and temporally precedes the examination, as confirmed by the sequence of events in the respective scenes (scene_23 before scene_27).",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3defee51c1b9",
+    "subject_id": "ep_656430789f78e81b",
+    "object_id": "ep_9287f403fdc4789c",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Call and enter the examination room' involves initiating the patient consultation, while the object episode 'Document findings and prepare for imaging' occurs after the examination, as indicated by 'After the examination' in its description. The sequence of events—first entering the room, then later documenting findings and preparing for imaging—supports a clear narrative order where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ed3b7892d100",
+    "subject_id": "ep_a4cddcbf118326f2",
+    "object_id": "ep_9287f403fdc4789c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Prepare Parkins for examination' involves Forsythe instructing Parkins to undress and change into a hospital tunic, which sets the stage for the doctor's examination. The episode 'Document findings and prepare for imaging' occurs after the examination, as St. Luc records observations and provides a referral for X-rays. The sequence of events—preparation for examination followed by post-examination documentation and imaging referral—indicates a clear temporal order supported by the narrative flow in the descriptions and related events.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f4c304609325",
+    "subject_id": "ep_1fb25915acfe82ca",
+    "object_id": "ep_656430789f78e81b",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Engage in Waiting Room Conversation' occurs while Mr. Parkins and Janine Tudor are awaiting their appointments, and it ends when her appointment starts. The object episode 'Call and enter the examination room' involves Forsythe calling Mr. Parkins into the examination room, which happens after the waiting room interaction concludes. The narrative sequence, supported by the related events and the transition from waiting to active consultation, indicates a clear temporal order where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_078f61ba57d0",
+    "subject_id": "ep_656430789f78e81b",
+    "object_id": "ep_04355cd2cc00747d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Call and enter the examination room' describes the initiation of Mr. Parkins' appointment, where he is called in and enters the examination room. The episode 'Conduct abdominal examination' involves a physical diagnostic procedure performed on Parkins. Given the clinical workflow, entering the examination room must precede the physical examination, and both episodes are part of the same patient encounter as evidenced by the shared patient (Parkins) and clinical setting. This temporal ordering is strongly supported by the narrative sequence implied in the descriptions.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_858bb6e8f5fc",
+    "subject_id": "ep_7d59f4335b2e82b8",
+    "object_id": "ep_4a8b39c7e367a5fb",
+    "relation_type": "precedes",
+    "reason": "The investigation of Hobbes's publications and St. Luc's inquiry to Forsythe (ep_7d59f4335b2e82b8) occurs in doc_36, scene_37, while the revelation of Hobbes' death and discovery of abdominal growths (ep_4a8b39c7e367a5fb) occurs in doc_40, scene_41. The document and scene numbering indicate a clear narrative sequence where the former precedes the latter.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bc6911b175b6",
+    "subject_id": "ep_95ddd78585d234fb",
+    "object_id": "ep_4a8b39c7e367a5fb",
+    "relation_type": "elaborates",
+    "reason": "St. Luc referencing Forsythe's publications on Hobbes provides background context that enriches the understanding of his later actions in examining the X-rays and identifying the abdominal growths, suggesting an intellectual continuity where prior research informs current medical investigation.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e93b5bfc094b",
+    "subject_id": "ep_1e587e8ad3953eef",
+    "object_id": "ep_184cd9c2bd4947bd",
+    "relation_type": "elaborates",
+    "reason": "The phone call episode reestablishes contact between Rollo and St. Luc, setting up their subsequent coordination. The planning episode expands on this interaction by detailing their joint response to the creature threat, including tactical decisions and shared responsibilities, thus providing elaboration on the professional collaboration initiated in the call.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_3f3ee39658b0",
+    "subject_id": "ep_1e587e8ad3953eef",
+    "object_id": "ep_442c434dd9ed89be",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Rollo Linsky initiating a phone call and St. Luc answering, which establishes the conversational context. The second episode involves Rollo explaining a cryptic quote during the same conversation, which logically follows the initiation of the call. The narrative flow and shared context indicate a clear temporal sequence where the call initiation precedes the clarification attempt.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b844379e11d7",
+    "subject_id": "ep_84efc8d0b666272f",
+    "object_id": "ep_c96cedb58a8c5334",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate Janine Tudor's Clinic Appointment' occurs in scene_17, while the object episode 'Address Janine's concerns about her husband's health' occurs in scene_20. The progression from entering the office to discussing medical concerns indicates a sequential narrative order, with the initiation of the appointment directly preceding the discussion of her husband's health.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0c3f3afbaf0d",
+    "subject_id": "ep_1e587e8ad3953eef",
+    "object_id": "ep_0f64cdf3f4fc7241",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rollo Linsky initiates phone call and St. Luc responds' describes the initiation of the phone conversation, while 'Conclude phone call and relay meeting details' describes its conclusion, including agreement on a meeting time and location. The narrative order of call initiation followed by call conclusion provides explicit temporal sequencing, supporting that the first precedes the second.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e6e8d8ea93e6",
+    "subject_id": "ep_184cd9c2bd4947bd",
+    "object_id": "ep_0f64cdf3f4fc7241",
+    "relation_type": "precedes",
+    "reason": "The planning episode (ep_184cd9c2bd4947bd) involves Rollo and St. Luc coordinating the encounter, including agreeing on the time (ten o'clock) and precautions, which sets up the subsequent phone call conclusion in ep_0f64cdf3f4fc7241 where St. Luc confirms the meeting details. The planning logically and temporally precedes the finalization of the call, as the call serves to confirm arrangements made during the planning phase.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_40442dbaf2bd",
+    "subject_id": "ep_84efc8d0b666272f",
+    "object_id": "ep_782549826ccb9bc9",
+    "relation_type": "precedes",
+    "reason": "The Initiate Janine Tudor's Clinic Appointment episode ends with Dr. St. Luc closing the office door with Janine, marking the start of her private consultation. The Respond to Mrs. Ementhal's appointment episode begins after Janine leaves, with St. Luc reviewing Tudor's file and responding to Forsythe's notification. The explicit mention of Janine leaving before the second episode occurs establishes a clear temporal sequence: the first episode precedes the second.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_68b11ac87825",
+    "subject_id": "ep_6654d6fe9f248629",
+    "object_id": "ep_0f64cdf3f4fc7241",
+    "relation_type": "precedes",
+    "reason": "The episode 'Invite St. Luc into a professional partnership to combat loneliness' includes St. Luc announcing his need to leave to open the store and agreeing to consider the collaboration, which directly precedes the phone call in 'Conclude phone call and relay meeting details' where he confirms plans with Rollo. The narrative flow in the related events shows St. Luc departing after the in-person meeting, implying the invitation episode occurs first.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_13_part_3",
+      "scene_13_part_4"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_812feac19071",
+    "subject_id": "ep_1e587e8ad3953eef",
+    "object_id": "ep_e784c5add1aae7cb",
+    "relation_type": "precedes",
+    "reason": "The phone call initiation by Rollo Linsky and St. Luc's response sets up the conversation, after which Forsythe changes clothes while St. Luc observes, indicating a sequential narrative order where the call establishment precedes the clothing change during the ongoing interaction.",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7ccd30803a1c",
+    "subject_id": "ep_84efc8d0b666272f",
+    "object_id": "ep_8c96cc0ec33265fe",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate Janine Tudor's Clinic Appointment' involves Dr. St. Luc bringing Janine into his office for a private consultation, which sets the stage for the subsequent medical evaluation and reassurance about Nick. The episode 'Receive medical reassurance about Nick' occurs during the same clinic visit but necessarily follows the initiation of the appointment, as the consultation must begin before medical advice can be given. The sequence of events in the related scenes supports a clear temporal order: entering the office precedes the medical evaluation and communication of Nick's condition.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_08d2a826d491",
+    "subject_id": "ep_eda5ac1f2b6c38a7",
+    "object_id": "ep_c36c1b9e6c98e17c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Deliver serving cart into building' occurs when Kurt arrives at the building and brings the cart inside with the doorman's help, which is immediately followed by the episode where he is pulled into the apartment and separated from the cart. The abandonment of the cart in the hallway in the second episode implies that the cart was first successfully brought into the building, establishing a clear temporal sequence.",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d56a664963a8",
+    "subject_id": "ep_1e587e8ad3953eef",
+    "object_id": "ep_a7f1ac419f04504c",
+    "relation_type": "precedes",
+    "reason": "The phone call initiation (ep_1e587e8ad3953eef) establishes contact between Rollo Linsky and St. Luc, which logically precedes and enables the subsequent shared lunch and rekindling of camaraderie (ep_a7f1ac419f04504c), as the latter occurs in person and builds on the reestablished connection initiated by the call.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_13_part_3",
+      "scene_13_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_aa32938cbaf0",
+    "subject_id": "ep_c9beff1caad2a780",
+    "object_id": "ep_0092fe3a71d707d9",
+    "relation_type": "precedes",
+    "reason": "The episode where Rollo examines Hobbes's notes logically precedes the episode where he damages them, as the damage occurs during the act of reading and searching through the notes, with both episodes sharing the same scene (scene_40) and causal context.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c7fbfba0b98e",
+    "subject_id": "ep_6654d6fe9f248629",
+    "object_id": "ep_22d55c2ac23a4a6d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Invite St. Luc into a professional partnership to combat loneliness' (ep_6654d6fe9f248629) concludes with St. Luc departing and closing the door, while the episode 'React and resume work after interaction' (ep_22d55c2ac23a4a6d) begins after Forsythe departs and St. Luc returns to his files. The departure of St. Luc in the first episode and the subsequent return to work in the second, following an interaction, imply a sequential narrative order where the invitation and parting occur before the resumption of work, supported by the scene-based event flow.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_13_part_3",
+      "scene_13_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ccf1dcc77588",
+    "subject_id": "ep_0092fe3a71d707d9",
+    "object_id": "ep_2f9e7aebae1636e0",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, in which Rollo damages Hobbes's notes while reading, provides specific contextual detail about how Rollo interacts with the materials during the broader object episode, where he uncovers Hobbes's deception through reviewing those same papers. The act of damaging the notes occurs within the context of Rollo's examination described in the object episode, thus elaborating on the manner and circumstances of that investigation.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_abd604117057",
+    "subject_id": "ep_31ff6d72d3b672bf",
+    "object_id": "ep_a34930316d7d2ec5",
+    "relation_type": "elaborates",
+    "reason": "The subject episode investigates the origin of Parkins' lumps and identifies Annabelle Horsefield as a potential source, while the object episode reveals Hobbes's disturbing relationship with the same Annabelle, including her clinic visits. The object episode provides background on Annabelle's connection to the medical setting and her presence at the clinic, which elaborates on her role in the epidemiological线索 established in the subject episode. Although not directly causal or sequential, the object episode expands the context around Annabelle, who is a shared link between both episodes.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_13_part_3",
+      "scene_13_part_4"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6a4687bcc71d",
+    "subject_id": "ep_6488ea2618fdb7ad",
+    "object_id": "ep_b70347faaf23bc2c",
+    "relation_type": "elaborates",
+    "reason": "The first episode describes Rollo discovering Hobbes's notes on Annabelle's transformation, while the second episode provides a detailed revelation of the experiment's process and outcome, including the implantation, violent breakdown, and destruction of her body. The second episode expands upon the implications of the discovery in the first, offering causal and narrative context that elaborates the initial finding.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9f086a21ed3e",
+    "subject_id": "ep_2f9e7aebae1636e0",
+    "object_id": "ep_c9beff1caad2a780",
+    "relation_type": "elaborates",
+    "reason": "Episode ep_2f9e7aebae1636e0 involves Rollo uncovering Hobbes's deception and unusual behavior through personal papers, which sets the context for ep_c9beff1caad2a780 where Rollo examines Hobbes's theoretical notes on human nature and the parasite. The second episode expands on the content of the materials first processed in the first episode, providing deeper insight into Hobbes's ideas, thus elaborating on the intellectual content revealed during the initial review.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_9b5fbd42a651",
+    "subject_id": "ep_c9beff1caad2a780",
+    "object_id": "ep_6488ea2618fdb7ad",
+    "relation_type": "elaborates",
+    "reason": "The episode where Rollo examines Hobbes's theoretical notes on human nature and the parasite provides foundational context that enriches the later discovery of Annabelle's transformation, which is presented as a real-world instance of the theory. The first episode elaborates on the conceptual framework that the second episode concretizes, with both occurring in the same scene and document, supporting a directed elaboration from theoretical exploration to specific evidence.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_afa96ffaf9b7",
+    "subject_id": "ep_15cf44b872a15de6",
+    "object_id": "ep_0faf0429c0df1033",
+    "relation_type": "precedes",
+    "reason": "The dental hygiene ritual occurs before the silent breakfast, as Nicholas exits the bathroom only after completing his routine and then joins Janine in the dining room. The narrative sequence in scene_7 supports this temporal order.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0298ab55f5e3",
+    "subject_id": "ep_15cf44b872a15de6",
+    "object_id": "ep_7b61a95f7a67b9dd",
+    "relation_type": "precedes",
+    "reason": "The dental hygiene episode occurs first, as Nicholas is in the bathroom during Janine's breakfast announcement, and the tense dialogue about work follows afterward in the same scene (scene_7), establishing a clear local narrative order.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c6e2f48578d7",
+    "subject_id": "ep_13761409880749ae",
+    "object_id": "ep_9d9c429dafd29604",
+    "relation_type": "precedes",
+    "reason": "Janine's investigation occurs while she is present and ends when she leaves; Tudor resumes his examination only after Janine exits, as stated in the object episode's description. This establishes a clear temporal sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2132453f533f",
+    "subject_id": "ep_15cf44b872a15de6",
+    "object_id": "ep_bac39d094cd46091",
+    "relation_type": "precedes",
+    "reason": "The dental hygiene ritual occurs before the end of the meal, as both episodes are part of the same morning routine in scene_7, with Nicholas first completing his dental routine and then finishing breakfast in silence, indicating a clear temporal sequence.",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_cd423b152408",
+    "subject_id": "ep_b70347faaf23bc2c",
+    "object_id": "ep_4a8b39c7e367a5fb",
+    "relation_type": "elaborates",
+    "reason": "Rollo's revelation about Hobbes's experiment on Annabelle provides critical background that explains the nature and danger of the abdominal growths later identified in Hobbes and others by St. Luc. The object episode builds upon this by connecting the specific case (Annabelle's infection and destruction) to a broader pattern, thus expanding the medical mystery. The subject episode supplies essential context that the object episode elaborates on, though the episodes occur in close narrative proximity and are causally and temporally linked through the parasite's effects.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_c345744dddae",
+    "subject_id": "ep_2f9e7aebae1636e0",
+    "object_id": "ep_6488ea2618fdb7ad",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Uncover Hobbes's deception through personal papers' involves Rollo reviewing materials from Hobbes's mother, which includes the discovery of documents revealing Hobbes's deceit and unusual behavior. The episode 'Rollo discovers evidence of Annabelle's transformation' focuses on a specific note labeled 'ANNABELLE' found within those same materials, describing her transformation in detail. The second episode provides a specific instance and expansion of the broader discovery process in the first, particularly regarding Hobbes's real-world experimentation. Thus, the second episode elaborates on the first by offering a focused revelation within the context of the general uncovering of deception.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_7f388bd12242",
+    "subject_id": "ep_6488ea2618fdb7ad",
+    "object_id": "ep_a34930316d7d2ec5",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, in which Rollo discovers Hobbes's notes on Annabelle's transformation, provides background and evidentiary context that is later expanded upon in the object episode, where Rollo reveals Hobbes's disturbing relationship with Annabelle and reflects on her photograph. The discovery of the notes (subject) supplies the informational foundation that the conversation with St. Luc (object) elaborates through moral reflection, emotional response, and further narrative detail about Hobbes's actions.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_13_part_3",
+      "scene_13_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6bcc23af07b7",
+    "subject_id": "ep_2f9e7aebae1636e0",
+    "object_id": "ep_b70347faaf23bc2c",
+    "relation_type": "elaborates",
+    "reason": "The first episode, where Rollo uncovers Hobbes's deception through personal papers, provides background context that helps explain the motivations and circumstances leading to the events in the second episode, where Rollo reveals Hobbes's experiment on Annabelle and its catastrophic outcome. The discovery of Hobbes's broader deceit and unusual behavior (ep_2f9e7aebae1636e0) elaborates on the context of his actions, including the experiment on Annabelle (ep_b70347faaf23bc2c), by revealing a pattern of unethical and erratic conduct. This is supported by the narrative progression from uncovering general deception to disclosing a specific, extreme instance of it.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4e3083f7dd6f",
+    "subject_id": "ep_2f9e7aebae1636e0",
+    "object_id": "ep_a34930316d7d2ec5",
+    "relation_type": "elaborates",
+    "reason": "Episode ep_2f9e7aebae1636e0 (uncovering Hobbes's deception through personal papers) provides additional detail about Hobbes's fraudulent behavior and eccentricity, which expands the understanding of his character established in ep_a34930316d7d2ec5 (confronting his suicide and disturbing relationship with Annabelle). The discovery of deceit in the personal papers elaborates on the moral and psychological dimensions of Hobbes's actions previously discussed, particularly regarding his inappropriate conduct with Annabelle. Both episodes involve Rollo reviewing sensitive materials and using the gynecological table, suggesting a narrative linkage where the later examination deepens earlier revelations.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_13_part_3",
+      "scene_13_part_4"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_574e31bf33a0",
+    "subject_id": "ep_16c1dbd071704bbc",
+    "object_id": "ep_b70347faaf23bc2c",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Rollo reveals Hobbes's experiment on Annabelle and its consequences' provides background context that explains the emotional and narrative motivation behind 'Attempt self-harm after collapse'. Specifically, Rollo's revelation of Hobbes's catastrophic experiment and Annabelle's death elaborates on why Hobbes collapses into self-harm, as the self-destructive act follows directly from the emotional weight of his actions being exposed or remembered. The self-harm episode occurs after the burning of the body, which is part of the revealed sequence, suggesting the revelation contextually elaborates the cause of the breakdown.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8e0776aebbb3",
+    "subject_id": "ep_0104098c201650a4",
+    "object_id": "ep_f47b6880a56fd130",
+    "relation_type": "precedes",
+    "reason": "Vi's mourning of the supposed bird strike occurs immediately before Olive prevents the search for the creature, as both episodes are grounded in scene_26 and the narrative sequence shows Vi expressing concern first, followed by Olive's intervention to stop further action.",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0ef5cb7f1a4a",
+    "subject_id": "ep_bbda65310fae47ce",
+    "object_id": "ep_464d591a912ed2b9",
+    "relation_type": "precedes",
+    "reason": "The object episode 'Collapse into unconsciousness' occurs after the subject episode 'Detect early signs of disturbance', as the parasite's emergence from the drain (in the subject) sets the stage for Betts's physical collapse and loss of consciousness (in the object), with both episodes sharing scene_47 and forming a temporally ordered sequence in the narrative.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0d504ac4043f",
+    "subject_id": "ep_15cf44b872a15de6",
+    "object_id": "ep_63756f9826055dc2",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Nicholas Tudor completing his dental hygiene routine and exiting the bathroom, while the second episode begins with Janine entering the bathroom to check on him, implying a sequential narrative order. The events in ep_15cf44b872a15de6 (scene_7) occur before those in ep_63756f9826055dc2 (scene_14), supporting a clear 'precedes' relation from subject to object.",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_37219a80ca10",
+    "subject_id": "ep_5886e1f4067d5137",
+    "object_id": "ep_b851bcd00d45208c",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Children flee after parasite movement' occurs immediately before the object episode 'Parasite stirs again after children leave', as indicated by the temporal marker 'a few seconds after the children flee' in the object's description, establishing a clear narrative sequence.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c2880d986d13",
+    "subject_id": "ep_15cf44b872a15de6",
+    "object_id": "ep_9d9c429dafd29604",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Perform dental hygiene ritual' occurs during scene_7, where Nicholas Tudor uses a water-pick and ignores Janine's call. The object episode 'Tudor resumes private examination after Janine leaves' occurs in scene_14, after Janine has exited and Tudor turns off the water-pick to re-examine his abdomen. The narrative order of scenes (7 before 14) and the shared use of the water-pick device indicate that the dental hygiene episode precedes the private examination episode.",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ff0b977420a1",
+    "subject_id": "ep_56f70ba8a379297b",
+    "object_id": "ep_c7bf8365249a772c",
+    "relation_type": "precedes",
+    "reason": "The Svibens' reflection is triggered by observing the Spergazzi couple enter, which requires the doorman's assistance to have already begun or occurred; thus, the assistance episode precedes the reflective exchange. The shared glance is a reaction to the Spergazzis' arrival, implying the doorman's actions come first in narrative sequence.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9c4025706a74",
+    "subject_id": "ep_025a2fc55938d8a3",
+    "object_id": "ep_464d591a912ed2b9",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Settle into the bath and relax' describes Betts actively relaxing in the bathtub with pleasurable physical reactions, immediately before the object episode 'Collapse into unconsciousness', which begins with a full-body spasm and loss of control. Both episodes occur in scene_47 and share a continuous timeline, with the relaxation state directly preceding the physical collapse, as supported by the sequence of related events in the same scene.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_80d93d69b309",
+    "subject_id": "ep_0bfef57f8b13c64e",
+    "object_id": "ep_9206837d24ac9a5c",
+    "relation_type": "elaborates",
+    "reason": "The subject episode describes the girl threatening to buy cigarettes, asserting independence. The object episode shows her retrieving a milk jug to fund that purchase, demonstrating tangible action that expands on her initial threat. The description of the object episode explicitly states it 'grounds her earlier threat to buy cigarettes in tangible action,' which constitutes elaboration of the prior assertion.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_74c6b97f6948",
+    "subject_id": "ep_46784d3b7c67ded0",
+    "object_id": "ep_b0d81d18afa79133",
+    "relation_type": "causes",
+    "reason": "The subject episode 'Handle incoming call for Tudor' directly leads to the object episode 'Investigate Tudor's unresponsiveness' because Mrs. Wheatley's failed attempt to alert Tudor during the call prompts her concern, which results in her knocking on his door and discovering him incapacitated. The causal link is explicitly supported by the narrative sequence in the description and related events.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a99f0e646954",
+    "subject_id": "ep_3d697b2f6c8abb53",
+    "object_id": "ep_46784d3b7c67ded0",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_16 and involve Mrs. Wheatley interacting with Tudor in sequence: first she confronts his resistance to medical help, then she handles an incoming call for him. The description of the second episode notes she attempts to alert Tudor via intercom after the prior interaction, implying a temporal sequence supported by the shared scene and narrative flow.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7e1406302670",
+    "subject_id": "ep_b4bb4ff91e08d306",
+    "object_id": "ep_56f70ba8a379297b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Gain entry and request assistance' occurs at the building entrance (scene_2, doc_1), while 'Svibens reflect on aging together' happens after observing the Spergazzi couple enter the building (scene_4, doc_3), indicating a later point in the narrative sequence. The related_events and scene numbers support a clear temporal order where gaining entry precedes the reflective moment.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_af73ff9ec44f",
+    "subject_id": "ep_b4bb4ff91e08d306",
+    "object_id": "ep_d43d369921b88e50",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Gain entry and request assistance' involves the Svibens arriving at the building and initiating contact with staff, which logically and chronologically precedes the object episode 'Discuss apartment preferences and floor plans', where Mr. Merrick engages them in a conversation about housing needs and shows floor plans. The sequence of events—entry and initial request followed by a detailed discussion about apartment options—reflects a natural narrative progression supported by the descriptions and related events in both episodes.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_071202fd6553",
+    "subject_id": "ep_d93a82d36104e8ac",
+    "object_id": "ep_9206837d24ac9a5c",
+    "relation_type": "precedes",
+    "reason": "The children approach Tudor's apartment and propose stealing a cigarette (ep_d93a82d36104e8ac) before the girl retrieves a milk jug as part of funding cigarette purchase (ep_9206837d24ac9a5c), as the latter action represents a shift from attempting theft to obtaining resources legitimately, indicating a sequential progression in the narrative.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2a3f1a48bf88",
+    "subject_id": "ep_2a05d8306aaf5775",
+    "object_id": "ep_a34930316d7d2ec5",
+    "relation_type": "elaborates",
+    "reason": "The object Episode (Confront Hobbes's suicide and disturbing relationship with Annabelle) provides background context about Hobbes's relationship with Annabelle, including her visits to the clinic and the nature of their interactions, which elaborates on the subject Episode (Identify Annabelle's body and confirm her death) by explaining the significance of her identity and the circumstances leading to her death. The mention of Annabelle's photograph and Rollo's moral distress in the object Episode adds emotional and narrative depth to the identification of her body in the subject Episode.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_13_part_1",
+      "scene_13_part_2",
+      "scene_13_part_3",
+      "scene_13_part_4"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2a90ef43dd0f",
+    "subject_id": "ep_46784d3b7c67ded0",
+    "object_id": "ep_c4a329980d0fd039",
+    "relation_type": "precedes",
+    "reason": "The episode 'Handle incoming call for Tudor' involves Mrs. Wheatley managing a phone call and attempting to reach Tudor, which occurs before she rushes to assist him in the episode 'Assist and assess Tudor's condition'. Both episodes occur in scene_16 and the sequence of events implies that the failed attempt to alert Tudor via intercom (in the first episode) precedes her physical intervention upon discovering his condition (in the second episode), establishing a clear temporal order.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_994d65b79077",
+    "subject_id": "ep_3b3c92ce05389c82",
+    "object_id": "ep_5a5fb2c5ecde242a",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Respond to unexpected call about missed lunch' provides contextual detail that informs the subsequent interrogation of Dr. St. Luc, particularly regarding his planned lunch with Hobbes and his suspicious behavior, which becomes a focus in the interrogation. This supports the interpretation that the first episode elaborates on the background and motivation for the second, more formal questioning episode, both occurring within the same occasion and contributing to the establishment of St. Luc's credibility.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_12_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_7dd7b706f727",
+    "subject_id": "ep_3b3c92ce05389c82",
+    "object_id": "ep_ee040c82258cb680",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Respond to unexpected call about missed lunch' introduces the missed lunch and St. Luc's suspicious reaction, which prompts the subsequent investigation into the motive behind the meeting. The second episode provides additional detail and background by revealing the content of the phone calls and exploring the meaning of 'further your education,' thereby expanding on the initial episode's implications. This directed elaboration is supported by the shared context in scene_12 and the logical progression from disruption to inquiry.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_12_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0ba7713c720e",
+    "subject_id": "ep_b4bb4ff91e08d306",
+    "object_id": "ep_9282101e5eb425cf",
+    "relation_type": "precedes",
+    "reason": "The episode 'Gain entry and request assistance' occurs at the building entrance (scene_2) and involves the Svibens arriving and requesting help to locate the rental agent. The episode 'Merrick conducts elevator pitch for the Svibens' occurs later during an elevator ride (scene_9), where Merrick, having been located, actively engages the Svibens in a sales pitch. The narrative order of scenes (2 before 9) and the logical sequence of events—gaining entry and requesting assistance before conducting a property tour—support that the first episode precedes the second.",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.9
+  }
+]

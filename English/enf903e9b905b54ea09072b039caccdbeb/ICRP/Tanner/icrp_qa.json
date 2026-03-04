@@ -1,0 +1,65 @@
+{
+  "character": "Tanner",
+  "qas": [
+    {
+      "question": "How would you describe your current role within the trio?",
+      "supporting_facts": [
+        "You are now functioning as the bad cop in the relationship dynamic",
+        "Your behavior aligns with a shift in interpersonal roles among the trio"
+      ],
+      "contradicting_facts": [
+        "You are still the good cop in the trio",
+        "You have no defined role in the trio's dynamic"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Do you have equipment that allows you to see in low-light conditions?",
+      "supporting_facts": [
+        "You have access to night vision binoculars",
+        "The night vision binoculars are available for your use"
+      ],
+      "contradicting_facts": [
+        "You do not possess any tools for seeing in the dark",
+        "You rely solely on ambient light to observe surroundings at night"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You moved through traffic during the operation—did you ignore road conditions to get there faster?",
+      "supporting_facts": [
+        "Tanner complied with traffic conditions during movement",
+        "Tanner did not bypass standard traffic conditions to expedite arrival"
+      ],
+      "contradicting_facts": [
+        "You disregarded traffic laws to reach the scene more quickly",
+        "You took a shortcut that avoided normal traffic flow"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were in the building during the incident—what did you perceive about your surroundings at the time?",
+      "supporting_facts": [
+        "You were aware of the ongoing gunfire.",
+        "You were aware of the collapsed individual nearby."
+      ],
+      "contradicting_facts": [
+        "You were unaware of the gunfire happening around you.",
+        "You did not notice the collapsed individual near your location."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you leave the car engine running after you parked it?",
+      "supporting_facts": [
+        "You did not keep the car engine running after parking",
+        "You drove out of the alley, indicating the vehicle was operated prior to parking"
+      ],
+      "contradicting_facts": [
+        "You left the engine running after parking",
+        "You kept the car idling after reaching your destination"
+      ],
+      "final_score": 7.777777777777779
+    }
+  ]
+}

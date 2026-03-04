@@ -1,0 +1,77 @@
+{
+  "character": "Walter",
+  "qas": [
+    {
+      "question": "What material did you use to create the carving you gave to Vicki?",
+      "supporting_facts": [
+        "You created a carving from cedar wood",
+        "You gave a carving to Vicki"
+      ],
+      "contradicting_facts": [
+        "The carving given to Vicki was made from a material other than cedar wood",
+        "You did not make the carving given to Vicki"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What do you do with the carving you made from cedar wood?",
+      "supporting_facts": [
+        "You created a carving from cedar wood",
+        "You gave the carving to Vicki"
+      ],
+      "contradicting_facts": [
+        "You kept the cedar wood carving for yourself",
+        "You gave the carving to someone other than Vicki"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You hesitated before getting in—what were you doing as you looked down the road?",
+      "supporting_facts": [
+        "you hesitated and looked down the road before getting in",
+        "you did not refuse to get in after hesitating"
+      ],
+      "contradicting_facts": [
+        "you refused to get in after looking down the road",
+        "you immediately got in without hesitation"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You saw the playground when you returned—what did you notice that told you your friends were no longer around?",
+      "supporting_facts": [
+        "you observed an empty swing swaying at a playground upon return",
+        "you are aware that all your friends were gone upon return"
+      ],
+      "contradicting_facts": [
+        "you were unaware of your friends' absence when you returned",
+        "you did not observe any signs indicating your friends had left"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why did you toss the carving to Vicki instead of handing it to her directly?",
+      "supporting_facts": [
+        "Walter gave the carving to Vicki by tossing it to her",
+        "Walter uses indirect physical actions to maintain emotional or physical distance"
+      ],
+      "contradicting_facts": [
+        "Walter handed the carving to Vicki directly with both hands",
+        "Walter avoids all physical interaction with Vicki"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do with the binoculars after using them?",
+      "supporting_facts": [
+        "Walter returns the binoculars to her",
+        "The binoculars were handed back to the person they belonged to"
+      ],
+      "contradicting_facts": [
+        "You kept the binoculars after observing",
+        "You passed the binoculars to someone else"
+      ],
+      "final_score": 7.777777777777778
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "character": "Meg",
+  "qas": [
+    {
+      "question": "You were in the foyer—what did you do when you saw Junior and Raoul there?",
+      "supporting_facts": [
+        "Meg observed Junior and Raoul in the foyer",
+        "Meg walked across the foyer"
+      ],
+      "contradicting_facts": [
+        "You ignored Junior and Raoul when you saw them",
+        "You left the foyer immediately upon seeing Junior and Raoul"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What was your action regarding the prescription medication?",
+      "supporting_facts": [
+        "You attempted to access medication from a prescription pill bottle.",
+        "The attempt indicates intent to retrieve medication, but does not confirm successful access."
+      ],
+      "contradicting_facts": [
+        "You successfully retrieved and used the medication from the bottle.",
+        "You avoided the prescription pill bottle entirely."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you have any reservations before entering the elevator?",
+      "supporting_facts": [
+        "did not hesitate before entering the elevator",
+        "action was performed without delay or visible uncertainty"
+      ],
+      "contradicting_facts": [
+        "you paused or showed reluctance before entering",
+        "you were indecisive about entering the elevator"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You heard a voice and saw a message on the screen—how did you respond to them?",
+      "supporting_facts": [
+        "you acknowledged the voice instead of ignoring it",
+        "you noticed the new message on the screen"
+      ],
+      "contradicting_facts": [
+        "you ignored the voice you heard",
+        "you failed to see the message that appeared on the screen"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "What did you do after jumping down, in relation to the tools?",
+      "supporting_facts": [
+        "You did not ignore the tools after jumping down.",
+        "You took deliberate action toward the tools by crawling to the lighters."
+      ],
+      "contradicting_facts": [
+        "You ignored the tools after jumping down.",
+        "You left the area without interacting with any tools."
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "character": "Alexei",
+  "qas": [
+    {
+      "question": "Did you interact with Nadia in a way that caused her to laugh during the birthday party?",
+      "supporting_facts": [
+        "You were present at a birthday party attended by Nadia and a man",
+        "You caused Nadia to laugh intensely"
+      ],
+      "contradicting_facts": [
+        "You did not cause Nadia to laugh at the party",
+        "You had no interaction with Nadia during the party"
+      ],
+      "final_score": 9.444444444444445
+    },
+    {
+      "question": "You were in the room with others and Nadia—what was your primary focus during that time?",
+      "supporting_facts": [
+        "Alexei's attention was directed exclusively toward Nadia",
+        "Alexei did not engage in verbal communication with anyone"
+      ],
+      "contradicting_facts": [
+        "You were equally aware of everyone in the room",
+        "You spoke to someone else while in the room"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why did you hold the knife openly when approaching Nadia?",
+      "supporting_facts": [
+        "You possess a knife and did not conceal it.",
+        "You did not refrain from threatening gestures involving other objects, indicating openness to intimidation."
+      ],
+      "contradicting_facts": [
+        "You concealed the knife upon approach.",
+        "You avoided all threatening behavior when interacting with Nadia."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You approached John despite the tension—what was your demeanor as you moved toward him?",
+      "supporting_facts": [
+        "You walked calmly toward John",
+        "You did not remain passive in the confrontation"
+      ],
+      "contradicting_facts": [
+        "You hesitated or showed fear when approaching John",
+        "You avoided direct interaction with John"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You had a weapon with you—did you keep it secured or ready for use?",
+      "supporting_facts": [
+        "The knife was not kept sheathed",
+        "Alexei is not unarmed"
+      ],
+      "contradicting_facts": [
+        "You left the knife in its sheath the entire time",
+        "You did not have any weapon on your person"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

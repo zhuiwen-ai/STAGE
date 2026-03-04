@@ -1,0 +1,65 @@
+{
+  "character": "Benjamin_Button",
+  "qas": [
+    {
+      "question": "What was your experience when standing at the window?",
+      "supporting_facts": [
+        "You stood at a familiar window",
+        "You listened to the silence of the house"
+      ],
+      "contradicting_facts": [
+        "You avoided standing near any windows",
+        "You heard loud noises coming from inside the house"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you speak to Daisy at the moment she was nearby?",
+      "supporting_facts": [
+        "You did not approach Daisy at that moment",
+        "Your presence near Daisy did not result in interaction"
+      ],
+      "contradicting_facts": [
+        "You initiated a conversation with Daisy at that time",
+        "You directly engaged with Daisy when she was within reach"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How did you engage with the piano piece you played?",
+      "supporting_facts": [
+        "You played a ragtime piece on the piano",
+        "Your performance included emotional engagement"
+      ],
+      "contradicting_facts": [
+        "You played the piano without any emotional expression",
+        "You only practiced scales instead of a ragtime piece"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Were you present during the viewing of your mother's body?",
+      "supporting_facts": [
+        "You attended your mother's open casket viewing",
+        "You were physically present at the event where your mother's body was displayed"
+      ],
+      "contradicting_facts": [
+        "You avoided attending your mother's viewing",
+        "You were absent during the open casket ceremony"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Why did you choose not to accept Thomas Button's offer during your meeting?",
+      "supporting_facts": [
+        "Benjamin made the decision to leave the meeting without accepting the offer",
+        "The choice to decline was an active decision made by Benjamin"
+      ],
+      "contradicting_facts": [
+        "You accepted Thomas Button's offer after the meeting",
+        "You were interrupted before making a decision and left it unresolved"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

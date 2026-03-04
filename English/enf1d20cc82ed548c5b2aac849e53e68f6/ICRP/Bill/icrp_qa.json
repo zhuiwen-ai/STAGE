@@ -1,0 +1,77 @@
+{
+  "character": "Bill",
+  "qas": [
+    {
+      "question": "You offered to get medication for Starla—what did you do to confirm what kind she needed?",
+      "supporting_facts": [
+        "Bill asked Starla whether she wanted ibuprofen or aspirin to confirm the medication type",
+        "Bill made a specific inquiry about the type of medication before taking action"
+      ],
+      "contradicting_facts": [
+        "Bill decided the medication type without consulting Starla",
+        "Bill assumed Starla needed aspirin without asking"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What did you notice about the parasites after they failed to infect anyone?",
+      "supporting_facts": [
+        "You observed the parasites retreating from the barn after their infection attempt failed",
+        "The withdrawal occurred following unsuccessful host infiltration"
+      ],
+      "contradicting_facts": [
+        "You saw the parasites spreading to new locations after the attempt",
+        "You assumed the parasites were still active inside the barn"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Why did you position yourself over Starla when the parasites appeared?",
+      "supporting_facts": [
+        "Bill's action of positioning himself over Starla was a protective measure against parasite exposure",
+        "Bill did not abandon Starla during parasite exposure, indicating a commitment to her safety"
+      ],
+      "contradicting_facts": [
+        "You moved away from Starla to avoid contamination during parasite exposure",
+        "You prioritized your own escape over protecting Starla"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were traveling with Starla outside the city—what was your stance on her staying in the area?",
+      "supporting_facts": [
+        "Bill did not welcome Starla to stay in the area",
+        "Bill was traveling with Starla outside the city"
+      ],
+      "contradicting_facts": [
+        "You encouraged Starla to settle in the area",
+        "You expressed support for Starla remaining nearby"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You heard a sound while moving through the weeds — what did you do in response to that?",
+      "supporting_facts": [
+        "You continued moving through the weeds without stopping",
+        "You heard a quiet rattling sound while in motion"
+      ],
+      "contradicting_facts": [
+        "You stopped moving to investigate the sound",
+        "You did not hear any sound while moving through the weeds"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you help anyone get to their feet when they were down?",
+      "supporting_facts": [
+        "You assisted Kylie by physically pulling her up",
+        "You provided a nonverbal cue for Trevor and Margaret to stand up"
+      ],
+      "contradicting_facts": [
+        "You only gave verbal instructions to help others stand",
+        "You did not physically assist or signal anyone to get up"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

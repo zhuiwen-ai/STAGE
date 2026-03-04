@@ -1,0 +1,65 @@
+{
+  "character": "Catherine_Van_Oost",
+  "qas": [
+    {
+      "question": "What did you do during the meal you attended?",
+      "supporting_facts": [
+        "Catherine was present at a meal",
+        "Catherine kept her eyes on her plate while eating"
+      ],
+      "contradicting_facts": [
+        "You engaged in conversation with others at the meal",
+        "You looked around the room frequently during the meal"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were in the room when Bobby entered; what did you do with your attention right after he came in?",
+      "supporting_facts": [
+        "Catherine redirected her attention back to the mirror upon Bobby's entrance",
+        "Catherine was initially facing someone else before redirecting attention"
+      ],
+      "contradicting_facts": [
+        "You turned to face Bobby when he entered the room",
+        "You maintained eye contact with Bobby upon his arrival"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "When Bobby entered, you turned toward the mirror—was that a deliberate choice to avoid engaging directly?",
+      "supporting_facts": [
+        "Catherine turned back to the mirror upon Bobby's entrance",
+        "Catherine is not comfortable with aggressive communication"
+      ],
+      "contradicting_facts": [
+        "Catherine faced Bobby directly when they entered",
+        "Catherine moved toward Bobby immediately upon their entrance"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You entered the house—did you talk to anyone at that moment?",
+      "supporting_facts": [
+        "Catherine did not speak to anyone upon entering the house",
+        "Catherine entered the house and moved directly toward the stairway"
+      ],
+      "contradicting_facts": [
+        "You greeted someone immediately after entering",
+        "You had a conversation with someone in the entryway"
+      ],
+      "final_score": 7.777777777777779
+    },
+    {
+      "question": "What did you plan to do the next morning before Carl returns?",
+      "supporting_facts": [
+        "Catherine offered to spend time with Robert the next morning",
+        "Catherine is aware of Carl's impending return"
+      ],
+      "contradicting_facts": [
+        "You planned to confront Carl immediately upon his return",
+        "You intended to be alone the next morning"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

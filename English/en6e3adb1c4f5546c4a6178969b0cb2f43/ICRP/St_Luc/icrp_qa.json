@@ -1,0 +1,77 @@
+{
+  "character": "St_Luc",
+  "qas": [
+    {
+      "question": "You were with Mr. Parkins recently—what did you do to assess his condition?",
+      "supporting_facts": [
+        "St. Luc has examined Mr. Parkins for physical symptoms",
+        "The examination involved direct observation or evaluation of bodily signs"
+      ],
+      "contradicting_facts": [
+        "You only spoke to Mr. Parkins without checking his physical state",
+        "You deferred any assessment to someone else"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Did you personally hand your bag over to Forsythe, or did someone else do it on your behalf?",
+      "supporting_facts": [
+        "St. Luc directly handed his bag to Forsythe",
+        "The action was performed by St. Luc without intermediary"
+      ],
+      "contradicting_facts": [
+        "Someone else handed Forsythe the bag on your behalf",
+        "Your bag was taken without your direct involvement"
+      ],
+      "final_score": 9.444444444444445
+    },
+    {
+      "question": "Were you familiar with Emil Hobbes before your medical career ended?",
+      "supporting_facts": [
+        "You knew Emil Hobbes during your time in medical school",
+        "Your relationship with Emil Hobbes predates your current circumstances"
+      ],
+      "contradicting_facts": [
+        "You first met Emil Hobbes after leaving medical school",
+        "You have no prior connection to Emil Hobbes"
+      ],
+      "final_score": 9.444444444444445
+    },
+    {
+      "question": "You examined Mr. Parkins—what did you do to gather information about his condition?",
+      "supporting_facts": [
+        "St. Luc questioned Mr. Parkins about the origin of his lumps",
+        "St. Luc writes in Parkins' file"
+      ],
+      "contradicting_facts": [
+        "You avoided speaking to Mr. Parkins about his symptoms",
+        "You did not record any information about Mr. Parkins' case"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were at the pool area—what did you do immediately before entering?",
+      "supporting_facts": [
+        "St. Luc paused at the pool door before entering",
+        "St. Luc opened the pool door prior to entry"
+      ],
+      "contradicting_facts": [
+        "You entered the pool area without stopping",
+        "You opened the pool door only after someone else did"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You examined Parkins' abdomen near the navel—did you alter anything at the scene before the detective arrived?",
+      "supporting_facts": [
+        "St. Luc performed a physical examination of Parkins' abdomen near the navel",
+        "St. Luc did not touch or move anything at the scene before the detective arrived"
+      ],
+      "contradicting_facts": [
+        "St. Luc altered the scene during the examination of Parkins",
+        "St. Luc moved evidence before the detective arrived"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "character": "Malcolm",
+  "qas": [
+    {
+      "question": "Do you understand how the tools or systems in use operate?",
+      "supporting_facts": [
+        "Malcolm expressed unfamiliarity with the tools or systems",
+        "Malcolm did not demonstrate knowledge of the tools or systems"
+      ],
+      "contradicting_facts": [
+        "Malcolm has prior experience with the systems in use",
+        "Malcolm demonstrated understanding of the tool functionality"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you acknowledge Toby when you entered the room he was in?",
+      "supporting_facts": [
+        "Malcolm entered a room or area occupied by Toby",
+        "Malcolm did not stop or verbally acknowledge Toby upon entry"
+      ],
+      "contradicting_facts": [
+        "You greeted Toby when you came in",
+        "You paused to speak with Toby after entering"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you stay after delivering your message about Simon's decision?",
+      "supporting_facts": [
+        "You attempted to communicate Simon's refusal to go to Washington to the Prime Minister",
+        "You did not remain present after speaking"
+      ],
+      "contradicting_facts": [
+        "You stayed to discuss the implications of Simon's refusal",
+        "You waited for the Prime Minister's response after delivering the message"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Are you staying in your current location for the foreseeable future?",
+      "supporting_facts": [
+        "You are not staying in the current location.",
+        "Your presence in the current location is temporary and contingent on immediate circumstances."
+      ],
+      "contradicting_facts": [
+        "You plan to remain in the current location indefinitely.",
+        "You have established long-term stability in the current location."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you instruct anyone to leave during the incident, and if so, who?",
+      "supporting_facts": [
+        "Malcolm told Judy to leave",
+        "The instruction to leave was directed specifically at Judy"
+      ],
+      "contradicting_facts": [
+        "Malcolm told no one to leave during the incident",
+        "Malcolm instructed Toby, not Judy, to leave the area"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why didn't you stay after the conversation ended?",
+      "supporting_facts": [
+        "Malcolm departed after speaking",
+        "Malcolm is not present after leaving"
+      ],
+      "contradicting_facts": [
+        "You remained present after the conversation ended",
+        "You left before the conversation was over"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you require before allowing Pwip Pip to be addressed publicly?",
+      "supporting_facts": [
+        "You established that Pwip Pip must be suppressed until after the vote to ensure success.",
+        "Your condition for addressing Pwip Pip was tied to the timing of the vote."
+      ],
+      "contradicting_facts": [
+        "You allowed Pwip Pip to be discussed freely before the vote.",
+        "You believed Pwip Pip should be revealed immediately regardless of the vote timing."
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

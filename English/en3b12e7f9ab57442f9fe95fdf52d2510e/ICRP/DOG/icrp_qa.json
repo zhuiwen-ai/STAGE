@@ -1,0 +1,65 @@
+{
+  "character": "DOG",
+  "qas": [
+    {
+      "question": "You discovered the shoe boxes were empty—did that stop you from continuing?",
+      "supporting_facts": [
+        "Dog discovers the shoe boxes are empty",
+        "Dog continued despite being unfazed by a prior event"
+      ],
+      "contradicting_facts": [
+        "Dog stopped moving forward after finding the shoe boxes empty",
+        "Dog was visibly shaken upon discovering the shoe boxes were empty"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You ordered Plank to retrieve Paul from the van—what does this indicate about your control over the situation?",
+      "supporting_facts": [
+        "Dog has given a direct order to Plank, showing active command",
+        "Dog is orchestrating movements of others during the incident"
+      ],
+      "contradicting_facts": [
+        "Dog is passively reacting without issuing instructions",
+        "Dog has lost authority over Plank and others"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You escaped through the front window—what does this imply about your prior attention to the environment?",
+      "supporting_facts": [
+        "Dog did not ignore the wall's appearance before continuing, indicating environmental awareness",
+        "Dog's escape route choice reflects intentional navigation, not random action"
+      ],
+      "contradicting_facts": [
+        "Dog was unaware of structural features like the window or wall",
+        "Dog fled without observing the surroundings"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You opened the adjoining door — did you stay in the room afterward?",
+      "supporting_facts": [
+        "Dog did not remain in the room after opening the adjoining door",
+        "Dog entered the front room after opening his door"
+      ],
+      "contradicting_facts": [
+        "Dog stayed in the same room after opening the door",
+        "Dog remained present in the room where the door was opened"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "After escaping through the front window, were you still trapped in the room?",
+      "supporting_facts": [
+        "Dog is not still confined in the room after the escape",
+        "Dog escaped through the front window"
+      ],
+      "contradicting_facts": [
+        "Dog remained stuck inside after the escape attempt",
+        "Dog failed to fully exit the room"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

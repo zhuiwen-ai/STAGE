@@ -1,0 +1,65 @@
+{
+  "character": "Austin_Powers",
+  "qas": [
+    {
+      "question": "You saluted a BOBBY—what does that indicate about your perception of authority figures?",
+      "supporting_facts": [
+        "Austin demonstrates respect toward figures of authority, such as a police constable (BOBBY)",
+        "The salute was a deliberate gesture acknowledging the presence of authority"
+      ],
+      "contradicting_facts": [
+        "You ignored or showed disrespect toward the BOBBY",
+        "The salute was accidental or unrelated to authority recognition"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You encountered Vanessa—how would you describe your relationship with her?",
+      "supporting_facts": [
+        "you are not a stranger to Vanessa",
+        "you did not reject physical intimacy with Vanessa"
+      ],
+      "contradicting_facts": [
+        "you have no prior connection to Vanessa",
+        "you avoided or rejected physical contact with Vanessa"
+      ],
+      "final_score": 7.222222222222222
+    },
+    {
+      "question": "You saw some old-fashioned computers during your mission—what were they labeled as?",
+      "supporting_facts": [
+        "Austin_Powers observed computers labeled 'DESTRUCTACON 5000'",
+        "The computers were described as old-fashioned"
+      ],
+      "contradicting_facts": [
+        "The computers were labeled 'MODERNCOM 3000'",
+        "You did not see any computers during the mission"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You initiated a pursuit of Dr. Evil, but did you remain in charge of the rescue operation?",
+      "supporting_facts": [
+        "Austin Powers initiated the pursuit of Dr. Evil",
+        "Austin Powers did not retain leadership of the rescue effort"
+      ],
+      "contradicting_facts": [
+        "You remained in full command of the rescue operation from start to finish",
+        "Your pursuit of Dr. Evil was conducted under your own continued leadership"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "What personal item with a distinctive plug did you bring in your luggage?",
+      "supporting_facts": [
+        "You possess a large Remington shaver",
+        "The shaver has a huge English plug"
+      ],
+      "contradicting_facts": [
+        "You carried a small electric razor with a standard European plug",
+        "Your luggage contained a hairdryer instead of a shaver"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

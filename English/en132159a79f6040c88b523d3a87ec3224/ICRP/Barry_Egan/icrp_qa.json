@@ -1,0 +1,89 @@
+{
+  "character": "Barry_Egan",
+  "qas": [
+    {
+      "question": "Did you allow Lena to come home with you when she asked?",
+      "supporting_facts": [
+        "You did not refuse Lena's request to come home with you",
+        "Lena made a request to come home with you and you permitted it"
+      ],
+      "contradicting_facts": [
+        "You turned down Lena's request to come home with you",
+        "You avoided responding to Lena's request altogether"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What happened when you tried to cut out the coupon from the newspaper?",
+      "supporting_facts": [
+        "the coupon was not removed without revealing an image underneath",
+        "your action of cutting out the coupon exposed what was beneath the newspaper"
+      ],
+      "contradicting_facts": [
+        "you successfully cut out the coupon without showing anything beneath",
+        "the image under the newspaper remained hidden during the coupon removal"
+      ],
+      "final_score": 9.444444444444445
+    },
+    {
+      "question": "Did you make a phone call after leaving the apartment where Lena was?",
+      "supporting_facts": [
+        "Barry walked back to the phone after leaving Lena's apartment",
+        "Barry initiated a phone call"
+      ],
+      "contradicting_facts": [
+        "You did not leave the apartment before making the call",
+        "The phone call was initiated by someone else"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you agree to stay on the phone indefinitely?",
+      "supporting_facts": [
+        "You did not agree to remain on the phone indefinitely",
+        "Your phone interaction ended without a commitment to continue"
+      ],
+      "contradicting_facts": [
+        "You promised to stay on the phone for as long as needed",
+        "You volunteered to keep talking without a time limit"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You received a phone call—what was your immediate response during that interaction?",
+      "supporting_facts": [
+        "Barry did not verbally respond to the phone call",
+        "Barry is the recipient of a phone call"
+      ],
+      "contradicting_facts": [
+        "You immediately spoke to the caller",
+        "You asked who was on the phone"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do with the harmonium when you tried to play it?",
+      "supporting_facts": [
+        "You used both the keys and the foot pedal when attempting to play the harmonium",
+        "Your attempt to play the harmonium involved physical interaction with its controls"
+      ],
+      "contradicting_facts": [
+        "You only observed the harmonium without touching it",
+        "You played the harmonium purely by hand without using the foot pedal"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why did you cut out the coupon from the newspaper?",
+      "supporting_facts": [
+        "You used scissors to cut out a coupon from a newspaper",
+        "Cutting out the coupon was an action you completed intentionally"
+      ],
+      "contradicting_facts": [
+        "You ignored the newspaper and did not interact with it",
+        "You used your hands instead of scissors to tear out the coupon"
+      ],
+      "final_score": 7.777777777777779
+    }
+  ]
+}

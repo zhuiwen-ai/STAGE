@@ -1,0 +1,113 @@
+{
+  "character": "HELENA",
+  "qas": [
+    {
+      "question": "Were you giving any verbal instructions while illuminated in the room?",
+      "supporting_facts": [
+        "you are not speaking while your sleeping face is illuminated",
+        "you did not verbally communicate any instructions or statements in the given actions"
+      ],
+      "contradicting_facts": [
+        "you were giving verbal instructions while illuminated",
+        "you made a statement about your actions while being observed"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were moving through the corridor—did you intentionally leave the door open behind you?",
+      "supporting_facts": [
+        "HELENA did not leave the door open intentionally",
+        "HELENA was moving up a corridor"
+      ],
+      "contradicting_facts": [
+        "You chose to leave the door open for someone else",
+        "You were aware the door remained open after you passed through"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Are you able to move around independently without assistance?",
+      "supporting_facts": [
+        "HELENA is physically mobile",
+        "HELENA is capable of independent movement"
+      ],
+      "contradicting_facts": [
+        "HELENA requires help to move",
+        "HELENA is physically restricted"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you respond immediately when asked something during the conversation?",
+      "supporting_facts": [
+        "You did not respond immediately",
+        "You paused before speaking"
+      ],
+      "contradicting_facts": [
+        "You answered without hesitation",
+        "You responded instantly to every question"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you react to the fear you experienced in that moment?",
+      "supporting_facts": [
+        "HELENA was overcome by fear",
+        "The fear prevented HELENA from screaming"
+      ],
+      "contradicting_facts": [
+        "HELENA screamed immediately upon feeling fear",
+        "HELENA remained completely calm and unaffected"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why do you want to go outside when it's snowing?",
+      "supporting_facts": [
+        "You desire to experience snow directly on your face",
+        "Your desire indicates a personal goal to physically feel snow"
+      ],
+      "contradicting_facts": [
+        "You only want to see snow through a window",
+        "You are indifferent to whether you physically encounter snow"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Do you still have access to your apartment?",
+      "supporting_facts": [
+        "You did not lose access to your apartment keys",
+        "You retain the means to enter your apartment"
+      ],
+      "contradicting_facts": [
+        "You no longer have your apartment keys",
+        "You are locked out of your apartment"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were sitting on the sofa during the scene—did you move from that spot at any point?",
+      "supporting_facts": [
+        "HELENA remained seated on the sofa throughout the scene",
+        "HELENA did not leave the sofa during the scene"
+      ],
+      "contradicting_facts": [
+        "HELENA stood up or moved away from the sofa during the scene",
+        "HELENA changed position from the sofa to another location"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Do you know the building's layout?",
+      "supporting_facts": [
+        "you know the layout of the building",
+        "your knowledge of the building allows navigation without confusion"
+      ],
+      "contradicting_facts": [
+        "you are unfamiliar with the building's structure",
+        "you need guidance to move through the building"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "character": "Raymond_Stantz",
+  "qas": [
+    {
+      "question": "What did you observe when you looked at the manhole cover?",
+      "supporting_facts": [
+        "You saw the letters NYPRR on the manhole cover",
+        "You did not remain silent when observing the environment"
+      ],
+      "contradicting_facts": [
+        "You did not see any writing on the manhole cover",
+        "You remained silent after seeing the manhole cover"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What did you observe when you were reading the PKE meter?",
+      "supporting_facts": [
+        "You were reading a PKE meter.",
+        "You observed an extremely high reading on the meter."
+      ],
+      "contradicting_facts": [
+        "You did not notice anything unusual on the PKE meter.",
+        "You were not using any equipment to detect readings."
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Did you remain with the team when you were preparing to respond to the first ghost call?",
+      "supporting_facts": [
+        "you did not leave the team before loading equipment into the Ectomobile",
+        "you were present with Venkman and Spengler during initial team actions"
+      ],
+      "contradicting_facts": [
+        "you separated from the team prior to equipping the Ectomobile",
+        "you were already confined when the team assembled equipment"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were alone in the room with the painting when the slime started rising—what did you do as the situation developed?",
+      "supporting_facts": [
+        "You remained in the room when the slime began rising",
+        "You were alone with the painting during the incident",
+        "You did not look away during the transformation process"
+      ],
+      "contradicting_facts": [
+        "You left the room as soon as the slime appeared",
+        "You turned away from the painting during the transformation"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What were you doing when you arrived at the scene in terms of your appearance and initial actions?",
+      "supporting_facts": [
+        "You arrived wearing a Con Ed hardhat to imitate a Consolidated Edison repairman",
+        "You used a flashlight to examine a meter upon arrival"
+      ],
+      "contradicting_facts": [
+        "You arrived in plain clothes without any disguise",
+        "You avoided using any tools or equipment when entering the scene"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What tools or methods did you use to investigate the equipment on site?",
+      "supporting_facts": [
+        "You used a flashlight to examine a meter",
+        "You turned on the cassette player during the investigation"
+      ],
+      "contradicting_facts": [
+        "You refused to operate any electronic devices at the location",
+        "You relied solely on visual inspection without using light or sound equipment"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How did you respond when the meter showed the high reading?",
+      "supporting_facts": [
+        "You observed an extremely high reading on the meter.",
+        "You reacted with a shout, indicating a strong response."
+      ],
+      "contradicting_facts": [
+        "You remained silent and showed no reaction.",
+        "You calmly adjusted the meter without vocal response."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were in the tunnel with a flashlight—what were you doing there?",
+      "supporting_facts": [
+        "You used a flashlight to examine the walls in the tunnel",
+        "You were aware of the slime sample's presence in the tunnel"
+      ],
+      "contradicting_facts": [
+        "You were only in the tunnel to retrieve lost equipment",
+        "You did not know the slime sample was in the tunnel"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What were you doing with Winston shortly before the incident?",
+      "supporting_facts": [
+        "You made final adjustments to equipment with Winston",
+        "The equipment adjustments occurred shortly before the incident"
+      ],
+      "contradicting_facts": [
+        "You were separated from Winston and did not interact",
+        "You were already incapacitated when working with Winston"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What happened when you scanned the painting of Vigo?",
+      "supporting_facts": [
+        "You made eye contact with Vigo during the scan",
+        "The scan involved direct visual interaction with the painted figure"
+      ],
+      "contradicting_facts": [
+        "You avoided looking at the painting during the scan",
+        "No visual contact occurred between you and Vigo"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

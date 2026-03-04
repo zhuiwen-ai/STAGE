@@ -1,0 +1,65 @@
+{
+  "character": "Daniel",
+  "qas": [
+    {
+      "question": "You were in the interrogation room with Ammar—what approach did you take during the interaction?",
+      "supporting_facts": [
+        "You were present in the interrogation room with Ammar.",
+        "You engaged in a psychological tactic by shifting your persona to mimic a therapist."
+      ],
+      "contradicting_facts": [
+        "You confronted Ammar aggressively without altering your demeanor.",
+        "You avoided using any psychological strategies during the interrogation."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were supposed to be in control during the interrogation, but your behavior shifted. Did you intentionally change how you presented yourself while being questioned?",
+      "supporting_facts": [
+        "Daniel did not maintain a consistent persona during the interrogation",
+        "Daniel expressed amusement, as indicated by laughter"
+      ],
+      "contradicting_facts": [
+        "You remained emotionally neutral and maintained a single, controlled persona throughout the interrogation",
+        "You were unaware of any external distractions during the questioning"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why did you personally light Ammar's cigarette instead of asking someone else to do it?",
+      "supporting_facts": [
+        "Daniel is the one who directly performed the act of lighting Ammar's cigarette",
+        "The action of lighting Ammar's cigarette was not assigned or handed over to another person"
+      ],
+      "contradicting_facts": [
+        "Someone else was responsible for lighting Ammar's cigarette",
+        "You only instructed another person to light the cigarette but did not do it yourself"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You recited a phrase in Arabic from the Quran—what does that reflect about your background or intentions?",
+      "supporting_facts": [
+        "Daniel recited a phrase from the Quran in Arabic, indicating familiarity with the text and language",
+        "The act of recitation suggests a personal or cultural connection to Islamic tradition"
+      ],
+      "contradicting_facts": [
+        "Daniel does not have any familiarity with religious texts or Arabic language",
+        "The phrase was quoted without understanding, purely for intimidation"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do when you interacted with Ammar?",
+      "supporting_facts": [
+        "You made physical contact with Ammar by touching his face.",
+        "The interaction involved direct tactile contact initiated by you."
+      ],
+      "contradicting_facts": [
+        "You avoided any physical contact with Ammar.",
+        "You only spoke to Ammar without touching him."
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

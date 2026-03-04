@@ -1,0 +1,65 @@
+{
+  "character": "Rex_Rexroth",
+  "qas": [
+    {
+      "question": "You tried using your key first when attempting to enter your house, but it didn't work—what did you do next?",
+      "supporting_facts": [
+        "Rex attempted to use a key to enter the house before taking further action",
+        "After the key failed, Rex pressed the doorbell as the next action"
+      ],
+      "contradicting_facts": [
+        "Rex broke into the house after the key failed",
+        "Rex immediately knocked on the door instead of using the doorbell"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You were visibly distressed—did you try to hide how you were feeling?",
+      "supporting_facts": [
+        "Rex did not conceal his distress",
+        "Rex displayed physical signs of discomfort such as wincing and hanging his head"
+      ],
+      "contradicting_facts": [
+        "You made an effort to appear calm despite feeling unwell",
+        "You hid your emotional state from others present"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you directly or publicly ask someone else about the seating arrangements?",
+      "supporting_facts": [
+        "you did not ask a third party about seating arrangements in a direct manner",
+        "you did not ask a third party about seating arrangements in a public manner"
+      ],
+      "contradicting_facts": [
+        "you directly inquired about seating with a third party",
+        "you publicly asked someone about where people were seated"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You mentioned feeling unwell—what did you say was wrong with your body?",
+      "supporting_facts": [
+        "Rex stated that his metabolism is off",
+        "Rex did not maintain his original resolve, indicating a change in physical or mental state"
+      ],
+      "contradicting_facts": [
+        "You said your metabolism is functioning normally",
+        "You claimed you were physically at peak condition"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "What was your reaction when Kirshner was mentioned?",
+      "supporting_facts": [
+        "Rex inquired about Kirshner by asking 'What's Kirshner?'",
+        "Rex did not recognize the name Kirshner upon first mention"
+      ],
+      "contradicting_facts": [
+        "You immediately knew who Kirshner was",
+        "You provided background information about Kirshner without being asked"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

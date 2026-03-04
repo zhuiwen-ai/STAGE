@@ -1,0 +1,77 @@
+{
+  "character": "Max",
+  "qas": [
+    {
+      "question": "Is this event something that can happen again in the future?",
+      "supporting_facts": [
+        "The event is a one-time opportunity due to someone's retirement",
+        "You acted based on a unique and time-limited circumstance"
+      ],
+      "contradicting_facts": [
+        "This event will repeat next year under similar conditions",
+        "The opportunity remains available indefinitely"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why didn't you take part in any of the plays?",
+      "supporting_facts": [
+        "Max was not involved in any of the plays",
+        "Max had no role or participation in the plays"
+      ],
+      "contradicting_facts": [
+        "You participated in one of the plays",
+        "You were part of the cast or crew in a play"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You didn't resist being in a vulnerable position—did you feel that resisting would have changed the outcome?",
+      "supporting_facts": [
+        "Max did not resist being in a vulnerable position",
+        "Max did not express agreement or approval of the situation"
+      ],
+      "contradicting_facts": [
+        "Max actively resisted being placed in a vulnerable position",
+        "Max verbally or behaviorally endorsed the legitimacy of the situation"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You had just sat down—why didn't you speak right away?",
+      "supporting_facts": [
+        "you remained silent after sitting",
+        "you did not speak immediately upon sitting"
+      ],
+      "contradicting_facts": [
+        "you began speaking right after sitting",
+        "you broke the silence immediately with words"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Were you aware of how your actions might affect Henry emotionally?",
+      "supporting_facts": [
+        "You are aware of social discomfort caused to others",
+        "You did not ignore Henry's emotional state"
+      ],
+      "contradicting_facts": [
+        "You were unaware of Henry's emotional state",
+        "You disregarded the social impact of your actions"
+      ],
+      "final_score": 7.777777777777779
+    },
+    {
+      "question": "Why didn't you agree to the simple hold-up plan?",
+      "supporting_facts": [
+        "you did not agree to a simple hold-up",
+        "you have a stance against simplistic or poorly thought-out plans in high-risk situations"
+      ],
+      "contradicting_facts": [
+        "you accepted the simple hold-up as a viable strategy",
+        "you supported proceeding with minimal resistance using basic tactics"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

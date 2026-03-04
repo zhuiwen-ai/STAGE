@@ -1,0 +1,89 @@
+{
+  "character": "Jack",
+  "qas": [
+    {
+      "question": "Why did you fly toward Sandy during the pursuit?",
+      "supporting_facts": [
+        "You were following someone or something during the pursuit",
+        "Flying toward Sandy was part of your movement while following"
+      ],
+      "contradicting_facts": [
+        "You flew toward Sandy to escape independently of the pursuit",
+        "You were already inside the location before the pursuit began"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Why did you use your staff when the Nightmares approached?",
+      "supporting_facts": [
+        "You used your staff to knock away Nightmares",
+        "You were in a situation where Nightmares posed a threat"
+      ],
+      "contradicting_facts": [
+        "You ignored the Nightmares and did nothing",
+        "You used your hands instead of your staff to deal with the Nightmares"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You followed North—was this decision made freely, or under pressure from Pitch?",
+      "supporting_facts": [
+        "Jack followed North",
+        "Jack is not free from Pitch's demands"
+      ],
+      "contradicting_facts": [
+        "You followed North entirely of your own free will",
+        "Pitch has no influence over your current actions"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "During the confrontation with Pitch, were you acting alone?",
+      "supporting_facts": [
+        "you did not act in isolation during the confrontation with Pitch",
+        "you directed your staff toward Pitch in a confrontational manner as part of a broader interaction"
+      ],
+      "contradicting_facts": [
+        "you acted entirely on your own during the confrontation with Pitch",
+        "no other parties were involved in the confrontation you participated in"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You broke through a damaged frame with your staff—what did you find beneath it?",
+      "supporting_facts": [
+        "Jack used his staff to break through the damaged frame",
+        "Breaking the frame revealed a hole leading deep underground"
+      ],
+      "contradicting_facts": [
+        "The hole was created without using a staff",
+        "The hole led to an above-ground location"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You arrived somewhere with an open window—was this before or after dealing with the damaged frame?",
+      "supporting_facts": [
+        "Jack arrived at a location with an open window",
+        "The action of breaking through the damaged frame occurred after arrival"
+      ],
+      "contradicting_facts": [
+        "The frame was broken before arriving at the location",
+        "The open window appeared after breaking the frame"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You moved through the corridor with Mini Tooth cages around you — what was your approach to navigating that space?",
+      "supporting_facts": [
+        "Jack maintained a cautious and alert approach in the corridor",
+        "Jack did not act recklessly while passing through the area with Mini Tooth cages"
+      ],
+      "contradicting_facts": [
+        "Jack rushed forward without assessing the surroundings",
+        "Jack ignored the presence of the Mini Tooth cages"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

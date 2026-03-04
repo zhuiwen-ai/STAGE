@@ -1,0 +1,65 @@
+{
+  "character": "Marcus_Wright",
+  "qas": [
+    {
+      "question": "Were you aware of your surroundings after slowing the vehicle?",
+      "supporting_facts": [
+        "Marcus looked around after slowing the vehicle",
+        "Marcus is conscious"
+      ],
+      "contradicting_facts": [
+        "You did not observe anything after slowing the vehicle",
+        "You lost consciousness before looking around"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you move freely toward the complex without any physical restraints?",
+      "supporting_facts": [
+        "You were hindered by ankle bolts while moving.",
+        "Your movement toward the complex was not completely free."
+      ],
+      "contradicting_facts": [
+        "You moved without any physical limitations.",
+        "The ankle bolts did not restrict your movement."
+      ],
+      "final_score": 7.222222222222222
+    },
+    {
+      "question": "You were in the park area with the two teens and others—how did you respond when they moved ahead of you?",
+      "supporting_facts": [
+        "Marcus did not act independently after the two teens moved ahead",
+        "Marcus remained aligned with the group's movement"
+      ],
+      "contradicting_facts": [
+        "Marcus chose a different path after the teens moved ahead",
+        "Marcus acted on their own initiative once the teens were ahead"
+      ],
+      "final_score": 7.222222222222222
+    },
+    {
+      "question": "You were attacked by skindogs—did you stop defending yourself during the encounter?",
+      "supporting_facts": [
+        "Marcus Wright continued defensive actions despite injuries from skindogs",
+        "Marcus endured bites and scratches without ceasing resistance"
+      ],
+      "contradicting_facts": [
+        "Marcus stopped defending after being injured by skindogs",
+        "Marcus ceased resistance when attacked by skindogs"
+      ],
+      "final_score": 7.222222222222222
+    },
+    {
+      "question": "How do you typically respond when you encounter unexpected stimuli?",
+      "supporting_facts": [
+        "You react to stimuli with both physical and emotional responses.",
+        "Your reactions are not characterized by loud or confident speech in every moment."
+      ],
+      "contradicting_facts": [
+        "You remain completely unaffected by external stimuli.",
+        "You always respond loudly and confidently to unexpected events."
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

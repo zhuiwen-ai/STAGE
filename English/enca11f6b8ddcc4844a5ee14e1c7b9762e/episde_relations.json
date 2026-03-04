@@ -1,0 +1,1371 @@
+[
+  {
+    "id": "rel_ep_ep_5676238c64b2",
+    "subject_id": "ep_c1b4172aef41d43c",
+    "object_id": "ep_ae67c03d0a5f03cc",
+    "relation_type": "precedes",
+    "reason": "Ginger arrives and confronts Stan before he heeds her advice and achieves success, as evidenced by the sequence of events in scene_27: Ginger first climbs onto the roof and introduces herself, then Stan follows her instruction to hit the golf ball successfully.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8f5418b24e92",
+    "subject_id": "ep_c89fba137c0f6629",
+    "object_id": "ep_ae67c03d0a5f03cc",
+    "relation_type": "causes",
+    "reason": "Ginger's instruction to straighten his left arm during the golf swing (part of 'Ginger challenges Stan's golf skills') directly leads to Stan successfully hitting the ball 200 yards (part of 'Stan heeds advice and achieves success'), as explicitly stated in both episodes' descriptions and related events.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_db043ede81f7",
+    "subject_id": "ep_9fb1881b74a5d6c0",
+    "object_id": "ep_03359c35bc7a2c10",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate contact and face immediate resistance' occurs first, where Stanley's initial call is rebuffed by Melissa. This is immediately followed by 'Escalate conflict with personal appeals and accusations', where Stanley intensifies his emotional appeal and Melissa responds with stronger threats, indicating a clear sequential order in the narrative.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f8cce00d6993",
+    "subject_id": "ep_75cf57f7287c2e92",
+    "object_id": "ep_fadc6dd6a82c5281",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Assert dominance through physical intimidation' occurs during scene_34, while the object episode 'Resume control before leaving' occurs in scene_43, indicating a clear temporal sequence where the first episode precedes the second in narrative order.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5d0cac205d27",
+    "subject_id": "ep_03359c35bc7a2c10",
+    "object_id": "ep_27e28130181589e8",
+    "relation_type": "precedes",
+    "reason": "The events in 'Escalate conflict with personal appeals and accusations' (e.g., Stanley's emotional appeal and Melissa's legal threat) occur immediately before Stanley's insult and Melissa's reassertion of familial control in the next episode, as both are sequential actions within scene_32, indicating a clear narrative order.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fc5f94cf96e2",
+    "subject_id": "ep_8d8fff689020f325",
+    "object_id": "ep_75cf57f7287c2e92",
+    "relation_type": "precedes",
+    "reason": "The episode 'Challenge jurisdiction and assert authority' involves a verbal confrontation over legal jurisdiction and occurs before the physical escalation in 'Assert dominance through physical intimidation', as the latter represents a further intensification of control during the same interrogation scene (scene_34), indicating a chronological progression from verbal to physical dominance.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7e9dc0a497ea",
+    "subject_id": "ep_03359c35bc7a2c10",
+    "object_id": "ep_cc645d3ea4e4afd5",
+    "relation_type": "precedes",
+    "reason": "The events in 'Escalate conflict with personal appeals and accusations' (e.g., Stanley's emotional appeal and Melissa's threats) occur before Stanley asserts his parental rights and is legally dismissed in the subsequent episode, as both are part of a continuous scene (scene_32) with a clear narrative progression from emotional confrontation to final legal rejection.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_43d27d0c4802",
+    "subject_id": "ep_463453aa4f8d9fda",
+    "object_id": "ep_cc645d3ea4e4afd5",
+    "relation_type": "contrasts_with",
+    "reason": "The two episodes are set in the same scene and present opposing stances on Stanley's role: in one, Melissa defends the new family order and rejects Stanley's influence, while in the other, Stanley asserts his parental rights, only to be legally dismissed. This juxtaposition highlights a clear contrast in claims of legitimacy and power, reinforcing a reversal of familial authority.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_db2905cba4e3",
+    "subject_id": "ep_c1b4172aef41d43c",
+    "object_id": "ep_c89fba137c0f6629",
+    "relation_type": "precedes",
+    "reason": "Ginger arrives and confronts Stan before challenging his golf skills, as the arrival and introduction (including her revealing knowledge of Stan) sets the initial contact, followed by her critique and demonstration of superior golf technique, with both episodes occurring in scene_27 and the sequence implied by the narrative flow of events.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0b4ad3b5eb12",
+    "subject_id": "ep_27e28130181589e8",
+    "object_id": "ep_463453aa4f8d9fda",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Stanley insulting Melissa and her reasserting control by declaring Larry as Holly's father, which sets the stage for the second episode where Stanley mocks Larry, prompting Melissa to defend the new family order. The sequence of events in scene_32 supports a clear narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b5cab652f07c",
+    "subject_id": "ep_9fb1881b74a5d6c0",
+    "object_id": "ep_9a493b17eebcaa1b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate contact and face immediate resistance' occurs first, where Stanley calls Melissa and is rebuffed, setting up the interaction that escalates into the subsequent episode 'Receive final rejection and erupt in rage', where Melissa delivers a final rejection and Stanley reacts violently. Both episodes are grounded in scene_32 and form a sequential narrative progression from initial contact to emotional climax.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9ceabbd26f85",
+    "subject_id": "ep_03359c35bc7a2c10",
+    "object_id": "ep_9a493b17eebcaa1b",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Escalate conflict with personal appeals and accusations' occurs during the phone call before Melissa delivers her final rejection and Stanley erupts in rage, which is described in the object episode. The related events in both episodes are ordered sequentially in scene_32, with Stanley's emotional appeals and Melissa's threats preceding her ultimate rejection and his violent outburst.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c5fb6d07f85f",
+    "subject_id": "ep_75fd1cdb76a695ba",
+    "object_id": "ep_fb08da3b7c2b4861",
+    "relation_type": "precedes",
+    "reason": "The customs inspection and document scrutiny occurs first, during which officials examine Torvalds' passports and input data, while he expresses concern about delays. Only afterward does Torvalds observe the service elevator being used and execute his escape, as confirmed by the sequence of related events in the same scene (scene_23). The inspection sets the context and temporal antecedent for the escape, establishing a clear narrative order.",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5f34edd93ab4",
+    "subject_id": "ep_279f01fe6ae282e1",
+    "object_id": "ep_09543859b6b6ef23",
+    "relation_type": "causes",
+    "reason": "Senator Reisman's assertion of control and demand for breach assessment directly pressures Kaplan, leading to his submission and acknowledgment of the directive. The causal link is supported by the shared occasion and the description of Kaplan's response as occurring 'under pressure' following Reisman's escalation.",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_106c9b6f1d77",
+    "subject_id": "ep_75cf57f7287c2e92",
+    "object_id": "ep_fd580e1f74550975",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assert dominance through physical intimidation' involves Roberts using violence and force during the interrogation, which is followed by the episode 'Negotiate cooperation through promised escape' where Roberts shifts to offering a deal. Both occur in the same scene (scene_34) and the shift from intimidation to negotiation implies a sequential order where force precedes negotiation, as supported by the narrative progression in the description and related events.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_87c14294fcd2",
+    "subject_id": "ep_03359c35bc7a2c10",
+    "object_id": "ep_463453aa4f8d9fda",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_32 and describe consecutive actions: Stanley first escalates emotionally and is met with legal threats (ep_03359c35bc7a2c10), which is immediately followed by Melissa defending Larry and telling Stanley to move on (ep_463453aa4f8d9fda), indicating a clear narrative sequence.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_55879281960a",
+    "subject_id": "ep_9fdb0061e598bdf0",
+    "object_id": "ep_49dd62a15fe59364",
+    "relation_type": "precedes",
+    "reason": "The confrontation in the hallway (ep_9fdb0061e598bdf0) involves Roberts silencing the attorney, which immediately precedes the disengagement where Roberts walks down the hallway and the attorney returns to the interrogation room (ep_49dd62a15fe59364), as both are part of the same scene and describe a sequential resolution of the conflict.",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e61d8d495d15",
+    "subject_id": "ep_da30fb54b41db6dc",
+    "object_id": "ep_fd580e1f74550975",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Probe Torvalds' motive and test rapport' involves Roberts initiating the interrogation with questioning and subtle rapport-building, including the incident with the lawyer. The object episode 'Negotiate cooperation through promised escape' occurs afterward, when Roberts shifts to offering a deal for cooperation. Both episodes occur in scene_34 and share the same occasion, but the shift from confrontation to negotiation implies a sequential order supported by the narrative progression from establishing dominance to proposing terms.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6ad4ad586363",
+    "subject_id": "ep_4b4b66268779cd23",
+    "object_id": "ep_bed26237b52186a0",
+    "relation_type": "precedes",
+    "reason": "The confrontation over tactical judgment, where Roberts challenges Joy's decisions and Joy reaffirms FBI policy, occurs before Joy authorizes the SWAT engagement. Both episodes are set in the same command center operation (scene_6), and the sequence of events implies a temporal order: the conflict over judgment precedes the final decision to initiate action, as the authorization follows the exchange of concerns and policy justification.",
+    "source_documents": [
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4aedf04f9df6",
+    "subject_id": "ep_5964caecb75f17bd",
+    "object_id": "ep_fa30e8c195d8281e",
+    "relation_type": "precedes",
+    "reason": "Gabriel's dramatic entrance, involving exiting the Lamborghini in slow motion, logically and narratively occurs before he moves through the crowd at the social gathering, as the entrance sets the stage for his subsequent navigation of the event. The description of the first episode emphasizes a singular, striking moment of arrival, while the second describes ongoing movement and interaction within the setting, implying a sequential progression.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_620391a6ec6e",
+    "subject_id": "ep_890675e3c11b896e",
+    "object_id": "ep_2025ac4f5ce76b55",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ginger confronts Stanley about his daughter's custody and delivers an ultimatum' sets up the pressure and context that immediately precedes her subsequent move in 'Ginger secures Stanley's consideration with a no-strings-attached proposal', where she softens the offer after establishing dominance. Both episodes occur in scene_33 and share a continuous narrative flow, with confrontation logically preceding reassurance in the persuasive sequence.",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_48c7baa4c9e3",
+    "subject_id": "ep_9fb1881b74a5d6c0",
+    "object_id": "ep_27e28130181589e8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate contact and face immediate resistance' occurs first, where Stanley attempts to contact his daughter and is rebuffed by Melissa, establishing the conflict. This is immediately followed by 'Exchange personal insults and reassert familial control', where Stanley retaliates with an insult and Melissa reasserts dominance, indicating a clear sequential order in the same scene (scene_32) as supported by the related_events and narrative flow.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_01d7d5f4eb22",
+    "subject_id": "ep_da30fb54b41db6dc",
+    "object_id": "ep_75cf57f7287c2e92",
+    "relation_type": "precedes",
+    "reason": "The episode 'Probe Torvalds' motive and test rapport' includes events such as Roberts questioning Torvalds and pushing the lawyer's coffee cup, which precede the more intense physical escalation in 'Assert dominance through physical intimidation', where Roberts ejects the lawyer and assaults Torvalds. Both episodes occur within the same occasion (FBI interrogation) and are part of a continuous narrative sequence in scene_34, with the former establishing an initial psychological approach before escalating to physical dominance.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_15b78b3436b2",
+    "subject_id": "ep_fadc6dd6a82c5281",
+    "object_id": "ep_fd580e1f74550975",
+    "relation_type": "precedes",
+    "reason": "The episode 'Resume control before leaving' involves Roberts giving final instructions before exiting the room, which occurs after the negotiation attempt in 'Negotiate cooperation through promised escape' where Roberts offers a deal during the interrogation. The sequence of events implies a temporal order where the negotiation precedes Roberts reasserting control and leaving, supported by the narrative flow of the interrogation scene and the subsequent exit.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_230b45b90ae8",
+    "subject_id": "ep_a146d66943412a57",
+    "object_id": "ep_fadc6dd6a82c5281",
+    "relation_type": "precedes",
+    "reason": "The episode 'Interrupt interrogation with urgent call' occurs when the FBI Agent enters to deliver a call, which disrupts the interrogation. The episode 'Resume control before leaving' occurs afterward, as Roberts gives final instructions before exiting, as both episodes are tied to scene_43 and the sequence of actions implies a temporal order where the interruption precedes the reassertion of control.",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c96bf30f1bc0",
+    "subject_id": "ep_9fb1881b74a5d6c0",
+    "object_id": "ep_cc645d3ea4e4afd5",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate contact and face immediate resistance' occurs first, where Stanley is rebuffed by Melissa when attempting to speak with Holly. This is immediately followed by 'Assert parental rights and face final legal dismissal', where Stanley asserts his parental rights and is definitively shut down by Melissa's legal and financial counterargument. Both episodes occur in scene_32 and are part of the same conversation, with the first logically and temporally preceding the second in the narrative flow.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3496ef12e6fb",
+    "subject_id": "ep_40088c38f829c3ff",
+    "object_id": "ep_03359c35bc7a2c10",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Stanley's unexpected call' (doc_30, scene_31) occurs in an earlier document and scene than 'Escalate conflict with personal appeals and accusations' (doc_31, scene_32), indicating a clear narrative sequence where the phone call confrontation precedes the subsequent escalation of emotional and legal threats.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7202c29a2b44",
+    "subject_id": "ep_890675e3c11b896e",
+    "object_id": "ep_60164000ee9f61bb",
+    "relation_type": "precedes",
+    "reason": "The confrontation and ultimatum by Ginger (ep_890675e3c11b896e) sets up the subsequent escalation where she pressures Stanley with financial leverage (ep_60164000ee9f61bb), with both episodes occurring in the same scene (scene_33) and the logical narrative progression indicating the ultimatum comes before the tangible offer of money.",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b626085acc32",
+    "subject_id": "ep_d6332abd3294b79c",
+    "object_id": "ep_fadc6dd6a82c5281",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Confront Torvalds and assert dominance' occurs first, as it involves Roberts dismissing Torvalds's story and Torvalds responding with a defiant smile, both in scene_43. The object episode 'Resume control before leaving' follows, as it describes Roberts reasserting authority before exiting the room after a call notification, indicating a sequential progression within the same scene. The narrative order and shared scene context support that the first episode precedes the second.",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_36c634f8f5dc",
+    "subject_id": "ep_c89fba137c0f6629",
+    "object_id": "ep_72cbfaa741b24ed8",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_27, and the description of 'Ginger challenges Stan's golf skills' includes physical actions (taking the club, demonstrating the swing) that establish immediate engagement, which plausibly sets the stage for the subsequent revelation of her mission. The narrative flow within the same scene supports a local order where the golf demonstration precedes the disclosure of the external agenda.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fbfed718c183",
+    "subject_id": "ep_c1b4172aef41d43c",
+    "object_id": "ep_72cbfaa741b24ed8",
+    "relation_type": "precedes",
+    "reason": "Ginger arrives and confronts Stan (ep_c1b4172aef41d43c) before she reveals her mission to help him (ep_72cbfaa741b24ed8), as the confrontation initiates the interaction and the revelation follows as part of the same sequence in scene_27, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_932322de0adc",
+    "subject_id": "ep_40088c38f829c3ff",
+    "object_id": "ep_27e28130181589e8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Stanley's unexpected call' (scene_31) occurs in doc_30 and directly precedes 'Exchange personal insults and reassert familial control' (scene_32) in doc_31, with sequential scene numbering and narrative continuity indicating a local narrative order where the phone call leads into the subsequent confrontation.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4f99fb2e2d67",
+    "subject_id": "ep_5866b446b707d8c4",
+    "object_id": "ep_75cf57f7287c2e92",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate private interrogation with Torvalds' involves Roberts dismissing agents to create a private setting, which sets the stage for the subsequent physical intimidation in the object episode. Both episodes occur within the same occasion (FBI Interrogation Of Torvalds, scene_34), and the shift from establishing a private setting to escalating with physical force implies a temporal progression where the initiation of the private interrogation precedes the use of physical dominance.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_337b99522be0",
+    "subject_id": "ep_c894778bc4bb96a1",
+    "object_id": "ep_09543859b6b6ef23",
+    "relation_type": "precedes",
+    "reason": "Senator Reisman's entry and demand for context (ep_c894778bc4bb96a1) initiates the interaction in the Emergency Security Briefing, during which Kaplan later submits to Reisman's authority under pressure (ep_09543859b6b6ef23), with both episodes occurring in the same scene and sharing a causal-temporal sequence supported by the narrative flow.",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_eb4bc683d708",
+    "subject_id": "ep_75cf57f7287c2e92",
+    "object_id": "ep_d6332abd3294b79c",
+    "relation_type": "precedes",
+    "reason": "The physical intimidation episode (ep_75cf57f7287c2e92) occurs during scene_34, while the confrontation involving sarcasm and defiant response (ep_d6332abd3294b79c) occurs in scene_43. The scene numbers indicate a later narrative order for the second episode, supporting that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e45c69b62033",
+    "subject_id": "ep_c894778bc4bb96a1",
+    "object_id": "ep_279f01fe6ae282e1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Senator Reisman enters emergency briefing and demands context' establishes the initial arrival and demand for information, which sets the stage for the subsequent episode where he asserts control and demands a breach assessment. Both episodes occur in the same occasion (Emergency Security Briefing In White House Boardroom, scene_25), and the narrative flow indicates that entering and demanding context logically precedes escalating pressure and asserting control, with clear temporal ordering implied by the progression of actions in the shared scene.",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_08455eabdd83",
+    "subject_id": "ep_27e28130181589e8",
+    "object_id": "ep_cc645d3ea4e4afd5",
+    "relation_type": "precedes",
+    "reason": "The episode 'Exchange personal insults and reassert familial control' occurs first, where Stanley insults Melissa and she reasserts control by declaring Larry as Holly's father. This is immediately followed by 'Assert parental rights and face final legal dismissal', where Stanley attempts to assert his parental rights and is shut down by Melissa's legal and financial power claim. Both episodes occur in scene_32 and are part of a continuous confrontation, with the first setting up the emotional and familial context that the second resolves legally and definitively.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_16843230b724",
+    "subject_id": "ep_60164000ee9f61bb",
+    "object_id": "ep_2025ac4f5ce76b55",
+    "relation_type": "precedes",
+    "reason": "Ginger first pressures Stanley with emotional and financial leverage by offering cash (ep_60164000ee9f61bb), which is followed by her securing his consideration with a no-strings-attached proposal where she emphasizes the risk-free nature of the offer (ep_2025ac4f5ce76b55). The sequence of events in scene_33 supports the temporal order where the pressure tactic precedes the reassurance strategy.",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0f3942bbdad4",
+    "subject_id": "ep_5866b446b707d8c4",
+    "object_id": "ep_da30fb54b41db6dc",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate private interrogation with Torvalds' involves Roberts dismissing FBI agents to create a private setting, which logically and temporally precedes the object episode 'Probe Torvalds' motive and test rapport', where Roberts begins questioning Torvalds and engaging in rapport-building behaviors. Both episodes occur in the same scene (scene_34) and share the occasion 'Fbi Interrogation Of Torvalds', supporting a sequential narrative order in which establishing the private setting comes before the probing interaction.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_04a096815393",
+    "subject_id": "ep_6d1ad90630964732",
+    "object_id": "ep_a8f6619c9cf10924",
+    "relation_type": "precedes",
+    "reason": "The episode 'Secure and fortify the bank during hostage crisis' establishes the initial control and physical setup of the hostage situation, including restraining hostages and fortifying the bank, which provides the necessary context and temporal antecedent for the subsequent targeted action in 'Fit collar and remove distressed hostage'. The latter episode involves a specific, observed sequence within the ongoing crisis that logically follows the initial securing of the bank, indicating a local narrative order where the general takeover precedes a specific act of mistreatment.",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7000ca2c7b1c",
+    "subject_id": "ep_a146d66943412a57",
+    "object_id": "ep_b65811e7a6a6890e",
+    "relation_type": "precedes",
+    "reason": "The interruption of the interrogation by the FBI Agent (ep_a146d66943412a57) occurs before the Agent takes position outside the door to monitor Torvalds (ep_b65811e7a6a6890e), as the latter action follows Roberts leaving after the urgent call, establishing a clear temporal sequence in scene_43.",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_efc4c8cc188e",
+    "subject_id": "ep_24ad28ee2b0ffe0e",
+    "object_id": "ep_66447b79635e678f",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs in scene_45, where Bad Agent #2 prepares and aims a silenced gun at Torvalds' reflection in the one-way mirror. The second episode occurs in scene_47, where Bad Agent #2 aims at Torvalds' tonsils and partially pulls the trigger. The progression across scenes indicates a clear narrative sequence: the initial menacing display precedes the more precise targeting and partial trigger pull, with no indication of simultaneity or reversal in order.",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d10492e0fb61",
+    "subject_id": "ep_cc645d3ea4e4afd5",
+    "object_id": "ep_9a493b17eebcaa1b",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_32 and are part of the same phone call sequence. The assertion of parental rights (ep_cc645d3ea4e4afd5) is immediately followed by the final rejection and emotional outburst (ep_9a493b17eebcaa1b), as Stanley's attempt to assert his rights is cut off by Melissa's dismissal, leading directly to his rage. The narrative order within the scene supports a clear 'precedes' relation from the legal dismissal to the emotional climax.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_016a46017378",
+    "subject_id": "ep_8eaf68d745a0551a",
+    "object_id": "ep_a8db0c1fb57b9b97",
+    "relation_type": "precedes",
+    "reason": "The description of ep_8eaf68d745a0551a indicates Ginger reestablishes connection by reminding Stanley of his legacy and calling out his avoidance, which sets up the subsequent direct confrontation about Holly in ep_a8db0c1fb57b9b97. The latter episode begins 'after a series of tense exchanges,' suggesting it follows the reconnection attempt, supporting a local narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a743fd5e89ea",
+    "subject_id": "ep_b1a96124b06fd0ee",
+    "object_id": "ep_4100dee71a6766b3",
+    "relation_type": "causes",
+    "reason": "The monitoring of the interrogation and the recognition of the suspicious resemblance (ep_b1a96124b06fd0ee) directly prompts Bad Agent #1 to initiate an urgent communication with Assistant Director Joy (ep_4100dee71a6766b3), as stated in the description of the latter episode. The causal link is supported by the narrative flow indicating that the observation 'prompts urgent action'.",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_428505acb2f0",
+    "subject_id": "ep_40088c38f829c3ff",
+    "object_id": "ep_9a493b17eebcaa1b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Stanley's unexpected call' involves Melissa answering the phone and confronting Stanley about his inquiry, which directly sets up the subsequent emotional climax in 'Receive final rejection and erupt in rage' where Melissa delivers her final rejection and Stanley reacts violently. The sequence of events across the two episodes—Melissa hanging up after saying 'Forget Holly' and Stanley's immediate physical outburst—indicates a clear temporal progression from the first episode to the second, with no intervening events breaking the continuity.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_68f3586235f8",
+    "subject_id": "ep_1c307ca49bf2f53b",
+    "object_id": "ep_2f72bd61a523ad69",
+    "relation_type": "causes",
+    "reason": "The explosion triggered by the SWAT officer stepping off the sidewalk (ep_1c307ca49bf2f53b) directly causes the hostage to become hysterical and disoriented, leading to the chaotic rescue attempt (ep_2f72bd61a523ad69). The causal chain is supported by the shared scene (scene_19) and the logical sequence where the explosion immediately precedes and provokes the hostage's panicked behavior.",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b0075d429a52",
+    "subject_id": "ep_27e28130181589e8",
+    "object_id": "ep_9a493b17eebcaa1b",
+    "relation_type": "precedes",
+    "reason": "The exchange of personal insults and reassertion of familial control (ep_27e28130181589e8) occurs just before Melissa delivers the final rejection and Stanley erupts in rage (ep_9a493b17eebcaa1b), as both episodes are anchored in scene_32 and the narrative progression shows a clear sequence: Stanley's insult, Melissa's redefinition of paternity, then her 'Forget Holly' declaration and Stanley's violent reaction. This local narrative order supports a direct temporal precedence.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_249498aa87f5",
+    "subject_id": "ep_5866b446b707d8c4",
+    "object_id": "ep_fd580e1f74550975",
+    "relation_type": "precedes",
+    "reason": "The initiation of a private interrogation with Torvalds (ep_5866b446b707d8c4) sets the stage for the subsequent negotiation where Roberts offers Torvalds a deal for cooperation (ep_fd580e1f74550975). Both episodes occur within the same occasion (FBI Interrogation Of Torvalds, scene_34), and the shift from establishing private dialogue to offering a deal indicates a sequential narrative progression from setting up the interaction to conducting the negotiation.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bc1bedb0d3e1",
+    "subject_id": "ep_5409927176dde726",
+    "object_id": "ep_1d34ba4f526f9cc6",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Make a defiant gesture toward the glass' describes Torvalds raising his middle finger while looking into the glass, which is a component action also present in the broader episode 'Defy and target in tense standoff' that includes both the gesture and the targeting by a laser. The former provides a focused detail that is expanded upon in the latter with additional concurrent events, indicating elaboration.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_668fb8d95e73",
+    "subject_id": "ep_75fd1cdb76a695ba",
+    "object_id": "ep_8fd667864e16d777",
+    "relation_type": "precedes",
+    "reason": "The customs inspection episode occurs while Axl Torvalds is still in the customs area and involves document scrutiny, whereas the arrest episode begins after he exits the elevator and enters the pedestrian walkway. The sequence of events across scenes (scene_23 for inspection, scene_24 for arrest) indicates a clear temporal order where the inspection precedes the arrest.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_73aef5603fbf",
+    "subject_id": "ep_15ae3bd8b6b01496",
+    "object_id": "ep_8fd667864e16d777",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Kaplan reporting Torvalds' detention and initial intelligence gaps, which occurs after Torvalds has already been apprehended as detailed in the object episode. The object episode's events (arrest on pedestrian walkway) are a prerequisite for the reporting in the subject episode, establishing a clear temporal sequence where the arrest precedes the report.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8aa386d09ae0",
+    "subject_id": "ep_8d8fff689020f325",
+    "object_id": "ep_d6332abd3294b79c",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Challenge jurisdiction and assert authority' occurs during scene_34, while the object episode 'Confront Torvalds and assert dominance' occurs in scene_43, indicating a clear narrative sequence where the former precedes the latter based on scene ordering.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5beccce35594",
+    "subject_id": "ep_1d34ba4f526f9cc6",
+    "object_id": "ep_66447b79635e678f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Defy and target in tense standoff' (scene_48) occurs after 'Threaten Torvalds with precise aim and partial trigger pull' (scene_47), as indicated by the sequential scene numbers in their related_events. The standoff in scene_48 follows the aiming and partial trigger pull in scene_47, establishing a clear narrative order where the threat escalation precedes the defiant reaction.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e49dcf21b713",
+    "subject_id": "ep_24ad28ee2b0ffe0e",
+    "object_id": "ep_5409927176dde726",
+    "relation_type": "precedes",
+    "reason": "The confrontation at the one-way mirror (ep_24ad28ee2b0ffe0e) occurs in scene_45, where Torvalds approaches the mirror and Bad Agent #2 prepares a gun. The defiant gesture (ep_5409927176dde726) occurs in scene_46, where Torvalds raises his middle finger, indicating a subsequent event. The scene numbering provides clear narrative order, supporting that the first episode precedes the second.",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6d4419c9194c",
+    "subject_id": "ep_8d8fff689020f325",
+    "object_id": "ep_fadc6dd6a82c5281",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Challenge jurisdiction and assert authority' occurs during scene_34, while the object episode 'Resume control before leaving' occurs in scene_43, indicating a clear narrative sequence where the confrontation over jurisdiction precedes Roberts reasserting control before exiting the room.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7e5bcca16514",
+    "subject_id": "ep_20a017eef04e14ba",
+    "object_id": "ep_8fd667864e16d777",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Observe crowd and announce departure' occurs while Torvalds is still at the balcony, prior to his movement toward the pedestrian walkway. The object episode 'Apprehend and arrest Torvalds on pedestrian walkway' begins with Torvalds exiting the elevator and walking toward the walkway, indicating a subsequent event. The narrative sequence implies a temporal order where the announcement of departure precedes the arrest, supported by the spatial and action progression in the descriptions.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f6612baf5a3d",
+    "subject_id": "ep_8d8fff689020f325",
+    "object_id": "ep_b1a96124b06fd0ee",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs during scene_34, involving the FBI interrogation and jurisdictional challenge, while the second episode occurs in scene_35, where agents observe the interrogation and react to Torvalds' offer. The progression from scene_34 to scene_35 establishes a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b06451ba733d",
+    "subject_id": "ep_b8325d600ecadccf",
+    "object_id": "ep_fa30e8c195d8281e",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode depicts Gabriel and Stanley under physical control and subjugation, while the object episode portrays Gabriel as a charismatic, dominant social figure. These episodes are juxtaposed in tone and status—one showing subjugation, the other dominance—supporting a contrastive relationship.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ccd71131ec51",
+    "subject_id": "ep_75cf57f7287c2e92",
+    "object_id": "ep_b1a96124b06fd0ee",
+    "relation_type": "precedes",
+    "reason": "The physical intimidation of Torvalds by Roberts (ep_75cf57f7287c2e92) occurs during the interrogation in scene_34, while the FBI agents' observation and reaction to Torvalds' offer takes place in scene_35, indicating a direct narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_88974a370cc8",
+    "subject_id": "ep_d6332abd3294b79c",
+    "object_id": "ep_24ad28ee2b0ffe0e",
+    "relation_type": "precedes",
+    "reason": "The confrontation initiated by Roberts in 'Confront Torvalds and assert dominance' (doc_id: doc_42, scene_43) occurs earlier in the narrative sequence than the escalation at the one-way mirror (doc_id: doc_44, scene_45), as indicated by the document and scene numbering. This establishes a clear local narrative order where the power struggle in the interrogation precedes the physical and psychological escalation at the mirror.",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f329783ade10",
+    "subject_id": "ep_fb08da3b7c2b4861",
+    "object_id": "ep_8fd667864e16d777",
+    "relation_type": "precedes",
+    "reason": "The escape episode (ep_fb08da3b7c2b4861) occurs when Torvalds enters the elevator and leaves unnoticed during the inspection process, which directly precedes the arrest episode (ep_8fd667864e16d777) where security teams converge on him on the pedestrian walkway after exiting an elevator. The sequence is supported by the narrative flow: escape via elevator must happen before any subsequent interception and arrest on the walkway.",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9d9450007059",
+    "subject_id": "ep_5964caecb75f17bd",
+    "object_id": "ep_84bb1f08594a4ee8",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Gabriel exiting a Lamborghini in slow motion, creating a dramatic visual entrance, while the object episode describes him completing his approach by entering the building under cover. The sequence of events—exiting the vehicle followed by entering the building—implies a clear temporal order supported by the related events and narrative flow. Thus, the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1857fd64ecf6",
+    "subject_id": "ep_15ae3bd8b6b01496",
+    "object_id": "ep_b1a96124b06fd0ee",
+    "relation_type": "precedes",
+    "reason": "The first episode describes the initial detention of Torvalds and the lack of actionable intelligence, which sets up the context for the subsequent interrogation observed by FBI agents in the second episode. The events in ep_15ae3bd8b6b01496 (detention and reporting) logically and chronologically precede the interrogation monitoring and Torvalds' offer to disclose information in ep_b1a96124b06fd0ee.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d54c938525cd",
+    "subject_id": "ep_a8f6619c9cf10924",
+    "object_id": "ep_b8325d600ecadccf",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts Gabriel actively participating in the subjugation of a hostage by fitting her with a dog collar and overseeing her removal, while the second episode reveals Gabriel himself being subjugated with a radiofrequency electronic dog collar. This reversal of roles—perpetrator becoming victim—creates a clear narrative contrast in power dynamics and treatment, supported by the mirrored use of dog collars in both episodes.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_88f15a1b2cad",
+    "subject_id": "ep_fd580e1f74550975",
+    "object_id": "ep_b1a96124b06fd0ee",
+    "relation_type": "precedes",
+    "reason": "The negotiation episode (ep_fd580e1f74550975) occurs during scene_34, where Roberts offers Torvalds a deal and Torvalds considers it in silence. The monitoring episode (ep_b1a96124b06fd0ee) occurs in scene_35, where FBI agents observe the interrogation and react to Torvalds' announcement. The scene numbers indicate a clear narrative sequence: scene_34 precedes scene_35.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4c6f2d0af412",
+    "subject_id": "ep_5964caecb75f17bd",
+    "object_id": "ep_b7ceab9cc7868fb0",
+    "relation_type": "precedes",
+    "reason": "The dramatic entrance of Gabriel exiting the Lamborghini (ep_5964caecb75f17bd) is described as a slow-motion, transcendent moment that sets the stage for his subsequent calm advance through the blockade (ep_b7ceab9cc7868fb0), which includes putting on sunglasses and walking through chaos. The narrative flow and event sequencing suggest the entrance occurs before the advance, with the latter continuing the progression toward the target building.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_036ff482546a",
+    "subject_id": "ep_75fd1cdb76a695ba",
+    "object_id": "ep_15ae3bd8b6b01496",
+    "relation_type": "precedes",
+    "reason": "The customs inspection episode (ep_75fd1cdb76a695ba) involves the initial discovery of two passports and document scrutiny of Axl Torvalds at LAX, which directly precedes the reporting of his detention and intelligence gaps to Senator Reisman in episode ep_15ae3bd8b6b01496. The sequence is supported by the related events: the inspection occurs in scene_23, while the report occurs in scene_25, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e62de4017e44",
+    "subject_id": "ep_d6332abd3294b79c",
+    "object_id": "ep_fd580e1f74550975",
+    "relation_type": "precedes",
+    "reason": "The confrontation where Roberts asserts dominance over Torvalds (ep_d6332abd3294b79c) occurs in scene_43, while the negotiation offering escape (ep_fd580e1f74550975) occurs in scene_34. Despite the reverse document order, scene numbers indicate that the negotiation precedes the confrontation in narrative time. However, the power struggle established in the confrontation may inform the shift in tactics, but the clearest supported relation is temporal: the negotiation (object) happens before the confrontation (subject), so subject follows object. Since 'precedes' is directed, and the subject episode occurs after the object episode, the correct direction is object precedes subject. But given the subject is listed first and the schema requires directionality, the relation from subject to object cannot be 'precedes'. Therefore, the only justifiable directed relation is 'precedes' in reverse order. But per instruction, we must assign relation_type based on subject -> object. Since the subject episode (scene_43) occurs after the object episode (scene_34), it does not precede it. Hence, 'precedes' cannot be valid in subject->object direction. No other relation is clearly supported. Thus, despite temporal data, directionality cannot be correctly assigned as per schema. Final decision: NONE due to inability to support any directed relation in the required direction with sufficient clarity.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_167303c069d7",
+    "subject_id": "ep_b7ceab9cc7868fb0",
+    "object_id": "ep_84bb1f08594a4ee8",
+    "relation_type": "precedes",
+    "reason": "The description of ep_b7ceab9cc7868fb0 details Gabriel advancing through the blockade and approaching the target building, culminating in his arrival at the building. The description of ep_84bb1f08594a4ee8 begins with Gabriel entering the building after passing the 'WORLD BANC' sign and stepping through the glass door. The sequence of events in the related scenes (scene_2) and the narrative flow indicate that advancing through the blockade occurs immediately before entering the building, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e372373256c6",
+    "subject_id": "ep_a5eadeda08d8302e",
+    "object_id": "ep_9fdb0061e598bdf0",
+    "relation_type": "precedes",
+    "reason": "The episode 'React to alarming information with silent communication' occurs in scene_11, while 'Confrontation in the hallway escalates' occurs in scene_44, indicating a clear narrative order where the former precedes the latter based on scene numbering and distinct contextual settings.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ad792879186d",
+    "subject_id": "ep_fadc6dd6a82c5281",
+    "object_id": "ep_9fdb0061e598bdf0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Resume control before leaving' occurs before Roberts exits the room, which directly precedes the confrontation in the hallway described in the second episode. The related_events and scene numbers (scene_43 before scene_44) provide explicit chronological ordering.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_64fed425b6e3",
+    "subject_id": "ep_75cf57f7287c2e92",
+    "object_id": "ep_a146d66943412a57",
+    "relation_type": "precedes",
+    "reason": "The physical intimidation episode occurs during scene_34, while the interruption by the FBI agent occurs in scene_43, indicating a clear narrative sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ec5a6a2c3de6",
+    "subject_id": "ep_1d34ba4f526f9cc6",
+    "object_id": "ep_8fd667864e16d777",
+    "relation_type": "precedes",
+    "reason": "The defiant gesture and targeting of Torvalds (ep_1d34ba4f526f9cc6) occurs in scene_48, while the arrest on the pedestrian walkway (ep_8fd667864e16d777) occurs in scene_24. Since scene_24 precedes scene_48 in document order, the arrest episode occurs earlier. However, the subject is ep_1d34ba4f526f9cc6 and the object is ep_8fd667864e16d777, so the subject episode happens after the object episode. Therefore, the correct directional relation is 'precedes' in reverse order — but since 'precedes' is directed and the subject must precede the object for the relation to hold, the actual temporal order contradicts the subject->object direction. Thus, no valid directed 'precedes' relation can be asserted from subject to object. Upon reevaluation, no other relation type is supported. Hence, the relation is NONE.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_705a79cf73e4",
+    "subject_id": "ep_d6332abd3294b79c",
+    "object_id": "ep_49dd62a15fe59364",
+    "relation_type": "precedes",
+    "reason": "The confrontation in 'Confront Torvalds and assert dominance' (scene_43) occurs in an earlier scene than the disengagement in 'Roberts disengages and attorney retreats' (scene_44), establishing a clear narrative sequence where the power struggle precedes the mutual withdrawal.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bd69d8cbb55f",
+    "subject_id": "ep_2e60356e9bf0d85d",
+    "object_id": "ep_13726bd6416b7d78",
+    "relation_type": "precedes",
+    "reason": "The 'Intercept Hostage Crisis Escalation' episode (scene_6) occurs before the 'Respond to an urgent situation' episode (scene_13) based on the document scene numbering, indicating a local narrative order where Roberts first listens to the hostage warning and later reacts to an urgent auditory cue with A.D. Joy.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_94279373408d",
+    "subject_id": "ep_2e60356e9bf0d85d",
+    "object_id": "ep_a5eadeda08d8302e",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Intercept Hostage Crisis Escalation' occurs in scene_6, where Roberts begins monitoring a hostage threat. The object episode 'React to alarming information with silent communication' occurs in scene_11, where Roberts and Joy react to alarming information. Scene_6 precedes scene_11 in narrative order, supporting a 'precedes' relation from the earlier to the later episode.",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f638afd37446",
+    "subject_id": "ep_5866b446b707d8c4",
+    "object_id": "ep_a146d66943412a57",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate private interrogation with Torvalds' occurs during scene_34, while the object episode 'Interrupt interrogation with urgent call' occurs in scene_43, indicating a clear narrative sequence where the private interrogation is established before being interrupted by the urgent call.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4490c100c3e6",
+    "subject_id": "ep_13726bd6416b7d78",
+    "object_id": "ep_9fdb0061e598bdf0",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to an urgent situation' occurs in scene_13, while the object episode 'Confrontation in the hallway escalates' occurs in scene_44. The lower scene number in the related_events of the first episode and the higher in the second suggests a clear narrative sequence where the urgent response precedes the later confrontation in the hallway, based on the documented scene order.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_26203b051ba4",
+    "subject_id": "ep_fadc6dd6a82c5281",
+    "object_id": "ep_49dd62a15fe59364",
+    "relation_type": "precedes",
+    "reason": "The episode 'Resume control before leaving' occurs as Roberts is exiting the interrogation room after giving instructions (scene_43), while 'Roberts disengages and attorney retreats' takes place in scene_44, where both parties physically leave the confrontation area. The sequential scene numbers and narrative flow indicate that the first episode directly precedes the second.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_204c7d2238e5",
+    "subject_id": "ep_d6332abd3294b79c",
+    "object_id": "ep_9fdb0061e598bdf0",
+    "relation_type": "precedes",
+    "reason": "The confrontation with Torvalds in the interrogation room (ep_d6332abd3294b79c) occurs in scene_43, while the hallway confrontation with the attorney (ep_9fdb0061e598bdf0) occurs in scene_44, indicating a direct narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6e0fbcee6c48",
+    "subject_id": "ep_5866b446b707d8c4",
+    "object_id": "ep_fadc6dd6a82c5281",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate private interrogation with Torvalds' occurs in scene_34, while the object episode 'Resume control before leaving' occurs in scene_43, indicating a clear temporal sequence where the initiation of the private interrogation precedes Roberts reasserting control before exiting the room.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8aa1a3c066f3",
+    "subject_id": "ep_a8db0c1fb57b9b97",
+    "object_id": "ep_d8e344ae666b23f7",
+    "relation_type": "causes",
+    "reason": "Ginger's delivery of shocking news about Holly directly precedes and provokes Stanley's violent reaction of expelling her from the trailer, as the emotional tension from the revelation culminates in his forceful rejection. The causal link is supported by the narrative sequence and emotional escalation in the described events.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_645ecffe63ec",
+    "subject_id": "ep_5866b446b707d8c4",
+    "object_id": "ep_49dd62a15fe59364",
+    "relation_type": "precedes",
+    "reason": "The private interrogation with Torvalds (ep_5866b446b707d8c4) involves Roberts initiating a confrontation, which logically precedes his subsequent disengagement and retreat down the hallway (ep_49dd62a15fe59364), indicating a temporal sequence supported by the narrative flow of events.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_791630d2d207",
+    "subject_id": "ep_5866b446b707d8c4",
+    "object_id": "ep_9fdb0061e598bdf0",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Initiate private interrogation with Torvalds' occurs in scene_34, while the object episode 'Confrontation in the hallway escalates' occurs in scene_44, indicating a clear narrative sequence where Roberts first establishes a private setting with Torvalds and then exits to confront the attorney. The progression across scenes supports a 'precedes' relation from the private interrogation initiation to the hallway confrontation.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cb59b6263197",
+    "subject_id": "ep_09046c5da210c07a",
+    "object_id": "ep_8eaf68d745a0551a",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs in doc_27 and the object episode in doc_28, indicating a sequential narrative order across documents. The subject involves Ginger's initial reaction to Stan's dismissive behavior, while the object shows her subsequent attempt to reestablish connection, suggesting a progression from passive assessment to active engagement.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7e216387f055",
+    "subject_id": "ep_75cf57f7287c2e92",
+    "object_id": "ep_9fdb0061e598bdf0",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Assert dominance through physical intimidation' occurs during scene_34, where Roberts interrogates Torvalds in a room. The object episode 'Confrontation in the hallway escalates' occurs in scene_44, beginning with Roberts exiting the room and encountering the attorney in the hallway. The progression from scene_34 to scene_44 and the physical movement from room to hallway indicate a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e5e0bf176a28",
+    "subject_id": "ep_75cf57f7287c2e92",
+    "object_id": "ep_49dd62a15fe59364",
+    "relation_type": "precedes",
+    "reason": "The physical intimidation episode (ep_75cf57f7287c2e92) involves Roberts escalating the interrogation by ejecting the lawyer and assaulting Torvalds, which logically precedes the subsequent disengagement where Roberts walks away and the attorney retreats (ep_49dd62a15fe59364), indicating a temporal sequence of conflict escalation followed by de-escalation and separation.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d1b11bd55af4",
+    "subject_id": "ep_09046c5da210c07a",
+    "object_id": "ep_d8e344ae666b23f7",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Ginger assesses Stan's apartment and retrieves a beer while he ignores her, occurs in doc_27 and scene_28. The object episode, in which Stanley expels Ginger from the trailer, occurs in doc_29 and scene_30. The document and scene numbering indicate a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e812d0bf02a7",
+    "subject_id": "ep_8eaf68d745a0551a",
+    "object_id": "ep_d8e344ae666b23f7",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Ginger challenges Stanley and reestablishes connection, occurs in doc_28 and scene_29, while the object episode, in which Stanley expels Ginger from the trailer, occurs in doc_29 and scene_30. The sequential order of scenes and documents indicates that the challenge and reconnection precede the expulsion, establishing a clear narrative sequence.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e5abd28aa57b",
+    "subject_id": "ep_c1b4172aef41d43c",
+    "object_id": "ep_d8e344ae666b23f7",
+    "relation_type": "precedes",
+    "reason": "Ginger arrives and confronts Stan (ep_c1b4172aef41d43c) occurs in doc_26, scene_27, while Stan expels Ginger from the trailer (ep_d8e344ae666b23f7) occurs in doc_29, scene_30, indicating a clear narrative sequence where the arrival and confrontation precede the expulsion.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_cfafe287ecae",
+    "subject_id": "ep_09046c5da210c07a",
+    "object_id": "ep_a8db0c1fb57b9b97",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs in doc_27 and the object episode in doc_28, indicating a sequential narrative order across documents. The subject involves Ginger's initial reaction upon entering Stan's apartment, while the object involves a later confrontation where she delivers significant news about Holly, suggesting a progression in the interaction. This local narrative order supports a 'precedes' relation from the earlier to the later episode.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8fccdba11826",
+    "subject_id": "ep_5866b446b707d8c4",
+    "object_id": "ep_d6332abd3294b79c",
+    "relation_type": "precedes",
+    "reason": "The initiation of a private interrogation (ep_5866b446b707d8c4) logically precedes the confrontation and assertion of dominance within that private setting (ep_d6332abd3294b79c), as the private setting must be established before Roberts can confront Torvalds. The related event in the first episode (interrupting to speak alone) sets up the context for the second episode's events (rejecting the story and prompting a defiant smile), indicating a clear narrative sequence.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0413cd293cdb",
+    "subject_id": "ep_c1b4172aef41d43c",
+    "object_id": "ep_09046c5da210c07a",
+    "relation_type": "precedes",
+    "reason": "Ginger arrives and confronts Stan (ep_c1b4172aef41d43c) occurs in scene_27, while Ginger assesses and reacts to Stan's apartment (ep_09046c5da210c07a) occurs in scene_28, indicating a clear narrative sequence where the arrival and confrontation precede the assessment and reaction within the local discourse order.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9f5d361d8c3c",
+    "subject_id": "ep_60164000ee9f61bb",
+    "object_id": "ep_d8e344ae666b23f7",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ginger pressures Stanley with emotional and financial leverage' involves Ginger making an offer and laying out cash, which sets up a confrontation. The episode 'Expel Ginger from the trailer' involves Stanley violently removing Ginger, which plausibly follows as a reaction to her pressure. The related events in the first episode (scene_33) occur after the events in the second (scene_30), but the narrative logic and escalation suggest the pressure episode precedes the expulsion in story time, based on causal and emotional buildup.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_99c33e2bb222",
+    "subject_id": "ep_8eaf68d745a0551a",
+    "object_id": "ep_890675e3c11b896e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ginger challenges Stanley and reestablishes connection' (scene_29) occurs in doc_28, while 'Ginger confronts Stanley about his daughter's custody and delivers an ultimatum' (scene_33) occurs in doc_32. The scene numbers and document IDs suggest a narrative sequence where reestablishing connection precedes the more direct confrontation and ultimatum, indicating a local narrative order.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c58c6765831f",
+    "subject_id": "ep_8eaf68d745a0551a",
+    "object_id": "ep_60164000ee9f61bb",
+    "relation_type": "precedes",
+    "reason": "Ginger first reestablishes connection by squatting and reminding Stanley of his legacy (ep_8eaf68d745a0551a), which sets the stage for her subsequent escalation involving emotional and financial leverage (ep_60164000ee9f61bb). The progression from reconnection to pressure suggests a narrative sequence where the former precedes the latter, supported by the increasing intensity of interaction described in the episodes.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0aec5b2f32cc",
+    "subject_id": "ep_5866b446b707d8c4",
+    "object_id": "ep_8d8fff689020f325",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate private interrogation with Torvalds' involves Roberts interrupting the ongoing FBI interrogation to dismiss agents and speak privately, which occurs after the jurisdictional challenge between the FBI agents and Torvalds' lawyer. Both episodes occur during the same occasion ('Fbi Interrogation Of Torvalds') and share scene_34, but the challenge over jurisdiction must precede the decision to terminate the formal interrogation and switch to a private setting. The narrative logic implies a sequence where confrontation over authority (object) precedes the shift to private interrogation (subject), but since the subject is listed as initiating the private interrogation, and that action interrupts the ongoing process in the object episode, the subject episode follows the object episode in narrative order. Therefore, the object episode precedes the subject episode. However, the relation is directed and must be evaluated as subject -> object. Since the subject episode (private interrogation initiation) happens after the object episode (jurisdiction challenge), the correct directional relation is object precedes subject, but we are constrained to evaluate subject -> object. As 'precedes' in subject -> object direction would mean the private interrogation initiation happens before the jurisdictional challenge, which is not supported, the relation cannot be confidently asserted in that direction. Given the shared scene and occasion, and the logical sequence, the only justifiable directed relation is 'precedes' in the reverse order, but since we cannot invert subject and object, we default to 'NONE' if direction is invalid. However, reconsidering: the description of the subject says Roberts 'interrupts the ongoing FBI interrogation' during which the challenge occurs, meaning the challenge is part of the ongoing process being interrupted. Thus, the object episode is already in motion when the subject episode begins, so the subject episode does not precede the object episode. Therefore, 'precedes' in either direction is not strongly supportable as a directed relation from subject to object. Given the lack of explicit temporal markers and the overlap in events, confidence drops. After careful analysis, no directed relation is clearly supported. Thus, the correct output is NONE with moderate confidence that no relation can be justified.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9c2cc3f4ba70",
+    "subject_id": "ep_8eaf68d745a0551a",
+    "object_id": "ep_2025ac4f5ce76b55",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ginger challenges Stanley and reestablishes connection' involves Ginger re-engaging Stanley emotionally and confronting his avoidance, which sets the stage for the subsequent risk-free proposal in 'Ginger secures Stanley's consideration with a no-strings-attached proposal'. The physical and emotional reconnection (scene_29) logically precedes the final persuasive move (scene_33), indicating a narrative sequence where reestablishing rapport comes before making the offer.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2198fc4f6e88",
+    "subject_id": "ep_72cbfaa741b24ed8",
+    "object_id": "ep_8eaf68d745a0551a",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Ginger reveals her mission to help Stan and introduces her employer's agenda, occurs in doc_26, while the object episode, where Ginger challenges Stanley and reestablishes connection through physical and emotional engagement, occurs in doc_28. The document IDs suggest a narrative sequence where the revelation of the mission precedes the deeper personal challenge and reconnection attempt.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b37976983476",
+    "subject_id": "ep_09046c5da210c07a",
+    "object_id": "ep_72cbfaa741b24ed8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ginger assesses and reacts to Stan's apartment' occurs in doc_27, scene_28, while 'Ginger reveals her mission to help Stan' occurs in doc_26, scene_27. The document and scene ordering indicates that the revelation precedes the assessment and reaction, supporting a 'precedes' relation from object to subject. However, since the relation is directed and the subject is listed first, the correct directional interpretation is that the object episode precedes the subject episode, which aligns with the narrative sequence.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a6d13da54b9d",
+    "subject_id": "ep_c1b4172aef41d43c",
+    "object_id": "ep_8eaf68d745a0551a",
+    "relation_type": "precedes",
+    "reason": "Ginger arrives and confronts Stan (ep_c1b4172aef41d43c) occurs in scene_27, where she initiates contact and establishes authority. This is followed by Ginger challenging Stanley and reestablishing connection (ep_8eaf68d745a0551a) in scene_29, where she physically engages and reminds him of his legacy. The scene numbers indicate a clear narrative sequence, supporting that the arrival and confrontation precedes the later challenge and reconnection.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_01109509dc4f",
+    "subject_id": "ep_72cbfaa741b24ed8",
+    "object_id": "ep_a8db0c1fb57b9b97",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ginger reveals her mission to help Stan' (doc_26) occurs in an earlier document than 'Ginger delivers shocking news about Holly' (doc_28), and the narrative progression shows Ginger first introducing her purpose and employer before delivering the emotionally charged question about Holly, indicating a sequential order in the local narrative.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c1dfefe0ba10",
+    "subject_id": "ep_c1b4172aef41d43c",
+    "object_id": "ep_a8db0c1fb57b9b97",
+    "relation_type": "precedes",
+    "reason": "Ginger arrives and confronts Stan (ep_c1b4172aef41d43c) occurs in scene_27, while Ginger delivers shocking news about Holly (ep_a8db0c1fb57b9b97) occurs in scene_29, indicating a clear temporal sequence where the arrival and initial confrontation precede the later revelation about Holly.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_63d678f54ffd",
+    "subject_id": "ep_43dfa3b9ab756e43",
+    "object_id": "ep_b7ceab9cc7868fb0",
+    "relation_type": "precedes",
+    "reason": "Stanley follows Gabriel into danger immediately after Gabriel begins his advance through the blockade, as both episodes occur in scene_2 and Stanley's action is a reaction to Gabriel's movement, establishing a clear temporal sequence where Gabriel's crossing precedes Stanley's decision to follow.",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a8668041f7c8",
+    "subject_id": "ep_72cbfaa741b24ed8",
+    "object_id": "ep_890675e3c11b896e",
+    "relation_type": "precedes",
+    "reason": "The subject episode, where Ginger reveals her mission to help Stan and introduces an external agenda, occurs before the object episode, where she confronts Stanley about his daughter's custody and delivers an ultimatum. The progression from offering help to applying pressure suggests a narrative sequence in which the revelation of intent precedes the escalation of demands, supported by the increasing intensity of Ginger's approach across the episodes.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c8981e0c0c93",
+    "subject_id": "ep_fadc6dd6a82c5281",
+    "object_id": "ep_b65811e7a6a6890e",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Resume control before leaving' includes Roberts instructing the Agent to watch Torvalds and then leaving, which directly precedes the object episode where the FBI Agent takes position outside the door to monitor Torvalds, as described in the sequence of events in scene_43.",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_92ca0c6b32e2",
+    "subject_id": "ep_c1b4172aef41d43c",
+    "object_id": "ep_60164000ee9f61bb",
+    "relation_type": "precedes",
+    "reason": "Ginger arrives and confronts Stan (ep_c1b4172aef41d43c) introduces the initial contact and establishes tension, which is followed by her escalating the confrontation with financial leverage (ep_60164000ee9f61bb), indicating a sequential narrative progression where the first episode sets up the second.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_de44f576d712",
+    "subject_id": "ep_72cbfaa741b24ed8",
+    "object_id": "ep_60164000ee9f61bb",
+    "relation_type": "elaborates",
+    "reason": "Ginger's revelation that she is an emissary with a mission to help Stan (ep_72cbfaa741b24ed8) provides contextual background that elaborates on her later use of emotional and financial leverage to pressure Stanley (ep_60164000ee9f61bb), clarifying her underlying intent and the origin of the offer.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b835a435359c",
+    "subject_id": "ep_2f36457b84d15baf",
+    "object_id": "ep_ae67c03d0a5f03cc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Stan attacks approaching car with golf balls' occurs at the beginning of the encounter with Ginger, while 'Stan heeds advice and achieves success' involves following Ginger's instruction and represents a later development in their interaction, indicating a clear temporal sequence supported by the narrative progression in scene_27.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7bb6fca2e4eb",
+    "subject_id": "ep_c1b4172aef41d43c",
+    "object_id": "ep_2025ac4f5ce76b55",
+    "relation_type": "precedes",
+    "reason": "Ginger arrives and confronts Stan (ep_c1b4172aef41d43c) before securing his consideration with a no-strings-attached proposal (ep_2025ac4f5ce76b55), as the initial confrontation establishes the context and interaction that leads into the subsequent persuasive proposal. The sequence of events implies a narrative order where the introduction and establishment of authority precede the closing argument.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e74abe07b4e7",
+    "subject_id": "ep_72cbfaa741b24ed8",
+    "object_id": "ep_2025ac4f5ce76b55",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Ginger reveals her mission to help Stan' introduces Ginger's intent and the external agenda, which provides contextual background that is later expanded upon in 'Ginger secures Stanley's consideration with a no-strings-attached proposal' where she acts on that mission by making a concrete, risk-free offer. The second episode builds on the motivation and framework established in the first, indicating an elaborative relationship from the revelation of purpose to its practical execution.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_bc91346c97a2",
+    "subject_id": "ep_c89fba137c0f6629",
+    "object_id": "ep_2025ac4f5ce76b55",
+    "relation_type": "precedes",
+    "reason": "The golf scene (ep_c89fba137c0f6629) establishes Ginger's assertive control and captures Stan's attention, creating a power dynamic that sets the stage for her later risk-free proposal (ep_2025ac4f5ce76b55). The narrative progression from physical demonstration of skill to strategic persuasion suggests a local order where the challenge precedes the proposal, supported by the sequential development of their interaction.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_359a4239cfd3",
+    "subject_id": "ep_2f36457b84d15baf",
+    "object_id": "ep_c89fba137c0f6629",
+    "relation_type": "precedes",
+    "reason": "The episode 'Stan attacks approaching car with golf balls' occurs as the Ferrari arrives and Stan reacts, which sets up the encounter with Ginger. The episode 'Ginger challenges Stan's golf skills' follows, where Ginger takes the club and demonstrates her skill, indicating a clear sequential order supported by the shared scene (scene_27) and narrative flow. The first episode initiates the interaction, and the second builds upon it, establishing a local narrative precedence.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7d097967f31f",
+    "subject_id": "ep_c1b4172aef41d43c",
+    "object_id": "ep_890675e3c11b896e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ginger arrives and confronts Stan' (ep_c1b4172aef41d43c) occurs when Ginger first approaches Stan on the trailer roof and introduces herself, establishing initial contact and authority. The episode 'Ginger confronts Stanley about his daughter's custody and delivers an ultimatum' (ep_890675e3c11b896e) involves a deeper confrontation focused on custody and consequences, referencing a continuation of the interaction. The related events and narrative progression suggest the first episode precedes the second in the local narrative order.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c807edbdf474",
+    "subject_id": "ep_890675e3c11b896e",
+    "object_id": "ep_9fb1881b74a5d6c0",
+    "relation_type": "precedes",
+    "reason": "Ginger's confrontation with Stanley about his daughter's custody and her ultimatum (ep_890675e3c11b896e) occurs in doc_32, after Stanley's failed attempt to contact his daughter with Melissa's refusal in doc_31 (ep_9fb1881b74a5d6c0). The document order (doc_31 before doc_32) and narrative progression—where Ginger responds to Stanley's ongoing custody struggle—support that the object episode precedes the subject episode.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a04b3a5937cb",
+    "subject_id": "ep_9fdb0061e598bdf0",
+    "object_id": "ep_a146d66943412a57",
+    "relation_type": "precedes",
+    "reason": "The confrontation in the hallway (ep_9fdb0061e598bdf0) occurs in scene_44, while the interruption by the FBI agent (ep_a146d66943412a57) occurs in scene_43. Since scene_43 precedes scene_44 in narrative order, the object episode occurs before the subject episode. Therefore, the subject episode does not precede the object; rather, the object precedes the subject. However, given the directionality constraint and the need to assign a directed relation correctly, the correct directional 'precedes' relation is object -> subject. But since the schema requires subject -> object unless justified, and the reverse is true, no valid directed relation can be asserted from subject to object. Thus, despite clear temporal ordering, the direction is inverted, leading to 'NONE' if we cannot reverse. But per schema use, 'precedes' can be used if subject comes before object. Here, it does not. Therefore, the correct output is 'NONE'. Wait — correction: the subject episode is in scene_44, object in scene_43. So subject occurs after object. Therefore, subject does NOT precede object. No other relation is supported: no causal link is stated, no contrast or elaboration. Hence, no valid subject->object relation can be established.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3e38506c9782",
+    "subject_id": "ep_890675e3c11b896e",
+    "object_id": "ep_cc645d3ea4e4afd5",
+    "relation_type": "precedes",
+    "reason": "Ginger's confrontation with Stanley about his daughter's custody and ultimatum occurs in doc_32, scene_33, while Stanley's attempt to assert parental rights and subsequent legal dismissal occurs in doc_31, scene_32. The scene numbers and document order suggest a narrative sequence where the object episode precedes the subject episode. However, given that the subject episode involves Ginger pushing Stanley to act after his failure, it logically follows the legal dismissal. Thus, the object episode (asserting rights and dismissal) precedes the subject episode (Ginger's ultimatum), making 'precedes' valid with subject <- object directionality, but since the relation is directed and we are to assign subject -> object, we interpret the subject episode as following the object, hence 'precedes' with subject_id referring to the later episode. Given standard narrative flow and the causal setup, Ginger's intervention responds to the prior legal defeat, supporting that the object episode occurs first. Therefore, subject (Ginger's ultimatum) precedes is incorrect in direction. Re-evaluating: if object occurs first, then subject cannot precede object. Thus, the correct directional assignment would be object precedes subject, but since we must assign relation with given subject and object order, and 'precedes' would require subject -> object = ep_890675e3c11b896e precedes ep_cc645d3ea4e4afd5, which contradicts the timeline, the relation cannot be 'precedes' in this direction. No other relation is supported: no causal trigger from Ginger's episode to the prior court scene, no contrast or elaboration evident. Therefore, despite temporal proximity, the directionality constraint invalidates 'precedes', and no other relation fits. Final decision: NONE.",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  }
+]

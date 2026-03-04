@@ -1,0 +1,2094 @@
+[
+  {
+    "id": "rel_ep_ep_8af35217948a",
+    "subject_id": "ep_03ca82d2409d8c49",
+    "object_id": "ep_eaf402a492f7a29a",
+    "relation_type": "precedes",
+    "reason": "The confrontation with Tsai and May occurs in scene 21, while the confrontation with the Governess occurs in scene 41, indicating a clear narrative sequence where the former precedes the latter.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f759ed53bb69",
+    "subject_id": "ep_57c6ad0251bbbb2c",
+    "object_id": "ep_b149a56e909ba7f3",
+    "relation_type": "precedes",
+    "reason": "The events in the first episode, including Jen greeting Yu and writing her name in calligraphy, occur before the discussion about Jen's arranged marriage begins after the maid serves tea. Both episodes are part of the same scene (scene_30) and the sequence of related_events indicates a temporal order where calligraphy and affection precede the marriage discussion.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0c39dbc746b6",
+    "subject_id": "ep_57229c45563ee28c",
+    "object_id": "ep_a246789097ea6486",
+    "relation_type": "elaborates",
+    "reason": "The subject episode introduces the sword's physical qualities, and the object episode builds upon this by revealing its origin and symbolic significance, providing deeper context about its ownership by Li Mu Bai and gifting to Sir Te. The object episode expands the narrative established in the subject episode, consistent with an elaboration relation.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_40591265fa22",
+    "subject_id": "ep_9fd10dc3113544da",
+    "object_id": "ep_414c19374f6bf876",
+    "relation_type": "causes",
+    "reason": "Yu's sharing of her past love and unfulfilled desire for freedom directly leads to Jen proposing sisterhood, as Jen is moved by Yu's story. The description of the second episode explicitly states this emotional trigger, establishing a clear causal link from the first episode to the second.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ec0a6f9a764e",
+    "subject_id": "ep_162b2cb319b14c10",
+    "object_id": "ep_823bd909f25ce269",
+    "relation_type": "causes",
+    "reason": "The flyer implicating Jade Fox, presented in the first episode, directly triggers Li Mu Bai's decision to pursue vengeance for his master's death in the second episode. The description of the second episode explicitly states it is 'spurred by the flyer implicating Jade Fox,' indicating a clear causal link from the first to the second episode.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fe229d45ef02",
+    "subject_id": "ep_20eb2c79be11c8ab",
+    "object_id": "ep_387eb075b33d94ed",
+    "relation_type": "precedes",
+    "reason": "The governess first takes over care duties by entering Jen's room and offering handmade pajamas, then later reflects on Jen's maturity and departs, with both episodes occurring in scene_15 and the sequence implied by the narrative flow of actions in the same scene.",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_da88fef6d984",
+    "subject_id": "ep_c05f421c0d129fcb",
+    "object_id": "ep_d19bb2242e166b1e",
+    "relation_type": "precedes",
+    "reason": "The combat episode where the Governess overpowers Bo and May occurs during the battle in scene_41, while the mourning episode takes place after the battle concludes, as stated in the object episode's description. This establishes a clear temporal order: the combat precedes the emotional aftermath.",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4205ff2c6fa5",
+    "subject_id": "ep_a246789097ea6486",
+    "object_id": "ep_d12a481ca7c2e2f4",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reveal the sword's origin and significance' occurs before 'Return the sword and reflect on the fighter's life' in the narrative flow of scene_11, as evidenced by the sequence of events: first Yu reveals the sword belongs to Li Mu Bai, then later returns it to the case, marking a clear temporal order.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ebb70fd8416a",
+    "subject_id": "ep_3604124e1acbfcac",
+    "object_id": "ep_e8c00d330cbcd922",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reveal Li Mu Bai's return' occurs in doc_38, while 'Investigate theft and security failures' occurs in doc_39, indicating a clear narrative sequence where Li Mu Bai's return precedes his subsequent questioning about the theft and security lapses.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_eb653aebb131",
+    "subject_id": "ep_ab8a2dda7b8456bf",
+    "object_id": "ep_f53acf85c9a8e92a",
+    "relation_type": "precedes",
+    "reason": "The first episode describes the initiation of the confrontation with Li Mu Bai revealing himself and demanding the sword, which is immediately followed by the second episode where the figure attempts to flee and Li Mu Bai seizes the sword and questions her. The sequence of events in the same scene (scene_47) and the causal-temporal flow from challenge to interception and interrogation support that the first episode precedes the second.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d2b14dd12785",
+    "subject_id": "ep_2568bf7a3b65627f",
+    "object_id": "ep_79cd47214afddcdc",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode establishes a tone of courtesy and familial concern during the trousseau gathering, while the second episode introduces a moral conflict where Yu advocates for compassion and Madam Yu demands strictness, creating a clear juxtaposition in ethical outlook within the same occasion.",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_31e18ac91d69",
+    "subject_id": "ep_57c6ad0251bbbb2c",
+    "object_id": "ep_9fd10dc3113544da",
+    "relation_type": "elaborates",
+    "reason": "Yu's sharing of her past love and unfulfilled desire for freedom provides deeper emotional context in response to Jen's expression of yearning for autonomy, which was established during their intimate calligraphy interaction. The second episode expands on the emotional undercurrents introduced in the first, particularly around restraint and longing, thereby elaborating on the emotional foundation laid in the subject episode.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_aea1af9fbb31",
+    "subject_id": "ep_57229c45563ee28c",
+    "object_id": "ep_ca789bb82bbf90a2",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Introduce the sword and its physical qualities' involves Yu handing the sheathed sword to Jen and discussing its composition, which directly precedes the object episode where Yu draws the sword abruptly to demonstrate it, triggering Jen's deeper fascination. The sequence of events in scene_11 supports a clear temporal order: handling the sheathed sword comes before drawing it.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c34f72e52077",
+    "subject_id": "ep_3604124e1acbfcac",
+    "object_id": "ep_823bd909f25ce269",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reveal Li Mu Bai's return' occurs in doc_38 and scene_39, while 'Confront personal mission of vengeance' occurs in doc_39 and scene_40, indicating a clear narrative sequence where Li Mu Bai's return precedes his declaration of vengeance.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_84248e0df47a",
+    "subject_id": "ep_43f4bfcdd77bf21a",
+    "object_id": "ep_45e95b4ea6be5701",
+    "relation_type": "causes",
+    "reason": "The subject episode, in which Li reveals the truth and offers discipleship, directly triggers the object episode, where the figure rejects the offer and flees in emotional turmoil. The description of the object episode explicitly states that the figure's reaction is due to being 'overwhelmed by Li's words and the emotional weight of the encounter,' providing clear causal evidence.",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c4fba0e45167",
+    "subject_id": "ep_ca789bb82bbf90a2",
+    "object_id": "ep_d12a481ca7c2e2f4",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Yu drawing the sword and sparking Jen's fascination, followed by her questions about his fighting background. The second episode begins with Yu returning the sword to its case, which directly follows the demonstration. The sequence of events—drawing the sword, discussing its use, then returning it—is explicitly ordered in the same scene (scene_11), supporting a clear narrative precedence.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2e055dd867bc",
+    "subject_id": "ep_57c6ad0251bbbb2c",
+    "object_id": "ep_414c19374f6bf876",
+    "relation_type": "precedes",
+    "reason": "The episode 'Rekindle emotional connection through calligraphy and affection' involves Jen greeting Yu and engaging in calligraphy, which establishes their emotional reconnection. This is immediately followed by Jen proposing sisterhood and Yu offering a blessing, indicating a natural narrative progression. Both episodes occur in scene_30, and the description of the second episode ('closing their encounter') suggests it comes after the calligraphy interaction, supporting a clear temporal order.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_28cf5405691e",
+    "subject_id": "ep_823bd909f25ce269",
+    "object_id": "ep_e8c00d330cbcd922",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Confront personal mission of vengeance' elaborates on the motivations behind Li Mu Bai's actions during the 'Investigate theft and security failures' episode, providing emotional and personal context—his desire to avenge his master—that expands the understanding of his investigative behavior. Both episodes occur in the same scene (scene_40) and are thematically linked, with the personal mission adding depth to the investigation.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4364dd23edc6",
+    "subject_id": "ep_0d27b80f9c43fa2f",
+    "object_id": "ep_414c19374f6bf876",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Jen receiving Yu Shu Lien and the governess departing, which sets the stage for the subsequent interaction where Jen proposes sisterhood and Yu offers a blessing. Both episodes occur in scene_30, and the sequence of events in the descriptions indicates that the reception must precede the emotional proposal and blessing.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_695df568ae56",
+    "subject_id": "ep_ab8a2dda7b8456bf",
+    "object_id": "ep_8eef6c0b8a73c05a",
+    "relation_type": "precedes",
+    "reason": "The 'Confrontation initiated under moonlight' episode includes Li Mu Bai revealing himself and demanding the sword, which directly precedes the 'Pursuit of the escaping figure' episode where the masked figure evades and Li Mu Bai chases her. Both episodes occur in scene_47 and share a continuous temporal and spatial context, with the confrontation logically and chronologically preceding the pursuit.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_17b82c416678",
+    "subject_id": "ep_1421440bcfd7a98d",
+    "object_id": "ep_d12a481ca7c2e2f4",
+    "relation_type": "elaborates",
+    "reason": "The subject episode discusses abstract rules and personal constraints in the fighter's life, including Jen's dissatisfaction and Yu's views on marriage. The object episode builds on this by concretely elaborating the realities of a fighter's life—hygiene, living conditions, and literary romanticization—thereby expanding the thematic discussion initiated in the subject episode. Both episodes share the event where Jen challenges Yu about martial artist portrayals, indicating thematic continuity and elaborative linkage.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a8d50dd32d5d",
+    "subject_id": "ep_b149a56e909ba7f3",
+    "object_id": "ep_9fd10dc3113544da",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Discuss the burdens of arranged marriage and societal duty' introduces Jen's emotional conflict about her arranged marriage and desire for freedom. In response, Yu shares her past love and unfulfilled desire for freedom, providing personal background that expands on Jen's expressed feelings. This constitutes a directed elaboration where Yu's story offers deeper context grounded in shared themes of duty and constrained autonomy, directly prompted by Jen's revelation.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_189e86f2f256",
+    "subject_id": "ep_eaf402a492f7a29a",
+    "object_id": "ep_c05f421c0d129fcb",
+    "relation_type": "precedes",
+    "reason": "The confrontation and initiation of battle (ep_eaf402a492f7a29a) includes the Governess revealing her identity and the battle erupting, which directly precedes the sequence where she overpowers Bo and May during combat (ep_c05f421c0d129fcb), as both occur in scene_41 and the disabling of Bo and deflection of May's arrow logically follow the start of the battle.",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6ae64a0405cf",
+    "subject_id": "ep_534de21ab8c6b479",
+    "object_id": "ep_336c776c53034ecf",
+    "relation_type": "precedes",
+    "reason": "The reunion and reestablishment of connection between Li and Yu (ep_534de21ab8c6b479) occurs before Yu proposes a path forward by inviting Li to join the convoy to Peking (ep_336c776c53034ecf), as the invitation logically follows the initial greeting and exchange, both taking place in scene_4 with a clear narrative progression from reunion to proposal.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_494f3a1362d5",
+    "subject_id": "ep_b149a56e909ba7f3",
+    "object_id": "ep_414c19374f6bf876",
+    "relation_type": "precedes",
+    "reason": "The episode 'Discuss the burdens of arranged marriage and societal duty' includes Jen revealing her emotional detachment from the arranged marriage and her longing for freedom, which sets up her emotional state. This is directly followed by 'Jen proposes sisterhood and Yu offers blessing', where Jen, moved by Yu's story, proposes sisterhood. The narrative flow in scene_30 supports a clear temporal sequence where the discussion of marriage burdens precedes the sisterhood proposal and blessing.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e32296048611",
+    "subject_id": "ep_ee92aea2e4048cd7",
+    "object_id": "ep_dbebed4853a753e5",
+    "relation_type": "precedes",
+    "reason": "The confrontation and demand for the sword (ep_ee92aea2e4048cd7) initiates the encounter, after which Yu attacks and the rooftop combat ensues (ep_dbebed4853a753e5), as supported by the sequence of related events in the same scene (scene_20).",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9a78720c449c",
+    "subject_id": "ep_5d7be5c5283d1f6a",
+    "object_id": "ep_3604124e1acbfcac",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Bo's accusation and suspect a setup' ends with Sir Te deciding to inform Li Mu Bai, which logically precedes the episode 'Reveal Li Mu Bai's return' where Li Mu Bai is already present and revealed. The narrative flow implies a temporal sequence where Sir Te's decision leads to Li Mu Bai's appearance, supporting a 'precedes' relation from the decision to the return.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6ac308d91647",
+    "subject_id": "ep_f53acf85c9a8e92a",
+    "object_id": "ep_8eef6c0b8a73c05a",
+    "relation_type": "precedes",
+    "reason": "The 'Struggle for the sword and interrogation' episode includes the masked figure's attempt to flee and Li Mu Bai seizing the sword and questioning her, which directly precedes the subsequent 'Pursuit of the escaping figure' episode where she evades further confrontation by floating away and Li Mu Bai chases her. The sequence of events in the shared scene (scene_47) supports a clear temporal order: capture and interrogation attempt happens before the escape and pursuit.",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2de25d332b7a",
+    "subject_id": "ep_57229c45563ee28c",
+    "object_id": "ep_d12a481ca7c2e2f4",
+    "relation_type": "precedes",
+    "reason": "The subject episode, 'Introduce the sword and its physical qualities', occurs first as Yu hands the sword to Jen and discusses its composition. The object episode, 'Return the sword and reflect on the fighter's life', follows immediately after, as Yu returns the sword to its case and the conversation shifts to the realities of a fighter's life. Both episodes are grounded in scene_11 and form a sequential narrative flow where the physical examination of the sword precedes its return and the ensuing reflection.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4f241b5072ab",
+    "subject_id": "ep_162b2cb319b14c10",
+    "object_id": "ep_2c51c84bb8f75df0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Uncover flyer implicating Jade Fox' introduces the suspicion that Jade Fox is involved and raises concerns about a potential trap, which sets the stage for the subsequent strategy discussion in 'Plan a Trap for Fox Using Her Daughter'. The latter episode involves Te, Li, and Yu building on that initial information to devise a plan, indicating a clear narrative sequence where the revelation precedes the planning.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_701419f903bc",
+    "subject_id": "ep_ca789bb82bbf90a2",
+    "object_id": "ep_a246789097ea6486",
+    "relation_type": "precedes",
+    "reason": "The episode 'Demonstrate the sword and spark Jen's fascination' occurs first, as it involves Yu drawing the sword and Jen reacting with immediate sensory and emotional impact, which directly sets up her subsequent inquiry into the sword's origin. The episode 'Reveal the sword's origin and significance' follows logically and chronologically, as Jen's curiosity from the first episode prompts Yu to disclose the sword's background. Both episodes are grounded in scene_11 and share a sequential narrative flow where fascination precedes explanation.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fbc57c13160d",
+    "subject_id": "ep_1264eb9f08b5dc61",
+    "object_id": "ep_e8c00d330cbcd922",
+    "relation_type": "precedes",
+    "reason": "The private discussion between Li Mu Bai and Yu is interrupted and concluded by De Lu's announcement about the room, after which Li Mu Bai transitions to formal hospitality. The investigation into the theft and security failures occurs in the same scene (scene_40) but logically follows the conclusion of the private exchange, as Li Mu Bai shifts focus from personal conversation to questioning security lapses. The sequence of related events suggests a narrative progression from concluding the private talk to initiating the inquiry.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_77bf6e78d07d",
+    "subject_id": "ep_1421440bcfd7a98d",
+    "object_id": "ep_5565db2f862f3faa",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs in scene_11, where Yu and Jen discuss rules, freedom, and personal constraints, including Jen questioning Yu about marriage. The second episode occurs in scene_12, where Jen departs the study and bids Yu farewell. The sequential scene numbering and the narrative flow—conversation followed by departure—indicate a clear temporal order. Thus, the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d06078825f40",
+    "subject_id": "ep_162b2cb319b14c10",
+    "object_id": "ep_e8c00d330cbcd922",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Uncover flyer implicating Jade Fox' introduces the flyer as a key piece of evidence suggesting Jade Fox's involvement, which prompts Li Mu Bai's investigation into the theft and security failures. The investigation episode expands on the context of the theft by probing security lapses and follow-up actions, thereby elaborating on the circumstances initially presented in the flyer episode. The connection is supported by the shared focus on the theft and Li Mu Bai's reactive inquiry, but the direction is from the flyer's revelation to the broader investigation it motivates.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4b279c1e9ea6",
+    "subject_id": "ep_1e4ff852cb42b373",
+    "object_id": "ep_79cd47214afddcdc",
+    "relation_type": "contrasts_with",
+    "reason": "The two episodes occur in the same occasion (Trousseau Preparation Gathering) and involve Yu discussing a crime-related matter, but they emphasize opposing moral perspectives: 'Reveal theft and advocate for leniency' highlights Yu's compassion and Madam Yu's strictness, while 'Uncover the murderer's identity and impact' shifts to suspense and personal concern, with Jen's distress and the dangerous killer's notoriety. The contrast in tone and ethical stance—leniency vs. danger and consequence—supports a contrastive relationship.",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b785854c1e7c",
+    "subject_id": "ep_ca789bb82bbf90a2",
+    "object_id": "ep_5565db2f862f3faa",
+    "relation_type": "precedes",
+    "reason": "The episode 'Demonstrate the sword and spark Jen's fascination' occurs in doc_10, scene_11, while 'Jen departs the study and bids Yu farewell' occurs in doc_11, scene_12, indicating a clear sequential order where the sword demonstration precedes Jen's departure. The events in scene_11 directly precede those in scene_12, supporting a local narrative order.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3551164bb931",
+    "subject_id": "ep_eaf402a492f7a29a",
+    "object_id": "ep_d19bb2242e166b1e",
+    "relation_type": "precedes",
+    "reason": "The confrontation and battle (ep_eaf402a492f7a29a) directly lead to Tsai's death, which is immediately followed by May and Bo mourning his body (ep_d19bb2242e166b1e), as both episodes occur in scene_41 and the mourning is described as the emotional aftermath of the battle. This establishes a clear temporal sequence where the battle concludes before the mourning begins.",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b856c372ef7b",
+    "subject_id": "ep_57229c45563ee28c",
+    "object_id": "ep_1421440bcfd7a98d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Introduce the sword and its physical qualities' occurs first as it initiates the interaction in scene_11 by Yu handing the sword to Jen, followed by dialogue about its properties. The episode 'Discuss rules, freedom, and personal constraints' follows, building on the same scene but focusing on a subsequent thematic exchange. Both episodes are grounded in scene_11, and the sequence of related events indicates a clear narrative order where the introduction of the sword precedes the deeper discussion about life and constraints.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7eeeec832d4d",
+    "subject_id": "ep_88df65cfdbd427ee",
+    "object_id": "ep_43f4bfcdd77bf21a",
+    "relation_type": "precedes",
+    "reason": "The combat episode (ep_88df65cfdbd427ee) involves the figure attacking Li and the confrontation escalating, with Li using a branch to repel her—events that set the stage for the subsequent moment where Li lifts the figure's mask and offers discipleship (ep_43f4bfcdd77bf21a). The description of the second episode states 'after gaining the upper hand,' which directly indicates the combat sequence occurred first, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0c47883b6563",
+    "subject_id": "ep_0d27b80f9c43fa2f",
+    "object_id": "ep_b149a56e909ba7f3",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Jen receiving Yu Shu Lien and the governess departing, which sets the stage for the private conversation in the second episode where they discuss the burdens of arranged marriage. The related events in both episodes occur in scene_30 and follow a clear temporal sequence: the visit is established before the discussion about the wedding takes place, with the maid serving tea marking the transition. This local narrative order supports that the reception precedes the intimate discussion.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bb23c3ac26bb",
+    "subject_id": "ep_0d27b80f9c43fa2f",
+    "object_id": "ep_57c6ad0251bbbb2c",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Jen receiving Yu Shu Lien despite the governess's objection, culminating in the governess departing. The second episode begins with Jen greeting Yu warmly and rekindling their emotional connection through calligraphy. The events in the second episode logically follow the conclusion of the first, as the personal interaction cannot begin until after the governess leaves. Both episodes occur in scene_30 and are part of a continuous narrative sequence, with the first establishing the setting and transition that enables the second.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f3d7e1576fd7",
+    "subject_id": "ep_534de21ab8c6b479",
+    "object_id": "ep_162b2cb319b14c10",
+    "relation_type": "precedes",
+    "reason": "The reunion episode (ep_534de21ab8c6b479) occurs early in the narrative (scene_4) and establishes the initial meeting between Li and Yu, while the flyer revelation (ep_162b2cb319b14c10) occurs later (scene_40) and builds on their reestablished interaction. The narrative order of scenes supports that the reunion precedes the flyer disclosure.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e8da86240459",
+    "subject_id": "ep_6cd5999340214678",
+    "object_id": "ep_40b6cff6c6f2f341",
+    "relation_type": "precedes",
+    "reason": "The episode 'Interrogate the masked figure and resume fighting' includes events where the masked figure saves the Governess, is questioned by Li Mu Bai, and then Fox declares intent to kill Tsai and attacks with the masked figure. This is followed by the episode 'Fox and ally counterattack and escape', where Fox deflects Tsai's blade and they both escape. The sequence of events in the same scene (scene_41) supports a clear narrative order where the interrogation and renewed confrontation precede the counterattack and escape.",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_062c20123d8b",
+    "subject_id": "ep_57229c45563ee28c",
+    "object_id": "ep_335e4e873363d4eb",
+    "relation_type": "precedes",
+    "reason": "The episode 'Introduce the sword and its physical qualities' occurs in scene_11, while 'Demonstrate hidden martial prowess' occurs in scene_44, indicating a clear earlier-later narrative order based on scene numbering. This supports the 'precedes' relation from the sword introduction to the martial prowess demonstration.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1c5f406f2345",
+    "subject_id": "ep_1421440bcfd7a98d",
+    "object_id": "ep_e62299ebdea970dc",
+    "relation_type": "precedes",
+    "reason": "The discussion about rules, freedom, and personal constraints (ep_1421440bcfd7a98d) directly leads into the moment of silent reflection (ep_e62299ebdea970dc), with the latter occurring immediately after the dialogue concludes, as indicated by the sequence of related events in scene_11.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2674c5eae9b5",
+    "subject_id": "ep_ca789bb82bbf90a2",
+    "object_id": "ep_e62299ebdea970dc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Demonstrate the sword and spark Jen's fascination' includes events where Jen asks about Yu's sword fighting and Yu responds, which occurs before the final exchange about marriage and freedom leading to silent reflection. Both episodes are in scene_11 and doc_10, and the narrative flow indicates the sword demonstration precedes the concluding silence, as supported by the sequence of related_events.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9f783e49f49a",
+    "subject_id": "ep_74a039e5e11ea26f",
+    "object_id": "ep_40a324670ad24934",
+    "relation_type": "precedes",
+    "reason": "The episode 'Prepare the convoy and spot the approaching horseman' includes the observation of the horseman entering the village, which logically precedes the recognition and identification of Master Li Mu Bai by a worker. The spotting occurs first, followed by the identification, establishing a clear temporal sequence supported by the related events in both episodes.",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_84bee988fa76",
+    "subject_id": "ep_534de21ab8c6b479",
+    "object_id": "ep_adfa5919de0bd84b",
+    "relation_type": "precedes",
+    "reason": "The reunion and reestablishment of connection between Li and Yu, including Li's arrival with a silk-wrapped object and their initial exchange, occurs before Li unwraps the object to reveal the Green Destiny Sword. The sequence of related events in scene_4 supports a clear temporal order: arrival and greeting precede the unveiling and discussion of the sword.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ccc46fed4a26",
+    "subject_id": "ep_134655bb1d120c60",
+    "object_id": "ep_20eb2c79be11c8ab",
+    "relation_type": "contrasts_with",
+    "reason": "Jen's assertion of independence and resistance to control contrasts with the governess's move to take over and offer care, highlighting a tension between autonomy and imposed guardianship within the same scene.",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_fbed61a094cd",
+    "subject_id": "ep_20eb2c79be11c8ab",
+    "object_id": "ep_33fe860bb69418e3",
+    "relation_type": "precedes",
+    "reason": "The governess's care routine, including entering Jen's room and offering handmade pajamas, occurs before Jen sits alone in quiet contemplation after the governess exits, establishing a clear temporal sequence in scene_15.",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4678304f22d0",
+    "subject_id": "ep_d9795a291ae64b0e",
+    "object_id": "ep_6cd5999340214678",
+    "relation_type": "precedes",
+    "reason": "The episode 'Li Mu Bai intervenes and defeats the Governess' occurs just before 'Interrogate the masked figure and resume fighting' within scene_41, as Li Mu Bai first stops the Governess, defeats her, and confronts her as Jade Fox, only after which the masked figure appears and the interrogation and renewed battle begin.",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_04905f134340",
+    "subject_id": "ep_c5469a1ee3e5f5a7",
+    "object_id": "ep_ec122324c7a7cb01",
+    "relation_type": "elaborates",
+    "reason": "The first episode involves the physical presentation and initial appraisal of the ceremonial sword, while the second episode shifts to the symbolic meaning of the sword, with Sir Te offering advice on governance that expands upon the significance of the object introduced in the first episode. The second episode provides interpretive depth to the first, grounding the relation in a directed elaboration from the object-focused inspection to its broader thematic implications.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c79645dd9a99",
+    "subject_id": "ep_03ca82d2409d8c49",
+    "object_id": "ep_75f4f177e68fccd0",
+    "relation_type": "precedes",
+    "reason": "The confrontation with Tsai and May occurs first, followed by Bo losing sight of them and then discovering his location within Governor Yu's compound, as both episodes are part of the same scene (scene_21) and described in sequential narrative order.",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eb09abe93b56",
+    "subject_id": "ep_d12a481ca7c2e2f4",
+    "object_id": "ep_e62299ebdea970dc",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Return the sword and reflect on the fighter's life' includes events where Yu returns the sword and discusses the realities of a fighter's life with Jen. The object episode 'Conclude with silent reflection' begins after this exchange, with Yu silently observing Jen and a moment of silence falling between them. The narrative sequence in scene_11 supports a clear temporal order: the dialogue concludes and then transitions into silent reflection, indicating the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3aa7420005d0",
+    "subject_id": "ep_281d4c452ab0028c",
+    "object_id": "ep_5bf0cc780f604745",
+    "relation_type": "precedes",
+    "reason": "The episode 'Identify roles and establish guest status' occurs before 'Approach and discover the intruder in the study' as both take place in scene_10, and the identification of roles logically precedes the confrontation initiated upon discovering Jen in the study. The related events in the first episode involve verbal exchanges establishing identities, while the second begins with physical movement to the study and discovery, indicating a clear narrative sequence.",
+    "source_documents": [
+      "scene_10_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_17b4bb793b2a",
+    "subject_id": "ep_618d0b6f635ead98",
+    "object_id": "ep_fc0190a937550492",
+    "relation_type": "precedes",
+    "reason": "The episode 'Unmask and confront the intruder' occurs in scene_37, while 'Reveal Tsai's mission and personal vendetta' occurs in scene_38, indicating a clear narrative sequence where the confrontation directly precedes the revelation of Tsai's backstory and mission.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0188c6f45d87",
+    "subject_id": "ep_618d0b6f635ead98",
+    "object_id": "ep_ab7c5fec5027dcab",
+    "relation_type": "precedes",
+    "reason": "The episode 'Unmask and confront the intruder' involves Tsai holding a knife to Bo's throat, which directly sets up the situation in which Bo pleads for mercy. The sequence of events in scene_37 shows that the confrontation occurs before Bo's plea, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_68ff7232c191",
+    "subject_id": "ep_03ca82d2409d8c49",
+    "object_id": "ep_d19bb2242e166b1e",
+    "relation_type": "precedes",
+    "reason": "The confrontation with Tsai and May occurs in scene 21, where Tsai is alive and flees from Bo, while the mourning of Tsai's death occurs in scene 41, which explicitly follows the battle and his death. The narrative order and event sequence clearly establish that the confrontation precedes the mourning.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a6e60af205c0",
+    "subject_id": "ep_e23d22b61e05fcc2",
+    "object_id": "ep_050c10626b0d70c8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assess the murder and suspect the compound' involves Te concluding the killer is in Tsai's compound and deciding to report the murder to Governor Yu. This logically precedes 'Secure support and initiate pursuit', where Governor Yu endorses Te's theory and Te orders Li and Yu to accompany him. The sequence of decision-making and action, supported by shared scene context (scene_42), indicates a clear narrative order.",
+    "source_documents": [
+      "scene_42_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ba1bf9f8b523",
+    "subject_id": "ep_162b2cb319b14c10",
+    "object_id": "ep_1264eb9f08b5dc61",
+    "relation_type": "precedes",
+    "reason": "The episode 'Uncover flyer implicating Jade Fox' occurs during the private conversation between Li Mu Bai and Yu, which is then interrupted by De Lu, marking the start of 'Interrupt and conclude private discussion'. The related_events of both episodes are listed in the same scene (scene_40), and the interruption logically follows the revelation of the flyer, establishing a clear narrative sequence where the flyer disclosure precedes its interruption.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d580cca4c2ab",
+    "subject_id": "ep_134655bb1d120c60",
+    "object_id": "ep_feab970f973ea53c",
+    "relation_type": "causes",
+    "reason": "The governess's warning about Shu Lien (object) directly prompts Jen to assert her independence and resist control (subject), as both episodes occur in the same scene and Jen's defiant response is a direct reaction to the governess's caution, indicating a clear causal link.",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_58058cfdd4dc",
+    "subject_id": "ep_2ddbeab49d10907a",
+    "object_id": "ep_adfa5919de0bd84b",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Confront duty and seek redemption' provides emotional and moral context for Li's decision in 'Unveil the Green Destiny Sword and its burden', particularly his guilt over failing to avenge his master, which deepens the understanding of why he relinquishes the sword. The shared scene (scene_4) and thematic continuity in Li's internal struggle support that the first episode elaborates on the motivations behind the second.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_68dbd9030252",
+    "subject_id": "ep_823bd909f25ce269",
+    "object_id": "ep_1264eb9f08b5dc61",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront personal mission of vengeance' occurs during the same scene (scene_40) as 'Interrupt and conclude private discussion' and involves Li Mu Bai declaring his intent to avenge his master immediately before the conversation is interrupted and the hospitality transition begins. The narrative flow within scene_40 supports a temporal ordering where the personal mission is declared and then the discussion is concluded, making 'precedes' the best-supported relation.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a71d78f3f4e3",
+    "subject_id": "ep_c05f421c0d129fcb",
+    "object_id": "ep_d9795a291ae64b0e",
+    "relation_type": "precedes",
+    "reason": "The Governess overpowering Bo and May occurs during the combat sequence just before Li Mu Bai intervenes to stop her from killing Tsai, as both episodes are anchored in scene_41 and the narrative order shows the sequence of events leading to Li Mu Bai's intervention.",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b3b9a42b4ae3",
+    "subject_id": "ep_618d0b6f635ead98",
+    "object_id": "ep_3903b80f7b3a515e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Unmask and confront the intruder' occurs in doc_36 and involves events from scene_37, while 'Intercept dart and accept challenge' occurs in doc_37 and involves events from scene_38. The document and scene numbering indicate a clear narrative sequence where the unmasking precedes the dart interception.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_54b4b78dda59",
+    "subject_id": "ep_ebfa4925db960942",
+    "object_id": "ep_20eb2c79be11c8ab",
+    "relation_type": "precedes",
+    "reason": "The maid begins Jen's evening care routine, including warming her hands and helping remove earrings, before being interrupted by a knock at the door. The governess then enters and takes over the care, presenting handmade silk pajamas. The sequence of events in scene_15 supports that the maid's assistance occurs before the governess assumes the caregiving role.",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_641a3fd4c28f",
+    "subject_id": "ep_adfa5919de0bd84b",
+    "object_id": "ep_336c776c53034ecf",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Unveil the Green Destiny Sword and its burden' provides essential context—Li's emotional reasoning and moral conflict regarding the sword—that directly informs and enriches the subsequent invitation in 'Propose a path forward together'. Yu's offer to wait in Peking and the invitation to join the convoy are meaningfully grounded in Li's earlier revelation of his decision to give up the sword, making this a directed elaboration where the object episode expands the motivation behind the subject episode's actions.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_f5b78766c659",
+    "subject_id": "ep_134655bb1d120c60",
+    "object_id": "ep_387eb075b33d94ed",
+    "relation_type": "precedes",
+    "reason": "Jen's assertion of independence and resistance to control occurs during the same scene (scene_15) and directly before the governess reflects on Jen's future and departs, as indicated by the sequence of related events in the description. The governess's actions of closing the windows and leaving follow Jen's expressions of defiance and fatigue, establishing a clear narrative order.",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_eaec7e56b595",
+    "subject_id": "ep_134655bb1d120c60",
+    "object_id": "ep_33fe860bb69418e3",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Jen asserts independence and resists control during a conversation with the governess, occurs while the governess is present (scene_15). The object episode, in which Jen retreats into private contemplation, begins only after the governess exits, as specified in its description. This explicit temporal sequence in the same scene supports that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8ac1c79053f2",
+    "subject_id": "ep_3f17d59dccf8c1a5",
+    "object_id": "ep_b67441a6512c89ce",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Thief infiltrates room and secures sword' involves the thief acquiring the sword before being discovered, while the object episode 'Bo confronts thief and raises alarm' begins with Bo discovering the thief in the act and initiating pursuit. The sequence of events in the shared scene (scene_17) supports that the theft occurs just before the confrontation, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_745cf7663acd",
+    "subject_id": "ep_33d58a44efa97114",
+    "object_id": "ep_d19bb2242e166b1e",
+    "relation_type": "precedes",
+    "reason": "The confrontation with the hooded figure (ep_33d58a44efa97114) occurs in scene_19, where Tsai is present and engaged in battle, while the mourning of Tsai's death (ep_d19bb2242e166b1e) occurs in scene_41, which explicitly follows after the battle concludes. The sequence of scenes and the narrative progression from combat to grief confirm that the first episode precedes the second.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_478c2c818014",
+    "subject_id": "ep_1a3a3ac6f84f5fa3",
+    "object_id": "ep_d680a1208d829321",
+    "relation_type": "precedes",
+    "reason": "The exchange of gratitude and hospitality occurs before the transfer of the sword, as Yu first expresses appreciation and receives an invitation to stay, which sets a hospitable context prior to presenting Sir Te with Li Mu Bai's sword in the same scene (scene_9). The narrative flow within the scene supports a sequential order where interpersonal warmth precedes the more serious act of entrusting the sword.",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3ed1af4403c6",
+    "subject_id": "ep_eaf402a492f7a29a",
+    "object_id": "ep_d9795a291ae64b0e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront the Governess and initiate battle' includes the outbreak of combat among Tsai, Bo, May, and the Governess, which immediately precedes Li Mu Bai's intervention and defeat of the Governess in the subsequent episode. The narrative sequence in scene_41 supports a clear temporal order where the initial battle occurs before Li Mu Bai steps in to stop the attack and confront the Governess himself.",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5abb8d795b70",
+    "subject_id": "ep_43f96c138843c0d9",
+    "object_id": "ep_3dad763b94568b2f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Madam Yu arrives and notices the posters' includes her inquiry about the张贴 posters and being informed about flyers targeting Jade Fox, which sets up the context for the subsequent episode where she examines a torn flyer on the ground. The sequence of events in the same scene (scene_26) and the progression from noticing posters to examining a discarded flyer indicate a clear temporal order where the arrival and initial inquiry precede the closer examination of the flyer.",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ec02075f976a",
+    "subject_id": "ep_bfbccac60d011faa",
+    "object_id": "ep_f2948993c54144c1",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Confront the Black Figure and demand the sword' occurs in doc_21 and scene_22, while the object episode 'Overpower thief and respond to ambush' occurs in doc_22 and scene_23, indicating a sequential narrative order where the confrontation with the Black Figure precedes the ambush and escape involving the thief.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d3a7a8759812",
+    "subject_id": "ep_09ebc174a18036db",
+    "object_id": "ep_d680a1208d829321",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Governor Yu's arrival' involves De Lu announcing Governor Yu's arrival and Sir Te preparing for the guest, which sets the scene for the subsequent interaction where Yu transfers the sword to Sir Te. Both episodes occur in scene_9, and the arrival must precede the transfer within the narrative flow, as the transfer cannot occur before Yu arrives. This local narrative order is explicitly supported by the sequence of events in the shared scene.",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_20d5924f7ee8",
+    "subject_id": "ep_03ca82d2409d8c49",
+    "object_id": "ep_618d0b6f635ead98",
+    "relation_type": "precedes",
+    "reason": "The confrontation between Bo and Tsai/May (ep_03ca82d2409d8c49) ends with Tsai and May fleeing, which sets up Bo's subsequent appearance as the intruder in ep_618d0b6f635ead98. The narrative sequence implies that Bo's pursuit leads to his later intrusion, making the first episode temporally prior to the second. The shared participants and escalating tension support a local narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_52718261a795",
+    "subject_id": "ep_09ebc174a18036db",
+    "object_id": "ep_1a3a3ac6f84f5fa3",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to Governor Yu's arrival' involves De Lu announcing Governor Yu's arrival, which prompts Sir Te to prepare for the guest. The object episode 'Exchange gratitude and hospitality' occurs immediately afterward, as Yu expresses gratitude and Sir Te invites him to stay. Both episodes are grounded in scene_9 and share a sequential narrative flow where the arrival announcement directly precedes the exchange of hospitality and gratitude, establishing a clear local narrative order.",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_281fbae63173",
+    "subject_id": "ep_eaf402a492f7a29a",
+    "object_id": "ep_0f69a861e3cde99d",
+    "relation_type": "precedes",
+    "reason": "The confrontation with the Governess and the ensuing battle (ep_eaf402a492f7a29a) occurs in scene_41, where Tsai is still alive and actively threatening the Governess. The discovery and identification of Tsai's body (ep_0f69a861e3cde99d) occurs in scene_42, which follows chronologically. The narrative order of scenes and the fact that Tsai is alive during the battle but deceased in the next episode strongly support that the confrontation precedes the body's discovery.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_77a822fc25fc",
+    "subject_id": "ep_03ca82d2409d8c49",
+    "object_id": "ep_33d58a44efa97114",
+    "relation_type": "precedes",
+    "reason": "The confrontation between Bo and Tsai/May (ep_03ca82d2409d8c49) occurs in scene 21, while the confrontation with the hooded figure and escape (ep_33d58a44efa97114) occurs in scene 19. Since scene 19 precedes scene 21 in document order, the object episode occurs earlier than the subject episode. Therefore, the subject episode (Bo confronting Tsai and May) follows the object episode, meaning the object precedes the subject. However, the relation is directed and must be assigned based on subject -> object direction. Since the subject episode does not precede the object episode in narrative order, the correct directional assignment cannot be 'precedes' from subject to object. Reversing roles would require swapping subject and object, which is not allowed. Thus, no valid directed 'precedes' relation can be established from subject to object. After re-evaluation, the episodes are from adjacent scenes but no explicit or implicit causal, elaborative, or contrasting link is stated. The events involve the same characters and pursuit theme, but no textual evidence confirms a direct causal or temporal sequence between the episodes as defined. Therefore, despite chronological proximity, the relation cannot be confidently assigned as 'precedes' in the required direction. Final decision: NONE due to lack of support for any specific directed or symmetric relation.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f6aebddb9d54",
+    "subject_id": "ep_bfbccac60d011faa",
+    "object_id": "ep_ee92aea2e4048cd7",
+    "relation_type": "precedes",
+    "reason": "The confrontation with the hooded thief on the rooftop (ep_ee92aea2e4048cd7) initiates the standoff, which leads into the subsequent combat with the Black Figure (ep_bfbccac60d011faa), indicating a narrative progression where the former occurs before the latter.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_808288d5c2d6",
+    "subject_id": "ep_b1928b60d0f0f7e8",
+    "object_id": "ep_3604124e1acbfcac",
+    "relation_type": "precedes",
+    "reason": "The episode 'Escort Yu to Sir Te's establishment' fulfills the goal of delivering Yu to Sir Te, which sets up the encounter where Li Mu Bai is revealed. The revelation occurs after Yu has been escorted in, indicating a clear narrative sequence where the escort precedes the revelation.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3d08960da31f",
+    "subject_id": "ep_0fedececdb1115b5",
+    "object_id": "ep_f77c49d053aa14e9",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Yu preparing for departure, which occurs before the caravan clears the checkpoint and enters Peking in the object episode. The narrative progression from packing to leading the caravan through the checkpoint implies a temporal sequence supported by the goal-driven transition from preparation to execution of travel.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_94a3ef712437",
+    "subject_id": "ep_b1928b60d0f0f7e8",
+    "object_id": "ep_5d7be5c5283d1f6a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Escort Yu to Sir Te's establishment' (doc_23, scene_24) occurs immediately before 'Confront Bo's accusation and suspect a setup' (doc_24, scene_25), as the former sets up the encounter that leads into the confrontation involving Bo and Sir Te. The narrative sequence is supported by the document and scene ordering, with the escort concluding in scene_24 and the accusation beginning in scene_25.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_613f0895e87d",
+    "subject_id": "ep_0fedececdb1115b5",
+    "object_id": "ep_336c776c53034ecf",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Prepare for departure and receive unexpected visitor' occurs during scene_3, where Yu is packing and Aunt Wu visits, while the object episode 'Propose a path forward together' occurs in scene_4, where Yu invites Li to join the convoy. The progression from scene_3 to scene_4 in the narrative order indicates that the preparation and visit happen before the proposal, supporting a 'precedes' relation from the subject to the object.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e9bd814ce633",
+    "subject_id": "ep_ee92aea2e4048cd7",
+    "object_id": "ep_f2948993c54144c1",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Yu confronting the thief and initiating a standoff, which directly sets up the physical confrontation detailed in the second episode where Yu gains the upper hand and the thief escapes. The sequence of events in the descriptions and shared scene context (rooftop confrontation leading to fight and ambush) supports a clear narrative order where the confrontation precedes the escalation and ambush.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_88d7f5ce96c5",
+    "subject_id": "ep_33fe860bb69418e3",
+    "object_id": "ep_387eb075b33d94ed",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Jen retreats into private contemplation' occurs after the governess has already acknowledged Jen's maturity and departed the room, as described in the object episode. The governess's exit is a prerequisite for Jen's solitude, indicating a clear narrative sequence where the object episode precedes the subject episode. However, since the relation_type must reflect the direction from subject to object and the subject episode happens later, the correct directional assignment is that the object precedes the subject. Given the schema requires subject -> object directionality and this cannot be reversed in labeling, the best-supported relation is 'precedes' with subject following object, hence 'precedes' is not valid in this direction. Therefore, no directed relation can be correctly assigned from subject to object. After reevaluation, the episodes are better understood as sequential but without explicit causal or elaborative linkage. The most justifiable conclusion is that no valid directed relation exists from subject to object based on the schema, so the correct output is 'NONE'.",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3e6736266a88",
+    "subject_id": "ep_ad82d1b81bcfd5dc",
+    "object_id": "ep_162b2cb319b14c10",
+    "relation_type": "precedes",
+    "reason": "Yu retrieves and conceals the flyer (ep_ad82d1b81bcfd5dc) occurs in scene_26, before Yu presents the flyer to Li Mu Bai in scene_40 (ep_162b2cb319b14c10), establishing a clear temporal sequence where the retrieval precedes the presentation of the flyer.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1cddfb9d92e8",
+    "subject_id": "ep_5d7be5c5283d1f6a",
+    "object_id": "ep_e8c00d330cbcd922",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Confront Bo's accusation and suspect a setup' includes Sir Te deciding to inform Li Mu Bai about the suspected framing, which motivates the subsequent investigation by Li Mu Bai in the episode 'Investigate theft and security failures'. The second episode provides further detail on Li Mu Bai's inquiry into the security failures, thereby expanding on the consequences and follow-up actions initiated in the first episode. This constitutes a directed elaboration from the first episode to the second, as the investigation offers additional context and development of the response to the suspected setup.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_612073e658ab",
+    "subject_id": "ep_4938d5262e6f2359",
+    "object_id": "ep_dbbb5ab1fe262d8e",
+    "relation_type": "precedes",
+    "reason": "Aunt Wu's excited reaction to Li Mu Bai's arrival (dropping parcels and running into the building) immediately precedes her hurrying through the halls to summon Shu Lien, as the sequence of actions suggests a narrative progression where recognizing Li Mu Bai prompts the urgent need to call Shu Lien. The events occur in consecutive scenes, supporting a local narrative order.",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b188dbfd1155",
+    "subject_id": "ep_dc6470c985abc147",
+    "object_id": "ep_eaf402a492f7a29a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Convince Bo to come inside for safety and warmth' occurs in doc_44, scene_45, while 'Confront the Governess and initiate battle' occurs in doc_40, scene_41. The scene numbering (41 before 45) and document order suggest the confrontation precedes the attempt to bring Bo inside, indicating the subject episode follows the object episode in narrative order. Therefore, the object episode precedes the subject episode. Given the directed nature of 'precedes', the correct direction is object -> subject, but since the subject is listed first in the input, the relation from subject to object is 'precedes' only if subject occurs first. However, evidence shows the opposite temporal order. Thus, no valid directed 'precedes' relation can be asserted from subject to object. Re-evaluating: the scene numbers (41 vs 45) and doc_id ordering (40 before 44) strongly indicate that the confrontation (ep_eaf402a492f7a29a) occurs before the interaction at the door (ep_dc6470c985abc147). Therefore, ep_dc6470c985abc147 does not precede ep_eaf402a492f7a29a. No other relation type is supported: there is no evidence of causation, contrast, or elaboration. Hence, the only justifiable output is NONE. However, the initial confidence in order was high, but direction is incorrect for the subject->object claim. Since 'precedes' is directed and the subject does not occur before the object, the relation cannot be 'precedes' in this direction. No other relation fits. Therefore, after correction: relation_type must be NONE due to lack of valid directional support.",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1cecf845377f",
+    "subject_id": "ep_09ebc174a18036db",
+    "object_id": "ep_281d4c452ab0028c",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to Governor Yu's arrival' involves De Lu announcing Governor Yu's arrival, which directly sets up the subsequent episode 'Identify roles and establish guest status' where De Lu and others clarify social roles and guest identities. The sequence of events across the two episodes, with announcement preceding identification and status establishment, supports a clear narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_56f09fec0675",
+    "subject_id": "ep_c5469a1ee3e5f5a7",
+    "object_id": "ep_5d7be5c5283d1f6a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Present and examine the ceremonial sword' involves the initial handling and appraisal of the sword by Governor Yu, which sets the context for the later accusation and suspicion of a setup in 'Confront Bo's accusation and suspect a setup'. The events in the first episode must occur before Bo can accuse the Yu household of harboring the thief, establishing a clear temporal sequence.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_120419b680f7",
+    "subject_id": "ep_adfa5919de0bd84b",
+    "object_id": "ep_fdc1395ae7dbc3d3",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Reveal the sword's hidden qualities in darkness' provides additional detail about the Green Destiny Sword's exceptional nature, which expands on the earlier episode where the sword is unveiled and its moral burden discussed. The luminous glow revealed in darkness adds a new dimension to the sword's characteristics, thereby elaborating on its significance introduced in the first episode.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_c579094df031",
+    "subject_id": "ep_c5469a1ee3e5f5a7",
+    "object_id": "ep_0996f4683ec06871",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Detail the sword's historical and physical attributes' provides additional background and explanatory detail about the sword that is being examined in 'Present and examine the ceremonial sword', thus expanding upon it with specific knowledge. The events occur in the same scene and the description of the sword's attributes elaborates on the inspection initiated when the sword is handed over and appraised.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e0848d850cb8",
+    "subject_id": "ep_5d7be5c5283d1f6a",
+    "object_id": "ep_050c10626b0d70c8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Bo's accusation and suspect a setup' includes Sir Te deciding to inform Li Mu Bai, which logically precedes the episode 'Secure support and initiate pursuit' where Governor Yu endorses Te's theory and Te orders Li and Yu to accompany him. The decision to inform Li Mu Bai must occur before taking action based on that communication, establishing a clear narrative sequence.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_814dcca4d1bd",
+    "subject_id": "ep_40a324670ad24934",
+    "object_id": "ep_3604124e1acbfcac",
+    "relation_type": "precedes",
+    "reason": "The worker's recognition of Li Mu Bai approaching the village (ep_40a324670ad24934) occurs in scene_1, while Li Mu Bai's full reveal to Yu happens in scene_39, indicating a clear narrative sequence where the former precedes the latter.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_86aa011ff722",
+    "subject_id": "ep_0996f4683ec06871",
+    "object_id": "ep_ec122324c7a7cb01",
+    "relation_type": "elaborates",
+    "reason": "The first episode details the sword's physical and historical attributes, which serves as a foundation for the second episode where Sir Te uses the sword as a symbolic vehicle to advise on governance. The shift from artifact to symbolism indicates that the first episode provides background that expands the meaning of the second, consistent with an elaboration relation from subject to object.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c30a29ad4c2c",
+    "subject_id": "ep_adfa5919de0bd84b",
+    "object_id": "ep_ec122324c7a7cb01",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, where Li reveals the Green Destiny Sword and reflects on its moral burden, provides thematic and symbolic context that the object episode elaborates upon. Sir Te shifts from the physical sword to its symbolic meaning, advising Governor Yu on governance through strength and adaptability, thus expanding on the sword's deeper significance introduced in the subject episode.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a92539d1713a",
+    "subject_id": "ep_0996f4683ec06871",
+    "object_id": "ep_fdc1395ae7dbc3d3",
+    "relation_type": "elaborates",
+    "reason": "The first episode details the sword's historical and physical attributes, providing background knowledge that sets up the significance of the sword; the second episode reveals a hidden luminous quality in darkness, which builds upon and demonstrates the sword's exceptional nature implied in the first. This suggests the second episode elaborates on the established significance of the sword by showcasing a supernatural feature, thus expanding the understanding provided in the first episode.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_c5efc883843c",
+    "subject_id": "ep_09ebc174a18036db",
+    "object_id": "ep_b1928b60d0f0f7e8",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to Governor Yu's arrival' involves De Lu announcing Yu's arrival, which immediately precedes the object episode 'Escort Yu to Sir Te's establishment' where De Lu brings Yu into the establishment. The narrative flow indicates that the announcement of arrival (in ep_09ebc174a18036db) occurs just before the escorting action (in ep_b1928b60d0f0f7e8), establishing a clear local narrative order.",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8e02860f11f5",
+    "subject_id": "ep_09ebc174a18036db",
+    "object_id": "ep_5bf0cc780f604745",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to Governor Yu's arrival' involves the announcement of Governor Yu's arrival and Sir Te preparing for the guest, which sets up the subsequent scene. The object episode 'Approach and discover the intruder in the study' occurs in the next scene (scene_10) and involves De Lu and Yu approaching the study, implying a chronological progression. The narrative flow and scene numbering (scene_9 followed by scene_10) support that the first episode precedes the second.",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_470265b68b47",
+    "subject_id": "ep_adfa5919de0bd84b",
+    "object_id": "ep_0996f4683ec06871",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Unveil the Green Destiny Sword and its burden' introduces the sword and Li's emotional and moral reasons for transferring it, which sets the context for Sir Te's subsequent detailed exposition of the sword's historical and physical attributes. The detailing of the sword's attributes elaborates on the object introduced and imbued with significance in the earlier episode, providing deeper background and justification for its importance.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5ee3b4f76b3d",
+    "subject_id": "ep_40a324670ad24934",
+    "object_id": "ep_d910bf34792dd75d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Recognize and identify Master Li Mu Bai' describes his arrival at the village, which logically precedes the subsequent introduction to Yu and Jen in 'Introduce Li Mu Bai and assess Jen'. The recognition of Li Mu Bai's approach sets the stage for the formal introduction, indicating a clear temporal sequence supported by the narrative flow.",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_894ac7ddf337",
+    "subject_id": "ep_3bf5358a03916a8e",
+    "object_id": "ep_43f4bfcdd77bf21a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Challenge figure to reveal Jade Fox's location' involves Li shifting the confrontation toward a personal demand, which sets up the subsequent moment in the object episode where Li gains the upper hand and reveals the truth while offering discipleship. The narrative progression from demanding information to asserting moral authority and revealing identity indicates a clear temporal sequence supported by the shift in Li's actions and intent across the scenes.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_36c6fc5bf18e",
+    "subject_id": "ep_3bf5358a03916a8e",
+    "object_id": "ep_8eef6c0b8a73c05a",
+    "relation_type": "precedes",
+    "reason": "The subject episode, where Li demands the figure reveal Jade Fox's location, occurs during the confrontation before the figure escapes. The object episode, the pursuit of the escaping figure, begins immediately after the figure floats away, as stated in its description. The sequence of events in the related scenes (scene_47 for escape and chase, scene_49 for questioning) supports that the challenge precedes the pursuit.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d21d98baa270",
+    "subject_id": "ep_162b2cb319b14c10",
+    "object_id": "ep_3bf5358a03916a8e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Uncover flyer implicating Jade Fox' introduces Li Mu Bai's suspicion about Jade Fox's involvement, which sets the stage for the subsequent episode 'Challenge figure to reveal Jade Fox's location' where Li directly questions a figure about her whereabouts. The narrative progression from discovering a clue to actively seeking information supports a temporal sequence, with the flyer revelation preceding the confrontation.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b1d08bbe0f17",
+    "subject_id": "ep_3604124e1acbfcac",
+    "object_id": "ep_1264eb9f08b5dc61",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reveal Li Mu Bai's return' occurs in doc_38, scene_39, where Li Mu Bai is revealed to Yu. The episode 'Interrupt and conclude private discussion' occurs in doc_39, scene_40, where De Lu interrupts a conversation between Li Mu Bai and Yu. The sequential document and scene numbering, along with the narrative flow (reunion followed by a private conversation being concluded), support that the revelation precedes the interruption of the private discussion.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3f418a0971cb",
+    "subject_id": "ep_3bf5358a03916a8e",
+    "object_id": "ep_45e95b4ea6be5701",
+    "relation_type": "causes",
+    "reason": "The subject episode, in which Li demands the figure reveal Jade Fox's location and shifts the confrontation to a personal and urgent standoff, directly triggers the object episode, where the figure becomes emotionally overwhelmed, rejects Li's offer to teach the Wudan secrets, and flees the monastery. The emotional climax in the object episode is an immediate consequence of the intensified confrontation in the subject episode, as supported by the descriptions and related events.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_889fb81effb7",
+    "subject_id": "ep_ab8a2dda7b8456bf",
+    "object_id": "ep_3bf5358a03916a8e",
+    "relation_type": "precedes",
+    "reason": "The confrontation initiated under moonlight (ep_ab8a2dda7b8456bf) includes Li Mu Bai revealing himself and demanding the sword, which sets the stage for the subsequent shift in focus where Li challenges the figure to reveal Jade Fox's location (ep_3bf5358a03916a8e). The latter episode represents a progression in the same encounter, indicating a temporal sequence supported by the narrative flow within the shared scene context.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_50c49dda6830",
+    "subject_id": "ep_2ddbeab49d10907a",
+    "object_id": "ep_3bf5358a03916a8e",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Li confronting his internal guilt and considering visiting his master's grave, which sets up his emotional motivation. The object episode involves Li actively demanding information about Jade Fox, indicating a shift from internal reflection to external action. The narrative progression from personal conflict to direct confrontation suggests a temporal sequence supported by the shift in focus and escalating urgency.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e51fce723cb4",
+    "subject_id": "ep_3bf5358a03916a8e",
+    "object_id": "ep_f53acf85c9a8e92a",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Li demanding the location of Jade Fox, which sets up the subsequent confrontation where the figure attempts to flee and is intercepted. The object episode includes the struggle for the sword and interrogation about her master, which logically follows the challenge to reveal Jade Fox's location. The narrative sequence in the related events (e.g., questioning about Jade Fox in scene_49 vs. actions in scene_47) suggests a reversal in scene order, but the causal and temporal flow in the description of the object episode implies it occurs after the subject episode's challenge, supporting a 'precedes' relation from subject to object.",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_30257e7fa5d5",
+    "subject_id": "ep_97594884bd2f48cb",
+    "object_id": "ep_43f4bfcdd77bf21a",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Teach the nature of true sharpness' provides a philosophical foundation about mastery and mental state, which elaborates on the later moral and instructional appeal in 'Reveal truth and offer discipleship' where Li expresses willingness to teach Wudan's secrets. The earlier lesson contextualizes Li's belief in inherent goodness and teaching as a path to redemption, suggesting a thematic and pedagogical expansion.",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_01ae5c8e8f4f",
+    "subject_id": "ep_823bd909f25ce269",
+    "object_id": "ep_ab8a2dda7b8456bf",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Li Mu Bai declaring his intent to avenge his master after seeing the flyer, which occurs in scene_40. The object episode begins with the confrontation under moonlight in scene_47, where Li Mu Bai reveals himself and demands the sword. The chronological order of scenes (40 before 47) supports that the declaration of vengeance precedes the moonlight confrontation.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_820fd46c7e86",
+    "subject_id": "ep_ab8a2dda7b8456bf",
+    "object_id": "ep_88df65cfdbd427ee",
+    "relation_type": "precedes",
+    "reason": "The confrontation is initiated when the hooded figure descends and Li Mu Bai reveals himself, demanding the sword (ep_ab8a2dda7b8456bf). This is immediately followed by the physical combat where the figure attacks Li and the fight escalates (ep_88df65cfdbd427ee). The events in the first episode set up the direct interaction that leads into the combat sequence, with both episodes occurring in the same temporal and spatial context but in clear narrative order: initiation of confrontation precedes the physical engagement.",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3b225f2cc512",
+    "subject_id": "ep_e8c00d330cbcd922",
+    "object_id": "ep_ee92aea2e4048cd7",
+    "relation_type": "precedes",
+    "reason": "The investigation into the theft and security failures at the Yu household, including Li Mu Bai's questioning and Yu's admissions, occurs after the confrontation with the thief on the rooftop. The confrontation (object) is part of the immediate incident, while the investigation (subject) involves retrospective probing, implying the confrontation must have already occurred. However, the narrative order in the related scenes (scene_20 for confrontation, scene_40 for investigation) confirms that the confrontation precedes the investigation. Thus, the correct temporal order is object -> subject, but since the relation is directed and the subject is listed first, the relation 'precedes' only holds if subject comes before object, which it does not. Therefore, the inverse temporal order invalidates 'precedes' in subject->object direction. Given the schema requires directionality and the subject episode does not occur before the object, no valid directed relation is supported. Hence, 'NONE' is warranted. Wait — correction: scene_20 (confrontation) occurs before scene_40 (investigation), so ep_ee92aea2e4048cd7 precedes ep_e8c00d330cbcd922. But in the input, the subject is ep_e8c00d330cbcd922 and object is ep_ee92aea2e4048cd7. So subject occurs after object. Therefore, subject does not precede object. No other relation (causes, contrasts_with, elaborates) is supported: no causal link is stated, no tonal or outcome contrast is evident, and no elaboration occurs. Thus, despite clear temporal order, the direction is inverse to subject-object order, and no other relation fits. Final decision: NONE due to lack of support for any directed or symmetric relation in the given subject->object direction.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e2ad361850b3",
+    "subject_id": "ep_ab8a2dda7b8456bf",
+    "object_id": "ep_43f4bfcdd77bf21a",
+    "relation_type": "precedes",
+    "reason": "The confrontation initiated under moonlight (ep_ab8a2dda7b8456bf) includes events where the hooded figure descends and Li Mu Bai reveals himself and demands the sword, which sets the stage for the subsequent episode where Li lifts the figure's mask and offers discipleship (ep_43f4bfcdd77bf21a). The narrative progression from initial confrontation to revelation and moral appeal indicates a clear temporal sequence supported by the scene numbers (scene_47 before scene_50) and the causal setup of the encounter.",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e4d46a3529bc",
+    "subject_id": "ep_823bd909f25ce269",
+    "object_id": "ep_f53acf85c9a8e92a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Confront personal mission of vengeance' occurs in scene_40, where Li Mu Bai declares his intent to avenge his master, while the object episode 'Struggle for the sword and interrogation' occurs in scene_47, involving the capture and questioning of the masked figure. The scene numbers indicate a clear narrative sequence, with the declaration of vengeance preceding the physical confrontation and interrogation.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f2342811c692",
+    "subject_id": "ep_823bd909f25ce269",
+    "object_id": "ep_88df65cfdbd427ee",
+    "relation_type": "precedes",
+    "reason": "The declaration of vengeance in 'Confront personal mission of vengeance' sets a motivational context for Li Mu Bai's subsequent actions, and the combat in 'Engage in combat and escalate confrontation' occurs in a later scene (scene_50 vs. scene_40), indicating a chronological sequence supported by the document order and narrative progression.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fa4b104dbb0b",
+    "subject_id": "ep_6cd5999340214678",
+    "object_id": "ep_8eef6c0b8a73c05a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Interrogate the masked figure and resume fighting' ends with the masked figure refusing to answer and reigniting the battle, which directly leads into the object episode where the figure escapes by floating away and Li Mu Bai chases her. The related events and narrative flow indicate a clear temporal sequence: the confrontation precedes the pursuit.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bad8e69ff2ad",
+    "subject_id": "ep_88df65cfdbd427ee",
+    "object_id": "ep_8eef6c0b8a73c05a",
+    "relation_type": "precedes",
+    "reason": "The combat episode (ep_88df65cfdbd427ee) concludes with Li repelling the figure, immediately followed by the figure's escape and Li Mu Bai's pursuit in ep_8eef6c0b8a73c05a. The pursuit begins right after the confrontation ends, establishing a clear temporal sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dfc86eed2135",
+    "subject_id": "ep_f53acf85c9a8e92a",
+    "object_id": "ep_43f4bfcdd77bf21a",
+    "relation_type": "precedes",
+    "reason": "The 'Struggle for the sword and interrogation' episode involves Li Mu Bai seizing the sword and questioning the figure about her master, which establishes the initial confrontation. The 'Reveal truth and offer discipleship' episode follows, where Li lifts the mask and offers mentorship, indicating a narrative progression from conflict to moral appeal. The sequence of events—interception, questioning, then revelation and philosophical appeal—supports a clear temporal order where the struggle and interrogation precede the moment of vulnerability and offer of discipleship.",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2c59cfb3c88f",
+    "subject_id": "ep_88df65cfdbd427ee",
+    "object_id": "ep_f53acf85c9a8e92a",
+    "relation_type": "precedes",
+    "reason": "The combat and escalation in ep_88df65cfdbd427ee (garden confrontation) involves Li evading attacks and repelling the figure with a branch, which immediately precedes the sequence in ep_f53acf85c9a8e92a where the masked figure attempts to flee and is intercepted by Li Mu Bai. The latter episode begins with 'after the initial challenge,' indicating a temporal progression from the prior physical confrontation, supporting a 'precedes' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_39f92f198810",
+    "subject_id": "ep_2ddbeab49d10907a",
+    "object_id": "ep_88df65cfdbd427ee",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Li reflecting on his past guilt and considering visiting his master's grave, which establishes an internal, contemplative state. The object episode depicts a physical confrontation in the garden, representing a shift to external conflict. The narrative progression from introspection to sudden attack suggests a temporal sequence where the confrontation follows Li's moment of reflection, supported by the local narrative order implied in the descriptions.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b6a362449226",
+    "subject_id": "ep_823bd909f25ce269",
+    "object_id": "ep_8eef6c0b8a73c05a",
+    "relation_type": "precedes",
+    "reason": "The declaration of Li Mu Bai's personal mission of vengeance (ep_823bd909f25ce269) occurs in scene_40, while the pursuit of the escaping figure (ep_8eef6c0b8a73c05a) occurs in scene_47, indicating a clear narrative sequence where the former precedes the latter.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_113174c3e6bf",
+    "subject_id": "ep_1c2dd92d13f0bd91",
+    "object_id": "ep_43f4bfcdd77bf21a",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts Li's personal spiritual crisis and emotional collapse, leading to his abandonment of Wudan training, while the second episode shows him in a position of moral strength and mentorship, affirming faith in others and offering discipleship despite danger. These episodes are juxtaposed in tone and character state—vulnerability versus authority, inner turmoil versus outward conviction—supporting a contrastive relationship.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_f3ffa2e0b3ab",
+    "subject_id": "ep_162b2cb319b14c10",
+    "object_id": "ep_8eef6c0b8a73c05a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Uncover flyer implicating Jade Fox' occurs in doc_39 and involves Li Mu Bai reacting to the flyer and suspecting a trap, while 'Pursuit of the escaping figure' occurs in doc_46 and involves Li Mu Bai chasing the masked figure after her escape. The narrative progression from suspicion based on the flyer to active pursuit of a figure strongly suggests a chronological sequence where the discovery prompts the later chase, with no indication of reversal in order.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4d3e2b4c31ce",
+    "subject_id": "ep_adfa5919de0bd84b",
+    "object_id": "ep_823bd909f25ce269",
+    "relation_type": "precedes",
+    "reason": "The unveiling and reflection on the Green Destiny Sword (scene_4) occurs earlier in the narrative than Li Mu Bai's declaration of vengeance upon seeing the flyer implicating Jade Fox (scene_40), establishing a clear temporal order where the former precedes the latter.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5dae9f0a091c",
+    "subject_id": "ep_6cd5999340214678",
+    "object_id": "ep_f53acf85c9a8e92a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Interrogate the masked figure and resume fighting' occurs in scene_41, where Li Mu Bai questions the masked figure and the battle resumes. The object episode 'Struggle for the sword and interrogation' occurs in scene_47, involving the masked figure's escape attempt, Li Mu Bai seizing the sword, and a subsequent interrogation. The scene numbers indicate a clear narrative sequence: scene_41 precedes scene_47. Therefore, the subject episode precedes the object episode in the local narrative order.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_acb9979d19be",
+    "subject_id": "ep_8eef6c0b8a73c05a",
+    "object_id": "ep_43f4bfcdd77bf21a",
+    "relation_type": "precedes",
+    "reason": "The pursuit of the escaping figure (ep_8eef6c0b8a73c05a) occurs when the masked figure floats away and Li Mu Bai chases her, as described in scene_47. The revelation and offer of discipleship (ep_43f4bfcdd77bf21a) takes place in scene_50, where Li lifts the mask and delivers his philosophical lesson. The scene numbers indicate a clear narrative sequence, with the pursuit preceding the revelation episode.",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_02b846474eb4",
+    "subject_id": "ep_5565db2f862f3faa",
+    "object_id": "ep_e62299ebdea970dc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Conclude with silent reflection' occurs in scene_11, while 'Jen departs the study and bids Yu farewell' occurs in scene_12. Since scene_11 precedes scene_12 in narrative order, the object episode occurs before the subject episode. Therefore, the subject episode follows the object episode, making the relation 'precedes' in the direction from object to subject. However, given the directed nature of 'precedes' and the requirement to assign it based on subject-to-object directionality, the correct assignment is subject (ep_5565db2f862f3faa) precedes object (ep_e62299ebdea970dc) only if scene_12 comes before scene_11, which it does not. Re-evaluating: the description of ep_e62299ebdea970dc (scene_11) explicitly precedes ep_5565db2f862f3faa (scene_12), so ep_e62299ebdea970dc precedes ep_5565db2f862f3faa. But since the subject is ep_5565db2f862f3faa and the object is ep_e62299ebdea970dc, the subject does not precede the object. Thus, the correct temporal order contradicts the subject->object direction. Given the schema requires directed relations to be justified in the subject->object direction, and no other relation is supported, the only valid output is 'NONE'. However, upon final check: the relation 'precedes' can be applied if the subject episode occurs before the object. But here, the subject (scene_12) occurs after the object (scene_11), so subject does not precede object. No other relation is supported: no causal link is stated, no contrast is highlighted, and no elaboration is provided. Therefore, despite clear temporal order, the direction is reversed, and the schema does not allow 'follows'. Hence, the relation cannot be 'precedes' in subject->object direction. Final decision: no valid directed relation in subject->object direction is supported.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_86515a40aca3",
+    "subject_id": "ep_2ddbeab49d10907a",
+    "object_id": "ep_823bd909f25ce269",
+    "relation_type": "elaborates",
+    "reason": "The subject episode describes Li's internal conflict and guilt over failing to avenge his master, providing psychological background that enriches the understanding of the object episode, where Li Mu Bai formally declares his intent to pursue vengeance. The emotional and motivational context in the subject episode elaborates on the personal stakes underlying the action declared in the object episode.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_3d2f078ac0d6",
+    "subject_id": "ep_162b2cb319b14c10",
+    "object_id": "ep_d9795a291ae64b0e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Uncover flyer implicating Jade Fox' occurs in doc_39 and sets up suspicion about Jade Fox's involvement, while 'Li Mu Bai intervenes and defeats the Governess' occurs in doc_40 and reveals the Governess as Jade Fox through direct confrontation. The narrative order across documents indicates the flyer discovery precedes the intervention and unmasking.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fad2987b407e",
+    "subject_id": "ep_823bd909f25ce269",
+    "object_id": "ep_d9795a291ae64b0e",
+    "relation_type": "causes",
+    "reason": "The subject episode, where Li Mu Bai declares his intent to avenge his master's death, directly motivates and leads to the object episode, where he confronts and defeats the Governess (Jade Fox), accusing her of the murder. The causal link is strongly supported by the narrative progression from declaration of vengeance to its execution in combat.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3ff29becade3",
+    "subject_id": "ep_1c2dd92d13f0bd91",
+    "object_id": "ep_2ddbeab49d10907a",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode centers on Li's spiritual crisis and emotional vulnerability from failed meditation, while the second focuses on his sense of martial duty and guilt over his master's death. These episodes juxtapose internal emotional collapse with a persistent sense of external obligation, highlighting a contrast between personal fragility and moral responsibility.",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b0b20156712f",
+    "subject_id": "ep_823bd909f25ce269",
+    "object_id": "ep_6cd5999340214678",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront personal mission of vengeance' occurs in doc_39 and includes Li Mu Bai resolving to avenge his master after seeing the flyer, while 'Interrogate the masked figure and resume fighting' occurs in doc_41 and involves the direct confrontation with the masked figure. The related_events and document order (doc_39 before doc_41) support a clear narrative sequence where the personal mission is declared before the interrogation and renewed battle.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_64d056f75e7f",
+    "subject_id": "ep_534de21ab8c6b479",
+    "object_id": "ep_1264eb9f08b5dc61",
+    "relation_type": "precedes",
+    "reason": "The reunion between Li and Yu (ep_534de21ab8c6b479) establishes the initial meeting and emotional context, which must occur before the later episode where Li Mu Bai's private discussion with Yu is interrupted and he is escorted to his room (ep_1264eb9f08b5dc61). The narrative flow implied by the settings and events supports a chronological sequence where the reunion precedes the conclusion of a private conversation.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_392caf9551f4",
+    "subject_id": "ep_2ddbeab49d10907a",
+    "object_id": "ep_9fd10dc3113544da",
+    "relation_type": "contrasts_with",
+    "reason": "Both episodes explore themes of duty versus personal desire, but Li's internal conflict centers on martial duty and guilt, while Yu reflects on repressed love and lost freedom. The juxtaposition of Li's unresolved vengeance and Yu's unfulfilled emotional life highlights contrasting forms of personal sacrifice, creating a thematic contrast in how duty shapes their lives.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_587d74a0592b",
+    "subject_id": "ep_9e46d7822d4cd4f6",
+    "object_id": "ep_75f4f177e68fccd0",
+    "relation_type": "precedes",
+    "reason": "Bo first responds to the sounds of conflict while pursuing the thief, which leads him into Governor Yu's compound where he discovers his location; the narrative sequence in the related events indicates a temporal progression from reacting to the sound to realizing his location within the compound.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6ec294a46d12",
+    "subject_id": "ep_0f69a861e3cde99d",
+    "object_id": "ep_d19bb2242e166b1e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Discover and identify Tsai's body' must occur before 'Mourn Tsai's death' because the identification of the body establishes the factual basis for the subsequent mourning, and the related event in the mourning episode (scene_41) occurs after the discovery (scene_42), indicating a clear temporal sequence.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2cd3b852ba11",
+    "subject_id": "ep_03ca82d2409d8c49",
+    "object_id": "ep_30d47d7df4ab4fea",
+    "relation_type": "precedes",
+    "reason": "The confrontation with Tsai and May, during which they flee, directly precedes Bo's subsequent search for them on the bridge. The flight in the first episode (scene_21) provides the narrative motivation and temporal antecedent for the search episode (scene_27), establishing a clear local narrative order.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_11da71470578",
+    "subject_id": "ep_2ddbeab49d10907a",
+    "object_id": "ep_d9795a291ae64b0e",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, in which Li confesses guilt over failing to avenge his master's murder, provides emotional and motivational background that elaborates on his later confrontation with Jade Fox in the object episode. The object episode directly enacts the resolution of the internal conflict described in the subject episode, where Li finally confronts the murderer. This connection is supported by the shared focus on Li's unresolved duty toward his master and the revelation of Jade Fox's identity as the killer.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8be2e2a20def",
+    "subject_id": "ep_0f69a861e3cde99d",
+    "object_id": "ep_fc0190a937550492",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Reveal Tsai's mission and personal vendetta' provides background context about Tsai's identity, investigation, and personal motives, which elaborates on the significance of his death established in 'Discover and identify Tsai's body'. The latter episode confirms his identity and official status, while the former explains his role and mission, thereby expanding the narrative context of the discovered body.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4b68983d4af0",
+    "subject_id": "ep_0b54cf0549145d8f",
+    "object_id": "ep_618d0b6f635ead98",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Enter the house and prepare weapons' occurs in scene_29, while the object episode 'Unmask and confront the intruder' occurs in scene_37. The narrative order of scenes (29 before 37) provides explicit chronological evidence that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3e4d85c90eea",
+    "subject_id": "ep_03ca82d2409d8c49",
+    "object_id": "ep_ab7c5fec5027dcab",
+    "relation_type": "precedes",
+    "reason": "The confrontation with Tsai and May, including their flight, occurs in scene 21, while Bo's plea under duress occurs in scene 37, indicating a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e12af93a7502",
+    "subject_id": "ep_03ca82d2409d8c49",
+    "object_id": "ep_0b54cf0549145d8f",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Bo confronting Tsai and May in scene_21, where they flee, while the object episode occurs in scene_29 with the characters entering a house and preparing weapons. The progression from scene_21 to scene_29 indicates a clear narrative sequence where the confrontation and pursuit precede the later episode of entering the house and weapon preparation.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_54a8a983c920",
+    "subject_id": "ep_9e46d7822d4cd4f6",
+    "object_id": "ep_b67441a6512c89ce",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to sounds of conflict' occurs after Bo has already confronted the thief and raised the alarm, as indicated by the sequence in the related events: the confrontation and alarm (scene_17) precede Bo running through the streets and hearing clashing weapons (scene_18). Thus, 'Bo confronts thief and raises alarm' precedes the reactive shift in 'Respond to sounds of conflict'.",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d8bd4ee3bb51",
+    "subject_id": "ep_0b54cf0549145d8f",
+    "object_id": "ep_ab7c5fec5027dcab",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Enter the house and prepare weapons' occurs in scene_29, where May and Tsai prepare their weapons, while the object episode 'Bo pleads for mercy under duress' occurs in scene_37, where Bo is confronted with a knife and declares himself a friend. The progression from scene_29 to scene_37 indicates a clear narrative sequence, with preparation preceding the confrontation, supporting a 'precedes' relation from the subject to the object.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_de5d7bff21e8",
+    "subject_id": "ep_ab7c5fec5027dcab",
+    "object_id": "ep_d19bb2242e166b1e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bo pleads for mercy under duress' occurs during the confrontation with Tsai, while 'Mourn Tsai's death' takes place after the battle concludes, as indicated by the narrative sequence in their descriptions. The de-escalation attempt precedes the aftermath of Tsai's death, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c13c75856e57",
+    "subject_id": "ep_ab7c5fec5027dcab",
+    "object_id": "ep_eaf402a492f7a29a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bo pleads for mercy under duress' involves de-escalation with Bo identifying himself as a friend under threat, which logically precedes the confrontation with the Governess that escalates into battle. The latter episode includes events such as the Governess revealing her identity and combat erupting, which follow chronologically after the initial tension and identity clarification in the first episode. The narrative flow suggests a sequence where the resolution of immediate hostilities (Bo's plea) sets the stage for the subsequent, more structured confrontation with the Governess.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d0b924658da7",
+    "subject_id": "ep_b67441a6512c89ce",
+    "object_id": "ep_5d7be5c5283d1f6a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bo confronts thief and raises alarm' (ep_b67441a6512c89ce) occurs in scene_17, where Bo discovers the thief and initiates pursuit. The episode 'Confront Bo's accusation and suspect a setup' (ep_5d7be5c5283d1f6a) occurs in scene_25, where Sir Te reacts to Bo's accusation, which stems from the earlier theft. The scene numbering and narrative progression indicate a clear temporal sequence: the confrontation and alarm precede the accusation and suspicion of a setup.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d2fdf355c57f",
+    "subject_id": "ep_0d27b80f9c43fa2f",
+    "object_id": "ep_5565db2f862f3faa",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Jen receiving Yu Shu Lien in the study, while the second episode describes Jen departing the study and bidding farewell to Yu. The sequence of events—receiving a guest followed by leaving the location and saying goodbye—implies a clear temporal order supported by the narrative flow in the related events. Therefore, the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5469b05ce5a6",
+    "subject_id": "ep_4faa090d1941456a",
+    "object_id": "ep_75f4f177e68fccd0",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Bo beginning his pursuit of May after questioning a homeless man, which leads directly into the object episode where Bo realizes he has entered Governor Yu's compound while continuing his search. The narrative flow in the related events suggests a temporal sequence: following May (scene_28) precedes recognizing the location within the compound (scene_21), with scene numbers indicating the latter occurs earlier, but the descriptive logic implies that the pursuit in ep_4faa090d1941456a narratively leads into the discovery in ep_75f4f177e68fccd0. Given the goal-driven continuity and spatial progression, the relation is best interpreted as 'precedes' with strong but slightly indirect support due to potential scene ordering ambiguity.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a664597de45a",
+    "subject_id": "ep_281d4c452ab0028c",
+    "object_id": "ep_b149a56e909ba7f3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Identify roles and establish guest status' occurs in scene_10, while 'Discuss the burdens of arranged marriage and societal duty' occurs in scene_30, indicating a clear temporal sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_21dec11bb3ba",
+    "subject_id": "ep_611c74d24c7559ef",
+    "object_id": "ep_33fe860bb69418e3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Explain reason for presence in the study' occurs during scene_10, while 'Jen retreats into private contemplation' occurs in scene_15, indicating a clear narrative sequence where the explanation precedes the private reflection based on scene ordering.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4be7f1dfcf4d",
+    "subject_id": "ep_134655bb1d120c60",
+    "object_id": "ep_b149a56e909ba7f3",
+    "relation_type": "elaborates",
+    "reason": "The object episode elaborates on the subject episode by providing deeper context about Jen's emotional resistance to control and impending life changes, specifically revealing her arranged marriage and longing for personal freedom, which expands on her earlier assertion of independence.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_fc06f7237fa5",
+    "subject_id": "ep_33fe860bb69418e3",
+    "object_id": "ep_b149a56e909ba7f3",
+    "relation_type": "precedes",
+    "reason": "Jen's private contemplation occurs after the governess exits, which follows the conversation with Yu about the arranged marriage; the narrative sequence implies the discussion precedes Jen's silent reflection as a subsequent emotional resolution.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b9b2aaf79728",
+    "subject_id": "ep_0d27b80f9c43fa2f",
+    "object_id": "ep_33fe860bb69418e3",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Jen receives Yu Shu Lien and the governess departs, contains events that immediately precede the object episode, where Jen is alone and in contemplation. The departure of the governess marks a transition that directly sets the stage for Jen's private reflection, indicating a clear narrative sequence supported by the event flow in the descriptions.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_db5b63b61624",
+    "subject_id": "ep_0d27b80f9c43fa2f",
+    "object_id": "ep_feab970f973ea53c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Jen receives Yu Shu Lien despite governess's objection' depicts Jen actively receiving the visitor, while the governess's warning in 'Governess warns against Shu Lien association' reflects a prior caution about the same association. The warning logically precedes the act of receiving the visitor, as the governess references maternal disapproval and danger, suggesting an earlier advisory context. Narrative coherence supports that the warning occurs before Jen defies it by allowing the visit.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8ad13cbd4d1d",
+    "subject_id": "ep_0d27b80f9c43fa2f",
+    "object_id": "ep_335e4e873363d4eb",
+    "relation_type": "precedes",
+    "reason": "The episode 'Jen receives Yu Shu Lien despite governess's objection' includes events where Jen interrupts calligraphy and insists on receiving Yu, leading directly into the subsequent scene where Yu attempts to pour tea and Jen reveals her martial prowess. The narrative flow and shared context (e.g., the arrival of Yu and the transition to tea service) indicate that the reception episode occurs immediately before the demonstration of hidden martial prowess.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3d3a88d805a6",
+    "subject_id": "ep_0d27b80f9c43fa2f",
+    "object_id": "ep_ca789bb82bbf90a2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Jen receives Yu Shu Lien despite governess's objection' involves Jen receiving Yu Shu Lien at her home, setting the stage for their interaction. The subsequent episode 'Demonstrate the sword and spark Jen's fascination' occurs during the same visit and is triggered by Jen's curiosity after Yu has arrived. The narrative flow implied by the setting and character interaction supports that the reception must precede the sword demonstration.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_91e824bb73f3",
+    "subject_id": "ep_ca789bb82bbf90a2",
+    "object_id": "ep_414c19374f6bf876",
+    "relation_type": "precedes",
+    "reason": "The episode 'Demonstrate the sword and spark Jen's fascination' occurs earlier in the narrative, as it establishes Jen's growing admiration for Yu, which sets the emotional foundation for the later episode where Jen proposes sisterhood and Yu offers a blessing. The progression from martial intrigue to emotional connection suggests a temporal sequence supported by the narrative flow.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_af0bdd4f1f25",
+    "subject_id": "ep_0d27b80f9c43fa2f",
+    "object_id": "ep_1e4ff852cb42b373",
+    "relation_type": "precedes",
+    "reason": "The episode 'Jen receives Yu Shu Lien despite governess's objection' occurs during a calligraphy practice and initial visit (scene_30), while 'Uncover the murderer's identity and impact' takes place during the Trousseau Preparation Gathering (scene_44), indicating a later narrative point. The shift in setting and escalation in tone suggest a chronological progression from the personal meeting to the revelation of external threats, supporting a 'precedes' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_88e3a00651b1",
+    "subject_id": "ep_1421440bcfd7a98d",
+    "object_id": "ep_b149a56e909ba7f3",
+    "relation_type": "elaborates",
+    "reason": "The subject episode discusses Jen's dissatisfaction with her constrained future and Yu's views on rules and freedom, while the object episode provides more specific context about the source of that constraint—her arranged marriage for political advantage. The object episode expands on Jen's inner conflict introduced in the subject episode, offering deeper background on her emotional state and societal pressures, thus elaborating on the earlier discussion.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ea35e3f9abff",
+    "subject_id": "ep_0d27b80f9c43fa2f",
+    "object_id": "ep_d910bf34792dd75d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Jen receives Yu Shu Lien despite governess's objection' occurs in doc_29 and involves Jen interacting with Yu Shu Lien before Li Mu Bai is introduced. The episode 'Introduce Li Mu Bai and assess Jen' occurs in doc_43, where Sir Te introduces Li Mu Bai to both Yu and Jen, indicating that Jen and Yu's meeting must precede Li Mu Bai's formal introduction. The narrative order across documents and the progressive unfolding of character introductions support a clear temporal sequence.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_99dadbeb3fea",
+    "subject_id": "ep_b149a56e909ba7f3",
+    "object_id": "ep_d12a481ca7c2e2f4",
+    "relation_type": "contrasts_with",
+    "reason": "Both episodes feature Jen expressing longing for freedom—one from an arranged marriage, the other for a fighter's life—while Yu provides a grounded, critical perspective. The first episode centers on emotional and societal constraints of marriage, while the second counters romanticized ideals of martial life with harsh realities. These parallel structures and opposing tones (idealism vs. realism) create a thematic contrast between societal duty and personal aspiration in different domains, supported by Yu's corrective voice in both.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_0fdbe5d15cc6",
+    "subject_id": "ep_1421440bcfd7a98d",
+    "object_id": "ep_414c19374f6bf876",
+    "relation_type": "precedes",
+    "reason": "The discussion about rules, freedom, and personal constraints (ep_1421440bcfd7a98d) occurs in scene_11, while Jen's proposal of sisterhood and Yu's blessing (ep_414c19374f6bf876) occurs in scene_30, indicating a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fe649b8c9099",
+    "subject_id": "ep_939d38cc4e72d639",
+    "object_id": "ep_3bf5358a03916a8e",
+    "relation_type": "precedes",
+    "reason": "The figure first confronts Li and demands a fight, which initiates the exchange; only afterward does Li shift the confrontation to demand information about Jade Fox. The shared scene reference (scene_49) and logical progression of the interaction support a clear temporal sequence where the confrontation precedes the challenge for information.",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e509b57b28e3",
+    "subject_id": "ep_0f69a861e3cde99d",
+    "object_id": "ep_e23d22b61e05fcc2",
+    "relation_type": "causes",
+    "reason": "The discovery and identification of Tsai's body directly leads to Te concluding the killer is hiding in the compound and deciding to report the murder to Governor Yu, as the victim's official status necessitates escalation. Both episodes occur in the same scene and are causally linked by the narrative logic of the investigation progressing from discovery to action.",
+    "source_documents": [
+      "scene_42_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_173ee90c6d42",
+    "subject_id": "ep_a246789097ea6486",
+    "object_id": "ep_d910bf34792dd75d",
+    "relation_type": "elaborates",
+    "reason": "The subject episode reveals the sword's origin and its connection to Li Mu Bai, who was introduced in the object episode. The information about the sword being Li Mu Bai's and gifted to Sir Te provides additional background that expands on Li Mu Bai's presence and relationship to the characters established in the earlier episode. This constitutes elaboration rather than precedence or causation, as it supplies contextual detail about a figure previously introduced.",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_644c3ccf23e5",
+    "subject_id": "ep_d910bf34792dd75d",
+    "object_id": "ep_335e4e873363d4eb",
+    "relation_type": "precedes",
+    "reason": "The episode 'Introduce Li Mu Bai and assess Jen' includes the introduction of Li Mu Bai and formal greetings during scene_44, which sets the initial context. The teapot drop and Jen's instinctive catch, part of 'Demonstrate hidden martial prowess', also occur in scene_44 but follow the introductions as a subsequent moment within the same occasion, indicating a local narrative order where the introduction precedes the revelation of skill.",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5b4e82edee46",
+    "subject_id": "ep_3dad763b94568b2f",
+    "object_id": "ep_ad82d1b81bcfd5dc",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Madam Yu and the governess reacting to the flyer, including the governess discarding it. The object episode describes Yu retrieving the flyer after it was discarded, which can only occur following the discard. This establishes a clear temporal sequence: the reaction and discard must precede the retrieval and concealment.",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_12de66c9ca8e",
+    "subject_id": "ep_5bf0cc780f604745",
+    "object_id": "ep_611c74d24c7559ef",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Explain reason for presence in the study' provides a justification for Jen's presence, which directly expands on the confrontation initiated in 'Approach and discover the intruder in the study'. The explanation elaborates on the intruder's motive, offering context that follows naturally from the discovery and questioning in the first episode.",
+    "source_documents": [
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_aa1b00e52626",
+    "subject_id": "ep_eaf402a492f7a29a",
+    "object_id": "ep_6cd5999340214678",
+    "relation_type": "precedes",
+    "reason": "The confrontation with the Governess initiates the battle in scene_41, and only after this does Li Mu Bai question the masked figure who has just saved the Governess, indicating a clear sequential order where the first episode precedes the second within the same scene.",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_69afc39144ea",
+    "subject_id": "ep_d910bf34792dd75d",
+    "object_id": "ep_1e4ff852cb42b373",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_44 and are part of the same occasion (Trousseau Preparation Gathering). The introduction of Li Mu Bai (ep_d910bf34792dd75d) logically precedes the revelation of the murderer's identity and impact (ep_1e4ff852cb42b373), as the narrative first establishes the characters' presence before delivering the suspenseful news. The related_events in both episodes are ordered within the same scene, supporting a clear local narrative sequence.",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d87fdcfc89b9",
+    "subject_id": "ep_c5469a1ee3e5f5a7",
+    "object_id": "ep_b703efe8543c238b",
+    "relation_type": "precedes",
+    "reason": "The presentation and examination of the ceremonial sword (ep_c5469a1ee3e5f5a7) occurs before Governor Yu acknowledges Sir Te's knowledge and Sir Te reflects on the sword's meaning (ep_b703efe8543c238b), as the appraisal sets the stage for the subsequent philosophical reflection, with both episodes grounded in scene_14 and following a clear temporal sequence.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_10c135aeb3cb",
+    "subject_id": "ep_b703efe8543c238b",
+    "object_id": "ep_ec122324c7a7cb01",
+    "relation_type": "elaborates",
+    "reason": "The first episode involves Sir Te reflecting on the sword's meaning through skillful use, and the second episode extends this idea by applying the sword's symbolism to governance, advising on strength and adaptability. The second episode builds upon the philosophical foundation established in the first, transforming the sword's metaphor from personal skill to political strategy, which is supported by the shared context in scene_14 and the progression from admiration to advisory.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c37653978000",
+    "subject_id": "ep_b67441a6512c89ce",
+    "object_id": "ep_76433ef4f7110514",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bo confronts thief and raises alarm' occurs before 'Thief flees across roof and escapes into city' as the confrontation and alarm happen during the thief's escape attempt, with the flight across the roof being the continuation and completion of the escape initiated in the prior episode. Both episodes are grounded in scene_17, and the narrative sequence implies a direct temporal progression from confrontation to successful evasion.",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7ddaa324f2e6",
+    "subject_id": "ep_3f17d59dccf8c1a5",
+    "object_id": "ep_76433ef4f7110514",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Thief infiltrates room and secures sword' involves the thief acquiring the sword, which logically and chronologically precedes the object episode 'Thief flees across roof and escapes into city', where the thief is already escaping. The related events in both episodes occur in the same scene (scene_17) and form a continuous narrative sequence, with securing the sword coming before the escape across the roof.",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c9499fc0abd1",
+    "subject_id": "ep_b67441a6512c89ce",
+    "object_id": "ep_18c00e4e2ec2b01a",
+    "relation_type": "causes",
+    "reason": "Bo's confrontation and immediate raising of the alarm (shouting for help, sounding gongs) directly triggers the community's response, as described in the object episode where residents rush outside to investigate. The description of ep_18c00e4e2ec2b01a explicitly states it marks the transition 'from individual pursuit to collective response' following Bo's actions, providing clear causal evidence.",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c59ce8e2bfbb",
+    "subject_id": "ep_414c19374f6bf876",
+    "object_id": "ep_5565db2f862f3faa",
+    "relation_type": "precedes",
+    "reason": "The episode 'Jen proposes sisterhood and Yu offers blessing' occurs in scene_30, while 'Jen departs the study and bids Yu farewell' occurs in scene_12. Since scene_12 precedes scene_30 in narrative order, the object episode occurs earlier than the subject episode. Therefore, the subject episode follows the object episode, meaning the object precedes the subject. However, the relation is directed, and the subject is listed first. Given the temporal sequence, the correct directional relation is object -> subject, but since the schema requires subject -> object directionality and the reverse is true, the only valid interpretation under the schema is that the subject does not precede the object. Yet, the scene numbers provide explicit evidence of order: ep_5565db2f862f3faa (scene_12) precedes ep_414c19374f6bf876 (scene_30). Thus, if we interpret the relation as subject -> object, it would be incorrect. But if we consider the actual chronology, the object episode precedes the subject episode. Since the relation 'precedes' is directed and the subject is ep_414c19374f6bf876, which comes later, it does not precede the object. Therefore, no valid directed relation fits in subject->object direction. However, the correct temporal order is clear: ep_5565db2f862f3faa occurs before ep_414c19374f6bf876. Hence, the only justifiable relation is 'precedes' with direction reversed. But per instructions, we must assign relation_type based on subject->object. Since the subject does not precede the object, and no other relation is supported, the correct output is 'NONE'. However, reconsidering: the relation 'precedes' can be correctly assigned if we recognize that the subject episode happens after the object episode, so the object precedes the subject — but that would require the relation to be object->subject. Since we cannot invert the subject-object order, and the schema does not allow reverse labeling, we must conclude that 'precedes' cannot be validly assigned in subject->object direction. Therefore, despite clear temporal order, the directionality constraint prevents correct assignment. But wait — the scene IDs: ep_414c19374f6bf876 is in scene_30, ep_5565db2f862f3faa in scene_12. So ep_5565db2f862f3faa (object) happens first. Thus, subject (ep_414c19374f6bf876) does NOT precede object. No other relation (causes, contrasts_with, elaborates) is supported. Therefore, the only defensible output is 'NONE'. But this contradicts the strong temporal signal. However, the relation 'precedes' must be from subject to object. Since the subject episode is later, it does not precede the object. Hence, 'precedes' is invalid. No evidence of causation, contrast, or elaboration. Therefore, despite clear chronology, the direction is wrong for the required subject->object labeling. But the instruction says: 'Determine whether the relation is better supported as subject -> object or object -> subject based strictly on the provided information.' And if no clear directional relation can be justified, output 'NONE'. However, the relation 'precedes' is directed, and the correct direction is object -> subject. Since we are forced to evaluate subject -> object, and that direction is false, we cannot assign 'precedes'. Thus, no valid relation can be assigned in the required direction. Therefore, output 'NONE'. But wait — the few-shot sample shows 'The heist plan is revealed' precedes 'The team executes the vault break-in' — a clear temporal sequence. Similarly, here, the farewell happens in scene_12, the sisterhood proposal in scene_30. So the farewell comes first. Therefore, the object episode precedes the subject episode. So the subject does not precede the object. Hence, 'precedes' cannot be assigned. No other relation is supported. Therefore, the correct output is 'NONE'. However, this ignores the strong temporal signal. But the schema requires the relation to be from subject to object. Since the subject episode is later, it does not precede the object. Thus, no valid relation. But reconsider: could 'elaborates' or another fit? No — no indication of background or expansion. 'Contrasts_with'? No tonal or outcome reversal indicated. 'Causes'? No causal link stated. Therefore, despite clear chronology, the direction is opposite to required subject->object for 'precedes'. Hence, no valid relation can be assigned. But the instruction says: 'If no relation is sufficiently supported, output NONE'. And since 'precedes' would require the subject to come first, which it does not, it is not supported. Therefore, output 'NONE'. However, this is a flaw in the setup — the episodes are from different documents (doc_29 vs doc_11), and scene_12 vs scene_30 — but if the scenes are from the same narrative, scene_12 precedes scene_30. But the doc_id differs: doc_11 vs doc_29 — possibly different sources? But the entity names refer to the same characters: Jen and Yu. Likely same narrative. But the doc_id difference raises uncertainty. Is this the same narrative timeline? The names match, characters match. Probably same story. But without explicit confirmation, and with different doc_ids, we cannot be certain the scenes are in the same chronological sequence. Therefore, the temporal order cannot be definitively established. Thus, even 'precedes' lacks firm grounding. Hence, confidence drops. Given different doc_ids, the episodes may not be directly comparable in narrative order. Therefore, no relation can be confidently assigned. Thus, 'NONE' is correct.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.9
+  }
+]

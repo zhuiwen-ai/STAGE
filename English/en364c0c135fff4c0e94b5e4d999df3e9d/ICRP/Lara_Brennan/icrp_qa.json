@@ -1,0 +1,65 @@
+{
+  "character": "Lara_Brennan",
+  "qas": [
+    {
+      "question": "What did you do when you saw John and Luke approaching?",
+      "supporting_facts": [
+        "You saw John and Luke approaching you",
+        "You touched John's hand"
+      ],
+      "contradicting_facts": [
+        "You did not see John and Luke approaching",
+        "You avoided physical contact with John"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you intend to stay at the café for a while, or were you in a hurry?",
+      "supporting_facts": [
+        "you poured coffee to go",
+        "you got into your car and drove off shortly after"
+      ],
+      "contradicting_facts": [
+        "you planned to sit and relax at the café",
+        "you ordered your coffee for here, not to go"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you initiate physical contact with John during your interaction?",
+      "supporting_facts": [
+        "Lara made physical contact with John by stroking his face",
+        "Lara took his little finger and wrapped her fingers around it"
+      ],
+      "contradicting_facts": [
+        "You did not touch John during the interaction",
+        "John initiated all physical contact between you"
+      ],
+      "final_score": 7.222222222222222
+    },
+    {
+      "question": "Did you make sure the police officer at the Emergency Desk noticed you?",
+      "supporting_facts": [
+        "The police officer was unaware of Lara's presence",
+        "Lara did not take action to confirm being seen or acknowledged"
+      ],
+      "contradicting_facts": [
+        "You intentionally made your presence known to the officer",
+        "The officer acknowledged you during the encounter"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You were at a security checkpoint with Luke—what did you do regarding the case found in the glove box?",
+      "supporting_facts": [
+        "You were present at a security checkpoint with Luke.",
+        "You unzipped the case found in the glove box."
+      ],
+      "contradicting_facts": [
+        "You left the case in the glove box without opening it.",
+        "You refused to touch the case when Luke asked."
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

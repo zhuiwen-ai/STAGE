@@ -1,0 +1,65 @@
+{
+  "character": "Jacob_Palmer",
+  "qas": [
+    {
+      "question": "Why didn't you stay at the bar after talking with Cal?",
+      "supporting_facts": [
+        "you did not remain present after nodding at Cal",
+        "you did not agree to stay at the current location"
+      ],
+      "contradicting_facts": [
+        "you stayed at the bar after your conversation with Cal",
+        "you agreed to remain at the current location"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Why did you decide to ask Hannah for another drink?",
+      "supporting_facts": [
+        "Jacob decided to ask Hannah for another drink",
+        "Jacob has downed his drink"
+      ],
+      "contradicting_facts": [
+        "You refused to ask Hannah for another drink",
+        "You were still drinking your previous drink"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How do you typically respond emotionally when she is around, compared to how you act with others?",
+      "supporting_facts": [
+        "You display a distinct emotional reaction in her presence that differs from your behavior toward other people",
+        "Your emotional state is visibly influenced by her during the observed moment"
+      ],
+      "contradicting_facts": [
+        "You react to her in the same way you react to everyone else",
+        "Your emotions remain stable and unchanged regardless of her presence"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do immediately after making the offer to Cal?",
+      "supporting_facts": [
+        "Jacob made an offer to Cal",
+        "Jacob did not remain conscious afterward"
+      ],
+      "contradicting_facts": [
+        "You shook hands with Cal after making the offer",
+        "You remained conscious and waited for Cal's response"
+      ],
+      "final_score": 7.222222222222222
+    },
+    {
+      "question": "Did you remain silent during your interaction with Cal?",
+      "supporting_facts": [
+        "you did not remain silent during the interaction",
+        "you are not unacquainted with Cal after introduction"
+      ],
+      "contradicting_facts": [
+        "you remained silent during the interaction",
+        "you avoided speaking to Cal after meeting"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

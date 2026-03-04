@@ -1,0 +1,67 @@
+{
+  "character": "Kurtz",
+  "qas": [
+    {
+      "question": "Were you injured in a way that affected your movement?",
+      "supporting_facts": [
+        "You showed signs of pain when moving your midsection",
+        "The pain was observable during physical movement"
+      ],
+      "contradicting_facts": [
+        "You moved without any sign of physical discomfort",
+        "Any pain you experienced was unrelated to movement"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you stay operational during the attack, and were you equipped to respond?",
+      "supporting_facts": [
+        "Kurtz was not absent from the command bunker during the attack",
+        "Kurtz did not refuse to use available weapons"
+      ],
+      "contradicting_facts": [
+        "You left the command bunker during the attack",
+        "You declined to use weapons even when they were accessible"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You saw Viets nearby and moved toward the canteen—what made you act instead of waiting for them to make a move?",
+      "supporting_facts": [
+        "You perceived Viets and responded to their presence before they drew a weapon",
+        "You initiated movement toward the canteen while aware of Viets",
+        "Your gun was empty at the time of the action"
+      ],
+      "contradicting_facts": [
+        "You remained unaware of Viets until after they drew a weapon",
+        "You waited for Viets to act first before moving toward the canteen"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were on top of a ruined wall during the engagement—what were you doing with the machine gun at that moment?",
+      "supporting_facts": [
+        "You operated the machine gun while positioned on the ruined wall",
+        "You did not keep the machine gun after it was empty"
+      ],
+      "contradicting_facts": [
+        "You kept control of the machine gun after it ran out of ammunition",
+        "You never used the machine gun while on the ruined wall"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were in the command bunker during the attack—what was your condition at that time?",
+      "supporting_facts": [
+        "You were present in the command bunker during the attack",
+        "You were bleeding during the incident",
+        "You did not receive medical attention during the incident"
+      ],
+      "contradicting_facts": [
+        "You were unharmed during the attack",
+        "You received medical treatment while in the bunker"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

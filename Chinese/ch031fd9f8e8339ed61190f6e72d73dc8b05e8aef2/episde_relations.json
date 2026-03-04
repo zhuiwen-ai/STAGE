@@ -1,0 +1,4398 @@
+[
+  {
+    "id": "rel_ep_ep_8f935bc28619",
+    "subject_id": "ep_1cdf7df2e8dbdba3",
+    "object_id": "ep_b0abc8e7189649aa",
+    "relation_type": "precedes",
+    "reason": "二条率众抵达并质问滑头处境发生在滑头表达不满并拒绝二条安抚之前，根据相关事件序列（质问后引发争执，随后二条尝试安抚被拒），叙事顺序明确支持该时序关系。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5d5001586305",
+    "subject_id": "ep_8fdbfe5d33494f3f",
+    "object_id": "ep_9ccd4f3f38ca471c",
+    "relation_type": "precedes",
+    "reason": "小医生检查并评估小明伤势发生在安排小明后续行动与离场之前，描述中显示检查结束后才进行离场安排，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9f469ab2cc75",
+    "subject_id": "ep_e09552a9f0147520",
+    "object_id": "ep_fa3add2a7a7405c6",
+    "relation_type": "precedes",
+    "reason": "小四测试眼睛并反映视觉问题发生在妈妈介入并提供建议之前，相关事件序列显示小四先表达眼睛发花的问题，随后妈妈建议他早点睡觉，支持该叙事顺序。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b1866d33fc6f",
+    "subject_id": "ep_db0de4aa8183d47f",
+    "object_id": "ep_53b793a043498de2",
+    "relation_type": "precedes",
+    "reason": "小四被叫住并接手送货发生在大姐与小四同行回家之前，因为小四是在被大姐叫住并接受物品后，才开始与大姐一起推车回家的，叙事顺序在描述中具有明确的时间连贯性。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5f14c076e747",
+    "subject_id": "ep_18ebf8df19901281",
+    "object_id": "ep_2320f75e985fd6e4",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在 scene_34，但根据事件序列，小猫登门求助并请求翻译歌词中的事件（如小四向大姐请求帮助翻译歌词）在时间上早于小猫开始修理设备及相关互动，叙事顺序支持前者先发生。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cc20db46f181",
+    "subject_id": "ep_5e9726a50c761556",
+    "object_id": "ep_f3444c41462d87bc",
+    "relation_type": "precedes",
+    "reason": "二条在小公园开始演唱发生在滑头入场之前，因为演唱是聚会的进行部分，而滑头入场导致二条中断并离开，表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7e6a9e9a9a76",
+    "subject_id": "ep_046de97a7de249e3",
+    "object_id": "ep_1cdf7df2e8dbdba3",
+    "relation_type": "precedes",
+    "reason": "滑头警告外敌并质疑二条能力发生在二条率众抵达并质问滑头处境之前，依据场景11中的事件顺序：滑头先发出警告和冷笑，随后二条带人到达并引发争执。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_37e08da0026c",
+    "subject_id": "ep_046de97a7de249e3",
+    "object_id": "ep_b0abc8e7189649aa",
+    "relation_type": "precedes",
+    "reason": "滑头警告外敌并质疑二条能力发生在滑头表达不满并拒绝二条安抚之前，两个情节均位于scene_11，且逻辑上警告与质疑先于对安抚尝试的拒绝反应。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_64e1e180affc",
+    "subject_id": "ep_8ca5c9d2858cc144",
+    "object_id": "ep_ce359c17d8bb3f6d",
+    "relation_type": "precedes",
+    "reason": "大姐干预并设法掩盖危机包括她决定出钱并编造借口，随后才将钱交给二哥并催促其赎回手表。执行手表赎回任务紧随其后，依赖于大姐先前的决策和资金提供，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d303813da6a4",
+    "subject_id": "ep_bc537ee6c9709119",
+    "object_id": "ep_39d10a36886f2c35",
+    "relation_type": "precedes",
+    "reason": "小四提议搭车并揭示共同路线发生在小明离开之后，而小明离开直接导致小四呆立原地表现出失落情绪，因此前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e5a4f71eca5d",
+    "subject_id": "ep_24b9812c09ad0027",
+    "object_id": "ep_4c1aeeceb704353d",
+    "relation_type": "precedes",
+    "reason": "揭露作弊并施加处罚发生在学生被处罚后离开办公室之前，根据描述，老师先宣布记过处分，随后小四和滑头才离开办公室，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a03776c52998",
+    "subject_id": "ep_f74c598f8e1a3e64",
+    "object_id": "ep_47b56e4432a76024",
+    "relation_type": "causes",
+    "reason": "小四和小猫偷看片场导致书本掉落，引发女演员受惊尖叫，进而暴露其行踪，直接触发工作人员追赶并抓包的后续情节。文本明确描述了从偷看到暴露再到被抓的因果链条。",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b7ca995ca178",
+    "subject_id": "ep_b2975ecd83ee1e1a",
+    "object_id": "ep_960503558c76f4d9",
+    "relation_type": "precedes",
+    "reason": "二条与滑头爆发激烈冲突（言语对峙和推搡）发生在二条试图用铁铲攻击滑头之前，根据描述中的事件顺序，冲突升级为肢体攻击的企图，因此前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3108a9f6bbad",
+    "subject_id": "ep_6dde3cc9729c0f0b",
+    "object_id": "ep_d53254926a799bf4",
+    "relation_type": "precedes",
+    "reason": "滑头介入并索要钱财发生在飞机阻止其取钱并揭示父亲在场之前。描述中显示滑头先询问是否有钱，随后飞机拒绝并指出父亲在场，构成明确的叙事时序先后。",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_80aad3064111",
+    "subject_id": "ep_6ed8307f61700619",
+    "object_id": "ep_0652b26ae8ae440d",
+    "relation_type": "precedes",
+    "reason": "叶子带人进场并挑战翻本发生在嘲讽与身份羞辱引发哄笑之前，因为叶子带小四二哥进入台球室并表明要翻本是事件的起始点，随后油头男才对其身份进行嘲讽，两者共享同一场合且叙事顺序清晰。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3d7bbd3452fa",
+    "subject_id": "ep_3797c772af33152c",
+    "object_id": "ep_6ed8307f61700619",
+    "relation_type": "precedes",
+    "reason": "山东与叶子讨论近期生计发生在叶子带人进场并挑战翻本之前，两者均发生在二一七台球室的聚会场景中，且对话内容为后续行动提供了上下文铺垫，叙事顺序明确。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9bac62aee68e",
+    "subject_id": "ep_02023a7ccfe14e03",
+    "object_id": "ep_995fc647f5391a35",
+    "relation_type": "elaborates",
+    "reason": "小猫阻止小四并揭示冲突起因这一情节指出了小四提及国校事件引发风波，而小翠承认与小四对峙则进一步确认了她就是国校事件中的当事人，后者为前者所提及的冲突提供了后续的背景和解释，从而扩展并阐明了冲突的实质。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b5f6ad7167f7",
+    "subject_id": "ep_fd86ebcec864b9f2",
+    "object_id": "ep_70d2a641450eb01a",
+    "relation_type": "precedes",
+    "reason": "小四和小明先潜入影棚并偷看拍戏，之后在目睹争执后离开影棚，叙事顺序明确，前者在时间上早于后者。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ef1af87ebacc",
+    "subject_id": "ep_72b8dda710bf7b5d",
+    "object_id": "ep_9dfe6334351658f6",
+    "relation_type": "precedes",
+    "reason": "小猫被指认并进入问责现场发生在学生否认指控并提供证词之前，因为指认是问责对话的起点，随后才出现否认和作证行为，两者均发生在同一场合'scene_15'中，且叙事顺序上具有明确的先后逻辑。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_afbd4d44f3f3",
+    "subject_id": "ep_960503558c76f4d9",
+    "object_id": "ep_a3053e1c0154d358",
+    "relation_type": "precedes",
+    "reason": "二条试图攻击滑头引发肢体制止发生在小弟对二条实施身体攻击之前，根据描述，二条在被抱住后继续挣扎并辱骂，随后小弟才开始殴打他，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1e9f6e5868a6",
+    "subject_id": "ep_2320f75e985fd6e4",
+    "object_id": "ep_88ab994eb4a997da",
+    "relation_type": "precedes",
+    "reason": "小猫修理设备并获取工具支持的情节发生在调试收音机并最终成功启动之前，两个情节均发生在scene_34，但修理设备（包括请求合适工具）在事件序列上早于调试收音机的争执与拍打启动，叙事顺序支持前者先发生。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_493b9830009d",
+    "subject_id": "ep_82c0452cd6d81a73",
+    "object_id": "ep_fa3add2a7a7405c6",
+    "relation_type": "precedes",
+    "reason": "小四回家并检查饭菜发生在妈妈介入并提供建议之前，依据两个情节的事件均发生在scene_12，且小四返回房间和查看饭菜的行为逻辑上先于妈妈的建议，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_79d0f621ac53",
+    "subject_id": "ep_eb738e91555bb6d7",
+    "object_id": "ep_72da70ca1c40495e",
+    "relation_type": "precedes",
+    "reason": "小四夺棒反抗滑头的挑衅发生在主任介入并平息冲突之前，根据描述，冲突升级后主任才赶到现场处理，因此该情节在叙事顺序上先于主任介入。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a850d06f5b8a",
+    "subject_id": "ep_4e874c8fa0600596",
+    "object_id": "ep_da9b1e26d5b5cba8",
+    "relation_type": "elaborates",
+    "reason": "引入新同学小马的情节建立了小马作为新角色的登场和课堂动态变化，而揭示小马的暴力过往则通过提供其背景信息扩展了该情节，增强了人物复杂性和潜在冲突，符合elaborates关系中‘提供额外背景以扩展’的定义。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_228f390dd6f2",
+    "subject_id": "ep_b2233bc32fc7a5fb",
+    "object_id": "ep_fa3add2a7a7405c6",
+    "relation_type": "precedes",
+    "reason": "根据描述，妈妈为小四开饭并询问归家时间发生在小四进食前，而妈妈介入并提供建议发生在小四返回房间之后。related_events 中的场景编号均为 scene_12，但事件顺序上，开饭和询问应在返回房间并接受建议之前，因此该情节在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d77a0e777894",
+    "subject_id": "ep_62b5401cf61aba61",
+    "object_id": "ep_03b6af6ffb9d72ff",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，小明在影棚内行走并接受照明协助（scene_41早期动作）发生在两人离开影棚并讨论同行顾虑（scene_41后期对话）之前，文本中动作顺序支持该叙事先后关系。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d33734689445",
+    "subject_id": "ep_81769f257fa0fe1d",
+    "object_id": "ep_fe718cc42b5635ae",
+    "relation_type": "precedes",
+    "reason": "根据描述，小四表达对社会不公的忧虑发生在父亲用隐喻回应生活困境之前，二者均位于scene_48，且小四的感慨引发其对‘没春袋’的追问，表明情绪表达先于父亲的回应。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ca0973d3aa08",
+    "subject_id": "ep_f3444c41462d87bc",
+    "object_id": "ep_a3053e1c0154d358",
+    "relation_type": "precedes",
+    "reason": "滑头入场引发二条情绪反应发生在小弟对二条实施身体攻击之前，因为二条离开表演现场后冲突逐步升级，最终导致殴打事件。两个情节共享同一场合'scene_33'，且叙事顺序上前者为后续暴力行为埋下伏笔，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_63268a0eec51",
+    "subject_id": "ep_628813d800810428",
+    "object_id": "ep_81769f257fa0fe1d",
+    "relation_type": "elaborates",
+    "reason": "主体情节'开始回家并展开对话'建立了父子交流的场景，客体情节'小四表达对社会不公的忧虑'在此对话框架内进一步展开具体话题，提供了更深层的思想表达，是对前一情节中对话内容的扩展和深化。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_019b8397ac02",
+    "subject_id": "ep_ac9c382cdb565478",
+    "object_id": "ep_d35f62a6e605c68e",
+    "relation_type": "elaborates",
+    "reason": "主体情节'讨论小四转学与学业安排'包含客体情节'确认考试安排'所涉及的具体事件（小四大姐询问明天是否考试），并在此基础上扩展了更广泛的学业安排讨论，包括转学和视力问题，因此主体为客体提供了更丰富的上下文和背景信息。",
+    "source_documents": [
+      "scene_22__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_476c2bae9223",
+    "subject_id": "ep_3797c772af33152c",
+    "object_id": "ep_60a9bcaf8dde0a76",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述叶子坦承处境窘迫，客体情节中叶子在同样场合下展示信心并鼓励小四二哥出场，其行为可视为对之前窘迫状态的回应或心理补偿。客体情节通过叶子在压力下的积极姿态，进一步扩展和丰富了主体情节中揭示的心理状态和生存困境，构成对主体情节的补充说明。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e729fcdc763b",
+    "subject_id": "ep_eb738e91555bb6d7",
+    "object_id": "ep_823b2646c21fc6eb",
+    "relation_type": "precedes",
+    "reason": "小四夺棒反抗滑头的挑衅发生在冲突升级阶段，而冲突结束后小四与滑头各自离开描述的是冲突的终结状态，根据叙事顺序，反抗行为在前，离开行为在后，时间顺序明确。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f73a401f5a53",
+    "subject_id": "ep_14e68cfa693e1b9c",
+    "object_id": "ep_956ba579b7137e04",
+    "relation_type": "elaborates",
+    "reason": "情节 '三角裤在演讲期间打发时间' 提供了具体细节，说明学生三角裤如何在毕业演讲中表现出无聊，这扩展了 '台下学生反应毕业演讲' 中描述的整体冷漠和缺乏兴趣的学生反应。两个情节共享相同的场合（毕业典礼）和相关事件（三角裤翻阅书籍），表明前者是对后者的具体化和补充说明。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3c8bb27870a1",
+    "subject_id": "ep_50666b2bbf1a08bd",
+    "object_id": "ep_eb738e91555bb6d7",
+    "relation_type": "causes",
+    "reason": "滑头因抄写被拒而暴力袭击小四直接导致小四夺棒反抗，文本中描述小四在遭受暴力后从小四同伴手中抢过球棒，冲突升级，表明前一情节是后一情节的即时触发原因。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a3c4f5f3236e",
+    "subject_id": "ep_50666b2bbf1a08bd",
+    "object_id": "ep_72da70ca1c40495e",
+    "relation_type": "precedes",
+    "reason": "滑头因抄写被拒而暴力袭击小四发生在主任介入并平息冲突之前，两个情节共享同一场景（scene_17），且事件序列显示暴力行为先发生，随后主任到达并处理冲突，符合叙事顺序上的先后关系。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d009cfb46e9e",
+    "subject_id": "ep_64ba06939b37ff00",
+    "object_id": "ep_fa087914b3d2db05",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'开启对话并交换住处信息'中的事件（小明从摄影棚走出来、小四询问住处）发生在'回应情绪变化并尝试挽留'之前，后者涉及小四不悦前行和小明询问是否要回去，表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0cb0f4354060",
+    "subject_id": "ep_6ed8307f61700619",
+    "object_id": "ep_60a9bcaf8dde0a76",
+    "relation_type": "precedes",
+    "reason": "叶子带人进场并挑战翻本（ep_6ed8307f61700619）在叙事顺序上先发生，她随后在众人质疑下展示信心并鼓励小四二哥出场（ep_60a9bcaf8dde0a76），两个情节共享同一场合且事件链条显示挑战行为先于鼓励行为以推动赌局。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9151dc40b5ad",
+    "subject_id": "ep_82c0452cd6d81a73",
+    "object_id": "ep_b2233bc32fc7a5fb",
+    "relation_type": "precedes",
+    "reason": "小四回家并检查饭菜发生在妈妈为小四开饭并询问归家时间之前，根据描述，小四先进入房间、放下书包并查看饭菜，随后妈妈才为他打开饭盒并询问晚归原因，二者在同一场景（scene_12）中按时间顺序先后发生。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_25ef69e07244",
+    "subject_id": "ep_9475ec08fbd3f310",
+    "object_id": "ep_8801dfc6b33af132",
+    "relation_type": "precedes",
+    "reason": "根据描述，老师在质问并惩罚小四之后，才命令全班翻到课本第三十三页以恢复教学秩序。这表明'质问并惩罚小四'在叙事顺序上直接早于'继续课堂教学翻页'，且两个情节共享同一场合（课堂问答与惩罚事件），支持清晰的时间先后关系。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8c6a04b5f79a",
+    "subject_id": "ep_72da70ca1c40495e",
+    "object_id": "ep_823b2646c21fc6eb",
+    "relation_type": "precedes",
+    "reason": "主任介入并平息冲突发生在冲突结束后小四与滑头各自离开之前。描述中显示，主任处理完毕后，小四交出球棒并走进教室，滑头得意地离开，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_06a05c95c64c",
+    "subject_id": "ep_3ef28e588fead705",
+    "object_id": "ep_4e57c8fd6eba89cd",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节共享同一场合‘电视教育录取名单播报 (scene_3)’，但分别聚焦于家庭日常互动与录取名单播报的公共通知过程。主体情节强调小四家庭及周边人物的细微行为（如父亲克制抽烟、食用红豆冰），而客体情节突出老板女儿无神地聆听录取名单，反映出个人失落与集体进程的并置，构成情感与功能上的对比。",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_0b9d46d2f8e5",
+    "subject_id": "ep_9f62cc25ce6058be",
+    "object_id": "ep_eb27ae674636a12e",
+    "relation_type": "elaborates",
+    "reason": "父亲反思冲动行为并教育儿子不要为未犯的错误道歉，这一情节为后续劝导小四坚定人生信念提供了价值观基础，后者进一步扩展了做人的道理应被相信和坚持的观点，两个情节共享scene_48且在主题上递进，前者为后者提供道德前提的铺垫。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_9e7e788f4967",
+    "subject_id": "ep_956c08ed98208b64",
+    "object_id": "ep_d44b7740c541dfee",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'发现红豆冰接近并准备照射她' 包含几人协作用手电筒照射红豆冰的行动，而紧接着在'飞机登场并戏弄三角裤'中，飞机从小猫手中接过手电筒并开始乱照。事件序列显示，只有在前一行动结束后，飞机才接过手电筒，表明第一个情节在叙事顺序上直接早于第二个情节。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_8_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5c9b35ba9fd5",
+    "subject_id": "ep_7eec17d02f3a25cc",
+    "object_id": "ep_f69fcf92ed5b0c1f",
+    "relation_type": "precedes",
+    "reason": "小四陪伴小明前行并表达关切发生在小四发现教官并示警躲避之前，根据描述中的行为顺序：小四先是在前行中回头观察小明，随后才察觉教官出现并提醒躲避，两个情节共享同一场景编号(scene_27)，但事件序列显示前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_db4d017d54f4",
+    "subject_id": "ep_41a3d8acb664941a",
+    "object_id": "ep_70d2a641450eb01a",
+    "relation_type": "precedes",
+    "reason": "导演发泄怒气并决定启用新人发生在影棚内的争执场景中，而小四和小明结束偷看后离开影棚是在目睹该争执后起身离开。根据描述，争执发生时二人仍在偷看，随后才离开，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9bdd4e44e81d",
+    "subject_id": "ep_9f62cc25ce6058be",
+    "object_id": "ep_81769f257fa0fe1d",
+    "relation_type": "elaborates",
+    "reason": "父亲反思冲动行为并教育儿子的情节中，传递了不应为未犯错误道歉的价值观，这为小四表达对社会不公的忧虑提供了道德和认知背景，扩展了其思想来源。两个情节共享场景且父亲的教诲在前，小四的感慨紧随其后，表明后者可能是对前者教育的反应和延伸。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_246e89139677",
+    "subject_id": "ep_0438d479befc70b4",
+    "object_id": "ep_6934225a51be4b2a",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中教师介入并说明事件背景，为后续成人讨论管理责任与教育理念提供了上下文基础；第二个情节在此基础上扩展，深入探讨了管理责任、教育理念冲突及外部环境影响，形成对前一情节主题的进一步阐释。两个情节共享同一场合（训导处办公室的问责谈话），且第二个情节通过引入贺校长的教育理念和戏班男人的反应，对初始事件的深层原因进行补充说明，符合elaborates关系的定义。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c76237119968",
+    "subject_id": "ep_50666b2bbf1a08bd",
+    "object_id": "ep_823b2646c21fc6eb",
+    "relation_type": "precedes",
+    "reason": "滑头因抄写被拒而暴力袭击小四发生在冲突的高潮阶段，随后由主任处理完毕后进入收尾阶段，即小四与滑头各自离开。两个情节共享同一场景（scene_17），且描述的事件在时间顺序上连续，前者直接导向后者，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_58585ca00461",
+    "subject_id": "ep_62b5401cf61aba61",
+    "object_id": "ep_3a732e7a76f8a040",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_41，但根据描述，小明在轨道上行走并接受照明协助的互动早于他转身离开、小四寻找其身影的交流断裂场景，叙事顺序上前者为后者铺垫，因此'小明展示谨慎前行并接受照明协助'在叙事时间上先于'确认试镜观看安排并结束对话'。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cbdd22c0e296",
+    "subject_id": "ep_628813d800810428",
+    "object_id": "ep_eb27ae674636a12e",
+    "relation_type": "precedes",
+    "reason": "主体情节'开始回家并展开对话'描述了父子在回家路上营造交流氛围并开始对话，是对话的开端；客体情节'父亲劝导小四坚定人生信念'是该对话的进一步发展，包含父亲具体的劝导内容。根据叙事顺序，对话的展开先于具体的劝导内容，且两个情节共享同一场景（scene_48）和上下文，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b9367897093e",
+    "subject_id": "ep_628813d800810428",
+    "object_id": "ep_f42f17cc0f0e390a",
+    "relation_type": "precedes",
+    "reason": "主体情节'开始回家并展开对话'描述了父子在回家路上营造交流氛围并开始对话，是对话的开端；客体情节'小四表达对母亲的担忧'是该对话过程中后续的具体内容发展。related_events 显示前者包含对话的启动和情绪表达，后者则涉及更具体的担忧内容，且父子问答顺序支持时间上的先后关系。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_059490493621",
+    "subject_id": "ep_18ebf8df19901281",
+    "object_id": "ep_db76ce440efe8b1d",
+    "relation_type": "precedes",
+    "reason": "小猫登门求助并请求翻译歌词的情节中，小四向大姐请求帮助翻译歌词，随后在尝试播放唱片失败并转向收音机的情节中，小四和小猫尝试播放唱片但设备故障。两个情节均发生在scene_34，但根据叙事顺序，请求翻译发生在尝试播放唱片之前，且后者是为完成翻译任务而采取的下一步行动，因此存在明确的时间先后顺序。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3d3ea2bd845c",
+    "subject_id": "ep_03b6af6ffb9d72ff",
+    "object_id": "ep_3a732e7a76f8a040",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在 scene_41，但根据描述顺序和事件流，'离开影棚并讨论同行顾虑' 中的对话发生在小明和小四刚走出影棚时，而 '确认试镜观看安排并结束对话' 包含小明从小四身后出现并离开、小四用手电寻找其身影，这表明交流的结束和物理上的分离，具有明确的后续动作。因此，主体情节在叙事顺序上先于客体情节。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_35f4fb70a6c1",
+    "subject_id": "ep_776eb5b063ea4908",
+    "object_id": "ep_889c601fa1430f40",
+    "relation_type": "precedes",
+    "reason": "女人突然亲吻小猫并引发情绪波动后，小猫在被催促下中断情绪反应并返回舞台继续演唱，两个情节共享同一场合且在叙述顺序上前者紧接后者，文本明确支持时间上的先后关系。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dcad2addcc5b",
+    "subject_id": "ep_28eca7bdd38feb40",
+    "object_id": "ep_598cb54250ac56ce",
+    "relation_type": "causes",
+    "reason": "小虎激化冲突并动手推搡直接引发了篮球队成员围攻滑头，描述中明确指出在小虎推搡导致冲突升级后，其他成员随即以群体形式介入实施暴力，构成即时因果链。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f37908e1a556",
+    "subject_id": "ep_c912dd91163f6eef",
+    "object_id": "ep_dcf9ab8105fbd5d3",
+    "relation_type": "precedes",
+    "reason": "根据描述，小虎在篮球场上完成戏耍并投篮后，小明才指责其赖皮，表明‘小虎戏耍并趁机投篮’在叙事顺序上明确早于‘小明指责小虎赖皮’。",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_20b561814e46",
+    "subject_id": "ep_244a1fc4131e1cb2",
+    "object_id": "ep_c03222e46e960ab2",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在 scene_16 的教室考试场合中。根据描述，滑头要求作弊并威胁小四发生在考试开始前，而滑头质问小四在外面大笑应发生在考试开始后或稍晚时刻，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cf5e9537919f",
+    "subject_id": "ep_db76ce440efe8b1d",
+    "object_id": "ep_88ab994eb4a997da",
+    "relation_type": "precedes",
+    "reason": "情节'尝试播放唱片失败并转向收音机'中，小四和小猫因唱片机故障而决定改用收音机，这直接引出了后续情节'调试收音机并最终成功启动'中的活动。两个情节共享同一场景(scene_34)且动作连续，文本支持前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_28bf484ae758",
+    "subject_id": "ep_f3444c41462d87bc",
+    "object_id": "ep_960503558c76f4d9",
+    "relation_type": "precedes",
+    "reason": "滑头入场引发二条情绪反应发生在二条试图攻击滑头引发肢体制止之前，因为二条注意到滑头入场后离开表演现场，随后在言语冲突后发生攻击企图，叙事顺序明确。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e0cf980b1df9",
+    "subject_id": "ep_f3444c41462d87bc",
+    "object_id": "ep_86401b2ef0e643eb",
+    "relation_type": "precedes",
+    "reason": "滑头入场引发二条情绪反应发生在滑头自卫并下令小翠撤离之前，因为二条的离开为后续冲突埋下伏笔，而自卫行为是冲突的升级，两者共享同一场合且事件序列在描述中呈现明确的时间顺序。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c59b4bb5ddc2",
+    "subject_id": "ep_e8699ae47e45aa66",
+    "object_id": "ep_244a1fc4131e1cb2",
+    "relation_type": "precedes",
+    "reason": "小猫催促滑头返回座位准备考试发生在考试开始前，推动滑头回归考试场景；随后滑头要求作弊并威胁小四，这两个情节共享同一考试场合（教室考试 scene_16），且根据事件序列，催促返回座位在叙事顺序上早于要求作弊和威胁行为。",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_abe7e5662bed",
+    "subject_id": "ep_c21eac9b92f2db0c",
+    "object_id": "ep_db0de4aa8183d47f",
+    "relation_type": "precedes",
+    "reason": "大姐购物并请求送货发生在小四被叫住并接手送货之前，因为大姐先在胖叔家购物并请求送货被拒，随后才叫住路过的小四来承担送货任务，叙事顺序明确。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aaa5122197af",
+    "subject_id": "ep_41a3d8acb664941a",
+    "object_id": "ep_21723908fba95d7d",
+    "relation_type": "causes",
+    "reason": "导演在发泄怒气并发现小明后，产生启用新人的想法，直接触发了启动小明试镜流程的情节。文本明确显示，导演在与小明交谈并询问其年级后，随即启动试镜程序，构成直接因果链。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9f4a41a61061",
+    "subject_id": "ep_8fdbfe5d33494f3f",
+    "object_id": "ep_e2055aee72a540df",
+    "relation_type": "precedes",
+    "reason": "小医生先检查并评估小明的伤势，然后在此基础上建议第二天去诊所换药，叙事顺序明确，且换药建议依赖于检查结果。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_54a4842e35e1",
+    "subject_id": "ep_ce359c17d8bb3f6d",
+    "object_id": "ep_f5ebb5ef8e2655cc",
+    "relation_type": "causes",
+    "reason": "执行手表赎回任务导致二哥被追问并最终揭露当掉手表还赌债的事实；大姐给钱让二哥赎回手表的行为直接引发后续追问和坦白，构成因果链中的即时后果。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_39741a1198bb",
+    "subject_id": "ep_1cdf7df2e8dbdba3",
+    "object_id": "ep_a92dd0a1e4dd5f0a",
+    "relation_type": "precedes",
+    "reason": "根据相关事件均发生在scene_11，且二条率众抵达并质问滑头的行动在叙事逻辑上先于滑头抱怨地盘危机并索要香烟的行为，因为外部干预（二条到来）触发了后续情绪反应。描述中二条质问引发争执，之后滑头洗脸抱怨，呈现清晰的时间与话语顺序。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_af4c59fc2d4e",
+    "subject_id": "ep_ed450c17e38a9d3b",
+    "object_id": "ep_fab4ffa924f3e179",
+    "relation_type": "precedes",
+    "reason": "男人先应对窗户突袭并追赶入侵者，随后才对小四进行 interrogation 以获取其身份。两个情节均发生在 scene_5，但追赶行为在逻辑和叙事顺序上早于 interrogation，因为入侵者被抓住后才开始审问。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8482af679809",
+    "subject_id": "ep_db76ce440efe8b1d",
+    "object_id": "ep_2320f75e985fd6e4",
+    "relation_type": "precedes",
+    "reason": "情节'尝试播放唱片失败并转向收音机'中，小四和小猫发现设备故障并提议改用收音机，这直接触发了后续'小猫修理设备并获取工具支持'的情节。相关事件序列显示，设备故障的确认先于修理行为的开始，且两个情节共享同一场景(scene_34)中的连续动作，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_deb85bdefecc",
+    "subject_id": "ep_6ed8307f61700619",
+    "object_id": "ep_844fdf9375b3ee2e",
+    "relation_type": "precedes",
+    "reason": "叶子带人进场并挑战翻本发生在小四二哥准备击球之前，文本中叶子先带人进入并提出翻本，随后在击球过程中才出现安抚和鼓励的行为，叙事顺序明确。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d9060f7e24e5",
+    "subject_id": "ep_034af35f3c781744",
+    "object_id": "ep_41a3d8acb664941a",
+    "relation_type": "precedes",
+    "reason": "女演员与导演起争执后离开，随后导演发泄怒气并决定启用新人，两个情节发生在同一场景（scene_28）中，且事件顺序明确：争执先发生，导演后续行为紧随其后。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_224037fef617",
+    "subject_id": "ep_f900da68a5979831",
+    "object_id": "ep_713bd8028f4c7980",
+    "relation_type": "precedes",
+    "reason": "开启购物与日常对话是中性互动，建立初始场景和人物关系，而因子女比较引发争执升级则是后续情绪失控和关系恶化的结果。根据描述，前者在叙事顺序上早于后者，且两者均发生在同一场景（scene_49）中，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e5c38a41d1ee",
+    "subject_id": "ep_d0a28732623cd288",
+    "object_id": "ep_f7e0ee054a02a423",
+    "relation_type": "precedes",
+    "reason": "根据相关事件均发生在scene_47且描述中茶具互动先于主任质疑小四品行的画外音，叙事顺序上茶具互动暴露主任情绪与权力姿态发生在前，随后主任借质疑小四品行贬低其立场，文本支持明确的时间先后关系。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_be4d8e1c3b36",
+    "subject_id": "ep_335f4b21e98d5d00",
+    "object_id": "ep_09c25a4f3d94bf82",
+    "relation_type": "precedes",
+    "reason": "大姐回家引发家庭互动（包括吹口哨、拉妈妈跳舞等）发生在小四到家后被大姐叫住之前，根据相关事件的时间顺序，大姐先进入家中并引发互动，随后才叫住小四，因此该关系在叙事顺序上明确支持。",
+    "source_documents": [
+      "scene_42_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_54779e7049fe",
+    "subject_id": "ep_844fdf9375b3ee2e",
+    "object_id": "ep_ac873d0b279801f6",
+    "relation_type": "precedes",
+    "reason": "叶子安抚小四二哥并鼓励持续捞本发生在小四二哥首次击球得分之前，文本描述中安抚和鼓励行为出现在击球准备阶段，而击球得分及评价标志着赌局正式展开，具有明确的叙事时序先后。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7d59962ce2ee",
+    "subject_id": "ep_5c1017275c7737d9",
+    "object_id": "ep_da4eeb022bed72b4",
+    "relation_type": "precedes",
+    "reason": "在'应对老板娘的现场视察'中，导演提议尝试古装后，紧接着进入'引导小明进入情绪状态'的情节，场记开始引导小明表演情绪并完成拍摄。两个情节均发生在scene_45，但事件序列显示老板娘视察及相关调整先发生，之后才进行情绪引导和拍摄，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_292001f6e8f7",
+    "subject_id": "ep_946849191ce88ab8",
+    "object_id": "ep_28eca7bdd38feb40",
+    "relation_type": "precedes",
+    "reason": "根据描述，'质问小虎并施加警告' 中滑头主动质问小虎并施加心理压力，发生在小虎激化冲突并动手推搡之前。两个情节均发生在 scene_36 且共享同一场合 '篮球队成员对滑头的围攻'，但质问行为在叙事逻辑和动作发展上先于推搡行为，构成明确的时间顺序。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ac44d492024f",
+    "subject_id": "ep_856626c1ed9c1690",
+    "object_id": "ep_f7e0ee054a02a423",
+    "relation_type": "elaborates",
+    "reason": "主任以规定和宽大处理为由推卸责任这一情节，通过制度性理由回避问题；而主任借质疑小四品行贬低其立场则是进一步从个体道德层面削弱抗议正当性。后者在话语策略上扩展了前者，共同构建对处罚决定的辩护，因此前者被后者补充和深化。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_068ecd5ee5e1",
+    "subject_id": "ep_713bd8028f4c7980",
+    "object_id": "ep_a76841ca8aa8d229",
+    "relation_type": "precedes",
+    "reason": "根据描述，争执升级发生在小四情绪激动欲动手之前，而制止冲突并带离现场是在争执顶点时发生的后续行为。related_events 显示两个情节均发生在 scene_49，且事件顺序为先有争执升级，后有制止与带离，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_84bf668d6261",
+    "subject_id": "ep_e51bc6f349dfca2a",
+    "object_id": "ep_956ba579b7137e04",
+    "relation_type": "contrasts_with",
+    "reason": "发表毕业感言并宣布义诊计划展现的是毕业生的积极情感和奉献承诺，而台下学生反应毕业演讲则显示听众的冷漠和无聊，两者在情感基调和参与度上形成明显对比，文本通过并置突出这种反差。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5d765645747e",
+    "subject_id": "ep_72b8dda710bf7b5d",
+    "object_id": "ep_92beb291d331c234",
+    "relation_type": "precedes",
+    "reason": "小猫被指认并进入问责现场发生在戏班男人发表串门比喻之前，根据场景15中的叙事顺序，指认和定位小猫是对话展开的前提，随后才出现戏班男人的回应及成人发笑的情节。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_823f25b30137",
+    "subject_id": "ep_335f4b21e98d5d00",
+    "object_id": "ep_f1970d28c1af690e",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_42，且‘大姐回家引发家庭互动’中的事件（如大姐跳舞、妈妈回忆过去）在叙述顺序上先于‘询问二姐课外活动对学业的影响’。文本中妈妈在互动结束后走回桌前批改作业，随后才询问二姐功课，表明时间上的先后顺序。",
+    "source_documents": [
+      "scene_42_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0364d70ff266",
+    "subject_id": "ep_4264cc03ae3e2cea",
+    "object_id": "ep_d44b7740c541dfee",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_8，但'围绕内裤颜色打赌并引发嘲笑'中的事件（如三角裤提出打赌、协商赌注、被嘲笑）在叙事顺序上早于'飞机登场并戏弄三角裤'中的事件（如飞机接过手电筒、照射三角裤、引发新一轮起哄）。文本中肉弹和小四的嘲笑先发生，随后飞机才介入并引发新的群体反应，表明前者在话语顺序上直接先于后者。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_8_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1d5b011a590e",
+    "subject_id": "ep_8650784c6c8c3ba5",
+    "object_id": "ep_1465f89ad277ffa4",
+    "relation_type": "precedes",
+    "reason": "小明与方太太带病人就医发生在处理医疗费用与居住情况说明之前，因为病人需先被安置在医疗场景中，随后才进行地址核对和费用交涉，且两个情节均发生在同一场景（scene_44）中，叙事顺序支持前者先于后者。",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7b7470d99595",
+    "subject_id": "ep_d10d922cc308bab9",
+    "object_id": "ep_ce359c17d8bb3f6d",
+    "relation_type": "precedes",
+    "reason": "追查母亲手表的下落发生在大姐发现手表失踪并质问小四，而执行手表赎回任务是在确定需要赎回后由大姐交给二哥钱并离开。叙事顺序上，追查行为在赎回任务执行之前，且两个情节共享同一场景（scene_43）和文档（doc_42），支持时间上的先后关系。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6eb11cfb37e4",
+    "subject_id": "ep_a92dd0a1e4dd5f0a",
+    "object_id": "ep_b0abc8e7189649aa",
+    "relation_type": "precedes",
+    "reason": "滑头在水龙头边洗脸并抱怨、索要香烟（ep_a92dd0a1e4dd5f0a）发生在同一场景（scene_11）中早于其面对二条的安抚尝试并拒绝（ep_b0abc8e7189649aa），根据事件序列和肢体互动的递进，前者为情绪宣泄的开端，后者为与他人互动的升级，叙事顺序上存在明确先后。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a8af667cd081",
+    "subject_id": "ep_034af35f3c781744",
+    "object_id": "ep_407056421b736cbb",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_28，但第一个情节涉及女演员告知无法参与拍摄及由此引发的初步争执，第二个情节聚焦于妆容与表演的进一步争执，叙事上呈现递进顺序，前者为后者提供上下文，且争执主题从拍摄安排转向艺术表现，表明时间或话语顺序上的先后。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a2ca4f7b5d72",
+    "subject_id": "ep_f900da68a5979831",
+    "object_id": "ep_a76841ca8aa8d229",
+    "relation_type": "precedes",
+    "reason": "情节'开启购物与日常对话'描述了小四和父亲初到杂货铺、进行中性互动的初始场景，而'制止冲突并带离现场'发生在争执升级之后，明确在叙事顺序上晚于前者。两个情节共享同一文档和场景（scene_49），且事件发展逻辑清晰：从日常对话到冲突爆发再到被制止离开，具有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3e75d38995a2",
+    "subject_id": "ep_713bd8028f4c7980",
+    "object_id": "ep_42cfcc33d83670a6",
+    "relation_type": "precedes",
+    "reason": "根据描述，'因子女比较引发争执升级' 是争端恶化和情绪失控的起始点，而 '家人干预以平息争吵' 是在胖叔情绪失控后其妻子和女儿出面劝阻的后续行为。related_events 中两者均发生在 scene_49，但干预行为是对争吵升级的反应，因此在叙事顺序上，争吵升级发生在前，家人干预紧随其后。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_24dced9a4486",
+    "subject_id": "ep_72b8dda710bf7b5d",
+    "object_id": "ep_0438d479befc70b4",
+    "relation_type": "precedes",
+    "reason": "小猫被指认并进入问责现场（ep_72b8dda710bf7b5d）包含小猫进入办公室和被指认的事件，随后教师才介入并说明事件背景（ep_0438d479befc70b4），在问责谈话的同一场合中，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5535905e01c5",
+    "subject_id": "ep_c21eac9b92f2db0c",
+    "object_id": "ep_4738d5a113db8de8",
+    "relation_type": "precedes",
+    "reason": "根据描述，大姐购物并请求送货与胖叔被妻子责备喝酒均发生在scene_19，但大姐购物是引发胖叔拒绝送货的前置行为，而责备饮酒紧随其后，叙事顺序上购物情节在前，饮酒责备在后，因此ep_c21eac9b92f2db0c在话语顺序上早于ep_4738d5a113db8de8。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_97dc5325315a",
+    "subject_id": "ep_f3444c41462d87bc",
+    "object_id": "ep_b2975ecd83ee1e1a",
+    "relation_type": "precedes",
+    "reason": "滑头入场引发二条情绪反应（ep_f3444c41462d87bc）中，二条注意到滑头后离开表演现场，为后续冲突埋下伏笔；随后在二条与滑头爆发激烈冲突（ep_b2975ecd83ee1e1a）中，两人发生直接对峙。两个情节共享同一场合（小公园内的演唱聚会），且描述中‘为后续冲突埋下伏笔’明确支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8337c04cfc23",
+    "subject_id": "ep_407056421b736cbb",
+    "object_id": "ep_41a3d8acb664941a",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述导演与女演员在场景28中爆发争执，随后女演员离开；第二个情节描述导演在女演员离开后生气离席、追骂，并在门口发现小明产生启用新人的想法。两个情节共享同一场景编号（scene_28），但第二个情节中的动作（离席、追骂、与小明交谈）在叙事顺序上紧随第一个情节的冲突之后，表明时间上的先后关系。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c6bcc753a018",
+    "subject_id": "ep_6934225a51be4b2a",
+    "object_id": "ep_92beb291d331c234",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述训导主任和戏班男人讨论管理责任与教育理念，建立问责语境；第二个情节中戏班男人以片场串门比喻回应学校不关门现象，引发笑声，缓解紧张。该比喻在相同场合（训导处办公室的问责谈话）中延续并软化前一情节的严肃基调，提供社会互动层面的补充细节，从而扩展了主体情节的语用背景。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_846274422ea6",
+    "subject_id": "ep_754bf10daaf73802",
+    "object_id": "ep_9475ec08fbd3f310",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均发生在同一课堂场合（课堂问答与惩罚事件），老师对小猫和小四分别施加惩罚，但触发行为不同：小猫因表现出对‘我’字的兴趣而被惩罚书写，小四因被怀疑开汽水而被质问并罚站。两者并置突显了教师权威的任意性与学生被动服从的共性，但在行为动机与惩罚形式上形成对比，体现对不同学生行为的相似权力施加模式。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5b9da56f1209",
+    "subject_id": "ep_754bf10daaf73802",
+    "object_id": "ep_8801dfc6b33af132",
+    "relation_type": "precedes",
+    "reason": "根据相关事件和场合信息，'惩罚小猫书写“我”字'发生在课堂问答与惩罚事件（scene_39）中，且其相关事件包括小猫开始写第二个'我'字，而'继续课堂教学翻页'发生在处理小四的汽水事件之后，老师命令翻页以恢复教学秩序。两个情节共享同一场合，但文本暗示小猫书写惩罚先发生，随后老师转向课程内容，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_708931bb4877",
+    "subject_id": "ep_448a8be2e4f15342",
+    "object_id": "ep_7d7bd9853b32ee6e",
+    "relation_type": "precedes",
+    "reason": "飞机借表白转移话题并趁机拿走物品发生在红豆冰发现后要求归还之前，叙事顺序上明确先有拿走物品的行为，再有要求归还和阻止拆解的反应。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_93b60c54ce90",
+    "subject_id": "ep_64ba06939b37ff00",
+    "object_id": "ep_bc537ee6c9709119",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'回应情绪变化并尝试挽留' 发生在场景29，而 '小四提议搭车并揭示共同路线' 发生在场景31，文档中场景编号递增表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_78437180f4f7",
+    "subject_id": "ep_7eec17d02f3a25cc",
+    "object_id": "ep_bc537ee6c9709119",
+    "relation_type": "precedes",
+    "reason": "情节 '小四陪伴小明前行并表达关切' 发生在场景27，而 '小四提议搭车并揭示共同路线' 发生在场景31，文档中场景编号的顺序表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_43586eefbadf",
+    "subject_id": "ep_70d2a641450eb01a",
+    "object_id": "ep_bc537ee6c9709119",
+    "relation_type": "precedes",
+    "reason": "小四和小明结束偷看后离开影棚发生在小四提议搭车并揭示共同路线之前，根据叙事顺序，二人先离开影棚区域，随后在回家途中发生搭车提议的情节，时间顺序明确。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_700a4726e605",
+    "subject_id": "ep_fa087914b3d2db05",
+    "object_id": "ep_bc537ee6c9709119",
+    "relation_type": "precedes",
+    "reason": "开启对话并交换住处信息发生在小四提议搭车并揭示共同路线之前，因为小四首先询问小明是否住在小公园附近（scene_29），之后才在scene_31中提出搭车并透露自己也要去小公园。叙事顺序和相关事件的时间戳支持这一先后关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_61fa23e70e82",
+    "subject_id": "ep_03b6af6ffb9d72ff",
+    "object_id": "ep_39d10a36886f2c35",
+    "relation_type": "precedes",
+    "reason": "根据描述，'离开影棚并讨论同行顾虑' 发生在小明和小四从影棚走出时，而 '小明离开后小四的反应' 发生在小明拒绝搭车并离开之后，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_947d362594c8",
+    "subject_id": "ep_24b9812c09ad0027",
+    "object_id": "ep_0e56e8123c2af7b2",
+    "relation_type": "precedes",
+    "reason": "揭露作弊并施加处罚发生在小四辩解并反抗不公指控之前，因为老师先发现作弊并宣布记过，随后小四才进行辩解和反抗。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6df51718fedf",
+    "subject_id": "ep_64ba06939b37ff00",
+    "object_id": "ep_39d10a36886f2c35",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'回应情绪变化并尝试挽留'（scene_29）发生在'小明离开后小四的反应'（scene_31）之前，scene_29在文档中早于scene_31，因此该关系在叙事顺序上有较强支持。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_adf43a8cefb2",
+    "subject_id": "ep_03b6af6ffb9d72ff",
+    "object_id": "ep_bc537ee6c9709119",
+    "relation_type": "precedes",
+    "reason": "根据描述，'离开影棚并讨论同行顾虑' 发生在影棚外刚离开时，而 '小四提议搭车并揭示共同路线' 紧随其后，涉及回家路线的对话，逻辑上和叙事顺序上前者先发生，后者为后续发展，因此主体情节在时间顺序上早于客体情节。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0f0cbe8a6422",
+    "subject_id": "ep_0e56e8123c2af7b2",
+    "object_id": "ep_4c1aeeceb704353d",
+    "relation_type": "precedes",
+    "reason": "小四辩解并反抗不公指控发生在被记过处罚之前，随后小四和滑头情绪低落地离开办公室，叙事顺序明确显示前者在后者之前。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_883a91eb18eb",
+    "subject_id": "ep_3ef28e588fead705",
+    "object_id": "ep_81769f257fa0fe1d",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在电视播报录取名单的场景3，涉及小四食用红豆冰等日常互动；客体情节发生在场景48，小四表达对社会不公的忧虑。根据相关事件的场景编号，情节3早于情节48，因此主体情节在叙事顺序上先于客体情节。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a0c2cb21bd68",
+    "subject_id": "ep_c03222e46e960ab2",
+    "object_id": "ep_4c1aeeceb704353d",
+    "relation_type": "precedes",
+    "reason": "滑头质问小四并引发冲突发生在学生被处罚后离开办公室之前，因为冲突是导致处罚的情节前提，且叙事上先有冲突，后有处罚及离开办公室的结果。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_023108af20e0",
+    "subject_id": "ep_12b42bda41179fd1",
+    "object_id": "ep_39d10a36886f2c35",
+    "relation_type": "precedes",
+    "reason": "根据描述，'小明质问小四回避行为' 发生在两人互动过程中，而 '小明离开后小四的反应' 明确以小明离开为前提，表明前者在叙事顺序上早于后者。related_events 中的 scene_40（质问场景）早于 scene_31（离开与发愣场景）也支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_81fe9164c5b9",
+    "subject_id": "ep_3ef28e588fead705",
+    "object_id": "ep_a76841ca8aa8d229",
+    "relation_type": "precedes",
+    "reason": "处理家庭日常与短暂互动（ep_3ef28e588fead705）发生在电视播报录取名单的场景3，而制止冲突并带离现场（ep_a76841ca8aa8d229）发生在场景49，场景编号的递增表明前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_69310f7e29e0",
+    "subject_id": "ep_0e56e8123c2af7b2",
+    "object_id": "ep_72da70ca1c40495e",
+    "relation_type": "precedes",
+    "reason": "小四辩解并反抗不公指控的情节发生在主任介入并平息冲突之前。根据描述，小四与老师和主任的冲突在先，随后主任赶到现场处理局势，叙事顺序明确支持该关系。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4acb2ad2bed2",
+    "subject_id": "ep_3ef28e588fead705",
+    "object_id": "ep_628813d800810428",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在电视播报录取名单的场合下，小四在店内吃红豆冰，属于场景3；第二个情节是小四和父亲推自行车回家并展开对话，属于场景48，文档中场景编号递增表明叙事顺序上前者早于后者。因此，'处理家庭日常与短暂互动'在叙事顺序上先于'开始回家并展开对话'。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f5aba40a27e1",
+    "subject_id": "ep_7eec17d02f3a25cc",
+    "object_id": "ep_39d10a36886f2c35",
+    "relation_type": "precedes",
+    "reason": "根据描述，小四陪伴小明前行并表达关切（ep_7eec17d02f3a25cc）发生在小明离开后小四的反应（ep_39d10a36886f2c35）之前，因为前者涉及小四在小明行走困难时的互动，而后者明确是小明拒绝搭车并离开后小四的反应，叙事顺序上具有明确的先后关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_647154d05515",
+    "subject_id": "ep_24b9812c09ad0027",
+    "object_id": "ep_72da70ca1c40495e",
+    "relation_type": "precedes",
+    "reason": "情节'揭露作弊并施加处罚'发生在教室场景中，老师当场宣布记过处分，直接引发冲突升级；随后'主任介入并平息冲突'描述主任到达现场处理已发生的冲突，包含滑头伪装玩笑和小四交出球棒等行为。根据叙事顺序，处罚事件在前，主任介入在后，且后者明显响应前者引发的冲突状态。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_17d842d502f7",
+    "subject_id": "ep_50666b2bbf1a08bd",
+    "object_id": "ep_4c1aeeceb704353d",
+    "relation_type": "precedes",
+    "reason": "滑头因抄写被拒而暴力袭击小四这一情节发生在学生被处罚后离开办公室之前，因为袭击事件导致冲突升级，进而引发对小四和滑头的处罚，随后他们离开办公室。叙事顺序上，暴力事件是处罚和离开的直接前因，时间线上明确先后。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0085c7f8352d",
+    "subject_id": "ep_24b9812c09ad0027",
+    "object_id": "ep_823b2646c21fc6eb",
+    "relation_type": "precedes",
+    "reason": "情节'揭露作弊并施加处罚'中老师当场宣布记过处分，是冲突的升级点，而'冲突结束后小四与滑头各自离开'描述的是主任处理完毕后的离场行为，表明事件已进入收尾阶段。因此，'揭露作弊并施加处罚'在叙事顺序上明显早于'冲突结束后小四与滑头各自离开'。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cec0e9d07e9a",
+    "subject_id": "ep_72da70ca1c40495e",
+    "object_id": "ep_4c1aeeceb704353d",
+    "relation_type": "precedes",
+    "reason": "主任介入并平息冲突后，小四和滑头被处罚并离开办公室。根据描述，主任处理冲突是该事件的中间阶段，随后才发生学生被处罚后离开办公室，因此前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a911e876a434",
+    "subject_id": "ep_78c04dac3a1fa18d",
+    "object_id": "ep_dea9911b713f6e55",
+    "relation_type": "precedes",
+    "reason": "女医生为小四完成注射发生在小四排队之后，而女医生管理打针秩序并分发药物包括点名呼叫王俊明和发药给其他学生，表明秩序管理和分发药物是持续性活动，注射完成应在管理秩序的流程中较后阶段。因此，主体情节在叙事时序上晚于客体情节，故关系为客体 precedes 主体。但由于输入中主体为注射完成、客体为秩序管理，管理秩序在流程上先于具体执行注射，故主体在时间上后于客体，支持 'precedes' 关系从客体到主体，但输出需以 subject -> object 方向判断。由于描述中注射是排队后的步骤，而管理秩序包括叫号和发药，属于前期流程，因此主体情节（注射完成）应在客体情节（管理秩序）之后发生，故主体 precedes 客体不成立。反向即客体 precedes 主体成立，但输出关系方向必须基于 subject -> object。由于无法从文本中明确得出主体在客体之前，且相反证据更强，故不能支持 subject precedes object。因此，无足够支持任一有向关系，输出 NONE。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0fbff205d0bb",
+    "subject_id": "ep_12b42bda41179fd1",
+    "object_id": "ep_a8dded3ebc77aa5b",
+    "relation_type": "contrasts_with",
+    "reason": "小明质问小四回避行为揭示了两人关系的紧张，而展开轻松对话并互动则表现出两人在草原上的亲密自然氛围，两个情节在情感基调和互动状态上形成明显对比。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b78af39d2047",
+    "subject_id": "ep_86401b2ef0e643eb",
+    "object_id": "ep_b2975ecd83ee1e1a",
+    "relation_type": "precedes",
+    "reason": "滑头自卫并下令小翠撤离发生在二条与滑头爆发激烈冲突之后的叙事顺序中。根据描述，二条先冲入房间推开关滑头并发生言语对峙（冲突升级），随后滑头拿起锅盖防护并命令小翠离开，表明前者触发了后者的防御反应。因此，从事件序列看，'二条与滑头爆发激烈冲突'在先，'滑头自卫并下令小翠撤离'在后，故主体情节在时间上晚于客体情节，关系为客体 precedes 主体。但由于关系方向以 subject -> object 为向，此处应判断是否为 subject precedes object。实际顺序是 object 发生在 subject 之前，因此正确方向应为 object precedes subject，而 subject 并不 precedes object，故不能成立。重新评估：若将主体视为后发事件，则它并不在客体之前，也不直接导致、对比或扩展客体。无足够证据支持 causes、contrasts_with 或 elaborates。因此，尽管存在时间先后，但方向相反且无反向模式支持，不能构成 precedes（subject -> object）。最终，无符合方向和证据的关系类型，输出 NONE。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_47a7dbf21b70",
+    "subject_id": "ep_64ba06939b37ff00",
+    "object_id": "ep_a8dded3ebc77aa5b",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节描述小明表达顾虑后小四不悦并试图挽留，体现关系张力下的情绪波动；第二个情节则展现两人在草原上轻松自然地互动，气氛亲密愉快。两个情节在情感基调上形成明显对比：前者紧张、充满不确定性，后者放松、亲密，文本通过状态的逆转强调情感动态的变化。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6a9b80ec45d9",
+    "subject_id": "ep_70d2a641450eb01a",
+    "object_id": "ep_fa087914b3d2db05",
+    "relation_type": "precedes",
+    "reason": "小四和小明结束偷看后离开影棚的情节发生在小明从摄影棚走出后小四主动发起对话之前。根据描述，二人先离开影棚，随后小四才开启对话，具有明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aac5bef4626c",
+    "subject_id": "ep_39d10a36886f2c35",
+    "object_id": "ep_3a732e7a76f8a040",
+    "relation_type": "precedes",
+    "reason": "根据描述，'小明离开后小四的反应'发生在小明头也不回地离开之后，而'确认试镜观看安排并结束对话'包含小明从小四身后出现并转身离开的事件，表明前者紧接在后者中的离开动作之后。因此，从叙事顺序看，'确认试镜观看安排并结束对话'在时间上先于'小明离开后小四的反应'。由于关系模式中precedes为有向关系，且object事件中的离开行为触发subject事件中的反应，故关系方向为object -> subject，但precedes要求A precedes B表示A在B之前，因此应为ep_3a732e7a76f8a040 precedes ep_39d10a36886f2c35。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5f48dda0c8ab",
+    "subject_id": "ep_fa087914b3d2db05",
+    "object_id": "ep_3a732e7a76f8a040",
+    "relation_type": "precedes",
+    "reason": "情节 '开启对话并交换住处信息' 发生在 '确认试镜观看安排并结束对话' 之前，依据是前者涉及小明从摄影棚走出后两人开启交流，而后者涉及对第二天试镜的安排确认及随后的离别行为，叙事时间顺序明确。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5e50e752d351",
+    "subject_id": "ep_fa087914b3d2db05",
+    "object_id": "ep_a8dded3ebc77aa5b",
+    "relation_type": "precedes",
+    "reason": "情节 '开启对话并交换住处信息' 描述了小四主动发起对话，询问小明的住处，标志着两人交流的开始；而 '展开轻松对话并互动' 描述了两人在草原上进一步的亲密互动，气氛更放松自然，表明交流已深入。根据叙事顺序，开启对话应在轻松互动之前，且两个情节共享同一对角色和递进的互动层次，支持前者在时间顺序上先于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_58be4967068d",
+    "subject_id": "ep_62b5401cf61aba61",
+    "object_id": "ep_fa087914b3d2db05",
+    "relation_type": "precedes",
+    "reason": "小明在影棚内行走并接受照明协助的情节（ep_62b5401cf61aba61）发生在影棚场景内，而小四主动开启对话的情节（ep_fa087914b3d2db05）始于小明从摄影棚走出之后。根据相关事件的时间顺序，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fbc848d9b143",
+    "subject_id": "ep_960503558c76f4d9",
+    "object_id": "ep_86401b2ef0e643eb",
+    "relation_type": "precedes",
+    "reason": "二条试图攻击滑头并被制止的情节在叙事顺序上紧随滑头自卫并下令小翠撤离之后。根据事件描述，滑头的防护和命令发生在攻击意图出现之前，因此二条的攻击行为在时间上后于滑头的防御决策，支持'precedes'关系从二条的攻击意图到滑头的自卫命令的反向不成立；实际顺序是滑头反应在先，二条行动在后，故主体ep_960503558c76f4d9（二条试图攻击）在时间上应晚于客体ep_86401b2ef0e643eb（滑头自卫并下令撤离），但描述中显示攻击行为触发了防护反应，因此时间顺序存在矛盾。重新分析：滑头拿起锅盖防护并命令小翠离开是对二条攻击意图的反应，说明二条的行为（假装离开后突袭）在先，滑头反应在后。因此，ep_960503558c76f4d9（二条试图攻击）在叙事上先于ep_86401b2ef0e643eb（滑头自卫并下令撤离），故关系应为ep_960503558c76f4d9 precedes ep_86401b2ef0e643eb。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dc191a874452",
+    "subject_id": "ep_64ba06939b37ff00",
+    "object_id": "ep_8e9168ce0a68e3df",
+    "relation_type": "precedes",
+    "reason": "根据描述，'回应情绪变化并尝试挽留' 发生在小明询问小四是否要回去的场景中（scene_29），而 '小明提议转移谈话地点' 发生在后续场景（scene_40）。scene_29 在叙事顺序上早于 scene_40，因此该关系为 'precedes'，即主体情节在客体情节之前发生。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ebb223c5f0ca",
+    "subject_id": "ep_12b42bda41179fd1",
+    "object_id": "ep_fa087914b3d2db05",
+    "relation_type": "precedes",
+    "reason": "根据描述，'开启对话并交换住处信息'（ep_fa087914b3d2db05）是小四主动发起对话的初始互动场景，而'小明质问小四回避行为'（ep_12b42bda41179fd1）发生在后续，反映两人关系的紧张升级。因此，'开启对话'在叙事顺序上早于'质问回避行为'，构成 precedes 关系。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_42b0a9068872",
+    "subject_id": "ep_fa087914b3d2db05",
+    "object_id": "ep_03b6af6ffb9d72ff",
+    "relation_type": "precedes",
+    "reason": "根据描述，'开启对话并交换住处信息'发生在小明和小四刚从影棚走出时，小四主动询问住处，开启了交流；而'离开影棚并讨论同行顾虑'则是在此之后进一步的对话，涉及更深层的顾虑。两个情节共享连续的场景（scene_41 和 scene_29 均为走出影棚后的互动），且叙事顺序上前者为后者提供了对话起点，因此主体情节在时间与话语顺序上先于客体情节。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9edbcb164239",
+    "subject_id": "ep_f74c598f8e1a3e64",
+    "object_id": "ep_9dfe6334351658f6",
+    "relation_type": "precedes",
+    "reason": "情节 '小四和小猫偷看片场引发骚乱' 描述了书本掉落导致女演员受惊，暴露了二人的存在，这一事件直接引发了后续在训导处办公室的问责谈话，即 '学生否认指控并提供证词'。根据叙事顺序，偷看片场并引发骚乱发生在先，随后才是被质问和作证，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b55279bbbcb0",
+    "subject_id": "ep_12b42bda41179fd1",
+    "object_id": "ep_64ba06939b37ff00",
+    "relation_type": "precedes",
+    "reason": "主体情节'小明质问小四回避行为'发生在场景40，而客体情节'回应情绪变化并尝试挽留'发生在场景29，尽管场景编号顺序相反，但根据描述，小明的质问引发小四的情绪反应和离开行为，随后小明试图挽留，表明事件逻辑顺序上质问先于回应与挽留尝试。然而场景编号不一致可能暗示文档顺序问题，但基于叙事连贯性推断，质问行为在前，回应情绪变化在后，因此支持precedes关系。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_94e79ebc7234",
+    "subject_id": "ep_47b56e4432a76024",
+    "object_id": "ep_9dfe6334351658f6",
+    "relation_type": "precedes",
+    "reason": "情节 '小四和小猫被追赶并被抓包' 描述了两人被发现并被抓捕的过程，紧随其后的是在训导处办公室的问责谈话，即 '学生否认指控并提供证词'。相关事件的时间顺序和场景编号（scene_4 到 scene_15）支持前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eb2dfdabbb37",
+    "subject_id": "ep_b133f730b1e1a77c",
+    "object_id": "ep_d778ad80cd302dc3",
+    "relation_type": "precedes",
+    "reason": "小四出门借书并获叮嘱发生在小妹等待并进入卫生间的事件之前，因为小四在被父亲叮嘱后出门，随后在小妹使用卫生间前从卫生间出来并抱怨被打扰，表明他出门前曾使用卫生间。叙事顺序和事件依赖支持该时间先后关系。",
+    "source_documents": [
+      "scene_49__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_478513d5eee9",
+    "subject_id": "ep_03b6af6ffb9d72ff",
+    "object_id": "ep_64ba06939b37ff00",
+    "relation_type": "precedes",
+    "reason": "主体情节'离开影棚并讨论同行顾虑'中，小明和小四刚从影棚走出并开始对话，提及彼此的顾虑；客体情节'回应情绪变化并尝试挽留'中，小四因对话内容表现出不悦并向前走，小明试图挽留。两个情节共享连续的场景（scene_41 和 scene_29 可能为同一连续场景的细分），且情绪发展呈现时间上的先后顺序：先有顾虑表达，后有情绪反应与挽留尝试。因此，主体情节在叙事顺序上直接早于客体情节。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f12f21e06ae7",
+    "subject_id": "ep_628813d800810428",
+    "object_id": "ep_a76841ca8aa8d229",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'开始回家并展开对话'发生在场景48，而'制止冲突并带离现场'发生在场景49，且父子对话后情绪逐渐升级至冲突顶点，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5e6d9b1862d7",
+    "subject_id": "ep_c03222e46e960ab2",
+    "object_id": "ep_eb738e91555bb6d7",
+    "relation_type": "precedes",
+    "reason": "滑头质问小四并引发冲突（scene_16）发生在教室考试场合，而小四夺棒反抗滑头的挑衅（scene_17）发生在后续场景，相关事件的时间顺序表明前者在叙事上早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2df10d9900f8",
+    "subject_id": "ep_81769f257fa0fe1d",
+    "object_id": "ep_a76841ca8aa8d229",
+    "relation_type": "precedes",
+    "reason": "小四表达对社会不公的忧虑发生在杂货铺争执升级之前，其情绪波动为后续冲突埋下伏笔；根据相关事件的时间顺序（scene_48 在 scene_49 之前），该情节在叙事顺序上明确早于制止冲突并带离现场。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e55e34b89c93",
+    "subject_id": "ep_39d10a36886f2c35",
+    "object_id": "ep_fa087914b3d2db05",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'开启对话并交换住处信息'（发生在小明从摄影棚走出后）在叙事上早于'小明离开后小四的反应'（发生在小明拒绝搭车并离开之后），因此主体情节在时间上晚于客体情节，关系为客体 precedes 主体。但由于关系方向由subject->object定义，此处应为object->subject，故在subject->object方向上不成立；然而，若将顺序倒置，则支持precedes关系。基于叙事流和事件依赖，'开启对话'是后续'离开与反应'的前提，因此'小明离开后小四的反应'在时间上后于'开启对话'，即ep_fa087914b3d2db05 precedes ep_39d10a36886f2c35。但由于输入中subject是ep_39d10a36886f2c35，object是ep_fa087914b3d2db05，即要求判断ep_39d10a36886f2c35 -> ep_fa087914b3d2db05的关系，这与实际时间顺序相反，因此不能成立precedes。综上，正确的时间顺序是客体 precedes 主体，但关系方向与输入顺序相反，故不能输出precedes。无其他明确支持的关系类型，因此输出NONE。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_52e449f76085",
+    "subject_id": "ep_f7e7812a92b10cdc",
+    "object_id": "ep_4859d0620b089c33",
+    "relation_type": "precedes",
+    "reason": "小明叫住小四并开启对话是两人开始交流的起点，随后才发展出邀请参加试镜的内容，因此该情节在叙事顺序上早于小明邀请小四参加试镜。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_31753b751767",
+    "subject_id": "ep_eb27ae674636a12e",
+    "object_id": "ep_a76841ca8aa8d229",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，父亲劝导小四发生在争执升级之前，劝导场景（scene_48）在文档中早于制止冲突事件（scene_49），因此‘父亲劝导小四坚定人生信念’在叙事顺序上先于‘制止冲突并带离现场’。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ae2770526df4",
+    "subject_id": "ep_f7e7812a92b10cdc",
+    "object_id": "ep_8e9168ce0a68e3df",
+    "relation_type": "precedes",
+    "reason": "小明叫住小四并开启对话发生在小明提议转移谈话地点之前，因为对话开始后才可能提议更换谈话地点，且两个情节共享同一场景（scene_40），时间顺序上具有明确的先后关系。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_73ee199a9670",
+    "subject_id": "ep_f7e7812a92b10cdc",
+    "object_id": "ep_12b42bda41179fd1",
+    "relation_type": "precedes",
+    "reason": "小明叫住小四并开启对话是两人开始交谈的起点，随后在该互动中发展出小明质问小四回避行为的情节。根据描述，对话的建立在先，质问内容发生在后，具有明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_89d52f297280",
+    "subject_id": "ep_f7e7812a92b10cdc",
+    "object_id": "ep_03b6af6ffb9d72ff",
+    "relation_type": "precedes",
+    "reason": "小明叫住小四并开启对话发生在影棚外对话之前，根据相关事件的时间顺序，scene_40（呼叫和自行车到达）在scene_41（离开影棚并讨论顾虑）之前，因此该情节在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_21a17b3c50b6",
+    "subject_id": "ep_c03222e46e960ab2",
+    "object_id": "ep_823b2646c21fc6eb",
+    "relation_type": "precedes",
+    "reason": "滑头质问小四并引发冲突（ep_c03222e46e960ab2）发生在主任处理冲突之前，而冲突结束后小四与滑头各自离开（ep_823b2646c21fc6eb）是该事件的后续结果，叙事顺序明确，前者在时间上早于后者。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f89d5dfcfaaa",
+    "subject_id": "ep_4859d0620b089c33",
+    "object_id": "ep_03b6af6ffb9d72ff",
+    "relation_type": "precedes",
+    "reason": "小明邀请小四参加试镜发生在两人从影棚走出并讨论同行顾虑之前，根据事件描述的逻辑顺序和文档场景编号（scene_40 在 scene_41 之前），该时间顺序得到明确支持。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f8b384f60a11",
+    "subject_id": "ep_4859d0620b089c33",
+    "object_id": "ep_fd86ebcec864b9f2",
+    "relation_type": "precedes",
+    "reason": "小明邀请小四参加试镜在叙事顺序上早于他们潜入影棚并偷看拍戏的行为，因为邀请建立了共同参与的计划，而潜入是该计划的后续行动。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_279b7fabd76b",
+    "subject_id": "ep_12b42bda41179fd1",
+    "object_id": "ep_8e9168ce0a68e3df",
+    "relation_type": "precedes",
+    "reason": "小明质问小四回避行为发生在小明提议转移谈话地点之前，两者均在scene_40中连续发生，质问后小明提议离开，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a57a76bf4764",
+    "subject_id": "ep_f7e7812a92b10cdc",
+    "object_id": "ep_3a732e7a76f8a040",
+    "relation_type": "precedes",
+    "reason": "小明叫住小四并开启对话发生在试镜观看安排的对话之前，根据文档顺序（doc_39 在 doc_40 之前）以及情节内容的自然发展，前者是两人开始交流的起点，后者是交流的延续与结束，具有明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d4a94469f23e",
+    "subject_id": "ep_c03222e46e960ab2",
+    "object_id": "ep_72da70ca1c40495e",
+    "relation_type": "precedes",
+    "reason": "滑头质问小四并引发冲突（ep_c03222e46e960ab2）发生在主任介入并平息冲突（ep_72da70ca1c40495e）之前，根据相关事件的时间顺序和叙事流程，冲突的发生是主任介入的直接前提，且两个情节分别位于scene_16和scene_17，支持明确的先后顺序。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f59d67bd9675",
+    "subject_id": "ep_4859d0620b089c33",
+    "object_id": "ep_62b5401cf61aba61",
+    "relation_type": "precedes",
+    "reason": "小明邀请小四参加试镜发生在两人到达影棚之前，而小明在道具轨道上行走并接受小四照明协助的场景发生在影棚内，属于试镜过程中的行为，因此邀请情节在叙事顺序上早于影棚内的行动情节。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_55f1a77603cb",
+    "subject_id": "ep_c03222e46e960ab2",
+    "object_id": "ep_50666b2bbf1a08bd",
+    "relation_type": "precedes",
+    "reason": "滑头质问小四并引发冲突（ep_c03222e46e960ab2）发生在教室考试场景（scene_16），而滑头因抄写被拒而暴力袭击小四（ep_50666b2bbf1a08bd）发生在后续的scene_17。related_events中的场景编号表明前者在叙事顺序上早于后者，因此支持precedes关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dd99f4defa7c",
+    "subject_id": "ep_12b42bda41179fd1",
+    "object_id": "ep_03b6af6ffb9d72ff",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'小明质问小四回避行为' 发生在 '离开影棚并讨论同行顾虑' 之前。前者相关事件位于 scene_40，后者位于 scene_41，表明叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d1e1fff00483",
+    "subject_id": "ep_12b42bda41179fd1",
+    "object_id": "ep_3a732e7a76f8a040",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'小明质问小四回避行为'发生在场景40，而'确认试镜观看安排并结束对话'发生在场景41，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6a5c99d7bb22",
+    "subject_id": "ep_8e9168ce0a68e3df",
+    "object_id": "ep_62b5401cf61aba61",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'小明提议转移谈话地点' 发生在 scene_40，而 '小明展示谨慎前行并接受照明协助' 发生在 scene_41，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_48823a9e43b1",
+    "subject_id": "ep_8e9168ce0a68e3df",
+    "object_id": "ep_3a732e7a76f8a040",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件流，小明提议转移谈话地点（doc_39）发生在确认试镜观看安排并结束对话（doc_40）之前，且两个情节连续出现在相邻场景中，显示叙事上的先后顺序。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_13a10be5b0ff",
+    "subject_id": "ep_12b42bda41179fd1",
+    "object_id": "ep_62b5401cf61aba61",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节中，小明质问小四的回避行为，揭示两人关系的紧张；而第二个情节中，小四主动用手电为小明照明，表现出关心和默契。两个情节在人物互动的基调上形成明显对比：前者是冲突与疏离，后者是合作与关切，构成情感状态的逆转。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_06f68b53ba98",
+    "subject_id": "ep_4859d0620b089c33",
+    "object_id": "ep_3a732e7a76f8a040",
+    "relation_type": "precedes",
+    "reason": "小明邀请小四参加试镜（ep_4859d0620b089c33）发生在小明确认试镜观看安排并结束对话（ep_3a732e7a76f8a040）之前，根据描述，邀请发生在doc_39，而确认观看安排和离开发生在doc_41，且事件顺序显示邀请在先，后续互动在后，具有明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_772f577d7dc7",
+    "subject_id": "ep_70d2a641450eb01a",
+    "object_id": "ep_8e9168ce0a68e3df",
+    "relation_type": "precedes",
+    "reason": "小四和小明结束偷看后离开影棚的情节描述了他们从影棚区域悄然退出，而小明提议转移谈话地点的情节则涉及他们开始走向远处并继续交谈。根据叙事顺序，结束偷看并离开影棚的行为在提议转移谈话地点之前发生，且后者暗示了新的行动方向，因此前者在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_056df350eb4b",
+    "subject_id": "ep_8e9168ce0a68e3df",
+    "object_id": "ep_03b6af6ffb9d72ff",
+    "relation_type": "precedes",
+    "reason": "小明提议转移谈话地点（ep_8e9168ce0a68e3df）发生在小明和小四从影棚走出并讨论同行顾虑（ep_03b6af6ffb9d72ff）之前，根据相关事件的场景编号（scene_40 在 scene_41 之前），表明该情节在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7056942c117e",
+    "subject_id": "ep_7eec17d02f3a25cc",
+    "object_id": "ep_70d2a641450eb01a",
+    "relation_type": "precedes",
+    "reason": "小四陪伴小明前行并表达关切的情节发生在影棚偷看之后、离开之前，文本中描述小四和小明从影棚区域悄然退出前已有互动；相关事件如小四回头观察小明、小明坚持行走等，表明该情节在叙事顺序上早于他们最终结束偷看并离开影棚的动作。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_158f99e4bee4",
+    "subject_id": "ep_fd86ebcec864b9f2",
+    "object_id": "ep_03b6af6ffb9d72ff",
+    "relation_type": "precedes",
+    "reason": "小四和小明先潜入影棚并偷看拍戏，之后才离开影棚并讨论同行的顾虑。根据事件的时间顺序，潜入和偷看发生在离开并对话之前，因此该关系在叙事顺序上明确支持 'precedes'。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4774d5d29540",
+    "subject_id": "ep_6fca2f7dbe4284c6",
+    "object_id": "ep_72b2e5c12306ba9a",
+    "relation_type": "precedes",
+    "reason": "小四观察外部环境发生在门缝中看到母亲，随后进入准备上学的情节，包括回应大姐、取圆规和出门，叙事顺序上前者紧接后者开始，构成连贯离家前的时间流。",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_54119b7e131c",
+    "subject_id": "ep_70d2a641450eb01a",
+    "object_id": "ep_03b6af6ffb9d72ff",
+    "relation_type": "precedes",
+    "reason": "小四和小明结束偷看后离开影棚（ep_70d2a641450eb01a）发生在他们走出影棚并讨论同行顾虑（ep_03b6af6ffb9d72ff）之前，根据事件顺序，离开偷看现场是物理行动的开始，随后的对话是紧接着的行为，具有紧密的时间连贯性，因此前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_354847100f7a",
+    "subject_id": "ep_b12c6aff434c994c",
+    "object_id": "ep_3a732e7a76f8a040",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，小四询问哈尼是否为小明决斗逃亡（scene_41）发生在小明与小四确认试镜观看安排并结束对话（scene_41）之前，两者在同一场景编号下，但询问决斗传闻为对话的起始部分，随后才转向试镜安排，因此该情节在话语顺序上先于另一情节。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_37c31c6e8e85",
+    "subject_id": "ep_e38763a914f7d166",
+    "object_id": "ep_9dfe6334351658f6",
+    "relation_type": "precedes",
+    "reason": "情节 '响应召唤并组织前往支援滑头' 发生在片场玩耍期间（scene_8），而 '学生否认指控并提供证词' 发生在训导处办公室的问责谈话中（scene_15），scene_8 在叙事顺序上早于 scene_15，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_8_part_1",
+      "scene_8_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f1a2193616c2",
+    "subject_id": "ep_d44b7740c541dfee",
+    "object_id": "ep_86dd2b401184c1b9",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'飞机登场并戏弄三角裤' 发生在 scene_8，而 '小猫和三角裤趁乱偷看并引发逃跑' 发生在 scene_24，scene_8 在叙事顺序上早于 scene_24，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_8_part_1",
+      "scene_8_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ddc8cb19540c",
+    "subject_id": "ep_e38763a914f7d166",
+    "object_id": "ep_f0e5cb5e01ba7da7",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述组织前往支援滑头的行动，而第二个情节揭示该行动的真实动机是去看小本本。第二个情节通过暴露集体隐藏意图，为前一个情节中组织行动的行为提供了额外的心理和动机层面的解释，因此构成对前一情节的扩展说明。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_8_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_07e46b83a84e",
+    "subject_id": "ep_5e9726a50c761556",
+    "object_id": "ep_889c601fa1430f40",
+    "relation_type": "precedes",
+    "reason": "二条在小公园开始演唱发生在小猫被催促后继续演唱之前，两者均属于同一演唱聚会场合，且小猫的接续演唱在叙事顺序上紧随二条的演唱之后，文本支持明确的时间先后顺序。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_82ecbc900029",
+    "subject_id": "ep_e38763a914f7d166",
+    "object_id": "ep_02023a7ccfe14e03",
+    "relation_type": "precedes",
+    "reason": "情节 '响应召唤并组织前往支援滑头' 发生在国校事件被报告之后、小四进入现场之前，而 '小猫阻止小四并揭示冲突起因' 直接涉及对同一事件的后续反应和冲突升级的揭示，叙事顺序上前者早于后者。相关事件的时间和上下文表明，组织支援行动在前，阻止进入并揭示起因在后。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2",
+      "scene_8_part_1",
+      "scene_8_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1cb778ca59d3",
+    "subject_id": "ep_09aafedd38656b62",
+    "object_id": "ep_18ebf8df19901281",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一文档（doc_33）的同一场景（scene_34）中。根据描述，大姐在梳妆台前佩戴手表并询问用餐意向，随后小猫才提着箱子登门并引发后续互动。叙事顺序上，大姐准备外出的行为早于小猫登门求助，因此主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e6ca10577694",
+    "subject_id": "ep_946849191ce88ab8",
+    "object_id": "ep_4a24bc1e3222b3e7",
+    "relation_type": "precedes",
+    "reason": "根据相关场景ID，'质问小虎并施加警告'发生在scene_36，而'围攻滑头并实施暴力'发生在scene_37，scene_36在叙事顺序上早于scene_37，因此该关系为precedes。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f76c43f20f3e",
+    "subject_id": "ep_f3444c41462d87bc",
+    "object_id": "ep_1cdf7df2e8dbdba3",
+    "relation_type": "precedes",
+    "reason": "滑头入场引发二条情绪反应（ep_f3444c41462d87bc）发生在二条率众抵达并质问滑头处境（ep_1cdf7df2e8dbdba3）之前，因为滑头的入场触发了二条的注意和后续行动，时间顺序由相关事件scene_33早于scene_11支持。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0023b222f5de",
+    "subject_id": "ep_8650784c6c8c3ba5",
+    "object_id": "ep_3a721b04cd7b5785",
+    "relation_type": "precedes",
+    "reason": "小明与方太太带病人就医涉及离开房间并安置病人，构成初步行动；随后在讨论医疗费用时，小明回避该对话并躲到一旁。两个情节共享 scene_44 的上下文，且病人安置逻辑上先于费用讨论，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9d0f36dd4956",
+    "subject_id": "ep_a76841ca8aa8d229",
+    "object_id": "ep_f42f17cc0f0e390a",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'小四表达对母亲的担忧'（scene_48）发生在'小四试图动手被父亲制止并离开'（scene_49）之前，因此'制止冲突并带离现场'在叙事顺序上晚于'小四表达对母亲的担忧'，即后者先于前者。基于文档中scene编号的递增关系，支持ep_f42f17cc0f0e390a在前，ep_a76841ca8aa8d229在后，故主体ep_a76841ca8aa8d229在叙事顺序上晚于客体ep_f42f17cc0f0e390a，关系为precedes（object -> subject），但因precedes为有向关系且主体为前者，此处不反向成立；然而，若以主体为起点，则无证据支持其先于客体，故判断为客体先于主体，即主体在后，因此relation_type为precedes（主体在客体之后发生）不成立。重新评估：precedes应为客体precedes主体，但输出要求主体到客体的关系。由于主体事件在scene_49，客体在scene_48，主体在客体之后发生，因此主体并不precedes客体，而是被客体precedes。故主体到客体的precedes关系不成立。无其他明确因果、对比或扩展关系证据。因此，尽管存在时间顺序，但方向与主体→客体相反，不能输出precedes。其他关系无支持。最终应为NONE。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_05eb6c6fd741",
+    "subject_id": "ep_03b6af6ffb9d72ff",
+    "object_id": "ep_18a3f446a0c9b1c2",
+    "relation_type": "precedes",
+    "reason": "主体情节'离开影棚并讨论同行顾虑'包含小明和小四的对话，而客体情节'小明以笑声结束互动'描述小明在对话后笑着离开画面，标志着交流的结束。根据描述，对话发生在离开之前，因此主体情节在叙事顺序上直接先于客体情节。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6be195fb2a5a",
+    "subject_id": "ep_4eac980ce00f6e66",
+    "object_id": "ep_6d7a4f7ef4ae8bb2",
+    "relation_type": "contrasts_with",
+    "reason": "汪狗在公开场合幽默讲述美国见闻引发笑声，与他在私下阴暗角落与小四父亲密谈未来政治安排形成基调和情境上的对比，二者并置突显其公开与私下行为的不同面貌。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_3a5f68b45968",
+    "subject_id": "ep_6fca2f7dbe4284c6",
+    "object_id": "ep_c42346dc1221680a",
+    "relation_type": "precedes",
+    "reason": "小四观察外部环境的情节中，母亲出现在门缝视野中，而家庭成员陆续离开房间的情节包括母亲离开房间的事件。这两个情节共享scene_13的上下文，且观察行为在母亲实际离开之前发生，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d7d5131a5a14",
+    "subject_id": "ep_688bc7329cdd2499",
+    "object_id": "ep_5d452806e47210bc",
+    "relation_type": "precedes",
+    "reason": "‘请求并协商试卷复查’发生在对话中前期，家长提出复查请求并讨论规则限制；而‘承诺复阅与结果更正’出现在对话尾声，老师在此阶段才作出复阅承诺。叙事顺序明确支持前者早于后者。",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e941cf2c6699",
+    "subject_id": "ep_8aee614bb4e5c638",
+    "object_id": "ep_dec89fa272770c31",
+    "relation_type": "precedes",
+    "reason": "在家庭合照聚会中，先由摄影师指导托马斯和小妹调整站位（组织合照站位），随后摄影师中断汪狗的谈话并开始正式拍照（摄影师中断谈话开始拍照），两个情节共享同一场合且描述了连续的准备与执行动作，叙事顺序明确。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cdad87b4f4ab",
+    "subject_id": "ep_86dd2b401184c1b9",
+    "object_id": "ep_d674bee33e6fdf4c",
+    "relation_type": "precedes",
+    "reason": "在三人逃跑过程中，三角裤索要欠款的行为发生在小猫和三角裤偷看并引发追赶之后。描述中明确指出逃跑是偷看行为的直接结果，而索要欠款发生在逃跑过程中，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c401bc4f133d",
+    "subject_id": "ep_d10d922cc308bab9",
+    "object_id": "ep_8ca5c9d2858cc144",
+    "relation_type": "precedes",
+    "reason": "追查母亲手表的下落发生在大姐干预并设法掩盖危机之前。根据描述，大姐先发现手表失踪并质问小四，随后才在得知真相后采取行动，包括斥责二哥、出钱赎回手表和编造借口，因此存在明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_56ceb5242c98",
+    "subject_id": "ep_d0715fc2d6416383",
+    "object_id": "ep_79abd1c44c8ac96c",
+    "relation_type": "precedes",
+    "reason": "根据描述，'展开追击并形成对峙' 情节中两队人马在楼梯间相遇，标志着冲突的升级，随后发生'围攻白衣男孩并导致溃散'，即围攻和溃散是相遇对峙后的进一步发展。因此，'展开追击并形成对峙' 在叙事顺序上早于 '围攻白衣男孩并导致溃散'，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_78fb46d3e05e",
+    "subject_id": "ep_18a3f446a0c9b1c2",
+    "object_id": "ep_3a732e7a76f8a040",
+    "relation_type": "precedes",
+    "reason": "小明以笑声结束互动描述的是小明笑着离开画面，标志与小四交流的阶段性终结；而确认试镜观看安排并结束对话包含小明从小四身后出现并转身离开及小四用手电寻找其身影，显示交流的断裂。前者在行为上更早完成互动的结束，后者紧随其后展现互动结束后的反应，因此在叙事顺序上，主体情节早于客体情节。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_65d43ac10104",
+    "subject_id": "ep_7d7bd9853b32ee6e",
+    "object_id": "ep_86dd2b401184c1b9",
+    "relation_type": "causes",
+    "reason": "红豆冰与飞机争抢物品的混乱直接导致小猫和三角裤趁机偷看，进而引发红豆冰受惊追赶和三人逃跑。描述中明确指出‘在红豆冰与飞机争抢物品的混乱中’，表明前一情节是后一情节发生的直接情境和触发条件，具有明确的因果时序和文本支持。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_819fea376a81",
+    "subject_id": "ep_d10d922cc308bab9",
+    "object_id": "ep_f5ebb5ef8e2655cc",
+    "relation_type": "causes",
+    "reason": "追查母亲手表的下落直接导致二哥在追问下承认当掉手表还赌债，文本明确支持这一因果链：大姐和小四的追查行为引发了二哥的坦白。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_67af5ac821f6",
+    "subject_id": "ep_7ba97eeffc14d9ab",
+    "object_id": "ep_af4ec5885b29cc89",
+    "relation_type": "precedes",
+    "reason": "小妹在被二哥和汪狗责备与调侃后感到委屈离开，随后走向母亲表达无聊并寻求安慰。两个情节发生在同一场景（scene_22），且事件序列显示前者在叙事顺序上直接早于后者，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_82b66c4172fa",
+    "subject_id": "ep_e1b8ad3a2f70cbdd",
+    "object_id": "ep_e4e63c424c613fec",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述师母因小四妈妈的手表引发怀旧回忆，客体情节则进一步扩展为由手表引发的家庭议论，揭示更广泛的人际关系和情感投射。客体情节在话题上承接主体情节中的手表意象，并将其延伸至夏老师与师母的家庭背景，提供了额外的社会语境和解释，因此主体情节为客体情节提供了触发点和背景，符合elaborates关系中由前一情节引出并扩展后一情节的模式。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_22__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_967c421a9773",
+    "subject_id": "ep_0652b26ae8ae440d",
+    "object_id": "ep_844fdf9375b3ee2e",
+    "relation_type": "precedes",
+    "reason": "嘲讽与身份羞辱引发哄笑发生在小四二哥准备击球之前，叶子随后安抚并鼓励其继续打球，叙事顺序上前者早于后者，且两者共享同一场合和文档场景(scene_32)，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e2bb37602d9c",
+    "subject_id": "ep_f5ebb5ef8e2655cc",
+    "object_id": "ep_8ca5c9d2858cc144",
+    "relation_type": "causes",
+    "reason": "二哥承认当掉手表还赌债这一情节直接引发了大姐的干预行为。文本明确指出大姐在得知真相后愤怒斥责二哥，并立即采取行动拿出钱赎回手表并编造借口，以防止母亲发现。这表明揭露行为是大姐后续掩盖危机的直接原因。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_01963957aeaa",
+    "subject_id": "ep_c21eac9b92f2db0c",
+    "object_id": "ep_34e518dff8965117",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件上下文，大姐在胖叔家购物并请求送货（ep_c21eac9b92f2db0c）发生在饭桌上的家庭对话与情绪表达（ep_34e518dff8965117）之前，因为对话中提及胖叔态度变化及不再赊账的提议是对先前送货被拒事件的反应。因此，该关系在叙事时间线上有明确的先后顺序。",
+    "source_documents": [
+      "scene_19__2_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f052fac7371c",
+    "subject_id": "ep_3d9df7eac52cea51",
+    "object_id": "ep_a1fc5c05bbb1898e",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对小妹的穿衣危机'包含小妹报告扣子掉落、抱怨衣服扣不上、母亲建议用别针、寻找别针未果等一系列事件，均发生在小妹整理衣物并离开之前。客体情节'小妹整理衣物后离开'是危机处理后的最终动作，根据描述中的叙事顺序，前者在时间上明确早于后者。",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_529c6d9cb52c",
+    "subject_id": "ep_2dd802de0fdb5c88",
+    "object_id": "ep_41a3d8acb664941a",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述女演员因服装争执后生气离场，第二个情节描述导演在她离开后生气离席、追骂并发现小明产生启用新人的想法。两个情节通过‘女演员离场’这一共同事件衔接，且第二个情节中的行为（追骂、发现小明）在时间上紧随第一个情节的结果发生，因此在叙事顺序上，争执离场先于导演发泄怒气并决定启用新人。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_089aa88139a4",
+    "subject_id": "ep_0652b26ae8ae440d",
+    "object_id": "ep_ac873d0b279801f6",
+    "relation_type": "precedes",
+    "reason": "嘲讽与身份羞辱引发哄笑发生在小四二哥首次击球得分之前，文本中描述的事件顺序显示，油头男的嘲讽和众人哄笑先发生，随后才进入正式对局阶段，小四二哥击球得分标志着赌球对局的展开，因此存在明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_faf3f795459d",
+    "subject_id": "ep_e8699ae47e45aa66",
+    "object_id": "ep_2d09737b4245852f",
+    "relation_type": "precedes",
+    "reason": "小猫催促滑头返回座位准备考试发生在老师启动正式考试程序之前，根据描述，滑头被提醒准备考试并回到座位，随后老师才下令起立敬礼，标志着考试正式开始，因此该情节在叙事顺序上早于正式考试程序的启动。",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_874ac6360d34",
+    "subject_id": "ep_ac9c382cdb565478",
+    "object_id": "ep_bb2304e6266eb439",
+    "relation_type": "elaborates",
+    "reason": "情节 '讨论小四转学与学业安排' 包含了对小四视力问题的讨论，而 '关注小四的视力健康' 专门聚焦于视力问题的应对方案，后者为前者中提及的健康关切提供了更详细的背景和解释，因此前者通过扩展细节来阐述后者。",
+    "source_documents": [
+      "scene_22__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c7b19f50d4fc",
+    "subject_id": "ep_4e874c8fa0600596",
+    "object_id": "ep_284e4822759002c2",
+    "relation_type": "precedes",
+    "reason": "引入新同学小马发生在课堂问答与惩罚事件的上下文中，而小马发出奇怪声音是在该场合中后续表现的行为，文本中事件顺序表明前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d2dc18c91ae1",
+    "subject_id": "ep_7a90f51fe300566e",
+    "object_id": "ep_f7e0ee054a02a423",
+    "relation_type": "contrasts_with",
+    "reason": "小四爸爸抗议处罚不公并质疑学校公正性，强调事件起因和制度问题；而主任通过质疑小四品行将焦点转向个体行为，二者在叙事中形成立场与基调的对立：一方强调系统不公，另一方归因为个人品行，构成明显对比。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d2ee2a0fcbca",
+    "subject_id": "ep_7a90f51fe300566e",
+    "object_id": "ep_856626c1ed9c1690",
+    "relation_type": "elaborates",
+    "reason": "小四爸爸抗议处罚不公并质疑学校公正性这一情节中，表达了对学校处理方式的不满；而主任以规定和宽大处理为由推卸责任，则进一步解释了学校方面的立场和回应，提供了关于为何处罚决定不变的额外背景和理由，从而扩展和阐明了前一情节中的冲突。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6804a3c6c80a",
+    "subject_id": "ep_a3fbe35a9fc49800",
+    "object_id": "ep_16a5001803242c95",
+    "relation_type": "causes",
+    "reason": "广播通报棒球暴力事件并宣布加强器械管理，直接导致学生小猫因紧张和畏惧而悄悄离场，文本明确支持这一因果联系。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_038dea15e956",
+    "subject_id": "ep_512a5786cc1b9576",
+    "object_id": "ep_f7e0ee054a02a423",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述小四沉默旁观父亲与校方对峙的整体情境，客体情节通过主任质疑小四品行的具体行为，进一步揭示了对峙中校方的策略和小四被边缘化的深层原因，从而为前者提供了更详细的背景和解释。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_cc8afa32537e",
+    "subject_id": "ep_856626c1ed9c1690",
+    "object_id": "ep_512a5786cc1b9576",
+    "relation_type": "elaborates",
+    "reason": "主任以规定和宽大处理为由推卸责任这一情节，通过说明校方立场和决策逻辑，为小四沉默旁观父亲与校方对峙的情节提供了背景解释，揭示了小四所处被动处境的制度性原因，从而扩展了后者的意义。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_64ace4996ca9",
+    "subject_id": "ep_9dfe6334351658f6",
+    "object_id": "ep_0438d479befc70b4",
+    "relation_type": "precedes",
+    "reason": "学生否认指控并提供证词发生在教师介入并说明事件背景之前，因为问责谈话中先有学生面对质问作出回应，随后老师才进入并询问情况、说明背景。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_944a0916be93",
+    "subject_id": "ep_9dfe6334351658f6",
+    "object_id": "ep_b610978616e90631",
+    "relation_type": "precedes",
+    "reason": "学生否认指控并提供证词发生在问责谈话过程中，而学生在问责结束后保持顺从姿态描述的是对话结束后的状态，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aca3222011df",
+    "subject_id": "ep_7a90f51fe300566e",
+    "object_id": "ep_512a5786cc1b9576",
+    "relation_type": "elaborates",
+    "reason": "抗议处罚不公并质疑学校公正性这一情节中，小四爸爸的言辞行为提供了关于冲突背景和学校处理方式的深层解释，而小四沉默旁观的情节则通过其被动状态扩展了该抗议场景的情感与社会动态背景，凸显小四作为核心当事人被排除在成人交涉之外的疏离感，因此前者为后者提供了语境性补充。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b3122f0e7324",
+    "subject_id": "ep_b1b6d40b96e1d921",
+    "object_id": "ep_78c04dac3a1fa18d",
+    "relation_type": "precedes",
+    "reason": "小四进入并加入打针队伍发生在女医生为其完成注射之前，根据描述中的动作顺序：小四先到达并加入队伍，随后才由女医生执行打针操作，二者属于同一场合下的连续步骤。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_989293746896",
+    "subject_id": "ep_512a5786cc1b9576",
+    "object_id": "ep_d0a28732623cd288",
+    "relation_type": "elaborates",
+    "reason": "‘小四沉默旁观父亲与校方对峙’是整体情境的主干情节，而‘茶具互动暴露主任情绪与权力姿态’通过具体行为细节揭示了交涉过程中的权力动态，补充并扩展了主体情节中未明言的张力与态度，因此该客体情节为主情节提供了深层语境和情感氛围的阐释。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_245269badc9b",
+    "subject_id": "ep_8650784c6c8c3ba5",
+    "object_id": "ep_48eb1a06cc30c7f8",
+    "relation_type": "precedes",
+    "reason": "小明与方太太带病人就医（ep_8650784c6c8c3ba5）涉及将病人转移至照护现场并开始医疗观察，这是医疗介入的前提；随后小医生评估病情并交代护理方案（ep_48eb1a06cc30c7f8）在该照护场景下展开。文本中两个情节均发生在scene_44，但病人安置是评估病情的先决条件，因此在叙事逻辑顺序上前者早于后者。",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_cc38343e880e",
+    "subject_id": "ep_284e4822759002c2",
+    "object_id": "ep_da9b1e26d5b5cba8",
+    "relation_type": "elaborates",
+    "reason": "‘小马发出奇怪声音’表现了小马对教师惩罚行为的不满和潜在对抗态度，而‘揭示小马的暴力过往’通过披露其曾砍人的背景，进一步解释了这种对抗态度的来源和潜在威胁性，从而为前一情节提供了深层背景和动机说明。两个情节共享同一场合（scene_39），且后者增强了对小马行为的理解。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_0b2c1de15636",
+    "subject_id": "ep_284e4822759002c2",
+    "object_id": "ep_8801dfc6b33af132",
+    "relation_type": "precedes",
+    "reason": "小马发出奇怪声音发生在老师处理小四汽水事件的过程中，而继续课堂教学翻页是在处理完该事件后发生的，因此前者在叙事顺序上早于后者，二者共享同一场合但有清晰的时间先后。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e59450291423",
+    "subject_id": "ep_72b8dda710bf7b5d",
+    "object_id": "ep_b610978616e90631",
+    "relation_type": "precedes",
+    "reason": "小猫被指认并进入问责现场发生在问责对话过程中，而学生在问责结束后保持顺从姿态发生在所有对话结束之后，因此前者在叙事顺序上明确早于后者。两个情节共享同一场合 '训导处办公室的问责谈话 (scene_15)'，但描述的是该场合内不同阶段的行为序列。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f705e8d9e1d0",
+    "subject_id": "ep_14e68cfa693e1b9c",
+    "object_id": "ep_16a5001803242c95",
+    "relation_type": "contrasts_with",
+    "reason": "三角裤在演讲期间通过翻阅书籍打发时间，表现出对场合的疏离；而小猫在听到广播后因紧张悄悄离场，表现出对纪律措施的畏惧。两者在行为反应上形成对比：一个被动脱离，另一个主动退出，反映出不同学生对同一正式场合（毕业典礼）的不同心理和行为回应。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_91caf663a36b",
+    "subject_id": "ep_5c545f9b5c93ae8d",
+    "object_id": "ep_49a2a9c5f25185b7",
+    "relation_type": "elaborates",
+    "reason": "教官与红豆冰交易并展开对话的情节中，红豆冰提到自己来自台中，这一信息直接触发了教官回忆自己曾住在台中清泉岗并联想到汉口的情节。后者提供了教官个人背景和情感反应的额外细节，扩展了前一情节的语境，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_973db9017ce7",
+    "subject_id": "ep_4e874c8fa0600596",
+    "object_id": "ep_8801dfc6b33af132",
+    "relation_type": "precedes",
+    "reason": "引入新同学小马发生在课堂活动的早期阶段，而继续课堂教学翻页是在处理另一事件（小四的汽水事件）后恢复教学秩序的行为，表明前者在叙事时间上早于后者。两个情节均发生在同一场景（scene_39），但根据描述顺序和上下文逻辑，新同学的引入先于教学翻页。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2396ef74f187",
+    "subject_id": "ep_60a9bcaf8dde0a76",
+    "object_id": "ep_844fdf9375b3ee2e",
+    "relation_type": "precedes",
+    "reason": "叶子首先展示信心并鼓励小四二哥出场（ep_60a9bcaf8dde0a76），随后在小四二哥准备击球过程中继续安抚并鼓励其捞本（ep_844fdf9375b3ee2e），两个情节发生在同一场合（台球比赛聚会 scene_32），且叙事顺序上存在明确的先后关系：先鼓励出场，再在击球过程中持续鼓励。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c6f00c80bd61",
+    "subject_id": "ep_7889afe4f32c2f21",
+    "object_id": "ep_8801dfc6b33af132",
+    "relation_type": "precedes",
+    "reason": "主体情节'处理未交作业的学生'发生在课堂纪律管理的紧张氛围中，而客体情节'继续课堂教学翻页'描述了在处理完另一事件（小四的汽水事件）后老师恢复教学秩序的行为。尽管未直接提及两个情节的顺序，但'继续课堂教学翻页'明确发生在'处理完小四的汽水事件后'，而'处理未交作业的学生'是独立且早于教学恢复的纪律事件，结合课堂流程的自然顺序，可推断前者在叙事时间上早于后者。两个情节共享同一场景（scene_39）和文档（doc_38），支持它们在时间序列上的连续性。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_39_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9165d9e88d1d",
+    "subject_id": "ep_a12845d212249fd3",
+    "object_id": "ep_a76841ca8aa8d229",
+    "relation_type": "precedes",
+    "reason": "处理球棒丢失的纠纷发生在杂货铺的争执场景中，而制止冲突并带离现场是在争执升级到小四欲动手时发生的后续行为。根据事件序列，纠纷的讨论先于父亲制止并带离的行动，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f944ae731507",
+    "subject_id": "ep_a12845d212249fd3",
+    "object_id": "ep_eb738e91555bb6d7",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'小四夺棒反抗滑头的挑衅'发生在scene_17，而'处理球棒丢失的纠纷'发生在scene_18，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_622aa699266b",
+    "subject_id": "ep_0fed8d70f845e366",
+    "object_id": "ep_37e8dcf1d4eb7770",
+    "relation_type": "precedes",
+    "reason": "小四趁机逃离并收集随身物品（scene_5）发生在揭露并逃离偷窥现场（scene_6）之前，根据文档场景编号的顺序和事件流，前者为准备逃离，后者为实际执行逃离并反应，具有明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_91d27710a773",
+    "subject_id": "ep_58abbc7581b14f6a",
+    "object_id": "ep_39d10a36886f2c35",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，'探讨试镜意愿并表达顾虑'发生在小明离开之前，而'小明离开后小四的反应'明确是在小明离开之后，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dffaac13b2e5",
+    "subject_id": "ep_0fed8d70f845e366",
+    "object_id": "ep_47b56e4432a76024",
+    "relation_type": "precedes",
+    "reason": "小四趁机逃离并收集随身物品发生在男人被窗户打破吸引注意力之后，而小四和小猫被追赶并被抓包发生在书本掉落引发混乱之后。根据事件序列，小四准备逃离的行为在时间上早于被追赶和抓包的情节，且两个情节之间存在连续的叙事顺序。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ba52c550bece",
+    "subject_id": "ep_0e56e8123c2af7b2",
+    "object_id": "ep_062e9dced0a4bcb5",
+    "relation_type": "precedes",
+    "reason": "小四辩解并反抗不公指控发生在教室内与老师和主任的直接冲突场景中，而等待交涉结果是其父亲介入后小四被安置在走廊的情境，叙事上前者为冲突爆发，后者为冲突后的等待，具有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f29f58b7d9d9",
+    "subject_id": "ep_24b9812c09ad0027",
+    "object_id": "ep_81769f257fa0fe1d",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件流，老师发现作弊并施加处罚（doc_45, scene_46）在时间上早于小四表达对社会不公的忧虑（doc_47, scene_48），后者是前者的反应性情绪表达，因此该关系在叙事顺序上明确支持。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_06e42588cedb",
+    "subject_id": "ep_0e56e8123c2af7b2",
+    "object_id": "ep_512a5786cc1b9576",
+    "relation_type": "precedes",
+    "reason": "小四辩解并反抗不公指控发生在老师和主任介入的场景（scene_46），而小四沉默旁观父亲与校方对峙发生在后续的scene_47，文档顺序和场景编号表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1c715c4f8d58",
+    "subject_id": "ep_0e56e8123c2af7b2",
+    "object_id": "ep_a76841ca8aa8d229",
+    "relation_type": "precedes",
+    "reason": "小四辩解并反抗不公指控发生在杂货铺争执升级的过程中（scene_46），而其父亲制止冲突并带离现场发生在后续场景（scene_49），文本显示争执达到顶点后父亲介入，表明前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2b1155ed49bd",
+    "subject_id": "ep_0e56e8123c2af7b2",
+    "object_id": "ep_81769f257fa0fe1d",
+    "relation_type": "precedes",
+    "reason": "情节 '小四辩解并反抗不公指控' 发生在 doc_45 的 scene_46，而 '小四表达对社会不公的忧虑' 发生在 doc_47 的 scene_48，文档和场景编号的顺序表明前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_31ede3dba6aa",
+    "subject_id": "ep_0e56e8123c2af7b2",
+    "object_id": "ep_823b2646c21fc6eb",
+    "relation_type": "precedes",
+    "reason": "情节 '小四辩解并反抗不公指控' 发生在老师和主任质问小四的过程中，而 '冲突结束后小四与滑头各自离开' 描述的是主任处理完毕后的离场行为，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8a22d018b78d",
+    "subject_id": "ep_062e9dced0a4bcb5",
+    "object_id": "ep_4c1aeeceb704353d",
+    "relation_type": "precedes",
+    "reason": "小四在走廊等待交涉结果发生在被处罚后离开办公室之前，叙事顺序上前者为交涉期间的等待，后者为交涉结束后的离场，时间顺序明确。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_875db3ee91eb",
+    "subject_id": "ep_7fccecd6637e50d4",
+    "object_id": "ep_4c1aeeceb704353d",
+    "relation_type": "precedes",
+    "reason": "情节'反抗欺凌并击退围攻者'发生在办公室冲突之前，而'学生被处罚后离开办公室'标志着该事件的结束，根据叙事顺序，反抗行为早于处罚和离开办公室，因此前者在时间上先于后者。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e3d01e4ed038",
+    "subject_id": "ep_47b56e4432a76024",
+    "object_id": "ep_4c1aeeceb704353d",
+    "relation_type": "precedes",
+    "reason": "情节'小四和小猫被追赶并被抓包'发生在拍摄现场，而'学生被处罚后离开办公室'发生在办公室场景，且描述中'被记过且冲突无果后'表明处罚是前一事件的结果，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ec0a0d25f3e1",
+    "subject_id": "ep_4c1aeeceb704353d",
+    "object_id": "ep_82c0452cd6d81a73",
+    "relation_type": "precedes",
+    "reason": "小四被处罚后离开办公室（ep_4c1aeeceb704353d）发生在小四回家并检查饭菜（ep_82c0452cd6d81a73）之前，根据常理推断，学生离开学校办公室后才会回家，且两个情节分别位于不同文档（doc_45 和 doc_11），无重叠事件，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e85fb72ecb3f",
+    "subject_id": "ep_09c25a4f3d94bf82",
+    "object_id": "ep_d10d922cc308bab9",
+    "relation_type": "precedes",
+    "reason": "小四到家后被大姐叫住这一情节发生在大姐追查母亲手表下落之前，根据描述，大姐在叫住小四后才开始询问手表的情况，因此存在明确的叙事顺序支持前者先于后者。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_96adfbad1198",
+    "subject_id": "ep_02023a7ccfe14e03",
+    "object_id": "ep_4c1aeeceb704353d",
+    "relation_type": "precedes",
+    "reason": "情节 '小猫阻止小四并揭示冲突起因' 发生在小公园内的演唱聚会场景中（scene_33），而 '学生被处罚后离开办公室' 发生在后续的办公室处罚场景（scene_46），scene_33 在文档时序上早于 scene_46，因此该关系在叙事顺序上有强支持。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1afbc06e7766",
+    "subject_id": "ep_628813d800810428",
+    "object_id": "ep_09c25a4f3d94bf82",
+    "relation_type": "precedes",
+    "reason": "情节'开始回家并展开对话'发生在小四回家的路上，而'小四到家后被大姐叫住'发生在到家之后，因此前者在叙事时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a46d544bd8e1",
+    "subject_id": "ep_82c0452cd6d81a73",
+    "object_id": "ep_09c25a4f3d94bf82",
+    "relation_type": "precedes",
+    "reason": "小四回家并检查饭菜的情节包含放下书包和查看饭菜的行为，发生在刚进入家中的初期阶段；而小四到家后被大姐叫住的情节紧随其后，描述了进入家中后立即被叫住的互动，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_564f16a0f832",
+    "subject_id": "ep_53b793a043498de2",
+    "object_id": "ep_09c25a4f3d94bf82",
+    "relation_type": "precedes",
+    "reason": "大姐与小四同行回家（ep_53b793a043498de2）发生在小四到家后被大姐叫住（ep_09c25a4f3d94bf82）之前，因为二人先一起回家，到家后大姐才立即叫住小四，叙事顺序明确。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ee03e84133f2",
+    "subject_id": "ep_09c25a4f3d94bf82",
+    "object_id": "ep_0c3b73ed9c4ed078",
+    "relation_type": "precedes",
+    "reason": "小四到家后被大姐叫住发生在小四回到房间接收二哥给的钱之前，根据描述，小四需先进入家中并被大姐叫住，之后才进入房间与二哥互动，因此存在明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_19__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8c61211cadb1",
+    "subject_id": "ep_72b2e5c12306ba9a",
+    "object_id": "ep_09c25a4f3d94bf82",
+    "relation_type": "precedes",
+    "reason": "小四准备上学并确认行程发生在离家前，而小四到家后被大姐叫住发生在回家后，两者在时间顺序上形成明确的先后关系，准备上学的情节在叙事顺序上早于到家后被叫住的情节。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4454df61a078",
+    "subject_id": "ep_062e9dced0a4bcb5",
+    "object_id": "ep_628813d800810428",
+    "relation_type": "precedes",
+    "reason": "小四在走廊等待父亲与老师交涉结果（等待交涉结果）发生在回家路上展开对话（开始回家并展开对话）之前，叙事顺序上存在明确的时间先后关系。交涉结束后父子才启程回家，因此前者在话语和事件序列上直接先于后者。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_43d2566e3e72",
+    "subject_id": "ep_062e9dced0a4bcb5",
+    "object_id": "ep_823b2646c21fc6eb",
+    "relation_type": "precedes",
+    "reason": "根据描述，'等待交涉结果'发生在父亲与老师交涉期间，而'冲突结束后小四与滑头各自离开'明确发生在主任处理完毕后，表明前者在叙事时间上早于后者，具有清晰的时间顺序支持。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fbdb0cdd7ec6",
+    "subject_id": "ep_c03222e46e960ab2",
+    "object_id": "ep_7fccecd6637e50d4",
+    "relation_type": "precedes",
+    "reason": "滑头质问小四并引发冲突发生在教室考试场景（scene_16），而反抗欺凌并击退围攻者发生在后续的scene_30，文本中scene_16早于scene_30，因此该情节在叙事顺序上先于另一情节。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9cdb11bdc78d",
+    "subject_id": "ep_7fccecd6637e50d4",
+    "object_id": "ep_823b2646c21fc6eb",
+    "relation_type": "precedes",
+    "reason": "情节'反抗欺凌并击退围攻者'发生在冲突现场，包含小四的反抗行为，而'冲突结束后小四与滑头各自离开'描述的是主任处理完毕后的离场场景，表明前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_167578a90b23",
+    "subject_id": "ep_fa087914b3d2db05",
+    "object_id": "ep_58abbc7581b14f6a",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'开启对话并交换住处信息'中包含小四询问小明是否住在小公园那，发生在同一场景(scene_29)的早期部分，而'探讨试镜意愿并表达顾虑'是后续对话的延续，因此该情节在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e7505ed7ed9b",
+    "subject_id": "ep_58abbc7581b14f6a",
+    "object_id": "ep_64ba06939b37ff00",
+    "relation_type": "precedes",
+    "reason": "小明在表达对试镜的顾虑后，小四表现出不悦并向前走，小明随即尝试询问是否要回去，表明第一个情节在叙事顺序上直接早于第二个情节，且两个情节共享同一场景（scene_29）的时间流。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_67bd68e4f9b9",
+    "subject_id": "ep_58abbc7581b14f6a",
+    "object_id": "ep_4859d0620b089c33",
+    "relation_type": "elaborates",
+    "reason": "情节 '探讨试镜意愿并表达顾虑' 揭示了小明对参加试镜的内心挣扎和情感顾虑，这为 '小明邀请小四参加试镜' 提供了更深层的动机背景，扩展了该情节的情感上下文。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e547a1679c7e",
+    "subject_id": "ep_58abbc7581b14f6a",
+    "object_id": "ep_3a732e7a76f8a040",
+    "relation_type": "precedes",
+    "reason": "情节'探讨试镜意愿并表达顾虑'中，小四询问小明是否会来试镜，小明表达担忧，发生在小明询问小四是否来观看试镜并最终离开之前。根据对话内容和叙事顺序，对试镜参与的顾虑讨论早于确认观看安排及随后的情感断裂场景。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_027d2079965e",
+    "subject_id": "ep_58abbc7581b14f6a",
+    "object_id": "ep_03b6af6ffb9d72ff",
+    "relation_type": "precedes",
+    "reason": "情节 '探讨试镜意愿并表达顾虑' 发生在影棚内，小四询问小明是否会来试镜，小明表达了对男朋友不高兴的担忧；而 '离开影棚并讨论同行顾虑' 描述的是两人从影棚走出后的对话，延续并扩展了之前的互动。因此，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4a6d06bf6849",
+    "subject_id": "ep_64ba06939b37ff00",
+    "object_id": "ep_da7f966524b61467",
+    "relation_type": "precedes",
+    "reason": "主体情节‘回应情绪变化并尝试挽留’包含小明询问小四是否要回去的事件，发生在小四以画外音回应之前。客体情节‘以画外音表达无处可去的无奈’是对此提问的直接回应，文本中事件顺序明确，因此主体在叙事顺序上先于客体。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_062e9e11b5dc",
+    "subject_id": "ep_8e9168ce0a68e3df",
+    "object_id": "ep_da7f966524b61467",
+    "relation_type": "precedes",
+    "reason": "小明提议转移谈话地点后，小四在离开现场时以画外音表达无处可去的无奈，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4ea93c82b5d4",
+    "subject_id": "ep_12b42bda41179fd1",
+    "object_id": "ep_da7f966524b61467",
+    "relation_type": "precedes",
+    "reason": "小明质问小四回避行为发生在小四以画外音表达无处可去之前，根据叙事顺序，质问事件在前，画外音回应在后，构成明确的时间先后关系。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_da556d1ebcc4",
+    "subject_id": "ep_7eec17d02f3a25cc",
+    "object_id": "ep_da7f966524b61467",
+    "relation_type": "precedes",
+    "reason": "情节 '小四陪伴小明前行并表达关切' 发生在场景27，而 '以画外音表达无处可去的无奈' 发生在场景29，根据文档顺序和场景编号，前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b0055758d4a2",
+    "subject_id": "ep_03b6af6ffb9d72ff",
+    "object_id": "ep_da7f966524b61467",
+    "relation_type": "precedes",
+    "reason": "情节 '离开影棚并讨论同行顾虑' 描述小明和小四从影棚走出并进行对话，而 '以画外音表达无处可去的无奈' 是小四在离开后以画外音形式回应，叙事上紧随其后。相关事件的时间顺序和上下文支持前者在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_91e8e6940639",
+    "subject_id": "ep_fd86ebcec864b9f2",
+    "object_id": "ep_f74c598f8e1a3e64",
+    "relation_type": "precedes",
+    "reason": "‘潜入影棚并偷看拍戏’描述了小四和小明翻越墙壁进入影棚并开始偷看拍戏的过程，而‘小四和小猫偷看片场引发骚乱’则发生在偷看过程中后续的事件，包括书本掉落导致女演员受惊。根据叙事顺序，潜入和开始偷看必须发生在引发骚乱之前。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aa4a45fa7653",
+    "subject_id": "ep_f74c598f8e1a3e64",
+    "object_id": "ep_70d2a641450eb01a",
+    "relation_type": "precedes",
+    "reason": "小四和小猫偷看片场引发骚乱（ep_f74c598f8e1a3e64）导致他们被发现，随后小四和小明结束偷看后离开影棚（ep_70d2a641450eb01a），在叙事顺序上前者直接早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e68fa398fc2b",
+    "subject_id": "ep_82c0452cd6d81a73",
+    "object_id": "ep_6fca2f7dbe4284c6",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序，小四回家并检查饭菜（doc_11）发生在小四观察外部环境（doc_12）之前，且两个情节分别位于连续场景scene_12和scene_13中，支持叙事上的先后顺序。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_87fd7e563262",
+    "subject_id": "ep_36cc812589352b77",
+    "object_id": "ep_82c0452cd6d81a73",
+    "relation_type": "precedes",
+    "reason": "小四与飞机在售票处对话发生在小四回家之前，根据描述中行为的自然顺序：对话后小四才返回家中并检查饭菜，因此该情节在叙事时间线上早于回家行为。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_32c94f9807af",
+    "subject_id": "ep_e09552a9f0147520",
+    "object_id": "ep_ac9c382cdb565478",
+    "relation_type": "precedes",
+    "reason": "小四测试眼睛并反映视觉问题（ep_e09552a9f0147520）在叙事时间上早于家人讨论其学业安排（ep_ac9c382cdb565478），因为视力问题的发现是后续教育讨论的前置触发点，且相关事件分别出现在 doc_11 和 doc_22，支持时间顺序。",
+    "source_documents": [
+      "scene_22__2_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_58eeb1728234",
+    "subject_id": "ep_c03222e46e960ab2",
+    "object_id": "ep_a76841ca8aa8d229",
+    "relation_type": "precedes",
+    "reason": "滑头质问小四并引发冲突发生在争执升级之前，随后小四情绪激动欲动手，其父亲制止并带离现场。根据事件发展的逻辑顺序，冲突的引发在时间上先于制止冲突并带离现场，且描述中‘为后续互动埋下紧张关系’支持该情节在叙事上早于后者。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_45d34e62471e",
+    "subject_id": "ep_eb738e91555bb6d7",
+    "object_id": "ep_a76841ca8aa8d229",
+    "relation_type": "precedes",
+    "reason": "情节'小四夺棒反抗滑头的挑衅'描述了冲突升级的过程，而'制止冲突并带离现场'则是在此之后其父亲介入以防止暴力发生，叙事上前者直接早于后者，且后者是对前者所引发局势的响应。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e65a113d1b49",
+    "subject_id": "ep_512a5786cc1b9576",
+    "object_id": "ep_a76841ca8aa8d229",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，小四沉默旁观父亲与校方对峙（scene_47）发生在制止冲突并带离现场（scene_49）之前，scene_47在doc_46，scene_49在doc_48，文档顺序支持该时间先后关系，且事件发展符合从交涉到情绪爆发再到制止的自然叙事流程。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4f08f7f53692",
+    "subject_id": "ep_50666b2bbf1a08bd",
+    "object_id": "ep_a76841ca8aa8d229",
+    "relation_type": "precedes",
+    "reason": "滑头因抄写被拒而暴力袭击小四发生在杂货铺场景中，随后小四情绪激动欲动手，其父亲在此之后制止并带离现场。事件序列在描述中呈现清晰的叙事时序：暴力袭击引发对峙，继而升级为小四试图还手，最终由父亲干预结束冲突。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_275fee8dc522",
+    "subject_id": "ep_02023a7ccfe14e03",
+    "object_id": "ep_a76841ca8aa8d229",
+    "relation_type": "precedes",
+    "reason": "情节 '小猫阻止小四并揭示冲突起因' 发生在杂货铺争执的早期阶段，揭示了冲突的言语源头，而 '制止冲突并带离现场' 发生在争执达到顶点、小四欲动手时被父亲制止，属于后续的升级与收束阶段。根据叙事逻辑和事件发展顺序，前者在时间上先于后者，构成直接的前序发展关系。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_319d8a1eee6f",
+    "subject_id": "ep_72b2e5c12306ba9a",
+    "object_id": "ep_c03222e46e960ab2",
+    "relation_type": "precedes",
+    "reason": "主体情节'小四准备上学并确认行程'发生在家中并以出门结束，客体情节'滑头质问小四并引发冲突'发生在教室考试场景中，根据叙事顺序，上学准备自然早于教室内的互动，且相关事件分别属于不同场景（scene_13 vs scene_16），支持时间上的先后关系。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9a8cf9978d8a",
+    "subject_id": "ep_5383b716167de187",
+    "object_id": "ep_681c50631dc85c0b",
+    "relation_type": "causes",
+    "reason": "小四离开餐桌回到房间的行为导致台球出桌（根据客体Episode的related_events '小四离开房间导致台球出桌'），进而引发二哥捡球并完成击球的情节。因此，主体Episode中的行为是客体Episode发生的直接触发原因，文本提供了明确的因果链支持。",
+    "source_documents": [
+      "scene_19__2_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_13236ce22194",
+    "subject_id": "ep_512a5786cc1b9576",
+    "object_id": "ep_628813d800810428",
+    "relation_type": "precedes",
+    "reason": "小四沉默旁观父亲与校方对峙发生在学校场景中，随后情节转为小四和父亲回家路上展开对话，叙事顺序明确显示前者在时间上先于后者。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4bcfbaf86a9c",
+    "subject_id": "ep_512a5786cc1b9576",
+    "object_id": "ep_81769f257fa0fe1d",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和场景编号，'小四沉默旁观父亲与校方对峙'（scene_47）发生在'小四表达对社会不公的忧虑'（scene_48）之前，两个情节在叙事顺序上连续，且描述中显示情绪发展的递进，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0c6f169ee660",
+    "subject_id": "ep_72b2e5c12306ba9a",
+    "object_id": "ep_628813d800810428",
+    "relation_type": "precedes",
+    "reason": "小四准备上学并确认行程发生在回家之前，叙事时间线上明确早于开始回家并展开对话，两者分别位于上学和回家的时序阶段，符合precedes关系的定义。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b83953cfe66d",
+    "subject_id": "ep_512a5786cc1b9576",
+    "object_id": "ep_823b2646c21fc6eb",
+    "relation_type": "precedes",
+    "reason": "情节 '小四沉默旁观父亲与校方对峙' 描述的是父亲与主任交涉的过程，而 '冲突结束后小四与滑头各自离开' 明确发生在主任处理完毕之后，表明前者在叙事时间上先于后者。两个情节共享同一事件背景（校方处理冲突），且后者提及‘结束后’，提供了清晰的时间顺序支持。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ad28d24909dd",
+    "subject_id": "ep_36cc812589352b77",
+    "object_id": "ep_628813d800810428",
+    "relation_type": "precedes",
+    "reason": "小四与飞机在售票处对话发生在小四和父亲开始回家之前，根据描述，前者是小四被质问并停下交流的场景，后者是父子推车回家并展开对话的延续，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_45b008d6b89a",
+    "subject_id": "ep_50666b2bbf1a08bd",
+    "object_id": "ep_512a5786cc1b9576",
+    "relation_type": "precedes",
+    "reason": "滑头因抄写被拒而暴力袭击小四（ep_50666b2bbf1a08bd）是引发后续校方介入的直接前因，小四沉默旁观父亲与校方对峙（ep_512a5786cc1b9576）发生在袭击事件之后的处理阶段，文本中虽未明确时间标记，但根据事件逻辑顺序，暴力事件必须先发生才能引发校方交涉，因此支持precedes关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c45d4d83f2d7",
+    "subject_id": "ep_9dfe6334351658f6",
+    "object_id": "ep_512a5786cc1b9576",
+    "relation_type": "precedes",
+    "reason": "学生否认指控并提供证词（ep_9dfe6334351658f6）发生在训导处办公室的问责谈话场景（scene_15），而小四沉默旁观父亲与校方对峙（ep_512a5786cc1b9576）发生在后续的父亲与主任交涉场景（scene_47），scene_15 在文档时序上早于 scene_47，因此前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4f350d001fbd",
+    "subject_id": "ep_72b2e5c12306ba9a",
+    "object_id": "ep_f7e7812a92b10cdc",
+    "relation_type": "precedes",
+    "reason": "小四准备上学并确认行程发生在离家出门时，而小明叫住小四并开启对话发生在小四骑自行车到达之后。根据叙事顺序，准备上学的情节在时间上早于路上被叫住的情节，且相关事件（如小四出门、骑车到达）支持这一时序关系。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_42513d3802b1",
+    "subject_id": "ep_5383b716167de187",
+    "object_id": "ep_0c3b73ed9c4ed078",
+    "relation_type": "precedes",
+    "reason": "小四在饭后离开餐桌回到房间（ep_5383b716167de187）发生在小四在房间内接收二哥给的钱（ep_0c3b73ed9c4ed078）之前，两个情节共享同一场景（scene_19__2）且事件序列显示时间上的先后顺序：小四先回到房间，随后在柜子中与二哥互动并收钱。",
+    "source_documents": [
+      "scene_19__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e982cfcdd7b7",
+    "subject_id": "ep_5e779fecc9bd5092",
+    "object_id": "ep_f69fcf92ed5b0c1f",
+    "relation_type": "elaborates",
+    "reason": "小四提醒教官曾抓到他们翘课这一情节提供了关于他们当前对教官畏惧的背景信息，解释了为何在发现教官时立即采取躲避行为，从而为小四发现教官并示警躲避的情节提供了动机和上下文扩展。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b6067db82d45",
+    "subject_id": "ep_72b2e5c12306ba9a",
+    "object_id": "ep_b1b6d40b96e1d921",
+    "relation_type": "precedes",
+    "reason": "小四准备上学并确认行程发生在家中，随后进入卫生部打针，叙事顺序上前者早于后者，且两个情节分别围绕离家上学和参与学校医疗活动展开，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1a2c95130825",
+    "subject_id": "ep_9dfe6334351658f6",
+    "object_id": "ep_823b2646c21fc6eb",
+    "relation_type": "precedes",
+    "reason": "学生否认指控并提供证词发生在训导处办公室的问责谈话中（scene_15），而冲突结束后小四与滑头各自离开发生在后续场景（scene_17），根据场景编号顺序，前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_63b7676b61c1",
+    "subject_id": "ep_02023a7ccfe14e03",
+    "object_id": "ep_72da70ca1c40495e",
+    "relation_type": "precedes",
+    "reason": "小猫阻止小四并揭示冲突起因发生在主任介入并平息冲突之前，依据事件描述中的叙事顺序：冲突的起因被揭示后，主任才赶到现场进行干预。related_events 中的场景编号（scene_33 先于 scene_17）也支持这一时间顺序。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b1ac1d355c4f",
+    "subject_id": "ep_72b2e5c12306ba9a",
+    "object_id": "ep_36cc812589352b77",
+    "relation_type": "precedes",
+    "reason": "小四准备上学并确认行程发生在小四与飞机在售票处对话之前，因为前者是离家上学的准备阶段，后者是外出途中在售票处被质问的后续场景，时间顺序上具有连贯性且符合叙事流程。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b82c67c3a53d",
+    "subject_id": "ep_37e8dcf1d4eb7770",
+    "object_id": "ep_d44b7740c541dfee",
+    "relation_type": "precedes",
+    "reason": "主体情节'揭露并逃离偷窥现场'发生在文档5的scene_6，而客体情节'飞机登场并戏弄三角裤'发生在文档7的scene_8，根据文档顺序和场景编号，前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_8_part_1",
+      "scene_8_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ca6f6bd377da",
+    "subject_id": "ep_18ebf8df19901281",
+    "object_id": "ep_6dde3cc9729c0f0b",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'小猫登门求助并请求翻译歌词' 发生在 scene_34，而 '滑头介入并索要钱财' 发生在 scene_35，scene_34 在叙事顺序上早于 scene_35，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_61f66939479b",
+    "subject_id": "ep_2320f75e985fd6e4",
+    "object_id": "ep_6dde3cc9729c0f0b",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在文档33，第二个情节发生在文档34，且相关事件的时间顺序显示小猫修理设备的情节在滑头介入并索要钱财之前。因此，'小猫修理设备并获取工具支持'在叙事顺序上早于'滑头介入并索要钱财'。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_70ccaba9e170",
+    "subject_id": "ep_47b56e4432a76024",
+    "object_id": "ep_72b8dda710bf7b5d",
+    "relation_type": "precedes",
+    "reason": "情节 '小四和小猫被追赶并被抓包' 发生在拍摄现场混乱后，小四和小猫被发现并逃跑，而 '小猫被指认并进入问责现场' 发生在训导处办公室，涉及后续的问责过程。根据叙事顺序，被抓包事件在前，指认和问责在后，且后者可视为前者的后果场景，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_be1f097a4a33",
+    "subject_id": "ep_16a5001803242c95",
+    "object_id": "ep_9dfe6334351658f6",
+    "relation_type": "precedes",
+    "reason": "小猫因广播通知悄悄离场发生在毕业典礼场景中，而学生否认指控并提供证词发生在随后的训导处办公室问责谈话中，两个情节通过小猫的行为和后续审讯形成连续叙事，时间顺序上前者早于后者。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_48a8bc588916",
+    "subject_id": "ep_16a5001803242c95",
+    "object_id": "ep_72b8dda710bf7b5d",
+    "relation_type": "precedes",
+    "reason": "小猫因广播通知悄悄离场发生在毕业典礼场景中，而小猫被指认并进入问责现场发生在后续的训导处办公室场景。根据事件序列和场合的推进，前者在叙事顺序上早于后者，表现出从公共场合离场后进入问责情境的时间连贯性。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c33330fbaf78",
+    "subject_id": "ep_72b8dda710bf7b5d",
+    "object_id": "ep_02023a7ccfe14e03",
+    "relation_type": "precedes",
+    "reason": "情节 '小猫被指认并进入问责现场' 发生在训导处办公室的问责谈话场景（scene_15），而 '小猫阻止小四并揭示冲突起因' 发生在小公园内的演唱聚会（scene_33）。scene_15 在文档时序上早于 scene_33，因此前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1b8712a7d57f",
+    "subject_id": "ep_d44b7740c541dfee",
+    "object_id": "ep_f0e5cb5e01ba7da7",
+    "relation_type": "precedes",
+    "reason": "在场景8中，飞机戏弄三角裤并引发集体起哄后，紧接着小猫揭露众人真实目的是去看小本本，且众人随即附和。两个情节均发生在同一场景，但事件序列显示戏弄行为先发生，随后才出现动机揭露与集体附和，叙事顺序支持前者早于后者。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_8_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ee0a4771a2c6",
+    "subject_id": "ep_50312548cccbcdc0",
+    "object_id": "ep_4a24bc1e3222b3e7",
+    "relation_type": "precedes",
+    "reason": "滑头现身并接受局势询问（scene_10）在时间上早于围攻滑头并实施暴力（scene_37），且滑头的出现是后续暴力事件发生的前提。文档中scene编号的顺序支持该叙事时序。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_544d8237f617",
+    "subject_id": "ep_4a24bc1e3222b3e7",
+    "object_id": "ep_823b2646c21fc6eb",
+    "relation_type": "precedes",
+    "reason": "围攻滑头并实施暴力发生在冲突结束前，根据叙事顺序，暴力事件结束后才出现小四与滑头各自离开的场景，因此主体情节在时间上明确早于客体情节。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6524346bf367",
+    "subject_id": "ep_4a24bc1e3222b3e7",
+    "object_id": "ep_72da70ca1c40495e",
+    "relation_type": "precedes",
+    "reason": "围攻滑头并实施暴力的情节发生在主任介入并平息冲突之前，根据事件描述的自然叙事顺序，暴力行为进行中时主任尚未到达现场，随后主任赶到并处理冲突，表明前者在时间上直接先于后者。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f3979e7b3996",
+    "subject_id": "ep_4a24bc1e3222b3e7",
+    "object_id": "ep_eb738e91555bb6d7",
+    "relation_type": "precedes",
+    "reason": "围攻滑头并实施暴力发生在小四夺棒反抗滑头的挑衅之前，因为对滑头的暴力行为是小四夺棒反抗的直接导火索，且叙事上先有对滑头的围攻，后有小四持棒对抗滑头的升级冲突。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7b9f49e06c83",
+    "subject_id": "ep_1cdf7df2e8dbdba3",
+    "object_id": "ep_4a24bc1e3222b3e7",
+    "relation_type": "precedes",
+    "reason": "二条率众抵达并质问滑头处境发生在围攻滑头并实施暴力之前，因为二条及其手下到达现场并引发争执是暴力事件开始的前提，且相关事件均发生在各自scene_11和scene_37中，按文档顺序排列，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9a9c498b95e4",
+    "subject_id": "ep_50312548cccbcdc0",
+    "object_id": "ep_823b2646c21fc6eb",
+    "relation_type": "precedes",
+    "reason": "滑头现身并接受局势询问发生在冲突结束前的场景10，而小四与滑头各自离开发生在冲突结束后的场景17，叙事顺序明确显示前者早于后者。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_efbb42d6402a",
+    "subject_id": "ep_50312548cccbcdc0",
+    "object_id": "ep_b0abc8e7189649aa",
+    "relation_type": "precedes",
+    "reason": "滑头现身并接受局势询问发生在场景10，而滑头表达不满并拒绝二条安抚发生在场景11，文档顺序和场景编号表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_06488ab28d47",
+    "subject_id": "ep_50312548cccbcdc0",
+    "object_id": "ep_a92dd0a1e4dd5f0a",
+    "relation_type": "precedes",
+    "reason": "滑头现身并接受局势询问发生在场景10，而滑头抱怨地盘危机并索要香烟发生在场景11，文档顺序和场景编号表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e1276e6a7b4b",
+    "subject_id": "ep_50312548cccbcdc0",
+    "object_id": "ep_1cdf7df2e8dbdba3",
+    "relation_type": "precedes",
+    "reason": "滑头现身并接受局势询问（scene_10）发生在二条率众抵达并质问滑头处境（scene_11）之前，根据相关事件的场景编号顺序，scene_10早于scene_11，支持该时间先后关系。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e963c053c31d",
+    "subject_id": "ep_50312548cccbcdc0",
+    "object_id": "ep_72da70ca1c40495e",
+    "relation_type": "precedes",
+    "reason": "滑头现身并接受局势询问发生在主任介入并平息冲突之前，根据相关事件的时间顺序，滑头进入现场和被询问（scene_10）早于主任走近并处理冲突（scene_17），表明该情节在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_21d195403714",
+    "subject_id": "ep_50312548cccbcdc0",
+    "object_id": "ep_fec0a9b5442f6c57",
+    "relation_type": "precedes",
+    "reason": "滑头现身并接受局势询问发生在冲突现场的初始阶段（scene_10），而滑头暴力震慑白衣男孩的事件发生在后续场景（scene_11），文档时序和相关事件的场景编号表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_88143983975b",
+    "subject_id": "ep_50312548cccbcdc0",
+    "object_id": "ep_046de97a7de249e3",
+    "relation_type": "precedes",
+    "reason": "滑头现身并接受局势询问（scene_10）发生在滑头警告外敌并质疑二条能力（scene_11）之前，根据相关事件的场景编号顺序，scene_10早于scene_11，支持该时间先后关系。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_156df53e4337",
+    "subject_id": "ep_f3444c41462d87bc",
+    "object_id": "ep_4a24bc1e3222b3e7",
+    "relation_type": "precedes",
+    "reason": "滑头入场引发二条情绪反应（ep_f3444c41462d87bc）发生在小酒吧场景（scene_33），而围攻滑头并实施暴力（ep_4a24bc1e3222b3e7）发生在后续的scene_37，文档时序表明前者在叙事顺序上早于后者，为冲突埋下伏笔，支持precedes关系。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c8a07cb3cede",
+    "subject_id": "ep_244a1fc4131e1cb2",
+    "object_id": "ep_24b9812c09ad0027",
+    "relation_type": "precedes",
+    "reason": "滑头要求作弊并威胁小四发生在考试开始前（scene_16），而揭露作弊并施加处罚发生在老师批改试卷时（scene_46），叙事时间线上明确前者早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3e33f62e5798",
+    "subject_id": "ep_244a1fc4131e1cb2",
+    "object_id": "ep_4c1aeeceb704353d",
+    "relation_type": "precedes",
+    "reason": "滑头要求作弊并威胁小四发生在考试开始前（scene_16），而学生被处罚后离开办公室发生在冲突处理后的场景（scene_46），文档中scene_16早于scene_46，表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_22bc1eba8f75",
+    "subject_id": "ep_244a1fc4131e1cb2",
+    "object_id": "ep_72da70ca1c40495e",
+    "relation_type": "precedes",
+    "reason": "滑头要求作弊并威胁小四发生在教室考试场景（scene_16），而主任介入并平息冲突发生在后续的冲突现场场景（scene_17），根据相关事件的时间顺序和文档顺序，前者在叙事上明确早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_25117be6e80b",
+    "subject_id": "ep_244a1fc4131e1cb2",
+    "object_id": "ep_823b2646c21fc6eb",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在考试开始前的教室场景中，涉及滑头要求作弊并威胁小四；第二个情节发生在主任处理冲突之后，小四与滑头各自离开。根据相关事件的时间顺序（scene_16 在 scene_17 之前），该关系在叙事顺序上明确支持 'precedes'。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b06d02d2f657",
+    "subject_id": "ep_1cdf7df2e8dbdba3",
+    "object_id": "ep_72da70ca1c40495e",
+    "relation_type": "precedes",
+    "reason": "二条率众抵达并质问滑头处境发生在主任介入并平息冲突之前，根据相关事件的场景编号（scene_11 在 scene_17 之前），表明该情节在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_92c3ed16d6ba",
+    "subject_id": "ep_046de97a7de249e3",
+    "object_id": "ep_72da70ca1c40495e",
+    "relation_type": "precedes",
+    "reason": "滑头警告外敌并质疑二条能力发生在主任介入并平息冲突之前，根据相关事件的场景编号（scene_11 在 scene_17 之前），支持该叙事顺序。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_423210e4e303",
+    "subject_id": "ep_1cdf7df2e8dbdba3",
+    "object_id": "ep_823b2646c21fc6eb",
+    "relation_type": "precedes",
+    "reason": "主体情节描述二条率众抵达并质问滑头，引发争执，发生在冲突升级阶段；客体情节描述冲突结束后小四与滑头各自离开，表明事件已平息。根据叙事顺序，争执发生于冲突处理之后的离场之前，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a12e7b5fb27c",
+    "subject_id": "ep_e38763a914f7d166",
+    "object_id": "ep_1cdf7df2e8dbdba3",
+    "relation_type": "precedes",
+    "reason": "情节 '响应召唤并组织前往支援滑头' 发生在 '二条率众抵达并质问滑头处境' 之前，因为小猫等人是在得知滑头被堵后开始组织支援，而二条率众抵达是现场冲突的后续发展，叙事时间线上前者先于后者。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_8_part_1",
+      "scene_8_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_59eac76eaa59",
+    "subject_id": "ep_1cdf7df2e8dbdba3",
+    "object_id": "ep_86401b2ef0e643eb",
+    "relation_type": "precedes",
+    "reason": "二条率众抵达并质问滑头处境发生在滑头自卫并下令小翠撤离之前，因为质问和冲突升级直接导致滑头采取防御动作并命令小翠离开，事件序列在叙事上具有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d58d23981218",
+    "subject_id": "ep_1cdf7df2e8dbdba3",
+    "object_id": "ep_fec0a9b5442f6c57",
+    "relation_type": "precedes",
+    "reason": "根据相关事件均发生在scene_11，且二条率众抵达并质问滑头的行动在叙事逻辑上先于滑头对白衣男孩实施暴力震慑，因为团队内部冲突的展现为后续对外展示权威的行为提供了上下文和顺序基础。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3d40bb0033a1",
+    "subject_id": "ep_e38763a914f7d166",
+    "object_id": "ep_a92dd0a1e4dd5f0a",
+    "relation_type": "precedes",
+    "reason": "情节'响应召唤并组织前往支援滑头'发生在滑头抱怨地盘危机并索要香烟之前，因为小猫是在获知滑头被堵在国校后才组织支援，而滑头的抱怨和索烟行为是在被围堵现场发生的，叙事时间线上支援组织先于现场情绪表达。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_8_part_1",
+      "scene_8_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_48b37787baf6",
+    "subject_id": "ep_046de97a7de249e3",
+    "object_id": "ep_fec0a9b5442f6c57",
+    "relation_type": "precedes",
+    "reason": "滑头警告外敌并质疑二条能力发生在滑头暴力震慑白衣男孩之前，两者均在scene_11中，但警告和质疑行为在叙事顺序上先于对白衣男孩的暴力行动，相关事件序列支持该时间顺序。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f2fba5d14e2e",
+    "subject_id": "ep_e38763a914f7d166",
+    "object_id": "ep_fec0a9b5442f6c57",
+    "relation_type": "precedes",
+    "reason": "主体情节描述小猫响应男生召唤并组织前往支援滑头，发生在滑头实施暴力震慑之前。根据事件流，组织支援行动在叙事顺序上先于滑头在国校处理白衣男孩的情节，且支援目标直接关联滑头所处的冲突场景，因此主体情节在话语和叙事时间上均早于客体情节。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_8_part_2",
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ac9a634edf85",
+    "subject_id": "ep_b0abc8e7189649aa",
+    "object_id": "ep_fec0a9b5442f6c57",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，滑头表达不满并拒绝二条安抚（scene_11早期）发生在滑头暴力震慑白衣男孩并下达警告（scene_11后续行动）之前，二者同属scene_11但事件序列显示前者先发生，因此存在明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_63c6cb4d793b",
+    "subject_id": "ep_598cb54250ac56ce",
+    "object_id": "ep_4a24bc1e3222b3e7",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'篮球队成员围攻滑头'发生在scene_36，而'围攻滑头并实施暴力'发生在scene_37，scene_36在叙事顺序上早于scene_37，因此前者在时间上先于后者。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5d4017c6cb30",
+    "subject_id": "ep_dcf9ab8105fbd5d3",
+    "object_id": "ep_28eca7bdd38feb40",
+    "relation_type": "precedes",
+    "reason": "小明指责小虎赖皮发生在小虎推搡滑头之前，根据事件描述，小虎的推搡是对先前冲突升级的反应，且两事件涉及不同人物和场景，但存在合理的时间顺序：指责行为早于公开肢体冲突。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bd8237758800",
+    "subject_id": "ep_a92dd0a1e4dd5f0a",
+    "object_id": "ep_fec0a9b5442f6c57",
+    "relation_type": "precedes",
+    "reason": "滑头抱怨地盘危机并索要香烟发生在水龙头边，而暴力震慑白衣男孩的场景涉及被押来的男孩和众人围观，动作升级且地点可能转移；根据叙事连贯性与事件发展逻辑，情绪宣泄和索要香烟更可能在暴力展示之前发生，作为冲突升级的前奏，且两个情节共享同一场景编号(scene_11)，但暴力行为包含多个后续动作，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7144e13b3544",
+    "subject_id": "ep_bc537ee6c9709119",
+    "object_id": "ep_18a3f446a0c9b1c2",
+    "relation_type": "precedes",
+    "reason": "小四提议搭车并揭示共同路线发生在小明以笑声结束互动之前，根据叙事顺序，小四的提议和揭示在scene_31，而小明笑着离开在scene_41，表明前者在时间上早于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0349e1bbedab",
+    "subject_id": "ep_28eca7bdd38feb40",
+    "object_id": "ep_4a24bc1e3222b3e7",
+    "relation_type": "precedes",
+    "reason": "小虎激化冲突并动手推搡（ep_28eca7bdd38feb40）发生在滑头被围攻并实施暴力（ep_4a24bc1e3222b3e7）之前，推搡行为标志着从言语对峙转向肢体冲突的转折点，而后者描述了后续的集体围堵和殴打行为，包含多个延续性动作。因此，前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_feabf46e869d",
+    "subject_id": "ep_18a3f446a0c9b1c2",
+    "object_id": "ep_39d10a36886f2c35",
+    "relation_type": "precedes",
+    "reason": "小明以笑声结束互动描述小明离开画面，而小明离开后小四的反应描述小四在小明离开后的失落情绪。根据描述中的时间线索，小明的离开先于小四的反应，因此该关系在叙事顺序上成立。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f50fc8c504b3",
+    "subject_id": "ep_9ccd4f3f38ca471c",
+    "object_id": "ep_39d10a36886f2c35",
+    "relation_type": "precedes",
+    "reason": "情节 '安排小明后续行动与离场' 描述了小明拒绝帮助并坚持独立返回的过程，其中包括他离开检查室的行动；而 '小明离开后小四的反应' 明确发生在小明离开之后，描述了小四在小明走后的情绪反应。因此，前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8fc0ebf26321",
+    "subject_id": "ep_21723908fba95d7d",
+    "object_id": "ep_fa087914b3d2db05",
+    "relation_type": "precedes",
+    "reason": "导演启动小明试镜流程发生在摄影棚内（scene_28），而小明从摄影棚走出并与小四开启对话发生在scene_29，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0d580ccc438e",
+    "subject_id": "ep_94720b380277e62e",
+    "object_id": "ep_fa087914b3d2db05",
+    "relation_type": "precedes",
+    "reason": "小明在表演间隙寻找小四发生在拍摄暂停后的间隙，而开启对话并交换住处信息发生在小明从摄影棚走出后，由小四主动发起。根据场景顺序推断，寻找行为在对话开启之前，具有时间上的先后顺序。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7f3e007621e4",
+    "subject_id": "ep_18a3f446a0c9b1c2",
+    "object_id": "ep_a8dded3ebc77aa5b",
+    "relation_type": "precedes",
+    "reason": "小明以笑声结束互动描述的是与小四交流的阶段性终结，且小明笑着离开画面，暗示该情节发生在互动之后；而展开轻松对话并互动描述的是两人在草原上的亲密交流过程。因此，从叙事顺序看，轻松对话与互动应在小明离开之前发生，支持‘precedes’关系，方向为客体到主体。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d08146e255a6",
+    "subject_id": "ep_ee92e06855ba02af",
+    "object_id": "ep_fa087914b3d2db05",
+    "relation_type": "precedes",
+    "reason": "小明认为不能持续躲藏发生在教官与红豆冰交谈期间，而开启对话并交换住处信息发生在小明从摄影棚走出后。根据场景编号（scene_27 在 scene_29 之前），前者在叙事顺序上早于后者，支持 'precedes' 关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c35c829cb178",
+    "subject_id": "ep_da4eeb022bed72b4",
+    "object_id": "ep_fa087914b3d2db05",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述在摄影棚内进行拍摄，小明完成情绪表演后拍摄停止；第二个情节始于小明从摄影棚走出后与小四的对话。根据事件顺序，拍摄结束是走出摄影棚的前提，因此‘引导小明进入情绪状态’在叙事和时间顺序上早于‘开启对话并交换住处信息’。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b49b23a92532",
+    "subject_id": "ep_64ba06939b37ff00",
+    "object_id": "ep_18a3f446a0c9b1c2",
+    "relation_type": "precedes",
+    "reason": "情节'回应情绪变化并尝试挽留'中，小明询问小四是否要回去，体现互动仍在持续；而'小明以笑声结束互动'描述小明笑着离开画面，标志交流的终结。因此，前者在叙事顺序上早于后者，构成阶段性推进。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bf523bf63ba4",
+    "subject_id": "ep_4bef65fdcfbe83b1",
+    "object_id": "ep_8650784c6c8c3ba5",
+    "relation_type": "precedes",
+    "reason": "小明回家并发现异常发生在小明与方太太带病人就医之前，根据描述，小明先发现屋内异常并呼叫方太太，随后二人一同离开房间前往照护现场，构成明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_335c41b228aa",
+    "subject_id": "ep_18a3f446a0c9b1c2",
+    "object_id": "ep_fa087914b3d2db05",
+    "relation_type": "precedes",
+    "reason": "小明以笑声结束互动描述的是与小四交流的阶段性终结，而开启对话并交换住处信息是两人交流的起始场景。根据叙事顺序，对话的开启应在互动结束之前，因此后者在时间上先于前者。尽管描述中未明确提及绝对时间顺序，但‘结束互动’与‘开启对话’在逻辑和叙事流程上构成先后关系，支持‘precedes’关系，方向为 object -> subject。但由于关系模式中‘precedes’为有向关系且需严格依据证据确定方向，而输入中未提供明确时间戳或顺序断言，故基于现有信息推断该顺序具有较强合理性但非绝对确定，因此置信度为0.85。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_283a4b170c9c",
+    "subject_id": "ep_f7e7812a92b10cdc",
+    "object_id": "ep_18a3f446a0c9b1c2",
+    "relation_type": "precedes",
+    "reason": "小明叫住小四并开启对话发生在小明以笑声结束互动之前，描述中显示对话开始于小四停下自行车后，而结束于小明笑着离开画面，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3b4791bfc5e4",
+    "subject_id": "ep_21723908fba95d7d",
+    "object_id": "ep_4859d0620b089c33",
+    "relation_type": "precedes",
+    "reason": "导演启动小明试镜流程（包括邀请小明过两天来试镜）在时间上先于小明邀请小四参加试镜。小明是在被邀请试镜之后才通知并邀请小四，因此该关系在叙事顺序上有明确的时间先后支持。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_663366188090",
+    "subject_id": "ep_12b42bda41179fd1",
+    "object_id": "ep_18a3f446a0c9b1c2",
+    "relation_type": "precedes",
+    "reason": "小明质问小四回避行为发生在对话过程中，而小明以笑声结束互动并离开画面标志着交流的终结，叙事顺序上前者早于后者，且相关事件分别位于scene_40和scene_41，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b323cd17b1fa",
+    "subject_id": "ep_4859d0620b089c33",
+    "object_id": "ep_18a3f446a0c9b1c2",
+    "relation_type": "precedes",
+    "reason": "小明邀请小四参加试镜发生在对话早期（doc_39, scene_40），而小明以笑声结束互动并离开画面标志着与小四交流的阶段性终结（doc_40, scene_41），在叙事顺序上前者早于后者，且文档编号和场景编号支持该时间顺序。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_09d83aac7090",
+    "subject_id": "ep_8e9168ce0a68e3df",
+    "object_id": "ep_18a3f446a0c9b1c2",
+    "relation_type": "precedes",
+    "reason": "小明提议转移谈话地点（ep_8e9168ce0a68e3df）发生在小明以笑声结束互动并离开画面（ep_18a3f446a0c9b1c2）之前，根据描述中的动作顺序：先提议离开并走向远处，随后笑着离开画面，表明前者在叙事时间线上早于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_89b5c81522e5",
+    "subject_id": "ep_21723908fba95d7d",
+    "object_id": "ep_3a732e7a76f8a040",
+    "relation_type": "precedes",
+    "reason": "导演启动小明试镜流程（包括邀请小明过两天来试镜）在时间上明确早于确认试镜观看安排并结束对话（涉及试镜前一日的对话与情感互动），叙事顺序与事件时间线支持该先后关系。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2007d090641a",
+    "subject_id": "ep_f69fcf92ed5b0c1f",
+    "object_id": "ep_ee92e06855ba02af",
+    "relation_type": "precedes",
+    "reason": "小四发现教官并示警躲避（ep_f69fcf92ed5b0c1f）发生在教官与红豆冰交谈期间小明意识到不能持续躲藏（ep_ee92e06855ba02af）之前，根据描述中的叙事顺序，躲避行为先发生，随后小明提出应采取行动，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4c3ed1376c72",
+    "subject_id": "ep_9ccd4f3f38ca471c",
+    "object_id": "ep_7eec17d02f3a25cc",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'安排小明后续行动与离场'（scene_26）发生在检查室场景中，而'小四陪伴小明前行并表达关切'（scene_27）发生在离开检查室之后的行进过程中。scene_26在文档中先于scene_27出现，且后者描述的是前者决定后的实际执行过程，因此该关系为叙事上的前序关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_efbf188b10f7",
+    "subject_id": "ep_da4951e0c4a81c49",
+    "object_id": "ep_d0715fc2d6416383",
+    "relation_type": "precedes",
+    "reason": "二条带领学生执行突袭行动（ep_da4951e0c4a81c49）发生在上层追击和对峙之前，根据场景编号（scene_9 在 scene_10 之前），表明该行动在叙事顺序上早于对峙情节。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e870ef1201ac",
+    "subject_id": "ep_3afe5bfe4de02a1b",
+    "object_id": "ep_1cdf7df2e8dbdba3",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'发现并追捕可疑男孩群体' 发生在 scene_9，而 '二条率众抵达并质问滑头处境' 发生在 scene_11，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dd71b714f02c",
+    "subject_id": "ep_21723908fba95d7d",
+    "object_id": "ep_03b6af6ffb9d72ff",
+    "relation_type": "precedes",
+    "reason": "导演启动小明试镜流程发生在影棚场景之前，根据叙事时间顺序，试镜邀请（在影棚内发生）早于小明和小四离开影棚并讨论同行顾虑的对话。两个情节均发生在影棚相关场景中，且试镜流程启动（scene_28）在文档时序上早于离开影棚的互动（scene_41），因此主体情节在叙事顺序上先于客体情节。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_41527255573e",
+    "subject_id": "ep_046de97a7de249e3",
+    "object_id": "ep_960503558c76f4d9",
+    "relation_type": "precedes",
+    "reason": "滑头警告外敌并质疑二条能力发生在二条试图攻击滑头之前，言语冲突升级为肢体冲突，符合叙事顺序上的先后关系。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2eca65eaa588",
+    "subject_id": "ep_046de97a7de249e3",
+    "object_id": "ep_b2975ecd83ee1e1a",
+    "relation_type": "precedes",
+    "reason": "滑头警告外敌并质疑二条能力发生在二条与滑头爆发激烈冲突之前，前者建立对二条领导力的不信任，后者是矛盾的升级表现，时间与叙事顺序上存在先后关系。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_65425c852229",
+    "subject_id": "ep_3ef28e588fead705",
+    "object_id": "ep_713bd8028f4c7980",
+    "relation_type": "precedes",
+    "reason": "处理家庭日常与短暂互动发生在电视播报录取名单的场景3，而因子女比较引发争执升级发生在场景49，根据文档中场景编号的顺序，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5bbd2ea2ab98",
+    "subject_id": "ep_1cdf7df2e8dbdba3",
+    "object_id": "ep_960503558c76f4d9",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述二条率众抵达并质问滑头，引发言语冲突；第二个情节描述在言语冲突后，二条试图攻击滑头并被制止。根据描述中的时间顺序和事件发展逻辑，质问和争执发生在攻击企图之前，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_11_part_2",
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b99c511e60c7",
+    "subject_id": "ep_3afe5bfe4de02a1b",
+    "object_id": "ep_d0715fc2d6416383",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述在楼梯处发现穿白色军装的小孩并引发追赶，相关事件发生在scene_9；第二个情节描述追击升级为上下层两队人马在楼梯间对峙，相关事件发生在scene_10。scene_9在叙事顺序上早于scene_10，且追捕行动直接发展为后续对峙，因此主体情节在话语顺序上先于客体情节。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2e5d80ad1ee3",
+    "subject_id": "ep_5c1017275c7737d9",
+    "object_id": "ep_70d2a641450eb01a",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对老板娘的现场视察'发生在拍摄现场内部，包含多个明确的事件如老板娘质疑选角、导演回应、李姐为小明化妆等，这些发生在场景scene_45；客体情节'小四和小明结束偷看后离开影棚'发生在scene_28，且描述中明确指出二人是在目睹现场争执后离开。scene_28在文档顺序上早于scene_45，但'目睹争执'这一行为逻辑上要求争执已发生，因此小四和小明的离开必须在争执之后。故主体情节在叙事时间上晚于客体情节，但根据事件逻辑，争执（ep_5c1017275c7737d9）必须先发生，才能被目睹，因此ep_70d2a641450eb01a在叙事顺序上应紧随其后。然而，由于scene_28编号小于scene_45，且偷看行为发生在争执期间，更合理的推断是偷看发生在争执过程中，离开发生在争执结束前。因此，'应对老板娘的现场视察'整体在时间上先于'小四和小明结束偷看后离开影棚'完成，支持precedes关系（ep_5c1017275c7737d9 precedes ep_70d2a641450eb01a）。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b52a84ca3cc6",
+    "subject_id": "ep_3f244035d574d810",
+    "object_id": "ep_81769f257fa0fe1d",
+    "relation_type": "elaborates",
+    "reason": "主体情节中，小四父母就如何处理小四的过错发生争论，涉及原则与现实之间的冲突；客体情节中，小四回应父亲的教诲，表达对社会不公的忧虑，反映出他从家庭争论中所受到的影响。客体情节通过小四的情绪和认知反应，扩展了主体情节中关于原则教育的后果和深层影响，构成对主体情节的进一步阐释。",
+    "source_documents": [
+      "scene_49__2_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_09d99bfc9b05",
+    "subject_id": "ep_3f244035d574d810",
+    "object_id": "ep_a76841ca8aa8d229",
+    "relation_type": "precedes",
+    "reason": "根据描述，'制止冲突并带离现场'（ep_a76841ca8aa8d229）发生在争执和小四情绪激动欲动手时，而'争论如何处理小四的过错'（ep_3f244035d574d810）是父母在事后对处理方式的讨论，体现价值观冲突。因此，制止冲突的情节在时间上紧随争执升级之后，而争论作为反思性对话应在事件发生后展开，支持前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_49__2_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_22d7f0feaf7f",
+    "subject_id": "ep_7a90f51fe300566e",
+    "object_id": "ep_a76841ca8aa8d229",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，小四爸爸抗议学校处罚不公并质疑学校公正性的事件发生在杂货铺争执之前，而制止冲突并带离现场发生在争执达到顶点时。因此，抗议学校不公的情节在叙事顺序上早于制止冲突并带离现场的情节。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_029f5408fd0f",
+    "subject_id": "ep_b3c7a8c220f00c05",
+    "object_id": "ep_bb2304e6266eb439",
+    "relation_type": "elaborates",
+    "reason": "情节 '处理工资与家庭开支争议' 中妈妈提议优先为小四配眼镜，这一决策与 '关注小四的视力健康' 中讨论的视力问题及治疗方案相呼应，表明前者在具体家庭决策中扩展了后者所提出的健康关切，提供了后续行动层面的细节。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_22__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_1c0fc3d552a0",
+    "subject_id": "ep_7a90f51fe300566e",
+    "object_id": "ep_9f62cc25ce6058be",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在小四爸爸向主任抗议学校处罚不公的场景（scene_47），而客体情节发生在父亲反思自身冲动并教育儿子的后续场景（scene_48）。根据相关事件的场景编号顺序，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_97253bfe9eb7",
+    "subject_id": "ep_7a90f51fe300566e",
+    "object_id": "ep_81769f257fa0fe1d",
+    "relation_type": "elaborates",
+    "reason": "主体情节中，小四爸爸抗议学校处罚不公并质疑学校公正性，这一行为为客体情节中小四表达对社会不公的忧虑提供了情感和认知背景。客体情节通过小四的感慨扩展了主体情节所引发的情绪影响，表现出孩子在父亲引导下对更广泛社会不公的初步认知，构成对前一情节的进一步阐释和心理延伸。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_0298369b36ee",
+    "subject_id": "ep_7a90f51fe300566e",
+    "object_id": "ep_eb27ae674636a12e",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中，小四爸爸抗议学校处罚不公并质疑学校公正性，反映了对制度性不公的外部抗争；第二个情节中，父亲转而劝导小四坚定人生信念，强调读书和做人做事的道理，可视为在制度批判之后对个人价值观的内在建构。后者为前者的道德立场提供了深层价值观背景，扩展了抗议行为背后的家庭教育理念，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_81d981e911d0",
+    "subject_id": "ep_0e56e8123c2af7b2",
+    "object_id": "ep_856626c1ed9c1690",
+    "relation_type": "precedes",
+    "reason": "小四辩解并反抗不公指控（scene_46）发生在主任以规定和宽大处理为由推卸责任（scene_47）之前，根据相关事件的场景编号顺序，情节之间存在明确的叙事先后关系。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d68199452d00",
+    "subject_id": "ep_0e56e8123c2af7b2",
+    "object_id": "ep_f7e0ee054a02a423",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述小四在面对责难时的辩解与反抗，客体情节中主任通过质疑小四品行来贬低其立场，后者提供了对前者冲突升级背景的进一步解释，即通过揭示小四被指控有既往违纪行为，扩展了小四当前反抗情境的制度性压制背景。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_eb05c4ef0857",
+    "subject_id": "ep_0fed8d70f845e366",
+    "object_id": "ep_ed450c17e38a9d3b",
+    "relation_type": "precedes",
+    "reason": "小四趁机逃离并收集随身物品发生在男人被窗户打破吸引注意力并追出房间之后，但根据叙事逻辑，小四的行动是在男人离开房间追赶入侵者时发生的，因此该情节在时间顺序上紧随其后，但文本未明确说明两者之间的直接因果关系，仅能从上下文推断时间先后。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_683e72b3b9c5",
+    "subject_id": "ep_4eac980ce00f6e66",
+    "object_id": "ep_dec89fa272770c31",
+    "relation_type": "precedes",
+    "reason": "汪狗讲述美国见闻并引发笑声发生在摄影师中断谈话开始拍照之前，描述中明确指出在汪狗继续讲述时被摄影师打断，表明时间顺序上的先后关系。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f76c6ed02837",
+    "subject_id": "ep_9635df1a2e17b036",
+    "object_id": "ep_7fccecd6637e50d4",
+    "relation_type": "precedes",
+    "reason": "217成员监视并逼近引发对峙在叙事顺序上早于小四反抗欺凌并击退围攻者，相关事件序列显示围堵和挑衅先发生，随后小四进行反抗并击退对方。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9a6cdf1c091e",
+    "subject_id": "ep_448a8be2e4f15342",
+    "object_id": "ep_86dd2b401184c1b9",
+    "relation_type": "causes",
+    "reason": "飞机拿走物品引发争抢混乱，为小猫和三角裤趁乱偷看创造了条件，文本明确将偷看和逃跑置于争抢的混乱中，表明前一情节直接触发了后一情节。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8a9ee0dc1e78",
+    "subject_id": "ep_688bc7329cdd2499",
+    "object_id": "ep_aba19a9b9b701955",
+    "relation_type": "contrasts_with",
+    "reason": "‘请求并协商试卷复查’聚焦于父亲与老师之间严肃的规则交涉，而‘维持接待中的表面礼节’展现家庭试图保持礼貌接待与老师抱怨茶太热之间的张力，两者在互动基调上形成正式交涉与微妙社交失衡的并置对比。",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6dff0fd52339",
+    "subject_id": "ep_6d7a4f7ef4ae8bb2",
+    "object_id": "ep_ac9c382cdb565478",
+    "relation_type": "elaborates",
+    "reason": "汪狗与小四父亲密谈未来安排中承诺帮助小四转入日间部，为后续小四家人讨论转学与学业安排提供了背景和动因，后者进一步展开家庭对这一安排的具体考量，因此主体情节为客体情节提供了前置动因和背景解释。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_22__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2615943c0686",
+    "subject_id": "ep_7fccecd6637e50d4",
+    "object_id": "ep_d7baaa245252760f",
+    "relation_type": "precedes",
+    "reason": "主体情节'反抗欺凌并击退围攻者'描述小四主动反击并迫使217成员逃跑，发生在场景30的冲突高潮；客体情节'吓退最后的袭击者'描述冲突结束后小四发现并吓退最后一名潜在攻击者，明确在时间顺序上紧随其后，由'doc_29'中scene_30的叙述顺序支持。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8a971318e02b",
+    "subject_id": "ep_09aafedd38656b62",
+    "object_id": "ep_34e518dff8965117",
+    "relation_type": "precedes",
+    "reason": "大姐准备外出并询问用餐意向发生在饭桌上的家庭对话之前，因为前者是用餐前的准备行为，而后者明确描述了一家人开始吃饭后的对话，时间顺序上存在清晰的先后关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_19__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cdeea1fab2a3",
+    "subject_id": "ep_3a8dca6c363c6b8f",
+    "object_id": "ep_ce359c17d8bb3f6d",
+    "relation_type": "precedes",
+    "reason": "大姐在表达不满并合上木盒后，将钱交给二哥以赎回手表，表明‘大姐借取饰品并表达不满’在时间顺序上先于‘执行手表赎回任务’。两个情节均涉及母亲的手表，且后者是对前者所揭示的家庭经济紧张的直接响应，叙事顺序清晰。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fe8913d867f8",
+    "subject_id": "ep_4738d5a113db8de8",
+    "object_id": "ep_42cfcc33d83670a6",
+    "relation_type": "precedes",
+    "reason": "胖叔因饮酒被妻子责备发生在家人干预以平息争吵之前，因为责备饮酒是引发后续情绪失控和争吵升级的前置情境，且两个情节均围绕家庭内部对胖叔行为的干预，具有连续性。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b73f1db7313b",
+    "subject_id": "ep_034af35f3c781744",
+    "object_id": "ep_21723908fba95d7d",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在 scene_28，但女演员与导演起争执的情节涉及导演表达对当前演员安排的不满，随后立即启动小明试镜流程，表明争执在叙事顺序上先于试镜启动，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b6231a149f40",
+    "subject_id": "ep_0c3b73ed9c4ed078",
+    "object_id": "ep_f5ebb5ef8e2655cc",
+    "relation_type": "elaborates",
+    "reason": "‘小四在房间接收二哥给的钱’中二哥给予金钱且拒绝说明来源，而‘揭露二哥当掉手表还赌债’解释了该钱款的潜在来源和背景，提供了前一情节中未说明的动机和上下文，构成对先前事件的扩展说明。",
+    "source_documents": [
+      "scene_19__2_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2b3cfbf3dc06",
+    "subject_id": "ep_af4ec5885b29cc89",
+    "object_id": "ep_e1b8ad3a2f70cbdd",
+    "relation_type": "elaborates",
+    "reason": "小妹向母亲表达无聊并寻求安慰的情节中，母亲看表的动作引发了师母的注意，进而触发了师母与小四妈妈关于怀旧手表的对话。因此，第二个情节扩展了第一个情节中一个动作（看表）的后续社交和情感背景，提供了额外的上下文细节。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_380eca6994a8",
+    "subject_id": "ep_1465f89ad277ffa4",
+    "object_id": "ep_3a721b04cd7b5785",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述方太太与小医生讨论医疗费用的交涉过程，客体情节描述小明在同一时间段内因对话内容而回避的行为。客体通过展现小明的情绪反应，为该医疗费用讨论场景提供了心理层面的补充细节，从而扩展了主体情节的语境。",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_55a0d5ed4cd5",
+    "subject_id": "ep_6ed8307f61700619",
+    "object_id": "ep_ac873d0b279801f6",
+    "relation_type": "precedes",
+    "reason": "叶子带人进场并挑战翻本（ep_6ed8307f61700619）描述了叶子带小四二哥进入台球室并提出通过打球翻本，为对局做铺垫；而小四二哥首次击球得分（ep_ac873d0b279801f6）标志着赌球对局正式展开。根据叙事顺序，挑战翻本发生在实际击球得分之前，且后者依赖于前者建立的对局情境。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_96ff14f8e141",
+    "subject_id": "ep_78c04dac3a1fa18d",
+    "object_id": "ep_9ccd4f3f38ca471c",
+    "relation_type": "precedes",
+    "reason": "女医生为小四完成注射发生在检查结束前，而安排小明后续行动与离场发生在检查结束后，两者共享同一场合'学校卫生部打针活动 (scene_26)'，且叙事顺序上注射完成早于离场安排。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a894809645b5",
+    "subject_id": "ep_34e518dff8965117",
+    "object_id": "ep_5383b716167de187",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_19__2）中，且描述的事件序列显示家庭对话先展开，随后小四爸爸注意到小四进食少并询问，小四离开餐桌。叙事顺序上，家庭集体对话在前，对小四异常行为的关注紧随其后，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_19__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cbb69309b277",
+    "subject_id": "ep_b12c6aff434c994c",
+    "object_id": "ep_d4587d12c23b80c3",
+    "relation_type": "elaborates",
+    "reason": "主体情节涉及小四质疑哈尼是否为保护小明而决斗逃亡，客体情节中，小明通过回忆揭示哈尼的真实性格及其情感影响，提供了关于哈尼行为动机和内心状态的深层解释，从而扩展并丰富了主体情节中提及的决斗逃亡传闻的背景和情感维度。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bce9a63daf0d",
+    "subject_id": "ep_6ed8307f61700619",
+    "object_id": "ep_681c50631dc85c0b",
+    "relation_type": "precedes",
+    "reason": "叶子带人进场并挑战翻本（ep_6ed8307f61700619）发生在台球室对局的起始阶段，为后续二哥完成一次台球击球（ep_681c50631dc85c0b）提供了叙事前提和场景铺垫。根据描述，前者发生在scene_32，后者发生在scene_22，但scene_32在文档顺序和叙事逻辑上晚于scene_22，然而‘叶子带人进场’是引发对局的明确开端，而‘二哥击球’是具体执行动作，因此在情节顺序上，挑战翻本的情节应先于实际击球动作发生。结合‘叶子带人进场’中明确提到‘引发后续对局的铺垫’，可推断该情节在叙事顺序上先于击球事件。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5013f7fd0729",
+    "subject_id": "ep_02023a7ccfe14e03",
+    "object_id": "ep_960503558c76f4d9",
+    "relation_type": "precedes",
+    "reason": "根据描述，小猫阻止小四并揭示冲突起因发生在言语冲突阶段，随后二条试图攻击滑头，二者均发生在同一场合'小公园内的演唱聚会 (scene_33)'中，且事件序列显示言语冲突升级为肢体冲突，支持前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_33_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_78b99c1c8192",
+    "subject_id": "ep_9b3f33392e21bd4a",
+    "object_id": "ep_c42346dc1221680a",
+    "relation_type": "precedes",
+    "reason": "催促老二起床并响应的情节涉及父亲与老二在房间内的互动，而家庭成员陆续离开房间的情节描述妈妈和父亲离开房间进入公共区域。根据日常逻辑和场景顺序，唤醒互动应在离开房间之前发生，且两个情节共享同一场景编号（scene_13），支持其在叙事时序上的先后关系。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  }
+]

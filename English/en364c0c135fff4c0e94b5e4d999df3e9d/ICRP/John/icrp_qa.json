@@ -1,0 +1,77 @@
+{
+  "character": "John",
+  "qas": [
+    {
+      "question": "What did you do with the trash bag that contained cash?",
+      "supporting_facts": [
+        "You placed the trash bag filled with cash into your backpack",
+        "The trash bag contained cash and was handled by you"
+      ],
+      "contradicting_facts": [
+        "You left the trash bag at the scene",
+        "You refused to pick up the trash bag"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do with the photo of the medical laboratory delivery van?",
+      "supporting_facts": [
+        "You pinned the photo of the medical laboratory delivery van over the phrase 'FIND THE KEY'",
+        "The photo was placed over a specific phrase as an intentional act"
+      ],
+      "contradicting_facts": [
+        "You left the photo unpinned",
+        "You placed the photo under the phrase 'FIND THE KEY'"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you give to Luke, and what does that imply about your possession of it now?",
+      "supporting_facts": [
+        "You gave the glass coin dish to Luke",
+        "After giving it away, you no longer possess the glass coin dish"
+      ],
+      "contradicting_facts": [
+        "You still have the glass coin dish",
+        "You lent the glass coin dish to Luke temporarily"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What items did you provide to Lara, and where did you get them from?",
+      "supporting_facts": [
+        "You provided clothing and a white smock to Lara",
+        "The items given to Lara came from your backpack"
+      ],
+      "contradicting_facts": [
+        "You gave Lara only the white smock, not clothing",
+        "The items came from somewhere other than your backpack"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do with the front door when you arrived?",
+      "supporting_facts": [
+        "You did not leave the front door closed upon arrival",
+        "The front door was opened by you upon arrival"
+      ],
+      "contradicting_facts": [
+        "You left the front door closed after arriving",
+        "You arrived but did not interact with the front door"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you review any surveillance footage recently?",
+      "supporting_facts": [
+        "John viewed footage on a CCTV video",
+        "The viewing of CCTV footage was performed directly by John"
+      ],
+      "contradicting_facts": [
+        "John avoided watching any recorded video footage",
+        "Another person, not you, reviewed the CCTV footage"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

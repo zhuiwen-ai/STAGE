@@ -1,0 +1,126 @@
+{
+  "character": "Lena_Leonard",
+  "qas": [
+    {
+      "question": "What did you do when you first interacted with Barry at the door?",
+      "supporting_facts": [
+        "You opened the door",
+        "You cupped Barry's face with your hands"
+      ],
+      "contradicting_facts": [
+        "You did not open the door",
+        "You kept your hands at your sides during the interaction"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You were in the same room as Barry—did you acknowledge his presence when you arrived?",
+      "supporting_facts": [
+        "Lena is in the same room as him",
+        "Lena looks at Barry and smiles"
+      ],
+      "contradicting_facts": [
+        "Lena avoided looking at Barry",
+        "Lena did not respond visually or emotionally to Barry's presence"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Were you alone with Barry during the medical treatment?",
+      "supporting_facts": [
+        "An intern was present during the medical treatment",
+        "Lena was not alone during the medical treatment"
+      ],
+      "contradicting_facts": [
+        "Lena was alone with Barry during medical treatment",
+        "There was no third party present during the treatment"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You were on a return flight with Barry—what was your awareness of him during that time?",
+      "supporting_facts": [
+        "Lena was present on the same return flight as Barry",
+        "Lena is aware of Barry's presence"
+      ],
+      "contradicting_facts": [
+        "Lena was unaware of Barry during the flight",
+        "Lena avoided acknowledging Barry's presence"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How do you typically behave when providing medical treatment?",
+      "supporting_facts": [
+        "Lena remains calm during medical treatment",
+        "Lena maintains a matter-of-fact demeanor during medical treatment"
+      ],
+      "contradicting_facts": [
+        "You become emotionally reactive during medical treatment",
+        "You show signs of panic or distress while treating patients"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you interact verbally with anyone during the encounter?",
+      "supporting_facts": [
+        "you remained silent throughout the encounter",
+        "you did not speak at any point during the event"
+      ],
+      "contradicting_facts": [
+        "you asked someone a question during the encounter",
+        "you responded to Barry during his erratic behavior"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you speak to Elizabeth recently?",
+      "supporting_facts": [
+        "You had a phone call with Elizabeth that has now ended.",
+        "The conversation with Elizabeth is over, indicating it occurred in the immediate past."
+      ],
+      "contradicting_facts": [
+        "You are still on the phone with Elizabeth.",
+        "You have not spoken to Elizabeth at all recently."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you acknowledge Barry when you saw him?",
+      "supporting_facts": [
+        "Lena nodded her head while looking at Barry",
+        "The nod occurred while Lena was present and observing Barry"
+      ],
+      "contradicting_facts": [
+        "You ignored Barry when you saw him",
+        "You avoided making any physical acknowledgment of Barry's presence"
+      ],
+      "final_score": 7.777777777777778
+    },
+    {
+      "question": "What did you do immediately after your conversation with Elizabeth ended?",
+      "supporting_facts": [
+        "Your phone call with Elizabeth ended",
+        "You got into your car",
+        "You did not remain in the car after Elizabeth left"
+      ],
+      "contradicting_facts": [
+        "You remained on the phone with Elizabeth after the call ended",
+        "You stayed in the car after Elizabeth left"
+      ],
+      "final_score": 7.222222222222222
+    },
+    {
+      "question": "Did you show any emotional response during the encounter?",
+      "supporting_facts": [
+        "you smiled to yourself",
+        "your smile occurred without leaving"
+      ],
+      "contradicting_facts": [
+        "you showed no facial expression",
+        "you left the scene without smiling"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

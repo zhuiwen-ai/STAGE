@@ -1,0 +1,4515 @@
+[
+  {
+    "id": "rel_ep_ep_3e6f0d9b0775",
+    "subject_id": "ep_90cec43e276f3bf5",
+    "object_id": "ep_272c8dbfe245551e",
+    "relation_type": "precedes",
+    "reason": "小婵提醒王后趁热服药发生在王后艰难服药并最终弃药之前，根据场景时序逻辑，提醒行为是服药过程的早期环节，推动后续服药动作的展开。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_13b84ddf5b93",
+    "subject_id": "ep_ac94008919ba5dfb",
+    "object_id": "ep_3786c4207fb0a0ff",
+    "relation_type": "precedes",
+    "reason": "王后抵达并肃清宫室在叙事顺序上早于开启对峙并质问逃意，因为肃清宫室为后续的私密对峙创造了封闭环境，且描述中明确指出质问发生在肃清之后。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5333d0c0fa0c",
+    "subject_id": "ep_926790b5bdf743f6",
+    "object_id": "ep_fcc7fd59ee7c464b",
+    "relation_type": "precedes",
+    "reason": "祥太子紧急藏匿小婵发生在王后逼迫藏匿者现身之前，因为藏匿行为是对王后驾到的即时反应，而王后的命令是在察觉异常后对藏匿状态的直接回应，叙事顺序明确。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_efc5f514a12e",
+    "subject_id": "ep_ac94008919ba5dfb",
+    "object_id": "ep_ddb4503708f49e8f",
+    "relation_type": "precedes",
+    "reason": "王后抵达并肃清宫室为后续的试探改变与最终摊牌创造了封闭环境，且在叙事顺序上先发生，二者共享同一场合'王后与祥太子的秘密对峙'，表明前者为后者的前提和开端。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4b8f4c1f4021",
+    "subject_id": "ep_73bbe2b4a3090121",
+    "object_id": "ep_73c43c32f720eed6",
+    "relation_type": "precedes",
+    "reason": "小婵探问出宫许可并安慰祥太子发生在祥太子回应情感并展开亲昵互动之前，相关事件序列显示安慰行为先于情感回应和亲密接触，叙事顺序明确。",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_273620531314",
+    "subject_id": "ep_ac94008919ba5dfb",
+    "object_id": "ep_86e9d69e2d6df952",
+    "relation_type": "precedes",
+    "reason": "王后抵达并肃清宫室为后续的心理压迫与沉默崩溃创造了封闭环境，且在叙事顺序上先发生，相关场合均为'王后与祥太子的秘密对峙 (scene_15)'，表明前者为后者的前提和开端。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_13ad6a3716d9",
+    "subject_id": "ep_8bdd269eba96795d",
+    "object_id": "ep_3817ad0f80768c81",
+    "relation_type": "precedes",
+    "reason": "质问改立太子的意图发生在大王暗示理解祥太子的隐忍之前，根据描述，大王先通过质问试探祥太子的态度，随后在沉默后叹息并表达理解，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_064886e32909",
+    "subject_id": "ep_91b35e8074282e64",
+    "object_id": "ep_fcc7fd59ee7c464b",
+    "relation_type": "precedes",
+    "reason": "王后突袭内室并质问太子逾礼行为发生在王后逼迫藏匿者现身之前，根据描述，王后先质问太子，随后察觉异常并命令藏匿者现身，二者在同一场景（scene_41）中按顺序展开，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3451447438f1",
+    "subject_id": "ep_9b1fd2f1d43a4264",
+    "object_id": "ep_af743fc8d9a6983d",
+    "relation_type": "elaborates",
+    "reason": "揭示蒋氏夜闯宫禁的真实目的为通过旧物唤醒共同记忆提供了情感和背景铺垫，后者进一步扩展了两人过去关系的细节，包括大王保留旧物和每年重阳节怀念的行为，从而深化了前一情节中提及的断裂与欺骗的历史背景。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_00833f954141",
+    "subject_id": "ep_af743fc8d9a6983d",
+    "object_id": "ep_1e3c1e68538954cb",
+    "relation_type": "elaborates",
+    "reason": "通过旧物唤醒共同记忆这一情节中，大王解释保留旧物和每年重阳节独坐旧屋的习惯，表明自己从未忘记过去，这为后续直面过往情感与彼此指责提供了情感背景和动机解释，扩展了双方情感冲突的深层原因。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_26f11cba8397",
+    "subject_id": "ep_fcc7fd59ee7c464b",
+    "object_id": "ep_06651ab0eddc2f9a",
+    "relation_type": "precedes",
+    "reason": "王后逼迫藏匿者现身发生在王后赦免小婵并留下忠告之前，两个情节均发生在scene_41，且逼迫现身是冲突高潮，赦免与忠告是其后续结果，叙事顺序明确。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f41076f33c35",
+    "subject_id": "ep_fcf7e84e68f4e842",
+    "object_id": "ep_dfdd43a9e4426c27",
+    "relation_type": "precedes",
+    "reason": "揭露蒋氏潜入并审问其动机的情节中，大王开始仔细打量蒋氏，随后在相认情节中确认其身份并表达已二十五年未见。两个情节共享scene_48的事件序列，且审问与打量发生在相认之前，叙事顺序明确。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d22820645301",
+    "subject_id": "ep_1b6c681e2987d288",
+    "object_id": "ep_6f14d9a2b73d498a",
+    "relation_type": "contrasts_with",
+    "reason": "王后先是因二王子将进宫而欣喜，紧接着因成王子转述大王子欲出宫而神情转阴，情绪由喜转忧，两个情节在情感基调上形成明显对比，文本通过连续的情绪变化突出这种逆转。",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_52d8df2a772b",
+    "subject_id": "ep_3aa330919b542d57",
+    "object_id": "ep_ba93071a9882b600",
+    "relation_type": "precedes",
+    "reason": "祥太子进入私密空间并遭遇小婵出现发生在小婵提出未来计划以激励祥太子之前，两个情节均发生在scene_39，且事件序列显示先有小婵出现并惊扰祥太子，随后展开劝说和未来计划的对话。",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bd33a2a7ead6",
+    "subject_id": "ep_06651ab0eddc2f9a",
+    "object_id": "ep_4c517842102d34cd",
+    "relation_type": "precedes",
+    "reason": "王后赦免小婵并留下忠告后，紧接着转身离去，随从跟随，小婵瘫坐、祥太子呆望，表明前者在叙事顺序上直接早于后者。两个情节共享scene_41的事件背景，且动作流程呈现清晰的时间先后：赦免与忠告发生在王后离开之前，众人反应发生在其后。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e0add8ecf0fe",
+    "subject_id": "ep_3aa330919b542d57",
+    "object_id": "ep_73bbe2b4a3090121",
+    "relation_type": "precedes",
+    "reason": "祥太子进入私密空间并遭遇小婵出现后，紧接着发生小婵探问出宫许可并安慰祥太子。两个情节共享同一场景（scene_39），且事件序列显示前者为后者提供情境铺垫：小婵的出现引发后续对话与安慰行为，叙事顺序明确。",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e17ddf05879d",
+    "subject_id": "ep_73a8ba86004f9238",
+    "object_id": "ep_4c517842102d34cd",
+    "relation_type": "precedes",
+    "reason": "王后审问小婵并宣判处置（导致小婵瘫倒）在叙事顺序上紧接发生于王后离去与众人反应之前，因为审问和宣判直接引发小婵瘫坐于地和祥太子呆望的后续状态，且两个情节共享同一场景编号（scene_41），表明连续时序。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d26dbee57d2f",
+    "subject_id": "ep_e8c63579cfd095da",
+    "object_id": "ep_06651ab0eddc2f9a",
+    "relation_type": "precedes",
+    "reason": "祥太子求情与王后心理对峙发生在王后宣布赦免小婵并留下忠告之前，根据描述，祥太子先跪地求情并经历对视角力，随后王后才宣布赦免并说出忠告，叙事顺序明确。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7d8710313a64",
+    "subject_id": "ep_3aa330919b542d57",
+    "object_id": "ep_73c43c32f720eed6",
+    "relation_type": "precedes",
+    "reason": "祥太子进入私密空间并遭遇小婵出现这一情节在叙事顺序上早于祥太子回应小婵的情感并展开亲昵互动，因为小婵的出现是后续情感互动的前提，且两个情节的事件均发生在scene_39中，按逻辑时序前者触发后者的发生。",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1bd322876207",
+    "subject_id": "ep_78977fb8c840967e",
+    "object_id": "ep_d7b3b1fc95966f5d",
+    "relation_type": "precedes",
+    "reason": "小婵倾诉恐惧与离宫愿望发生在她宣誓忠诚并激发祥太子情感回应之前，两个情节均发生在scene_41，但倾诉恐惧和愿望在情感发展上先于宣誓忠诚的激烈举动，叙事顺序支持前者早于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e8d959232604",
+    "subject_id": "ep_8bbcd0942dc29ec3",
+    "object_id": "ep_f763893bb6f8d808",
+    "relation_type": "precedes",
+    "reason": "王后专注绣花的情节在叙事顺序上早于通报与迎接杰王子的情节，因为绣花营造等待氛围为重逢铺垫，而太监通报打破沉寂，标志着迎接事件的开始，二者在scene_25中按时间顺序先后发生。",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0737154c0806",
+    "subject_id": "ep_73a8ba86004f9238",
+    "object_id": "ep_06651ab0eddc2f9a",
+    "relation_type": "precedes",
+    "reason": "王后审问小婵罪责并宣判处置发生在她赦免小婵并留下忠告之前，两个情节均发生在scene_41，且审问与宣判在叙事逻辑和事件流程上先于赦免与忠告。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_83d1101e284a",
+    "subject_id": "ep_86e9d69e2d6df952",
+    "object_id": "ep_ddb4503708f49e8f",
+    "relation_type": "precedes",
+    "reason": "心理压迫与沉默崩溃中，祥太子在王后逼问下低头沉默，表现出心理防线瓦解；随后在试探改变与最终摊牌中，王后转而以缓和语气试探并最终宣告要尝试改变。两个情节均发生在同一场合（王后与祥太子的秘密对峙）中，且描述的事件序列显示前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1e0df11ddb0b",
+    "subject_id": "ep_926790b5bdf743f6",
+    "object_id": "ep_91b35e8074282e64",
+    "relation_type": "precedes",
+    "reason": "祥太子紧急藏匿小婵发生在王后突袭内室并质问太子的对峙之前，根据描述，藏匿行为是在王后驾到的通报声中发生的，而质问场景是王后进入内室后的行动，因此存在明确的时间先后顺序。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b38a5a35c5d6",
+    "subject_id": "ep_3786c4207fb0a0ff",
+    "object_id": "ep_e57121b326ba570e",
+    "relation_type": "precedes",
+    "reason": "根据描述，王后在肃清宫室后立即质问祥太子是否想离开（开启对峙并质问逃意），随后才揭露三年前被引诱的真相（揭露往事与伦理挣扎），两个情节发生在同一场合（秘密对峙）中，且叙事顺序明确，前者为心理交锋的开端，后者为交锋的深化，因此存在清晰的时间先后关系。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d6ac6b482ffd",
+    "subject_id": "ep_3ce7803bab339d6f",
+    "object_id": "ep_9253e932343a65b5",
+    "relation_type": "precedes",
+    "reason": "应对王后突发疾病发生在安抚王后并恢复稳定之前，文本中王后先出现身体异常并被急救，随后才进入意识微弱恢复阶段并要求宫女退下，杰王子扶她坐稳。两个情节共享同一场景编号(scene_27)，但事件序列显示急救完成之后才进入安抚阶段，具有明确的叙事时序先后。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_483bfacc7acf",
+    "subject_id": "ep_af743fc8d9a6983d",
+    "object_id": "ep_ddf427872baaf947",
+    "relation_type": "precedes",
+    "reason": "在场景48中，蒋氏通过旧物唤醒共同记忆的情节发生在前，包括她看到画像后回忆和动容；随后才进入与大王讨论母子隔绝真相与未来安排的对话。两个情节共享同一场景编号，但根据描述顺序和情感发展逻辑，唤醒记忆为后续对话提供了情感铺垫和叙事前提，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4ec5cc511a78",
+    "subject_id": "ep_c2f56d833d9e084c",
+    "object_id": "ep_ea29aee47e1e7e95",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在重阳宴（scene_36）期间，且根据描述逻辑顺序，大王召祥太子同行发生在祥太子请求戍边之前，因为召同行是启动私下对话或处置的开端，而请求戍边是后续互动内容。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_071d9ab4cbb1",
+    "subject_id": "ep_305e9a669bf2595a",
+    "object_id": "ep_e8ece218ad1754b9",
+    "relation_type": "precedes",
+    "reason": "‘启动宫廷制药仪式’包含蒋太医指挥药工、大王移动至抽屉墙前、药工传递药抽屉等准备活动，这些事件在叙事顺序上早于‘大王演示配药并训诫王后’中大王亲自取药、称量、解释和训诫的行为。两个情节共享同一场合‘宫廷制药仪式’，且事件序列显示前者为后者提供前提和上下文，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_43_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f878c48aaa09",
+    "subject_id": "ep_1e3c1e68538954cb",
+    "object_id": "ep_9b1fd2f1d43a4264",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中蒋氏质问大王抛弃她的原因并揭示两人过往的情感断裂，为第二个情节中她坦白夜闯宫禁的真实目的（见儿子）提供了情感和背景铺垫。第二个情节通过揭示她冒险入宫的深层动机，进一步扩展和深化了第一个情节中展现的母子分离与过往欺骗的主题，构成对前一情节的背景和动机补充。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_576d59e5523c",
+    "subject_id": "ep_f763893bb6f8d808",
+    "object_id": "ep_fc495ee07f382ed3",
+    "relation_type": "precedes",
+    "reason": "通报与迎接杰王子的情节包含太监通报、王后起身、杰王子跪拜等事件，这些构成母子相认的前置仪式动作；而母子深情相认与情感流露则聚焦于相认后的情感表达，如呼唤名字、抚摸脸庞、含泪对视，属于后续的情感深化。两个情节共享同一场景（scene_25），且描述顺序和事件逻辑表明前者在叙事时间上直接早于后者。",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9dd9db7770bf",
+    "subject_id": "ep_305e9a669bf2595a",
+    "object_id": "ep_d9ba3dcfc53a8c9d",
+    "relation_type": "precedes",
+    "reason": "‘启动宫廷制药仪式’包含蒋太医指挥药工、大王监督汤锅并转向药抽屉墙准备配药等事件，而‘王后觐见与大王召见质问’始于王后抵达跪拜，随后大王质问。根据相关事件序列，制药准备活动在王后觐见之前发生，且大王在质问时已处于配药过程中，表明前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_43_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_07aef3969453",
+    "subject_id": "ep_86e9d69e2d6df952",
+    "object_id": "ep_e57121b326ba570e",
+    "relation_type": "precedes",
+    "reason": "根据描述，'心理压迫与沉默崩溃'中祥太子在王后逼问下低头沉默，是其心理防线的瓦解表现；而'揭露往事与伦理挣扎'涉及王后揭露三年前的引诱真相并引发道德抗拒，包含更进一步的对话内容。两者发生在同一场合（秘密对峙），但心理崩溃更可能发生在往事被完全揭露之前，作为对逼问的即时反应，因此叙事顺序上前者先于后者。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4ca2c1cf43bd",
+    "subject_id": "ep_272c8dbfe245551e",
+    "object_id": "ep_d2c848dfec1e5774",
+    "relation_type": "precedes",
+    "reason": "王后艰难服药并最终弃药的情节包含喝药和倒药动作，而漱口及清洁情节发生在服药（及倒药）之后，由描述中的'服药（及倒药）后'明确支持时间顺序，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_16c6db13d026",
+    "subject_id": "ep_8bbcd0942dc29ec3",
+    "object_id": "ep_fc495ee07f382ed3",
+    "relation_type": "precedes",
+    "reason": "王后专注绣花的情节营造了等待的孤独氛围，为杰王子到访和母子相认的情感高潮做情绪铺垫，且在叙事顺序上明显早于相认场景。两个情节共享同一文档和场景编号（scene_25），但绣花作为前置状态，逻辑和时间上先于相认事件的发生。",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_525d33f81d66",
+    "subject_id": "ep_e8c63579cfd095da",
+    "object_id": "ep_4c517842102d34cd",
+    "relation_type": "precedes",
+    "reason": "祥太子求情与王后心理对峙发生在王后离去与众人反应之前，因为求情对峙的结局是祥太子低头退让，直接导致王后转身离开太子宫，随从随之退出，小婵与祥太子陷入震惊。两个情节共享同一场景（scene_41），且事件序列在描述中呈现明确的先后顺序。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ff22a09aa2d7",
+    "subject_id": "ep_90cec43e276f3bf5",
+    "object_id": "ep_d2c848dfec1e5774",
+    "relation_type": "precedes",
+    "reason": "小婵提醒王后趁热服药发生在服药仪式开始后，而王后漱口并完成服药后清洁是在服药及倒药之后，由宫女们协同完成的后续流程。根据描述中的时间顺序，提醒服药在前，清洁流程在后，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9a182d1dbdf8",
+    "subject_id": "ep_60684aaa5da617cc",
+    "object_id": "ep_de1df06cf9f916df",
+    "relation_type": "precedes",
+    "reason": "蒙面人发现祥太子并决定跟踪（ep_60684aaa5da617cc）在叙事顺序上明确早于蒙面人隐蔽跟踪祥太子穿越长廊（ep_de1df06cf9f916df），前者包含‘决定尾随’的心理转变，后者则是该决定后的实际行动，且两个情节的事件均发生在同一场景（scene_47）中，按时间顺序连贯展开。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_47_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f3a8ce78ccde",
+    "subject_id": "ep_1e3c1e68538954cb",
+    "object_id": "ep_ddf427872baaf947",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_48，但根据描述，'直面过往情感与彼此指责'中蒋氏质问大王抛弃她的原因，大王表达愧疚，构成情感冲突的开端；随后在'讨论母子隔绝的真相与未来安排'中，对话转向元祥对母亲生死的误解及后续安排，逻辑和叙事顺序上呈现递进。因此，主体情节在话语流中先于客体情节发生。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4c1be98f07b6",
+    "subject_id": "ep_79df1534ffd4d677",
+    "object_id": "ep_f58694c0bff506c2",
+    "relation_type": "precedes",
+    "reason": "根据描述，'回应王后关于太子状况的质询'包含王后发问与小婵回应的完整对话过程，而'小婵压抑恐惧维持仪态'发生在对话后的持续注视中，体现情绪的后续积累。related_events显示前者发生在scene_34的对话阶段，后者紧随其后处理情绪反应，支持叙事顺序上的先后关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_743e87b3fc6b",
+    "subject_id": "ep_79df1534ffd4d677",
+    "object_id": "ep_66c1d7156cfa3068",
+    "relation_type": "precedes",
+    "reason": "根据描述，'回应王后关于太子状况的质询' 情节以王后意识到小婵不负责太子照料并终止对话结束，紧接着 '王后结束对话恢复绣花' 标志互动正式终结，且两个情节共享同一场景（scene_34）和文档（doc_33），表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_18757582cfdc",
+    "subject_id": "ep_73bbe2b4a3090121",
+    "object_id": "ep_ba93071a9882b600",
+    "relation_type": "elaborates",
+    "reason": "小婵在第一个情节中通过安慰祥太子表达支持，随后在第二个情节中进一步提出未来计划以激励他，扩展了她的情感支持策略。第二个情节提供了更深层的意图和愿景，是对前一情节中安慰行为的深化和补充。两个情节共享场景（scene_39）和情感支持目标，且无明确时间间隔或因果触发词，因此更符合扩展而非时序或因果关系。",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_17e21e0091a4",
+    "subject_id": "ep_9b1fd2f1d43a4264",
+    "object_id": "ep_ddf427872baaf947",
+    "relation_type": "elaborates",
+    "reason": "第一个情节揭示蒋氏夜闯宫禁的真实目的，包括她想见儿子以及与大王之间的历史欺骗；第二个情节在此基础上进一步展开，详细讨论母子隔绝的真相及未来安排，包括大王对隐瞒事实的回应和蒋氏拒绝补偿的决定。第二个情节在相同场景（scene_48）中延续并深化了第一个情节的情感与叙事内容，提供了更多背景和后果，因此构成对前者的扩展和细化。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6d4adcef1c4e",
+    "subject_id": "ep_181050bc25c5a146",
+    "object_id": "ep_35fed95dbe65f4ce",
+    "relation_type": "precedes",
+    "reason": "王后强忍病痛坚持刺绣的情节中，杰王子劝说王后休息、王后拒绝帮助并坚持刺绣等事件发生在同一场景（scene_27）的前半部分；而杰王子关切询问与王后掩饰病情的情节包含王后冒汗、擦拭汗水并建议杰王子去见哥哥等后续行为，这些在描述中呈现为病情进一步发展的结果，具有明确的叙事时序推进。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_19f498436451",
+    "subject_id": "ep_fcc7fd59ee7c464b",
+    "object_id": "ep_4c517842102d34cd",
+    "relation_type": "precedes",
+    "reason": "王后逼迫藏匿者现身（ep_fcc7fd59ee7c464b）在叙事顺序上直接导致王后离去与众人反应（ep_4c517842102d34cd），前者为冲突高潮，后者为后续反应，且两个情节共享同一场景（scene_41）的时序逻辑，支持前者在时间上先于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0f59362a6e14",
+    "subject_id": "ep_3786c4207fb0a0ff",
+    "object_id": "ep_ddb4503708f49e8f",
+    "relation_type": "precedes",
+    "reason": "主体情节'开启对峙并质问逃意'描述王后质问祥太子是否想离开，打破表面礼仪，拉开心理交锋的序幕；客体情节'试探改变与最终摊牌'描述王后随后尝试缓和并最终宣告要改变，祥太子以叹息回应。两个情节共享同一场合'scene_15'，且描述中呈现清晰的叙事顺序：先质问逃意，再试探改变，最后摊牌。因此，主体情节在叙事顺序上直接早于客体情节。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_58c137fb8ae7",
+    "subject_id": "ep_3786c4207fb0a0ff",
+    "object_id": "ep_86e9d69e2d6df952",
+    "relation_type": "precedes",
+    "reason": "主体情节'开启对峙并质问逃意'描述王后打破礼仪、开始质问祥太子是否想逃离，这是心理交锋的开端；客体情节'心理压迫与沉默崩溃'描述王后进一步逼近并逼问身份认知，导致祥太子沉默崩溃。两个情节共享同一场合'scene_15'，且描述中存在递进逻辑：先质问逃意，再施加心理压迫导致崩溃，叙事顺序清晰。因此，主体情节在时间与话语顺序上直接早于客体情节。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6900bb5b877d",
+    "subject_id": "ep_b341eab0bcc7bea3",
+    "object_id": "ep_376d9d216feec658",
+    "relation_type": "elaborates",
+    "reason": "确认房间陈设的纪念意义这一情节揭示了祥太子对生母的纪念行为，为后续揭示明日是重阳节且为生母忌日提供了背景和情感铺垫，扩展了后者的情节内涵。两个情节均发生在同一场景（scene_37），且前者通过具体物象（房间陈设）强化了对生母的追思，从而对后者中节日与忌日重合的情感基调进行了补充说明。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_057310133ec7",
+    "subject_id": "ep_9068f4c45c716ad2",
+    "object_id": "ep_6276217d80035e0b",
+    "relation_type": "precedes",
+    "reason": "‘完成会面的礼仪程序’包含会面初期的礼节性问候和落座，最终陷入沉默；而‘打破沉默并引出母后话题’紧随其后，由成王子主动提问以缓解尴尬，推动对话深入。两个情节共享同一场合‘三位王子的会面’，且事件序列在描述中呈现明确的先后顺序：礼仪程序结束于沉默，随后被母后话题打破。因此，礼仪程序在叙事顺序上直接早于母后话题的引入。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e5eacfd79f99",
+    "subject_id": "ep_fcf7e84e68f4e842",
+    "object_id": "ep_9b1fd2f1d43a4264",
+    "relation_type": "precedes",
+    "reason": "情节 '揭露蒋氏潜入并审问其动机' 描述了大王发现并质问蒋氏夜闯宫禁的过程，而情节 '揭示蒋氏夜闯宫禁的真实目的' 则是后续蒋氏坦白其真实动机。根据叙事顺序，审问发生在坦白之前，且两个情节共享同一场景（scene_48）中的连续事件，因此前者在话语顺序上明确早于后者。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_43f238eff4a8",
+    "subject_id": "ep_2cd97286a6a45c34",
+    "object_id": "ep_e62fc141facb3731",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'大王怒斥王后并施加权威压力' 发生在宫廷制药仪式中大王情绪爆发并对王后进行言语施压的阶段，而 '大王亲滤药汁并迫使王后服药' 紧随其后，在午时云板报时后开始，包含大王从熏椅起身走向药炉等动作。两个情节共享同一场合 '宫廷制药仪式 (scene_43)'，且事件序列在描述中呈现清晰的先后顺序：先通过言语施压建立权威，再通过服药仪式落实控制。因此，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_43_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0d977f17fe4a",
+    "subject_id": "ep_fcf7e84e68f4e842",
+    "object_id": "ep_1e3c1e68538954cb",
+    "relation_type": "precedes",
+    "reason": "根据描述，揭露蒋氏潜入并审问其动机的情节发生在大王质问蒋氏过往情感之前。在潜入被发现、身份确认后，才发展为情绪对峙和往事追责。相关事件序列显示，大王先认出蒋氏身份（ep_fcf7e84e68f4e842），随后才发生她质问大王抛弃她的原因（ep_1e3c1e68538954cb），因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5d9b1a34ca11",
+    "subject_id": "ep_e8ece218ad1754b9",
+    "object_id": "ep_e62fc141facb3731",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述及其相关事件序列，'大王演示配药并训诫王后'包含取药、称量、解释药物及训斥王后等动作，逻辑上发生在药汁制备与服药之前；而'大王亲滤药汁并迫使王后服药'紧随其后，涉及过滤、盛装、吹凉及迫使服药，构成制药仪式的后续阶段。两个情节共享同一场合'宫廷制药仪式 (scene_43)'，且事件序列在时间上连续，支持前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_43_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3a493417b365",
+    "subject_id": "ep_2cd97286a6a45c34",
+    "object_id": "ep_e8ece218ad1754b9",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'大王怒斥王后并施加权威压力'中包含大王折断秤杆、质问王后、警告其守规矩等事件，而'大王演示配药并训诫王后'中大王开始取药、称量并解释药物用途。折断秤杆（作为权威展示）发生在称量药材之前，且训诫是在演示过程中进一步展开，表明前者在叙事顺序上紧接并早于后者。两个情节均发生在同一场合'宫廷制药仪式 (scene_43)'中，支持其时间上的连续性。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_43_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_239995556089",
+    "subject_id": "ep_305e9a669bf2595a",
+    "object_id": "ep_e62fc141facb3731",
+    "relation_type": "precedes",
+    "reason": "‘启动宫廷制药仪式’描述的是制药活动的准备阶段，包括蒋太医指挥药工、大王监督并移向药抽屉墙等事件；而‘大王亲滤药汁并迫使王后服药’发生在午时云板报时后，包含大王从熏椅起身走向药炉、亲自滤药、王后服药等后续动作。两个情节共享同一场合‘宫廷制药仪式 (scene_43)’，且第二个情节中的动作在时间顺序上明显接续第一个情节的准备阶段，因此‘启动宫廷制药仪式’在叙事顺序上早于‘大王亲滤药汁并迫使王后服药’。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_43_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d7ba5f54ceee",
+    "subject_id": "ep_4a7213b63a5fa7ea",
+    "object_id": "ep_3ce7803bab339d6f",
+    "relation_type": "precedes",
+    "reason": "王室成员登阶前往菊花台是抵达菊花台的过程，而王后在绣菊花时突发疾病发生在菊花台场景中，逻辑上登阶行动应在疾病事件之前，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f31cbc9e6af2",
+    "subject_id": "ep_dfdd43a9e4426c27",
+    "object_id": "ep_ddf427872baaf947",
+    "relation_type": "precedes",
+    "reason": "大王与蒋氏相认并回顾分离岁月发生在讨论母子隔绝的真相与未来安排之前，因为相认是后续对话的前提，且两个情节均发生在同一场景（scene_48）中，逻辑顺序和叙事流程支持前者先发生。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6ee988374e04",
+    "subject_id": "ep_f763893bb6f8d808",
+    "object_id": "ep_9253e932343a65b5",
+    "relation_type": "precedes",
+    "reason": "通报与迎接杰王子发生在王后意识微弱恢复并被安抚之前，叙事顺序上先有杰王子到来的迎接仪式，随后才是王后状态的进一步稳定处理。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_110e62b9f836",
+    "subject_id": "ep_9b1fd2f1d43a4264",
+    "object_id": "ep_dfdd43a9e4426c27",
+    "relation_type": "precedes",
+    "reason": "根据描述，蒋氏坦白入宫目的及与大王的对峙发生在大王认出她身份之前。related_events 中的场景编号均为 scene_48，但逻辑顺序显示坦白和质疑先于相认。因此，揭示真实目的的情节在叙事顺序上先于相认并回顾分离岁月的情节。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3ba69a4bb7e8",
+    "subject_id": "ep_16096c05fd751d35",
+    "object_id": "ep_fee9287e0caac3ce",
+    "relation_type": "precedes",
+    "reason": "蒙面人先完成潜入御药坊并取走草药的行动，随后才察觉太监出现并躲避，叙事顺序在描述中明确为先后发生。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a7d8a823f046",
+    "subject_id": "ep_dfdd43a9e4426c27",
+    "object_id": "ep_af743fc8d9a6983d",
+    "relation_type": "elaborates",
+    "reason": "大王与蒋氏相认并回顾分离岁月这一情节中，大王认出蒋氏并提及二十五年未见，为后续通过旧物唤醒共同记忆提供了情感基础和背景；后者进一步通过具体物品和习惯扩展了相认后的情感交流内容，深化了两人过往关系的理解，因此前者被后者以补充细节的方式展开。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cefff6b1e31e",
+    "subject_id": "ep_3ce7803bab339d6f",
+    "object_id": "ep_87b491ff184682b1",
+    "relation_type": "precedes",
+    "reason": "应对王后突发疾病发生在王后服药仪式之前，根据事件描述的自然顺序和场景编号（scene_27 在 scene_36 之前），该关系在叙事时间线上明确早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d59c39f531d5",
+    "subject_id": "ep_dfdd43a9e4426c27",
+    "object_id": "ep_1e3c1e68538954cb",
+    "relation_type": "precedes",
+    "reason": "大王与蒋氏相认并回顾分离岁月的情节中，大王确认身份并提及二十五年未见，为后续蒋氏情绪爆发并质问大王抛弃她的原因提供了叙事前提。相关事件在scene_48中按相认、回顾、质问、愧疚的顺序展开，表明前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9fe6650b4ac7",
+    "subject_id": "ep_de1df06cf9f916df",
+    "object_id": "ep_fedffea658e32ac5",
+    "relation_type": "precedes",
+    "reason": "蒙面人隐蔽跟踪祥太子穿越长廊发生在其目送祥太子离去并流露情感之前，根据描述，跟踪和躲藏行为在祥太子离开后才结束，随后出现情感流露，叙事顺序明确。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_47_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2c24073073d6",
+    "subject_id": "ep_e3082dadc47c0a22",
+    "object_id": "ep_c2f56d833d9e084c",
+    "relation_type": "precedes",
+    "reason": "根据描述，大王在任命杰王子为值令官之后，才召祥太子同行，二者发生在同一场景（scene_36）中，且逻辑上任命完成后转向祥太子，表明时间上的先后顺序。因此，'任命杰王子为重阳节值令官'在叙事顺序上先于'大王召祥太子同行'。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ce6f67dd1efa",
+    "subject_id": "ep_35fed95dbe65f4ce",
+    "object_id": "ep_3ce7803bab339d6f",
+    "relation_type": "precedes",
+    "reason": "杰王子关切询问与王后掩饰病情发生在王后突发严重身体异常之前，根据描述，王后在对话中先出现冒汗等前兆，随后才发展为颤抖、抽搐和呼吸困难，情节在时间顺序上紧密衔接且具有明确的先后关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_108b4c12aba6",
+    "subject_id": "ep_de1df06cf9f916df",
+    "object_id": "ep_899a85a782497fcc",
+    "relation_type": "precedes",
+    "reason": "蒙面人隐蔽跟踪祥太子穿越长廊发生在其被祥太子发现并发生对峙、最终被捕之前。根据描述和相关事件的时间逻辑，跟踪行为是后续对峙和围捕的前置情节，叙事顺序明确。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_47_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_007cfc2463ee",
+    "subject_id": "ep_fcf7e84e68f4e842",
+    "object_id": "ep_ddf427872baaf947",
+    "relation_type": "precedes",
+    "reason": "情节'揭露蒋氏潜入并审问其动机'中，大王刚认出蒋氏身份，尚在质问阶段；而情节'讨论母子隔绝的真相与未来安排'涉及对母子关系、隐瞒真相及后续安排的深入对话，逻辑和叙事上紧随其后。两个情节均发生在同一场景（scene_48），但事件序列显示潜入与审问发生在前，真相讨论与未来安排在后。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b6726f3a9dd7",
+    "subject_id": "ep_181050bc25c5a146",
+    "object_id": "ep_3ce7803bab339d6f",
+    "relation_type": "precedes",
+    "reason": "王后强忍病痛坚持刺绣发生在她突发严重身体异常之前，文本中两个情节均发生在scene_27，但坚持刺绣的行为（如手抖、嘴唇青紫）在逻辑和叙事顺序上先于突发抽搐和呼吸困难，构成直接前序事件。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_46590bca6128",
+    "subject_id": "ep_d9ba3dcfc53a8c9d",
+    "object_id": "ep_e8ece218ad1754b9",
+    "relation_type": "precedes",
+    "reason": "王后觐见与大王召见质问发生在大王演示配药并训诫王后之前，因为大王在质问王后是否知晓被召见原因后，才开始亲自取药、称量并进行训诫。两个情节共享同一场景（scene_43）和场合（宫廷制药仪式），且事件序列在描述中呈现清晰的先后顺序：先质问，再演示与训诫。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_43_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bb7f1dd4a8d0",
+    "subject_id": "ep_181050bc25c5a146",
+    "object_id": "ep_9253e932343a65b5",
+    "relation_type": "precedes",
+    "reason": "王后强忍病痛坚持刺绣发生在她意识微弱恢复之前，根据场景27中的事件顺序，刺绣过程中的用力过度导致身体恶化，随后才出现意识恢复后的安抚情节，因此该情节在叙事顺序上早于安抚王后并恢复稳定。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_52d47f7e5313",
+    "subject_id": "ep_fc495ee07f382ed3",
+    "object_id": "ep_9253e932343a65b5",
+    "relation_type": "precedes",
+    "reason": "母子深情相认与情感流露发生在王后意识微弱恢复并要求宫女退下之前，根据叙事逻辑和情感发展顺序，情感高潮（相认）通常先于后续的安抚与稳定过程。相关事件的时间戳（scene_25 在 scene_27 之前）也支持这一顺序。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2dbfd74cf536",
+    "subject_id": "ep_60684aaa5da617cc",
+    "object_id": "ep_fedffea658e32ac5",
+    "relation_type": "precedes",
+    "reason": "蒙面人发现祥太子并决定跟踪发生在其目送祥太子离去并流露情感之前。根据描述，前者是跟踪行动的开始，后者是跟踪过程中在祥太子离开后的收束性情感反应，二者在时间顺序上连续且均发生在scene_47，叙事顺序明确。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_47_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c1989521913d",
+    "subject_id": "ep_64025e7534a5670f",
+    "object_id": "ep_c99066dffb60c7ff",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_32）中，且根据描述顺序和事件流，蒋太医先揭示西域草乌头的危险并警告泄密后果，随后才试探小婵与太子的关系，叙事上存在明确的先后顺序。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_29cf27d8a62d",
+    "subject_id": "ep_b66962c08cb43e1b",
+    "object_id": "ep_c99066dffb60c7ff",
+    "relation_type": "precedes",
+    "reason": "根据描述，小婵进入御药坊并遭遇父亲阻拦后，蒋太医才紧跟其后并开始试探她与太子的关系。两个情节发生在同一场景（scene_32），且事件序列显示前者在叙事顺序上直接早于后者，具有明确的时间推进。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_44f95299f97f",
+    "subject_id": "ep_1b6c681e2987d288",
+    "object_id": "ep_386f03b133aefd45",
+    "relation_type": "precedes",
+    "reason": "王后得知二王子将进宫而欣喜发生在成王子向王后问安并整理凤冠之前，因为成王子先告知王后二王子在天福官驿候旨，随后才进入房间行礼问安并整理凤冠，叙事顺序明确。",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c9bc943d8ab0",
+    "subject_id": "ep_35fed95dbe65f4ce",
+    "object_id": "ep_87b491ff184682b1",
+    "relation_type": "precedes",
+    "reason": "杰王子关切询问王后病情发生在王后服药仪式之前，根据描述，前者是王后尚未服药时的私下互动，而后者是在大王施压下完成服药的公开仪式，且相关事件在场景编号上分别为scene_27和scene_36，表明明确的时间先后顺序。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c6e16820b098",
+    "subject_id": "ep_f763893bb6f8d808",
+    "object_id": "ep_35fed95dbe65f4ce",
+    "relation_type": "precedes",
+    "reason": "通报与迎接杰王子（ep_f763893bb6f8d808）发生在杰王子关切询问与王后掩饰病情（ep_35fed95dbe65f4ce）之前，因为母子重逢的仪式开启后，才发展到杰王子询问王后健康状况并观察其异常表现。相关事件的时间顺序和叙事流程支持这一先后关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_297ad73f6453",
+    "subject_id": "ep_386f03b133aefd45",
+    "object_id": "ep_6f14d9a2b73d498a",
+    "relation_type": "precedes",
+    "reason": "成王子向王后问安并整理凤冠发生在其转述大王子欲出宫之前，根据场景顺序（scene_13）中的事件流，先有亲密礼节行为，再有消息转达导致王后情绪变化，叙事顺序明确。",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c3ae3df578bb",
+    "subject_id": "ep_6f14d9a2b73d498a",
+    "object_id": "ep_9c417f955bbf8619",
+    "relation_type": "precedes",
+    "reason": "成王子转述大王子欲出宫致王后神情转阴发生在王后情绪变化之后，紧接着王后沉着脸走向走廊，成王子跟随，叙事顺序上前者明确早于后者，且情绪反应直接推动后续行动。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6f94eea3ed0e",
+    "subject_id": "ep_35fed95dbe65f4ce",
+    "object_id": "ep_9253e932343a65b5",
+    "relation_type": "precedes",
+    "reason": "根据描述，杰王子关切询问与王后掩饰病情发生在王后身体出现异常并出汗之后，而安抚王后并恢复稳定发生在王后意识微弱恢复后，杰王子扶她坐稳。两个情节均发生在scene_27，但前者涉及王后掩饰痛苦，后者涉及在状态恶化后恢复稳定，叙事顺序上前者先于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2d900eea4a1a",
+    "subject_id": "ep_f763893bb6f8d808",
+    "object_id": "ep_3ce7803bab339d6f",
+    "relation_type": "precedes",
+    "reason": "通报与迎接杰王子（ep_f763893bb6f8d808）发生在王后绣菊花期间，而应对王后突发疾病（ep_3ce7803bab339d6f）紧随其后，描述王后在绣菊花时突发异常，表明前者在叙事时间线上早于后者。两个情节共享‘王后绣菊花’的上下文，且事件序列从迎接转向急救，支持明确的时间先后顺序。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_328814a79222",
+    "subject_id": "ep_af63e3b20d6f1ccd",
+    "object_id": "ep_e3082dadc47c0a22",
+    "relation_type": "precedes",
+    "reason": "剑锋下的权力训诫发生在大王对杰王子进行武力压制并训导其服从的场景中，而任命杰王子为重阳节值令官是后续对其赋予职责的正式安排。文本中，权力训诫为杰王子确立了服从地位，为其后被任命承担重要职责提供了叙事前提，且两事件在文档时序上分别位于scene_22和scene_36，支持前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_22_part_2",
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_82caeb939a65",
+    "subject_id": "ep_db18b40eb47d723d",
+    "object_id": "ep_efe7721d2b7befec",
+    "relation_type": "precedes",
+    "reason": "王后下令退下以密谈发生在王后与祥太子对出行理由的对峙之前，因为前者创造了二人独处的条件，为后续对峙提供了必要的情境准备，且相关事件均发生在不同场景中（scene_31 vs scene_18），支持明确的时间顺序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_53d441b1f039",
+    "subject_id": "ep_6f14d9a2b73d498a",
+    "object_id": "ep_edad5f62eb72a124",
+    "relation_type": "precedes",
+    "reason": "成王子转述大王子欲出宫致王后神情转阴发生在场景13，而应对王后的突发不适发生在场景14，且后者描述王后在行进中突然不适，暗示情绪变化的延续。因此，前者在叙事顺序上早于后者，且王后神情转阴可能为后续突发不适提供情绪铺垫，但无直接因果证据。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c930b8858570",
+    "subject_id": "ep_3786c4207fb0a0ff",
+    "object_id": "ep_efe7721d2b7befec",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在肃清宫室后，王后立即质问祥太子是否想逃离，标志着对峙的开始；第二个情节发生在后续场景中，围绕青州之行的理由展开进一步对峙，时间顺序清晰，前者为心理交锋的开端，后者为后续发展，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d7922217c641",
+    "subject_id": "ep_60684aaa5da617cc",
+    "object_id": "ep_899a85a782497fcc",
+    "relation_type": "precedes",
+    "reason": "蒙面人发现祥太子并决定跟踪（ep_60684aaa5da617cc）在叙事顺序上明确早于蒙面人与祥太子对峙并遭蓝衣太监围捕（ep_899a85a782497fcc），因为跟踪行为是导致后续对峙和被捕的必要前提，且两个情节的事件均发生在同一场景（scene_47）中，按时间顺序连贯展开。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_47_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b25abdcbd6e3",
+    "subject_id": "ep_66fdb61295cd38bd",
+    "object_id": "ep_efe7721d2b7befec",
+    "relation_type": "precedes",
+    "reason": "成王子试图缓和宫廷紧张气氛的情节中，他首先询问祥太子前往青州的原因，这一行为直接引出后续王后与祥太子就出行理由的对峙。两个情节发生在同一场合（宫廷肃立仪式），且事件序列显示成王子的提问在时间上先于王后与祥太子之间的紧张互动，因此支持'precedes'关系。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f29d2a7ff3f5",
+    "subject_id": "ep_86e9d69e2d6df952",
+    "object_id": "ep_efe7721d2b7befec",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均涉及祥太子在王后质问下以沉默回应，但心理压迫与沉默崩溃聚焦于身份认知的瓦解，而对出行理由的对峙则体现动机解释的冲突，二者并置凸显母子权力关系中的重复模式与情境差异，形成叙事对比。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5944282b20d9",
+    "subject_id": "ep_9c417f955bbf8619",
+    "object_id": "ep_edad5f62eb72a124",
+    "relation_type": "precedes",
+    "reason": "根据描述，'王后与成王子走向走廊' 是一个行进中的情节，而 '应对王后的突发不适' 发生在行进过程中王后突然停下并表现出不适。related_events 中显示两者均涉及王后和随行人员在走廊行进的场景，且突发不适事件发生在行进过程中，因此走向走廊的情节在叙事顺序上先于突发不适的应对。尽管具体时间顺序未明说，但逻辑上行进必须先于突发状况的发生，支持 precedes 关系。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_52ea0f6f8547",
+    "subject_id": "ep_efe7721d2b7befec",
+    "object_id": "ep_4c517842102d34cd",
+    "relation_type": "precedes",
+    "reason": "王后与祥太子对出行理由的对峙发生在王后离去与众人反应之前，因为对峙是王后决定离开的直接导火索，随后王后转身离开太子宫并引发众人的反应，叙事顺序清晰。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_79bffb8623b7",
+    "subject_id": "ep_db18b40eb47d723d",
+    "object_id": "ep_e57121b326ba570e",
+    "relation_type": "precedes",
+    "reason": "王后下令退下以密谈发生在揭露往事与伦理挣扎之前，因为前者为二人独处创造条件，后者依赖于这一私密对峙场景的建立。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f1a69439e398",
+    "subject_id": "ep_b66962c08cb43e1b",
+    "object_id": "ep_64025e7534a5670f",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，小婵进入御药坊并遭遇父亲阻拦（ep_b66962c08cb43e1b）发生在她与蒋太医后续对话之前，而该对话构成了蒋太医揭示西域草乌头危险并警告泄密后果（ep_64025e7534a5670f）的核心内容。related_events 中的事件序列也支持这一时间顺序：小婵进入御药坊、被抓住、挣脱后继续前行，随后才发生草药揭示和警告。因此，前一情节在叙事顺序上明确早于后一情节。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8deed8e499f9",
+    "subject_id": "ep_db18b40eb47d723d",
+    "object_id": "ep_e8c63579cfd095da",
+    "relation_type": "precedes",
+    "reason": "王后下令退下以密谈发生在祥太子求情与王后心理对峙之前，因为前者为二人独处创造条件，后者依赖于该独处场景的建立。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e9daad8f22d2",
+    "subject_id": "ep_db18b40eb47d723d",
+    "object_id": "ep_fcc7fd59ee7c464b",
+    "relation_type": "precedes",
+    "reason": "王后下令退下以密谈发生在王后逼迫藏匿者现身之前，因为前者创造了二人独处的条件，为后续对峙和藏匿者被发现的情节发展提供了必要前提，叙事顺序上具有明确的先后关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_afc7466a8860",
+    "subject_id": "ep_db18b40eb47d723d",
+    "object_id": "ep_4c517842102d34cd",
+    "relation_type": "precedes",
+    "reason": "王后下令退下以密谈发生在王后离去与众人反应之前，因为前者是密谈的准备步骤，而后者描述的是王后离开太子宫后的反应，叙事顺序上具有明确的先后关系。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_74256b0b2c96",
+    "subject_id": "ep_3aa330919b542d57",
+    "object_id": "ep_926790b5bdf743f6",
+    "relation_type": "precedes",
+    "reason": "祥太子进入私密空间并遭遇小婵出现发生在王后驾到之前，随后祥太子紧急藏匿小婵以应对王后到来，叙事顺序明确，前者在时间上直接早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b5da1a81e07e",
+    "subject_id": "ep_db18b40eb47d723d",
+    "object_id": "ep_86e9d69e2d6df952",
+    "relation_type": "precedes",
+    "reason": "王后下令退下以密谈（ep_db18b40eb47d723d）为王后与祥太子的秘密对峙创造条件，随后发生心理压迫与沉默崩溃（ep_86e9d69e2d6df952），二者在叙事顺序上具有明确的先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ce05dfe3b916",
+    "subject_id": "ep_3aa330919b542d57",
+    "object_id": "ep_78977fb8c840967e",
+    "relation_type": "precedes",
+    "reason": "祥太子进入私密空间并遭遇小婵出现（scene_39）在叙事顺序上早于小婵倾诉恐惧与离宫愿望（scene_41），且两个情节分别关联到连续的场景编号，表明时间上的先后顺序。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_da75635cbb5c",
+    "subject_id": "ep_73bbe2b4a3090121",
+    "object_id": "ep_06651ab0eddc2f9a",
+    "relation_type": "precedes",
+    "reason": "小婵探问出宫许可并安慰祥太子（scene_39）发生在王后赦免小婵并留下忠告（scene_41）之前，根据场景编号的顺序可推断叙事时间线上前者早于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5c64d6300b23",
+    "subject_id": "ep_73bbe2b4a3090121",
+    "object_id": "ep_78977fb8c840967e",
+    "relation_type": "precedes",
+    "reason": "小婵探问出宫许可并安慰祥太子发生在祥太子被安慰后小婵进一步倾诉恐惧与离宫愿望之前，两个情节在叙事上连续，且相关事件分别位于scene_39和scene_41，表明明确的时间顺序。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0e0760c4fe4c",
+    "subject_id": "ep_73c43c32f720eed6",
+    "object_id": "ep_926790b5bdf743f6",
+    "relation_type": "precedes",
+    "reason": "祥太子与小婵的亲昵互动发生在王后驾到之前，紧接着祥太子因王后到来而紧急藏匿小婵，叙事顺序明确显示前者早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ec9a2abb2487",
+    "subject_id": "ep_78977fb8c840967e",
+    "object_id": "ep_ba93071a9882b600",
+    "relation_type": "elaborates",
+    "reason": "小婵在表达恐惧与离宫愿望后，进一步提出具体未来计划以激励祥太子，后者扩展了前者的离宫愿望，加入了重阳后出宫和前往青州的细节，构成对同一主题的深化和推进。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_166dd6e17055",
+    "subject_id": "ep_3aa330919b542d57",
+    "object_id": "ep_06651ab0eddc2f9a",
+    "relation_type": "precedes",
+    "reason": "祥太子进入私密空间并遭遇小婵出现（scene_39）发生在王后赦免小婵并留下深意忠告（scene_41）之前，根据场景编号的顺序，scene_39早于scene_41，因此该关系在叙事顺序上有明确支持。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6f44452b9d54",
+    "subject_id": "ep_db18b40eb47d723d",
+    "object_id": "ep_ddb4503708f49e8f",
+    "relation_type": "precedes",
+    "reason": "王后下令退下以密谈（ep_db18b40eb47d723d）发生在王后与祥太子的秘密对峙场景中，为后续的试探改变与最终摊牌（ep_ddb4503708f49e8f）创造条件，且后者明确发生在同一私密对峙场合中，具有清晰的叙事先后顺序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eca64d06639d",
+    "subject_id": "ep_73bbe2b4a3090121",
+    "object_id": "ep_4c517842102d34cd",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'小婵探问出宫许可并安慰祥太子'发生在scene_39，而'王后离去与众人反应'发生在scene_41，scene_39在叙事顺序上早于scene_41，因此该关系为precedes。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bdfadb4bb46c",
+    "subject_id": "ep_73bbe2b4a3090121",
+    "object_id": "ep_926790b5bdf743f6",
+    "relation_type": "precedes",
+    "reason": "小婵探问出宫许可并安慰祥太子发生在祥太子紧急藏匿小婵之前，根据文档顺序（doc_38 在 doc_40 之前）以及事件流的自然发展：先有私下互动，后因王后到来而紧急藏匿，表明时间上的先后顺序。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a9e7649c1c88",
+    "subject_id": "ep_db18b40eb47d723d",
+    "object_id": "ep_91b35e8074282e64",
+    "relation_type": "precedes",
+    "reason": "王后下令退下以密谈（ep_db18b40eb47d723d）发生在王后突袭内室并质问太子逾礼行为（ep_91b35e8074282e64）之前，因为前者为二人独处创造条件，后者描述的是在该密谈场景中展开的对峙，叙事顺序上存在明确先后关系。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a37c3907a691",
+    "subject_id": "ep_ba93071a9882b600",
+    "object_id": "ep_06651ab0eddc2f9a",
+    "relation_type": "precedes",
+    "reason": "小婵提出未来计划以激励祥太子（scene_39）发生在王后赦免小婵并留下深意忠告（scene_41）之前，根据场景编号的顺序，scene_39早于scene_41，因此该关系在叙事顺序上有明确支持。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_40612521a0b7",
+    "subject_id": "ep_db18b40eb47d723d",
+    "object_id": "ep_06651ab0eddc2f9a",
+    "relation_type": "precedes",
+    "reason": "王后下令退下以密谈（ep_db18b40eb47d723d）发生在王后赦免小婵并留下深意忠告（ep_06651ab0eddc2f9a）之前，因为密谈场景为后续赦免和忠告提供了必要的私密条件，且两个情节在叙事上连续，前者为后者铺垫。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b5d8a29be5ba",
+    "subject_id": "ep_91b35e8074282e64",
+    "object_id": "ep_e57121b326ba570e",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中王后质问太子逾礼行为，第二个情节进一步揭示三年前被引诱的往事及伦理挣扎，提供了前一情节中对峙背后的情感与道德背景，扩展了冲突的深层动因。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ffc61c743628",
+    "subject_id": "ep_73c43c32f720eed6",
+    "object_id": "ep_78977fb8c840967e",
+    "relation_type": "precedes",
+    "reason": "祥太子与小婵的亲昵互动（scene_39）发生在小婵倾诉恐惧与离宫愿望之前（scene_41），根据相关事件的时间顺序，情节'祥太子回应小婵的情感并展开亲昵互动'在叙事顺序上早于'小婵倾诉恐惧与离宫愿望'。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_082e84a51be6",
+    "subject_id": "ep_ba93071a9882b600",
+    "object_id": "ep_d7b3b1fc95966f5d",
+    "relation_type": "precedes",
+    "reason": "小婵提出未来计划以激励祥太子（doc_38）发生在小婵宣誓忠诚并激发祥太子情感回应（doc_40）之前，依据文档ID的顺序（doc_38在doc_40之前）以及情节发展的自然流程：先有对未来的规划劝说，后有情感爆发与身体接触，表明叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a583e396eddb",
+    "subject_id": "ep_3aa330919b542d57",
+    "object_id": "ep_d7b3b1fc95966f5d",
+    "relation_type": "precedes",
+    "reason": "祥太子进入私密空间并遭遇小婵出现（ep_3aa330919b542d57）发生在小婵宣誓忠诚并激发祥太子情感回应（ep_d7b3b1fc95966f5d）之前，根据相关场景编号（scene_39 先于 scene_41）和叙事顺序，前者为后者的直接前提，因此在时间线上明确 precedes 后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e1fb82f67d7e",
+    "subject_id": "ep_3786c4207fb0a0ff",
+    "object_id": "ep_06651ab0eddc2f9a",
+    "relation_type": "precedes",
+    "reason": "情节'开启对峙并质问逃意'发生在王后与祥太子的秘密对峙场景（scene_15），而'王后赦免小婵并留下深意忠告'发生在scene_41，scene_15在文档时序上早于scene_41，因此该关系在叙事顺序上有明确支持。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6086ce197b29",
+    "subject_id": "ep_3786c4207fb0a0ff",
+    "object_id": "ep_4c517842102d34cd",
+    "relation_type": "precedes",
+    "reason": "情节 '开启对峙并质问逃意' 发生在王后与祥太子的秘密对峙场景中，而 '王后离去与众人反应' 发生在王后离开太子宫的后续场景，相关事件分别位于 scene_15 和 scene_41，表明前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3ec7a9244eb1",
+    "subject_id": "ep_3aa330919b542d57",
+    "object_id": "ep_fcc7fd59ee7c464b",
+    "relation_type": "precedes",
+    "reason": "祥太子进入私密空间并遭遇小婵出现（ep_3aa330919b542d57）发生在王后逼迫藏匿者现身（ep_fcc7fd59ee7c464b）之前，根据相关事件的时间顺序：小婵从屏风后出现（scene_39）早于王后命令藏匿者现身（scene_41），且文档编号 doc_38 先于 doc_40，支持叙事上的先后顺序。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_36d353ecd2db",
+    "subject_id": "ep_3786c4207fb0a0ff",
+    "object_id": "ep_e8c63579cfd095da",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述王后在肃清宫室后立即质问祥太子是否想离开，拉开对峙序幕；第二个情节描述祥太子在被质问后跪地请罪并请求赦免小婵，二者在叙事上呈现连续发展，前者为后者提供直接情境铺垫，且相关事件分别发生在scene_15和scene_41，支持时间顺序上的先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0f5f1378cfb7",
+    "subject_id": "ep_3786c4207fb0a0ff",
+    "object_id": "ep_fcc7fd59ee7c464b",
+    "relation_type": "precedes",
+    "reason": "‘开启对峙并质问逃意’发生在王后与祥太子的秘密对峙场合中，而‘王后逼迫藏匿者现身’发生在后续场景，且两者均属于王后逐步施压的心理交锋过程。根据叙事顺序，质问逃意为冲突的开端，逼迫藏匿者现身则是其发展与升级，因此前者在时间与叙事结构上早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5d74da258d67",
+    "subject_id": "ep_73bbe2b4a3090121",
+    "object_id": "ep_d7b3b1fc95966f5d",
+    "relation_type": "precedes",
+    "reason": "小婵探问出宫许可并安慰祥太子（ep_73bbe2b4a3090121）发生在祥太子仍处于沉默与沮丧状态时，而后续情节中小婵宣誓忠诚并激发祥太子情感回应（ep_d7b3b1fc95966f5d）显示其情绪已转变并产生互动升级。两个情节在叙事上连续，且文档ID（doc_38 vs doc_40）和场景编号（scene_39 vs scene_41）表明前者在时间顺序上早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9ca9f32cb742",
+    "subject_id": "ep_e57121b326ba570e",
+    "object_id": "ep_06651ab0eddc2f9a",
+    "relation_type": "precedes",
+    "reason": "揭露往事与伦理挣扎（ep_e57121b326ba570e）发生在王后赦免小婵并留下深意忠告（ep_06651ab0eddc2f9a）之前，因为情感与伦理的对峙为后续赦免决定和意味深长的忠告提供了叙事前提，且相关事件在各自scene_15和scene_41中的编号支持该时间顺序。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cb1eaca04c24",
+    "subject_id": "ep_86e9d69e2d6df952",
+    "object_id": "ep_e8c63579cfd095da",
+    "relation_type": "elaborates",
+    "reason": "两个情节均涉及王后与祥太子在对视中展开心理对峙，且均以祥太子低头退让结束。'心理压迫与沉默崩溃'聚焦于祥太子因凝视而沉默的心理瓦解，而'祥太子求情与王后心理对峙'扩展了该情境，加入了求情、讥讽等额外事件，提供了更丰富的背景和互动细节，表明后者对前者进行了情节上的充实和扩展。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_9d59cb673c35",
+    "subject_id": "ep_c2f56d833d9e084c",
+    "object_id": "ep_b341eab0bcc7bea3",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'大王召祥太子同行'发生在scene_36，而'确认房间陈设的纪念意义'发生在scene_37，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0622f40ed5a3",
+    "subject_id": "ep_8bdd269eba96795d",
+    "object_id": "ep_ea29aee47e1e7e95",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'祥太子请求戍边未获回应'发生在scene_36，而'质问改立太子的意图'发生在scene_37，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_df6dc6d44919",
+    "subject_id": "ep_86e9d69e2d6df952",
+    "object_id": "ep_4c517842102d34cd",
+    "relation_type": "precedes",
+    "reason": "心理压迫与沉默崩溃（ep_86e9d69e2d6df952）发生在王后与祥太子的秘密对峙场景（scene_15），而王后离去与众人反应（ep_4c517842102d34cd）发生在王后离开太子宫的场景（scene_41），scene_15在叙事顺序上早于scene_41，因此该关系为precedes。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1d60eff7a75a",
+    "subject_id": "ep_c2f56d833d9e084c",
+    "object_id": "ep_8bdd269eba96795d",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，大王召祥太子同行（scene_36）发生在质问改立太子的意图（scene_37）之前，且两个情节通过连续场景编号表明叙事上的先后顺序。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7a142adb6c73",
+    "subject_id": "ep_91b35e8074282e64",
+    "object_id": "ep_86e9d69e2d6df952",
+    "relation_type": "precedes",
+    "reason": "王后突袭内室并质问太子逾礼行为（ep_91b35e8074282e64）中，祥太子尚能强作镇定；而在心理压迫与沉默崩溃（ep_86e9d69e2d6df952）中，其心理防线已瓦解并低头沉默。两情节共享王后对祥太子施压的叙事脉络，且从克制对峙到心理崩溃呈现递进顺序，支持前者在叙事时间上先于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_802612bedb13",
+    "subject_id": "ep_8bdd269eba96795d",
+    "object_id": "ep_0042d9f822e25f39",
+    "relation_type": "elaborates",
+    "reason": "质问改立太子的意图这一情节中，大王通过心理试探引发祥太子表明换储请求出于忠诚的回应，后者进一步解释其动机，为前者的对峙情境提供了内在动机和情感背景，构成对先前紧张互动的扩展与深化。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e1c4efb18aee",
+    "subject_id": "ep_ddb4503708f49e8f",
+    "object_id": "ep_4c517842102d34cd",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，'试探改变与最终摊牌'中王后宣告要尝试改变并离开，这一行为直接导致后续'王后离去与众人反应'中王后离开太子宫、小婵瘫坐、祥太子呆望等反应。两个情节共享王后离开这一关键动作，且后者明显是前者结果的延续，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cda8952f875c",
+    "subject_id": "ep_0042d9f822e25f39",
+    "object_id": "ep_3817ad0f80768c81",
+    "relation_type": "precedes",
+    "reason": "祥太子主动申明换储请求出于忠诚，发生在大王沉默后叹息并暗示理解其隐忍之前。根据描述，祥太子先表达忠诚动机，随后大王作出情感回应，推动心理张力达到高潮，符合叙事顺序上的先后关系。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1b8e00bc9aa4",
+    "subject_id": "ep_78977fb8c840967e",
+    "object_id": "ep_fcc7fd59ee7c464b",
+    "relation_type": "precedes",
+    "reason": "小婵倾诉恐惧与离宫愿望发生在王后逼迫藏匿者现身之前，两个情节均位于scene_41，但小婵依偎并表达情感在前，王后察觉异常并下令在后，叙事顺序明确。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3228c2e718d5",
+    "subject_id": "ep_ea29aee47e1e7e95",
+    "object_id": "ep_3817ad0f80768c81",
+    "relation_type": "precedes",
+    "reason": "祥太子请求戍边未获回应（发生在重阳宴场景）在叙事时间线上早于大王暗示理解祥太子的隐忍，后者出现在后续场景中，且两事件之间存在情感张力的递进发展，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ad9365700583",
+    "subject_id": "ep_c2f56d833d9e084c",
+    "object_id": "ep_3817ad0f80768c81",
+    "relation_type": "precedes",
+    "reason": "大王召祥太子同行发生在重阳宴场景（doc_35），而大王暗示理解祥太子的隐忍发生在后续的沉默之后（doc_36），文档顺序和事件上下文表明前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_aeee6bec3e42",
+    "subject_id": "ep_4c517842102d34cd",
+    "object_id": "ep_78977fb8c840967e",
+    "relation_type": "precedes",
+    "reason": "王后离去与众人反应发生在小婵倾诉恐惧与离宫愿望之前，因为小婵是在王后离开后才依偎在祥太子怀中表达恐惧和愿望，事件顺序在描述中具有明确的时间先后逻辑。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f2d1aaf7556e",
+    "subject_id": "ep_06651ab0eddc2f9a",
+    "object_id": "ep_78977fb8c840967e",
+    "relation_type": "precedes",
+    "reason": "王后赦免小婵并留下忠告发生在小婵依偎在祥太子怀中倾诉恐惧与离宫愿望之前，两个情节均发生在scene_41，但赦免和忠告为后续情感表达提供了直接上下文，叙事顺序上前者先发生。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_da9ef6a338e3",
+    "subject_id": "ep_926790b5bdf743f6",
+    "object_id": "ep_06651ab0eddc2f9a",
+    "relation_type": "precedes",
+    "reason": "祥太子紧急藏匿小婵发生在王后驾到之后、赦免小婵之前，根据场景时序逻辑，藏匿行为在叙事顺序上先于王后宣布赦免和留下忠告。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0f9fbe929aa5",
+    "subject_id": "ep_91b35e8074282e64",
+    "object_id": "ep_06651ab0eddc2f9a",
+    "relation_type": "precedes",
+    "reason": "王后突袭内室并质问太子逾礼行为发生在王后赦免小婵并留下深意忠告之前，两个情节均发生在scene_41，且突袭和质问在叙事顺序上先于赦免和忠告。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_473c0c2fb439",
+    "subject_id": "ep_06651ab0eddc2f9a",
+    "object_id": "ep_d7b3b1fc95966f5d",
+    "relation_type": "precedes",
+    "reason": "王后赦免小婵并留下忠告发生在小婵宣誓忠诚之前，两个情节均发生在scene_41，但王后的行动和忠告为后续小婵的情感爆发和扑抱祥太子提供了直接的上下文和触发条件，叙事顺序上明确先后。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f71ec78583c9",
+    "subject_id": "ep_4c517842102d34cd",
+    "object_id": "ep_d7b3b1fc95966f5d",
+    "relation_type": "precedes",
+    "reason": "王后离去与众人反应发生在小婵宣誓忠诚并激发祥太子情感回应之前，根据描述，小婵和祥太子在王后离开后的震惊与恐惧余波中，紧接着小婵因情绪推动扑向祥太子，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aa272c52b6ad",
+    "subject_id": "ep_926790b5bdf743f6",
+    "object_id": "ep_4c517842102d34cd",
+    "relation_type": "precedes",
+    "reason": "祥太子紧急藏匿小婵发生在王后驾到并离开之前，而王后离去与众人反应紧随其后，叙事顺序明确：藏匿行为在前，王后离开及后续反应在后。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_94817e7d1732",
+    "subject_id": "ep_91b35e8074282e64",
+    "object_id": "ep_e8c63579cfd095da",
+    "relation_type": "precedes",
+    "reason": "王后突袭内室并质问太子逾礼行为发生在祥太子求情与王后心理对峙之前，根据相关事件的时间顺序和叙事流程，质问行为直接引出太子跪地请罪和后续对峙，因此该关系在文本中有明确的先后顺序支持。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d1b61b92397b",
+    "subject_id": "ep_926790b5bdf743f6",
+    "object_id": "ep_d7b3b1fc95966f5d",
+    "relation_type": "precedes",
+    "reason": "祥太子紧急藏匿小婵发生在王后驾到的通报声中，而小婵宣誓忠诚并激发祥太子情感回应是在藏匿之后的情绪发展，二者共享同一场景（scene_41），但藏匿行为在叙事顺序上先于情感宣誓与回应，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5b4e5d131344",
+    "subject_id": "ep_78977fb8c840967e",
+    "object_id": "ep_926790b5bdf743f6",
+    "relation_type": "precedes",
+    "reason": "小婵倾诉恐惧与离宫愿望发生在祥太子紧急藏匿小婵之前，因为情感表达和愿望诉说构成场景的起始部分，随后因王后驾到的通报引发藏匿行为，二者同属scene_41，但叙事逻辑上倾诉在前，应对突发状况的藏匿动作在后。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_46feaa6d7954",
+    "subject_id": "ep_91b35e8074282e64",
+    "object_id": "ep_4c517842102d34cd",
+    "relation_type": "precedes",
+    "reason": "王后突袭内室并质问太子逾礼行为发生在王后离去与众人反应之前，因为质问是王后在内室行动的起始，随后她转身离开，随从跟随，小婵和祥太子表现出震惊和恐惧，这表明事件在叙事顺序上紧随其后。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_203cdfbab65c",
+    "subject_id": "ep_1d65559ccb17b8b8",
+    "object_id": "ep_572dab0a0a048120",
+    "relation_type": "precedes",
+    "reason": "王后冷落并嘲讽祥太子发生在其以重阳节为由恢复刺绣之前，文本中祥太子的质问是王后回应的直接触发点，表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6e7abeafc155",
+    "subject_id": "ep_87b491ff184682b1",
+    "object_id": "ep_3817ad0f80768c81",
+    "relation_type": "precedes",
+    "reason": "王后服药仪式的持续施压与完成（ep_87b491ff184682b1）发生在重阳宴场景（scene_36），而大王暗示理解祥太子的隐忍（ep_3817ad0f80768c81）发生在后续的沉默之后（scene_37），根据相关事件的时间上下文，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_25f47c0f2b00",
+    "subject_id": "ep_79df1534ffd4d677",
+    "object_id": "ep_4c517842102d34cd",
+    "relation_type": "precedes",
+    "reason": "回应王后关于太子状况的质询发生在王后离开太子宫之前，根据事件顺序，王后在对话结束后转身离去，因此该情节在叙事顺序上早于王后离去与众人反应。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0d7c24b38aa6",
+    "subject_id": "ep_4a1543215188df46",
+    "object_id": "ep_572dab0a0a048120",
+    "relation_type": "precedes",
+    "reason": "王后掩饰身体异常并接见祥太子发生在先，随后面对祥太子的质问时以重阳节为由回应并恢复刺绣，两个情节在同一个场景（scene_31）中按时间顺序连续发生，前者为后者提供叙事前提。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d50353a4216d",
+    "subject_id": "ep_272c8dbfe245551e",
+    "object_id": "ep_79df1534ffd4d677",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_34，但王后服药并弃药的行为在叙事顺序上先于她突然提及太子状况的质询。描述中事件序列显示服药动作（包括倒药）完成后，才转向关于太子的对话，因此存在明确的时间先后顺序。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ffb814229faf",
+    "subject_id": "ep_4a1543215188df46",
+    "object_id": "ep_1d65559ccb17b8b8",
+    "relation_type": "precedes",
+    "reason": "王后掩饰身体异常并接见祥太子发生在她冷落并嘲讽祥太子之前，因为接见是互动的开始，随后才发展为冷落与嘲讽；两个情节共享同一场景（scene_31）和文档（doc_30），且逻辑上接见先于言语交锋。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_626d217bb430",
+    "subject_id": "ep_ae77443adeec18a5",
+    "object_id": "ep_73a8ba86004f9238",
+    "relation_type": "precedes",
+    "reason": "王后审问小婵的身份背景（确认其为蒋婵及其父为蒋太医）发生在王后审问小婵罪责并宣判处置之前，逻辑上身份确认是后续定罪和宣判的前提，且两个情节均发生在王后面前，具有连续的审问语境，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_50e4512c8bff",
+    "subject_id": "ep_ae77443adeec18a5",
+    "object_id": "ep_4c517842102d34cd",
+    "relation_type": "precedes",
+    "reason": "王后审问小婵的身份背景（ep_ae77443adeec18a5）发生在王后离开太子宫之前，根据事件逻辑顺序，审问后王后才转身离去，因此该情节在叙事顺序上早于王后离去与众人反应（ep_4c517842102d34cd）。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b514b093b01d",
+    "subject_id": "ep_79df1534ffd4d677",
+    "object_id": "ep_90cec43e276f3bf5",
+    "relation_type": "precedes",
+    "reason": "根据描述，'回应王后关于太子状况的质询' 发生在对话初期，王后提及太子气色不佳并终止对话；随后进入服药环节，小婵提醒王后趁热服药。两个情节均发生在 scene_34，但前者为对话起始与信息澄清，后者为服药仪式中的行动，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d5d435c0f498",
+    "subject_id": "ep_fcc7fd59ee7c464b",
+    "object_id": "ep_e8c63579cfd095da",
+    "relation_type": "precedes",
+    "reason": "王后逼迫藏匿者现身（ep_fcc7fd59ee7c464b）在叙事顺序上先发生，她命令祥太子叫出屏风后之人并厉声喝令藏匿者现身；随后才发生祥太子跪地请罪、请求赦免小婵并与王后对视的心理对峙（ep_e8c63579cfd095da）。两个情节均发生在scene_41，但逼迫现身的行为构成后续求情与对峙的前提，时间顺序明确。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_313d13ab58bb",
+    "subject_id": "ep_272c8dbfe245551e",
+    "object_id": "ep_87b491ff184682b1",
+    "relation_type": "precedes",
+    "reason": "王后艰难服药并最终弃药发生在送药队伍补足药量并重新劝服之前，根据事件序列，主体情节中王后将剩余药汁倒入花盆，而客体情节中宫女补足两口药并继续仪式，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c51b68d00238",
+    "subject_id": "ep_87b491ff184682b1",
+    "object_id": "ep_9253e932343a65b5",
+    "relation_type": "precedes",
+    "reason": "主体情节'王后服药仪式的持续施压与完成'发生在重阳宴场景(scene_36)，而客体情节'安抚王后并恢复稳定'发生在王后意识微弱恢复后的场景(scene_27)。根据相关事件的时间上下文，scene_36在scene_27之后发生，因此主体情节在叙事顺序上晚于客体情节，故客体情节在前，主体情节在后。但由于关系方向由subject到object，此处应为object precedes subject，而模式要求方向性正确，因此实际应为subject不能precede object。重新判断：主体情节发生在scene_36，客体情节发生在scene_27，scene_27早于scene_36，因此客体情节在时间上先于主体情节，故主体情节不能precede客体情节。因此，正确的方向应为object precedes subject，但当前subject为ep_87b491ff184682b1，其时间在后，因此relation_type应为precedes不成立。然而，若从叙事流看，scene_27在前，scene_36在后，则ep_9253e932343a65b5发生在ep_87b491ff184682b1之前，因此ep_87b491ff184682b1不能precede ep_9253e932343a65b5，而应是ep_9253e932343a65b5 precedes ep_87b491ff184682b1。由于关系方向为subject -> object，而实际时间顺序是object -> subject，因此precedes关系方向错误。无其他关系模式得到支持，故应输出NONE。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4",
+      "scene_27_part_1",
+      "scene_27_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1dded37e0fe8",
+    "subject_id": "ep_79df1534ffd4d677",
+    "object_id": "ep_06651ab0eddc2f9a",
+    "relation_type": "precedes",
+    "reason": "情节'回应王后关于太子状况的质询'发生在王后对太子状况产生疑虑的场景中（scene_34），而'王后赦免小婵并留下深意忠告'发生在后续场景（scene_41），且两个情节均涉及王后与小婵及太子相关的互动，叙事顺序上scene_34早于scene_41，因此该关系为precedes。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b09bacd4c205",
+    "subject_id": "ep_ae77443adeec18a5",
+    "object_id": "ep_f58694c0bff506c2",
+    "relation_type": "causes",
+    "reason": "王后审问小婵的身份背景引发小婵的惶恐与紧张，这种压迫性情境直接导致小婵压抑恐惧以维持仪态，文本中描述的因果链条支持这一关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f597b9de3f62",
+    "subject_id": "ep_ae77443adeec18a5",
+    "object_id": "ep_06651ab0eddc2f9a",
+    "relation_type": "precedes",
+    "reason": "王后审问小婵的身份背景（ep_ae77443adeec18a5）发生在王后赦免小婵并留下深意忠告（ep_06651ab0eddc2f9a）之前，根据叙事顺序，先有对身份的确认和紧张氛围的建立，随后才有赦免决定和忠告，且两个情节均发生在连续场景中（scene_34 和 scene_41），支持明确的时间先后关系。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cab6f43c61d3",
+    "subject_id": "ep_7e64b5594bbf8507",
+    "object_id": "ep_e62fc141facb3731",
+    "relation_type": "precedes",
+    "reason": "主体情节中大王听取蒋太医关于王后用药的密报，包括新方子已执行十天，表明该事件发生在用药行为持续进行的过程中；客体情节描述大王在午时亲自滤药并监督王后服药，是药物控制的具体执行环节。从叙事逻辑和时间线上看，密报用药情况（尤其是确认新方子已用十天）必然早于大王亲自参与并完成一次具体的服药仪式，因此主体情节在时间顺序上先于客体情节。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_43_part_1",
+      "scene_43_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4f808f1cb93c",
+    "subject_id": "ep_90cec43e276f3bf5",
+    "object_id": "ep_87b491ff184682b1",
+    "relation_type": "precedes",
+    "reason": "小婵提醒王后趁热服药发生在服药仪式早期阶段，而王后服药仪式的持续施压与完成涵盖了从劝药到服药结束及后续斥责的全过程。根据相关事件的时间顺序，小婵的提醒（scene_34）在叙事上早于主体情节中的主要事件（scene_36），因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_00665b9a4753",
+    "subject_id": "ep_7e64b5594bbf8507",
+    "object_id": "ep_87b491ff184682b1",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述大王通过蒋太医密报了解王后服药细节，包括草乌头由其女亲手入药，显示出对隐秘医疗安排的默许；客体情节展示王后在公开仪式中被迫服药的全过程及大王对王子们的斥责。主体情节通过揭示幕后医疗监控和药物安排的机密信息，为客体情节中公开的服药施压行为提供了背景解释和动机补充，构成对客体情节的隐秘机制揭示，因此是对其的扩展说明。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_98fe2d80fa8a",
+    "subject_id": "ep_73a8ba86004f9238",
+    "object_id": "ep_e8c63579cfd095da",
+    "relation_type": "precedes",
+    "reason": "王后审问小婵罪责并宣判处置发生在祥太子求情与王后心理对峙之前，因为王后先完成审问和宣判，造成小婵瘫倒，随后祥太子才跪地求情，形成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ad0cb0046601",
+    "subject_id": "ep_b341eab0bcc7bea3",
+    "object_id": "ep_c6e09925ebb06b8e",
+    "relation_type": "elaborates",
+    "reason": "确认房间陈设的纪念意义揭示了祥太子对生母的怀念，为大王表达父子疏离与父爱提供了情感背景，说明父子关系的复杂性，因此前者通过提供情感动机和背景扩展了后者。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6acb05881fcb",
+    "subject_id": "ep_f51e5594e9154d03",
+    "object_id": "ep_06651ab0eddc2f9a",
+    "relation_type": "precedes",
+    "reason": "小婵被迫现身并跪拜请罪发生在王后赦免小婵并留下深意忠告之前，两个情节均发生在scene_41，且逻辑上审问与请罪需先于赦免与忠告。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f0d807714620",
+    "subject_id": "ep_376d9d216feec658",
+    "object_id": "ep_c6e09925ebb06b8e",
+    "relation_type": "elaborates",
+    "reason": "揭示明日是生母忌日为表达父子疏离与父爱提供了情感背景和上下文，大王在确认忌日的同时引出对祥太子成长缺席的愧疚，从而扩展了前一情节的情感内涵。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_11c6f00fcd1e",
+    "subject_id": "ep_c6e09925ebb06b8e",
+    "object_id": "ep_3817ad0f80768c81",
+    "relation_type": "elaborates",
+    "reason": "表达父子疏离与父爱的情节中，大王坦承对祥太子的愧疚和喜爱，为后续大王暗示理解祥太子隐忍的心理状态提供了情感背景和动机解释，扩展了后者的情节内涵。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_efc171f0a487",
+    "subject_id": "ep_376d9d216feec658",
+    "object_id": "ep_3817ad0f80768c81",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在 scene_37，且‘揭示明日是生母忌日’在叙事上先于‘大王暗示理解祥太子的隐忍’，前者建立情感基调，后者在此基础上推进情感张力，符合话语顺序上的先后关系。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6e58a15b0bf1",
+    "subject_id": "ep_fff30c1ce730cb09",
+    "object_id": "ep_47413b581ce2655d",
+    "relation_type": "precedes",
+    "reason": "根据描述，'开启三重宫门' 为后续仪式环节铺垫，随后'仪仗方队行跪礼'在宫门完全开启后发生，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e21ca9c3fdc5",
+    "subject_id": "ep_aadbe443a9852766",
+    "object_id": "ep_f763893bb6f8d808",
+    "relation_type": "precedes",
+    "reason": "引导杰王子前来发生在通报与迎接之前，太监先带领杰王子前往地点，随后才通报其到来并展开迎接仪式，叙事顺序明确。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_19bb1df2dee8",
+    "subject_id": "ep_f51e5594e9154d03",
+    "object_id": "ep_4c517842102d34cd",
+    "relation_type": "precedes",
+    "reason": "小婵被迫从屏风后走出并跪拜王后，是王后离开太子宫前的直接前序动作；王后随后转身离去，随从退出，小婵瘫坐于地，祥太子呆望背影。叙事顺序上，小婵现身请罪发生在王后离去及众人反应之前。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_30f0b9da4d65",
+    "subject_id": "ep_d9ba3dcfc53a8c9d",
+    "object_id": "ep_e62fc141facb3731",
+    "relation_type": "precedes",
+    "reason": "王后觐见与大王召见质问发生在大王亲滤药汁并迫使王后服药之前，两个情节共享同一场合'宫廷制药仪式 (scene_43)'，且事件序列显示质问之后才进入过滤药汁与服药阶段，叙事顺序明确。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_43_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7d04450466d2",
+    "subject_id": "ep_f51e5594e9154d03",
+    "object_id": "ep_73a8ba86004f9238",
+    "relation_type": "precedes",
+    "reason": "小婵被迫现身并跪拜请罪发生在王后审问小婵罪责并宣判处置之前，因为小婵从屏风后走出并跪拜是审问开始的前提，且两个情节均发生在同一场景（scene_41）中，叙事顺序上先有小婵现身下跪，后有王后质问与宣判。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3929a943b415",
+    "subject_id": "ep_fcc7fd59ee7c464b",
+    "object_id": "ep_73a8ba86004f9238",
+    "relation_type": "precedes",
+    "reason": "王后逼迫藏匿者现身（ep_fcc7fd59ee7c464b）发生在王后审问小婵罪责并宣判处置（ep_73a8ba86004f9238）之前，因为藏匿者被发现后，王后才得以确认小婵私入太子宫的事实并进而展开审问与宣判，叙事顺序上具有明确的先后关系。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fe4caa434d59",
+    "subject_id": "ep_aadbe443a9852766",
+    "object_id": "ep_9068f4c45c716ad2",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'引导杰王子前来'发生在scene_28，而'完成会面的礼仪程序'发生在scene_29，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a0fd258af614",
+    "subject_id": "ep_8bdd269eba96795d",
+    "object_id": "ep_c6e09925ebb06b8e",
+    "relation_type": "contrasts_with",
+    "reason": "质问改立太子的意图营造紧张的心理对峙氛围，体现权力斗争的冷酷；而表达父子疏离与父爱则展现大王对祥太子的情感流露和愧疚，凸显私人情感的温暖。两者在基调上形成明显对比：前者是政治权谋的紧张对峙，后者是私人情感的柔软流露。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a1f26a72190c",
+    "subject_id": "ep_aadbe443a9852766",
+    "object_id": "ep_fc495ee07f382ed3",
+    "relation_type": "precedes",
+    "reason": "引导杰王子前来在叙事顺序上早于母子深情相认与情感流露，因为必须先将杰王子引至现场，才能实现与王后的相认，且描述中无其他事件介入，构成直接的先后顺序。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2b3cbf56d901",
+    "subject_id": "ep_43ae5ea150030c4d",
+    "object_id": "ep_ca6fbe998ac15270",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'迎接大王驾临'中的事件（如杰王子跪拜迎接父王）发生在'父子独处的情感交流'之前（如李将军和太监们退出厅堂）。文本明确显示前者在众人在场时发生，后者在众人退下后展开，因此前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_22_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_669243911d52",
+    "subject_id": "ep_6276217d80035e0b",
+    "object_id": "ep_9d847ac9cf1f36ad",
+    "relation_type": "elaborates",
+    "reason": "第一个情节通过成王子提问引出母后健康话题，开启关于母后行为的讨论；第二个情节在此基础上，进一步揭示祥太子对母后绣菊花行为的紧张反应，深化了该行为背后潜在心理冲突的理解，构成对前一情节主题的扩展和细化。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ea49bb55ee01",
+    "subject_id": "ep_6390a8034b08e9c4",
+    "object_id": "ep_14f1a5ef792fd315",
+    "relation_type": "precedes",
+    "reason": "脱下盔甲并准备熏药发生在大王行进至熏蒸区域之前，因为脱甲是行进前的必要准备步骤，且两个情节共享同一疗养场合，描述中明确指出行进连接脱甲与治疗阶段，表明时间顺序上的先后关系。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_39fa9b84b61a",
+    "subject_id": "ep_6390a8034b08e9c4",
+    "object_id": "ep_535f6cf5cd19c3d3",
+    "relation_type": "precedes",
+    "reason": "情节 '脱下盔甲并准备熏药' 描述了熏蒸治疗的前期准备流程，包括卸甲和药液注入，而 '启动熏椅并完成治疗就位' 描述了设备就绪后大王坐上熏椅的实施阶段。两个情节共享同一疗养场合，且描述中的步骤顺序表明前者在叙事和程序上早于后者。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ddaf2a83a9ab",
+    "subject_id": "ep_aadbe443a9852766",
+    "object_id": "ep_af63e3b20d6f1ccd",
+    "relation_type": "precedes",
+    "reason": "‘引导杰王子前来’是杰王子被带往现场的初始步骤，而‘剑锋下的权力训诫’发生在同一场景中后续的对峙与比试，文本中‘引导’作为开端，紧接其后的剑术考验和权力训导构成后续发展，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_22_part_1",
+      "scene_22_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_98ff7c43bea5",
+    "subject_id": "ep_0a9da24c2760a292",
+    "object_id": "ep_f763893bb6f8d808",
+    "relation_type": "precedes",
+    "reason": "根据事件的时间顺序，杰王子完成仪容更装后，紧接着被通报并迎接，母子重逢的情节在叙事上紧随其后。相关事件的时间流显示，更衣完成与外貌焕然一新发生在场景23，而通报与迎接发生在场景25，中间无其他干扰事件，支持该顺序。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ce4475ee9855",
+    "subject_id": "ep_4993483cf7d6dbad",
+    "object_id": "ep_87b491ff184682b1",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'准备药熏仪式并安顿大王'发生在药熏治疗开始阶段，涉及大王坐上熏椅并被包裹，而'王后服药仪式的持续施压与完成'包含后续的服药过程、王子劝药及大王斥责等事件。两者均发生在同一场景（scene_36）和同一场合'重阳宴'中，且叙事顺序上药熏准备先于王后服药的完整仪式，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_48e52d605a21",
+    "subject_id": "ep_064026e0cb5b190f",
+    "object_id": "ep_fee9287e0caac3ce",
+    "relation_type": "precedes",
+    "reason": "蒙面人突袭走廊发生在其察觉太监出现并躲避之前，根据事件顺序，突袭是初始入侵行为，而躲避是对新刺激的反应，因此前者在叙事时间上先于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6b8de081ad8d",
+    "subject_id": "ep_064026e0cb5b190f",
+    "object_id": "ep_16096c05fd751d35",
+    "relation_type": "precedes",
+    "reason": "蒙面人突袭走廊发生在其潜入御药坊之前，根据叙事逻辑和空间顺序，入侵走廊是进入御药坊的前置行动，构成时间上的先后关系。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3ab30372a25e",
+    "subject_id": "ep_d9ba3dcfc53a8c9d",
+    "object_id": "ep_2cd97286a6a45c34",
+    "relation_type": "precedes",
+    "reason": "王后觐见与大王召见质问（ep_d9ba3dcfc53a8c9d）包含大王质问王后是否知晓被召见的原因，而大王怒斥王后并施加权威压力（ep_2cd97286a6a45c34）紧随其后，表现为情绪升级和权力施压的延续。两个情节共享同一场合（宫廷制药仪式）和场景（scene_43），且事件序列显示召见质问在先，怒斥施压在后，构成明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_43_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_597c2ae8a4a6",
+    "subject_id": "ep_064026e0cb5b190f",
+    "object_id": "ep_fedffea658e32ac5",
+    "relation_type": "precedes",
+    "reason": "蒙面人突袭走廊发生在其躲过祥太子搜查并流露情感之前，叙事上前者为入侵行动的开始，后者为跟踪结束时的情感收束，存在明确的时间顺序。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_47_part_1",
+      "scene_47_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c4178e42467d",
+    "subject_id": "ep_064026e0cb5b190f",
+    "object_id": "ep_60684aaa5da617cc",
+    "relation_type": "precedes",
+    "reason": "蒙面人突袭走廊发生在其发现祥太子并决定跟踪之前。根据描述，突袭走廊是蒙面人进入场景的初始动作，而发现祥太子并决定跟踪是在长廊中听到宫女禀报后发生的后续行为，具有明确的叙事时序先后。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_47_part_1",
+      "scene_47_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b9f25f00b12e",
+    "subject_id": "ep_2cd97286a6a45c34",
+    "object_id": "ep_87b491ff184682b1",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'大王怒斥王后并施加权威压力' 发生在 scene_43，而 '王后服药仪式的持续施压与完成' 发生在 scene_36。尽管 scene_36 编号小于 scene_43，但文档中描述的事件逻辑和权力施压的递进性表明 scene_43 的对峙是 scene_36 服药仪式的前置导火索，大王在 scene_43 的权威确立为 scene_36 的服药施压提供了上下文。然而，场景编号逆序存在矛盾，但基于叙事功能和权力行为的延续性，'怒斥与施压' 情节在叙事逻辑上先于服药仪式的完成，构成前置情节。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_43_part_2",
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c1d601398de8",
+    "subject_id": "ep_064026e0cb5b190f",
+    "object_id": "ep_899a85a782497fcc",
+    "relation_type": "precedes",
+    "reason": "蒙面人突袭走廊发生在其被祥太子发现并发生对峙之前，根据叙事逻辑，入侵行为是后续冲突的前提，且描述中‘突袭走廊’为初始动作，随后才发展为‘对峙与被捕’，因此该关系在时间顺序上明确支持。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_47_part_1",
+      "scene_47_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6e83238b8ed1",
+    "subject_id": "ep_16096c05fd751d35",
+    "object_id": "ep_899a85a782497fcc",
+    "relation_type": "precedes",
+    "reason": "蒙面人潜入御药坊搜寻并取走草药发生在其被祥太子发现并对峙之前，根据叙事逻辑和事件发展顺序，秘密取药是后续暴露与被捕情节的前提，且两情节分别位于不同文档（doc_44 和 doc_46），支持时间上的先后关系。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_47_part_1",
+      "scene_47_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d258b78c9f1a",
+    "subject_id": "ep_ad44a553386f20b2",
+    "object_id": "ep_899a85a782497fcc",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节内容，'了结旧人情并告别'（doc_45）发生在'蒙面人与祥太子对峙并遭蓝衣太监围捕'（doc_46）之前，且两情节均围绕蒙面人展开，具有连续叙事流。前者为情感收束，后者为冲突爆发，时间顺序明确。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_47_part_2",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cf7b9c7aeb0a",
+    "subject_id": "ep_064026e0cb5b190f",
+    "object_id": "ep_de1df06cf9f916df",
+    "relation_type": "precedes",
+    "reason": "蒙面人突袭走廊是突发性入侵事件，发生在静寂无人的环境中，而后续的隐蔽跟踪行为表明蒙面人已进入持续监控与谨慎行动阶段。从突袭到隐蔽跟踪，行为模式由公开快速转为隐秘持续，且跟踪对象明确为祥太子，暗示突袭后蒙面人开始针对特定目标行动，因此在叙事顺序上，突袭事件很可能早于对祥太子的跟踪。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_47_part_1",
+      "scene_47_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a650bb95f2d5",
+    "subject_id": "ep_b66962c08cb43e1b",
+    "object_id": "ep_c3292ac8249c62fe",
+    "relation_type": "precedes",
+    "reason": "小婵进入御药坊并遭遇父亲阻拦的情节包含她与蒋太医的互动，随后蒋太医中断对话并继续工作，标志着前一情节的结束和日常状态的恢复。根据描述中的叙事顺序，前者在时间上明确早于后者。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2efaa8f2e0fe",
+    "subject_id": "ep_fee9287e0caac3ce",
+    "object_id": "ep_899a85a782497fcc",
+    "relation_type": "precedes",
+    "reason": "蒙面人察觉太监出现并隐蔽躲避（ep_fee9287e0caac3ce）发生在蒙面人与祥太子对峙并遭蓝衣太监围捕（ep_899a85a782497fcc）之前。根据描述，前者是蒙面人尚能主动隐藏的阶段，而后者是其暴露后被围捕的升级冲突，且相关事件（如蓝衣太监出现）在后一情节中成为主导，表明叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_47_part_2",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bdb798559b31",
+    "subject_id": "ep_26597b576e4f3348",
+    "object_id": "ep_535f6cf5cd19c3d3",
+    "relation_type": "precedes",
+    "reason": "主体情节‘紧急召见蒋太医前往诊疗’描述了因紧急医疗需求而引导蒋太医前往事发地点的过程，具有紧迫性和前置行动特征；客体情节‘启动熏椅并完成治疗就位’则涉及治疗设备准备和君主就位接受熏蒸，是诊疗的实施阶段。根据叙事逻辑和医疗流程，召见并引导太医前往是治疗实施前的必要步骤，因此主体情节在话语和事件顺序上早于客体情节。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5165df0e8da9",
+    "subject_id": "ep_64025e7534a5670f",
+    "object_id": "ep_c3292ac8249c62fe",
+    "relation_type": "precedes",
+    "reason": "蒋太医揭示西域草乌头的危险并警告泄密后果在叙事顺序上明确早于蒋太医中断对话继续工作，后者描述了前一情节结束后的动作，且相关事件在同一场景中连续发生。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_846962b7ff74",
+    "subject_id": "ep_c99066dffb60c7ff",
+    "object_id": "ep_c3292ac8249c62fe",
+    "relation_type": "precedes",
+    "reason": "蒋太医试探小婵与太子的关系这一情节包含一系列对话和互动，随后蒋太医中断对话并继续翻动药材的工作，标志着前一情节的结束和日常状态的恢复。根据描述中的'结束互动并回归日常劳作'，可明确判断试探情节在叙事顺序上先于中断对话后继续工作的情节。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a13876bb4720",
+    "subject_id": "ep_4bae9f3851e39bb6",
+    "object_id": "ep_c3292ac8249c62fe",
+    "relation_type": "precedes",
+    "reason": "蒋太医巡视药工熬药作业描述其在工作区监督熬药流程，而蒋太医中断对话继续工作则描述其在警告小婵后回归翻动药材的劳作。后者标志着前一互动的结束和日常工作的恢复，叙事顺序上紧随巡视之后，且‘继续工作’暗示巡视情节在先。因此，巡视情节在话语顺序上早于中断对话后回归工作的情节。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d640b2ddfe5e",
+    "subject_id": "ep_386f03b133aefd45",
+    "object_id": "ep_9c417f955bbf8619",
+    "relation_type": "precedes",
+    "reason": "成王子向王后问安并整理凤冠发生在王后与成王子走向走廊之前，依据场景顺序（scene_13 在 scene_16 之前）和行为逻辑（问安后才移动），支持该时间顺序。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_45920a3b9f78",
+    "subject_id": "ep_d32100a756c91f24",
+    "object_id": "ep_db18b40eb47d723d",
+    "relation_type": "precedes",
+    "reason": "祥太子进入宫殿并感知紧张氛围发生在向王后跪拜行礼之前，根据场景顺序（scene_30 在 scene_31 之前），且王后下令退下是为了应对祥太子已表现出的不安，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_afdbc02fc895",
+    "subject_id": "ep_4bae9f3851e39bb6",
+    "object_id": "ep_b66962c08cb43e1b",
+    "relation_type": "precedes",
+    "reason": "蒋太医巡视药工熬药作业描述的是药坊日常运作的监督过程，而小婵进入御药坊并遭遇父亲阻拦则涉及她进入该场所并与蒋太医发生互动。根据叙事逻辑和空间连贯性，巡视作业应在小婵进入之后发生，否则蒋太医无法在巡视过程中与小婵相遇。但两个情节共享同一场景（scene_32）且均发生在御药坊，结合事件顺序的常规理解，小婵进入并被阻拦应紧随巡视开始之后或为巡视期间发生的子事件。然而，描述中‘巡视’具有持续性，而‘进入并遭遇阻拦’是瞬时性情节，更可能作为后续触发点。综合判断，巡视情节在叙事顺序上先于小婵进入事件，支持precedes关系。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bbab531b0c5a",
+    "subject_id": "ep_d32100a756c91f24",
+    "object_id": "ep_3817ad0f80768c81",
+    "relation_type": "precedes",
+    "reason": "祥太子进入宫殿并感知紧张氛围发生在大王暗示理解祥太子的隐忍之前，前者构建了压抑的场景氛围，为后续情感张力的高潮铺垫，叙事顺序上具有明确的先后关系。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_46d2099b6d2e",
+    "subject_id": "ep_d32100a756c91f24",
+    "object_id": "ep_e8c63579cfd095da",
+    "relation_type": "precedes",
+    "reason": "祥太子进入宫殿并感知紧张氛围发生在其向王后求情之前，根据叙事顺序，先进入宫殿营造情绪铺垫，随后发展为与王后的对峙情节，时间顺序明确。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7855fa708f44",
+    "subject_id": "ep_d32100a756c91f24",
+    "object_id": "ep_fcc7fd59ee7c464b",
+    "relation_type": "precedes",
+    "reason": "祥太子进入宫殿并感知紧张氛围发生在王后逼迫藏匿者现身之前，根据叙事顺序，环境氛围的建立为后续冲突高潮提供了前置场景，且两个情节均发生在同一宫殿场景中，具有连续的时间线索。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c78fad95f51d",
+    "subject_id": "ep_d32100a756c91f24",
+    "object_id": "ep_8bdd269eba96795d",
+    "relation_type": "precedes",
+    "reason": "祥太子进入宫殿并感知紧张氛围（ep_d32100a756c91f24）发生在大王质问其对改立太子意图的理解之前，因为进入宫殿是对话开始的前提，且场景编号（scene_30 vs scene_37）支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_600ee4c60874",
+    "subject_id": "ep_d32100a756c91f24",
+    "object_id": "ep_28c6878441554756",
+    "relation_type": "precedes",
+    "reason": "祥太子进入宫殿并感知紧张氛围（ep_d32100a756c91f24）发生在其后揭绣质问王后意图（ep_28c6878441554756）之前，根据描述中‘众人退下后’这一时间线索，表明进入宫殿的情节在先，随后才发生内室质问事件，因此存在明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ad62954edec3",
+    "subject_id": "ep_d32100a756c91f24",
+    "object_id": "ep_4c517842102d34cd",
+    "relation_type": "precedes",
+    "reason": "情节'进入宫殿并感知紧张氛围'发生在王后离开之前，祥太子面带忧虑进入宫殿，而'王后离去与众人反应'描述的是王后离开后的场景，包括祥太子呆望其背影，二者在叙事时间线上存在明确先后顺序。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_04c55d98fb09",
+    "subject_id": "ep_d32100a756c91f24",
+    "object_id": "ep_926790b5bdf743f6",
+    "relation_type": "precedes",
+    "reason": "情节'进入宫殿并感知紧张氛围'描述祥太子进入宫殿时的忧虑神情和环境的不安氛围，为后续'祥太子紧急藏匿小婵'提供了情境铺垫。根据叙事逻辑，进入宫殿并感知氛围在时间顺序上早于紧急藏匿行为，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bf77cbbbc068",
+    "subject_id": "ep_3786c4207fb0a0ff",
+    "object_id": "ep_d32100a756c91f24",
+    "relation_type": "precedes",
+    "reason": "根据描述，'进入宫殿并感知紧张氛围'（ep_d32100a756c91f24）是祥太子进入宫殿时通过行为和环境构建紧张气氛的情节，发生在王后肃清宫室之前；而'开启对峙并质问逃意'（ep_3786c4207fb0a0ff）明确发生在肃清宫室之后，标志着对峙的开始。因此，'进入宫殿'在叙事时序上早于'开启对峙'，形成前后相继的顺序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cc2803de5ba4",
+    "subject_id": "ep_d32100a756c91f24",
+    "object_id": "ep_91b35e8074282e64",
+    "relation_type": "precedes",
+    "reason": "情节'进入宫殿并感知紧张氛围'中祥太子步入宫殿时面带忧虑，宫女卷动玉帘反映不安，这为后续王后突袭内室并质问太子的对峙场景构建了情绪和情境铺垫。根据叙事逻辑和场景连贯性，感知紧张氛围的情节在时间顺序上早于王后质问太子的高潮对峙，且文档中相关事件(scene_30早于scene_41)支持这一时序关系。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_273afcae07b6",
+    "subject_id": "ep_9d847ac9cf1f36ad",
+    "object_id": "ep_efe7721d2b7befec",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均揭示祥太子与王后之间的紧张关系，但表现形式不同：一个通过祥太子对母后行为的紧张反应暗示隐情，另一个通过母子间关于出行理由的公开对峙展现直接冲突，二者并置强化了母子关系中压抑与对抗的双重性。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_86653ce41573",
+    "subject_id": "ep_d32100a756c91f24",
+    "object_id": "ep_899a85a782497fcc",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，'进入宫殿并感知紧张氛围'（ep_d32100a756c91f24）中祥太子步入宫殿、宫女卷帘等行为发生在祥太子与蒙面人对峙之前，属于事件发展的前期场景铺垫；而'蒙面人与祥太子对峙并遭蓝衣太监围捕'（ep_899a85a782497fcc）是后续发生的冲突情节。文档中相关事件的时间和行为序列支持前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_47_part_2",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a79c8e9e580b",
+    "subject_id": "ep_28c6878441554756",
+    "object_id": "ep_9d847ac9cf1f36ad",
+    "relation_type": "elaborates",
+    "reason": "祥太子揭绣质问王后意图这一情节聚焦于具体行动和直接反应，而揭示母后行为背后的紧张情绪则进一步解释了该行为的心理动机和潜在隐情，提供了更深层的心理背景，从而扩展和丰富了前一情节的内涵。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b1396145f389",
+    "subject_id": "ep_9d847ac9cf1f36ad",
+    "object_id": "ep_e57121b326ba570e",
+    "relation_type": "elaborates",
+    "reason": "揭示母后行为背后的紧张情绪通过祥太子对绣菊花的紧张反应，暗示了深层心理冲突，而揭露往事与伦理挣扎则进一步揭示了该冲突的具体根源（三年前的引诱事件），因此前者被后者提供背景和解释所扩展。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_daa5520fb4e0",
+    "subject_id": "ep_db18b40eb47d723d",
+    "object_id": "ep_28c6878441554756",
+    "relation_type": "precedes",
+    "reason": "王后下令退下以密谈发生在祥太子揭绣质问王后意图之前，因为只有在众人退下后，祥太子才进入内室掀开绸布并质问王后，叙事顺序明确。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5078f06ca553",
+    "subject_id": "ep_9d847ac9cf1f36ad",
+    "object_id": "ep_db18b40eb47d723d",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述祥太子在三位王子会面中因母后绣菊花而突然紧张，第二个情节描述祥太子向王后跪拜后王后下令退下以密谈。从叙事顺序看，王子会面（scene_29）早于跪拜与密谈（scene_31），且紧张情绪的显现为后续密谈创造了心理铺垫，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f7cf9c5daa75",
+    "subject_id": "ep_28c6878441554756",
+    "object_id": "ep_fcc7fd59ee7c464b",
+    "relation_type": "precedes",
+    "reason": "祥太子揭绣质问王后意图发生在王后察觉异常并逼迫藏匿者现身之前，根据叙事顺序，质问行为引发王后警觉，进而导致其命令藏匿者现身，情节发展具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_85227c15998e",
+    "subject_id": "ep_28c6878441554756",
+    "object_id": "ep_926790b5bdf743f6",
+    "relation_type": "precedes",
+    "reason": "祥太子揭绣质问王后意图发生在内室众人退下后，而藏匿小婵发生在王后驾到的通报声中，表明前者在时间顺序上早于后者，构成叙事上的先后关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6ffffb0b04a6",
+    "subject_id": "ep_28c6878441554756",
+    "object_id": "ep_06651ab0eddc2f9a",
+    "relation_type": "precedes",
+    "reason": "祥太子揭绣质问王后意图发生在王后赦免小婵并留下忠告之前，根据叙事顺序，质问行为引发后续王后的反应和离去，时间线上有明确先后关系。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_379d9ed19414",
+    "subject_id": "ep_28c6878441554756",
+    "object_id": "ep_4c517842102d34cd",
+    "relation_type": "precedes",
+    "reason": "祥太子揭绣质问王后意图发生在王后离去与众人反应之前，因为质问后王后才离开太子宫，随后众人表现出震惊与困惑，叙事顺序明确。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cc06cd3d0ae6",
+    "subject_id": "ep_28c6878441554756",
+    "object_id": "ep_91b35e8074282e64",
+    "relation_type": "precedes",
+    "reason": "祥太子揭绣质问王后意图发生在王后突袭内室并质问太子之前，根据叙事逻辑和宫廷对峙的展开顺序，太子先发现绣品产生疑虑，随后王后主动出击进行质问，表明前者在时间线上早于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bcb570282aee",
+    "subject_id": "ep_3aa330919b542d57",
+    "object_id": "ep_91b35e8074282e64",
+    "relation_type": "precedes",
+    "reason": "祥太子进入私密空间并遭遇小婵出现发生在王后突袭内室之前，根据文档顺序（doc_38 在 doc_40 之前）和叙事流程，前者为后者发生的前提，私密会面的紧张状态为王后突袭提供动机和上下文，因此该关系在叙事顺序上明确支持。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_55b6674f7e71",
+    "subject_id": "ep_3aa330919b542d57",
+    "object_id": "ep_e8c63579cfd095da",
+    "relation_type": "precedes",
+    "reason": "祥太子进入私密空间并遭遇小婵出现（ep_3aa330919b542d57）发生在祥太子求情与王后心理对峙（ep_e8c63579cfd095da）之前，因为小婵的出现是引发后续王后介入和祥太子求情的叙事前提，且文档ID（doc_38 vs doc_40）表明前者在时间顺序上早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ecb03b8f1048",
+    "subject_id": "ep_73c43c32f720eed6",
+    "object_id": "ep_91b35e8074282e64",
+    "relation_type": "precedes",
+    "reason": "祥太子与小婵的亲昵互动发生在王后突袭内室之前，根据场景编号（scene_39 在 scene_41 之前）可明确叙事顺序。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ea403f688d19",
+    "subject_id": "ep_73bbe2b4a3090121",
+    "object_id": "ep_e8c63579cfd095da",
+    "relation_type": "precedes",
+    "reason": "小婵探问出宫许可并安慰祥太子（ep_73bbe2b4a3090121）发生在祥太子求情与王后心理对峙（ep_e8c63579cfd095da）之前，依据文档顺序（doc_38 在 doc_40 之前）及事件流逻辑：先有关于出宫的关切与安慰，随后祥太子才为小婵向王后求情。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e5ccee498701",
+    "subject_id": "ep_c2f56d833d9e084c",
+    "object_id": "ep_0042d9f822e25f39",
+    "relation_type": "precedes",
+    "reason": "大王召祥太子同行（ep_c2f56d833d9e084c）发生在重阳宴场景（scene_36），而祥太子表明换储请求出于忠诚（ep_0042d9f822e25f39）发生在后续的scene_37。related_events中提到的scene编号支持该时间顺序，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7f8949992a5b",
+    "subject_id": "ep_78977fb8c840967e",
+    "object_id": "ep_91b35e8074282e64",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_41，但小婵倾诉恐惧与离宫愿望发生在王后突袭之前，因为王后的突袭打断了这一私密场景，表明该事件在叙事顺序上先于质问对峙。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c4720884bb85",
+    "subject_id": "ep_78977fb8c840967e",
+    "object_id": "ep_e8c63579cfd095da",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_41，但小婵倾诉恐惧与离宫愿望在叙事逻辑上先于祥太子向王后求情，因为其情感表达构成祥太子后续行动的动机基础，且事件序列在描述中呈现先后顺序。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8a7681ebc436",
+    "subject_id": "ep_c2f56d833d9e084c",
+    "object_id": "ep_de1df06cf9f916df",
+    "relation_type": "precedes",
+    "reason": "主体情节'大王召祥太子同行'发生在重阳宴场景中，祥太子被命令跟随大王离开，这构成了他移动的起点；客体情节'蒙面人隐蔽跟踪祥太子穿越长廊'描述了祥太子在长廊中的行进过程，逻辑上需在其离开初始场所之后发生。因此，主体情节在叙事顺序上直接早于客体情节。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4",
+      "scene_47_part_1",
+      "scene_47_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9175c0cdc0e6",
+    "subject_id": "ep_926790b5bdf743f6",
+    "object_id": "ep_e8c63579cfd095da",
+    "relation_type": "precedes",
+    "reason": "祥太子紧急藏匿小婵发生在王后驾到之后、面对王后逼问之前，根据叙事顺序，藏匿行为是求情与对峙的前置动作。两个情节共享同一场景（scene_41），且逻辑上藏匿先于求情，因此主体情节在时间上早于客体情节。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_677ba78629f4",
+    "subject_id": "ep_d7b3b1fc95966f5d",
+    "object_id": "ep_e8c63579cfd095da",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在 scene_41，但小婵宣誓忠诚并激发祥太子情感回应（ep_d7b3b1fc95966f5d）在叙事顺序上先于祥太子求情与王后心理对峙（ep_e8c63579cfd095da），因为情感升温后才引发后续面对王后的冲突与求情行为。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_be3a0abeeee1",
+    "subject_id": "ep_4a7213b63a5fa7ea",
+    "object_id": "ep_4bafb56d276c372b",
+    "relation_type": "elaborates",
+    "reason": "情节'王室成员登阶前往菊花台'描述了一次集体行动的整体目标和过程，而'王后强忍悲痛继续前行'聚焦于该行动中王后个体的情绪挣扎与行为反应，提供了关于主体情节中某一参与者更深层的心理与行为细节，从而扩展和丰富了原情节的叙述。因此，后者对前者起到了细节补充和深化的作用。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_50aba7c2b964",
+    "subject_id": "ep_bc244f933ebdf86f",
+    "object_id": "ep_edad5f62eb72a124",
+    "relation_type": "precedes",
+    "reason": "王后匆忙前往目的地并带领随从（ep_bc244f933ebdf86f）描述了王后开始行进并带动随从的初始行动，而应对王后的突发不适（ep_edad5f62eb72a124）则明确发生在行进过程中，包含王后突然停下、随行人员暂停及后续恢复。因此，前者在叙事顺序上直接早于后者，构成清晰的时间先后关系。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5bed5e6ab0cf",
+    "subject_id": "ep_bc244f933ebdf86f",
+    "object_id": "ep_f763893bb6f8d808",
+    "relation_type": "precedes",
+    "reason": "王后匆忙前往目的地并带领随从（ep_bc244f933ebdf86f）描述了一个出行行动，而通报与迎接杰王子（ep_f763893bb6f8d808）则发生在固定场所内，包含王后放下绣活、杰王子入室等具体场景。从叙事逻辑推断，王后需先到达场所后才能参与迎接仪式，因此前者在时间顺序上很可能先于后者。尽管没有明确时间标记，但行为序列的合理性支持该顺序。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b64c7510171e",
+    "subject_id": "ep_bc244f933ebdf86f",
+    "object_id": "ep_91b35e8074282e64",
+    "relation_type": "precedes",
+    "reason": "王后匆忙前往目的地并带领随从（ep_bc244f933ebdf86f）发生在其突袭祥太子内室并质问逾礼行为（ep_91b35e8074282e64）之前，根据事件描述和相关场景编号（scene_40 先于 scene_41），可明确判断前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_48c584ec9f56",
+    "subject_id": "ep_bc244f933ebdf86f",
+    "object_id": "ep_fcc7fd59ee7c464b",
+    "relation_type": "precedes",
+    "reason": "王后匆忙前往目的地并带领随从（ep_bc244f933ebdf86f）发生在王后逼迫藏匿者现身（ep_fcc7fd59ee7c464b）之前，依据文档顺序（doc_39 在 doc_40 之前）以及情节的自然推进：王后到达现场是其后续施压行动的前提，文本通过连续场景编号（scene_40 到 scene_41）支持这一时间顺序。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2f509330597d",
+    "subject_id": "ep_bc244f933ebdf86f",
+    "object_id": "ep_e62fc141facb3731",
+    "relation_type": "precedes",
+    "reason": "王后匆忙前往目的地并带领随从（ep_bc244f933ebdf86f）发生在大王亲滤药汁并迫使王后服药（ep_e62fc141facb3731）之前，因为前者体现王后主动出行的紧急状态，而后者发生在午时云板报时后的固定仪式场景中，且王后在该情节中已处于被动服从地位，表明其先前行动（匆忙前往）可能为赴药仪式做铺垫，时间顺序和状态转变支持precedence关系。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_43_part_1",
+      "scene_43_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6f36e82aa2c4",
+    "subject_id": "ep_dfdfb39b01b88548",
+    "object_id": "ep_9253e932343a65b5",
+    "relation_type": "precedes",
+    "reason": "应对王后的突发身体不适（症状爆发并初步稳定）在时间上先于安抚王后并恢复稳定（意识恢复后进一步扶稳与平静），且两个情节共享王后健康状态的连续变化过程，前者为后者提供直接的前序状态。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_54238392a2df",
+    "subject_id": "ep_dfdfb39b01b88548",
+    "object_id": "ep_87b491ff184682b1",
+    "relation_type": "precedes",
+    "reason": "王后突发身体不适（手颤、流汗）发生在服药仪式之前，根据相关事件的时间顺序，该健康危机出现在scene_5，而服药仪式发生在scene_36，文档中scene编号递增表示叙事时间推进，因此'应对王后的突发身体不适'在叙事顺序上早于'王后服药仪式的持续施压与完成'。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0511a28b20bb",
+    "subject_id": "ep_edad5f62eb72a124",
+    "object_id": "ep_9253e932343a65b5",
+    "relation_type": "precedes",
+    "reason": "情节'应对王后的突发不适'描述了王后在行进中突然不适并停下，随后恢复常态继续前行；而'安抚王后并恢复稳定'发生在王后意识微弱恢复后，杰王子扶她坐稳并帮助其平静。根据事件顺序，突发不适的应对发生在先，随后才是进一步的安抚与稳定，因此前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d2d47ae3547f",
+    "subject_id": "ep_6f14d9a2b73d498a",
+    "object_id": "ep_4bafb56d276c372b",
+    "relation_type": "causes",
+    "reason": "成王子转述大王子欲出宫导致王后情绪由喜转忧，这一情绪变化直接引发了后续王后强忍悲痛前行的行为。两个情节通过王后的情绪反应连接，且描述中王后的痛苦与先前消息相关，构成直接因果链。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_043ca96a6cbe",
+    "subject_id": "ep_4bafb56d276c372b",
+    "object_id": "ep_ac94008919ba5dfb",
+    "relation_type": "precedes",
+    "reason": "王后强忍悲痛继续前行描述的是她在情绪痛苦中支撑自己并重新迈步的过程，而王后抵达并肃清宫室则是她到达目的地后行使权威、命令退下并掩门的行动。根据叙事逻辑和行为顺序，前行是抵达的前提，因此前者在话语顺序和动作发展上早于后者。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9cba7ead165c",
+    "subject_id": "ep_181050bc25c5a146",
+    "object_id": "ep_4bafb56d276c372b",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均展现王后在身体或情绪极度痛苦下强忍并坚持行动，分别体现于刺绣时的生理颤抖与前行时的悲痛流泪，形成在不同压力情境下相似意志力的并置对比，强调其坚韧特质。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_17f6ffb0a9e5",
+    "subject_id": "ep_4bafb56d276c372b",
+    "object_id": "ep_9253e932343a65b5",
+    "relation_type": "precedes",
+    "reason": "王后强忍悲痛继续前行发生在她情绪崩溃并需要支撑的场景中，而安抚王后并恢复稳定发生在她意识微弱恢复之后，由杰王子介入扶稳并平静其状态。根据叙事顺序，王后先表现出痛苦并前行，随后才被安抚，因此前者在时间上早于后者。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_27_part_1",
+      "scene_27_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ed9c79f9cbcb",
+    "subject_id": "ep_4bafb56d276c372b",
+    "object_id": "ep_e62fc141facb3731",
+    "relation_type": "precedes",
+    "reason": "王后强忍悲痛继续前行发生在场景42，而大王亲滤药汁并迫使王后服药发生在场景43，且后者以午时云板报时为开端，表明时间顺序上前者早于后者。两个情节分别属于连续场景，叙事上呈现明确的先后顺序。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_43_part_1",
+      "scene_43_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_38c3e3e79e8b",
+    "subject_id": "ep_73a8ba86004f9238",
+    "object_id": "ep_4bafb56d276c372b",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'王后审问小婵罪责并宣判处置' 发生在 scene_41，而 '王后强忍悲痛继续前行' 发生在 scene_42，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8ff4b7b00d97",
+    "subject_id": "ep_4c517842102d34cd",
+    "object_id": "ep_4bafb56d276c372b",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'王后离去与众人反应'（scene_41）发生在'王后强忍悲痛继续前行'（scene_42）之前，王后离开太子宫后，情节推进到她在行走中强忍悲痛的表现，叙事顺序明确。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3a824e1b5fef",
+    "subject_id": "ep_7e64b5594bbf8507",
+    "object_id": "ep_3ce7803bab339d6f",
+    "relation_type": "causes",
+    "reason": "蒋太医密报中提及草乌头由其女亲手入药，暗示王后用药存在隐秘操作，结合王后在绣菊花时突发严重身体异常，可推断异常状况可能由药物问题直接引发。该因果关系虽未明言，但通过药物执行细节与突发疾病的紧密关联得到较强支持。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c8a20d4bc21c",
+    "subject_id": "ep_1b6c681e2987d288",
+    "object_id": "ep_f763893bb6f8d808",
+    "relation_type": "precedes",
+    "reason": "王后得知二王子将进宫而欣喜发生在杰王子实际到达之前，根据描述，前者是预期状态，后者是实际迎接场景，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9eb9d3b9d56f",
+    "subject_id": "ep_1b6c681e2987d288",
+    "object_id": "ep_fc495ee07f382ed3",
+    "relation_type": "precedes",
+    "reason": "王后得知二王子将进宫而欣喜发生在二王子实际进宫并与王后相认之前，根据常规叙事逻辑和事件发展顺序，得知消息的喜悦情节在时间上先于母子相认的情感高潮，且两个情节共享王后与二王子重逢的上下文，支持precedes关系。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f7b8b32245e7",
+    "subject_id": "ep_ac94008919ba5dfb",
+    "object_id": "ep_efe7721d2b7befec",
+    "relation_type": "precedes",
+    "reason": "王后抵达并肃清宫室（ep_ac94008919ba5dfb）为王后与祥太子的秘密对峙创造封闭环境，而王后与祥太子对出行理由的对峙（ep_efe7721d2b7befec）发生在该对峙场合中，且依赖于宫室肃清后的私密条件。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_29039d4cdf93",
+    "subject_id": "ep_6f14d9a2b73d498a",
+    "object_id": "ep_4c517842102d34cd",
+    "relation_type": "precedes",
+    "reason": "成王子转述大王子欲出宫致王后神情转阴发生在王后离开太子宫之前，根据叙事顺序，王后情绪变化后决定离去，因此该情节在时间上先于王后离去与众人反应。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1663d84527c0",
+    "subject_id": "ep_1b6c681e2987d288",
+    "object_id": "ep_ac94008919ba5dfb",
+    "relation_type": "precedes",
+    "reason": "王后得知二王子将进宫而欣喜（ep_1b6c681e2987d288）发生在王后抵达并肃清宫室（ep_ac94008919ba5dfb）之前，依据描述中王后先得知消息后表现出欣喜，随后才驾到并采取行动，叙事顺序支持前者早于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0882042133eb",
+    "subject_id": "ep_8bbcd0942dc29ec3",
+    "object_id": "ep_3ce7803bab339d6f",
+    "relation_type": "precedes",
+    "reason": "王后专注绣花等待重逢发生在王后突发疾病之前，文本中绣花为杰王子到访铺垫情绪背景，而突发疾病是其后的紧急事件，叙事顺序明确。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6b2314126466",
+    "subject_id": "ep_9c417f955bbf8619",
+    "object_id": "ep_ac94008919ba5dfb",
+    "relation_type": "precedes",
+    "reason": "王后与成王子走向走廊（ep_9c417f955bbf8619）在叙事顺序上发生在王后抵达并肃清宫室（ep_ac94008919ba5dfb）之前，因为走向走廊是抵达宫室的前置动作，且描述中‘王后驾到’暗示她已到达目的地，形成时间上的先后顺序。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_59ef3a1e6fd4",
+    "subject_id": "ep_8bbcd0942dc29ec3",
+    "object_id": "ep_35fed95dbe65f4ce",
+    "relation_type": "precedes",
+    "reason": "王后专注绣花等待重逢（ep_8bbcd0942dc29ec3）发生在杰王子关切询问与王后掩饰病情（ep_35fed95dbe65f4ce）之前，因为绣花场景营造了杰王子到访前的情绪背景，且叙事逻辑上等待先于会面。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0ea7d9227296",
+    "subject_id": "ep_1d65559ccb17b8b8",
+    "object_id": "ep_fc495ee07f382ed3",
+    "relation_type": "contrasts_with",
+    "reason": "王后冷落并嘲讽祥太子展现疏离与敌意，而母子深情相认与情感流露则体现温柔与情感联结，两者在情感基调和母子互动状态上形成明显对比。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a5f7595342f6",
+    "subject_id": "ep_8bbcd0942dc29ec3",
+    "object_id": "ep_4a1543215188df46",
+    "relation_type": "precedes",
+    "reason": "王后专注绣花等待重逢的情节描述她为杰王子的到访铺垫情绪背景，而王后掩饰身体异常并接见祥太子的情节发生在她已出现身体症状并接待另一位人物时，叙事上下文中暗示前者为后续情节提供情感和情境铺垫，且接见祥太子的事件在时间上晚于专注绣花的等待状态，因此该关系在叙事顺序上成立。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7c82ed433840",
+    "subject_id": "ep_8bbcd0942dc29ec3",
+    "object_id": "ep_181050bc25c5a146",
+    "relation_type": "precedes",
+    "reason": "王后专注绣花等待重逢（ep_8bbcd0942dc29ec3）发生在杰王子到访之前，营造情绪背景；而王后强忍病痛坚持刺绣（ep_181050bc25c5a146）包含杰王子劝说和互动，表明其发生在杰王子到达之后。因此，前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c00fcb0ae3e2",
+    "subject_id": "ep_8bbcd0942dc29ec3",
+    "object_id": "ep_572dab0a0a048120",
+    "relation_type": "elaborates",
+    "reason": "王后专注绣花等待重逢（ep_8bbcd0942dc29ec3）描绘了她绣制金菊以寄托情感，为杰王子到访铺垫情绪背景；而王后以重阳节为由回应并恢复刺绣（ep_572dab0a0a048120）展示了她在被质问后重新稳定刺绣的行为。前者提供了关于刺绣行为的情感背景和叙事功能的额外细节，扩展了后者的语境，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_599bb9009144",
+    "subject_id": "ep_4a1543215188df46",
+    "object_id": "ep_db18b40eb47d723d",
+    "relation_type": "precedes",
+    "reason": "王后掩饰身体异常并接见祥太子发生在祥太子行礼之后，而王后下令退下是在接见过程中察觉其神色不安后采取的行动。根据描述，两个情节均发生在scene_31，且接见先于下令退下，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a89eb40c48d9",
+    "subject_id": "ep_4a1543215188df46",
+    "object_id": "ep_fcc7fd59ee7c464b",
+    "relation_type": "precedes",
+    "reason": "王后掩饰身体异常并接见祥太子发生在王后察觉异常并逼迫藏匿者现身之前，根据描述，接见祥太子是后续冲突升级的前置场景，叙事顺序明确。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e5192727db42",
+    "subject_id": "ep_86e9d69e2d6df952",
+    "object_id": "ep_fc495ee07f382ed3",
+    "relation_type": "contrasts_with",
+    "reason": "心理压迫与沉默崩溃展现的是王后对祥太子施加心理压力导致其沉默退缩，而母子深情相认与情感流露则呈现王后与杰王子之间温暖、感性的情感连接。两个情节均涉及王后与一位王子的对视互动，但结果和情感基调截然相反：一个是压迫导致崩溃，另一个是温情促成相认。这种并置在角色关系动态和情感走向上形成明显对比。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_17138245828c",
+    "subject_id": "ep_4a1543215188df46",
+    "object_id": "ep_91b35e8074282e64",
+    "relation_type": "precedes",
+    "reason": "王后掩饰身体异常并接见祥太子发生在王后突袭内室并质问太子之前，根据叙事顺序，先有接见行为，后有突袭质问，两者在时间线上有序且无重叠。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d47d8f968fdf",
+    "subject_id": "ep_181050bc25c5a146",
+    "object_id": "ep_4a1543215188df46",
+    "relation_type": "precedes",
+    "reason": "王后强忍病痛坚持刺绣发生在她掩饰身体异常并接见祥太子之前，两个情节均围绕刺绣活动展开，且后者提及王后在听到祥太子驾到后才停止刺绣并整理状态，表明前一情节在叙事顺序上直接早于后一情节。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_31f1bd6f65d8",
+    "subject_id": "ep_4a1543215188df46",
+    "object_id": "ep_4c517842102d34cd",
+    "relation_type": "precedes",
+    "reason": "王后接见祥太子后离开太子宫，叙事顺序上‘王后掩饰身体异常并接见祥太子’发生在‘王后离去与众人反应’之前，且两个情节分别位于scene_31和scene_41，文档顺序支持时间先后。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d9449577c378",
+    "subject_id": "ep_4a1543215188df46",
+    "object_id": "ep_3ce7803bab339d6f",
+    "relation_type": "precedes",
+    "reason": "王后掩饰身体异常并接见祥太子（ep_4a1543215188df46）发生在她突发严重疾病并被急救之前（ep_3ce7803bab339d6f），文本中王后在刺绣时已出现颤抖和出汗，随后才发生更严重的抽搐和呼吸困难，因此该情节在叙事时间顺序上早于急救事件。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_66be3f2a490b",
+    "subject_id": "ep_4a1543215188df46",
+    "object_id": "ep_e8c63579cfd095da",
+    "relation_type": "precedes",
+    "reason": "王后掩饰身体异常并接见祥太子发生在祥太子求情与王后心理对峙之前，根据事件描述的自然叙事顺序，接见是求情场景的前提，且相关事件均发生在连续场景（scene_31 早于 scene_41）中，支持该时间先后关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_567b61eed924",
+    "subject_id": "ep_ac94008919ba5dfb",
+    "object_id": "ep_db18b40eb47d723d",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述王后抵达并肃清宫室，建立权威并开启紧张场合；第二个情节进一步说明王后下令退下是为了与祥太子密谈，提供了更具体的动机和情境细节，从而扩展和细化了前一情节的目的和背景。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_54d999a198e8",
+    "subject_id": "ep_4a1543215188df46",
+    "object_id": "ep_87b491ff184682b1",
+    "relation_type": "precedes",
+    "reason": "王后掩饰身体异常并接见祥太子发生在王后服药仪式之前，根据相关事件的时间顺序，身体异常表现（如颤抖、出汗）早于服药场景中的公开服药行为，且两情节分别位于文档30和35，支持叙事上的先后顺序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2a0bef228b7c",
+    "subject_id": "ep_1d65559ccb17b8b8",
+    "object_id": "ep_db18b40eb47d723d",
+    "relation_type": "precedes",
+    "reason": "王后冷落并嘲讽祥太子发生在祥太子跪拜行礼且王后下令退下之前，根据描述中的行为顺序和相关事件的时间逻辑，嘲讽行为引发祥太子的尴尬与不安，进而导致王后察觉异样并下令密谈，因此前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6c8f8231bbb3",
+    "subject_id": "ep_ac94008919ba5dfb",
+    "object_id": "ep_1d65559ccb17b8b8",
+    "relation_type": "precedes",
+    "reason": "王后抵达并肃清宫室为后续与祥太子的对峙创造封闭环境，逻辑上先于她冷落并嘲讽祥太子的情节，且两个情节共享同一场合，构成连续叙事序列。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2ddcc29187c9",
+    "subject_id": "ep_3ce7803bab339d6f",
+    "object_id": "ep_572dab0a0a048120",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节描述王后突发严重身体异常并接受紧急救治，第二个情节则展示她在面对质问时平静回应并恢复稳定刺绣，两个情节在身体状态（危急 vs 稳定）和情绪氛围（紧张急救 vs 从容应对）上形成明显对比，构成状态与基调的逆转。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4934e78e900a",
+    "subject_id": "ep_1d65559ccb17b8b8",
+    "object_id": "ep_3786c4207fb0a0ff",
+    "relation_type": "precedes",
+    "reason": "王后冷落并嘲讽祥太子发生在她开启对峙并质问逃意之前，描述中前者为讽刺性忽视和言语挑衅，后者为在肃清宫室后直接质问，表明叙事上前者为铺垫，后者为升级，具有清晰的时间顺序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7375ede8b31c",
+    "subject_id": "ep_1d65559ccb17b8b8",
+    "object_id": "ep_e57121b326ba570e",
+    "relation_type": "elaborates",
+    "reason": "王后冷落并嘲讽祥太子的情节通过后续揭露三年前引诱往事和伦理挣扎，进一步扩展了两人之间紧张关系的背景和深层动机，表明嘲讽行为并非孤立，而是植根于更复杂的情感与道德冲突，因此后者为前者提供了解释性背景。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_908088f7db99",
+    "subject_id": "ep_181050bc25c5a146",
+    "object_id": "ep_572dab0a0a048120",
+    "relation_type": "contrasts_with",
+    "reason": "王后在第一个情节中强忍病痛、手部颤抖但仍坚持刺绣，显露出痛苦与意志力的挣扎；而在第二个情节中，她以重阳节为由平静回应质问，手部恢复稳定，从容继续刺绣。两个情节通过王后状态从艰难坚持到恢复稳定的转变形成对比，突显其身体或心理状态的逆转。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c65746832cb7",
+    "subject_id": "ep_1d65559ccb17b8b8",
+    "object_id": "ep_e8c63579cfd095da",
+    "relation_type": "precedes",
+    "reason": "王后冷落并嘲讽祥太子发生在祥太子求情与王后心理对峙之前，根据描述，王后的嘲讽引发祥太子的回应行为（跪地请罪），表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9282a846ae4e",
+    "subject_id": "ep_db18b40eb47d723d",
+    "object_id": "ep_73a8ba86004f9238",
+    "relation_type": "precedes",
+    "reason": "王后下令退下以密谈（ep_db18b40eb47d723d）发生在王后审问小婵罪责并宣判处置（ep_73a8ba86004f9238）之前，因为密谈的设置为后续审问和心理压迫创造了条件，且两个情节均涉及王后主导的审讯场景，具有连续的叙事顺序。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_79e9e1bcd048",
+    "subject_id": "ep_1d65559ccb17b8b8",
+    "object_id": "ep_86e9d69e2d6df952",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述王后通过言语冷落和嘲讽祥太子，制造尴尬；第二个情节进一步展示王后逼近并逼问，导致祥太子心理崩溃。第二个情节在行为和心理层面上深化了第一个情节中的压迫动态，提供了更细致的心理瓦解过程，因此构成对前一情节的扩展说明。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_509485d0e364",
+    "subject_id": "ep_1d65559ccb17b8b8",
+    "object_id": "ep_4c517842102d34cd",
+    "relation_type": "precedes",
+    "reason": "王后冷落并嘲讽祥太子发生在王后离去与众人反应之前，文本中王后的嘲讽行为直接引导其离开，随后描述了她离开后小婵和祥太子的反应，表明两个情节在叙事顺序上具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ce81a30e02a2",
+    "subject_id": "ep_1d65559ccb17b8b8",
+    "object_id": "ep_fcc7fd59ee7c464b",
+    "relation_type": "precedes",
+    "reason": "王后冷落并嘲讽祥太子发生在王后察觉异常并逼迫藏匿者现身之前，文本中嘲讽质问导致祥太子支吾，进而引发王后进一步命令藏匿者现身，叙事顺序清晰，前一情节在话语和行动发展上直接导向后一情节的开端。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_66076d95460c",
+    "subject_id": "ep_ac94008919ba5dfb",
+    "object_id": "ep_ae77443adeec18a5",
+    "relation_type": "precedes",
+    "reason": "王后抵达并肃清宫室为后续审问小婵创造封闭环境和紧张场合，叙事上发生在审问之前，且肃清宫室是审问得以私密进行的前提条件，支持时间顺序上的先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a91271106f11",
+    "subject_id": "ep_ac94008919ba5dfb",
+    "object_id": "ep_fcc7fd59ee7c464b",
+    "relation_type": "precedes",
+    "reason": "王后抵达并肃清宫室为后续逼迫藏匿者现身创造了封闭环境和紧张场合，叙事上明确先发生，且为后者提供场景铺垫。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_217b2494eccd",
+    "subject_id": "ep_1d65559ccb17b8b8",
+    "object_id": "ep_91b35e8074282e64",
+    "relation_type": "precedes",
+    "reason": "王后冷落并嘲讽祥太子发生在祥太子内室被突袭之前，根据描述，前者是在母后宫中进行的公开羞辱，后者是王后进一步采取行动进入太子内室进行质问，体现出叙事上的推进顺序。虽然没有明确时间标记，但情节发展从公开场合的言语交锋升级到私人空间的突击检查，支持前者在时间线上早于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b816d83e0c0f",
+    "subject_id": "ep_1d65559ccb17b8b8",
+    "object_id": "ep_06651ab0eddc2f9a",
+    "relation_type": "contrasts_with",
+    "reason": "王后冷落并嘲讽祥太子（ep_1d65559ccb17b8b8）与王后赦免小婵并对祥太子留下深意忠告（ep_06651ab0eddc2f9a）在态度和互动基调上形成对比：前者体现公开的轻蔑与压迫，后者虽含威严但带有保护性暗示，二者并置突显王后对祥太子复杂矛盾的态度。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b975a4196419",
+    "subject_id": "ep_ac94008919ba5dfb",
+    "object_id": "ep_e8c63579cfd095da",
+    "relation_type": "precedes",
+    "reason": "王后抵达并肃清宫室为祥太子与王后的私密对峙创造了封闭环境，这一行动在叙事上直接早于祥太子求情与王后心理对峙的发生，且两个情节共享同一场合'王后与祥太子的秘密对峙'，表明前者为后者的铺垫。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b8617dc89d86",
+    "subject_id": "ep_ac94008919ba5dfb",
+    "object_id": "ep_06651ab0eddc2f9a",
+    "relation_type": "precedes",
+    "reason": "王后抵达并肃清宫室（ep_ac94008919ba5dfb）在叙事顺序上早于王后赦免小婵并留下深意忠告（ep_06651ab0eddc2f9a），前者建立私密对峙场合，后者发生在该场合之后的同一连续场景中，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7535ddba10cd",
+    "subject_id": "ep_ac94008919ba5dfb",
+    "object_id": "ep_91b35e8074282e64",
+    "relation_type": "precedes",
+    "reason": "王后抵达并肃清宫室（ep_ac94008919ba5dfb）在叙事顺序上早于王后突袭内室并质问太子逾礼行为（ep_91b35e8074282e64），因为肃清宫室是为后续对峙创造封闭环境的必要前提，且相关事件在scene_15和scene_41中按时间顺序排列。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e5f177267fba",
+    "subject_id": "ep_ac94008919ba5dfb",
+    "object_id": "ep_73a8ba86004f9238",
+    "relation_type": "precedes",
+    "reason": "王后抵达并肃清宫室（ep_ac94008919ba5dfb）建立了封闭的对峙环境，为后续审问小婵罪责并宣判处置（ep_73a8ba86004f9238）创造了前提条件。根据描述，肃清宫室标志着紧张场合的开始，而审问与宣判是该场合内的后续发展，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_90dc4b8b6260",
+    "subject_id": "ep_ac94008919ba5dfb",
+    "object_id": "ep_4c517842102d34cd",
+    "relation_type": "precedes",
+    "reason": "王后抵达并肃清宫室（ep_ac94008919ba5dfb）在叙事顺序上早于王后离去与众人反应（ep_4c517842102d34cd），因为王后必须先抵达并建立封闭对峙场合，随后才可能离开并引发太子和小婵的震惊反应。两个情节共享同一事件链，且描述中的动作序列支持明确的时间先后。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2662fda27f23",
+    "subject_id": "ep_ae77443adeec18a5",
+    "object_id": "ep_e8c63579cfd095da",
+    "relation_type": "precedes",
+    "reason": "王后审问小婵的身份背景发生在祥太子求情之前，根据叙事顺序，审问引发紧张局势后，祥太子才出面跪地求情，形成连续场景的直接先后关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1335300f00a7",
+    "subject_id": "ep_272c8dbfe245551e",
+    "object_id": "ep_66c1d7156cfa3068",
+    "relation_type": "precedes",
+    "reason": "王后艰难服药并最终弃药发生在王后结束对话恢复绣花之前，两个情节均发生在scene_34，且服药行为在描述顺序和逻辑流程上先于恢复绣花，标志互动结束。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6296dd6aa7f0",
+    "subject_id": "ep_90cec43e276f3bf5",
+    "object_id": "ep_e62fc141facb3731",
+    "relation_type": "precedes",
+    "reason": "小婵提醒王后趁热服药发生在服药仪式初期，而大王亲滤药汁并迫使王后服药包含午时报时后的一系列动作，时间上紧随其后。根据描述，小婵的提醒早于大王主导的正式服药流程，因此该关系在叙事顺序上成立。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_43_part_1",
+      "scene_43_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c59c57494804",
+    "subject_id": "ep_06651ab0eddc2f9a",
+    "object_id": "ep_66c1d7156cfa3068",
+    "relation_type": "precedes",
+    "reason": "王后赦免小婵并留下忠告的情节（ep_06651ab0eddc2f9a）包含王后与小婵及太子的互动，随后王后结束对话并恢复绣花（ep_66c1d7156cfa3068），标志着互动终结。根据描述，赦免与忠告发生在王后恢复绣花之前，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2fc56cffadbd",
+    "subject_id": "ep_66c1d7156cfa3068",
+    "object_id": "ep_4c517842102d34cd",
+    "relation_type": "precedes",
+    "reason": "王后结束对话并恢复绣花（ep_66c1d7156cfa3068）发生在王后离开太子宫并引发众人反应（ep_4c517842102d34cd）之前，根据事件逻辑顺序，结束对话是离开的前提动作，且两情节分别关联场景scene_34与scene_41，文档顺序支持该时间序列。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1959e34833f3",
+    "subject_id": "ep_272c8dbfe245551e",
+    "object_id": "ep_e62fc141facb3731",
+    "relation_type": "contrasts_with",
+    "reason": "王后艰难服药并最终弃药（ep_272c8dbfe245551e）展现其对服药的抗拒与仪式性服从，而大王亲滤药汁并迫使王后服药（ep_e62fc141facb3731）则体现权力主导下的完整服从过程，两者在王后是否真正服药及权力介入程度上形成明显对比。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_43_part_1",
+      "scene_43_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ac89bd113756",
+    "subject_id": "ep_e62fc141facb3731",
+    "object_id": "ep_d2c848dfec1e5774",
+    "relation_type": "precedes",
+    "reason": "情节 '大王亲滤药汁并迫使王后服药' 包含王后服药及漱口擦嘴的完整过程（related_events 中明确列出 '王后漱口擦嘴完成服药仪式'），而情节 '王后漱口并完成服药后清洁' 专门描述服药后的清洁流程。两者描述的是同一连续过程，后者紧接前者中的服药动作之后发生，因此在叙事顺序上，主体情节在客体情节之前。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_43_part_1",
+      "scene_43_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5aa9229b95ef",
+    "subject_id": "ep_91b35e8074282e64",
+    "object_id": "ep_73a8ba86004f9238",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，王后突袭内室并质问太子发生在先，随后才审问小婵并宣判处置，两个情节均发生在scene_41，但突袭和质问太子的行为逻辑上早于对小婵的正式审问与宣判，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_52685bc87c6d",
+    "subject_id": "ep_b66962c08cb43e1b",
+    "object_id": "ep_b5c015015a234eb8",
+    "relation_type": "precedes",
+    "reason": "小婵进入御药坊并遭遇父亲阻拦发生在清晨送药任务之前，因为进入御药坊是获取药物的前置步骤，且描述中送药队伍已持有药罐开始行进，表明取药已完成。因此，进入御药坊的情节在叙事时间顺序上早于送药任务的执行。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_daad932ddbce",
+    "subject_id": "ep_f483c8301ef602be",
+    "object_id": "ep_b5c015015a234eb8",
+    "relation_type": "precedes",
+    "reason": "小婵秘密将草乌头投入药罐（ep_f483c8301ef602be）发生在药罐被用于清晨送药任务之前，逻辑上毒药投放必须先于送药执行，且两个情节共享药罐这一关键道具，表明前者在叙事时间线上早于后者。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_436bd70ef157",
+    "subject_id": "ep_b5c015015a234eb8",
+    "object_id": "ep_90039b304498789d",
+    "relation_type": "precedes",
+    "reason": "完成清晨送药任务描述的是送药队伍在清晨行进中前往目的地的过程，包括与报时太监队列交错而过的细节，发生在卯时进药仪式之前；而完成进药仪式并呈递药物则明确是在卯时进行的仪式性流程，包含小婵将药倒入玉碗并向王呈药的动作。因此，送药任务在叙事时间顺序上直接早于进药仪式的完成。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e1f90e8b4042",
+    "subject_id": "ep_b5c015015a234eb8",
+    "object_id": "ep_272c8dbfe245551e",
+    "relation_type": "precedes",
+    "reason": "送药任务在时间上先于服药行为发生：小婵完成清晨送药任务（ep_b5c015015a234eb8）是将药送到王后处的必要前提，而王后艰难服药并最终弃药（ep_272c8dbfe245551e）发生在送药之后，依据叙事流程和事件顺序，送药完成早于服药过程。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4b6cf41bff7c",
+    "subject_id": "ep_b5c015015a234eb8",
+    "object_id": "ep_90cec43e276f3bf5",
+    "relation_type": "precedes",
+    "reason": "完成清晨送药任务（ep_b5c015015a234eb8）描述的是送药队伍行进并执行日常流程，包含手持药罐、宫女跟随及与太监队列交错的场景；而小婵提醒王后趁热服药（ep_90cec43e276f3bf5）发生在服药仪式开始后，属于送药任务完成后的下一步动作。因此，送药任务在叙事顺序上早于提醒服药情节。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_606c851bc684",
+    "subject_id": "ep_73bbe2b4a3090121",
+    "object_id": "ep_73a8ba86004f9238",
+    "relation_type": "precedes",
+    "reason": "根据文档ID和场景编号，'小婵探问出宫许可并安慰祥太子'（doc_38, scene_39）在叙事顺序上早于'王后审问小婵罪责并宣判处置'（doc_40, scene_41），表明前者发生在后者之前。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9543b7c862e8",
+    "subject_id": "ep_90039b304498789d",
+    "object_id": "ep_90cec43e276f3bf5",
+    "relation_type": "precedes",
+    "reason": "完成进药仪式并呈递药物发生在小婵提醒王后趁热服药之前，因为呈递药物是仪式性流程的开始，而提醒服药是在仪式开始后发生的后续行为，文本中明确描述了时间顺序。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b3bfdf3ffac9",
+    "subject_id": "ep_90039b304498789d",
+    "object_id": "ep_272c8dbfe245551e",
+    "relation_type": "precedes",
+    "reason": "完成进药仪式并呈递药物在叙事顺序上早于王后艰难服药并最终弃药，因为宫女呈药是服药的前提，且相关事件均发生在同一场景（scene_34）中，呈药后紧接着王后开始服药过程。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_88d2d91c9ecb",
+    "subject_id": "ep_926790b5bdf743f6",
+    "object_id": "ep_ae77443adeec18a5",
+    "relation_type": "precedes",
+    "reason": "祥太子紧急藏匿小婵发生在王后审问小婵的身份背景之前，因为藏匿行为是对王后驾到的即时反应，而审问发生在王后发现小婵之后，叙事顺序上具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_62f55fa38601",
+    "subject_id": "ep_ae77443adeec18a5",
+    "object_id": "ep_f51e5594e9154d03",
+    "relation_type": "precedes",
+    "reason": "王后审问小婵的身份背景发生在小婵被迫现身并跪拜请罪之前，因为审问触发了小婵从屏风后走出并跪拜的反应，叙事顺序由相关事件scene_34在scene_41之前支持。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4c9faf2ab251",
+    "subject_id": "ep_90cec43e276f3bf5",
+    "object_id": "ep_f58694c0bff506c2",
+    "relation_type": "precedes",
+    "reason": "小婵提醒王后趁热服药发生在服药仪式开始后，试图推动进程，而压抑恐惧维持仪态是在王后持续注视和紧张对话后的反应，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d8ce7f049a75",
+    "subject_id": "ep_b66962c08cb43e1b",
+    "object_id": "ep_90039b304498789d",
+    "relation_type": "precedes",
+    "reason": "小婵进入御药坊并遭遇父亲阻拦（ep_b66962c08cb43e1b）发生在她煎药并参与进药仪式之前，根据叙事逻辑和事件流程，准备药物（包括进入御药坊取药）是完成卯时进药仪式的前置步骤。related_events 中显示两个情节均发生在scene_32和scene_34，按时间顺序scene_32在前，支持该顺序。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cbf525366641",
+    "subject_id": "ep_f483c8301ef602be",
+    "object_id": "ep_90039b304498789d",
+    "relation_type": "precedes",
+    "reason": "小婵秘密将草乌头投入药罐（ep_f483c8301ef602be）发生在药被呈递给王之前，是进药仪式前的准备步骤。根据描述，投毒行为在煎药过程中完成，而呈药仪式在之后发生，因此该情节在叙事顺序上早于完成进药仪式并呈递药物（ep_90039b304498789d）。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_07c453e18551",
+    "subject_id": "ep_78977fb8c840967e",
+    "object_id": "ep_f58694c0bff506c2",
+    "relation_type": "contrasts_with",
+    "reason": "小婵在安全私密情境中流露恐惧并表达离宫愿望，与她在公开宫廷仪式中压抑情绪、强装镇定的表现形成鲜明对比，凸显其在不同社交压力下的情感状态反差。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6e809ff7c997",
+    "subject_id": "ep_79df1534ffd4d677",
+    "object_id": "ep_f51e5594e9154d03",
+    "relation_type": "precedes",
+    "reason": "根据描述，'回应王后关于太子状况的质询' 发生在场景 scene_34，而 '小婵被迫现身并跪拜请罪' 发生在场景 scene_41，scene_34 在叙事顺序上早于 scene_41，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_648bd0d8a6b5",
+    "subject_id": "ep_f58694c0bff506c2",
+    "object_id": "ep_06651ab0eddc2f9a",
+    "relation_type": "precedes",
+    "reason": "小婵压抑恐惧维持仪态（scene_34）发生在王后赦免小婵并留下忠告（scene_41）之前，根据相关事件的场景编号顺序，scene_34早于scene_41，支持该时间先后关系。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a9f2f807aec8",
+    "subject_id": "ep_f483c8301ef602be",
+    "object_id": "ep_90cec43e276f3bf5",
+    "relation_type": "precedes",
+    "reason": "小婵秘密将草乌头投入药罐发生在服药仪式之前，为后续提醒王后趁热服药的情节提供了时间上的前序动作，文本中隐含了事件的时间顺序：投毒行为完成后，药才被端出并进入服用阶段。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ee708fe09f64",
+    "subject_id": "ep_90039b304498789d",
+    "object_id": "ep_87b491ff184682b1",
+    "relation_type": "precedes",
+    "reason": "完成进药仪式并呈递药物（ep_90039b304498789d）发生在卯时，涉及宫女们呈药的仪式性流程；而王后服药仪式的持续施压与完成（ep_87b491ff184682b1）发生在后续场景中，包括王子劝药、大王施压及王后最终服药。related_events 和场景上下文表明前者在时间顺序上早于后者，构成叙事上的先后关系。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d49ea622c222",
+    "subject_id": "ep_f51e5594e9154d03",
+    "object_id": "ep_f58694c0bff506c2",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述小婵在王后逼迫下现身并跪拜请罪，是事件的直接呈现；第二个情节描述她在持续压迫下压抑恐惧、维持仪态，补充了她在同一情境下的内在反应和行为细节，扩展了其在仪式中的心理与身体控制，因此构成对前一情节的细节补充。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2",
+      "scene_34_part_1",
+      "scene_34_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_77377e3be355",
+    "subject_id": "ep_b66962c08cb43e1b",
+    "object_id": "ep_f483c8301ef602be",
+    "relation_type": "precedes",
+    "reason": "小婵先进入御药坊并遭遇父亲阻拦，随后才秘密将草乌头投入药罐。两个情节发生在同一场景（scene_32），且事件序列在描述中呈现清晰的先后顺序：先有进入与阻拦，后有观察环境并投毒。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6ce626005e5f",
+    "subject_id": "ep_90cec43e276f3bf5",
+    "object_id": "ep_f51e5594e9154d03",
+    "relation_type": "precedes",
+    "reason": "小婵提醒王后趁热服药发生在服药仪式开始后，而小婵被迫现身并跪拜请罪是在王后审问情境下从屏风后走出，二者在叙事顺序上呈现先后关系。提醒服药时小婵尚在仪式中履行职责，而被迫现身则是后续在王后权威压迫下的屈从行为，文本暗示了从公开仪式到私下问责的时间推进，支持前者在前。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_34_part_2",
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_94d6ac30d9ed",
+    "subject_id": "ep_926790b5bdf743f6",
+    "object_id": "ep_73a8ba86004f9238",
+    "relation_type": "precedes",
+    "reason": "祥太子紧急藏匿小婵发生在王后审问小婵之前，因为藏匿行为是对王后驾到的即时反应，随后王后才开始审问并宣判处置，叙事顺序明确。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7c198b5448ad",
+    "subject_id": "ep_fcc7fd59ee7c464b",
+    "object_id": "ep_f51e5594e9154d03",
+    "relation_type": "causes",
+    "reason": "王后逼迫藏匿者现身这一情节直接导致小婵被迫从屏风后走出并跪拜请罪。描述中明确指出小婵是在王后厉声喝令下现身并进入跪拜状态，构成直接的因果关系。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ec6758228f91",
+    "subject_id": "ep_78977fb8c840967e",
+    "object_id": "ep_f51e5594e9154d03",
+    "relation_type": "precedes",
+    "reason": "根据相关事件均发生在scene_41，且小婵依偎倾诉情感的行为在叙事逻辑上早于被王后逼迫现身跪拜的公开羞辱，前者为私下流露情感，后者为外部权力介入后的公开场景，具有明确的时序推进。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e16d8cc4e5ef",
+    "subject_id": "ep_73a8ba86004f9238",
+    "object_id": "ep_d7b3b1fc95966f5d",
+    "relation_type": "precedes",
+    "reason": "王后审问小婵并宣判处置在叙事顺序上先于小婵宣誓忠诚并激发祥太子情感回应。根据相关事件描述，小婵因恐惧瘫倒后，才在情绪推动下扑向祥太子，表明两个情节在场景中具有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cff7475ba7aa",
+    "subject_id": "ep_64025e7534a5670f",
+    "object_id": "ep_f483c8301ef602be",
+    "relation_type": "precedes",
+    "reason": "蒋太医揭示西域草乌头的危险并警告泄密后果发生在小婵秘密将草乌头投入药罐之前，因为小婵是在得知草药为西域草乌头并意识到其危险性后，才在紧张情绪下执行投药行为。两个情节共享同一场景（scene_32），且事件顺序在描述中呈现为递进：先有信息揭示与警告，后有秘密行动。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_32_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a62cbc92d36a",
+    "subject_id": "ep_926790b5bdf743f6",
+    "object_id": "ep_f51e5594e9154d03",
+    "relation_type": "precedes",
+    "reason": "祥太子紧急藏匿小婵发生在王后逼迫小婵现身之前，叙事顺序上明确先有藏匿行为，随后小婵被迫从屏风后走出并跪拜请罪，两者在同一个场景（scene_41）中按时间顺序相继发生。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8924c8017756",
+    "subject_id": "ep_123e3276af59d2a3",
+    "object_id": "ep_43ae5ea150030c4d",
+    "relation_type": "precedes",
+    "reason": "传达大王免迎旨意的情节描述中明确指出取消迎接仪式并解散等候人员，而迎接大王驾临的情节涉及杰王子实际进行跪拜迎接。因此，传达免迎旨意必须在迎接行为之前发生，以取消该仪式，形成明确的时间顺序。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_22_part_1",
+      "scene_22_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_11fd4324252d",
+    "subject_id": "ep_73a8ba86004f9238",
+    "object_id": "ep_78977fb8c840967e",
+    "relation_type": "precedes",
+    "reason": "王后审问小婵并宣判处置（ep_73a8ba86004f9238）在叙事顺序上直接导致小婵产生恐惧并依偎在祥太子怀中倾诉离宫愿望（ep_78977fb8c840967e），两个情节均发生在scene_41，且前一情节中‘小婵因恐惧而瘫倒’与后一情节中‘流露恐惧、流泪诉说’在情绪和行为上呈现连续性，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d7e5b587eeb2",
+    "subject_id": "ep_7e64b5594bbf8507",
+    "object_id": "ep_d9ba3dcfc53a8c9d",
+    "relation_type": "precedes",
+    "reason": "主体情节中大王听取蒋太医关于王后用药的密报，涉及草乌头入药等隐秘医疗安排，为后续王后被召见质问建立前提；客体情节中大王直接质问王后是否知晓被召见原因，显示出问责的开始。两个情节共享对王后用药问题的关注，且密报情节在叙事逻辑上早于召见质问，构成信息准备与行动展开的顺序。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_43_part_1",
+      "scene_43_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_18c32c7bbea2",
+    "subject_id": "ep_7e64b5594bbf8507",
+    "object_id": "ep_fcf7e84e68f4e842",
+    "relation_type": "precedes",
+    "reason": "主体情节中大王听取蒋太医关于王后用药的密报，涉及草乌头由其女亲手入药，此信息为后续蒋氏（蒋太医之女）潜入宫中被发现并审问提供了背景和时间顺序上的前因。客体情节中大王审问蒋氏，身份确认后震惊，暗示此前不知其入宫，因此主体情节在叙事时间上早于客体情节，且无证据显示两者同时或逆序发生。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4c9ac08e8007",
+    "subject_id": "ep_376d9d216feec658",
+    "object_id": "ep_af743fc8d9a6983d",
+    "relation_type": "elaborates",
+    "reason": "揭示明日是生母忌日这一情节建立了重阳节与个人纪念的情感背景，而通过旧物唤醒共同记忆的情节进一步扩展了这一纪念行为的具体表现和情感深度，展示了大王如何通过保留旧物和习惯来缅怀过去，从而为前一情节提供了更丰富的背景和情感细节。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ea07fa28b087",
+    "subject_id": "ep_c2f56d833d9e084c",
+    "object_id": "ep_376d9d216feec658",
+    "relation_type": "precedes",
+    "reason": "根据相关场景信息，'大王召祥太子同行' 发生在重阳宴场景（scene_36），而 '揭示明日是生母忌日' 发生在后续场景（scene_37），因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_324fc96c7c99",
+    "subject_id": "ep_5f611fdfe13fb605",
+    "object_id": "ep_376d9d216feec658",
+    "relation_type": "contrasts_with",
+    "reason": "大王在重阳宴后晨光中思念未归的元杰，与次日揭示明日是祥太子生母忌日并唤起追思的情节形成情感基调上的并置对比，一个聚焦缺席的兄弟，另一个聚焦逝去的母亲，强化节日中缺失与纪念的主题。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_576315a55aee",
+    "subject_id": "ep_c2f56d833d9e084c",
+    "object_id": "ep_c6e09925ebb06b8e",
+    "relation_type": "precedes",
+    "reason": "主体情节'大王召祥太子同行'发生在重阳宴场景（scene_36），而客体情节'表达父子疏离与父爱'发生在后续场景（scene_37），且描述中显示大王在召同行后进行私下对话，因此叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_202fc6a75eee",
+    "subject_id": "ep_14f1a5ef792fd315",
+    "object_id": "ep_4993483cf7d6dbad",
+    "relation_type": "precedes",
+    "reason": "主体情节'大王行进至熏蒸区域'描述大王脱去盔甲后步履蹒跚地接近熏蒸位置，连接脱甲与治疗两个阶段，具有过渡性功能；客体情节'准备药熏仪式并安顿大王'则描述大王被搀扶坐上熏椅并开始接受治疗。根据叙事顺序，行进至熏蒸区域发生在实际坐上熏椅并开始治疗之前，且主体情节明确指出其连接脱甲与治疗，支持其在时间线上先于客体情节。因此，该关系为'precedes'。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_65f25e6e2e77",
+    "subject_id": "ep_43ae5ea150030c4d",
+    "object_id": "ep_d9ba3dcfc53a8c9d",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'迎接大王驾临' 发生在 scene_22，而 '王后觐见与大王召见质问' 发生在 scene_43，scene_22 在叙事顺序上早于 scene_43，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_22_part_2",
+      "scene_43_part_1",
+      "scene_43_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_355fe86b4dd1",
+    "subject_id": "ep_43ae5ea150030c4d",
+    "object_id": "ep_e3082dadc47c0a22",
+    "relation_type": "precedes",
+    "reason": "‘迎接大王驾临’发生在大王刚到场景（scene_22），而‘任命杰王子为重阳节值令官’发生在后续场景（scene_36），且任命行为需以大王驾临为前提，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_22_part_2",
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c2bc59984f6a",
+    "subject_id": "ep_af63e3b20d6f1ccd",
+    "object_id": "ep_ca6fbe998ac15270",
+    "relation_type": "precedes",
+    "reason": "根据related_events，'剑锋下的权力训诫'中的事件包括大王将剑架在杰王子脖子上、命令其随回宫等，之后才发生李将军和太监们退出厅堂，大王与杰王子独处。这表明权力训诫情节在叙事顺序上直接早于父子独处的情感交流。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_22_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f82ec35fd875",
+    "subject_id": "ep_43ae5ea150030c4d",
+    "object_id": "ep_af63e3b20d6f1ccd",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'迎接大王驾临'中的事件（如杰王子跪拜迎接父王）在'剑锋下的权力训诫'中的事件（如大王拔剑并抛向杰王子）之前发生，两者均发生在scene_22内，但迎接行为逻辑上和叙事上先于比试与训诫，构成直接的先后顺序。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_22_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_68ddb3c62c25",
+    "subject_id": "ep_af63e3b20d6f1ccd",
+    "object_id": "ep_e62fc141facb3731",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均展示大王通过仪式化行为施加权力控制：一个以剑术比试迫使王子服从，另一个以药汁服用来迫使王后服从。两者在手段（武力对抗 vs. 沉默仪式）、对象（王子 vs. 王后）和情境（激烈格斗 vs. 静态服从）上形成并置对比，强调权力在不同关系中的实施方式差异，支持对比关系。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_22_part_2",
+      "scene_43_part_1",
+      "scene_43_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_09748b98b83b",
+    "subject_id": "ep_2cd97286a6a45c34",
+    "object_id": "ep_af63e3b20d6f1ccd",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均展现大王通过强势行为施加权力控制，但情境和对象不同：前者是在宫廷仪式中对王后进行言语规训，强调礼法规矩；后者是在武力对峙中对杰王子进行身体压制，以剑术比试喻示权力归属。两者在手段（言语 vs 武力）、场合（仪式场景 vs 战斗场景）和关系动态（夫妻权力 vs 父子权威）上形成并置对比，凸显大王在不同关系中行使权威的多重方式。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_43_part_2",
+      "scene_22_part_1",
+      "scene_22_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2ec58f89f847",
+    "subject_id": "ep_b25e1bf05ae7127d",
+    "object_id": "ep_a45b406432f15081",
+    "relation_type": "causes",
+    "reason": "传令太监传达大王的行程变更与新命令后，王后随即做出回应并宣布解散众人，表明该命令直接触发了王后的反应和集会的结束，构成明确的因果关系。",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0948280d70d0",
+    "subject_id": "ep_87b491ff184682b1",
+    "object_id": "ep_ca6fbe998ac15270",
+    "relation_type": "precedes",
+    "reason": "王后服药仪式的持续施压与完成（ep_87b491ff184682b1）发生在重阳宴场景中，其描述包含送药队伍呈药、王子跪劝、王后服药及大王斥责王子等完整过程；而父子独处的情感交流（ep_ca6fbe998ac15270）始于众人退下后大王与杰王子的私下会面，明确依赖于前一情节的结束作为其开始条件。因此，主体情节在叙事顺序上直接早于客体情节。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4",
+      "scene_22_part_1",
+      "scene_22_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ff138cca5b55",
+    "subject_id": "ep_4993483cf7d6dbad",
+    "object_id": "ep_e62fc141facb3731",
+    "relation_type": "precedes",
+    "reason": "根据相关场景信息，'准备药熏仪式并安顿大王'发生在scene_36，而'大王亲滤药汁并迫使王后服药'发生在scene_43，scene_36在叙事顺序上早于scene_43，因此该关系为precedes。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4",
+      "scene_43_part_1",
+      "scene_43_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f671220aafbc",
+    "subject_id": "ep_28c6878441554756",
+    "object_id": "ep_572dab0a0a048120",
+    "relation_type": "precedes",
+    "reason": "祥太子揭绣质问王后意图发生在王后以重阳节为由回应并恢复刺绣之前，文本中质问行为直接引出王后的回应，叙事顺序明确。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_470a35667727",
+    "subject_id": "ep_123e3276af59d2a3",
+    "object_id": "ep_47413b581ce2655d",
+    "relation_type": "precedes",
+    "reason": "传令太监传达大王免迎旨意，取消迎接仪式并解散等候人员，这一行动在逻辑和叙事顺序上早于仪仗方队行跪礼。因为只有在命令传达后，仪式程序才会继续进行到跪礼环节，表明前者为后续仪式动作的前提步骤。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9f22aadd465e",
+    "subject_id": "ep_4a1543215188df46",
+    "object_id": "ep_28c6878441554756",
+    "relation_type": "precedes",
+    "reason": "王后掩饰身体异常并接见祥太子发生在祥太子揭绣质问王后意图之前，因为王后先遮盖绣布并接见祥太子，随后祥太子才进入内室掀开绸布并质问，叙事顺序明确。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7083092bffe6",
+    "subject_id": "ep_1d65559ccb17b8b8",
+    "object_id": "ep_28c6878441554756",
+    "relation_type": "precedes",
+    "reason": "王后冷落并嘲讽祥太子发生在祥太子揭绣质问王后意图之前，因为嘲讽导致祥太子情绪反应，随后在众人退下后才进入内室发现绣品并质问，叙事顺序明确。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0c5286bb8324",
+    "subject_id": "ep_16096c05fd751d35",
+    "object_id": "ep_ee025d75711dce24",
+    "relation_type": "precedes",
+    "reason": "蒙面人潜入御药坊搜寻并取走草药发生在蓝衣太监发现异常并恢复现场之前，因为只有在蒙面人翻找并取走草药后，抽屉才会被拉开，从而触发太监的发现和后续恢复行为。两个情节共享同一场景（scene_45），且事件逻辑顺序支持时间上的先后关系。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8503d64b170c",
+    "subject_id": "ep_f51e5594e9154d03",
+    "object_id": "ep_e8c63579cfd095da",
+    "relation_type": "precedes",
+    "reason": "小婵被迫现身并跪拜请罪发生在祥太子求情与王后心理对峙之前，因为王后在小婵出现后才转向对祥太子的逼问，叙事顺序上前者为后者的直接前提。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_41_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_efb5cfcefaeb",
+    "subject_id": "ep_9c417f955bbf8619",
+    "object_id": "ep_da0aad3fc20eccf3",
+    "relation_type": "precedes",
+    "reason": "王后与成王子走向走廊的行动发生在玉帘被层层放下的过程中，描述中表明两者在同一个场景（scene_16）中展开，但人物移动的起始动作逻辑上早于玉帘完全放下，形成叙事上的先后顺序。尽管时间接近，但走向走廊的动作启动在前，玉帘逐步放下作为伴随环境反应，支持'precedes'关系。",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bf80ae2fc525",
+    "subject_id": "ep_5da0070dfa617c5e",
+    "object_id": "ep_f7d020ee237f2f9d",
+    "relation_type": "precedes",
+    "reason": "布置重阳节庆典场地是为重阳宴做准备的前期工作，而阐释天圆地方与礼制规矩发生在庆典进行中，两者共享同一场合'重阳宴'，且准备活动在叙事逻辑上早于典礼中的讲解环节。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2627b919f369",
+    "subject_id": "ep_d26ea5e8acdb71d6",
+    "object_id": "ep_87b491ff184682b1",
+    "relation_type": "precedes",
+    "reason": "安排王室成员入座发生在王后服药仪式之前，因为入座是宴会的初始环节，为后续的服药仪式建立场景和人物位置，且两个情节均发生在重阳宴（scene_36）中，时间顺序上具有明确的先后关系。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bc0151c02507",
+    "subject_id": "ep_0042d9f822e25f39",
+    "object_id": "ep_c6e09925ebb06b8e",
+    "relation_type": "contrasts_with",
+    "reason": "祥太子主动申明换储请求出于忠诚，体现其理性与责任感；而大王表达父子疏离与父爱，流露情感与愧疚。两者在情感基调上形成理性与感性的对比，且在同一场景（scene_37）中并置，强化了父子间政治责任与私人情感的张力。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a11a40b1bd4a",
+    "subject_id": "ep_5da0070dfa617c5e",
+    "object_id": "ep_d26ea5e8acdb71d6",
+    "relation_type": "precedes",
+    "reason": "布置重阳节庆典场地是为重阳宴做准备的早期步骤，包括铺设菊花和准备高台，这在逻辑和叙事顺序上早于安排王室成员入座。两个情节均发生在同一场合'重阳宴'，且准备场地为后续入座安排提供了必要前提，文本中描述的活动顺序支持这一时序关系。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_43b2c7feab41",
+    "subject_id": "ep_d26ea5e8acdb71d6",
+    "object_id": "ep_c2f56d833d9e084c",
+    "relation_type": "precedes",
+    "reason": "安排王室成员入座是重阳宴初期的场景，确立宴席格局；大王召祥太子同行发生在值令官任命之后，属于后续发展。两者均发生在同一场合'重阳宴'，但入座安排在时间上早于召同行，叙事顺序清晰。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8c80651a1f09",
+    "subject_id": "ep_d26ea5e8acdb71d6",
+    "object_id": "ep_f7d020ee237f2f9d",
+    "relation_type": "precedes",
+    "reason": "‘安排王室成员入座’描述的是宴会格局的物理布置和成员就座过程，而‘阐释天圆地方与礼制规矩’是大王在宴席就位后进行的讲解活动。根据常规叙事和场合逻辑，入座完成之后才会开始正式的教诲或讲话，且两个情节共享同一场合‘重阳宴 (scene_36)’，支持其在时间序列上的先后关系。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_36_part_2",
+      "scene_36_part_3",
+      "scene_36_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5ed3a68f8cfc",
+    "subject_id": "ep_14f1a5ef792fd315",
+    "object_id": "ep_535f6cf5cd19c3d3",
+    "relation_type": "precedes",
+    "reason": "主体情节'大王行进至熏蒸区域'描述大王脱去盔甲后步履蹒跚地接近熏蒸位置，具有连接脱甲与治疗的过渡性功能；客体情节'启动熏椅并完成治疗就位'则聚焦于熏椅准备就绪及大王被引导坐上熏椅接受治疗，构成疗养仪式的高潮。两个情节共享同一场合'大王的熏药疗养仪式'，且在叙事顺序上，大王的行进明显早于熏椅启动和就位治疗，文本中'继续前行'和'逐步接近'暗示了时间上的先后推进，因此主体情节在话语顺序上直接先于客体情节。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_50368ee89c95",
+    "subject_id": "ep_ee025d75711dce24",
+    "object_id": "ep_fee9287e0caac3ce",
+    "relation_type": "precedes",
+    "reason": "蓝衣太监发现异常并恢复现场的情节描述中，其行动（发现拉开的抽屉、合上抽屉）发生在蒙面人察觉太监出现并隐蔽躲避之后；但根据叙事逻辑和事件顺序，蒙面人拉开抽屉并取走草药的行为必须先发生，才导致太监发现异常。因此，客体情节（蒙面人隐藏）在时间上先于主体情节（太监恢复现场），故关系为客体 precedes 主体。但由于输入中主体为 ep_ee025d75711dce24，客体为 ep_fee9287e0caac3ce，方向应为 object -> subject，而关系类型 precedes 是有向的，不能反向成立，因此无足够支持表明主体 precedes 客体。综上，最合理推断是主体情节不能 precedes 客体情节，但基于事件依赖性，客体必须先发生，故主体不能在前。因此，正确方向应为客体 precedes 主体，但因输出要求固定主体与客体角色，无法反转，故不能成立 precedes 关系。重新评估：两个情节在 scene_45 同时发生，描述的是同一场景下的并行反应——蒙面人躲避与太监查探恢复现场，属于同步事件。没有明确时间先后或因果触发，也不构成对比或扩展。因此，无充分证据支持任何允许的关系。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.85
+  }
+]

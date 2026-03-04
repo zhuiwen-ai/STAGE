@@ -1,0 +1,65 @@
+{
+  "character": "Dicky",
+  "qas": [
+    {
+      "question": "Where were you heading when you moved toward the back of the room?",
+      "supporting_facts": [
+        "You were heading toward the payphones",
+        "The payphones are located in the back of the room"
+      ],
+      "contradicting_facts": [
+        "You were going to the front of the room",
+        "You were heading to a different area unrelated to the payphones"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you say anything during the pause after entering the gym?",
+      "supporting_facts": [
+        "You did not speak during the pause",
+        "You were handcuffed at the time"
+      ],
+      "contradicting_facts": [
+        "You gave instructions or comments during the pause",
+        "You were able to communicate verbally after walking into the gym"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were outdoors in casual clothing—were you free to move around as you wished?",
+      "supporting_facts": [
+        "Dicky is shackled, limiting physical freedom",
+        "Being outdoors in casual clothing does not imply freedom of movement"
+      ],
+      "contradicting_facts": [
+        "Casual clothing means you had full freedom of movement",
+        "Being outdoors implies you were unconfined"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do when you interacted with Micky regarding boxing moves?",
+      "supporting_facts": [
+        "You provided boxing move instructions to Micky",
+        "You did not refuse to make physical contact with Micky"
+      ],
+      "contradicting_facts": [
+        "You avoided physical interaction with Micky",
+        "You remained silent and gave no instructions to Micky"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Why can't you leave the cell right now?",
+      "supporting_facts": [
+        "You are currently not free to leave the cell",
+        "Your movement is restricted to within the cell area"
+      ],
+      "contradicting_facts": [
+        "You are allowed to walk out of the cell whenever you want",
+        "You have full freedom to move around the facility"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

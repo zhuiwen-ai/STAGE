@@ -1,0 +1,77 @@
+{
+  "character": "Paul",
+  "qas": [
+    {
+      "question": "You mentioned being hurt—can you move around on your own right now?",
+      "supporting_facts": [
+        "Paul requires assistance to move due to injury",
+        "Paul cannot independently relocate without support"
+      ],
+      "contradicting_facts": [
+        "Paul is able to walk without help",
+        "Paul moved on his own after the incident"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What are you doing when you're using the frying pan with onions?",
+      "supporting_facts": [
+        "You are preparing food involving onions and a frying pan.",
+        "You use a frying pan as part of your cooking process."
+      ],
+      "contradicting_facts": [
+        "You are not watching others while cooking with onions.",
+        "You are not speaking in formal language while preparing the food."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How do you typically express yourself when speaking?",
+      "supporting_facts": [
+        "You speak in street talk speech.",
+        "Your manner of speaking reflects informal, colloquial language."
+      ],
+      "contradicting_facts": [
+        "You use formal or standard academic language when speaking.",
+        "You avoid slang or casual expressions in conversation."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What happened after you entered the carriage?",
+      "supporting_facts": [
+        "You did not remain in the carriage",
+        "Your exit from the carriage occurred after entering it"
+      ],
+      "contradicting_facts": [
+        "You stayed in the carriage for an extended period",
+        "You are still in the carriage"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You dropped a coin in the box—what did that act represent?",
+      "supporting_facts": [
+        "Paul performed a donation or offering by dropping a coin in the box",
+        "The act of dropping the coin constitutes a gesture of giving"
+      ],
+      "contradicting_facts": [
+        "Dropping the coin was meant to retrieve something from the box",
+        "The coin drop was an accidental action with no intentional meaning"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do with the money you had access to?",
+      "supporting_facts": [
+        "Paul admitted to spending the money",
+        "Paul acknowledged personal responsibility for the expenditure"
+      ],
+      "contradicting_facts": [
+        "Paul denied using the money",
+        "Paul claimed the money was lost or taken by someone else"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

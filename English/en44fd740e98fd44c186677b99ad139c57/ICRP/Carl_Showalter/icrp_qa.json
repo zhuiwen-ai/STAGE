@@ -1,0 +1,66 @@
+{
+  "character": "Carl_Showalter",
+  "qas": [
+    {
+      "question": "You arrived at the scene and got out of the vehicle—what did you do after exiting?",
+      "supporting_facts": [
+        "You got out of the vehicle",
+        "You did not leave the scene immediately upon arrival",
+        "You attempted but failed to damage a fence post"
+      ],
+      "contradicting_facts": [
+        "You left the scene right after getting out of the vehicle",
+        "You successfully damaged the fence post"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why did you dig into the snow with your bare hands?",
+      "supporting_facts": [
+        "Carl_Showalter dug into the snow with his bare hands",
+        "Carl knelt at a fence post and dug into the snow with his bare hands"
+      ],
+      "contradicting_facts": [
+        "You used a tool to dig into the snow",
+        "You dug into the snow with gloves on"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why are you having trouble speaking clearly right now?",
+      "supporting_facts": [
+        "You have been injured in the face.",
+        "Your speech is impaired due to physical obstruction from the injury."
+      ],
+      "contradicting_facts": [
+        "You are choosing not to speak clearly as a form of protest.",
+        "Your unclear speech is due to exhaustion or dehydration."
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Where were you positioned before you emerged?",
+      "supporting_facts": [
+        "You were behind the sofa before emerging.",
+        "You emerged from a location carrying a briefcase."
+      ],
+      "contradicting_facts": [
+        "You were standing in front of the sofa.",
+        "You entered the room from outside."
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "What tools or objects did you use when interacting with the fence post?",
+      "supporting_facts": [
+        "Carl_Showalter used sticks to mark the fence post",
+        "Carl_Showalter used physical force (kicking) on the fence post"
+      ],
+      "contradicting_facts": [
+        "You used a paint can and brush to mark the post",
+        "You did not bring or use any objects during the interaction"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

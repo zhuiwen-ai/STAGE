@@ -1,0 +1,65 @@
+{
+  "character": "Fred",
+  "qas": [
+    {
+      "question": "You gave a speech using notes—can you explain why they were necessary?",
+      "supporting_facts": [
+        "Fred uses crib notes provided by Barney during his speech.",
+        "Fred was agitated, which may have affected his ability to recall speech content."
+      ],
+      "contradicting_facts": [
+        "You delivered your speech entirely from memory without any assistance.",
+        "The crib notes were only for backup but you did not actually use them."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you enter the ranch cave after arriving?",
+      "supporting_facts": [
+        "Fred did not stay outside after arriving at the ranch cave",
+        "Fred is physically present at the location of the shuddering beam, which implies being inside the cave"
+      ],
+      "contradicting_facts": [
+        "You remained outside the ranch cave after arriving",
+        "Your presence was only near the entrance but not inside"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you notice anything on the walls when you were inside?",
+      "supporting_facts": [
+        "Fred noticed a photo on the wall",
+        "The observation occurred while Fred was physically present at the location of the shuddering beam"
+      ],
+      "contradicting_facts": [
+        "You did not see any objects on the wall",
+        "Nothing on the walls caught your attention"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Is your identity known to Officer Gravel?",
+      "supporting_facts": [
+        "Fred is not unrecognized by Officer Gravel",
+        "Officer Gravel has confirmed Fred's identity"
+      ],
+      "contradicting_facts": [
+        "Officer Gravel does not know who you are",
+        "Fred's identity remains unknown to Officer Gravel"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Were you paying attention to what was around you during the moment you looked at Lava?",
+      "supporting_facts": [
+        "You looked at Lava",
+        "You did not fail to observe your surroundings"
+      ],
+      "contradicting_facts": [
+        "You were not aware of your environment when you looked at Lava",
+        "Looking at Lava meant you ignored other details around you"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

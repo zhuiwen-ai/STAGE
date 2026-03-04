@@ -1,0 +1,65 @@
+{
+  "character": "Jack",
+  "qas": [
+    {
+      "question": "What did you do after observing her?",
+      "supporting_facts": [
+        "Jack observed her before turning to face the lake",
+        "Jack turned to face the lake after observing her"
+      ],
+      "contradicting_facts": [
+        "You left the shiny paper wrapped after observing her",
+        "You ignored her presence after observing her"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you have any visual contact with Clara during the incident with the band?",
+      "supporting_facts": [
+        "you have looked at her briefly",
+        "you and Clara shout at each other above the noise of the band"
+      ],
+      "contradicting_facts": [
+        "you did not look at Clara at all during the interaction",
+        "you avoided looking at Clara while shouting"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You faced Larry directly before taking action—what was your position relative to him when you acted?",
+      "supporting_facts": [
+        "You faced Larry directly before taking action.",
+        "Your first shot hit Larry in the heart."
+      ],
+      "contradicting_facts": [
+        "You shot Larry without directly facing him.",
+        "You used binoculars to shoot Larry from a hidden position."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How do you feel about the moment you shared with Clara?",
+      "supporting_facts": [
+        "Jack is not indifferent to the moment shared with Clara",
+        "Jack reflects on his emotions, indicating emotional engagement"
+      ],
+      "contradicting_facts": [
+        "You were emotionally detached during the moment with Clara",
+        "The moment with Clara had no impact on your emotional state"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "What did you see after unwrapping the shiny paper?",
+      "supporting_facts": [
+        "Jack unwrapped shiny paper",
+        "Jack has seen something resting on the smooth stone of the lake-bed"
+      ],
+      "contradicting_facts": [
+        "You saw nothing after unwrapping the shiny paper",
+        "The shiny paper revealed an object floating in the air"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

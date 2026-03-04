@@ -1,0 +1,2615 @@
+[
+  {
+    "id": "rel_ep_ep_095d411dcad5",
+    "subject_id": "ep_a889f171ac56cbb3",
+    "object_id": "ep_ad1cbff41f24941d",
+    "relation_type": "precedes",
+    "reason": "曹斌爆发并攻击程勇发生在冲突期间，而程勇在冲突后保持沉默是在曹斌离开之后，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4fb087a9e5ca",
+    "subject_id": "ep_a64073b0f4308899",
+    "object_id": "ep_ad1cbff41f24941d",
+    "relation_type": "precedes",
+    "reason": "曹斌投掷物品发泄愤怒发生在冲突过程中，而程勇在冲突后保持沉默是在曹斌离开之后，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bcca894d5b88",
+    "subject_id": "ep_44794cef49a2b00a",
+    "object_id": "ep_5c0b82475a76be3c",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，实体 #1 中的所有事件发生在 scene_13，而实体 #2 中的事件发生在 scene_14，表明前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4391807f2c4a",
+    "subject_id": "ep_5c419f3edfe5537f",
+    "object_id": "ep_742aac3276cbd17d",
+    "relation_type": "precedes",
+    "reason": "程勇求证诊断并质疑费用发生在王主任离开之前，随后程勇目送其离去并陷入绝望，叙事顺序明确支持该时间先后关系。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_25c4640c28d1",
+    "subject_id": "ep_c3b7248785e4c316",
+    "object_id": "ep_ee3120ac2f5db185",
+    "relation_type": "elaborates",
+    "reason": "在讨论彭浩的身份与处境之后，程勇提出寻找彭浩的意图，这一行为扩展了前一情节，提供了后续行动方向和动机深化，符合对前一情节的进一步阐述。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1ecfeb1b6f90",
+    "subject_id": "ep_5c419f3edfe5537f",
+    "object_id": "ep_a17fff24ff44fe41",
+    "relation_type": "precedes",
+    "reason": "程勇求证诊断并质疑费用发生在程勇送礼请求关照遭拒之前，两个情节均发生在scene_17，且逻辑上质疑费用后进一步尝试通过送礼寻求帮助，叙事顺序支持前者先于后者。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_189cfa88a795",
+    "subject_id": "ep_a17fff24ff44fe41",
+    "object_id": "ep_742aac3276cbd17d",
+    "relation_type": "causes",
+    "reason": "程勇送礼请求关照遭拒直接导致他目送王主任离去并陷入绝望，描述中明确指出程勇在被拒绝后意识到求助无门，情绪崩溃，构成直接因果关系。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1feea4619f1d",
+    "subject_id": "ep_3e6683183b87fd66",
+    "object_id": "ep_75572e01911072e5",
+    "relation_type": "causes",
+    "reason": "主体情节中描述的抗议者升级冲突并投掷粪便的行为直接导致客体情节中医药代表无法继续沟通并被迫撤离现场，相关事件在同一个场景(scene_23)中有明确的因果链条支持。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f4720ed5d99a",
+    "subject_id": "ep_476ffdac09b12148",
+    "object_id": "ep_69253a51fdaf217a",
+    "relation_type": "precedes",
+    "reason": "程勇接手照顾父亲用餐发生在父亲拒绝进食并索要香烟之前，描述中显示喂饭过程开始后，父亲才突然推开饭菜并索要香烟，表明两个情节在同一个场景中按时间顺序先后发生。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a7645b1a8618",
+    "subject_id": "ep_f8de1f9e353dd2a1",
+    "object_id": "ep_c79b9202096beb93",
+    "relation_type": "precedes",
+    "reason": "彭浩抢车并开始逃跑是程勇命令彭浩停车并展开追逐的直接前提，描述中明确指出程勇是在发现彭浩抢车后才展开追逐，因此该情节在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c1b3955c0b33",
+    "subject_id": "ep_a889f171ac56cbb3",
+    "object_id": "ep_dd871fbb7c7d5e09",
+    "relation_type": "precedes",
+    "reason": "曹斌爆发并攻击程勇发生在其发出威胁之前，根据事件描述的顺序和相关事件的时间逻辑，攻击行为被警员阻止后，曹斌随后发出威胁并被释放，因此该情节在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1550ce77a033",
+    "subject_id": "ep_c3b7248785e4c316",
+    "object_id": "ep_7b24066fc027c39d",
+    "relation_type": "precedes",
+    "reason": "讨论彭浩的身份与处境发生在程勇和吕受益发现彭浩之前，根据相关事件的文档顺序（doc_42在doc_43之前）以及叙事逻辑，先有对彭浩背景的讨论，随后才在屠宰场发现并追捕他。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_94e0e2865c98",
+    "subject_id": "ep_c6cdf905ccfdcaed",
+    "object_id": "ep_faf99ea43f1977f3",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合'病友群主与程勇的药品合作会议 (scene_38)'中。根据描述，程勇先确立药品销售安全原则，随后面对群主们对价格的集体抱怨并处理争议，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ad9baf4beb0f",
+    "subject_id": "ep_a64073b0f4308899",
+    "object_id": "ep_dd871fbb7c7d5e09",
+    "relation_type": "precedes",
+    "reason": "根据描述，曹斌先投掷物品发泄愤怒，随后发出威胁并被释放。两个情节均发生在scene_11，但投掷行为在情绪升级过程中早于威胁和释放，符合叙事顺序上的先后关系。",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1fbece53fd00",
+    "subject_id": "ep_03b46b88ab048613",
+    "object_id": "ep_faf99ea43f1977f3",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合'病友群主与程勇的药品合作会议 (scene_38)'中，根据描述顺序和事件逻辑，解决交流障碍与口罩问题发生在程勇处理价格争议之前，因为身份识别完成后才进入实质性谈判议程。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_10c2b012d64c",
+    "subject_id": "ep_a889f171ac56cbb3",
+    "object_id": "ep_a64073b0f4308899",
+    "relation_type": "precedes",
+    "reason": "根据描述，曹斌先试图直接攻击程勇，被警员阻止后，才转而投掷物品发泄愤怒。因此，'曹斌爆发并攻击程勇'在叙事顺序上早于'曹斌投掷物品发泄愤怒'，两者发生在同一场景（scene_11），但事件序列清晰。",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b2df752bd7e6",
+    "subject_id": "ep_f8de1f9e353dd2a1",
+    "object_id": "ep_a81ac08a5b573b64",
+    "relation_type": "precedes",
+    "reason": "彭浩抢车并开始逃跑是冲突升级的起点，随后程勇追上彭浩并将其制服，追回药品。叙事顺序上，逃跑行为发生在制服与追查之前，且描述中‘随后程勇立即追问’表明时间上的紧接关系。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9f0984529889",
+    "subject_id": "ep_9f62deadc1e8420d",
+    "object_id": "ep_24073f1eb160d5dd",
+    "relation_type": "precedes",
+    "reason": "程勇提出自主卖药并提供教会折扣发生在与刘牧师就违法卖药道德性争论之前，因为提供折扣是争取刘牧师支持的策略性前提，叙事逻辑上先有行动提议后有道德辩护。两个情节均发生在同一教会聚会场合，但提出方案在先，说服过程在后。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a73590bae499",
+    "subject_id": "ep_cfbf7a98831d64b6",
+    "object_id": "ep_03b46b88ab048613",
+    "relation_type": "precedes",
+    "reason": "组织群主会面与自我介绍发生在程勇要求群主摘下口罩之前，因为建立初步联系是解决后续交流障碍的前提，且两个情节均发生在同一场合(scene_38)中，按叙事逻辑顺序，自我介绍环节先于身份确认的冲突解决。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fe531daa5085",
+    "subject_id": "ep_7dfe9541f03e0ad1",
+    "object_id": "ep_dad4e7840a0c644e",
+    "relation_type": "precedes",
+    "reason": "程勇完成抵达并被詹姆斯迎接后，紧接着请求前往地图上的目的地，两个情节在叙事顺序上连续，且相关事件分别发生在 scene_25 和 scene_26，表明前者在话语和时间顺序上早于后者。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1dc5c3abe84a",
+    "subject_id": "ep_ec1e15ffb1f01747",
+    "object_id": "ep_5861cca167e4ea0c",
+    "relation_type": "causes",
+    "reason": "‘激烈争执中爆发言语冲突’中程勇因被前妻指责未尽父亲责任而情绪失控暴怒，这一情绪升级直接触发了后续‘暴力冲突升级并失控’中的身体暴力行为。描述中明确指出程勇在情绪激动下起身试图殴打前妻，表明言语冲突是暴力升级的直接原因。",
+    "source_documents": [
+      "scene_9__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6ac98619a95b",
+    "subject_id": "ep_5c0b82475a76be3c",
+    "object_id": "ep_9d56d5df41025b7c",
+    "relation_type": "precedes",
+    "reason": "情节 '应对宾馆老板的生意提议' 发生在场景14，而 '吕受益留下联系方式并表达求生诉求' 发生在场景15，文档顺序和事件流表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_30a779447f20",
+    "subject_id": "ep_deeb3152a91da8b7",
+    "object_id": "ep_43833621f25bc612",
+    "relation_type": "precedes",
+    "reason": "商议药品代购合作条件发生在程勇与吕受益在卧室中讨论合作并达成初步意向，而向病人推销印度药物是后续在医院中实施推广的行动。根据叙事逻辑和事件发展顺序，商议合作条件在时间上和情节推进上早于实际的推销行为。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d6148356b7dc",
+    "subject_id": "ep_7b24066fc027c39d",
+    "object_id": "ep_a81ac08a5b573b64",
+    "relation_type": "precedes",
+    "reason": "追捕逃亡的彭浩发生在屠宰场，包含程勇追赶并投掷棍子的情节；随后在下一个场景中，程勇追上彭浩并与其扭打，最终制服他并追问药品下落。两个情节在叙事上连续，且事件序列从追捕自然过渡到制服，支持前一情节在时间顺序上早于后一情节。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eaa6eb708df8",
+    "subject_id": "ep_41bde3cdd21d2d9d",
+    "object_id": "ep_faf99ea43f1977f3",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合'病友群主与程勇的药品合作会议 (scene_38)'中，且'应对等待与初始互动'描述的是程勇等待吕受益及他们到达前的互动，而'处理价格争议并调整定价策略'涉及会议中后期对药品价格的讨论，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1aea29bc25ad",
+    "subject_id": "ep_749e375efac62c8a",
+    "object_id": "ep_5861cca167e4ea0c",
+    "relation_type": "precedes",
+    "reason": "根据描述，程勇在拒绝经济补偿提议后情绪激动，随后暴力冲突升级并失控。两个情节均发生在同一场景（scene_9__2），且拒绝补偿的行为在时间顺序上先于暴力行为的展开，因此'拒绝经济补偿以保全儿子抚养权'在叙事顺序上早于'暴力冲突升级并失控'。",
+    "source_documents": [
+      "scene_9__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5fe44ab57b2e",
+    "subject_id": "ep_03b46b88ab048613",
+    "object_id": "ep_c6cdf905ccfdcaed",
+    "relation_type": "precedes",
+    "reason": "根据描述，程勇要求群主摘下口罩以解决身份识别问题发生在先，随后才向群主们强调药品销售的低调原则。两个情节均发生在同一场合 '病友群主与程勇的药品合作会议 (scene_38)' 中，且叙事顺序上前者为沟通建立基础，后者推进合作规范，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_63795874bb3f",
+    "subject_id": "ep_43833621f25bc612",
+    "object_id": "ep_9ce9bc68acb10a7d",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述程勇和吕受益在医院向病人推销印度药物但被集体拒绝，发生在药品供应尚充足阶段；第二个情节中程勇发现药品不足并计划再次采购，逻辑上和叙事上紧随其后，由药品推销失败后需求未被满足所推动，因此主体情节在时间顺序上早于客体情节。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c998201bd4ff",
+    "subject_id": "ep_c3b7248785e4c316",
+    "object_id": "ep_a81ac08a5b573b64",
+    "relation_type": "precedes",
+    "reason": "讨论彭浩的身份与处境（ep_c3b7248785e4c316）发生在程勇和吕受益制服彭浩并追查药品下落（ep_a81ac08a5b573b64）之前，根据相关场景编号（scene_43 在 scene_45 之前），叙事顺序明确支持前者早于后者。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_379c11d8fe15",
+    "subject_id": "ep_44794cef49a2b00a",
+    "object_id": "ep_43833621f25bc612",
+    "relation_type": "precedes",
+    "reason": "促成吕受益与程勇的会面并提出代购请求发生在程勇和吕受益在医院向病人推销印度药物之前，因为会面是代购计划的起点，而医院推销是后续行动。文本中吕受益先提出代购请求，程勇表现出疑虑，之后才发展到医院推销阶段，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c71e0749d770",
+    "subject_id": "ep_c79b9202096beb93",
+    "object_id": "ep_a81ac08a5b573b64",
+    "relation_type": "precedes",
+    "reason": "根据描述，程勇命令彭浩停车并展开追逐（ep_c79b9202096beb93）在叙事时间上先于制服彭浩并追查药品下落（ep_a81ac08a5b573b64），前者包含追上彭浩并发生碰撞的情节，后者则描述追上后的扭打与制服过程，具有明确的时间连续性。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9da77383e2e9",
+    "subject_id": "ep_43833621f25bc612",
+    "object_id": "ep_022b43c3c2998548",
+    "relation_type": "precedes",
+    "reason": "两个情节均描述程勇和吕受益在不同地点向病人推销印度仿制药但遭遇拒绝。根据文档ID，'在医院向病人推销印度药物'（doc_32）发生在'推销印度仿制药并应对销售失败'（doc_33）之前，且后者可能反映前者的延续或重复尝试，因此存在明确的叙事时间先后顺序。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f3d64417d733",
+    "subject_id": "ep_c105fdd23e8f8f9a",
+    "object_id": "ep_43833621f25bc612",
+    "relation_type": "precedes",
+    "reason": "吕受益向程勇推荐仿制药并邀请加入病友群（ep_c105fdd23e8f8f9a）发生在程勇和吕受益一同在医院向病人推销印度药物之前，是程勇开始参与药物推广的动机和前提。文本中吕受益的推荐和邀请构成了后续集体推销行动的起点，具有明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_140fd3d4a546",
+    "subject_id": "ep_5c0b82475a76be3c",
+    "object_id": "ep_deeb3152a91da8b7",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对宾馆老板的生意提议'发生在程勇与宾馆老板及吕受益的互动场景中，而客体情节'商议药品代购合作条件'发生在程勇卧室中，涉及更深入的合作谈判。根据相关事件的时间顺序和场景推进逻辑，前者为后者提供了触发情境，且在叙事顺序上先于后者发生，因此支持'precedes'关系。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a6a7857e42cb",
+    "subject_id": "ep_43833621f25bc612",
+    "object_id": "ep_9d56d5df41025b7c",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，程勇和吕受益在医院向病人推销药物（ep_43833621f25bc612）发生在吕受益留下联系方式并表达求生诉求（ep_9d56d5df41025b7c）之前，因为推销失败后吕受益才在程勇多次拒绝合作的情况下坚持留下联系方式，叙事顺序明确。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_80c71ec59b9a",
+    "subject_id": "ep_43833621f25bc612",
+    "object_id": "ep_50a8735be335e89b",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在医院中程勇和吕受益向病人推销印度药物但被集体拒绝，该事件结束后，程勇因推销失败而情绪暴躁，进而质问吕受益并追问关键人物，第二个情节紧随其后发生。文档ID（doc_32 vs doc_34）和事件流表明时间顺序上的先后关系，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_78dfc4d0158d",
+    "subject_id": "ep_0e5a7323a7fc2d43",
+    "object_id": "ep_d1c7929171380094",
+    "relation_type": "elaborates",
+    "reason": "‘探询印度格列宁的药效与风险’中程勇向医生询问药物信息，而‘讨论病人经济困境与治疗局限’进一步扩展了这一情境，揭示了病人无法负担合法药物的现实困境，从而在医疗限制的背景下为印度格列宁的潜在使用提供社会与经济背景。两个情节发生在同一场景（scene_22），且后者通过引入经济维度深化了前者的主题，构成对前一情节的补充说明。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_646a5335544d",
+    "subject_id": "ep_b6084c7ea460cde5",
+    "object_id": "ep_43833621f25bc612",
+    "relation_type": "precedes",
+    "reason": "建立药品合作渠道（ep_b6084c7ea460cde5）在叙事顺序上早于在医院向病人推销印度药物（ep_43833621f25bc612），因为程勇和吕受益必须先达成合作，才能共同在医院进行药物推销。相关事件的时间戳（doc_31 在 doc_32 之前）也支持这一时间顺序。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d7b88c8131be",
+    "subject_id": "ep_ef538d80eb5d8edc",
+    "object_id": "ep_bf4305d34c4f9685",
+    "relation_type": "precedes",
+    "reason": "根据描述，'完成药品分发并清点收入'发生在吕受益关闭车门并清点收入时，而'应对黄毛擅自取药的突发行为'紧随其后，发生在黄毛擅自打开车门取药之后。两个情节共享同一场景（scene_40__2），且事件顺序明确：分发和清点完成后，黄毛才取药，引发后续质问。因此，主体情节在叙事顺序上直接早于客体情节。",
+    "source_documents": [
+      "scene_40__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1c680f75aa11",
+    "subject_id": "ep_5c0b82475a76be3c",
+    "object_id": "ep_b6084c7ea460cde5",
+    "relation_type": "precedes",
+    "reason": "‘应对宾馆老板的生意提议’发生在程勇与宾馆老板及吕受益的早期互动中，而‘建立药品合作渠道’则是程勇主动向吕受益提出合作计划并达成协议的情节。根据叙事发展逻辑，前者为后者提供了情境铺垫，且‘宾馆老板提议生意合作’与‘程勇展示药品渠道并说服吕受益’在事件序列上呈现递进关系，表明前者在时间顺序上早于后者。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_74f1f2ad1dbc",
+    "subject_id": "ep_50a8735be335e89b",
+    "object_id": "ep_9ce9bc68acb10a7d",
+    "relation_type": "precedes",
+    "reason": "情节 '程勇质问吕受益并追问关键人物' 发生在 '评估药品缺口并寻找英语沟通人选' 之前，前者推动关键信息揭示，后者在此基础上展开药品供应和沟通问题的进一步解决，叙事顺序清晰。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e2f52345d2b1",
+    "subject_id": "ep_a81ac08a5b573b64",
+    "object_id": "ep_537b9055216aafc0",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'制服彭浩并追查药品下落' 发生在 scene_45，而 '对峙质问与揭示困境' 发生在 scene_46，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ba9f4ec4b02d",
+    "subject_id": "ep_9ce9bc68acb10a7d",
+    "object_id": "ep_b6084c7ea460cde5",
+    "relation_type": "precedes",
+    "reason": "程勇在发现药品不足并寻求英语沟通帮助的情节发生在向吕受益展示进货渠道并建立销售合作之前。根据事件流，先有药品缺口评估和沟通准备，随后才是合作渠道的建立，叙事顺序明确。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_166c1352fa3a",
+    "subject_id": "ep_9d56d5df41025b7c",
+    "object_id": "ep_9ce9bc68acb10a7d",
+    "relation_type": "precedes",
+    "reason": "吕受益留下联系方式并表达求生诉求发生在程勇评估药品缺口并寻找英语沟通人选之前，因为前者是程勇决定重新采购药品并寻求合作的初始触发点，文本中吕受益的坚持为后续情节提供了动机基础。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_937c206e5801",
+    "subject_id": "ep_9d56d5df41025b7c",
+    "object_id": "ep_50a8735be335e89b",
+    "relation_type": "precedes",
+    "reason": "吕受益留下联系方式并表达求生诉求发生在程勇质问吕受益并追问关键人物之前，根据叙事顺序，前者为后续接触和信息揭示创造了条件。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2b177dd12846",
+    "subject_id": "ep_deeb3152a91da8b7",
+    "object_id": "ep_9ce9bc68acb10a7d",
+    "relation_type": "precedes",
+    "reason": "商议药品代购合作条件发生在程勇与吕受益在卧室中讨论合同、市场需求和付款条件并达成初步合作意向，这是后续评估药品缺口并寻找英语沟通人选的前提。只有在合作意向达成后，程勇才会进一步行动解决药品供应和沟通问题。因此，该情节在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b7c3b384c462",
+    "subject_id": "ep_deeb3152a91da8b7",
+    "object_id": "ep_50a8735be335e89b",
+    "relation_type": "precedes",
+    "reason": "商议药品代购合作条件发生在程勇质问吕受益并追问关键人物之前，因为前者建立合作基础，后者发生在合作推进过程中，且相关事件在不同文档中按时间顺序排列，支持叙事上的先后关系。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_734655624268",
+    "subject_id": "ep_c3b7248785e4c316",
+    "object_id": "ep_537b9055216aafc0",
+    "relation_type": "precedes",
+    "reason": "讨论彭浩的身份与处境（ep_c3b7248785e4c316）发生在程勇质问彭浩之前，为后续对峙提供了背景信息。根据相关场景编号（scene_43 在 scene_46 之前），该情节在叙事顺序上早于对峙质问与揭示困境。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_25559d43545f",
+    "subject_id": "ep_7b24066fc027c39d",
+    "object_id": "ep_c79b9202096beb93",
+    "relation_type": "precedes",
+    "reason": "根据描述，'追捕逃亡的彭浩'发生在屠宰场，程勇和吕受益发现彭浩后立即展开追捕，相关事件均标记为scene_44；而'程勇命令彭浩停车并展开追逐'发生在彭浩抢车之后，相关事件标记为scene_45。scene_44在scene_45之前，因此该情节在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cbd3504e2598",
+    "subject_id": "ep_50a8735be335e89b",
+    "object_id": "ep_e3208e13f5292ba8",
+    "relation_type": "precedes",
+    "reason": "程勇质问吕受益并追问关键人物发生在吕受益带程勇前往酒吧并指认思慧为病友群群主之前，根据事件描述的叙事顺序，前者直接推动后者的信息揭示，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_901535b12dd6",
+    "subject_id": "ep_deeb3152a91da8b7",
+    "object_id": "ep_e3208e13f5292ba8",
+    "relation_type": "precedes",
+    "reason": "程勇与吕受益在卧室商议药品代购合作条件后，吕受益才带程勇前往酒吧寻找并识别病友群群主思慧，情节之间存在明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3b49289d4475",
+    "subject_id": "ep_9d56d5df41025b7c",
+    "object_id": "ep_022b43c3c2998548",
+    "relation_type": "precedes",
+    "reason": "吕受益留下联系方式并表达求生诉求发生在程勇和吕受益前往病人群体推销印度仿制药之前，根据叙事逻辑和事件发展顺序，吕受益的求助是促成后续推销行动的前置步骤。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_827cddd38ba9",
+    "subject_id": "ep_deeb3152a91da8b7",
+    "object_id": "ep_022b43c3c2998548",
+    "relation_type": "precedes",
+    "reason": "商议药品代购合作条件发生在推销印度仿制药并应对销售失败之前，因为程勇与吕受益首先在卧室中商谈并达成合作意向，随后才前往病人群体聚居区进行药品推销。相关事件的时间顺序和逻辑流程支持这一叙事先后关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_35dac4173ce0",
+    "subject_id": "ep_c105fdd23e8f8f9a",
+    "object_id": "ep_deeb3152a91da8b7",
+    "relation_type": "precedes",
+    "reason": "吕受益向程勇推荐仿制药并邀请加入病友群发生在程勇与其商议药品代购合作条件之前，前者是建立联系和信任的初始步骤，后者是在此基础上推进的具体合作谈判，叙事顺序清晰。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5da23c5cf9ae",
+    "subject_id": "ep_022b43c3c2998548",
+    "object_id": "ep_9ce9bc68acb10a7d",
+    "relation_type": "precedes",
+    "reason": "主体情节描述程勇和吕受益初次推销印度仿制药失败，连一瓶都未售出，体现出推广初期的困难；客体情节则描述程勇在发现药品不足后计划再次采购，并寻求英语沟通协助，表明已进入药品需求增长和组织扩展阶段。两个情节在叙事上呈现清晰的时间推进：销售失败后逐步发展至供不应求，因此主体情节在话语顺序和叙事发展上早于客体情节。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b51db851e123",
+    "subject_id": "ep_c105fdd23e8f8f9a",
+    "object_id": "ep_9ce9bc68acb10a7d",
+    "relation_type": "precedes",
+    "reason": "吕受益向程勇推荐仿制药并邀请加入病友群（ep_c105fdd23e8f8f9a）发生在程勇发现药品不足并寻求英语沟通协助（ep_9ce9bc68acb10a7d）之前，根据文档中场景编号scene_37早于scene_39，表明该情节在叙事顺序上先发生。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f33e9b824207",
+    "subject_id": "ep_41bde3cdd21d2d9d",
+    "object_id": "ep_9ce9bc68acb10a7d",
+    "relation_type": "precedes",
+    "reason": "情节 '应对等待与初始互动' 发生在餐馆会面初期，涉及程勇的等待和吕受益的进食行为，而 '评估药品缺口并寻找英语沟通人选' 发生在后续场景中，涉及程勇查看病人名单并提出药品采购与沟通需求。根据相关事件的时间顺序（scene_38 先于 scene_39），该关系为叙事上的先后顺序。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_53bf2cf32868",
+    "subject_id": "ep_9d56d5df41025b7c",
+    "object_id": "ep_deeb3152a91da8b7",
+    "relation_type": "precedes",
+    "reason": "吕受益留下联系方式并表达求生诉求发生在程勇与吕受益商议药品代购合作条件之前，前者为后者创造了接触和沟通的前提，且叙事上前者在文档中早于后者，构成明确的时间顺序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5fb41a9f8020",
+    "subject_id": "ep_b6084c7ea460cde5",
+    "object_id": "ep_022b43c3c2998548",
+    "relation_type": "precedes",
+    "reason": "建立药品合作渠道的情节中，程勇说服吕受益参与销售，随后在推销印度仿制药的情节中，两人前往病人群体中实际进行推销但遭遇失败。叙事上，合作的建立是销售尝试的前提，且事件顺序在文档中呈现为先建立渠道后进行推广，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a8da586cbc86",
+    "subject_id": "ep_44794cef49a2b00a",
+    "object_id": "ep_9ce9bc68acb10a7d",
+    "relation_type": "precedes",
+    "reason": "情节 '促成吕受益与程勇的会面并提出代购请求' 描述了吕受益首次向程勇提出代购药品的请求，而情节 '评估药品缺口并寻找英语沟通人选' 发生在程勇已开始参与药品采购之后，涉及对供应不足的响应和进一步沟通安排。根据叙事逻辑和事件发展顺序，会面与请求提出必须先于后续的药品缺口评估和沟通人选寻找，因此该关系为 directed 的 'precedes'。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ae71499504d8",
+    "subject_id": "ep_44794cef49a2b00a",
+    "object_id": "ep_022b43c3c2998548",
+    "relation_type": "precedes",
+    "reason": "促成吕受益与程勇的会面并提出代购请求发生在推销印度仿制药并应对销售失败之前，因为会面是代购提议的起点，而推销行动是该提议后续的执行尝试。文本中会面情节发生在宾馆店内，而推销发生在病人群体聚居区，且推销行为依赖于此前建立的合作关系，因此存在明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e43178dd9e88",
+    "subject_id": "ep_c3b7248785e4c316",
+    "object_id": "ep_c79b9202096beb93",
+    "relation_type": "precedes",
+    "reason": "讨论彭浩的身份与处境发生在程勇命令彭浩停车并展开追逐之前，前者在文档42中，后者在文档44中，且情节发展顺序显示先有对彭浩背景的讨论，随后发生抢车与追逐事件，具有明确的叙事时间先后顺序。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3a470de98e49",
+    "subject_id": "ep_44794cef49a2b00a",
+    "object_id": "ep_e3208e13f5292ba8",
+    "relation_type": "precedes",
+    "reason": "情节 '促成吕受益与程勇的会面并提出代购请求' 发生在程勇与吕受益建立联系的初期，随后吕受益才带程勇前往酒吧寻找思慧，因此该情节在叙事顺序上明确早于 '寻找并识别病友群群主思慧'。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1665449f102b",
+    "subject_id": "ep_deeb3152a91da8b7",
+    "object_id": "ep_b6084c7ea460cde5",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，'商议药品代购合作条件'包含程勇与吕受益讨论合作的初步意向，而'建立药品合作渠道'则涉及程勇已打通渠道并说服吕受益参与，后者在叙事顺序上紧随前者，且后者中的行动（如展示渠道、说服合作）是前者商议的延续和实现，因此'商议'在时间顺序上早于'建立'。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_147d3ae13808",
+    "subject_id": "ep_c105fdd23e8f8f9a",
+    "object_id": "ep_022b43c3c2998548",
+    "relation_type": "precedes",
+    "reason": "吕受益向程勇推荐仿制药并邀请加入病友群（ep_c105fdd23e8f8f9a）在叙事顺序上早于程勇和吕受益前往病人群体聚居区推销药品（ep_022b43c3c2998548），前者构成劝说和准备阶段，后者是销售行动的开始，文本中事件序列支持该时间顺序。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_830940dee666",
+    "subject_id": "ep_44794cef49a2b00a",
+    "object_id": "ep_deeb3152a91da8b7",
+    "relation_type": "precedes",
+    "reason": "情节 '促成吕受益与程勇的会面并提出代购请求' 中，吕受益首次向程勇提出代购药品的请求，程勇表现出疑虑；紧接着在 '商议药品代购合作条件' 中，二人进一步在卧室中商谈并达成初步合作意向。两个情节在叙事上连续，前者为后者提供直接前提，且事件链条显示会面与请求先于条件商议，因此支持 'precedes' 关系。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1a8178c6a825",
+    "subject_id": "ep_022b43c3c2998548",
+    "object_id": "ep_50a8735be335e89b",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节发展，程勇和吕受益推销印度仿制药失败（ep_022b43c3c2998548）发生在程勇因挫败而质问吕受益并追问关键人物之前（ep_50a8735be335e89b）。推销失败导致程勇情绪低落并迁怒于吕受益，构成叙事上的直接前序。两个情节分别位于doc_33和doc_34，且事件序列显示前者为后者的情境铺垫。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7196eab188d8",
+    "subject_id": "ep_44794cef49a2b00a",
+    "object_id": "ep_b6084c7ea460cde5",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述吕受益提出代购请求，程勇表现出疑虑，发生在宾馆内；第二个情节描述程勇已打通进货渠道并说服吕受益合作，逻辑上和叙事上必须在请求被提出并被考虑之后发生。因此，'促成吕受益与程勇的会面并提出代购请求'在叙事顺序上早于'建立药品合作渠道'。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0c5ef2c374c4",
+    "subject_id": "ep_41bde3cdd21d2d9d",
+    "object_id": "ep_deeb3152a91da8b7",
+    "relation_type": "precedes",
+    "reason": "情节'应对等待与初始互动'发生在餐馆，是程勇与吕受益的初次见面和紧张互动，而'商议药品代购合作条件'发生在程勇卧室，涉及合同查看和合作细节讨论，具有明确的后续商谈性质。根据叙事顺序，初始互动为后续商议铺垫，且相关事件场景编号（scene_38 vs scene_24）支持前者在时间上早于后者。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a594d43cedde",
+    "subject_id": "ep_44794cef49a2b00a",
+    "object_id": "ep_c105fdd23e8f8f9a",
+    "relation_type": "precedes",
+    "reason": "情节 '促成吕受益与程勇的会面并提出代购请求' 发生在宾馆老板引荐吕受益并提出代购请求的场景中（scene_13），而情节 '吕受益向程勇推荐仿制药并邀请加入病友群' 发生在后续场景（scene_37），文档中场景编号的顺序明确支持前一情节在叙事顺序上早于后一情节。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_29cecf870529",
+    "subject_id": "ep_b6084c7ea460cde5",
+    "object_id": "ep_e3208e13f5292ba8",
+    "relation_type": "precedes",
+    "reason": "程勇与吕受益建立药品合作渠道后，吕受益才带程勇前往酒吧寻找并识别病友群群主思慧，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8c6a2f242944",
+    "subject_id": "ep_44794cef49a2b00a",
+    "object_id": "ep_9d56d5df41025b7c",
+    "relation_type": "precedes",
+    "reason": "情节 '促成吕受益与程勇的会面并提出代购请求' 发生在宾馆老板引荐及吕受益提出请求的场景（scene_13），而情节 '吕受益留下联系方式并表达求生诉求' 发生在程勇多次拒绝后的后续场景（scene_15），scene_13 在叙事顺序上早于 scene_15，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3f08eae3611d",
+    "subject_id": "ep_4aab0025fa4de937",
+    "object_id": "ep_b6084c7ea460cde5",
+    "relation_type": "elaborates",
+    "reason": "‘揭示家庭动机’通过展示程勇对父亲病情的关注和经济压力，为‘建立药品合作渠道’提供了动机背景，解释了他为何积极打通渠道并推动合作，因此该情节扩展了后者的情境和动因。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_50cd9befb021",
+    "subject_id": "ep_9d56d5df41025b7c",
+    "object_id": "ep_b6084c7ea460cde5",
+    "relation_type": "precedes",
+    "reason": "吕受益留下联系方式并表达求生诉求发生在程勇建立药品合作渠道之前，文本中吕受益先主动留下联系方式以保留合作机会，之后程勇才展示已打通的进货渠道并说服其合作，具有明确的叙事时序先后。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_19e6ff8e7726",
+    "subject_id": "ep_075f6c999bbc8f7a",
+    "object_id": "ep_c63397c39ff6cc5c",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'观察思慧的钢管舞表演并质疑其病人身份'发生在scene_36，而'思慧与程勇建立现场互动'发生在scene_37，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d293ee2f0511",
+    "subject_id": "ep_44794cef49a2b00a",
+    "object_id": "ep_41bde3cdd21d2d9d",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，'促成吕受益与程勇的会面并提出代购请求'发生在程勇的店内，是两人关系的初始接触和代购提议的起点；而'应对等待与初始互动'描述的是程勇在餐馆等待吕受益并表现出不耐烦，这表明该事件发生在他们已建立联系后的另一次会面。因此，'促成会面'在叙事顺序上早于'等待与初始互动'，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7e4b814121ca",
+    "subject_id": "ep_c63397c39ff6cc5c",
+    "object_id": "ep_03b46b88ab048613",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'思慧与程勇建立现场互动'发生在scene_37，而'解决交流障碍与口罩问题'发生在scene_38，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9c60da2ebad4",
+    "subject_id": "ep_9d56d5df41025b7c",
+    "object_id": "ep_e3208e13f5292ba8",
+    "relation_type": "precedes",
+    "reason": "吕受益留下联系方式并表达求生诉求发生在程勇与吕受益互动的早期阶段，而寻找并识别病友群群主思慧是后续程勇决定参与代购后展开的行动。根据叙事顺序，前者为建立联系的初始步骤，后者为推进合作的具体行动，存在明确的时间先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3ede356732e9",
+    "subject_id": "ep_2d77b23be42baac8",
+    "object_id": "ep_c63397c39ff6cc5c",
+    "relation_type": "precedes",
+    "reason": "程勇在化妆间外等待并观察舞女的情节中，多个舞女陆续离开，而思慧与程勇建立现场互动发生在思慧离开化妆间时，文本中思慧是离开的舞女之一，其主动打招呼标志着互动开始，因此等待与观察发生在互动之前，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fd3e318851b7",
+    "subject_id": "ep_41bde3cdd21d2d9d",
+    "object_id": "ep_b6084c7ea460cde5",
+    "relation_type": "precedes",
+    "reason": "情节'应对等待与初始互动'发生在餐馆等待和初步接触阶段，而'建立药品合作渠道'涉及程勇向吕受益提出合作的具体谈判，逻辑上和叙事上紧随前者之后。两个情节共享同一场景上下文（scene_38与scene_32的连续性暗示），且初始互动为后续合作讨论提供了前置条件，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a9044f6e6835",
+    "subject_id": "ep_749e375efac62c8a",
+    "object_id": "ep_ec1e15ffb1f01747",
+    "relation_type": "precedes",
+    "reason": "程勇拒绝经济补偿以保全儿子抚养权的情节发生在激烈争执中爆发言语冲突之前，根据相关事件的时间顺序，拒绝补偿和质问意图先于前妻指责其未尽父亲责任及双方言语对抗升级。",
+    "source_documents": [
+      "scene_9__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_785145ae2168",
+    "subject_id": "ep_a446081e4a899bfc",
+    "object_id": "ep_9d56d5df41025b7c",
+    "relation_type": "precedes",
+    "reason": "吕受益尝试建立联系并提出合作提议发生在程勇多次拒绝之前，随后吕受益留下联系方式并表达求生诉求，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0f96f79e815e",
+    "subject_id": "ep_9d56d5df41025b7c",
+    "object_id": "ep_c105fdd23e8f8f9a",
+    "relation_type": "precedes",
+    "reason": "吕受益留下联系方式并表达求生诉求发生在程勇尚未被说服的早期接触阶段，而推荐仿制药并邀请加入病友群是后续更进一步的劝说行为，包含具体药物信息和社群参与建议，叙事上构成递进顺序，因此前者在话语和叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e717cebd3b1f",
+    "subject_id": "ep_0b7befac5dabfa98",
+    "object_id": "ep_084654b421dd23d6",
+    "relation_type": "precedes",
+    "reason": "医生完成治疗并劝说吕受益坚持用药的情节发生在电话铃声中断医患对话之前，因为劝说过程被电话铃声打断，文本明确支持这一时间顺序。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_70ecfaaf347f",
+    "subject_id": "ep_c105fdd23e8f8f9a",
+    "object_id": "ep_e3208e13f5292ba8",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，吕受益先向程勇推荐仿制药并邀请其加入病友群（ep_c105fdd23e8f8f9a），随后带程勇前往酒吧识别群主思慧（ep_e3208e13f5292ba8），在叙事顺序上前者发生在后者之前，构成连贯的劝说与引导过程。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_94879283f4c4",
+    "subject_id": "ep_753c60877b193ae8",
+    "object_id": "ep_54ad3a5d77035439",
+    "relation_type": "precedes",
+    "reason": "程勇完成租赁并进入房间后，才可能在房间内吸烟造成烟雾。根据事件发生的逻辑顺序，进入房间的情节在吸烟产生烟雾的情节之前，且两个情节共享同一场景（doc_46, scene_47），支持时间上的先后关系。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_398693e43013",
+    "subject_id": "ep_44794cef49a2b00a",
+    "object_id": "ep_27acc4d4350954a1",
+    "relation_type": "precedes",
+    "reason": "根据描述，'促成吕受益与程勇的会面并提出代购请求' 发生在宾馆老板引荐吕受益并与程勇完成交流的过程中，而'程勇在会面后立即追上离开的宾馆老板' 明确发生在会面之后。因此，前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_386716b36bff",
+    "subject_id": "ep_e3208e13f5292ba8",
+    "object_id": "ep_075f6c999bbc8f7a",
+    "relation_type": "precedes",
+    "reason": "吕受益带程勇前往酒吧并指认思慧为病友群群主（ep_e3208e13f5292ba8）发生在程勇观察思慧跳钢管舞并质疑其病人身份（ep_075f6c999bbc8f7a）之前，两者均发生在scene_36，但识别身份在叙事逻辑上先于对其身份的质疑，因此存在明确的先后顺序。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d365a5286c8b",
+    "subject_id": "ep_ad1cbff41f24941d",
+    "object_id": "ep_dd871fbb7c7d5e09",
+    "relation_type": "precedes",
+    "reason": "根据描述，曹斌在发出威胁后被释放并离开现场，随后程勇在冲突结束后独自沉默站立。因此，'曹斌发出威胁后被释放'在叙事顺序上先于'程勇在冲突后保持沉默'。",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a1a86c89b532",
+    "subject_id": "ep_a8932118a098acd6",
+    "object_id": "ep_0e5a7323a7fc2d43",
+    "relation_type": "elaborates",
+    "reason": "了解格列宁的治疗必要性为探询印度格列宁的药效与风险提供了医学背景，前者解释了格列宁的治疗作用，从而扩展了后者讨论非法药物风险的上下文。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fc1eecd6e37b",
+    "subject_id": "ep_71645eaa773ce7e3",
+    "object_id": "ep_b5e1254b6339700c",
+    "relation_type": "precedes",
+    "reason": "根据描述，刘牧师先接听电话并转达神慰，之后在挂断电话后才正式将代理权授予程勇，表明前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d4c9f52c299e",
+    "subject_id": "ep_46a5f16320ddf2c0",
+    "object_id": "ep_5861cca167e4ea0c",
+    "relation_type": "causes",
+    "reason": "前妻以诉讼威胁争夺抚养权导致程勇情绪激动，进而引发暴力冲突升级并失控。文本中描述的事件顺序和情绪动因表明该威胁是暴力行为的直接触发因素。",
+    "source_documents": [
+      "scene_9__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_63ddd4aa5d1a",
+    "subject_id": "ep_6add65a43e3512fe",
+    "object_id": "ep_9f62deadc1e8420d",
+    "relation_type": "contrasts_with",
+    "reason": "刘牧师宣讲信仰带来的救赎与平安，而程勇提出卖药并称其为‘真正的主内平安’，将商业行为与宗教概念并置，形成精神救赎与现实药物救助之间的基调对比。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_314460a46f1d",
+    "subject_id": "ep_e3208e13f5292ba8",
+    "object_id": "ep_3d08e9392db10aa0",
+    "relation_type": "elaborates",
+    "reason": "寻找并识别病友群群主思慧的情节中，吕受益向程勇介绍思慧的角色，而澄清思慧成为群主的真实原因的情节进一步解释了她参与的动机和背景，提供了更深层的上下文。因此，后者为前者提供了额外的解释性细节，构成 elaborates 关系。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d3910918c05a",
+    "subject_id": "ep_24073f1eb160d5dd",
+    "object_id": "ep_6add65a43e3512fe",
+    "relation_type": "contrasts_with",
+    "reason": "程勇试图以‘救人一命’为由正当化违法卖药，与刘牧师在教会中宣讲信仰带来的救赎与平安形成道德立场上的并置对比，二者在教会聚会同一场合下展开，凸显世俗救赎与宗教救赎的张力。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_aa3ed9cf8209",
+    "subject_id": "ep_5616cd286efb43e0",
+    "object_id": "ep_a81ac08a5b573b64",
+    "relation_type": "precedes",
+    "reason": "彭浩夺取药物并逃离现场（ep_5616cd286efb43e0）发生在程勇和吕受益制服彭浩并追查药品下落（ep_a81ac08a5b573b64）之前，根据事件描述和相关场景编号（scene_42 先于 scene_45），该顺序在叙事上明确且连续。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_08ed5a243c5b",
+    "subject_id": "ep_cfbf7a98831d64b6",
+    "object_id": "ep_c6cdf905ccfdcaed",
+    "relation_type": "precedes",
+    "reason": "组织群主会面与自我介绍发生在程勇确立药品销售安全原则之前，两者均发生在同一场合（病友群主与程勇的药品合作会议）中，且逻辑上自我介绍作为建立联系的初步步骤，先于后续的规则强调。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_39451963f8c2",
+    "subject_id": "ep_a8932118a098acd6",
+    "object_id": "ep_d1c7929171380094",
+    "relation_type": "elaborates",
+    "reason": "第一个情节提供格列宁治疗必要性的医学背景，第二个情节在此基础上讨论病人因经济困难无法获得该治疗的现实困境，从而扩展并深化了药物可及性问题的讨论。描述中两者共享同一场景（scene_22）且逻辑上后者建立在前者提供的医学事实基础之上，构成解释性延伸。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_730928ecc8b0",
+    "subject_id": "ep_5616cd286efb43e0",
+    "object_id": "ep_7b24066fc027c39d",
+    "relation_type": "precedes",
+    "reason": "彭浩夺取药物并逃离现场（ep_5616cd286efb43e0）发生在程勇和吕受益追捕逃亡的彭浩（ep_7b24066fc027c39d）之前，根据文档顺序和事件连贯性，前者是后者追捕行动的直接起因，且两个情节分别位于doc_41和doc_43，显示明确的时间先后顺序。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e8ca901a5c7f",
+    "subject_id": "ep_46a5f16320ddf2c0",
+    "object_id": "ep_ec1e15ffb1f01747",
+    "relation_type": "precedes",
+    "reason": "根据描述，前妻在谈判中威胁诉讼（ep_46a5f16320ddf2c0）发生在双方激烈争执升级之前，言语冲突（ep_ec1e15ffb1f01747）是谈判破裂后的进一步发展，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_9__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8037731f9e32",
+    "subject_id": "ep_41bde3cdd21d2d9d",
+    "object_id": "ep_cfbf7a98831d64b6",
+    "relation_type": "precedes",
+    "reason": "程勇在餐馆等待期间因吕受益大量进食而感到不耐烦，这一情节发生在思慧带领群主们到达并组织自我介绍之前。根据描述，等待与初始互动是群主会面开始前的紧张铺垫，随后才进入正式的自我介绍环节，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4d77998b8b9f",
+    "subject_id": "ep_24073f1eb160d5dd",
+    "object_id": "ep_a14c0151929b562c",
+    "relation_type": "elaborates",
+    "reason": "程勇说服刘牧师支持违法卖药的情节中，程勇引用宗教话语为其行为辩护；吕受益纠正其引用来源，进一步澄清这些语录的宗教归属，从而为前一情节提供语义和背景上的补充说明。该关系由两个情节共享同一场合（教会聚会）和相关事件的直接话语互动支持。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_97e28833ab27",
+    "subject_id": "ep_c105fdd23e8f8f9a",
+    "object_id": "ep_b6084c7ea460cde5",
+    "relation_type": "precedes",
+    "reason": "吕受益向程勇推荐仿制药并邀请加入病友群（scene_37）发生在程勇向吕受益展示药品进货渠道并说服其合作（scene_32）之前，根据文档中场景编号的顺序，scene_37在scene_32之后，但scene_32中的事件描述表明程勇已打通渠道并开始招募吕受益，逻辑上应发生在吕受益推荐药物之后。结合叙事连贯性与事件依赖，吕受益先推荐药物并邀请入群，程勇随后才建立销售渠道，因此该关系为precedes，方向为ep_c105fdd23e8f8f9a -> ep_b6084c7ea460cde5。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8cc9409b0ca8",
+    "subject_id": "ep_cfbf7a98831d64b6",
+    "object_id": "ep_faf99ea43f1977f3",
+    "relation_type": "precedes",
+    "reason": "组织群主会面与自我介绍发生在处理价格争议之前，因为群主们首先建立联系并进行自我介绍，随后才对药品价格提出抱怨，两个情节均发生在同一场合 '病友群主与程勇的药品合作会议 (scene_38)' 中，且事件顺序在描述中具有明确的先后逻辑。",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7f6793c820c9",
+    "subject_id": "ep_9d56d5df41025b7c",
+    "object_id": "ep_e425de968eb89fb9",
+    "relation_type": "precedes",
+    "reason": "根据描述，吕受益在程勇拒绝后仍坚持留下联系方式并表达求生诉求，表明该行为发生在程勇明确拒绝之后；因此，'程勇质疑动机并坚决拒绝走私提议'在叙事顺序上先于'吕受益留下联系方式并表达求生诉求'。方向应为 object -> subject，但关系类型'precedes'为有向关系，需以先发生者为subject。故正确方向是 object (ep_e425de968eb89fb9) precedes subject (ep_9d56d5df41025b7c)。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3cf6356fd7c9",
+    "subject_id": "ep_9d56d5df41025b7c",
+    "object_id": "ep_fc98e404b961f05b",
+    "relation_type": "precedes",
+    "reason": "吕受益留下联系方式并表达求生诉求发生在程勇寻找该联系方式之前，叙事上前者为后者提供了必要前提，且事件顺序在文档中呈线性发展。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f7a38c479f05",
+    "subject_id": "ep_537b9055216aafc0",
+    "object_id": "ep_7b24066fc027c39d",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'对峙质问与揭示困境'（scene_46）发生在'追捕逃亡的彭浩'（scene_44）之后，但scene编号46晚于44，表明该情节实际发生在后。然而，'追捕逃亡的彭浩'描述中明确指出事件发生在scene_44，而'对峙质问与揭示困境'发生在scene_46，scene编号递增代表叙事顺序，因此ep_7b24066fc027c39d在叙事上先于ep_537b9055216aafc0。故主体ep_537b9055216aafc0在叙事顺序上晚于客体ep_7b24066fc027c39d，关系为precedes（客体在前，主体在后），但因relation_type=precedes要求主体在前，此处方向不符。因此，正确方向应为object -> subject，但precedes是有向关系，不能反向成立。由于无法以支持方向成立precedes，其他关系无证据，故输出NONE。但重新分析：若以scene编号为据，ep_7b24066fc027c39d（scene_44）早于ep_537b9055216aafc0（scene_46），则若主体为ep_7b24066fc027c39d，客体为ep_537b9055216aafc0，则precedes成立。但当前输入中主体是ep_537b9055216aafc0，客体是ep_7b24066fc027c39d，即主体在后，客体在前，因此主体不能precedes客体。无证据表明主体causes、contrasts_with或elaborates客体。因此，无有效关系可成立。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7823deb2fc72",
+    "subject_id": "ep_28d39cf82e79022f",
+    "object_id": "ep_44794cef49a2b00a",
+    "relation_type": "precedes",
+    "reason": "程勇在精油店中忽略来电并开始游戏发生在宾馆老板引荐吕受益之前，根据场景编号scene_1早于scene_13，表明该情节在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_df2eea1f3cfa",
+    "subject_id": "ep_9856e162532732b1",
+    "object_id": "ep_deeb3152a91da8b7",
+    "relation_type": "precedes",
+    "reason": "程勇应对店铺被封并强行进入的情节发生在其卧室中与吕受益商议药品代购合作条件之前。根据描述，程勇先进入卧室，随后在该空间内展开商谈，具有明确的时序连续性。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_76b4de636a07",
+    "subject_id": "ep_de85433978af37a3",
+    "object_id": "ep_deeb3152a91da8b7",
+    "relation_type": "precedes",
+    "reason": "程勇在市井中接受小卡片并陷入沉思发生在商议药品代购合作条件之前，前者触发了他对代购药品的可能性的思考，为后续与吕受益的商谈提供了动机和叙事起点，且两个情节在文档中按时间顺序先后出现。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f813cf6d07ad",
+    "subject_id": "ep_de85433978af37a3",
+    "object_id": "ep_e8ff6b87b5284f26",
+    "relation_type": "precedes",
+    "reason": "程勇在市井中接受小卡片并陷入沉思（ep_de85433978af37a3）发生在其望着远去的船并面临代理权挑战（ep_e8ff6b87b5284f26）之前，相关事件的时间顺序和叙事发展表明前者为后者的铺垫，且两个情节均围绕程勇的心理转变与决策展开，具有明确的先后叙事顺序。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2d4796a42712",
+    "subject_id": "ep_de85433978af37a3",
+    "object_id": "ep_4aab0025fa4de937",
+    "relation_type": "elaborates",
+    "reason": "程勇在市井中接受小卡片并陷入沉思这一情节表现了他心理状态的转变，为后续揭示其因家庭经济压力而参与药品走私的动机提供了心理铺垫和背景扩展。前者通过展示程勇的困境和沉思，为理解后者中他与吕受益合作的决定提供了内在动因的补充说明。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4891a2ac36e2",
+    "subject_id": "ep_de85433978af37a3",
+    "object_id": "ep_b6084c7ea460cde5",
+    "relation_type": "precedes",
+    "reason": "程勇在市井中接受小卡片并陷入沉思（ep_de85433978af37a3）发生在程勇建立药品合作渠道（ep_b6084c7ea460cde5）之前，根据叙事顺序，前者是后者动机和决策的前置心理转折点，且相关事件在文档中按时间顺序排列。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9a686c61677b",
+    "subject_id": "ep_742aac3276cbd17d",
+    "object_id": "ep_de85433978af37a3",
+    "relation_type": "precedes",
+    "reason": "程勇目送王主任离去陷入绝望发生在程勇在市井中接受小卡片并陷入沉思之前，根据叙事顺序，前者在doc_16，后者在doc_18，文档编号顺序支持时间上的先后关系，且情绪崩溃后的沉思符合情节发展逻辑。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_53886d4b6faf",
+    "subject_id": "ep_a17fff24ff44fe41",
+    "object_id": "ep_de85433978af37a3",
+    "relation_type": "precedes",
+    "reason": "程勇送礼请求关照遭拒（doc_16）发生在程勇在市井中接受小卡片并陷入沉思（doc_18）之前，依据文档ID的顺序（doc_16在doc_18之前）以及情节发展的叙事流，前者为后者的时间前提。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9bd82a5b877c",
+    "subject_id": "ep_4aab0025fa4de937",
+    "object_id": "ep_43833621f25bc612",
+    "relation_type": "elaborates",
+    "reason": "揭示家庭动机这一情节通过展示程勇合上行李箱并 glance 病重父亲的行为，为他后续参与向病人推销印度药物的情节提供了动机背景。该背景解释了程勇为何愿意涉足药品走私，从而扩展和深化了对推销药物情节的理解。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4d07f7b896b1",
+    "subject_id": "ep_9d1149f1af0ddadb",
+    "object_id": "ep_43833621f25bc612",
+    "relation_type": "elaborates",
+    "reason": "程勇观察病人溃烂小腿的情节强化了他对病人痛苦的理解，为他后续参与向病人推销印度药物的行为提供了动机背景，因此该情节扩展了推销药物情节的动机层面。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_9fbec0b52a63",
+    "subject_id": "ep_0e5a7323a7fc2d43",
+    "object_id": "ep_43833621f25bc612",
+    "relation_type": "precedes",
+    "reason": "程勇在探询印度格列宁的药效与风险后，才与吕受益一同在医院向病人推销该药物，叙事上存在明确的时间顺序：先了解药物信息，再进行推广行动。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a23eb20afd6e",
+    "subject_id": "ep_3bcc9115376cbcdf",
+    "object_id": "ep_43833621f25bc612",
+    "relation_type": "precedes",
+    "reason": "程勇在印度争取代理权并说服药厂合作（ep_3bcc9115376cbcdf）是获取药物供应的前提，之后他才能在医院向病人推销印度药物（ep_43833621f25bc612），尽管推销失败。叙事逻辑上，获取代理权必须先于药物推广行动。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_30c1c85603da",
+    "subject_id": "ep_5c419f3edfe5537f",
+    "object_id": "ep_de85433978af37a3",
+    "relation_type": "precedes",
+    "reason": "程勇求证诊断并质疑费用（ep_5c419f3edfe5537f）发生在医院场景（scene_17），而程勇在市井中接受小卡片并陷入沉思（ep_de85433978af37a3）发生在后续的路边摊场景（scene_19），根据文档中场景编号的顺序，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_502b1c8fda95",
+    "subject_id": "ep_cc6ff716916dfb5a",
+    "object_id": "ep_43833621f25bc612",
+    "relation_type": "precedes",
+    "reason": "程勇在宾馆因药品销售不佳而被催缴房租并询问销路（ep_cc6ff716916dfb5a）发生在医院向病人推销药物但被集体拒绝（ep_43833621f25bc612）之前，根据叙事逻辑和事件发展顺序，销售失败的结果在医院推销事件中得到体现，因此该事件应发生在后。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5e633d732a4d",
+    "subject_id": "ep_43833621f25bc612",
+    "object_id": "ep_9f62deadc1e8420d",
+    "relation_type": "elaborates",
+    "reason": "第一个情节展示程勇和吕受益在医院推销印度药物失败，第二个情节中程勇调整策略，主动承担卖药并为教会病人提供折扣，体现了对药物推广方式的进一步发展和细化。object 情节通过引入新策略和背景（教会聚会）扩展了subject情节中的尝试，构成对原有行动的深化和补充。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_89a0519a8f28",
+    "subject_id": "ep_4aab0025fa4de937",
+    "object_id": "ep_e8ff6b87b5284f26",
+    "relation_type": "elaborates",
+    "reason": "揭示家庭动机通过展示程勇对父亲的担忧，为其后续接受药物代理权挑战提供了情感和动机背景，扩展了该情节的动因解释。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_0544e7b6ce00",
+    "subject_id": "ep_3bcc9115376cbcdf",
+    "object_id": "ep_e8ff6b87b5284f26",
+    "relation_type": "precedes",
+    "reason": "程勇在印度药厂与老板及詹姆斯谈判争取代理权（ep_3bcc9115376cbcdf）发生在其后凝视远去船只并面临代理权挑战条件（ep_e8ff6b87b5284f26）之前，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1e06284edb19",
+    "subject_id": "ep_e8ff6b87b5284f26",
+    "object_id": "ep_022b43c3c2998548",
+    "relation_type": "precedes",
+    "reason": "情节'接受药物代理权挑战'中提出的条件（一个月内售完一批药）在叙事时间上早于'推销印度仿制药并应对销售失败'，后者是程勇尝试履行该挑战的具体行动。相关事件的时间顺序和目标驱动的连贯性支持这一先后关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ed15802a8488",
+    "subject_id": "ep_1fc65120f9b97ddd",
+    "object_id": "ep_e8ff6b87b5284f26",
+    "relation_type": "precedes",
+    "reason": "根据描述，程勇在完成非法货物交接并指挥货物运上船后，紧接着凝视远去的船只并陷入沉思，随后面临画外音提出的代理权挑战。叙事顺序上，完成交接的情节在前，接受挑战的情节在后，且两个情节通过船只离开的视觉线索衔接，支持'precedes'关系。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7484a5e40dc8",
+    "subject_id": "ep_e425de968eb89fb9",
+    "object_id": "ep_e8ff6b87b5284f26",
+    "relation_type": "precedes",
+    "reason": "程勇质疑动机并坚决拒绝走私提议发生在程勇面临药物代理权挑战之前，根据叙事顺序，拒绝提议是初始反应，而接受挑战是后续发展，因此前者在时间上先于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_545f32746af9",
+    "subject_id": "ep_9d1149f1af0ddadb",
+    "object_id": "ep_e8ff6b87b5284f26",
+    "relation_type": "precedes",
+    "reason": "程勇目睹病人溃烂小腿并感受到治疗紧迫性的情节发生在他在船只远去时陷入沉思并面临代理权挑战之前，根据叙事顺序，前者为动机铺垫，后者为后续决策，时间上先后明确。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_793d9b41a598",
+    "subject_id": "ep_7dfe9541f03e0ad1",
+    "object_id": "ep_3bcc9115376cbcdf",
+    "relation_type": "precedes",
+    "reason": "程勇完成抵达并迎接的情节（scene_25）在时间顺序上早于他与印度药厂谈判争取代理权的情节（scene_27），且抵达是后续谈判的前提，叙事顺序明确。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_62f7bd3eeebb",
+    "subject_id": "ep_c8fe59933dfa8411",
+    "object_id": "ep_476ffdac09b12148",
+    "relation_type": "precedes",
+    "reason": "程勇探望父亲并触发其情绪反应（scene_4）在叙事顺序上早于程勇接手照顾父亲用餐（scene_5），根据相关事件的时间和场景编号，scene_4发生在scene_5之前，具有明确的先后顺序。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6f5b0f2faed2",
+    "subject_id": "ep_c8fe59933dfa8411",
+    "object_id": "ep_69253a51fdaf217a",
+    "relation_type": "precedes",
+    "reason": "程勇探望父亲并触发其情绪反应（ep_c8fe59933dfa8411）发生在养老院探访场景中，包含程勇走向养老院和父亲在电话中表达愤怒，时间上早于父亲拒绝进食并索要香烟（ep_69253a51fdaf217a）这一发生在喂饭过程中的事件，两个情节在叙事顺序上具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9bd647fdb187",
+    "subject_id": "ep_dad4e7840a0c644e",
+    "object_id": "ep_3bcc9115376cbcdf",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'程勇请求并前往地图上的目的地'发生在scene_26，而'争取中国代理权并说服药厂合作'发生在scene_27，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4aa60ee60e05",
+    "subject_id": "ep_3bcc9115376cbcdf",
+    "object_id": "ep_022b43c3c2998548",
+    "relation_type": "precedes",
+    "reason": "争取中国代理权并说服药厂合作发生在程勇获得药品供应权的阶段，而推销印度仿制药并应对销售失败是后续在本地市场推广药品的情节。根据叙事逻辑和事件顺序，取得代理权是销售尝试的前提，因此该关系在时间顺序上明确支持 precedes。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3e5c40a3c440",
+    "subject_id": "ep_0e5a7323a7fc2d43",
+    "object_id": "ep_3bcc9115376cbcdf",
+    "relation_type": "precedes",
+    "reason": "程勇在探询印度格列宁的药效与风险后，才前往印度药厂谈判代理权。前者为获取信息的准备阶段，后者为基于该信息采取的后续行动，叙事顺序明确。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ce9edc0c11ea",
+    "subject_id": "ep_3bcc9115376cbcdf",
+    "object_id": "ep_b6084c7ea460cde5",
+    "relation_type": "precedes",
+    "reason": "程勇在印度药厂谈判并争取代理权（ep_3bcc9115376cbcdf）是建立药品进货渠道的前提，随后他向吕受益展示已打通的渠道并建立合作（ep_b6084c7ea460cde5），叙事顺序明确且逻辑连贯。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a4c7ba6a958e",
+    "subject_id": "ep_9d56d5df41025b7c",
+    "object_id": "ep_3bcc9115376cbcdf",
+    "relation_type": "precedes",
+    "reason": "吕受益留下联系方式并表达求生诉求发生在程勇前往印度与药厂谈判之前，根据叙事顺序，吕受益的求助是程勇后续争取代理权行动的起点，且相关事件在文档中按时间先后呈现。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bbc285b233f4",
+    "subject_id": "ep_44794cef49a2b00a",
+    "object_id": "ep_3bcc9115376cbcdf",
+    "relation_type": "precedes",
+    "reason": "吕受益请求程勇代购药品的情节（ep_44794cef49a2b00a）发生在程勇前往印度谈判代理权之前，是推动程勇后续行动的初始动机。文本中程勇因吕受益的请求而开始考虑代购，进而促成其与印度药厂的谈判，因此该关系在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_53b4aa140e36",
+    "subject_id": "ep_ee3120ac2f5db185",
+    "object_id": "ep_7b24066fc027c39d",
+    "relation_type": "precedes",
+    "reason": "提出寻找彭浩的意图发生在追捕逃亡的彭浩之前。根据描述，程勇先提出‘怎么能找到他啊’的问题，显示出主动寻找的意图，随后在屠宰场发现并追捕彭浩，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ec0ce66e7a34",
+    "subject_id": "ep_022b43c3c2998548",
+    "object_id": "ep_537b9055216aafc0",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述程勇和吕受益推销药品失败并收回药品，最后一个相关事件是程勇感叹一瓶都未售出；第二个情节以程勇因吕受益收回药品而愤怒指责开头，表明该行为是前一情节的直接结果。因此，第一个情节在叙事顺序上明确早于第二个情节。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5b74086ac437",
+    "subject_id": "ep_9d56d5df41025b7c",
+    "object_id": "ep_537b9055216aafc0",
+    "relation_type": "precedes",
+    "reason": "吕受益留下联系方式并表达求生诉求发生在程勇因药品被收回而愤怒质问之前，根据文档中事件的时间顺序，吕受益的求助行为早于后续的对峙情节。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2c0dd923a6aa",
+    "subject_id": "ep_b6084c7ea460cde5",
+    "object_id": "ep_537b9055216aafc0",
+    "relation_type": "precedes",
+    "reason": "‘建立药品合作渠道’发生在程勇主动打通渠道并说服吕受益参与卖药的阶段，而‘对峙质问与揭示困境’发生在后续因药品回收引发冲突的情节中。根据叙事逻辑和事件发展顺序，合作建立在前，冲突因合作后续问题而生，因此前者在时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_68734e164b67",
+    "subject_id": "ep_537b9055216aafc0",
+    "object_id": "ep_d1c7929171380094",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均揭示病人在经济与医疗体系中的困境，但前者通过人物间对峙展现个体情感与生存状态的冲突，后者通过医生与程勇的对话揭示系统性无力，二者在个体挣扎与制度局限之间形成并置对比。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_be5315dc2876",
+    "subject_id": "ep_deeb3152a91da8b7",
+    "object_id": "ep_537b9055216aafc0",
+    "relation_type": "precedes",
+    "reason": "情节'商议药品代购合作条件'发生在程勇与吕受益初次合作的阶段，包含查看合同、讨论销售可行性与达成预付款协议等事件；而'对峙质问与揭示困境'发生在后续阶段，表现为合作已进行一段时间后因药品被收回引发的冲突。根据叙事逻辑和事件发展顺序，商议合作必然早于因合作破裂引发的对峙，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c8f463ec6ba9",
+    "subject_id": "ep_c105fdd23e8f8f9a",
+    "object_id": "ep_537b9055216aafc0",
+    "relation_type": "precedes",
+    "reason": "吕受益向程勇推荐仿制药并邀请加入病友群（ep_c105fdd23e8f8f9a）发生在程勇因吕受益收回药品而愤怒质问的对峙之前，根据叙事逻辑和事件发展顺序，劝说与建立关系的情节早于后续因药品中断引发的冲突，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_39fff2722cfb",
+    "subject_id": "ep_9d1149f1af0ddadb",
+    "object_id": "ep_9ce9bc68acb10a7d",
+    "relation_type": "elaborates",
+    "reason": "观察病人病情的情节通过展示慢粒白血病患者的痛苦，为程勇后续评估药品缺口并寻找英语沟通人选提供了动机背景，扩展了其行动的情感和道德基础。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_794bd7149ba7",
+    "subject_id": "ep_9ce9bc68acb10a7d",
+    "object_id": "ep_24073f1eb160d5dd",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'评估药品缺口并寻找英语沟通人选'发生在场景39，而'程勇说服刘牧师支持违法卖药'发生在场景40，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_50fceaab59c7",
+    "subject_id": "ep_9f62deadc1e8420d",
+    "object_id": "ep_537b9055216aafc0",
+    "relation_type": "precedes",
+    "reason": "程勇提出自主卖药并提供教会折扣（ep_9f62deadc1e8420d）发生在教会聚会场景（scene_40），而对峙质问与揭示困境（ep_537b9055216aafc0）涉及程勇指责吕受益收回药品及质问彭浩，相关事件发生在scene_46。scene_40在叙事顺序上早于scene_46，因此该关系为precedes。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a30c66a553d4",
+    "subject_id": "ep_9ce9bc68acb10a7d",
+    "object_id": "ep_9f62deadc1e8420d",
+    "relation_type": "precedes",
+    "reason": "程勇在发现药品不足并询问吕受益是否有英语流利的病人（ep_9ce9bc68acb10a7d）之后，才提出由自己卖药并为教会病人提供折扣（ep_9f62deadc1e8420d）。两个情节在叙事顺序上连续，前者为解决药品供应和沟通问题做准备，后者推进具体执行方案，且相关事件发生在连续场景（scene_39 → scene_40），支持明确的时间先后关系。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f8631c8e9337",
+    "subject_id": "ep_05d80f8e0f12a3be",
+    "object_id": "ep_ad1cbff41f24941d",
+    "relation_type": "precedes",
+    "reason": "程勇拒绝前妻并捍卫家庭边界发生在scene_9，而程勇在冲突后保持沉默发生在scene_11，scene_9在叙事顺序上早于scene_11，因此该关系为precedes。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0417a06686aa",
+    "subject_id": "ep_05d80f8e0f12a3be",
+    "object_id": "ep_5861cca167e4ea0c",
+    "relation_type": "precedes",
+    "reason": "程勇拒绝前妻并捍卫家庭边界发生在暴力冲突升级并失控之前，根据相关事件的时间顺序和场景编号（scene_9 在 scene_9__2 之前），表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_9__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2e8a9fdfe883",
+    "subject_id": "ep_05d80f8e0f12a3be",
+    "object_id": "ep_749e375efac62c8a",
+    "relation_type": "precedes",
+    "reason": "程勇拒绝前妻并捍卫家庭边界发生在送别儿子时（scene_9），而拒绝经济补偿以保全儿子抚养权发生在后续场景（scene_9__2），文本中scene_9在scene_9__2之前，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_9__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2747ca0585f5",
+    "subject_id": "ep_05d80f8e0f12a3be",
+    "object_id": "ep_ec1e15ffb1f01747",
+    "relation_type": "precedes",
+    "reason": "程勇拒绝前妻并捍卫家庭边界发生在送别儿子的过程中（scene_9），而激烈争执中爆发言语冲突涉及前妻指责程勇未尽父亲责任并引发暴怒，发生在scene_9__2，文档顺序和场景编号表明前者在叙事时间上早于后者，且两者均围绕同一送别事件的连续发展阶段。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_9__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_db86ea0f8735",
+    "subject_id": "ep_50a8735be335e89b",
+    "object_id": "ep_9f62deadc1e8420d",
+    "relation_type": "precedes",
+    "reason": "程勇质问吕受益并追问关键人物（ep_50a8735be335e89b）发生在程勇提出自主卖药并提供教会折扣（ep_9f62deadc1e8420d）之前，根据相关场景编号scene_35早于scene_40，表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_26c26017ae19",
+    "subject_id": "ep_4aab0025fa4de937",
+    "object_id": "ep_cc6ff716916dfb5a",
+    "relation_type": "elaborates",
+    "reason": "揭示家庭动机的情节通过展示程勇对父亲病情的关切和经济压力，为程勇应对房租催缴并探询药品销路的情节提供了背景和动机解释，说明其经济困境的根源，从而扩展了后者的情节内涵。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_3e05559cf89a",
+    "subject_id": "ep_cc6ff716916dfb5a",
+    "object_id": "ep_deeb3152a91da8b7",
+    "relation_type": "precedes",
+    "reason": "程勇在面临房租催缴并探询药品销路的情节中表现出经济困境和对药品市场反馈的关注，这为后续与吕受益商议代购合作提供了动机和叙事上的前因；根据文本中事件的发展逻辑，经济压力和销售尝试失败自然导向寻求合作的解决方案，因此该情节在叙事顺序上早于商议合作条件。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bc993ceb05ca",
+    "subject_id": "ep_cc6ff716916dfb5a",
+    "object_id": "ep_022b43c3c2998548",
+    "relation_type": "precedes",
+    "reason": "程勇应对房租催缴并探询药品销路（ep_cc6ff716916dfb5a）发生在程勇和吕受益前往病人群体聚居区推销药品之前，根据叙事逻辑和事件发展顺序，经济困境和早期市场探询构成后续大规模推销尝试的前置背景。文档中程勇在旅馆询问药品使用情况，而后续情节显示药品一瓶未售出，表明推销行动发生在探询之后。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_499e28da3059",
+    "subject_id": "ep_cc6ff716916dfb5a",
+    "object_id": "ep_9f62deadc1e8420d",
+    "relation_type": "precedes",
+    "reason": "程勇应对房租催缴并探询药品销路（ep_cc6ff716916dfb5a）发生在早期场景（scene_3），而程勇提出自主卖药并提供教会折扣（ep_9f62deadc1e8420d）发生在后续场景（scene_40），文本中场景编号明确支持前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8dc6fe53ba1c",
+    "subject_id": "ep_4aab0025fa4de937",
+    "object_id": "ep_022b43c3c2998548",
+    "relation_type": "elaborates",
+    "reason": "揭示家庭动机这一情节通过展示程勇对父亲病情的担忧，为其后续参与印度仿制药推销提供了背景和动机解释，从而扩展和深化了对推销失败情节中程勇行为的理解。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1d5eb148f3aa",
+    "subject_id": "ep_0e5a7323a7fc2d43",
+    "object_id": "ep_022b43c3c2998548",
+    "relation_type": "elaborates",
+    "reason": "探询印度格列宁的药效与风险为后续推销印度仿制药并应对销售失败提供了背景信息，解释了程勇在推广过程中所面临的风险认知和药品合法性问题，从而扩展了对推销困境的理解。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e925b34a08c2",
+    "subject_id": "ep_4aab0025fa4de937",
+    "object_id": "ep_deeb3152a91da8b7",
+    "relation_type": "elaborates",
+    "reason": "‘揭示家庭动机’通过展示程勇查看病重父亲并合上行李箱的细节，为‘商议药品代购合作条件’提供了动机背景，解释了他为何愿意参与合作，因此该情节扩展了主体行为的内在动因。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_530cc20430b3",
+    "subject_id": "ep_022b43c3c2998548",
+    "object_id": "ep_faf99ea43f1977f3",
+    "relation_type": "precedes",
+    "reason": "推销印度仿制药并应对销售失败发生在程勇与病友群主会议之前，文本中滞销和挫败的情绪为后续价格谈判和调整策略提供了叙事上的前序背景，且两个情节分别位于 doc_33 和 doc_37，支持时间顺序上的先后关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_718cb8894efa",
+    "subject_id": "ep_9d1149f1af0ddadb",
+    "object_id": "ep_022b43c3c2998548",
+    "relation_type": "elaborates",
+    "reason": "观察病人病情以理解治疗紧迫性这一情节通过展示程勇目睹病人溃烂小腿的细节，强化了他对慢粒白血病患者痛苦的直观认识，为他后续参与推销印度仿制药提供了动机背景。该情节扩展了推销活动的情境意义，解释了为何程勇在面对销售失败时仍继续推进，因此构成了对推销情节的动机性补充说明。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_806801f1bc64",
+    "subject_id": "ep_022b43c3c2998548",
+    "object_id": "ep_9f62deadc1e8420d",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述程勇和吕受益在病人群体中推销印度仿制药失败，程勇情绪沮丧并放弃销售；第二个情节描述程勇主动提出由自己卖药并为教会病人提供折扣，标志着销售策略的转变。从失败的推广到主动承担并调整策略，叙事上存在明确的先后顺序，且策略调整是对前期失败的回应，因此主体情节在时间与逻辑顺序上先于客体情节。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ae1682d18657",
+    "subject_id": "ep_deeb3152a91da8b7",
+    "object_id": "ep_9f62deadc1e8420d",
+    "relation_type": "precedes",
+    "reason": "商议药品代购合作条件发生在程勇提出自主卖药并提供教会折扣之前，因为合作商议是达成卖药行动的前提，且文本中商议情节包含达成初步合作意向，而提出自主卖药是后续具体实施计划的步骤。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_df5fa3ab6084",
+    "subject_id": "ep_deeb3152a91da8b7",
+    "object_id": "ep_c6cdf905ccfdcaed",
+    "relation_type": "precedes",
+    "reason": "商议药品代购合作条件发生在程勇与吕受益的卧室会谈中，是合作的初始阶段；而确立药品销售安全原则是在后续与群主们的会议中为规范销售行为所采取的措施。根据叙事逻辑和事件发展顺序，合作条件的商议必须先于安全原则的建立，因此该关系为precedes。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e0deeff4910e",
+    "subject_id": "ep_9d1149f1af0ddadb",
+    "object_id": "ep_deeb3152a91da8b7",
+    "relation_type": "precedes",
+    "reason": "程勇目睹病人溃烂小腿并感受到治疗紧迫性（ep_9d1149f1af0ddadb）发生在与吕受益商议药品代购合作条件（ep_deeb3152a91da8b7）之前，前者强化了其后续行动的动机，且从叙事顺序上看，理解病情严重性是促成合作商议的前提背景。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_080b75dd5a81",
+    "subject_id": "ep_5cd400ff12b9153f",
+    "object_id": "ep_749e375efac62c8a",
+    "relation_type": "contrasts_with",
+    "reason": "程勇在第一个情节中履行对儿子的经济支持承诺，表现出父爱与责任；而在第二个情节中，他拒绝以经济补偿换取抚养权，强调情感纽带不可交易。两个情节通过对待金钱与父子关系的态度形成情感与价值观上的对比。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_9__2_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_1b55a3dafc3c",
+    "subject_id": "ep_deeb3152a91da8b7",
+    "object_id": "ep_e425de968eb89fb9",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，程勇最初坚决拒绝吕受益的走私提议（ep_e425de968eb89fb9），随后才在后续情节中商议药品代购合作条件（ep_deeb3152a91da8b7），表明后者在叙事顺序上发生在前者之后。因此，ep_e425de968eb89fb9 在时间线上 precedes ep_deeb3152a91da8b7。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f31050c6181e",
+    "subject_id": "ep_ee3120ac2f5db185",
+    "object_id": "ep_a81ac08a5b573b64",
+    "relation_type": "precedes",
+    "reason": "提出寻找彭浩的意图发生在制服彭浩并追查药品下落之前。根据描述，程勇先表达寻找彭浩的意图，随后才发生追上并制服彭浩的情节，构成明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_07d34cac8f13",
+    "subject_id": "ep_44794cef49a2b00a",
+    "object_id": "ep_e425de968eb89fb9",
+    "relation_type": "precedes",
+    "reason": "吕受益提出代购请求后，程勇在后续场景中表现出抵触并拒绝该提议，叙事顺序上前者发生在后者之前，且两情节共享同一上下文线索。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3a238122552d",
+    "subject_id": "ep_44794cef49a2b00a",
+    "object_id": "ep_9f62deadc1e8420d",
+    "relation_type": "precedes",
+    "reason": "吕受益提出代购请求后，程勇随后决定自主卖药并提供教会折扣，叙事上存在明确的先后顺序。程勇的决策是对吕受益请求的回应，发生在会面及请求之后。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e38a88188149",
+    "subject_id": "ep_44794cef49a2b00a",
+    "object_id": "ep_4aab0025fa4de937",
+    "relation_type": "elaborates",
+    "reason": "情节 '促成吕受益与程勇的会面并提出代购请求' 描述了程勇与吕受益的初次合作商议，而 '揭示家庭动机' 通过展示程勇对父亲病情的关注，进一步解释了他为何最终可能克服疑虑参与代购。后者为前者的决策背景提供了动机性补充，构成对主体情节的扩展说明。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_48b384a8c35e",
+    "subject_id": "ep_0e5a7323a7fc2d43",
+    "object_id": "ep_b6084c7ea460cde5",
+    "relation_type": "precedes",
+    "reason": "程勇在探询印度格列宁的药效与风险后，才向吕受益展示已打通的药品进货渠道并提议合作，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b20c346490c7",
+    "subject_id": "ep_b6084c7ea460cde5",
+    "object_id": "ep_e425de968eb89fb9",
+    "relation_type": "contrasts_with",
+    "reason": "程勇在'建立药品合作渠道'中主动推动非法药品销售合作，而在'程勇质疑动机并坚决拒绝走私提议'中则强烈抵触并拒绝参与走私活动，两个情节在程勇对非法活动的态度上形成明显逆转和对比，体现了其立场或动机的转变。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fb4f4e10a767",
+    "subject_id": "ep_9d1149f1af0ddadb",
+    "object_id": "ep_b6084c7ea460cde5",
+    "relation_type": "precedes",
+    "reason": "程勇目睹病人溃烂小腿并感受到治疗紧迫性（ep_9d1149f1af0ddadb）发生在其向吕受益展示药品渠道并建立合作（ep_b6084c7ea460cde5）之前，动机强化为后续行动提供叙事前提，且文本中事件顺序支持该时间先后关系。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7f2ffdcaccc8",
+    "subject_id": "ep_e425de968eb89fb9",
+    "object_id": "ep_4aab0025fa4de937",
+    "relation_type": "elaborates",
+    "reason": "程勇质疑动机并坚决拒绝走私提议展示了他对非法活动的初始抵触，而揭示家庭动机提供了他后续转变的背景和原因，说明其拒绝后的心理和情境基础，因此后者为前者提供了动机性解释。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_76a81435e16e",
+    "subject_id": "ep_b6084c7ea460cde5",
+    "object_id": "ep_9f62deadc1e8420d",
+    "relation_type": "precedes",
+    "reason": "建立药品合作渠道（ep_b6084c7ea460cde5）涉及程勇说服吕受益参与卖药，是后续提出自主卖药并提供教会折扣（ep_9f62deadc1e8420d）的前提。文本中，打通进货渠道并达成合作发生在先，随后程勇才在教会背景下推行八折购药计划，具有明确的叙事顺序支持。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_23a11f56be65",
+    "subject_id": "ep_4aab0025fa4de937",
+    "object_id": "ep_9f62deadc1e8420d",
+    "relation_type": "elaborates",
+    "reason": "‘揭示家庭动机’通过展示程勇对父亲病情和经济压力的关注，为后续‘程勇提出自主卖药并提供教会折扣’的决策提供了背景和动机解释，表明其行动源于更深层的家庭责任，从而扩展和丰富了后一情节的意图和上下文。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_38e5e5c14994",
+    "subject_id": "ep_e3208e13f5292ba8",
+    "object_id": "ep_03b46b88ab048613",
+    "relation_type": "precedes",
+    "reason": "寻找并识别病友群群主思慧发生在程勇与群主们会面之前，是建立后续交流的前提。识别思慧的身份（doc_35, scene_36）在叙事顺序上早于解决与群主们的交流障碍（doc_37, scene_38），且为后者提供了必要的人物背景和参与基础。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_81204dd19e37",
+    "subject_id": "ep_e3208e13f5292ba8",
+    "object_id": "ep_c63397c39ff6cc5c",
+    "relation_type": "precedes",
+    "reason": "根据描述，吕受益带程勇前往酒吧并指认思慧为病友群群主（ep_e3208e13f5292ba8）发生在程勇与思慧建立现场互动（ep_c63397c39ff6cc5c）之前，因为识别身份是后续社交互动的前提，且相关事件scene_36在scene_37之前，支持该时间顺序。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7a9de8fc2465",
+    "subject_id": "ep_c105fdd23e8f8f9a",
+    "object_id": "ep_e425de968eb89fb9",
+    "relation_type": "precedes",
+    "reason": "吕受益向程勇推荐仿制药并邀请加入病友群发生在程勇质疑动机并拒绝走私提议之前，根据叙事逻辑和事件顺序，劝说行为先于对方的拒绝反应。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2232ab15800a",
+    "subject_id": "ep_c105fdd23e8f8f9a",
+    "object_id": "ep_03b46b88ab048613",
+    "relation_type": "precedes",
+    "reason": "吕受益向程勇推荐仿制药并邀请加入病友群（scene_37）发生在程勇与群主们开会解决交流障碍与口罩问题（scene_38）之前，文档顺序和场景编号表明明确的时间先后关系。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_542d16d538c9",
+    "subject_id": "ep_c105fdd23e8f8f9a",
+    "object_id": "ep_24073f1eb160d5dd",
+    "relation_type": "precedes",
+    "reason": "吕受益向程勇推荐仿制药并邀请加入病友群（ep_c105fdd23e8f8f9a）发生在程勇与刘牧师争论违法卖药道德性之前，是程勇启动卖药行动的初始动机和前置步骤，叙事上明确早于说服刘牧师的情节。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7d72edf3f93d",
+    "subject_id": "ep_c105fdd23e8f8f9a",
+    "object_id": "ep_c6cdf905ccfdcaed",
+    "relation_type": "precedes",
+    "reason": "吕受益向程勇推荐仿制药并邀请加入病友群（ep_c105fdd23e8f8f9a）发生在程勇与群主们开会确立药品销售安全原则（ep_c6cdf905ccfdcaed）之前，根据文档顺序和情节发展逻辑，前者是后者发生的前提，程勇是在加入病友群并建立联系后才组织会议制定销售纪律。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_696c98b870e2",
+    "subject_id": "ep_c105fdd23e8f8f9a",
+    "object_id": "ep_9f62deadc1e8420d",
+    "relation_type": "precedes",
+    "reason": "吕受益向程勇推荐仿制药并邀请加入病友群（ep_c105fdd23e8f8f9a）发生在程勇决定自主卖药并提供教会折扣（ep_9f62deadc1e8420d）之前，因为程勇的行动是对吕受益提供的药物信息和社群邀请的直接响应，且文本中吕受益的推荐是程勇介入卖药的起点。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e78ab9b6e81f",
+    "subject_id": "ep_c105fdd23e8f8f9a",
+    "object_id": "ep_faf99ea43f1977f3",
+    "relation_type": "precedes",
+    "reason": "吕受益向程勇推荐仿制药并邀请加入病友群（ep_c105fdd23e8f8f9a）发生在程勇与群主们就药品价格进行协商之前，是建立合作关系的初始步骤；处理价格争议并调整定价策略（ep_faf99ea43f1977f3）依赖于病友群已建立的前提，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_02bd13406263",
+    "subject_id": "ep_5861cca167e4ea0c",
+    "object_id": "ep_ad1cbff41f24941d",
+    "relation_type": "precedes",
+    "reason": "暴力冲突升级并失控发生在程勇在冲突后保持沉默之前，根据叙事顺序，冲突结束后曹斌离开，随后程勇独自呆立墙边沉默不语，表明前者在时间上直接早于后者。",
+    "source_documents": [
+      "scene_9__2_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eedb991f5450",
+    "subject_id": "ep_ec1e15ffb1f01747",
+    "object_id": "ep_ad1cbff41f24941d",
+    "relation_type": "precedes",
+    "reason": "根据描述，'激烈争执中爆发言语冲突'（发生在doc_9）涉及程勇与前妻的对抗，而'程勇在冲突后保持沉默'（发生在doc_10）明确指出是在'冲突结束'后的情境。因此，争执情节在叙事时间顺序上早于沉默情节。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_9__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_929273811fc7",
+    "subject_id": "ep_9d56d5df41025b7c",
+    "object_id": "ep_9f62deadc1e8420d",
+    "relation_type": "precedes",
+    "reason": "吕受益留下联系方式并表达求生诉求发生在程勇提出自主卖药并提供教会折扣之前，文本中吕受益的坚持为后续程勇决定介入卖药行动提供了前提，且两个情节在叙事时间线上有明确先后顺序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_31cf28f88bb3",
+    "subject_id": "ep_9d56d5df41025b7c",
+    "object_id": "ep_24073f1eb160d5dd",
+    "relation_type": "precedes",
+    "reason": "吕受益留下联系方式并表达求生诉求发生在程勇说服刘牧师支持违法卖药之前，文本中吕受益的求助是程勇启动卖药行动的初始动机，后续与刘牧师的互动是该行动的推进步骤，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3e996e4a0b02",
+    "subject_id": "ep_749e375efac62c8a",
+    "object_id": "ep_ad1cbff41f24941d",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件上下文，程勇拒绝经济补偿以保全儿子抚养权（ep_749e375efac62c8a）发生在律师提议和冲突场景中（doc_9），而程勇在冲突后保持沉默（ep_ad1cbff41f24941d）发生在曹斌离开后的下一场景（doc_10），表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_9__2_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_370c71874d74",
+    "subject_id": "ep_9d1149f1af0ddadb",
+    "object_id": "ep_d1c7929171380094",
+    "relation_type": "elaborates",
+    "reason": "第一个情节通过展示病人溃烂的直观病情强化治疗紧迫性，第二个情节进一步讨论病人经济困境与治疗局限，两者在scene_22中连续发生，后者在社会和经济层面扩展了前者的医疗紧迫主题，提供了更广泛的背景解释。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_aac90059c9ec",
+    "subject_id": "ep_5c419f3edfe5537f",
+    "object_id": "ep_d1c7929171380094",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中程勇质疑治疗费用过高，第二个情节进一步展开病人无力负担药物费用的经济困境，医生也确认无法解决，因此第二个情节在更广泛的社会和制度层面上扩展了第一个情节中提出的费用问题。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b64435c9d6f6",
+    "subject_id": "ep_9d1149f1af0ddadb",
+    "object_id": "ep_9f62deadc1e8420d",
+    "relation_type": "causes",
+    "reason": "程勇目睹病人溃烂小腿的严重病情，强化了其后续行动的动机，直接促使其决定自主卖药并提供教会折扣，文本中明确将前者描述为强化动机的关键因素，支持因果关系。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_96046f412e3b",
+    "subject_id": "ep_9d1149f1af0ddadb",
+    "object_id": "ep_24073f1eb160d5dd",
+    "relation_type": "elaborates",
+    "reason": "程勇目睹病人溃烂小腿并感受到治疗紧迫性，这一情节为其后续说服刘牧师支持违法卖药提供了动机背景，增强了其行为的正当性，因此该情节扩展了后者的情境和动因。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_15f4a5d1fb67",
+    "subject_id": "ep_a17fff24ff44fe41",
+    "object_id": "ep_d1c7929171380094",
+    "relation_type": "elaborates",
+    "reason": "程勇送礼请求关照遭拒这一情节展示了他试图通过非正式途径解决治疗费用问题的失败，而讨论病人经济困境与治疗局限则进一步揭示了医疗体系内经济障碍的结构性现实。后者为前者提供了更广泛的背景和系统性解释，说明个体努力无法克服制度性限制，因此前者通过具体事例扩展了后者所提出的问题。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_71e1a0bf215d",
+    "subject_id": "ep_27acc4d4350954a1",
+    "object_id": "ep_5c0b82475a76be3c",
+    "relation_type": "precedes",
+    "reason": "程勇在会面后立即追上离开的宾馆老板发生在应对宾馆老板的生意提议之后，因为生意提议和相关互动（包括吕受益微笑）构成会面内容，而追出去是会面结束后的即时后续动作，叙事顺序明确。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f897c6292e9c",
+    "subject_id": "ep_9b3cbdb9bfb07292",
+    "object_id": "ep_cc6ff716916dfb5a",
+    "relation_type": "precedes",
+    "reason": "宾馆老板前往神油店开门并呼唤老程，标志着神油店开始营业的准备；随后程勇在店内面对房租催缴并探询药品销路，逻辑上发生在神油店已开启之后。因此，呼唤老程以开启营业在叙事顺序上早于程勇应对房租催缴和探询药品销路。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_49707d7eea06",
+    "subject_id": "ep_a446081e4a899bfc",
+    "object_id": "ep_43833621f25bc612",
+    "relation_type": "precedes",
+    "reason": "吕受益提出合作提议的情节发生在医院推销药物之前，因为前者是建立合作关系的初始接触，后者是该合作尝试的实际执行，且文本中吕受益在提出合作时尚未开展集体推销行动。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_485e64f0baae",
+    "subject_id": "ep_43833621f25bc612",
+    "object_id": "ep_ef538d80eb5d8edc",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述程勇和吕受益在医院向病人推销印度药物但被集体拒绝，发生在药品分发和收入清点之前。第二个情节中吕受益成功分发药品并清点收入，表明交易已实现，逻辑上必须在初次推销失败之后发生。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_40__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_be366c7cae09",
+    "subject_id": "ep_0b7befac5dabfa98",
+    "object_id": "ep_43833621f25bc612",
+    "relation_type": "precedes",
+    "reason": "完成治疗并劝说吕受益坚持用药发生在医生为吕受益打针和劝说其持续治疗的场景（scene_31），而在医院向病人推销印度药物的情节发生在后续场景（scene_33），且吕受益在前一情节中仍为病人身份，后一情节中已参与药物推销，叙事顺序明确。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0e21d110a153",
+    "subject_id": "ep_5616cd286efb43e0",
+    "object_id": "ep_c79b9202096beb93",
+    "relation_type": "precedes",
+    "reason": "彭浩夺取药物并逃离现场（ep_5616cd286efb43e0）发生在程勇命令彭浩停车并展开追逐（ep_c79b9202096beb93）之前，根据相关事件的时间顺序和文档顺序，前者在scene_42，后者在scene_45，具有明确的叙事先后关系。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fe7d9f31e6e8",
+    "subject_id": "ep_7b24066fc027c39d",
+    "object_id": "ep_f8de1f9e353dd2a1",
+    "relation_type": "precedes",
+    "reason": "根据描述，'追捕逃亡的彭浩'发生在屠宰场，彭浩在被发现后立即逃跑，程勇展开追赶；而'彭浩抢车并开始逃跑'涉及彭浩踢倒骑自行车的人并抢走自行车，该事件发生在后续场景（scene_45），表明其在叙事顺序上紧随前一情节之后。因此，主体情节在时间顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0c0360bd8830",
+    "subject_id": "ep_5616cd286efb43e0",
+    "object_id": "ep_f8de1f9e353dd2a1",
+    "relation_type": "precedes",
+    "reason": "彭浩夺取药物并逃离现场（ep_5616cd286efb43e0）发生在文档 doc_41，而彭浩抢车并开始逃跑（ep_f8de1f9e353dd2a1）发生在文档 doc_44，文档编号顺序表明前者在叙事时间线上早于后者。此外，前者描述的是逃离的开始，后者是逃跑过程中的进一步行动，构成连续逃逸行为的递进。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c2a541570b72",
+    "subject_id": "ep_a446081e4a899bfc",
+    "object_id": "ep_022b43c3c2998548",
+    "relation_type": "precedes",
+    "reason": "吕受益提出合作提议的情节发生在程勇和吕受益实际推销印度仿制药之前，根据叙事顺序，先有合作提议的提出，随后才有推广行动的实施。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b0e4b304aecf",
+    "subject_id": "ep_5c0b82475a76be3c",
+    "object_id": "ep_a446081e4a899bfc",
+    "relation_type": "precedes",
+    "reason": "根据描述，'应对宾馆老板的生意提议' 发生在程勇与宾馆老板对话并观察吕受益反应的场景中，而 '吕受益尝试建立联系并提出合作提议' 发生在后续场景（scene_15），其中吕受益主动献媚并提出走私仿制药的合作想法。related_events 中的 scene_14 与 scene_15 表明前者在叙事顺序上早于后者，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a44330861840",
+    "subject_id": "ep_a446081e4a899bfc",
+    "object_id": "ep_9ce9bc68acb10a7d",
+    "relation_type": "precedes",
+    "reason": "吕受益提出合作提议的情节（ep_a446081e4a899bfc）发生在程勇评估药品缺口并寻找英语沟通人选的情节（ep_9ce9bc68acb10a7d）之前，因为前者是启动药品采购合作的初始提议，而后者是基于已有合作框架下对供应问题的进一步行动。相关事件的时间顺序和叙事逻辑支持这一先后关系。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c7d34b8da781",
+    "subject_id": "ep_a446081e4a899bfc",
+    "object_id": "ep_deeb3152a91da8b7",
+    "relation_type": "precedes",
+    "reason": "吕受益尝试建立联系并提出合作提议发生在程勇与吕受益商议药品代购合作条件之前，前者为后者提供了动机和铺垫，且两个情节在叙事上具有连续性，前者提出合作想法，后者具体商谈条件。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e8c6e62aff95",
+    "subject_id": "ep_022b43c3c2998548",
+    "object_id": "ep_ef538d80eb5d8edc",
+    "relation_type": "precedes",
+    "reason": "主体情节描述程勇和吕受益初期推销印度仿制药失败，未能售出任何药品；客体情节描述吕受益成功分发药品并清点收入，表现出销售已步入正轨。两个情节共享药品销售的上下文，且从失败到成功的过程表明叙事上的时间 progression。文档 ID 从 doc_33 到 doc_40 也支持时间顺序，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_40__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_35c125d6a1fe",
+    "subject_id": "ep_0b7befac5dabfa98",
+    "object_id": "ep_44794cef49a2b00a",
+    "relation_type": "precedes",
+    "reason": "情节 '完成治疗并劝说吕受益坚持用药' 发生在医院场景中，涉及医生对吕受益的治疗和劝说，而 '促成吕受益与程勇的会面并提出代购请求' 发生在程勇的店内，由宾馆老板引荐。根据叙事逻辑和事件发展，吕受益在治疗失败后寻求其他购药途径，进而导致与程勇的会面，因此前者在时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d823d86898dd",
+    "subject_id": "ep_deeb3152a91da8b7",
+    "object_id": "ep_ef538d80eb5d8edc",
+    "relation_type": "precedes",
+    "reason": "商议药品代购合作条件发生在程勇与吕受益在卧室中讨论合同、市场需求和付款条件并达成初步合作意向的阶段，而完成药品分发并清点收入是后续实际执行代购交易的结果。根据叙事逻辑，商议合作条件必须在药品分发和收入清点之前发生，因此主体情节在时间顺序上先于客体情节。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_40__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_147ba62812f3",
+    "subject_id": "ep_b6084c7ea460cde5",
+    "object_id": "ep_ef538d80eb5d8edc",
+    "relation_type": "precedes",
+    "reason": "建立药品合作渠道的情节发生在吕受益实际参与药品分发和清点收入之前。程勇说服吕受益参与非法药品销售是后者执行分发和获利的前提，且两个情节在叙事上连续，前者为后者提供动机和组织基础。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_40__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3552548c7e38",
+    "subject_id": "ep_a446081e4a899bfc",
+    "object_id": "ep_b6084c7ea460cde5",
+    "relation_type": "precedes",
+    "reason": "吕受益尝试建立联系并提出合作提议发生在程勇展示药品进货渠道并说服其合作之前，叙事上前者为后者的铺垫，且事件序列显示吕受益先提出合作想法，程勇随后才展示渠道并推进合作。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_34d84e1e1105",
+    "subject_id": "ep_a446081e4a899bfc",
+    "object_id": "ep_e3208e13f5292ba8",
+    "relation_type": "precedes",
+    "reason": "吕受益尝试建立联系并提出合作提议发生在程勇与吕受益前往酒吧寻找思慧之前，根据叙事顺序，提出合作是后续行动的前提，且两个情节之间存在明确的时间先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c1f707cc04d6",
+    "subject_id": "ep_a446081e4a899bfc",
+    "object_id": "ep_c105fdd23e8f8f9a",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中吕受益提出合作走私仿制药的初步想法，第二个情节进一步扩展了该提议，通过强调药效真实性、自身用药经历以及邀请程勇加入病友群来加强劝说，构成对前一情节的补充和深化。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_20390248edc5",
+    "subject_id": "ep_a446081e4a899bfc",
+    "object_id": "ep_ef538d80eb5d8edc",
+    "relation_type": "precedes",
+    "reason": "吕受益尝试建立联系并提出合作提议发生在程勇团队开始药品分发之前，逻辑上必须先有合作提议和建立关系，才能进行后续的药品分发和收入清点。描述中前者为后续说服做铺垫，后者为实际交易执行，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_40__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cfeaec25dcb9",
+    "subject_id": "ep_b5e1254b6339700c",
+    "object_id": "ep_52edfe1d7245a032",
+    "relation_type": "causes",
+    "reason": "刘牧师授予程勇代理权这一情节直接导致程勇及其同伴庆祝获得代理权，文本中描述庆祝行为是因获得代理权而产生的情绪反应，构成明确的因果关系。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_da6268ee42b4",
+    "subject_id": "ep_c63397c39ff6cc5c",
+    "object_id": "ep_cfbf7a98831d64b6",
+    "relation_type": "precedes",
+    "reason": "思慧与程勇建立现场互动发生在思慧带领病友群群主抵达餐馆并组织自我介绍之前，根据描述中的叙事顺序，前者是两人之间的初始接触，后者是后续集体互动的开始，构成明确的时间先后关系。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aa6e556c6667",
+    "subject_id": "ep_075f6c999bbc8f7a",
+    "object_id": "ep_3d08e9392db10aa0",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中程勇质疑思慧的病人身份，第二个情节中吕受益解释她并非病人但因女儿患病而成为群主，提供了对思慧身份和动机的进一步解释，从而扩展并澄清了前一情节的信息。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_11aa6fc8f70b",
+    "subject_id": "ep_a446081e4a899bfc",
+    "object_id": "ep_e425de968eb89fb9",
+    "relation_type": "precedes",
+    "reason": "吕受益提出合作提议在叙事顺序上先于程勇的拒绝。描述中显示吕受益主动献媚并提出走私想法，随后程勇表现出抵触并拒绝，相关事件均发生在同一场景（scene_15），但逻辑和话语顺序支持提议先于拒绝。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_54a1eaa8684d",
+    "subject_id": "ep_46a5f16320ddf2c0",
+    "object_id": "ep_749e375efac62c8a",
+    "relation_type": "elaborates",
+    "reason": "情节'以诉讼威胁争夺抚养权'中前妻通过法律手段施压，引出律师提出经济补偿方案，进而触发程勇拒绝该提议并捍卫父子关系的情节。'拒绝经济补偿以保全儿子抚养权'提供了对前一威胁背景下具体应对和情感反应的进一步解释和扩展，因此前者被后者在叙事上加以详述。",
+    "source_documents": [
+      "scene_9__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_47eb0b93c7f3",
+    "subject_id": "ep_075f6c999bbc8f7a",
+    "object_id": "ep_cfbf7a98831d64b6",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在酒吧舞台，程勇观察思慧跳舞并质疑其病人身份（doc_35）；第二个情节发生在餐馆，思慧带领群主们与程勇会面并组织自我介绍（doc_37）。文档ID的顺序（doc_35 在 doc_37 之前）支持叙事时间顺序，且两个情节之间无因果、对比或扩展的明确证据，因此仅能确定前者在时间上先于后者。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.95
+  }
+]

@@ -1,0 +1,5805 @@
+[
+  {
+    "id": "rel_ep_ep_0eef40b23645",
+    "subject_id": "ep_5afc35d6b38505df",
+    "object_id": "ep_9c748330cb6ca15a",
+    "relation_type": "precedes",
+    "reason": "在同学会聚餐场景中，夏洛先通过夸张行为引起注意，随后才回应他人质疑并揭示演唱会筹备。相关事件在scene_12中的叙述顺序支持这一时间先后关系。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6d3975737325",
+    "subject_id": "ep_3efcff4ec63cbdf6",
+    "object_id": "ep_68e8f444178ca53c",
+    "relation_type": "precedes",
+    "reason": "根据描述，马冬梅现身制止夏洛闹剧发生在夏洛强行拉邱雅上台之前。在婚礼场景中，夏洛先醉酒失控并与马冬梅发生冲突，随后才夺麦克风拉邱雅上台，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a95ddfe8f430",
+    "subject_id": "ep_b65b28c23fae7895",
+    "object_id": "ep_78269c9df216ca64",
+    "relation_type": "precedes",
+    "reason": "夏洛无视训斥走向座位并测试现实发生在王老师升级羞辱并强迫朗读情书之前，根据描述顺序和事件流，夏洛的行为触发了王老师的反应，且两个情节共享同一场景（scene_21），叙事上前者紧接后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e6304402ab67",
+    "subject_id": "ep_d895ff51b3112cff",
+    "object_id": "ep_78269c9df216ca64",
+    "relation_type": "precedes",
+    "reason": "夏洛进入教室引发对峙是师生冲突的开端，随后王老师升级羞辱并强迫朗读情书，二者在同一个课堂场景（scene_21）中连续发生，叙事顺序明确，前者为后者的前提。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_80718ef19713",
+    "subject_id": "ep_c65b00b2168a294d",
+    "object_id": "ep_38a48ccf27706bbe",
+    "relation_type": "causes",
+    "reason": "王老师镇压全班并暴力逼迫夏洛，导致夏洛身心崩溃，直接引发其后续反抗并引发全班集体冲突。描述中显示夏洛在被抽打后出现眩晕与耳鸣，紧接着爆发飞踹王老师等行为，构成明确的因果链条。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8425ab31f952",
+    "subject_id": "ep_000a3c9be3e5c119",
+    "object_id": "ep_3efcff4ec63cbdf6",
+    "relation_type": "precedes",
+    "reason": "夏洛演唱并单膝跪地激化冲突发生在马冬梅现身制止夏洛闹剧之前，因为夏洛的行为导致气氛冻结、情感对抗达到顶点，随后马冬梅才介入试图带离夏洛，这一顺序在婚礼场景的事件流中有明确的时间先后支持。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_81c0abc6f413",
+    "subject_id": "ep_05efed31be348200",
+    "object_id": "ep_3efcff4ec63cbdf6",
+    "relation_type": "precedes",
+    "reason": "夏洛醉酒讽刺新郎激化矛盾发生在马冬梅现身制止夏洛闹剧之前，根据描述，夏洛的讽刺行为引发现场紧张，随后马冬梅才现身干预，二者发生在同一场合（邱雅的婚礼）中，且事件序列显示前者在叙事顺序上直接先于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_caef657ef722",
+    "subject_id": "ep_aabbf0aca9bc1dcd",
+    "object_id": "ep_8fd666c2fa963b61",
+    "relation_type": "precedes",
+    "reason": "邱雅发现自行车被破坏并质问夏洛发生在她道歉并表达对夏洛欣赏之前，因为情绪从愤怒质问转变为道歉和认可，符合叙事中误会解除前后的顺序。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5fc493cbdb27",
+    "subject_id": "ep_9df7f33fe4b9e605",
+    "object_id": "ep_098a4f055253917d",
+    "relation_type": "causes",
+    "reason": "夏洛失手打倒马冬梅导致其摔倒，现场气氛凝固，成为后续马冬梅持刀追砍夏洛的直接导火索，文本明确指出该事件是持刀追砍的直接触发点。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e4a014127b9a",
+    "subject_id": "ep_05efed31be348200",
+    "object_id": "ep_68e8f444178ca53c",
+    "relation_type": "precedes",
+    "reason": "夏洛醉酒讽刺新郎激化矛盾发生在其强行拉邱雅上台引发骚动之前，两个情节均发生在邱雅的婚礼场合中，且事件序列显示讽刺行为导致紧张升级，随后夏洛进一步行动夺麦克风拉人上台，叙事顺序明确。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b683a6847f5a",
+    "subject_id": "ep_78269c9df216ca64",
+    "object_id": "ep_b8f413c6db8d9752",
+    "relation_type": "causes",
+    "reason": "王老师升级羞辱并强迫朗读情书导致夏洛情绪激化，直接引发夏洛纵火行为。描述中明确指出夏洛在羞辱情境下情绪失控，随后立即采取极端行动，构成直接因果链。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0fe67a2a97f5",
+    "subject_id": "ep_664c7c30155253dc",
+    "object_id": "ep_aa6bda13736c49b0",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，夏洛强吻邱雅并陷入现实混淆发生在其向母亲告别并跳窗离场之前。相关事件序列显示，强吻与挣扎发生在跳窗前的同一场景中，且跳窗行为是该场景的最终动作，因此在叙事顺序上，前者明确早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_24251ccd489f",
+    "subject_id": "ep_3efcff4ec63cbdf6",
+    "object_id": "ep_098a4f055253917d",
+    "relation_type": "causes",
+    "reason": "马冬梅现身制止夏洛闹剧的情节中，夏洛怒吼推搡马冬梅，导致她情绪失控从蛋糕塔抽出切刀追砍夏洛，直接引发现场混乱。文本描述了从干预失败到暴力爆发的直接因果链，支持前者导致后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eb245509cc7e",
+    "subject_id": "ep_d895ff51b3112cff",
+    "object_id": "ep_b8f413c6db8d9752",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，夏洛进入教室引发对峙是冲突的开端，随后在同场景中发展为夏洛纵火并引发混乱，最终母亲赶到。事件序列在related_events中按时间顺序呈现，支持前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7c84b26a0127",
+    "subject_id": "ep_d895ff51b3112cff",
+    "object_id": "ep_38a48ccf27706bbe",
+    "relation_type": "precedes",
+    "reason": "夏洛进入教室引发对峙是冲突的开端，随后夏洛反抗并集体爆发冲突是其升级结果。两个情节均发生在同一场景（scene_21），且事件序列显示对峙先于集体暴力爆发，具有明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6812ac82564b",
+    "subject_id": "ep_e5ba310f6e61d193",
+    "object_id": "ep_1fa611e282ed0614",
+    "relation_type": "precedes",
+    "reason": "夏洛表演《双节棍》并引爆现场发生在宣布获奖结果并举行颁奖合影之前，两者均在中小学生歌手大赛的同一场景（scene_48）中，且表演环节逻辑上先于颁奖环节。文本中表演为比赛中的呈现，而颁奖为后续结果公布，支持明确的时间顺序。",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_95e1f73beae3",
+    "subject_id": "ep_05efed31be348200",
+    "object_id": "ep_000a3c9be3e5c119",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在邱雅的婚礼（scene_18）中，且夏洛醉酒讽刺新郎的行为在叙事逻辑上早于其演唱并单膝跪地的举动，前者引发紧张气氛升级，后者使情感对抗达到顶点，表明前者在时间顺序上先于后者发生。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ee31c4144cfb",
+    "subject_id": "ep_bf37530d21302a84",
+    "object_id": "ep_cea7b0dad303ddbf",
+    "relation_type": "precedes",
+    "reason": "夏洛公开演唱《星晴》引发全校响应的情节在叙事顺序上明确早于马冬梅介入广播引发混乱。描述中指出，马冬梅是在歌曲结束后通过广播喊话，导致后续混乱，因此存在清晰的时间先后顺序。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b58b31638829",
+    "subject_id": "ep_78269c9df216ca64",
+    "object_id": "ep_38a48ccf27706bbe",
+    "relation_type": "causes",
+    "reason": "王老师升级羞辱并强迫朗读情书直接导致夏洛反抗并引发集体冲突。描述中明确指出王老师的羞辱行为激化了矛盾，夏洛因长期压抑而爆发，进而引发全班围殴王老师，构成直接的因果链条。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5a39cb49247d",
+    "subject_id": "ep_eacb9c31732ff6af",
+    "object_id": "ep_e1ce5fefe5e4714e",
+    "relation_type": "precedes",
+    "reason": "夏洛回家并展现异常亲昵行为包括主动拥抱母亲，标志着其行为异常的开始；随后在镜子前整理仪容后离开，是回家后外在表现序列的延续。两个情节共享同一场合（王姨的驱邪仪式到访），且描述中暗示了行为序列的时间顺序，前者为后者提供情感和行为基调，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a22d97c0ab45",
+    "subject_id": "ep_b65b28c23fae7895",
+    "object_id": "ep_aa6bda13736c49b0",
+    "relation_type": "precedes",
+    "reason": "根据描述，夏洛先无视训斥走向座位并测试现实，随后才发生跳窗离场的行为。两个情节均发生在同一场景（scene_21）中，且事件序列显示测试现实的行为在跳窗之前，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0d2de645bc46",
+    "subject_id": "ep_3efcff4ec63cbdf6",
+    "object_id": "ep_c19cb8231f63a919",
+    "relation_type": "precedes",
+    "reason": "根据相关事件序列，马冬梅现身制止夏洛闹剧（如拉拽、被推倒、质问）发生在她揭露夏洛虚荣与依赖（如指责乱花钱、展示未摘价签）之前，两个情节均发生在邱雅的婚礼场景中，且事件链显示干预行为先于公开揭露，叙事顺序明确。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a54d25f27645",
+    "subject_id": "ep_b65b28c23fae7895",
+    "object_id": "ep_b8f413c6db8d9752",
+    "relation_type": "precedes",
+    "reason": "根据描述，夏洛无视训斥走向座位并测试现实发生在教室纵火事件之前，且两个情节共享同一场景（scene_21），表明它们在叙事顺序中紧密相连。夏洛先表现出怀疑和冷静观察，随后情绪激荡引发纵火行为，叙事时间线上有明确先后顺序。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1414e709ce51",
+    "subject_id": "ep_45ea11a0977a78b0",
+    "object_id": "ep_38a48ccf27706bbe",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，夏洛察觉环境异常并产生困惑（如发现走廊异变、张扬使眼色、原地转圈）发生在冲突爆发前，是冲突升级的前奏；随后夏洛飞踹王老师并引发集体围殴，标志着反抗高潮。文本中事件序列清晰支持该顺序。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_73e5766bde06",
+    "subject_id": "ep_38a48ccf27706bbe",
+    "object_id": "ep_39e99a1843d86da0",
+    "relation_type": "precedes",
+    "reason": "情节'夏洛反抗并集体爆发冲突'中的事件（如围殴王老师、袁华离开教室）在叙事顺序上直接早于'校方介入并试图控制局势'中的事件（袁华带校长和教导主任进入教室、教导主任喝令住嘴、校长劝导夏洛）。相关事件的时间顺序和场景连续性明确支持该关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ee5ffc0f2983",
+    "subject_id": "ep_b65b28c23fae7895",
+    "object_id": "ep_38a48ccf27706bbe",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，夏洛无视训斥走向座位并测试现实（如抚摸课桌、掐马冬梅脸）发生在冲突爆发前，是冲突升级的前置行为。描述中显示夏洛冷静观察后才发生后续的飞踹和集体围殴，表明该情节在叙事顺序上早于反抗爆发。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ff3ef0efcdef",
+    "subject_id": "ep_f879e11ef060b1e8",
+    "object_id": "ep_fb23f2d7958a2066",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中夏洛基于男女比例问题建议大春追求恋爱机会，第二个情节中夏洛进一步劝说大春放弃学业投资房产，两者均围绕夏洛为大春规划人生路径的同一叙事脉络展开；第二个情节扩展了第一个情节中‘放弃学业’的建议，提供了更具体的经济动议，形成递进式阐述。",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_917d86d8e4f9",
+    "subject_id": "ep_78269c9df216ca64",
+    "object_id": "ep_aa6bda13736c49b0",
+    "relation_type": "precedes",
+    "reason": "王老师升级羞辱并强迫朗读情书发生在夏洛告别母亲后跳窗离场之前，两个情节均发生在scene_21，且强迫朗读情书导致马冬梅误解离场，为后续夏洛的情感告别和跳窗行为提供了直接叙事铺垫，时间顺序明确。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_362c67f97916",
+    "subject_id": "ep_73b73ce1dd5c27b2",
+    "object_id": "ep_71105c751993f976",
+    "relation_type": "elaborates",
+    "reason": "揭露夏洛写情诗的往事提供了关于夏洛过去行为的背景信息，这一背景在夏洛身份暴露并化解尴尬的情节中被提及并引发集体反应，说明该往事的揭露扩展了对当前尴尬情境的理解，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ee6e78100568",
+    "subject_id": "ep_3efcff4ec63cbdf6",
+    "object_id": "ep_9df7f33fe4b9e605",
+    "relation_type": "causes",
+    "reason": "马冬梅现身制止夏洛闹剧这一情节中，夏洛的激烈反抗和推搡行为直接升级为后续的暴力事件，即夏洛失手打倒马冬梅。描述中明确指出该事件成为‘后续持刀追砍事件的直接导火索’，表明前一情节中的冲突升级直接引发了后一情节的身体暴力，具有明确的因果链条。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bbb696f021e4",
+    "subject_id": "ep_2792cdf784fac231",
+    "object_id": "ep_f11c0de99ef408fe",
+    "relation_type": "precedes",
+    "reason": "根据描述，孟特与婉婉评论同学现状并批评张扬发生在张扬炫耀并集体质问夏洛之前，两者均发生在同学会聚餐中，且事件序列显示评论和批评在先，张扬的反应及对夏洛的质问在后，符合叙事顺序上的先后关系。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b15d7ae29b84",
+    "subject_id": "ep_637c6bb4083266d3",
+    "object_id": "ep_8edf4ae47364a0b0",
+    "relation_type": "precedes",
+    "reason": "根据描述，袁华先掩饰情绪并否认情感困扰，随后在柳树下追逐邱雅并砸树泄愤，表现出情感崩溃的升级。两个情节发生在同一场景（scene_29），但掩饰情绪的行为逻辑上早于公开爆发，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3054717859d6",
+    "subject_id": "ep_23b6602c47cb833b",
+    "object_id": "ep_749bdfbd6e6d7db0",
+    "relation_type": "causes",
+    "reason": "袁华在掩盖真实活动并伪装学习的过程中，其行为直接导致了后续手肘意外触碰鼠标的动作，从而恢复色情网站画面。伪装学习时的肢体动作（捏眉心）是引发暴露风险的直接原因，文本中事件序列和动作逻辑支持这一因果关系。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e41786e964bd",
+    "subject_id": "ep_b65b28c23fae7895",
+    "object_id": "ep_c65b00b2168a294d",
+    "relation_type": "precedes",
+    "reason": "根据描述，夏洛无视训斥走向座位并测试现实发生在王老师镇压全班反应并暴力逼迫夏洛之前。相关事件序列显示，夏洛先坐下并掐马冬梅的脸，随后大春被踹、马冬梅离场，最后王老师回到夏洛身边施加暴力，表明前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_52d916e45030",
+    "subject_id": "ep_664c7c30155253dc",
+    "object_id": "ep_39e99a1843d86da0",
+    "relation_type": "precedes",
+    "reason": "夏洛强吻邱雅并陷入现实混淆的情节在时间顺序上先于校方介入并试图控制局势。描述中显示，夏洛的行为引发混乱后，袁华才带校长和教导主任赶到现场，且两个情节共享同一场景（scene_21），事件序列表明前者直接触发了后者的响应行动。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fef1598de2d0",
+    "subject_id": "ep_733eb095f6643291",
+    "object_id": "ep_3efcff4ec63cbdf6",
+    "relation_type": "precedes",
+    "reason": "下课后马冬梅拦截夏洛索要歌曲发生在邱雅婚礼之前，根据叙事时间线，校园场景（doc_30）早于婚礼高潮场景（doc_17），且两个情节分别属于不同时间段的事件集群，前者属于学生时代日常，后者属于成年后婚礼场合，存在明确的时间先后顺序。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b6feb99abfc1",
+    "subject_id": "ep_c19cb8231f63a919",
+    "object_id": "ep_9df7f33fe4b9e605",
+    "relation_type": "precedes",
+    "reason": "根据描述，马冬梅揭露夏洛虚荣与依赖的情节中包含‘冬梅抓住夏洛衣领展示未摘价签的演出服’，这一行为直接引发后续争执，导致夏洛失手打倒马冬梅。因此，该情节在叙事顺序上先于暴力事件发生，且两个情节共享同一场景（邱雅的婚礼 scene_18），支持时间上的先后关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a2c27b6fbaf4",
+    "subject_id": "ep_d895ff51b3112cff",
+    "object_id": "ep_b65b28c23fae7895",
+    "relation_type": "precedes",
+    "reason": "夏洛进入教室引发对峙（ep_d895ff51b3112cff）包含王老师质问夏洛未带母亲来校并命令他离开，随后夏洛无视训斥走向座位并测试现实（ep_b65b28c23fae7895），在叙事顺序上前者明确早于后者，且相关事件链显示行为的连续性。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eb3276aa0b32",
+    "subject_id": "ep_68e8f444178ca53c",
+    "object_id": "ep_000a3c9be3e5c119",
+    "relation_type": "precedes",
+    "reason": "夏洛强行拉邱雅上台引发骚动（ep_68e8f444178ca53c）发生在演唱并单膝跪地激化冲突（ep_000a3c9be3e5c119）之前，因为拉上台是演唱和后续跪地行为的前提，且两个情节均发生在同一场合（邱雅的婚礼）中，叙事顺序明确。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cc862d177944",
+    "subject_id": "ep_d895ff51b3112cff",
+    "object_id": "ep_c65b00b2168a294d",
+    "relation_type": "precedes",
+    "reason": "根据描述，夏洛进入教室引发对峙是师生冲突的开端，随后王老师镇压全班反应并暴力逼迫夏洛，事件在叙事顺序上明确先后发生，且两个情节共享同一场景（scene_21）的上下文。因此，'夏洛进入教室引发对峙'在时间顺序上先于'王老师镇压全班反应并暴力逼迫夏洛'。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_78dcc7b8db32",
+    "subject_id": "ep_38a48ccf27706bbe",
+    "object_id": "ep_b8f413c6db8d9752",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序和场景编号（均为scene_21），夏洛反抗并集体爆发冲突中的事件（如夏洛飞踹王老师、众人围殴等）在叙事顺序上先于夏洛纵火引发混乱并迎接母亲中的事件（如夏洛索要打火机、点燃窗帘、母亲赶到等）。描述中冲突发生在前，随后才是纵火及母亲到来，因此主体情节在时间上早于客体情节。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9e21f1d80c9c",
+    "subject_id": "ep_eacb9c31732ff6af",
+    "object_id": "ep_0798422c73e5e235",
+    "relation_type": "precedes",
+    "reason": "夏洛回家并展现异常亲昵行为（ep_eacb9c31732ff6af）发生在同一场景（scene_34）的早期，表现为拥抱母亲和王姨，标志着其行为异常的开始；随后夏洛干预母亲吸烟并施加控制（ep_0798422c73e5e235）在同一场景中发生，作为其异常行为的延续。文本描述中明确将前者标记为‘行为异常的开始’，后者为‘异常心理状态的延续’，支持前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_86af65c40555",
+    "subject_id": "ep_78269c9df216ca64",
+    "object_id": "ep_c65b00b2168a294d",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述王老师升级羞辱并强迫夏洛朗读情书，导致马冬梅误解离场；第二个情节紧随其后，描述在马冬梅离场后王老师继续镇压全班并暴力逼迫夏洛，使用书本抽打导致其身心崩溃。两个情节共享同一场景（scene_21），且第二个情节中的事件（如王老师回到夏洛身边再次命令朗读）明确发生在第一个情节之后，构成清晰的叙事时序推进。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6fab0863e6f7",
+    "subject_id": "ep_b8f413c6db8d9752",
+    "object_id": "ep_aa6bda13736c49b0",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，夏洛纵火引发混乱并迎接母亲（ep_b8f413c6db8d9752）包含夏洛向母亲道歉并抢下香烟等行为，而夏洛告别母亲后跳窗离场（ep_aa6bda13736c49b0）紧接其后，描述了抢下香烟后亲吻邱雅并跳窗的行动。事件序列在scene_21中连续发生，且跳窗行为在纵火与母子互动之后，叙事顺序明确。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_56743f9e6b57",
+    "subject_id": "ep_2b430e0795da2dd0",
+    "object_id": "ep_738d7b7165c83f23",
+    "relation_type": "precedes",
+    "reason": "袁华登场引发关注与崇拜发生在篮球场日常训练与对峙场景中，随后因张扬提及夏洛和其父关系导致袁华情绪失控愤然离场，两个情节共享同一场合且叙事顺序明确，前者在时间上先于后者。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f2a8022af30f",
+    "subject_id": "ep_c301dc72f0de11a8",
+    "object_id": "ep_738d7b7165c83f23",
+    "relation_type": "causes",
+    "reason": "张扬挑衅袁华并引发言语冲突直接导致袁华情绪失控愤然离场；描述中明确指出袁华在被嘲讽后情绪激动、摔球离开，且两情节共享同一场景和事件链，构成直接因果关系。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e19f3504abb3",
+    "subject_id": "ep_a249753761eeeebe",
+    "object_id": "ep_60c24c34f0ce7ca5",
+    "relation_type": "precedes",
+    "reason": "夏洛从昏迷中醒来并确认现实是其情绪崩溃和逃离医院的前提，描述中显示她在确认现实后经历混乱和惊恐，继而赤脚冲出房间，因此'确认现实并应对创伤'在叙事顺序上早于'惊恐逃离医院'。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7839ad3403a5",
+    "subject_id": "ep_63ab33c69d11cfc8",
+    "object_id": "ep_000a3c9be3e5c119",
+    "relation_type": "precedes",
+    "reason": "夏洛回忆创作歌曲并决定献唱发生在演唱并单膝跪地之前，作为其情感铺垫和动机说明，叙事顺序上明确先有回忆与决定，后有登台行动。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0d08e02a0512",
+    "subject_id": "ep_38a48ccf27706bbe",
+    "object_id": "ep_ace48f07d8574c9d",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'夏洛反抗并集体爆发冲突' 发生在 scene_21，而 '夏洛强占座位引发连锁换座' 发生在 scene_31，scene_21 在叙事顺序上早于 scene_31，因此前者在时间上先于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7429b106bf3b",
+    "subject_id": "ep_45ea11a0977a78b0",
+    "object_id": "ep_dae9ba965b09b285",
+    "relation_type": "precedes",
+    "reason": "夏洛先察觉环境异常并产生困惑，随后通过环顾教室并识别细节确认自己身处重复梦境，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_63c0bde6bace",
+    "subject_id": "ep_b8d976e713a8dae1",
+    "object_id": "ep_c823ce8af1259a99",
+    "relation_type": "precedes",
+    "reason": "夏洛在自行车棚被大春拦住后，急于摆脱以继续对邱雅的搭讪计划，紧接着他手持汽水向邱雅解释并表达真心。两个情节共享同一场景（scene_49）且叙事顺序连贯，前者为后者铺路。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7b1f1a93ff89",
+    "subject_id": "ep_63ab33c69d11cfc8",
+    "object_id": "ep_68e8f444178ca53c",
+    "relation_type": "precedes",
+    "reason": "夏洛回忆创作歌曲并决定献唱发生在其强行拉邱雅上台引发骚动之前，两个情节均发生在邱雅的婚礼场景中，且情感铺垫在前，冲突爆发在后，叙事顺序明确。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3bf366d96bfb",
+    "subject_id": "ep_dae9ba965b09b285",
+    "object_id": "ep_38a48ccf27706bbe",
+    "relation_type": "precedes",
+    "reason": "夏洛确认自己身处重复梦境发生在冲突爆发之前，因为他在意识到梦境后才开始对王老师采取反抗行动，时间顺序在描述中明确。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_034bd97bc9cb",
+    "subject_id": "ep_7ea5242c3f89b9d9",
+    "object_id": "ep_d404d78c8f46a002",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_31）中，但根据事件顺序，夏洛请求换座位及王老师质疑其动机发生在先，随后王老师宣布袁华获奖并引发夏洛质疑比赛公平性，叙事顺序支持前者早于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ae537e0ab4b2",
+    "subject_id": "ep_8f94fc372ee0163a",
+    "object_id": "ep_6eea45bcd6d1965b",
+    "relation_type": "causes",
+    "reason": "校长宣布开除决定后，夏洛母亲持续施加舆论压力，导致校长最终妥协并更改处分。描述中表明这一系列行为具有直接因果链：开除决定引发抗议，进而导致处分变更。因此，宣布开除是促成妥协的直接前提，符合‘causes’关系的条件。",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ee40f6a3a739",
+    "subject_id": "ep_dae9ba965b09b285",
+    "object_id": "ep_d895ff51b3112cff",
+    "relation_type": "precedes",
+    "reason": "夏洛确认自己身处重复梦境在逻辑和叙事顺序上早于他进入教室引发对峙，因为识别梦境场景是后续与王老师冲突的前提，且相关事件均发生在同一场景（scene_21）中，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b5c9fe1bd10e",
+    "subject_id": "ep_d404d78c8f46a002",
+    "object_id": "ep_38a48ccf27706bbe",
+    "relation_type": "causes",
+    "reason": "表扬袁华获奖并引发公平性质疑这一情节中，夏洛当堂质疑比赛公平性，导致师生争执，为后续夏洛反抗并集体爆发冲突提供了直接导火索。文本中夏洛的质疑行为与后续全班围殴王老师的爆发在因果链上紧密衔接，且共享同一冲突升级脉络，支持‘causes’关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f21bfa60804f",
+    "subject_id": "ep_05efed31be348200",
+    "object_id": "ep_c19cb8231f63a919",
+    "relation_type": "contrasts_with",
+    "reason": "夏洛醉酒讽刺新郎展现其情绪化与冲动行为，而马冬梅揭露夏洛虚荣与依赖则揭示其经济与道德层面的问题，两者在同一婚礼场合下并置，形成情感表达与道德批判的对比，突显夏洛在公共场合的多重形象冲突。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7fc757d92188",
+    "subject_id": "ep_d895ff51b3112cff",
+    "object_id": "ep_aa6bda13736c49b0",
+    "relation_type": "precedes",
+    "reason": "根据描述，夏洛先进入教室引发对峙，随后在情绪激动的发展中跳窗离场；两个情节共享同一场景（scene_21）且事件序列在叙事上连贯，表明前者在时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_409d779c6045",
+    "subject_id": "ep_05efed31be348200",
+    "object_id": "ep_098a4f055253917d",
+    "relation_type": "causes",
+    "reason": "夏洛醉酒讽刺新郎激化矛盾导致现场紧张气氛升级，为马冬梅后续持刀追砍夏洛提供了情绪导火索；两个情节均发生在同一婚礼场合，且描述中显示事件逐步升级，从言语冲突发展为暴力失控，具有直接因果推进关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_508a918b7c35",
+    "subject_id": "ep_dae9ba965b09b285",
+    "object_id": "ep_aa6bda13736c49b0",
+    "relation_type": "precedes",
+    "reason": "夏洛确认自己身处重复梦境发生在跳窗离场之前，因为他在意识到梦境后才采取行动告别母亲并跳窗，叙事顺序上清晰可辨。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f0ac9415b811",
+    "subject_id": "ep_68e8f444178ca53c",
+    "object_id": "ep_098a4f055253917d",
+    "relation_type": "causes",
+    "reason": "夏洛强行拉邱雅上台引发骚动，导致马冬梅受辱后持刀追砍夏洛，婚礼现场彻底失控。两个情节发生在同一场合（邱雅的婚礼），且描述中显示前者直接触发后者的情绪爆发与暴力行为，具有明确的因果链条。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0bfb8e8d09bb",
+    "subject_id": "ep_b65b28c23fae7895",
+    "object_id": "ep_45ea11a0977a78b0",
+    "relation_type": "precedes",
+    "reason": "夏洛无视训斥走向座位并测试现实发生在夏洛察觉环境异常并产生困惑之前，因为他在走向座位并掐马冬梅的脸以验证现实后，才回头发现走廊异变并表现出震惊和转圈确认，叙事顺序上前者为后者铺垫。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4827ac0da519",
+    "subject_id": "ep_000a3c9be3e5c119",
+    "object_id": "ep_098a4f055253917d",
+    "relation_type": "causes",
+    "reason": "夏洛在婚礼上单膝跪地激化冲突，导致马冬梅情绪失控持刀追砍，文本中描述马冬梅是在夏洛举动后受辱而爆发，构成直接因果链。两个情节均发生在同一场合'邱雅的婚礼'，且事件序列显示情感升级的即时后果。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5e99c17d1110",
+    "subject_id": "ep_76841c3d60987399",
+    "object_id": "ep_cdad5afd627cdadb",
+    "relation_type": "contrasts_with",
+    "reason": "主体情节描述夏洛妈和王姨因夏洛的怪笑而担忧并观察其行为，体现出对外部异常表现的焦虑解读；客体情节描述夏洛通过自弹自唱表达自我，展现其内在情感与艺术能力。两个情节发生在同一场景（scene_36），并置呈现了外界对夏洛行为的误解与夏洛真实意图之间的对比，形成情感与认知上的张力。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b587cf259cbd",
+    "subject_id": "ep_0b79617d4f11641a",
+    "object_id": "ep_88bd16d07aa9f3b3",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序和场景连贯性，夏洛察觉大春对马冬梅的好感并转移话题发生在夏洛卖车轮搭讪失败并被锁车之前。两个情节均发生在scene_49，但前者涉及夏洛与大春的互动以转移注意力，后者紧接着描述夏洛试图向邱雅示好并遭遇失败，叙事顺序清晰。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fb0b72a3bfaa",
+    "subject_id": "ep_78269c9df216ca64",
+    "object_id": "ep_90969d5ed78bdd01",
+    "relation_type": "precedes",
+    "reason": "王老师在课堂上羞辱夏洛并强迫其朗读情书（ep_78269c9df216ca64）发生在夏洛和马冬梅被带到办公室训斥并接受歌手大赛任务（ep_90969d5ed78bdd01）之前，文本中事件顺序清晰：课堂冲突导致后续办公室问责，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a8da7eb5f2ce",
+    "subject_id": "ep_45ea11a0977a78b0",
+    "object_id": "ep_664c7c30155253dc",
+    "relation_type": "precedes",
+    "reason": "夏洛察觉环境异常并产生困惑发生在其强吻邱雅并陷入现实混淆之前，两个情节均发生在同一场景（scene_21）中，且从行为逻辑和叙事顺序上看，困惑与怀疑先于暴力宣泄和强吻行为，构成明确的时间先后关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1a04c0286110",
+    "subject_id": "ep_45ea11a0977a78b0",
+    "object_id": "ep_78269c9df216ca64",
+    "relation_type": "precedes",
+    "reason": "夏洛察觉环境异常并产生困惑发生在王老师升级羞辱并强迫朗读情书之前，根据描述，夏洛在被斥责后回头发现异变，随后王老师因他擅自回座而暴怒并升级冲突，表明前者在叙事顺序上直接先于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_72861ccf786a",
+    "subject_id": "ep_45ea11a0977a78b0",
+    "object_id": "ep_c65b00b2168a294d",
+    "relation_type": "precedes",
+    "reason": "夏洛察觉环境异常并产生困惑发生在王老师镇压全班反应并暴力逼迫夏洛之前，根据描述顺序和事件流，夏洛的困惑反应先于王老师进一步施加暴力的行为，且两者共享同一场合'课堂上的日常教学活动'，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7882ff0a0f39",
+    "subject_id": "ep_dae9ba965b09b285",
+    "object_id": "ep_664c7c30155253dc",
+    "relation_type": "precedes",
+    "reason": "夏洛确认自己身处重复梦境是其意识到当前情境为梦的初始认知状态，随后才发生强吻邱雅并陷入现实混淆的行为。相关事件如夏洛环顾教室、识别梦境特征发生在先，而强吻、试图唤醒等行为在后，支持该时间顺序。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1c7561833dca",
+    "subject_id": "ep_68e8f444178ca53c",
+    "object_id": "ep_c19cb8231f63a919",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，夏洛强行拉邱雅上台引发骚动后，马冬梅才在众人面前揭露夏洛的虚荣与依赖行为。两个情节均发生在同一场合（邱雅的婚礼）的连续场景中，且事件序列显示冲突升级的逻辑顺序：先有夏洛的举动引发质疑，随后马冬梅进一步揭露其品行问题。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1b82ecae1f8d",
+    "subject_id": "ep_733eb095f6643291",
+    "object_id": "ep_dc9e37e8e9841f5b",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'向邱雅道歉引发情感反应'（doc_29）发生在'下课后马冬梅拦截夏洛索要歌曲'（doc_30）之前，文档ID表明叙事顺序为doc_29先于doc_30，因此该关系为precedes，方向为ep_dc9e37e8e9841f5b -> ep_733eb095f6643291。但因输入中主体为ep_733eb095f6643291，客体为ep_dc9e37e8e9841f5b，故主体在客体之后发生，不满足precedes(subject->object)方向。反向亦无支持。因此原判断错误。重新评估：两个情节无直接因果、对比或扩展关系，且时间顺序与输入方向相反，无法构成允许的有向关系。故无充分支持任何允许关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2aa944124ea3",
+    "subject_id": "ep_b65b28c23fae7895",
+    "object_id": "ep_dae9ba965b09b285",
+    "relation_type": "precedes",
+    "reason": "夏洛无视训斥走向座位并测试现实发生在夏洛确认自己身处重复梦境之前，因为测试现实（如抚摸课桌、掐马冬梅的脸）是其确认梦境重现的必要前提步骤，且两个情节共享同一场景和上下文，叙事顺序上前者为后者的直接铺垫。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b8a6203427b2",
+    "subject_id": "ep_d895ff51b3112cff",
+    "object_id": "ep_45ea11a0977a78b0",
+    "relation_type": "precedes",
+    "reason": "夏洛进入教室引发对峙发生在先，随后他被斥责并回头发现走廊异变，表现出困惑。事件序列在描述中呈现清晰的叙事时序：先进入教室、发生冲突、被斥责，之后才出现环境异常的察觉。因此，'夏洛进入教室引发对峙'在叙事顺序上早于'夏洛察觉环境异常并产生困惑'。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0485eef89eea",
+    "subject_id": "ep_45ea11a0977a78b0",
+    "object_id": "ep_b8f413c6db8d9752",
+    "relation_type": "precedes",
+    "reason": "夏洛察觉环境异常并产生困惑发生在夏洛纵火引发混乱并迎接母亲之前，两个情节均发生在同一场景（scene_21）中，且从行为逻辑和叙事顺序上看，夏洛的困惑是其后续激烈情绪反应和纵火行为的前置心理状态，文本中事件序列支持这一时间先后关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f5ca54ef05b5",
+    "subject_id": "ep_dae9ba965b09b285",
+    "object_id": "ep_78269c9df216ca64",
+    "relation_type": "precedes",
+    "reason": "夏洛确认自己身处重复梦境发生在王老师升级羞辱并强迫朗读情书之前，因为夏洛必须先意识到自己在梦境中，随后才发生与王老师的冲突事件。描述中显示夏洛环顾教室、识别环境细节并意识到梦境重现，这是后续互动的前提，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f2f5aee5e10a",
+    "subject_id": "ep_05efed31be348200",
+    "object_id": "ep_9df7f33fe4b9e605",
+    "relation_type": "precedes",
+    "reason": "根据描述，夏洛醉酒讽刺新郎导致现场紧张气氛升级，随后在争执中失手打倒马冬梅，引发暴力升级。两个情节均发生在同一场合‘邱雅的婚礼’中，且‘失手打倒马冬梅’被明确描述为‘后续持刀追砍事件的直接导火索’，暗示其发生在讽刺事件之后。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c838563770d7",
+    "subject_id": "ep_dae9ba965b09b285",
+    "object_id": "ep_b8f413c6db8d9752",
+    "relation_type": "precedes",
+    "reason": "夏洛确认自己身处重复梦境发生在纵火事件之前，因为只有在意识到梦境后，他才可能在该梦境情境中采取后续行动如纵火；两个情节共享同一场景（scene_21）和场合（课堂上的日常教学活动），但逻辑上意识觉醒先于行为实施。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5f5c8f4aea03",
+    "subject_id": "ep_45ea11a0977a78b0",
+    "object_id": "ep_39e99a1843d86da0",
+    "relation_type": "precedes",
+    "reason": "夏洛察觉环境异常并产生困惑（ep_45ea11a0977a78b0）包含夏洛惊慌转圈、发现走廊异变等行为，发生在教导主任喝令住嘴和校长介入劝导之前，根据场景时序逻辑，个体困惑反应先于校方权威介入，叙事顺序支持该方向。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4abc508c4162",
+    "subject_id": "ep_7ea5242c3f89b9d9",
+    "object_id": "ep_6823678369a64106",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对夏洛的换座请求并质疑其动机'包含夏洛首次提出换座请求及王老师质疑其动机的行为，客体情节'驳回换座请求并训斥夏洛'描述了后续王老师因夏洛继续请求而加以训斥并最终拒绝的过程。根据事件顺序，质疑动机发生在训斥之前，且两个情节共享同一场景(scene_31)中的连续互动，因此主体情节在叙事顺序上先于客体情节。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_09a7046569e6",
+    "subject_id": "ep_b65b28c23fae7895",
+    "object_id": "ep_664c7c30155253dc",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，夏洛无视训斥走向座位并测试现实（如抚摸课桌、掐马冬梅）发生在强吻邱雅之前。描述中显示夏洛先验证现实，随后才对邱雅采取行动，表明该情节在叙事顺序上早于强吻事件。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1e465d3c44c8",
+    "subject_id": "ep_93640d97cdfc1ac8",
+    "object_id": "ep_733eb095f6643291",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'夏洛向邱雅示好并遭马冬梅阻挠' 发生在教室内夏洛主动示好的阶段，包括划线、唱歌被打断等事件；而 '下课后马冬梅拦截夏洛索要歌曲' 发生在下课铃响之后，时间顺序明确。related_events 中均指向 scene_31，但前者为课中行为，后者为下课后行为，支持前者在叙事上先于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a92325e89e9c",
+    "subject_id": "ep_d895ff51b3112cff",
+    "object_id": "ep_39e99a1843d86da0",
+    "relation_type": "precedes",
+    "reason": "夏洛进入教室引发对峙（ep_d895ff51b112cff）中，夏洛与王老师发生言语冲突，导致事态升级；随后校方介入并试图控制局势（ep_39e99a1843d86da0）中，校长与教导主任被袁华带来处理现场。相关事件的时间顺序和叙事流程表明前者在后者之前发生，且后者是对前者引发的混乱的响应。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3f44209fd951",
+    "subject_id": "ep_68e8f444178ca53c",
+    "object_id": "ep_9df7f33fe4b9e605",
+    "relation_type": "precedes",
+    "reason": "根据描述，夏洛强行拉邱雅上台引发骚动后，冲突全面爆发，随后在同场景中夏洛与马冬梅发生争执并失手将其打倒，导致暴力升级。两个情节均发生在同一场合（邱雅的婚礼）的连续叙事中，且‘失手打倒马冬梅’被明确描述为‘后续持刀追砍事件的直接导火索’，暗示其发生在前一冲突之后。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f91373a70b9f",
+    "subject_id": "ep_c65b00b2168a294d",
+    "object_id": "ep_39e99a1843d86da0",
+    "relation_type": "precedes",
+    "reason": "王老师镇压全班并暴力逼迫夏洛发生在校方介入之前，根据事件序列，王老师的行为导致局势升级，随后袁华带校长和教导主任赶到现场，表明该情节在叙事顺序上紧接其前。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7330c0ab82a8",
+    "subject_id": "ep_78269c9df216ca64",
+    "object_id": "ep_664c7c30155253dc",
+    "relation_type": "precedes",
+    "reason": "王老师升级羞辱并强迫朗读情书导致马冬梅误解离场，这一冲突激化后，夏洛在情绪失控下强吻邱雅并陷入现实混淆。两个情节共享同一场景（scene_21），且事件序列显示王老师的羞辱行为在先，夏洛的强吻与精神崩溃在后，叙事顺序明确。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c585cd3cf160",
+    "subject_id": "ep_78269c9df216ca64",
+    "object_id": "ep_39e99a1843d86da0",
+    "relation_type": "precedes",
+    "reason": "王老师升级羞辱并强迫朗读情书导致马冬梅误解离场，冲突激化，随后袁华带校长与教导主任赶到现场，校方介入试图控制局势。两个情节均发生在同一场景（scene_21），且事件序列显示羞辱行为在先，校方介入在后，具有明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_995331b30c41",
+    "subject_id": "ep_d895ff51b3112cff",
+    "object_id": "ep_664c7c30155253dc",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'夏洛进入教室引发对峙' 包含夏洛进入教室、王老师质问及言语冲突等事件，发生在情节早期阶段；而 '夏洛强吻邱雅并陷入现实混淆' 描述的是后续升级行为，包括强吻和精神混乱，且两个情节共享同一场景（scene_21）和场合（课堂上的日常教学活动），表明它们处于同一连续时序中。事件序列的逻辑顺序和文本描述的进展支持前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_11def90d1520",
+    "subject_id": "ep_b65b28c23fae7895",
+    "object_id": "ep_39e99a1843d86da0",
+    "relation_type": "precedes",
+    "reason": "夏洛无视训斥走向座位并测试现实（ep_b65b28c23fae7895）发生在王老师训斥夏洛之后，而校方介入并试图控制局势（ep_39e99a1843d86da0）紧随其后，由袁华带校长和教导主任进入教室开始。两个情节共享同一场景（scene_21），且事件序列显示夏洛的行为先于校方的正式介入，叙事顺序明确。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_30be3a19c82e",
+    "subject_id": "ep_eb203031690a5662",
+    "object_id": "ep_3efcff4ec63cbdf6",
+    "relation_type": "precedes",
+    "reason": "马冬梅悄然现身观察现场发生在她制止夏洛闹剧之前，根据描述，她先抵达并躲在角落观察，随后才介入冲突，构成明确的时间顺序。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7fc49c670ef0",
+    "subject_id": "ep_c65b00b2168a294d",
+    "object_id": "ep_aa6bda13736c49b0",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，王老师镇压全班并逼迫夏洛发生在夏洛跳窗离场之前。在王老师施压导致夏洛身心崩溃后，夏洛才跳窗离开，且两个情节共享同一场景（scene_21），表明其连续性。因此，'王老师镇压全班反应并暴力逼迫夏洛'在叙事顺序上直接早于'夏洛告别母亲后跳窗离场'。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9aba62264809",
+    "subject_id": "ep_39e99a1843d86da0",
+    "object_id": "ep_b8f413c6db8d9752",
+    "relation_type": "precedes",
+    "reason": "根据描述，校方介入并试图控制局势发生在夏洛纵火引发混乱之前，两者均发生在scene_21，但校方介入的劝导行为在叙事顺序上先于夏洛点燃书本并引发火灾，相关事件序列支持这一时间先后关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_accba67954a2",
+    "subject_id": "ep_38a48ccf27706bbe",
+    "object_id": "ep_aa6bda13736c49b0",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'夏洛反抗并集体爆发冲突' 发生在课堂混乱中，而 '夏洛告别母亲后跳窗离场' 紧随其后，是夏洛在梦境结束前的最后行动。两个情节均发生在 scene_21，但反抗事件在叙事流程中先于跳窗离场，构成明确的先后顺序。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5b6d3758a72e",
+    "subject_id": "ep_19d8990c1df4f41d",
+    "object_id": "ep_3efcff4ec63cbdf6",
+    "relation_type": "precedes",
+    "reason": "张扬推动夏洛代表致辞发生在婚礼早期，为后续夏洛情绪失控及马冬梅现身制止创造条件；根据场景顺序，前者在叙事时间上明确早于后者，且无证据表明两者同时或逆序发生。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_464aeeba3525",
+    "subject_id": "ep_19d8990c1df4f41d",
+    "object_id": "ep_9384852c2f314500",
+    "relation_type": "precedes",
+    "reason": "根据描述，张扬推动夏洛代表致辞发生在夏洛献唱之前，而张扬称赞新郎是在夏洛献唱之后为缓和局势所采取的行动，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_95e308f620fd",
+    "subject_id": "ep_19d8990c1df4f41d",
+    "object_id": "ep_05efed31be348200",
+    "relation_type": "precedes",
+    "reason": "张扬推动夏洛代表致辞发生在夏洛醉酒讽刺新郎之前，因为提议夏洛发言是为缓解冷场，而夏洛随后在致辞中醉酒讽刺新郎，导致矛盾激化，叙事顺序支持该时序关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_564a6c2d4dba",
+    "subject_id": "ep_c301dc72f0de11a8",
+    "object_id": "ep_f6ad26d292c1edd9",
+    "relation_type": "precedes",
+    "reason": "张扬挑衅袁华并引发言语冲突发生在袁华愤怒离场之前，而大春对袁华反常行为感到困惑是在袁华离场、物品散落后的情节，属于事件余波。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1547257727d5",
+    "subject_id": "ep_eb203031690a5662",
+    "object_id": "ep_c19cb8231f63a919",
+    "relation_type": "precedes",
+    "reason": "马冬梅悄然现身观察现场发生在她揭露夏洛虚荣与依赖之前，根据事件顺序，她先躲在角落观察，随后才当众痛斥夏洛，因此该关系在叙事时序上明确支持。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_47f2f01b7fb6",
+    "subject_id": "ep_664c7c30155253dc",
+    "object_id": "ep_b8f413c6db8d9752",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述及其共享的场景编号（scene_21），夏洛强吻邱雅并陷入现实混淆的情节在叙事顺序上先于夏洛纵火引发混乱并迎接母亲的情节。相关事件序列显示，强吻与混淆发生在纵火行为之前，且两者均在同一场景内连续展开，支持明确的时间先后关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_358153d35b60",
+    "subject_id": "ep_05efed31be348200",
+    "object_id": "ep_9384852c2f314500",
+    "relation_type": "precedes",
+    "reason": "夏洛醉酒讽刺新郎激化矛盾发生在张扬称赞新郎展现气度之前，两者均在邱雅的婚礼场景中，且夏洛的行为引发紧张局势，随后张扬出面缓和，叙事顺序支持该时间先后关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3465940a7d9a",
+    "subject_id": "ep_5afc35d6b38505df",
+    "object_id": "ep_f11c0de99ef408fe",
+    "relation_type": "precedes",
+    "reason": "夏洛引起注意并做出夸张举动发生在张扬炫耀并集体质问夏洛之前，根据描述，夏洛的行为先引发他人议论，随后张扬借机发起质问，形成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4de73aed237d",
+    "subject_id": "ep_eb203031690a5662",
+    "object_id": "ep_098a4f055253917d",
+    "relation_type": "precedes",
+    "reason": "马冬梅悄然现身观察现场发生在她持刀追砍夏洛之前，根据叙事逻辑和事件发展顺序，观察行为是后续失控反应的前提，且两个情节均发生在同一婚礼场合中，时间上具有明确先后关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4da95492a1b5",
+    "subject_id": "ep_eb203031690a5662",
+    "object_id": "ep_9df7f33fe4b9e605",
+    "relation_type": "precedes",
+    "reason": "马冬梅悄然现身观察现场发生在夏洛失手打倒马冬梅之前，因为她的观察是冲突升级前的初始情境，且两个情节均发生在同一场合‘邱雅的婚礼’中，时间顺序上前者为后者提供上下文。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7f4aeff90939",
+    "subject_id": "ep_1007bf7efa86b829",
+    "object_id": "ep_c65b00b2168a294d",
+    "relation_type": "precedes",
+    "reason": "王老师进一步施压导致全班哄笑发生在王老师镇压全班反应并暴力逼迫夏洛之前，文本中描述的事件顺序显示哄笑之后王老师才继续逼迫夏洛并使用暴力，符合叙事上的先后顺序。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1db32789c959",
+    "subject_id": "ep_b65b28c23fae7895",
+    "object_id": "ep_1007bf7efa86b829",
+    "relation_type": "precedes",
+    "reason": "夏洛无视训斥走向座位并测试现实发生在王老师进一步施压导致全班哄笑之前，因为夏洛的冷静怀疑行为（如掐马冬梅的脸）先于王老师指责其假装失忆并引发全班哄笑的反应，叙事顺序在related_events中呈现为先后链条。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_197229dcf99f",
+    "subject_id": "ep_38a48ccf27706bbe",
+    "object_id": "ep_664c7c30155253dc",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'夏洛反抗并集体爆发冲突' 发生在教室混乱中，夏洛攻击王老师并引发全班骚动；紧接着，'夏洛强吻邱雅并陷入现实混淆' 描述了夏洛在暴力行为后走向邱雅进行强吻，并试图从梦境中醒来。两个情节共享相同的场景（scene_21）和场合（课堂上的日常教学活动），且事件序列在文本中呈现为连续动作：先围殴王老师，再转向邱雅行动。因此，第一个情节在叙事顺序上明确早于第二个情节。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bed5f0f623ae",
+    "subject_id": "ep_1007bf7efa86b829",
+    "object_id": "ep_38a48ccf27706bbe",
+    "relation_type": "causes",
+    "reason": "王老师进一步施压导致全班哄笑，加剧了夏洛的情绪失控，直接触发了夏洛反抗并集体爆发冲突。描述中明确指出夏洛因长期压抑在此刻爆发，而该压抑情绪的临界点由王老师的指责和全班哄笑构成，构成直接因果链。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8389dcf7dfda",
+    "subject_id": "ep_f11c0de99ef408fe",
+    "object_id": "ep_9c748330cb6ca15a",
+    "relation_type": "precedes",
+    "reason": "在同学会聚餐场景中，张扬带头质问夏洛多年不参加同学会，引发集体质疑氛围，随后夏洛才回应并解释自己因筹备演唱会而缺席，因此‘张扬炫耀并集体质问夏洛’在叙事顺序上直接早于‘回应质疑并揭示演唱会筹备’。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8b923d85c93a",
+    "subject_id": "ep_23b6602c47cb833b",
+    "object_id": "ep_55a638a415ca7d02",
+    "relation_type": "causes",
+    "reason": "袁华掩盖真实活动并伪装学习的行为直接导致母亲误以为他认真学习，从而产生欣慰情绪并为他揉肩膀表达关怀与认可。文本中两个情节发生在同一场景（scene_41），且因果链条明确：伪装学习 → 母亲误解 → 母亲表达关怀。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_75dcb0aa1738",
+    "subject_id": "ep_8429c8f86ceb10c2",
+    "object_id": "ep_68e8f444178ca53c",
+    "relation_type": "precedes",
+    "reason": "根据描述，新郎在婚礼敬酒环节表白引发尴尬冷场，随后夏洛强行拉邱雅上台引发更大骚动，两个情节均发生在同一场合'邱雅的婚礼'中，且叙事顺序上表白事件早于上台骚动，因此支持'precedes'关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_11473d46fba3",
+    "subject_id": "ep_d896591025b16840",
+    "object_id": "ep_dc9e37e8e9841f5b",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'邱雅离开并引发马冬梅愤怒回应'发生在scene_28，而'向邱雅道歉引发情感反应'发生在scene_30，scene_28在叙事顺序上早于scene_30，因此该关系为precedes。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4278a0499a1c",
+    "subject_id": "ep_4bea57c2e0b7647a",
+    "object_id": "ep_73b73ce1dd5c27b2",
+    "relation_type": "elaborates",
+    "reason": "主体情节'王老师与老同学重逢叙旧'包含王老师与学生们打招呼并开始回忆往事的描述，而客体情节'揭露夏洛写情诗的往事'是该回忆过程中的一个具体展开。王老师在叙旧过程中主动提及夏洛的情诗事件，作为唤起集体记忆的一部分，因此该事件是对整体叙旧情节的细节补充和内容扩展。",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b7cae14dd128",
+    "subject_id": "ep_d895ff51b3112cff",
+    "object_id": "ep_1007bf7efa86b829",
+    "relation_type": "precedes",
+    "reason": "夏洛进入教室引发对峙（ep_d895ff51b3112cff）在叙事顺序上先于王老师进一步施压导致全班哄笑（ep_1007bf7efa86b829），前者描述师生冲突的开端，后者描述紧张升级后的集体反应，且两个情节共享同一场景（scene_21）和场合，表明时间上的连续性。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4a7cf5eb451e",
+    "subject_id": "ep_8429c8f86ceb10c2",
+    "object_id": "ep_000a3c9be3e5c119",
+    "relation_type": "precedes",
+    "reason": "根据描述，新郎在敬酒环节当众表白引发尴尬冷场，随后夏洛在演唱中单膝跪地进一步激化冲突。两个情节均发生在邱雅的婚礼（scene_18）中，且叙事顺序上表白冷场在前，演唱跪地激化在后，因此支持'precedes'关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6035bc50c071",
+    "subject_id": "ep_1007bf7efa86b829",
+    "object_id": "ep_b8f413c6db8d9752",
+    "relation_type": "precedes",
+    "reason": "根据描述，王老师施压导致全班哄笑发生在夏洛纵火引发混乱之前，两个情节均发生在同一场景（scene_21）中，且事件序列显示情绪逐步升级：从指责、哄笑到夏洛失控纵火。因此，'王老师进一步施压导致全班哄笑'在叙事顺序上直接早于'夏洛纵火引发混乱并迎接母亲'。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7d5c33a02d02",
+    "subject_id": "ep_c301dc72f0de11a8",
+    "object_id": "ep_1557d8f3fb57cba1",
+    "relation_type": "causes",
+    "reason": "张扬挑衅袁华并引发言语冲突，激化了现场矛盾，导致袁华情绪升级并最终袭击大春致其晕倒。该因果链条由描述中冲突逐步升级的逻辑支持，且事件发生在同一场合（篮球场），具有紧密的因果和时间耦合。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7b7769b036da",
+    "subject_id": "ep_664c7c30155253dc",
+    "object_id": "ep_dc9e37e8e9841f5b",
+    "relation_type": "precedes",
+    "reason": "主体情节'夏洛强吻邱雅并陷入现实混淆'发生在课堂场景(scene_21)，而客体情节'向邱雅道歉引发情感反应'发生在后续的学校紧急例会(scene_30)。根据文档中场景编号的顺序，scene_21早于scene_30，因此主体情节在叙事顺序上先于客体情节。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_95bbd427bcca",
+    "subject_id": "ep_3efcff4ec63cbdf6",
+    "object_id": "ep_d896591025b16840",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在邱雅婚礼现场（scene_18），其中马冬梅试图制止醉酒的夏洛；第二个情节发生在scene_28，邱雅离开后马冬梅禁止他人称她为‘洛嫂’。根据相关场景编号的递增顺序（scene_18 到 scene_28），可以确定第一个情节在叙事顺序上早于第二个情节。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_17a580fbee98",
+    "subject_id": "ep_664c7c30155253dc",
+    "object_id": "ep_733eb095f6643291",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在课堂进行中，涉及夏洛在教室对邱雅的强吻及现实混淆；第二个情节明确以下课铃声为开端，发生在课程结束后。因此，根据相关事件的时间顺序，'夏洛强吻邱雅并陷入现实混淆'在叙事时间上先于'下课后马冬梅拦截夏洛索要歌曲'。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dc23a475f78b",
+    "subject_id": "ep_1007bf7efa86b829",
+    "object_id": "ep_78269c9df216ca64",
+    "relation_type": "precedes",
+    "reason": "王老师进一步施压导致全班哄笑发生在王老师升级羞辱并强迫朗读情书之前。描述中显示，全班哄笑是夏洛情绪失控的直接反应，而后续情节中王老师因夏洛擅自回座而暴怒并升级冲突，包含制止哄笑、质问着装、嘲讽家庭、强迫朗读情书等一系列行为，表明前者在叙事顺序上先于后者，且两个情节共享同一场景（scene_21）中的连续动作流。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2d645e262ae9",
+    "subject_id": "ep_d896591025b16840",
+    "object_id": "ep_733eb095f6643291",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，邱雅离开并引发马冬梅愤怒回应（ep_d896591025b16840）发生在下课后马冬梅拦截夏洛索要歌曲（ep_733eb095f6643291）之前，因为前者触发了马冬梅的情绪状态，为后续拦截行为提供了上下文动机。文档ID（doc_27 vs doc_30）也支持时间顺序上的先后关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3d45b83976fa",
+    "subject_id": "ep_1d45f7e4c2fed5a0",
+    "object_id": "ep_8edf4ae47364a0b0",
+    "relation_type": "precedes",
+    "reason": "柳树下邱雅与袁华对演唱产生分歧（ep_1d45f7e4c2fed5a0）中，袁华因邱雅关注夏洛的演唱而愤怒指责，该冲突情绪延续至袁华追逐邱雅并砸树泄愤（ep_8edf4ae47364a0b0），后者表现为更激烈的情绪爆发和身体行为，且两情节均发生在柳树下，具有紧密的时空和情绪递进关系。文本虽未明确时间标记，但情绪发展逻辑和场景连续性支持前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7f09708cda47",
+    "subject_id": "ep_7ea5242c3f89b9d9",
+    "object_id": "ep_90969d5ed78bdd01",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在教室场景中，涉及夏洛请求换座位并被王老师拒绝，相关事件位于scene_31；第二个情节发生在办公室，王老师训斥夏洛并指派比赛任务，相关事件位于scene_47。scene_31在叙事顺序上早于scene_47，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e1a2acae9f0b",
+    "subject_id": "ep_fa79950faf621e83",
+    "object_id": "ep_19b3d81129fcb8db",
+    "relation_type": "precedes",
+    "reason": "夏洛抵达并重逢老同学的情节以夏洛下车和寒暄开始，随后老同学们对豪车表示好奇并引发对话，自然过渡到回应同学对豪车的疑问。相关事件的时间顺序支持这一先后关系：车辆停下、夏洛下车、寒暄之后，才出现对行车路线的疑问和解释。",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0175a233f44a",
+    "subject_id": "ep_27d180a67a243133",
+    "object_id": "ep_5af261dc83865ec6",
+    "relation_type": "precedes",
+    "reason": "根据描述，'参与击鼓传花并被迫登台表演' 是夏洛登台的直接触发事件，而 '演唱《伤心太平洋》并情绪失控' 发生在登台之后的舞台上，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_13f151b26112",
+    "subject_id": "ep_d895ff51b3112cff",
+    "object_id": "ep_90969d5ed78bdd01",
+    "relation_type": "precedes",
+    "reason": "夏洛进入教室引发对峙（ep_d895ff51b3112cff）发生在王老师训斥夏洛并指派比赛任务（ep_90969d5ed78bdd01）之前，根据相关事件的场景编号（scene_21 先于 scene_47），支持前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_324119f3a79c",
+    "subject_id": "ep_733eb095f6643291",
+    "object_id": "ep_90969d5ed78bdd01",
+    "relation_type": "precedes",
+    "reason": "下课后马冬梅拦截夏洛索要歌曲发生在教室场景（scene_31），而应对训斥并接受比赛任务发生在办公室场景（scene_47），scene_31在叙事顺序上早于scene_47，且前者直接导致夏洛被老师召见，构成后续情节的触发背景。因此，主体情节在叙事时间上明确早于客体情节。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ae2ad066af92",
+    "subject_id": "ep_6823678369a64106",
+    "object_id": "ep_90969d5ed78bdd01",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在教室内，王老师驳回夏洛的换座请求并训斥他，相关事件位于scene_31；第二个情节发生在办公室，王老师进一步训斥夏洛并指派其参加歌手大赛，相关事件位于scene_47。scene_31在文档顺序上早于scene_47，且两个情节均涉及王老师对夏洛的纪律问责，形成递进叙事，因此主体情节在叙事顺序上先于客体情节。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_09c1132d192c",
+    "subject_id": "ep_0b79617d4f11641a",
+    "object_id": "ep_f879e11ef060b1e8",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'夏洛察觉大春对马冬梅的好感并转移话题' 发生在 scene_49，而 '讨论男女比例与恋爱建议' 发生在 scene_50，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_408f4cb49c74",
+    "subject_id": "ep_88bd16d07aa9f3b3",
+    "object_id": "ep_aadbd719736356e7",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序，夏洛卖车轮搭讪失败并被锁车（scene_49）发生在小流氓袭击并带走夏洛（scene_50）之前，两个情节分别位于连续的场景中，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3210efe647d2",
+    "subject_id": "ep_811e79d45069e5b2",
+    "object_id": "ep_b5af7b1db854a6b9",
+    "relation_type": "precedes",
+    "reason": "主体情节描述夏洛回顾旧日音乐收藏并感慨歌手的 longevity，其相关事件包括翻看音乐卡带；客体情节描述夏洛在摆弄卡带时突然停下并因联想到吉他而发笑。根据描述中的动作顺序，回顾收藏的行为发生在注意到吉他并大笑之前，且两个情节共享同一场景（scene_35），表明存在明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_83880be0467b",
+    "subject_id": "ep_b8d976e713a8dae1",
+    "object_id": "ep_fb23f2d7958a2066",
+    "relation_type": "precedes",
+    "reason": "夏洛在自行车棚被大春拦住并急于摆脱他以继续接近邱雅，随后才进一步劝说大春投资房产放弃大学。两个情节均涉及夏洛与大春的互动，且文档ID顺序（doc_48 到 doc_49）和事件流表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5e1e06de1463",
+    "subject_id": "ep_0b79617d4f11641a",
+    "object_id": "ep_aadbd719736356e7",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件流，夏洛察觉大春对马冬梅的好感并转移话题（doc_48）发生在小流氓袭击并带走夏洛（doc_49）之前，且两个情节之间无重叠事件或倒叙迹象，因此前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7c0357340427",
+    "subject_id": "ep_bd81f0728a934691",
+    "object_id": "ep_b6f06e1c2fd42afa",
+    "relation_type": "precedes",
+    "reason": "夏洛因醉酒剧烈呕吐发生在其在镜中自视并陷入自怜之前，描述中提到呕吐后擦干嘴巴，再从镜子中看到自己，表明明确的时间顺序。",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_22b9c9eadb7b",
+    "subject_id": "ep_455f101cda44a39f",
+    "object_id": "ep_b6f06e1c2fd42afa",
+    "relation_type": "precedes",
+    "reason": "根据描述，夏洛先因情绪激动而捶墙、踢踹马桶，随后在呕吐后从镜中看到自己并陷入自怜。两个情节均发生在scene_20，但行为顺序表明躲避冲突和爆发情绪在前，镜中自视陷入自怜在后。",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c5d75f404eda",
+    "subject_id": "ep_b8d976e713a8dae1",
+    "object_id": "ep_f879e11ef060b1e8",
+    "relation_type": "precedes",
+    "reason": "根据描述，夏洛在自行车棚被大春拦住并心不在焉地应付他，急于继续对邱雅的搭讪计划；随后的情节中，夏洛与大春讨论男女比例并建议大春追求马冬梅。这两个情节共享大春与夏洛的互动场景，且第二段情节延续了第一段的对话内容，表明其在叙事顺序上紧随其后。因此，第一个情节在话语顺序上明确早于第二个情节。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fc036593d7bf",
+    "subject_id": "ep_455f101cda44a39f",
+    "object_id": "ep_9af3970cf2186e01",
+    "relation_type": "precedes",
+    "reason": "夏洛躲避冲突并爆发情绪（捶墙、踢马桶）发生在其情绪进一步恶化并砸碎镜子之前，两个情节均发生在scene_20，但描述中逻辑顺序显示情绪发泄逐步升级，从躲避到身体暴力再到彻底崩溃砸镜，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5c940c896df6",
+    "subject_id": "ep_b6f06e1c2fd42afa",
+    "object_id": "ep_7ebba89189a1bdd0",
+    "relation_type": "precedes",
+    "reason": "夏洛在镜中自视陷入自怜发生在洗手间场景中，随后才走出洗手间进入回忆场景，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dc2b357d4710",
+    "subject_id": "ep_3efcff4ec63cbdf6",
+    "object_id": "ep_aadbd719736356e7",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，马冬梅在婚礼现场试图制止醉酒的夏洛，随后夏洛被小流氓袭击并带走。相关事件序列显示，婚礼闹剧（ep_3efcff4ec63cbdf6）发生在夏洛被拖走（ep_aadbd719736356e7）之前，且两者在叙事顺序上紧密衔接，支持前者在时间上先于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_db5e9c812bf6",
+    "subject_id": "ep_b8d976e713a8dae1",
+    "object_id": "ep_aadbd719736356e7",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节内容，夏洛在自行车棚被大春纠缠并计划接近邱雅（ep_b8d976e713a8dae1）发生在小流氓袭击并带走夏洛（ep_aadbd719736356e7）之前。前者出现在doc_48，后者在doc_49，且事件发展逻辑连贯：夏洛摆脱大春后不久即遭遇袭击，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_49_part_1",
+      "scene_49_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_947af39eb5e6",
+    "subject_id": "ep_9af3970cf2186e01",
+    "object_id": "ep_69fb4b0a5a657570",
+    "relation_type": "precedes",
+    "reason": "夏洛情绪崩溃并砸碎镜子后，紧接着洗脸并在破碎的镜前反复喊出‘离婚’，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_63505337d681",
+    "subject_id": "ep_69fb4b0a5a657570",
+    "object_id": "ep_7ebba89189a1bdd0",
+    "relation_type": "precedes",
+    "reason": "夏洛在洗手间内决意离婚后，接着打开门走出洗手间并进入回忆场景，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_422a15dc4998",
+    "subject_id": "ep_455f101cda44a39f",
+    "object_id": "ep_69fb4b0a5a657570",
+    "relation_type": "precedes",
+    "reason": "夏洛躲避冲突并爆发情绪发生在夏洛洗脸后决意离婚之前，根据描述，夏洛先在洗手间内反锁门并捶墙、踢马桶，随后砸碎镜子、洗脸并反复喊出‘离婚’，两个情节均发生在scene_20，但动作顺序表明前者在时间上先于后者。",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_105e1d2b91db",
+    "subject_id": "ep_455f101cda44a39f",
+    "object_id": "ep_7ebba89189a1bdd0",
+    "relation_type": "precedes",
+    "reason": "夏洛在洗手间内躲避冲突并爆发情绪后，随后打开门走向高中课堂，进入回忆场景。两个情节发生在同一场景（scene_20），且描述中存在明确的时序推进：先反锁门、发泄情绪，再打开门进入下一空间，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_03e7d5e37073",
+    "subject_id": "ep_b6f06e1c2fd42afa",
+    "object_id": "ep_9af3970cf2186e01",
+    "relation_type": "precedes",
+    "reason": "夏洛在镜中自视陷入自怜（ep_b6f06e1c2fd42afa）在叙事顺序上先于她情绪崩溃并砸碎镜子（ep_9af3970cf2186e01），描述中明确指出她在自怜中情绪彻底崩溃，表明前者是后者的直接前序心理状态。",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_318dd2966d27",
+    "subject_id": "ep_90969d5ed78bdd01",
+    "object_id": "ep_ace48f07d8574c9d",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，王老师在办公室训斥夏洛和马冬梅并指派比赛任务（scene_47）发生在夏洛强占座位引发连锁换座（scene_31）之后。然而，scene_31的编号小于scene_47，表明座位冲突事件在叙事顺序上早于训斥与任务指派。因此，实体#2在话语顺序上先于实体#1。但由于主体是实体#1，客体是实体#2，且关系方向必须为subject -> object，而实体#1并未在时间或叙事上早于实体#2，故不能成立precedes(subject->object)。反向关系object->subject虽成立，但precedes为有向关系，不能反向推断。因此，无法支持precedes方向性关系。无证据显示causes、contrasts_with或elaborates。故输出NONE。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2b1ad615ce1e",
+    "subject_id": "ep_b6f06e1c2fd42afa",
+    "object_id": "ep_69fb4b0a5a657570",
+    "relation_type": "precedes",
+    "reason": "根据描述，夏洛在镜中自视陷入自怜发生在洗脸之前，而洗脸后决意离婚是后续行为。呕吐、擦嘴、照镜自怜的情绪过程在逻辑和叙事顺序上先于砸碎镜子、洗脸并喊出‘离婚’的决断行为，因此‘夏洛在镜中自视陷入自怜’在叙事顺序上早于‘夏洛洗脸后决意离婚’。",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e18edb6cd82b",
+    "subject_id": "ep_8ba5e9f1366b0365",
+    "object_id": "ep_b181889370ff1de6",
+    "relation_type": "precedes",
+    "reason": "夏洛进入会场并开始检讨发生在校长打断其发言并纠正感谢对象之前，叙事顺序上明确先有检讨的开始，后有内容被纠正和向王老师道歉的行为，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7ffe35f190ab",
+    "subject_id": "ep_8ba5e9f1366b0365",
+    "object_id": "ep_dc9e37e8e9841f5b",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合'学校紧急例会 (scene_30)'中，且根据叙事顺序，夏洛先进入会场并开始检讨，随后才公开向邱雅道歉并引发情感反应，事件序列在描述中呈现明确的时间先后。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c993678aeec0",
+    "subject_id": "ep_d895ff51b3112cff",
+    "object_id": "ep_b181889370ff1de6",
+    "relation_type": "precedes",
+    "reason": "夏洛进入教室引发对峙（scene_21）发生在纠正感谢对象并道歉王老师（scene_30）之前，两个情节分别属于文档中不同且连续的场景，scene_21在叙事顺序上早于scene_30，构成明确的时间先后关系。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eaee2a12775e",
+    "subject_id": "ep_dc9e37e8e9841f5b",
+    "object_id": "ep_93640d97cdfc1ac8",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'向邱雅道歉引发情感反应'发生在scene_30，而'夏洛向邱雅示好并遭马冬梅阻挠'发生在scene_31，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f041dda2901a",
+    "subject_id": "ep_b8f413c6db8d9752",
+    "object_id": "ep_b181889370ff1de6",
+    "relation_type": "precedes",
+    "reason": "夏洛纵火引发混乱并迎接母亲（scene_21）发生在纠正感谢对象并道歉王老师（scene_30）之前，根据文档中场景编号的顺序，scene_21早于scene_30，因此该关系在叙事顺序上有明确支持。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1e97a83f933e",
+    "subject_id": "ep_38a48ccf27706bbe",
+    "object_id": "ep_b181889370ff1de6",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节描述夏洛和同学们集体暴力反抗王老师，达到对权威的激烈对抗高潮；第二个情节中夏洛公开道歉、承诺赔偿，王老师鼓掌回应，展现和解与尊重。两个情节在情感基调、人物关系和行为反应上形成明显逆转与对比，文本通过前后并置强化了这种对立转变。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6c229f915df1",
+    "subject_id": "ep_0b79617d4f11641a",
+    "object_id": "ep_b8d976e713a8dae1",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在 scene_49，但第一个情节中夏洛在被大春安慰后转移话题打游戏，逻辑上发生在夏洛被大春在自行车棚拦住之前，属于同一场景内的先后动作序列，叙事顺序支持前者早于后者。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_32fc01a7b9ed",
+    "subject_id": "ep_b181889370ff1de6",
+    "object_id": "ep_c65b00b2168a294d",
+    "relation_type": "contrasts_with",
+    "reason": "王老师在‘纠正感谢对象并道歉王老师’中被夏洛公开道歉并获得尊重，以鼓掌回应，呈现师生和解的正面氛围；而在‘王老师镇压全班反应并暴力逼迫夏洛’中，王老师对夏洛施加身体与心理暴力，导致其崩溃，体现压迫性权威。两个情节在师生关系的权力动态、情绪基调和结果上形成明显逆转与对比，支持‘contrasts_with’关系。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_470ed963fd58",
+    "subject_id": "ep_78269c9df216ca64",
+    "object_id": "ep_b181889370ff1de6",
+    "relation_type": "contrasts_with",
+    "reason": "王老师升级羞辱并强迫朗读情书（ep_78269c9df216ca64）展现师生冲突的高潮，具有公开羞辱和情感伤害的负面基调；而纠正感谢对象并道歉王老师（ep_b181889370ff1de6）则呈现夏洛公开道歉、王老师鼓掌和解的正面结果，二者在情感走向和关系状态上形成明显逆转与对比，文本通过前后情节的并置强化了这种对立转变。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2ba364742b6b",
+    "subject_id": "ep_b8d976e713a8dae1",
+    "object_id": "ep_88bd16d07aa9f3b3",
+    "relation_type": "precedes",
+    "reason": "夏洛在自行车棚被大春拦住并试图摆脱他以继续搭讪邱雅（ep_b8d976e713a8dae1），紧接着他尝试卖车轮搭讪邱雅但失败并被锁车（ep_88bd16d07aa9f3b3），两个情节共享同一场景（scene_49）且叙述顺序明确，前者为后者行动的前置准备阶段。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5fbf25b1c6a5",
+    "subject_id": "ep_78269c9df216ca64",
+    "object_id": "ep_dc9e37e8e9841f5b",
+    "relation_type": "precedes",
+    "reason": "王老师升级羞辱并强迫朗读情书（ep_78269c9df216ca64）发生在课堂场景（scene_21），而向邱雅道歉引发情感反应（ep_dc9e37e8e9841f5b）发生在学校紧急例会（scene_30），scene_21在叙事顺序上早于scene_30，因此该关系为precedes。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aa88ba3e0fb1",
+    "subject_id": "ep_d895ff51b3112cff",
+    "object_id": "ep_7ea5242c3f89b9d9",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件内容，'夏洛进入教室引发对峙'（doc_20）发生在'应对夏洛的换座请求并质疑其动机'（doc_30）之前，且两者均属于课堂场景中的连续师生互动，叙事顺序明确。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bbf151543f44",
+    "subject_id": "ep_7ea5242c3f89b9d9",
+    "object_id": "ep_ace48f07d8574c9d",
+    "relation_type": "causes",
+    "reason": "王老师拒绝夏洛换座位请求后，夏洛在老师离开后强行换座并引发连锁反应。文本中两个情节发生在同一场景（scene_31），且‘应对夏洛的换座请求’直接导致‘夏洛强占座位’，具有明确的因果顺序和动机驱动：被拒后采取暴力手段达成目的。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bb731c36017d",
+    "subject_id": "ep_733eb095f6643291",
+    "object_id": "ep_7ea5242c3f89b9d9",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_31）中，且根据描述顺序和事件流，马冬梅拦截夏洛并索要歌曲的情节在时间上先发生，随后夏洛因受干扰而请求换座位，王老师质疑其动机。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7e12d12b19f1",
+    "subject_id": "ep_7ea5242c3f89b9d9",
+    "object_id": "ep_93640d97cdfc1ac8",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在 scene_31，但根据描述，夏洛先请求换座位并被王老师拒绝（ep_7ea5242c3f89b9d9），随后他转向直接向邱雅示好（ep_93640d97cdfc1ac8），表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_02397a909bb2",
+    "subject_id": "ep_d895ff51b3112cff",
+    "object_id": "ep_d404d78c8f46a002",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件内容，夏洛进入教室并引发对峙（doc_20）发生在王老师宣布袁华获奖并引发质疑（doc_30）之前，叙事时间线上有明确先后顺序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b62c9f2662c6",
+    "subject_id": "ep_6823678369a64106",
+    "object_id": "ep_b181889370ff1de6",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'驳回换座请求并训斥夏洛'发生在scene_31，而'纠正感谢对象并道歉王老师'发生在scene_30，但scene_30在文档顺序上早于scene_31。然而，'校长经过教室门口引发学生窃笑'（scene_31）与'校长纠正夏洛应感谢学校和老师'（scene_30）存在时间矛盾。考虑到叙事连贯性，'训斥夏洛'更可能发生在道歉之前，作为引发后续道歉行为的前序事件，因此推断'驳回换座请求并训斥夏洛'在叙事顺序上紧随其后，但基于场景编号倒置，判断为precedes关系具有较强但非绝对支持。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f543ee8644de",
+    "subject_id": "ep_6823678369a64106",
+    "object_id": "ep_ace48f07d8574c9d",
+    "relation_type": "causes",
+    "reason": "王老师驳回夏洛的换座请求并训斥他，导致夏洛在老师离开后强行换座并引发连锁反应。文本中两个情节发生在同一场景（scene_31），且事件顺序和因果逻辑清晰：训斥激发了夏洛的对抗行为，直接触发后续强占座位事件。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1625aa7e56c7",
+    "subject_id": "ep_93640d97cdfc1ac8",
+    "object_id": "ep_88bd16d07aa9f3b3",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，夏洛向邱雅示好并遭马冬梅阻挠（ep_93640d97cdfc1ac8）发生在教室场景中，通过划线、唱歌等行为表达情感；而卖车轮搭讪失败并被锁车（ep_88bd16d07aa9f3b3）发生在后续场景，涉及自行车、汽水钱及回家途中事件。两个情节共享追求邱雅的目标，但后者在叙事顺序上明显后于前者，且文档ID（doc_30 vs doc_48）支持时间推进，因此判断为precedes关系。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_03db1821031d",
+    "subject_id": "ep_6823678369a64106",
+    "object_id": "ep_733eb095f6643291",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在课堂内，涉及王老师驳回夏洛的换座请求并训斥他；第二个情节发生在下课铃响后，马冬梅在教室外拦截夏洛索要歌曲。根据相关事件中的'下课铃声响起标志课程结束'，可明确第一个情节在叙事时间上早于第二个情节。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fbc04407d518",
+    "subject_id": "ep_6823678369a64106",
+    "object_id": "ep_78269c9df216ca64",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述王老师驳回夏洛换座请求并训斥，发生在后续冲突升级之前；第二个情节中王老师因夏洛擅自回座而暴怒并强迫其朗读情书，表明前者在叙事顺序上早于后者，且文档场景编号（scene_31 vs scene_21）支持该时间顺序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b622362a9fc7",
+    "subject_id": "ep_d895ff51b3112cff",
+    "object_id": "ep_6823678369a64106",
+    "relation_type": "precedes",
+    "reason": "夏洛进入教室引发对峙（ep_d895ff51b3112cff）在叙事顺序上早于驳回换座请求并训斥夏洛（ep_6823678369a64106），因为前者描述了师生冲突的开端，后者则是冲突的延续和升级，且两个情节均发生在同一课堂场景中，时间顺序明确。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4cdb88da5ce5",
+    "subject_id": "ep_b65b28c23fae7895",
+    "object_id": "ep_93640d97cdfc1ac8",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'夏洛无视训斥走向座位并测试现实' 发生在课堂初始阶段（scene_21），而 '夏洛向邱雅示好并遭马冬梅阻挠' 发生在后续场景（scene_31），文档中场景编号的递增支持该叙事顺序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d7b421d35cef",
+    "subject_id": "ep_6823678369a64106",
+    "object_id": "ep_b65b28c23fae7895",
+    "relation_type": "precedes",
+    "reason": "根据描述，王老师驳回并训斥夏洛（ep_6823678369a64106）发生在夏洛无视训斥并走向座位测试现实（ep_b65b28c23fae7895）之前。训斥是夏洛后续行为的直接前提，叙事顺序上前者先于后者，且相关事件的时间上下文（scene_31 vs scene_21）也支持这一时序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f068d7346eb5",
+    "subject_id": "ep_b65b28c23fae7895",
+    "object_id": "ep_ace48f07d8574c9d",
+    "relation_type": "precedes",
+    "reason": "根据描述，夏洛无视训斥走向座位并测试现实（ep_b65b28c23fae7895）发生在王老师训斥夏洛之后，且在夏洛强占座位引发连锁换座（ep_ace48f07d8574c9d）之前。相关事件的时间顺序和场景编号（scene_21 先于 scene_31）支持该叙事顺序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9ce7bd232c18",
+    "subject_id": "ep_78269c9df216ca64",
+    "object_id": "ep_ace48f07d8574c9d",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节内容，王老师羞辱夏洛并强迫其朗读情书（ep_78269c9df216ca64）发生在课堂冲突场景（scene_21），而夏洛强占座位引发连锁换座（ep_ace48f07d8574c9d）发生在王老师离开后的下一场景（scene_31），因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_156fecfc0e16",
+    "subject_id": "ep_7ea5242c3f89b9d9",
+    "object_id": "ep_38a48ccf27706bbe",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'应对夏洛的换座请求并质疑其动机'发生在scene_31，而'夏洛反抗并集体爆发冲突'发生在scene_21，尽管scene_21编号小于scene_31，但scene_21描述的是冲突爆发的高潮，而scene_31的换座请求是更早的日常教学互动，结合叙事逻辑和事件积累的压抑情绪，换座被拒等事件构成后续爆发的导火索前奏，因此按叙事顺序应为换座情节先于冲突爆发。编号倒置可能是文档顺序错误或倒叙结构，但基于情节内容和情绪递进，'换座请求'情节在时间线上应早于'集体冲突'。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8687b4258176",
+    "subject_id": "ep_b65b28c23fae7895",
+    "object_id": "ep_733eb095f6643291",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节内容，夏洛无视训斥走向座位并测试现实（ep_b65b28c23fae7895）发生在课堂刚恢复的阶段，而马冬梅拦截夏洛索要歌曲（ep_733eb095f6643291）发生在下课铃响之后，两者在时间线上有明确先后顺序，前者早于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_118e5cf53f94",
+    "subject_id": "ep_78269c9df216ca64",
+    "object_id": "ep_098a4f055253917d",
+    "relation_type": "causes",
+    "reason": "王老师强迫夏洛朗读情书导致马冬梅误解并羞愧离场，这一冲突激化为后续婚礼现场马冬梅持刀追砍夏洛的直接导火索。两个情节之间存在明确的因果链条：情书事件引发马冬梅的情绪崩溃，最终在婚礼场合爆发为暴力行为。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e7fd3e58c99b",
+    "subject_id": "ep_1cfff33f9ee5fdbe",
+    "object_id": "ep_b2656caecd6d894b",
+    "relation_type": "precedes",
+    "reason": "根据描述，'交接烟头并准备发表看法' 发生在大春被广播点名之前，因为大春在接过烟头后准备表达看法时仍处于聚集状态，而'大春被广播点名后前往教导处' 明确结束了该场景的聚集状态，表明前者在叙事顺序上紧接在后者之前发生。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a8bc05f219bc",
+    "subject_id": "ep_6823678369a64106",
+    "object_id": "ep_38a48ccf27706bbe",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'驳回换座请求并训斥夏洛'发生在scene_31，而'夏洛反抗并集体爆发冲突'发生在scene_21，但scene_21在叙事顺序上早于scene_31。然而，这与事件逻辑矛盾：夏洛被训斥后才爆发冲突更合理。但依据提供的related_events中scene_21包含夏洛攻击王老师及王老师晕倒，而scene_31中王老师仍能正常教学并训斥学生，说明scene_31必须发生在scene_21之前。因此，'驳回换座请求并训斥夏洛'在叙事时间线上早于'夏洛反抗并集体爆发冲突'，支持precedes关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7b36a8ad0098",
+    "subject_id": "ep_38a48ccf27706bbe",
+    "object_id": "ep_cb652be6166f8802",
+    "relation_type": "precedes",
+    "reason": "情节 '夏洛反抗并集体爆发冲突' 发生在课堂场景 (scene_21)，而 '讨论夏洛打老师事件并引发争执' 发生在后续的厕所旁抽烟场景 (scene_27)，scene_21 在叙事顺序上早于 scene_27，因此主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_905efda6eac7",
+    "subject_id": "ep_d38ac1503fd75c3d",
+    "object_id": "ep_d896591025b16840",
+    "relation_type": "precedes",
+    "reason": "马冬梅介入并质问背后议论发生在邱雅离开并引发马冬梅愤怒回应之前，两个情节共享同一场景（scene_28），且事件顺序上，马冬梅打断对话后，邱雅才选择离开，随后马冬梅爆发并禁止他人称她为‘洛嫂’，叙事顺序明确。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4eaa5f4da06d",
+    "subject_id": "ep_f6e089a2b94fa06c",
+    "object_id": "ep_6eea45bcd6d1965b",
+    "relation_type": "causes",
+    "reason": "夏洛母亲采取激烈手段施压校方，直接导致校长妥协并更改处分决定。描述中明确指出其行为是为了迫使校方让步，并最终导致校长放弃开除决定，符合直接因果关系。",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_48fcc90780e4",
+    "subject_id": "ep_8f94fc372ee0163a",
+    "object_id": "ep_f6e089a2b94fa06c",
+    "relation_type": "causes",
+    "reason": "校长宣布对夏洛的开除决定直接引发了夏洛母亲采取激烈手段施压校方，以扭转该处分结果。描述中明确指出母亲的行为是为了应对开除决定，构成直接因果关系。",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_789889da5fb3",
+    "subject_id": "ep_f6e089a2b94fa06c",
+    "object_id": "ep_cee7d9c6c8e55c37",
+    "relation_type": "precedes",
+    "reason": "夏洛母亲采取激烈手段施压校方后，达成目的，随后结束对抗行为并致谢。描述中明确指出‘在达成目的后’，表明施压行为在前，致谢行为在后，存在清晰的叙事时序。",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a6ca336bf4e1",
+    "subject_id": "ep_6a82fcb73a06c780",
+    "object_id": "ep_4ff66288ba8c4869",
+    "relation_type": "precedes",
+    "reason": "启动紧急例会并宣布处分在叙事顺序上早于结束例会并恢复教学秩序，两个情节共享同一场合‘学校紧急例会 (scene_30)’，且描述中前者为事件的开始，后者为结束，构成明确的时间先后顺序。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6e03ba767c9d",
+    "subject_id": "ep_8429c8f86ceb10c2",
+    "object_id": "ep_19d8990c1df4f41d",
+    "relation_type": "causes",
+    "reason": "新郎表白引发尴尬冷场直接导致现场气氛陷入沉默，为缓解冷场，张扬随即提议由夏洛代表致辞，文本明确指出该提议是为了缓解冷场，因此存在直接因果关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5f68b020bdc1",
+    "subject_id": "ep_738d7b7165c83f23",
+    "object_id": "ep_f6ad26d292c1edd9",
+    "relation_type": "precedes",
+    "reason": "袁华情绪失控愤然离场发生在大春对其反常行为感到困惑之前，两者均发生在同一场景（scene_32）中，且描述中明确指出大春的反应是在袁华离场和物品散落后发生的，因此存在明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4a0ff06995d9",
+    "subject_id": "ep_6a82fcb73a06c780",
+    "object_id": "ep_b181889370ff1de6",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合‘学校紧急例会 (scene_30)’中，且主体情节‘启动紧急例会并宣布处分’在叙事顺序上先于客体情节‘纠正感谢对象并道歉王老师’，因为校长先宣布处分并要求检讨，随后夏洛在检讨过程中被纠正并道歉，符合话语顺序上的先后关系。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_20803cfaef09",
+    "subject_id": "ep_19d8990c1df4f41d",
+    "object_id": "ep_63ab33c69d11cfc8",
+    "relation_type": "precedes",
+    "reason": "张扬推动夏洛代表致辞发生在夏洛回忆创作歌曲并决定献唱之前，因为前者将焦点转向夏洛，为后者的情绪表达和登台演唱做铺垫，叙事顺序明确。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9b1d81988761",
+    "subject_id": "ep_19d8990c1df4f41d",
+    "object_id": "ep_000a3c9be3e5c119",
+    "relation_type": "precedes",
+    "reason": "张扬推动夏洛代表致辞发生在夏洛演唱并单膝跪地激化冲突之前，文本指出前者为后者埋下伏笔，表明叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2133538d08a9",
+    "subject_id": "ep_2b430e0795da2dd0",
+    "object_id": "ep_f6ad26d292c1edd9",
+    "relation_type": "precedes",
+    "reason": "袁华登场引发关注与崇拜发生在袁华愤怒离场之前，而大春的困惑反应是在袁华反常行为之后，因此该情节在叙事顺序上先于大春的困惑反应。两个情节共享同一场合（篮球场日常训练与对峙），且事件序列在scene_32中按时间顺序展开。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_91b4c8c54760",
+    "subject_id": "ep_19d8990c1df4f41d",
+    "object_id": "ep_68e8f444178ca53c",
+    "relation_type": "precedes",
+    "reason": "张扬推动夏洛代表致辞发生在夏洛强行拉邱雅上台引发骚动之前，两者均在邱雅的婚礼场合中，且前者为后者铺垫了冲突伏笔，叙事顺序明确。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8041d43bf6f3",
+    "subject_id": "ep_8429c8f86ceb10c2",
+    "object_id": "ep_9384852c2f314500",
+    "relation_type": "contrasts_with",
+    "reason": "新郎表白引发尴尬冷场与张扬称赞新郎展现气度形成对比：前者因情感失控导致气氛紧张，后者通过公开肯定试图修复关系和缓和局面，二者在情感基调和社交功能上构成明显反差。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_af21b290392e",
+    "subject_id": "ep_8429c8f86ceb10c2",
+    "object_id": "ep_098a4f055253917d",
+    "relation_type": "precedes",
+    "reason": "新郎表白引发尴尬冷场发生在婚礼敬酒环节，而马冬梅持刀追砍夏洛是后续导致现场彻底失控的升级事件，两者均发生在邱雅的婚礼上，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_799f3dc0bbb9",
+    "subject_id": "ep_7ea5242c3f89b9d9",
+    "object_id": "ep_e9df4104d524dfdb",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，马冬梅被扶进教室并干扰课堂（ep_e9df4104d524dfdb）发生在夏洛请求换座位并被王老师质疑（ep_7ea5242c3f89b9d9）之前，因为夏洛的换座请求是针对马冬梅干扰的直接反应。因此，处理迟到学生并恢复课堂秩序在叙事顺序上先于应对夏洛的换座请求。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_939f9123e982",
+    "subject_id": "ep_ace48f07d8574c9d",
+    "object_id": "ep_dc9e37e8e9841f5b",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'夏洛强占座位引发连锁换座' 发生在 scene_31，而 '向邱雅道歉引发情感反应' 发生在 scene_30，因此后者在叙事顺序上早于前者。但由于主体是 scene_31 情节，客体是 scene_30 情节，故主体在时间上晚于客体，关系应为客体 precedes 主体。然而，precedes 关系要求主体在时间上早于客体，此处不成立。因此，正确方向应为 object precedes subject，但 relation_type 为 directed，必须符合主体->客体方向。由于主体并未在时间上早于客体，不能成立 precedes(subject->object)。重新判断：两个情节分别发生在 scene_31 和 scene_30，scene_30 先于 scene_31，因此 '向邱雅道歉' 先于 '强占座位'。但输入中主体是 '强占座位' (scene_31)，客体是 '道歉' (scene_30)，故主体在时间上晚于客体，不能构成 'precedes' 从主体到客体。若反过来成立，则当前方向不满足。因此，尽管存在时间先后，方向相反，不能合法使用 precedes。其他关系：无因果证据（causes）、无并置对比（contrasts_with）、无扩展说明（elaborates）。因此，尽管有时间顺序，但方向与 allowed relation 的 directed 要求冲突，无法合法赋值。最终：无有效关系可被支持。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9a266cac9bc4",
+    "subject_id": "ep_19d8990c1df4f41d",
+    "object_id": "ep_098a4f055253917d",
+    "relation_type": "precedes",
+    "reason": "张扬推动夏洛代表致辞发生在马冬梅持刀追砍夏洛之前，因为致辞安排为后续冲突埋下伏笔，且两个情节均发生在同一场合‘邱雅的婚礼’中，叙事顺序上前者引导后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e08dc9cea02c",
+    "subject_id": "ep_aabbf0aca9bc1dcd",
+    "object_id": "ep_c823ce8af1259a99",
+    "relation_type": "elaborates",
+    "reason": "邱雅质问夏洛破坏自行车的情节引发了夏洛解释汽水来源并揭示真心的情节，后者通过提供夏洛的动机和情感背景，扩展并澄清了前一情节中的误解。描述中显示两情节均发生在同一场景（scene_49），且夏洛的解释直接回应邱雅的质问，构成对冲突情境的进一步阐明。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_20f7406c4562",
+    "subject_id": "ep_000a3c9be3e5c119",
+    "object_id": "ep_9384852c2f314500",
+    "relation_type": "causes",
+    "reason": "夏洛在婚礼上单膝跪地激化冲突，导致新郎情绪低落，气氛紧张，这一公开挑衅行为直接引发张扬出面称赞新郎以维护其尊严，文本中事件顺序和反应逻辑支持该因果关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bd46a0ec6d37",
+    "subject_id": "ep_b8d976e713a8dae1",
+    "object_id": "ep_8fd666c2fa963b61",
+    "relation_type": "precedes",
+    "reason": "夏洛在自行车棚被大春纠缠并急于摆脱以继续接近邱雅，这一情节在叙事顺序上早于邱雅向夏洛道歉并表达欣赏。两个情节均发生在同一文档（doc_48）中，且相关事件（scene_49）表明它们属于连续场景，夏洛的搭讪计划为后续邱雅道歉提供了直接上下文。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c0a677a447cb",
+    "subject_id": "ep_dae9ba965b09b285",
+    "object_id": "ep_1007bf7efa86b829",
+    "relation_type": "precedes",
+    "reason": "夏洛确认自己身处重复梦境是其意识觉醒的第一步，随后王老师进一步施压导致全班哄笑，叙事上前者为后者提供情境基础，且在逻辑时序上，夏洛的识别行为发生在被老师指责和同学反应之前。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6e4ee7ef118f",
+    "subject_id": "ep_19d8990c1df4f41d",
+    "object_id": "ep_9df7f33fe4b9e605",
+    "relation_type": "precedes",
+    "reason": "根据描述，张扬推动夏洛代表致辞发生在婚礼现场冷场之后、夏洛与马冬梅冲突之前，且两个情节均发生在同一场合'邱雅的婚礼 (scene_18)'中，叙事顺序上前者早于后者，为后续冲突埋下伏笔，表明时间上的先后关系明确。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1e9ba922abb8",
+    "subject_id": "ep_68e8f444178ca53c",
+    "object_id": "ep_9384852c2f314500",
+    "relation_type": "precedes",
+    "reason": "夏洛强行拉邱雅上台引发骚动后，张扬才称赞新郎展现气度，以应对前一事件造成的紧张局势。两个情节均发生在同一场合（邱雅的婚礼）的连续叙事中，且事件序列显示前者直接触发了后者的情境背景。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bcc24ef88933",
+    "subject_id": "ep_1007bf7efa86b829",
+    "object_id": "ep_664c7c30155253dc",
+    "relation_type": "precedes",
+    "reason": "王老师进一步施压导致全班哄笑发生在夏洛强吻邱雅并陷入现实混淆之前，两个情节均发生在scene_21，且描述中王老师的施压和全班哄笑是夏洛情绪失控的前奏，随后夏洛才走向邱雅并实施强吻，叙事顺序明确。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c1be546720c7",
+    "subject_id": "ep_1007bf7efa86b829",
+    "object_id": "ep_39e99a1843d86da0",
+    "relation_type": "precedes",
+    "reason": "王老师进一步施压导致全班哄笑发生在校方介入并试图控制局势之前，因为全班哄笑和夏洛情绪失控是引发袁华带校长与教导主任赶到现场的直接背景，且两个情节均发生在scene_21，但施压与哄笑在叙事顺序上先于校方人员进入教室和进行干预。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2f783ffc298b",
+    "subject_id": "ep_b181889370ff1de6",
+    "object_id": "ep_4ff66288ba8c4869",
+    "relation_type": "precedes",
+    "reason": "根据描述，两个情节均发生在同一场合‘学校紧急例会 (scene_30)’中。‘纠正感谢对象并道歉王老师’涉及夏洛向王老师道歉及王老师鼓掌回应，而‘结束例会并恢复教学秩序’包括校长宣布例会结束、学生回班和送医安排。在叙事顺序上，道歉与和解行为逻辑上先于例会正式结束和队伍撤离，因此该关系为 directed 的 precedes，方向为 ep_b181889370ff1de6 -> ep_4ff66288ba8c4869。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_73229646d89d",
+    "subject_id": "ep_1007bf7efa86b829",
+    "object_id": "ep_45ea11a0977a78b0",
+    "relation_type": "precedes",
+    "reason": "王老师进一步施压导致全班哄笑（ep_1007bf7efa86b829）中，夏洛情绪失控引发哄笑，随后在夏洛察觉环境异常并产生困惑（ep_45ea11a0977a78b0）中，夏洛回头发现走廊异变并表现出困惑，叙事顺序上前者紧接后者，且相关事件均发生在scene_21，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_01b67136adf9",
+    "subject_id": "ep_664c7c30155253dc",
+    "object_id": "ep_18c0bf850c784e6e",
+    "relation_type": "precedes",
+    "reason": "夏洛强吻邱雅并陷入现实混淆这一情节发生在邱雅情绪低落之后，婉婉和贝贝随后安慰她并讨论亲嘴事件。根据事件的因果和时间顺序，强吻事件直接导致邱雅情绪低落，从而引发后续安慰情节，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_65e6aade6d8d",
+    "subject_id": "ep_88bd16d07aa9f3b3",
+    "object_id": "ep_8fd666c2fa963b61",
+    "relation_type": "precedes",
+    "reason": "夏洛卖车轮搭讪失败并被锁车的情节发生在邱雅道歉并表达对夏洛的欣赏之前，因为邱雅是在了解到夏洛的行为后才意识到误会并道歉，叙事顺序和事件逻辑支持这一时间先后关系。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a3c428db772a",
+    "subject_id": "ep_68e8f444178ca53c",
+    "object_id": "ep_d896591025b16840",
+    "relation_type": "precedes",
+    "reason": "主体情节‘夏洛强行拉邱雅上台引发骚动’发生在婚礼现场（scene_18），而客体情节‘邱雅离开并引发马冬梅愤怒回应’发生在后续场景（scene_28），根据文档中场景编号的顺序，前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_812242d44059",
+    "subject_id": "ep_88bd16d07aa9f3b3",
+    "object_id": "ep_aabbf0aca9bc1dcd",
+    "relation_type": "precedes",
+    "reason": "根据描述，夏洛卖车轮搭讪失败并被锁车的情节中，大春揭穿夏洛卖掉了邱雅的车轮，这一事件直接导致邱雅发现自行车被卸掉前轮并情绪激动地质问夏洛。因此，主体情节在叙事顺序上先于客体情节发生，且相关事件在scene_49中按此顺序展开。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b08e6cd3bfd9",
+    "subject_id": "ep_738d7b7165c83f23",
+    "object_id": "ep_9e12f7efb56807ad",
+    "relation_type": "precedes",
+    "reason": "袁华情绪失控愤然离场（scene_32）发生在篮球场对峙场景，而敲门求见校长（scene_33）发生在下一场景，文档顺序和场景编号表明前者在叙事时间上早于后者，构成清晰的时间先后关系。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b1f2c8c2d0b2",
+    "subject_id": "ep_7ea5242c3f89b9d9",
+    "object_id": "ep_78269c9df216ca64",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序，王老师应对夏洛的换座请求并质疑其动机（doc_30）发生在王老师升级羞辱并强迫朗读情书（doc_20）之前。尽管doc_id数值上doc_30大于doc_20，但scene_21在两个episode的related_events中均被引用，表明ep_78269c9df216ca64发生在scene_21，而ep_7ea5242c3f89b9d9发生在scene_31，scene编号递增表明时间顺序上ep_78269c9df216ca64早于ep_7ea5242c3f89b9d9。然而，由于subject是ep_7ea5242c3f89b9d9，object是ep_78269c9df216ca64，且实际事件顺序是object在subject之前，因此正确方向应为object precedes subject。但由于precedes是有向关系，且题目要求判断subject到object的关系，而subject事件实际发生在后，故不能成立precedes(subject->object)。重新分析：ep_78269c9df216ca64发生在scene_21，ep_7ea5242c3f89b9d9发生在scene_31，scene编号表明前者早于后者，因此ep_78269c9df216ca64 precedes ep_7ea5242c3f89b9d9。但当前subject是ep_7ea5242c3f89b9d9，object是ep_78269c9df216ca64，即后一事件作为subject，前一事件作为object，因此subject并未在叙事上早于object。相反，object早于subject。因此precedes关系应为object->subject，而非subject->object。由于关系方向不成立，不能选precedes。无其他明确因果、对比或扩展关系证据，故输出NONE。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d699544e6f03",
+    "subject_id": "ep_1557d8f3fb57cba1",
+    "object_id": "ep_39e99a1843d86da0",
+    "relation_type": "precedes",
+    "reason": "袁华袭击大春导致其晕倒发生在教室冲突升级的早期阶段，而校方介入并试图控制局势描述的是校长和教导主任随后赶到现场并进行干预，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_06f8fcb17052",
+    "subject_id": "ep_ace48f07d8574c9d",
+    "object_id": "ep_738d7b7165c83f23",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'夏洛强占座位引发连锁换座' 发生在 scene_31，而 '袁华情绪失控愤然离场' 发生在 scene_32，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5629db7734cb",
+    "subject_id": "ep_1557d8f3fb57cba1",
+    "object_id": "ep_2f02f32fa0ef9dc6",
+    "relation_type": "precedes",
+    "reason": "袁华袭击大春导致其晕倒（ep_1557d8f3fb57cba1）发生在袁华嫉妒夏洛与大春互动（ep_2f02f32fa0ef9dc6）之前，因为袭击后夏洛与大春仍能离去，触发袁华的嫉妒情绪。文本通过事件顺序和情境逻辑支持这一时间先后关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_49_part_1",
+      "scene_49_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d7ccd7c4ae7f",
+    "subject_id": "ep_d404d78c8f46a002",
+    "object_id": "ep_738d7b7165c83f23",
+    "relation_type": "precedes",
+    "reason": "表扬袁华获奖并引发公平性质疑（doc_30, scene_31）在叙事顺序上早于袁华情绪失控愤然离场（doc_31, scene_32），且两事件分别发生在连续场景中，文本支持其时间先后顺序。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9cf74cdef036",
+    "subject_id": "ep_7f2990394f91d556",
+    "object_id": "ep_106b8ebdb25d79a9",
+    "relation_type": "precedes",
+    "reason": "根据场景顺序推断，夏洛进入酒店大堂并凝视邱雅婚纱照（scene_6）发生在婚礼签到之前（scene_9），因此该情节在叙事时间上早于完成婚礼签到并献上礼金。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9daf61826148",
+    "subject_id": "ep_c1687755bb0cbca0",
+    "object_id": "ep_7f2990394f91d556",
+    "relation_type": "elaborates",
+    "reason": "夏洛重返荣耀时刻这一情节中，他进入酒店大堂并触发回忆，而凝视邱雅婚纱照并流露情感发生在同一空间背景下，进一步揭示其内心情感，为前一情节提供了情感细节和心理背景的扩展。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_3018a6d5541e",
+    "subject_id": "ep_7f2990394f91d556",
+    "object_id": "ep_1905a6371d7581a3",
+    "relation_type": "precedes",
+    "reason": "夏洛凝视邱雅婚纱照发生在婚礼仪式之前（scene_6 vs scene_11），在叙事顺序上早于他高调登场婚礼并引发笑场的情节，因此该关系为precedes。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1b4d32467f04",
+    "subject_id": "ep_ace48f07d8574c9d",
+    "object_id": "ep_2f02f32fa0ef9dc6",
+    "relation_type": "precedes",
+    "reason": "情节'夏洛强占座位引发连锁换座'发生在教室场景中，包含一系列由夏洛主导的座位争夺事件，而'袁华嫉妒夏洛与大春的互动'描述的是袁华在冲突后对夏洛与大春关系的负面情绪反应。根据叙事逻辑和事件流，座位争夺事件为袁华产生嫉妒情绪提供了直接上下文，且该情绪反应在时间顺序上紧随其后，因此前者在话语顺序上明确早于后者。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8c0eea6a40ad",
+    "subject_id": "ep_7f2990394f91d556",
+    "object_id": "ep_5afc35d6b38505df",
+    "relation_type": "precedes",
+    "reason": "夏洛凝视邱雅婚纱照发生在同学会聚餐之前（根据场景编号scene_6早于scene_12），因此该情节在叙事顺序上先于夏洛引起注意并做出夸张举动。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3900a0a8170f",
+    "subject_id": "ep_7f2990394f91d556",
+    "object_id": "ep_68e8f444178ca53c",
+    "relation_type": "precedes",
+    "reason": "夏洛凝视邱雅婚纱照并流露情感（scene_6）发生在夏洛强行拉邱雅上台引发骚动（scene_18）之前，文档中的场景编号表明scene_6早于scene_18，支持该时间顺序。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f9277fd6283a",
+    "subject_id": "ep_7f2990394f91d556",
+    "object_id": "ep_05efed31be348200",
+    "relation_type": "precedes",
+    "reason": "夏洛凝视邱雅婚纱照并流露情感发生在酒店大堂，属于婚礼前的场景（scene_6），而夏洛醉酒讽刺新郎激化矛盾发生在婚礼现场（scene_18），叙事时间线上前者早于后者，具有明确的先后顺序。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2d98d870dd64",
+    "subject_id": "ep_90969d5ed78bdd01",
+    "object_id": "ep_bf37530d21302a84",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'应对训斥并接受比赛任务'（scene_47）发生在'夏洛公开演唱《星晴》引发全校响应'（scene_46）之后，但叙事逻辑和事件发展顺序表明，王老师指派任务应在夏洛实际演唱之前。然而，scene_46在文档中先于scene_47出现，表明实际话语顺序为演唱情节在前，训斥与任务指派在后。因此，在叙事话语顺序上，'夏洛公开演唱《星晴》引发全校响应'（scene_46）先于'应对训斥并接受比赛任务'（scene_47）。但由于主体是ep_90969d5ed78bdd01而客体是ep_bf37530d21302a84，即主体在话语顺序上晚于客体，故主体情节在时间上并不先于客体。但根据情节内容，接受比赛任务应为演唱的前置条件，存在矛盾。然而，scene_46中夏洛已演唱《星晴》，而scene_47中才被指派参赛任务，表明实际叙事顺序为先演唱后被正式指派，可能为倒叙或非线性叙事。因此，从话语顺序看，客体情节（scene_46）在前，主体情节（scene_47）在后，故主体不先于客体。综上，无充分证据支持precedes方向。同时，无因果、对比或扩展的明确证据。因此，尽管存在叙事顺序矛盾，但无法确认任一允许关系。输出NONE。但重新审查：若scene_46为演唱，scene_47为训斥并指派任务，则指派任务在演唱之后，不合逻辑。更可能为scene编号错误或倒叙。但根据提供的related_events，主体情节中王老师因歌曲而问责，说明歌曲已存在，故演唱应在训斥之前。因此，'夏洛公开演唱《星晴》引发全校响应'（ep_bf37530d21302a84）在时间上先于'应对训斥并接受比赛任务'（ep_90969d5ed78bdd01）。但主体是前者，客体是后者，故主体precedes客体。scene编号doc_45在doc_46前也支持此顺序。因此，ep_bf37530d21302a84应在ep_90969d5ed78bdd01之前。但输入中主体为ep_90969d5ed78bdd01，客体为ep_bf37530d21302a84，即主体在后，客体在前，故主体不precedes客体。若关系为precedes且方向为subject->object，则要求主体在前，但实际是客体在前，故不成立。若考虑object->subject，则方向不符。因此，precedes关系存在但方向相反，不能选。其他关系无支持。故最终为NONE。但再审：允许的关系是precedes（directed），若客体在前，主体在后，则主体不precedes客体，而是被precedes。因此，不能选precedes。causes：演唱引发训斥？有可能，但描述中训斥是因违纪和创作歌曲，而演唱是歌曲传播的结果，可能构成因果。但主体是训斥任务，客体是演唱。若演唱导致被训斥，则客体causes主体。但关系方向为subject->object，即主体causes客体，不成立。contrasts_with：无明显对比。elaborates：无扩展关系。因此，无支持任何方向性关系。输出NONE。但注意：在主体情节中，王老师质问夏洛是否创作歌曲，说明歌曲已存在，而歌曲首次出现是在客体情节，故客体必须在主体之前。因此，时间顺序为客体precedes主体。但关系模式precedes要求subject->object，即主体在前，但实际相反，故不能选。由于方向不符，且无其他关系支持，故relation_type为NONE。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0e2bf8422204",
+    "subject_id": "ep_7f2990394f91d556",
+    "object_id": "ep_000a3c9be3e5c119",
+    "relation_type": "precedes",
+    "reason": "夏洛凝视邱雅婚纱照并流露情感（scene_6）发生在夏洛在婚礼上演唱并单膝跪地激化冲突（scene_18）之前，文档中scene_6早于scene_18，表明该情节在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_17a8e95b66c8",
+    "subject_id": "ep_7f2990394f91d556",
+    "object_id": "ep_3efcff4ec63cbdf6",
+    "relation_type": "precedes",
+    "reason": "夏洛凝视邱雅婚纱照发生在婚礼前的酒店大堂场景（scene_6），而马冬梅现身制止夏洛闹剧发生在婚礼高潮时刻（scene_18），文本中scene_6早于scene_18，因此该情节在叙事顺序上先于另一情节。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_307f15809462",
+    "subject_id": "ep_106b8ebdb25d79a9",
+    "object_id": "ep_1905a6371d7581a3",
+    "relation_type": "precedes",
+    "reason": "完成婚礼签到并献上礼金通常在婚礼仪式开始前发生，而夏洛高调登场婚礼并引发笑场发生在婚礼仪式场景中（scene_11），表明签到情节在叙事顺序上早于登场情节。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8da695125267",
+    "subject_id": "ep_7f2990394f91d556",
+    "object_id": "ep_63ab33c69d11cfc8",
+    "relation_type": "elaborates",
+    "reason": "夏洛凝视邱雅婚纱照并流露情感（ep_7f2990394f91d556）展示了他对邱雅的隐藏情感，为后续回忆创作歌曲并决定献唱（ep_63ab33c69d11cfc8）提供了情感背景和动机解释，后者进一步扩展了前者的内在情感状态。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_52adee41ef60",
+    "subject_id": "ep_106b8ebdb25d79a9",
+    "object_id": "ep_3efcff4ec63cbdf6",
+    "relation_type": "precedes",
+    "reason": "完成婚礼签到并献上礼金发生在婚礼早期阶段，而马冬梅现身制止夏洛闹剧发生在婚礼高潮时刻，根据婚礼流程的时间顺序，签到行为在前，干预闹剧事件在后，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_86942ac389d1",
+    "subject_id": "ep_55756eb32829909e",
+    "object_id": "ep_05efed31be348200",
+    "relation_type": "precedes",
+    "reason": "观察新郎并产生质疑发生在夏洛醉酒讽刺新郎之前，因为夏洛首先注意到新郎形象并产生困惑（scene_8），之后在醉酒状态下表达讽刺（scene_18），时间顺序和叙事发展支持该关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_38cb5d394f88",
+    "subject_id": "ep_55756eb32829909e",
+    "object_id": "ep_3efcff4ec63cbdf6",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，夏洛在婚礼现场观察新郎并产生质疑（scene_8）发生在马冬梅现身制止夏洛闹剧（scene_18）之前，文档中scene_8早于scene_18，因此该关系在叙事顺序上明确支持precedes。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_84b48ed0812e",
+    "subject_id": "ep_55756eb32829909e",
+    "object_id": "ep_000a3c9be3e5c119",
+    "relation_type": "precedes",
+    "reason": "观察新郎并产生质疑发生在婚礼现场早期（scene_8），而夏洛演唱并单膝跪地激化冲突发生在后续场景（scene_18），两者均在婚礼场合中，且scene_8在叙事顺序上早于scene_18，因此该关系为precedes。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a80ac7027541",
+    "subject_id": "ep_55756eb32829909e",
+    "object_id": "ep_098a4f055253917d",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，夏洛在婚礼现场观察新郎并产生质疑（scene_8）发生在马冬梅持刀追砍夏洛导致现场失控（scene_18）之前，两个情节均发生在婚礼场合中，但scene_8早于scene_18，因此该关系为precedes。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bf50629e3bb4",
+    "subject_id": "ep_c1e378ffaac97bbc",
+    "object_id": "ep_c1687755bb0cbca0",
+    "relation_type": "precedes",
+    "reason": "根据描述，'准备登场并发现老同学' 发生在夏洛进入酒店之前，他在车内发现老同学并要求停车，这一事件直接引导出后续进入酒店大堂并触发回忆的场景。因此，该情节在叙事顺序上明确早于 '夏洛重返荣耀时刻'。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3d02396e438b",
+    "subject_id": "ep_9e6c45ff1581e0c6",
+    "object_id": "ep_c1687755bb0cbca0",
+    "relation_type": "contrasts_with",
+    "reason": "夏洛在升旗仪式上因裤子被升起而遭受公开羞辱并哭泣，与他后来被同学簇拥进入豪华酒店大堂、重返荣耀的场景形成鲜明对比，两个情节在情感基调和社交状态上呈现逆转，构成强烈的叙事对比。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_81f99870e916",
+    "subject_id": "ep_19b3d81129fcb8db",
+    "object_id": "ep_c1687755bb0cbca0",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'回应同学对豪车的疑问'发生在酒店大堂进入之前（scene_3 在 scene_4 之前），因此该情节在叙事顺序上早于'夏洛重返荣耀时刻'。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_687ef200bbf3",
+    "subject_id": "ep_c1687755bb0cbca0",
+    "object_id": "ep_811e79d45069e5b2",
+    "relation_type": "elaborates",
+    "reason": "夏洛重返荣耀时刻这一情节中，他被簇拥进入酒店大堂并回忆过往经历，而回顾旧日音乐收藏并感慨歌手longevity则具体展现了他对过去音乐时代的怀旧细节。后者为前者中的‘回忆起过往经历’提供了具体内容和背景扩展，构成对先前回忆情节的进一步阐释。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b9f25cc966b6",
+    "subject_id": "ep_c1687755bb0cbca0",
+    "object_id": "ep_71105c751993f976",
+    "relation_type": "elaborates",
+    "reason": "夏洛重返荣耀时刻这一情节通过展现他步入酒店大堂并触发回忆，为后续夏洛身份暴露并化解尴尬的情节提供了背景和情感铺垫，说明其当前社会地位与过去经历之间的联系，从而扩展了后者的情境。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5078eaff1390",
+    "subject_id": "ep_fa79950faf621e83",
+    "object_id": "ep_c1687755bb0cbca0",
+    "relation_type": "precedes",
+    "reason": "夏洛抵达并重逢老同学（ep_fa79950faf621e83）发生在夏洛步入酒店大堂并开始回忆（ep_c1687755bb0cbca0）之前，根据事件顺序，下车寒暄是进入大堂的前置动作，且文档中场景编号scene_3早于scene_4，支持该时序关系。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2e6ec3a29deb",
+    "subject_id": "ep_737ba10a7f94bfa9",
+    "object_id": "ep_1905a6371d7581a3",
+    "relation_type": "precedes",
+    "reason": "挑选并整理礼服发生在婚礼登场之前，因为夏洛需要先准备礼服才能在婚礼上登场，且相关事件分别位于scene_10和scene_11，表明明确的时间顺序。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c3dda4c434b5",
+    "subject_id": "ep_bf443bd65e157138",
+    "object_id": "ep_cdad5afd627cdadb",
+    "relation_type": "elaborates",
+    "reason": "马冬梅目击夏洛弹琴后离开这一情节通过展示外部观察者的反应，扩展了夏洛通过音乐表达自我的内在行为，提供了情感和社会语境上的补充细节。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b192fb6df88a",
+    "subject_id": "ep_737ba10a7f94bfa9",
+    "object_id": "ep_c19cb8231f63a919",
+    "relation_type": "contrasts_with",
+    "reason": "挑选并整理礼服体现夏洛对形象的精心维护，而马冬梅揭露其虚荣与依赖则暴露其行为背后的不劳而获和虚假表象，二者在价值观和行为动机上形成鲜明对比，凸显外在光鲜与内在空洞的对立。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_202e85999f7b",
+    "subject_id": "ep_804fa0f8b3f438d1",
+    "object_id": "ep_7ebba89189a1bdd0",
+    "relation_type": "precedes",
+    "reason": "夏洛闯入并躲避追捕（躲进未装修洗手间）发生在夏洛走出洗手间进入回忆场景之前，两者通过同一洗手间空间衔接，且叙事上前者为后者提供进入记忆场景的入口，时间顺序明确。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e0d722f0af8e",
+    "subject_id": "ep_804fa0f8b3f438d1",
+    "object_id": "ep_9af3970cf2186e01",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'夏洛闯入并躲避追捕' 发生在 scene_19，而 '夏洛情绪崩溃并砸碎镜子' 发生在 scene_20，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5ebf139b2673",
+    "subject_id": "ep_804fa0f8b3f438d1",
+    "object_id": "ep_b6f06e1c2fd42afa",
+    "relation_type": "precedes",
+    "reason": "夏洛闯入并躲避追捕发生在酒店二楼未开放区域并躲进未装修洗手间（scene_19），随后在洗手间内从镜中自视陷入自怜（scene_20），两个情节在叙事顺序上连续，且相关事件的场景编号表明前者早于后者。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f13b6508a82e",
+    "subject_id": "ep_9df7f33fe4b9e605",
+    "object_id": "ep_804fa0f8b3f438d1",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，夏洛失手打倒马冬梅（scene_18）发生在夏洛闯入并躲避追捕（scene_19）之前，且后者是前者引发的追捕的直接延续。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ebdbdb395181",
+    "subject_id": "ep_804fa0f8b3f438d1",
+    "object_id": "ep_455f101cda44a39f",
+    "relation_type": "precedes",
+    "reason": "夏洛闯入并躲避追捕（ep_804fa0f8b3f438d1）发生在酒店二楼未开放区域并最终躲进未装修洗手间，而夏洛躲避冲突并爆发情绪（ep_455f101cda44a39f）描述的是在洗手间内反锁门后的情绪发泄行为。根据叙事逻辑和空间连续性，闯入与躲避追捕的情节在时间上先于在洗手间内爆发情绪的行为，因此前者在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8fa23b1b7379",
+    "subject_id": "ep_fa79950faf621e83",
+    "object_id": "ep_1905a6371d7581a3",
+    "relation_type": "precedes",
+    "reason": "夏洛抵达并重逢老同学发生在婚礼仪式开始前，根据叙事顺序，夏洛先抵达酒店与老同学寒暄，之后才进入婚礼现场并发生与司仪撞衫的事件。related_events 和场合的时间逻辑支持这一先后顺序。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5b5d9dfe04d3",
+    "subject_id": "ep_098a4f055253917d",
+    "object_id": "ep_804fa0f8b3f438d1",
+    "relation_type": "precedes",
+    "reason": "马冬梅持刀追砍夏洛导致现场失控（ep_098a4f055253917d）发生在夏洛闯入并躲避追捕（ep_804fa0f8b3f438d1）之前，根据相关事件的时间和场景顺序，夏洛的逃跑行为是对被追砍的直接反应，且两个情节分别关联scene_18和scene_19，表明叙事上的先后顺序。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8bfd6de6ec86",
+    "subject_id": "ep_c1e378ffaac97bbc",
+    "object_id": "ep_1905a6371d7581a3",
+    "relation_type": "precedes",
+    "reason": "准备登场并发现老同学（ep_c1e378ffaac97bbc）发生在婚礼现场进入之前，根据描述，夏洛在车内整理仪容、发现同学并要求停车，是进入婚礼现场前的准备阶段；而夏洛高调登场婚礼并引发笑场（ep_1905a6371d7581a3）明确发生在婚礼仪式中。因此，前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_93df1f630797",
+    "subject_id": "ep_1905a6371d7581a3",
+    "object_id": "ep_3efcff4ec63cbdf6",
+    "relation_type": "precedes",
+    "reason": "夏洛高调登场婚礼并引发笑场发生在婚礼仪式场景（scene_11），而马冬梅现身制止夏洛闹剧发生在婚礼高潮时刻的场景（scene_18），scene_11在叙事顺序上早于scene_18，因此该关系为precedes。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_426fe567d468",
+    "subject_id": "ep_1905a6371d7581a3",
+    "object_id": "ep_05efed31be348200",
+    "relation_type": "precedes",
+    "reason": "夏洛高调登场婚礼并引发笑场（scene_11）发生在夏洛醉酒讽刺新郎激化矛盾（scene_18）之前，两个情节均发生在婚礼场合，但scene_11在叙事时间上早于scene_18，有明确的文档场景编号支持时间顺序。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8cdfbf5ba815",
+    "subject_id": "ep_1905a6371d7581a3",
+    "object_id": "ep_000a3c9be3e5c119",
+    "relation_type": "precedes",
+    "reason": "夏洛高调登场婚礼并引发笑场（scene_11）发生在夏洛演唱并单膝跪地激化冲突（scene_18）之前，两个情节均发生在婚礼场合，但scene_11在叙事顺序上早于scene_18，有明确的场景编号支持时间先后。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9d61b6fffd17",
+    "subject_id": "ep_1905a6371d7581a3",
+    "object_id": "ep_098a4f055253917d",
+    "relation_type": "precedes",
+    "reason": "夏洛高调登场婚礼并引发笑场发生在婚礼仪式(scene_11)，而马冬梅持刀追砍夏洛的事件发生在邱雅的婚礼(scene_18)，scene_11在叙事顺序上早于scene_18，因此该关系为precedes。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6f3826becf46",
+    "subject_id": "ep_1905a6371d7581a3",
+    "object_id": "ep_c19cb8231f63a919",
+    "relation_type": "contrasts_with",
+    "reason": "夏洛高调登场婚礼并引发笑场突显其追求表面风光的虚荣，而马冬梅揭露夏洛虚荣与依赖则直接批判其不劳而获和虚假做派，二者在婚礼场合中形成道德与价值观上的强烈对比，前者是滑稽的自我展示，后者是严肃的真相揭露。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f18769ccc65a",
+    "subject_id": "ep_63ab33c69d11cfc8",
+    "object_id": "ep_180797199deefc0d",
+    "relation_type": "elaborates",
+    "reason": "夏洛回忆创作歌曲并决定献唱这一情节为他在大排档表演并获得打赏提供了情感动机和背景解释，说明他演唱的歌曲具有特殊意义，从而扩展了表演情节的深层含义。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ad8a3a635bba",
+    "subject_id": "ep_c1e378ffaac97bbc",
+    "object_id": "ep_19b3d81129fcb8db",
+    "relation_type": "precedes",
+    "reason": "根据描述，'准备登场并发现老同学'发生在夏洛指示司机绕行并发现同学时，直接触发了后续的社交互动；而'回应同学对豪车的疑问'是在此发现之后，围绕豪车展开的问答。因此，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_535adbd3380d",
+    "subject_id": "ep_c1e378ffaac97bbc",
+    "object_id": "ep_fa79950faf621e83",
+    "relation_type": "precedes",
+    "reason": "主体情节描述夏洛在车内准备登场并发现老同学，随即要求停车，这一行为直接导向客体情节中夏洛抵达酒店并下车重逢老同学。相关事件的时间顺序和动作连贯性表明，发现同学并停车是抵达与重逢的前置步骤，因此主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b06f66b17c70",
+    "subject_id": "ep_c1e378ffaac97bbc",
+    "object_id": "ep_5afc35d6b38505df",
+    "relation_type": "precedes",
+    "reason": "情节'准备登场并发现老同学'发生在同学会聚餐开始前，夏洛在车中发现老同学并决定下车，这为后续在聚餐场合中'夏洛引起注意并做出夸张举动'提供了叙事上的前置动作。相关事件的时间顺序和场景推进支持该先后关系。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d517364159ce",
+    "subject_id": "ep_c1e378ffaac97bbc",
+    "object_id": "ep_71105c751993f976",
+    "relation_type": "precedes",
+    "reason": "情节 '准备登场并发现老同学' 发生在老同学聚会开始前，夏洛刚抵达酒店并发现同学，而 '夏洛身份暴露并化解尴尬' 发生在聚会进行中，由张扬揭示夏洛在场引发后续反应。因此，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0b4db5de5a85",
+    "subject_id": "ep_c1e378ffaac97bbc",
+    "object_id": "ep_9c748330cb6ca15a",
+    "relation_type": "precedes",
+    "reason": "情节 '准备登场并发现老同学' 发生在同学会聚餐场景之前，是夏洛即将进入聚会的准备阶段；而 '回应质疑并揭示演唱会筹备' 发生在聚餐过程中，涉及夏洛在场时对他人质疑的回应。因此，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c36bacd18ed5",
+    "subject_id": "ep_c1e378ffaac97bbc",
+    "object_id": "ep_9c57b0a9b5280990",
+    "relation_type": "precedes",
+    "reason": "情节'准备登场并发现老同学'描述了夏洛抵达聚会前的场景，包括发现老同学并决定停车，这在时间顺序上直接早于'开场合唱引发对夏洛的关注'，后者发生在聚会开始后同学们将焦点集中于夏洛的互动。两个情节通过'昔日同学非正式聚会'这一场合连接，且叙事顺序显示重逢触发后才进入集体互动环节。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7f1388829bfb",
+    "subject_id": "ep_85f855b4ae490e6e",
+    "object_id": "ep_90969d5ed78bdd01",
+    "relation_type": "causes",
+    "reason": "夏洛通过广播向邱雅献唱原创歌曲这一行为引发了王老师的训斥，并直接导致其被指派参加全区中小学歌手大赛的任务。文本中明确指出王老师质问夏洛创作歌曲的责任，并以此为基础命令他参赛，构成直接因果链。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e173aa5bd4b0",
+    "subject_id": "ep_c1e378ffaac97bbc",
+    "object_id": "ep_3efcff4ec63cbdf6",
+    "relation_type": "precedes",
+    "reason": "情节'准备登场并发现老同学'发生在夏洛前往婚礼途中，触发了他与老同学的重逢，为后续在婚礼上失控及马冬梅现身干预提供了叙事起点；而'马冬梅现身制止夏洛闹剧'发生在婚礼现场的高潮时刻，时间顺序上明显晚于前者。因此，'准备登场并发现老同学'在叙事顺序上早于'马冬梅现身制止夏洛闹剧'，构成明确的precedence关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_30eb3ff40c1d",
+    "subject_id": "ep_90969d5ed78bdd01",
+    "object_id": "ep_e5ba310f6e61d193",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对训斥并接受比赛任务'发生在办公室场景中，王老师命令夏洛参加歌手大赛，而客体情节'夏洛表演《双节棍》并引爆现场'发生在歌手大赛的舞台上，是比赛任务的执行。根据叙事顺序，接受任务在前，舞台表演在后，且两个情节通过'全区中小学歌手大赛'这一场合衔接，支持明确的时间先后关系。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6aee45744b64",
+    "subject_id": "ep_90969d5ed78bdd01",
+    "object_id": "ep_b8d976e713a8dae1",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序，王老师训斥夏洛并指派比赛任务（doc_46）发生在夏洛在自行车棚被大春纠缠（doc_48）之前，且两个情节在叙事时间线上连续，前者为后者提供了动机背景：夏洛被指派参赛后急于摆脱大春以推进对邱雅的计划。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_49_part_1",
+      "scene_49_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_31a0632b824f",
+    "subject_id": "ep_a249753761eeeebe",
+    "object_id": "ep_eacb9c31732ff6af",
+    "relation_type": "precedes",
+    "reason": "夏洛从昏迷中醒来并确认现实是其康复过程的初始阶段，发生在回到家中并展现异常行为之前。描述中提到的事件顺序和上下文逻辑支持该时间先后关系。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9339d01a0444",
+    "subject_id": "ep_38a48ccf27706bbe",
+    "object_id": "ep_a249753761eeeebe",
+    "relation_type": "precedes",
+    "reason": "情节 '夏洛反抗并集体爆发冲突' 发生在课堂场景（scene_21），而 '确认现实并应对创伤' 发生在后续的医院场景（scene_22），文档顺序和场景编号表明前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_02c854502304",
+    "subject_id": "ep_3efcff4ec63cbdf6",
+    "object_id": "ep_a249753761eeeebe",
+    "relation_type": "precedes",
+    "reason": "马冬梅现身制止夏洛闹剧发生在邱雅婚礼现场，属于夏洛醉酒冲突的高潮；而确认现实并应对创伤发生在夏洛昏迷后于医院醒来，时间线上明显后续。文本中相关事件的场景编号（scene_18 vs scene_22）支持该顺序，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b787c123ca9a",
+    "subject_id": "ep_76841c3d60987399",
+    "object_id": "ep_60c24c34f0ce7ca5",
+    "relation_type": "precedes",
+    "reason": "根据描述，夏洛在房间内发出怪笑并被观察（应对夏洛的异常行为）发生在其情绪崩溃后赤脚冲出医院（惊恐逃离医院）之前，因此该情节在叙事顺序上先于逃离行为。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6975a0153d0e",
+    "subject_id": "ep_9df7f33fe4b9e605",
+    "object_id": "ep_a249753761eeeebe",
+    "relation_type": "precedes",
+    "reason": "情节 '夏洛失手打倒马冬梅引发暴力升级' 发生在邱雅的婚礼现场（scene_18），而 '确认现实并应对创伤' 发生在夏洛受伤昏迷后于医院苏醒时（scene_22），scene_18 在叙事顺序上早于 scene_22，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b47c8f328e6e",
+    "subject_id": "ep_664c7c30155253dc",
+    "object_id": "ep_a249753761eeeebe",
+    "relation_type": "precedes",
+    "reason": "夏洛强吻邱雅并陷入现实混淆发生在课堂场景中（scene_21），而确认现实并应对创伤发生在医院场景中（scene_22），文档顺序和场景编号表明前者在叙事时间上早于后者，且后者涉及夏洛从昏迷中醒来，暗示了时间上的延续和事件的先后顺序。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_16922c367aa1",
+    "subject_id": "ep_b8f413c6db8d9752",
+    "object_id": "ep_a249753761eeeebe",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'夏洛纵火引发混乱并迎接母亲'（scene_21）发生在'确认现实并应对创伤'（scene_22）之前。scene_21中的事件直接导致夏洛受伤并进入昏迷，随后在scene_22中从昏迷中醒来并确认现实，因此该关系为叙事顺序上的前导。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6de06a182306",
+    "subject_id": "ep_60c24c34f0ce7ca5",
+    "object_id": "ep_eacb9c31732ff6af",
+    "relation_type": "precedes",
+    "reason": "夏洛在情绪崩溃后惊恐逃离医院，随后回到家中并表现出异常亲昵行为。根据叙事顺序，逃离医院发生在回家之前，且描述中‘回到家中’暗示了时间上的后续发展，因此‘惊恐逃离医院’在时间顺序上先于‘夏洛回家并展现异常亲昵行为’。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a9c6bd177e17",
+    "subject_id": "ep_60c24c34f0ce7ca5",
+    "object_id": "ep_aadbd719736356e7",
+    "relation_type": "precedes",
+    "reason": "夏洛在情绪崩溃后赤脚冲出医院房间，这一行为发生在小流氓出现并将其拖走之前。根据事件顺序，惊恐逃离医院是触发后续袭击和绑架的前置情境，且两个情节在叙事上紧密衔接，前者直接导向后者。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_feed2a3f48d4",
+    "subject_id": "ep_9af3970cf2186e01",
+    "object_id": "ep_60c24c34f0ce7ca5",
+    "relation_type": "precedes",
+    "reason": "夏洛情绪崩溃并砸碎镜子发生在其惊恐逃离医院之前，根据事件描述的逻辑顺序，情绪崩溃和自我伤害行为是逃离行为的直接前奏，且相关事件scene_20在叙事上早于scene_22。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4119471ae12c",
+    "subject_id": "ep_c65b00b2168a294d",
+    "object_id": "ep_a249753761eeeebe",
+    "relation_type": "precedes",
+    "reason": "王老师镇压全班并暴力逼迫夏洛的情节（ep_c65b00b2168a294d）发生在夏洛昏迷后醒来并确认现实的情节（ep_a249753761eeeebe）之前，因为前者导致夏洛出现眩晕与耳鸣并陷入身心崩溃，这为后续昏迷及在医院醒来提供了叙事上的直接前因。文档中相关事件的时间逻辑和状态转换支持这一顺序。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_276147adddfd",
+    "subject_id": "ep_c65b00b2168a294d",
+    "object_id": "ep_60c24c34f0ce7ca5",
+    "relation_type": "causes",
+    "reason": "王老师镇压全班并暴力逼迫夏洛导致夏洛出现眩晕与耳鸣，陷入身心崩溃状态，直接引发其惊恐逃离医院的行为。描述中明确显示前者是后者的情节触发点。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_57cbad948ca6",
+    "subject_id": "ep_966c5b75cb4f4a9f",
+    "object_id": "ep_85f855b4ae490e6e",
+    "relation_type": "precedes",
+    "reason": "夏洛偷看校花邱雅发生在做广播体操期间，属于早期对邱雅的关注行为；而通过广播献唱原创歌曲是一次更进一步的公开表白行为，具有情感升级的叙事逻辑。尽管没有明确时间戳，但根据行为发展的自然顺序，偷看行为很可能在叙事上早于公开献唱，构成情节上的先后关系。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_24f3efbd957a",
+    "subject_id": "ep_7ebba89189a1bdd0",
+    "object_id": "ep_966c5b75cb4f4a9f",
+    "relation_type": "elaborates",
+    "reason": "夏洛走出洗手间进入回忆场景标志着进入一个高中时代的记忆空间，而夏洛偷看校花邱雅发生在该记忆场景中的广播体操时段，后者为前者所开启的回忆内容提供了具体细节和背景，因此前者通过引入回忆框架扩展并支持了后者的发生语境。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8cd2d2e2711f",
+    "subject_id": "ep_664c7c30155253dc",
+    "object_id": "ep_60c24c34f0ce7ca5",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，夏洛在教室中强吻邱雅并陷入现实混淆（ep_664c7c30155253dc）发生在课堂场景（scene_21），而惊恐逃离医院（ep_60c24c34f0ce7ca5）发生在医院房间（scene_22），scene_21 在文档顺序上早于 scene_22，且行为的严重性升级与场景转换一致，支持该叙事顺序。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b076242645dc",
+    "subject_id": "ep_966c5b75cb4f4a9f",
+    "object_id": "ep_88bd16d07aa9f3b3",
+    "relation_type": "precedes",
+    "reason": "夏洛偷看校花邱雅发生在做广播体操的场景（scene_7），而夏洛卖车轮搭讪失败并被锁车发生在scene_49，文档时序明确显示前者早于后者，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ab8365c97c8e",
+    "subject_id": "ep_966c5b75cb4f4a9f",
+    "object_id": "ep_93640d97cdfc1ac8",
+    "relation_type": "precedes",
+    "reason": "夏洛偷看校花邱雅发生在做广播体操期间（scene_7），而夏洛向邱雅示好并遭马冬梅阻挠发生在后续场景（scene_31），文档时序明确支持前者早于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fcc167350b00",
+    "subject_id": "ep_966c5b75cb4f4a9f",
+    "object_id": "ep_664c7c30155253dc",
+    "relation_type": "precedes",
+    "reason": "夏洛偷看校花邱雅发生在做广播体操期间（scene_7），而夏洛强吻邱雅并陷入现实混淆发生在后续的课堂场景中（scene_21），文档中的场景编号表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ddf1caccf292",
+    "subject_id": "ep_966c5b75cb4f4a9f",
+    "object_id": "ep_b8d976e713a8dae1",
+    "relation_type": "precedes",
+    "reason": "夏洛偷看校花邱雅发生在广播体操期间，是一个短暂的观察行为；而夏洛应对大春的纠缠并准备接近邱雅发生在自行车棚，显示他正采取进一步行动接近邱雅。从叙事逻辑和行为进展来看，先注意到邱雅才可能激发后续接近的意图，且相关事件（scene_7 和 scene_49）在文档中按时间顺序排列，支持该先后关系。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_49_part_1",
+      "scene_49_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7eff00084786",
+    "subject_id": "ep_966c5b75cb4f4a9f",
+    "object_id": "ep_63ab33c69d11cfc8",
+    "relation_type": "elaborates",
+    "reason": "夏洛偷看校花邱雅这一情节发生在学生时代，展现了夏洛对邱雅早期的关注，为后续夏洛回忆创作歌曲并决定献唱提供了情感背景和动机解释，表明他对邱雅的感情由来已久。后者情节通过揭示深藏多年的情感，扩展并深化了前者所体现的情感线索。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_fa17ffdc822b",
+    "subject_id": "ep_7ebba89189a1bdd0",
+    "object_id": "ep_9e6c45ff1581e0c6",
+    "relation_type": "elaborates",
+    "reason": "夏洛走出洗手间进入回忆场景这一情节表现为进入一个高中课堂的回忆或幻想，而夏洛在升旗仪式上遭羞辱是其回忆内容的一部分。进入回忆场景为后续回忆事件提供了上下文框架，因此该主体情节扩展并引出了客体情节所描述的羞辱事件，构成背景展开关系。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_96186888d790",
+    "subject_id": "ep_9e6c45ff1581e0c6",
+    "object_id": "ep_8ba5e9f1366b0365",
+    "relation_type": "contrasts_with",
+    "reason": "夏洛在升旗仪式上因裤子被升起而遭受公开羞辱并哭泣，与他后来在紧急例会上坦然检讨、表达重生感激之情形成情感和状态上的对比，二者呈现从屈辱到自我救赎的逆转。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_423894ad0ec0",
+    "subject_id": "ep_9e6c45ff1581e0c6",
+    "object_id": "ep_e5ba310f6e61d193",
+    "relation_type": "contrasts_with",
+    "reason": "夏洛在升旗仪式上因裤子被升起而公开受辱并哭泣，处于极度羞耻和被动状态；而在《双节棍》表演中，他身穿李小龙服装，主动掌控舞台，飞踹‘东亚病夫’横匾，赢得全场沸腾，展现自信与力量。两个情节通过同一角色在不同情境下的极端反差——从被羞辱到英雄式爆发——形成强烈对比，构成叙事上的逆转与情绪上的对举。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8ae9848fcad0",
+    "subject_id": "ep_9e6c45ff1581e0c6",
+    "object_id": "ep_bf37530d21302a84",
+    "relation_type": "contrasts_with",
+    "reason": "夏洛在升旗仪式上遭羞辱的情节呈现了公开场合下的尴尬与痛苦，而夏洛公开演唱《星晴》引发全校响应的情节则展现了他在同一校园环境中通过音乐获得广泛共鸣与认可，两者在情感基调、社会反应和角色状态上形成明显逆转与对比。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_21dd513157a3",
+    "subject_id": "ep_9e6c45ff1581e0c6",
+    "object_id": "ep_9af3970cf2186e01",
+    "relation_type": "precedes",
+    "reason": "夏洛在升旗仪式上遭羞辱（ep_9e6c45ff1581e0c6）发生在学校公开场合，导致其情绪受创；随后夏洛情绪崩溃并砸碎镜子（ep_9af3970cf2186e01）表现为内心压抑的爆发，二者在叙事上呈现时间顺序和情绪递进，前者为触发后者情绪状态的背景，支持precedes关系。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_98f5c5e13d0f",
+    "subject_id": "ep_9e6c45ff1581e0c6",
+    "object_id": "ep_8f94fc372ee0163a",
+    "relation_type": "precedes",
+    "reason": "夏洛在升旗仪式上遭羞辱（ep_9e6c45ff1581e0c6）是引发后续违纪行为升级的早期事件之一，而校长宣布开除决定（ep_8f94fc372ee0163a）是对这些行为的正式回应，叙事上发生在之后。文档中虽未明确时间顺序，但根据事件逻辑和处分列举的行为背景，可推断羞辱事件早于开除决定。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8f7aef8f14a6",
+    "subject_id": "ep_9e6c45ff1581e0c6",
+    "object_id": "ep_0b79617d4f11641a",
+    "relation_type": "precedes",
+    "reason": "夏洛在升旗仪式上遭羞辱（ep_9e6c45ff1581e0c6）是夏洛情绪低落的直接原因，这一状态在后续情节中被明确提及，作为大春上前安慰的上下文，因此该情节在叙事顺序上早于夏洛察觉大春对马冬梅的好感并转移话题（ep_0b79617d4f11641a）。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5345855e0104",
+    "subject_id": "ep_b5af7b1db854a6b9",
+    "object_id": "ep_76841c3d60987399",
+    "relation_type": "precedes",
+    "reason": "情节'因联想到吉他而突然发笑'发生在夏洛在房间内发出怪笑的场景（scene_35），而'应对夏洛的异常行为'涉及夏洛妈和王姨对怪笑的反应（scene_36），文本中scene_35在scene_36之前，因此该关系在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b5fc13d39cb3",
+    "subject_id": "ep_eacb9c31732ff6af",
+    "object_id": "ep_76841c3d60987399",
+    "relation_type": "precedes",
+    "reason": "夏洛回家并展现异常亲昵行为（ep_eacb9c31732ff6af）发生在夏洛妈和王姨因怪笑而观察其行为（ep_76841c3d60987399）之前，根据相关事件的时间顺序，前者在场景34，后者在场景36，文本支持明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ef1a6d1285a5",
+    "subject_id": "ep_9e6c45ff1581e0c6",
+    "object_id": "ep_38a48ccf27706bbe",
+    "relation_type": "precedes",
+    "reason": "夏洛在升旗仪式上遭羞辱（ep_9e6c45ff1581e0c6）是其长期压抑的早期表现，而夏洛反抗并集体爆发冲突（ep_38a48ccf27706bbe）是后续情绪爆发的高潮。文本中夏洛在冲突中明确反驳王老师长期侮辱学生，暗示此前的羞辱事件为其反抗积累情绪，支持时间顺序上的先后关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b506ae0bc68e",
+    "subject_id": "ep_76841c3d60987399",
+    "object_id": "ep_8591fbd308a63826",
+    "relation_type": "precedes",
+    "reason": "情节'应对夏洛的异常行为'中，夏洛妈和王姨因夏洛的怪笑而担忧并观察其行为，体现出对夏洛精神状态的关切；而情节'夏洛突然回家解除危机'中，夏洛突然回家并笑嘻嘻地出现，终结了之前的紧张情境。从叙事顺序和情境发展来看，担忧和观察行为发生在夏洛回家之前，且后者直接结束了前者的紧张状态，因此该关系在时间顺序上明确支持'precedes'。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ef37516b9d68",
+    "subject_id": "ep_76841c3d60987399",
+    "object_id": "ep_aadbd719736356e7",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序，'应对夏洛的异常行为'（doc_35）发生在'小流氓袭击并带走夏洛'（doc_49）之前，且两个情节之间没有重叠的事件或场景。前者描述夏洛在房间内的怪笑及母亲和王姨的观察，后者描述外部暴力事件的发生，叙事顺序清晰，支持'precedes'关系。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2d5a4bf9673a",
+    "subject_id": "ep_eacb9c31732ff6af",
+    "object_id": "ep_cdad5afd627cdadb",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，夏洛回家并展现异常亲昵行为（scene_34）发生在夏洛开始自弹自唱《回到过去》（scene_36）之前，且两个情节分别位于不同文档中但具有连续叙事流，支持前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_68d5e4ce6946",
+    "subject_id": "ep_a249753761eeeebe",
+    "object_id": "ep_aa6bda13736c49b0",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，夏洛在医院醒来并确认现实（scene_22）发生在跳窗离场（scene_21）之后的叙述中存在矛盾，但文档中scene编号显示跳窗为scene_21，而苏醒为scene_22，表明跳窗先于苏醒。然而，叙事逻辑上苏醒应早于跳窗。鉴于scene编号为明确顺序线索，且跳窗情节包含梦境闭环，可推断跳窗为幻想，苏醒为现实起点，因此‘确认现实并应对创伤’在叙事顺序上实际紧随‘跳窗离场’之后，故‘跳窗离场’在叙事中先于‘确认现实’。因此，主体ep_a249753761eeeebe在文档顺序上晚于客体ep_aa6bda13736c49b0，关系为precedes（客体在前，主体在后），但因relation_type=precedes要求主体在前，此处方向不符。重新判断：若以实际叙事时间线，跳窗是幻想结束，苏醒是现实开始，则苏醒应为后续。但描述中跳窗包含‘下坠中看见马冬梅回眸’，构成情感闭环，暗示其为最终事件。综合判断，跳窗情节在叙事时间上先于苏醒，因此ep_aa6bda13736c49b0 precedes ep_a249753761eeeebe。但当前主体为ep_a249753761eeeebe，客体为ep_aa6bda13736c49b0，若主体不 precedes 客体，则关系不成立。由于scene编号21（跳窗）在22（苏醒）之前，跳窗发生在前，苏醒在后，因此主体（苏醒）在时间上晚于客体（跳窗），故主体不 precedes 客体。相反，客体 precedes 主体。但关系方向必须由主体到客体。因此，precedes 不成立。无其他明确因果、对比或扩展关系。故无支持关系。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_98d99ee2eaab",
+    "subject_id": "ep_8591fbd308a63826",
+    "object_id": "ep_eacb9c31732ff6af",
+    "relation_type": "precedes",
+    "reason": "夏洛突然回家解除危机发生在母亲焦虑高峰时，即时终结了寻子紧张情境；随后夏洛展现异常亲昵行为，标志着行为异常的开始。两个情节在叙事上连续，前者为后者提供情感转折基础，且事件顺序由描述中的情境发展支持。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cd0414334eba",
+    "subject_id": "ep_8591fbd308a63826",
+    "object_id": "ep_e1ce5fefe5e4714e",
+    "relation_type": "precedes",
+    "reason": "夏洛突然回家解除危机（ep_8591fbd308a63826）在叙事逻辑上必须发生在他回家后在镜子前整理仪容并进入房间（ep_e1ce5fefe5e4714e）之前，因为后者是回家后的后续行为序列，且描述中‘回家后的外在表现序列’表明该行为发生在回家之后。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1cc027ebf305",
+    "subject_id": "ep_85f855b4ae490e6e",
+    "object_id": "ep_bf37530d21302a84",
+    "relation_type": "causes",
+    "reason": "夏洛通过广播向邱雅献唱原创歌曲这一行为直接触发了全校范围的响应，包括学生和教职工集体聆听、打节拍以及最终的掌声欢呼，文本明确将后者描述为由歌曲传播引发的共鸣，构成直接因果关系。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1a27e9d9950b",
+    "subject_id": "ep_85f855b4ae490e6e",
+    "object_id": "ep_b8d976e713a8dae1",
+    "relation_type": "precedes",
+    "reason": "夏洛通过广播向邱雅献唱原创歌曲发生在午休时间，而夏洛在自行车棚被大春纠缠是在之后的场景（scene_49），表明献唱行为在叙事顺序上早于他应对大春并准备接近邱雅的情节。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_49_part_1",
+      "scene_49_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0fa6a95c806c",
+    "subject_id": "ep_733eb095f6643291",
+    "object_id": "ep_85f855b4ae490e6e",
+    "relation_type": "precedes",
+    "reason": "下课后马冬梅拦截夏洛索要歌曲发生在下课铃响后，而夏洛通过广播向邱雅献唱原创歌曲发生在午休时间，时间上明显晚于下课场景。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_efac697c7fb3",
+    "subject_id": "ep_fa79950faf621e83",
+    "object_id": "ep_71105c751993f976",
+    "relation_type": "precedes",
+    "reason": "夏洛抵达并重逢老同学发生在老同学聚会的早期阶段（scene_3），而夏洛身份暴露并化解尴尬发生在同一聚会的后续场景（scene_16），文本中scene_3在scene_16之前，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_85ea8f7cff3c",
+    "subject_id": "ep_63ab33c69d11cfc8",
+    "object_id": "ep_85f855b4ae490e6e",
+    "relation_type": "precedes",
+    "reason": "夏洛回忆创作歌曲并决定献唱（ep_63ab33c69d11cfc8）在叙事逻辑上早于他通过广播向邱雅献唱原创歌曲（ep_85f855b4ae490e6e），前者明确为后者做铺垫，且回忆与决定构成后续公开献唱行为的心理和动机前提。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_446ce60b9873",
+    "subject_id": "ep_85f855b4ae490e6e",
+    "object_id": "ep_000a3c9be3e5c119",
+    "relation_type": "precedes",
+    "reason": "夏洛通过广播向邱雅献唱原创歌曲发生在校园午休期间，属于早期公开表白行为；而夏洛在婚礼上演唱并单膝跪地是后续在婚礼场合激化情感冲突的高潮事件。两个情节均围绕夏洛对邱雅的情感表达，且婚礼事件在叙事时间线上明显晚于广播献唱事件，因此主体情节在时间顺序上早于客体情节。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_27ed2ce7808a",
+    "subject_id": "ep_85f855b4ae490e6e",
+    "object_id": "ep_93640d97cdfc1ac8",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均涉及夏洛通过演唱原创歌曲向邱雅表达情感，但结果截然不同：在ep_85f855b4ae490e6e中，夏洛成功通过广播公开献唱，情感表达得以完成；而在ep_93640d97cdfc1ac8中，夏洛的示好行为被马冬梅多次阻挠并最终失败。两者在行为相似性与结果相反性上形成明确对比，构成对比关系。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b29689ffd6f5",
+    "subject_id": "ep_fa79950faf621e83",
+    "object_id": "ep_3efcff4ec63cbdf6",
+    "relation_type": "precedes",
+    "reason": "夏洛抵达并重逢老同学发生在婚礼现场的早期阶段（scene_3），而马冬梅现身制止夏洛闹剧发生在婚礼高潮时刻（scene_18），文本中场景编号和叙事顺序明确支持前者在时间上早于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8445f110e420",
+    "subject_id": "ep_fa79950faf621e83",
+    "object_id": "ep_3da1dd68582cfe7c",
+    "relation_type": "precedes",
+    "reason": "夏洛抵达并重逢老同学（ep_fa79950faf621e83）发生在聚会开始阶段，包含夏洛下车与同学寒暄的事件；而回应同学关于马冬梅的询问（ep_3da1dd68582cfe7c）发生在同一聚会中后续的对话环节。根据叙事顺序，重逢情节在时间上先于对马冬梅去向的回应，且两个情节共享同一社交场合的上下文。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4b071351ebaa",
+    "subject_id": "ep_fa79950faf621e83",
+    "object_id": "ep_9c748330cb6ca15a",
+    "relation_type": "precedes",
+    "reason": "夏洛抵达并重逢老同学（ep_fa79950faf621e83）发生在同学会聚餐场景中，而回应质疑并揭示演唱会筹备（ep_9c748330cb6ca15a）紧随其后，发生在同一社交场合的后续互动中。根据相关事件的时间顺序和场景编号（scene_3 在 scene_12 之前），前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8ba24f1033ba",
+    "subject_id": "ep_fa79950faf621e83",
+    "object_id": "ep_5afc35d6b38505df",
+    "relation_type": "precedes",
+    "reason": "夏洛抵达并重逢老同学（ep_fa79950faf621e83）发生在同学会聚餐场景（scene_3），而夏洛引起注意并做出夸张举动（ep_5afc35d6b38505df）发生在后续的scene_12，且描述中显示其行为是在被孟特发现后从新郎新娘之间蹭过，表明时间顺序上抵达重逢在先，引起注意在后。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d5281b8797ad",
+    "subject_id": "ep_fa79950faf621e83",
+    "object_id": "ep_9c57b0a9b5280990",
+    "relation_type": "precedes",
+    "reason": "夏洛抵达并重逢老同学（ep_fa79950faf621e83）描述了聚会的开端，包括夏洛下车和老同学围拢寒暄，构成重逢的初始场景；开场合唱引发对夏洛的关注（ep_9c57b0a9b5280990）则描述了随后通过合唱将焦点集中于夏洛，拉开集体互动的序幕。两个情节均发生在同一聚会场合，且描述中暗示了时间上的先后顺序：先有抵达与重逢，后有合唱启动集体调侃氛围。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eec79fdf3d17",
+    "subject_id": "ep_9c748330cb6ca15a",
+    "object_id": "ep_5af261dc83865ec6",
+    "relation_type": "precedes",
+    "reason": "根据相关场合的时间顺序，'回应质疑并揭示演唱会筹备'发生在同学会聚餐（scene_12），而'演唱《伤心太平洋》并情绪失控'发生在元旦晚会（scene_13），scene_12在叙事顺序上早于scene_13，因此该关系为precedes。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_93affbe67b71",
+    "subject_id": "ep_63ab33c69d11cfc8",
+    "object_id": "ep_5af261dc83865ec6",
+    "relation_type": "elaborates",
+    "reason": "夏洛回忆创作歌曲并决定献唱这一情节提供了登台演唱《伤心太平洋》的情感背景和动机，解释了为何这首歌对他如此重要，从而为后续表演中的情绪失控提供了深层心理铺垫。虽然两个情节发生在不同场合（婚礼与元旦晚会），但前者通过揭示歌曲的个人意义，扩展和丰富了后者的叙事内涵。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4a9676b0a922",
+    "subject_id": "ep_eacb9c31732ff6af",
+    "object_id": "ep_aa6bda13736c49b0",
+    "relation_type": "precedes",
+    "reason": "夏洛回家并展现异常亲昵行为发生在夏洛告别母亲后跳窗离场之前，根据叙事顺序，前者标志着行为异常的开始，为后续跳窗等行为建立情感基调，且两个情节分别位于文档33和20，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cdd622985276",
+    "subject_id": "ep_c65b00b2168a294d",
+    "object_id": "ep_eacb9c31732ff6af",
+    "relation_type": "precedes",
+    "reason": "王老师镇压全班并逼迫夏洛的情节发生在课堂场景中，导致夏洛身心崩溃；随后夏洛回家并表现出异常亲昵行为，标志着其行为变化的开始。根据叙事顺序，校园内的压迫事件在时间上明确早于回家后的行为异常，且后者可视为前者的间接后果，但文本未明确建立直接因果，因此最稳妥的关系是'precedes'。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_56583a047326",
+    "subject_id": "ep_3da1dd68582cfe7c",
+    "object_id": "ep_c19cb8231f63a919",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节中夏洛在聚会上以轻松语气回应关于马冬梅的询问，维持体面形象；第二个情节中马冬梅在婚礼上揭露夏洛虚荣与依赖，展示其真实负面状态。两者在夏洛的公众形象与私人真实之间形成鲜明对比，构成叙事上的对比关系。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8a2a03088305",
+    "subject_id": "ep_9c57b0a9b5280990",
+    "object_id": "ep_71105c751993f976",
+    "relation_type": "precedes",
+    "reason": "开场合唱引发对夏洛的关注发生在老同学聚会的早期阶段（scene_14），而夏洛身份暴露并化解尴尬发生在后续场景（scene_16），文本中场景编号的顺序支持这一时间先后关系。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_baf927a520cd",
+    "subject_id": "ep_9c57b0a9b5280990",
+    "object_id": "ep_8ba5e9f1366b0365",
+    "relation_type": "precedes",
+    "reason": "开场合唱引发对夏洛的关注发生在昔日同学非正式聚会中，而夏洛进入会场并开始检讨发生在学校紧急例会中，两个情节属于不同场合。根据事件描述的语境和场景编号（scene_14 在 scene_30 之前），可推断前者在叙事时间上早于后者，因此支持 'precedes' 关系。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a797624ff064",
+    "subject_id": "ep_9c57b0a9b5280990",
+    "object_id": "ep_3efcff4ec63cbdf6",
+    "relation_type": "precedes",
+    "reason": "开场合唱发生在同学聚会（scene_14）中，而马冬梅制止夏洛的闹剧发生在邱雅婚礼（scene_18）上，两个场景在文档中按顺序出现，scene_14早于scene_18，因此该情节在叙事顺序上先于另一个。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3d69eac51a2c",
+    "subject_id": "ep_b8f413c6db8d9752",
+    "object_id": "ep_8f94fc372ee0163a",
+    "relation_type": "causes",
+    "reason": "夏洛纵火引发混乱并迎接母亲这一情节中包含的严重违纪行为（如纵火）被校长在宣布开除决定时明确列为开除理由，表明该行为直接导致了开除处分的执行。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f7a325441c87",
+    "subject_id": "ep_d895ff51b3112cff",
+    "object_id": "ep_8f94fc372ee0163a",
+    "relation_type": "precedes",
+    "reason": "夏洛进入教室引发对峙是冲突的开端，发生在校长宣布开除决定之前，叙事上构成事件发展的前序阶段。根据描述，前者是违纪行为的起点，后者是校方对一系列行为（包括该对峙所代表的冲突）的最终处分回应，因此存在明确的时间和叙事顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b4b6fced990d",
+    "subject_id": "ep_6eea45bcd6d1965b",
+    "object_id": "ep_8ba5e9f1366b0365",
+    "relation_type": "precedes",
+    "reason": "校长妥协并更改处分决定发生在夏洛进入会场并开始检讨之前，因为处分结果的变更（写检查）为夏洛后续在紧急例会上当众检讨提供了前提和背景，逻辑上和叙事上具有明确的先后顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_51a892da4857",
+    "subject_id": "ep_38a48ccf27706bbe",
+    "object_id": "ep_8f94fc372ee0163a",
+    "relation_type": "causes",
+    "reason": "夏洛反抗并集体爆发冲突这一情节中，夏洛带头攻击王老师并引发全班混乱，该行为直接导致后续校长宣布对夏洛的开除决定。描述中明确指出开除处分是基于夏洛打老师等严重违纪行为，文本提供了清晰的因果链条：冲突事件是开除决定的直接原因。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_abf223f85d79",
+    "subject_id": "ep_39e99a1843d86da0",
+    "object_id": "ep_8f94fc372ee0163a",
+    "relation_type": "precedes",
+    "reason": "主体情节‘校方介入并试图控制局势’发生在教室冲突现场，涉及校长劝导夏洛，而客体情节‘校长宣布对夏洛的开除决定’发生在后续场景，基于夏洛的违纪行为作出正式处分。相关事件的时间顺序和叙事进展表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_78af227b8f65",
+    "subject_id": "ep_c65b00b2168a294d",
+    "object_id": "ep_8f94fc372ee0163a",
+    "relation_type": "causes",
+    "reason": "王老师镇压全班并暴力逼迫夏洛导致其身心崩溃，这一行为是夏洛后续严重违纪（如打老师、烧学校等）的直接诱因，进而引发校长宣布开除决定。描述中列举的开除理由与王老师施暴的情节在因果链上紧密衔接，支持因果关系。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3b7f32ecaca2",
+    "subject_id": "ep_6eea45bcd6d1965b",
+    "object_id": "ep_b181889370ff1de6",
+    "relation_type": "precedes",
+    "reason": "校长妥协并更改处分决定发生在夏洛母亲制造舆论压力之后，而纠正感谢对象并道歉王老师发生在学校紧急例会中，该会议在文档时序上晚于处分决定的更改。相关事件scene_25早于scene_30，支持此叙事顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_15e611a864cd",
+    "subject_id": "ep_78269c9df216ca64",
+    "object_id": "ep_8f94fc372ee0163a",
+    "relation_type": "precedes",
+    "reason": "王老师升级羞辱并强迫朗读情书（ep_78269c9df216ca64）发生在课堂场景（scene_21），而校长宣布对夏洛的开除决定（ep_8f94fc372ee0163a）发生在后续的scene_25，文档时序明确显示前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_76fb6456f57e",
+    "subject_id": "ep_39e99a1843d86da0",
+    "object_id": "ep_6eea45bcd6d1965b",
+    "relation_type": "precedes",
+    "reason": "校方介入并试图控制局势发生在夏洛被处分的决策之前，根据事件时序，校长在事件发展后期因舆论压力而妥协更改处分决定，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_09d058c32583",
+    "subject_id": "ep_38a48ccf27706bbe",
+    "object_id": "ep_6eea45bcd6d1965b",
+    "relation_type": "causes",
+    "reason": "夏洛反抗并集体爆发冲突直接导致校方采取处分措施，进而引发夏洛母亲制造舆论压力，最终迫使校长妥协更改处分决定。文本中校长的妥协是对先前学生暴力事件处理的后续反应，具有明确的因果链条支持。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5d8e6d84012a",
+    "subject_id": "ep_c65b00b2168a294d",
+    "object_id": "ep_6eea45bcd6d1965b",
+    "relation_type": "causes",
+    "reason": "王老师在课堂上对夏洛的暴力逼迫导致夏洛身心崩溃，这一极端处理方式可能激化了夏洛母亲的后续舆论行动，从而促使校长最终妥协并更改处分决定。描述中暗示了从教师的压迫行为到校长让步之间的因果链条，且事件顺序和逻辑支持此因果关系。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7da0d3de2fb4",
+    "subject_id": "ep_b8f413c6db8d9752",
+    "object_id": "ep_6eea45bcd6d1965b",
+    "relation_type": "causes",
+    "reason": "夏洛纵火引发混乱并迎接母亲这一情节中，其行为导致了后续校长在舆论压力下妥协并更改处分决定。描述中明确指出校长的妥协是在夏洛母亲持续制造舆论压力下发生的，而该舆论压力的直接起因是夏洛在教室纵火及母亲介入的公开事件，因此前者直接触发了后者，构成因果关系。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8778632377f4",
+    "subject_id": "ep_0798422c73e5e235",
+    "object_id": "ep_aa6bda13736c49b0",
+    "relation_type": "precedes",
+    "reason": "夏洛干预母亲吸烟并施加控制发生在场景34，而夏洛告别母亲后跳窗离场发生在场景21，根据文档中的场景编号顺序，场景21早于场景34，因此主体情节在叙事顺序上晚于客体情节，即客体情节在时间上先于主体情节。但由于关系方向要求主体->对象，此处应为ep_aa6bda13736c49b0 precedes ep_0798422c73e5e235，但输入中主体是ep_0798422c73e5e235，对象是ep_aa6bda13736c49b0，方向相反，故不能成立。重新判断：若以叙事顺序为准，ep_0798422c73e5e235（scene_34）在ep_aa6bda13736c49b0（scene_21）之后发生，因此ep_aa6bda13736c49b0 precedes ep_0798422c73e5e235。但当前主体为ep_0798422c73e5e235，对象为ep_aa6bda13736c49b0，即要求判断ep_0798422c73e5e235是否与ep_aa6bda13736c49b0有关系。由于ep_0798422c73e5e235在时间上晚于ep_aa6bda13736c49b0，因此ep_0798422c73e5e235不能precedes ep_aa6bda13736c49b0。无证据支持causes、contrasts_with或elaborates。因此无有效关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e3cec443b4ac",
+    "subject_id": "ep_6bd077fe28436b57",
+    "object_id": "ep_664c7c30155253dc",
+    "relation_type": "precedes",
+    "reason": "夏洛在苹果机上操作失败并拍打机器发泄情绪（ep_6bd077fe28436b57）发生在教室场景之前，随后他走向邱雅并强吻她，陷入现实混淆（ep_664c7c30155253dc）。根据叙事顺序，情绪发泄是暴力行为升级的前奏，且两个情节共享情绪失控的主题，但无直接因果证据；基于场景编号（scene_50 在 scene_21 之前）可确定时间先后。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_62da42116f7f",
+    "subject_id": "ep_455f101cda44a39f",
+    "object_id": "ep_38a48ccf27706bbe",
+    "relation_type": "precedes",
+    "reason": "根据文档ID，'夏洛躲避冲突并爆发情绪'（doc_19）发生在'夏洛反抗并集体爆发冲突'（doc_20）之前，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bf969807716d",
+    "subject_id": "ep_3efcff4ec63cbdf6",
+    "object_id": "ep_455f101cda44a39f",
+    "relation_type": "precedes",
+    "reason": "马冬梅在婚礼现场制止夏洛的闹剧（ep_3efcff4ec63cbdf6）发生在婚礼场景（scene_18），而夏洛躲避冲突并爆发情绪的情节发生在洗手间（scene_20），根据场景编号的顺序，scene_18在scene_20之前，因此该情节在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_58bb5c8022a7",
+    "subject_id": "ep_455f101cda44a39f",
+    "object_id": "ep_664c7c30155253dc",
+    "relation_type": "precedes",
+    "reason": "夏洛躲避冲突并爆发情绪发生在洗手间内（scene_20），而夏洛强吻邱雅并陷入现实混淆发生在随后的教室场景（scene_21），文档顺序和场景编号表明前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_91344d221a96",
+    "subject_id": "ep_71105c751993f976",
+    "object_id": "ep_bd81f0728a934691",
+    "relation_type": "precedes",
+    "reason": "夏洛身份暴露并化解尴尬发生在老同学聚会上（scene_16），而夏洛因醉酒剧烈呕吐发生在后续场景（scene_20），文档中scene_16在scene_20之前，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3181df521e78",
+    "subject_id": "ep_05efed31be348200",
+    "object_id": "ep_bd81f0728a934691",
+    "relation_type": "precedes",
+    "reason": "夏洛醉酒讽刺新郎发生在婚礼现场（scene_18），而夏洛剧烈呕吐发生在后续场景（scene_20），根据文档顺序和场景编号，前者在叙事时间上早于后者，支持'precedes'关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9b0ee6a6ee2e",
+    "subject_id": "ep_455f101cda44a39f",
+    "object_id": "ep_b8f413c6db8d9752",
+    "relation_type": "precedes",
+    "reason": "夏洛躲避冲突并爆发情绪发生在洗手间内，是其情绪压抑的早期表现；而夏洛纵火引发混乱并迎接母亲发生在教室场景，包含更激烈的行为升级和母亲介入。根据叙事顺序，洗手间事件在前，教室纵火事件在后，且文档ID（doc_19 vs doc_20）支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8045478e79f6",
+    "subject_id": "ep_3efcff4ec63cbdf6",
+    "object_id": "ep_bd81f0728a934691",
+    "relation_type": "precedes",
+    "reason": "主体情节'马冬梅现身制止夏洛闹剧'发生在婚礼现场（scene_18），而客体情节'夏洛因醉酒剧烈呕吐'发生在后续场景（scene_20），根据文档中场景编号的顺序，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_481563c9b0b6",
+    "subject_id": "ep_05efed31be348200",
+    "object_id": "ep_b6f06e1c2fd42afa",
+    "relation_type": "precedes",
+    "reason": "夏洛醉酒讽刺新郎发生在婚礼现场（scene_18），而夏洛在镜中自视陷入自怜发生在呕吐之后（scene_20），scene_18在叙事顺序上早于scene_20，因此该关系在时间顺序上有明确支持。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f132c84586ca",
+    "subject_id": "ep_9df7f33fe4b9e605",
+    "object_id": "ep_b6f06e1c2fd42afa",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'夏洛失手打倒马冬梅引发暴力升级' 发生在 scene_18，而 '夏洛在镜中自视陷入自怜' 发生在 scene_20，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9d0900cfdaef",
+    "subject_id": "ep_bd81f0728a934691",
+    "object_id": "ep_664c7c30155253dc",
+    "relation_type": "precedes",
+    "reason": "夏洛因醉酒剧烈呕吐（ep_bd81f0728a934691）发生在教室强吻邱雅之前，根据相关场景编号scene_20在scene_21之前，表明该情节在叙事顺序上早于夏洛强吻邱雅并陷入现实混淆（ep_664c7c30155253dc）。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_867dff22a1cd",
+    "subject_id": "ep_098a4f055253917d",
+    "object_id": "ep_b6f06e1c2fd42afa",
+    "relation_type": "precedes",
+    "reason": "马冬梅持刀追砍夏洛的事件发生在婚礼现场（scene_18），而夏洛在镜中自视陷入自怜的事件发生在后续场景（scene_20），根据文档中的场景编号顺序，前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e7cc27583160",
+    "subject_id": "ep_38a48ccf27706bbe",
+    "object_id": "ep_b6f06e1c2fd42afa",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'夏洛在镜中自视陷入自怜'发生在scene_20，而'夏洛反抗并集体爆发冲突'发生在scene_21，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bc45ed8827e0",
+    "subject_id": "ep_3efcff4ec63cbdf6",
+    "object_id": "ep_b6f06e1c2fd42afa",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'马冬梅现身制止夏洛闹剧' 发生在婚礼现场（scene_18），而 '夏洛在镜中自视陷入自怜' 发生在呕吐后，对应 scene_20。scene_18 在叙事顺序上早于 scene_20，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9767a92f11b8",
+    "subject_id": "ep_b6f06e1c2fd42afa",
+    "object_id": "ep_664c7c30155253dc",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'夏洛在镜中自视陷入自怜' 发生在 scene_20，而 '夏洛强吻邱雅并陷入现实混淆' 发生在 scene_21，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4c9b1df85b9a",
+    "subject_id": "ep_aa6bda13736c49b0",
+    "object_id": "ep_b6f06e1c2fd42afa",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'夏洛在镜中自视陷入自怜' 发生在 scene_20，而 '夏洛告别母亲后跳窗离场' 发生在 scene_21，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8101c14e4517",
+    "subject_id": "ep_9af3970cf2186e01",
+    "object_id": "ep_38a48ccf27706bbe",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'夏洛情绪崩溃并砸碎镜子'发生在scene_20，而'夏洛反抗并集体爆发冲突'发生在scene_21，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7bfe68afdc83",
+    "subject_id": "ep_9af3970cf2186e01",
+    "object_id": "ep_664c7c30155253dc",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'夏洛情绪崩溃并砸碎镜子'发生在scene_20，而'夏洛强吻邱雅并陷入现实混淆'发生在scene_21，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_439917cf333c",
+    "subject_id": "ep_c65b00b2168a294d",
+    "object_id": "ep_9af3970cf2186e01",
+    "relation_type": "causes",
+    "reason": "王老师镇压全班并暴力逼迫夏洛，导致夏洛出现眩晕与耳鸣，陷入身心崩溃状态，这一持续压迫直接触发了后续夏洛情绪崩溃并砸碎镜子的行为。描述中‘陷入身心崩溃状态’与‘情绪彻底崩溃’存在明确的因果升级链条，支持该因果关系。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c5e1930aebe1",
+    "subject_id": "ep_69fb4b0a5a657570",
+    "object_id": "ep_664c7c30155253dc",
+    "relation_type": "precedes",
+    "reason": "根据文档ID，'夏洛洗脸后决意离婚'（doc_19）发生在'夏洛强吻邱雅并陷入现实混淆'（doc_20）之前，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7ab4779f17bd",
+    "subject_id": "ep_b6f06e1c2fd42afa",
+    "object_id": "ep_b8f413c6db8d9752",
+    "relation_type": "precedes",
+    "reason": "根据描述，夏洛在镜中自视陷入自怜（ep_b6f06e1c2fd42afa）发生在呕吐后，属于情绪低落的内省阶段；而夏洛纵火引发混乱并迎接母亲（ep_b8f413c6db8d9752）是后续情绪爆发并升级为激烈行为的高潮事件。两个情节在叙事上呈现清晰的时间推进：自怜为情绪积累，纵火及见母崩溃为后果释放，且文档ID（doc_19 vs doc_20）支持该顺序。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e3edeb84953c",
+    "subject_id": "ep_098a4f055253917d",
+    "object_id": "ep_69fb4b0a5a657570",
+    "relation_type": "precedes",
+    "reason": "马冬梅持刀追砍夏洛的事件发生在婚礼现场（scene_18），而夏洛决意离婚的情节发生在后续场景（scene_20），且文档顺序显示scene_18早于scene_19-20。因此，主体情节在叙事时间上明确早于客体情节。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a3bf1eba0550",
+    "subject_id": "ep_9af3970cf2186e01",
+    "object_id": "ep_b8f413c6db8d9752",
+    "relation_type": "precedes",
+    "reason": "根据描述，夏洛情绪崩溃并砸碎镜子发生在自怜情境中，而纵火并迎接母亲的事件发生在教室课堂场合，且后者包含更多后续发展的事件链（如母亲赶到、下跪道歉等）。两个情节均体现夏洛情绪升级的过程，且砸镜子作为情绪爆发的早期表现，逻辑上先于纵火这一更激烈的行为。文档ID（doc_19 vs doc_20）也支持时间顺序上的先后关系。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8846e57b3c59",
+    "subject_id": "ep_7ebba89189a1bdd0",
+    "object_id": "ep_dae9ba965b09b285",
+    "relation_type": "precedes",
+    "reason": "夏洛走出洗手间进入回忆场景后，紧接着在教室中确认自己身处重复梦境，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_93843906ff35",
+    "subject_id": "ep_69fb4b0a5a657570",
+    "object_id": "ep_b8f413c6db8d9752",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序，'夏洛洗脸后决意离婚'（doc_19）发生在'夏洛纵火引发混乱并迎接母亲'（doc_20）之前，且两个情节分别属于连续的叙事段落，前者展现夏洛决意结束婚姻，后者展现其情绪爆发及与母亲重逢，叙事时间线上存在明确先后顺序。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4f7c52b5e561",
+    "subject_id": "ep_7ebba89189a1bdd0",
+    "object_id": "ep_d895ff51b3112cff",
+    "relation_type": "precedes",
+    "reason": "夏洛走出洗手间进入回忆场景后，紧接着进入教室并引发对峙，两个情节在叙事顺序上呈现明确的先后关系，前者标志着进入记忆场景的转折，后者在此基础上展开具体冲突。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_97f5a3b1be99",
+    "subject_id": "ep_9af3970cf2186e01",
+    "object_id": "ep_aa6bda13736c49b0",
+    "relation_type": "precedes",
+    "reason": "根据描述，'夏洛情绪崩溃并砸碎镜子'发生在夏洛自怜和情绪爆发的场景中，而'夏洛告别母亲后跳窗离场'包含向母亲道歉、亲吻邱雅并跳窗的动作，并在下坠中看到马冬梅回眸，形成梦境闭环。叙事上，情绪崩溃是早期情节，跳窗离场是后续高潮与结束动作，文档ID（doc_19 vs doc_20）也支持时间顺序。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_97d0137398dc",
+    "subject_id": "ep_7ebba89189a1bdd0",
+    "object_id": "ep_ace48f07d8574c9d",
+    "relation_type": "elaborates",
+    "reason": "夏洛走出洗手间进入回忆场景标志着进入一个高中时代的记忆空间，而夏洛强占座位引发连锁换座是该记忆场景内的具体事件。后者在前者的框架下展开，提供了关于回忆中课堂动态的详细内容，因此前者为背景设定，后者为其展开的细节，构成 elaborates 关系。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_58e2eb8a7587",
+    "subject_id": "ep_7ebba89189a1bdd0",
+    "object_id": "ep_b65b28c23fae7895",
+    "relation_type": "precedes",
+    "reason": "夏洛走出洗手间进入回忆场景后，紧接着在高中课堂中无视训斥走向座位并测试现实，两个情节在叙事顺序上连续，前者为后者提供入口，且相关事件（scene_20 到 scene_21）显示明确的时间推进。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_87190d5c030d",
+    "subject_id": "ep_7ebba89189a1bdd0",
+    "object_id": "ep_38a48ccf27706bbe",
+    "relation_type": "elaborates",
+    "reason": "夏洛走出洗手间进入回忆场景标志着从现实转入记忆或幻想，而夏洛反抗并集体爆发冲突是该回忆场景中的具体内容。后者在叙事上被前者所包含和展开，前者为进入后者提供叙事框架和上下文，因此前者通过引入回忆机制来扩展后者的情节背景。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_d24381dc1a02",
+    "subject_id": "ep_7ebba89189a1bdd0",
+    "object_id": "ep_c65b00b2168a294d",
+    "relation_type": "elaborates",
+    "reason": "夏洛走出洗手间进入回忆场景标志着进入一个记忆或幻想空间，而王老师镇压全班并逼迫夏洛的情节发生在该回忆场景内部，描述了回忆中的具体事件。因此，主体情节为客体情节提供了叙事框架和背景，客体情节在主体开启的回忆场景中展开，构成对主体所进入情境的进一步展开和细节补充。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6387cf24ede6",
+    "subject_id": "ep_7ebba89189a1bdd0",
+    "object_id": "ep_b8f413c6db8d9752",
+    "relation_type": "elaborates",
+    "reason": "夏洛走出洗手间进入回忆场景标志着进入一个高中课堂的幻想或记忆空间，而夏洛纵火引发混乱并迎接母亲的情节发生在该课堂场景中，包含具体事件如点燃书本、母亲赶到等。因此，第二个情节在细节上展开和实现第一个情节所开启的场景，构成对进入回忆场景的进一步阐述。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e70ae7573a38",
+    "subject_id": "ep_7ebba89189a1bdd0",
+    "object_id": "ep_39e99a1843d86da0",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节描述，夏洛走出洗手间进入回忆场景（ep_7ebba89189a1bdd0）发生在校方介入并试图控制局势（ep_39e99a1843d86da0）之前，前者标记进入高中课堂的转折，后者发生在该课堂场景中，因此存在明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4393384abcbd",
+    "subject_id": "ep_7ebba89189a1bdd0",
+    "object_id": "ep_664c7c30155253dc",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，夏洛走出洗手间进入回忆场景（ep_7ebba89189a1bdd0）发生在夏洛强吻邱雅并陷入现实混淆（ep_664c7c30155253dc）之前。描述中显示前者标志着进入一个高中课堂的转折，而后者发生在该课堂内的一系列事件，因此在话语顺序上前者早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_35cb3784aac9",
+    "subject_id": "ep_5afc35d6b38505df",
+    "object_id": "ep_000a3c9be3e5c119",
+    "relation_type": "precedes",
+    "reason": "夏洛引起注意并做出夸张举动发生在同学会聚餐场景（scene_12），而夏洛演唱并单膝跪地激化冲突发生在邱雅的婚礼场景（scene_18），scene_12在叙事顺序上早于scene_18，因此该关系为precedes。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d76543a24ba7",
+    "subject_id": "ep_5afc35d6b38505df",
+    "object_id": "ep_3efcff4ec63cbdf6",
+    "relation_type": "precedes",
+    "reason": "夏洛引起注意并做出夸张举动发生在同学会聚餐场景（scene_12），而马冬梅现身制止夏洛闹剧发生在邱雅的婚礼场景（scene_18），两个场景在文档中按顺序出现，scene_12早于scene_18，因此该关系在叙事顺序上明确支持precedes。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c55496cb08a8",
+    "subject_id": "ep_5afc35d6b38505df",
+    "object_id": "ep_68e8f444178ca53c",
+    "relation_type": "precedes",
+    "reason": "情节 '夏洛引起注意并做出夸张举动' 发生在同学会聚餐场景 (scene_12)，而 '夏洛强行拉邱雅上台引发骚动' 发生在邱雅的婚礼场景 (scene_18)，scene_12 在叙事顺序上早于 scene_18，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_01a98f8279d9",
+    "subject_id": "ep_5afc35d6b38505df",
+    "object_id": "ep_098a4f055253917d",
+    "relation_type": "precedes",
+    "reason": "夏洛在同学会聚餐中引起注意并做出夸张举动（scene_12），发生在马冬梅在邱雅婚礼上持刀追砍夏洛（scene_18）之前，两个情节分别关联不同场合且scene_12早于scene_18，因此该关系在叙事时间顺序上明确支持。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_836915134976",
+    "subject_id": "ep_8ba5e9f1366b0365",
+    "object_id": "ep_ace48f07d8574c9d",
+    "relation_type": "precedes",
+    "reason": "主体情节'夏洛进入会场并开始检讨'发生在学校紧急例会场景中（scene_30），而客体情节'夏洛强占座位引发连锁换座'发生在后续的课堂场景中（scene_31），根据文档顺序和场景编号，前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_25a3c04de3fd",
+    "subject_id": "ep_38a48ccf27706bbe",
+    "object_id": "ep_8ba5e9f1366b0365",
+    "relation_type": "precedes",
+    "reason": "情节 '夏洛反抗并集体爆发冲突' 发生在课堂场景 (scene_21)，而 '夏洛进入会场并开始检讨' 发生在学校紧急例会 (scene_30)，scene_21 在叙事顺序上早于 scene_30，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_98c9ebefc3dc",
+    "subject_id": "ep_664c7c30155253dc",
+    "object_id": "ep_8ba5e9f1366b0365",
+    "relation_type": "precedes",
+    "reason": "夏洛强吻邱雅并陷入现实混淆发生在课堂场景（scene_21），而夏洛进入会场并开始检讨发生在学校紧急例会（scene_30），scene_21在叙事顺序上早于scene_30，因此该关系为precedes。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3dc157b867e0",
+    "subject_id": "ep_39e99a1843d86da0",
+    "object_id": "ep_b181889370ff1de6",
+    "relation_type": "precedes",
+    "reason": "主体情节‘校方介入并试图控制局势’发生在场景21，客体情节‘纠正感谢对象并道歉王老师’发生在场景30，文档中场景编号递增且事件顺序连贯，表明前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6aa0903d2d85",
+    "subject_id": "ep_39e99a1843d86da0",
+    "object_id": "ep_8ba5e9f1366b0365",
+    "relation_type": "precedes",
+    "reason": "主体情节‘校方介入并试图控制局势’发生在教室冲突现场（scene_21），而客体情节‘夏洛进入会场并开始检讨’发生在学校紧急例会（scene_30），scene_21在文档顺序和叙事流程上早于scene_30，且前者为后者中检讨行为的背景铺垫，支持precedes关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7db08d3ff5f4",
+    "subject_id": "ep_39e99a1843d86da0",
+    "object_id": "ep_dc9e37e8e9841f5b",
+    "relation_type": "precedes",
+    "reason": "主体情节'校方介入并试图控制局势'发生在场景21，客体情节'向邱雅道歉引发情感反应'发生在场景30，根据相关事件的场景编号，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dbdebbdabd9b",
+    "subject_id": "ep_38a48ccf27706bbe",
+    "object_id": "ep_dc9e37e8e9841f5b",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'夏洛反抗并集体爆发冲突' 发生在 scene_21，而 '向邱雅道歉引发情感反应' 发生在 scene_30，scene_21 在叙事顺序上早于 scene_30，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9b33204e6941",
+    "subject_id": "ep_c65b00b2168a294d",
+    "object_id": "ep_dc9e37e8e9841f5b",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在课堂场景（scene_21），而客体情节发生在学校紧急例会（scene_30），scene_21在叙事顺序上早于scene_30，且主体事件中夏洛被逼迫朗读情书直接导致后续向邱雅道歉的情节发展。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8c04d894cde5",
+    "subject_id": "ep_b8d976e713a8dae1",
+    "object_id": "ep_664c7c30155253dc",
+    "relation_type": "precedes",
+    "reason": "夏洛在自行车棚被大春拦住时正急于摆脱以继续接近邱雅，表明该情节发生在其强吻邱雅之前。叙事意图显示前者是后者准备阶段的一部分，时间顺序清晰。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_49_part_1",
+      "scene_49_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b7a434f245ed",
+    "subject_id": "ep_78269c9df216ca64",
+    "object_id": "ep_b6f06e1c2fd42afa",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序，王老师升级羞辱并强迫朗读情书（doc_20）发生在夏洛在镜中自视陷入自怜（doc_19）之后，但scene_21（属于ep_78269c9df216ca64）在叙事时间线上明显晚于scene_20（属于ep_b6f06e1c2fd42afa）。夏洛在镜中自怜是其情绪反应的开始，而被当众羞辱是该冲突的高潮，逻辑上前者先发生，后者紧随其后。因此，ep_b6f06e1c2fd42afa在叙事顺序上先于ep_78269c9df216ca64，故主体ep_78269c9df216ca64在话语顺序上后于客体，关系为precedes（object -> subject），但因relation_type=precedes默认方向为subject -> object，此处不成立，应输出NONE。然而重新评估：precedes关系应基于叙事时间而非文档ID顺序。scene_20（呕吐、镜中自视）发生在婚礼现场冲突之后，而scene_21是课堂上的后续发展，时间上ep_78269c9df216ca64（课堂事件）在ep_b6f06e1c2fd42afa（婚礼后即时反应）之后。因此，ep_b6f06e1c2fd42afa（doc_19）在时间上先于ep_78269c9df216ca64（doc_20），即subject在时间上晚于object，故subject precedes object不成立。但若以叙事呈现顺序（doc_19先于doc_20），则ep_b6f06e1c2fd42afa被先叙述，ep_78269c9df216ca64后叙述，因此ep_78269c9df216ca64在话语顺序上后于ep_b6f06e1c2fd42afa，即subject在话语中后出，不能称为precedes。precedes要求subject在时间或话语上早于object。此处subject（ep_78269c9df216ca64）在文档ID和场景编号上均晚于object（ep_b6f06e1c2fd42afa），故subject不早于object，关系不成立。无其他关系支持，因此应为NONE。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3f4762b7139f",
+    "subject_id": "ep_88bd16d07aa9f3b3",
+    "object_id": "ep_c823ce8af1259a99",
+    "relation_type": "elaborates",
+    "reason": "夏洛卖车轮搭讪失败并被锁车的情节中，夏洛因卖车轮行为被揭穿而陷入尴尬，随后在夏洛解释汽水来源并揭示真心的情节中，他手持汽水进一步解释自己的动机并表达被误解的无奈，后者为前者的心理和情感背景提供了补充说明，扩展了其内在动机。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c0c1532d0599",
+    "subject_id": "ep_664c7c30155253dc",
+    "object_id": "ep_c823ce8af1259a99",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '夏洛强吻邱雅并陷入现实混淆' 展现夏洛的失控、暴力与现实解体，而 '夏洛解释汽水来源并揭示真心' 则表现其克制、温情与情感坦白。两者在行为基调（暴力 vs. 温和）、互动方式（强迫 vs. 倾诉）和情感状态（混乱 vs. 真诚）上形成显著对比，构成叙事上的逆转与反差。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_49_part_1",
+      "scene_49_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a96a1b570935",
+    "subject_id": "ep_7ea5242c3f89b9d9",
+    "object_id": "ep_88bd16d07aa9f3b3",
+    "relation_type": "precedes",
+    "reason": "情节 '应对夏洛的换座请求并质疑其动机' 发生在教室场景中，涉及夏洛向王老师请求换座并与邱雅同桌，而后续情节 '夏洛卖车轮搭讪失败并被锁车' 展示了夏洛为接近邱雅采取进一步行动但失败。从叙事顺序和动机发展来看，换座行为未果后，夏洛转而尝试其他方式接近邱雅，表明前者在时间与动机逻辑上先于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_49_part_1",
+      "scene_49_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ccb7d62bbecf",
+    "subject_id": "ep_6823678369a64106",
+    "object_id": "ep_45ea11a0977a78b0",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，王老师训斥夏洛发生在夏洛察觉环境异常之前。夏洛在被斥责后回头才发现走廊异变，表明‘驳回换座请求并训斥夏洛’在叙事顺序上直接早于‘夏洛察觉环境异常并产生困惑’。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2bc11304775c",
+    "subject_id": "ep_7ea5242c3f89b9d9",
+    "object_id": "ep_dc9e37e8e9841f5b",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'应对夏洛的换座请求并质疑其动机' 发生在 scene_31，而 '向邱雅道歉引发情感反应' 发生在 scene_30，scene_30 在叙事顺序上早于 scene_31，因此后者在时间上晚于前者。尽管事件顺序看似倒置，但 episode 的命名和描述表明 '道歉' 事件（scene_30）在逻辑和时间上先于 '换座请求'（scene_31），因为道歉是引发后续课堂互动（如换座请求）的情节基础。因此，'向邱雅道歉' 情节在叙事顺序上先于 '换座请求' 情节，故关系为 object precedes subject，但因 relation_type 'precedes' 为 directed 且 subject 在前，此处应为 subject 情节在后，故正确方向是 object -> subject。但由于系统要求 relation_type 为 subject -> object，而实际是 object precedes subject，因此不能正确表达方向，故不能选 'precedes'。重新评估：两个情节之间无明确文本支持的因果、对比或扩展关系。无足够证据支持任何允许的有向或对称关系。因此，输出 NONE。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b44af985aac9",
+    "subject_id": "ep_d895ff51b3112cff",
+    "object_id": "ep_93640d97cdfc1ac8",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的文档ID，'夏洛进入教室引发对峙'（doc_20）发生在'夏洛向邱雅示好并遭马冬梅阻挠'（doc_30）之前，文档编号顺序表明明确的叙事时间先后关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bc45d879fd71",
+    "subject_id": "ep_63ab33c69d11cfc8",
+    "object_id": "ep_93640d97cdfc1ac8",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述夏洛回忆并决定献唱为邱雅创作的歌曲，提供情感背景和动机；第二个情节展示他实际尝试演唱该歌曲但被阻挠。因此，第一个情节通过揭示歌曲的情感价值和创作背景，扩展并深化了第二个情节中行为的意义。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8a790fc5e9dd",
+    "subject_id": "ep_d895ff51b3112cff",
+    "object_id": "ep_ace48f07d8574c9d",
+    "relation_type": "precedes",
+    "reason": "根据描述，'夏洛进入教室引发对峙'发生在王老师质问夏洛并命令其离开的场景中（doc_20, scene_21），而'夏洛强占座位引发连锁换座'发生在王老师离开之后（doc_30, scene_31）。因此，前者在叙事时间顺序上明确早于后者，构成直接的先后关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e8af255369ab",
+    "subject_id": "ep_000a3c9be3e5c119",
+    "object_id": "ep_93640d97cdfc1ac8",
+    "relation_type": "contrasts_with",
+    "reason": "夏洛在婚礼上公开激化冲突的浪漫且戏剧化举动，与早前他试图示好却被马冬梅粗暴阻挠的压抑场景形成鲜明对比，两个情节在情感表达的成败、社会场合的接受度以及女性角色的反应上呈现显著逆转，构成对称性对比。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_a6dc373292cc",
+    "subject_id": "ep_39e99a1843d86da0",
+    "object_id": "ep_733eb095f6643291",
+    "relation_type": "precedes",
+    "reason": "主体情节‘校方介入并试图控制局势’发生在场景21，客体情节‘下课后马冬梅拦截夏洛索要歌曲’发生在场景31，且下课铃响标志着课程结束，说明前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7d86d4642a9e",
+    "subject_id": "ep_1557d8f3fb57cba1",
+    "object_id": "ep_f6ad26d292c1edd9",
+    "relation_type": "causes",
+    "reason": "袁华袭击大春导致其晕倒这一事件直接引发了后续大春对袁华反常行为感到困惑的情节，文本中描述后者为事件余波的开始，表明存在明确的因果关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5b7248264fcd",
+    "subject_id": "ep_1cfff33f9ee5fdbe",
+    "object_id": "ep_f6ad26d292c1edd9",
+    "relation_type": "precedes",
+    "reason": "主体情节'交接烟头并准备发表看法'发生在袁华愤怒离场之前，而客体情节'大春对袁华反常行为感到困惑'明确发生在袁华离场、物品散落之后，因此主体情节在叙事顺序上早于客体情节，构成直接的时间先后关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_80d01ba6dd9a",
+    "subject_id": "ep_0b79617d4f11641a",
+    "object_id": "ep_344c585dd00325c8",
+    "relation_type": "precedes",
+    "reason": "夏洛察觉大春对马冬梅的好感并转移话题发生在大春在游戏中赢得大奖之前，因为夏洛提议打游戏后，大春才将剩余游戏币投入游戏机并中奖，叙事顺序明确。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ec18271d337f",
+    "subject_id": "ep_9df7f33fe4b9e605",
+    "object_id": "ep_39e99a1843d86da0",
+    "relation_type": "precedes",
+    "reason": "夏洛失手打倒马冬梅引发暴力升级（ep_9df7f33fe4b9e605）发生在邱雅婚礼现场（scene_18），而校方介入并试图控制局势（ep_39e99a1843d86da0）发生在课堂场景（scene_21），scene_18在叙事顺序上早于scene_21，因此该关系为precedes。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f1fb8ac46655",
+    "subject_id": "ep_9df7f33fe4b9e605",
+    "object_id": "ep_664c7c30155253dc",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，夏洛失手打倒马冬梅引发暴力升级（ep_9df7f33fe4b9e605）发生在婚礼场合（scene_18），而夏洛强吻邱雅并陷入现实混淆（ep_664c7c30155253dc）发生在课堂场景（scene_21），scene_18在叙事顺序上早于scene_21，因此该关系为precedes。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f9c44de1bdc4",
+    "subject_id": "ep_c65b00b2168a294d",
+    "object_id": "ep_cb652be6166f8802",
+    "relation_type": "causes",
+    "reason": "王老师镇压全班并暴力逼迫夏洛导致夏洛身心崩溃，这一情节直接引发了后续张扬和孟特讨论夏洛打老师事件并发生争执。文本中虽未直接描述夏洛打老师的过程，但‘讨论夏洛打老师事件’的情节以该暴力事件为前提，且讨论内容聚焦于夏洛的反抗行为及其后果，表明前者是后者的直接诱因。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_7354e5b511b1",
+    "subject_id": "ep_b8d976e713a8dae1",
+    "object_id": "ep_344c585dd00325c8",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，大春在自行车棚缠住夏洛（scene_49）发生在大春在游戏中下注并赢得大宝（scene_50）之前。因此，夏洛应对大春的纠缠并准备接近邱雅（ep_b8d976e713a8dae1）在叙事顺序上早于大春在游戏中赢得大奖（ep_344c585dd00325c8）。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_49_part_1",
+      "scene_49_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_61f04d956699",
+    "subject_id": "ep_f11c0de99ef408fe",
+    "object_id": "ep_71105c751993f976",
+    "relation_type": "precedes",
+    "reason": "根据相关场合的时间顺序，'张扬炫耀并集体质问夏洛'发生在同学会聚餐（scene_12），而'夏洛身份暴露并化解尴尬'发生在老同学聚会（scene_16），scene_12早于scene_16，因此该情节在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0c380d29c038",
+    "subject_id": "ep_19d8990c1df4f41d",
+    "object_id": "ep_ace48f07d8574c9d",
+    "relation_type": "precedes",
+    "reason": "根据描述，'张扬推动夏洛代表致辞' 发生在婚礼现场，王老师默认安排后，焦点转向夏洛；而 '夏洛强占座位引发连锁换座' 明确发生在王老师离开之后。因此，前者在叙事时间顺序上早于后者，构成直接的先后关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_331e05ac947c",
+    "subject_id": "ep_19d8990c1df4f41d",
+    "object_id": "ep_38a48ccf27706bbe",
+    "relation_type": "precedes",
+    "reason": "‘张扬推动夏洛代表致辞’发生在邱雅的婚礼场合（scene_18），而‘夏洛反抗并集体爆发冲突’发生在课堂上的日常教学活动（scene_21），scene_18在叙事顺序上早于scene_21。此外，前者为后续冲突埋下伏笔，表明时间上的先后顺序明确。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_64ef73406354",
+    "subject_id": "ep_39707c77a9908e3b",
+    "object_id": "ep_6dd46ad595a650c1",
+    "relation_type": "precedes",
+    "reason": "马冬梅拦截弟弟车辆并质问姐夫下落（ep_39707c77a9908e3b）发生在弟弟驾车过程中，而逼问姐夫行踪并抵达酒店（ep_6dd46ad595a650c1）包含后续的持续质问及抵达酒店的完成动作，叙事顺序上前者紧接后者开始，且后者包含更完整的对峙发展和终点事件（抵达酒店），因此前者在话语和事件流中早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fc206bd523bb",
+    "subject_id": "ep_db800ed215967b74",
+    "object_id": "ep_0a36d25fde9906de",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件内容，'寻找夏洛并询问同学'（doc_42）发生在操场上向同学询问夏洛下落，而'马冬梅寻找夏洛的下落'（doc_43）则发生在篮球场并涉及更具体的询问对象（大春、张扬、孟特），且文档ID表明前者在时间顺序上早于后者，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_76ff284ff75e",
+    "subject_id": "ep_db800ed215967b74",
+    "object_id": "ep_bf37530d21302a84",
+    "relation_type": "precedes",
+    "reason": "马冬梅在操场上寻找夏洛并询问同学（ep_db800ed215967b74）发生在夏洛在广播室公开演唱《星晴》并引发全校响应（ep_bf37530d21302a84）之前，依据文档场景编号（scene_43 在 scene_46 之前）可判断叙事顺序。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2f99f5e3de5a",
+    "subject_id": "ep_78269c9df216ca64",
+    "object_id": "ep_db800ed215967b74",
+    "relation_type": "precedes",
+    "reason": "王老师当众羞辱夏洛并强迫其朗读情书导致马冬梅误解离场，这一冲突事件在叙事上直接早于马冬梅后续在操场上寻找夏洛并询问同学的行动，情节之间存在清晰的时间顺序和动机延续。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_54b094a171ba",
+    "subject_id": "ep_6dd46ad595a650c1",
+    "object_id": "ep_3efcff4ec63cbdf6",
+    "relation_type": "precedes",
+    "reason": "情节'逼问姐夫行踪并抵达酒店'发生在夏洛婚礼闹剧之前，马冬梅在得知姐夫参加初恋婚礼后前往酒店，紧接着在下一场景中现身婚礼制止夏洛，叙事顺序明确且连续。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2bbd97299b4b",
+    "subject_id": "ep_0a36d25fde9906de",
+    "object_id": "ep_cea7b0dad303ddbf",
+    "relation_type": "precedes",
+    "reason": "马冬梅寻找夏洛的下落发生在篮球场（doc_43），随后她在校园广播活动中介入并引发混乱（doc_45），两个情节在叙事时间线上连续，且文档ID顺序支持该时序。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ba2d2d8aa268",
+    "subject_id": "ep_6dd46ad595a650c1",
+    "object_id": "ep_eb203031690a5662",
+    "relation_type": "precedes",
+    "reason": "主体情节‘逼问姐夫行踪并抵达酒店’发生在场景17，客体情节‘马冬梅悄然现身观察现场’发生在场景18，根据文档顺序和场景编号，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cdf7cc9f3a2c",
+    "subject_id": "ep_0a36d25fde9906de",
+    "object_id": "ep_bf37530d21302a84",
+    "relation_type": "precedes",
+    "reason": "马冬梅寻找夏洛的下落发生在夏洛公开演唱《星晴》之前，因为她在寻找过程中跑向教学楼，而在演唱开始后她进入教学楼是为了听广播，表明寻找行为在演唱开始前或初期发生。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c30151c81657",
+    "subject_id": "ep_6dd46ad595a650c1",
+    "object_id": "ep_098a4f055253917d",
+    "relation_type": "precedes",
+    "reason": "情节'逼问姐夫行踪并抵达酒店'发生在马冬梅前往婚礼现场的过程中，而'马冬梅持刀追砍夏洛致现场失控'发生在婚礼现场内部，根据叙事顺序，抵达酒店是后续混乱事件的前提。相关场合分别为'scene_17'和'scene_18'，表明时间上的先后顺序。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d543bdaef583",
+    "subject_id": "ep_0a36d25fde9906de",
+    "object_id": "ep_88bd16d07aa9f3b3",
+    "relation_type": "precedes",
+    "reason": "马冬梅寻找夏洛的下落发生在夏洛卖车轮搭讪失败并被锁车之前，因为马冬梅在篮球场询问夏洛行踪时，夏洛尚未完成卖车轮和被锁车的事件，且后续场景中马冬梅锁车行为是对夏洛行动的回应，表明时间顺序上前者早于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_49_part_1",
+      "scene_49_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0f135bbb9d10",
+    "subject_id": "ep_098a4f055253917d",
+    "object_id": "ep_0a36d25fde9906de",
+    "relation_type": "precedes",
+    "reason": "马冬梅持刀追砍夏洛致现场失控发生在婚礼现场，而马冬梅寻找夏洛的下落发生在之后的篮球场场景，根据叙事顺序，婚礼混乱后马冬梅才离开现场去寻找夏洛，因此前者在时间上明确早于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c0876bc6becc",
+    "subject_id": "ep_b70bf1c91da03cbb",
+    "object_id": "ep_c19cb8231f63a919",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '安抚夏洛妈并揭示家庭伤痛' 展现了马冬梅以共情和情感支持的方式与夏洛妈建立联结，而情节 '马冬梅揭露夏洛虚荣与依赖' 则表现她对夏洛的愤怒指责和道德批判。两者在情感基调和人际动态上形成鲜明对比：前者是同情与联结，后者是冲突与揭露，构成对马冬梅与夏洛母子关系不同面向的并置。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_f90a2586c116",
+    "subject_id": "ep_eb203031690a5662",
+    "object_id": "ep_d38ac1503fd75c3d",
+    "relation_type": "precedes",
+    "reason": "马冬梅悄然现身观察现场（ep_eb203031690a5662）发生在婚礼进行中，她躲在角落观察夏洛与邱雅的互动；随后她介入并质问婉婉和贝贝背后议论（ep_d38ac1503fd75c3d），打断对话。根据事件顺序，观察行为在先，介入质问在后，因此主体情节在叙事时间上早于客体情节。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_18_part_1",
+      "scene_18_part_2",
+      "scene_18_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a55175b12aca",
+    "subject_id": "ep_eeaf8fb8eee25b28",
+    "object_id": "ep_90969d5ed78bdd01",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，王老师因广播演唱表达不满（scene_46）发生在应对训斥并接受比赛任务（scene_47）之前，叙事顺序明确，scene_46早于scene_47。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_941538e85ac6",
+    "subject_id": "ep_73b73ce1dd5c27b2",
+    "object_id": "ep_38a48ccf27706bbe",
+    "relation_type": "elaborates",
+    "reason": "揭露夏洛写情诗的往事这一情节提供了关于夏洛过去行为的背景信息，解释了他在后续反抗事件中情绪爆发的部分动机，特别是在面对王老师时的羞辱感和压抑感。该背景通过回忆形式呈现，扩展了对夏洛与王老师之间紧张关系的理解，从而为‘夏洛反抗并集体爆发冲突’这一情节提供了额外的心理和情感上下文。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6de94ea6eff3",
+    "subject_id": "ep_1007bf7efa86b829",
+    "object_id": "ep_b181889370ff1de6",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节中，王老师施压导致夏洛情绪失控并引发全班哄笑，凸显其孤立与荒诞；第二个情节中，夏洛在校长干预下向王老师道歉并承诺赔偿，王老师以鼓掌回应，呈现关系缓和与正式和解。两个情节在情绪基调和师生互动状态上形成明显逆转与对比。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_75065eb81972",
+    "subject_id": "ep_6eea45bcd6d1965b",
+    "object_id": "ep_cee7d9c6c8e55c37",
+    "relation_type": "precedes",
+    "reason": "校长妥协并更改处分决定后，夏洛母亲才结束抗争并致谢，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0ef0da98bea9",
+    "subject_id": "ep_b70bf1c91da03cbb",
+    "object_id": "ep_cee7d9c6c8e55c37",
+    "relation_type": "precedes",
+    "reason": "情节 '安抚夏洛妈并揭示家庭伤痛' 发生在夏洛妈情绪崩溃并倾诉的场景（scene_24），而 '夏洛母亲结束抗争并致谢' 发生在后续场景（scene_25），文档顺序和事件发展表明前者在叙事时间上直接早于后者。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d7f5b3363c99",
+    "subject_id": "ep_b8f413c6db8d9752",
+    "object_id": "ep_cee7d9c6c8e55c37",
+    "relation_type": "precedes",
+    "reason": "主体情节‘夏洛纵火引发混乱并迎接母亲’发生在场景21，客体情节‘夏洛母亲结束抗争并致谢’发生在场景25，根据文档中场景编号的顺序，前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_488dec6b3e35",
+    "subject_id": "ep_8f94fc372ee0163a",
+    "object_id": "ep_cee7d9c6c8e55c37",
+    "relation_type": "precedes",
+    "reason": "校长宣布对夏洛的开除决定在叙事顺序上先于夏洛母亲结束抗争并致谢，前者触发后者的行为转变，且两个情节共享同一场景（scene_25），表明事件发展的先后顺序。",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b212347e7f39",
+    "subject_id": "ep_bf37530d21302a84",
+    "object_id": "ep_eeaf8fb8eee25b28",
+    "relation_type": "contrasts_with",
+    "reason": "夏洛公开演唱《星晴》引发全校共鸣与热烈反应，而王老师因广播演唱表达不满并愤怒吃鸡蛋，两者在情感反应和立场上形成鲜明对比，体现学生群体与教师权威对同一场合的不同态度。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_85ac55646ad3",
+    "subject_id": "ep_8ba5e9f1366b0365",
+    "object_id": "ep_4ff66288ba8c4869",
+    "relation_type": "precedes",
+    "reason": "夏洛进入会场并开始检讨发生在校长宣布例会结束并恢复教学秩序之前，两个情节共享同一场合‘学校紧急例会’，且描述中的动作顺序表明检讨结束后才宣布结束例会，因此存在明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8c70259b6831",
+    "subject_id": "ep_0b79617d4f11641a",
+    "object_id": "ep_2f02f32fa0ef9dc6",
+    "relation_type": "contrasts_with",
+    "reason": "夏洛通过调侃和转移话题缓解紧张情绪，表现出与大春的轻松互动；而袁华则因被排除在外而表现出嫉妒和愤恨，两者在情绪反应和社交状态上形成鲜明对比。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_49_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_dcec1691433b",
+    "subject_id": "ep_b70bf1c91da03cbb",
+    "object_id": "ep_8591fbd308a63826",
+    "relation_type": "precedes",
+    "reason": "在夏洛妈情绪焦虑并被邻居安抚的过程中，夏洛突然回家终结了紧张情境。根据描述，安抚行为发生在夏洛回家之前，作为对失踪危机的反应，而夏洛的出现即时终结了该危机，表明‘安抚夏洛妈并揭示家庭伤痛’在叙事顺序上先于‘夏洛突然回家解除危机’。",
+    "source_documents": [
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4fbe97c36c77",
+    "subject_id": "ep_6a82fcb73a06c780",
+    "object_id": "ep_8ba5e9f1366b0365",
+    "relation_type": "precedes",
+    "reason": "校长启动紧急例会并宣布处分在叙事顺序上先于夏洛进入会场并开始检讨，因为处分的宣布为夏洛的检讨设定了正式场合，且两个情节共享同一场合'学校紧急例会'，表明存在明确的时间先后顺序。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3368082d9097",
+    "subject_id": "ep_6a82fcb73a06c780",
+    "object_id": "ep_dc9e37e8e9841f5b",
+    "relation_type": "precedes",
+    "reason": "‘启动紧急例会并宣布处分’在叙事顺序上先于‘向邱雅道歉引发情感反应’，因为校长先宣布处分并要求检讨，随后夏洛才在同一个紧急例会场合中公开道歉，事件序列在共享的场合（学校紧急例会）中有明确的时间先后。",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1ce1745d2f74",
+    "subject_id": "ep_f95fedabb131a1d6",
+    "object_id": "ep_d896591025b16840",
+    "relation_type": "causes",
+    "reason": "足球打断对话并引发称呼冲突直接导致邱雅离开，进而引发马冬梅的愤怒回应。文本中明确显示，称呼邱雅为‘洛嫂’的行为引发了尴尬和后续反应，紧接着邱雅离开，马冬梅爆发并禁止该称呼，构成直接因果链。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eb902f2518e9",
+    "subject_id": "ep_18c0bf850c784e6e",
+    "object_id": "ep_d38ac1503fd75c3d",
+    "relation_type": "precedes",
+    "reason": "根据描述，婉婉和贝贝先安慰邱雅并讨论亲嘴事件，随后马冬梅介入并质问背后议论，两个情节发生在同一场景（scene_28），且马冬梅的打断行为在叙事顺序上紧随安慰对话之后，因此主体情节在时间顺序上先于客体情节。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_620453ad4dc1",
+    "subject_id": "ep_27d180a67a243133",
+    "object_id": "ep_d85a46bfa61f2d4f",
+    "relation_type": "causes",
+    "reason": "主体情节中夏洛被迫登台表演，直接导致他在舞台上因紧张而哭泣，进而引发同学哄堂大笑。描述中明确指出该事件‘直接触发了他的舞台出场’，而客体情节描述中‘夏洛在舞台上因紧张而哭泣的表现被同学们目睹，引发教室内集体哄笑’，表明登台表演的情节是引发哄笑的直接原因。",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d838a602efd8",
+    "subject_id": "ep_18c0bf850c784e6e",
+    "object_id": "ep_f95fedabb131a1d6",
+    "relation_type": "precedes",
+    "reason": "根据描述，'安慰邱雅并讨论亲嘴事件' 发生在对话场景中，而 '足球打断对话并引发称呼冲突' 明确提到对话被足球击中花坛旁区域所打断，表明前者在叙事顺序上紧接在后者之前发生。因此，主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0e04cf905de5",
+    "subject_id": "ep_5af261dc83865ec6",
+    "object_id": "ep_d85a46bfa61f2d4f",
+    "relation_type": "causes",
+    "reason": "夏洛在舞台上演唱《伤心太平洋》时情绪失控并哭泣（ep_5af261dc83865ec6），这一表现被同学们目睹，直接引发了教室内集体哄堂大笑（ep_d85a46bfa61f2d4f）。两个情节发生在同一场合（冬天元旦晚会），且描述中明确指出哭泣表现导致了哄笑，构成直接因果关系。",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_48a64642e490",
+    "subject_id": "ep_b8f413c6db8d9752",
+    "object_id": "ep_f6e089a2b94fa06c",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，夏洛纵火引发混乱并迎接母亲（ep_b8f413c6db8d9752）发生在教室场景（scene_21），而夏洛母亲在校长室采取激烈手段施压校方（ep_f6e089a2b94fa06c）发生在scene_25，scene_21早于scene_25，因此该关系在叙事顺序上明确支持precedes。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_21_part_2",
+      "scene_21_part_3",
+      "scene_21_part_4",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  }
+]

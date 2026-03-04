@@ -1,0 +1,65 @@
+{
+  "character": "Luke",
+  "qas": [
+    {
+      "question": "What did you do to get Lara's attention?",
+      "supporting_facts": [
+        "You tapped Lara on the shoulder",
+        "The tap was intended to initiate interaction with Lara"
+      ],
+      "contradicting_facts": [
+        "You called out Lara's name loudly",
+        "You waved at Lara from a distance"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you stay awake the whole time while John was preparing to rest?",
+      "supporting_facts": [
+        "You did not remain awake during the event",
+        "You slept beside John after John lay down"
+      ],
+      "contradicting_facts": [
+        "You were awake when John lay down",
+        "You remained conscious until morning"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Did you share a bed with anyone while you were sleeping?",
+      "supporting_facts": [
+        "You slept in a single bed.",
+        "There is no indication of another person sharing the bed with you."
+      ],
+      "contradicting_facts": [
+        "You regularly shared your bed with John.",
+        "The bed you slept in was large enough for multiple people and often occupied by others."
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "What did you do with the jar after you received it?",
+      "supporting_facts": [
+        "You received a jar from someone",
+        "You placed the coin jar on your nightstand"
+      ],
+      "contradicting_facts": [
+        "You left the jar in the garden",
+        "You kept the jar in your hand without placing it down"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "What did you do with the food you had?",
+      "supporting_facts": [
+        "You consumed a piece of food",
+        "You put the food in your mouth"
+      ],
+      "contradicting_facts": [
+        "You saved the food for later",
+        "You gave the food to someone else"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

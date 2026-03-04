@@ -1,0 +1,3316 @@
+[
+  {
+    "id": "rel_ep_ep_ab74b0306e43",
+    "subject_id": "ep_50c09a8a7bdd3ca7",
+    "object_id": "ep_54bf048f6f051249",
+    "relation_type": "precedes",
+    "reason": "肢体冲突与权威介入发生在分队长实施纪律警告之前，描述中指出冲突被制止后众人散去，随后分队长单独留下小芭进行训诫，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_971e0ef11a6f",
+    "subject_id": "ep_6ff6916801351574",
+    "object_id": "ep_54bf048f6f051249",
+    "relation_type": "precedes",
+    "reason": "‘引发冲突：衬衫失窃指控’是冲突的导火索，发生在宿舍走廊，随后分队长对小芭实施纪律警告作为后续处理，叙事顺序上明确前者早于后者。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0f9ae2aa1551",
+    "subject_id": "ep_39a3b14e1d0ea06f",
+    "object_id": "ep_d0d7220f615038f4",
+    "relation_type": "causes",
+    "reason": "刘峰表白并试图拉近亲密关系直接导致朱克和小邓目击该行为，进而引发道德指责。文本明确显示，亲密举动发生后立即被目击，且指责是对此行为的直接反应。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a3f817e5e07f",
+    "subject_id": "ep_0becd068f19c339f",
+    "object_id": "ep_50c09a8a7bdd3ca7",
+    "relation_type": "precedes",
+    "reason": "根据描述，'升级指责与集体围攻'中矛盾逐步激化，导致后续'肢体冲突与权威介入'中的肢体冲突和分队长介入。两个情节共享同一场景(scene_34)，且前者描述冲突升级，后者描述事态失控及权威制止，符合叙事上的先后顺序。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_26a259748220",
+    "subject_id": "ep_01aec36e075a115e",
+    "object_id": "ep_bb87fee179d5701b",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述刘峰的拥抱行为在宿舍中引发集体反应，标志着事件的爆发；第二个情节聚焦林丁丁对事件的进一步反应，强调她对刘峰行为越界的坚持及其对名誉和道德身份的担忧，提供了更深层的动机和心理背景，从而扩展和丰富了前一情节的意义。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a6820a0fae74",
+    "subject_id": "ep_66b8483d6dc4b216",
+    "object_id": "ep_7243068eaef43fdc",
+    "relation_type": "precedes",
+    "reason": "萧穗子跟随陈灿并表达听号意愿发生在陈灿到达河边排尿之前，根据描述中的行为顺序：陈灿在拒绝吹号后继续走向河边，随后进行排尿，萧穗子在原地远望，表明前一情节在叙事时间上直接早于后一情节。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3e5f94c2b414",
+    "subject_id": "ep_3b531348dd10b8f8",
+    "object_id": "ep_127887a6bd895ea0",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序，'应对侮辱性冲突并恢复排练'（doc_38）发生在'告知刘峰何小萍父亲病故'（doc_39）之前，且两个情节均涉及刘峰与宁政委的互动，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0aa5c36d5740",
+    "subject_id": "ep_605a2b548ad4b2c7",
+    "object_id": "ep_d4396346cf5a228e",
+    "relation_type": "precedes",
+    "reason": "刘峰分发包裹并转达萧穗子父亲的平反消息在叙事顺序上先于萧穗子打开箱子并分享食物。萧穗子是在收到刘峰转交的箱子并得知父亲平反后，才打开箱子并分发其中的食物，这一时间顺序由两个情节的描述及共享的related_events支持。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4607c30bdfd6",
+    "subject_id": "ep_411e2735f6b9443e",
+    "object_id": "ep_51672df3ebf17acb",
+    "relation_type": "contrasts_with",
+    "reason": "林丁丁和郝淑雯在如何处理何小萍的问题上表现出不同态度：前者主张劝阻举报并给予改过机会，后者坚持举报以维护革命队伍纯洁性，二者形成道德宽容与纪律严明之间的对比。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_710c9afe3773",
+    "subject_id": "ep_9567c2d807e8b3be",
+    "object_id": "ep_01f1e9a37aeb6152",
+    "relation_type": "causes",
+    "reason": "林丁丁表达对饺子的抗拒直接引发刘峰为她送煮挂面并归还手表的关怀举动，文本明确指出这一行为是情节发展的起点，构成直接的因果触发关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_9_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3eed47b0325e",
+    "subject_id": "ep_6d21c18f65d43348",
+    "object_id": "ep_8aac087e107fef58",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在'何小萍入伍报到日'这一相同场合中，且根据叙事逻辑，刘峰护送何小萍抵达并安顿入伍事宜后，才可能指导她正确行军礼。描述中事件的自然顺序支持'护送安顿'在前，'指导军礼'在后。",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_129fbad84579",
+    "subject_id": "ep_fba2f8bc7d7cd006",
+    "object_id": "ep_54bf048f6f051249",
+    "relation_type": "precedes",
+    "reason": "根据描述，'冲突余波与责任归因'发生在宿舍走廊冲突事件结束后，众人散去时；而'分队长实施纪律警告'发生在众人散去后，分队长单独留下小芭进行训诫。因此，'冲突余波'在叙事顺序上先于'纪律警告'，有明确的时间先后支持。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b9bfc901cd1c",
+    "subject_id": "ep_ac5b845bb5a49e47",
+    "object_id": "ep_ed1f0481379355f0",
+    "relation_type": "precedes",
+    "reason": "处理林丁丁的脚伤发生在部队野外拉练期间（scene_18），而文工团抵达驻地并下车发生在scene_22，scene_18在叙事顺序上早于scene_22，因此该情节在话语顺序上先于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c0ce08fb3630",
+    "subject_id": "ep_0becd068f19c339f",
+    "object_id": "ep_fba2f8bc7d7cd006",
+    "relation_type": "precedes",
+    "reason": "主体情节'升级指责与集体围攻'描述冲突的高潮过程，包括何小萍情绪爆发和众人围攻；客体情节'冲突余波与责任归因'描述事件结束后何小萍逃离、他人批评与散去的后续状态。两个情节共享同一场景(scene_34)且描述连续动作，前者为冲突发展，后者为冲突结束后的反应，叙事顺序明确先后。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9dde43493d24",
+    "subject_id": "ep_5d81a7047d699933",
+    "object_id": "ep_f7e6e7bb9ff4db5c",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述孙助理为何小萍办理生活用品领取手续，客体情节则进一步展示在相同过程中萧穗子发现蚊帐遗漏并纠正的细节。客体情节补充了主体情节中未提及的用品发放不完整及补救过程，扩展了同一行政事务场景的完整性，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e0d2609a0826",
+    "subject_id": "ep_50c09a8a7bdd3ca7",
+    "object_id": "ep_fba2f8bc7d7cd006",
+    "relation_type": "precedes",
+    "reason": "主体情节'肢体冲突与权威介入'描述了冲突的爆发及分队长制止事件的过程，而客体情节'冲突余波与责任归因'描述了何小萍逃离、众人争论并散去的后续发展。两个情节共享同一场合（宿舍走廊冲突事件），且客体情节中的行为（批评、指责、逃离）在叙事逻辑上紧随主体情节的冲突平息之后，构成明确的时间顺序。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ee2ad9088d5e",
+    "subject_id": "ep_127887a6bd895ea0",
+    "object_id": "ep_155a10e3cf68943e",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中宁政委告知刘峰何小萍父亲病故，并提及如何传达消息的困扰，为后续何小萍阅读父亲临终来信的情节提供了背景和情感铺垫。第二个情节通过展示信件内容和何小萍的反应，扩展并深化了第一个情节的信息，构成对事件后果和情感层面的进一步揭示。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1694ffe17529",
+    "subject_id": "ep_6ff6916801351574",
+    "object_id": "ep_50c09a8a7bdd3ca7",
+    "relation_type": "precedes",
+    "reason": "‘引发冲突：衬衫失窃指控’描述了小芭发现衬衫不见并大喊，引发他人关注，事件开始升级；而‘肢体冲突与权威介入’描述了事态进一步失控并被分队长制止，标志着高潮和平息。根据叙事顺序，指控引发冲突在前，肢体冲突与制止在后，且两个情节共享同一场合‘宿舍走廊冲突事件 (scene_34)’，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_13cf6f632153",
+    "subject_id": "ep_4513e5c9f8031727",
+    "object_id": "ep_51672df3ebf17acb",
+    "relation_type": "precedes",
+    "reason": "揭露何小萍偷穿军装拍照的情节中，郝淑雯发现证据并提出指责，随后林丁丁劝阻上报并给予改过机会。两个情节发生在同一场景（scene_27），且叙事顺序上揭露行为先于劝阻与宽恕，构成明确的时间先后关系。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e4d8ce49c87b",
+    "subject_id": "ep_b35ac7a5fe952f25",
+    "object_id": "ep_8dc588d3594af701",
+    "relation_type": "precedes",
+    "reason": "介绍何小萍并测试舞蹈能力的情节包含要求何小萍做平转动作的事件，而郝淑雯羞辱何小萍导致其摔倒的情节始于她在平转时被羞辱并摔倒。两个情节均发生在同一场合（文工团排练）中，且相关事件在scene_3内按顺序发生：能力测试在前，羞辱与反应在后。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_66ae55b40ce5",
+    "subject_id": "ep_35906806aa2ed2db",
+    "object_id": "ep_fba2f8bc7d7cd006",
+    "relation_type": "precedes",
+    "reason": "主体情节'处理误击靶位引发的比赛争议'发生在靶场打靶比赛场景(scene_28)，而客体情节'冲突余波与责任归因'发生在宿舍走廊冲突事件(scene_34)，scene_28在文档时序上早于scene_34，且前者直接引发后者中的人物态度分化与争论，构成清晰的叙事先后顺序。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_28_part_2",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ac2851204d4b",
+    "subject_id": "ep_8eb002d4a937fd8b",
+    "object_id": "ep_89578806137e7a2e",
+    "relation_type": "precedes",
+    "reason": "萧穗子发现卓玛肚子疼并确认是生理期疼痛（ep_8eb002d4a937fd8b）发生在林丁丁提议带卓玛回宿舍取药（ep_89578806137e7a2e）之前，因为确认疼痛是触发后续援助行动的前提，且两事件均发生在scene_9，逻辑时序支持前者先于后者。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_9_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_957a29d266c0",
+    "subject_id": "ep_607f93d025ad3b01",
+    "object_id": "ep_01aec36e075a115e",
+    "relation_type": "precedes",
+    "reason": "情节'展开暧昧对话并揭示手工礼物'（doc_46, scene_47）发生在刘峰与林丁丁互动的较早阶段，而'揭露刘峰的拥抱引发宿舍冲突'（doc_48, scene_49）描述了后续在宿舍中爆发的后果，事件编号和文档顺序表明前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_536d42bb7ca2",
+    "subject_id": "ep_607f93d025ad3b01",
+    "object_id": "ep_c687676b9bab480d",
+    "relation_type": "precedes",
+    "reason": "刘峰与林丁丁展开暧昧对话并揭示手工礼物后，林丁丁才调侃刘峰只邀请穗子不邀请自己，刘峰随后回应，表明第一个情节在叙事顺序上直接早于第二个情节。两个情节均发生在同一场景（scene_47）和同一场合（马班长结婚仪式）中，且事件序列在描述中呈现清晰的先后逻辑。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_04b3b9a9f8e7",
+    "subject_id": "ep_4513e5c9f8031727",
+    "object_id": "ep_411e2735f6b9443e",
+    "relation_type": "precedes",
+    "reason": "揭露何小萍偷穿军装拍照（ep_4513e5c9f8031727）提供了何小萍行为欺骗的证据，随后林丁丁和郝淑雯基于此证据指责其品质问题并主张举报（ep_411e2735f6b9443e），两个情节发生在同一场景（scene_27），但逻辑和叙事顺序上，发现证据的行为先于基于该证据的道德指责和举报主张。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c684e780454b",
+    "subject_id": "ep_6ff6916801351574",
+    "object_id": "ep_0becd068f19c339f",
+    "relation_type": "precedes",
+    "reason": "‘引发冲突：衬衫失窃指控’描述了小芭发现衬衫不见并大喊，郝淑雯质问何小萍，事件开始升级，是冲突的导火索；而‘升级指责与集体围攻’描述了在质问后矛盾加剧，出现抢查衬衫、公开质疑和情绪爆发等后续行为。两个情节共享同一场景（宿舍走廊冲突事件），且事件序列在描述中呈现清晰的先后顺序：指控引发关注后，矛盾才进一步升级。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1622ba65c1ba",
+    "subject_id": "ep_ea81d7e27620ca8c",
+    "object_id": "ep_fba2f8bc7d7cd006",
+    "relation_type": "precedes",
+    "reason": "主体情节'揭示军装突然出现的冲突'发生在宿舍中围绕军装位置的即时对峙，包含多个在scene_16的事件；客体情节'冲突余波与责任归因'发生在scene_34，涉及冲突结束后何小萍逃离及众人道德评判。scene_16在文档时序上早于scene_34，且后者描述的是前者的后续反应，因此主体情节在叙事顺序上直接先于客体情节。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c904c34a80cf",
+    "subject_id": "ep_6d21c18f65d43348",
+    "object_id": "ep_272c09e83090a91b",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在'何小萍入伍报到日'这一相同场合下。根据描述逻辑顺序，刘峰先护送何小萍抵达文工团并安顿入伍事宜（包括接引、穿雨衣、提行李、叮嘱拍照），随后才小声向她透露政审信息并嘱其保密。文本虽未明确时间点，但事件流程符合先安顿后私下交谈的自然顺序，且两者同属报到日场景，支持叙事上的先后关系。",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9e03ad7acdf2",
+    "subject_id": "ep_39a3b14e1d0ea06f",
+    "object_id": "ep_393138a6f931d4c5",
+    "relation_type": "elaborates",
+    "reason": "刘峰表白并试图拉近亲密关系这一情节中，刘峰的主动行为（如表白、握手、拥抱）直接引发了林丁丁在挣扎中流露真实情感的情节。后者通过展现双方在冲突中的情感表达（如后悔、喜欢、内心情感）进一步扩展和深化了前者的情感内涵，提供了更丰富的情感细节和心理背景，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1a9d500bde10",
+    "subject_id": "ep_3b531348dd10b8f8",
+    "object_id": "ep_4a632689cc4417bf",
+    "relation_type": "elaborates",
+    "reason": "情节 '应对侮辱性冲突并恢复排练' 展示了刘峰在冲突中主动支持何小萍以维持排练秩序，而 '揭露刘峰的默默奉献与被误解' 进一步通过萧穗子的观察视角揭示刘峰的身体痛苦、他人对其的嘲讽以及何小萍的关怀，从而扩展并深化了刘峰无私形象与被集体忽视的主题。后者提供了前者的后续细节和情感背景，构成对刘峰行为意义的进一步阐释。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_162d654c447a",
+    "subject_id": "ep_6ff6916801351574",
+    "object_id": "ep_fba2f8bc7d7cd006",
+    "relation_type": "precedes",
+    "reason": "‘引发冲突：衬衫失窃指控’描述了冲突的起始事件，包括小芭大喊、郝淑雯和林丁丁出现及质问何小萍，而‘冲突余波与责任归因’描述了何小萍逃离、萧穗子批评小芭、郝淑雯反击等后续行为。两个情节共享同一场合‘宿舍走廊冲突事件 (scene_34)’，且事件序列在描述中呈现清晰的先后顺序：先有指控升级，后有逃离与道德评判。因此，主体情节在叙事顺序上直接早于客体情节。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bd6f18169fb2",
+    "subject_id": "ep_8dc588d3594af701",
+    "object_id": "ep_fba2f8bc7d7cd006",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述了在文工团排练中郝淑雯羞辱何小萍并引发其摔倒的事件，以及现场人员的即时反应；第二个情节描述了何小萍逃离后在宿舍走廊中萧穗子与郝淑雯之间的争执，属于前一事件的后续发展。相关场合分别为 scene_3 和 scene_34，表明叙事时间顺序上前者早于后者，且后者为前者的余波，因此支持 'precedes' 关系。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c2dd156b87bf",
+    "subject_id": "ep_6ff6916801351574",
+    "object_id": "ep_77e2bc1b6df1e08a",
+    "relation_type": "precedes",
+    "reason": "第一个情节'引发冲突：衬衫失窃指控'发生在宿舍走廊，围绕何小萍被指控拿走衬衫，是冲突的导火索；第二个情节'confront何小萍并索要军装照片'发生在回宿舍途中，围绕何小萍偷穿军装拍照被质问。两个情节均涉及对何小萍的集体质问，但'衬衫失窃'事件在叙事上早于'索要军装照片'事件，且前者为后续敌意升级提供上下文，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e46b3048552d",
+    "subject_id": "ep_ea81d7e27620ca8c",
+    "object_id": "ep_77e2bc1b6df1e08a",
+    "relation_type": "precedes",
+    "reason": "揭示军装突然出现的冲突（ep_ea81d7e27620ca8c）发生在宿舍中，林丁丁发现军装并质疑何小萍是否拿过军装；随后郝淑雯等人在回宿舍途中遇见何小萍并质问她偷穿军装拍照（ep_77e2bc1b6df1e08a）。根据事件发展逻辑和叙事顺序，军装位置的异常引发怀疑，进而导致后续对偷穿行为的当面 confront，因此前者在时间上先于后者。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bd0c87f18831",
+    "subject_id": "ep_b452b93a28685468",
+    "object_id": "ep_66b8483d6dc4b216",
+    "relation_type": "precedes",
+    "reason": "陈灿出门遇见压腿的萧穗子是两人互动的起始点，随后萧穗子跟随陈灿并表达听号意愿，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_45102b5fd291",
+    "subject_id": "ep_b452b93a28685468",
+    "object_id": "ep_96820f0199b33f76",
+    "relation_type": "precedes",
+    "reason": "陈灿出门遇见压腿的萧穗子是两人互动的起始点，随后萧穗子才主动叫住陈灿询问情绪状态，因此该情节在叙事顺序上明确早于确认陈灿情绪状态的情节。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b64691010818",
+    "subject_id": "ep_4936fb49dcc006a2",
+    "object_id": "ep_9f78c1d2ec8a55cb",
+    "relation_type": "precedes",
+    "reason": "萧穗子因陈灿到来而躲藏发生在众人陶醉聆听邓丽君歌曲之前，根据描述，陈灿进入房间后引发躲藏反应，随后才共同参与听歌活动，叙事顺序明确。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_04aa534ad45b",
+    "subject_id": "ep_b452b93a28685468",
+    "object_id": "ep_7243068eaef43fdc",
+    "relation_type": "precedes",
+    "reason": "陈灿出门遇见压腿的萧穗子是整个叙事的起始点，而陈灿在河边排尿并被萧穗子远望标志着此前互动的结束和场景的收束，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_675828372a1e",
+    "subject_id": "ep_96820f0199b33f76",
+    "object_id": "ep_7243068eaef43fdc",
+    "relation_type": "precedes",
+    "reason": "根据描述，'确认陈灿对小萍事件的情绪状态'发生在陈灿被萧穗子远望之前，因为情绪澄清是互动的一部分，而排尿及被远望标志着该场景的结束。因此，该情节在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8f30677b4691",
+    "subject_id": "ep_4936fb49dcc006a2",
+    "object_id": "ep_c270b3ac06c9fd8e",
+    "relation_type": "precedes",
+    "reason": "萧穗子因陈灿到来而躲藏的情节发生在陈灿展示录音机并播放邓丽君歌曲之前，根据描述，陈灿进入房间后引发萧穗子躲藏，随后才展示录音机并播放音乐，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_58569a2e1a99",
+    "subject_id": "ep_4d67a4fedb431798",
+    "object_id": "ep_fb07d60dd67b0848",
+    "relation_type": "precedes",
+    "reason": "萧穗子与陈灿途中相遇发生在陈灿执行休息命令之前，根据描述，两人相遇交谈后，陈灿随即被队长命令执行任务，包括吹号通知部队休息，事件顺序在同一个场景（scene_18）中有清晰的时间先后。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4a026358d028",
+    "subject_id": "ep_01f1e9a37aeb6152",
+    "object_id": "ep_03cb3f319e226f9c",
+    "relation_type": "precedes",
+    "reason": "根据描述，刘峰为林丁丁送餐并归还手表后，才宣布去排队打饺子，两个情节发生在同一场景（scene_9）中，且存在明确的先后顺序。因此，主体情节在叙事顺序上直接早于客体情节。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_9_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ec82964001d4",
+    "subject_id": "ep_f7e6e7bb9ff4db5c",
+    "object_id": "ep_2a9e5678f52a9249",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'协助并纠正用品遗漏' 发生在 scene_4，而 '安置何小萍并安抚其情绪' 发生在 scene_5，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a8f21860fbe9",
+    "subject_id": "ep_e186e30e33e222b3",
+    "object_id": "ep_558368b4de42d68a",
+    "relation_type": "precedes",
+    "reason": "根据描述，'开始并完成女舞蹈排练' 包含女演员完成舞蹈并摆出结束造型的事件，而 '宣布排练调整并批评乐队' 发生在舞蹈结束后，由分队长宣布。因此，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_97a1766f2d52",
+    "subject_id": "ep_04cd28b5a75f41b1",
+    "object_id": "ep_9a6834c3e80e9b98",
+    "relation_type": "causes",
+    "reason": "第一个情节中郝淑雯与陈灿的相互指责逐步升级矛盾，直接导致第二个情节中争吵上升为对干部子弟身份的攻击，并伴随摔盆等激烈行为，情绪达到顶点。两个情节发生在同一场景（scene_12），且描述中显示冲突从个人批评演变为政治话语介入，具有明确的因果推进。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e19451f944af",
+    "subject_id": "ep_0b173ad1e3e5ceea",
+    "object_id": "ep_01aec36e075a115e",
+    "relation_type": "precedes",
+    "reason": "带领何小萍进入文工团发生在故事早期（doc_1），而揭露刘峰的拥抱引发宿舍冲突发生在后续文档（doc_48）中，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_18634dac7354",
+    "subject_id": "ep_0b173ad1e3e5ceea",
+    "object_id": "ep_89be1d8ccce0eb96",
+    "relation_type": "precedes",
+    "reason": "主体情节'带领何小萍进入文工团'发生在场景2，客体情节'迎接刘峰归来并分发家乡食物'发生在场景3，根据相关事件的场景编号顺序，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_51395a3f5068",
+    "subject_id": "ep_8aac087e107fef58",
+    "object_id": "ep_0b173ad1e3e5ceea",
+    "relation_type": "precedes",
+    "reason": "指导何小萍正确行军礼发生在何小萍入伍报到日（scene_1），而带领何小萍进入文工团发生在scene_2，根据相关场景编号的顺序，前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_93ccc2ba0e15",
+    "subject_id": "ep_87c76638711ceef4",
+    "object_id": "ep_35906806aa2ed2db",
+    "relation_type": "precedes",
+    "reason": "‘应对郝淑雯的打靶挑战’包含陈灿接受挑战和商定规则的事件，这在叙事顺序上直接早于‘处理误击靶位引发的比赛争议’中成绩宣布、争议和笑闹等后续发展。两个情节共享同一场合‘靶场打靶比赛 (scene_28)’，且后者依赖前者建立的比赛框架。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_28_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e3cea1f7d721",
+    "subject_id": "ep_66b8483d6dc4b216",
+    "object_id": "ep_96820f0199b33f76",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，萧穗子跟随陈灿并表达听号意愿发生在陈灿走向河边的过程中，而确认陈灿对小萍事件的情绪状态是萧穗子随后主动叫住陈灿进行的询问。两个情节均发生在scene_29，但逻辑顺序上，跟随和表达意愿在前，叫停并询问情绪在后，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bf067c5ec93d",
+    "subject_id": "ep_87c76638711ceef4",
+    "object_id": "ep_acb628ade5492828",
+    "relation_type": "elaborates",
+    "reason": "‘揭示赌注中的不公平条款’提供了关于‘应对郝淑雯的打靶挑战’中赌注安排的额外解释和洞察，揭示了陈灿在挑战中潜在的不利地位，从而扩展了该情节的内涵。两个情节共享同一场合（靶场打靶比赛），且后者并未构成前者的直接因果或时间先后，而是通过补充信息深化理解。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_28_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7e1eed89a1ed",
+    "subject_id": "ep_8bfa101f7871a46f",
+    "object_id": "ep_309801a1c40f3b42",
+    "relation_type": "precedes",
+    "reason": "根据描述，萧穗子在完成板报后探查刘峰深夜劳作（ep_8bfa101f7871a46f），随后才发生刘峰询问宿舍成员去向并被萧穗子回应后离开的场景（ep_309801a1c40f3b42）。两个情节均发生在同一文档（doc_44）的连续场景（scene_45）中，且事件顺序在叙述中具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e9f5612743a8",
+    "subject_id": "ep_1f3182bc4c94e29c",
+    "object_id": "ep_f9c5c3a191b4ab31",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中刘峰吃下破损饺子并被称作‘活雷锋’，建立了他在集体中的无私形象；第二个情节中他被立即召去追捕逃跑的猪，他人笑谈此任务因其‘活雷锋’身份而落于他身，进一步揭示了这一角色标签带来的持续负担。因此，第二个情节通过展示其社会角色的延伸后果，扩展并深化了第一个情节所建立的形象。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_9_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_123cdb54bad6",
+    "subject_id": "ep_c270b3ac06c9fd8e",
+    "object_id": "ep_9f78c1d2ec8a55cb",
+    "relation_type": "precedes",
+    "reason": "陈灿展示录音机并播放邓丽君歌曲（ep_c270b3ac06c9fd8e）在叙事顺序上直接早于众人陶醉聆听邓丽君歌曲并评论（ep_9f78c1d2ec8a55cb），因为播放歌曲是聆听和后续反应的前提。描述中两者均发生在scene_46，但播放行为构成聆听体验的开端，逻辑和时间顺序上先行。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_daf07dc493fc",
+    "subject_id": "ep_2a9e5678f52a9249",
+    "object_id": "ep_ed1c484417924997",
+    "relation_type": "precedes",
+    "reason": "根据描述，'安置何小萍并安抚其情绪'发生在宿舍场景中，且包含萧穗子带领何小萍进入宿舍和安慰她的事件（scene_5）；而'萧穗子发现何小萍凝视军装'发生在众人离开后，萧穗子准备洗澡时（scene_6），时间上紧随其后。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9555530b7326",
+    "subject_id": "ep_2a9e5678f52a9249",
+    "object_id": "ep_ea81d7e27620ca8c",
+    "relation_type": "precedes",
+    "reason": "安置何小萍并安抚其情绪发生在宿舍场景中，是何小萍初到宿舍时的引导性互动；而军装突然出现的冲突发生在同一空间但后续时间点，涉及林丁丁发现军装位置异常并引发质疑。根据叙事顺序，安抚情绪的情节在前，冲突爆发在后，且两个情节均发生在宿舍场景中，具有连续的时间流。因此，主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_742c47b40993",
+    "subject_id": "ep_e710a968634b802d",
+    "object_id": "ep_7c394809d78aa7db",
+    "relation_type": "precedes",
+    "reason": "情节'执行首长命令并处置刘峰'包含刘峰被带离队伍的事件，发生在文工团雨中集合的场合下；随后队伍解散，何小萍注视刘峰离去。叙事顺序上，处置刘峰的情节直接早于何小萍注视他离去的情节，且两个情节共享同一场景（scene_50）的时间流。因此，'执行首长命令并处置刘峰'在话语顺序上先于'队伍解散后何小萍注视刘峰离去'。",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_93c8d3e26a3f",
+    "subject_id": "ep_3b531348dd10b8f8",
+    "object_id": "ep_155a10e3cf68943e",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'应对侮辱性冲突并恢复排练' 发生在文工团排练现场（scene_39），而 '何小萍在排练场阅读父亲的告别信' 发生在雨夜中的排练场（scene_41），scene_39 在叙事顺序上早于 scene_41，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f8a8d0018a0e",
+    "subject_id": "ep_0b173ad1e3e5ceea",
+    "object_id": "ep_b35ac7a5fe952f25",
+    "relation_type": "precedes",
+    "reason": "主体情节'带领何小萍进入文工团'发生在文工团门口，完成入团初期流程，而客体情节'介绍何小萍并测试舞蹈能力'发生在文工团内部排练场景中，由分队长正式介绍并测试其舞蹈能力。根据叙事顺序，进入文工团是后续介绍和能力测试的前提，且相关事件分别位于scene_2和scene_3，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_30b0802c679c",
+    "subject_id": "ep_127887a6bd895ea0",
+    "object_id": "ep_9cf1e463da286b6a",
+    "relation_type": "causes",
+    "reason": "告知刘峰何小萍父亲病故的情节中，宁政委表达了对如何向何小萍传达消息的困扰，这为后续何小萍在刘峰鼓励下释放压抑情感提供了直接触发情境。父亲病故的消息是何小萍情绪爆发的直接诱因，文本明确将情绪释放与该消息关联，支持因果关系。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0fac6eb9470f",
+    "subject_id": "ep_155a10e3cf68943e",
+    "object_id": "ep_9cf1e463da286b6a",
+    "relation_type": "precedes",
+    "reason": "何小萍在排练场阅读父亲的告别信（ep_155a10e3cf68943e）发生在雨夜的排练场场景（scene_41），而释放压抑的情感（ep_9cf1e463da286b6a）发生在后续的scene_42，其中她开始抹泪、凝视照片并哽咽诉说。related_events中的场景编号表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2422326283c1",
+    "subject_id": "ep_4a632689cc4417bf",
+    "object_id": "ep_b57b0d0f9c1718f7",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节分别聚焦于刘峰的被误解与无私奉献和何小萍通过写信宣泄深层情感，二者均通过萧穗子的观察视角展开，呈现集体冷漠与个体情感压抑的并置。一个强调外部行为与集体反应，另一个揭示内在情感与私人表达，形成情感表达方式与社会接受度的对比。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a5fe0cf1fa46",
+    "subject_id": "ep_77e2bc1b6df1e08a",
+    "object_id": "ep_fba2f8bc7d7cd006",
+    "relation_type": "precedes",
+    "reason": "主体情节'confront何小萍并索要军装照片'发生在宿舍走廊的冲突现场，包含当面质问和索要照片的连续互动；客体情节'冲突余波与责任归因'描述事件结束后何小萍逃离、众人争论并散去，明确处于前一情节的后续阶段。related_events中的scene_34晚于scene_26，支持叙事顺序上的先后关系。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_44177993767a",
+    "subject_id": "ep_8aac087e107fef58",
+    "object_id": "ep_4a632689cc4417bf",
+    "relation_type": "contrasts_with",
+    "reason": "指导何小萍正确行军礼展现刘峰耐心、正向的指导者形象，而揭露刘峰的默默奉献与被误解则呈现他被集体嘲笑与忽视的脆弱处境。两个情节通过刘峰在不同情境下的社会角色与他人反应形成情感与社会态度上的对比，前者体现尊重与传承，后者暴露冷漠与背叛，构成人物命运的张力。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_4fa90bdedb44",
+    "subject_id": "ep_ed1c484417924997",
+    "object_id": "ep_aa8ac61d51ce15bd",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，萧穗子发现何小萍凝视军装发生在场景6，而揭示何小萍的洗澡习惯及贫困背景发生在场景7，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_14f79b60eb15",
+    "subject_id": "ep_ed1c484417924997",
+    "object_id": "ep_ea81d7e27620ca8c",
+    "relation_type": "elaborates",
+    "reason": "萧穗子发现何小萍凝视军装的情节揭示了何小萍对军装的深层情感和归属渴望，为后续军装突然出现引发的冲突提供了心理背景和动机解释，从而扩展和深化了该冲突的内涵。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e92212a93e49",
+    "subject_id": "ep_aa73c3ebf3cf5b25",
+    "object_id": "ep_aa8ac61d51ce15bd",
+    "relation_type": "elaborates",
+    "reason": "情节 '揭示何小萍的贫困背景与洗澡习惯' 提供了关于何小萍为何对每天洗澡表现出强烈幸福感的背景解释，扩展了 '何小萍体验集体生活中的幸福时刻' 中的情感反应，说明其行为源于过去因经济困难极少洗澡的经历。",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1e59d21776e6",
+    "subject_id": "ep_b35ac7a5fe952f25",
+    "object_id": "ep_3b531348dd10b8f8",
+    "relation_type": "precedes",
+    "reason": "介绍何小萍并测试舞蹈能力发生在文工团排练(scene_3)，而应对侮辱性冲突并恢复排练发生在另一场排练(scene_39)，scene_3在文档顺序和叙事时间上早于scene_39，因此该关系在时间顺序上有明确支持。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ccbcd0581cbe",
+    "subject_id": "ep_01aec36e075a115e",
+    "object_id": "ep_fba2f8bc7d7cd006",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述刘峰拥抱引发宿舍冲突的爆发，包含林丁丁哭诉和室友们反应；第二个情节描述冲突结束后的余波，如何小萍逃离、萧穗子与郝淑雯争论并陆续散去。根据叙事顺序，冲突的爆发在前，余波与责任归因在后，且后者涉及事件结束后的态度分化，明确支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_055d1572823d",
+    "subject_id": "ep_7aead5fa762528f6",
+    "object_id": "ep_4513e5c9f8031727",
+    "relation_type": "precedes",
+    "reason": "发现军装失踪并推测其去向（scene_10）发生在揭露何小萍偷穿军装拍照（scene_27）之前，根据相关场景编号的时间顺序，前者为后续情节提供了前提背景。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8a374deb0b40",
+    "subject_id": "ep_6ff6916801351574",
+    "object_id": "ep_01aec36e075a115e",
+    "relation_type": "precedes",
+    "reason": "‘引发冲突：衬衫失窃指控’（ep_6ff6916801351574）围绕何小萍被指控拿走衬衫，是宿舍冲突的导火索；而‘揭露刘峰的拥抱引发宿舍冲突’（ep_01aec36e075a115e）描述林丁丁哭诉刘峰拥抱她，导致集体情绪爆发。两个情节均发生在宿舍场景，且前者在文档时序上早于后者，构成叙事上的先后顺序。虽然两者均为宿舍冲突的一部分，但无明确因果或对比证据，故支持‘precedes’关系。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0308dad18f2f",
+    "subject_id": "ep_5c20e85513665aa8",
+    "object_id": "ep_fba2f8bc7d7cd006",
+    "relation_type": "precedes",
+    "reason": "情节'纠正何小萍的不规范敬礼行为'中，郝淑雯指出何小萍敬礼不当并进行示范，构成冲突的起始；而'冲突余波与责任归因'描述事件结束后何小萍逃离、众人争论与散去，明显为前一情节的后续发展。相关事件的时间顺序和叙事连贯性支持前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_242f64d633c6",
+    "subject_id": "ep_77e2bc1b6df1e08a",
+    "object_id": "ep_4513e5c9f8031727",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'confront何小萍并索要军装照片'发生在scene_26，而'揭露何小萍偷穿军装拍照'发生在scene_27，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_823c03a221ce",
+    "subject_id": "ep_77e2bc1b6df1e08a",
+    "object_id": "ep_411e2735f6b9443e",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'confront何小萍并索要军装照片'发生在scene_26，而'指责何小萍品质问题并主张举报'发生在scene_27，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_824b1380f9cf",
+    "subject_id": "ep_3e55613111f68ef3",
+    "object_id": "ep_77e2bc1b6df1e08a",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在乘车前往部队途中，郝淑雯发现并确认何小萍的军装照；第二个情节发生在回宿舍途中，郝淑雯等人当面质问何小萍并索要照片。根据事件发生的上下文顺序，发现照片的情节在时间上早于 confrontation 情节，构成明确的叙事先后关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ad1300e8e51f",
+    "subject_id": "ep_2c203e60cb7fe326",
+    "object_id": "ep_77e2bc1b6df1e08a",
+    "relation_type": "precedes",
+    "reason": "主体情节描述郝淑雯提议取照片并计划审问某人，发生在照相馆取回照片的语境下，而客体情节是郝淑雯等人在回宿舍途中当面质问何小萍并索要军装照片，且文档ID显示主体情节（doc_23）早于客体情节（doc_25），表明叙事顺序上前者先于后者。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_610b5f5c7d8b",
+    "subject_id": "ep_3e55613111f68ef3",
+    "object_id": "ep_4513e5c9f8031727",
+    "relation_type": "precedes",
+    "reason": "发现并确认何小萍的军装照发生在乘车途中（scene_17），而揭露其偷穿军装拍照的行为发生在后续的政治部首长视察慰问活动期间（scene_27），两个情节在叙事顺序上具有明确的时间先后关系，前者早于后者。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_91389e4a611f",
+    "subject_id": "ep_3e55613111f68ef3",
+    "object_id": "ep_ed1f0481379355f0",
+    "relation_type": "precedes",
+    "reason": "根据事件发生的叙事顺序，'发现并确认何小萍的军装照'发生在乘车前往部队途中（doc_16），而'文工团抵达驻地并下车'发生在车辆到达大院时（doc_21），文档编号的顺序支持前者在时间上早于后者，构成清晰的先后关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9496144d34c6",
+    "subject_id": "ep_607f93d025ad3b01",
+    "object_id": "ep_9ce196cf51d0af91",
+    "relation_type": "precedes",
+    "reason": "主体情节'展开暧昧对话并揭示手工礼物'发生在场景47，客体情节'赞美沙发并展示节俭才能'发生在场景48，文本中场景编号的顺序明确支持前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2c28d6f0f10d",
+    "subject_id": "ep_607f93d025ad3b01",
+    "object_id": "ep_27c9d14cb2800c3c",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'展开暧昧对话并揭示手工礼物' 发生在 scene_47，而 '揭示留下文工团的真实情感动机' 发生在 scene_48，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_11bb184a6a2f",
+    "subject_id": "ep_607f93d025ad3b01",
+    "object_id": "ep_39a3b14e1d0ea06f",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'展开暧昧对话并揭示手工礼物'发生在scene_47，而'刘峰表白并试图拉近亲密关系'发生在scene_48，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_649849a5bb38",
+    "subject_id": "ep_3e55613111f68ef3",
+    "object_id": "ep_411e2735f6b9443e",
+    "relation_type": "precedes",
+    "reason": "发现并确认何小萍的军装照发生在乘车前往部队途中（scene_17），而指责何小萍品质问题并主张举报发生在后续的政治部首长视察慰问活动期间（scene_27）。两个情节在叙事时间线上有明确的先后顺序，前者为后者提供了触发背景，且scene_17早于scene_27，支持precedes关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_21513f1d7417",
+    "subject_id": "ep_607f93d025ad3b01",
+    "object_id": "ep_393138a6f931d4c5",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'展开暧昧对话并揭示手工礼物'发生在scene_47，而'在挣扎中流露真实情感'发生在scene_48，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_95da4e433b80",
+    "subject_id": "ep_27c9d14cb2800c3c",
+    "object_id": "ep_01aec36e075a115e",
+    "relation_type": "elaborates",
+    "reason": "揭示刘峰留下文工团的真实情感动机为刘峰拥抱林丁丁的行为提供了深层情感背景，解释了其举动的个人驱动因素，从而扩展和丰富了后续宿舍冲突事件的意义。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c5fd61df063d",
+    "subject_id": "ep_607f93d025ad3b01",
+    "object_id": "ep_d0d7220f615038f4",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在刘峰与林丁丁偶遇并展开暧昧对话时，刘峰提及为马班长婚礼制作沙发；第二个情节发生在之后，朱克和小邓目击两人亲密举动并引发指责。两个情节在叙事顺序上连续，且相关事件的场景编号（scene_47 先于 scene_48）明确支持时间上的先后关系。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_674296b3d318",
+    "subject_id": "ep_ea81d7e27620ca8c",
+    "object_id": "ep_4513e5c9f8031727",
+    "relation_type": "precedes",
+    "reason": "揭示军装突然出现的冲突（ep_ea81d7e27620ca8c）发生在郝淑雯和林丁丁怀疑何小萍拿军装并进一步搜查其物品之前。该情节中林丁丁已开始质疑军装去向并直接质问何小萍，构成后续揭露偷穿军装拍照行为的导火索和前置情节。叙事时间线上，冲突先发生，随后才发展为对何小萍行为的确认和揭露。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6d628c37b825",
+    "subject_id": "ep_ea81d7e27620ca8c",
+    "object_id": "ep_411e2735f6b9443e",
+    "relation_type": "precedes",
+    "reason": "揭示军装突然出现的冲突（ep_ea81d7e27620ca8c）发生在宿舍场景中，围绕军装位置的怀疑和质问构成了对何小萍行为的初步质疑；而指责何小萍品质问题并主张举报（ep_411e2735f6b9443e）发生在后续政治部首长视察背景下，基于确凿证据后由林丁丁和郝淑雯提出，具有明确的叙事时序推进。因此，前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_30a4d06c2824",
+    "subject_id": "ep_393138a6f931d4c5",
+    "object_id": "ep_01aec36e075a115e",
+    "relation_type": "precedes",
+    "reason": "情节'在挣扎中流露真实情感'（doc_47, scene_48）发生在'揭露刘峰的拥抱引发宿舍冲突'（doc_48, scene_49）之前，依据文档ID和场景编号的顺序，表明前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ba7748d4019f",
+    "subject_id": "ep_39a3b14e1d0ea06f",
+    "object_id": "ep_bb87fee179d5701b",
+    "relation_type": "precedes",
+    "reason": "刘峰表白并试图拉近亲密关系发生在林丁丁坚持刘峰行为越界并陷入舆论困境之前，根据事件序列，刘峰的表白和肢体接触直接导致林丁丁的反应和后续指控，叙事顺序明确。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1e8d7a22e729",
+    "subject_id": "ep_393138a6f931d4c5",
+    "object_id": "ep_bb87fee179d5701b",
+    "relation_type": "precedes",
+    "reason": "情节'在挣扎中流露真实情感'发生在场景48，而'林丁丁坚持刘峰行为越界并陷入舆论困境'发生在场景49，文档中场景顺序明确，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5ad49c76e864",
+    "subject_id": "ep_27c9d14cb2800c3c",
+    "object_id": "ep_bb87fee179d5701b",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，情节 '揭示留下文工团的真实情感动机' 发生在 scene_48，而 '林丁丁坚持刘峰行为越界并陷入舆论困境' 发生在 scene_49，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eacfe00fc500",
+    "subject_id": "ep_d0d7220f615038f4",
+    "object_id": "ep_01aec36e075a115e",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'亲密举动被目击引发道德指责'（发生在scene_48）在叙事上早于'揭露刘峰的拥抱引发宿舍冲突'（发生在scene_49），且前者中刘峰与林丁丁的接触被目击并引发指责，直接导致后者中林丁丁在宿舍哭诉事件，因此主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_181794cb15e9",
+    "subject_id": "ep_9ce196cf51d0af91",
+    "object_id": "ep_bb87fee179d5701b",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节展示刘峰因多才多艺和节俭智慧被林丁丁赞美，呈现其正面形象；第二个情节中林丁丁却指责刘峰越界，导致其陷入道德批判，二者在人物关系和公众形象上形成鲜明对比，凸显从赞誉到谴责的逆转。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b20c8f54b7a5",
+    "subject_id": "ep_39a3b14e1d0ea06f",
+    "object_id": "ep_01aec36e075a115e",
+    "relation_type": "precedes",
+    "reason": "刘峰表白并试图拉近亲密关系（ep_39a3b14e1d0ea06f）包含他抱住林丁丁的行动，直接导致林丁丁在宿舍中哭诉并引发冲突（ep_01aec36e075a115e）。根据描述，宿舍冲突是刘峰拥抱行为的直接后续反应，且事件在文档中按时间顺序先后出现，因此该关系在叙事顺序上为 precedes。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_30d458ded3cd",
+    "subject_id": "ep_ac5b845bb5a49e47",
+    "object_id": "ep_bb87fee179d5701b",
+    "relation_type": "causes",
+    "reason": "处理林丁丁的脚伤这一情节中，刘峰对林丁丁的直接身体接触（挑破水泡并挤脓）可能被事后解读为越界行为，从而直接触发了林丁丁后续指责刘峰耍流氓并陷入舆论困境的情节。虽然文本未明确说明因果链条，但两个情节在行为与反应上存在紧密的时序和逻辑关联，且后者聚焦于对前者行为的道德重评，构成直接后果。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6cea25bc0b18",
+    "subject_id": "ep_d0d7220f615038f4",
+    "object_id": "ep_bb87fee179d5701b",
+    "relation_type": "precedes",
+    "reason": "亲密举动被目击引发道德指责（ep_d0d7220f615038f4）发生在林丁丁坚持刘峰行为越界并陷入舆论困境（ep_bb87fee179d5701b）之前，因为目击事件是导致后续舆论和指责的直接前提，且相关事件的时间顺序支持这一叙事流程。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5e1a2bda70f9",
+    "subject_id": "ep_d8250565dcc139c8",
+    "object_id": "ep_b6bec4ccdcfdda40",
+    "relation_type": "precedes",
+    "reason": "情节 '确定何小萍的床位并通知帮厨任务' 中，宿舍成员完成住宿安排并接到前往食堂帮厨的通知，这在叙事顺序上直接早于 '前往食堂前的抱怨与调侃'，后者描述了林丁丁对吃饺子的抱怨及郝淑雯等人准备前往食堂的互动，二者共享 '前往食堂帮厨' 的上下文，且事件发展具有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1f67ef8de061",
+    "subject_id": "ep_6ff6916801351574",
+    "object_id": "ep_4513e5c9f8031727",
+    "relation_type": "precedes",
+    "reason": "‘引发冲突：衬衫失窃指控’发生在宿舍走廊，是冲突的导火索，而‘揭露何小萍偷穿军装拍照’发生在后续场景中，通过搜查私人物品发现证据。两个情节在叙事顺序上连续，且‘衬衫失窃指控’在时间上明确早于‘揭露偷穿军装’，构成直接的前后序列。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_48a91e80873d",
+    "subject_id": "ep_6ff6916801351574",
+    "object_id": "ep_411e2735f6b9443e",
+    "relation_type": "precedes",
+    "reason": "‘引发冲突：衬衫失窃指控’是冲突的导火索，发生在宿舍走廊，包含对何小萍的初步质问；而‘指责何小萍品质问题并主张举报’发生在证据确凿后，涉及更严重的道德指责和举报决定。两个情节共享上下文且描述中暗示了时间推进，前者为后者提供前提，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d34a2d37f61d",
+    "subject_id": "ep_01f1e9a37aeb6152",
+    "object_id": "ep_39a3b14e1d0ea06f",
+    "relation_type": "precedes",
+    "reason": "刘峰为林丁丁送餐并归还手表发生在其表白之前，文本中送餐与归还物品体现的是日常关怀，而表白情节则标志着情感冲动的爆发，二者在叙事顺序上呈现清晰的时间先后关系，且无证据表明后者发生在前。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_9_part_2",
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a6c320f533b8",
+    "subject_id": "ep_27c9d14cb2800c3c",
+    "object_id": "ep_39a3b14e1d0ea06f",
+    "relation_type": "elaborates",
+    "reason": "揭示留下文工团的真实情感动机为刘峰后续的表白和亲密行为提供了情感背景和动机解释，说明其行为并非无私而是源于对林丁丁的深层感情，从而扩展和深化了对刘峰行为的理解。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_822badeb8fd2",
+    "subject_id": "ep_96820f0199b33f76",
+    "object_id": "ep_c57e32dca0d083cc",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序，'确认陈灿对小萍事件的情绪状态'发生在doc_28，而'交换温暖与关怀'发生在doc_29，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bffbf7d3ffed",
+    "subject_id": "ep_01f1e9a37aeb6152",
+    "object_id": "ep_27c9d14cb2800c3c",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中刘峰为林丁丁送餐并归还手表，展现其关心与动手能力；第二个情节揭示他留下文工团的真实情感动机是不愿离开林丁丁。后者通过披露刘峰行为背后的深层情感，扩展并深化了前者所体现的关怀行为的意义，构成对先前叙事单元的动机性解释。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_9_part_2",
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_622ef3fb052f",
+    "subject_id": "ep_27c9d14cb2800c3c",
+    "object_id": "ep_d0d7220f615038f4",
+    "relation_type": "precedes",
+    "reason": "根据描述，刘峰揭示留下文工团的真实情感动机发生在与林丁丁的亲密接触之前，而该亲密举动随后被朱克和小邓目击并引发道德指责。因此，揭示情感动机的情节在叙事顺序上早于被目击和指责的情节。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_446138048843",
+    "subject_id": "ep_ac5b845bb5a49e47",
+    "object_id": "ep_d0d7220f615038f4",
+    "relation_type": "causes",
+    "reason": "处理林丁丁的脚伤导致刘峰与林丁丁发生亲密接触，该举动被朱克和小邓目击，进而引发道德指责。文本明确显示，刘峰为林丁丁挑破水泡的行为是被目击的直接场景，且后续情节始于‘刘峰随即松手’，表明动作的连续性和因果链。因此，主体情节直接触发了客体情节的发生。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2d58e75851fd",
+    "subject_id": "ep_b452b93a28685468",
+    "object_id": "ep_c57e32dca0d083cc",
+    "relation_type": "precedes",
+    "reason": "陈灿出门遇见压腿的萧穗子是叙事的起始点，发生在文工团汽车行驶前，构成后续互动的时间前提。交换温暖与关怀的情节发生在汽车行驶中，时间顺序上明显晚于初次相遇。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_88db1598ec0d",
+    "subject_id": "ep_27c9d14cb2800c3c",
+    "object_id": "ep_393138a6f931d4c5",
+    "relation_type": "elaborates",
+    "reason": "第一个情节揭示刘峰留下文工团的真实情感动机，为第二个情节中两人在冲突中流露复杂情感提供背景和深层解释。两个情节均发生在同一场景（scene_48），且第二个情节中情感的爆发可视为对前一个情节所揭示动机的情感延续和深化，因此主体情节为客体情节提供情感动机上的扩展说明。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2046b2962c84",
+    "subject_id": "ep_3e55613111f68ef3",
+    "object_id": "ep_ea81d7e27620ca8c",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间和场景顺序，'发现并确认何小萍的军装照'（scene_17）发生在乘车途中，而'揭示军装突然出现的冲突'（scene_16）发生在宿舍中且早于乘车场景的叙述逻辑。scene_16的事件在文档中被描述为军装位置异常的起始点，而scene_17是后续反应。因此，尽管scene编号倒置，情节的实际叙事顺序支持ep_ea81d7e27620ca8c先于ep_3e55613111f68ef3。但由于输入中主体为ep_3e55613111f68ef3、客体为ep_ea81d7e27620ca8c，且precedes关系要求主体在前，这与实际顺序相反，故不能成立。重新评估：若主体情节发生在客体之后，则不能输出precedes（主体->客体）。因此，正确方向应为客体precedes主体，但因关系方向不可逆，当前主客体配置下无有效有向关系。最终，无充分支持的允许关系成立。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c498ecc036bb",
+    "subject_id": "ep_4a632689cc4417bf",
+    "object_id": "ep_8bfa101f7871a46f",
+    "relation_type": "elaborates",
+    "reason": "情节 '揭露刘峰的默默奉献与被误解' 展示了刘峰在集体中的无私付出及其被忽视的处境，而 '探查刘峰深夜劳作并了解其助人事迹' 通过萧穗子发现刘峰为马超群义务制作家具的细节，进一步扩展和深化了刘峰默默奉献的形象。后者提供了新的背景和具体事例，补充并丰富了前一情节中关于刘峰品格的刻画，构成对前一情节的细节性扩展。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e5a4d8527608",
+    "subject_id": "ep_575bedaa32d29b75",
+    "object_id": "ep_fba2f8bc7d7cd006",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在宿舍走廊冲突之前，描述萧穗子揭露海绵用途并引发郝淑雯批评，而第二个情节描述冲突结束后的余波，包括何小萍逃离、萧穗子与郝淑雯的争执延续及众人散去，且两个情节分别关联 scene_32 和 scene_34，表明明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bd53fd68e0a6",
+    "subject_id": "ep_dc32ab3168279eea",
+    "object_id": "ep_fba2f8bc7d7cd006",
+    "relation_type": "precedes",
+    "reason": "主体情节'陈灿送饭盒引发冲突并表达心意'发生在场景15，而客体情节'冲突余波与责任归因'发生在场景34，文档中场景编号的顺序表明前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b6dfbe87effd",
+    "subject_id": "ep_b452b93a28685468",
+    "object_id": "ep_dc32ab3168279eea",
+    "relation_type": "precedes",
+    "reason": "陈灿出门遇见压腿的萧穗子是叙事的起始点，描述中明确指出这是两人互动的开端，而送饭盒情节涉及后续的情感表达和冲突，包含更进一步的互动细节。因此，第一个情节在叙事顺序上早于第二个情节。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4c4ad6898a07",
+    "subject_id": "ep_8bfa101f7871a46f",
+    "object_id": "ep_607f93d025ad3b01",
+    "relation_type": "elaborates",
+    "reason": "情节'探查刘峰深夜劳作并了解其助人事迹'中，萧穗子通过对话了解到刘峰为马超群义务制作沙发的善举，这为'展开暧昧对话并揭示手工礼物'中刘峰提及自己制作沙发的情节提供了背景和动机解释，构成对后者手工行为成因的扩展说明。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_aa02afaaff85",
+    "subject_id": "ep_b452b93a28685468",
+    "object_id": "ep_4936fb49dcc006a2",
+    "relation_type": "precedes",
+    "reason": "陈灿出门遇见压腿的萧穗子是整个叙事的起始点，发生在萧穗子因陈灿到来而躲藏之前，两者在叙事顺序上具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_828ec1b1b0d5",
+    "subject_id": "ep_35906806aa2ed2db",
+    "object_id": "ep_96820f0199b33f76",
+    "relation_type": "precedes",
+    "reason": "主体情节'处理误击靶位引发的比赛争议'发生在场景28，客体情节'确认陈灿对小萍事件的情绪状态'发生在场景29，根据文档顺序和相关事件的时间序列，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_28_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2a01353f3f54",
+    "subject_id": "ep_de288289a74225d4",
+    "object_id": "ep_ea81d7e27620ca8c",
+    "relation_type": "precedes",
+    "reason": "介绍宿舍成员并分配职责发生在故事早期（doc_5），而揭示军装突然出现的冲突发生在后续场景（doc_15），文本中两个情节按时间顺序排列，前者建立人物关系结构，后者在此基础上展开冲突，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8a4807a41d4c",
+    "subject_id": "ep_4d67a4fedb431798",
+    "object_id": "ep_66b8483d6dc4b216",
+    "relation_type": "precedes",
+    "reason": "萧穗子与陈灿途中相遇发生在部队行进途中，随后萧穗子跟随陈灿并表达听号意愿，后者发生在陈灿继续走向河边的过程中，叙事顺序上明确先后。相关事件的时间和动作流程支持前者在时间上先于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_90e56a6b9c89",
+    "subject_id": "ep_b452b93a28685468",
+    "object_id": "ep_4d67a4fedb431798",
+    "relation_type": "precedes",
+    "reason": "陈灿早晨出门遇见压腿的萧穗子是整个叙事的起始点，而萧穗子与陈灿在部队行进途中相遇发生在后续的野外拉练场景中，两者在叙事时间线上有明确的先后顺序。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8f34d1b9b947",
+    "subject_id": "ep_de288289a74225d4",
+    "object_id": "ep_8dc588d3594af701",
+    "relation_type": "precedes",
+    "reason": "介绍宿舍成员并分配职责发生在文工团排练之前，根据场景编号scene_6早于scene_3，表明该情节在叙事顺序上先于郝淑雯羞辱何小萍的情节。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eb40e70f64c6",
+    "subject_id": "ep_552f2df7cac54807",
+    "object_id": "ep_66b8483d6dc4b216",
+    "relation_type": "precedes",
+    "reason": "情节 '萧穗子偷看陈灿引发调侃' 发生在文工团排练间隙（scene_3），而 '萧穗子跟随陈灿并表达听号意愿' 发生在走向河边的过程中（scene_29），scene_3 在叙事顺序上明显早于 scene_29，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cc689cf12636",
+    "subject_id": "ep_4d67a4fedb431798",
+    "object_id": "ep_7243068eaef43fdc",
+    "relation_type": "precedes",
+    "reason": "萧穗子与陈灿途中相遇发生在部队行进过程中，而陈灿在河边排尿并被萧穗子远望发生在后续场景，两个情节在叙事顺序上呈现清晰的时间先后关系，前者结束于陈灿被命令执行任务，后者开启新场景于河边，无重叠事件或循环上下文支持其他关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c62a3f92032a",
+    "subject_id": "ep_de288289a74225d4",
+    "object_id": "ep_ed1c484417924997",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_6，且'介绍宿舍成员并分配职责'包含多个事件（如介绍成员和分配任务），逻辑上在叙事顺序上先于'萧穗子发现何小萍凝视军装'这一后续观察行为，后者发生在众人离开后。因此，主体情节在话语顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1969592c69bc",
+    "subject_id": "ep_b452b93a28685468",
+    "object_id": "ep_552f2df7cac54807",
+    "relation_type": "precedes",
+    "reason": "陈灿出门遇见压腿的萧穗子（ep_b452b93a28685468）发生在文工团排练场景之前，是整个叙事的起始点；而萧穗子偷看陈灿引发调侃（ep_552f2df7cac54807）发生在排练间隙，时间上明显靠后。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cb9ad03126a1",
+    "subject_id": "ep_1af59fb389eecb9c",
+    "object_id": "ep_ac5b845bb5a49e47",
+    "relation_type": "precedes",
+    "reason": "萧穗子决定先行离开发生在刘峰处理林丁丁脚伤之前，文本明确指出她在刘峰开始护理前表示走不动了并离开，将林丁丁托付给刘峰，表明该情节在叙事顺序上早于处理脚伤的情节。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fdc6bf35b3d9",
+    "subject_id": "ep_35906806aa2ed2db",
+    "object_id": "ep_acb628ade5492828",
+    "relation_type": "elaborates",
+    "reason": "处理误击靶位引发的比赛争议描述了比赛结果的混乱和争议，而揭示赌注中的不公平条款通过萧穗子的观察提供了该争议中赌注规则的额外背景和解释，说明郝淑雯可能通过语言陷阱确保胜利，从而扩展了前一情节的深层不公平性。两个情节共享同一场合，且后者为前者提供动机和结构上的补充说明。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_28_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b329a18c49b8",
+    "subject_id": "ep_9ce196cf51d0af91",
+    "object_id": "ep_134cbfe30d1b1fb8",
+    "relation_type": "elaborates",
+    "reason": "‘赞美沙发并展示节俭才能’中刘峰展示其多才多艺，为‘表达对个人价值的担忧’提供了行为背景，后者进一步揭示其行为动机和内在恐惧，因此前者通过具体行为表现，扩展了后者所体现的心理动因。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_9ee445359de8",
+    "subject_id": "ep_9979bd0c8d61f075",
+    "object_id": "ep_1abac3e76aef15d2",
+    "relation_type": "causes",
+    "reason": "分队长下令集合直接导致郝淑雯等人停止围攻并迅速离场集合，文本明确指出该命令使冲突中止，构成直接因果关系。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8c43f39f2b93",
+    "subject_id": "ep_01aec36e075a115e",
+    "object_id": "ep_fc760f1de3f9a1b1",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述刘峰的拥抱引发宿舍冲突的爆发，第二个情节中郝淑雯质问林丁丁并揭示其双重标准，进一步解释了冲突的道德和情感矛盾，提供了对前一情节的深层社会动态和动机的扩展说明。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6a2839d52607",
+    "subject_id": "ep_6b37a75b25f81b06",
+    "object_id": "ep_9979bd0c8d61f075",
+    "relation_type": "precedes",
+    "reason": "萧穗子目睹何小萍被当众羞辱发生在分队长下令集合之前，因为集合命令中断了正在进行的羞辱事件，表明该事件在叙事顺序上先于集合命令的发出。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_10ffab12b871",
+    "subject_id": "ep_a28b0d3917705f44",
+    "object_id": "ep_283cdaa606113d3e",
+    "relation_type": "causes",
+    "reason": "士兵们在洗衣和游泳中进行日常活动时，天气突变下起大雨，直接导致他们紧急转移至排练室避雨。文本中明确指出大雨迫使人员从泳池区域撤离，因此该日常活动的情境为转移事件提供了直接触发条件，构成因果关系。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_11e53b311608",
+    "subject_id": "ep_4513e5c9f8031727",
+    "object_id": "ep_1abac3e76aef15d2",
+    "relation_type": "precedes",
+    "reason": "揭露何小萍偷穿军装拍照的情节中，郝淑雯等人正在对何小萍进行围攻和搜查，而集合命令导致他们停止该行为并迅速离场。因此，揭露事件在叙事时间上直接早于离场集合事件。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d2fbb657bb7d",
+    "subject_id": "ep_9567c2d807e8b3be",
+    "object_id": "ep_03cb3f319e226f9c",
+    "relation_type": "causes",
+    "reason": "林丁丁表达对饺子的抗拒直接引发刘峰后续的关怀举动，根据描述，这一行为构成情节发展的起点，而刘峰前往打饺子是对此的响应，形成直接的因果链。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_9_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ca80a7228ca0",
+    "subject_id": "ep_de288289a74225d4",
+    "object_id": "ep_5c20e85513665aa8",
+    "relation_type": "precedes",
+    "reason": "介绍宿舍成员并分配职责发生在何小萍敬礼行为之前，因为该情节建立了何小萍初入集体的背景和互动结构，随后才出现她因不规范敬礼被纠正的事件，两者均发生在scene_6，但介绍与分配职责在叙事顺序上先于敬礼纠正行为。",
+    "source_documents": [
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7469d3362631",
+    "subject_id": "ep_bb87fee179d5701b",
+    "object_id": "ep_fc760f1de3f9a1b1",
+    "relation_type": "contrasts_with",
+    "reason": "林丁丁坚持刘峰行为越界并陷入舆论困境，而郝淑雯则质问并挑战林丁丁的双重标准，指出她对刘峰的苛责与其他人的宽容形成对比。两个情节并置，突显了道德判断与情感偏见之间的张力，构成明确的对比关系。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b029e9d24955",
+    "subject_id": "ep_605a2b548ad4b2c7",
+    "object_id": "ep_64423c2eb3962f1f",
+    "relation_type": "contrasts_with",
+    "reason": "刘峰传递父亲平反消息引发萧穗子情感释放，而何小萍在萧穗子离开后独自沉思‘解放了’，表现出内敛而深层的情感反应。两者在同一场合背景下，通过外显的家庭团圆喜悦与内省的个体命运反思形成情感基调上的对比。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_598b66a111a7",
+    "subject_id": "ep_9979bd0c8d61f075",
+    "object_id": "ep_55203b78812525c1",
+    "relation_type": "precedes",
+    "reason": "分队长下令集合中断冲突发生在何小萍发愣后默默收拾衣物之前，因为冲突的中止是集体行动的中断，随后场景聚焦于何小萍独自留下的反应，叙事顺序上具有明确的先后关系。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6370c2923b63",
+    "subject_id": "ep_d4396346cf5a228e",
+    "object_id": "ep_64423c2eb3962f1f",
+    "relation_type": "precedes",
+    "reason": "萧穗子打开父亲的箱子并分享食物的情节中，她宣布父亲获得解放，这一事件直接触发了何小萍在之后沉思‘解放了’的含义。两个情节发生在同一场景（scene_37），且叙述顺序和逻辑上下文表明前者在时间上先于后者。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9448fa49e133",
+    "subject_id": "ep_4a632689cc4417bf",
+    "object_id": "ep_d0d7220f615038f4",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节展现刘峰的默默奉献与被集体嘲笑，突出其情感脆弱和无私付出；第二个情节中，他因与林丁丁的亲密举动被目击而遭受道德指责，身份从‘活雷锋’瞬间崩塌。两个情节并置，形成从被推崇到被批判的道德反差，揭示了集体对个人行为的双重标准和时代语境下的荒诞性。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_7cee7c0c8ecd",
+    "subject_id": "ep_411e2735f6b9443e",
+    "object_id": "ep_1abac3e76aef15d2",
+    "relation_type": "precedes",
+    "reason": "根据描述，'指责何小萍品质问题并主张举报' 发生在集合命令下达前的同一场景（scene_27）中，而 '郝淑雯等人迅速离场集合' 是对集合命令的响应，标志着该互动的结束。因此，指责和举报主张在叙事顺序上先于离场集合行动。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bafdc6747d6a",
+    "subject_id": "ep_b2791f1991a0720f",
+    "object_id": "ep_605a2b548ad4b2c7",
+    "relation_type": "precedes",
+    "reason": "情节'中断排练并宣布刘峰归来'包含郝淑雯宣布刘峰带回包裹的消息，这为后续刘峰与萧穗子重逢并转交箱子和消息提供了叙事前提；根据描述顺序和事件流，宣布归来在先，分发包裹和转达平反消息在后，因此该关系在叙事顺序上明确支持precedes。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4e1c440585d8",
+    "subject_id": "ep_2a9e5678f52a9249",
+    "object_id": "ep_c264fd3de6532f83",
+    "relation_type": "precedes",
+    "reason": "安置何小萍并安抚其情绪发生在宿舍场景中，且涉及对未能立即穿上军装的焦虑进行安抚，而试穿军装并沉思是后续在镜子前比划军装的行为，逻辑上情绪安抚先于试穿沉思，叙事顺序支持前者早于后者。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_20daa840f83a",
+    "subject_id": "ep_134cbfe30d1b1fb8",
+    "object_id": "ep_27c9d14cb2800c3c",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中刘峰表达对个人价值的担忧，反映其在集体中的自我定位；第二个情节进一步揭示他留下文工团的真实情感动机，即因对林丁丁的感情而放弃进修机会。后者在情感层面上深化了前者所体现的内在焦虑，提供了更深层的心理动因，从而扩展并丰富了前一情节的含义。两个情节均发生在同一场景（scene_48），且后者在话语顺序上紧随前者，构成对刘峰行为动机的进一步阐释。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3f1b81e892bf",
+    "subject_id": "ep_c264fd3de6532f83",
+    "object_id": "ep_77e2bc1b6df1e08a",
+    "relation_type": "precedes",
+    "reason": "试穿军装并沉思发生在何小萍偷穿军装拍照的事件中，而该行为直接引发了郝淑雯等人后续的质问和索要照片的情节。根据事件的时间逻辑和因果链条，试穿军装的自我审视行为在叙事顺序上早于 confrontation 情节。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_94c0b5cc249b",
+    "subject_id": "ep_c264fd3de6532f83",
+    "object_id": "ep_73d1c4cc4c75ebf0",
+    "relation_type": "precedes",
+    "reason": "试穿军装并沉思发生在何小萍前往照相馆之前，因为她在试穿并比划军装时还未动身，而前往照相馆是她穿上军装后采取的后续行动。时间顺序由行为逻辑支持：先有对军装的沉思，然后才有穿着它出行的行为。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_02f1cfc7323e",
+    "subject_id": "ep_c264fd3de6532f83",
+    "object_id": "ep_ea81d7e27620ca8c",
+    "relation_type": "precedes",
+    "reason": "试穿军装并沉思发生在何小萍私下审视军装的时刻，而揭示军装突然出现的冲突发生在宿舍中军装被发现挂在墙上的场景，相关事件（scene_8 与 scene_16）表明前者在叙事时间上早于后者，构成情节的先后顺序。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6f8dd4e67bdb",
+    "subject_id": "ep_5d81a7047d699933",
+    "object_id": "ep_c264fd3de6532f83",
+    "relation_type": "precedes",
+    "reason": "情节'为何小萍办理生活用品领取'中提到冬装缺货，需两周后领取夏装，表明何小萍在此时尚未获得军装；而'试穿军装并沉思'涉及何小萍已持有军装并试穿，逻辑上必须发生在领取之后。因此，办理领取手续的情节在叙事顺序上早于试穿军装的情节。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0c906d755034",
+    "subject_id": "ep_73d1c4cc4c75ebf0",
+    "object_id": "ep_aa6d936ec8b46322",
+    "relation_type": "precedes",
+    "reason": "何小萍前往照相馆是为了拍摄军装照，随后将照片装入信封并投递，这一系列行为在叙事逻辑上具有明确的先后顺序。前往照相馆是获取照片的前提，而投递照片信封紧随其后，构成连贯的行动链条。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f95298c7c2bf",
+    "subject_id": "ep_1582227cb72fd73a",
+    "object_id": "ep_ea81d7e27620ca8c",
+    "relation_type": "precedes",
+    "reason": "何小萍归还军装发生在林丁丁发现军装并引发冲突之前，根据事件顺序，归还军装是冲突发生的前提，且相关事件在文档中按时间顺序排列。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_64c411f860a5",
+    "subject_id": "ep_2a9e5678f52a9249",
+    "object_id": "ep_1582227cb72fd73a",
+    "relation_type": "precedes",
+    "reason": "安置何小萍并安抚其情绪发生在宿舍场景中，且逻辑上在何小萍归还军装之前，因为安抚过程涉及她尚未穿上军装的焦虑，而归还军装的行为暗示她之后曾取下军装，叙事顺序支持前者早于后者。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fab912da3490",
+    "subject_id": "ep_5d81a7047d699933",
+    "object_id": "ep_1582227cb72fd73a",
+    "relation_type": "precedes",
+    "reason": "何小萍办理生活用品领取时得知需两周后才能领取军装，表明她尚未拥有军装；之后她归还军装的行为暗示她已获得并使用过军装。因此，办理领取手续的情节在时间顺序上早于归还军装的情节。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_230e899c2e49",
+    "subject_id": "ep_1582227cb72fd73a",
+    "object_id": "ep_73d1c4cc4c75ebf0",
+    "relation_type": "precedes",
+    "reason": "何小萍归还军装发生在宿舍内，是她对之前取下军装行为的反应，而前往照相馆的情节涉及她身着军装外出，逻辑上必须在拥有军装之后进行。因此，归还军装这一行为在叙事时间上早于她穿着军装前往照相馆，构成时间上的先后顺序。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_36d6df1f47ba",
+    "subject_id": "ep_77e2bc1b6df1e08a",
+    "object_id": "ep_aa6d936ec8b46322",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，何小萍投递装有照片的信封（ep_aa6d936ec8b46322）发生在郝淑雯等人 confront 她并索要照片（ep_77e2bc1b6df1e08a）之前，因为 confront 情节的核心是追查照片，暗示照片已被寄出但尚未被收回或销毁。投递行为在时间上早于 confrontation 的展开，符合叙事顺序上的 precedes 关系。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4a0a107a4f15",
+    "subject_id": "ep_1582227cb72fd73a",
+    "object_id": "ep_0becd068f19c339f",
+    "relation_type": "precedes",
+    "reason": "何小萍归还军装发生在宿舍走廊冲突之前，根据事件的时间顺序，归还军装（scene_14）早于冲突升级（scene_34），因此该情节在叙事顺序上先于指责与集体围攻。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e687eb87cf93",
+    "subject_id": "ep_1582227cb72fd73a",
+    "object_id": "ep_77e2bc1b6df1e08a",
+    "relation_type": "precedes",
+    "reason": "何小萍归还军装发生在郝淑雯等人质问她并索要照片之前，因为归还军装是处理偷穿行为的后续动作，而质问事件围绕追查照片展开，逻辑上需先有偷穿和归还行为，再有被发现和质问。叙事上，归还军装为后续冲突提供了前提，且相关事件在文档中按时间顺序排列支持这一先后关系。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b6f4a4d9c167",
+    "subject_id": "ep_73d1c4cc4c75ebf0",
+    "object_id": "ep_c031e220cc26e658",
+    "relation_type": "precedes",
+    "reason": "何小萍前往照相馆发生在她坐到相机前并完成拍摄之前，根据描述中的空间移动和后续拍摄动作的顺序，该关系在叙事时序上明确支持。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ec474ee4f6f0",
+    "subject_id": "ep_2a9e5678f52a9249",
+    "object_id": "ep_77e2bc1b6df1e08a",
+    "relation_type": "precedes",
+    "reason": "安置何小萍并安抚其情绪发生在宿舍初到阶段，而郝淑雯等人质问何小萍偷穿军装拍照是在后续回宿舍途中发生的冲突，根据叙事顺序，安抚事件在前， confrontation事件在后，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5552a9f835aa",
+    "subject_id": "ep_0b173ad1e3e5ceea",
+    "object_id": "ep_2a9e5678f52a9249",
+    "relation_type": "precedes",
+    "reason": "刘峰带领何小萍进入文工团是入团初期的进入流程，发生在文工团门口；随后萧穗子带领何小萍前往宿舍并安抚其情绪，发生在宿舍场景中。两个情节共享何小萍入团的上下文，且叙事顺序上前者明确早于后者，构成连续的入团适应过程。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_abcfc1bb1e1e",
+    "subject_id": "ep_2a9e5678f52a9249",
+    "object_id": "ep_5c20e85513665aa8",
+    "relation_type": "precedes",
+    "reason": "安置何小萍并安抚其情绪发生在宿舍场景中，而纠正何小萍的不规范敬礼行为发生在后续场景（scene_6），根据相关事件的时间顺序，前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_144060c7a5a8",
+    "subject_id": "ep_0b173ad1e3e5ceea",
+    "object_id": "ep_aa73c3ebf3cf5b25",
+    "relation_type": "precedes",
+    "reason": "刘峰带领何小萍进入文工团是其入团的初始流程，发生在何小萍体验集体生活中洗澡的幸福时刻之前，叙事上具有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dcc57c699db9",
+    "subject_id": "ep_2a9e5678f52a9249",
+    "object_id": "ep_aa73c3ebf3cf5b25",
+    "relation_type": "precedes",
+    "reason": "安置何小萍并安抚其情绪发生在宿舍场景中，是她初入集体的第一步；而何小萍在淋浴中体验幸福是在得知可每天洗澡后发生的后续反应。根据叙事顺序，情绪安抚在前，对集体福利的积极体验紧随其后，二者在时间线上有序衔接，且均体现何小萍融入集体的初期阶段。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a11aa3cb6484",
+    "subject_id": "ep_0b173ad1e3e5ceea",
+    "object_id": "ep_5c20e85513665aa8",
+    "relation_type": "precedes",
+    "reason": "带领何小萍进入文工团是其入团初期的流程，发生在她因不规范敬礼被纠正之前，叙事时间顺序明确，且新兵适应纪律的过程在逻辑上支持此先后关系。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ead0c8059791",
+    "subject_id": "ep_2a9e5678f52a9249",
+    "object_id": "ep_6ff6916801351574",
+    "relation_type": "precedes",
+    "reason": "安置何小萍并安抚其情绪发生在宿舍内，是何小萍初到部队的适应过程；而衬衫失窃指控发生在走廊，是后续冲突的导火索。根据叙事逻辑和场景推进，安抚情绪的情节在时间顺序上早于冲突引发的情节，且两者之间无直接因果或对比证据，但存在清晰的时间先后关系。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3d5f4e58da4d",
+    "subject_id": "ep_0b173ad1e3e5ceea",
+    "object_id": "ep_f7e6e7bb9ff4db5c",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，'带领何小萍进入文工团'发生在入团初期流程中，而'协助并纠正用品遗漏'发生在领取生活用品过程中，属于后续环节。文本中两个情节按时间顺序先后展开，前者为进入流程，后者为入团后的物资发放，具有明确的叙事先后关系。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d23c3465d6f2",
+    "subject_id": "ep_0b173ad1e3e5ceea",
+    "object_id": "ep_5d81a7047d699933",
+    "relation_type": "precedes",
+    "reason": "主体情节'带领何小萍进入文工团'描述了何小萍入团初期的进入流程，而客体情节'为何小萍办理生活用品领取'涉及入团后的行政事务办理。根据常理和叙事逻辑，进入文工团是办理生活用品领取的前提，且相关事件分别发生在scene_2和scene_4，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_dd52863822ac",
+    "subject_id": "ep_b35ac7a5fe952f25",
+    "object_id": "ep_2a9e5678f52a9249",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，介绍何小萍并测试其舞蹈能力（ep_b35ac7a5fe952f25）发生在文工团排练场景（scene_3），而安置何小萍并安抚其情绪（ep_2a9e5678f52a9249）发生在宿舍场景（scene_5）。scene_3 在文档时序上早于 scene_5，且逻辑上新成员需先被介绍和评估，之后才由同伴引导安置，因此该关系在叙事顺序上明确支持 'precedes'。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_70685a757cc6",
+    "subject_id": "ep_aa8ac61d51ce15bd",
+    "object_id": "ep_9cf1e463da286b6a",
+    "relation_type": "elaborates",
+    "reason": "揭示何小萍的贫困背景与洗澡习惯为理解她的情感压抑提供了社会与经济层面的背景，这一信息有助于解释她在‘释放压抑的情感’情节中情绪爆发的深层原因，因此前者扩展了后者的背景和动因。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b550d807bb77",
+    "subject_id": "ep_b57b0d0f9c1718f7",
+    "object_id": "ep_9cf1e463da286b6a",
+    "relation_type": "elaborates",
+    "reason": "揭露何小萍深夜写信的情感宣泄展示了她通过书写表达对父亲的思念、孤独与希望，为后续在刘峰鼓励下释放压抑的情感提供了情感背景和深层动机。该情节通过书信内容扩展了何小萍内心世界的细节，为主体情节中情绪的全面爆发提供了铺垫和解释。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6a69b4627cb1",
+    "subject_id": "ep_b35ac7a5fe952f25",
+    "object_id": "ep_77e2bc1b6df1e08a",
+    "relation_type": "precedes",
+    "reason": "介绍何小萍并测试舞蹈能力发生在文工团初期，属于何小萍刚入队的情节，而 confront何小萍并索要军装照片发生在后续场景中，涉及她已入队后因行为不当引发的冲突。根据叙事顺序，能力测试早于军装照片事件。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6c33b2e492cc",
+    "subject_id": "ep_73d1c4cc4c75ebf0",
+    "object_id": "ep_77e2bc1b6df1e08a",
+    "relation_type": "precedes",
+    "reason": "何小萍前往照相馆（ep_73d1c4cc4c75ebf0）在时间顺序上早于郝淑雯等人质问她并索要军装照片（ep_77e2bc1b6df1e08a），因为偷穿军装拍照的行为发生在质问事件之前，且后者明确以追查该拍照行为为冲突核心，叙事逻辑和事件依赖关系支持前者在前。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_02e11b3a1ee8",
+    "subject_id": "ep_77e2bc1b6df1e08a",
+    "object_id": "ep_0becd068f19c339f",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，'confront何小萍并索要军装照片'围绕追查何小萍偷穿军装拍照展开，而'升级指责与集体围攻'中女兵揭发其曾偷穿军装，表明前者为后者的导火索。且相关事件均发生在scene_26与scene_34，scene_26在叙事顺序上早于scene_34，支持该关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e3db6a9a4280",
+    "subject_id": "ep_77e2bc1b6df1e08a",
+    "object_id": "ep_50c09a8a7bdd3ca7",
+    "relation_type": "precedes",
+    "reason": "‘confront何小萍并索要军装照片’发生在宿舍走廊，围绕追查军装照片展开，是冲突的早期阶段；而‘肢体冲突与权威介入’描述事态升级至撕扯衣物并由分队长制止，标志着高潮与平息。根据叙事发展逻辑，追查照片的情节在时间顺序上早于肢体冲突，且前者推动后者发展，因此主体情节在话语顺序上先于客体情节。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e95f7e9a9715",
+    "subject_id": "ep_4a632689cc4417bf",
+    "object_id": "ep_7c394809d78aa7db",
+    "relation_type": "precedes",
+    "reason": "情节 '揭露刘峰的默默奉献与被误解' 发生在排练场内外，涉及刘峰在排练中受伤及被何小萍扶起等事件（scene_44），而情节 '队伍解散后何小萍注视刘峰离去' 发生在文工团队伍解散时（scene_50），时间上明显后续。scene_44 在文档顺序和叙事顺序上早于 scene_50，因此主体情节在话语和叙事顺序上先于客体情节。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0f9e43af7bcb",
+    "subject_id": "ep_127887a6bd895ea0",
+    "object_id": "ep_7c394809d78aa7db",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，宁政委告知刘峰何小萍父亲病故发生在刘峰被带走之前，而何小萍注视刘峰离去发生在队伍解散后，即刘峰被带走之后。因此，'告知刘峰何小萍父亲病故'在时间顺序上明确早于'队伍解散后何小萍注视刘峰离去'。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_02cfa6d73304",
+    "subject_id": "ep_69d7ccc57d8bb0de",
+    "object_id": "ep_fba2f8bc7d7cd006",
+    "relation_type": "precedes",
+    "reason": "何小萍目击亲昵场面后惊慌离开发生在冲突余波与责任归因之前，前者是触发后续走廊冲突的直接前提，且两个情节在叙事时间线上连续，由何小萍逃离现场并引发后续道德争论构成顺序关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_451eab039b92",
+    "subject_id": "ep_fb243ba38e6e97df",
+    "object_id": "ep_69d7ccc57d8bb0de",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'寻找失踪的演出成员林丁丁' 发生在 '何小萍目击亲昵场面后惊慌离开' 之前。在前者中，何小萍报告林丁丁被叫走，随后被指派去寻找她；而目击亲吻事件是她寻找过程中的后续发现。因此，'寻找失踪的演出成员林丁丁' 在叙事顺序上先于 '何小萍目击亲昵场面后惊慌离开'。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f491792347a0",
+    "subject_id": "ep_b35ac7a5fe952f25",
+    "object_id": "ep_69d7ccc57d8bb0de",
+    "relation_type": "precedes",
+    "reason": "介绍何小萍并测试舞蹈能力发生在文工团排练场景（scene_3），而何小萍目击亲昵场面后惊慌离开发生在scene_21，scene_3在叙事顺序上明显早于scene_21，因此该关系由文档中的场景编号顺序明确支持。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_85fd65153e63",
+    "subject_id": "ep_69d7ccc57d8bb0de",
+    "object_id": "ep_55203b78812525c1",
+    "relation_type": "precedes",
+    "reason": "何小萍目击亲昵场面后惊慌离开（ep_69d7ccc57d8bb0de）发生在政治部首长视察慰问活动（scene_27）之前，而何小萍发愣后默默收拾衣物（ep_55203b78812525c1）发生在该视察活动之后的场景中。因此，根据相关场合的时间上下文，前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_994937e218a6",
+    "subject_id": "ep_ea81d7e27620ca8c",
+    "object_id": "ep_0becd068f19c339f",
+    "relation_type": "precedes",
+    "reason": "‘揭示军装突然出现的冲突’发生在宿舍中，林丁丁发现军装并质疑何小萍，构成围绕军装归属的初始冲突；而‘升级指责与集体围攻’发生在后续场景，由郝淑雯质问引发，冲突从军装问题升级为对何小萍人格的集体攻击。两个情节共享军装争议主题，且后者在叙事上明显晚于前者，因此主体情节在时间顺序上先于客体情节。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_58ea97f88acc",
+    "subject_id": "ep_b35ac7a5fe952f25",
+    "object_id": "ep_aa8ac61d51ce15bd",
+    "relation_type": "precedes",
+    "reason": "介绍何小萍并测试舞蹈能力发生在文工团排练场景（scene_3），而揭示何小萍的贫困背景与洗澡习惯发生在后续的洗澡场景（scene_7）。根据文档中的场景编号顺序，scene_3 明确早于 scene_7，因此该关系在叙事顺序上具有清晰的时间先后支持。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1938253c51cb",
+    "subject_id": "ep_b35ac7a5fe952f25",
+    "object_id": "ep_9a7701d5ff9182d7",
+    "relation_type": "precedes",
+    "reason": "根据相关场合的场景编号，'介绍何小萍并测试舞蹈能力'发生在scene_3，而'处理排练中的纪律问题'发生在scene_39，scene_3在叙事顺序上明显早于scene_39，因此该关系为precedes。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_25e2de961841",
+    "subject_id": "ep_8aac087e107fef58",
+    "object_id": "ep_7c394809d78aa7db",
+    "relation_type": "contrasts_with",
+    "reason": "‘指导何小萍正确行军礼’展现刘峰对何小萍耐心指导的温情互动，发生在何小萍入伍初期，象征希望与融入；而‘队伍解散后何小萍注视刘峰离去’则呈现两人最终分离的沉默场景，情感压抑且充满失落。两个情节在时间上相隔较远，情感基调从积极指导转为静默凝视，形成人物关系发展上的情感逆转与对比，文本通过这种并置强化了人物命运的变迁。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_75d0bd68df3b",
+    "subject_id": "ep_b35ac7a5fe952f25",
+    "object_id": "ep_aa73c3ebf3cf5b25",
+    "relation_type": "precedes",
+    "reason": "情节 '介绍何小萍并测试舞蹈能力' 发生在文工团排练场景中（scene_3），而 '何小萍体验集体生活中的幸福时刻' 发生在她得知可以每天洗澡之后（scene_7），scene_3 在文档时序上早于 scene_7，因此该关系在叙事顺序上有明确支持。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e97d0e599e08",
+    "subject_id": "ep_6ff6916801351574",
+    "object_id": "ep_3b531348dd10b8f8",
+    "relation_type": "precedes",
+    "reason": "‘引发冲突：衬衫失窃指控’（scene_34）发生在‘应对侮辱性冲突并恢复排练’（scene_39）之前，文档中scene编号递增且事件发展呈现时间顺序，前者为冲突导火索，后者为后续排练中的新冲突，无直接因果或对比证据，但时间先后明确。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1694e83cbbdb",
+    "subject_id": "ep_01aec36e075a115e",
+    "object_id": "ep_55203b78812525c1",
+    "relation_type": "precedes",
+    "reason": "揭露刘峰的拥抱引发宿舍冲突发生在集体空间中，众人反应激烈；而何小萍发愣后默默收拾衣物发生在众人离开之后，属于事件平息后的后续行为。根据描述中的时序线索‘在众人离开后’，可判断前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4443d405c80d",
+    "subject_id": "ep_8aac087e107fef58",
+    "object_id": "ep_5c20e85513665aa8",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均围绕何小萍的军礼行为展开，但呈现了不同的指导方式与态度：刘峰以耐心示范和指导帮助她掌握规范动作，而郝淑雯则以严厉批评和嘲讽指出其不规范行为。这种并置突显了教育风格、新老兵文化之间的对比，构成明确的对比关系。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2b6cd433ee0c",
+    "subject_id": "ep_01aec36e075a115e",
+    "object_id": "ep_50c09a8a7bdd3ca7",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述林丁丁哭诉刘峰拥抱她，引发宿舍内情绪波动和集体反应，标志着事件的爆发；第二个情节描述小芭撕扯何小萍衣物导致肢体冲突，随后被分队长制止，标志着事件高潮与平息。从叙事发展看，事件爆发在前，冲突升级与权威介入在后，时间顺序明确，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3daea05663f6",
+    "subject_id": "ep_55203b78812525c1",
+    "object_id": "ep_6ff6916801351574",
+    "relation_type": "precedes",
+    "reason": "何小萍发愣后默默收拾衣物发生在政治部首长视察慰问活动之后，而引发冲突：衬衫失窃指控发生在宿舍走廊冲突事件中，根据相关场合的时间顺序，前者在叙事上早于后者，因此主体情节在时间顺序上先于客体情节。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9a4cae80a2d8",
+    "subject_id": "ep_b35ac7a5fe952f25",
+    "object_id": "ep_5c20e85513665aa8",
+    "relation_type": "precedes",
+    "reason": "介绍何小萍并测试舞蹈能力（ep_b35ac7a5fe952f25）发生在文工团排练场景（scene_3），而纠正何小萍的不规范敬礼行为（ep_5c20e85513665aa8）发生在scene_6，根据文档中场景编号的顺序，前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3961d7a75073",
+    "subject_id": "ep_b35ac7a5fe952f25",
+    "object_id": "ep_50c09a8a7bdd3ca7",
+    "relation_type": "precedes",
+    "reason": "情节 '介绍何小萍并测试舞蹈能力' 发生在文工团排练场景 (scene_3)，而 '肢体冲突与权威介入' 发生在宿舍走廊冲突事件 (scene_34)，scene_3 明显早于 scene_34，因此该关系在叙事顺序上具有明确的时间先后支持。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_000b50f14ce0",
+    "subject_id": "ep_8dc588d3594af701",
+    "object_id": "ep_50c09a8a7bdd3ca7",
+    "relation_type": "precedes",
+    "reason": "根据相关场合的时间顺序，'郝淑雯羞辱何小萍导致其摔倒并引发反应'发生在文工团排练（scene_3），而'肢体冲突与权威介入'发生在宿舍走廊冲突事件（scene_34），scene_3早于scene_34，因此该情节在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3cd06b57090d",
+    "subject_id": "ep_55203b78812525c1",
+    "object_id": "ep_fba2f8bc7d7cd006",
+    "relation_type": "precedes",
+    "reason": "主体情节'何小萍发愣后默默收拾衣物'发生在政治部首长视察慰问活动期间（scene_27），而客体情节'冲突余波与责任归因'发生在宿舍走廊冲突事件中（scene_34），scene_27在叙事顺序上早于scene_34，因此该关系为precedes。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_70713bf7da67",
+    "subject_id": "ep_8dc588d3594af701",
+    "object_id": "ep_55203b78812525c1",
+    "relation_type": "precedes",
+    "reason": "郝淑雯羞辱何小萍的情节发生在文工团排练场景（scene_3），而何小萍发愣后默默收拾衣物的情节发生在政治部首长视察慰问活动（scene_27），scene_3在文档时序上早于scene_27，因此前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3cdc799aa2c9",
+    "subject_id": "ep_3b531348dd10b8f8",
+    "object_id": "ep_fba2f8bc7d7cd006",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对侮辱性冲突并恢复排练'发生在文工团排练现场，包含朱克侮辱何小萍、刘峰挺身而出及宁政委斥责等事件（scene_39）；客体情节'冲突余波与责任归因'发生在宿舍走廊，包含何小萍逃离、萧穗子与郝淑雯争执等事件（scene_34）。尽管scene编号异常（34在39前），但根据描述逻辑，侮辱事件发生后何小萍逃离才引发后续讨论，且scene_39在文档中为后续场景，因此推断scene编号为录入错误或非时间序，叙事顺序上主体情节先于客体情节发生。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fb02c7ff01d6",
+    "subject_id": "ep_7aead5fa762528f6",
+    "object_id": "ep_ea81d7e27620ca8c",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述林丁丁发现军装失踪并由卓玛推测其被拿去清洗，构成对军装去向的初始疑问；第二个情节描述军装突然出现在墙上并引发质疑与对峙，是前一情节疑问的后续发展。叙事上，军装失踪的发现必须先于其突然出现所引发的冲突，且两个情节围绕同一物品（军装）的位置变化形成连续事件链。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8b8c22e84da6",
+    "subject_id": "ep_77e2bc1b6df1e08a",
+    "object_id": "ep_51672df3ebf17acb",
+    "relation_type": "precedes",
+    "reason": "情节 'confront何小萍并索要军装照片' 发生在回宿舍途中，围绕追查何小萍偷穿军装拍照展开，而 '林丁丁劝阻举报并给予改过机会' 发生在政治部首长视察慰问活动期间，是对此事的后续处理。related_events 中 scene_26 先于 scene_27，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e3a9548e824d",
+    "subject_id": "ep_3cfb15ac4b5a918e",
+    "object_id": "ep_ea81d7e27620ca8c",
+    "relation_type": "precedes",
+    "reason": "林丁丁寻找丢失的演出服发生在她发现军装突然出现在墙上的冲突之前。根据描述，前者是她主动询问演出服下落的请求行为，后者是军装已出现并引发对峙的后续场景，叙事顺序上存在明确的时间先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6174650571d2",
+    "subject_id": "ep_ea81d7e27620ca8c",
+    "object_id": "ep_51672df3ebf17acb",
+    "relation_type": "precedes",
+    "reason": "揭示军装突然出现的冲突发生在林丁丁劝阻举报并给予改过机会之前，因为军装的异常出现引发了对何小萍的怀疑，随后林丁丁才介入劝阻进一步上报并主张给予改正机会。时间顺序由事件流支持：冲突先发生，劝阻作为后续反应。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_39edc4ecf2e3",
+    "subject_id": "ep_c687676b9bab480d",
+    "object_id": "ep_27c9d14cb2800c3c",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'回应林丁丁的调侃与邀请试探'发生在scene_47，而'揭示留下文工团的真实情感动机'发生在scene_48，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1d00779909c6",
+    "subject_id": "ep_c687676b9bab480d",
+    "object_id": "ep_393138a6f931d4c5",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'回应林丁丁的调侃与邀请试探'发生在scene_47，而'在挣扎中流露真实情感'发生在scene_48，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_18e23d5c07cf",
+    "subject_id": "ep_0becd068f19c339f",
+    "object_id": "ep_55203b78812525c1",
+    "relation_type": "precedes",
+    "reason": "主体情节'升级指责与集体围攻'发生在宿舍走廊冲突事件(scene_34)，而客体情节'何小萍发愣后默默收拾衣物'发生在政治部首长视察慰问活动(scene_27)之后。scene_34在叙事顺序上晚于scene_27，因此主体情节在时间上晚于客体情节，故客体情节在叙事顺序上先于主体情节。但由于关系方向要求从subject到object，此处应为object precedes subject，而模式中precedes为有向关系，不能反向成立，因此无足够支持表明subject precedes object。然而，根据scene编号推断时间顺序，ep_55203b78812525c1（scene_27）早于ep_0becd068f19c339f（scene_34），因此若以subject为前者、object为后者，则关系方向错误。综上，正确的时间顺序是object precedes subject，但该方向与输入顺序不符，故不能支持precedes(subject→object)。因此，尽管存在时间先后，但方向不匹配，不能确认precedes关系。最终，无其他关系模式得到支持，输出NONE。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4058604e98b7",
+    "subject_id": "ep_c687676b9bab480d",
+    "object_id": "ep_39a3b14e1d0ea06f",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序，'回应林丁丁的调侃与邀请试探'（doc_46）发生在'刘峰表白并试图拉近亲密关系'（doc_47）之前。相关事件分别位于scene_47和scene_48，表明前者在叙事时间线上早于后者。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_942639d088f9",
+    "subject_id": "ep_c687676b9bab480d",
+    "object_id": "ep_d0d7220f615038f4",
+    "relation_type": "precedes",
+    "reason": "主体情节‘回应林丁丁的调侃与邀请试探’发生在马班长结婚仪式场景（scene_47），而客体情节‘亲密举动被目击引发道德指责’发生在后续的scene_48，且两情节之间存在明确的叙事时序推进，无插入其他重大事件，因此主体情节在叙事顺序上直接早于客体情节。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c4462f9e477e",
+    "subject_id": "ep_c687676b9bab480d",
+    "object_id": "ep_bb87fee179d5701b",
+    "relation_type": "precedes",
+    "reason": "回应林丁丁的调侃与邀请试探（ep_c687676b9bab480d）发生在马班长结婚仪式期间，属于两人关系逐步发展的互动；而林丁丁坚持刘峰行为越界并陷入舆论困境（ep_bb87fee179d5701b）是在刘峰表白后的冲突升级阶段。根据叙事逻辑和事件发展顺序，试探性互动早于后续的越界指控，因此该关系为precedes。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f66edfd63957",
+    "subject_id": "ep_9567c2d807e8b3be",
+    "object_id": "ep_01aec36e075a115e",
+    "relation_type": "precedes",
+    "reason": "林丁丁表达对饺子的抗拒（ep_9567c2d807e8b3be）发生在刘峰拥抱事件之前，该行为引发刘峰后续的关怀举动，构成情节发展的起点；而揭露刘峰的拥抱引发宿舍冲突（ep_01aec36e075a115e）是后续在集体空间中的爆发，叙事顺序明确。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_9_part_1",
+      "scene_9_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_739cc825cd52",
+    "subject_id": "ep_b6bec4ccdcfdda40",
+    "object_id": "ep_411e2735f6b9443e",
+    "relation_type": "precedes",
+    "reason": "‘前往食堂前的抱怨与调侃’发生在政治部首长视察之前，而‘指责何小萍品质问题并主张举报’发生在证据确凿后的视察活动中，相关场景编号（scene_6 vs scene_27）支持明确的时间顺序。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_363296a932ee",
+    "subject_id": "ep_b6bec4ccdcfdda40",
+    "object_id": "ep_9567c2d807e8b3be",
+    "relation_type": "precedes",
+    "reason": "林丁丁在前往食堂前抱怨再次吃饺子（ep_b6bec4ccdcfdda40）发生在饭桌上明确拒绝吃饺子（ep_9567c2d807e8b3be）之前，根据相关事件的时间顺序和叙事流程，前者为后续情节提供了上下文并早于后者发生。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_9_part_2",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9260bdca9194",
+    "subject_id": "ep_b6bec4ccdcfdda40",
+    "object_id": "ep_8eb002d4a937fd8b",
+    "relation_type": "precedes",
+    "reason": "‘前往食堂前的抱怨与调侃’发生在场景6，涉及林丁丁抱怨吃饺子，而‘萧穗子分配未吃的饺子并关注卓玛不适’发生在场景9，包含后续事件如转送饺子和卓玛报告腹痛。根据场景编号顺序，前者在叙事时间上早于后者，构成明确的时间先后关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_9_part_2",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_93c9e603e245",
+    "subject_id": "ep_9567c2d807e8b3be",
+    "object_id": "ep_8eb002d4a937fd8b",
+    "relation_type": "precedes",
+    "reason": "林丁丁表达对饺子的抗拒发生在萧穗子分配未吃的饺子并关注卓玛不适之前，因为林丁丁不食用饺子的行为直接导致萧穗子将这些饺子转送给陈灿，构成后续行动的前提。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_9_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_949eb4289700",
+    "subject_id": "ep_2a9e5678f52a9249",
+    "object_id": "ep_de288289a74225d4",
+    "relation_type": "precedes",
+    "reason": "安置何小萍并安抚其情绪发生在宿舍场景中，紧随其进入宿舍之后；而介绍宿舍成员并分配职责发生在后续场景（scene_6），且逻辑上需在初步安顿之后进行。两个情节在叙事顺序上连续，且相关事件的时间上下文支持前者早于后者。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_41ba24053793",
+    "subject_id": "ep_2423805b836e1d5e",
+    "object_id": "ep_4a632689cc4417bf",
+    "relation_type": "elaborates",
+    "reason": "萧穗子察觉排练场异动并离开这一情节触发了她对后续事件的观察，而揭露刘峰的默默奉献与被误解的情节通过展示她在排练场目睹的具体事件（如刘峰受伤、被扶起、遭嘲讽）扩展并深化了前一情节的内涵，提供了更丰富的背景和情感层次。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_463a7432e464",
+    "subject_id": "ep_de288289a74225d4",
+    "object_id": "ep_b57b0d0f9c1718f7",
+    "relation_type": "precedes",
+    "reason": "介绍宿舍成员并分配职责（doc_5, scene_6）发生在揭露何小萍深夜写信的情感宣泄（doc_37, scene_38）之前，文档ID和场景编号均表明前者在叙事时间线上早于后者，且前者为后者中人物互动关系的建立提供了前提。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0bb050ec69b2",
+    "subject_id": "ep_d4396346cf5a228e",
+    "object_id": "ep_b57b0d0f9c1718f7",
+    "relation_type": "precedes",
+    "reason": "根据文档ID，'萧穗子打开父亲的箱子并分享食物'发生在doc_36，而'揭露何小萍深夜写信的情感宣泄'发生在doc_37，表明前者在叙事顺序上早于后者。两个情节分别位于连续的场景中，且无证据表明时间跳跃或倒叙，因此支持precedes关系。",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f2be15d56a94",
+    "subject_id": "ep_2423805b836e1d5e",
+    "object_id": "ep_ed1c484417924997",
+    "relation_type": "precedes",
+    "reason": "萧穗子察觉排练场异动并离开（ep_2423805b836e1d5e）发生在众人笑得正欢时，而萧穗子发现何小萍凝视军装（ep_ed1c484417924997）明确发生在众人离开后，因此前者在叙事时间顺序上早于后者，构成直接的先后关系。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f4aa33a9c187",
+    "subject_id": "ep_2423805b836e1d5e",
+    "object_id": "ep_6b37a75b25f81b06",
+    "relation_type": "precedes",
+    "reason": "萧穗子察觉排练场异动并离开（ep_2423805b836e1d5e）是她前往排练场的行为，而萧穗子目睹羞辱全过程（ep_6b37a75b25f81b06）是她在排练场门口的后续观察行为。根据叙事逻辑和事件顺序，她必须先离开群体走向排练场，才能随后站在门口目击事件，因此前者在话语顺序上明确早于后者。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c4ca0400b5e8",
+    "subject_id": "ep_2423805b836e1d5e",
+    "object_id": "ep_e186e30e33e222b3",
+    "relation_type": "precedes",
+    "reason": "萧穗子察觉排练场异动并离开（ep_2423805b836e1d5e）描述她从群体场景走向排练场，而开始并完成女舞蹈排练（ep_e186e30e33e222b3）发生在文工团排练场合下，包含她带领舞蹈的起始动作。萧穗子的移动可合理视为进入排练前的准备，叙事顺序上前者紧接后者之前，构成情节上的先后关系。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_036d2e3f031f",
+    "subject_id": "ep_309801a1c40f3b42",
+    "object_id": "ep_01aec36e075a115e",
+    "relation_type": "precedes",
+    "reason": "根据文档ID，'回应刘峰关于宿舍成员去向的询问并离开'（doc_44）发生在'揭露刘峰的拥抱引发宿舍冲突'（doc_48）之前，叙事顺序明确，前者为后者事件的前置背景。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2a3ac1aafe9f",
+    "subject_id": "ep_de288289a74225d4",
+    "object_id": "ep_f7e6e7bb9ff4db5c",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'介绍宿舍成员并分配职责'（scene_6）在叙事顺序上晚于'协助并纠正用品遗漏'（scene_4），因此后者在时间上先于前者。但由于关系模式中'precedes'为有向关系，且主体为ep_de288289a74225d4，客体为ep_f7e6e7bb9ff4db5c，主体事件实际发生在客体之后，故应为客体precedes主体。然而根据方向性规则，必须确保方向正确。此处主体是ep_de288289a74225d4，它并不在时间上先于客体ep_f7e6e7bb9ff4db5c，因此不能成立ep_de288289a74225d4 precedes ep_f7e6e7bb9ff4db5c。由于不允许反向断言，且无其他支持关系，故无有效关系可成立。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ae92473c728f",
+    "subject_id": "ep_aa8ac61d51ce15bd",
+    "object_id": "ep_6b37a75b25f81b06",
+    "relation_type": "elaborates",
+    "reason": "揭示何小萍的贫困背景与洗澡习惯为萧穗子目睹羞辱全过程提供了社会与心理背景，解释了何小萍在集体环境中行为异常的原因，从而扩展了后者的情节内涵。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_871b2a403d0b",
+    "subject_id": "ep_aa8ac61d51ce15bd",
+    "object_id": "ep_e5932cdbfbde2023",
+    "relation_type": "precedes",
+    "reason": "根据描述，萧穗子在发现何小萍洗澡习惯并进行对话后，提醒其洗澡时间过长，随后离开前往食堂帮厨。这表明‘揭示何小萍的贫困背景与洗澡习惯’在叙事顺序上直接早于‘萧穗子结束对话前往食堂帮厨’，两者发生在同一场景（scene_7）中，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f1c127ff6222",
+    "subject_id": "ep_ed1c484417924997",
+    "object_id": "ep_e5932cdbfbde2023",
+    "relation_type": "precedes",
+    "reason": "萧穗子发现何小萍凝视军装发生在她提醒何小萍洗澡时间过长并前往食堂帮厨之前，根据场景顺序（scene_6 在 scene_7 之前），该情节在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e392db2ebd4e",
+    "subject_id": "ep_de288289a74225d4",
+    "object_id": "ep_aa8ac61d51ce15bd",
+    "relation_type": "precedes",
+    "reason": "介绍宿舍成员并分配职责（ep_de288289a74225d4）发生在萧穗子发现何小萍洗澡习惯之前，根据场景编号scene_6早于scene_7，表明该情节在叙事顺序上先于揭示何小萍贫困背景与洗澡习惯（ep_aa8ac61d51ce15bd）。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_005420ad6826",
+    "subject_id": "ep_b452b93a28685468",
+    "object_id": "ep_6645608bdac34975",
+    "relation_type": "precedes",
+    "reason": "陈灿出门遇见压腿的萧穗子是整个叙事的起始点，而萧穗子介入调解争端发生在后续互动中，文本明确指出前者为叙事起点，后者为冲突升级后的干预，因此存在清晰的叙事时间先后顺序。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a82c3466fd40",
+    "subject_id": "ep_de288289a74225d4",
+    "object_id": "ep_e5932cdbfbde2023",
+    "relation_type": "precedes",
+    "reason": "情节 '介绍宿舍成员并分配职责' 发生在宿舍互动场景中，涉及萧穗子介绍成员并接受郝淑雯的指令；而 '萧穗子结束对话前往食堂帮厨' 发生在后续场景，明确显示萧穗子离开浴室去执行任务。根据文档顺序和场景编号（scene_6 到 scene_7），前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fcb78e66e323",
+    "subject_id": "ep_35906806aa2ed2db",
+    "object_id": "ep_6645608bdac34975",
+    "relation_type": "causes",
+    "reason": "处理误击靶位引发的比赛争议直接导致了后续的争端，萧穗子因此介入调解以平息冲突。描述中显示争吵失控促使她行动，构成明确的因果链条。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_28_part_2",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2bf10201a5b8",
+    "subject_id": "ep_6645608bdac34975",
+    "object_id": "ep_fba2f8bc7d7cd006",
+    "relation_type": "precedes",
+    "reason": "情节'平息争端：萧穗子介入调解'描述了萧穗子在争吵失控时介入并成功阻止冲突恶化，而'冲突余波与责任归因'则描述了事件结束后众人散去及后续的道德评判。根据叙事顺序，调解成功后才进入冲突的余波阶段，因此前者在时间上明确早于后者。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eb75002dcb71",
+    "subject_id": "ep_8dc588d3594af701",
+    "object_id": "ep_6645608bdac34975",
+    "relation_type": "precedes",
+    "reason": "根据描述，郝淑雯羞辱何小萍并引发反应（ep_8dc588d3594af701）发生在文工团排练场景中，其中萧穗子已出手制止郝淑雯的嘲笑；而萧穗子介入调解陈灿与郝淑雯的争吵（ep_6645608bdac34975）是后续独立事件。文本中两个情节的事件序列和场景编号（scene_3 vs scene_12）表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1a3f93f387d6",
+    "subject_id": "ep_de288289a74225d4",
+    "object_id": "ep_6b37a75b25f81b06",
+    "relation_type": "precedes",
+    "reason": "介绍宿舍成员并分配职责发生在何小萍被当众羞辱之前，文本中萧穗子帮助何小萍融入集体是初期事件，而目睹羞辱是后续发展，具有明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_87a974fcf74f",
+    "subject_id": "ep_6b37a75b25f81b06",
+    "object_id": "ep_fba2f8bc7d7cd006",
+    "relation_type": "precedes",
+    "reason": "萧穗子目睹羞辱全过程发生在政治部首长视察慰问活动中，而冲突余波与责任归因发生在宿舍走廊冲突事件中，后者在叙事顺序上紧随前者，且描述中显示何小萍逃离、众人争论是在羞辱事件之后的发展，因此主体情节在时间顺序上先于客体情节。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_67890824d46e",
+    "subject_id": "ep_272c09e83090a91b",
+    "object_id": "ep_0b173ad1e3e5ceea",
+    "relation_type": "precedes",
+    "reason": "根据相关场合信息，'告知何小萍政审信息并嘱其保密'发生在'何小萍入伍报到日 (scene_1)'，而'带领何小萍进入文工团'发生在(scene_2)，scene_1在叙事顺序上早于scene_2，因此该关系为precedes。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b1298e2eca89",
+    "subject_id": "ep_6d21c18f65d43348",
+    "object_id": "ep_0b173ad1e3e5ceea",
+    "relation_type": "precedes",
+    "reason": "护送何小萍抵达文工团并安顿入伍事宜（scene_1）发生在带领何小萍进入文工团（scene_2）之前，根据相关场景编号和事件流程，前者为入团报到初期的接引与安顿，后者为进入文工团内部的后续流程，具有明确的叙事时序先后。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eb0d835f29e0",
+    "subject_id": "ep_6645608bdac34975",
+    "object_id": "ep_dc32ab3168279eea",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，陈灿送饭盒引发冲突（ep_dc32ab3168279eea）是争吵的起因，而萧穗子介入调解（ep_6645608bdac34975）是对该冲突的响应，因此调解情节在叙事顺序上紧随冲突之后。但基于事件逻辑，冲突必须先发生才能引发调解，故‘平息争端’情节在时间上晚于‘送饭盒引发冲突’，即后者在前，前者在后。因此，主体情节（平息争端）在叙事顺序上晚于客体情节（送饭盒），关系为‘precedes’且方向为客体→主体，但因关系类型为有向，此处应表达为‘客体 precedes 主体’，即主体在客体之后。故正确方向是客体 precedes 主体，但当前主体为ep_6645608bdac34975，客体为ep_dc32ab3168279eea，因此应为‘object precedes subject’，但关系类型precedes是directed，需按subject→object方向判断。由于主体事件（平息争端）发生在客体事件（送饭盒引发冲突）之后，因此主体并不在时间上先于客体，故不能成立subject precedes object。相反，若要表达时间先后，应为object precedes subject，但当前subject是ep_6645608bdac34975，因此不能输出precedes。重新评估：precedes要求subject在前，但实际是object在前，因此不能选precedes。causes：送饭盒引发冲突是否直接导致萧穗子介入？描述中‘见争吵失控，主动介入’表明争吵已发生，而争吵由送饭盒引发，因此送饭盒→争吵→介入，存在因果链。但‘causes’要求直接触发，而‘送饭盒’与‘介入’之间隔了一个事件（争吵），故不构成直接因果。elaborates：无扩展或解释关系。contrasts_with：无并置对比。因此无充分支持的关系，输出NONE。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1dcee6bc9d79",
+    "subject_id": "ep_6d21c18f65d43348",
+    "object_id": "ep_155a10e3cf68943e",
+    "relation_type": "precedes",
+    "reason": "护送何小萍抵达文工团并安顿入伍事宜（ep_6d21c18f65d43348）发生在故事早期（scene_1），是何小萍加入文工团的初始事件；而何小萍在排练场阅读父亲的告别信（ep_155a10e3cf68943e）发生在后续场景（scene_41），时间上明显靠后。两个情节之间虽无直接因果或对比描述，但根据相关事件的场景编号和叙事顺序，前者在话语顺序上明确早于后者。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c04fe156fdfe",
+    "subject_id": "ep_134cbfe30d1b1fb8",
+    "object_id": "ep_4a632689cc4417bf",
+    "relation_type": "elaborates",
+    "reason": "‘表达对个人价值的担忧’通过刘峰个人的心理披露，扩展了‘揭露刘峰的默默奉献与被误解’中所呈现的其身体脆弱与集体忽视的主题，提供了关于他为何在意自身价值的内在动机和情感背景，从而深化了对刘峰处境的理解。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_602fae6fe0ca",
+    "subject_id": "ep_1f3182bc4c94e29c",
+    "object_id": "ep_4a632689cc4417bf",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '刘峰吃破饺子并被称作活雷锋' 展示了刘峰无私行为被集体以戏谑方式接受，而 '揭露刘峰的默默奉献与被误解' 则揭示了他付出背后的脆弱及他人对其的嘲笑与忽视，两个情节在集体表层认同与深层冷漠之间形成对比。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_9_part_2",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_b462d86bc6f4",
+    "subject_id": "ep_6d21c18f65d43348",
+    "object_id": "ep_4a632689cc4417bf",
+    "relation_type": "precedes",
+    "reason": "护送何小萍抵达文工团并安顿入伍事宜（ep_6d21c18f65d43348）发生在故事早期场景（scene_1），而揭露刘峰的默默奉献与被误解（ep_4a632689cc4417bf）发生在后续场景（scene_44），文本中场景编号明确支持时间顺序上的先后关系。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_82100601e855",
+    "subject_id": "ep_4a632689cc4417bf",
+    "object_id": "ep_e710a968634b802d",
+    "relation_type": "precedes",
+    "reason": "情节 '揭露刘峰的默默奉献与被误解' 发生在排练场内外，涉及刘峰受伤及他人反应，而 '执行首长命令并处置刘峰' 发生在文工团雨中集合的场合，刘峰被正式带离队伍。根据叙事顺序，前者在时间上早于后者，且前者揭示的集体冷漠与误解为后者的处置提供了背景，但无直接因果证据。因此，'precedes' 是唯一有明确支持的关系。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4607956441e4",
+    "subject_id": "ep_6d21c18f65d43348",
+    "object_id": "ep_127887a6bd895ea0",
+    "relation_type": "precedes",
+    "reason": "护送何小萍抵达文工团并安顿入伍事宜发生在刘峰准备离开之前，而告知刘峰何小萍父亲病故的消息是在刘峰即将离开时发生的，因此前者在叙事时间顺序上早于后者。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_612ec2ed366c",
+    "subject_id": "ep_86f5b6f0c319be90",
+    "object_id": "ep_640776ba8d602ea6",
+    "relation_type": "precedes",
+    "reason": "刘峰因伤转岗舞美队发生在宁政委劝说他 reconsider 进修机会之前，因为转岗是劝说的背景前提：刘峰已在舞美组工作，才引发宁政委对其职业选择的质疑。文本中刘峰解释自己甘心留在舞美组，表明该状态已存在，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3e17d0aeb5c0",
+    "subject_id": "ep_f9c5c3a191b4ab31",
+    "object_id": "ep_d8a908572742afa7",
+    "relation_type": "precedes",
+    "reason": "刘峰被召去追捕逃跑的猪（ep_f9c5c3a191b4ab31）发生在游行过程中猪跑出后他立即响应的场景（scene_9），而刘峰协助控制游行中的猪（ep_d8a908572742afa7）描述的是同一猪在游行中失控后被控制的事件，逻辑上追捕行为先于协助控制，且两事件在叙事上连续，前者触发后者行动的展开。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_9_part_1",
+      "scene_9_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_356ee61dc764",
+    "subject_id": "ep_640776ba8d602ea6",
+    "object_id": "ep_27c9d14cb2800c3c",
+    "relation_type": "elaborates",
+    "reason": "劝说刘峰 reconsider 进修机会的情节中，刘峰解释自己甘心留在舞美组是出于对工作的满足感；而在揭示留下文工团真实情感动机的情节中，刘峰坦承其选择背后深层原因是不愿离开林丁丁。后者为前者中刘峰的决定提供了更深层的情感背景和动机解释，从而扩展和丰富了前一情节的理解。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8c3c3a32ca74",
+    "subject_id": "ep_bb87fee179d5701b",
+    "object_id": "ep_e710a968634b802d",
+    "relation_type": "precedes",
+    "reason": "林丁丁坚持刘峰行为越界并陷入舆论困境发生在文工团雨中集合之前，且其相关事件（如指责刘峰耍流氓）直接导致首长下令处置刘峰，因此该情节在叙事顺序上早于执行首长命令并处置刘峰。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4aa34d42864c",
+    "subject_id": "ep_8bfa101f7871a46f",
+    "object_id": "ep_9ce196cf51d0af91",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中萧穗子发现刘峰深夜制作沙发并了解其助人事迹，为后续林丁丁赞美沙发并展示刘峰节俭才能的情节提供了背景和动机。第二个情节通过他人视角进一步扩展了刘峰制作沙发的意义，强化了其多才多艺和节俭的形象，构成对前一情节的补充说明。",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_0fd72f778e59",
+    "subject_id": "ep_86f5b6f0c319be90",
+    "object_id": "ep_e710a968634b802d",
+    "relation_type": "precedes",
+    "reason": "刘峰因伤转岗舞美队发生在抗洪救灾受伤后，并早于文工团雨中集合时被处置的情节。根据事件顺序，职业转型为后续的正式处置提供了背景，且两个情节在时间线上有明确先后，但无直接因果或对比证据。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_39d531708b3b",
+    "subject_id": "ep_63a8510a3791f9cf",
+    "object_id": "ep_e710a968634b802d",
+    "relation_type": "precedes",
+    "reason": "‘干预训练中的安全干扰’发生在靶场打靶比赛场景（scene_28），而‘执行首长命令并处置刘峰’发生在文工团雨中集合场景（scene_50），scene_28在叙事顺序上早于scene_50，因此该关系为precedes。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_28_part_2",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b6cebd0308b7",
+    "subject_id": "ep_607f93d025ad3b01",
+    "object_id": "ep_134cbfe30d1b1fb8",
+    "relation_type": "elaborates",
+    "reason": "情节'展开暧昧对话并揭示手工礼物'中刘峰展示其手工技能和为他人制作沙发的行为，为后续'表达对个人价值的担忧'中他因伤担忧失去价值提供了背景和解释，说明其多才多艺与自我价值感的关联，构成对主体情节的扩展说明。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ac8c562c8d16",
+    "subject_id": "ep_607f93d025ad3b01",
+    "object_id": "ep_03cb3f319e226f9c",
+    "relation_type": "precedes",
+    "reason": "根据描述，'展开暧昧对话并揭示手工礼物' 发生在刘峰与林丁丁的偶遇中，而 '刘峰前往打饺子' 明确发生在完成送面和归还手表之后，标志着与林丁丁互动的结束。这表明前者在叙事顺序上早于后者，构成直接的时间先后关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_9_part_2",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_56f036517de7",
+    "subject_id": "ep_6d21c18f65d43348",
+    "object_id": "ep_3b531348dd10b8f8",
+    "relation_type": "precedes",
+    "reason": "护送何小萍抵达文工团并安顿入伍事宜（scene_1）在时间上早于应对侮辱性冲突并恢复排练（scene_39），前者是何小萍初到文工团的事件，后者涉及她在团内已存在一段时间后发生的冲突，叙事顺序明确。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0504b02a48cb",
+    "subject_id": "ep_1f3182bc4c94e29c",
+    "object_id": "ep_bb87fee179d5701b",
+    "relation_type": "contrasts_with",
+    "reason": "刘峰吃破饺子被称作活雷锋的情节展现其无私形象在集体中的被认可与戏谑，而林丁丁坚持刘峰行为越界则反映其道德高标准下的谴责，二者在对刘峰‘活雷锋’身份的评价上形成道德期待与个人情感冲突的对比。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_9_part_2",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5788d11013bb",
+    "subject_id": "ep_d0d7220f615038f4",
+    "object_id": "ep_e710a968634b802d",
+    "relation_type": "causes",
+    "reason": "亲密举动被目击并引发道德指责（ep_d0d7220f615038f4）直接导致了对刘峰的正式处置，包括首长下令出列和被带往保卫部门（ep_e710a968634b802d）。描述中显示，前者引发的指责和情绪反应构成了后者处置行动的直接前提，且两情节在叙事上紧密衔接，具有明确的因果链条。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_43663ff809b0",
+    "subject_id": "ep_134cbfe30d1b1fb8",
+    "object_id": "ep_01aec36e075a115e",
+    "relation_type": "elaborates",
+    "reason": "情节'表达对个人价值的担忧'揭示了刘峰在拥抱林丁丁前的心理状态，解释了他行为背后的动机和对集体地位的焦虑，从而为后续'揭露刘峰的拥抱引发宿舍冲突'提供了心理背景和深层动因。该关系由两个情节中关于刘峰内心担忧和事件后果的描述支持。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_1509c3c45f41",
+    "subject_id": "ep_6d21c18f65d43348",
+    "object_id": "ep_b35ac7a5fe952f25",
+    "relation_type": "precedes",
+    "reason": "护送何小萍抵达文工团并安顿入伍事宜发生在何小萍被介绍并测试舞蹈能力之前，因为安顿入伍是报到的第一步，而介绍和能力测试是后续在排练场合中进行的正式入队流程，叙事顺序上具有明确的先后关系。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bfb12a717a6c",
+    "subject_id": "ep_86f5b6f0c319be90",
+    "object_id": "ep_134cbfe30d1b1fb8",
+    "relation_type": "elaborates",
+    "reason": "刘峰因伤转岗舞美队这一情节提供了刘峰腰部受伤并退出舞蹈岗位的背景，为后续他表达对个人价值的担忧提供了直接的情境和动机解释，说明其担忧源于职业身份的丧失，因此前者扩展了后者的背景和成因。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_122634c9112b",
+    "subject_id": "ep_39a3b14e1d0ea06f",
+    "object_id": "ep_03cb3f319e226f9c",
+    "relation_type": "precedes",
+    "reason": "刘峰表白并试图拉近亲密关系发生在刘峰前往打饺子之前，根据叙事顺序，表白事件结束后刘峰才宣布去打饺子，形成情节上的先后关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_9_part_2",
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0133bbc6e834",
+    "subject_id": "ep_03cb3f319e226f9c",
+    "object_id": "ep_1f3182bc4c94e29c",
+    "relation_type": "precedes",
+    "reason": "刘峰前往打饺子发生在刘峰吃破饺子并被称作活雷锋之前，因为前者是获取饺子的动作，后者涉及对所打回饺子状态的反应和集体互动，时间顺序在描述中明确。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_9_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7f6265b0095e",
+    "subject_id": "ep_89be1d8ccce0eb96",
+    "object_id": "ep_605a2b548ad4b2c7",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'迎接刘峰归来并分发家乡食物'发生在scene_3，而'刘峰分发包裹并转达萧穗子父亲的平反消息'发生在scene_37，scene_3在叙事顺序上明显早于scene_37，因此该关系为precedes。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4df487a8ad68",
+    "subject_id": "ep_134cbfe30d1b1fb8",
+    "object_id": "ep_39a3b14e1d0ea06f",
+    "relation_type": "elaborates",
+    "reason": "刘峰表达对个人价值的担忧为他后续的表白行为提供了心理背景，说明其情感冲动并非孤立事件，而是源于长期在集体中维持地位的压力与自我价值的焦虑，从而扩展和深化了对表白情节的理解。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_93def77255e3",
+    "subject_id": "ep_134cbfe30d1b1fb8",
+    "object_id": "ep_393138a6f931d4c5",
+    "relation_type": "elaborates",
+    "reason": "刘峰表达对个人价值的担忧为他在后续被抱住时流露真实情感提供了心理背景，说明其情感爆发并非偶然，而是源于长期压抑的自我价值焦虑，因此该情节扩展了对后续情感流露的解释。",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a447e280bea0",
+    "subject_id": "ep_1f3182bc4c94e29c",
+    "object_id": "ep_d0d7220f615038f4",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节中刘峰因无私行为被戏称为‘活雷锋’，体现其在集体中的正面形象；第二个情节中该形象被用来道德指责林丁丁，凸显‘活雷锋’称号从被调侃到成为道德审判工具的逆转。两个情节通过社会对同一标签的不同反应形成对比。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_9_part_2",
+      "scene_48_part_1",
+      "scene_48_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_ae6b9634aced",
+    "subject_id": "ep_de288289a74225d4",
+    "object_id": "ep_77e2bc1b6df1e08a",
+    "relation_type": "precedes",
+    "reason": "介绍宿舍成员并分配职责发生在何小萍偷穿军装拍照事件之前，因为前者是何小萍初到宿舍时的融入过程，而后者是后续因行为不当引发的冲突，叙事时间顺序明确。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_887734472407",
+    "subject_id": "ep_9a6834c3e80e9b98",
+    "object_id": "ep_fba2f8bc7d7cd006",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述争吵激化至顶点，涉及郝淑雯摔盆抗议；第二个情节描述事件结束后的余波，包括何小萍逃离、萧穗子批评和郝淑雯反击，众人散去。根据叙事顺序，冲突激化在前，余波处理在后，且第二个情节明确描述的是事件结束后的态度分化，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c5a08ceb52a8",
+    "subject_id": "ep_de288289a74225d4",
+    "object_id": "ep_6ff6916801351574",
+    "relation_type": "precedes",
+    "reason": "介绍宿舍成员并分配职责发生在故事早期（doc_5, scene_6），而衬衫失窃指控是后续冲突的导火索（doc_33, scene_34），叙事时间线上明显前者早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_86986f9b7bfb",
+    "subject_id": "ep_04cd28b5a75f41b1",
+    "object_id": "ep_fba2f8bc7d7cd006",
+    "relation_type": "precedes",
+    "reason": "主体情节'引发争执：洗碗溅水与相互指责'描述了在洗碗场景中争执的起因和升级，包含多个在scene_12发生的事件；客体情节'冲突余波与责任归因'发生在scene_34，涉及争执结束后的反应和评价，包括何小萍逃离、萧穗子批评和郝淑雯反击。scene_12早于scene_34，且描述的是同一冲突事件的后续处理，因此主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d32361cb6054",
+    "subject_id": "ep_de288289a74225d4",
+    "object_id": "ep_411e2735f6b9443e",
+    "relation_type": "precedes",
+    "reason": "介绍宿舍成员并分配职责发生在故事早期（doc_5, scene_6），而指责何小萍品质问题并主张举报发生在后续情节（doc_26, scene_27），两者在叙事时间线上有明确的先后顺序，前者为后者中人物关系的发展提供了背景。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f4ff50a1bd90",
+    "subject_id": "ep_de288289a74225d4",
+    "object_id": "ep_4513e5c9f8031727",
+    "relation_type": "precedes",
+    "reason": "介绍宿舍成员并分配职责发生在何小萍偷穿军装拍照事件之前，因为前者是何小萍初到宿舍时的安排（scene_6），而后者是在后续政治部首长视察期间发生的事件（scene_27），文本中场景编号的顺序支持这一时间先后关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d2d33393af99",
+    "subject_id": "ep_b2791f1991a0720f",
+    "object_id": "ep_89be1d8ccce0eb96",
+    "relation_type": "precedes",
+    "reason": "情节'中断排练并宣布刘峰归来'发生在文工团排练中，郝淑雯宣布刘峰带回包裹，引发后续刘峰和何小萍进入练习室并分发食物的情节。根据事件顺序，宣布归来和中断排练在叙事上直接早于欢迎和分发食物的社交互动，且两个情节共享同一场景上下文（scene_3与scene_37的连续性），支持明确的时间先后关系。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_faff6732f43a",
+    "subject_id": "ep_4513e5c9f8031727",
+    "object_id": "ep_fba2f8bc7d7cd006",
+    "relation_type": "precedes",
+    "reason": "揭露何小萍偷穿军装拍照（scene_27）在叙事时间上早于冲突余波与责任归因（scene_34），且后者描述的是前一事件引发的后续反应和态度分化，时间顺序明确，支持'precedes'关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_956fbc63c98d",
+    "subject_id": "ep_411e2735f6b9443e",
+    "object_id": "ep_fba2f8bc7d7cd006",
+    "relation_type": "precedes",
+    "reason": "情节 '指责何小萍品质问题并主张举报' 发生在政治部首长视察慰问活动期间（scene_27），而 '冲突余波与责任归因' 发生在宿舍走廊冲突事件中（scene_34），scene_27 在叙事顺序上早于 scene_34，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_856b5ab3ee9a",
+    "subject_id": "ep_9856e5cb92b64f4d",
+    "object_id": "ep_69d7ccc57d8bb0de",
+    "relation_type": "causes",
+    "reason": "男摄像师向林丁丁示好并亲密互动（亲吻）直接导致何小萍目击后惊慌离开，文本明确描述该亲密行为是何小萍受惊跑开的触发事件。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4bc3583c8962",
+    "subject_id": "ep_04cd28b5a75f41b1",
+    "object_id": "ep_6645608bdac34975",
+    "relation_type": "causes",
+    "reason": "争执的升级直接导致萧穗子介入调解，文本明确显示萧穗子因争吵失控而采取行动，构成直接因果关系。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_56476909ec4f",
+    "subject_id": "ep_8dc588d3594af701",
+    "object_id": "ep_411e2735f6b9443e",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'郝淑雯羞辱何小萍导致其摔倒并引发反应' 发生在 scene_3，而 '指责何小萍品质问题并主张举报' 发生在 scene_27，scene_3 明确早于 scene_27，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5e5fc2f92695",
+    "subject_id": "ep_de288289a74225d4",
+    "object_id": "ep_b6bec4ccdcfdda40",
+    "relation_type": "precedes",
+    "reason": "介绍宿舍成员并分配职责发生在前往食堂前的抱怨与调侃之前，因为前者建立宿舍互动结构和职责分配，后者在此基础上展现成员间的日常互动与排斥行为，时间顺序由叙事逻辑支持。",
+    "source_documents": [
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_342d781b24de",
+    "subject_id": "ep_9a6834c3e80e9b98",
+    "object_id": "ep_6645608bdac34975",
+    "relation_type": "precedes",
+    "reason": "根据描述，'激化冲突：身份攻击与政治话语介入' 中争吵情绪达到顶点，随后 '平息争端：萧穗子介入调解' 描述了萧穗子介入并成功阻止冲突恶化，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d39c1aaa9a71",
+    "subject_id": "ep_b6bec4ccdcfdda40",
+    "object_id": "ep_ed1c484417924997",
+    "relation_type": "precedes",
+    "reason": "根据描述，'前往食堂前的抱怨与调侃'发生在众人离开前，而'萧穗子发现何小萍凝视军装'发生在众人离开后，萧穗子准备洗澡时。因此，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e1613b10d4da",
+    "subject_id": "ep_de288289a74225d4",
+    "object_id": "ep_d8250565dcc139c8",
+    "relation_type": "precedes",
+    "reason": "在宿舍成员被介绍并分配职责后，紧接着林丁丁指明何小萍的床位并通知帮厨任务。两个情节均发生在scene_6，且‘介绍宿舍成员并分配职责’中的活动（如介绍和安排教导）逻辑上先于‘确定床位并通知帮厨’中的具体安排和任务指派，叙事顺序支持前者早于后者。",
+    "source_documents": [
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4917f85af3b0",
+    "subject_id": "ep_1e5d18d48ad22745",
+    "object_id": "ep_3e55613111f68ef3",
+    "relation_type": "elaborates",
+    "reason": "发现并确认何小萍的军装照这一情节发生在文工团成员乘车前往部队的过程中，且其相关事件（如郝淑雯发现照片、引起林丁丁注意等）均发生在scene_17，与主体情节共享同一场景和时间上下文。这表明‘发现照片’的情节为‘乘车前往部队’这一更广泛的情节提供了具体的细节和叙事丰富性，构成对主体活动的局部扩展。因此，‘发现并确认何小萍的军装照’作为子单元，向主体情节添加了具体的信息内容，符合elaborates关系。",
+    "source_documents": [
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  }
+]

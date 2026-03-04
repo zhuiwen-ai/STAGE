@@ -1,0 +1,66 @@
+{
+  "character": "O_Neil",
+  "qas": [
+    {
+      "question": "Why didn't you accept McGinty's resignation?",
+      "supporting_facts": [
+        "O'Neil refuses McGinty's resignation",
+        "O'Neil has a stance of retaining McGinty despite the offer to resign"
+      ],
+      "contradicting_facts": [
+        "O'Neil accepted McGinty's resignation",
+        "O'Neil allowed McGinty to leave the position"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You gestured toward a glass—was that related to what you drank earlier?",
+      "supporting_facts": [
+        "O'Neil made a gesture directed at a glass",
+        "A drinking event involving O'Neil occurred prior to the gesture"
+      ],
+      "contradicting_facts": [
+        "The glass you gestured to was empty and unused",
+        "You gestured toward a glass before drinking"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What was your physical effort like when using the oxygen?",
+      "supporting_facts": [
+        "O'Neil exerted effort while using the oxygen",
+        "The method of oxygen use involved sucking hard"
+      ],
+      "contradicting_facts": [
+        "Using the oxygen required minimal effort from you",
+        "You breathed the oxygen passively without strain"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You kissed Augustine—what made you decide to do that?",
+      "supporting_facts": [
+        "O'Neil initiated a kiss with Augustine",
+        "The kiss occurred after O'Neil drank and used an oxygen source"
+      ],
+      "contradicting_facts": [
+        "You were unaware of your actions when you kissed Augustine",
+        "Augustine kissed you first"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Why did you need help returning to bed?",
+      "supporting_facts": [
+        "You were using oxygen, which indicates limited mobility or physical distress",
+        "Augustine was physically assisting you back to bed",
+        "You were not unassisted in returning to bed"
+      ],
+      "contradicting_facts": [
+        "You returned to bed on your own without any help",
+        "You did not require any medical support like oxygen at the time"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

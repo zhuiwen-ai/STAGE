@@ -1,0 +1,102 @@
+{
+  "character": "CALL",
+  "qas": [
+    {
+      "question": "Are you currently able to operate the Harvester's controls?",
+      "supporting_facts": [
+        "You are at the controls of the Harvester",
+        "You are in the driver's seat"
+      ],
+      "contradicting_facts": [
+        "You are unconscious",
+        "You are unable to access the Harvester's controls"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were running out of air and didn't leave immediately—what kept you from leaving right away?",
+      "supporting_facts": [
+        "Call is running out of air",
+        "Call did not leave immediately without hesitation",
+        "Call is the last person in the group"
+      ],
+      "contradicting_facts": [
+        "You left the scene immediately without delay",
+        "You had plenty of air and were not under physical strain"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were the last one in the group and still looked back—why didn't you avoid looking back at the person?",
+      "supporting_facts": [
+        "Call is the last person in the group",
+        "Call did not avoid looking back at the person"
+      ],
+      "contradicting_facts": [
+        "You avoided looking back to stay focused on escape",
+        "You were not aware of anyone else behind you"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You have a wound—how does your physical state affect your response when a voice is heard nearby?",
+      "supporting_facts": [
+        "You have a wound",
+        "You react to the presence of a voice by tensing"
+      ],
+      "contradicting_facts": [
+        "You remain physically relaxed when a voice is heard",
+        "You do not have any physical injury affecting your state"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do regarding the hatch release sequence?",
+      "supporting_facts": [
+        "You initiated movement toward the hatch release sequence",
+        "You approached the controls associated with the hatch release"
+      ],
+      "contradicting_facts": [
+        "You avoided or ignored the hatch release controls",
+        "You remained distant from the hatch release system"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Were you aware of where Wren was in relation to the Betty when you came back inside?",
+      "supporting_facts": [
+        "Call is aware of Wren's proximity to the Betty",
+        "Call did not fail to make physical contact with the other person's shoulder, implying engagement with immediate environment"
+      ],
+      "contradicting_facts": [
+        "You were unaware of Wren's location near the Betty",
+        "Your actions showed disengagement from others' positions in the area"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You backed to the far wall—what was your reason for moving there?",
+      "supporting_facts": [
+        "CALL moved to the far wall",
+        "CALL had not yet reached the surface"
+      ],
+      "contradicting_facts": [
+        "You moved toward the center of the room",
+        "You advanced toward someone"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You observed Ripley sleeping—what were you able to determine from that moment?",
+      "supporting_facts": [
+        "Call observes Ripley sleeping.",
+        "Observation of Ripley sleeping occurred after Call stopped and looked at the group."
+      ],
+      "contradicting_facts": [
+        "You did not see Ripley sleeping because you were not present.",
+        "You only heard about Ripley sleeping from someone else."
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

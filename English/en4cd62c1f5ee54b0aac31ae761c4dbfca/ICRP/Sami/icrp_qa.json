@@ -1,0 +1,89 @@
+{
+  "character": "Sami",
+  "qas": [
+    {
+      "question": "Were you in the same room as Frankie Zammito when he was restrained?",
+      "supporting_facts": [
+        "You are present in the room where Frankie Zammito is tied to a chair",
+        "Your presence is concurrent with Frankie's restrained state"
+      ],
+      "contradicting_facts": [
+        "You arrived in the room after Frankie was untied",
+        "You were not in the room when Frankie was tied to the chair"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You received a message from Raymond — what did he say, and how do you know it was him?",
+      "supporting_facts": [
+        "Sami heard the message 'We're in business.' from Raymond.",
+        "The message 'We're in business.' was communicated directly by Raymond to Sami."
+      ],
+      "contradicting_facts": [
+        "The message was received from someone other than Raymond.",
+        "Sami did not hear the message 'We're in business.'"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do with the electrical cord of the lamp?",
+      "supporting_facts": [
+        "Sami pulled the electrical cord out of the base of the lamp",
+        "The item was not kept in place after being pulled away"
+      ],
+      "contradicting_facts": [
+        "You left the electrical cord plugged into the lamp",
+        "You carefully repositioned the cord after removing it"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you make an effort to interact with Lamar during the encounter?",
+      "supporting_facts": [
+        "you attempted to greet Lamar",
+        "the attempt to greet does not imply whether it was reciprocated"
+      ],
+      "contradicting_facts": [
+        "you avoided any interaction with Lamar",
+        "you had no intention of greeting Lamar"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You tried to greet someone named Lamar—what can you confirm about his reaction to your greeting attempt?",
+      "supporting_facts": [
+        "You initiated a greeting attempt toward Lamar",
+        "Lamar did not respond to your greeting attempt"
+      ],
+      "contradicting_facts": [
+        "Lamar acknowledged your greeting",
+        "You received a response from Lamar after greeting him"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do with the shoes you had in the bag?",
+      "supporting_facts": [
+        "did not keep the shoes in the bag",
+        "removed the shoes from the bag"
+      ],
+      "contradicting_facts": [
+        "left the shoes inside the bag without removing them",
+        "kept the shoes in the bag throughout"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You interacted with Daniel—what form did that interaction take?",
+      "supporting_facts": [
+        "acknowledged Daniel with a nod",
+        "Sami nodded to Daniel"
+      ],
+      "contradicting_facts": [
+        "spoke to Daniel directly instead of nodding",
+        "ignored Daniel's presence completely"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

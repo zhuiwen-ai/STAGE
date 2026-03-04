@@ -1,0 +1,1252 @@
+[
+  {
+    "id": "rel_ep_ep_8c7d2eecb603",
+    "subject_id": "ep_8b56e3098fb0e18a",
+    "object_id": "ep_b356b43076ebdec4",
+    "relation_type": "precedes",
+    "reason": "The confrontation with Maverick about his recklessness occurs immediately before Stinger reveals the Top Gun assignment, as both episodes are grounded in the same scene (scene_36__2) and the sequence of related events suggests a temporal order where criticism precedes the delivery of news.",
+    "source_documents": [
+      "scene_36__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_56d9d9e39d30",
+    "subject_id": "ep_8b56e3098fb0e18a",
+    "object_id": "ep_34d215ebb78caa9e",
+    "relation_type": "precedes",
+    "reason": "The confrontation with Maverick on recklessness and discipline occurs earlier in the scene, followed by the sequence where Maverick is dismissed, returns the wings, and receives a final goodwill gesture from Stinger, indicating a clear narrative order within the same scene (scene_36__2).",
+    "source_documents": [
+      "scene_36__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2f94185416f1",
+    "subject_id": "ep_def1c416ded4308d",
+    "object_id": "ep_8b56e3098fb0e18a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Stinger's summons' involves Stinger calling Maverick and Goose into his room, which initiates the scene where the confrontation about recklessness and discipline occurs. The description of the second episode references an exchange that follows the summons, indicating a direct narrative sequence where the summons precedes the confrontation.",
+    "source_documents": [
+      "scene_36__2_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a6d591f96426",
+    "subject_id": "ep_4c37d8835d55fc45",
+    "object_id": "ep_ef016dc0eca2797a",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves detecting a rear radar threat and initiating evasive maneuvers, while the object episode describes the escalation to a steady missile lock confirmation. The related events and descriptions indicate a temporal progression: the radar warning and evasive actions precede the confirmed missile lock, with the tone intensifying and then becoming steady, supporting a clear narrative sequence.",
+    "source_documents": [
+      "scene_14__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_81b05db74902",
+    "subject_id": "ep_def1c416ded4308d",
+    "object_id": "ep_b356b43076ebdec4",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Stinger's summons' occurs in doc_45 and involves Stinger calling Maverick and Goose into his room, which immediately precedes the episode 'Reveal Maverick's Top Gun Assignment' in doc_46 where the assignment is formally communicated. The narrative flow and document ordering support a direct sequential progression from the summons to the revelation.",
+    "source_documents": [
+      "scene_36__2_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7ed35038fd7a",
+    "subject_id": "ep_4c37d8835d55fc45",
+    "object_id": "ep_f145c53ec664a49d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to rear radar threat from MiG 21' involves detecting the radar warning and initiating evasive maneuvers, which logically and chronologically precedes the moment of confirmed missile lock where Goose uses humor in 'Cope with missile lock stress through humor', as the latter occurs at a later, more intense stage of the same encounter.",
+    "source_documents": [
+      "scene_14__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_245103cc43f4",
+    "subject_id": "ep_def1c416ded4308d",
+    "object_id": "ep_34d215ebb78caa9e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Stinger's summons' occurs when Stinger calls Maverick and Goose into his room, initiating the encounter, while 'Conclude the Meeting with Final Instructions' describes the closing sequence of that same encounter, including dismissal and final remarks. The summoning must logically precede the conclusion of the meeting, and the related_events and descriptions establish a clear sequential order within the narrative flow.",
+    "source_documents": [
+      "scene_36__2_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a8ea94e63de1",
+    "subject_id": "ep_0148d6e8a01b7451",
+    "object_id": "ep_b356b43076ebdec4",
+    "relation_type": "elaborates",
+    "reason": "The subject episode 'Explain Top Gun as a Humbling Mission' provides strategic rationale and background for the decision described in the object episode 'Reveal Maverick's Top Gun Assignment', expanding on Stinger's intent behind the assignment. Both episodes are grounded in the same scene (scene_36__2), and the explanation serves to elaborate the purpose of the assignment announcement.",
+    "source_documents": [
+      "scene_36__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4e74a8b28c2f",
+    "subject_id": "ep_b356b43076ebdec4",
+    "object_id": "ep_34d215ebb78caa9e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reveal Maverick's Top Gun Assignment' includes Maverick picking up the wings and Stinger delivering the news, which occurs before the sequence in 'Conclude the Meeting with Final Instructions' where Maverick salutes, is called back to return the wings, and receives a final goodwill message. The return of the wings and the closing interaction logically follow the assignment and initial reaction, establishing a clear narrative order within the same scene.",
+    "source_documents": [
+      "scene_36__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0fd809d15ccd",
+    "subject_id": "ep_ef016dc0eca2797a",
+    "object_id": "ep_f145c53ec664a49d",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Cope with missile lock stress through humor' provides additional detail about the crew's reaction during the confirmed missile lock described in 'Confirm and react to missile lock', specifically illustrating how Goose uses dark humor in that high-tension moment. This is supported by the shared event of missile lock and the inclusion of Goose's humorous remark as a specific behavioral response within the broader episode of confirming and reacting to the threat.",
+    "source_documents": [
+      "scene_14__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ce316efc7ff9",
+    "subject_id": "ep_8b56e3098fb0e18a",
+    "object_id": "ep_0148d6e8a01b7451",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Confront Maverick on Recklessness and Discipline' directly addresses Maverick's behavioral issues, which Stinger then uses as the rationale in 'Explain Top Gun as a Humbling Mission' to justify sending him to Top Gun. The second episode provides strategic context and intent that expands upon the confrontation, indicating an explanatory relationship where the object episode elaborates on the subject episode's implications.",
+    "source_documents": [
+      "scene_36__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4fc1a17ce099",
+    "subject_id": "ep_0148d6e8a01b7451",
+    "object_id": "ep_34d215ebb78caa9e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Explain Top Gun as a Humbling Mission' occurs earlier in the scene (scene_36__2) than 'Conclude the Meeting with Final Instructions', as Stinger first explains the strategic intent behind sending Maverick to Top Gun, followed by the sequence where Maverick is dismissed, salutes, returns the wings, and receives a final goodwill message. The narrative order within the same scene supports a clear 'precedes' relation.",
+    "source_documents": [
+      "scene_36__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1bbf861571c1",
+    "subject_id": "ep_8839aa90dcd37a78",
+    "object_id": "ep_427ce3423f5e8b29",
+    "relation_type": "precedes",
+    "reason": "The episode 'Execute half roll to regain upright orientation' must occur before 'Counter vertigo and maintain flight stability' because the physical correction of the aircraft's orientation (half roll) is a prerequisite for addressing the subsequent psychological disorientation (vertigo). The related events in both episodes occur in scene_32, and the sequence of actions—first correcting flight attitude, then managing the pilot's spatial disorientation—follows a logical and temporally ordered progression supported by the narrative.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_149e0f41fd26",
+    "subject_id": "ep_d039c0b576948c38",
+    "object_id": "ep_05a862db7e7c09c8",
+    "relation_type": "precedes",
+    "reason": "The RIO regaining consciousness (ep_d039c0b576948c38) is a necessary precondition for the responder to confirm his consciousness during the extraction in the silver suit episode (ep_05a862db7e7c09c8), and the related_events in the extraction episode include confirming the RIO's consciousness, implying the recovery occurs first. The narrative sequence in the shared scene supports this temporal order.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1565e37412a0",
+    "subject_id": "ep_6a79e9b403e5bd1c",
+    "object_id": "ep_7707d4987aea2abd",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves the crew confronting landing challenges due to low visibility, with Cougar expressing concern and Goose downplaying risks. The object episode occurs when Cougar reports the aircraft is upside down and unable to land, prompting Goose's response about the impossibility of remaining airborne indefinitely. The progression from concern about visibility to a full emergency suggests a temporal sequence where the initial difficulty precedes the declared emergency, supported by the narrative escalation in the related events and descriptions.",
+    "source_documents": [
+      "scene_18__2_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ab62e85dd400",
+    "subject_id": "ep_4e4e8ebe355117ad",
+    "object_id": "ep_ef016dc0eca2797a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to MiG attack on Cougar' involves Maverick detecting and pursuing the MiG that is attacking Cougar, which directly sets up the context for the object episode 'Confirm and react to missile lock', where the MiG 21 achieves missile lock on Cougar. The sequence of events—first the attack and pursuit, then the missile lock confirmation—follows a clear temporal order as supported by the related events and narrative descriptions in both episodes.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_14__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_52bc15723b06",
+    "subject_id": "ep_7707d4987aea2abd",
+    "object_id": "ep_2010286c737631c6",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Cougar's emergency distress' involves Cougar reporting the aircraft is upside down and unable to land, followed by Goose's response that they cannot remain airborne indefinitely. This establishes the initial emergency. The episode 'Prevent unnecessary ejection and commit to landing' occurs afterward, as it involves resolving the threat by convincing Cougar not to eject and to attempt landing, which logically follows the initial distress response. The sequence of events in the related scenes supports a clear temporal order.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_54ebb01839bb",
+    "subject_id": "ep_ebe3d5e27762cfc8",
+    "object_id": "ep_ef016dc0eca2797a",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Cougar acquiring an infrared lock on a MiG and reacting to it, while the object episode involves a missile lock by the MiG 21 triggering a warning tone and crew response. The infrared lock (passive tracking) typically precedes an active missile lock in aerial engagement sequences, and the related_events in the subject episode (scene_14B) occur before those in the object episode (scene_14__2), supporting a clear temporal order.",
+    "source_documents": [
+      "scene_14B_part_1",
+      "scene_14__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a1170b3fee1b",
+    "subject_id": "ep_6a79e9b403e5bd1c",
+    "object_id": "ep_2010286c737631c6",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront landing challenges in low visibility' involves the crew dealing with low visibility during landing, with events occurring in scene_18__2, while 'Prevent unnecessary ejection and commit to landing' occurs in scene_32, indicating a later narrative position. The progression from confronting landing difficulties to resolving the ejection threat and committing to land suggests a temporal sequence supported by scene ordering and narrative flow.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_18__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3bc6f77e6efd",
+    "subject_id": "ep_1f7561d7e7eca669",
+    "object_id": "ep_ef016dc0eca2797a",
+    "relation_type": "precedes",
+    "reason": "The detection of a fast-closing target (ep_1f7561d7e7eca669) initiates tactical awareness and interception preparation, which logically precedes the subsequent missile lock by the MiG 21 (ep_ef016dc0eca2797a) as confirmed by Goose. The narrative progression from detecting an inbound threat to experiencing a missile lock indicates a clear temporal sequence supported by the episode descriptions and related events.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_14__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3341ec9b2926",
+    "subject_id": "ep_4e4e8ebe355117ad",
+    "object_id": "ep_44dc7cbc6d5f06e3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to MiG attack on Cougar' involves Maverick reacting to an immediate attack on Cougar, including issuing a warning and pursuing the attacker. The episode 'Evade MiG TWO Pursuit' begins after the initial attack, with Cougar under continued pursuit by MiG TWO following disengagement of other bandits. The sequence of events—first the attack and response, then the sustained pursuit and evasion—indicates a temporal order where the response to the attack precedes the extended evasion maneuver. This is supported by the related_events and narrative flow in the descriptions.",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_54dcf2ef8e11",
+    "subject_id": "ep_8839aa90dcd37a78",
+    "object_id": "ep_2010286c737631c6",
+    "relation_type": "precedes",
+    "reason": "The episode 'Execute half roll to regain upright orientation' must occur before 'Prevent unnecessary ejection and commit to landing' because regaining stable flight is a necessary precondition for deciding against ejection and attempting a landing, as supported by the sequence of events in scene_32.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_29c1af21f54f",
+    "subject_id": "ep_4c37d8835d55fc45",
+    "object_id": "ep_2010286c737631c6",
+    "relation_type": "precedes",
+    "reason": "The threat response episode (detecting and evading the MiG 21 radar lock) occurs earlier in the narrative sequence than the decision to land due to low fuel, as indicated by the scene numbers (scene_14__2 before scene_32) and the logical progression from combat engagement to post-engagement crisis management.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_14__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2cb95eee10ed",
+    "subject_id": "ep_4333d3fdcc946cf3",
+    "object_id": "ep_8839aa90dcd37a78",
+    "relation_type": "causes",
+    "reason": "The subject episode involves Maverick instructing Cougar to perform a half roll to recover from inverted flight, and the object episode is the execution of that half roll. The description and related events show that the instruction and intervention directly trigger the recovery maneuver, establishing a clear causal link.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7ee9efad786a",
+    "subject_id": "ep_df398ad0f5db3563",
+    "object_id": "ep_ef016dc0eca2797a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to incoming aircraft threat' involves detecting and assessing a fast-approaching aircraft, which logically precedes the object episode 'Confirm and react to missile lock' where the MiG 21 achieves active missile lock. The escalation from radar detection to missile lock is supported by the sequence of events in the descriptions and related_events, indicating a temporal progression in the tactical threat level.",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_14__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_587825987f34",
+    "subject_id": "ep_c14e623a42c5150c",
+    "object_id": "ep_def1c416ded4308d",
+    "relation_type": "precedes",
+    "reason": "The subject episode, involving the aftermath of a flight incident and medical checks, occurs in scene_31, while the object episode, where Stinger calls Maverick and Goose into his room, occurs in scene_45. The narrative progression from scene_31 to scene_45 supports that the subject episode precedes the object episode in local narrative order.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a6e3f83cce5d",
+    "subject_id": "ep_28e847d02e956bc2",
+    "object_id": "ep_def1c416ded4308d",
+    "relation_type": "precedes",
+    "reason": "The encounter between Goose, Maverick, and Cougar, including the handing over of the photograph, occurs immediately before Stinger calls them into his room, as both events are described in scene_45 and the shift in focus from the emotional interaction to the summons indicates a sequential narrative order.",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ea9067bfd596",
+    "subject_id": "ep_427ce3423f5e8b29",
+    "object_id": "ep_2010286c737631c6",
+    "relation_type": "precedes",
+    "reason": "The episode 'Counter vertigo and maintain flight stability' occurs before 'Prevent unnecessary ejection and commit to landing' as Maverick first reassures Cougar about the aircraft's orientation to counter his vertigo, which then allows the subsequent decision to avoid ejection and attempt landing. The sequence of events in scene_32 supports this temporal order: disorientation is addressed before the ejection risk is resolved.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0716af0bfa66",
+    "subject_id": "ep_251f5e867cf733b6",
+    "object_id": "ep_8839aa90dcd37a78",
+    "relation_type": "precedes",
+    "reason": "Maverick's close visual guidance (subject) occurs before Cougar executes the half roll to regain upright orientation (object), as the guidance serves to stabilize Cougar prior to the physical correction. The related events and narrative flow indicate a clear temporal sequence where visual reference is provided, then the maneuver is executed.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bfe51fc5125a",
+    "subject_id": "ep_8b56e3098fb0e18a",
+    "object_id": "ep_38040e4e666e8a04",
+    "relation_type": "precedes",
+    "reason": "The confrontation with Stinger occurs in doc_46, while navigating the crowd after the aerial encounter occurs in doc_47, indicating a narrative sequence where Stinger's reprimand precedes the crew's reaction aboard the carrier. The document order and contextual flow suggest a temporal progression from disciplinary action to the subsequent social aftermath.",
+    "source_documents": [
+      "scene_37__2_part_1",
+      "scene_36__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c9b42be94d00",
+    "subject_id": "ep_c473f5544926f719",
+    "object_id": "ep_3d68d41f958e15d2",
+    "relation_type": "causes",
+    "reason": "The aircraft crash (subject) directly triggers the emergency response by the LSO and crash crew (object), as the description states the response is 'immediately after the crash' and 'initiated by deck personnel' due to the mechanical failure and physical consequences of the landing.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a3ebd74fb446",
+    "subject_id": "ep_38040e4e666e8a04",
+    "object_id": "ep_fb7f5a67f7034901",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Maverick and Goose moving through a crowd together while being questioned, which includes their presence as a pair. The object episode begins after 'separating from Goose,' indicating a sequence where the first episode must occur before the second. The narrative flow within the same scene (scene_37__2) supports a direct temporal order.",
+    "source_documents": [
+      "scene_37__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3bd1536d57c9",
+    "subject_id": "ep_4d29b29b490d9629",
+    "object_id": "ep_cf9c4f557233c03d",
+    "relation_type": "precedes",
+    "reason": "The MiG pilot's aerial confrontation occurs in scene_16 and concludes with the MiG disengaging, after which Wizard alerts Maverick about low fuel and Maverick attempts to contact Cougar—events that follow in the same scene. The narrative sequence in the shared scene_16 supports that the confrontation precedes the fuel assessment and return attempt.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_14e687929d3b",
+    "subject_id": "ep_ef016dc0eca2797a",
+    "object_id": "ep_2010286c737631c6",
+    "relation_type": "precedes",
+    "reason": "The missile lock event (ep_ef016dc0eca2797a) occurs during scene_14__2, while the decision to land due to low fuel (ep_2010286c737631c6) occurs in scene_32, indicating a clear narrative sequence where the missile lock confrontation happens earlier than the landing decision. The scene numbering and distinct contexts support a directed 'precedes' relation from missile lock to landing commitment.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_14__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_65fe53fa0571",
+    "subject_id": "ep_4333d3fdcc946cf3",
+    "object_id": "ep_251f5e867cf733b6",
+    "relation_type": "causes",
+    "reason": "The inverted flight and initiation of recovery (ep_4333d3fdcc946cf3) directly triggers Maverick's close visual guidance maneuver (ep_251f5e867cf733b6), as the description states Maverick flies wing tip to wing tip to stabilize Cougar after the inversion and during recovery efforts.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_33d9b2fd3c33",
+    "subject_id": "ep_2b2a29afaac06c9c",
+    "object_id": "ep_cf9c4f557233c03d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Maverick detects missing wingman and spots MiG' occurs during the aerial encounter, which must precede the episode 'Maverick and Wizard assess fuel and attempt return' that begins 'following the aerial encounter' and involves post-engagement actions such as fuel assessment and return attempts. The temporal sequence is supported by the narrative flow in the description of the second episode.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cff3b3db91a8",
+    "subject_id": "ep_2010286c737631c6",
+    "object_id": "ep_1db1e0a1621961f7",
+    "relation_type": "precedes",
+    "reason": "The episode 'Prevent unnecessary ejection and commit to landing' involves Cougar deciding to land instead of ejecting, which resolves the immediate crisis. The subsequent use of dark humor by Goose to defuse tension occurs after this decision, as the situation begins to stabilize, indicating a clear temporal sequence supported by the narrative flow in the shared scene.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bddb2c782cbb",
+    "subject_id": "ep_3d68d41f958e15d2",
+    "object_id": "ep_d039c0b576948c38",
+    "relation_type": "precedes",
+    "reason": "The LSO and crash crew response episode begins immediately after the crash, involving urgent communication and mobilization, while the RIO regains consciousness after being unresponsive, indicating a later point in the sequence. The crash crew's actions likely start before the RIO's recovery is observed, supporting a temporal order where the response precedes the moment of regained awareness.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_32b7e586832f",
+    "subject_id": "ep_251f5e867cf733b6",
+    "object_id": "ep_427ce3423f5e8b29",
+    "relation_type": "causes",
+    "reason": "The close visual guidance (subject) directly leads to the need to counter vertigo and maintain stability (object), as Maverick's maneuver provides the visual reference that grounds Cougar's perception, which in turn necessitates verbal reassurance when vertigo persists despite level flight. The two episodes are causally linked through the ongoing effort to stabilize Cougar, with the visual intervention prompting the subsequent psychological reinforcement.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b71f51d5443e",
+    "subject_id": "ep_2b2a29afaac06c9c",
+    "object_id": "ep_4d29b29b490d9629",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Maverick detecting the missing wingman and scanning the sky, which directly sets up the discovery of the MiG pilot. The object episode involves the subsequent close aerial confrontation with the MiG pilot, including maneuvers and interaction. The narrative flow in the shared scene (scene_16) and the causal-temporal dependency—where the detection leads into the confrontation—support that the subject episode occurs before the object episode.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9b1871548f1e",
+    "subject_id": "ep_7707d4987aea2abd",
+    "object_id": "ep_427ce3423f5e8b29",
+    "relation_type": "precedes",
+    "reason": "The emergency response episode (Goose responding to Cougar's distress) occurs during scene_24, while the vertigo counteraction episode (Maverick reassuring Cougar about flight stability) occurs in scene_32, indicating a clear narrative sequence where the distress response precedes the stabilization effort.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f7016db4d21a",
+    "subject_id": "ep_05a862db7e7c09c8",
+    "object_id": "ep_180b48e64776c3cf",
+    "relation_type": "precedes",
+    "reason": "The extraction of Goose from the cockpit (ep_05a862db7e7c09c8) must occur before Goose can be seen using humor while being led away (ep_180b48e64776c3cf), as the latter episode explicitly describes actions taken as he is being helped away, which follows the physical rescue.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_89bec2f8a070",
+    "subject_id": "ep_4333d3fdcc946cf3",
+    "object_id": "ep_427ce3423f5e8b29",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to inverted flight and initiate recovery' describes the initial event of Cougar's aircraft flipping inverted and Maverick beginning recovery guidance, which directly sets up the subsequent episode 'Counter vertigo and maintain flight stability' where Cougar, now in level flight, still experiences disorientation. The sequence of events in the shared scene (scene_32) supports a clear temporal order: inverted flight and recovery initiation precede the ongoing effort to counter vertigo after level flight is regained.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dc7b7c67f9c8",
+    "subject_id": "ep_7707d4987aea2abd",
+    "object_id": "ep_002cc0e6de6e2428",
+    "relation_type": "precedes",
+    "reason": "The emergency distress response (Cougar reporting the aircraft is upside down and Goose responding) occurs in scene_24, while the LSO's monitoring and correction of the unstable approach due to vertigo occurs in scene_28__2. The scene numbering indicates a later occurrence for the vertigo correction episode, supporting that the distress response episode precedes it in narrative order.",
+    "source_documents": [
+      "scene_28__2_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b29352b8ee04",
+    "subject_id": "ep_ef016dc0eca2797a",
+    "object_id": "ep_cbd9fd48baf118ff",
+    "relation_type": "precedes",
+    "reason": "The object episode 'Break missile lock with evasive maneuvers' describes the pilot successfully breaking the missile lock after detecting the threat, while the subject episode 'Confirm and react to missile lock' involves confirming the active lock and reporting the threat. The related events in the subject episode (e.g., MiG 21 achieving missile lock, Goose alerting crew) occur before the evasive maneuvers in the object episode, establishing a clear temporal sequence supported by the narrative order of events.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_14__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f5a6dd0c9faf",
+    "subject_id": "ep_3d68d41f958e15d2",
+    "object_id": "ep_05a862db7e7c09c8",
+    "relation_type": "precedes",
+    "reason": "The LSO and crash crew's emergency response (ep_3d68d41f958e15d2) is described as occurring immediately after the crash and involves mobilizing to secure the scene, which logically precedes the physical extraction of Goose and the RIO by the silver suit responder (ep_05a862db7e7c09c8). The related events in the second episode imply that the crash crew is already on scene, supporting a temporal sequence where response initiation comes before extraction.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_948ed4e03804",
+    "subject_id": "ep_7707d4987aea2abd",
+    "object_id": "ep_8839aa90dcd37a78",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Cougar's emergency distress' involves Cougar reporting the aircraft is upside down and Goose responding that they cannot remain airborne indefinitely, which sets up the crisis. The episode 'Execute half roll to regain upright orientation' involves Cougar performing a maneuver to recover from inverted flight, which logically and narratively follows the distress call and response. The related events in both episodes occur in sequence across scenes 24 and 32, supporting a clear temporal order where the response to the emergency precedes the physical correction maneuver.",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f48f724792d3",
+    "subject_id": "ep_21c6a16f96f47e01",
+    "object_id": "ep_6a9cd83529f98a25",
+    "relation_type": "precedes",
+    "reason": "The episode 'Cougar approaches and knocks on the commander's door' occurs before 'Cougar confronts the skipper about his emotional state' in narrative sequence, as knocking on the door (ep_21c6a16f96f47e01) is a necessary precursor to entering and confronting the skipper (ep_6a9cd83529f98a25), with both episodes grounded in consecutive scenes (scene_33 and scene_44 respectively) that imply temporal order.",
+    "source_documents": [
+      "scene_33 03_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b52694632f90",
+    "subject_id": "ep_44dc7cbc6d5f06e3",
+    "object_id": "ep_2010286c737631c6",
+    "relation_type": "precedes",
+    "reason": "The evasive maneuver against MiG TWO occurs during the combat engagement phase (doc_18), while the decision to land due to low fuel and weather occurs later, during the return phase (doc_32), indicating a clear narrative sequence where evading pursuit precedes the landing decision.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cc22c2b95465",
+    "subject_id": "ep_6a9cd83529f98a25",
+    "object_id": "ep_c14e623a42c5150c",
+    "relation_type": "precedes",
+    "reason": "The flight incident involving Maverick and Wizard, during which Cougar is seen being escorted in distress, occurs in scene_31, while Cougar's confrontation with the skipper takes place later in scene_44. The escort of Cougar in distress is a shared contextual element, and the narrative order indicates that the medical and humorous response to the flight incident precedes the private emotional breakdown with the skipper.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a22693df2bbb",
+    "subject_id": "ep_1f7561d7e7eca669",
+    "object_id": "ep_9920892dea6d587e",
+    "relation_type": "precedes",
+    "reason": "The detection of a fast-closing unknown target (ep_1f7561d7e7eca669) initiates tactical awareness and interception preparation, which logically precedes the pursuit and engagement of a fleeing MiG (ep_9920892dea6d587e) described in a later scene. The narrative sequence implied by the scene numbers (scene_8 before scene_12) and the causal-temporal dependency of identifying a threat before engaging it support this ordering.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ac251194a2c4",
+    "subject_id": "ep_9920892dea6d587e",
+    "object_id": "ep_ebe3d5e27762cfc8",
+    "relation_type": "precedes",
+    "reason": "The pursuit and engagement of the fleeing MiG (ep_9920892dea6d587e) involves Cougar initiating an aggressive maneuver and engaging afterburner to close distance, which logically precedes the subsequent episode where an infrared lock is acquired and assessed (ep_ebe3d5e27762cfc8). The related events in the first episode occur in scene_12, while those in the second occur in scene_14B, indicating a later narrative order for the assessment episode.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_14B_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0098f05f88d4",
+    "subject_id": "ep_eff88ee9db4c97e3",
+    "object_id": "ep_8839aa90dcd37a78",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Cougar's spatial disorientation crisis' involves Cougar experiencing disorientation and Goose providing real-time reassurance and instructions, including urging Cougar to trust the instruments. This directly sets up the subsequent physical execution of the half roll maneuver by Cougar under Maverick's instruction to regain upright orientation. The crisis response (subject) occurs before the corrective action (object), as the half roll is a direct response to the ongoing disorientation, supported by the sequence of events across related scenes.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d1f656857d63",
+    "subject_id": "ep_44dc7cbc6d5f06e3",
+    "object_id": "ep_ebe3d5e27762cfc8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assess and react to locked-on MiG engagement' involves Cougar acquiring a lock on a MiG and the immediate cockpit reactions, which logically precedes the subsequent pursuit by MiG TWO described in 'Evade MiG TWO Pursuit'. The related_events in the latter episode reference ongoing engagement after disengagement of bandits, implying a later point in the aerial combat sequence. This temporal ordering is supported by the narrative flow of escalating engagement: lock acquisition and assessment occurs before evasive maneuvers become necessary due to sustained pursuit.",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_14B_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9abcbff3e212",
+    "subject_id": "ep_9920892dea6d587e",
+    "object_id": "ep_ef016dc0eca2797a",
+    "relation_type": "precedes",
+    "reason": "The pursuit and engagement of the fleeing MiG (ep_9920892dea6d587e) involves Cougar initiating aggressive maneuvers and afterburner to close distance, which logically and narratively precedes the confirmation of missile lock by the MiG 21 (ep_ef016dc0eca2797a), as the lock occurs after the aircraft are in pursuit and within engagement range. The related events in the second episode (e.g., radar lock warning, inability to evade) imply the MiG has stabilized its targeting during or after the pursuit phase, supporting a temporal sequence.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_14__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7ac323d63801",
+    "subject_id": "ep_8839aa90dcd37a78",
+    "object_id": "ep_002cc0e6de6e2428",
+    "relation_type": "precedes",
+    "reason": "The half roll maneuver to regain upright flight (ep_8839aa90dcd37a78) occurs in scene_32, while the LSO's monitoring and correction of the unstable approach due to vertigo (ep_002cc0e6de6e2428) occurs in scene_28__2. Since scene_32 comes after scene_28__2 in narrative order, the Execute half roll episode precedes the Monitor and correct unstable approach episode in the local narrative sequence.",
+    "source_documents": [
+      "scene_28__2_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0c058945df85",
+    "subject_id": "ep_4e4e8ebe355117ad",
+    "object_id": "ep_38040e4e666e8a04",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to MiG attack on Cougar' involves Maverick reacting to an immediate aerial threat, which logically and chronologically precedes the subsequent episode 'Navigate crowd and respond to inquiries after aerial encounter', where Maverick and Goose face questioning from aircrews after the engagement. The latter episode explicitly references the 'recent aerial engagement', indicating it occurs after the events of the former.",
+    "source_documents": [
+      "scene_37__2_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d83085032ef1",
+    "subject_id": "ep_28e847d02e956bc2",
+    "object_id": "ep_6a9cd83529f98a25",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Cougar and deliver family photograph' occurs in doc_45, while 'Cougar confronts the skipper about his emotional state' occurs in doc_44. Despite the reverse document order, the emotional progression—Cougar receiving the photograph after already expressing psychological distress to the skipper—suggests the skipper confrontation happens first. The photograph handover appears as a subsequent attempt at emotional closure, implying a narrative sequence where the skipper confrontation precedes the photograph exchange. However, document IDs suggest reverse order, but narrative causality and emotional arc support ep_6a9cd83529f98a25 preceding ep_28e847d02e956bc2. Given the grounding in emotional cause and effect, and the logical progression from collapse to attempted reconciliation, the relation 'precedes' is supported with strong but slightly indirect evidence.",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_424a8868e93e",
+    "subject_id": "ep_2b2a29afaac06c9c",
+    "object_id": "ep_4e4e8ebe355117ad",
+    "relation_type": "precedes",
+    "reason": "Maverick first detects the missing wingman and spots the MiG (ep_2b2a29afaac06c9c), which sets the stage for his subsequent response to the MiG attack on Cougar (ep_4e4e8ebe355117ad). The discovery in the first episode logically precedes the active pursuit and protective response in the second, as the awareness of the MiG's presence is necessary before reacting to its attack.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9328f9da976d",
+    "subject_id": "ep_4e4e8ebe355117ad",
+    "object_id": "ep_cf9c4f557233c03d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to MiG attack on Cougar' occurs during scene_13, where Maverick engages an enemy MiG attacking Cougar. The object episode 'Maverick and Wizard assess fuel and attempt return' occurs in scene_16, where post-engagement fuel concerns arise and Maverick attempts to contact Cougar. The clear scene progression from 13 to 16 supports a direct narrative order where the MiG response precedes the fuel assessment and return attempt.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9907372ce09d",
+    "subject_id": "ep_2b2a29afaac06c9c",
+    "object_id": "ep_38040e4e666e8a04",
+    "relation_type": "precedes",
+    "reason": "The episode where Maverick detects the missing wingman and spots the MiG (ep_2b2a29afaac06c9c) occurs during the aerial engagement, which logically precedes the episode where Maverick and Goose navigate the crowd and respond to inquiries about the encounter (ep_38040e4e666e8a04) on the aircraft carrier. The latter episode explicitly references the 'recent aerial engagement,' indicating a temporal sequence.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_37__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4053fccb84c4",
+    "subject_id": "ep_4d29b29b490d9629",
+    "object_id": "ep_38040e4e666e8a04",
+    "relation_type": "precedes",
+    "reason": "The MiG pilot's aerial confrontation (ep_4d29b29b490d9629) occurs during the flight engagement, which directly precedes Maverick and Goose navigating the crowd and being questioned about the encounter (ep_38040e4e666e8a04) upon returning to the aircraft carrier. The description of the second episode explicitly references the 'recent aerial engagement,' indicating a clear temporal sequence.",
+    "source_documents": [
+      "scene_37__2_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_cda69b0122f2",
+    "subject_id": "ep_44dc7cbc6d5f06e3",
+    "object_id": "ep_cf9c4f557233c03d",
+    "relation_type": "precedes",
+    "reason": "The evasive maneuver by Cougar occurs during the aerial encounter, while Maverick and Wizard's assessment of fuel and attempt to return happens afterward, as it follows the conclusion of the aerial engagement. The sequence is supported by the narrative flow: evasive actions take place during combat, and fuel concerns arise post-engagement when attempting to return to the carrier.",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6c74ec309e9f",
+    "subject_id": "ep_4333d3fdcc946cf3",
+    "object_id": "ep_44dc7cbc6d5f06e3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to inverted flight and initiate recovery' involves Maverick guiding Cougar through recovery from an unexpected inverted flight, establishing an initial crisis context. The episode 'Evade MiG TWO Pursuit' occurs afterward, as Cougar remains in the fight and is pursued by MiG TWO, requiring further evasive maneuvers under Maverick's instructions. The sequence is supported by the narrative flow where recovery from disorientation precedes continued engagement and subsequent evasion, with no indication of overlap or reversal in order.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5478c30354f9",
+    "subject_id": "ep_7707d4987aea2abd",
+    "object_id": "ep_d03be090aa380413",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Respond to Cougar's emergency distress' involves real-time radio communication during an in-flight emergency, while the object episode 'Extract and evacuate after emergency landing' describes post-landing actions including evacuation and aircraft stabilization. The sequence of events—distress response followed by extraction and evacuation—indicates a clear temporal order supported by the narrative progression from in-flight crisis to aftermath.",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_52d31fecab1a",
+    "subject_id": "ep_251f5e867cf733b6",
+    "object_id": "ep_cf9c4f557233c03d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Provide close visual guidance for orientation' involves Maverick assisting Cougar during an in-flight crisis, which logically occurs before the subsequent episode 'Maverick and Wizard assess fuel and attempt return', where post-engagement fuel concerns and communication attempts with Cougar are addressed. The sequence is supported by the narrative flow: visual stabilization comes before assessing return conditions, and the lack of response from Cougar in the second episode suggests a temporal progression after the close-formation maneuver.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e62200fe73b7",
+    "subject_id": "ep_427ce3423f5e8b29",
+    "object_id": "ep_cf9c4f557233c03d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Counter vertigo and maintain flight stability' occurs during an active aerial disorientation event involving Cougar, with Maverick providing real-time reassurance. The episode 'Maverick and Wizard assess fuel and attempt return' takes place after the aerial encounter, when Wizard reports low fuel and Maverick tries to contact Cougar for return. The sequence implied by the narrative context—resolving in-flight crisis before addressing return logistics—supports a temporal order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_eac6311cc46d",
+    "subject_id": "ep_7707d4987aea2abd",
+    "object_id": "ep_05a862db7e7c09c8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Cougar's emergency distress' involves a radio exchange during an in-flight emergency, which logically precedes the physical rescue of the crew members described in 'Silver Suit rescues RIO and extracts Goose'. The distress call (scene_24) occurs before the crash response and extraction (scene_34), establishing a clear temporal sequence supported by the narrative order of events.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8070cbac4e42",
+    "subject_id": "ep_7707d4987aea2abd",
+    "object_id": "ep_3d68d41f958e15d2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Cougar's emergency distress' involves an in-flight emergency where the aircraft is upside down and cannot land, which logically precedes the episode 'LSO and crash crew respond to emergency' that occurs immediately after the crash. The sequence is supported by the narrative progression from in-flight distress to post-crash response, with the crash being the intervening event that links the two episodes temporally.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_585ec1ee8e98",
+    "subject_id": "ep_7707d4987aea2abd",
+    "object_id": "ep_180b48e64776c3cf",
+    "relation_type": "contrasts_with",
+    "reason": "The episode 'Respond to Cougar's emergency distress' involves a serious, high-stakes communication during an in-flight emergency, while 'Goose uses humor to cope with trauma' depicts Goose employing comedy immediately after the incident to manage emotional distress. The tone of urgent crisis in the first contrasts with the use of levity in the aftermath in the second, creating a juxtaposition in emotional response to trauma.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_762517201393",
+    "subject_id": "ep_7707d4987aea2abd",
+    "object_id": "ep_1db1e0a1621961f7",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Cougar's emergency distress' involves an urgent in-flight crisis and radio communication during scene_24, while 'Defuse tension with dark humor under pressure' occurs after the situation stabilizes, indicating a later point in the narrative sequence. The shift from emergency response to tension relief via humor implies a temporal progression where the response precedes the humor-based de-escalation.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1fe540c5c86c",
+    "subject_id": "ep_eff88ee9db4c97e3",
+    "object_id": "ep_d03be090aa380413",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to Cougar's spatial disorientation crisis' occurs during flight (scene_21), while 'Extract and evacuate after emergency landing' follows an emergency landing (scene_36), with scene numbers indicating a later narrative order. The spatial disorientation event logically precedes the emergency landing and evacuation, as the crisis during flight leads to the subsequent emergency response and evacuation.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d3664bf299e2",
+    "subject_id": "ep_ebe3d5e27762cfc8",
+    "object_id": "ep_f145c53ec664a49d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assess and react to locked-on MiG engagement' includes Cougar acquiring an infrared lock and discussing the enemy's behavior, which sets the tactical context prior to the moment in 'Cope with missile lock stress through humor' where Goose responds to confirmed missile lock with dark humor. The sequence of events suggests a temporal progression from target acquisition and assessment to heightened stress during missile lock, supporting a 'precedes' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_14B_part_1",
+      "scene_14__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_974fd170e4fa",
+    "subject_id": "ep_c14e623a42c5150c",
+    "object_id": "ep_d03be090aa380413",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes the immediate aftermath of a high-speed maneuver and engine flameout, including medical checks and humor from Goose, occurring in scene_31. The object episode involves evacuation and recovery actions after an emergency landing, including foam deployment and retrieval of personal items, occurring in scene_36. The progression from scene_31 to scene_36 in the narrative order indicates that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f01606471ff3",
+    "subject_id": "ep_1f7561d7e7eca669",
+    "object_id": "ep_df398ad0f5db3563",
+    "relation_type": "elaborates",
+    "reason": "The subject episode describes the initial detection of a fast-closing target during a routine flight, with specific tactical details such as bearing, distance, and closure speed. The object episode describes a broader response to an incoming aircraft threat, including radar detection, visual search, and communication with allies. The subject episode provides more granular, evidence-grounded details that expand on the early phase of the object episode's tactical response, suggesting it elaborates on how the threat detection unfolds within the larger threat response episode.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_9097881b1153",
+    "subject_id": "ep_d03be090aa380413",
+    "object_id": "ep_28e847d02e956bc2",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Extract and evacuate after emergency landing' includes the retrieval of Cougar's photograph by Goose, which provides contextual background for the subsequent emotional gesture in 'Confront Cougar and deliver family photograph', where the photograph is returned. The first episode elaborates on the origin of the photograph's reappearance, enriching the narrative significance of the later episode.",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8db91a9bfc77",
+    "subject_id": "ep_6a79e9b403e5bd1c",
+    "object_id": "ep_d03be090aa380413",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves the crew confronting landing challenges in low visibility, which logically and narratively occurs before the object episode, where an emergency landing has already taken place and evacuation procedures are underway. The sequence of events implies a temporal order: difficulty during landing (subject) precedes the post-landing evacuation and recovery actions (object), as supported by the descriptions and related events in both episodes.",
+    "source_documents": [
+      "scene_18__2_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ee15e6bc3c78",
+    "subject_id": "ep_05a862db7e7c09c8",
+    "object_id": "ep_d03be090aa380413",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves the physical rescue of RIO and Goose from the damaged aircraft, which logically and chronologically precedes the object episode that describes the subsequent evacuation, recovery of personal effects, and aircraft stabilization. The related events in the object episode, such as personnel escorting Goose away and retrieving Cougar's photograph, occur after extraction, supporting a directed 'precedes' relation from the rescue to the evacuation.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_539396d24404",
+    "subject_id": "ep_1db1e0a1621961f7",
+    "object_id": "ep_d03be090aa380413",
+    "relation_type": "precedes",
+    "reason": "The dark humor episode occurs as the situation stabilizes during flight, while the evacuation episode follows an emergency landing and involves post-landing actions such as extracting Cougar and deploying foam. The narrative sequence implied by the events—joking during flight before an emergency landing and subsequent evacuation—supports a 'precedes' relation from the humor episode to the evacuation episode.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_98ecd745d2f6",
+    "subject_id": "ep_2010286c737631c6",
+    "object_id": "ep_d03be090aa380413",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves preventing ejection and committing to land due to low fuel and weather, which concludes with Cougar agreeing to land. The object episode describes the aftermath of an emergency landing, including evacuation and aircraft stabilization. The sequence of events—first deciding to land, then being evacuated after the landing—indicates a clear temporal order where the subject episode occurs before the object episode.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8027c0dfac6b",
+    "subject_id": "ep_d03be090aa380413",
+    "object_id": "ep_def1c416ded4308d",
+    "relation_type": "precedes",
+    "reason": "The emergency landing and evacuation episode (ep_d03be090aa380413) involves immediate aftermath actions including assisting Cougar and securing the aircraft, while the subsequent episode (ep_def1c416ded4308d) depicts Stinger summoning Maverick and Goose to shift focus to operational duties. The narrative progression from post-incident response to re-engagement with command suggests a temporal sequence where the first episode concludes before the call to action in the second begins, supported by the shift from emotional resolution to duty resumption.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_14f0a958a308",
+    "subject_id": "ep_2010286c737631c6",
+    "object_id": "ep_def1c416ded4308d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Prevent unnecessary ejection and commit to landing' occurs during scene_32, while 'Respond to Stinger's summons' occurs in scene_45, indicating a clear narrative sequence where the former precedes the latter based on scene ordering.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b5fbd46fe312",
+    "subject_id": "ep_28e847d02e956bc2",
+    "object_id": "ep_38040e4e666e8a04",
+    "relation_type": "precedes",
+    "reason": "The confrontation with Cougar occurs immediately after Stinger's death and before the aerial encounter with MiGs, while the navigation through the crowd takes place after the aerial engagement, as indicated by the sequence of scenes and the narrative progression from personal loss to public scrutiny. Thus, the first episode precedes the second in the local narrative order.",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_37__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f975b1c9acf7",
+    "subject_id": "ep_180b48e64776c3cf",
+    "object_id": "ep_d03be090aa380413",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Goose uses humor during the immediate aftermath of the crash while being helped away and performing a Desi Arnaz impression, occurs in doc_34. The object episode, detailing the evacuation, retrieval of Cougar's photograph, and aircraft foam deployment, occurs in doc_36. The narrative progression across documents indicates that the humor episode precedes the more structured evacuation and recovery episode, with overlapping actions (being escorted away) suggesting tight temporal sequencing.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ed86ef741b6e",
+    "subject_id": "ep_6a79e9b403e5bd1c",
+    "object_id": "ep_c473f5544926f719",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront landing challenges in low visibility' describes the crew's reaction during the approach and decision-making prior to landing, while 'Aircraft arrested and crashes on carrier deck' details the physical events immediately upon touchdown, including gear collapse and crash. The former logically and temporally precedes the latter in the narrative sequence of the landing attempt.",
+    "source_documents": [
+      "scene_18__2_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4d481b219f17",
+    "subject_id": "ep_c473f5544926f719",
+    "object_id": "ep_d03be090aa380413",
+    "relation_type": "precedes",
+    "reason": "The aircraft crash on the carrier deck (ep_c473f5544926f719) directly sets the context for the subsequent evacuation and recovery actions in ep_d03be090aa380413, including extracting personnel, retrieving personal items, and foam deployment. The events in the second episode, such as Goose retrieving the photograph and firefighters responding, logically follow the mechanical failure and crash described in the first episode. The narrative sequence and event dependencies indicate a clear temporal order where the crash must occur before the emergency response can unfold.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ba0556ba129d",
+    "subject_id": "ep_3d68d41f958e15d2",
+    "object_id": "ep_d03be090aa380413",
+    "relation_type": "precedes",
+    "reason": "The LSO and crash crew response (ep_3d68d41f958e15d2) occurs immediately after the crash and involves initial emergency coordination, while the extraction and evacuation episode (ep_d03be090aa380413) includes actions such as retrieving personal items and escorting personnel away, which logically follow the initial response. The sequence of events—first securing the scene, then evacuating individuals and stabilizing the aircraft—supports a 'precedes' relation from the initial response to the subsequent evacuation activities.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cbd81dfa5ea5",
+    "subject_id": "ep_6a79e9b403e5bd1c",
+    "object_id": "ep_1db1e0a1621961f7",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront landing challenges in low visibility' involves the crew dealing with active landing difficulties and interpersonal tension during the approach, while 'Defuse tension with dark humor under pressure' occurs as the situation stabilizes, indicating a later point in the narrative sequence. The shift from operational stress to using humor to relieve tension suggests a temporal progression where the challenge precedes its emotional aftermath.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_18__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_315062fde11b",
+    "subject_id": "ep_180b48e64776c3cf",
+    "object_id": "ep_28e847d02e956bc2",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode shows Goose using humor to cope with trauma immediately after a crash, displaying emotional deflection and control. The second episode depicts a solemn, silent exchange where Goose offers a family photograph to Cougar, emphasizing empathy and emotional vulnerability. These episodes are juxtaposed in tone—one using humor to manage fear, the other engaging with grief directly—supporting a contrast in emotional response to trauma.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_37a80158fc9c",
+    "subject_id": "ep_1db1e0a1621961f7",
+    "object_id": "ep_c14e623a42c5150c",
+    "relation_type": "elaborates",
+    "reason": "The subject episode 'Defuse tension with dark humor under pressure' focuses on Goose using dark humor about losing his head if Cougar ejects, which is a specific instance of the broader sequence in the object episode 'Respond to flight incident with humor and medical checks' where multiple humorous and medical responses occur after the flight incident. The subject episode provides a focused expansion of the humor aspect already present in the object episode, particularly following the medical check context, thus elaborating on it.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ecea26b188bd",
+    "subject_id": "ep_180b48e64776c3cf",
+    "object_id": "ep_f145c53ec664a49d",
+    "relation_type": "contrasts_with",
+    "reason": "Both episodes depict Goose using humor under stress, but in markedly different contexts: one during a post-crash emergency with a comedic impression for authority figures, the other during a missile lock with dark, irreverent humor. The tonal and situational differences—public performance vs. private crew tension—juxtapose two modes of humor-as-coping, highlighting a contrast in expression under trauma.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_14__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_31dbbbd958b2",
+    "subject_id": "ep_6a79e9b403e5bd1c",
+    "object_id": "ep_3d68d41f958e15d2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront landing challenges in low visibility' describes the crew's experience during the landing attempt, which logically occurs before the emergency response depicted in 'LSO and crash crew respond to emergency' that follows immediately after the crash. The related events in the first episode occur during the approach (scene_18__2), while the second episode's events occur post-crash (scene_34), supporting a clear temporal sequence.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_18__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_53990805deb5",
+    "subject_id": "ep_427ce3423f5e8b29",
+    "object_id": "ep_1db1e0a1621961f7",
+    "relation_type": "precedes",
+    "reason": "The episode 'Counter vertigo and maintain flight stability' involves Cougar's ongoing disorientation and Maverick's real-time reassurance during flight, which must occur before the subsequent tension relief via dark humor by Goose once the situation begins to stabilize, as indicated by the narrative progression in the descriptions.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_14de68136d2e",
+    "subject_id": "ep_2010286c737631c6",
+    "object_id": "ep_180b48e64776c3cf",
+    "relation_type": "precedes",
+    "reason": "The episode 'Prevent unnecessary ejection and commit to landing' (doc_32) occurs in scene_32, while 'Goose uses humor to cope with trauma' (doc_34) occurs in scene_34. The document IDs and scene numbers indicate a clear narrative order where the events in doc_32 precede those in doc_34.",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d3084d4a42f1",
+    "subject_id": "ep_2010286c737631c6",
+    "object_id": "ep_c473f5544926f719",
+    "relation_type": "precedes",
+    "reason": "The episode 'Prevent unnecessary ejection and commit to landing' involves the decision to land due to low fuel and weather, which must occur before the physical landing and subsequent crash described in 'Aircraft arrested and crashes on carrier deck'. The related events in the first episode (e.g., Cougar deciding to attempt landing) temporally precede the events in the second episode (e.g., aircraft hook catching the wire and gear collapsing), establishing a clear narrative sequence.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e9460b78bcfa",
+    "subject_id": "ep_002cc0e6de6e2428",
+    "object_id": "ep_15306ede4ef1215a",
+    "relation_type": "causes",
+    "reason": "The unstable approach due to pilot vertigo, which the LSO attempts to correct, leads directly to the Tomcat descending uncontrollably toward the flight deck, prompting the LSO team and deck crew to evacuate to avoid collision. The causal chain is supported by the shared context in scene_28__2 and the progression from corrective actions to emergency evasion.",
+    "source_documents": [
+      "scene_28__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bea7daa87473",
+    "subject_id": "ep_251f5e867cf733b6",
+    "object_id": "ep_2010286c737631c6",
+    "relation_type": "causes",
+    "reason": "Maverick's close visual guidance (flying wing tip to wing tip) directly stabilizes Cougar's perception and decision-making, which leads to Cougar deciding against ejection and agreeing to attempt landing. The description of ep_2010286c737631c6 states that the decision to land resolves the immediate threat, implying a causal sequence where the visual guidance enables the resolution in the second episode.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_426e94b576fd",
+    "subject_id": "ep_2725896f9c194198",
+    "object_id": "ep_15306ede4ef1215a",
+    "relation_type": "causes",
+    "reason": "The uncontrolled descent of the Tomcat due to wind shear and failed wave-off (subject) directly triggers the LSO team and deck crew to evacuate the flight deck to avoid collision (object), as both episodes are causally linked in the same scene with clear cause (dangerous aircraft descent) and effect (evacuation for safety).",
+    "source_documents": [
+      "scene_28__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7512f0547682",
+    "subject_id": "ep_be55c1222e8617df",
+    "object_id": "ep_002cc0e6de6e2428",
+    "relation_type": "precedes",
+    "reason": "The episode 'Execute pilot drop-off and observation pattern' occurs before 'Monitor and correct unstable approach due to pilot vertigo' in the narrative sequence, as Maverick must first drop off the pilot into the landing pattern before the LSO can monitor and correct the subsequent unstable approach caused by vertigo.",
+    "source_documents": [
+      "scene_28__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fa5ab138d24a",
+    "subject_id": "ep_2725896f9c194198",
+    "object_id": "ep_3d68d41f958e15d2",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes the uncontrolled descent and wave-off attempt immediately before the crash, while the object episode begins 'immediately after the crash' with emergency response actions. The temporal sequence is explicitly supported by the description of the object episode following the crash event, which is the direct outcome of the subject episode's uncontrolled descent.",
+    "source_documents": [
+      "scene_28__2_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_737c58e26671",
+    "subject_id": "ep_002cc0e6de6e2428",
+    "object_id": "ep_3d68d41f958e15d2",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves the LSO attempting to correct an unstable approach due to pilot vertigo, which occurs during the landing approach phase. The object episode describes the immediate response after the crash, including LSO communication and crash crew mobilization. The sequence of events implies a temporal order where the failed correction attempt precedes the emergency response, as supported by the narrative flow from an unstable approach to post-crash actions.",
+    "source_documents": [
+      "scene_28__2_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2ac58c4b48b7",
+    "subject_id": "ep_4333d3fdcc946cf3",
+    "object_id": "ep_2010286c737631c6",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to inverted flight and initiate recovery' occurs first, as it describes the initial crisis when Cougar's aircraft flips inverted and Maverick begins guiding recovery. This is followed by 'Prevent unnecessary ejection and commit to landing', where the crew addresses the risk of ejection due to low fuel and weather, leading Cougar to agree to land. The sequence of events in the shared scene (scene_32) supports a clear temporal order: inverted flight and recovery initiation precede the decision to avoid ejection and commit to landing.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a458b7091698",
+    "subject_id": "ep_251f5e867cf733b6",
+    "object_id": "ep_c14e623a42c5150c",
+    "relation_type": "precedes",
+    "reason": "The event of Maverick flying wing tip to wing tip with Cougar's aircraft (ep_251f5e867cf733b6) occurs during scene_32, while the events in ep_c14e623a42c5150c, including Cougar being escorted in distress and the flameout incident, are tied to scene_31. Since scene_31 precedes scene_32, the subject episode follows the object episode in narrative order, meaning the object episode precedes the subject episode. However, the relation 'precedes' is directed, and the subject is ep_251f5e867cf733b6, so to maintain subject->object direction, it would be incorrect. Therefore, the correct directional interpretation is that the object episode (ep_c14e623a42c5150c) precedes the subject episode (ep_251f5e867cf733b6). But since the schema requires the relation to be from subject to object, and the subject does not precede the object, the correct relation cannot be 'precedes' in that direction. Given this, no valid directed relation is supported in the subject->object direction, and no symmetric relation applies. Thus, despite chronological order, the directional constraint prevents valid 'precedes' assertion from subject to object. After reevaluation: the description of ep_251f5e867cf733b6 references Cougar's distress as prior context, and the flameout and escort events (in ep_c14e623a42c5150c) are in scene_31, while the visual guidance occurs in scene_32. Therefore, ep_c14e623a42c5150c (object) happens before ep_251f5e867cf733b6 (subject), so subject does not precede object. Hence, 'precedes' cannot be justified in the required direction. No other relation is supported. Therefore, the only valid output is NONE due to directionality mismatch.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b1f24859eb33",
+    "subject_id": "ep_2010286c737631c6",
+    "object_id": "ep_c9a4b965db9dfa6f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Prevent unnecessary ejection and commit to landing' involves Cougar deciding to attempt a landing due to low fuel and weather, which establishes the decision to land. The episode 'Execute final approach and landing sequence' involves the actual performance of the landing under guidance, including control adjustments and communication with the LSO. The commitment to land must logically precede the execution of the landing sequence, and the related events in the first episode (e.g., Cougar agreeing to attempt landing) set the stage for the actions in the second. This temporal ordering is supported by the narrative flow implied in the descriptions and events.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_30__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e8debebf408e",
+    "subject_id": "ep_15306ede4ef1215a",
+    "object_id": "ep_3d68d41f958e15d2",
+    "relation_type": "precedes",
+    "reason": "The evacuation of the flight deck occurs as the Tomcat descends uncontrollably toward the deck, immediately before the crash. The LSO and crash crew response is triggered after the crash, as indicated by 'immediately after the crash' in the description of ep_3d68d41f958e15d2. Thus, the evacuation episode precedes the emergency response episode in clear temporal sequence.",
+    "source_documents": [
+      "scene_28__2_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b71bb31166db",
+    "subject_id": "ep_4333d3fdcc946cf3",
+    "object_id": "ep_cf9c4f557233c03d",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Cougar's aircraft flipping into inverted flight and Maverick initiating recovery, which occurs during scene_32. The object episode involves Wizard alerting Maverick about low fuel and Maverick attempting to contact Cougar for return, which occurs during scene_16. Since scene_16 precedes scene_32 in narrative order, the object episode actually occurs earlier. However, the subject episode describes a later event in the timeline. Therefore, the correct temporal relation is object precedes subject. But since the relation_type 'precedes' is directed and the subject is listed first, the only justifiable directed relation is if subject precedes object, which is not supported. Hence, no valid directed 'precedes' relation can be asserted from subject to object. After re-evaluation, the scene numbers indicate that ep_cf9c4f557233c03d (scene_16) occurs before ep_4333d3fdcc946cf3 (scene_32), so the subject episode does not precede the object episode. Thus, the 'precedes' relation cannot be correctly assigned in the subject->object direction. Given that no other relation type is supported, and the temporal order contradicts the subject->object direction, the correct output is NONE. However, this contradicts the initial confidence. Correction: since the object episode occurs earlier (scene_16) than the subject episode (scene_32), the subject episode does NOT precede the object episode. Therefore, 'precedes' in the subject->object direction is false. No other relation is supported. Final decision: NONE.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a82ec1a0d830",
+    "subject_id": "ep_c14e623a42c5150c",
+    "object_id": "ep_c9a4b965db9dfa6f",
+    "relation_type": "precedes",
+    "reason": "The subject episode, involving the aftermath of a high-speed maneuver and medical checks, occurs in scene_31, while the object episode, covering the final approach and landing, occurs in scene_30__2. The scene numbering indicates that the landing sequence (scene_30__2) precedes the incident and its aftermath (scene_31), supporting the relation that the object episode precedes the subject episode. However, since the relation_type 'precedes' is directed and the subject is listed first, the correct directional assignment is subject -> object only if subject occurs before object. Given the scene order, the subject episode actually occurs after the object episode, so the correct temporal order is object -> subject. But because the schema allows 'precedes' as a directed relation and the subject must precede the object for subject->object to hold, and it does not, the only justifiable relation is 'precedes' in the reverse temporal order. However, since we cannot invert the subject-object directionality in the output structure, and the subject (ep_c14e623a42c5150c) does not precede the object (ep_c9a4b965db9dfa6f), the relation cannot be 'precedes' from subject to object. Therefore, no valid directed relation is supported in the subject->object direction. After re-evaluation: the scene IDs show that the object episode (scene_30__2) occurs before the subject episode (scene_31), meaning the subject episode does not precede the object. No causal, contrastive, or elaborative link is explicitly supported. Thus, despite clear temporal order, the directionality constraint prevents assigning 'precedes' from subject to object. Hence, no valid relation can be asserted in the given direction.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_30__2_part_1"
+    ],
+    "confidence": 0.85
+  }
+]

@@ -1,0 +1,89 @@
+{
+  "character": "Hicks",
+  "qas": [
+    {
+      "question": "Why couldn't you use your torch during the escape from the room where the creatures detached?",
+      "supporting_facts": [
+        "Hicks' torch is empty",
+        "Hicks entered a room just as creatures detached from handholds"
+      ],
+      "contradicting_facts": [
+        "Your torch was functional when you entered the room",
+        "You left the torch behind because it was damaged"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Did you coordinate with Wierzbowski before taking action on the upper level?",
+      "supporting_facts": [
+        "You did not verbally communicate with Wierzbowski to signal.",
+        "Your actions proceeded without explicit coordination."
+      ],
+      "contradicting_facts": [
+        "You signaled to Wierzbowski before cutting through the barrier.",
+        "You waited for Wierzbowski's response before acting."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You had knowledge of the available weapons—how did that influence your actions during entry?",
+      "supporting_facts": [
+        "You were aware of the weapon inventory prior to or during entry",
+        "Your use of force was consistent with available armament knowledge"
+      ],
+      "contradicting_facts": [
+        "You acted without knowledge of what weapons were available",
+        "You hesitated because you were unsure about weapon access"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you keep the torch functional for use during the mission?",
+      "supporting_facts": [
+        "you do not retain a functional torch",
+        "any use of a torch would require external or alternative sources"
+      ],
+      "contradicting_facts": [
+        "you had a working torch available for navigation",
+        "you maintained the torch in operational condition"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were with Ripley in a dark corridor sealing an air duct—what was your priority in that moment?",
+      "supporting_facts": [
+        "Hicks is present with Ripley while sealing an air duct with a metal plate",
+        "Hicks did not leave Ripley unshielded during the incident"
+      ],
+      "contradicting_facts": [
+        "Hicks focused on escaping the corridor alone",
+        "Hicks left Ripley to handle the duct sealing independently"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Were you prepared with your equipment when the alarm sounded?",
+      "supporting_facts": [
+        "You did not leave your equipment unaccessed.",
+        "You opened a sheath on your harness as part of your response."
+      ],
+      "contradicting_facts": [
+        "You were caught off guard without access to your gear.",
+        "Your equipment remained secured and untouched during the alarm."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Were you positioned at the front of the group while moving through the air shaft?",
+      "supporting_facts": [
+        "You were positioned in the rearguard during the group's movement",
+        "Your role was to cover the rear during the air shaft traversal"
+      ],
+      "contradicting_facts": [
+        "You led the group through the air shaft",
+        "You were in the front position during movement"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

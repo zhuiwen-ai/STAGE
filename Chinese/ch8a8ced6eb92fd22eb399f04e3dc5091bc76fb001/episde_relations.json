@@ -1,0 +1,5866 @@
+[
+  {
+    "id": "rel_ep_ep_90ec13ed00d7",
+    "subject_id": "ep_d6e1649930d19c4e",
+    "object_id": "ep_dbd77df9b29fd90c",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在 scene_47，且白雪梅设定平等交往界限（要求直呼其名）在对话中先发生，黄德诚随后赠送书籍并告别，叙事顺序上存在明确的先后关系。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ed488c6882c5",
+    "subject_id": "ep_37308af7dfc8bddc",
+    "object_id": "ep_dbd77df9b29fd90c",
+    "relation_type": "precedes",
+    "reason": "黄德诚与白雪梅建立联系发生在黄德诚赠送书籍并告别之前，两个情节均发生在scene_47，且建立联系是互动的初始阶段，赠送书籍和告别是后续行为，叙事顺序上具有明确先后关系。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b8e66bd12d04",
+    "subject_id": "ep_37308af7dfc8bddc",
+    "object_id": "ep_d6e1649930d19c4e",
+    "relation_type": "precedes",
+    "reason": "黄德诚与白雪梅建立联系发生在白雪梅设定平等交往界限之前，根据描述，两人先建立初步信任关系，随后白雪梅在交谈中提出直呼其名的要求，体现叙事顺序上的先后。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cc5ccfe7cc50",
+    "subject_id": "ep_ca65891ed1b885f2",
+    "object_id": "ep_a62b178091b2db6b",
+    "relation_type": "precedes",
+    "reason": "白雪梅初次求放并下跪祈求发生在黄德贵提出留下换善待的条件之前，因为她的请求触发了黄德贵以条件回应，叙事顺序上前者先于后者。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_479464cfdf7f",
+    "subject_id": "ep_a62b178091b2db6b",
+    "object_id": "ep_3e0fadfef82b272c",
+    "relation_type": "causes",
+    "reason": "黄德贵提出留下换善待的条件直接引发了白雪梅断然拒绝被囚禁的反应，文本描述中明确显示其情绪突变和反抗意志的触发是对该条件的直接回应。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_959b465611e0",
+    "subject_id": "ep_37308af7dfc8bddc",
+    "object_id": "ep_56bcd9d527b3bd17",
+    "relation_type": "precedes",
+    "reason": "黄德诚与白雪梅建立联系发生在众人交谈期间，而白雪梅独处时表达内心状态是在众人交谈结束、黄德诚离开之后，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dc392b621507",
+    "subject_id": "ep_99a34ff897090e2a",
+    "object_id": "ep_f1845e82a25ec04b",
+    "relation_type": "precedes",
+    "reason": "黄德贵初次侵犯白雪梅并遭反抗发生在黄德贵父母协助实施暴力并退出房间之前，两个情节均发生在scene_18，且第一个情节中黄德贵尚在单独行动，第二个情节中其父母介入后离开，叙事顺序清晰。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b9be48900696",
+    "subject_id": "ep_d639949b69161206",
+    "object_id": "ep_3e0fadfef82b272c",
+    "relation_type": "precedes",
+    "reason": "黄德贵提供食物并建立控制发生在白雪梅断然拒绝被囚禁之前，根据场景顺序，黄德贵先递上面条展示主导地位，随后白雪梅情绪突变并拒绝留下，叙事上有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b962862ad04d",
+    "subject_id": "ep_d639949b69161206",
+    "object_id": "ep_347bfe5f5c52031a",
+    "relation_type": "precedes",
+    "reason": "黄德贵提供食物并建立控制发生在白雪梅提议赎身并遭拒之前，根据场景15中的事件顺序，递上面条的行为早于赎身提议的提出，因此该关系在叙事顺序上成立。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2f4f51fe229b",
+    "subject_id": "ep_a62b178091b2db6b",
+    "object_id": "ep_d639949b69161206",
+    "relation_type": "precedes",
+    "reason": "黄德贵提出留下换善待的条件发生在递上面条和建立控制之前，两者均在scene_15中，但提出条件是对话的起始行为，随后通过提供食物强化控制，叙事顺序支持该时序关系。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_abf45d09a0f6",
+    "subject_id": "ep_592985af98e81fac",
+    "object_id": "ep_a00f40bb9fab6896",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中白雪梅和胡姐通过表达疲惫建立情感共鸣，为后续白雪梅表达还债焦虑和胡姐给予希望提供了情感基础和对话信任氛围；第二个情节在此基础上进一步展开心理层面的互动，回应并深化了前一情节所建立的情感语境。",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6d45f7fbf93c",
+    "subject_id": "ep_592985af98e81fac",
+    "object_id": "ep_9a099077cbc8003b",
+    "relation_type": "precedes",
+    "reason": "在场景scene_4中，白雪梅和胡姐先表达旅途疲惫并建立情感共鸣，随后白雪梅询问收入预期，胡姐给出估计。叙事顺序上，情感共鸣的建立发生在确认经济收益之前，且两个情节共享同一场景，支持precedes关系。",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_091afd26f849",
+    "subject_id": "ep_ca65891ed1b885f2",
+    "object_id": "ep_9c7a4899d9fd5f1d",
+    "relation_type": "precedes",
+    "reason": "白雪梅初次求放并下跪祈求发生在黄德贵索要退款并轻视法律之前，依据是两者均发生在scene_15，且逻辑上受害者求放行为先于加害者提出条件和回应法律警告。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ea4e22cedf0c",
+    "subject_id": "ep_592985af98e81fac",
+    "object_id": "ep_eed40db66b07d682",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'表达旅途疲惫并建立情感共鸣'发生在场景4，而'讨论任务与能力准备'发生在场景5，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8e91569de876",
+    "subject_id": "ep_f1845e82a25ec04b",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "黄德贵父母协助实施暴力并退出房间后，黄德贵才在关闭的房间内对白雪梅完成性侵犯。描述中明确指出父母离开并关紧房门后，侵犯行为发生，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_315561c4c4e1",
+    "subject_id": "ep_3e0fadfef82b272c",
+    "object_id": "ep_9c7a4899d9fd5f1d",
+    "relation_type": "contrasts_with",
+    "reason": "白雪梅坚决拒绝被囚禁并表达对自由的坚持，与黄德贵索要退款并轻视法律的行为形成道德和立场上的对比，二者在场景中并置，凸显了受害者抗争与加害者冷漠之间的对立。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_f6972df66844",
+    "subject_id": "ep_347bfe5f5c52031a",
+    "object_id": "ep_3e0fadfef82b272c",
+    "relation_type": "precedes",
+    "reason": "白雪梅提议赎身并遭拒发生在她断然拒绝被囚禁之前，根据场景顺序（scene_15）中的事件流，黄德贵拒绝后她情绪突变，明确表示不可能留下，表明时间上的先后顺序。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ec704412c393",
+    "subject_id": "ep_592985af98e81fac",
+    "object_id": "ep_bcbd4ed7c746449c",
+    "relation_type": "precedes",
+    "reason": "根据描述，白雪梅和胡姐先通过表达旅途疲惫建立情感共鸣，随后才进一步表达感激与强化合作关系。两个情节均发生在scene_4，但逻辑和叙事顺序上，建立初步情感共鸣为后续的情感深化和合作强化提供了基础，因此前者在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7db4ec17d65c",
+    "subject_id": "ep_b321938bdaad59a4",
+    "object_id": "ep_f2d48891ac5b9d22",
+    "relation_type": "precedes",
+    "reason": "启动白雪梅的救治程序包括开具缴费单据和检查伤情，随后黄德贵前往缴费且男大夫洗手准备治疗，表明救治流程从启动进入准备阶段，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a943c90b8fc4",
+    "subject_id": "ep_7a9f100f9658134c",
+    "object_id": "ep_dbd77df9b29fd90c",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子与黄德诚会面发生在黄德诚赠送书籍并告别之前，根据描述，会面是初步互动，随后黄德诚完成探访的主要目的并离开，符合叙事顺序上的先后关系。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_818c6f382ae1",
+    "subject_id": "ep_dbd77df9b29fd90c",
+    "object_id": "ep_56bcd9d527b3bd17",
+    "relation_type": "precedes",
+    "reason": "根据描述，黄德诚赠送书籍并告别后离开，随后白雪梅独处并用树枝描绘鞋的轮廓，表达内心状态。叙事顺序上，黄德诚的离开是白雪梅独处的前提，因此该情节在话语顺序上明确早于后者。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c8e1b35a9b91",
+    "subject_id": "ep_9a099077cbc8003b",
+    "object_id": "ep_a00f40bb9fab6896",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中胡姐通过提供收入预期增强白雪梅的信心，第二个情节中胡姐进一步承诺还债可能，延续并扩展了对未来的积极预期。第二个情节在心理层面深化了第一个情节所建立的希望情绪，提供了更具体的目标（还债），因此构成了对前一情节的扩展说明。",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_c3a4bda9fb62",
+    "subject_id": "ep_b21686c5af43cd54",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "黄德贵母亲劝说失败并引发新一轮压制发生在黄德贵完成性侵犯之前，文本描述中父亲将白雪梅按倒后父母离开并关门，随后黄德贵实施侵犯，表明两个情节在叙事顺序上存在明确的时间先后关系。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c3d3fbbf7dc2",
+    "subject_id": "ep_b21686c5af43cd54",
+    "object_id": "ep_f1845e82a25ec04b",
+    "relation_type": "precedes",
+    "reason": "主体情节描述黄德贵父母开始压制白雪梅，客体情节描述压制过程的后续发展，包括黄德贵撕扯白雪梅衣物及父母离开房间。相关事件序列显示主体中的行为在叙事顺序上直接早于客体中的行为，且两情节共享同一场景（scene_18）的时间和上下文，支持明确的先后顺序。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c47b50ee7678",
+    "subject_id": "ep_347bfe5f5c52031a",
+    "object_id": "ep_a62b178091b2db6b",
+    "relation_type": "contrasts_with",
+    "reason": "白雪梅提议赎身并遭拒体现其寻求自由的主动努力，而黄德贵提出留下换善待的条件则试图将囚禁合理化，两者在权力关系和互动基调上形成明显对立，构成意图与回应之间的对比。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_64f014aca426",
+    "subject_id": "ep_eed40db66b07d682",
+    "object_id": "ep_7eac7ef186397880",
+    "relation_type": "elaborates",
+    "reason": "讨论任务与能力准备中，胡姐称赞白雪梅的交际能力，为后续同事间互相调侃与关系强化提供了互动起点和语境基础；后者通过玩笑和打闹进一步展开并深化了前者中已开始的人际互动，因此该情节扩展了前一情节中的人际动态细节。",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b43821fa8b9c",
+    "subject_id": "ep_ca65891ed1b885f2",
+    "object_id": "ep_347bfe5f5c52031a",
+    "relation_type": "precedes",
+    "reason": "白雪梅初次求放并下跪祈求发生在她提出赎身提议之前，根据叙事顺序，先有下跪恳求释放的行为，随后才提出由父亲送钱赎身的折中方案，两个情节均发生在scene_15，但逻辑和行为顺序支持前者先于后者。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_49587dbea1df",
+    "subject_id": "ep_e184e66b3722ea7a",
+    "object_id": "ep_f1845e82a25ec04b",
+    "relation_type": "precedes",
+    "reason": "根据描述，黄德贵被父亲斥责并被迫重返房间后，紧接着发生黄德贵父母协助实施暴力并退出房间。两个情节共享同一场景（scene_18），且事件序列显示前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_215db5e0e1f9",
+    "subject_id": "ep_347bfe5f5c52031a",
+    "object_id": "ep_9c7a4899d9fd5f1d",
+    "relation_type": "precedes",
+    "reason": "白雪梅提议赎身并遭拒发生在黄德贵索要退款并轻视法律之前，两个情节均发生在scene_15，且逻辑上赎身提议被拒后，黄德贵才进一步坚持退款并回应法律警告，叙事顺序支持该关系。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2935d027c743",
+    "subject_id": "ep_9997995595fad0f3",
+    "object_id": "ep_3920e243fc2d0a2c",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子质疑并指控白雪梅发生在村主任裁决前，随后黄德贵带白雪梅离开现场，事件顺序上前者早于后者，且相关事件均发生在同一场景（scene_27）中，支持明确的时间先后关系。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cf216a97212c",
+    "subject_id": "ep_b5f28815883b6dbe",
+    "object_id": "ep_8bda10e9293105d7",
+    "relation_type": "precedes",
+    "reason": "白雪梅向村主任求助并遭敷衍的情节发生在村主任恢复麻将活动之前，因为描述中明确指出村主任是在白雪梅和黄德贵母亲离开后才回到麻将桌继续活动，表明事件的时间顺序为前者结束、后者开始。",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_363308f7274e",
+    "subject_id": "ep_7a9f100f9658134c",
+    "object_id": "ep_cd62d00d7ec31eac",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子与黄德诚会面的情节描述了家庭成员与访客的初步互动，随后才发生黄德贵父亲带回猪娃并引发家庭争执的情节。两个情节均发生在同一场景（scene_47），且会面互动完成后父亲进屋，紧接着展开对买猪娃的讨论和争执，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d2fe7a019f8c",
+    "subject_id": "ep_e171594d8cbf66b3",
+    "object_id": "ep_848ee2306b8cbdfa",
+    "relation_type": "precedes",
+    "reason": "黄德贵突访朋友牌局（ep_e171594d8cbf66b3）发生在朋友劝黄德贵回家同房（ep_848ee2306b8cbdfa）之前，描述中显示他先被朋友质问，随后才被劝说回家，且两个情节共享同一场景（scene_16），时间顺序明确。",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_620a7bd0c7e7",
+    "subject_id": "ep_ca65891ed1b885f2",
+    "object_id": "ep_3e0fadfef82b272c",
+    "relation_type": "precedes",
+    "reason": "白雪梅初次求放并下跪祈求发生在她断然拒绝被囚禁之前，根据叙事顺序，她先试图通过恳求获得自由，随后情绪转变，明确拒绝留下。两个情节均发生在同一场景（scene_15），但下跪祈求为初始反应，断然拒绝为后续态度转变，时间顺序清晰。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_91395e758cc6",
+    "subject_id": "ep_fe41169fdc7e6b42",
+    "object_id": "ep_bae9be376ed63431",
+    "relation_type": "precedes",
+    "reason": "进入旅馆办理入住（ep_fe41169fdc7e6b42）在叙事顺序上早于办理双人入住手续（ep_bae9be376ed63431），因为前者描述的是集体进入旅馆的行动，后者则是具体的登记流程，包括出示身份证和支付房费，逻辑上和文本时序上均紧随其后。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c8302ee97e81",
+    "subject_id": "ep_b21686c5af43cd54",
+    "object_id": "ep_e184e66b3722ea7a",
+    "relation_type": "precedes",
+    "reason": "黄德贵母亲劝说失败并引发新一轮压制发生在黄德贵被父亲斥责并被迫重返房间之前，因为劝说失败和白雪梅被按倒后，黄德贵才离开房间，继而被父亲拦下并训斥，叙事顺序在描述和相关事件中明确支持。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b9251dd25a15",
+    "subject_id": "ep_99a34ff897090e2a",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "黄德贵初次侵犯白雪梅并遭反抗发生在父母离开之前，而黄德贵完成性侵犯发生在父母离开并关门后，白雪梅已无力反抗。两个情节共享同一场景（scene_18），但根据描述的条件变化（反抗能力从有到无），可推断前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_29c6ffb1d29e",
+    "subject_id": "ep_9c7a4899d9fd5f1d",
+    "object_id": "ep_a62b178091b2db6b",
+    "relation_type": "contrasts_with",
+    "reason": "黄德贵索要退款并轻视法律体现其强硬且违法的立场，而提出留下换善待的条件则试图将囚禁合理化为一种交换，二者在态度和策略上形成对比：前者强调金钱和控制，后者伪装成关怀与条件性善待，文本通过并置展现其行为的复杂性和虚伪性。",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2920355ca809",
+    "subject_id": "ep_39b222e17ca8605c",
+    "object_id": "ep_a7807a2c2517ed76",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，劝说白雪梅接受现实并放弃逃跑的情节发生在陈春丽和郑小兰结束探访并承诺再次见面之前。描述中显示，劝说过程包括梳头、安慰和劝阻逃跑念头，随后黄德贵母亲在门外打断谈话，陈春丽宣布离开，白雪梅请求她们再来看她，表明叙事顺序上前者紧接后者。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e0ef701e4939",
+    "subject_id": "ep_a00f40bb9fab6896",
+    "object_id": "ep_bcbd4ed7c746449c",
+    "relation_type": "precedes",
+    "reason": "在场景scene_4中，白雪梅先表达还债的渴望，胡姐随即承诺多跑几趟即可还债，激发希望；随后白雪梅回顾求职无果并表达对胡姐的感激，胡姐回应强调义气与共享收益。两个情节均发生在同一场景，但根据描述的逻辑顺序，承诺还债激发希望在前，表达感激与强化合作关系在后，具有明确的叙事先后关系。",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4d26f96bf1fc",
+    "subject_id": "ep_99a34ff897090e2a",
+    "object_id": "ep_b21686c5af43cd54",
+    "relation_type": "precedes",
+    "reason": "根据描述，黄德贵初次侵犯白雪梅并遭反抗（ep_99a34ff897090e2a）发生在黄德贵母亲劝说失败并引发新一轮压制（ep_b21686c5af43cd54）之前，两个情节均发生在scene_18，且前者为侵犯行为的开始，后者为劝说失败后父亲介入的升级，叙事顺序上存在明确先后。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4440a3b04d60",
+    "subject_id": "ep_d72cd897a1a07b76",
+    "object_id": "ep_2015eb941bcb823b",
+    "relation_type": "precedes",
+    "reason": "黄德贵发现白雪梅自伤并紧急求助的情节发生在前往医院并送白雪梅就医之前，因为发现伤情是启动送医行动的直接前提，且相关事件在文档中按时间顺序先后出现。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f821bc906375",
+    "subject_id": "ep_ca65891ed1b885f2",
+    "object_id": "ep_2015eb941bcb823b",
+    "relation_type": "precedes",
+    "reason": "白雪梅初次求放并下跪祈求发生在送医之前，因为求放行为是被囚禁状态下的行动，而送医是后续外部干预的结果，叙事上前者早于后者。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f488d994acd1",
+    "subject_id": "ep_543585c48da802e0",
+    "object_id": "ep_d72cd897a1a07b76",
+    "relation_type": "precedes",
+    "reason": "黄德贵夜间如厕并观察白雪梅发生在黄德贵发现白雪梅自伤并紧急求助之前，前者为夜间早期活动，后者为后续突发事件，叙事时间顺序明确。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7a0b19892f0d",
+    "subject_id": "ep_347bfe5f5c52031a",
+    "object_id": "ep_2015eb941bcb823b",
+    "relation_type": "precedes",
+    "reason": "白雪梅提议赎身并遭拒发生在黄德贵一家人送她前往医院之前，根据叙事逻辑，赎身提议被拒绝后，情节推进至紧急送医，因此该关系在时间顺序上成立。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b29526f75f0a",
+    "subject_id": "ep_99a34ff897090e2a",
+    "object_id": "ep_2015eb941bcb823b",
+    "relation_type": "precedes",
+    "reason": "黄德贵初次侵犯白雪梅并遭反抗发生在送医之前，根据叙事逻辑和事件发展顺序，侵犯行为导致白雪梅需要被送往医院救治，因此该情节在时间顺序上先于送医情节。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cc68287de2c5",
+    "subject_id": "ep_543585c48da802e0",
+    "object_id": "ep_b8631b7c2c5f2102",
+    "relation_type": "precedes",
+    "reason": "黄德贵夜间如厕并观察白雪梅发生在其回家后进入小黑屋施加控制之前，根据叙事顺序，观察行为在前，随后是控制行为的实施，文本支持这一时间先后关系。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_02be86531a8b",
+    "subject_id": "ep_09f2db59b8c334cb",
+    "object_id": "ep_2015eb941bcb823b",
+    "relation_type": "precedes",
+    "reason": "根据描述，白雪梅在被殴打后趁机逃离现场（制止暴力并爆发逃脱），随后黄德贵一家人才冒雨将她送往医院（前往医院并送白雪梅就医）。事件顺序表明逃离发生在送医之前，因此该关系在叙事时间线上明确为前序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5723eed75779",
+    "subject_id": "ep_543585c48da802e0",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "黄德贵夜间如厕并观察白雪梅发生在父母离开并关门之前，而性侵犯行为是在父母离开后发生的，因此如厕与观察情节在叙事时间顺序上早于性侵犯情节。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cca622bdefc2",
+    "subject_id": "ep_bb0c8ede6a152753",
+    "object_id": "ep_2015eb941bcb823b",
+    "relation_type": "precedes",
+    "reason": "黄德贵完成性侵犯发生在父母离开并关门后的封闭场景中（doc_17），而前往医院并送白雪梅就医描述的是她被抬入医院的紧急过程（doc_34），叙事顺序上性侵犯为送医的直接前提，文本支持该时间先后关系。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bc02e3cbf3aa",
+    "subject_id": "ep_2d24ba9deab7e496",
+    "object_id": "ep_2015eb941bcb823b",
+    "relation_type": "precedes",
+    "reason": "白雪梅尝试呼救并遭压制的情节发生在小黑屋内，是其被控制状态的体现；而前往医院并送白雪梅就医的情节涉及将她转移至医院的紧急行动。根据叙事逻辑和事件发展，压制呼救行为发生在送医之前，构成被送医前的状态背景，因此该关系在时间顺序上具有明确的先后性。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_09f57816f51f",
+    "subject_id": "ep_543585c48da802e0",
+    "object_id": "ep_99a34ff897090e2a",
+    "relation_type": "precedes",
+    "reason": "黄德贵夜间如厕并观察白雪梅发生在黄德贵初次侵犯白雪梅之前，根据叙事顺序，观察行为为后续侵犯事件提供了时间上的前序背景，且两个情节分别位于文档 doc_11 和 doc_17，表明时间推进。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_980e9f2750d2",
+    "subject_id": "ep_2015eb941bcb823b",
+    "object_id": "ep_b321938bdaad59a4",
+    "relation_type": "precedes",
+    "reason": "主体情节描述黄德贵一家人将白雪梅送往医院并抬入医院的过程，客体情节描述白雪梅被抬上病床后医生开始检查和办理缴费手续。根据事件顺序，送医完成之后才能启动救治程序，且相关事件（如抬入医院、抬上病床）在场景编号35和37中呈现连续性，表明叙事时间上前者紧接后者。因此，主体情节在话语顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4b747d6a2da1",
+    "subject_id": "ep_53e22cdf4e94106f",
+    "object_id": "ep_d72cd897a1a07b76",
+    "relation_type": "precedes",
+    "reason": "情节 '展现白雪梅的创伤与环境压抑' 发生在黄德贵进入小黑屋之前，描述的是白雪梅独自在屋内的静默状态；而 '黄德贵发现白雪梅自伤并紧急求助' 包含黄德贵进入房间并发现异常的事件，逻辑上必须在其之后发生。两个情节共享场景编号（scene_20 与 scene_31）且文档顺序连续，支持叙事时间上的先后关系。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d6eac7b22f21",
+    "subject_id": "ep_53e22cdf4e94106f",
+    "object_id": "ep_a7807a2c2517ed76",
+    "relation_type": "precedes",
+    "reason": "情节 '展现白雪梅的创伤与环境压抑' 发生在场景20，而 '结束探访并承诺再次见面' 发生在场景40，文档中场景编号的递增表明前者在叙事顺序上早于后者，支持 'precedes' 关系。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e5b5fe103dbc",
+    "subject_id": "ep_53e22cdf4e94106f",
+    "object_id": "ep_b21686c5af43cd54",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'黄德贵母亲劝说失败并引发新一轮压制' 发生在 scene_18，而 '展现白雪梅的创伤与环境压抑' 发生在 scene_20，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1c9018908ec4",
+    "subject_id": "ep_d72cd897a1a07b76",
+    "object_id": "ep_b321938bdaad59a4",
+    "relation_type": "precedes",
+    "reason": "黄德贵发现白雪梅自伤并紧急求助的情节发生在启动救治程序之前，因为发现伤情和呼救是触发后续医疗检查和缴费流程的前提。相关事件的时间顺序和逻辑流程支持这一叙事先后关系。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5d5185a30fe4",
+    "subject_id": "ep_ca65891ed1b885f2",
+    "object_id": "ep_d72cd897a1a07b76",
+    "relation_type": "precedes",
+    "reason": "白雪梅初次求放并下跪祈求发生在黄德贵发现她自伤之前，根据叙事逻辑，求放行为先于自伤被发现的情节，且两个情节分别由不同文档中的事件支持，时间顺序清晰。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_abb42435eb6e",
+    "subject_id": "ep_b8631b7c2c5f2102",
+    "object_id": "ep_d72cd897a1a07b76",
+    "relation_type": "precedes",
+    "reason": "黄德贵向白雪梅施加控制的情节发生在其发现白雪梅自伤并紧急求助之前。根据文档顺序（doc_27 在 doc_30 之前）以及事件的自然发展逻辑，控制与压迫行为先于自伤事件的发生，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5cea0e149aab",
+    "subject_id": "ep_b21686c5af43cd54",
+    "object_id": "ep_d72cd897a1a07b76",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，黄德贵母亲劝说失败并引发压制发生在白雪梅被关在小黑屋之前，而黄德贵发现白雪梅自伤是在她已被关押并发生自残行为之后。因此，主体情节在叙事时间顺序上早于客体情节，构成明确的先后关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a7e66d039ee2",
+    "subject_id": "ep_3e0fadfef82b272c",
+    "object_id": "ep_d72cd897a1a07b76",
+    "relation_type": "precedes",
+    "reason": "白雪梅断然拒绝被囚禁发生在黄德贵发现她自伤之前，根据叙事逻辑，她的反抗和情绪突变可能导致后续的自伤行为，从而引发黄德贵的发现和求助。事件顺序在描述中呈现为先有拒绝囚禁的意志表达，后有自伤及被发现的紧急反应，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_19e988087356",
+    "subject_id": "ep_36356c0072dc8b0c",
+    "object_id": "ep_37308af7dfc8bddc",
+    "relation_type": "precedes",
+    "reason": "救援受伤的白雪梅发生在黄德诚与白雪梅建立联系之前，因为只有在救援行动中将白雪梅送医后，两人才有机会进行对话并建立信任关系。文本中描述的‘救援’是物理干预行动，而‘建立联系’涉及情感和交流，逻辑上依赖于前者完成。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_55f249f08f4c",
+    "subject_id": "ep_99a34ff897090e2a",
+    "object_id": "ep_53e22cdf4e94106f",
+    "relation_type": "precedes",
+    "reason": "黄德贵初次侵犯白雪梅并遭反抗（ep_99a34ff897090e2a）在叙事时间上早于展现白雪梅的创伤与环境压抑（ep_53e22cdf4e94106f），后者呈现的是侵犯事件之后白雪梅的心理状态和环境氛围，两个情节在文档中按时间顺序先后出现，且后者服务于呈现前一事件的后果。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_99f4ca0aaa70",
+    "subject_id": "ep_d7430b05e6f1cadc",
+    "object_id": "ep_8e365eeaeddfe688",
+    "relation_type": "contrasts_with",
+    "reason": "抵抗并阻止黄德贵的侵扰体现白雪梅主动防御和自我保护的意志与行动，而黄德贵对白雪梅实施性支配则呈现其被动顺从、心理疏离与身体僵硬的状态，两者在主体能动性、心理状态和互动性质上形成强烈反差，构成叙事上的对比关系。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fdc913cdce62",
+    "subject_id": "ep_53e22cdf4e94106f",
+    "object_id": "ep_ca65891ed1b885f2",
+    "relation_type": "precedes",
+    "reason": "根据叙事逻辑，白雪梅的创伤与环境压抑场景（ep_53e22cdf4e94106f）发生在其初次求放并下跪祈求之前，作为情绪铺垫。该判断基于两个情节的描述：前者呈现被动承受状态，后者展现主动求放行为，暗示从沉默压抑到行动请求的进展顺序。尽管文档ID不同（doc_19 vs doc_14），但情节内容支持时间上的先后关系。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c0111b64df7f",
+    "subject_id": "ep_f1845e82a25ec04b",
+    "object_id": "ep_53e22cdf4e94106f",
+    "relation_type": "precedes",
+    "reason": "情节 '黄德贵父母协助实施暴力并退出房间' 描述了暴力行为的实施和父母离开房间的完成动作，发生在 '展现白雪梅的创伤与环境压抑' 之前，后者呈现的是暴力发生后的静默创伤状态。两个情节共享空间背景（小黑屋），且后者通过白雪梅发呆和织布声营造压抑氛围，暗示前一情节的直接后果。因此，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e80af66d4863",
+    "subject_id": "ep_4960e7e4a2d8e22d",
+    "object_id": "ep_8e365eeaeddfe688",
+    "relation_type": "contrasts_with",
+    "reason": "白雪梅主动重塑自我形象以恢复清纯可爱，与黄德贵对她实施性支配时她的被动顺从和心理疏离形成鲜明对比，两个情节并置突显了她自主性与被支配状态之间的张力。",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_9bb3be893833",
+    "subject_id": "ep_2d24ba9deab7e496",
+    "object_id": "ep_d72cd897a1a07b76",
+    "relation_type": "precedes",
+    "reason": "根据描述，白雪梅尝试呼救并遭压制（ep_2d24ba9deab7e496）发生在黄德贵发现白雪梅自伤并紧急求助（ep_d72cd897a1a07b76）之前。前者中黄德贵尚能主动压制白雪梅，后者中白雪梅已自伤且黄德贵反应惊恐，表明事件顺序递进。文档ID（doc_28 vs doc_30）也支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_964987b37cda",
+    "subject_id": "ep_a38b1bfc95bec982",
+    "object_id": "ep_d7430b05e6f1cadc",
+    "relation_type": "precedes",
+    "reason": "根据描述，'揭露买卖婚姻真相并劝服白雪梅接受'发生在黄德贵父母告知白雪梅她被卖给黄德贵的场景（scene_9），而'抵抗并阻止黄德贵的侵扰'发生在黄德贵闯入房间的场景（scene_10）。scene_9在叙事顺序上早于scene_10，因此该关系为precedes。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4ae620ae13e5",
+    "subject_id": "ep_d7430b05e6f1cadc",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "抵抗并阻止黄德贵的侵扰发生在黄德贵完成性侵犯之前，因为白雪梅的抵抗行为（关紧房门）未能最终阻止后续侵犯，且事件序列显示侵犯是在父母离开并关门后发生的，时间顺序上支持抵抗情节先于完成侵犯情节。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_511e4caa75c9",
+    "subject_id": "ep_8e365eeaeddfe688",
+    "object_id": "ep_b5f28815883b6dbe",
+    "relation_type": "precedes",
+    "reason": "黄德贵对白雪梅实施性支配发生在白雪梅向村主任求助之前，根据事件描述的被动顺从与心理疏离状态，可推断该性支配行为是导致她后续寻求帮助的背景动因；尽管没有明确时间标记，但叙事逻辑和求助动机支持此先后顺序。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0de29ec25214",
+    "subject_id": "ep_bb0c8ede6a152753",
+    "object_id": "ep_53e22cdf4e94106f",
+    "relation_type": "precedes",
+    "reason": "根据描述，黄德贵完成性侵犯（ep_bb0c8ede6a152753）发生在父母离开并关门后，而白雪梅赤裸缩在墙角发呆、黄德贵母亲织布的压抑场景（ep_53e22cdf4e94106f）紧随其后，呈现侵犯后的状态。两个情节共享空间和心理连续性，且文档顺序（doc_17 在 doc_19 之前）支持时间上的先后关系。因此，'黄德贵完成性侵犯'在叙事顺序上先于'展现白雪梅的创伤与环境压抑'。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_abd4556d6bd3",
+    "subject_id": "ep_3e0fadfef82b272c",
+    "object_id": "ep_d7430b05e6f1cadc",
+    "relation_type": "precedes",
+    "reason": "根据描述，'白雪梅断然拒绝被囚禁'发生在黄德贵提出条件后，情绪突变并表达拒绝，而'抵抗并阻止黄德贵的侵扰'则涉及黄德贵实际闯入房间并试图靠近她的具体身体侵扰行为。从叙事逻辑和事件发展顺序看，拒绝被囚禁的表态在先，随后发生更直接的身体对抗和抵抗行动，因此主体情节在时间顺序上早于客体情节。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_610cf342b1e2",
+    "subject_id": "ep_3e0fadfef82b272c",
+    "object_id": "ep_8e365eeaeddfe688",
+    "relation_type": "precedes",
+    "reason": "白雪梅断然拒绝被囚禁发生在黄德贵对其实施性支配之前，文本中情绪突变和反抗意志的描写表明该拒绝是性支配发生前的独立行为，叙事顺序支持此先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ec1dcfb9ad52",
+    "subject_id": "ep_2d24ba9deab7e496",
+    "object_id": "ep_8e365eeaeddfe688",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，白雪梅尝试呼救并遭压制发生在黄德贵对其实施性支配之前。描述中显示，压制行为（黄德贵冲入小黑屋威胁）为后续的性支配创造了条件，且两个情节在时间上紧密衔接，前者结束即进入后者，因此支持'precedes'关系。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1489d6138667",
+    "subject_id": "ep_a62b178091b2db6b",
+    "object_id": "ep_8e365eeaeddfe688",
+    "relation_type": "precedes",
+    "reason": "黄德贵提出留下换善待的条件发生在其对白雪梅实施性支配之前，文本中前者为试图合理化关系的谈判性举动，后者为实际发生的支配行为，具有明确的叙事时序先后。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cae850384fe7",
+    "subject_id": "ep_d7430b05e6f1cadc",
+    "object_id": "ep_f1845e82a25ec04b",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'抵抗并阻止黄德贵的侵扰' 发生在黄德贵父母介入之前，且其相关事件（如黄德贵退出房间、白雪梅关紧房门）在叙事顺序上早于 '黄德贵父母协助实施暴力并退出房间' 中的事件（如父母协助压制、撕扯衣物、关紧房门）。两个情节分别发生在 scene_10 和 scene_18，scene_10 在文档时序上早于 scene_18，因此主体情节在叙事顺序上先于客体情节。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e07ddda24cbd",
+    "subject_id": "ep_a38b1bfc95bec982",
+    "object_id": "ep_8e365eeaeddfe688",
+    "relation_type": "precedes",
+    "reason": "黄德贵父母揭露买卖婚姻并劝服白雪梅接受（ep_a38b1bfc95bec982）在叙事逻辑上早于黄德贵对白雪梅实施性支配（ep_8e365eeaeddfe688），因为婚姻安排的宣告构成后续性行为发生的情境前提，且文本中事件顺序支持此时间先后。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_195bdacdce3c",
+    "subject_id": "ep_ca65891ed1b885f2",
+    "object_id": "ep_8e365eeaeddfe688",
+    "relation_type": "precedes",
+    "reason": "白雪梅初次求放并下跪祈求（ep_ca65891ed1b885f2）在叙事顺序上早于黄德贵对白雪梅实施性支配（ep_8e365eeaeddfe688），因为求放行为发生在性关系之前，文本中表现出从祈求到被迫顺从的时序 progression。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_44c52effde31",
+    "subject_id": "ep_d639949b69161206",
+    "object_id": "ep_8e365eeaeddfe688",
+    "relation_type": "precedes",
+    "reason": "黄德贵通过提供食物建立控制（ep_d639949b69161206）在叙事逻辑上早于其对白雪梅实施性支配（ep_8e365eeaeddfe688），前者设定权力不对等的基调，为后者创造条件，且相关事件（递面 scene_15）发生在性关系（scene_44）之前，支持时间顺序上的先后关系。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b4a218138320",
+    "subject_id": "ep_b21686c5af43cd54",
+    "object_id": "ep_8e365eeaeddfe688",
+    "relation_type": "precedes",
+    "reason": "黄德贵母亲劝说失败并引发新一轮压制（ep_b21686c5af43cd54）发生在黄德贵对白雪梅实施性支配（ep_8e365eeaeddfe688）之前，文本中压制行为（按倒）为后续性关系提供了直接的情境铺垫，且两情节均涉及对白雪梅的暴力控制，叙事顺序上前者先发生。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f4fd0279bfce",
+    "subject_id": "ep_f1845e82a25ec04b",
+    "object_id": "ep_8e365eeaeddfe688",
+    "relation_type": "precedes",
+    "reason": "黄德贵父母协助实施暴力并退出房间（ep_f1845e82a25ec04b）包含压制、撕扯衣物和关门等行为，为后续黄德贵对白雪梅实施性支配（ep_8e365eeaeddfe688）创造了封闭和孤立的条件。文本中相关事件的顺序表明，暴力压制和关门发生在性支配之前，构成明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0b909f5d00a3",
+    "subject_id": "ep_99a34ff897090e2a",
+    "object_id": "ep_8e365eeaeddfe688",
+    "relation_type": "precedes",
+    "reason": "黄德贵初次侵犯白雪梅并遭反抗（ep_99a34ff897090e2a）中，白雪梅表现出激烈反抗；而在黄德贵对白雪梅实施性支配（ep_8e365eeaeddfe688）中，白雪梅处于被动顺从、心理疏离状态。这种从反抗到顺从的状态变化表明前者在叙事时间顺序上早于后者，构成清晰的先后关系。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_710cf6688824",
+    "subject_id": "ep_7674149468bc23da",
+    "object_id": "ep_bd9f5f6abaac84c0",
+    "relation_type": "precedes",
+    "reason": "根据描述，白雪梅逃亡并呼救是她从屋中冲出后的紧急行动，而黄德贵组织村民围堵是在追赶过程中指挥拦截，表明逃亡行为在前，围堵组织行为紧随其后，具有明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3e9c2ce8c9d1",
+    "subject_id": "ep_b8631b7c2c5f2102",
+    "object_id": "ep_8e365eeaeddfe688",
+    "relation_type": "precedes",
+    "reason": "黄德贵向白雪梅施加控制以迫使其屈服（ep_b8631b7c2c5f2102）发生在小黑屋场景中，包含给予红色衣服、脚镣束缚和白雪梅闪躲等行为，体现了对白雪梅的持续囚禁与心理操控；而黄德贵对白雪梅实施性支配（ep_8e365eeaeddfe688）描述的是在被动顺从状态下发生的性关系，表现出心理疏离。根据叙事逻辑和权力控制逐步升级的模式，控制行为在时间顺序上先于性支配行为，构成直接前置情节。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_61087edc5437",
+    "subject_id": "ep_d639949b69161206",
+    "object_id": "ep_fb90310edba197df",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述黄德贵通过递面和点烟建立控制，强调权力不对等；客体情节具体展现面被放置和食用的连贯动作，进一步细化食物提供与接受的过程。客体情节在行为层面上扩展了主体情节中‘提供食物以建立控制’的核心动作，提供了更具体的执行细节，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_14f60e751798",
+    "subject_id": "ep_3e0fadfef82b272c",
+    "object_id": "ep_7674149468bc23da",
+    "relation_type": "precedes",
+    "reason": "白雪梅断然拒绝被囚禁发生在黄德贵组织村民围堵她之前，根据叙事逻辑，她的反抗触发了黄德贵采取进一步行动，但文本未明确说明因果关系，仅能从事件顺序推断时间先后。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_efcfc6702fad",
+    "subject_id": "ep_347bfe5f5c52031a",
+    "object_id": "ep_7674149468bc23da",
+    "relation_type": "precedes",
+    "reason": "白雪梅提议赎身并遭拒发生在黄德贵组织村民围堵她的行动之前，根据叙事逻辑，赎身提议被拒后黄德贵升级控制措施，进而组织追捕，时间顺序上有明确先后，且文档场景编号（scene_15 先于 scene_26）支持该顺序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c3de6631ffa4",
+    "subject_id": "ep_09f2db59b8c334cb",
+    "object_id": "ep_7674149468bc23da",
+    "relation_type": "precedes",
+    "reason": "根据描述，白雪梅在被殴打后趁机踹开黄德贵并逃离屋子（ep_09f2db59b8c334cb），随后黄德贵在追赶过程中组织村民围堵她（ep_7674149468bc23da）。这两个情节在叙事顺序上紧密相连，且事件发展具有明确的时间先后关系：逃脱发生在围堵之前。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cac360cf35cd",
+    "subject_id": "ep_7674149468bc23da",
+    "object_id": "ep_b8631b7c2c5f2102",
+    "relation_type": "precedes",
+    "reason": "黄德贵组织村民围堵白雪梅（ep_7674149468bc23da）发生在文档25，而黄德贵向白雪梅施加控制以迫使其屈服（ep_b8631b7c2c5f2102）发生在文档27，叙事顺序上前者早于后者，且围堵成功后导致白雪梅被囚禁，符合情节的时间先后关系。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a6f6a291b33c",
+    "subject_id": "ep_7674149468bc23da",
+    "object_id": "ep_1c42a2f7e9052c1c",
+    "relation_type": "precedes",
+    "reason": "根据描述，黄德贵组织村民围堵白雪梅（ep_7674149468bc23da）发生在田地里村民被指挥并赶来围追的场景（scene_26），而白雪梅在小卖部门口呼救并被拦截（ep_1c42a2f7e9052c1c）发生在scene_27。scene_26在叙事顺序上早于scene_27，因此该关系为precedes。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ff2868734e59",
+    "subject_id": "ep_ca65891ed1b885f2",
+    "object_id": "ep_b5f28815883b6dbe",
+    "relation_type": "precedes",
+    "reason": "白雪梅初次求放并下跪祈求发生在她向村主任求助之前，根据叙事逻辑，她先尝试直接向黄德贵求放未果，之后才在黄德贵母亲陪同下前往村委会求助，因此该情节在时间顺序上早于后者。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9b1efbd7b876",
+    "subject_id": "ep_1c42a2f7e9052c1c",
+    "object_id": "ep_b5f28815883b6dbe",
+    "relation_type": "precedes",
+    "reason": "白雪梅呼救并被拦截发生在她向村主任求助之前，根据叙事顺序，呼救和拦截是冲突的初步升级，随后她才在黄德贵母亲陪同下前往村委会求助，时间顺序明确。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_84d68192fd1c",
+    "subject_id": "ep_a38b1bfc95bec982",
+    "object_id": "ep_b5f28815883b6dbe",
+    "relation_type": "precedes",
+    "reason": "揭露买卖婚姻真相并劝服白雪梅接受这一安排发生在白雪梅向村主任求助之前，因为她在得知被卖的事实并被拒绝离开后，才寻求外部帮助。文本中虽未明确时间顺序，但逻辑上求助行为是对先前压迫情境的反应，且相关事件在文档中按此顺序呈现，支持该叙事时序。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7d9c67c504c5",
+    "subject_id": "ep_2d24ba9deab7e496",
+    "object_id": "ep_b5f28815883b6dbe",
+    "relation_type": "precedes",
+    "reason": "白雪梅在小黑屋中尝试呼救并遭黄德贵压制（ep_2d24ba9deab7e496）发生在她随后在黄德贵母亲陪同下向村主任求助（ep_b5f28815883b6dbe）之前，叙事顺序上前者早于后者，且后者可视为前一情节中求助失败后的延续行动。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a00d8f35460e",
+    "subject_id": "ep_b8631b7c2c5f2102",
+    "object_id": "ep_2d24ba9deab7e496",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，黄德贵向白雪梅施加控制（scene_28）发生在白雪梅尝试呼救并遭压制（scene_29）之前，因此该情节在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6397fda1f538",
+    "subject_id": "ep_2d24ba9deab7e496",
+    "object_id": "ep_b321938bdaad59a4",
+    "relation_type": "precedes",
+    "reason": "白雪梅尝试呼救并遭压制发生在她被抬上病床之前，根据事件序列，呼救和压制是早期事件，而救治程序启动是在她被送医后，因此该情节在叙事顺序上早于救治程序。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1deafd97c4b7",
+    "subject_id": "ep_ca65891ed1b885f2",
+    "object_id": "ep_2d24ba9deab7e496",
+    "relation_type": "precedes",
+    "reason": "白雪梅初次求放并下跪祈求发生在她尝试呼救并遭压制之前，依据叙事逻辑和事件发展顺序：先有直接恳求释放的行为，随后在求助无果的情况下转向敲窗呼救，表明前者在时间线上早于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4509671523ba",
+    "subject_id": "ep_2d24ba9deab7e496",
+    "object_id": "ep_09f2db59b8c334cb",
+    "relation_type": "precedes",
+    "reason": "白雪梅尝试呼救并遭压制的情节中，她仍被囚禁并试图求助，而制止暴力并爆发逃脱的情节中她成功逃离，叙事上前者必须发生在后者之前，且两事件均涉及黄德贵母亲劝阻，显示连续性。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_77c01b7bd94c",
+    "subject_id": "ep_1c42a2f7e9052c1c",
+    "object_id": "ep_b321938bdaad59a4",
+    "relation_type": "precedes",
+    "reason": "白雪梅呼救并被拦截发生在她被抬上病床并启动救治程序之前，相关事件的时间顺序显示冲突升级在前，医疗介入在后，叙事上具有明确的先后顺序。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ee16598d1528",
+    "subject_id": "ep_2d24ba9deab7e496",
+    "object_id": "ep_a7807a2c2517ed76",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'白雪梅尝试呼救并遭压制' 发生在 scene_29，而 '结束探访并承诺再次见面' 发生在 scene_40，scene_29 在叙事顺序上早于 scene_40，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_edd73e7eb1df",
+    "subject_id": "ep_99a34ff897090e2a",
+    "object_id": "ep_b5f28815883b6dbe",
+    "relation_type": "precedes",
+    "reason": "黄德贵初次侵犯白雪梅并遭反抗发生在白雪梅向村主任求助并遭敷衍之前，根据事件逻辑顺序，侵犯事件是求助行为的直接动因，且两个情节之间存在明确的叙事时序：先有侵犯，后有求助。文本中白雪梅的求助行为是对先前侵犯事件的反应，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_922685de6eae",
+    "subject_id": "ep_2d24ba9deab7e496",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "根据描述，白雪梅尝试呼救并遭压制发生在黄德贵完成性侵犯之前：黄德贵在父母离开并关门后才实施侵犯，而压制呼救的情节包含黄德贵冲入威胁和其母劝阻，这些事件在叙事顺序上先于侵犯行为的发生。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_343de7cb7f44",
+    "subject_id": "ep_2d24ba9deab7e496",
+    "object_id": "ep_99a34ff897090e2a",
+    "relation_type": "precedes",
+    "reason": "根据描述，白雪梅尝试呼救并遭压制的情节中，黄德贵冲入小黑屋威胁她，这发生在其初次侵犯之前。两个情节均发生在同一空间（小黑屋/房间），且威胁行为与后续侵犯行为在叙事上呈现连续性，压制反抗后紧接着发生侵犯，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2dce0df14d62",
+    "subject_id": "ep_347bfe5f5c52031a",
+    "object_id": "ep_2d24ba9deab7e496",
+    "relation_type": "precedes",
+    "reason": "白雪梅提议赎身并遭拒（ep_347bfe5f5c52031a）发生在她尝试呼救并遭压制（ep_2d24ba9deab7e496）之前，依据文档场景编号scene_15早于scene_29，表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_070d348cc494",
+    "subject_id": "ep_a62b178091b2db6b",
+    "object_id": "ep_b8631b7c2c5f2102",
+    "relation_type": "precedes",
+    "reason": "黄德贵提出留下换善待的条件发生在其进一步施加控制行为之前，根据叙事顺序，先有以善待为条件的留下提议，随后是回家后在小黑屋中通过衣物和限制手段进行的实际控制行为，二者在时间线上有序且无重叠。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_63836b2ca34d",
+    "subject_id": "ep_d639949b69161206",
+    "object_id": "ep_b8631b7c2c5f2102",
+    "relation_type": "precedes",
+    "reason": "黄德贵提供食物并建立控制（递面、点烟）发生在早期场景（scene_15），而黄德贵向白雪梅施加控制以迫使其屈服（红色衣服、脚镣、闪躲）发生在后续场景（scene_28），文档中场景编号的递增支持该叙事顺序。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7d341b6fc1e3",
+    "subject_id": "ep_1c42a2f7e9052c1c",
+    "object_id": "ep_b8631b7c2c5f2102",
+    "relation_type": "precedes",
+    "reason": "白雪梅呼救并被拦截发生在黄德贵向白雪梅施加控制以迫使其屈服之前，根据场景编号scene_27先于scene_28，且前者为冲突初步升级，后者为回家后在小黑屋内的控制行为，具有明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_73054336b0a1",
+    "subject_id": "ep_ca65891ed1b885f2",
+    "object_id": "ep_09f2db59b8c334cb",
+    "relation_type": "precedes",
+    "reason": "白雪梅初次求放并下跪祈求发生在她成功挣脱并逃离之前，叙事上先有恳求释放的尝试，随后在暴力升级中趁机逃脱，时间顺序明确。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d877bf4b2854",
+    "subject_id": "ep_7d86ef070174f084",
+    "object_id": "ep_09f2db59b8c334cb",
+    "relation_type": "precedes",
+    "reason": "根据描述，白雪梅激烈反抗黄德贵母亲的劝说发生在黄德贵持续殴打白雪梅及随后的逃脱之前，二者均发生在scene_25，且反抗行为在叙事顺序上先于踹开黄德贵并逃离的行为，具有紧密的时间先后关系。",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9bdf13de4b1e",
+    "subject_id": "ep_2d24ba9deab7e496",
+    "object_id": "ep_b21686c5af43cd54",
+    "relation_type": "precedes",
+    "reason": "根据描述，白雪梅尝试呼救并遭压制（ep_2d24ba9deab7e496）发生在黄德贵母亲劝说失败并引发新一轮压制（ep_b21686c5af43cd54）之前。前者中黄德贵母亲尚能劝阻冲突，而后者中劝说已无效并升级为更直接的暴力压制，表明叙事上前者早于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_63c2c583ba79",
+    "subject_id": "ep_a62b178091b2db6b",
+    "object_id": "ep_09f2db59b8c334cb",
+    "relation_type": "precedes",
+    "reason": "黄德贵提出留下换善待的条件发生在白雪梅被殴打并逃脱之前，文本中前者为劝服性对话，后者为暴力升级与反抗，叙事顺序上前者早于后者，符合情节发展逻辑。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2a321d762258",
+    "subject_id": "ep_347bfe5f5c52031a",
+    "object_id": "ep_09f2db59b8c334cb",
+    "relation_type": "precedes",
+    "reason": "白雪梅提议赎身并遭拒发生在她趁机踹开黄德贵并逃离之前，根据叙事逻辑和事件发展顺序，被拒后才爆发逃脱行为，因此该关系在时间顺序上明确支持。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e5c90ed7a02a",
+    "subject_id": "ep_3e0fadfef82b272c",
+    "object_id": "ep_09f2db59b8c334cb",
+    "relation_type": "precedes",
+    "reason": "白雪梅断然拒绝被囚禁发生在她实际逃离之前，文本中拒绝行为展现了她的反抗意志，为后续踹开黄德贵并逃离的行动提供了动机和叙事上的前序步骤，且两个情节在文档中按时间顺序先后出现。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_43d84bde755b",
+    "subject_id": "ep_99a34ff897090e2a",
+    "object_id": "ep_09f2db59b8c334cb",
+    "relation_type": "precedes",
+    "reason": "黄德贵初次侵犯白雪梅并遭反抗发生在白雪梅被持续殴打后趁机逃脱之前，根据事件描述的逻辑顺序和叙事流程，初次侵犯与反抗是后续制止暴力并爆发逃脱的前置情节。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c97b97e97025",
+    "subject_id": "ep_1c42a2f7e9052c1c",
+    "object_id": "ep_2d24ba9deab7e496",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件发展逻辑，白雪梅在小卖部门口呼救并被拦截（ep_1c42a2f7e9052c1c）发生在她后续在小黑屋中尝试呼救并遭压制（ep_2d24ba9deab7e496）之前。前者是公开场合的逃脱尝试，后者是被进一步控制后的封闭空间内冲突升级，叙事顺序连贯且文档ID（doc_26 vs doc_28）支持时间先后。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2e4549b56b0d",
+    "subject_id": "ep_b8631b7c2c5f2102",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "黄德贵向白雪梅施加控制以迫使其屈服的情节发生在小黑屋中，包含其试图通过给予红色衣服和提出不锁她的条件进行心理操控，而性侵犯情节发生在父母离开并关门后，白雪梅已无力反抗。根据事件顺序，控制与压迫行为在时间上先于性侵犯的发生，且两情节均围绕黄德贵对白雪梅的逐步侵犯展开，前者为后者铺垫了权力压制的语境。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a00f3a53095d",
+    "subject_id": "ep_99a34ff897090e2a",
+    "object_id": "ep_b8631b7c2c5f2102",
+    "relation_type": "precedes",
+    "reason": "黄德贵初次侵犯白雪梅并遭反抗（ep_99a34ff897090e2a）发生在黄德贵向白雪梅施加控制以迫使其屈服（ep_b8631b7c2c5f2102）之前，依据文档中事件的叙事顺序：初次侵犯属于早期暴力行为，而后续控制行为包括心理操控和囚禁状态的持续施加，表明前者在时间上先于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_64f569b99b57",
+    "subject_id": "ep_a38b1bfc95bec982",
+    "object_id": "ep_b8631b7c2c5f2102",
+    "relation_type": "precedes",
+    "reason": "揭露买卖婚姻真相并劝服白雪梅接受发生在黄德贵向白雪梅施加控制之前，根据叙事顺序，家人告知白雪梅被卖的事实并劝其接受（ep_a38b1bfc95bec982）为后续黄德贵直接施加身体与心理控制（ep_b8631b7c2c5f2102）提供了上下文和前提，且两个情节分别基于scene_9和scene_28，scene_9在文档时序上早于scene_28。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e9b854e15cfc",
+    "subject_id": "ep_9c7a4899d9fd5f1d",
+    "object_id": "ep_09f2db59b8c334cb",
+    "relation_type": "precedes",
+    "reason": "黄德贵索要退款并轻视法律发生在白雪梅被殴打及最终逃脱之前，根据叙事逻辑和事件发展顺序，索要退款和否认违法行为是控制与压迫的延续，为后续暴力升级和逃脱行为提供了上下文，且两情节分别位于不同文档场景中（doc_14 vs doc_24），支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_04a88ba18b41",
+    "subject_id": "ep_09f2db59b8c334cb",
+    "object_id": "ep_1c42a2f7e9052c1c",
+    "relation_type": "precedes",
+    "reason": "根据描述，白雪梅在被殴打时趁机踹开黄德贵并逃离屋子（ep_09f2db59b8c334cb），随后在小卖部门口呼救并被拦截（ep_1c42a2f7e9052c1c），两个情节在叙事顺序上呈现明确的先后关系，前者为逃脱的开始，后者为逃脱尝试的延续与升级。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_638564f455e4",
+    "subject_id": "ep_2d24ba9deab7e496",
+    "object_id": "ep_f1845e82a25ec04b",
+    "relation_type": "precedes",
+    "reason": "根据描述，白雪梅尝试呼救并遭压制（ep_2d24ba9deab7e496）发生在黄德贵父母协助实施暴力并退出房间（ep_f1845e82a25ec04b）之前。在前一情节中，黄德贵冲入小黑屋威胁白雪梅，其母亲劝阻冲突；而在后一情节中，其父母实际参与暴力并随后离开房间，关紧房门。叙事顺序和事件发展表明前者在时间上先于后者，且场景编号（scene_29 vs scene_18）虽不连续，但结合上下文可判断为先后顺序，前者为后者提供了直接的前置情境。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_16f667d6e908",
+    "subject_id": "ep_3e0fadfef82b272c",
+    "object_id": "ep_a7807a2c2517ed76",
+    "relation_type": "precedes",
+    "reason": "白雪梅断然拒绝被囚禁发生在黄德贵母亲打断谈话并离开之前，根据叙事顺序，拒绝被囚禁的情绪表达早于结束探访并承诺再次见面的情节，且两个情节均围绕白雪梅与访客互动的场景展开，具有紧密的时间序列。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cd871c3fec01",
+    "subject_id": "ep_b21686c5af43cd54",
+    "object_id": "ep_09f2db59b8c334cb",
+    "relation_type": "precedes",
+    "reason": "根据描述，黄德贵母亲劝说失败并引发新一轮压制（ep_b21686c5af43cd54）发生在白雪梅趁机踹开黄德贵并逃离（ep_09f2db59b8c334cb）之前，两个情节在叙事上呈现连续顺序，压制行为为后续暴力和逃脱提供了直接上下文，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3ebafec49011",
+    "subject_id": "ep_a7807a2c2517ed76",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "根据描述，'结束探访并承诺再次见面'发生在黄德贵父母离开并关门之前，而'黄德贵完成性侵犯'发生在父母离开并关门之后，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_75acf35bac67",
+    "subject_id": "ep_f1845e82a25ec04b",
+    "object_id": "ep_09f2db59b8c334cb",
+    "relation_type": "precedes",
+    "reason": "情节'黄德贵父母协助实施暴力并退出房间'中，黄德贵父母离开并关紧房门，将白雪梅与黄德贵独留屋内；紧接着在'制止暴力并爆发逃脱'中，白雪梅趁机踹开黄德贵并逃离。两个情节在叙事上紧密衔接，前者为后者提供了直接的场景前提，且事件顺序在描述中呈现清晰的时间先后。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a3c39ba5ea20",
+    "subject_id": "ep_c08b467b1c9fdc33",
+    "object_id": "ep_a7807a2c2517ed76",
+    "relation_type": "precedes",
+    "reason": "根据描述，白雪梅在陈春丽和郑小兰劝说过程中恳求帮助并表达求救意愿，发生在她们离开之前；随后陈春丽拒绝喝水并宣布离开，白雪梅请求她们以后再来看她。两个情节均发生在scene_40，但逻辑和叙事顺序上，求救意愿的表达早于结束探访的行动。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8c852fdc8125",
+    "subject_id": "ep_a38b1bfc95bec982",
+    "object_id": "ep_d639949b69161206",
+    "relation_type": "precedes",
+    "reason": "揭露买卖婚姻真相并劝服白雪梅接受发生在黄德贵提供食物并建立控制之前，根据文档中事件的叙述顺序，前者在scene_9，后者在scene_15，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9643a2454bf2",
+    "subject_id": "ep_39b222e17ca8605c",
+    "object_id": "ep_c08b467b1c9fdc33",
+    "relation_type": "elaborates",
+    "reason": "情节'劝说白雪梅接受现实并放弃逃跑'提供了陈春丽和郑小兰劝说的背景和过程，而'白雪梅恳求帮助并表达求救意愿'在此情境下进一步揭示了白雪梅的内心状态和反应，扩展了劝说场景的情感维度。后者通过展现白雪梅对劝说的回应，补充并深化了前一情节的叙事内容。",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8131baacbc34",
+    "subject_id": "ep_338aa42acc34afb6",
+    "object_id": "ep_384f97c9db66171f",
+    "relation_type": "precedes",
+    "reason": "白雪梅苏醒并察觉异常后，才主动向黄德贵父亲询问吴经理下落，表现出脱离困境的初步努力。两个情节均发生在scene_9，且逻辑上苏醒并察觉异常是后续寻求帮助行为的前提，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3b744628cd88",
+    "subject_id": "ep_384f97c9db66171f",
+    "object_id": "ep_a38b1bfc95bec982",
+    "relation_type": "precedes",
+    "reason": "白雪梅寻求帮助并质问吴经理下落发生在黄德贵父母揭露买卖婚姻真相之前，根据场景顺序（scene_9）中的事件流，她先尝试联系外界，随后才被明确告知被贩卖的事实，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e674c14cefe3",
+    "subject_id": "ep_338aa42acc34afb6",
+    "object_id": "ep_37fae9611a022064",
+    "relation_type": "precedes",
+    "reason": "白雪梅苏醒并察觉异常发生在她恳求释放并遭强行囚禁之前，根据描述，她先发现自身物品丢失并意识到危险，随后才发生恳求离开并被囚禁的情节，二者在同一个文档场景（scene_9）中按时间顺序推进。",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5c42f865f891",
+    "subject_id": "ep_a38b1bfc95bec982",
+    "object_id": "ep_37fae9611a022064",
+    "relation_type": "precedes",
+    "reason": "根据描述，黄德贵父母告知白雪梅她被买卖并劝其接受安排，发生在白雪梅恳求释放并被囚禁之前，两个情节均发生在scene_9，但逻辑和叙事顺序上，告知真相在先，引发恳求和反抗在后。",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3b09f507358d",
+    "subject_id": "ep_d639949b69161206",
+    "object_id": "ep_f1845e82a25ec04b",
+    "relation_type": "precedes",
+    "reason": "黄德贵通过提供食物建立控制发生在压制和暴力实施之前，叙事上为后续的控制升级铺垫，时间顺序明确。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b57e8fc33793",
+    "subject_id": "ep_a38b1bfc95bec982",
+    "object_id": "ep_ca65891ed1b885f2",
+    "relation_type": "precedes",
+    "reason": "情节 '揭露买卖婚姻真相并劝服白雪梅接受' 发生在黄德贵父母告知白雪梅她被卖给黄德贵并劝其接受的场景中（scene_9），而 '白雪梅初次求放并下跪祈求' 发生在后续场景（scene_15）中，明确显示前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_51695c04ed54",
+    "subject_id": "ep_d639949b69161206",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "黄德贵提供食物并建立控制发生在父母离开并关门之前，为后续的性侵犯行为建立权力不对等的背景，叙事上早于黄德贵完成性侵犯。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aa5fa950a883",
+    "subject_id": "ep_a38b1bfc95bec982",
+    "object_id": "ep_3e0fadfef82b272c",
+    "relation_type": "causes",
+    "reason": "黄德贵父母揭露买卖婚姻真相并劝服白雪梅接受（ep_a38b1bfc95bec982）直接引发白雪梅情绪突变并断然拒绝被囚禁（ep_3e0fadfef82b272c），文本显示其反抗意志是对该劝服行为的即时反应，构成直接因果关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2c112f640260",
+    "subject_id": "ep_a00f40bb9fab6896",
+    "object_id": "ep_d8ef9b5eae235763",
+    "relation_type": "causes",
+    "reason": "胡姐在主体情节中承诺多跑几趟即可还债，直接回应白雪梅的焦虑，这一承诺导致客体情节中白雪梅脸上露出笑容，完成情绪转变。文本明确支持这一因果链：承诺还债的行动直接引发情绪放松的结果。",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_aa3e481ef7e6",
+    "subject_id": "ep_384f97c9db66171f",
+    "object_id": "ep_37fae9611a022064",
+    "relation_type": "precedes",
+    "reason": "白雪梅先向黄德贵父亲询问吴经理下落并试图求助（ep_384f97c9db66171f），随后在恳求无果后被强行囚禁（ep_37fae9611a022064），两个情节均发生在scene_9，且逻辑与叙事顺序上前者为后者前奏。",
+    "source_documents": [
+      "scene_9_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_09843cfbcf70",
+    "subject_id": "ep_d639949b69161206",
+    "object_id": "ep_99a34ff897090e2a",
+    "relation_type": "precedes",
+    "reason": "黄德贵提供食物并建立控制发生在其初次侵犯白雪梅之前，通过递上面条和点燃香烟建立权力不对等的基调，为后续侵犯行为铺垫情境，叙事上具有明确的先后顺序。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e03664d336e7",
+    "subject_id": "ep_bcbd4ed7c746449c",
+    "object_id": "ep_d8ef9b5eae235763",
+    "relation_type": "precedes",
+    "reason": "白雪梅表达感激与强化合作关系发生在胡姐安慰并承诺之后，而胡姐的安慰直接导致白雪梅情绪转变并露出笑容。根据描述，情感交流强化信任在前，情绪转变完成心理安抚在后，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b6caf15b0542",
+    "subject_id": "ep_a38b1bfc95bec982",
+    "object_id": "ep_b21686c5af43cd54",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述黄德贵父母告知白雪梅她被买卖并劝其接受，第二个情节描述劝说失败后父亲下令强行制服她。叙事上，劝说发生在压制之前，且第二个情节中的‘劝说失败’直接依赖于前一情节的劝说行为，表明时间顺序上的先后关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0c53caf21839",
+    "subject_id": "ep_a38b1bfc95bec982",
+    "object_id": "ep_a62b178091b2db6b",
+    "relation_type": "precedes",
+    "reason": "情节 '揭露买卖婚姻真相并劝服白雪梅接受' 发生在黄德贵父母告知白雪梅她被买来的场景中（scene_9），而情节 '黄德贵提出留下换善待的条件' 发生在后续的 scene_15。根据文档中的场景顺序，scene_9 在 scene_15 之前，因此该关系在叙事顺序上明确早于。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5ca17d7037cf",
+    "subject_id": "ep_9a099077cbc8003b",
+    "object_id": "ep_d8ef9b5eae235763",
+    "relation_type": "causes",
+    "reason": "胡姐通过估计收入数字增强白雪梅的信心，这一经济收益的确认直接促成了白雪梅后续情绪的转变，表现为露出笑容，完成心理安抚。描述中表明情绪转变是在‘胡姐的安慰与承诺后’发生，而收入预期的讨论正是该安慰的核心内容，构成直接因果链。",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ecaef54e7e50",
+    "subject_id": "ep_a38b1bfc95bec982",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "根据描述，黄德贵父母告知白雪梅她被买卖并劝其接受（ep_a38b1bfc95bec982）发生在父母离开并关门之后黄德贵实施性侵犯（ep_bb0c8ede6a152753）之前，两个情节在叙事顺序上具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bd5ad6e2c1d9",
+    "subject_id": "ep_592985af98e81fac",
+    "object_id": "ep_d8ef9b5eae235763",
+    "relation_type": "precedes",
+    "reason": "根据描述，白雪梅和胡姐先表达旅途疲惫并建立情感共鸣，随后在胡姐安慰后白雪梅露出笑容，完成情绪转变。两个情节均发生在scene_4，但逻辑和叙事顺序上，情感共鸣建立在前，心理安抚完成在后，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ae0138bf0f2a",
+    "subject_id": "ep_ca65891ed1b885f2",
+    "object_id": "ep_f1845e82a25ec04b",
+    "relation_type": "precedes",
+    "reason": "白雪梅初次求放并下跪祈求发生在黄德贵父母协助实施暴力并退出房间之前，根据事件序列，求放行为未成功，随后升级为暴力压制，符合叙事时间顺序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2c5d81ee3625",
+    "subject_id": "ep_ca65891ed1b885f2",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "白雪梅初次求放并下跪祈求发生在黄德贵完成性侵犯之前，根据叙事顺序，求放行为是侵犯发生前的抵抗尝试，文本中描述的‘父母离开并关门后’事件发展表明时间上的先后顺序。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_52ceb883d2d0",
+    "subject_id": "ep_3e0fadfef82b272c",
+    "object_id": "ep_99a34ff897090e2a",
+    "relation_type": "precedes",
+    "reason": "白雪梅断然拒绝被囚禁发生在黄德贵初次侵犯她之前，根据叙事逻辑和事件发展顺序，拒绝行为是侵犯发生的前置反应，因此该情节在话语顺序上早于侵犯情节。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c08a7bbf36e2",
+    "subject_id": "ep_a62b178091b2db6b",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "黄德贵提出留下换善待的条件发生在其完成性侵犯之前，根据叙事顺序，先有以留下为前提的善待承诺，随后在父母离开后发生侵犯行为，表明两个情节在时间线上有序发生。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3d81e1a775c5",
+    "subject_id": "ep_a38b1bfc95bec982",
+    "object_id": "ep_f1845e82a25ec04b",
+    "relation_type": "precedes",
+    "reason": "情节 '揭露买卖婚姻真相并劝服白雪梅接受' 发生在黄德贵父母告知白雪梅她被卖并劝其接受的场景中（scene_9），而情节 '黄德贵父母协助实施暴力并退出房间' 发生在后续的 scene_18，包含压制、撕扯衣物和关门等行为。根据文档中场景编号的顺序，scene_9 明确早于 scene_18，因此该关系在叙事顺序上为 precedes。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d1fe737a7262",
+    "subject_id": "ep_ca65891ed1b885f2",
+    "object_id": "ep_b21686c5af43cd54",
+    "relation_type": "precedes",
+    "reason": "白雪梅初次求放并下跪祈求（doc_14）发生在黄德贵母亲劝说失败并引发新一轮压制（doc_17）之前，依据文档ID的顺序（doc_14早于doc_17），且两个情节分别代表被囚初期的求放尝试与后续家庭干预失败的升级压制，叙事时间线上存在先后顺序。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bdcd2122f178",
+    "subject_id": "ep_a62b178091b2db6b",
+    "object_id": "ep_f1845e82a25ec04b",
+    "relation_type": "precedes",
+    "reason": "黄德贵提出留下换善待的条件发生在其父母协助实施暴力并退出房间之前，叙事上前者为劝服阶段，后者为暴力升级并独处的阶段，且文档事件序列（scene_15 在 scene_18 之前）支持该时间顺序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fca9c5da93d9",
+    "subject_id": "ep_3e0fadfef82b272c",
+    "object_id": "ep_b21686c5af43cd54",
+    "relation_type": "precedes",
+    "reason": "白雪梅断然拒绝被囚禁发生在黄德贵母亲劝说失败并引发新一轮压制之前，根据事件序列，前者是后者劝说失败的前置反应，且相关场景（scene_15）在时间上早于后者包含的场景（scene_18）。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_79b2bb1bfe47",
+    "subject_id": "ep_3e0fadfef82b272c",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "白雪梅断然拒绝被囚禁发生在黄德贵完成性侵犯之前，根据描述，拒绝行为是情绪突变和反抗的体现，而性侵犯发生在父母离开并关门后，白雪梅已无力反抗，表明时间顺序上前者早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b3ee5e306965",
+    "subject_id": "ep_3e0fadfef82b272c",
+    "object_id": "ep_f1845e82a25ec04b",
+    "relation_type": "precedes",
+    "reason": "白雪梅断然拒绝被囚禁发生在黄德贵父母协助实施暴力并退出房间之前，根据事件序列，拒绝行为触发了后续的压制行动，且相关场景编号（scene_15 在 scene_18 之前）支持该时间顺序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7bf510755369",
+    "subject_id": "ep_347bfe5f5c52031a",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "白雪梅提议赎身并遭拒发生在黄德贵完成性侵犯之前，根据文档顺序和事件发展逻辑，拒绝赎身后情境恶化，导致后续侵犯行为。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a4ed3d06a072",
+    "subject_id": "ep_1c42a2f7e9052c1c",
+    "object_id": "ep_ca65891ed1b885f2",
+    "relation_type": "precedes",
+    "reason": "根据描述，白雪梅在小卖部门口呼救并被拦截（ep_1c42a2f7e9052c1c）是冲突的初步升级，而随后她主动下跪祈求释放（ep_ca65891ed1b885f2）表现为更进一步的求生尝试，显示出从激烈反抗到情感恳求的叙事 progression。因此，前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_91fd6e0b179b",
+    "subject_id": "ep_0ab6dbc54d7ba70f",
+    "object_id": "ep_1c42a2f7e9052c1c",
+    "relation_type": "precedes",
+    "reason": "白雪梅申诉自己被骗发生在她呼救并被拦截之前，根据描述，她先向村主任哭诉求助，随后在小卖部门口呼救并被拦截，叙事顺序明确。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eeaa861e62a7",
+    "subject_id": "ep_9c7a4899d9fd5f1d",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，黄德贵索要退款并轻视法律发生在场景15，而黄德贵完成性侵犯发生在场景18，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a6996ad622e3",
+    "subject_id": "ep_347bfe5f5c52031a",
+    "object_id": "ep_b21686c5af43cd54",
+    "relation_type": "precedes",
+    "reason": "白雪梅提议赎身并遭拒（scene_15）发生在黄德贵母亲劝说失败并引发新一轮压制（scene_18）之前，根据文档中场景编号的顺序，scene_15早于scene_18，表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_adc620d4e96e",
+    "subject_id": "ep_347bfe5f5c52031a",
+    "object_id": "ep_f1845e82a25ec04b",
+    "relation_type": "precedes",
+    "reason": "白雪梅提议赎身并遭拒（scene_15）发生在黄德贵父母协助实施暴力并退出房间（scene_18）之前，根据文档中场景编号的顺序，scene_15早于scene_18，支持该叙事时序关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f83624e63dc2",
+    "subject_id": "ep_99a34ff897090e2a",
+    "object_id": "ep_ca65891ed1b885f2",
+    "relation_type": "precedes",
+    "reason": "根据描述，黄德贵初次侵犯白雪梅并遭反抗（ep_99a34ff897090e2a）包含暴力和反抗行为，而白雪梅初次求放并下跪祈求（ep_ca65891ed1b885f2）表现为顺从和恳求释放，叙事上更可能发生在反抗之后，作为策略转变。尽管文档ID不同（doc_17 vs doc_14），但情节逻辑和行为升级模式支持前者在时间顺序上先于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b3f07aebd331",
+    "subject_id": "ep_1c42a2f7e9052c1c",
+    "object_id": "ep_99a34ff897090e2a",
+    "relation_type": "precedes",
+    "reason": "白雪梅呼救并被拦截发生在黄德贵初次侵犯她之前，根据事件描述的逻辑顺序，呼救和拦截是冲突的初步升级，而侵犯是后续的直接行动，因此该关系在叙事顺序上明确支持。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_919d76cb04e7",
+    "subject_id": "ep_1c42a2f7e9052c1c",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "白雪梅呼救并被拦截发生在黄德贵完成性侵犯之前，根据事件描述的逻辑顺序，呼救和拦截是冲突的初步升级，而性侵犯发生在父母离开并关门后，表明时间上的先后关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_94dcd1e736e9",
+    "subject_id": "ep_b5f28815883b6dbe",
+    "object_id": "ep_3920e243fc2d0a2c",
+    "relation_type": "precedes",
+    "reason": "白雪梅向村主任求助并遭敷衍发生在黄德贵带白雪梅离开现场之前，因为求助未果后白雪梅失望离开，随后才发生被强行带走的事件，叙事顺序清晰。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_44523192999f",
+    "subject_id": "ep_9c7a4899d9fd5f1d",
+    "object_id": "ep_b21686c5af43cd54",
+    "relation_type": "precedes",
+    "reason": "黄德贵索要退款并轻视法律（scene_15）发生在黄德贵母亲劝说失败并引发新一轮压制（scene_18）之前，根据场景编号的顺序，scene_15早于scene_18，因此该关系在叙事顺序上有明确支持。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_56d1aaf0460b",
+    "subject_id": "ep_9997995595fad0f3",
+    "object_id": "ep_b5f28815883b6dbe",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子质疑并指控白雪梅发生在白雪梅向村主任求助之前，根据事件逻辑顺序，指控和要求带回白雪梅的行为促使她随后向村主任求助以寻求解决，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2d5a07f702fa",
+    "subject_id": "ep_4cc0cc5803d62175",
+    "object_id": "ep_02cc354a4759b3e4",
+    "relation_type": "precedes",
+    "reason": "黄德贵进入小卖部并开始购烟发生在回应质疑并离开现场之前，根据描述顺序和事件流，购烟行为启动后才出现质疑与回应，因此该情节在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c324e7a10bbf",
+    "subject_id": "ep_e35f53c95bb75d1e",
+    "object_id": "ep_09f2db59b8c334cb",
+    "relation_type": "precedes",
+    "reason": "黄德贵暴力制服白雪梅发生在白雪梅趁机踹开他并逃离之前，根据描述中的动作顺序，暴力制服是逃脱的直接前序事件。",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_13916f6dd906",
+    "subject_id": "ep_b321938bdaad59a4",
+    "object_id": "ep_f18191e716de855b",
+    "relation_type": "precedes",
+    "reason": "启动白雪梅的救治程序包括检查伤情、确认家属身份和开具缴费单据，这些是救治流程的早期步骤；家属表达对救治结果的担忧发生在救治过程中，时间上紧随其后，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dfa554d5372d",
+    "subject_id": "ep_b4db311ec6f941ad",
+    "object_id": "ep_a7807a2c2517ed76",
+    "relation_type": "precedes",
+    "reason": "引导并安置两名妇女进入小黑屋发生在结束探访并承诺再次见面之前，依据文档中场景编号（scene_39 在 scene_40 之前）和事件顺序的明确时间流。前者涉及将妇女带入屋内并安置，后者涉及她们离开并承诺再会，构成连续叙事中的先后步骤。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_104b6230b5ef",
+    "subject_id": "ep_27c343eef7a69677",
+    "object_id": "ep_e35f53c95bb75d1e",
+    "relation_type": "precedes",
+    "reason": "根据描述，黄德贵母亲安抚白雪梅并劝其进食的行为发生在黄德贵暴力制服白雪梅之前，两者均关联到同一场景（scene_25），但劝说行为在叙事逻辑上先于暴力行为，以体现从安抚到强制的过渡。",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_736cb254c7f9",
+    "subject_id": "ep_1c42a2f7e9052c1c",
+    "object_id": "ep_9997995595fad0f3",
+    "relation_type": "precedes",
+    "reason": "白雪梅呼救并被拦截发生在黄德贵父子质疑并指控白雪梅之前，根据场景27中的事件顺序，呼救和拦截是冲突的初步升级，随后才是黄德贵及其父亲的反驳和指控。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ffa4ce292f5a",
+    "subject_id": "ep_497e13b08e1805a2",
+    "object_id": "ep_2b406ec25d5d25f9",
+    "relation_type": "precedes",
+    "reason": "村主任介入并控制现场发生在其裁定白雪梅暂回黄家之前，逻辑上必须先控制局面才能做出裁决，且两个情节均关联到同一场景（scene_27），表明连续的叙事顺序。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_15ad9188af19",
+    "subject_id": "ep_99a34ff897090e2a",
+    "object_id": "ep_e184e66b3722ea7a",
+    "relation_type": "precedes",
+    "reason": "黄德贵初次侵犯白雪梅并遭反抗发生在其被父亲斥责并被迫重返房间之前，根据描述，黄德贵因无法制服白雪梅而离开房间，随后才被父亲拦下并训斥，叙事顺序明确。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7ba5d7ddcaef",
+    "subject_id": "ep_9997995595fad0f3",
+    "object_id": "ep_2b406ec25d5d25f9",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子质疑并指控白雪梅发生在村主任裁定白雪梅暂回黄家之前，因为指控是引发村主任介入并作出裁定的直接前提，且在事件逻辑顺序上，争议先发生，裁决后作出。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f77770af83c1",
+    "subject_id": "ep_2b406ec25d5d25f9",
+    "object_id": "ep_3920e243fc2d0a2c",
+    "relation_type": "precedes",
+    "reason": "村主任裁定白雪梅暂回黄家后，黄德贵才带她离开现场，叙事顺序明确：裁决先发生，随后执行离开行为。描述中‘在村主任裁决后’直接支持该时间顺序。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b6c39910cc4b",
+    "subject_id": "ep_497e13b08e1805a2",
+    "object_id": "ep_3920e243fc2d0a2c",
+    "relation_type": "precedes",
+    "reason": "村主任介入并控制现场发生在黄德贵带白雪梅离开现场之前，因为村主任的介入为后续裁决建立权威语境，而裁决后黄德贵才强行带白雪梅离开，叙事顺序明确。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7f2e5778eb9f",
+    "subject_id": "ep_17b22e419e325d0f",
+    "object_id": "ep_76ed5d14dfb30981",
+    "relation_type": "precedes",
+    "reason": "举行婚宴庆祝活动在时间上先于婚宴结束后清理现场，描述中明确指出清理发生在婚宴结束、人群散去后，符合叙事顺序上的先后关系。",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ed380bff85dd",
+    "subject_id": "ep_1c42a2f7e9052c1c",
+    "object_id": "ep_3920e243fc2d0a2c",
+    "relation_type": "precedes",
+    "reason": "白雪梅呼救并被拦截发生在黄德贵带白雪梅离开现场之前，根据描述，前者是冲突的初步升级，后者是在村主任裁决后的结果，事件顺序清晰且由同一场景（scene_27）中的连续动作支持。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_11f6d3ef68ee",
+    "subject_id": "ep_27c343eef7a69677",
+    "object_id": "ep_09f2db59b8c334cb",
+    "relation_type": "precedes",
+    "reason": "根据描述，黄德贵母亲安抚白雪梅并劝其进食发生在白雪梅被殴打并最终逃脱之前，属于同一场景中的先后行为序列。安抚行为是施暴前的互动，而白雪梅的逃脱是对持续暴力的反应，因此‘安抚白雪梅并劝其进食’在叙事顺序上早于‘制止暴力并爆发逃脱’。",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2d0b5a665c77",
+    "subject_id": "ep_b8631b7c2c5f2102",
+    "object_id": "ep_ca65891ed1b885f2",
+    "relation_type": "precedes",
+    "reason": "根据描述，黄德贵对白雪梅施加控制的情节（ep_b8631b7c2c5f2102）发生在小黑屋场景中，包含白雪梅因恐惧闪躲的反应；而白雪梅主动下跪祈求释放（ep_ca65891ed1b885f2）发生在更早的scene_15。related_events中的scene编号（scene_15早于scene_28）支持该时间顺序，因此主体情节在叙事顺序上晚于客体情节，即客体先于主体。但由于关系方向要求subject -> object，此处应为object precedes subject，不符合方向性。然而，precedes关系允许从时间早到晚的直接指向，因此若以时间先后为准，ep_ca65891ed1b885f2发生在ep_b8631b7c2c5f2102之前，故正确方向应为ep_ca65891ed1b885f2 precedes ep_b8631b7c2c5f2102。但当前subject为ep_b8631b7c2c5f2102，object为ep_ca65891ed1b885f2，即主体在后，客体在前，因此主体不能precedes客体。综上，正确关系方向不成立，不能选precedes。无其他明确因果、对比或扩展支持，故最终应为NONE。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8a7bb4908c9f",
+    "subject_id": "ep_80b10f8b6d7016b2",
+    "object_id": "ep_9960a5070b84cae1",
+    "relation_type": "precedes",
+    "reason": "黄德诚带队上学并途中互动发生在学生起哄索要婚礼喜糖之前，因为前者是前往学校的路上与村民和学生的交流，而后者是在同一场景（scene_22）中后续发生的围绕婚礼的集体互动，叙事顺序上具有连贯性和时间先后。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d361faf19736",
+    "subject_id": "ep_17b22e419e325d0f",
+    "object_id": "ep_6b2f5bed9e6cf2f8",
+    "relation_type": "elaborates",
+    "reason": "举行婚宴庆祝活动设定了黄德贵家婚宴的总体场景和氛围，而实施集体逼酒仪式则在该场景内展开，提供了关于酒桌互动的具体细节和动态，扩展了婚宴中的社会压力和强迫行为，因此后者对前者进行了情节上的细化和补充。",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e8de7f770912",
+    "subject_id": "ep_94a84040a470def5",
+    "object_id": "ep_848ee2306b8cbdfa",
+    "relation_type": "elaborates",
+    "reason": "朋友讨论如何控制妻子（ep_94a84040a470def5）提供了关于朋友劝黄德贵回家同房（ep_848ee2306b8cbdfa）的背景和动机，解释了为何建议黄德贵通过同房来解决问题，因此前者为后者提供了进一步的解释和扩展。",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_cfae71471b1e",
+    "subject_id": "ep_e171594d8cbf66b3",
+    "object_id": "ep_94a84040a470def5",
+    "relation_type": "precedes",
+    "reason": "黄德贵突访朋友牌局（ep_e171594d8cbf66b3）在叙事顺序上先发生，随后朋友们才围绕他与妻子的关系展开讨论并提出控制建议（ep_94a84040a470def5），两个情节共享同一场合'朋友家中的牌局聚会'，且事件序列在描述中呈现明确的时间先后。",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3b1d6a1d5b47",
+    "subject_id": "ep_6371cdaf81a09a6f",
+    "object_id": "ep_fe41169fdc7e6b42",
+    "relation_type": "precedes",
+    "reason": "根据描述，白雪梅与吴经理在公交车上共度盘山旅程（ep_6371cdaf81a09a6f）发生在他们进入旅馆办理入住（ep_fe41169fdc7e6b42）之前，这是从叙事顺序中可推断的连贯行程：先旅途，后抵达并入住旅馆。相关事件和场合支持这一时间顺序。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e99626b1e2be",
+    "subject_id": "ep_3f6d03e39b618df2",
+    "object_id": "ep_e9658afbda9904c8",
+    "relation_type": "precedes",
+    "reason": "主体情节‘团队登上三蹦子准备出发’发生在文档5的场景6，而客体情节‘处理水瓶传递与拒绝’发生在文档6的场景7，叙事顺序上前者早于后者，且两者属于连续旅途中的相继事件，因此主体情节在话语顺序上直接先于客体情节。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_241ee9aa4a47",
+    "subject_id": "ep_7d86ef070174f084",
+    "object_id": "ep_2015eb941bcb823b",
+    "relation_type": "precedes",
+    "reason": "白雪梅激烈反抗黄德贵母亲的劝说发生在送医之前，因为反抗行为是导致家庭决定送医的背景情境之一，且叙事上先有冲突，后有紧急送医行动。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1d35b804c2e7",
+    "subject_id": "ep_bd9f5f6abaac84c0",
+    "object_id": "ep_2015eb941bcb823b",
+    "relation_type": "precedes",
+    "reason": "白雪梅逃亡并呼救是她试图逃离控制的紧急行动，而前往医院并送白雪梅就医是后续的救援行为。根据叙事逻辑，逃亡和呼救必须发生在被送往医院之前，因此该关系在时间顺序上明确支持。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f3d6d092e4e4",
+    "subject_id": "ep_27bc44e5883b295b",
+    "object_id": "ep_fe41169fdc7e6b42",
+    "relation_type": "precedes",
+    "reason": "主体情节描述抵达山脚村落并进入夜间状态，发生在旅途结束阶段，客体情节描述进入旅馆办理入住，是抵达后的下一步集体行动。根据叙事顺序，抵达村落是进入旅馆的前提，且时间上由天色渐暗和入睡标记阶段结束，支持主体情节在客体情节之前发生。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a1fda6fcbbde",
+    "subject_id": "ep_384f97c9db66171f",
+    "object_id": "ep_2015eb941bcb823b",
+    "relation_type": "precedes",
+    "reason": "白雪梅寻求帮助并质问吴经理下落发生在送医之前，因为寻求帮助是脱离困境的初步努力，而送医是后续紧急行动，叙事上前者早于后者。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a51ba9c39423",
+    "subject_id": "ep_36356c0072dc8b0c",
+    "object_id": "ep_2015eb941bcb823b",
+    "relation_type": "precedes",
+    "reason": "救援受伤的白雪梅（发现伤情并决定送医）在叙事上紧接在前往医院并送白雪梅就医之前，且前者中的‘抬起白雪梅’直接衔接后者的‘乘坐三蹦子前往医院’，文本中事件序列显示明确的时间先后顺序。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_32d823678d87",
+    "subject_id": "ep_ecfb4f1f1e7a2e1b",
+    "object_id": "ep_2015eb941bcb823b",
+    "relation_type": "precedes",
+    "reason": "发现白雪梅被囚禁并求救的情节发生在送她前往医院之前，因为只有在发现她被捆绑并求救后，黄德贵一家人才会采取行动将她送往医院。文本中两个情节的事件序列支持这一时间顺序。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_037f6390526b",
+    "subject_id": "ep_1b7ed10f714fd93e",
+    "object_id": "ep_3f6d03e39b618df2",
+    "relation_type": "precedes",
+    "reason": "吴经理委托白雪梅看管包包并离开（ep_1b7ed10f714fd93e）发生在团队登上三蹦子准备出发（ep_3f6d03e39b618df2）之前，根据事件的时间顺序和场景发展逻辑，委托与离场后才进行交通工具上的集结，因此该关系在叙事顺序上明确支持 'precedes'。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e0b3f2203f31",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_2015eb941bcb823b",
+    "relation_type": "precedes",
+    "reason": "白雪梅被囚禁的情节发生在黄德贵一家送她就医之前，根据叙事逻辑和事件发展顺序，囚禁是导致后续送医的前提情境，且两个情节在文档中按时间先后分别描述，支持‘precedes’关系。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9ef08681d23e",
+    "subject_id": "ep_3f6d03e39b618df2",
+    "object_id": "ep_eed40db66b07d682",
+    "relation_type": "precedes",
+    "reason": "根据描述，'讨论任务与能力准备'发生在早点摊的场合中，是当天任务的背景设定和准备阶段，而'团队登上三蹦子准备出发'是后续的出行行动。文本中'准备出发'与'就位，准备启程'表明该情节紧随准备之后，具有明确的叙事时间顺序。因此，'团队登上三蹦子准备出发'在叙事顺序上晚于'讨论任务与能力准备'，支持后者先于前者。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ba8334ec9cb1",
+    "subject_id": "ep_d639949b69161206",
+    "object_id": "ep_d7430b05e6f1cadc",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，黄德贵提供食物并建立控制（scene_15）发生在白雪梅抵抗其侵扰（scene_10）之后，但scene编号表明scene_10早于scene_15，因此情节'抵抗并阻止黄德贵的侵扰'在叙事顺序上先于'黄德贵提供食物并建立控制'。尽管权力建立行为可能意在后续控制，但抵抗事件在时间线上先发生，支持precedes关系（object -> subject），但由于关系方向需为subject -> object，而此处不成立，故不取反向。然而，基于scene编号的明确顺序，scene_10在scene_15之前，因此ep_d7430b05e6f1cadc在ep_d639949b69161206之前发生，若subject为后者，object为前者，则subject不能precedes object。因此正确方向应为object precedes subject，但关系类型precedes为有向，不能反向成立。由于无法确定subject -> object的precedes，且无其他支持关系，故原判断错误。重新评估：无足够证据支持subject->object的任何允许关系，且因果、对比、扩展均无明确依据，因此应为NONE。但此前误判。修正：scene_10（抵抗）发生在scene_15（给面）之前，因此ep_d7430b05e6f1cadc precedes ep_d639949b69161206。但当前subject是ep_d639949b69161206，object是ep_d7430b05e6f1cadc，即主体在后，客体在前，因此主体不能precedes客体。相反，客体precedes主体，但关系方向不符。其他关系：causes？提供食物是否导致抵抗？描述中抵抗发生在黄德贵闯入房间时，而提供食物是另一场景，且时间上在后，故不可能causes。contrasts_with？一个展示控制，一个展示抵抗，确有权力对抗的张力，但两情节未被并置强调对比，且分属不同场景，无文本支持其对称对比结构。elaborates？前者未解释后者，反之亦然。因此，尽管存在时间顺序（object precedes subject），但subject -> object的precedes不成立，其他关系无支持。最终：无有效关系可被证明。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d270d4311707",
+    "subject_id": "ep_27bc44e5883b295b",
+    "object_id": "ep_2015eb941bcb823b",
+    "relation_type": "precedes",
+    "reason": "根据描述，'抵达山脚村落并进入夜间状态' 发生在旅途中，白雪梅在车上睡着，标志着旅途阶段的结束；而 '前往医院并送白雪梅就医' 是后续抵达医院并进行紧急送医的过程。两个情节均涉及三蹦子行程，但山脚村落的抵达在叙事顺序上早于医院送医，因此主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_83b2a14b45a2",
+    "subject_id": "ep_f492719daeef9b97",
+    "object_id": "ep_3acde2d2e016611b",
+    "relation_type": "precedes",
+    "reason": "处理喂猪前的冲突与准备（ep_f492719daeef9b97）发生在白雪梅喂猪的过程中，而白雪梅与路过学生短暂对视（ep_3acde2d2e016611b）发生在她喂猪后站起身时。根据描述中的动作顺序，喂猪前的准备和冲突在叙事时间上先于对视事件，因此前者在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8428b5f4621d",
+    "subject_id": "ep_27bc44e5883b295b",
+    "object_id": "ep_543585c48da802e0",
+    "relation_type": "precedes",
+    "reason": "主体情节描述三蹦子抵达山脚村落并进入夜间状态，标志着旅途结束和新环境的开始；客体情节描述黄德贵在夜间起床如厕并观察白雪梅，发生在同一夜晚的后续阶段。根据叙事时间顺序，抵达并进入夜间状态在先，黄德贵夜间活动在后，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c21045d1fdb8",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_543585c48da802e0",
+    "relation_type": "precedes",
+    "reason": "白雪梅被强行囚禁在小黑屋（ep_37fae9611a022064）发生在黄德贵夜间如厕并观察白雪梅（ep_543585c48da802e0）之前，根据场景编号scene_9早于scene_12，支持叙事顺序上的先后关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e0bfdecee94c",
+    "subject_id": "ep_53e22cdf4e94106f",
+    "object_id": "ep_bd9f5f6abaac84c0",
+    "relation_type": "precedes",
+    "reason": "情节 '展现白雪梅的创伤与环境压抑' 发生在屋内静默场景中，白雪梅处于被动状态；而 '白雪梅逃亡并呼救' 是她主动冲出屋外的紧急行动。根据叙事逻辑和事件发展顺序，压抑与创伤的呈现先于逃亡行为，构成时间与情节推进上的先后关系。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e95b6b795ca0",
+    "subject_id": "ep_53e22cdf4e94106f",
+    "object_id": "ep_7d86ef070174f084",
+    "relation_type": "precedes",
+    "reason": "情节 '展现白雪梅的创伤与环境压抑' 发生在场景20，而 '白雪梅激烈反抗黄德贵母亲的劝说' 发生在场景25，文档中场景编号递增表明叙事时间顺序。前者呈现白雪梅的沉默压抑状态，后者展现其激烈反抗，二者在情绪强度上形成递进，且时间顺序明确，支持 'precedes' 关系。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1079690ff462",
+    "subject_id": "ep_2d24ba9deab7e496",
+    "object_id": "ep_36356c0072dc8b0c",
+    "relation_type": "precedes",
+    "reason": "白雪梅尝试呼救并遭压制发生在救援受伤的白雪梅之前，根据文档顺序和事件发展逻辑，压制后才出现受伤及后续救援行动。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6ebf82f3cb04",
+    "subject_id": "ep_d72cd897a1a07b76",
+    "object_id": "ep_36356c0072dc8b0c",
+    "relation_type": "precedes",
+    "reason": "黄德贵发现白雪梅自伤并紧急求助（ep_d72cd897a1a07b76）包含黄德贵发现白雪梅割伤手腕并呼救的事件，发生在黄德诚和家人实施救援之前。根据描述，黄德贵的呼救行为是引发后续救援行动的直接前序步骤，且两个情节的事件分别位于不同文档（doc_30 vs doc_33）中，表明叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_93a29a9acee3",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_d72cd897a1a07b76",
+    "relation_type": "precedes",
+    "reason": "白雪梅被强行囚禁在小黑屋（ep_37fae9611a022064）后，黄德贵随后进入小黑屋发现她自伤并紧急求助（ep_d72cd897a1a07b76），两个情节在叙事顺序上具有明确的时间先后关系，且均发生在连续场景（scene_9 与 scene_31）中，支持前者早于后者。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5af8d33478bf",
+    "subject_id": "ep_09f2db59b8c334cb",
+    "object_id": "ep_36356c0072dc8b0c",
+    "relation_type": "precedes",
+    "reason": "情节'制止暴力并爆发逃脱'描述白雪梅逃离现场，而'救援受伤的白雪梅'发生在之后，涉及黄德诚等人发现她受伤并送医。根据叙事逻辑和事件发展顺序，逃脱必须先于救援发生，因此主体情节在时间顺序上早于客体情节。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_012cb476a7d9",
+    "subject_id": "ep_ecfb4f1f1e7a2e1b",
+    "object_id": "ep_36356c0072dc8b0c",
+    "relation_type": "precedes",
+    "reason": "发现白雪梅被囚禁并求救（ep_ecfb4f1f1e7a2e1b）发生在黄德诚和家人救援行动之前，因为孩子们的发现和求救触发了后续的救援决策和行动，时间顺序在叙事中是明确的。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_94d3fdbf70f9",
+    "subject_id": "ep_36356c0072dc8b0c",
+    "object_id": "ep_b321938bdaad59a4",
+    "relation_type": "precedes",
+    "reason": "救援受伤的白雪梅发生在将她抬上病床并启动救治程序之前。描述中显示，黄德诚和家人将白雪梅从小黑屋抬起准备转移（ep_36356c0072dc8b0c），随后在医院场景中她被抬上病床并开始检查与缴费流程（ep_b321938bdaad59a4），构成明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c5d1556140d0",
+    "subject_id": "ep_384f97c9db66171f",
+    "object_id": "ep_36356c0072dc8b0c",
+    "relation_type": "precedes",
+    "reason": "白雪梅寻求帮助并质问吴经理下落（ep_384f97c9db66171f）发生在她被发现受伤并被救援之前，是她试图脱离困境的初步行动；而救援受伤的白雪梅（ep_36356c0072dc8b0c）是后续紧急响应，文本中事件顺序支持前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_794310c1c1f5",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_36356c0072dc8b0c",
+    "relation_type": "precedes",
+    "reason": "白雪梅被强行囚禁在小黑屋（ep_37fae9611a022064）发生在黄德诚发现她受伤并决定救援之前（ep_36356c0072dc8b0c），根据事件逻辑顺序，囚禁是导致后续救援行动的前提，且两个情节均发生在同一地点（小黑屋），文本支持其时间先后关系。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d87f96d0a66c",
+    "subject_id": "ep_338aa42acc34afb6",
+    "object_id": "ep_d7430b05e6f1cadc",
+    "relation_type": "precedes",
+    "reason": "白雪梅苏醒并察觉异常发生在黄德贵闯入房间之前，根据叙事顺序，她先发现自身物品丢失并意识到危险，随后才发生黄德贵进入房间及她的抵抗行为。related_events中的scene_9早于scene_10，支持该时间顺序。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_99c08ea86a41",
+    "subject_id": "ep_bd9f5f6abaac84c0",
+    "object_id": "ep_36356c0072dc8b0c",
+    "relation_type": "precedes",
+    "reason": "白雪梅逃亡并呼救（ep_bd9f5f6abaac84c0）是她试图获得外界救援的紧急行动，而救援受伤的白雪梅（ep_36356c0072dc8b0c）是黄德诚和家人响应其状态所采取的后续行动。根据叙事逻辑和事件发展顺序，逃亡与呼救在时间上先于实际的救援行动，且文本中救援行动始于发现其受伤状态，暗示此前已有求救行为。因此，'白雪梅逃亡并呼救'在叙事顺序上早于'救援受伤的白雪梅'。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_49ff71ca6855",
+    "subject_id": "ep_384f97c9db66171f",
+    "object_id": "ep_d7430b05e6f1cadc",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，白雪梅先向黄德贵父亲询问吴经理下落（scene_9），随后在下一场景（scene_10）中发生黄德贵闯入房间及白雪梅抵抗的事件。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7ca6d1c76795",
+    "subject_id": "ep_3e0fadfef82b272c",
+    "object_id": "ep_36356c0072dc8b0c",
+    "relation_type": "precedes",
+    "reason": "根据叙事逻辑，白雪梅断然拒绝被囚禁（ep_3e0fadfef82b272c）发生在她受伤之后，而救援受伤的白雪梅（ep_36356c0072dc8b0c）是对她受伤状态的直接响应。尽管两个情节的文档来源不同，但拒绝被囚禁的情绪爆发可能先于实际受伤和救援行动，形成前因。因此，'precedes' 关系成立，方向为拒绝囚禁情节在前，救援情节在后。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c3e3aab1bb04",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_d7430b05e6f1cadc",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，白雪梅被强行囚禁（ep_37fae9611a022064）发生在scene_9，而她抵抗黄德贵的侵扰（ep_d7430b05e6f1cadc）发生在scene_10，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a92bc5b7cd04",
+    "subject_id": "ep_9e133be87c58cfe5",
+    "object_id": "ep_bd9f5f6abaac84c0",
+    "relation_type": "precedes",
+    "reason": "白雪梅在被困小黑屋中整理仪容的行为发生在她冲出房屋逃跑并呼救之前，文本中描述的顺序表明前者为准备状态，后者为行动展开，具有明确的叙事时序先后。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_51a6d3c82138",
+    "subject_id": "ep_9e133be87c58cfe5",
+    "object_id": "ep_ca65891ed1b885f2",
+    "relation_type": "precedes",
+    "reason": "白雪梅整理仪容以应对困境发生在她初次求放并下跪祈求之前，逻辑上整理仪容是为后续求放行为做准备，且在叙事中表现出从自我调整到采取行动的顺序。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7d6de900b3d8",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_9e133be87c58cfe5",
+    "relation_type": "precedes",
+    "reason": "白雪梅被强行囚禁在小黑屋（ep_37fae9611a022064）后，才在该环境中整理仪容（ep_9e133be87c58cfe5），叙事顺序由相关事件scene_9和scene_41支持，表明前者在时间上先于后者。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ba65feeb0bd0",
+    "subject_id": "ep_4960e7e4a2d8e22d",
+    "object_id": "ep_b8631b7c2c5f2102",
+    "relation_type": "contrasts_with",
+    "reason": "白雪梅主动重塑自我形象以恢复清纯可爱，体现其试图重新掌控身份；而黄德贵则试图通过施加控制和心理压迫迫使她屈服，体现外部力量的压制。两者在主体性与压迫之间形成鲜明对比，构成叙事上的对立状态。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_679271676276",
+    "subject_id": "ep_7d86ef070174f084",
+    "object_id": "ep_8e365eeaeddfe688",
+    "relation_type": "precedes",
+    "reason": "白雪梅激烈反抗黄德贵母亲的劝说发生在黄德贵对白雪梅实施性支配之前，文本中反抗行为表现为初始抵抗，随后过渡到被动顺从状态，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4313a43fe278",
+    "subject_id": "ep_4960e7e4a2d8e22d",
+    "object_id": "ep_d6e1649930d19c4e",
+    "relation_type": "elaborates",
+    "reason": "白雪梅重塑自我形象通过外貌改变体现其自我掌控的意图，而设定平等交往界限进一步在人际互动中展现其独立意识，后者为前者提供了社会行为层面的补充说明，扩展了她重建自我身份的努力。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_69a3608deadc",
+    "subject_id": "ep_338aa42acc34afb6",
+    "object_id": "ep_8e365eeaeddfe688",
+    "relation_type": "precedes",
+    "reason": "白雪梅苏醒并察觉异常发生在黄德贵对其实施性支配之前，根据叙事逻辑和事件发展顺序，受害者先意识到危险状态，随后发生性支配行为，文本中事件的时间顺序支持这一先后关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3dd7d6de05c4",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_8e365eeaeddfe688",
+    "relation_type": "precedes",
+    "reason": "白雪梅恳求释放并遭强行囚禁发生在黄德贵对其实施性支配之前，根据事件逻辑顺序，囚禁为后续性支配行为提供了情境前提，且两个情节分别基于scene_9和scene_44，表明明确的叙事时间先后。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ffa2ee781b48",
+    "subject_id": "ep_8e365eeaeddfe688",
+    "object_id": "ep_d6e1649930d19c4e",
+    "relation_type": "contrasts_with",
+    "reason": "黄德贵对白雪梅实施性支配体现权力压迫与被动承受，而白雪梅设定平等交往界限展现其主动主张尊重与独立意识，两者在人际关系权力动态上形成明显对比。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2e8a7cdc8d04",
+    "subject_id": "ep_8e365eeaeddfe688",
+    "object_id": "ep_bd9f5f6abaac84c0",
+    "relation_type": "causes",
+    "reason": "黄德贵对白雪梅实施性支配导致白雪梅心理和身体上的极度压迫，直接触发她随后冲出房屋逃跑并呼救的紧急反应。描述中‘被动顺从’‘眼神呆滞’‘心理疏离’与‘逃亡并呼救’形成明确的因果链条，表明性支配是逃亡行为的直接诱因。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ccf215b2d53e",
+    "subject_id": "ep_dbd77df9b29fd90c",
+    "object_id": "ep_f492719daeef9b97",
+    "relation_type": "precedes",
+    "reason": "黄德诚赠送书籍并告别发生在白雪梅处理喂猪前的冲突与准备之前，依据文档顺序（doc_46 在 doc_47 之前）以及情节内容的时序连贯性：赠送书籍是探访的结束，随后白雪梅开始喂猪任务并遭遇冲突。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dec947fad11b",
+    "subject_id": "ep_2d24ba9deab7e496",
+    "object_id": "ep_bd9f5f6abaac84c0",
+    "relation_type": "precedes",
+    "reason": "白雪梅在被压制后再次逃亡并呼救，叙事上前者发生在后者之前，且两次呼救行为具有时间上的先后顺序：先是在小黑屋敲窗呼救被压制，之后才冲出屋外沿土路逃跑并持续呼救，构成情节的递进发展。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_594f6dd5ae1f",
+    "subject_id": "ep_7d86ef070174f084",
+    "object_id": "ep_bd9f5f6abaac84c0",
+    "relation_type": "precedes",
+    "reason": "白雪梅激烈反抗黄德贵母亲的劝说发生在她逃亡并呼救之前，根据叙事顺序，反抗行为是逃跑的直接前序动作，且两个情节分别位于文档24和25，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4b206de03022",
+    "subject_id": "ep_3e0fadfef82b272c",
+    "object_id": "ep_bd9f5f6abaac84c0",
+    "relation_type": "precedes",
+    "reason": "白雪梅断然拒绝被囚禁发生在她逃亡并呼救之前，拒绝行为是逃亡行动的直接前奏，叙事顺序上清晰连贯。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3681260f65a1",
+    "subject_id": "ep_b8631b7c2c5f2102",
+    "object_id": "ep_bd9f5f6abaac84c0",
+    "relation_type": "precedes",
+    "reason": "黄德贵向白雪梅施加控制的情节发生在白雪梅逃亡并呼救之前，根据叙事顺序，控制行为是囚禁状态的延续，而逃亡是其后的反抗行动，文本中逃亡行为是对先前压迫的直接响应，时间顺序明确。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_281ada196b20",
+    "subject_id": "ep_0ab6dbc54d7ba70f",
+    "object_id": "ep_bd9f5f6abaac84c0",
+    "relation_type": "precedes",
+    "reason": "白雪梅申诉自己被骗发生在她逃亡并呼救之前，根据叙事逻辑，她先向村主任哭诉求救未果，随后采取逃跑行动，因此该关系在时间顺序上具有较强支持。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8c88da28bf60",
+    "subject_id": "ep_338aa42acc34afb6",
+    "object_id": "ep_bd9f5f6abaac84c0",
+    "relation_type": "precedes",
+    "reason": "白雪梅苏醒并察觉异常发生在她逃亡并呼救之前，根据叙事逻辑，她必须先意识到危险，然后才采取逃跑和呼救的行动。描述中‘开始意识到自己可能陷入危险’与‘试图逃离控制的紧急行动’之间存在明确的时间顺序。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_491d992eb7f8",
+    "subject_id": "ep_384f97c9db66171f",
+    "object_id": "ep_bd9f5f6abaac84c0",
+    "relation_type": "precedes",
+    "reason": "白雪梅先向黄德贵父亲询问吴经理下落并试图求助，随后从屋中冲出逃跑并呼救，两个情节在叙事上呈现清晰的时间顺序，前者为脱离困境的初步努力，后者为紧急逃离行动，符合precedes关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ac7f10cc9e72",
+    "subject_id": "ep_bb0c8ede6a152753",
+    "object_id": "ep_bd9f5f6abaac84c0",
+    "relation_type": "precedes",
+    "reason": "黄德贵完成性侵犯后，白雪梅随后从屋中冲出逃跑并呼救，事件在叙事顺序上明确先后发生。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_468c99c75e96",
+    "subject_id": "ep_39b222e17ca8605c",
+    "object_id": "ep_bd9f5f6abaac84c0",
+    "relation_type": "precedes",
+    "reason": "根据叙事逻辑和事件发展顺序，劝说白雪梅接受现实并放弃逃跑的情节发生在她实际逃亡并呼救之前，因为劝说行为旨在阻止逃跑，而逃跑行为是对劝说失败的回应。尽管两个情节来自不同文档，但情节内容和目标的对立性支持劝说在前、逃亡在后的时序关系。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_785a8664b7f2",
+    "subject_id": "ep_99a34ff897090e2a",
+    "object_id": "ep_bd9f5f6abaac84c0",
+    "relation_type": "precedes",
+    "reason": "黄德贵初次侵犯白雪梅并遭反抗发生在白雪梅逃亡并呼救之前，根据叙事顺序，白雪梅在反抗后从屋中冲出逃跑并呼救，表明前一情节在时间上直接早于后一情节。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fa6608f0afa5",
+    "subject_id": "ep_09f2db59b8c334cb",
+    "object_id": "ep_bd9f5f6abaac84c0",
+    "relation_type": "precedes",
+    "reason": "主体情节'制止暴力并爆发逃脱'描述白雪梅踹开黄德贵并冲出屋子，直接导致客体情节'白雪梅逃亡并呼救'中她沿土路逃跑并呼喊救命。两个情节在叙事上连续，且'逃离屋子'是'逃亡并呼救'的前置动作，文档顺序（doc_24 到 doc_25）也支持时间先后关系。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_593aedc663a4",
+    "subject_id": "ep_347bfe5f5c52031a",
+    "object_id": "ep_bd9f5f6abaac84c0",
+    "relation_type": "precedes",
+    "reason": "白雪梅提议赎身并遭拒发生在她逃亡并呼救之前，因为赎身提议被黄德贵拒绝后，她失去了通过协商脱身的可能，从而触发了后续的逃跑行动。两个情节在叙事上紧密衔接，且事件顺序由文档场景编号（scene_15 在 scene_26 之前）支持。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_649427024de6",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_bd9f5f6abaac84c0",
+    "relation_type": "precedes",
+    "reason": "白雪梅被强行囚禁在小黑屋（ep_37fae9611a022064）后，随后从屋中冲出逃跑并呼救（ep_bd9f5f6abaac84c0），在叙事顺序上前者明确早于后者。囚禁是逃跑的直接前提，逃跑行为是对先前囚禁的响应，时间顺序清晰且由事件链条支持。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6beaa521bc32",
+    "subject_id": "ep_ecfb4f1f1e7a2e1b",
+    "object_id": "ep_bd9f5f6abaac84c0",
+    "relation_type": "precedes",
+    "reason": "根据描述，白雪梅被囚禁并求救（ep_ecfb4f1f1e7a2e1b）发生在她从屋中冲出逃跑并呼救（ep_bd9f5f6abaac84c0）之前。文本中显示她先被发现捆绑在炕上并试图求救，之后才冲出屋外逃跑，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_67ed74f214af",
+    "subject_id": "ep_338aa42acc34afb6",
+    "object_id": "ep_b5f28815883b6dbe",
+    "relation_type": "precedes",
+    "reason": "白雪梅苏醒并察觉异常发生在她向村主任求助之前，因为她在确认自身处境并发现物品丢失后，才采取行动前往村委会寻求帮助，叙事顺序上具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6b3d10f7e34c",
+    "subject_id": "ep_7d86ef070174f084",
+    "object_id": "ep_b5f28815883b6dbe",
+    "relation_type": "precedes",
+    "reason": "白雪梅激烈反抗黄德贵母亲的劝说发生在她向村主任求助之前，根据叙事顺序，反抗行为是后续求助行动的前置情节，且两个情节共享拒绝接受婚姻现实的连贯目标。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_11273ef4c2d1",
+    "subject_id": "ep_bd9f5f6abaac84c0",
+    "object_id": "ep_1c42a2f7e9052c1c",
+    "relation_type": "precedes",
+    "reason": "白雪梅逃亡并呼救（ep_bd9f5f6abaac84c0）发生在她到达小卖部门口呼救之前，根据描述，她从屋中冲出沿土路逃跑是逃离控制的紧急行动，而随后在小卖部门口再次呼救并被拦截（ep_1c42a2f7e9052c1c）是冲突的进一步升级，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_25072fa1bd6a",
+    "subject_id": "ep_384f97c9db66171f",
+    "object_id": "ep_b5f28815883b6dbe",
+    "relation_type": "precedes",
+    "reason": "白雪梅先向黄德贵父亲询问吴经理下落以寻求帮助，随后在黄德贵母亲陪同下前往村委会向村主任求助。两个情节均体现其主动求援的连续行动，且叙事上前者发生在后者之前，构成脱离困境的努力序列。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_eef4dc985a37",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_7674149468bc23da",
+    "relation_type": "precedes",
+    "reason": "白雪梅被强行囚禁的情节（ep_37fae9611a022064）发生在黄德贵组织村民围堵她的情节（ep_7674149468bc23da）之前，因为囚禁是她试图逃跑前的直接前提，而围堵发生在她逃跑过程中。根据叙事逻辑和事件顺序，囚禁在先，逃跑与围堵在后，因此主体情节在时间顺序上早于客体情节。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7a8748f8d239",
+    "subject_id": "ep_0ab6dbc54d7ba70f",
+    "object_id": "ep_b5f28815883b6dbe",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述白雪梅向村主任哭诉自己被骗并求救，第二个情节进一步展示了她实际前往村委会求助却被敷衍的完整场景。第二个情节通过提供更多背景和细节，扩展了第一个情节中表达的求助行为，表明这是一次具体实施的求助行动及其结果。因此，第一个情节为第二个情节提供了情感和动机基础，而第二个情节是对前者的具体化和深化，构成 elaborates 关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e862aa862939",
+    "subject_id": "ep_27bc44e5883b295b",
+    "object_id": "ep_338aa42acc34afb6",
+    "relation_type": "precedes",
+    "reason": "主体情节描述白雪梅抵达山脚村落并在车上入睡，标志着旅途结束；客体情节描述她从炕上醒来并察觉异常，表明已进入新阶段。根据叙事顺序，入睡发生在苏醒之前，且两事件在不同文档场景中连续呈现，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2f1f6848441d",
+    "subject_id": "ep_592985af98e81fac",
+    "object_id": "ep_7eac7ef186397880",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'表达旅途疲惫并建立情感共鸣'发生在scene_4，而'同事间互相调侃与关系强化'发生在scene_5，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0712361159f2",
+    "subject_id": "ep_384f97c9db66171f",
+    "object_id": "ep_2d24ba9deab7e496",
+    "relation_type": "precedes",
+    "reason": "白雪梅寻求帮助并质问吴经理下落（scene_9）发生在白雪梅尝试呼救并遭压制（scene_29）之前，根据文档场景编号的顺序可明确判断时间先后。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_62790d61655b",
+    "subject_id": "ep_2d24ba9deab7e496",
+    "object_id": "ep_39b222e17ca8605c",
+    "relation_type": "precedes",
+    "reason": "白雪梅尝试呼救并遭压制发生在陈春丽和郑小兰前来劝说她接受现实之前，根据叙事顺序，压制事件后她情绪低落，随后才发生劝说情节，文本中两个情节在连续场景中呈现，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_15b25b380f69",
+    "subject_id": "ep_0ab6dbc54d7ba70f",
+    "object_id": "ep_2d24ba9deab7e496",
+    "relation_type": "precedes",
+    "reason": "白雪梅向村主任申诉自己被骗发生在她尝试呼救并遭压制之前，根据文档顺序和事件发展逻辑，前者是争取外部帮助的初步尝试，后者是在求助无果后的情节推进，叙事顺序明确。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a22a12dd9f7d",
+    "subject_id": "ep_bd9f5f6abaac84c0",
+    "object_id": "ep_f1845e82a25ec04b",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，黄德贵父母协助实施暴力并退出房间（关紧房门将二人独留屋内）发生在白雪梅从屋中冲出逃跑之前，因为逃跑行为是对被关押状态的反应。因此，'黄德贵父母协助实施暴力并退出房间'在叙事顺序上先于'白雪梅逃亡并呼救'，支持precedes关系（object -> subject），但因关系方向为directed且subject在前，故为subject precedes object不成立；然而结合上下文逻辑，暴力实施与关门行为构成囚禁状态的完成，逃亡是其后续突破，故逃亡情节在时间上紧随其后，支持subject（逃亡）在object（暴力实施与关门）之后发生，即object precedes subject。但由于系统要求以subject到object的方向判断，而该方向上并无支持，故原判断错误。重新分析：若subject为逃亡，object为暴力实施，则逃亡不可能先于暴力实施，因此precedes方向不成立。无其他明确因果、对比或扩展关系证据，故应为NONE。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6bd1572334ec",
+    "subject_id": "ep_2d24ba9deab7e496",
+    "object_id": "ep_7d86ef070174f084",
+    "relation_type": "precedes",
+    "reason": "根据描述，白雪梅在黄德贵母亲劝阻冲突后，才进一步激烈反抗其劝说行为。事件序列显示，黄德贵母亲的劝阻（ep_2d24ba9deab7e496的一部分）发生在白雪梅反抗其劝说（ep_7d86ef070174f084）之前，因此前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6bfceea4b557",
+    "subject_id": "ep_338aa42acc34afb6",
+    "object_id": "ep_b8631b7c2c5f2102",
+    "relation_type": "precedes",
+    "reason": "白雪梅苏醒并察觉异常发生在黄德贵向她施加控制之前，根据叙事逻辑和事件发展顺序，苏醒和发现异常是后续控制行为的前提，且两个情节分别基于scene_9和scene_28，scene编号顺序支持时间先后关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_63acf7afb576",
+    "subject_id": "ep_37308af7dfc8bddc",
+    "object_id": "ep_b321938bdaad59a4",
+    "relation_type": "precedes",
+    "reason": "黄德诚与白雪梅建立联系发生在白雪梅被抬上病床并启动救治程序之前。根据描述，建立联系时黄德诚主动道歉并自我介绍，白雪梅接受并感谢相救，此互动发生在救治流程启动前的场景中，因此该情节在叙事顺序上早于救治程序的启动。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f0bce8335f9e",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_b8631b7c2c5f2102",
+    "relation_type": "precedes",
+    "reason": "主体情节'白雪梅恳求释放并遭强行囚禁'发生在黄德贵向白雪梅施加控制之前，根据描述，白雪梅先被关进小黑屋，随后黄德贵回家并进入小黑屋实施控制行为，叙事顺序明确。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_87af3fb64fbb",
+    "subject_id": "ep_7d86ef070174f084",
+    "object_id": "ep_b8631b7c2c5f2102",
+    "relation_type": "precedes",
+    "reason": "白雪梅激烈反抗黄德贵母亲的劝说（scene_25）发生在黄德贵回家后进入小黑屋并向白雪梅施加控制（scene_28）之前，根据场景编号的顺序，scene_25早于scene_28，因此该关系在叙事顺序上成立。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bf92a8330b93",
+    "subject_id": "ep_0ab6dbc54d7ba70f",
+    "object_id": "ep_b8631b7c2c5f2102",
+    "relation_type": "precedes",
+    "reason": "白雪梅向村主任申诉自己被骗发生在黄德贵回家后对其施加控制之前，根据场景编号scene_27先于scene_28，表明该情节在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_292725b84137",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_2d24ba9deab7e496",
+    "relation_type": "precedes",
+    "reason": "白雪梅恳求释放并遭强行囚禁（ep_37fae9611a022064）发生在她被关进小黑屋之后，而白雪梅尝试呼救并遭压制（ep_2d24ba9deab7e496）描述的是她在同一小黑屋中后续的呼救行为及黄德贵的压制反应。根据事件顺序，先被囚禁，然后才可能呼救并被压制，因此前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_26a960f3071c",
+    "subject_id": "ep_ecfb4f1f1e7a2e1b",
+    "object_id": "ep_b321938bdaad59a4",
+    "relation_type": "precedes",
+    "reason": "发现白雪梅被囚禁并求救（ep_ecfb4f1f1e7a2e1b）发生在她被抬上病床并启动救治程序（ep_b321938bdaad59a4）之前，根据事件逻辑顺序，求救和发现是启动救治的前提，且相关事件的时间线支持这一先后顺序。",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5080cd94231f",
+    "subject_id": "ep_338aa42acc34afb6",
+    "object_id": "ep_7d86ef070174f084",
+    "relation_type": "precedes",
+    "reason": "白雪梅苏醒并察觉异常发生在她与黄德贵母亲互动之前，根据叙事逻辑，她必须先意识到自身处境并发现物品丢失，之后才能对黄德贵母亲的劝说做出激烈反抗。两个情节分别位于文档8和文档24，且事件序列在文本中呈现为线性发展，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3857170b7043",
+    "subject_id": "ep_39b222e17ca8605c",
+    "object_id": "ep_7d86ef070174f084",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节分别描绘了白雪梅对劝说的不同反应：一个是接受陈春丽的安慰并被劝说活下去，另一个是激烈反抗黄德贵母亲的劝说，通过辱骂和攻击表达抗拒。这两个情节在态度和反应上形成鲜明对比，一个显示逐渐接受现实，另一个显示强烈拒绝婚姻现实，构成基调与状态的对比。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c5f1b30bb46c",
+    "subject_id": "ep_b8631b7c2c5f2102",
+    "object_id": "ep_d6e1649930d19c4e",
+    "relation_type": "contrasts_with",
+    "reason": "黄德贵对白雪梅施加控制的情节体现了权力压迫与心理操控，而白雪梅要求平等交往界限的情节则展现了她的独立意识与对尊重的诉求。两者在人物关系动态上形成鲜明对比：一个是自上而下的强制控制，另一个是自下而上的边界设定。这种对立凸显了权力与自主之间的张力，构成叙事上的对比关系。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_80c6e7ca2ed2",
+    "subject_id": "ep_3e0fadfef82b272c",
+    "object_id": "ep_7d86ef070174f084",
+    "relation_type": "precedes",
+    "reason": "白雪梅断然拒绝被囚禁发生在黄德贵母亲劝说之前的情节中，根据叙事顺序，她先对黄德贵表达拒绝，随后才面对其母亲的劝说并激烈反抗，因此该情节在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b7cab2f9e0f4",
+    "subject_id": "ep_a38b1bfc95bec982",
+    "object_id": "ep_7d86ef070174f084",
+    "relation_type": "causes",
+    "reason": "黄德贵父母揭露买卖婚姻真相并劝说白雪梅接受（ep_a38b1bfc95bec982）在文本中构成直接前提，导致白雪梅激烈反抗（ep_7d86ef070174f084）这一反应性行为。描述中明确显示，劝说行为引发身体回避、言语辱骂和肢体攻击，构成直接因果链。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_aa572f687d68",
+    "subject_id": "ep_7d86ef070174f084",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "白雪梅激烈反抗黄德贵母亲的劝说发生在黄德贵完成性侵犯之前，文本中描述前者在父母离开前发生，而后者在父母离开并关门后发生，存在明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f52f9890eeb4",
+    "subject_id": "ep_7d86ef070174f084",
+    "object_id": "ep_d639949b69161206",
+    "relation_type": "precedes",
+    "reason": "根据描述，黄德贵提供食物并建立控制（递上面条）发生在白雪梅激烈反抗其母亲劝说之前，因为前者设定权力不对等的基调，后者是对该情境的反应。尽管两个情节涉及不同人物行为，但叙事逻辑和上下文顺序支持黄德贵的行为在先，白雪梅的反抗紧随其后，因此主体情节在时间顺序上晚于客体情节。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_365e9ed58102",
+    "subject_id": "ep_7d86ef070174f084",
+    "object_id": "ep_b21686c5af43cd54",
+    "relation_type": "precedes",
+    "reason": "主体情节'白雪梅激烈反抗黄德贵母亲的劝说'发生在黄德贵母亲劝说失败并引发压制之前，根据描述，白雪梅的反抗直接回应劝说行为，而客体情节包含劝说失败后父亲下令压制的后续发展，表明主体情节在叙事顺序上先于客体情节。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d98e0f2a5a45",
+    "subject_id": "ep_384f97c9db66171f",
+    "object_id": "ep_09f2db59b8c334cb",
+    "relation_type": "precedes",
+    "reason": "白雪梅寻求帮助并质问吴经理下落发生在她被持续殴打并最终逃脱之前，叙事上属于脱离困境的初步努力，逻辑和时间顺序上早于制止暴力并爆发逃脱。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e327a59357e7",
+    "subject_id": "ep_7d86ef070174f084",
+    "object_id": "ep_f1845e82a25ec04b",
+    "relation_type": "precedes",
+    "reason": "白雪梅激烈反抗黄德贵母亲的劝说发生在黄德贵父母协助实施暴力并退出房间之前。根据描述，白雪梅的反抗包括辱骂和攻击母亲，导致母亲被踹倒，随后黄德贵趁机撕扯其衣物，父母离开并关门。这表明反抗情节在时间顺序上先于压制与隔离情节，具有紧密的前后叙事顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e66c5217929a",
+    "subject_id": "ep_338aa42acc34afb6",
+    "object_id": "ep_09f2db59b8c334cb",
+    "relation_type": "precedes",
+    "reason": "白雪梅苏醒并察觉异常发生在她被殴打并最终逃脱之前，根据叙事逻辑，她必须先意识到危险处境，之后才可能发生被殴打和逃离的事件。因此，'白雪梅苏醒并察觉异常'在时间顺序上早于'制止暴力并爆发逃脱'。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_41259d0b605f",
+    "subject_id": "ep_338aa42acc34afb6",
+    "object_id": "ep_39b222e17ca8605c",
+    "relation_type": "precedes",
+    "reason": "白雪梅苏醒并察觉异常发生在陈春丽和郑小兰前来劝说她之前，根据叙事顺序，她先发现自身物品丢失并意识到危险，之后才有人来劝说她接受现实，因此该关系在时间顺序上明确支持。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b41a4b2ffd68",
+    "subject_id": "ep_09f2db59b8c334cb",
+    "object_id": "ep_0ab6dbc54d7ba70f",
+    "relation_type": "precedes",
+    "reason": "情节 '制止暴力并爆发逃脱' 发生在白雪梅逃离现场时，而 '白雪梅申诉自己被骗' 发生在她向村主任哭诉的后续场景中，根据文档顺序和事件流，逃脱后她才寻求救助并申诉，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_95d6639addce",
+    "subject_id": "ep_1c42a2f7e9052c1c",
+    "object_id": "ep_39b222e17ca8605c",
+    "relation_type": "precedes",
+    "reason": "白雪梅呼救并被拦截发生在劝说她接受现实之前，根据叙事顺序，冲突升级后才出现劝说行为以防止其继续反抗，该时间顺序由事件上下文支持。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5b72f8ad991f",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_39b222e17ca8605c",
+    "relation_type": "precedes",
+    "reason": "白雪梅被强行囚禁后，陈春丽和郑小兰随后前来劝说她接受现实。根据事件顺序，囚禁发生在劝说之前，且两个情节分别关联到 scene_9 和 scene_40，表明明确的时间先后关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e601cd11cbdf",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_09f2db59b8c334cb",
+    "relation_type": "precedes",
+    "reason": "白雪梅被囚禁的情节发生在她最终逃脱之前，根据叙事逻辑和事件顺序，被强行关入小黑屋（ep_37fae9611a022064）是其后续挣脱并逃离（ep_09f2db59b8c334cb）的前置条件，且两个情节在时间与因果链上连贯。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a9d8c812a8f4",
+    "subject_id": "ep_0ab6dbc54d7ba70f",
+    "object_id": "ep_39b222e17ca8605c",
+    "relation_type": "precedes",
+    "reason": "白雪梅申诉自己被骗发生在村主任介入之前，而陈春丽和郑小兰的劝说行为是在白雪梅被拘禁后发生的后续情节。根据叙事顺序，申诉行为在先，劝说接受现实发生在后，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d50a461adad7",
+    "subject_id": "ep_338aa42acc34afb6",
+    "object_id": "ep_c08b467b1c9fdc33",
+    "relation_type": "precedes",
+    "reason": "白雪梅苏醒并察觉异常发生在她恳求帮助之前，因为她在确认自身陷入危险后才产生求救行为，叙事上具有明确的时间顺序。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_948a966e2c2e",
+    "subject_id": "ep_39b222e17ca8605c",
+    "object_id": "ep_3e0fadfef82b272c",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '劝说白雪梅接受现实并放弃逃跑' 展现陈春丽和郑小兰试图让她顺从并活下去，而 '白雪梅断然拒绝被囚禁' 则表现她明确反抗并拒绝留下，两者在态度和结果上形成鲜明对比：前者强调接受现状，后者强调坚持自由和反抗，构成叙事上的对立。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_d4e3b957151a",
+    "subject_id": "ep_39b222e17ca8605c",
+    "object_id": "ep_a38b1bfc95bec982",
+    "relation_type": "elaborates",
+    "reason": "情节 '劝说白雪梅接受现实并放弃逃跑' 在黄德贵父母揭露买卖婚姻真相之后发生，通过陈春丽和郑小兰进一步劝说白雪梅，扩展了她被要求接受被拐卖现实的叙事背景。该情节提供了情感和人际层面的补充细节，深化了前一情节中建立的强迫接受处境，因此构成了对 '揭露买卖婚姻真相并劝服白雪梅接受' 的进一步阐述。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_57e26b32b09c",
+    "subject_id": "ep_39b222e17ca8605c",
+    "object_id": "ep_56bcd9d527b3bd17",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'劝说白雪梅接受现实并放弃逃跑' 发生在 scene_40，而 '白雪梅独处时表达内心状态' 发生在 scene_47，scene_40 在叙事顺序上早于 scene_47，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_48f2439d373d",
+    "subject_id": "ep_ca65891ed1b885f2",
+    "object_id": "ep_39b222e17ca8605c",
+    "relation_type": "precedes",
+    "reason": "白雪梅初次求放并下跪祈求（ep_ca65891ed1b885f2）发生在她被劝说接受现实之前，根据叙事逻辑和事件发展顺序，求放行为早于他人前来劝说她放弃逃跑念头。相关事件如‘白雪梅向黄德贵下跪祈求释放’表明其反抗意愿，为后续陈春丽和郑小兰的劝说提供了直接背景和动机，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0a6c2d6a4230",
+    "subject_id": "ep_ca65891ed1b885f2",
+    "object_id": "ep_c08b467b1c9fdc33",
+    "relation_type": "precedes",
+    "reason": "白雪梅初次向黄德贵下跪祈求发生在陈春丽和郑小兰劝说之前，根据叙事顺序，初次求放是其求救行为的早期表现，后续在劝说过程中再次表达求生意愿，时间线上有明确先后。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4a4e38fbc046",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_c08b467b1c9fdc33",
+    "relation_type": "precedes",
+    "reason": "白雪梅被黄德贵父子强行囚禁（ep_37fae9611a022064）发生在她向陈春丽请求帮助之前（ep_c08b467b1c9fdc33），根据叙事顺序，囚禁事件（scene_9）早于求救互动（scene_40），因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_be9257eb9d65",
+    "subject_id": "ep_338aa42acc34afb6",
+    "object_id": "ep_3e0fadfef82b272c",
+    "relation_type": "precedes",
+    "reason": "白雪梅苏醒并察觉异常发生在她断然拒绝被囚禁之前，根据叙事顺序，她首先意识到危险，随后在被提出条件后表现出反抗，时间顺序明确。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d725cff4f971",
+    "subject_id": "ep_338aa42acc34afb6",
+    "object_id": "ep_ecfb4f1f1e7a2e1b",
+    "relation_type": "precedes",
+    "reason": "白雪梅苏醒并察觉异常发生在她被三个孩子发现之前，根据叙事顺序，她先醒来检查自身状况并发现物品丢失，之后才被孩子发现并求救，因此该情节在时间上早于后者。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_69a6d5e6f6fe",
+    "subject_id": "ep_338aa42acc34afb6",
+    "object_id": "ep_347bfe5f5c52031a",
+    "relation_type": "precedes",
+    "reason": "白雪梅苏醒并察觉异常发生在她提议赎身之前，根据叙事顺序，她必须先意识到自己处于危险中，才能提出赎身方案。相关事件的时间逻辑支持这一先后顺序。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_35a38ee5f58a",
+    "subject_id": "ep_338aa42acc34afb6",
+    "object_id": "ep_f1845e82a25ec04b",
+    "relation_type": "precedes",
+    "reason": "白雪梅苏醒并察觉异常发生在黄德贵父母协助实施暴力之前，根据叙事顺序，白雪梅先醒来并发现物品丢失，随后才发生黄德贵及其父母的暴力行为。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_22f3ae97af43",
+    "subject_id": "ep_338aa42acc34afb6",
+    "object_id": "ep_0ab6dbc54d7ba70f",
+    "relation_type": "precedes",
+    "reason": "白雪梅苏醒并察觉异常发生在她向村主任申诉自己被骗之前，根据事件逻辑顺序，她必须先意识到自己处于异常状态，随后才可能发起申诉。相关事件的时间线索支持这一叙事顺序。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_72affc5f2127",
+    "subject_id": "ep_338aa42acc34afb6",
+    "object_id": "ep_ca65891ed1b885f2",
+    "relation_type": "precedes",
+    "reason": "白雪梅苏醒并察觉异常发生在她初次求放并下跪祈求之前，根据叙事逻辑，她必须先意识到危险处境，才会采取求放行动。related_events 中的 scene_9 早于 scene_15，支持时间顺序。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e5ff4d247419",
+    "subject_id": "ep_338aa42acc34afb6",
+    "object_id": "ep_99a34ff897090e2a",
+    "relation_type": "precedes",
+    "reason": "白雪梅苏醒并察觉异常发生在黄德贵初次侵犯她之前，根据叙事逻辑和事件发展顺序，她必须先苏醒并意识到危险，随后才可能发生侵犯行为。相关事件的时间和动作流程支持这一先后顺序。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ccbcb1d02a3c",
+    "subject_id": "ep_1b7ed10f714fd93e",
+    "object_id": "ep_338aa42acc34afb6",
+    "relation_type": "precedes",
+    "reason": "吴经理委托白雪梅看管包包并离开（ep_1b7ed10f714fd93e）发生在白雪梅苏醒并察觉异常（ep_338aa42acc34afb6）之前，根据叙事顺序，前者在场景8，后者在场景9，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3e0696fbcdec",
+    "subject_id": "ep_384f97c9db66171f",
+    "object_id": "ep_ecfb4f1f1e7a2e1b",
+    "relation_type": "precedes",
+    "reason": "白雪梅寻求帮助并质问吴经理下落发生在她被孩子发现之前，叙事顺序上前者为脱离困境的主动尝试，后者为被动求救的发现场景，时间线上有明确先后。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9a8445b2e8d4",
+    "subject_id": "ep_338aa42acc34afb6",
+    "object_id": "ep_1c42a2f7e9052c1c",
+    "relation_type": "precedes",
+    "reason": "白雪梅苏醒并察觉异常发生在她试图呼救之前，根据叙事逻辑，她必须先意识到自己处于危险中，随后才在小卖部门口呼救。相关事件的时间顺序支持这一先后关系：苏醒和发现物品丢失（scene_9）早于呼救和被拦截（scene_27）。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a6971516a49b",
+    "subject_id": "ep_384f97c9db66171f",
+    "object_id": "ep_a62b178091b2db6b",
+    "relation_type": "precedes",
+    "reason": "白雪梅寻求帮助并质问吴经理下落发生在黄德贵提出留下换善待的条件之前，依据叙事顺序，前者是脱离困境的初步努力，后者是对请求的回应，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f59ad3d93281",
+    "subject_id": "ep_384f97c9db66171f",
+    "object_id": "ep_3e0fadfef82b272c",
+    "relation_type": "precedes",
+    "reason": "白雪梅寻求帮助并质问吴经理下落发生在她断然拒绝被囚禁之前，根据叙事顺序，前者是脱离困境的初步努力，后者是在被提出条件后的反抗，时间上和逻辑上存在先后顺序。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_19105bbe6f8a",
+    "subject_id": "ep_384f97c9db66171f",
+    "object_id": "ep_1c42a2f7e9052c1c",
+    "relation_type": "precedes",
+    "reason": "白雪梅寻求帮助并质问吴经理下落（scene_9）发生在白雪梅在小卖部门口呼救并被拦截（scene_27）之前，根据文档场景编号可判断叙事顺序。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_da9f27865b59",
+    "subject_id": "ep_1b7ed10f714fd93e",
+    "object_id": "ep_384f97c9db66171f",
+    "relation_type": "precedes",
+    "reason": "吴经理委托白雪梅看管包包并离开（ep_1b7ed10f714fd93e）发生在白雪梅寻求帮助并质问吴经理下落（ep_384f97c9db66171f）之前，因为只有在吴经理离开后，白雪梅才开始询问其下落并尝试求助，时间顺序明确且由事件因果逻辑支持。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9d3ce8fca286",
+    "subject_id": "ep_384f97c9db66171f",
+    "object_id": "ep_347bfe5f5c52031a",
+    "relation_type": "precedes",
+    "reason": "白雪梅先向黄德贵父亲询问吴经理下落以寻求帮助（scene_9），之后才提出由父亲送钱赎身的方案并被黄德贵拒绝（scene_15），两个情节在叙事顺序上具有明确的时间先后关系，且scene_9早于scene_15。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3247c7f30d2a",
+    "subject_id": "ep_384f97c9db66171f",
+    "object_id": "ep_0ab6dbc54d7ba70f",
+    "relation_type": "precedes",
+    "reason": "白雪梅寻求帮助并质问吴经理下落（scene_9）发生在白雪梅向村主任哭诉自己被骗（scene_27）之前，根据文档顺序和场景编号，scene_9早于scene_27，表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b34d048b38b7",
+    "subject_id": "ep_384f97c9db66171f",
+    "object_id": "ep_ca65891ed1b885f2",
+    "relation_type": "precedes",
+    "reason": "白雪梅先向黄德贵父亲询问吴经理下落并试图联系外界（ep_384f97c9db66171f），随后在后续情节中向黄德贵本人下跪祈求释放（ep_ca65891ed1b885f2），两个情节在叙事顺序上呈现明确的时间先后关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_625ca68d6f51",
+    "subject_id": "ep_384f97c9db66171f",
+    "object_id": "ep_99a34ff897090e2a",
+    "relation_type": "precedes",
+    "reason": "白雪梅寻求帮助并质问吴经理下落发生在黄德贵初次侵犯她之前，根据叙事顺序，她先尝试联系外界求助，随后才遭遇侵犯，因此该情节在时间上早于后者。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_37cc927167b3",
+    "subject_id": "ep_384f97c9db66171f",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "白雪梅寻求帮助并质问吴经理下落发生在黄德贵完成性侵犯之前，根据叙事顺序，前者是脱离困境的初步努力，后者发生在父母离开并关门后，表明时间上的先后关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e2cf93d1c390",
+    "subject_id": "ep_384f97c9db66171f",
+    "object_id": "ep_f1845e82a25ec04b",
+    "relation_type": "precedes",
+    "reason": "白雪梅寻求帮助并质问吴经理下落发生在黄德贵父母协助实施暴力并退出房间之前，根据叙事顺序，前者是脱离困境的初步努力，后者是暴力升级并封闭空间的后续情节，时间上先后明确。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_819a8204913f",
+    "subject_id": "ep_384f97c9db66171f",
+    "object_id": "ep_b21686c5af43cd54",
+    "relation_type": "precedes",
+    "reason": "白雪梅寻求帮助并质问吴经理下落发生在黄德贵母亲劝说失败并引发新一轮压制之前，根据叙事顺序，前者是她试图联系外界的初步努力，后者则是劝说无效后升级为身体压制的后续发展，具有清晰的时间先后关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a1588127aa9b",
+    "subject_id": "ep_0ab6dbc54d7ba70f",
+    "object_id": "ep_a38b1bfc95bec982",
+    "relation_type": "contrasts_with",
+    "reason": "白雪梅申诉自己被骗并恳求救助，与黄德贵父母揭露其被买卖婚姻并劝服她接受形成对比，二者在立场和诉求上呈现明显对立：一方强调无辜受害与逃离，另一方强调既成事实与接受安排。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_0cc78a572214",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_d639949b69161206",
+    "relation_type": "precedes",
+    "reason": "白雪梅恳求释放并遭强行囚禁（scene_9）发生在黄德贵提供食物并建立控制（scene_15）之前，根据相关事件的场景编号顺序，scene_9早于scene_15，支持该叙事顺序。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_927e4aacf752",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "白雪梅被强行囚禁后，黄德贵在其无力反抗的情况下完成性侵犯，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4103e437596c",
+    "subject_id": "ep_ca65891ed1b885f2",
+    "object_id": "ep_37fae9611a022064",
+    "relation_type": "precedes",
+    "reason": "白雪梅初次求放并下跪祈求（scene_15）发生在白雪梅恳求释放并遭强行囚禁（scene_9）之前，根据相关事件的时间场景编号（scene_15 在 scene_9 之前），表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_979b682cd9f2",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_9c7a4899d9fd5f1d",
+    "relation_type": "precedes",
+    "reason": "白雪梅恳求释放并遭强行囚禁发生在黄德贵索要退款并轻视法律之前，根据事件序列，前者在场景9中发生，后者在场景15中发生，存在明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ec14a5171f0c",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_3e0fadfef82b272c",
+    "relation_type": "precedes",
+    "reason": "白雪梅恳求释放并遭强行囚禁（scene_9）发生在白雪梅断然拒绝被囚禁（scene_15）之前，根据相关事件的时间顺序，scene_9早于scene_15，因此该关系在叙事顺序上具有明确的先后性。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_15aa96b33844",
+    "subject_id": "ep_a38b1bfc95bec982",
+    "object_id": "ep_ecfb4f1f1e7a2e1b",
+    "relation_type": "precedes",
+    "reason": "情节 '揭露买卖婚姻真相并劝服白雪梅接受' 发生在白雪梅被囚禁之前，文本中黄德贵父母告知她已被卖出并拒绝其离开，构成其被控制的前因；随后在 '发现白雪梅被囚禁并求救' 中，她已被捆绑在炕上，表明状态的延续与推进，叙事顺序明确支持前者早于后者。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_402c532097fd",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_347bfe5f5c52031a",
+    "relation_type": "precedes",
+    "reason": "白雪梅恳求释放并遭强行囚禁（scene_9）发生在白雪梅提议赎身并遭拒（scene_15）之前，根据相关事件的场景编号顺序，scene_9早于scene_15，支持前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d611d40ece06",
+    "subject_id": "ep_0ab6dbc54d7ba70f",
+    "object_id": "ep_37fae9611a022064",
+    "relation_type": "precedes",
+    "reason": "白雪梅向村主任申诉被骗并请求救助发生在她被黄德贵父子囚禁之前，根据叙事逻辑和事件发展顺序，求助行为先于被强行囚禁的结果，且两个情节分别涉及不同主体（村主任与黄德贵父子），表明前者为早期尝试逃脱阶段，后者为后续强制控制阶段。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5cbaf4dcff1e",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_99a34ff897090e2a",
+    "relation_type": "precedes",
+    "reason": "白雪梅恳求释放并遭强行囚禁发生在黄德贵初次侵犯她之前，根据叙事逻辑和事件发展顺序，囚禁为后续侵犯创造了条件，且两个情节分别基于scene_9和scene_18，scene_9在文档时序上早于scene_18。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a7f2ebfe6c31",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_ecfb4f1f1e7a2e1b",
+    "relation_type": "precedes",
+    "reason": "白雪梅被强行囚禁的情节（ep_37fae9611a022064）发生在小黑屋中，而发现她被囚禁并求救的情节（ep_ecfb4f1f1e7a2e1b）发生在之后，由三个孩子在门口发现她被捆绑在炕上。根据叙事顺序，囚禁必须先于被发现，因此主体情节在时间上早于客体情节。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f083c52826ba",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_1c42a2f7e9052c1c",
+    "relation_type": "precedes",
+    "reason": "根据描述，白雪梅在得知被买卖后恳求释放并被囚禁（ep_37fae9611a022064）发生在她后来在小卖部门口呼救并被拦截（ep_1c42a2f7e9052c1c）之前。囚禁是初步逃脱尝试的前提，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_699c8d14fa46",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_a62b178091b2db6b",
+    "relation_type": "precedes",
+    "reason": "白雪梅恳求释放并遭强行囚禁（ep_37fae9611a022064）发生在黄德贵提出留下换善待的条件（ep_a62b178091b2db6b）之前，根据相关事件scene_9和scene_15的顺序，前者为初始反抗与暴力压制，后者为后续试图合理化囚禁关系的言语策略，叙事时间线上明确先后。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eef504870eef",
+    "subject_id": "ep_6d4703c7d96adffd",
+    "object_id": "ep_ca65891ed1b885f2",
+    "relation_type": "precedes",
+    "reason": "人群在黄德贵家门口聚集围人（ep_6d4703c7d96adffd）为白雪梅下跪祈求提供现场背景，且聚集行为在叙事逻辑上早于其求放行为，构成后续事件发生的前提场景。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c09c85e8d488",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_b21686c5af43cd54",
+    "relation_type": "precedes",
+    "reason": "根据描述，白雪梅被强行囚禁（ep_37fae9611a022064）发生在黄德贵母亲劝说失败并引发新一轮压制（ep_b21686c5af43cd54）之前，两个情节均发生在连续场景中（scene_9 和 scene_18），且囚禁后才出现进一步的劝说与压制，叙事顺序明确。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2b78bb49f449",
+    "subject_id": "ep_37fae9611a022064",
+    "object_id": "ep_f1845e82a25ec04b",
+    "relation_type": "precedes",
+    "reason": "根据描述，白雪梅被强行囚禁（ep_37fae9611a022064）发生在黄德贵父母协助实施暴力并退出房间（ep_f1845e82a25ec04b）之前。相关事件显示，白雪梅先被拖入小黑屋并关押，随后黄德贵父母在压制过程中协助并离开房间，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d18abc9503af",
+    "subject_id": "ep_0ab6dbc54d7ba70f",
+    "object_id": "ep_a62b178091b2db6b",
+    "relation_type": "precedes",
+    "reason": "白雪梅申诉自己被骗发生在黄德贵提出留下换善待的条件之前，根据叙事逻辑，白雪梅的求助行为先于黄德贵的回应，且两个情节共享同一冲突场景，时间顺序上具有明确先后关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_06f0454ea6b0",
+    "subject_id": "ep_ecfb4f1f1e7a2e1b",
+    "object_id": "ep_ca65891ed1b885f2",
+    "relation_type": "precedes",
+    "reason": "根据描述，白雪梅被囚禁并求救的情节（ep_ecfb4f1f1e7a2e1b）发生在三个孩子发现她并目睹她挣扎求救的场景中（scene_11），而白雪梅初次求放并下跪祈求的情节（ep_ca65891ed1b885f2）发生在后续场景（scene_15）。scene_11 在文档顺序上早于 scene_15，因此前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0ae311d646e0",
+    "subject_id": "ep_0ab6dbc54d7ba70f",
+    "object_id": "ep_347bfe5f5c52031a",
+    "relation_type": "precedes",
+    "reason": "白雪梅先向村主任哭诉求救，试图争取释放，随后提出由父亲送钱赎身的方案，但被黄德贵拒绝。两个情节在叙事顺序上呈现清晰的时间先后，且均围绕其争取自由的连续尝试，支持'precedes'关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7324702b0dd8",
+    "subject_id": "ep_5fef98beda1eb2c9",
+    "object_id": "ep_097005a1113f827a",
+    "relation_type": "precedes",
+    "reason": "黄德贵母亲先完成准备并送出面条（ep_5fef98beda1eb2c9），随后观察白雪梅吃面并离开（ep_097005a1113f827a），叙事顺序上前者早于后者，且后者涉及对前者结果的观察场景。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3a98892f7ce0",
+    "subject_id": "ep_5fef98beda1eb2c9",
+    "object_id": "ep_d639949b69161206",
+    "relation_type": "precedes",
+    "reason": "主体情节'准备并送出面条'涉及黄德贵母亲完成面食并将其送出，而客体情节'黄德贵提供食物并建立控制'涉及黄德贵将面递给白雪梅。根据事件逻辑，面食必须先被准备好并送出，才能由黄德贵递出，因此存在明确的叙事顺序支持前者在时间上先于后者。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1aeb617513ee",
+    "subject_id": "ep_5fef98beda1eb2c9",
+    "object_id": "ep_fb90310edba197df",
+    "relation_type": "precedes",
+    "reason": "主体情节'准备并送出面条'描述黄德贵母亲完成面食准备并端出屋子，客体情节'完成面的递送与食用'描述黄德贵将面放在柜子上后白雪梅开始吃面。根据事件顺序，面必须先被准备好并送出，才能被放置和食用，且相关事件发生在连续场景（scene_42 → scene_43）中，支持明确的叙事时序。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d837877a669a",
+    "subject_id": "ep_b21686c5af43cd54",
+    "object_id": "ep_ecfb4f1f1e7a2e1b",
+    "relation_type": "precedes",
+    "reason": "情节 '黄德贵母亲劝说失败并引发新一轮压制' 描述了白雪梅被按倒在炕上的压制行为，该事件发生在白雪梅被捆绑囚禁的状态之前；而 '发现白雪梅被囚禁并求救' 描述的是她已被捆绑在炕上的状态，且由相关事件的时间场景编号（scene_18 vs scene_11）可推断前者在叙事顺序上晚于后者。但根据实际情节逻辑和常理，劝说失败并被按倒应发生在被捆绑囚禁之后，然而此处 scene_18 在 doc_17 中晚于 doc_10 的 scene_11，存在文档顺序矛盾。但基于事件状态逻辑：'被按倒' 是'被囚禁'的前置动作，且'发现囚禁'是后续观察，因此更合理的叙事顺序是压制事件发生在囚禁被发现之前。结合文本描述的因果流程，'劝说失败并压制' 为导致白雪梅被持续控制的一部分，先于孩子发现她被囚禁。因此该关系为 'precedes'，且有明确状态顺序支持。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5a4a12f199cc",
+    "subject_id": "ep_2a5da8953fe86e77",
+    "object_id": "ep_9e438c665b64e42a",
+    "relation_type": "precedes",
+    "reason": "黄德贵启程并点燃香烟描述了他出行初期的轻松状态，而回家后与父亲的对峙则发生在旅途结束之后，情绪低落且家庭冲突显现。根据叙事顺序，启程情节在时间上早于回家对峙情节，有明确的时间推进支持。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_df61ce07b296",
+    "subject_id": "ep_5fef98beda1eb2c9",
+    "object_id": "ep_4e4a27b9d9d3244f",
+    "relation_type": "precedes",
+    "reason": "‘准备并送出面条’描述了黄德贵母亲完成面食准备并端出屋子的过程，而‘递送早餐给黄德贵’描述的是将面递交给黄德贵的具体动作。根据事件顺序，准备和端出是递送的前提，且‘端着面离开屋子’（scene_42）在逻辑和叙事时序上早于将面递给黄德贵（scene_24），因此该关系为‘precedes’，方向为准备送出在前，递送完成在后。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_52c172e1da23",
+    "subject_id": "ep_2a5da8953fe86e77",
+    "object_id": "ep_e171594d8cbf66b3",
+    "relation_type": "precedes",
+    "reason": "黄德贵启程并点燃香烟描述其旅途初期的状态，而突访朋友牌局则是他到达目的地后的社交介入，叙事上前者自然早于后者，构成出行过程的时间顺序。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4c5c1857a0a4",
+    "subject_id": "ep_2d5db30295f9f995",
+    "object_id": "ep_f2a5fbd5022f1388",
+    "relation_type": "causes",
+    "reason": "黄德贵在雨中奔向学校的情节直接触发了后续应对妻子自残危机的情节，因为他在奔向学校的过程中向黄德诚求助借钱以处理该紧急情况，文本中明确描述了这一行动的因果链。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_628d71036dd5",
+    "subject_id": "ep_2a5da8953fe86e77",
+    "object_id": "ep_4cc0cc5803d62175",
+    "relation_type": "precedes",
+    "reason": "黄德贵启程并点燃香烟的情节描述其旅途初期的轻松状态，而进入小卖部购烟则是后续具体行为。根据叙事顺序，启程并点燃香烟发生在前往小卖部之前，且两个情节均围绕购烟相关行为展开，前者为出行开始，后者为购烟行动启动，存在明确的时间先后关系。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b032ce55cdca",
+    "subject_id": "ep_16fffcc447954470",
+    "object_id": "ep_2d5db30295f9f995",
+    "relation_type": "precedes",
+    "reason": "黄德贵回家了解家中情况发生在doc_29，而奔向学校以应对紧急情况发生在doc_31，文档顺序表明前者在叙事时间线上早于后者。此外，逻辑上了解家中情况后才可能响应学校紧急事件，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dc86dbf3828a",
+    "subject_id": "ep_2d5db30295f9f995",
+    "object_id": "ep_80b10f8b6d7016b2",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '奔向学校以应对紧急情况' 描述黄德贵在大雨中急切奔跑，表现出紧迫性和紧急响应，而情节 '黄德诚带队上学并途中互动' 展现的是日常、平静的上学路上的社交场景。两者在基调（紧急 vs 日常）和情境（个人奔赴 vs 集体同行）上形成明显对比，构成对比关系。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2666fb2e1b64",
+    "subject_id": "ep_4e4a27b9d9d3244f",
+    "object_id": "ep_fb90310edba197df",
+    "relation_type": "precedes",
+    "reason": "递送早餐给黄德贵发生在黄德贵将面放在柜子上并由白雪梅开始食用之前，根据描述中的动作顺序，母亲先将面递给黄德贵，随后黄德贵放置面碗并由白雪梅食用，构成明确的叙事时间先后关系。",
+    "source_documents": [
+      "scene_24_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_70ac0c753df6",
+    "subject_id": "ep_16fffcc447954470",
+    "object_id": "ep_2015eb941bcb823b",
+    "relation_type": "precedes",
+    "reason": "黄德贵回家了解家中情况发生在前往医院并送白雪梅就医之前，因为前者是评估状况的探视行为，后者是基于该状况采取的紧急送医行动，叙事上具有明确的先后顺序。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_92303aee5a5a",
+    "subject_id": "ep_e35f53c95bb75d1e",
+    "object_id": "ep_2015eb941bcb823b",
+    "relation_type": "precedes",
+    "reason": "黄德贵暴力制服白雪梅发生在送医之前，根据叙事逻辑，暴力事件是导致后续紧急送医的直接前提，且两个情节在时间上紧密衔接，送医行为是对暴力后果的响应。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6a341b10e8b3",
+    "subject_id": "ep_2015eb941bcb823b",
+    "object_id": "ep_f18191e716de855b",
+    "relation_type": "precedes",
+    "reason": "主体情节'前往医院并送白雪梅就医'描述了将白雪梅送医的过程，发生在救治期间；客体情节'家属表达对救治结果的担忧'发生在救治过程中，由黄德贵母亲在医院表现出焦虑。根据叙事顺序，送医完成之后才进入救治阶段，因此主体情节在时间顺序上先于客体情节。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a281c400789e",
+    "subject_id": "ep_2015eb941bcb823b",
+    "object_id": "ep_93b34324e4002081",
+    "relation_type": "precedes",
+    "reason": "主体情节'前往医院并送白雪梅就医'发生在医院外部并以抵达医院为结束，客体情节'黄德贵在走廊活动后就座'发生在医院内部走廊，属于后续的等待行为。根据叙事空间和事件流程的自然顺序，送医完成之后才可能进入医院走廊活动，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ef05a77f9049",
+    "subject_id": "ep_543585c48da802e0",
+    "object_id": "ep_8a67d30dcc0a53f8",
+    "relation_type": "precedes",
+    "reason": "黄德贵夜间如厕并观察白雪梅发生在文档11的场景12，而黄德贵办完事后与父亲共饮共抽发生在文档18的场景19，场景编号和文档顺序表明前者在叙事时间上早于后者，构成清晰的先后顺序。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_24e4c2d22e9c",
+    "subject_id": "ep_2015eb941bcb823b",
+    "object_id": "ep_f2d48891ac5b9d22",
+    "relation_type": "precedes",
+    "reason": "主体情节'前往医院并送白雪梅就医'描述的是将白雪梅送至医院并抬入医院的过程，发生在医院外部及入口处；客体情节'完成缴费并准备医疗处置'涉及缴费和医生洗手准备治疗，属于医院内部医疗干预的开始。根据叙事顺序，送医完成之后才能进行缴费和治疗准备，且两个情节分别位于连续的场景(scene_35 → scene_37)中，文档顺序支持这一时间先后关系。因此，主体情节在话语和叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e83099ef8e93",
+    "subject_id": "ep_3920e243fc2d0a2c",
+    "object_id": "ep_2015eb941bcb823b",
+    "relation_type": "precedes",
+    "reason": "黄德贵带白雪梅离开现场（ep_3920e243fc2d0a2c）发生在村主任裁决后，而前往医院并送白雪梅就医（ep_2015eb941bcb823b）是后续的紧急医疗行动。根据叙事顺序，离开现场是送医的前提，且两个情节在文档中按时间顺序先后出现，支持前者在话语和事件流上早于后者。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ba5149ea4f82",
+    "subject_id": "ep_8e365eeaeddfe688",
+    "object_id": "ep_8a67d30dcc0a53f8",
+    "relation_type": "precedes",
+    "reason": "黄德贵对白雪梅实施性支配（ep_8e365eeaeddfe688）在叙事上发生在黄德贵办完事后与父亲共饮共抽（ep_8a67d30dcc0a53f8）之前，'办完事后'这一描述表明性支配是被完成的事件，随后才进入与父亲互动的场景。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9f425a743dfd",
+    "subject_id": "ep_848ee2306b8cbdfa",
+    "object_id": "ep_8a67d30dcc0a53f8",
+    "relation_type": "precedes",
+    "reason": "根据描述，黄德贵在朋友家被劝回家同房后离开（scene_16），随后在完成某事后与父亲共饮共抽（scene_19），scene_16在叙事顺序上早于scene_19，因此该关系为precedes。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e7bb3fd73efd",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_8a67d30dcc0a53f8",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子从田地劳作归来（ep_0a536e08e40d6ddb）描述了黄德贵返回家中并引出其进入小黑屋的行为，而黄德贵办完事后与父亲共饮共抽（ep_8a67d30dcc0a53f8）发生在其完成某事后回到屋内，叙事上暗示‘办完事’可能紧随劳作归来之后。描述中‘引出后续控制白雪梅的事件’与‘办完事后’存在时间衔接线索，支持前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4ae470dcef73",
+    "subject_id": "ep_9e438c665b64e42a",
+    "object_id": "ep_d72cd897a1a07b76",
+    "relation_type": "precedes",
+    "reason": "黄德贵回家后与父亲对峙的情节中，他饮酒后进入小黑屋；紧接着在下一情节中，他进入小黑屋后发现白雪梅自伤并呼救。两个情节通过‘进入小黑屋’这一连续动作衔接，且事件发生在同一场景（scene_17 与 scene_31）的连续叙述中，表明时间上的先后顺序。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_28e01522c28a",
+    "subject_id": "ep_8a67d30dcc0a53f8",
+    "object_id": "ep_f1845e82a25ec04b",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'黄德贵父母协助实施暴力并退出房间'（doc_17, scene_18）发生在'黄德贵办完事后与父亲共饮共抽'（doc_18, scene_19）之前。文档顺序和场景编号表明前者在叙事顺序上先于后者，且'办完事后'暗示暴力行为已经结束，因此该关系为 directed 的 preceding 关系。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6eb1c2a65d99",
+    "subject_id": "ep_bb0c8ede6a152753",
+    "object_id": "ep_8a67d30dcc0a53f8",
+    "relation_type": "precedes",
+    "reason": "黄德贵完成性侵犯（ep_bb0c8ede6a152753）在叙事顺序上早于他办完事后与父亲共饮共抽（ep_8a67d30dcc0a53f8），后者描述的是前一事件结束后回到屋内的后续行为，且两个情节的文档顺序（doc_17 在 doc_18 之前）和事件连贯性支持这一时间先后关系。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_743941f8c68e",
+    "subject_id": "ep_e184e66b3722ea7a",
+    "object_id": "ep_8a67d30dcc0a53f8",
+    "relation_type": "precedes",
+    "reason": "根据描述，黄德贵被父亲斥责并被迫重返房间（ep_e184e66b3722ea7a）发生在屋内继续施压的情节中，而黄德贵办完事后与父亲共饮共抽（ep_8a67d30dcc0a53f8）是在事后回到屋内的场景。related_events 中的 scene_18 和 scene_19 表明前者发生在后者之前，具有明确的叙事顺序。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_46a9ee7ad009",
+    "subject_id": "ep_02cc354a4759b3e4",
+    "object_id": "ep_9e438c665b64e42a",
+    "relation_type": "precedes",
+    "reason": "黄德贵在小卖部回应质疑并离开后，才回家与父亲发生对峙。两个情节在叙事时间顺序上连续，且文档编号（doc_13 在 doc_16 之前）支持该顺序。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d92a168cf7d5",
+    "subject_id": "ep_9e438c665b64e42a",
+    "object_id": "ep_8a67d30dcc0a53f8",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'黄德贵回家后与父亲发生紧张对峙'（ep_9e438c665b64e42a）发生在黄德贵刚回家时，包含父亲质问和他饮酒后进入小黑屋的行为；而'黄德贵办完事后与父亲共饮共抽'（ep_8a67d30dcc0a53f8）描述的是他办完事后回到屋内与父亲共享香烟并一同抽烟的场景，表现出一种后续的、相对平静的互动。尽管具体时间未明示，但'对峙'情节中的回避行为（进入小黑屋）与'共饮共抽'中的共同饮酒抽烟形成行为序列上的延续，且'办完事'可能指代处理完情绪或隔离后的回归，支持前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_932ec1e05a5b",
+    "subject_id": "ep_9e438c665b64e42a",
+    "object_id": "ep_b8631b7c2c5f2102",
+    "relation_type": "precedes",
+    "reason": "黄德贵回家后与父亲对峙的情节发生在其进入小黑屋并向白雪梅施加控制之前，根据事件序列描述，前者结束于他进入小黑屋，后者开始于他在小黑屋中与白雪梅互动，具有明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_34fa5bad08b5",
+    "subject_id": "ep_76ed5d14dfb30981",
+    "object_id": "ep_9e438c665b64e42a",
+    "relation_type": "precedes",
+    "reason": "婚宴结束后清理现场发生在黄德贵回家之前，根据描述，婚宴结束、人群散去后黄德贵醉倒，随后他情绪低落地回家，表明时间顺序上前者早于后者。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_be68cf516af9",
+    "subject_id": "ep_3920e243fc2d0a2c",
+    "object_id": "ep_9e438c665b64e42a",
+    "relation_type": "precedes",
+    "reason": "黄德贵带白雪梅离开现场后，才返回家中与父亲发生对峙。根据事件顺序，主体情节中的离开现场行为在客体情节中的回家及后续冲突之前发生，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_77006a730962",
+    "subject_id": "ep_0ab6dbc54d7ba70f",
+    "object_id": "ep_3e0fadfef82b272c",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'白雪梅申诉自己被骗' 发生在 scene_27，而 '白雪梅断然拒绝被囚禁' 发生在 scene_15，但 scene_15 的编号早于 scene_27，表明后者在叙事顺序上实际晚于前者。因此，主体情节在话语顺序上晚于客体情节，关系方向应为客体 precedes 主体。但由于关系模式 precedes 是有向的，且输入中主体为 ep_0ab6dbc54d7ba70f（scene_27），客体为 ep_3e0fadfef82b272c（scene_15），主体在时间线上晚于客体，故主体情节在叙事上晚于客体，支持 'precedes' 关系从客体到主体。然而，由于系统要求以给定主体到客体方向判断，且该方向与实际时间顺序相反，不能支持主体 precedes 客体。因此，不能确立 precedes 方向。无其他明确因果、对比或扩展证据，故输出 NONE。但重新评估：scene_15 在 doc_14，scene_27 在 doc_26，文档编号可能反映顺序，doc_14 早于 doc_26，支持 ep_3e0fadfef82b272c 先于 ep_0ab6dbc54d7ba70f。因此，主体（ep_0ab6...）在时间上晚于客体（ep_3e0f...），故主体情节在叙事顺序上晚于客体，即客体 precedes 主体。但由于关系方向必须从主体到客体，而实际顺序是反的，不能成立主体 precedes 客体。因此，无支持的有向关系。然而，'precedes' 模式允许我们判断主体是否在顺序上早于客体。此处主体在 scene_27，客体在 scene_15，scene_27 > scene_15，故主体晚于客体，因此主体不 precedes 客体。相反，客体 precedes 主体。但由于我们不能反转方向输出，除非关系对称，故不能输出 precedes。其他关系无支持。最终，无充分支持的关系，输出 NONE。但注意：若允许基于文档和场景推断顺序，则 ep_3e0fadfef82b272c（scene_15, doc_14）早于 ep_0ab6dbc54d7ba70f（scene_27, doc_26），因此若关系为 precedes，应为客体 precedes 主体。但系统要求判断从主体到客体的关系，故主体不 precedes 客体。无因果、对比或扩展证据。因此，relation_type = \"NONE\"。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_18aa21acf92e",
+    "subject_id": "ep_848ee2306b8cbdfa",
+    "object_id": "ep_9e438c665b64e42a",
+    "relation_type": "precedes",
+    "reason": "根据描述，黄德贵在朋友家的牌局中被劝回家后离开，随后回家与父亲发生对峙。事件序列显示‘朋友劝黄德贵回家同房’在叙事顺序上明确早于‘黄德贵回家后与父亲发生紧张对峙’，且两个情节通过连续场景（scene_16 到 scene_17）衔接，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_56b221b8b489",
+    "subject_id": "ep_16fffcc447954470",
+    "object_id": "ep_d72cd897a1a07b76",
+    "relation_type": "precedes",
+    "reason": "黄德贵回家了解家中情况发生在进入小黑屋发现白雪梅自伤之前，根据事件序列，先向母亲询问家中整体状况，随后才进入小黑屋发现具体危机，叙事顺序明确。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8db9eb6ff0da",
+    "subject_id": "ep_9c7a4899d9fd5f1d",
+    "object_id": "ep_9e438c665b64e42a",
+    "relation_type": "precedes",
+    "reason": "黄德贵索要退款并轻视法律（ep_9c7a4899d9fd5f1d）发生在文档 doc_14，而黄德贵回家后与父亲发生紧张对峙（ep_9e438c665b64e42a）发生在文档 doc_16，叙事顺序上前者早于后者，且事件发展逻辑连贯：索要退款失败后回家，触发与父亲的对峙。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bcd329edaf3b",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_9e438c665b64e42a",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子从田地劳作归来（ep_0a536e08e40d6ddb）描述了黄德贵结束田间劳作返回家中，为后续事件提供时间衔接；而黄德贵回家后与父亲发生紧张对峙（ep_9e438c665b64e42a）明确发生在回家之后，包含其情绪低落、被父亲质问及饮酒后进入小黑屋的行为。两个情节在时间线上紧密衔接，前者在叙事顺序上直接早于后者，且前者描述中明确指出‘引出黄德贵随后进入小黑屋的行为’，支持该时序关系。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3dd4695ef212",
+    "subject_id": "ep_9e438c665b64e42a",
+    "object_id": "ep_f1845e82a25ec04b",
+    "relation_type": "precedes",
+    "reason": "黄德贵回家后与父亲发生紧张对峙（ep_9e438c665b64e42a）发生在黄德贵父母协助实施暴力并退出房间（ep_f1845e82a25ec04b）之前，依据事件序列和文档顺序（doc_16 在 doc_17 之前），且前者描述的是冲突的起始阶段，后者为后续升级行为，时间顺序明确。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_35f3284b3bad",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_53e22cdf4e94106f",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子从田地劳作归来这一情节描述了黄德贵返回家中的行动，为后续进入小黑屋控制白雪梅的场景提供时间与行动上的衔接。展现白雪梅创伤与环境压抑的情节发生在同一空间内，且需以黄德贵等人已在家为前提。因此，主体情节在叙事顺序上早于客体情节，构成时间上的先后关系。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a73ac1c5e11e",
+    "subject_id": "ep_53e22cdf4e94106f",
+    "object_id": "ep_e35f53c95bb75d1e",
+    "relation_type": "precedes",
+    "reason": "情节 '展现白雪梅的创伤与环境压抑' 发生在黄德贵母亲织布与白雪梅发呆的静默场景中（scene_20），而 '黄德贵暴力制服白雪梅' 发生在后续的 scene_25，文档顺序和事件发展表明前者在叙事时间上早于后者，构成直接的时间先后关系。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2043c037a9fb",
+    "subject_id": "ep_9e438c665b64e42a",
+    "object_id": "ep_e184e66b3722ea7a",
+    "relation_type": "precedes",
+    "reason": "黄德贵回家后与父亲发生紧张对峙（ep_9e438c665b64e42a）发生在黄德贵被父亲斥责并被迫重返房间（ep_e184e66b3722ea7a）之前，依据事件顺序：前者为黄德贵回家后立即与父亲冲突并进入小黑屋，后者为他离开房间后被父亲拦下并训斥，逻辑上需先有进入房间的行为，才可能有后续离开并被斥责的情节。因此，叙事顺序支持前者早于后者。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_34b1fb070253",
+    "subject_id": "ep_53e22cdf4e94106f",
+    "object_id": "ep_dcccbd380639609f",
+    "relation_type": "elaborates",
+    "reason": "情节 '展现白雪梅的创伤与环境压抑' 描述了白雪梅在屋内受创的状态及黄德贵母亲织布的压抑背景，而 '监视白雪梅的囚禁状态' 进一步通过母亲在门口搓玉米并监视小黑屋的行为，补充了对白雪梅被持续监控的环境控制细节。后者在空间和主题上延续了前者的压抑氛围，并扩展了家庭成员如何参与其囚禁的叙事，因此提供了对囚禁状态更全面的刻画，构成对前一情节的细节补充。",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e919543f32ab",
+    "subject_id": "ep_16fffcc447954470",
+    "object_id": "ep_b8631b7c2c5f2102",
+    "relation_type": "precedes",
+    "reason": "根据文档中的叙事顺序，黄德贵先回家了解家中情况（ep_16fffcc447954470），之后进入小黑屋向白雪梅施加控制（ep_b8631b7c2c5f2102）。related_events 中的 scene_30 发生在 scene_28 之前，支持该时间顺序。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d327f159e5e7",
+    "subject_id": "ep_848ee2306b8cbdfa",
+    "object_id": "ep_16fffcc447954470",
+    "relation_type": "precedes",
+    "reason": "朋友劝黄德贵回家同房（ep_848ee2306b8cbdfa）发生在黄德贵实际回家了解家中情况（ep_16fffcc447954470）之前，根据叙事逻辑，劝说行为在时间上先于其行动结果，且黄德贵在被劝说后随即离开朋友家，紧接着执行回家行为，构成直接的时间先后顺序。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8503aabe230e",
+    "subject_id": "ep_2d5db30295f9f995",
+    "object_id": "ep_d72cd897a1a07b76",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'黄德贵在雨中奔向学校'发生在scene_32，而'黄德贵发现白雪梅自伤并紧急求助'的相关事件发生在scene_31，表明前者在叙事顺序上紧随后者之后。因此，客体情节在时间上先于主体情节发生，支持precedes关系（object -> subject），但由于关系方向为directed且precedes表示A在B之前，故主体ep_2d5db30295f9f995不能precede客体ep_d72cd897a1a07b76；相反，应为客体precede主体。然而输入中主体为奔向学校，客体为发现自伤，二者顺序应为发现自伤后奔向学校，scene_31在scene_32之前，因此主体情节实际在客体之后发生，故主体不precede客体。重新判断：主体ep_2d5db30295f9f995（奔向学校）应发生在发现异常之后，即ep_d72cd897a1a07b76之后，因此ep_d72cd897a1a07b76 precedes ep_2d5db30295f9f995。但当前主体是ep_2d5db30295f9f995，客体是ep_d72cd897a1a07b76，若要成立precedes，则需主体在客体前，与scene编号矛盾。scene_31（发现）-> scene_32（奔向），说明ep_d72cd897a1a07b76在ep_2d5db30295f9f995之前。因此主体（ep_2d5db30295f9f995）不能precede客体（ep_d72cd897a1a07b76）。若关系为客体precede主体，则当前主客体方向不支持precedes。其他关系：causes需明确因果，但描述中无奔向学校导致发现自伤，相反逻辑应为发现异常导致奔向求助，但主体是奔向学校，客体是发现自伤，方向反了。contrasts_with：无明显基调或状态对比描述。elaborates：无扩展或解释关系。因此无充分支持任何有向关系。尽管scene顺序支持客体在主体前，但precedes要求主体->客体方向不成立。故无法确认任一允许关系在给定方向上成立。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_25c81f47af44",
+    "subject_id": "ep_d72cd897a1a07b76",
+    "object_id": "ep_f18191e716de855b",
+    "relation_type": "precedes",
+    "reason": "黄德贵发现白雪梅自伤并紧急求助发生在救治过程中，而家属表达对救治结果的担忧是在后续救治阶段出现的情绪反应，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7e0b1c1b69bc",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_d72cd897a1a07b76",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子从田地劳作归来后，黄德贵进入小黑屋并发现白雪梅自伤，两个情节在叙事时间上连续，前者为后者提供行动衔接，且描述中明确指出前者引出后者行为。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_26959fd3a7e3",
+    "subject_id": "ep_27c343eef7a69677",
+    "object_id": "ep_d72cd897a1a07b76",
+    "relation_type": "precedes",
+    "reason": "安抚白雪梅并劝其进食发生在黄德贵发现白雪梅自伤并紧急求助之前，因为前者是试图稳定白雪梅情绪的早期干预，而后者是对她自伤行为的紧急反应，叙事上存在明确的时间先后顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_21c071644fb6",
+    "subject_id": "ep_d72cd897a1a07b76",
+    "object_id": "ep_f2a5fbd5022f1388",
+    "relation_type": "causes",
+    "reason": "黄德贵发现白雪梅自伤并紧急求助这一情节直接触发了后续的应对黄德贵妻子自残危机的情节。描述中明确指出黄德贵因妻子割伤手腕而向黄德诚求助，黄德诚随即采取行动，构成直接的因果链。事件顺序和因果关系在两个情节的描述中均有明确支持。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dfbf7b338285",
+    "subject_id": "ep_b4db311ec6f941ad",
+    "object_id": "ep_d72cd897a1a07b76",
+    "relation_type": "precedes",
+    "reason": "主体情节‘引导并安置两名妇女进入小黑屋’描述了将妇女安置入屋的过程，发生在小黑屋被使用之前；客体情节‘黄德贵发现白雪梅自伤并紧急求助’以黄德贵进入同一小黑屋为开端。根据事件顺序，安置妇女必须先于后续在该空间内发生的危机发现，文本中两个情节共享空间且无重叠事件，支持明确的时间先后关系。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_511cde201be3",
+    "subject_id": "ep_3920e243fc2d0a2c",
+    "object_id": "ep_d72cd897a1a07b76",
+    "relation_type": "precedes",
+    "reason": "根据事件描述，黄德贵带白雪梅离开现场发生在村主任裁决后，而黄德贵发现白雪梅自伤并紧急求助发生在后续进入小黑屋的情节中，文档ID（doc_26 vs doc_30）和场景编号（scene_27 vs scene_31）表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7f5a087c27df",
+    "subject_id": "ep_848ee2306b8cbdfa",
+    "object_id": "ep_d72cd897a1a07b76",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，黄德贵在朋友家被劝回家同房（ep_848ee2306b8cbdfa）后，才进入小黑屋发现白雪梅自伤（ep_d72cd897a1a07b76），事件的时间顺序在文档中明确呈现，前者结束于黄德贵离开朋友家，后者开始于他回家后进入小黑屋，构成直接的先后关系。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a348e0783e1d",
+    "subject_id": "ep_f2a5fbd5022f1388",
+    "object_id": "ep_f2d48891ac5b9d22",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对黄德贵妻子自残危机'描述黄德贵向黄德诚求助并一同离开教室，以处理其妻子割伤手腕的紧急情况；客体情节'完成缴费并准备医疗处置'描述黄德贵缴费和大夫洗手准备治疗，标志着医疗干预的开始。根据事件顺序，求助和前往处理发生在医院缴费和治疗准备之前，具有明确的叙事时序。因此，主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_79278ef7c40f",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_d7430b05e6f1cadc",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子从田地劳作归来这一情节在叙事顺序上早于白雪梅抵抗黄德贵侵扰的情节。描述中明确指出前者‘引出黄德贵随后进入小黑屋的行为’，而进入小黑屋是触发白雪梅抵抗的前置动作，因此存在清晰的时间先后顺序。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1f64472b6ca6",
+    "subject_id": "ep_d7430b05e6f1cadc",
+    "object_id": "ep_e184e66b3722ea7a",
+    "relation_type": "precedes",
+    "reason": "主体情节'抵抗并阻止黄德贵的侵扰'发生在黄德贵离开房间并被父亲斥责之前，客体情节明确描述黄德贵因无法制服白雪梅而离开后被父亲训斥并返回，时间顺序上主体情节直接先于客体情节，由相关事件序列支持。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bc24fc21473a",
+    "subject_id": "ep_e35f53c95bb75d1e",
+    "object_id": "ep_8e365eeaeddfe688",
+    "relation_type": "causes",
+    "reason": "黄德贵暴力制服白雪梅（按倒、殴打并宣称所有权）在行为和意图上直接导致后续的性支配行为，描述中体现其控制意图的延续性，且暴力制服为性支配创造了直接前提条件。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_907c4e4aa221",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_8e365eeaeddfe688",
+    "relation_type": "precedes",
+    "reason": "根据描述，黄德贵父子从田地劳作归来标志着外部劳作场景的结束，并引出黄德贵随后进入小黑屋控制白雪梅的行为。这表明该情节在叙事顺序上早于黄德贵对白雪梅实施性支配的情节，存在明确的时间衔接。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d28a4347176d",
+    "subject_id": "ep_848ee2306b8cbdfa",
+    "object_id": "ep_8e365eeaeddfe688",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，朋友劝黄德贵回家同房发生在黄德贵对白雪梅实施性支配之前。黄德贵在被朋友催促后离开牌局，随即前往家中与妻子发生性关系，文本中事件的时间顺序支持这一先后关系。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9a0b1b74a85d",
+    "subject_id": "ep_e184e66b3722ea7a",
+    "object_id": "ep_8e365eeaeddfe688",
+    "relation_type": "precedes",
+    "reason": "黄德贵被父亲斥责并被迫重返房间发生在其与白雪梅发生性关系之前，根据事件顺序，黄德贵因无法制服白雪梅而离开，被父亲训斥后，三人重新进入屋内，随后发生性支配行为。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_863292611d07",
+    "subject_id": "ep_3920e243fc2d0a2c",
+    "object_id": "ep_8e365eeaeddfe688",
+    "relation_type": "precedes",
+    "reason": "黄德贵带白雪梅离开现场后，才可能发生黄德贵对白雪梅实施性支配的情节。根据叙事逻辑和事件顺序，强行带离是后续性支配行为的前提，且两个情节分别发生在不同文档中，时间顺序上支持前者早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3b6eb84839e0",
+    "subject_id": "ep_b4db311ec6f941ad",
+    "object_id": "ep_8e365eeaeddfe688",
+    "relation_type": "precedes",
+    "reason": "引导并安置两名妇女进入小黑屋（ep_b4db311ec6f941ad）在叙事顺序上早于黄德贵对白雪梅实施性支配（ep_8e365eeaeddfe688），因为安置行为为后续的性支配创造了物理和情境条件，且两个情节均涉及黄德贵家庭对妇女的控制，具有连贯的上下文推进。尽管没有直接因果表述，但时间顺序和情境发展的逻辑支持‘precedes’关系。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7bf476bb963d",
+    "subject_id": "ep_7a9f100f9658134c",
+    "object_id": "ep_f492719daeef9b97",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子与黄德诚会面发生在文档46，而处理喂猪前的冲突与准备发生在文档47，叙事顺序上前者早于后者，且两个情节在时间与场景上连续，前者为家庭成员互动，后者转向家庭内部冲突，支持precedes关系。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_babb97db4a94",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_f492719daeef9b97",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子从田地劳作归来标志着外部劳作场景的结束，并引出黄德贵随后进入小黑屋的行为，为后续控制白雪梅的事件提供时间与行动上的衔接；而处理喂猪前的冲突与准备发生在黄德贵回家之后，涉及他对白雪梅的控制行为，两者在叙事顺序上存在紧密衔接，前者在时间上早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f51ecd8f0757",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_b4db311ec6f941ad",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子从田地劳作归来标志着外部劳作场景的结束，并引出黄德贵随后进入小黑屋的行为，而引导并安置两名妇女进入小黑屋发生在同一叙事流程中但时间上稍后，由黄德贵母亲主导。两个情节在时间顺序上衔接紧密，前者为后者的发生提供行动过渡，支持'precedes'关系。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_caeec1b97473",
+    "subject_id": "ep_b4db311ec6f941ad",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "引导并安置两名妇女进入小黑屋这一情节发生在黄德贵完成性侵犯之前。根据描述，妇女被安置进屋、黄德贵母亲离开后，黄德贵才在关门后实施侵犯行为，具有明确的时间顺序。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b8c3ba52969b",
+    "subject_id": "ep_097005a1113f827a",
+    "object_id": "ep_fb90310edba197df",
+    "relation_type": "precedes",
+    "reason": "黄德贵母亲观察后离开现场发生在白雪梅吃面之前，根据描述，她观察了吃面的场景后选择离开，表明该情节在叙事顺序上早于完成面的递送与食用。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3452932cab69",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_fb90310edba197df",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子从田地劳作归来这一情节发生在黄德贵递送面并由白雪梅食用之前，文本描述中前者为后续控制白雪梅的事件提供时间与行动上的衔接，而递送与食用面的情节紧随其后，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_03beaa041580",
+    "subject_id": "ep_b4db311ec6f941ad",
+    "object_id": "ep_b8631b7c2c5f2102",
+    "relation_type": "precedes",
+    "reason": "主体情节'引导并安置两名妇女进入小黑屋'描述了将妇女带入并安置在小黑屋的过程，其中包含'两名妇女进入小黑屋'这一事件（scene_39）。客体情节'黄德贵向白雪梅施加控制以迫使其屈服'发生在小黑屋内，涉及黄德贵对已被囚禁的白雪梅施加控制（scene_28），且其相关事件表明白雪梅已被脚镣束缚。虽然scene_28和scene_39的文档编号不同，但叙事逻辑上，必须先将人安置于屋内，才能实施后续控制。因此，主体情节在时间顺序上早于客体情节，构成明确的叙事先后关系。",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_56be6f04ae3a",
+    "subject_id": "ep_27c343eef7a69677",
+    "object_id": "ep_097005a1113f827a",
+    "relation_type": "precedes",
+    "reason": "安抚白雪梅并劝其进食发生在黄德贵母亲观察后离开现场之前，因为劝说行为逻辑上先于沉默观察后的离开，且两次互动具有连续的情境连贯性，支持叙事上的先后顺序。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fff8640afaff",
+    "subject_id": "ep_848ee2306b8cbdfa",
+    "object_id": "ep_d7430b05e6f1cadc",
+    "relation_type": "precedes",
+    "reason": "根据文档信息，'朋友劝黄德贵回家同房' 发生在朋友家中的牌局场景（scene_16），而 '抵抗并阻止黄德贵的侵扰' 发生在小黑屋场景（scene_10）。scene_16 在叙事顺序上晚于 scene_10，因此该关系方向为 ep_848ee2306b8cbdfa 在 ep_d7430b05e6f1cadc 之后发生。但由于关系类型 'precedes' 要求主体在前，客体在后，此处主体情节实际发生在客体之后，故不能成立主体 precedes 客体。然而，若考虑真实时间线，ep_d7430b05e6f1cadc（scene_10）早于 ep_848ee2306b8cbdfa（scene_16），因此正确的方向应为客体 precedes 主体。由于关系方向不可逆，且不允许反向推断，故无法支持主体 -> 客体的 precedes 关系。综上，无足够支持确立任何有向关系，且两情节无明显因果、对比或扩展关系，因此输出 NONE。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4549df74a234",
+    "subject_id": "ep_097005a1113f827a",
+    "object_id": "ep_3920e243fc2d0a2c",
+    "relation_type": "precedes",
+    "reason": "黄德贵母亲观察后离开现场发生在黄德贵带白雪梅离开之前，根据事件描述的上下文顺序，前者为对场景的短暂观察后沉默离开，后者为村主任裁决后的强制带离行动，具有清晰的叙事时序先后。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4bda46d59758",
+    "subject_id": "ep_7674149468bc23da",
+    "object_id": "ep_9997995595fad0f3",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'黄德贵组织村民围堵白雪梅' 发生在 scene_26，而 '黄德贵父子质疑并指控白雪梅' 发生在 scene_27，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3e1c464a3cf0",
+    "subject_id": "ep_b5f28815883b6dbe",
+    "object_id": "ep_e35f53c95bb75d1e",
+    "relation_type": "precedes",
+    "reason": "白雪梅向村主任求助并遭敷衍发生在黄德贵暴力制服白雪梅之前，根据叙事逻辑和事件发展顺序，求助无果后困境升级，导致后续暴力事件发生，时间顺序上有明确先后。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2c7bff6ecb62",
+    "subject_id": "ep_27c343eef7a69677",
+    "object_id": "ep_b5f28815883b6dbe",
+    "relation_type": "precedes",
+    "reason": "安抚白雪梅并劝其进食发生在白雪梅向村主任求助之前，因为劝说进食是初期应对婚姻困境的反应，而求助村主任是后续寻求外部干预的行动，叙事上呈现从家庭内部处理到外部求助的顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_631e717e4c98",
+    "subject_id": "ep_7674149468bc23da",
+    "object_id": "ep_3920e243fc2d0a2c",
+    "relation_type": "precedes",
+    "reason": "黄德贵组织村民围堵白雪梅（ep_7674149468bc23da）发生在追赶和拦截过程中，而黄德贵带白雪梅离开现场（ep_3920e243fc2d0a2c）是在村主任裁决后发生的后续事件。根据叙事顺序，围堵行为在前，强行带离并在村主任介入后平息现场在后，因此前者在话语和事件流上早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5266e15fd656",
+    "subject_id": "ep_7674149468bc23da",
+    "object_id": "ep_e35f53c95bb75d1e",
+    "relation_type": "precedes",
+    "reason": "黄德贵组织村民围堵白雪梅发生在田地追捕场景（doc_25），而黄德贵暴力制服白雪梅发生在冲入房间场景（doc_24）。尽管文档编号顺序为 doc_24 在前，但围堵行为在叙事逻辑上是暴力制服的前置步骤，描述中围堵形成集体追捕态势后，才可能发展为单独制服，且两事件均属同一追捕链条。基于叙事连贯性与事件发展逻辑，围堵情节在话语顺序上应早于暴力制服，构成 precedes 关系。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_225ed2a7ffdc",
+    "subject_id": "ep_2d24ba9deab7e496",
+    "object_id": "ep_dcccbd380639609f",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'监视白雪梅的囚禁状态'发生在scene_28，而'白雪梅尝试呼救并遭压制'发生在scene_29，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c03170fe0fef",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_2d24ba9deab7e496",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子从田地劳作归来这一情节标志着外部劳作场景的结束，并引出黄德贵随后进入小黑屋的行为，为白雪梅尝试呼救并遭压制的情节提供时间与行动上的衔接，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4befaf9d5eb3",
+    "subject_id": "ep_2d24ba9deab7e496",
+    "object_id": "ep_3920e243fc2d0a2c",
+    "relation_type": "precedes",
+    "reason": "白雪梅尝试呼救并遭压制发生在黄德贵带白雪梅离开现场之前，根据描述，压制行为结束后村主任进行裁决，随后黄德贵才带白雪梅离开，叙事顺序明确。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4ab61366af21",
+    "subject_id": "ep_2d24ba9deab7e496",
+    "object_id": "ep_e184e66b3722ea7a",
+    "relation_type": "precedes",
+    "reason": "白雪梅尝试呼救并遭压制的情节中，黄德贵冲入小黑屋威胁她，但未能制服她，随后他离开房间并被父亲斥责，被迫重返房间。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dfe0d8d1188e",
+    "subject_id": "ep_2d24ba9deab7e496",
+    "object_id": "ep_9997995595fad0f3",
+    "relation_type": "precedes",
+    "reason": "根据描述，黄德贵父子质疑并指控白雪梅（ep_9997995595fad0f3）发生在白雪梅尝试呼救并遭压制（ep_2d24ba9deab7e496）之前，因为指控场景（scene_27）在文档顺序上早于呼救场景（scene_29），且叙事逻辑上先有指控，后有被拘禁中的呼救行为。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c2e55c55fa5d",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_b8631b7c2c5f2102",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子从田地劳作归来发生在黄德贵向白雪梅施加控制之前，描述中明确指出前者为后者提供时间与行动上的衔接，表明叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a9f4e864cbd3",
+    "subject_id": "ep_9997995595fad0f3",
+    "object_id": "ep_b8631b7c2c5f2102",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子质疑并指控白雪梅发生在黄德贵向白雪梅施加控制之前，根据文档顺序和事件发展逻辑，前者为后续囚禁和心理操控情节的叙事前提。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0f1fa3c54ed2",
+    "subject_id": "ep_b8631b7c2c5f2102",
+    "object_id": "ep_dcccbd380639609f",
+    "relation_type": "elaborates",
+    "reason": "黄德贵向白雪梅施加控制以迫使其屈服这一情节聚焦于直接的权力施加行为，而监视白雪梅的囚禁状态则通过黄德贵母亲的行为展示了囚禁环境的持续监控层面，补充了控制情境的社会性与监视维度，从而扩展并丰富了主体情节的背景和氛围。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ab3aa6782253",
+    "subject_id": "ep_b8631b7c2c5f2102",
+    "object_id": "ep_e184e66b3722ea7a",
+    "relation_type": "precedes",
+    "reason": "黄德贵向白雪梅施加控制以迫使其屈服的情节发生在其被父亲斥责并被迫重返房间之前。根据描述，黄德贵在无法制服白雪梅后离开房间，才遭遇父亲的训斥并被命令返回，因此前一情节在叙事顺序上直接早于后一情节。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9a2eae867eac",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_e35f53c95bb75d1e",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子从田地劳作归来标志着外部劳作场景的结束，并引出黄德贵随后进入小黑屋的行为，为后续控制白雪梅的事件提供时间与行动上的衔接，表明该情节在叙事顺序上早于黄德贵暴力制服白雪梅。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4a6db9f0f476",
+    "subject_id": "ep_848ee2306b8cbdfa",
+    "object_id": "ep_b8631b7c2c5f2102",
+    "relation_type": "precedes",
+    "reason": "根据描述，黄德贵在朋友家的牌局中被劝回家后离开，随即回家进入小黑屋对白雪梅施加控制。叙事顺序上，'朋友劝黄德贵回家同房'发生在'黄德贵向白雪梅施加控制以迫使其屈服'之前，且'离开朋友家'与'回家后进入小黑屋'构成连续动作，支持明确的时间先后关系。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_de16cef59c6c",
+    "subject_id": "ep_3920e243fc2d0a2c",
+    "object_id": "ep_b8631b7c2c5f2102",
+    "relation_type": "precedes",
+    "reason": "主体情节‘黄德贵带白雪梅离开现场’发生在村主任裁决后，群众散开，现场平息；客体情节‘黄德贵向白雪梅施加控制以迫使其屈服’发生在回家后的小黑屋场景中，包含后续的控制行为。根据叙事顺序，离开现场必然先于回家后的控制行为，且相关事件的时间上下文支持这一先后顺序。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_af7acc9f404b",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_dcccbd380639609f",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子从田地劳作归来标志着外部劳作场景的结束，并引出黄德贵随后进入小黑屋的行为，而监视白雪梅的囚禁状态涉及其母亲在同一家中持续观察小黑屋；两个情节发生在同一场景（scene_28）中，但劳作归来在叙事顺序上先于对囚禁状态的持续监视，为后续控制白雪梅提供时间衔接。",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b17f00376cff",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_ca65891ed1b885f2",
+    "relation_type": "precedes",
+    "reason": "根据描述，黄德贵父子从田地劳作归来后，黄德贵进入小黑屋，引出白雪梅下跪祈求释放的情节。文本明确指出前者为后者提供时间与行动上的衔接，表明该情节在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_97c303343a81",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_d639949b69161206",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子从田地劳作归来标志着外部劳作场景的结束，并引出黄德贵随后进入小黑屋的行为，为后续控制白雪梅的事件提供时间与行动上的衔接，表明该情节在叙事顺序上早于黄德贵提供食物并建立控制。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a939de007eaf",
+    "subject_id": "ep_e35f53c95bb75d1e",
+    "object_id": "ep_b8631b7c2c5f2102",
+    "relation_type": "precedes",
+    "reason": "黄德贵暴力制服白雪梅（ep_e35f53c95bb75d1e）发生在文档 doc_24 的 scene_25，而黄德贵向白雪梅施加控制以迫使其屈服（ep_b8631b7c2c5f2102）发生在文档 doc_27 的 scene_28，scene_25 在叙事顺序上早于 scene_28，因此前者在话语顺序上先于后者。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b3caaa36da1f",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_a62b178091b2db6b",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子从田地劳作归来标志着外部劳作场景的结束，并引出黄德贵随后进入小黑屋的行为，为后续控制白雪梅的事件提供时间与行动上的衔接；而黄德贵提出留下换善待的条件发生在对白雪梅的控制过程中，叙事上紧随其后。因此，主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c5dd37bd65cc",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_1c42a2f7e9052c1c",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子从田地劳作归来标志着外部劳作场景的结束，并引出黄德贵随后进入小黑屋的行为，而白雪梅呼救并被拦截发生在小卖部门口，是后续冲突升级的事件。根据描述中的时间与行动衔接逻辑，黄德贵归家后才可能发生对白雪梅的控制与拦截，因此该情节在叙事顺序上早于白雪梅呼救被拦截。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0ea3709cb22a",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_99a34ff897090e2a",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子从田地劳作归来这一情节描述了黄德贵返回家中的行动，为他随后进入房间侵犯白雪梅提供了时间与行动上的衔接。文本明确指出该事件引出黄德贵进入小黑屋的行为，而初次侵犯白雪梅的情节紧随其后，因此在叙事顺序上，主体情节在客体情节之前发生。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9bcf29dbb579",
+    "subject_id": "ep_e35f53c95bb75d1e",
+    "object_id": "ep_dcccbd380639609f",
+    "relation_type": "precedes",
+    "reason": "黄德贵暴力制服白雪梅（ep_e35f53c95bb75d1e）是囚禁的起始行为，发生在对其持续监视（ep_dcccbd380639609f）之前，文本中暴力控制先于母亲的监视活动，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_af93a549e9df",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子从田地劳作归来这一情节描述了黄德贵返回家中，为后续进入小黑屋控制白雪梅并实施性侵犯提供了时间与行动上的衔接。根据描述，性侵犯事件发生在父母离开并关门后，暗示劳作归家在叙事顺序上早于性侵犯完成，因此支持'precedes'关系。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1466905228c0",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_e184e66b3722ea7a",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子从田地劳作归来标志着外部劳作场景的结束，并引出黄德贵随后进入小黑屋的行为；而黄德贵被父亲斥责并被迫重返房间发生在其试图离开房间之后，文本描述中存在明确的时间顺序衔接，前者为后者提供行动和时间上的前置条件，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4de8e95480d0",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_9997995595fad0f3",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子从田地劳作归来（ep_0a536e08e40d6ddb）在描述中明确引出黄德贵随后进入小黑屋的行为，而质疑并指控白雪梅（ep_9997995595fad0f3）发生在村主任在场的场景中，逻辑上需在归来之后展开。因此，劳作归来在叙事顺序上早于指控事件，构成时间上的先后关系。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6e5c15e3e916",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_7a9f100f9658134c",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子从田地劳作归来（ep_0a536e08e40d6ddb）在叙事顺序上早于黄德贵父子与黄德诚会面（ep_7a9f100f9658134c），因为前者描述其回家并引出后续行为，后者则发生在回家后与访客互动的场景，时间衔接紧密且逻辑连贯。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1e9a9e4508f8",
+    "subject_id": "ep_0a536e08e40d6ddb",
+    "object_id": "ep_f1845e82a25ec04b",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子从田地劳作归来标志着外部劳作场景的结束，并引出黄德贵随后进入小黑屋的行为，为后续控制白雪梅的事件提供时间与行动上的衔接；而黄德贵父母协助实施暴力并退出房间发生在小黑屋内对白雪梅的压制过程中。两个情节在叙事顺序上紧密衔接，前者为后者的发生提供前提和时间过渡，文本明确支持其先后顺序。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_160628a71108",
+    "subject_id": "ep_3920e243fc2d0a2c",
+    "object_id": "ep_dcccbd380639609f",
+    "relation_type": "precedes",
+    "reason": "黄德贵带白雪梅离开现场发生在村主任裁决后，群众散开，现场平息；随后在下一文档中，黄德贵母亲在门口监视关押白雪梅的小黑屋，表明囚禁状态的持续。叙事顺序上，离开现场的情节在时间上先于对囚禁状态的监视，且两个情节分别属于连续场景（scene_27 与 scene_28），支持 precedes 关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8540c769f042",
+    "subject_id": "ep_02cc354a4759b3e4",
+    "object_id": "ep_3920e243fc2d0a2c",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在小卖部内，涉及黄德贵回应村民质疑后离开；第二个情节发生在村主任裁决后，黄德贵带白雪梅离开，群众散开。根据事件上下文和场景编号（scene_14 先于 scene_27），该顺序表明前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cc5515685226",
+    "subject_id": "ep_a38b1bfc95bec982",
+    "object_id": "ep_27c343eef7a69677",
+    "relation_type": "precedes",
+    "reason": "揭露买卖婚姻真相并劝服白雪梅接受这一情节在逻辑和叙事顺序上早于安抚白雪梅并劝其进食。通常在劝说接受婚姻事实之后，才会进行情感安抚和劝食行为。描述中前者涉及告知真相和劝服，后者则是后续的情感照护，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f2ebf2c599a0",
+    "subject_id": "ep_27c343eef7a69677",
+    "object_id": "ep_a7807a2c2517ed76",
+    "relation_type": "precedes",
+    "reason": "情节 '安抚白雪梅并劝其进食' 发生在黄德贵母亲与白雪梅互动的早期阶段，而 '结束探访并承诺再次见面' 包含离开的行动和告别请求，表明探访的终结。根据叙事顺序，劝说进食发生在探访过程中，而结束探访是其后续阶段，因此前者在话语顺序上早于后者。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_62c0c5b97d44",
+    "subject_id": "ep_27c343eef7a69677",
+    "object_id": "ep_b21686c5af43cd54",
+    "relation_type": "precedes",
+    "reason": "安抚白雪梅并劝其进食发生在黄德贵母亲劝说失败并引发新一轮压制之前，前者是情感劝说的尝试，后者是劝说失败后的升级行动，叙事上呈现连续发展顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_37e2d9c0af4d",
+    "subject_id": "ep_d639949b69161206",
+    "object_id": "ep_e35f53c95bb75d1e",
+    "relation_type": "precedes",
+    "reason": "黄德贵通过提供食物建立控制发生在先，随后暴力制服白雪梅，两个情节在叙事上呈现递进顺序，前者为后者建立权力不对等的基调，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dc27a78bb41b",
+    "subject_id": "ep_27c343eef7a69677",
+    "object_id": "ep_3920e243fc2d0a2c",
+    "relation_type": "precedes",
+    "reason": "安抚白雪梅并劝其进食发生在黄德贵带白雪梅离开现场之前，根据事件上下文，劝说进食是婚姻事实已成后的安抚行为，而强行带离是在村主任裁决后发生的后续行动，具有清晰的叙事时序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c2df3a8dc1b8",
+    "subject_id": "ep_3e0fadfef82b272c",
+    "object_id": "ep_e35f53c95bb75d1e",
+    "relation_type": "precedes",
+    "reason": "白雪梅断然拒绝被囚禁发生在黄德贵暴力制服她之前，根据叙事逻辑和事件顺序，拒绝行为是引发暴力制服的前置动作，文本支持这一时间顺序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c76551651a51",
+    "subject_id": "ep_347bfe5f5c52031a",
+    "object_id": "ep_e35f53c95bb75d1e",
+    "relation_type": "precedes",
+    "reason": "白雪梅提议赎身并遭拒发生在黄德贵暴力制服白雪梅之前，文本中拒绝赎身提议后紧接着发生暴力行为，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ca7f3badce0e",
+    "subject_id": "ep_27c343eef7a69677",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "根据描述，黄德贵母亲安抚白雪梅并劝其进食发生在黄德贵父母离开并关门之前，而性侵犯行为发生在父母离开之后，因此‘安抚白雪梅并劝其进食’在叙事顺序上早于‘黄德贵完成性侵犯’。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eecf8d2f3273",
+    "subject_id": "ep_1c42a2f7e9052c1c",
+    "object_id": "ep_e35f53c95bb75d1e",
+    "relation_type": "precedes",
+    "reason": "白雪梅呼救并被拦截发生在黄德贵暴力制服她之前，根据事件描述的叙事顺序，冲突在此后进一步升级，支持该时间先后关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aab85dc9b9ef",
+    "subject_id": "ep_848ee2306b8cbdfa",
+    "object_id": "ep_e35f53c95bb75d1e",
+    "relation_type": "precedes",
+    "reason": "根据描述，朋友劝黄德贵回家同房发生在朋友家中的牌局聚会场景（scene_16），而黄德贵暴力制服白雪梅发生在场景25，scene_16在叙事顺序上早于scene_25，因此该关系为precedes。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0ea6f62a548c",
+    "subject_id": "ep_ca65891ed1b885f2",
+    "object_id": "ep_e35f53c95bb75d1e",
+    "relation_type": "precedes",
+    "reason": "白雪梅初次求放并下跪祈求发生在黄德贵暴力制服她之前，根据叙事逻辑，她的求放行为是触发黄德贵暴力反应的前置动作，且两个情节在文档中按顺序呈现，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3e53f8e27217",
+    "subject_id": "ep_99a34ff897090e2a",
+    "object_id": "ep_27c343eef7a69677",
+    "relation_type": "precedes",
+    "reason": "黄德贵初次侵犯白雪梅并遭反抗这一情节在时间上早于其母亲安抚白雪梅并劝其进食的情节，因为侵犯行为导致白雪梅情绪崩溃和绝食状态，从而引发后续安抚行动。文本中虽未明确时间标记，但逻辑序列和事件因果链支持该顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_012c82bf128f",
+    "subject_id": "ep_a38b1bfc95bec982",
+    "object_id": "ep_e35f53c95bb75d1e",
+    "relation_type": "precedes",
+    "reason": "情节 '揭露买卖婚姻真相并劝服白雪梅接受' 中，黄德贵父母告知白雪梅她已被卖出并劝其接受，为后续黄德贵采取暴力手段制服她提供了叙事前提；根据文本描述的逻辑顺序，劝服失败后发生暴力行为，支持该时间顺序。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a1048f605b2b",
+    "subject_id": "ep_a62b178091b2db6b",
+    "object_id": "ep_e35f53c95bb75d1e",
+    "relation_type": "precedes",
+    "reason": "黄德贵提出留下换善待的条件发生在其暴力制服白雪梅之前，叙事上先试图以交换形式合理化控制，随后转为直接暴力，体现控制手段的升级。该顺序由事件描述中的行为逻辑和典型叙事发展支持。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8b01c807ff0a",
+    "subject_id": "ep_9997995595fad0f3",
+    "object_id": "ep_e35f53c95bb75d1e",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子质疑并指控白雪梅发生在黄德贵暴力制服白雪梅之前，根据叙事逻辑和事件发展顺序，指控与要求带回为后续暴力行为提供了直接上下文，且相关事件在文档中按时间顺序排列。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_705050d38353",
+    "subject_id": "ep_9c7a4899d9fd5f1d",
+    "object_id": "ep_e35f53c95bb75d1e",
+    "relation_type": "precedes",
+    "reason": "黄德贵索要退款并轻视法律发生在白雪梅被暴力制服之前，根据事件描述的上下文和叙事顺序，索要退款和法律争执为后续暴力行为提供了直接前因，表明该情节在叙事时间线上早于暴力制服情节。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_528ad5ce5cb0",
+    "subject_id": "ep_e35f53c95bb75d1e",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "黄德贵暴力制服白雪梅（按倒并殴打）在叙事上先于其完成性侵犯行为，因为控制与暴力是实施侵犯的前提，且描述中事件顺序呈现为先制服后侵犯。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_823a9057471c",
+    "subject_id": "ep_99a34ff897090e2a",
+    "object_id": "ep_e35f53c95bb75d1e",
+    "relation_type": "precedes",
+    "reason": "黄德贵初次侵犯白雪梅并遭反抗发生在黄德贵暴力制服白雪梅之前，根据描述，初次侵犯时白雪梅尚能反抗，而后续情节中黄德贵已完全控制局面，表明时间顺序上前者早于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_af082c888dd1",
+    "subject_id": "ep_b21686c5af43cd54",
+    "object_id": "ep_e35f53c95bb75d1e",
+    "relation_type": "precedes",
+    "reason": "黄德贵母亲劝说失败并引发新一轮压制发生在黄德贵暴力制服白雪梅之前，根据事件描述的逻辑顺序和叙事流程，父亲下令按倒白雪梅后，黄德贵随后冲入房间实施暴力，构成明确的时间先后关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3266030927d8",
+    "subject_id": "ep_e35f53c95bb75d1e",
+    "object_id": "ep_f1845e82a25ec04b",
+    "relation_type": "precedes",
+    "reason": "黄德贵暴力制服白雪梅发生在其父母协助实施暴力并退出房间之前，根据事件描述的顺序和相关场景的逻辑推进，前者为后者提供了直接的前置情境，且两个情节在叙事上连续，前者结束时后者开始。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e941485f5248",
+    "subject_id": "ep_e35f53c95bb75d1e",
+    "object_id": "ep_3920e243fc2d0a2c",
+    "relation_type": "precedes",
+    "reason": "黄德贵暴力制服白雪梅发生在其强行带离现场之前，根据事件逻辑顺序，暴力制服是控制白雪梅的初始行为，随后才发生带离现场的情节，且两事件分别位于不同文档场景（scene_25 与 scene_27），支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_39a72536bc9d",
+    "subject_id": "ep_e184e66b3722ea7a",
+    "object_id": "ep_e35f53c95bb75d1e",
+    "relation_type": "precedes",
+    "reason": "根据描述，黄德贵被父亲斥责并被迫重返房间（ep_e184e66b3722ea7a）发生在黄德贵暴力制服白雪梅（ep_e35f53c95bb75d1e）之前，因为前者是后者行动的直接前置场景，且相关事件序列显示三人返回屋内后继续施压，逻辑上导向后续的暴力行为。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d00fca071fcb",
+    "subject_id": "ep_09f2db59b8c334cb",
+    "object_id": "ep_9997995595fad0f3",
+    "relation_type": "precedes",
+    "reason": "情节'制止暴力并爆发逃脱'描述白雪梅在遭受殴打后趁机逃离现场，而'黄德贵父子质疑并指控白雪梅'则发生在后续场景中，涉及黄德贵及其父亲对白雪梅逃走后的反应和指控。根据叙事逻辑和事件顺序，逃脱行为在先，随后才是对方的质疑与追责，因此主体情节在时间顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7e6e7f36656d",
+    "subject_id": "ep_09f2db59b8c334cb",
+    "object_id": "ep_3920e243fc2d0a2c",
+    "relation_type": "precedes",
+    "reason": "根据描述，'制止暴力并爆发逃脱'发生在黄德贵持续施暴过程中，白雪梅趁机逃离；而'黄德贵带白雪梅离开现场'发生在村主任裁决之后，包含群众散开等后续场景。两个情节分别位于不同文档（doc_24 vs doc_26）且叙事顺序连贯，前者为逃脱行为，后者为裁决后强制带走，逻辑上前者早于后者。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ebc10425aac7",
+    "subject_id": "ep_2d24ba9deab7e496",
+    "object_id": "ep_e35f53c95bb75d1e",
+    "relation_type": "precedes",
+    "reason": "根据描述，白雪梅尝试呼救并遭压制的情节中，黄德贵冲入小黑屋威胁她（scene_29），而黄德贵暴力制服白雪梅的情节发生在其冲入房间并殴打她时（scene_25）。尽管文档编号不同，但scene_25在叙事顺序上早于scene_29，因此‘白雪梅尝试呼救并遭压制’在话语顺序上紧随‘黄德贵暴力制服白雪梅’之后。然而，由于‘暴力制服’是‘呼救与压制’的前提，且‘呼救’行为是对已被控制状态的反应，结合事件逻辑与场景编号顺序，更合理的推断是ep_e35f53c95bb75d1e（暴力制服）在先，ep_2d24ba9deab7e496（尝试呼救并遭压制）在后。因此，主体情节在时间上晚于客体情节，关系为客体precedes主体。但因relation_type方向由subject到object，而此处应为object precedes subject，故不能成立。重新评估：若以subject ep_2d24ba9deab7e496 为基准，其描述中包含‘黄德贵冲入小黑屋威胁’，而ep_e35f53c95bb75d1e 描述‘黄德贵冲入房间将白雪梅按倒并殴打’，两者均为scene_25与scene_29中的独立事件。scene_25（暴力制服）在文本顺序上早于scene_29（呼救与压制），因此ep_e35f53c95bb75d1e 在叙事时间上早于 ep_2d24ba9deab7e496。因此，subject（ep_2d24ba9deab7e496）在时间上晚于 object（ep_e35f53c95bb75d1e），即 object precedes subject。但由于关系方向为 subject → object，若 subject 在时间上晚于 object，则 subject 并不 precedes object。因此，precedes 关系不成立。无明确因果、对比或扩展关系证据，故输出NONE。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_36e7a3523dc2",
+    "subject_id": "ep_a38b1bfc95bec982",
+    "object_id": "ep_3920e243fc2d0a2c",
+    "relation_type": "precedes",
+    "reason": "揭露买卖婚姻真相并劝服白雪梅接受发生在黄德贵带白雪梅离开现场之前，因为劝服是使其接受婚姻安排的前置步骤，随后才发生强行带离事件，叙事逻辑和事件发展顺序支持该时间先后关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3d39a187290e",
+    "subject_id": "ep_848ee2306b8cbdfa",
+    "object_id": "ep_e184e66b3722ea7a",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件流，黄德贵在朋友家被劝回家同房（doc_15）发生在其被父亲斥责并被迫重返房间（doc_17）之前。朋友劝其回家是触发他返回家庭场景的前置动作，随后在父亲干预下发展为施压情节，叙事时间顺序清晰。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4465df574143",
+    "subject_id": "ep_848ee2306b8cbdfa",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "根据描述，朋友劝黄德贵回家同房发生在朋友家中的牌局场景（scene_16），而黄德贵完成性侵犯发生在父母离开并关门后的另一场景（scene_18）。文档顺序和场景编号表明前者在叙事时间上早于后者，且黄德贵在被劝说后离开朋友家，逻辑上为后续事件创造了条件。因此，该关系为有向的'precedes'。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_77c4b09c4c5e",
+    "subject_id": "ep_d639949b69161206",
+    "object_id": "ep_e184e66b3722ea7a",
+    "relation_type": "precedes",
+    "reason": "黄德贵提供食物并建立控制发生在其被父亲斥责并被迫重返房间之前，因为前者是初始控制尝试，后者是对该尝试失败后的反应，叙事顺序由相关事件的时间逻辑支持。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8d83eb934da7",
+    "subject_id": "ep_848ee2306b8cbdfa",
+    "object_id": "ep_99a34ff897090e2a",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和事件流，黄德贵在朋友家被劝回家后离开，随即进入下一场景对白雪梅实施侵犯。事件描述中，'黄德贵离开朋友家'（scene_16）紧接在'朋友劝黄德贵回家同房'之后，而'黄德贵初次侵犯白雪梅并遭反抗'发生在scene_18，具有明确的后续叙事顺序。因此，主体情节在叙事时间上先于客体情节。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_05f8f8a8438d",
+    "subject_id": "ep_ca65891ed1b885f2",
+    "object_id": "ep_3920e243fc2d0a2c",
+    "relation_type": "precedes",
+    "reason": "白雪梅初次求放并下跪祈求发生在黄德贵带白雪梅离开现场之前，根据事件描述的逻辑顺序，求放行为是离开的前置动作，且两事件涉及相同人物和连续行为，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a99f27670962",
+    "subject_id": "ep_d639949b69161206",
+    "object_id": "ep_9997995595fad0f3",
+    "relation_type": "precedes",
+    "reason": "黄德贵提供食物并建立控制（ep_d639949b69161206）发生在对话初期，通过行为确立权力关系，为后续黄德贵父子质疑并指控白雪梅（ep_9997995595fad0f3）的对抗性情节提供情境铺垫，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cc8e492edcc2",
+    "subject_id": "ep_ca65891ed1b885f2",
+    "object_id": "ep_e184e66b3722ea7a",
+    "relation_type": "precedes",
+    "reason": "白雪梅初次求放并下跪祈求发生在黄德贵因无法制服她而离开房间之前，根据叙事顺序，她的反抗直接导致黄德贵暂时退出房间，随后被父亲斥责并被迫返回，因此该情节在时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eae1d85477dd",
+    "subject_id": "ep_a38b1bfc95bec982",
+    "object_id": "ep_e184e66b3722ea7a",
+    "relation_type": "precedes",
+    "reason": "情节 '揭露买卖婚姻真相并劝服白雪梅接受' 发生在黄德贵一家对白雪梅施压的初期阶段，而 '黄德贵被父亲斥责并被迫重返房间' 描述的是黄德贵试图离开后被父亲训斥并返回屋内继续施压的后续场景。根据事件序列，劝服行为先发生，随后才是黄德贵离开房间被拦下并被命令返回，因此该关系在叙事顺序上明确支持 'precedes'。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7b2c367761c6",
+    "subject_id": "ep_347bfe5f5c52031a",
+    "object_id": "ep_3920e243fc2d0a2c",
+    "relation_type": "precedes",
+    "reason": "白雪梅提议赎身并遭拒发生在黄德贵带白雪梅离开现场之前，根据事件上下文和叙事顺序，前者为谈判失败，后者为强制带离，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_da87bd3d4d02",
+    "subject_id": "ep_a62b178091b2db6b",
+    "object_id": "ep_3920e243fc2d0a2c",
+    "relation_type": "precedes",
+    "reason": "黄德贵提出留下换善待的条件发生在村主任裁决前的协商阶段（doc_14），而黄德贵带白雪梅离开现场发生在裁决后的执行阶段（doc_26），叙事顺序上前者早于后者，且两情节均围绕白雪梅是否留下展开，构成连续的情节推进。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1d2916d05d8e",
+    "subject_id": "ep_347bfe5f5c52031a",
+    "object_id": "ep_e184e66b3722ea7a",
+    "relation_type": "precedes",
+    "reason": "白雪梅提议赎身并遭拒发生在黄德贵被父亲斥责并被迫重返房间之前，依据相关事件的场景编号（scene_15 先于 scene_18），表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bbc7c574b8a2",
+    "subject_id": "ep_a62b178091b2db6b",
+    "object_id": "ep_e184e66b3722ea7a",
+    "relation_type": "precedes",
+    "reason": "黄德贵提出留下换善待的条件发生在其被父亲斥责并被迫重返房间之前。根据事件序列，黄德贵先试图与白雪梅谈判（承诺善待以换取留下），在未能制服她后离开房间，随后才被父亲拦下并训斥。因此，该情节在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fd8b76c0f1a6",
+    "subject_id": "ep_9c7a4899d9fd5f1d",
+    "object_id": "ep_3920e243fc2d0a2c",
+    "relation_type": "precedes",
+    "reason": "黄德贵索要退款并轻视法律发生在村主任裁决前的争执阶段，而黄德贵带白雪梅离开现场是在村主任裁决后群众散开的阶段，根据事件顺序，前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_16fd99709c58",
+    "subject_id": "ep_9c7a4899d9fd5f1d",
+    "object_id": "ep_e184e66b3722ea7a",
+    "relation_type": "precedes",
+    "reason": "黄德贵索要退款并轻视法律发生在场景15，而黄德贵被父亲斥责并被迫重返房间发生在场景18，文档中场景编号的顺序表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_53299e1dcbf6",
+    "subject_id": "ep_3e0fadfef82b272c",
+    "object_id": "ep_e184e66b3722ea7a",
+    "relation_type": "precedes",
+    "reason": "白雪梅断然拒绝被囚禁（ep_3e0fadfef82b272c）发生在黄德贵离开房间并被父亲斥责之前，根据事件序列，白雪梅的反抗直接导致黄德贵暂时退出房间，随后发生其被父亲训斥并重返的情节，因此在叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e48d65b0aa7d",
+    "subject_id": "ep_3920e243fc2d0a2c",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "黄德贵带白雪梅离开现场后，才能在其父母离开并关门后实施性侵犯，事件在叙事顺序上明确先后发生。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2bf0de1bdbd5",
+    "subject_id": "ep_99a34ff897090e2a",
+    "object_id": "ep_3920e243fc2d0a2c",
+    "relation_type": "precedes",
+    "reason": "黄德贵初次侵犯白雪梅并遭反抗发生在黄德贵带白雪梅离开现场之前，根据事件逻辑顺序，侵犯未遂后才发生强行带离及村主任裁决后的平息过程。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f9bc176b4109",
+    "subject_id": "ep_9997995595fad0f3",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "根据叙事逻辑和事件发展顺序，黄德贵父子质疑并指控白雪梅发生在黄德贵完成性侵犯之前。描述中提到黄德贵父母在场时进行指控，之后离开并关门，随后发生性侵犯行为，表明前者在时间顺序上先于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_58140d527627",
+    "subject_id": "ep_347bfe5f5c52031a",
+    "object_id": "ep_9997995595fad0f3",
+    "relation_type": "precedes",
+    "reason": "白雪梅提议赎身并遭拒（ep_347bfe5f5c52031a）在叙事逻辑上早于黄德贵父子质疑并指控白雪梅（ep_9997995595fad0f3），因为赎身提议被拒后，矛盾升级，进而引发后续的公开质疑和指控。related_events 中的场景编号（scene_15 先于 scene_27）也支持这一时间顺序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_336b9312f1b6",
+    "subject_id": "ep_e184e66b3722ea7a",
+    "object_id": "ep_bb0c8ede6a152753",
+    "relation_type": "precedes",
+    "reason": "黄德贵被父亲斥责并被迫重返房间发生在黄德贵完成性侵犯之前，因为文本描述黄德贵最初因无法制服白雪梅而离开，被父亲训斥后才重新进入房间继续侵犯行为。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0be9d9f8e9c2",
+    "subject_id": "ep_9997995595fad0f3",
+    "object_id": "ep_f1845e82a25ec04b",
+    "relation_type": "precedes",
+    "reason": "黄德贵父子质疑并指控白雪梅发生在压制和暴力实施之前，根据叙事逻辑和事件发展顺序，指控与要求带回是后续暴力关押的前置步骤。相关事件显示，质疑身份和骗婚指控（scene_27）在时间上早于父母协助压制并关门（scene_18），尽管文档编号不同，但情节演进支持前者在话语顺序上先于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bb1418b7e6d8",
+    "subject_id": "ep_99a34ff897090e2a",
+    "object_id": "ep_9997995595fad0f3",
+    "relation_type": "precedes",
+    "reason": "黄德贵初次侵犯白雪梅并遭反抗（ep_99a34ff897090e2a）发生在黄德贵父子质疑并指控白雪梅（ep_9997995595fad0f3）之前，根据事件逻辑顺序，侵犯行为及反抗导致后续其父子出面指控白雪梅为骗婚逃婚的骗子，叙事时间线上前者早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8dcdfef268c4",
+    "subject_id": "ep_f2a5fbd5022f1388",
+    "object_id": "ep_ce58fcb9fe2c0def",
+    "relation_type": "causes",
+    "reason": "情节'应对黄德贵妻子自残危机'中，黄德贵妻子割伤手腕直接引发后续紧急医疗救助行动，导致黄德诚呼喊大夫并前往外科室，构成直接因果链。文本明确描述该危机为触发事件，因此支持'causes'关系。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_67574f39f727",
+    "subject_id": "ep_80b10f8b6d7016b2",
+    "object_id": "ep_f51331d6e6c5b872",
+    "relation_type": "precedes",
+    "reason": "黄德诚带队上学并途中互动（scene_22）发生在组织分年级课堂教学（scene_23）之前，根据文档场景编号的顺序，scene_22在scene_23之前，且上学是课堂教学的前置活动，具有明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6b7fb21b0d89",
+    "subject_id": "ep_36356c0072dc8b0c",
+    "object_id": "ep_ce58fcb9fe2c0def",
+    "relation_type": "causes",
+    "reason": "救援受伤的白雪梅这一情节中，黄德诚发现白雪梅割伤手腕后立即决定送医，直接触发了后续呼喊大夫求助、前往外科室等寻求紧急医疗救助的行动。两个情节共享紧密的因果和时间上下文，且客体情节是主体情节中决策的直接结果，文本提供了明确的因果链条支持。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_afe7af5a4b39",
+    "subject_id": "ep_f1845e82a25ec04b",
+    "object_id": "ep_3920e243fc2d0a2c",
+    "relation_type": "precedes",
+    "reason": "黄德贵父母协助实施暴力并退出房间（ep_f1845e82a25ec04b）发生在小黑屋内，随后黄德贵带白雪梅离开现场（ep_3920e243fc2d0a2c）发生在村主任裁决后，两情节在叙事时间线上有明确先后顺序，且事件场景从封闭房间转移到公共现场，支持前者早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e9fd3777ba10",
+    "subject_id": "ep_2b406ec25d5d25f9",
+    "object_id": "ep_8bda10e9293105d7",
+    "relation_type": "precedes",
+    "reason": "根据描述，村主任裁定白雪梅暂回黄家后，白雪梅和黄德贵母亲离开，随后村主任恢复麻将活动。这表明第一个情节在叙事时间顺序上直接早于第二个情节。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c4eefae5c45c",
+    "subject_id": "ep_b4db311ec6f941ad",
+    "object_id": "ep_39b222e17ca8605c",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'引导并安置两名妇女进入小黑屋'（doc_38, scene_39）发生在'劝说白雪梅接受现实并放弃逃跑'（doc_39, scene_40）之前。两个情节分别属于连续的文档和场景，且安置完成后才开始劝说，叙事顺序明确。",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fd53255e71f0",
+    "subject_id": "ep_27c343eef7a69677",
+    "object_id": "ep_7d86ef070174f084",
+    "relation_type": "causes",
+    "reason": "黄德贵母亲安抚白雪梅并劝其进食的行为直接引发了白雪梅的激烈反抗，包括言语辱骂和肢体攻击，表明劝说行为是反抗的直接诱因。",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_622d94f4121e",
+    "subject_id": "ep_f2a5fbd5022f1388",
+    "object_id": "ep_36356c0072dc8b0c",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，黄德贵向黄德诚求助并一同离开教室（ep_f2a5fbd5022f1388）发生在黄德诚和家人冲入小黑屋救援白雪梅（ep_36356c0072dc8b0c）之前。文档中事件序列显示，黄德诚先处理黄德贵的求助，随后才进入小黑屋发现白雪梅受伤，因此该关系在叙事顺序上明确支持。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ecbab78fcb4c",
+    "subject_id": "ep_7d86ef070174f084",
+    "object_id": "ep_e35f53c95bb75d1e",
+    "relation_type": "precedes",
+    "reason": "白雪梅激烈反抗黄德贵母亲的劝说发生在黄德贵暴力制服白雪梅之前，两者均发生在scene_25，且反抗行为在叙事顺序上直接先于黄德贵的暴力制服行为。",
+    "source_documents": [
+      "scene_25_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f4742a835b2f",
+    "subject_id": "ep_6d4703c7d96adffd",
+    "object_id": "ep_e6cc09364bbd397c",
+    "relation_type": "precedes",
+    "reason": "人群在黄德贵家门口聚集围人构成现场背景，三个孩子随后前往并闯入该人群，叙事顺序上前者早于后者，且后者行为依赖于前者提供的场景，因此主体情节在时间与话语顺序上先于客体情节。",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_714d9eea5344",
+    "subject_id": "ep_1c42a2f7e9052c1c",
+    "object_id": "ep_2b406ec25d5d25f9",
+    "relation_type": "precedes",
+    "reason": "白雪梅呼救并被拦截发生在村主任裁定她暂回黄家之前，根据描述，冲突升级后村主任介入并做出决定，叙事顺序明确。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2938498ec629",
+    "subject_id": "ep_1c42a2f7e9052c1c",
+    "object_id": "ep_497e13b08e1805a2",
+    "relation_type": "precedes",
+    "reason": "白雪梅呼救并被拦截发生在村主任介入并控制现场之前，根据描述，冲突升级后村主任才出面制止争执，符合叙事上的先后顺序。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e9b27c78b475",
+    "subject_id": "ep_0ab6dbc54d7ba70f",
+    "object_id": "ep_3920e243fc2d0a2c",
+    "relation_type": "precedes",
+    "reason": "白雪梅申诉自己被骗发生在村主任裁决前，而黄德贵带白雪梅离开是在裁决后，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_57951303b9c9",
+    "subject_id": "ep_6d4703c7d96adffd",
+    "object_id": "ep_fd2d1aa1d6721de5",
+    "relation_type": "elaborates",
+    "reason": "人群在黄德贵家门口聚集围人构成了吴经理与黄德贵父亲达成交易的背景场景，后者发生在前者提供的现场背景下，表明聚集场面为交易事件提供了上下文和环境支持，符合elaborates关系中通过场合扩展事件解释的模式。",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5662eace749c",
+    "subject_id": "ep_0ab6dbc54d7ba70f",
+    "object_id": "ep_2b406ec25d5d25f9",
+    "relation_type": "precedes",
+    "reason": "白雪梅申诉自己被骗发生在村主任裁定她暂回黄家之前，两者均发生在scene_27，且逻辑上申诉在先，裁定在后，叙事顺序明确。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_15e838101298",
+    "subject_id": "ep_0ab6dbc54d7ba70f",
+    "object_id": "ep_9997995595fad0f3",
+    "relation_type": "contrasts_with",
+    "reason": "白雪梅申诉自己被骗并恳求救助，与黄德贵父子强调已付彩礼并指控其骗婚形成直接立场和诉求上的对立，二者在相同场景下被并置以凸显冲突，构成对比关系。",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_21a638212af3",
+    "subject_id": "ep_17b22e419e325d0f",
+    "object_id": "ep_ecfb4f1f1e7a2e1b",
+    "relation_type": "contrasts_with",
+    "reason": "举行婚宴庆祝活动营造表面喜庆的氛围，而发现白雪梅被囚禁并求救揭示了隐藏的暴力与压迫，两者在氛围和现实之间形成强烈对比，文本通过并置凸显表象与真相的冲突。",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4194b05b87a8",
+    "subject_id": "ep_b2b6c2aa2d40c47c",
+    "object_id": "ep_02cc354a4759b3e4",
+    "relation_type": "precedes",
+    "reason": "在购烟过程中，店主和二虎对黄德贵感情状态的打探（应对众人对感情状态的打探）发生在黄德贵回应质疑并离开现场之前，根据场景14中的事件顺序，调侃和追问先于村民质疑其说法及随后的离开行为，因此该关系在叙事顺序上明确支持precedes。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_731c1b852a03",
+    "subject_id": "ep_4cc0cc5803d62175",
+    "object_id": "ep_b2b6c2aa2d40c47c",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述黄德贵进入小卖部并开始购烟，客体情节描述在购烟过程中他人对其感情状态的打探和调侃。客体情节发生在同一场景（scene_14）中购烟行为的进行期间，通过增加社交互动细节扩展了主体情节的背景和情境，但并未改变其目标或因果进程。因此，客体情节为主体情节提供了额外的叙事细节，构成 elaborates 关系。",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.75
+  }
+]

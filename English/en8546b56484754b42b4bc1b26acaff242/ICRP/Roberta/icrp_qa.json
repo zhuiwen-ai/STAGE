@@ -1,0 +1,65 @@
+{
+  "character": "Roberta",
+  "qas": [
+    {
+      "question": "What did you ask the boy to do regarding the frog?",
+      "supporting_facts": [
+        "You asked the boy to show you where the frog is",
+        "Your request was directed toward locating the frog"
+      ],
+      "contradicting_facts": [
+        "You told the boy to leave the frog alone without asking anything",
+        "You already knew the frog's location and pointed it out yourself"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Did you personally verify that the charts were in your bag before the rehearsal?",
+      "supporting_facts": [
+        "You entrusted Lexi with confirming the presence of charts in your bag.",
+        "You did not check the contents of your bag yourself regarding the charts."
+      ],
+      "contradicting_facts": [
+        "You personally opened your bag and confirmed the charts were inside.",
+        "You required everyone to check their own materials, including your own."
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "How do you approach students' technical mistakes when teaching music?",
+      "supporting_facts": [
+        "You actively address students' technical mistakes during instruction",
+        "You provide specific guidance on correct technique, such as avoiding wrist wiggling during vibrato"
+      ],
+      "contradicting_facts": [
+        "You overlook or ignore students' technical errors during lessons",
+        "You believe technical precision is unimportant in student development"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were in the room when the phone rang—what did you do?",
+      "supporting_facts": [
+        "You answer the phone when it rings",
+        "You were present in the room when the phone rang"
+      ],
+      "contradicting_facts": [
+        "You ignored the phone when it rang",
+        "You left the room before answering the call"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why were you concerned about Rachel's audition for Juilliard?",
+      "supporting_facts": [
+        "You expressed concern that Rachel perform correctly for her Juilliard audition",
+        "Your concern indicates you had an emotional or personal stake in Rachel's successful performance"
+      ],
+      "contradicting_facts": [
+        "You were indifferent to Rachel's audition outcome",
+        "You believed Rachel was fully prepared and required no concern"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

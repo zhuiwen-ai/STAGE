@@ -1,0 +1,65 @@
+{
+  "character": "Dale_Arden",
+  "qas": [
+    {
+      "question": "Did you enter the capsule on your own initiative?",
+      "supporting_facts": [
+        "You did not remain on solid ground.",
+        "You were physically pushed into the capsule by Zarkov."
+      ],
+      "contradicting_facts": [
+        "You willingly stepped into the capsule of your own accord.",
+        "You entered the capsule before anyone else did."
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What was your stance toward Ming's attempt to bind you with the ring?",
+      "supporting_facts": [
+        "you did not cooperate with Ming's attempt",
+        "your actions demonstrated resistance to being bound by the ring"
+      ],
+      "contradicting_facts": [
+        "you allowed Ming to bind you with the ring without resistance",
+        "you willingly participated in the binding process"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You experienced a crash—how did you respond in terms of physical condition and communication?",
+      "supporting_facts": [
+        "Dale survived the crash with only minor visible distress",
+        "Dale communicated coherently with Flash Gordon after the crash"
+      ],
+      "contradicting_facts": [
+        "You were severely injured and unable to speak after the crash",
+        "You showed obvious signs of trauma and could not maintain coherent speech"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you take any action toward the hooded guards during the incident?",
+      "supporting_facts": [
+        "you did not initiate movement toward the hooded guards",
+        "your actions were limited to screaming and pausing before speaking"
+      ],
+      "contradicting_facts": [
+        "you approached the hooded guards",
+        "you attempted to communicate with the hooded guards"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were called by Flash Gordon—how did you respond to his call?",
+      "supporting_facts": [
+        "You responded to Flash Gordon's call with playful hesitation.",
+        "You communicate with Flash and receive instructions from him."
+      ],
+      "contradicting_facts": [
+        "You immediately obeyed Flash Gordon without hesitation.",
+        "You ignored Flash Gordon's call completely."
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "character": "Stanley_Jobson",
+  "qas": [
+    {
+      "question": "Did you leave the bus during your encounter with Gabriel?",
+      "supporting_facts": [
+        "You were present inside the bus during the encounter with Gabriel",
+        "You did not exit the bus at any point during the encounter with Gabriel"
+      ],
+      "contradicting_facts": [
+        "You stepped outside the bus to confront Gabriel",
+        "You were already outside the bus when Gabriel arrived"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What is your relationship to Gabriel when you interact at the facility?",
+      "supporting_facts": [
+        "You turned to Gabriel in anger",
+        "Your interaction with Gabriel involves emotional confrontation"
+      ],
+      "contradicting_facts": [
+        "You greeted Gabriel calmly and cooperatively",
+        "You avoided direct engagement with Gabriel"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were near the generator and interacted with a keyboard—what did you do and why was it important?",
+      "supporting_facts": [
+        "Stanley_Jobson was present near the generator",
+        "Stanley Jobson interacted with a keyboard by hitting a key",
+        "Stanley recognized a dangerous situation"
+      ],
+      "contradicting_facts": [
+        "You avoided the generator area entirely",
+        "You did not interact with any equipment during the incident"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You are aware of Ginger's situation—how does that affect your state while staying in the generator area?",
+      "supporting_facts": [
+        "You are not unaware of Ginger's struggle for her life",
+        "You are experiencing distress or fear",
+        "You are not absent from the location where the generator is situated"
+      ],
+      "contradicting_facts": [
+        "You remained calm because you didn't know about Ginger's condition",
+        "You were not present during Ginger's struggle"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You observed the woman—what did you conclude about her appearance?",
+      "supporting_facts": [
+        "Stanley observed that the woman was artificially perfect",
+        "Stanley concluded the woman's perfection was not natural"
+      ],
+      "contradicting_facts": [
+        "You thought the woman's appearance was entirely natural",
+        "You believed the woman's features were the result of conventional beauty"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

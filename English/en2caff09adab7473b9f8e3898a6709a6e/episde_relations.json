@@ -1,0 +1,2103 @@
+[
+  {
+    "id": "rel_ep_ep_a26517d160e0",
+    "subject_id": "ep_0a35a1238daa648f",
+    "object_id": "ep_512fb388ff5cacfb",
+    "relation_type": "precedes",
+    "reason": "The episode 'Burke delivers news of Ripley's daughter's death' occurs before 'Transition to the inquest proceedings', as the emotional moment of delivering the news is followed by Burke reminding Ripley of the upcoming hearing, indicating a sequential narrative order within the same scene and occasion.",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f5d04dede9ac",
+    "subject_id": "ep_b2600ed90a141374",
+    "object_id": "ep_6d072b71113e6ecd",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Reveal corporate stakes and personal leverage' provides additional detail and psychological context that expands upon the initial mission proposal introduced in 'Confront Ripley with the mission proposal', particularly by revealing Burke's deeper motivations and tactics after Ripley's initial rejection.",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_32b998910204",
+    "subject_id": "ep_e552da880bf23352",
+    "object_id": "ep_6b5eb54f8e0a0449",
+    "relation_type": "causes",
+    "reason": "Burke's revelation that Ripley has been in hypersleep for fifty-seven years directly triggers her emotional and physical breakdown, leading to convulsions and the emergency medical response. The description of the medical crisis episode explicitly states it is a reaction to Burke's revelation, providing clear causal evidence.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2e2a025b8d9f",
+    "subject_id": "ep_0a35a1238daa648f",
+    "object_id": "ep_c4c5389f3b062fa4",
+    "relation_type": "causes",
+    "reason": "The episode 'Burke delivers news of Ripley's daughter's death' directly triggers the emotional response in the episode 'Ripley confronts grief and lost time', as Ripley's breakdown and reflection are an immediate consequence of receiving the news of her daughter's death, with both episodes sharing the same scene and occasion context.",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b63cb6756dd4",
+    "subject_id": "ep_f8dede9e91f3df2a",
+    "object_id": "ep_2bc957436ceed60c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley reveals key evidence of alien presence' occurs earlier in the hearing sequence, where she presents her evidence in response to dismissal, followed by 'Ripley issues final warning amid growing defiance' where she interrupts Van Leuwen and exits in frustration, indicating a chronological progression within scene_5.",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_caf2f6fd190c",
+    "subject_id": "ep_6b5eb54f8e0a0449",
+    "object_id": "ep_21b45bc51b68224c",
+    "relation_type": "causes",
+    "reason": "The medical crisis described in the subject episode, where Ripley convulses and triggers a Code Blue, directly leads to the alien erupting from her chest in the object episode, as both events occur in immediate succession during the same medical emergency at Gateway Station, with the physical deterioration creating the conditions for the alien's violent emergence.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f83a3c2b5991",
+    "subject_id": "ep_c4c5389f3b062fa4",
+    "object_id": "ep_512fb388ff5cacfb",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley confronts grief and lost time' involves her emotional breakdown and reflection, which occurs immediately before Burke reminds her of the hearing start time, signaling a transition to the inquest. Both episodes occur in the same scene and occasion, with the emotional moment preceding the shift to formal proceedings.",
+    "source_documents": [
+      "scene_3_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_841aabf31b15",
+    "subject_id": "ep_552a1c1f335ec61b",
+    "object_id": "ep_d4942a240f64d6eb",
+    "relation_type": "precedes",
+    "reason": "The confrontation about Gorman's inexperience occurs during the turbulent flight (scene_45), while the confirmation of team roles happens during deployment (scene_50), indicating a clear narrative sequence where the first episode precedes the second based on scene ordering and contextual progression toward deployment.",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b2c60546b0fe",
+    "subject_id": "ep_e8d6f9905b23101e",
+    "object_id": "ep_eed052cb55a8ee66",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Ripley reacts to mounting tension' occurs during scene_38, while the object episode 'Respond to sudden spacecraft acceleration' occurs in scene_42, indicating a clear narrative sequence where the former precedes the latter based on scene ordering.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2e5260f76ee9",
+    "subject_id": "ep_44e78c6c793ba34a",
+    "object_id": "ep_55d6213710dcef03",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts troopers bonding through irreverent banter during breakfast, highlighting camaraderie among grunts, while the second episode emphasizes social division by mocking the Lieutenant's aloofness and refusal to eat with them. These episodes are juxtaposed to contrast the in-group culture of the troopers with the perceived elitism of the officer, reinforcing a theme of rank-based tension aboard the Sulaco.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_2e3d5315bc5a",
+    "subject_id": "ep_b55f7a1147fa77f4",
+    "object_id": "ep_e99b41d0a380c406",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Van Leuwen reveals the colony's existence' provides detailed information that directly expands upon Ripley's initial confrontation, where she demands answers about LV-426. The revelation about the terraforming colony on Acheron serves as the explanatory response to her urgent inquiry, making it a clear elaboration of the prior episode's informational goal.",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5d779a135164",
+    "subject_id": "ep_b2600ed90a141374",
+    "object_id": "ep_942a42b3ac575511",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Ripley with the mission proposal' occurs first, where Burke presents the mission and Ripley initially refuses. This is immediately followed by 'Reject the offer and end negotiations', where Ripley forcefully shuts down Burke's appeal and the encounter concludes. Both episodes occur in scene_20 and the sequence is supported by the narrative flow in the description, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_db8e13dbec51",
+    "subject_id": "ep_618e9a917b715392",
+    "object_id": "ep_35fe5811c81bb52c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate the pre-mission briefing' sets the stage for the briefing and occurs before 'Distribute follow-up tasks and close briefing', which finalizes the briefing structure with procedural orders. Both episodes occur within the same occasion 'Pre-Mission Briefing Aboard The Dropship (scene_31)' and are ordered sequentially in the narrative: first the briefing is initiated, then tasks are distributed and the briefing is closed.",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c94825c25815",
+    "subject_id": "ep_1f86183858216d05",
+    "object_id": "ep_d4942a240f64d6eb",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Address troop discipline and readiness' occurs during the pre-mission briefing aboard the dropship (scene_31), while the object episode 'Confirm team roles and positions' occurs during deployment (scene_50), indicating a clear narrative sequence where discipline is addressed before final role confirmation, supported by the chronological progression of scenes.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cac6f06d60f7",
+    "subject_id": "ep_1f86183858216d05",
+    "object_id": "ep_a7d30c7ffb2b3be3",
+    "relation_type": "precedes",
+    "reason": "The 'Observe and react to Ripley's decontamination' episode (scene_29) occurs during Ripley's arrival and initial processing, while 'Address troop discipline and readiness' occurs during the pre-mission briefing aboard the dropship (scene_31). The scene numbers (29 before 31) and narrative progression indicate that the decontamination observation precedes the discipline and readiness episode in the local narrative order.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bfbef3f31b32",
+    "subject_id": "ep_a9c25842011c11d1",
+    "object_id": "ep_6696715d234f7177",
+    "relation_type": "precedes",
+    "reason": "The episode 'Issue final alert before landing' involves Apone delivering a ten-second warning to the team, which occurs immediately before the landing and deployment sequence directed by Gorman. The final alert serves as the immediate countdown to landing, indicating it happens just prior to the initiation of landing and deployment, establishing a clear temporal order supported by the narrative sequence in scene_50.",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2d48513b2aad",
+    "subject_id": "ep_69feacd58a92bed5",
+    "object_id": "ep_c77799aa99a814dc",
+    "relation_type": "precedes",
+    "reason": "The episode 'Bishop assists crew amid personal observations' occurs during scene_28, where Ripley first notices Bishop's alphanumeric tattoo, while 'Reveal and React to Bishop's Synthetic Identity' occurs in scene_30, where Burke explicitly reveals Bishop's synthetic nature. The narrative order of scenes (28 before 30) supports that the first episode precedes the second.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5a0277674bdb",
+    "subject_id": "ep_e8e6940fa2526146",
+    "object_id": "ep_049b25ca34beb657",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate communication and demand destruction' involves Ripley establishing a video call with Burke and demanding the creatures be destroyed, which directly precedes her decision to commit fully to the mission and cut off communication in the episode 'Commit to the mission and cut off retreat'. Both episodes occur in scene_22, and the sequence of events in the description shows that the communication is terminated only after Burke's confirmation, indicating a clear temporal order.",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7b933de031e6",
+    "subject_id": "ep_69feacd58a92bed5",
+    "object_id": "ep_ac04bbaa6850f85c",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode highlights Bishop's attentive, servile assistance and Ripley's suspicion due to his unusual demeanor, while the object episode emphasizes Ripley's social alienation from the marines, particularly through Vasquez's cold glance. Both episodes occur during the same occasion and involve Ripley's interactions, but they juxtapose contrasting social dynamics: Bishop's supportive role versus the marines' hostility, reinforcing a thematic contrast in interpersonal responses toward Ripley.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_2efc09bf069e",
+    "subject_id": "ep_d295c5f73696ebe3",
+    "object_id": "ep_6696715d234f7177",
+    "relation_type": "precedes",
+    "reason": "The episode 'Analyze colony status from orbit' involves the team assessing the colony from orbit and preparing for landing, which directly precedes the 'Initiate landing and deployment sequence' where Gorman directs Ferro to land and Apone prepares the team for dispersal. The related events in both episodes occur in scene_50 and follow a clear temporal sequence: observation and assessment before landing commands.",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_196018b17e27",
+    "subject_id": "ep_c6c8a1b937a7ffaf",
+    "object_id": "ep_b2600ed90a141374",
+    "relation_type": "precedes",
+    "reason": "The episode 'Deliver urgent news and gain entry' occurs in scene_19, where Burke and Gorman arrive at Ripley's apartment and inform her about the lost contact with the colony. This is immediately followed by scene_20, where Burke proposes the mission and Ripley rejects it, as described in 'Confront Ripley with the mission proposal'. The clear scene ordering (19 before 20) and narrative progression support that the first episode precedes the second.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a0eff4d2348d",
+    "subject_id": "ep_2f1aa90408109d97",
+    "object_id": "ep_cd8c1c297e80daef",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Prepare and depart for alien derelict' involves Jorden and Anne exiting their vehicle and instructing the children to stay inside, which directly precedes their traversal toward and assessment of the derelict in the object episode 'Approach and assess the derelict'. Both episodes occur in scene_15 and are part of a continuous narrative sequence where preparation and departure logically come before approaching and assessing the site.",
+    "source_documents": [
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e8f195550a6e",
+    "subject_id": "ep_21b45bc51b68224c",
+    "object_id": "ep_810717afb9d6b3b2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Alien erupts from Ripley's chest' describes a violent, immediate event during a medical examination, while 'Ripley recovers from nightmare and seeks comfort' depicts her later psychological recovery in the same medical setting, including a nightmare that explicitly relives the chest eruption. The latter episode clearly occurs after the former, as it references it as a past traumatic memory, establishing a direct temporal sequence supported by narrative content and shared occasion.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0ea311b94daf",
+    "subject_id": "ep_b2600ed90a141374",
+    "object_id": "ep_618e9a917b715392",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Ripley with the mission proposal' occurs when Burke proposes the mission and Ripley refuses, which sets up her later involvement. The episode 'Initiate the pre-mission briefing' involves Gorman beginning the formal briefing with the marines, which logically follows after Ripley has been brought on board as part of the mission team. The related events and narrative flow indicate that the proposal and her reaction precede the formal briefing, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5a00c2b601bf",
+    "subject_id": "ep_c6c8a1b937a7ffaf",
+    "object_id": "ep_b488fd79f723ff13",
+    "relation_type": "precedes",
+    "reason": "The episode 'Deliver urgent news and gain entry' occurs earlier in the narrative, where Burke and Gorman inform Ripley about the lost contact with the colony. This establishes the context for the later episode 'Assess communication with the colony,' where the communication status is formally checked during pre-flight preparations. The narrative flow and event dependencies indicate a clear temporal sequence.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4fe4edf49f0b",
+    "subject_id": "ep_1f86183858216d05",
+    "object_id": "ep_f9936245c6519297",
+    "relation_type": "precedes",
+    "reason": "The 'Marines display camaraderie and internal tensions' episode occurs during the First Colonial Marines Assembly After Awakening (scene_28), while 'Address troop discipline and readiness' takes place during the Pre-Mission Briefing Aboard The Dropship (scene_31). Scene numbers indicate a clear narrative sequence: scene_28 precedes scene_31. No causal, contrasting, or elaborative link is explicitly supported, but the local narrative order is unambiguous.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6af6fc8ed73a",
+    "subject_id": "ep_289309d034fdb069",
+    "object_id": "ep_69feacd58a92bed5",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur during the 'First Colonial Marines Assembly After Awakening (scene_28)' occasion. Ripley awakens and observes the stasis revival first, establishing her reorientation and detachment. Only after she is awake and observing does Bishop pass by and assist the crew, during which she notices the tattoo on his hand. The sequence of events implies a clear temporal order: Ripley must be conscious and observing before she can notice Bishop's tattoo, supporting that the first episode precedes the second.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_03555ad40ba4",
+    "subject_id": "ep_a244de0e9e7f1c5c",
+    "object_id": "ep_e8d6f9905b23101e",
+    "relation_type": "contrasts_with",
+    "reason": "The two episodes highlight contrasting emotional dynamics: in the first, Ripley confronts Burke directly with visible anger and tension over being dismissed, while in the second, she silently reacts to broader mission tension with anxiety and gratitude toward Hicks, contrasting with Burke's eager anticipation. The juxtaposition emphasizes Ripley's internal burden versus Burke's detachment, supporting a contrast in tone and character response.",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_c0f259f90291",
+    "subject_id": "ep_44e78c6c793ba34a",
+    "object_id": "ep_ca9a0d0aef3a5e49",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs during the Morning Meal Briefing Aboard The Sulaco (scene_30), while the object episode takes place during the Pre-Mission Briefing Aboard The Dropship (scene_31). The scene numbers (30 before 31) and the progression from a meal setting to a formal dropship briefing indicate a clear narrative sequence where the troopers' initial banter precedes the formal clarification of mission details.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_be3421bc975f",
+    "subject_id": "ep_0a35a1238daa648f",
+    "object_id": "ep_5c1ea779874c13c8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Burke delivers news of Ripley's daughter's death' occurs in scene_3 at the medical center atrium, while 'Navigate the hearing preparation with Burke' takes place in scene_4 as Ripley exits the elevator toward the hearing room. The progression from scene_3 to scene_4 establishes a clear narrative sequence where the delivery of personal news precedes the preparation for the formal hearing.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d7df0a28815a",
+    "subject_id": "ep_c6c8a1b937a7ffaf",
+    "object_id": "ep_618e9a917b715392",
+    "relation_type": "precedes",
+    "reason": "The episode 'Deliver urgent news and gain entry' occurs when Burke and Gorman first approach Ripley at her apartment to inform her about the lost contact with the Acheron colony, which initiates her involvement. The episode 'Initiate the pre-mission briefing' takes place later aboard the dropship, where Gorman formally briefs the marines, including Ripley. The sequence of events in the narrative, supported by the related_events and descriptions, shows that gaining Ripley's cooperation precedes the formal pre-mission briefing.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2f739055c98a",
+    "subject_id": "ep_a244de0e9e7f1c5c",
+    "object_id": "ep_942a42b3ac575511",
+    "relation_type": "precedes",
+    "reason": "The vending machine confrontation (ep_a244de0e9e7f1c5c) occurs earlier in the narrative, establishing the tense dynamic between Ripley and Burke, which culminates in the later episode where Ripley rejects Burke's offer (ep_942a42b3ac575511). The progression from informal tension to final rejection supports a clear temporal sequence.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_67271d1e63bc",
+    "subject_id": "ep_8f5ab2dc4bd8058d",
+    "object_id": "ep_50c494e608f1ed37",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_14 and doc_13. The magnetic discovery and ownership assertion (ep_8f5ab2dc4bd8058d) involves Russ detecting a magnetic signal and the family claiming ownership, which is immediately followed by Russ reacting to the visual anomaly of the alien ship. The narrative flow in the description implies the magnetic detection and celebration precede the visual discovery and reaction to the ship, as the ship sighting causes the vehicle to slow, marking a new narrative phase.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b958a62ecbb6",
+    "subject_id": "ep_289309d034fdb069",
+    "object_id": "ep_eed052cb55a8ee66",
+    "relation_type": "precedes",
+    "reason": "The stasis revival episode (ep_289309d034fdb069) involves Ripley and the crew awakening and reorienting, which logically precedes the sudden spacecraft acceleration (ep_eed052cb55a8ee66) where the crew reacts to motion forces. The related events in the first episode occur in scene_28, while those in the second occur in scene_42, indicating a later narrative order. This temporal sequence is supported by the progression from awakening to a later in-flight event.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_75d8ed267a71",
+    "subject_id": "ep_c6c8a1b937a7ffaf",
+    "object_id": "ep_5c1ea779874c13c8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Deliver urgent news and gain entry' occurs early in the narrative when Burke and Gorman first contact Ripley about the lost colony, initiating her involvement. The episode 'Navigate the hearing preparation with Burke' takes place later during the formal hearing process, as they prepare to face authorities. The sequence is supported by the narrative progression from initial contact to official proceedings, with 'doc_id' values indicating different documents (doc_18 before doc_3), suggesting chronological order.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a582f101361e",
+    "subject_id": "ep_c6c8a1b937a7ffaf",
+    "object_id": "ep_6d072b71113e6ecd",
+    "relation_type": "precedes",
+    "reason": "The episode 'Deliver urgent news and gain entry' occurs in scene_19, where Burke and Gorman first contact Ripley and inform her about the lost colony. The episode 'Reveal corporate stakes and personal leverage' occurs in scene_20, where Burke shifts tactics by revealing corporate interests and personal details. The clear scene ordering (19 before 20) supports that the first episode precedes the second.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_29768a79a71a",
+    "subject_id": "ep_c6c8a1b937a7ffaf",
+    "object_id": "ep_942a42b3ac575511",
+    "relation_type": "precedes",
+    "reason": "The episode 'Deliver urgent news and gain entry' occurs in doc_18 and involves Burke and Gorman arriving at Ripley's apartment and gaining entry by delivering urgent news. The episode 'Reject the offer and end negotiations' occurs in doc_19 and involves Ripley rejecting Burke's later manipulative appeal. The document order (doc_18 before doc_19) and narrative progression show that the first episode precedes the second.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_323351512ffd",
+    "subject_id": "ep_289309d034fdb069",
+    "object_id": "ep_ac04bbaa6850f85c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley awakens and observes the stasis revival' describes Ripley regaining consciousness and beginning to observe the crew, which sets the initial context for her reorientation. The episode 'Ripley experiences social alienation from the unit' occurs afterward, as it involves specific interactions (e.g., Vasquez's cold glance) that happen once the marines are moving past her toward lockers. Both episodes are grounded in scene_28 and share the same occasion, but the awakening and observation logically precede the social interactions that reinforce her alienation.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cc668ce840b4",
+    "subject_id": "ep_c6c8a1b937a7ffaf",
+    "object_id": "ep_e8e6940fa2526146",
+    "relation_type": "precedes",
+    "reason": "The episode 'Deliver urgent news and gain entry' occurs in scene 19, where Burke and Gorman arrive at Ripley's apartment and gain entry by delivering urgent news. The episode 'Initiate communication and demand destruction' occurs in scene 22, where Ripley uses Burke's access card to initiate a video call. The clear scene order (19 before 22) supports that the subject episode precedes the object episode in narrative sequence.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_73e2db38120d",
+    "subject_id": "ep_107d8c939fbbc8cc",
+    "object_id": "ep_89d12a55028e9a4c",
+    "relation_type": "precedes",
+    "reason": "The breach of the shuttle airlock (ep_107d8c939fbbc8cc) is a necessary prior action that enables entry into the shuttle. The object episode (ep_89d12a55028e9a4c) begins with the team entering through the compromised airlock, which directly follows the completion of the breach. Related events in both episodes, such as 'Torch paths converge and cut complete' and 'Airlock door collapses inward', establish a clear temporal sequence where the breach must occur before entry and discovery can take place.",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_abd0888f35aa",
+    "subject_id": "ep_b2600ed90a141374",
+    "object_id": "ep_e8e6940fa2526146",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Ripley with the mission proposal' (scene_20) occurs before 'Initiate communication and demand destruction' (scene_22), as evidenced by the chronological ordering of scenes in the related_events. The proposal and Ripley's refusal happen first, followed by her later use of Burke's access card to demand the creatures' destruction, establishing a clear narrative sequence.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9732be61c327",
+    "subject_id": "ep_6d072b71113e6ecd",
+    "object_id": "ep_e8d6f9905b23101e",
+    "relation_type": "precedes",
+    "reason": "The subject episode, where Burke reveals corporate stakes and personal leverage, occurs in scene_20, while the object episode, where Ripley reacts to mounting tension, occurs in scene_38. Since scene_20 precedes scene_38 in narrative order, the subject episode occurs earlier than the object episode.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_97127841d01a",
+    "subject_id": "ep_c6c8a1b937a7ffaf",
+    "object_id": "ep_c2d593a4a8d13d87",
+    "relation_type": "precedes",
+    "reason": "The episode 'Deliver urgent news and gain entry' occurs early in the narrative when Burke and Gorman visit Ripley's apartment to inform her about the lost contact with the Acheron colony, initiating her involvement. The episode 'Ripley observes and inquires about the atmosphere processor' takes place later, during the approach to the atmosphere processing station, as part of the mission response to the colony's loss. The narrative sequence clearly positions the first episode before the second.",
+    "source_documents": [
+      "scene_48_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_dff8ffb8ede1",
+    "subject_id": "ep_942a42b3ac575511",
+    "object_id": "ep_e8e6940fa2526146",
+    "relation_type": "precedes",
+    "reason": "The rejection of Burke's offer (ep_942a42b3ac575511) occurs in scene_20, while Ripley initiating communication using Burke's card (ep_e8e6940fa2526146) occurs in scene_22. Since scene_20 precedes scene_22 in narrative order, the first episode occurs earlier than the second.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5d26c8a504cb",
+    "subject_id": "ep_b2600ed90a141374",
+    "object_id": "ep_e8d6f9905b23101e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Ripley with the mission proposal' occurs in scene_20, where Burke proposes the mission and Ripley refuses. The episode 'Ripley reacts to mounting tension' occurs in scene_38, where emotional reactions are shown as the mission begins. Since scene_20 precedes scene_38 in narrative order, the subject episode occurs earlier than the object episode.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_76c8d0adb786",
+    "subject_id": "ep_2d8d94b3294d258e",
+    "object_id": "ep_b55f7a1147fa77f4",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs during scene_5 (Board of Inquiry Hearing), while the second occurs in scene_8 (after leaving the conference room), indicating a clear narrative sequence where Ripley's defense before the board precedes her confrontation with Van Leuwen in the corridor.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5ac8b6923d56",
+    "subject_id": "ep_0ec70bd883f4cf2c",
+    "object_id": "ep_049b25ca34beb657",
+    "relation_type": "precedes",
+    "reason": "Ripley's recovery and preparation (lighting a cigarette after a panic episode) occurs immediately before her commitment to the mission (cutting off communication with Burke and asserting control), as both are described in scene_22 and the transition from distress to resolve logically precedes the decisive action of committing to the mission.",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e398865931de",
+    "subject_id": "ep_e552da880bf23352",
+    "object_id": "ep_0a35a1238daa648f",
+    "relation_type": "precedes",
+    "reason": "The episode where Burke reveals Ripley's fifty-seven-year hypersleep (scene_2) occurs before the episode where he delivers news of her daughter's death (scene_3), as indicated by the sequential scene numbering in their respective related_occasions and the narrative logic that Ripley must be awakened and informed of her time loss before receiving personal news about her family.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ce0fbc59b68c",
+    "subject_id": "ep_1f86183858216d05",
+    "object_id": "ep_c44fb004b1158ee7",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Address troop discipline and readiness' occurs during scene_31 aboard the dropship, while the object episode 'Hudson's boast and Hicks' intervention' occurs in scene_38, indicating a clear narrative sequence where the former precedes the latter based on scene ordering.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_53383ec498e9",
+    "subject_id": "ep_810717afb9d6b3b2",
+    "object_id": "ep_049b25ca34beb657",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley recovers from nightmare and seeks comfort' occurs during Ripley's medical recovery at Gateway Station (scene_2), while 'Commit to the mission and cut off retreat' occurs after receiving Burke's confirmation (scene_22), indicating a clear narrative sequence where the recovery precedes the mission commitment.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a8c7b4691e01",
+    "subject_id": "ep_289309d034fdb069",
+    "object_id": "ep_e8d6f9905b23101e",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Ripley awakens and observes the stasis revival' occurs during scene_28, while the object episode 'Ripley reacts to mounting tension' occurs in scene_38, indicating a clear narrative sequence where the awakening and initial observation precede her later reaction to escalating tension. The progression from physical reorientation to emotional response during mission onset supports the 'precedes' relation.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f4b54042c7d3",
+    "subject_id": "ep_c6c8a1b937a7ffaf",
+    "object_id": "ep_6b5eb54f8e0a0449",
+    "relation_type": "precedes",
+    "reason": "The episode 'Deliver urgent news and gain entry' occurs when Burke and Gorman arrive at Ripley's apartment and inform her about the lost contact with Acheron, leading to her allowing them in. The episode 'Ripley suffers medical crisis and emergency response' involves her physical deterioration and a Code Blue, which happens after she has already been engaged with Burke and Gorman. The narrative sequence implied by the events—first gaining entry through urgent news, then the medical crisis—supports a clear temporal order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_2_part_2",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_23295a4f93ef",
+    "subject_id": "ep_d9d284b3ff663e0e",
+    "object_id": "ep_e552da880bf23352",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley reunites with Jones and meets Burke' occurs before 'Burke reveals Ripley's fifty-seven-year hypersleep' in the narrative sequence, as the initial meeting and emotional reunion set the stage for Burke's subsequent disclosure of Ripley's prolonged hypersleep, which triggers her emotional reaction to the loss of her past life.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_da125bba2a5c",
+    "subject_id": "ep_2d8d94b3294d258e",
+    "object_id": "ep_f8dede9e91f3df2a",
+    "relation_type": "elaborates",
+    "reason": "The subject episode involves Ripley defending her actions under board scrutiny, and the object episode follows with her providing specific evidence and explanations—such as the derelict spacecraft and airlock ejection—that expand on her defense. The object episode supplies additional details that directly support and elaborate on the claims made in the subject episode, within the same hearing context.",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5394b39faba1",
+    "subject_id": "ep_289309d034fdb069",
+    "object_id": "ep_d295c5f73696ebe3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley awakens and observes the stasis revival' occurs during scene_28, while 'Analyze colony status from orbit' occurs during scene_50. The stasis awakening (scene_28) is chronologically earlier than the orbital analysis (scene_50), establishing a clear narrative sequence where the crew must awaken before conducting mission assessments from orbit.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0c9f1d329f56",
+    "subject_id": "ep_618e9a917b715392",
+    "object_id": "ep_e8d6f9905b23101e",
+    "relation_type": "precedes",
+    "reason": "The pre-mission briefing (ep_618e9a917b715392) occurs in scene_31, where Gorman begins the formal briefing, while Ripley's reaction to tension (ep_e8d6f9905b23101e) occurs in scene_38, indicating a later point in the narrative sequence. The progression from briefing to emotional response during mounting tension supports a clear temporal order.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c390734393a7",
+    "subject_id": "ep_618e9a917b715392",
+    "object_id": "ep_b488fd79f723ff13",
+    "relation_type": "precedes",
+    "reason": "The pre-mission briefing (ep_618e9a917b715392) begins the formal transition of the marines to attention and sets the stage for intelligence dissemination, which includes the subsequent check on colony communications (ep_b488fd79f723ff13) where Gorman confirms all channels are dead. The narrative flow in the related scenes (scene_31 followed by scene_36) supports a local order where the initiation of the briefing precedes the specific communication assessment.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_df40f27a86bd",
+    "subject_id": "ep_552a1c1f335ec61b",
+    "object_id": "ep_d295c5f73696ebe3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Crew confronts Gorman's inexperience during turbulent flight' occurs during the spaceship's violent shaking (scene_45), while 'Analyze colony status from orbit' involves post-stabilization actions including image adjustment and orbital assessment (scene_50). The related events and scene numbers indicate a clear temporal sequence: scene_45 precedes scene_50, supporting that the subject episode occurs before the object episode.",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_890a7a9aa8c7",
+    "subject_id": "ep_89d12a55028e9a4c",
+    "object_id": "ep_810717afb9d6b3b2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Entering the shuttle and discovering Ripley' depicts Ripley being found in a hypersleep capsule after a rescue operation, while 'Ripley recovers from nightmare and seeks comfort' occurs later during her medical recovery at Gateway Station. The sequence of events—discovery in hypersleep followed by recovery in a hospital room—establishes a clear temporal order where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_2_part_2",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_30830db92524",
+    "subject_id": "ep_0a35a1238daa648f",
+    "object_id": "ep_6b5eb54f8e0a0449",
+    "relation_type": "causes",
+    "reason": "The description of ep_6b5eb54f8e0a0449 explicitly states that Ripley's medical crisis occurs 'after Burke's revelation' and that she is 'overcome by horror and physical distress' as a direct reaction to the news delivered in ep_0a35a1238daa648f. This establishes a clear causal link where the emotional impact of the news triggers the physical breakdown and emergency response.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_aa4af993606b",
+    "subject_id": "ep_289309d034fdb069",
+    "object_id": "ep_c2d593a4a8d13d87",
+    "relation_type": "precedes",
+    "reason": "The stasis revival episode (ep_289309d034fdb069) occurs early in the narrative as Ripley awakens, while the observation and inquiry about the atmosphere processor (ep_c2d593a4a8d13d87) happens later during the ship's approach to the station. The sequence is supported by the progression from awakening and reorientation to active engagement with mission-relevant information, indicating a clear temporal order.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_985bf83c81c5",
+    "subject_id": "ep_d9d284b3ff663e0e",
+    "object_id": "ep_810717afb9d6b3b2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley reunites with Jones and meets Burke' includes the event 'Ripley reunites with her cat Jones', which logically precedes the episode 'Ripley recovers from nightmare and seeks comfort', where she holds and speaks to Jones while reflecting on survival. The narrative flow in the shared occasion of medical recovery supports a sequence where reunion occurs before sustained comfort and reflection.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f1d2a341af38",
+    "subject_id": "ep_c6c8a1b937a7ffaf",
+    "object_id": "ep_35fe5811c81bb52c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Deliver urgent news and gain entry' occurs when Burke and Gorman first approach Ripley to inform her about the lost contact with Acheron, which initiates her involvement. The episode 'Distribute follow-up tasks and close briefing' takes place during a pre-mission briefing aboard the dropship, where the team prepares for deployment. The sequence of events in the narrative indicates that gaining Ripley's cooperation must precede the structured military briefing and task distribution, as Ripley's participation is a prerequisite for the briefing to proceed. This temporal ordering is supported by the logical flow of the mission timeline and the dependency of the briefing on prior recruitment.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b860f880aaeb",
+    "subject_id": "ep_810717afb9d6b3b2",
+    "object_id": "ep_e552da880bf23352",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley recovers from nightmare and seeks comfort' occurs before 'Burke reveals Ripley's fifty-seven-year hypersleep' within the same scene (scene_2) and occasion (Ripley's Medical Recovery At Gateway Station), as Ripley first awakens, regains composure, and interacts with Jones before Burke delivers the news about her hypersleep duration, indicating a clear local narrative order.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_cb29c3b04b78",
+    "subject_id": "ep_59c8130f29d7795d",
+    "object_id": "ep_e8d6f9905b23101e",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode depicts the physical preparation and launch of the mission, focusing on coordinated action and procedural execution. The object episode highlights emotional tension and psychological contrast between characters—Ripley's anxiety versus Burke's eagerness—juxtaposed against the same deployment context. The shared scene (scene_38) and occasion (pre-deployment) support a deliberate narrative contrast in tone and character state, fulfilling the 'contrasts_with' relation.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ff8232872fcc",
+    "subject_id": "ep_c44fb004b1158ee7",
+    "object_id": "ep_e8d6f9905b23101e",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode features Hudson's loud bravado and Hicks' authoritative suppression, emphasizing a contrast between undisciplined confidence and controlled leadership. The object episode highlights Ripley's anxiety and dread in contrast to Burke's eager anticipation, underscoring emotional divergence. Both episodes are structured around juxtapositions—Hudson vs. Hicks in behavior, Ripley vs. Burke in emotional response—supporting a symmetric contrast relation in tone and character dynamics within the same scene.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f6ec6a64e4fd",
+    "subject_id": "ep_c2d593a4a8d13d87",
+    "object_id": "ep_fbc7e78f7cf96f57",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_48 and are part of the same narrative sequence as the ship approaches the atmosphere processor. The first episode involves Ripley observing and inquiring about the station while still en route, followed by her arrival in the tactical operations bay to join monitoring. The narrative flow implies a temporal sequence where understanding the target precedes active engagement in tactical observation, supporting a 'precedes' relation from the observation/inquiry episode to the arrival/monitoring episode.",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_af2884b0e391",
+    "subject_id": "ep_618e9a917b715392",
+    "object_id": "ep_d295c5f73696ebe3",
+    "relation_type": "precedes",
+    "reason": "The pre-mission briefing (ep_618e9a917b715392) occurs before the analysis of the colony from orbit (ep_d295c5f73696ebe3), as the briefing prepares the team for deployment, and the orbital analysis is part of the subsequent approach and assessment phase before landing. The narrative sequence implies that mission preparation precedes in-orbit situational evaluation.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cd60241a31aa",
+    "subject_id": "ep_618e9a917b715392",
+    "object_id": "ep_552a1c1f335ec61b",
+    "relation_type": "precedes",
+    "reason": "The pre-mission briefing (ep_618e9a917b715392) occurs before the crew confronts Gorman's inexperience during the turbulent flight (ep_552a1c1f335ec61b), as the briefing sets the stage for the mission and the confrontation arises later during flight conditions, supported by the narrative sequence implied in the related events and scene numbers (scene_31 before scene_45).",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_edc4095888ab",
+    "subject_id": "ep_2d8d94b3294d258e",
+    "object_id": "ep_2bc957436ceed60c",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur during the Board Of Inquiry Hearing Into Nostromo Incident (scene_5). The episode 'Ripley defends her actions under board scrutiny' involves Ripley responding to questioning and challenging the board's skepticism, which logically precedes her delivering a final warning and exiting in anger in the episode 'Ripley issues final warning amid growing defiance'. The sequence of events within the shared occasion supports a clear narrative order where defense under scrutiny comes before issuing a final warning and departure.",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6e94f883d879",
+    "subject_id": "ep_b55f7a1147fa77f4",
+    "object_id": "ep_f6d99636dabcfe69",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley confronts Van Leuwen for answers' occurs first, as Ripley demands information about LV-426 in the corridor immediately after the conference room meeting; this confrontation directly leads into the next moment where she learns the number of colonists and reacts emotionally in the elevator, which is captured in the second episode. Both episodes are part of the same scene (scene_8) and share the occasion 'Conference Room Meeting (scene_8)', supporting a clear sequential order in the narrative flow.",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f30d65573b6e",
+    "subject_id": "ep_a7d30c7ffb2b3be3",
+    "object_id": "ep_ac04bbaa6850f85c",
+    "relation_type": "precedes",
+    "reason": "The decontamination observation episode (ep_a7d30c7ffb2b3be3) occurs in scene_29, while the social alienation episode (ep_ac04bbaa6850f85c) occurs in scene_28, as indicated by their respective related_events and related_occasions. Since scene_28 precedes scene_29, the subject episode occurs after the object episode, meaning the object episode precedes the subject. However, the relation is directed and 'precedes' must be oriented correctly: ep_ac04bbaa6850f85c precedes ep_a7d30c7ffb2b3be3. But since the subject is ep_a7d30c7ffb2b3be3 and the object is ep_ac04bbaa6850f85c, the subject does not precede the object. Therefore, the correct directional relation is not supported as subject -> object. Reversing it would require allowing object -> subject, but the schema requires the relation to be evaluated as subject -> object. Since the subject episode happens after the object, 'precedes' cannot hold in the given direction. No other relation is supported. Thus, no valid directed relation exists in the subject-to-object direction.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f64f87390c4e",
+    "subject_id": "ep_810717afb9d6b3b2",
+    "object_id": "ep_6b5eb54f8e0a0449",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley recovers from nightmare and seeks comfort' occurs first, as it depicts Ripley awakening from a nightmare and regaining awareness in her hospital room, while the subsequent episode 'Ripley suffers medical crisis and emergency response' involves a Code Blue and physical deterioration, indicating a later, more severe event. Both episodes occur during the same occasion of medical recovery at Gateway Station, supporting a local narrative sequence where the nightmare and emotional distress precede the acute medical crisis.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2f6f2d4180b8",
+    "subject_id": "ep_5fe5feb6a94e65cc",
+    "object_id": "ep_a7bca827ae28c502",
+    "relation_type": "precedes",
+    "reason": "Apone restores order and announces the first assembly, which sets the timeline for the mission, immediately before Spunkmeyer voices discontent about that same timeline. Both episodes occur during the First Colonial Marines Assembly After Awakening (scene_28), and the sequence of events—Apone's announcement followed by Spunkmeyer's complaint—indicates a direct temporal order supported by the related events and shared occasion.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_67d30a4dab5c",
+    "subject_id": "ep_289309d034fdb069",
+    "object_id": "ep_f9936245c6519297",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode focuses on Ripley's isolated, detached observation of the marines upon awakening, emphasizing her outsider status and personal reorientation. The object episode highlights the marines' camaraderie, shared culture, and internal group dynamics. These episodes are juxtaposed within the same occasion—'First Colonial Marines Assembly After Awakening'—but emphasize contrasting perspectives: individual alienation versus group cohesion, and emotional detachment versus interpersonal engagement.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d31d28c7cbc3",
+    "subject_id": "ep_289309d034fdb069",
+    "object_id": "ep_552a1c1f335ec61b",
+    "relation_type": "precedes",
+    "reason": "The stasis revival episode (ep_289309d034fdb069) occurs early in the narrative as Ripley and the crew awaken, establishing the initial state of the mission. The confrontation with Gorman during turbulence (ep_552a1c1f335ec61b) happens later, during active flight, and references prior events such as crew assembly and travel. The sequence of events—awakening, then flight, then turbulence and leadership challenge—supports a clear temporal order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_82724050a1eb",
+    "subject_id": "ep_334cc1d15dc789f1",
+    "object_id": "ep_a7d30c7ffb2b3be3",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Apone resumes decontamination protocol' establishes the structural context and procedural framework for decontamination, which is the setting during which 'Observe and react to Ripley's decontamination' occurs. The second episode elaborates on the first by detailing the characters' observations and dialogue that unfold within the ongoing decontamination process initiated by Apone. The shared scene (scene_29) and the dependency of the observation on the protocol support this elaborative relationship.",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_da81db3a400d",
+    "subject_id": "ep_289309d034fdb069",
+    "object_id": "ep_5fe5feb6a94e65cc",
+    "relation_type": "precedes",
+    "reason": "Ripley's awakening and observation of the stasis revival occurs as she regains consciousness and observes the crew stirring, which sets the initial scene. Apone's restoration of order and announcement of the assembly follows in the same scene (scene_28), indicating a clear temporal sequence where the first episode precedes the second. Both episodes are grounded in the same occasion 'First Colonial Marines Assembly After Awakening (scene_28)', supporting a narrative progression from individual reorientation to structured group command.",
+    "source_documents": [
+      "scene_28_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5eda99af4b37",
+    "subject_id": "ep_7af9d4bc9b9ac00a",
+    "object_id": "ep_b970f0c6f54811c4",
+    "relation_type": "elaborates",
+    "reason": "The subject episode 'Interrupt and accuse during game' captures Tim's abrupt accusation of Newt, which is part of the broader conflict detailed in the object episode 'Resolve children's game dispute and enforce rules'. The object episode includes additional context—Newt's defense, Anne's intervention, and justification by peer norms—that expands and elaborates on the initial confrontation in the subject episode. The accusation event in both episodes is linked across documents (scene_16 vs scene_14), suggesting a narrative expansion of the same core incident, with the object providing fuller narrative resolution and context.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_55898563d9d1",
+    "subject_id": "ep_289309d034fdb069",
+    "object_id": "ep_b2600ed90a141374",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley awakens and observes the stasis revival' (scene_28) occurs after stasis revival and before any mission proposal, while 'Confront Ripley with the mission proposal' takes place during scene_20. Since scene_20 precedes scene_28 in narrative order, the subject episode actually occurs after the object episode. Therefore, the correct temporal relation is object precedes subject. However, given the subject is listed first and the relation must be directed, the only justifiable relation is 'precedes' in reverse order. But per schema usage, 'precedes' must be supported as subject -> object unless evidence clearly indicates direction. Here, the scene numbers (scene_20 before scene_28) provide strong evidence that ep_b2600ed90a141374 precedes ep_289309d034fdb069. Thus, the subject episode does not precede the object episode. Given the directionality constraint and the need for precise support, no valid directed relation can be asserted from subject to object. Hence, no allowed relation fits in the required direction, leading to 'NONE' as the safest choice despite temporal knowledge. Correction: Upon reevaluation, the scene numbers indicate ep_b2600ed90a141374 (scene_20) occurs before ep_289309d034fdb069 (scene_28), so the object precedes the subject. Since 'precedes' is directed and the subject does not precede the object, the relation cannot be 'precedes' as subject -> object. No other relation type is supported. Therefore, output is 'NONE'.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e7493c2406a5",
+    "subject_id": "ep_33d23dcb35e04d87",
+    "object_id": "ep_552a1c1f335ec61b",
+    "relation_type": "precedes",
+    "reason": "The first episode describes the spacecraft encountering rough atmospheric conditions and Ferro activating the DCS system in scene_44, while the second episode occurs in scene_45, where the crew reacts to the turbulence and questions Gorman's experience. The clear scene progression from 44 to 45 supports that the navigation response precedes the confrontation about leadership.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_755fb2020e30",
+    "subject_id": "ep_5fe5feb6a94e65cc",
+    "object_id": "ep_6696715d234f7177",
+    "relation_type": "precedes",
+    "reason": "The episode 'Apone restores order and sets mission timeline' occurs during the first Colonial Marines assembly after awakening (scene_28), which precedes the 'Initiate landing and deployment sequence' that takes place during scene_50. The narrative order of scenes supports that the first assembly and restoration of order happen before the landing and deployment commands.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b51984523864",
+    "subject_id": "ep_fb29e673cf51928b",
+    "object_id": "ep_6b5eb54f8e0a0449",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley reorients in medical care' describes Ripley awakening and beginning to reorient in the medical bay, which establishes her initial state upon waking. The episode 'Ripley suffers medical crisis and emergency response' follows as she deteriorates and triggers a Code Blue. The sequence of events within the same scene (scene_2) and shared occasion 'Ripley'S Medical Recovery At Gateway Station' supports a clear narrative order where reorientation precedes the medical crisis.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a10894661acb",
+    "subject_id": "ep_552a1c1f335ec61b",
+    "object_id": "ep_eed052cb55a8ee66",
+    "relation_type": "precedes",
+    "reason": "The episode 'Crew confronts Gorman's inexperience during turbulent flight' occurs in doc_44 and scene_45, while 'Respond to sudden spacecraft acceleration' occurs in doc_41 and scene_42. The scene numbers (42 before 45) and document IDs suggest a chronological order where the sudden acceleration happens before the confrontation about Gorman's inexperience. Thus, the object episode precedes the subject episode. Given the directed nature of 'precedes', the correct direction is object -> subject, but since the schema requires subject -> object for the relation, and the reverse is true, the relation is not valid in that direction. However, based on narrative flow and scene numbering, the only justifiable relation is 'precedes' with reversed order, so the relation is assigned as subject does not precede object. Therefore, after careful reconsideration, no valid directed relation can be established in the subject->object direction, and the evidence does not support 'precedes' in the required direction. Hence, the correct output is NONE.",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_748b30c4e62c",
+    "subject_id": "ep_33d23dcb35e04d87",
+    "object_id": "ep_b09c0c4d748e171b",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Navigate through turbulent atmospheric conditions' involves the spacecraft encountering rough atmospheric conditions during flight, while the object episode 'Initiate final approach and engage terminal guidance' describes the beginning of the final landing phase. Atmospheric turbulence during flight logically occurs earlier than initiating final approach and terminal guidance, based on standard flight sequence, and the events in the subject episode (scene_44) precede those in the object episode (scene_46) in narrative order.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_46baa4a7cd06",
+    "subject_id": "ep_104280eb02c3581d",
+    "object_id": "ep_6696715d234f7177",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Prepare for deployment and respond to Apone's order' involves troopers suiting up and responding to Apone's command to move to the ready line, which is a preparatory step before deployment. The object episode 'Initiate landing and deployment sequence' involves final commands before landing, including Gorman ordering Apone to proceed with deployment. The transition from preparation to active deployment initiation indicates a clear temporal sequence where preparation precedes deployment.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6fd65b3d57fa",
+    "subject_id": "ep_5fe5feb6a94e65cc",
+    "object_id": "ep_334cc1d15dc789f1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Apone restores order and sets mission timeline' includes the announcement of the first assembly in fifteen minutes, which establishes a structured military timeline immediately after awakening. The decontamination protocol commanded in 'Apone resumes decontamination protocol' occurs after the team returns from an external environment, a sequence that logically follows initial assembly and readiness. The narrative order and contextual dependencies suggest the restoration of order precedes the decontamination protocol.",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c144307a0f9f",
+    "subject_id": "ep_0aa2ea276835ff77",
+    "object_id": "ep_82e957ef72df067a",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Apone initiating mission prep and the team equipping for deployment, including Vasquez and Drake putting on their smart-gun harnesses. The object episode involves Gorman verifying systems and resolving a camera issue with Drake, which logically follows the equipping phase. Both episodes occur in scene_48 and are part of the same deployment sequence, with equipment preparation preceding system checks, supporting a 'precedes' relation.",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b6187da151be",
+    "subject_id": "ep_104280eb02c3581d",
+    "object_id": "ep_a9c25842011c11d1",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Prepare for deployment and respond to Apone's order' involves troopers suiting up and moving to the ready line, culminating in Apone's command, which sets the stage for deployment. The object episode 'Issue final alert before landing' involves Apone giving a ten-second warning immediately before landing. The preparation and readiness sequence logically and chronologically precedes the final countdown to landing, as supported by the narrative progression from gearing up to imminent deployment.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b02ad705fde0",
+    "subject_id": "ep_512fb388ff5cacfb",
+    "object_id": "ep_5c1ea779874c13c8",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Transition to the inquest proceedings' involves Burke reminding Ripley of the hearing start time, which occurs in scene_3, while the object episode 'Navigate the hearing preparation with Burke' takes place in scene_4 as they exit the elevator toward the hearing room. The progression from scene_3 to scene_4 and the shift from private reminder to active preparation indicate a clear narrative sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bb01a65874d4",
+    "subject_id": "ep_5fe5feb6a94e65cc",
+    "object_id": "ep_a9c25842011c11d1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Apone restores order and sets mission timeline' includes announcing the first assembly in fifteen minutes, establishing initial military structure after awakening. The episode 'Issue final alert before landing' involves a ten-second warning immediately prior to deployment. The former sets up early mission readiness, while the latter occurs at the final moment before landing, indicating a clear temporal sequence where the first episode precedes the second based on the narrative progression from initial assembly to imminent action.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c533e305e467",
+    "subject_id": "ep_5c1ea779874c13c8",
+    "object_id": "ep_c4c5389f3b062fa4",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley confronts grief and lost time' occurs during scene_3 at the medical center, while 'Navigate the hearing preparation with Burke' takes place in scene_4 as they move toward the hearing room. The related_occasions and scene numbers indicate a sequential narrative order, with the emotional breakdown preceding the hearing preparation.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_053ab94c5d05",
+    "subject_id": "ep_810717afb9d6b3b2",
+    "object_id": "ep_5c1ea779874c13c8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley recovers from nightmare and seeks comfort' occurs during Ripley's medical recovery at Gateway Station (scene_2), while 'Navigate the hearing preparation with Burke' takes place during the hearing with interstellar and colonial authorities (scene_4), indicating a clear narrative sequence where the recovery precedes the hearing preparation.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_51c79537b740",
+    "subject_id": "ep_5c1ea779874c13c8",
+    "object_id": "ep_2bc957436ceed60c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate the hearing preparation with Burke' occurs in scene_4, where Ripley and Burke prepare for the hearing, while 'Ripley issues final warning amid growing defiance' occurs in scene_5 during the conclusion of the hearing. The scene numbers and narrative progression indicate a clear temporal order: preparation precedes the final confrontation and warning.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8811066ab6fc",
+    "subject_id": "ep_049b25ca34beb657",
+    "object_id": "ep_eed052cb55a8ee66",
+    "relation_type": "precedes",
+    "reason": "The commitment to the mission (including cutting off communication and asserting control) logically and narratively precedes the crew's reaction to sudden spacecraft acceleration, as the former represents a psychological point of no return just before the physical manifestation of irreversible departure in the latter. Both episodes involve Ripley and mark stages in the departure sequence, with no indication of reversal or overlap.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_67d54a27aceb",
+    "subject_id": "ep_5c1ea779874c13c8",
+    "object_id": "ep_049b25ca34beb657",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate the hearing preparation with Burke' occurs in scene_4, where Ripley is briefed for the hearing, while 'Commit to the mission and cut off retreat' occurs in scene_22, indicating a clear narrative sequence. The preparation episode sets up Ripley's mental state prior to her decisive commitment, which happens later. The scene numbers and narrative progression support that the first episode precedes the second.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bbfa4a661a65",
+    "subject_id": "ep_5c1ea779874c13c8",
+    "object_id": "ep_2d8d94b3294d258e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate the hearing preparation with Burke' occurs in scene_4, where Ripley is briefed before entering the hearing, while 'Ripley defends her actions under board scrutiny' occurs in scene_5 during the actual Board of Inquiry. The preparatory interaction directly precedes the scrutiny episode in narrative order, as supported by the sequential scene references and the shared occasion of the hearing.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bc7b0cee3f36",
+    "subject_id": "ep_5fe5feb6a94e65cc",
+    "object_id": "ep_104280eb02c3581d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Apone restores order and sets mission timeline' includes Apone announcing the first assembly in fifteen minutes, establishing initial military structure after awakening, while 'Prepare for deployment and respond to Apone's order' involves troopers suiting up and responding to Apone's command to move to the ready line. The sequence of events suggests a chronological progression from setting readiness timelines to executing deployment preparations, with both episodes involving Apone's commands and occurring in adjacent narrative phases. This supports a 'precedes' relation from the order-restoration episode to the deployment-preparation episode.",
+    "source_documents": [
+      "scene_37_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_83456cd09624",
+    "subject_id": "ep_5c1ea779874c13c8",
+    "object_id": "ep_fbc7e78f7cf96f57",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Navigate the hearing preparation with Burke' occurs during scene_4, where Ripley is briefed before the hearing, while the object episode 'Ripley arrives and joins tactical monitoring' takes place in scene_48, a later setting aboard the ship. The narrative progression from pre-hearing preparation to later tactical monitoring supports a clear temporal order, with the hearing-related interaction preceding the operational monitoring activity.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a81d060164f0",
+    "subject_id": "ep_d9d284b3ff663e0e",
+    "object_id": "ep_5c1ea779874c13c8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley reunites with Jones and meets Burke' occurs during Ripley's medical recovery at Gateway Station (scene_2), while 'Navigate the hearing preparation with Burke' takes place during the hearing with interstellar and colonial authorities (scene_4), indicating a clear narrative sequence where the reunion and introduction precede the hearing preparation. The shared involvement of Burke and Ripley supports continuity, and the progression across scenes establishes a local narrative order.",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1915b5a30ba9",
+    "subject_id": "ep_eed052cb55a8ee66",
+    "object_id": "ep_fbc7e78f7cf96f57",
+    "relation_type": "precedes",
+    "reason": "The sudden spacecraft acceleration episode (ep_eed052cb55a8ee66) occurs in scene_42, where the crew reacts to motion forces, while Ripley's arrival and joining of tactical monitoring (ep_fbc7e78f7cf96f57) occurs in scene_48. The scene numbers indicate a clear narrative sequence, with the acceleration event preceding Ripley's entry into the operations bay.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b4f732b4e21a",
+    "subject_id": "ep_a9c25842011c11d1",
+    "object_id": "ep_d295c5f73696ebe3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Issue final alert before landing' occurs immediately before deployment and serves as a countdown to landing, while 'Analyze colony status from orbit' involves pre-deployment assessment from orbit. The final alert implies that landing is imminent, which logically follows the earlier orbital analysis, indicating a clear temporal sequence where the analysis precedes the final alert. However, the description of the final alert being delivered in scene_50 and the analysis also occurring in scene_50 suggests tight narrative proximity. Given that the analysis includes adjusting views and interpreting data before deployment, and the alert is a 'final' warning just before landing, the analysis must occur slightly earlier, supporting 'precedes' with strong but slightly indirect temporal evidence.",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6b01b5c86a7a",
+    "subject_id": "ep_59c8130f29d7795d",
+    "object_id": "ep_eed052cb55a8ee66",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Board and secure for deployment' describes the crew boarding and preparing for launch, culminating in the ship beginning to move. The object episode 'Respond to sudden spacecraft acceleration' depicts the crew reacting to abrupt motion forces, which logically follows the initiation of movement. The related events in both episodes occur in sequence across scenes 38 and 42, supporting a narrative order where preparation and launch precede the physical effects of acceleration.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_723364f7d9ae",
+    "subject_id": "ep_e55f6913fbb93436",
+    "object_id": "ep_c6c8a1b937a7ffaf",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront the intrusion and respond to the door' occurs in scene_18, where Ripley is startled by the door buzzing, while 'Deliver urgent news and gain entry' occurs in scene_19, involving the same characters and location with a continuous narrative progression. The scene numbers and narrative flow indicate a clear temporal sequence where the intrusion response precedes the delivery of news and entry.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ce451f5ac8e0",
+    "subject_id": "ep_d9d284b3ff663e0e",
+    "object_id": "ep_c6c8a1b937a7ffaf",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley reunites with Jones and meets Burke' occurs during Ripley's medical recovery at Gateway Station (scene_2), while 'Deliver urgent news and gain entry' takes place when Burke and Gorman arrive at Ripley's apartment (scene_19), indicating a clear earlier occurrence of the former based on scene numbering and narrative progression.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1031d046ce24",
+    "subject_id": "ep_c6c8a1b937a7ffaf",
+    "object_id": "ep_fbc7e78f7cf96f57",
+    "relation_type": "precedes",
+    "reason": "The episode 'Deliver urgent news and gain entry' occurs when Burke and Gorman visit Ripley at her apartment, which initiates her involvement. The episode 'Ripley arrives and joins tactical monitoring' takes place later aboard a ship during mission operations, as evidenced by the shift in setting and progression of narrative context. The apartment meeting logically precedes Ripley's arrival in the tactical operations bay, establishing a clear temporal sequence.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1fec77963382",
+    "subject_id": "ep_0ec70bd883f4cf2c",
+    "object_id": "ep_5c1ea779874c13c8",
+    "relation_type": "precedes",
+    "reason": "Ripley's recovery and preparation to act, marked by lighting a cigarette after a panic episode (scene_22), occurs after exiting the elevator with Burke (scene_4). Since scene_22 comes after scene_4 in narrative order, the subject episode follows the object episode, meaning the object episode precedes the subject. However, the relation is directional and 'precedes' must be assigned in the correct direction: ep_5c1ea779874c13c8 (earlier) precedes ep_0ec70bd883f4cf2c (later), based on scene numbering and narrative flow.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7e0e4b1cc12a",
+    "subject_id": "ep_c6c8a1b937a7ffaf",
+    "object_id": "ep_049b25ca34beb657",
+    "relation_type": "precedes",
+    "reason": "The episode 'Deliver urgent news and gain entry' occurs when Burke and Gorman arrive at Ripley's apartment and inform her about the lost contact with the Acheron colony, leading to her allowing them inside. This directly sets up the context for the subsequent episode 'Commit to the mission and cut off retreat', where Ripley, after receiving Burke's confirmation, fully commits to the mission. The narrative sequence is supported by the related events and descriptions, showing a clear temporal order: first Ripley is informed and permits entry, then she makes the decision to commit. Therefore, the first episode precedes the second.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_25b147575796",
+    "subject_id": "ep_810717afb9d6b3b2",
+    "object_id": "ep_e55f6913fbb93436",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs during Ripley's medical recovery at Gateway Station (scene_2), while the second episode takes place in scene_18, indicating a clear narrative sequence where the recovery and solace-seeking precede the later moment of being startled by the door buzz. The scene numbers provide explicit temporal ordering.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_2_part_2",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c63b9571dbc1",
+    "subject_id": "ep_0ec70bd883f4cf2c",
+    "object_id": "ep_a7d30c7ffb2b3be3",
+    "relation_type": "precedes",
+    "reason": "Ripley's recovery and preparation to act (lighting a cigarette after a panic episode in scene_22) occurs before her decontamination observed by the crew in scene_29, establishing a clear narrative sequence where her personal moment of resolve precedes the group's reaction to her arrival and decontamination process.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8342c8e1dec8",
+    "subject_id": "ep_0ec70bd883f4cf2c",
+    "object_id": "ep_6daa81053cc02a5d",
+    "relation_type": "precedes",
+    "reason": "Ripley's recovery and preparation to act, marked by her regaining control after a panic episode, logically precedes her operating the power loader, as the former establishes her psychological readiness for the latter action. The narrative progression from emotional crisis to skill demonstration supports a local temporal order where preparation comes before execution.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a3d7258d6c65",
+    "subject_id": "ep_b2600ed90a141374",
+    "object_id": "ep_0ec70bd883f4cf2c",
+    "relation_type": "precedes",
+    "reason": "The mission proposal confrontation occurs in doc_19 (scene_20), where Ripley rejects the offer due to trauma. Her subsequent recovery and preparation to act, described in doc_21 (scene_22), shows a later moment of regaining resolve, indicating a chronological sequence supported by scene ordering and narrative progression from rejection to active preparation.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c36d78322c16",
+    "subject_id": "ep_552a1c1f335ec61b",
+    "object_id": "ep_fbc7e78f7cf96f57",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which the crew confronts Gorman during turbulence, occurs in scene_45, while the object episode, where Ripley arrives and joins tactical monitoring, occurs in scene_48. The scene numbers indicate a clear narrative sequence: scene_45 precedes scene_48. Therefore, the subject episode occurs earlier than the object episode.",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7401c1298c34",
+    "subject_id": "ep_6d072b71113e6ecd",
+    "object_id": "ep_0ec70bd883f4cf2c",
+    "relation_type": "precedes",
+    "reason": "Burke's revelation of corporate stakes and personal leverage (scene_20) occurs before Ripley's recovery and preparation to act (scene_22), as evidenced by the chronological ordering of scenes in the document. The disclosure likely sets up Ripley's emotional crisis and subsequent resolve, but causal language is not explicit; however, the scene numbering supports a clear narrative sequence.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_adfc452f3a9a",
+    "subject_id": "ep_0ec70bd883f4cf2c",
+    "object_id": "ep_fbc7e78f7cf96f57",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Ripley recovering from a panic episode and lighting a cigarette to regain resolve, which occurs before she arrives in the tactical operations bay and joins monitoring, as described in the object episode. The physical and emotional recovery in the subject episode logically precedes her active participation in the command setting, and the related events suggest a narrative progression from personal crisis to operational engagement.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_48a4397f4078",
+    "subject_id": "ep_f6d99636dabcfe69",
+    "object_id": "ep_0ec70bd883f4cf2c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley reacts to the scale of the threat' occurs during scene_8, where she learns about the colonists and collapses emotionally. The episode 'Ripley recovers and prepares to act' involves her lighting a cigarette after a panic episode, which follows the initial reaction. The narrative progression from emotional collapse to recovery and resolve indicates a temporal sequence supported by the event descriptions and scene references.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6b69b9a80313",
+    "subject_id": "ep_b2600ed90a141374",
+    "object_id": "ep_049b25ca34beb657",
+    "relation_type": "precedes",
+    "reason": "The mission proposal is presented by Burke in scene_20, where Ripley initially refuses, and only later, after receiving confirmation from Burke, does she commit to the mission in scene_22. The narrative order of scenes and the dependency on Burke's confirmation establish that the proposal episode precedes the commitment episode.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ed856897a983",
+    "subject_id": "ep_810717afb9d6b3b2",
+    "object_id": "ep_0ec70bd883f4cf2c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley recovers from nightmare and seeks comfort' occurs in scene_2 at Gateway Station during her medical recovery, while 'Ripley recovers and prepares to act' occurs in scene_22, indicating a later point in the narrative. The sequence of scenes supports that the first episode precedes the second.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_88686e6c04e8",
+    "subject_id": "ep_d9d284b3ff663e0e",
+    "object_id": "ep_049b25ca34beb657",
+    "relation_type": "precedes",
+    "reason": "The reunion with Jones and meeting Burke occurs during Ripley's medical recovery at Gateway Station (scene_2), while committing to the mission and cutting off retreat happens after receiving Burke's confirmation (scene_22), indicating a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_92e2aa050569",
+    "subject_id": "ep_6b5eb54f8e0a0449",
+    "object_id": "ep_0ec70bd883f4cf2c",
+    "relation_type": "precedes",
+    "reason": "The medical crisis in 'Ripley suffers medical crisis and emergency response' (with convulsions and Code Blue) occurs upon waking (scene_2), while 'Ripley recovers and prepares to act' involves her regaining control by lighting a cigarette after a panic episode (scene_22), indicating a clear narrative sequence where the crisis precedes recovery and preparation for action.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_74e7df275c3b",
+    "subject_id": "ep_049b25ca34beb657",
+    "object_id": "ep_e552da880bf23352",
+    "relation_type": "precedes",
+    "reason": "The episode 'Burke reveals Ripley's fifty-seven-year hypersleep' occurs early in scene 2 during Ripley's medical recovery, while 'Commit to the mission and cut off retreat' occurs in scene 22 after confirmation from Burke, indicating a clear narrative sequence where the revelation precedes Ripley's commitment and decisive action.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_719e1ba7c910",
+    "subject_id": "ep_942a42b3ac575511",
+    "object_id": "ep_049b25ca34beb657",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reject the offer and end negotiations' occurs in doc_19, scene_20, while 'Commit to the mission and cut off retreat' occurs in doc_21, scene_22. The document and scene ordering indicates a clear narrative sequence where Ripley first rejects Burke's offer and later commits fully to the mission, making 'precedes' strongly supported.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7d7d8de82c39",
+    "subject_id": "ep_d0905d712b9c3623",
+    "object_id": "ep_6daa81053cc02a5d",
+    "relation_type": "precedes",
+    "reason": "The observation of pre-flight loading activity (including Ripley stepping aside for moving equipment) occurs immediately before Ripley volunteers to operate the power loader, as both are part of the same scene (scene_36) and the narrative flow shows her transitioning from observer to active participant.",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bfaacbfc3c5f",
+    "subject_id": "ep_289309d034fdb069",
+    "object_id": "ep_0ec70bd883f4cf2c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley awakens and observes the stasis revival' describes Ripley's initial reorientation upon waking from stasis, establishing her physical and emotional state at the beginning of the scene. The episode 'Ripley recovers and prepares to act' depicts a subsequent moment where she transitions from distress to resolve by lighting a cigarette. The narrative progression from awakening and observation to recovery and preparation implies a temporal sequence supported by the descriptions and related events, with no indication of overlap or reversal.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ef2b980b1af8",
+    "subject_id": "ep_2bc957436ceed60c",
+    "object_id": "ep_049b25ca34beb657",
+    "relation_type": "precedes",
+    "reason": "The hearing where Ripley issues her final warning (ep_2bc957436ceed60c) occurs in scene_5, while her commitment to the mission and cutting off retreat (ep_049b25ca34beb657) occurs in scene_22, indicating a clear narrative sequence where the warning precedes the later mission commitment.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_5_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9bbfa2e8c804",
+    "subject_id": "ep_049b25ca34beb657",
+    "object_id": "ep_e8d6f9905b23101e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Commit to the mission and cut off retreat' involves Ripley making a decisive commitment and terminating communication with Burke, which logically and narratively precedes the episode 'Ripley reacts to mounting tension' where emotional dynamics unfold amid the mission's beginning, including reactions to Burke's behavior. The termination of the call in the first episode sets the stage for the tension observed in the second, supporting a directed temporal order.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_01303e2da98c",
+    "subject_id": "ep_d0905d712b9c3623",
+    "object_id": "ep_e8d6f9905b23101e",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Observe and navigate pre-flight loading activity' occurs in scene_36, while the object episode 'Ripley reacts to mounting tension' occurs in scene_38, indicating a clear narrative sequence where the loading activity precedes Ripley's emotional reaction to the escalating tension.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_12b165708606",
+    "subject_id": "ep_049b25ca34beb657",
+    "object_id": "ep_fbc7e78f7cf96f57",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Commit to the mission and cut off retreat' involves Ripley making a psychological commitment and terminating communication with Burke, which logically and narratively precedes her physical arrival and engagement in the tactical operations bay described in the object episode. The termination of the call (scene_22) occurs before Ripley enters the MOBILE TACTICAL OPERATIONS BAY (scene_48), supporting a directed 'precedes' relation based on scene order and narrative progression.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3478841b9b11",
+    "subject_id": "ep_049b25ca34beb657",
+    "object_id": "ep_d4942a240f64d6eb",
+    "relation_type": "precedes",
+    "reason": "The episode 'Commit to the mission and cut off retreat' involves Ripley finalizing her commitment and cutting communication with Burke, which sets the stage for the subsequent pre-deployment coordination. The episode 'Confirm team roles and positions' occurs during deployment and involves Ripley confirming her position with Vasquez, indicating a later point in the narrative sequence. The termination of the call and assertion of control precede the on-site role confirmation during deployment, supporting a 'precedes' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_66d15d6704aa",
+    "subject_id": "ep_d0905d712b9c3623",
+    "object_id": "ep_59c8130f29d7795d",
+    "relation_type": "precedes",
+    "reason": "The observation of pre-flight loading activity (ep_d0905d712b9c3623) occurs before the boarding and securing for deployment (ep_59c8130f29d7795d), as loading equipment like the APC must happen prior to personnel boarding it, and the narrative sequence in the related scenes (scene_36 before scene_38) supports this temporal order.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8bf046ce5846",
+    "subject_id": "ep_d0905d712b9c3623",
+    "object_id": "ep_d4942a240f64d6eb",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Observe and navigate pre-flight loading activity' occurs during scene_36, where Ripley observes equipment loading and avoids moving vehicles. The object episode 'Confirm team roles and positions' occurs in scene_50, involving a dialogue between Vasquez and Ripley about her position in the vehicle. Since scene_36 precedes scene_50 in narrative order, the subject episode occurs earlier than the object episode, supporting a 'precedes' relation.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_13d449232173",
+    "subject_id": "ep_289309d034fdb069",
+    "object_id": "ep_a7d30c7ffb2b3be3",
+    "relation_type": "precedes",
+    "reason": "The subject episode, 'Ripley awakens and observes the stasis revival', occurs in scene_28 and depicts Ripley regaining consciousness and observing the marines as they emerge from stasis. The object episode, 'Observe and react to Ripley's decontamination', occurs in scene_29 and involves Ripley undergoing decontamination while other characters observe and comment. The progression from stasis revival (scene_28) to decontamination (scene_29) establishes a clear sequential order in the narrative, with the first episode directly preceding the second.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5becdb3be930",
+    "subject_id": "ep_289309d034fdb069",
+    "object_id": "ep_d0905d712b9c3623",
+    "relation_type": "precedes",
+    "reason": "The stasis revival episode (ep_289309d034fdb069) occurs aboard the ship during crew awakening, as evidenced by events like Ripley regaining consciousness and observing marines stirring in scene_28. The pre-flight loading episode (ep_d0905d712b9c3623) takes place during scene_36, involving drop-ship loading activities. Scene numbers (28 before 36) and narrative progression indicate the first episode precedes the second in local narrative order.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0204d977c3f4",
+    "subject_id": "ep_810717afb9d6b3b2",
+    "object_id": "ep_b2600ed90a141374",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley recovers from nightmare and seeks comfort' occurs in scene_2, while 'Confront Ripley with the mission proposal' occurs in scene_20, indicating a clear narrative sequence where the recovery episode precedes the mission proposal episode.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_2_part_2",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2a1b9d0f8c67",
+    "subject_id": "ep_2bc957436ceed60c",
+    "object_id": "ep_942a42b3ac575511",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs during scene_5 (Board Of Inquiry Hearing), while the object episode occurs in scene_20, indicating a clear narrative sequence where Ripley's final warning at the hearing precedes her later rejection of Burke's offer. The chronological order of scenes supports the 'precedes' relation.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ccb9470c833e",
+    "subject_id": "ep_c4c5389f3b062fa4",
+    "object_id": "ep_942a42b3ac575511",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley confronts grief and lost time' occurs during scene_3 at the medical center inquest, while 'Reject the offer and end negotiations' occurs in scene_20, indicating a clear earlier-later narrative order based on scene numbering and contextual progression from mourning to confrontation with Burke.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_27107f3e1ab6",
+    "subject_id": "ep_b2600ed90a141374",
+    "object_id": "ep_d4942a240f64d6eb",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Ripley with the mission proposal' occurs during scene 20, where Burke proposes the mission and Ripley initially refuses. The episode 'Confirm team roles and positions' occurs during scene 50, where deployment is underway and roles are confirmed. Scene 20 precedes scene 50 in narrative order, supporting a 'precedes' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1a41727d0e28",
+    "subject_id": "ep_b2600ed90a141374",
+    "object_id": "ep_fbc7e78f7cf96f57",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Ripley with the mission proposal' occurs during scene_20, where Burke proposes the mission and Ripley refuses. The episode 'Ripley arrives and joins tactical monitoring' occurs in scene_48, where Ripley is already on the ship and engaging in mission monitoring. The clear scene ordering (20 before 48) supports that the first episode precedes the second in narrative time.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fd492b2eb5cf",
+    "subject_id": "ep_289309d034fdb069",
+    "object_id": "ep_6daa81053cc02a5d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley awakens and observes the stasis revival' occurs in doc_27 and scene_28, while 'Demonstrate power loader operation' occurs in doc_35 and scene_36. The document and scene numbers indicate a clear narrative sequence where the awakening and observation episode precedes the power loader demonstration. This chronological order is supported by the progression of the story and the increasing level of activity and engagement by Ripley, from reorientation to active participation.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_068bcefac705",
+    "subject_id": "ep_59c8130f29d7795d",
+    "object_id": "ep_d295c5f73696ebe3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Analyze colony status from orbit' involves the team assessing the colony before deployment, which logically and narratively occurs before 'Board and secure for deployment' where the team boards the APC for rapid deployment. The related events in both episodes support a sequence where orbital analysis precedes physical boarding and launch, indicating a clear temporal order.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_09997eb1b7e8",
+    "subject_id": "ep_2bc957436ceed60c",
+    "object_id": "ep_b55f7a1147fa77f4",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs during scene_5 (Board Of Inquiry Hearing), where Ripley delivers her final warning and exits in anger. The second episode occurs in scene_8 (Conference Room Meeting), where Ripley confronts Van Leuwen in the corridor after leaving the hearing. The narrative sequence of scenes and the explicit mention of Ripley storming out before intercepting Van Leuwen support that the first episode precedes the second.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_16a4931a1a03",
+    "subject_id": "ep_89d12a55028e9a4c",
+    "object_id": "ep_2d8d94b3294d258e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Entering the shuttle and discovering Ripley' occurs immediately after the Nostromo incident and involves Ripley's rescue from hypersleep, while 'Ripley defends her actions under board scrutiny' takes place later during an official inquiry. The rescue must precede the inquiry, as the inquiry is a response to the events following her recovery, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fb1cd073cecc",
+    "subject_id": "ep_d9d284b3ff663e0e",
+    "object_id": "ep_b2600ed90a141374",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley reunites with Jones and meets Burke' occurs early in the narrative when Burke first visits Ripley at Gateway Station, establishing their initial contact and her recovery context. The episode 'Confront Ripley with the mission proposal' involves Burke presenting a formal mission offer, which logically and chronologically follows their initial meeting. The related_events in the first episode (scene_2) occur before the events in the second episode (scene_20), supporting a clear narrative sequence.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1109f31f357c",
+    "subject_id": "ep_d9d284b3ff663e0e",
+    "object_id": "ep_942a42b3ac575511",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley reunites with Jones and meets Burke' occurs early in the narrative when Ripley is first visited by Burke, establishing their initial interaction. In contrast, 'Reject the offer and end negotiations' depicts a later confrontation where Ripley rejects Burke's appeal, indicating a progression in their relationship. The narrative order, supported by the scene numbers (scene_2 vs scene_20), confirms that the reunion precedes the rejection.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_53639f928612",
+    "subject_id": "ep_ac04bbaa6850f85c",
+    "object_id": "ep_e8d6f9905b23101e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley experiences social alienation from the unit' occurs during the Colonial Marines assembly (scene_28), while 'Ripley reacts to mounting tension' takes place in scene_38, indicating a clear narrative sequence where the former precedes the latter based on scene ordering.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7f2b84964640",
+    "subject_id": "ep_89d12a55028e9a4c",
+    "object_id": "ep_289309d034fdb069",
+    "relation_type": "precedes",
+    "reason": "The episode 'Entering the shuttle and discovering Ripley' depicts Ripley being found in hypersleep, which logically and chronologically occurs before 'Ripley awakens and observes the stasis revival', where she regains consciousness and reacts to her environment. The discovery in the shuttle is a prerequisite event that sets the stage for her later awakening, establishing a clear temporal sequence supported by the narrative order of stasis recovery.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_34ae4d1f2805",
+    "subject_id": "ep_59c8130f29d7795d",
+    "object_id": "ep_d4942a240f64d6eb",
+    "relation_type": "precedes",
+    "reason": "The episode 'Board and secure for deployment' describes the physical boarding and preparation for launch, including seating and the start of motion, which sets the stage for the subsequent interpersonal exchange in 'Confirm team roles and positions' where Vasquez questions Ripley during deployment. The boarding and securing must logically occur before role confirmation can take place during the ongoing deployment, establishing a clear temporal order supported by the narrative flow of events.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_46fba72b6ed5",
+    "subject_id": "ep_d4942a240f64d6eb",
+    "object_id": "ep_fbc7e78f7cf96f57",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley arrives and joins tactical monitoring' (doc_47, scene_48) occurs earlier in the narrative sequence than 'Confirm team roles and positions' (doc_49, scene_50), as evidenced by the document and scene ordering. Ripley first joins the monitoring session before the team role confirmation takes place during deployment, establishing a clear temporal precedence.",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_147a1f10ab73",
+    "subject_id": "ep_d295c5f73696ebe3",
+    "object_id": "ep_d4942a240f64d6eb",
+    "relation_type": "precedes",
+    "reason": "The episode 'Analyze colony status from orbit' involves the team assessing the colony from orbit using screen imagery, which occurs before the interpersonal exchange in 'Confirm team roles and positions' where Vasquez questions Ripley's positioning during deployment. Both episodes occur in scene_50, but the orbital analysis logically precedes the role confirmation as part of the pre-deployment sequence, with no indication of overlap or reversal in order.",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ca67341eab39",
+    "subject_id": "ep_d9d284b3ff663e0e",
+    "object_id": "ep_e8d6f9905b23101e",
+    "relation_type": "precedes",
+    "reason": "The reunion with Jones and introduction to Burke (ep_d9d284b3ff663e0e) occurs during Ripley's medical recovery at Gateway Station (scene_2), while the reaction to mounting tension (ep_e8d6f9905b23101e) takes place in scene_38, indicating a clear narrative sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_2_part_2",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9d837acc30f8",
+    "subject_id": "ep_59c8130f29d7795d",
+    "object_id": "ep_c2d593a4a8d13d87",
+    "relation_type": "precedes",
+    "reason": "The boarding and securing for deployment (ep_59c8130f29d7795d) occurs during the initial mission launch phase aboard the ship, while Ripley's observation and inquiry about the atmosphere processor (ep_c2d593a4a8d13d87) happens later as the ship approaches the target station. The narrative sequence implied by the mission progression—from departure to approach—supports a 'precedes' relation from deployment preparation to target identification.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7d3adae2f61d",
+    "subject_id": "ep_1f86183858216d05",
+    "object_id": "ep_e8d6f9905b23101e",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Address troop discipline and readiness' occurs during scene_31, as evidenced by its related_events and related_occasions. The object episode 'Ripley reacts to mounting tension' occurs in scene_38, as shown in its related_events. Since scene_31 precedes scene_38 in narrative order, the subject episode occurs earlier than the object episode, supporting a 'precedes' relation from subject to object.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c3ea79367a40",
+    "subject_id": "ep_289309d034fdb069",
+    "object_id": "ep_59c8130f29d7795d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Ripley awakens and observes the stasis revival' occurs in scene_28, where Ripley regains consciousness and observes the crew awakening. The object episode 'Board and secure for deployment' occurs in scene_38, involving boarding the APC and preparing for deployment. The progression from awakening to deployment preparation indicates a clear temporal sequence supported by the scene numbers and narrative flow, with no intervening events suggesting a reversal or overlap. Thus, the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6d7cf1986957",
+    "subject_id": "ep_618e9a917b715392",
+    "object_id": "ep_59c8130f29d7795d",
+    "relation_type": "precedes",
+    "reason": "The pre-mission briefing (ep_618e9a917b715392) occurs before the boarding and securing for deployment (ep_59c8130f29d7795d), as the briefing transitions the marines from a relaxed state to attention and sets the stage for mission launch, which is followed by the physical preparation for deployment. The narrative sequence in the related scenes (scene_31 before scene_38) supports this temporal order.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e7e2766e140e",
+    "subject_id": "ep_e552da880bf23352",
+    "object_id": "ep_c4c5389f3b062fa4",
+    "relation_type": "causes",
+    "reason": "Burke's revelation that Ripley has been in hypersleep for fifty-seven years directly triggers her emotional breakdown and reflection on lost time and her daughter's death, as described in the episodes' causal sequence: the disclosure of lost time leads immediately to her grief response.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_98d51d4c5a94",
+    "subject_id": "ep_d9d284b3ff663e0e",
+    "object_id": "ep_c4c5389f3b062fa4",
+    "relation_type": "precedes",
+    "reason": "The reunion with Jones and introduction to Burke occurs during Ripley's medical recovery (scene_2), while her confrontation with grief over her daughter's death occurs later during the inquest at the medical center (scene_3), indicating a clear narrative sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_db12f37b0529",
+    "subject_id": "ep_6b5eb54f8e0a0449",
+    "object_id": "ep_c4c5389f3b062fa4",
+    "relation_type": "precedes",
+    "reason": "The medical crisis episode (subject) occurs during scene_2, as evidenced by its related_events and related_occasions referencing scene_2, while the grief confrontation episode (object) occurs in scene_3. The narrative progression from scene_2 to scene_3 supports that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_2_part_2",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_29bdebc91ae1",
+    "subject_id": "ep_618e9a917b715392",
+    "object_id": "ep_d4942a240f64d6eb",
+    "relation_type": "precedes",
+    "reason": "The pre-mission briefing (ep_618e9a917b715392) occurs in scene_31, where Gorman begins the formal briefing and sets the stage for intelligence dissemination. Confirming team roles and positions (ep_d4942a240f64d6eb) occurs in scene_50, during deployment, where Ripley clarifies her position inside the vehicle. Scene numbers indicate a clear narrative sequence, with the briefing preceding role confirmation during deployment.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f22f9d8f2543",
+    "subject_id": "ep_d9d284b3ff663e0e",
+    "object_id": "ep_0a35a1238daa648f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley reunites with Jones and meets Burke' occurs in scene_2 during Ripley's medical recovery, while 'Burke delivers news of Ripley's daughter's death' occurs in scene_3 during the inquest at the medical center. The progression from scene_2 to scene_3 establishes a clear narrative order where the reunion and initial meeting precede the delivery of the daughter's death news.",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ec324a9b4ac6",
+    "subject_id": "ep_289309d034fdb069",
+    "object_id": "ep_fbc7e78f7cf96f57",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Ripley awakens and observes the stasis revival' occurs in scene_28, where Ripley regains consciousness and observes the crew emerging from stasis. The object episode 'Ripley arrives and joins tactical monitoring' occurs in scene_48, where she enters the tactical operations bay. Scene numbers indicate a clear narrative sequence: scene_28 precedes scene_48. This temporal ordering is supported by the progression from awakening to later joining a monitoring session, making 'precedes' the best-supported relation.",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d61bef27f00d",
+    "subject_id": "ep_810717afb9d6b3b2",
+    "object_id": "ep_c4c5389f3b062fa4",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs during Ripley's initial recovery in her hospital room (scene_2), while the object episode takes place during the inquest at the medical center (scene_3), indicating a clear narrative sequence where Ripley first recovers from the nightmare and then confronts the loss of her daughter. The progression from scene_2 to scene_3 supports a direct temporal order.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_2_part_2",
+      "scene_3_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fefae8f16b18",
+    "subject_id": "ep_6b5eb54f8e0a0449",
+    "object_id": "ep_2d8d94b3294d258e",
+    "relation_type": "precedes",
+    "reason": "The medical crisis episode (scene_2) occurs during Ripley's recovery at Gateway Station, which precedes the Board of Inquiry hearing (scene_5) where she defends her actions. The narrative order of scenes supports that the medical emergency happens earlier in the story timeline.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_31d6d816f57f",
+    "subject_id": "ep_552a1c1f335ec61b",
+    "object_id": "ep_e8d6f9905b23101e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Crew confronts Gorman's inexperience during turbulent flight' occurs in scene_45, while 'Ripley reacts to mounting tension' occurs in scene_38. Since scene_38 precedes scene_45 in narrative order, the object episode occurs earlier than the subject episode. Therefore, the subject episode follows the object episode, meaning the object precedes the subject. However, the relation is directional and must be assigned based on subject-to-object direction. As the subject episode happens after the object episode, the correct relation is 'precedes' with subject -> object being false, but object -> subject being true. Given the schema requires subject-to-object direction, and the subject does not precede the object, the only valid interpretation under the constraints is to reverse the inference: since the object occurs earlier, the subject cannot precede the object. But the schema allows 'precedes' as a directed relation, and based on scene numbers, ep_e8d6f9905b23101e (object) precedes ep_552a1c1f335ec61b (subject). However, the relation must be evaluated as subject -> object. Since the subject episode happens later, it does not precede the object. Thus, no directed 'precedes' from subject to object is valid. No other relation is supported: no causal link is stated, no explicit contrast or elaboration. Therefore, despite chronological data, the directionality constraint prevents valid 'precedes' assignment from subject to object. Hence, no relation can be correctly asserted in the required direction.",
+    "source_documents": [
+      "scene_45_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cbea5f9e220c",
+    "subject_id": "ep_810717afb9d6b3b2",
+    "object_id": "ep_2d8d94b3294d258e",
+    "relation_type": "precedes",
+    "reason": "The recovery episode (ep_810717afb9d6b3b2) occurs during Ripley's medical recuperation at Gateway Station (scene_2), while the board inquiry episode (ep_2d8d94b3294d258e) takes place during a later hearing (scene_5). The narrative order of scenes supports that the recovery precedes the board scrutiny.",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b119fff07ac7",
+    "subject_id": "ep_1f615bf99da72888",
+    "object_id": "ep_27f49b764bcc743d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Observe parents boarding the ship' occurs in doc_15 and depicts a moment of quiet observation, while the object episode 'Sudden attack breaches the vehicle' occurs in doc_16 and begins with a violent disruption. The shift in document order and the narrative progression from calm observation to sudden threat strongly support a temporal sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_79fe92043d89",
+    "subject_id": "ep_b488fd79f723ff13",
+    "object_id": "ep_d295c5f73696ebe3",
+    "relation_type": "precedes",
+    "reason": "The assessment of communication with the colony occurs during pre-flight preparations, as confirmed by the description stating it happens 'during pre-flight preparations.' The analysis of colony status from orbit occurs later, during the orbital phase before deployment, involving visual and technical evaluation after arrival. The narrative sequence implies the communication check precedes orbital analysis, as contact would be checked before or during approach, and the episodes are linked by a shared goal of assessing colony status but occur in a temporally ordered sequence.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a436306439b0",
+    "subject_id": "ep_1f615bf99da72888",
+    "object_id": "ep_e2a563763e8953cb",
+    "relation_type": "precedes",
+    "reason": "The episode 'Observe parents boarding the ship' occurs in doc_15 and depicts Newt watching her parents depart, which sets the context for their absence. The episode 'Newt awakens Tim and seeks reassurance' occurs in doc_16 and shows Newt reacting to the ongoing absence of the adults, indicating a later point in the narrative. The local discourse order and causal progression of emotional strain support that the first episode precedes the second.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3dc36e14d111",
+    "subject_id": "ep_50c494e608f1ed37",
+    "object_id": "ep_c0426ee6da31d83d",
+    "relation_type": "precedes",
+    "reason": "The discovery of the alien ship (ep_50c494e608f1ed37) occurs in scene_14, while Anne issuing a mayday and Newt discovering the creature (ep_c0426ee6da31d83d) occurs in scene_17, indicating a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_10c92b9ae123",
+    "subject_id": "ep_fb29e673cf51928b",
+    "object_id": "ep_21b45bc51b68224c",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley reorients in medical care' describes Ripley awakening and reorienting in the medical bay, which logically and chronologically precedes the violent event of an alien erupting from her chest. Both episodes occur during the same occasion 'Ripley'S Medical Recovery At Gateway Station (scene_2)', supporting a sequential narrative order within the scene.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f17b10bf9dce",
+    "subject_id": "ep_618e9a917b715392",
+    "object_id": "ep_6696715d234f7177",
+    "relation_type": "precedes",
+    "reason": "The pre-mission briefing (ep_618e9a917b715392) occurs before the landing and deployment sequence (ep_6696715d234f7177), as the briefing sets the stage for mission instructions and intelligence dissemination, while the deployment episode involves final commands just before and during landing. The narrative order and operational logic support a clear temporal sequence where preparation precedes execution.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fd4b0abc3bc5",
+    "subject_id": "ep_fb29e673cf51928b",
+    "object_id": "ep_d9d284b3ff663e0e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley reorients in medical care' describes Ripley awakening and beginning to reorient in the medical bay, which logically and narratively precedes the subsequent episode where she reunites with Jones and meets Burke. Both episodes occur during the same occasion ('Ripley'S Medical Recovery At Gateway Station') and are part of a coherent sequence in scene_2, supporting a clear temporal order.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2eb4695138b8",
+    "subject_id": "ep_217e8aedafdbdfad",
+    "object_id": "ep_4681bf16963acb91",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Load tactical missiles into drop-ship' provides a specific operational detail—Spunkmeyer loading missiles using the power loader—that contributes to the broader logistical activity described in 'Conduct loading bay inventory and operations'. The latter episode encompasses coordinated personnel and machinery activity, including inventory verification and preparation for departure, within which the missile loading is a component task. Thus, the subject episode elaborates on a specific action within the object episode's wider operational context.",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e5f997705995",
+    "subject_id": "ep_50c494e608f1ed37",
+    "object_id": "ep_cd8c1c297e80daef",
+    "relation_type": "precedes",
+    "reason": "The discovery of the alien ship (ep_50c494e608f1ed37) occurs in scene_14, where the crew reacts to the visual anomaly and slows the vehicle. The subsequent episode (ep_cd8c1c297e80daef) takes place in scene_15, where Jorden and Anne approach the derelict and assess it, indicating a clear sequential order supported by the scene numbers and narrative progression.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1d1724026864",
+    "subject_id": "ep_1f86183858216d05",
+    "object_id": "ep_44e78c6c793ba34a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Address troop discipline and readiness' occurs during the Pre-Mission Briefing Aboard The Dropship (scene_31), while the object episode 'Troopers Exchange Banter About Mission and Food' takes place during the Morning Meal Briefing Aboard The Sulaco (scene_30). Scene numbers indicate scene_30 precedes scene_31, establishing a clear narrative order where the banter episode occurs before the discipline episode.",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1d58455126e9",
+    "subject_id": "ep_fb29e673cf51928b",
+    "object_id": "ep_810717afb9d6b3b2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ripley reorients in medical care' describes Ripley's initial awakening and reorientation in the medical bay, including the med-tech opening the viewport to reveal Earth. The episode 'Ripley recovers from nightmare and seeks comfort' occurs afterward, as it involves her refusing sleep medication and finding solace with Jones after a traumatic nightmare, indicating a later point in the same scene. Both episodes share the same occasion and scene, and the sequence of events in the related_events lists supports a clear temporal order.",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7c52e5138f4b",
+    "subject_id": "ep_6817a409cacd5e56",
+    "object_id": "ep_2d8d94b3294d258e",
+    "relation_type": "precedes",
+    "reason": "The Board presents crew records at the beginning of the hearing, which sets the stage before Ripley defends her actions under board scrutiny. Both episodes occur during the same occasion (Board Of Inquiry Hearing Into Nostromo Incident), and the description of ep_6817a409cacd5e56 explicitly states it happens 'at the beginning of the hearing,' while ep_2d8d94b3294d258e involves the subsequent testimony and questioning, supporting a clear temporal order.",
+    "source_documents": [
+      "scene_5_part_1"
+    ],
+    "confidence": 0.9
+  }
+]

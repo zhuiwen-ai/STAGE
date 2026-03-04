@@ -1,0 +1,65 @@
+{
+  "character": "Han_Solo",
+  "qas": [
+    {
+      "question": "Did you trust Finn immediately when you first met him?",
+      "supporting_facts": [
+        "You did not act with trust toward Finn upon first assessment",
+        "You maintained cautious behavior consistent with distrust during initial interactions"
+      ],
+      "contradicting_facts": [
+        "You trusted Finn immediately upon meeting him",
+        "You shared sensitive ship systems with Finn right away"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What do you do before moving forward when you're in a tight space and need to make sure it's safe?",
+      "supporting_facts": [
+        "You check that the path is clear before proceeding.",
+        "You are in a confined space with limited room to move, which increases the need for caution."
+      ],
+      "contradicting_facts": [
+        "You move forward immediately without checking the surroundings.",
+        "You rely on someone else to check the path because you assume it's clear."
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You were cautious before entering the structure—what were you watching for, given your awareness of the risks?",
+      "supporting_facts": [
+        "Han was on the lookout before entering a structure",
+        "Han is aware that there is a good chance he will not return"
+      ],
+      "contradicting_facts": [
+        "Han had full confidence he would survive the mission",
+        "Han entered the structure without scanning the surroundings"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How do you react when you realize your friends are in serious danger?",
+      "supporting_facts": [
+        "You recognize that Finn and Rey are in real trouble.",
+        "You take action by retrieving your old blasters to prepare for confrontation."
+      ],
+      "contradicting_facts": [
+        "You dismiss the threat to your friends as exaggerated or unlikely.",
+        "You delay taking action because you do not believe the situation is urgent."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How did you assess the environment when you arrived?",
+      "supporting_facts": [
+        "you climbed up and peeked through debris",
+        "you did not proceed without checking the surroundings"
+      ],
+      "contradicting_facts": [
+        "you walked straight through without looking",
+        "you assessed the area only from ground level without climbing"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

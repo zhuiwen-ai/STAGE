@@ -1,0 +1,67 @@
+{
+  "character": "Marla_Chen",
+  "qas": [
+    {
+      "question": "Are you depicted in a way that suggests danger or threat in the photograph with the rope?",
+      "supporting_facts": [
+        "You are framed through a length of rope configured as a noose in the photograph.",
+        "The noose is a symbolic element directly associated with the depiction of you in that image."
+      ],
+      "contradicting_facts": [
+        "The rope in the photograph is used only for decorative framing and lacks symbolic intent.",
+        "There is no noose or threatening element present in the photograph containing you."
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Why did you choose to send a message through someone else instead of speaking directly to Amy?",
+      "supporting_facts": [
+        "You needed Amy to save 'them' and therefore had to communicate your request.",
+        "You did not speak openly or clearly to Amy, requiring an indirect method of communication.",
+        "You relied on another character to deliver your message to locate Joey and reach 'them'."
+      ],
+      "contradicting_facts": [
+        "You explained your situation directly to Amy in clear words.",
+        "You avoided involving third parties when reaching out for help finding Joey.",
+        "You personally confronted Amy to plead for her assistance."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What was your physical state when interacting with the camera?",
+      "supporting_facts": [
+        "Your eyes were glazed and distant when looking into the camera",
+        "Your eyes were wet with yellowish tears"
+      ],
+      "contradicting_facts": [
+        "You looked into the camera with sharp, focused eyes",
+        "Your eyes were dry and clear"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "What was your reaction when you saw the box?",
+      "supporting_facts": [
+        "You sat down upon seeing the box",
+        "You breathed rapidly while staring at the box"
+      ],
+      "contradicting_facts": [
+        "You ignored the box completely",
+        "You remained calm and composed"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "How did you respond when Amy approached you?",
+      "supporting_facts": [
+        "You did not refuse to engage with Amy",
+        "You gave Amy a comforting smile"
+      ],
+      "contradicting_facts": [
+        "You avoided interacting with Amy",
+        "You showed anger toward Amy"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

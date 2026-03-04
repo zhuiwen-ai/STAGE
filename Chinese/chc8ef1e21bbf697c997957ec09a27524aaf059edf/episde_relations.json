@@ -1,0 +1,4075 @@
+[
+  {
+    "id": "rel_ep_ep_99e99f2d0f3c",
+    "subject_id": "ep_0132c667bff5b0a9",
+    "object_id": "ep_90c31c53a1cfcadb",
+    "relation_type": "precedes",
+    "reason": "小石头与小豆子逃离并被捉回发生在戏班选拔仪式中，随后小豆子安慰小石头并被带离，两个情节共享同一场合且事件序列显示前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e92a4644320b",
+    "subject_id": "ep_809f0490e6a02f83",
+    "object_id": "ep_8a2efddc81a31fe7",
+    "relation_type": "precedes",
+    "reason": "小豆子以寻找师哥和需要撒尿为由试图离开，发生在绕过屏风发现张太监与侍女纠缠之前，两个事件均发生在scene_35，但逻辑顺序上逃离尝试先于发现异常行为。",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d4591d2be59b",
+    "subject_id": "ep_92bf1ae7da5b383e",
+    "object_id": "ep_f7ddbc2ab6141624",
+    "relation_type": "precedes",
+    "reason": "小豆子在仪式前的恐惧与逃避发生在母亲见证仪式并告别的前面，因为小豆子被按倒在祖师爷像前之后，仪式才结束，随后母亲为其盖上棉袍并离开，叙事顺序明确。",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7a33fec97db9",
+    "subject_id": "ep_338fcd5afcb7cddb",
+    "object_id": "ep_a58f36ea19b6dd6b",
+    "relation_type": "contrasts_with",
+    "reason": "小豆子主动代罚体现牺牲与顺从，而小石头被惩罚后逃跑并引发追逐，体现反抗与冲突，两者在应对体罚的态度和结果上形成鲜明对比。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_dfabe466737f",
+    "subject_id": "ep_8d204674f36c2309",
+    "object_id": "ep_dcd36a5b94ec6675",
+    "relation_type": "precedes",
+    "reason": "小石头介入冲突并安抚小豆子发生在小石头用脚踢灭油灯之前，描述中明确指出在安抚小豆子之后，小石头才讲述趣事并熄灯，表明两个情节在叙事顺序上有清晰的时间先后关系。",
+    "source_documents": [
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e9ec76c37f45",
+    "subject_id": "ep_126d901a689a026b",
+    "object_id": "ep_347ce3eba7f106e9",
+    "relation_type": "precedes",
+    "reason": "应对地痞挑衅以保护表演秩序发生在小石头展示真功夫以震慑全场之前，因为地痞的挑衅和冲突升级直接促使小石头采取行动扭转局势，文本中事件顺序清晰：先有地痞闹事和求情，随后小石头宣布动真格并进行震撼表演。",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2aaa73ae2c61",
+    "subject_id": "ep_18969d9f9dee83b7",
+    "object_id": "ep_4c2492e7f83b21ca",
+    "relation_type": "precedes",
+    "reason": "根据相关事件均发生在scene_35且描述中暴力追捕与身体制服发生在实施羞辱性排尿仪式之前，张太监先将小豆子按在床上完成身体控制，随后才进行排尿指令，构成明确的叙事顺序。",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_920386f6c35a",
+    "subject_id": "ep_20f80d56d3e8302c",
+    "object_id": "ep_39f4b97e95d06dad",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述及其共享的场景编号（scene_44），'邀请与婉拒中的社交周旋'中四爷提出日后再会，随后在'赠礼与艺术评价中的地位确认'中四爷赠送头面并评价表演，表明前者在叙事顺序上先于后者发生。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b90ed35034f9",
+    "subject_id": "ep_338fcd5afcb7cddb",
+    "object_id": "ep_3bd8ef5f7f7fe364",
+    "relation_type": "precedes",
+    "reason": "根据描述，小豆子挺身代罚发生在小石头求情并激化冲突之前：小豆子先认错并接受体罚，随后小石头跪地求情，最终导致冲突升级。两个情节共享同一场景（scene_26），且事件序列显示前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_61102629d29d",
+    "subject_id": "ep_09ab786b696cc698",
+    "object_id": "ep_8d204674f36c2309",
+    "relation_type": "precedes",
+    "reason": "小豆子遭受欺凌并焚毁棉袍发生在小石头介入冲突并安抚小豆子之前。描述中显示，小石头进入房间时冲突已发生，他随后采取行动缓和局势，表明前一情节在叙事顺序上先于后一情节。",
+    "source_documents": [
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fe6b4bb5923e",
+    "subject_id": "ep_809f0490e6a02f83",
+    "object_id": "ep_4c2492e7f83b21ca",
+    "relation_type": "precedes",
+    "reason": "小豆子以寻找师哥和需要撒尿为由请求离开，发生在张太监提供水晶壶并指令其当众排尿之前，根据场景顺序（scene_35）中的事件流，该请求先于羞辱性排尿仪式的实施。",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7c16f9b7ea68",
+    "subject_id": "ep_43ec4385e8e97c39",
+    "object_id": "ep_338fcd5afcb7cddb",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'逃场归来被老师爷发现'（scene_23）发生在'小豆子挺身代罚'（scene_26）之前，scene_23早于scene_26，因此该关系在叙事顺序上有明确支持。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6b96c8c759fa",
+    "subject_id": "ep_b0b152c7d883d11d",
+    "object_id": "ep_601fcccc05a26c30",
+    "relation_type": "precedes",
+    "reason": "菊仙求助晓楼并表白心迹发生在段晓楼要求蝶衣接受菊仙并担任证婚人之前，二者均发生在定亲礼场景中，且晓楼对菊仙的接纳（披衣动作）为后续要求蝶衣承认关系提供了直接前提，叙事顺序清晰。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2f6acf7d23c3",
+    "subject_id": "ep_5d5f295df3bbc35d",
+    "object_id": "ep_046f702ce82f9548",
+    "relation_type": "precedes",
+    "reason": "根据描述，小石头实施惩戒以纠正小豆子的情节结束后，‘急急风’鼓点骤起，随即进入武戏排练，表明惩戒行为在叙事顺序上直接早于排练衔接仪式。两个情节共享同一场合（练功棚内的惩戒与排练仪式），且事件序列显示惩戒完成后的即时过渡。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aef6e36f404b",
+    "subject_id": "ep_b0b152c7d883d11d",
+    "object_id": "ep_c62933a0d034ae9e",
+    "relation_type": "precedes",
+    "reason": "菊仙求助晓楼并表白心迹发生在段晓楼宣布为菊仙举办定亲礼之前，且其行为（含泪诉说、表达牺牲意愿）直接促成了晓楼做出公开定亲的决定，时间顺序明确，且在同一场景（scene_50）中先后发生。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_088f1a957226",
+    "subject_id": "ep_4903446c577e9f1e",
+    "object_id": "ep_0e4a17bbb45178de",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_12）中，且'小豆子为小石头披被照料'包含一系列动作（披被、解扣、脱衣）以及小石头要求远离的反应，逻辑上发生在'小豆子坚持陪伴小石头入睡'之前，构成从照料行为到共眠结果的叙事推进。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_05efb930c299",
+    "subject_id": "ep_50d17fcf50d97747",
+    "object_id": "ep_8859489495739dbf",
+    "relation_type": "precedes",
+    "reason": "完成摄影棚内的换装与拍摄发生在拍摄过程中，而响应外部骚乱并确认学生行动是由玻璃破碎声中断拍摄所触发的后续事件。描述中明确指出照相师在拍摄过程中听到声音后中断并查看，表明前一情节在叙事顺序上早于后一情节。",
+    "source_documents": [
+      "scene_37__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_812f1f50c81a",
+    "subject_id": "ep_c1bda018910e8484",
+    "object_id": "ep_2b32c3e5286cde00",
+    "relation_type": "precedes",
+    "reason": "小癞子与小豆子策划并实施逃跑发生在小豆子与小石头告别的前面，因为逃跑过程中小石头追赶，而告别是逃离完成之际的最后动作，叙事顺序上明确先有逃跑实施，再有告别完成。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_98f7cde3191d",
+    "subject_id": "ep_a2157a89aef85a6f",
+    "object_id": "ep_f7ddbc2ab6141624",
+    "relation_type": "precedes",
+    "reason": "完成拜师仪式的关键步骤包括确认拜师文书和按血指印，这些行为在叙事顺序上先于母亲为小豆子盖上棉袍并离开的告别场景。两个情节均发生在同一场合‘小豆子拜师仪式 (scene_8)’中，且描述中的动作序列表明仪式程序完成后，母亲才进行告别行为。",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4528675eddf2",
+    "subject_id": "ep_05f6c179f7618c84",
+    "object_id": "ep_0c7be6444af84db5",
+    "relation_type": "precedes",
+    "reason": "根据描述，老师爷先惩罚小癞子，随后转向小豆子纠正其唱词。两个情节发生在同一场景（scene_17-13），但叙述顺序和事件流程表明惩罚小癞子在时间上先于纠正小豆子的唱词，构成明确的先后顺序。",
+    "source_documents": [
+      "scene_17-13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8eee70e9497d",
+    "subject_id": "ep_8a2efddc81a31fe7",
+    "object_id": "ep_18969d9f9dee83b7",
+    "relation_type": "precedes",
+    "reason": "根据相关事件scene_35中的描述，小豆子先发现张太监与侍女的不当行为并被其进行心理控制（如纠正年份），随后发生张太监追逐并按倒小豆子的暴力行为。因此，'揭露张太监的异常行为与权力控制'在叙事顺序上早于'暴力追捕与身体制服'。",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_83145b1fe3f5",
+    "subject_id": "ep_c32626c30a521133",
+    "object_id": "ep_1dec0e4dab2aca07",
+    "relation_type": "causes",
+    "reason": "关师傅惩戒并训诫小石头这一情节直接导致小石头抬头望向小豆子寻求情感连接。描述中指出小石头是在遭受打骂后做出该行为，表明体罚和斥责是触发其寻求情感慰藉的直接原因，具有明确的因果时序和心理动机支持。",
+    "source_documents": [
+      "scene_2__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_06ff01667832",
+    "subject_id": "ep_3bd8ef5f7f7fe364",
+    "object_id": "ep_5d5f295df3bbc35d",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'小石头求情并激化冲突' 发生在 scene_26，而 '小石头实施惩戒以纠正小豆子' 发生在 scene_27__2，scene_26 在叙事顺序上早于 scene_27__2，因此前者在时间上先于后者。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e3c54652aad7",
+    "subject_id": "ep_087daa0b692e539b",
+    "object_id": "ep_549c93ce1356184f",
+    "relation_type": "elaborates",
+    "reason": "两个情节均发生在同一场合‘北平戏曲演出后的后台会面’中，且共享‘蝶衣为晓楼卸妆’的背景。‘调整姿势中的亲密互动’聚焦于身体与情感交流的细节，而‘卸妆中表达艺术尊严’则扩展了对话内容，展现晓楼的艺术信念。前者为后者提供了情境基础，后者在此基础上深化主题，构成对同一互动不同层面的展开。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2f05ae10ca8c",
+    "subject_id": "ep_83924ff6ba2ac507",
+    "object_id": "ep_d1efd918eeb8f1af",
+    "relation_type": "precedes",
+    "reason": "根据描述，程蝶衣质问段晓楼感情状况的情节发生在段晓楼以‘不疯魔不成活’劝解并导致程蝶衣离去之前，两个情节均发生在scene_46，且叙事顺序上前者为矛盾初现，后者为沟通终结，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6e2296aa392f",
+    "subject_id": "ep_069c77905e3444eb",
+    "object_id": "ep_0960085cdbd4b0c8",
+    "relation_type": "precedes",
+    "reason": "在踢腿训练中，小石头暗中援助小豆子并辩解发生在被罚执行惩罚仪式之前，两个情节均发生在同一场景（scene_11）的练功训练中，且援助与辩解行为先于因结党被罚的仪式性流程，叙事顺序支持前者早于后者。",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2e85e3ef2533",
+    "subject_id": "ep_809f0490e6a02f83",
+    "object_id": "ep_18969d9f9dee83b7",
+    "relation_type": "precedes",
+    "reason": "小豆子以生理需求为借口试图逃离（ep_809f0490e6a02f83）发生在张太监对其进行暴力追捕与身体制服（ep_18969d9f9dee83b7）之前，根据相关事件scene_35中的叙述顺序，请求离开先于追逐和压制行为，构成明确的时间先后关系。",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cb30ada91c91",
+    "subject_id": "ep_930f0c8ba6e6fe1e",
+    "object_id": "ep_43ec4385e8e97c39",
+    "relation_type": "precedes",
+    "reason": "情节'潜入戏园观看京剧演出'发生在'逃场归来被老师爷发现'之前，因为小癞子与小豆子必须先观看演出，然后才返回胡同被老师爷发现。描述中的事件顺序和相关场景（scene_23）支持这一时间先后关系。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0b800e08d337",
+    "subject_id": "ep_db60f3435d40a3c5",
+    "object_id": "ep_4903446c577e9f1e",
+    "relation_type": "precedes",
+    "reason": "小石头归来并宣泄悲愤（撞门而入、发表悲愤言论）在叙事顺序上先于小豆子为其披被照料（解扣、脱衣等），两个情节均发生在scene_12，且行为逻辑上前者为后者的触发情境，文本中事件序列支持该时序。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0e0745c222a8",
+    "subject_id": "ep_92bf1ae7da5b383e",
+    "object_id": "ep_a2157a89aef85a6f",
+    "relation_type": "precedes",
+    "reason": "小豆子在仪式前的恐惧与逃避发生在完成拜师仪式的关键步骤之前，文本中描述的事件顺序显示：小豆子先钻桌、逃跑、被追回并按倒，随后才进行血指印按在关书上的仪式程序，因此存在明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6d8ae7ad793b",
+    "subject_id": "ep_6b493bc869bc5944",
+    "object_id": "ep_844af06a3389775e",
+    "relation_type": "causes",
+    "reason": "小豆子在聆听《霸王别姬》的教诲时深受情感触动，这一心理冲击直接导致他在仪式中出现跪拜祖师爷和击打自己脸的自我惩戒行为。两个情节共享同一场合（香堂教学仪式），且描述中表明后者是前者的即时情感后果，构成直接因果关系。",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_aad366cffe07",
+    "subject_id": "ep_5d5f295df3bbc35d",
+    "object_id": "ep_6c80e18e7cee2e2a",
+    "relation_type": "precedes",
+    "reason": "根据描述，小石头对小豆子实施惩戒发生在先，随后小豆子在惩戒后起身完整演唱《思凡》，完成情感爆发式表演。两个情节共享同一场合‘练功棚内的惩戒与排练仪式’，且事件序列在文本中呈现明确的先后顺序：惩戒与强迫认错之后，小豆子才突然起身演唱。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_45434aa06cab",
+    "subject_id": "ep_1030328041d4ec14",
+    "object_id": "ep_5d5f295df3bbc35d",
+    "relation_type": "causes",
+    "reason": "小豆子在表演《思凡》时因性别认同困惑而卡词，导致表演中断，这一失误直接引发了小石头随后在练功棚内对其实施惩戒以纠正错误。文本明确将小石头的行为描述为对小豆子表演失误的回应，且两个情节共享同一场景（scene_27__2），事件序列紧密衔接，构成直接的因果链条。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0b000014ea0d",
+    "subject_id": "ep_20f80d56d3e8302c",
+    "object_id": "ep_601fcccc05a26c30",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'邀请与婉拒中的社交周旋' 发生在 scene_44，而 '晓楼要求蝶衣接受菊仙并担任证婚人' 发生在 scene_50，scene_44 在叙事顺序上早于 scene_50，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4276de28495e",
+    "subject_id": "ep_b9a4d76bf4dc8f87",
+    "object_id": "ep_92bf1ae7da5b383e",
+    "relation_type": "precedes",
+    "reason": "根据描述，小豆子在练功棚外尖叫并冲入练功棚（实体 #2）导致众人进入堂屋，紧接着发生小豆子在仪式中恐惧逃避的情节（实体 #1）。related_occasions 均指向同一场合 '小豆子拜师仪式 (scene_8)'，且事件序列显示实体 #2 的闯入是进入仪式场景的起点，因此实体 #2 在叙事顺序上早于实体 #1。",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1e89537a6473",
+    "subject_id": "ep_83924ff6ba2ac507",
+    "object_id": "ep_cf73bee00aacefaf",
+    "relation_type": "precedes",
+    "reason": "根据描述，程蝶衣在质问段晓楼后沉默凝视，段晓楼继续说笑，随后程蝶衣怒而起身离开，段晓楼立即道歉。这一系列行为在同一个场景（scene_46）中按时间顺序展开，'质问与回避：揭开情感裂痕' 直接在叙事顺序上早于 '愤怒退场与即时道歉'。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_557073b19610",
+    "subject_id": "ep_b9a4d76bf4dc8f87",
+    "object_id": "ep_f7ddbc2ab6141624",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对小豆子的突然闯入和尖叫'包含小豆子母子冲入练功棚及孩子们跟随进入堂屋的事件，这发生在拜师仪式进行中的早期阶段；客体情节'母亲见证仪式并告别小豆子'包含仪式结束后母亲为小豆子盖棉袍并离开的事件，明确在时间顺序上紧随其后。两个情节共享同一场合'小豆子拜师仪式'，且描述的事件在叙事顺序上呈现清晰的先后关系。",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cd5beea627d5",
+    "subject_id": "ep_8a2efddc81a31fe7",
+    "object_id": "ep_4c2492e7f83b21ca",
+    "relation_type": "precedes",
+    "reason": "根据相关事件scene_35中的叙述顺序，小豆子先绕过屏风发现张太监与侍女的不当行为，并经历其对现实的扭曲控制（ep_8a2efddc81a31fe7），随后张太监提供水晶壶指令小豆子当众排尿，实施羞辱性仪式（ep_4c2492e7f83b21ca）。两个情节发生在同一场景，但前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e6c4a2b8f182",
+    "subject_id": "ep_930f0c8ba6e6fe1e",
+    "object_id": "ep_1d11746da1cdd528",
+    "relation_type": "precedes",
+    "reason": "‘潜入戏园观看京剧演出’描述了小豆子和小癞子进入戏园并开始观看表演的过程，包括他们改善视野以观看霸王出场和武打场面，这构成叙事的早期阶段；而‘被表演震撼并情绪崩溃’发生在他们持续观看之后，聚焦于小癞子失声痛哭和小豆子含泪凝视的高潮反应，明确在时间顺序上紧随其后。两个情节共享同一场合‘戏园京剧演出 (scene_23)’，且事件序列在描述中呈现清晰的先后顺序。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c49ca687ac1a",
+    "subject_id": "ep_e0e3c604128ec9b3",
+    "object_id": "ep_ab4e7c4a37f3dc77",
+    "relation_type": "precedes",
+    "reason": "在前往戏园的车上，蝶衣追忆首次演出《霸王别姬》的地点（ep_e0e3c604128ec9b3），随后蝶衣和晓楼抵达戏园并接受群众欢迎（ep_ab4e7c4a37f3dc77）。文本中事件发生的顺序表明追忆情节在抵达戏园之前，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7f378a5ccf06",
+    "subject_id": "ep_ab4e7c4a37f3dc77",
+    "object_id": "ep_2861826f84b04aae",
+    "relation_type": "precedes",
+    "reason": "根据描述，蝶衣和晓楼先抵达戏园接受群众欢迎（ep_ab4e7c4a37f3dc77），随后在走下楼梯时被学生围堵发生冲突（ep_2861826f84b04aae）。两个情节均发生在scene_41，但抵达戏园是进入场地的初始事件，围堵发生在之后的下楼梯过程中，具有明确的叙事时序先后。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dfcd9f99f920",
+    "subject_id": "ep_c62933a0d034ae9e",
+    "object_id": "ep_601fcccc05a26c30",
+    "relation_type": "precedes",
+    "reason": "晓楼宣布为菊仙举办定亲礼（ep_c62933a0d034ae9e）在叙事顺序上早于他要求蝶衣接受菊仙并担任证婚人（ep_601fcccc05a26c30），因为宣布仪式是定亲礼场合的开端，而要求蝶衣参与是该场合后续的具体行动。两个情节共享同一场合（定亲礼）和场景（scene_50），且逻辑上宣布仪式必须先于对蝶衣的具体要求。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_28195478ec48",
+    "subject_id": "ep_cf73bee00aacefaf",
+    "object_id": "ep_d1efd918eeb8f1af",
+    "relation_type": "precedes",
+    "reason": "在‘愤怒退场与即时道歉’中，程蝶衣因段晓楼失言而怒起，段晓楼立即道歉，情感冲突尚在可修复范围内；随后在‘现实劝解与最终离去’中，段晓楼以现实为由劝解，程蝶衣沉默离去，标志着关系的彻底决裂。两个情节发生在同一场景（scene_46），且叙事顺序上前者先发生，后者承接并推进情感走向终结，因此主体情节在话语顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_89791c55d516",
+    "subject_id": "ep_f7fa42feb37fd294",
+    "object_id": "ep_069c77905e3444eb",
+    "relation_type": "precedes",
+    "reason": "强制小豆子开始受罚训练（ep_f7fa42feb37fd294）是老师爷施加惩罚的初始行为，包括按压、加砖和捏伤手，而小石头暗中援助小豆子并辩解（ep_069c77905e3444eb）发生在同一场景（scene_11）中后续的应对行为，文本暗示了时间上的先后顺序：先有惩罚施加，后有同伴援助与辩解。",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_50f7ceca8a15",
+    "subject_id": "ep_531e462c3f1af980",
+    "object_id": "ep_107cec3787311e4d",
+    "relation_type": "precedes",
+    "reason": "根据描述，程蝶衣在袁四爷居所中发现剑并听其讲述来历（ep_531e462c3f1af980）发生在同一场景（scene_51）中程蝶衣醉唱《霸王别姬》并横剑于颈（ep_107cec3787311e4d）之前。文本中‘袁四爷赠剑的强烈情感语境’暗示赠剑与剑的来历揭示为后续表演性高潮提供了情绪铺垫，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_51_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c516e7bbe0c3",
+    "subject_id": "ep_f7fa42feb37fd294",
+    "object_id": "ep_0821a1601aed067c",
+    "relation_type": "precedes",
+    "reason": "强制小豆子开始受罚训练是老师爷施加惩罚的初始行为，发生在小癞子安慰小豆子并自我逞强之前，两者共享同一场合'梨园行练功训练 (scene_11)'，且叙事顺序上前者为后者提供情境基础。",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1e7ff3dd9b84",
+    "subject_id": "ep_069c77905e3444eb",
+    "object_id": "ep_54fd34aa27778018",
+    "relation_type": "contrasts_with",
+    "reason": "小石头主动援助并机智辩解的情节与小豆子被动承受痛苦并担忧同伴的情节形成情感与行为上的对比，二者在同一训练场合中并置，突显了不同角色在压力下的反应差异。",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_69fc43ce3a29",
+    "subject_id": "ep_996b0d8bf23735ba",
+    "object_id": "ep_b6286591ef54d3aa",
+    "relation_type": "precedes",
+    "reason": "菊仙在台下观看演出并反应发生在她离场中断观看之前，根据叙事顺序，观看行为先于中断行为，且两个情节共享同一场合'舞台上的戏曲演出'，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_28dcf0674653",
+    "subject_id": "ep_556dafeaffc36720",
+    "object_id": "ep_63a6349ecfb508a4",
+    "relation_type": "precedes",
+    "reason": "主体情节中晓楼打探菊仙下落并展示野心，发生在其坐下后被嫖客围堵之前。根据描述顺序和事件流，晓楼先与彩凤互动，随后坐下引发嫖客包围，叙事时间线上有明确先后顺序。",
+    "source_documents": [
+      "scene_42__2_part_1",
+      "scene_42__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9ae8370d5604",
+    "subject_id": "ep_0821a1601aed067c",
+    "object_id": "ep_54fd34aa27778018",
+    "relation_type": "contrasts_with",
+    "reason": "小癞子通过自我逞强表现无所畏惧，而小豆子在承受痛苦的同时仍担忧同伴，两者在应对压力时的心理状态形成情感上的对比：一个外显坚强，一个内敛关怀。这种并置突出了角色性格和情绪反应的差异，符合对比关系的定义。",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ecc30eb571c4",
+    "subject_id": "ep_1fca83581f916a5d",
+    "object_id": "ep_2861826f84b04aae",
+    "relation_type": "precedes",
+    "reason": "蝶衣和晓楼乘车途经游行并发表评论发生在他们走下楼梯被学生围堵之前，两个情节均发生在scene_41，但乘车经过是目睹游行的初始接触，随后才发生围堵冲突，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9f767926fa2a",
+    "subject_id": "ep_9c3e2780adc445fe",
+    "object_id": "ep_2f4eb99e3b003bae",
+    "relation_type": "causes",
+    "reason": "戏园老板考察小豆子资质（包括询问学戏经历和要求表演《思凡》）直接为其后续对小豆子未来发展的评价提供了依据和基础，文本明确指出该考察推动了对其潜力的判断，构成直接因果关系。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9144347c5149",
+    "subject_id": "ep_531e462c3f1af980",
+    "object_id": "ep_136d18d90d508f25",
+    "relation_type": "precedes",
+    "reason": "根据描述，袁四爷揭示剑的来历并建立情感联结发生在程蝶衣情绪崩溃前，为后续亲密确认提供情绪铺垫，且两个情节均发生在scene_51中，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_51_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_46541fed4bf9",
+    "subject_id": "ep_087daa0b692e539b",
+    "object_id": "ep_1ff663f9377a4731",
+    "relation_type": "precedes",
+    "reason": "蝶衣与晓楼在镜中相依的亲密互动发生在袁四爷突访之前，根据场景描述，袁四爷的进入打断了这一私密时刻，表明前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9f6df4ae8f1a",
+    "subject_id": "ep_63a6349ecfb508a4",
+    "object_id": "ep_fb9d059f1bbb1b50",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对嫖客围堵与维护控制'中，晓楼阻止嫖客拉扯菊仙，发生在菊仙被追出房间并威胁跳楼之前，叙事顺序上明确早于客体情节'介入菊仙被围困危机'，且两个情节共享同一场合和文档，事件序列连续。",
+    "source_documents": [
+      "scene_42__2_part_1",
+      "scene_42__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ea362197357d",
+    "subject_id": "ep_087be9e3feb7c172",
+    "object_id": "ep_593fc29621bc65de",
+    "relation_type": "precedes",
+    "reason": "小豆子独唱赢得观众喝彩发生在霸王虞姬对手戏之前，两者均在张太监寿辰堂会（scene_31）中按顺序展开，文本暗示小豆子独唱为后续对手戏铺垫，且叙事上独唱先于对手戏高潮，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_31_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_64b2ba9a3b43",
+    "subject_id": "ep_9c3e2780adc445fe",
+    "object_id": "ep_1030328041d4ec14",
+    "relation_type": "precedes",
+    "reason": "戏园老板考察小豆子资质的情节中，要求小豆子表演《思凡》是引发其后续表演失误的直接前提。两个情节均发生在同一场合‘戏园老板视察戏班排练’中，且事件序列显示考察行为在先，表演失误紧随其后，构成明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_34a6107e0fe3",
+    "subject_id": "ep_0960085cdbd4b0c8",
+    "object_id": "ep_54fd34aa27778018",
+    "relation_type": "contrasts_with",
+    "reason": "小石头执行惩罚仪式是公开的、仪式化的身体规训过程，而小豆子持续承受痛苦并担忧同伴则聚焦于内在情感与身体伤痛的交织；两者在同一练功场合下并置，突显外在惩罚执行与内在情感牵连的对比。",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_f66f0b48b615",
+    "subject_id": "ep_09ab786b696cc698",
+    "object_id": "ep_dcd36a5b94ec6675",
+    "relation_type": "precedes",
+    "reason": "小豆子焚烧棉袍的情节发生在小石头踢灭油灯之前，两者均处于同一冬夜集体住宿场合中。根据描述顺序和事件逻辑，小豆子的抗议行为先发生，随后小石头通过讲述趣事安抚气氛并最终熄灯结束夜晚，因此存在明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3e2f2af291db",
+    "subject_id": "ep_c3889750fb6f374c",
+    "object_id": "ep_9c3e2780adc445fe",
+    "relation_type": "precedes",
+    "reason": "‘迎接并讨好戏园老板’是关师傅带领戏班对戏园老板视察的初始反应，发生在戏园老板开始考察小豆子资质之前。两个情节共享同一场合‘戏园老板视察戏班排练’，且逻辑顺序上，讨好行为为后续考察创造了情境，因此在叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4b3480775335",
+    "subject_id": "ep_33023486108f7443",
+    "object_id": "ep_3c0547ea5a6609bc",
+    "relation_type": "precedes",
+    "reason": "根据描述，关师傅评估小豆子的学戏条件并拒收发生在小豆子娘恳求并交付小豆子入戏班之前。拒收后，母亲才下跪恳求并强行带小豆子离开，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_73b16bdc7dd2",
+    "subject_id": "ep_069c77905e3444eb",
+    "object_id": "ep_0821a1601aed067c",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均发生在同一训练场合（梨园行练功训练 scene_11），且都涉及对小豆子受苦时的同伴反应。小石头通过实际行动暗中援助并机智辩解，而小癞子则通过言语安慰和自我逞强来应对。两者在行为方式上形成对比：一个侧重外部干预与策略应对，另一个侧重内部心理支撑与情绪表达，体现出应对困境的不同模式。",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b9b57286bafa",
+    "subject_id": "ep_3c0547ea5a6609bc",
+    "object_id": "ep_c1294c56a58e1f2f",
+    "relation_type": "precedes",
+    "reason": "恳求并交付小豆子入戏班发生在小豆子被强制纠正性别认同表达之前，因为小豆子必须先进入戏班，随后在训练中因背诵错误而遭到纠正，叙事顺序明确。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fa6592a4a23b",
+    "subject_id": "ep_33023486108f7443",
+    "object_id": "ep_f7fa42feb37fd294",
+    "relation_type": "precedes",
+    "reason": "评估小豆子的学戏条件并拒收发生在老师爷强制其开始受罚训练之前。文本中，关师傅因六指拒收小豆子是初始事件，随后老师爷强行将其带入练功棚开始训练，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7687ee7847e5",
+    "subject_id": "ep_3c0547ea5a6609bc",
+    "object_id": "ep_a2157a89aef85a6f",
+    "relation_type": "precedes",
+    "reason": "恳求并交付小豆子入戏班发生在小豆子正式拜师之前，文本中母亲交付孩子是进入戏班的前提，随后在另一场景中进行拜师仪式的法律与象征性程序，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a5d8bb74879f",
+    "subject_id": "ep_4a8c983557f59ec8",
+    "object_id": "ep_63a6349ecfb508a4",
+    "relation_type": "precedes",
+    "reason": "主体情节'启动接客与安排陪客'描述了老鸨召集姑娘们接客并将彩凤介绍给晓楼，这是互动的开端；客体情节'应对嫖客围堵与维护控制'发生在晓楼坐下后被嫖客包围，事件序列在相同场合（妓院接客场合）中推进，且'坐下'等动作紧随前一情节的安排之后，表明叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_42__2_part_1",
+      "scene_42__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_71940d6a8ee4",
+    "subject_id": "ep_3c0547ea5a6609bc",
+    "object_id": "ep_d3ffa30f3d51ca3e",
+    "relation_type": "precedes",
+    "reason": "恳求并交付小豆子入戏班发生在小豆子被纠正错误并施加惩罚之前，因为小豆子必须先进入戏班才能在后续训练中因背诵出错而受到惩罚。文本中交付是初始情节，惩罚是后续训练中的事件，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9c2df0dbf494",
+    "subject_id": "ep_c3889750fb6f374c",
+    "object_id": "ep_2f4eb99e3b003bae",
+    "relation_type": "elaborates",
+    "reason": "情节'迎接并讨好戏园老板'中，戏园老板视察戏班排练并质疑演出水平，为后续'评价小豆子的未来发展'提供了上下文背景；后者通过聚焦小豆子个体潜力的评价，进一步扩展和深化了前者所呈现的视察场景的意义，体现出从集体表现到个体认可的叙事延伸。两个情节共享同一场合，且后者在话语上补充了前者的意图和结果。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ec44d6bd6965",
+    "subject_id": "ep_43ec4385e8e97c39",
+    "object_id": "ep_05f6c179f7618c84",
+    "relation_type": "precedes",
+    "reason": "逃场归来被老师爷发现这一情节发生在惩罚小癞子以儆效尤之前，因为小癞子擅自离场是其被体罚的直接原因，且叙事上先有逃场被发现，后有公开惩罚。",
+    "source_documents": [
+      "scene_17-13_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a199f058e6a1",
+    "subject_id": "ep_4a8c983557f59ec8",
+    "object_id": "ep_556dafeaffc36720",
+    "relation_type": "precedes",
+    "reason": "启动接客与安排陪客情节中，晓楼提出想见菊仙但被告知其外出，随后老鸨将彩凤介绍给晓楼；在打探菊仙下落并展示野心情节中，晓楼进一步向彩凤打听菊仙位置并展现态度。两个情节共享同一场合，且事件序列在描述中呈现清晰的先后顺序：先安排陪客，再在互动中打探下落。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_42__2_part_1",
+      "scene_42__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9a8b93fc6b5d",
+    "subject_id": "ep_3c0547ea5a6609bc",
+    "object_id": "ep_1030328041d4ec14",
+    "relation_type": "precedes",
+    "reason": "情节'恳求并交付小豆子入戏班'发生在小豆子进入戏班的初始阶段（doc_6），而'小豆子表演失误引发危机'发生在后续排练场景中（doc_27），文本时间顺序明确支持前者早于后者。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_07ce95519413",
+    "subject_id": "ep_3c0547ea5a6609bc",
+    "object_id": "ep_0c7be6444af84db5",
+    "relation_type": "precedes",
+    "reason": "情节'恳求并交付小豆子入戏班'发生在小豆子进入戏班之初，是其学艺生涯的起点；而'纠正小豆子的《思凡》唱词'发生在后续训练阶段，文本中老师爷已开始教授具体唱段。因此，交付入戏班在叙事顺序上明确早于纠正唱词事件。",
+    "source_documents": [
+      "scene_17-13_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_21beaf18b79b",
+    "subject_id": "ep_05f6c179f7618c84",
+    "object_id": "ep_3f706dc89bf1cc84",
+    "relation_type": "precedes",
+    "reason": "惩罚小癞子以儆效尤发生在小癞子之死之前，文本中老师爷因小癞子犯错而体罚他，而后续情节中小癞子已上吊身亡，表明体罚事件在叙事时间线上早于其死亡事件。",
+    "source_documents": [
+      "scene_17-13_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7cdb69be7c73",
+    "subject_id": "ep_549c93ce1356184f",
+    "object_id": "ep_1ff663f9377a4731",
+    "relation_type": "precedes",
+    "reason": "根据描述，'卸妆中表达艺术尊严'发生在蝶衣为晓楼卸妆并交谈的过程中，而'袁四爷突访打破私密氛围'是在此亲密时刻被袁四爷进入化妆间打断，表明前者在叙事顺序上紧接在后者之前发生。两个情节共享同一场合'北平戏曲演出后的后台会面'，且事件序列显示私密对话先进行，随后被外部介入打断，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b6d6a67f23a9",
+    "subject_id": "ep_3c0547ea5a6609bc",
+    "object_id": "ep_6b493bc869bc5944",
+    "relation_type": "precedes",
+    "reason": "小豆子被母亲交付给戏班（ep_3c0547ea5a6609bc）是其进入科班的初始步骤，而聆听关师傅讲述《霸王别姬》（ep_6b493bc869bc5944）发生在科班教学仪式中，逻辑上和叙事顺序上必然在此之后。related_events 和场景上下文支持这一时间先后关系。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3f867c342a69",
+    "subject_id": "ep_fb9d059f1bbb1b50",
+    "object_id": "ep_caf3da20377e7026",
+    "relation_type": "precedes",
+    "reason": "介入菊仙被围困危机（ep_fb9d059f1bbb1b50）包含菊仙跳楼并被晓楼接住的事件，该事件在叙事顺序上直接早于揭露羞辱经历并驱散施暴者（ep_caf3da20377e7026），后者发生在菊仙获救后控诉嫖客的行为。两个情节共享同一场合（妓院接客场合），且事件序列在描述中呈现清晰的时间先后：先跳楼获救，后控诉施暴者。",
+    "source_documents": [
+      "scene_42__2_part_1",
+      "scene_42__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1fca6a6f3067",
+    "subject_id": "ep_63a6349ecfb508a4",
+    "object_id": "ep_caf3da20377e7026",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对嫖客围堵与维护控制'中描述的事件（如晓楼打喷嚏、菊仙发笑、嫖客拉扯菊仙、晓楼出声阻止）在叙事顺序上直接早于客体情节'揭露羞辱经历并驱散施暴者'中菊仙控诉被强迫喂酒、辱骂嫖客并导致他们逃离的事件。两个情节共享同一场合（妓院接客场合），且事件序列在同一场景（scene_42__2）中连续展开，支持清晰的时间先后关系。",
+    "source_documents": [
+      "scene_42__2_part_1",
+      "scene_42__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_494ad0d7dcf4",
+    "subject_id": "ep_6b493bc869bc5944",
+    "object_id": "ep_087be9e3feb7c172",
+    "relation_type": "elaborates",
+    "reason": "聆听霸王别姬的教诲这一情节中，关师傅讲述《霸王别姬》的历史与做人道理，使小豆子深受触动，为后续小豆子在舞台上深情演唱《霸王别姬》选段并赢得喝彩提供了情感和理解上的准备。该教学情节扩展了小豆子表演成功背后的内在动机与精神传承，因此前者为后者提供了背景和深层解释。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_74e0a2539b68",
+    "subject_id": "ep_3c0547ea5a6609bc",
+    "object_id": "ep_338fcd5afcb7cddb",
+    "relation_type": "precedes",
+    "reason": "情节'恳求并交付小豆子入戏班'发生在小豆子被送入戏班的初始阶段，是整个叙事的开端；而'小豆子挺身代罚'发生在戏班内部，涉及小豆子已入班后的事件。根据叙事逻辑和事件发展顺序，交付入班必须先于其后的体罚事件。因此，该关系为'precedes'，方向为交付情节在前，代罚情节在后。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b958b09c7863",
+    "subject_id": "ep_3c0547ea5a6609bc",
+    "object_id": "ep_087be9e3feb7c172",
+    "relation_type": "precedes",
+    "reason": "情节'恳求并交付小豆子入戏班'发生在小豆子进入戏班的初始阶段，是其成为戏班学员的起点；而'小豆子独唱赢得观众喝彩'发生在正式演出场合，依赖于此前接受训练的前提。文本中两个情节分别关联不同场景（scene_6 与 scene_31），且事件序列逻辑上要求先有入班交付，才可能有后续舞台表演，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c0b0d9c3d144",
+    "subject_id": "ep_05f6c179f7618c84",
+    "object_id": "ep_338fcd5afcb7cddb",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节都涉及学徒接受体罚，但动机和性质截然不同：前者是老师爷为惩戒小癞子而施加的公开惩罚，以儆效尤；后者是小豆子为保护师哥而主动代罚，体现自我牺牲。两者在行为动机（被动受罚 vs 主动承担）和道德基调（惩戒 vs 英勇）上形成明显对比，构成叙事上的对照关系。",
+    "source_documents": [
+      "scene_17-13_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_9a1af4edb81b",
+    "subject_id": "ep_3c0547ea5a6609bc",
+    "object_id": "ep_f7fa42feb37fd294",
+    "relation_type": "precedes",
+    "reason": "主体情节‘恳求并交付小豆子入戏班’描述小豆子被母亲交付给戏班的过程，发生在戏班接收之后；客体情节‘强制小豆子开始受罚训练’描述老师爷立即开始对小豆子进行严酷训练。根据叙事顺序，交付是进入戏班的第一步，训练紧随其后，且相关事件（如拽离庭院）在时间上先于练功棚中的惩罚行为。因此，主体情节在话语和叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2cce2a23b9a6",
+    "subject_id": "ep_0c7be6444af84db5",
+    "object_id": "ep_c1294c56a58e1f2f",
+    "relation_type": "elaborates",
+    "reason": "‘纠正小豆子的《思凡》唱词’描述了小豆子反复误唱及老师爷的质问，而‘强制纠正小豆子的性别认同表达’进一步揭示了该过程中通过体罚强制其接受女性角色的深层控制，提供了关于如何纠正的额外细节和背景，扩展了前一情节。两个情节共享同一教学场景上下文，且后者在描述中包含对前者行为的强化与深化。",
+    "source_documents": [
+      "scene_17-13_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_84b016dbfbcd",
+    "subject_id": "ep_0c7be6444af84db5",
+    "object_id": "ep_d3ffa30f3d51ca3e",
+    "relation_type": "elaborates",
+    "reason": "‘纠正小豆子的《思凡》唱词’描述了小豆子因唱错词而被老师爷质问和讽刺，而‘纠正小豆子的错误并施加惩罚’进一步展示了把式爷和老师爷对小豆子的训斥与体罚，包括手部受伤的后果。后者通过提供更多细节和结果扩展了前者，表明错误未被立即纠正而导致升级的惩罚，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_17-13_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4c1c5b478300",
+    "subject_id": "ep_f98caa7fe667e8a9",
+    "object_id": "ep_05f6c179f7618c84",
+    "relation_type": "elaborates",
+    "reason": "‘纠正小癞子的戏文背诵错误’展示了老师爷因小癞子在训练中犯错而进行体罚的具体实例，而‘惩罚小癞子以儆效尤’则呈现了类似体罚行为在更公开、更具震慑意图的背景下发生。后者通过强调惩罚的公开性和对其他学徒的影响，扩展并深化了前者所体现的纪律机制，提供了更广泛的叙事功能和上下文意义。因此，前者为后者提供了具体行为范例，后者反过来丰富了前者的社会功能和目的。",
+    "source_documents": [
+      "scene_17-13_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a4c994397eb7",
+    "subject_id": "ep_3bd8ef5f7f7fe364",
+    "object_id": "ep_d3ffa30f3d51ca3e",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'纠正小豆子的错误并施加惩罚'（scene_18）发生在'小石头求情并激化冲突'（scene_26）之前，scene_18早于scene_26，因此该关系在叙事顺序上明确支持precedes。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b1bc799fba3b",
+    "subject_id": "ep_0c7be6444af84db5",
+    "object_id": "ep_5d5f295df3bbc35d",
+    "relation_type": "precedes",
+    "reason": "老师爷在惩罚小癞子后转向小豆子并质问其《思凡》唱词错误，此事件发生在小石头实施身体惩罚之前。文本中描述的顺序是：老师爷先发现小豆子唱错并加以训斥，随后小石头接手并带至练功棚进行进一步惩戒。因此，'纠正小豆子的《思凡》唱词'在叙事顺序上直接早于'小石头实施惩戒以纠正小豆子'。",
+    "source_documents": [
+      "scene_17-13_part_1",
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2495f84b654b",
+    "subject_id": "ep_0c7be6444af84db5",
+    "object_id": "ep_1030328041d4ec14",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述老师爷在惩罚小癞子后纠正小豆子唱词的场景，聚焦于小豆子反复误唱‘我本是女娇娥’为‘我本是男儿郎’，体现其性别认同的错位；第二个情节描述小豆子在正式排练中因同样问题导致表演中断，引发戏园老板关注和危机。两个情节围绕同一核心事件（小豆子唱错《思凡》台词）展开，后者在更公开和紧张的场合重现并扩展了前者的冲突，展示了该失误的后果和外部影响，因此前者为后者提供了背景和铺垫，构成 elaborates 关系。",
+    "source_documents": [
+      "scene_17-13_part_1",
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_740a804a9961",
+    "subject_id": "ep_7e6b70139d85fe6f",
+    "object_id": "ep_f98caa7fe667e8a9",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均发生在同一场合‘戏曲学徒背戏训练课’，小石头准确背诵仍被惩戒，而小癞子因忘词被纠正，二者在行为结果上形成对比：正确表现未获奖励反而受警示，错误行为则受到直接惩罚，凸显老师爷严苛的训练方式。",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_64d30c945e96",
+    "subject_id": "ep_c32626c30a521133",
+    "object_id": "ep_0960085cdbd4b0c8",
+    "relation_type": "precedes",
+    "reason": "关师傅惩戒并训诫小石头（ep_c32626c30a521133）发生在小石头因结党被罚执行仪式（ep_0960085cdbd4b0c8）之前，根据事件序列，体罚和训诫是针对表现不佳的即时反应，而惩罚仪式是后续正式流程，二者在叙事顺序上有清晰先后。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_2__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f5b1b16ccc33",
+    "subject_id": "ep_f7fa42feb37fd294",
+    "object_id": "ep_c1294c56a58e1f2f",
+    "relation_type": "precedes",
+    "reason": "‘强制小豆子开始受罚训练’发生在练功棚（scene_11），而‘强制纠正小豆子的性别认同表达’发生在背诵《思凡》的训练课（scene_16），根据场景编号的顺序，前者在叙事时间上早于后者，构成明确的时间先后关系。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d7ffedd3d8a3",
+    "subject_id": "ep_3b7fb6dc523804a7",
+    "object_id": "ep_43ec4385e8e97c39",
+    "relation_type": "precedes",
+    "reason": "情节 '追捕并制服逃跑的小癞子' 发生在猴戏表演过程中（scene_2），而 '逃场归来被老师爷发现' 发生在演出结束后返回胡同时（scene_23），文本中 scene_2 早于 scene_23，因此前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_49f8256441c4",
+    "subject_id": "ep_c1294c56a58e1f2f",
+    "object_id": "ep_f98caa7fe667e8a9",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均发生在同一场合‘戏曲学徒背戏训练课 (scene_16)’，且都涉及老师爷通过体罚纠正学徒的戏文错误，但对象和具体内容不同：小豆子因坚持性别认同表达被强制纠正，而小癞子因忘词被惩罚。二者并置突出了不同错误类型与规训方式的对比，强调了训练环境的严苛与个体差异。",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e8631a9de154",
+    "subject_id": "ep_3b7fb6dc523804a7",
+    "object_id": "ep_3f706dc89bf1cc84",
+    "relation_type": "precedes",
+    "reason": "追捕并制服逃跑的小癞子发生在地坛猴戏表演期间（scene_2），而小癞子之死引发集体震惊发生在后续场景（scene_26），文档时序明确显示前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_2_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9ada9534b21f",
+    "subject_id": "ep_0960085cdbd4b0c8",
+    "object_id": "ep_3bd8ef5f7f7fe364",
+    "relation_type": "precedes",
+    "reason": "小石头执行惩罚仪式（ep_0960085cdbd4b0c8）发生在关师傅施暴和小石头反抗之前，根据描述，仪式是惩罚的开始阶段，而求情与冲突激化是后续升级，叙事顺序明确支持前者早于后者。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_384bb7647c5f",
+    "subject_id": "ep_c3889750fb6f374c",
+    "object_id": "ep_087be9e3feb7c172",
+    "relation_type": "precedes",
+    "reason": "‘迎接并讨好戏园老板’发生在戏园老板视察戏班排练的场合（scene_27__2），而‘小豆子独唱赢得观众喝彩’发生在张太监寿辰堂会（scene_31），scene_27__2在文档顺序上早于scene_31，且前者为争取演出机会，后者为实际演出成功，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1aeff4839fc6",
+    "subject_id": "ep_338fcd5afcb7cddb",
+    "object_id": "ep_3f706dc89bf1cc84",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_26，但根据叙事逻辑，小豆子挺身代罚是关师傅施加体罚的直接场景，而小癞子之死的消息随后被报告，引发集体震惊。文本中老师爷报告噩耗发生在体罚之后，因此‘小豆子挺身代罚’在叙事顺序上早于‘小癞子之死引发集体震惊’。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_688e50955126",
+    "subject_id": "ep_0c7be6444af84db5",
+    "object_id": "ep_f7fa42feb37fd294",
+    "relation_type": "precedes",
+    "reason": "根据描述，'纠正小豆子的《思凡》唱词'发生在老师爷对小豆子进行质问和讽刺的场景中（scene_17-13），而'强制小豆子开始受罚训练'发生在scene_11。尽管scene_11在文档顺序上早于scene_17-13，但'纠正唱词'是训练失败后的直接反应，逻辑上应晚于初始训练惩罚。然而，'强制受罚训练'描述的是训练的开始，且包含'人前显贵，人后受罪'的训诫，属于基础训练建立阶段，而纠正唱词是后续具体纠正行为。结合叙事逻辑与事件发展顺序，'强制开始受罚训练'作为基础训练阶段，应先于针对唱词错误的具体纠正情节。因此，'强制小豆子开始受罚训练'在叙事顺序上早于'纠正小豆子的《思凡》唱词'，支持precedes关系。",
+    "source_documents": [
+      "scene_17-13_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3bbd0bd3e21e",
+    "subject_id": "ep_087be9e3feb7c172",
+    "object_id": "ep_43ec4385e8e97c39",
+    "relation_type": "precedes",
+    "reason": "小豆子在舞台上成功表演《霸王别姬》选段并赢得喝彩（ep_087be9e3feb7c172）发生在张太监寿辰堂会期间，而逃场归来被老师爷发现（ep_43ec4385e8e97c39）描述的是演出结束后小豆子与小癞子返回胡同被发现的情节。根据叙事时间顺序，表演发生于逃场归来之前，因此前者在话语顺序上先于后者。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_50551b92b1e4",
+    "subject_id": "ep_97219ad2f5691db2",
+    "object_id": "ep_edab8d19e07f4a1c",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'小豆子将受伤的手浸入水中并抗拒拉出' 发生在 scene_19，而 '处理伤口并提醒仪式准备' 发生在 scene_20，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_527db2f9ccb5",
+    "subject_id": "ep_f7fa42feb37fd294",
+    "object_id": "ep_3bd8ef5f7f7fe364",
+    "relation_type": "precedes",
+    "reason": "‘强制小豆子开始受罚训练’发生在练功棚内，由老师爷主导，是小豆子训练的初始阶段；而‘小石头求情并激化冲突’发生在后续场景中，涉及关师傅对小石头的暴力升级。根据叙事顺序，训练开始早于冲突激化，且两个情节在文档中分别属于scene_11和scene_26，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_98a1c9836495",
+    "subject_id": "ep_2b32c3e5286cde00",
+    "object_id": "ep_edab8d19e07f4a1c",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'处理伤口并提醒仪式准备'发生在scene_20，而'小豆子与小石头告别'发生在scene_21，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b04aaf63e19a",
+    "subject_id": "ep_2ce8f9f42a4db9ac",
+    "object_id": "ep_90c31c53a1cfcadb",
+    "relation_type": "precedes",
+    "reason": "主体情节'围绕真剑展开的戏谑与承诺'发生在场景33，客体情节'小豆子安慰小石头并被带离'发生在场景34，根据文档中场景编号的顺序，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_33_part_1",
+      "scene_34_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_df0f6e885a43",
+    "subject_id": "ep_8d204674f36c2309",
+    "object_id": "ep_035f55373cad3c27",
+    "relation_type": "precedes",
+    "reason": "情节 '小石头介入冲突并安抚小豆子' 发生在冬夜孩子们在炕上的集体住宿场景中（scene_10），而 '迎接小豆子并表达关切' 发生在小豆子走出门后立即为其披上衣服的场景（scene_36）。scene_10 在文档时序上早于 scene_36，因此该关系在叙事顺序上有较强支持。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6f81b03ff692",
+    "subject_id": "ep_c1bda018910e8484",
+    "object_id": "ep_edab8d19e07f4a1c",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'小癞子与小豆子策划并实施逃跑' 发生在 scene_21，而 '处理伤口并提醒仪式准备' 发生在 scene_20，因此前者在叙事顺序上晚于后者。但由于关系方向为 subject -> object，此处应判断为 object 在时间上先于 subject，即 subject 情节在 object 之后发生。然而，'precedes' 关系要求主体在前、客体在后，当前主体 ep_c1bda018910e8484 实际发生在客体 ep_edab8d19e07f4a1c 之后，因此不能成立 subject -> object 的 'precedes'。反向关系未被允许输出。综上，尽管存在清晰的时间顺序，但无法以允许的方向表达，故无有效关系可被确认。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_32b5d12803c1",
+    "subject_id": "ep_0132c667bff5b0a9",
+    "object_id": "ep_2b32c3e5286cde00",
+    "relation_type": "precedes",
+    "reason": "小石头与小豆子逃离并被捉回发生在戏班选拔仪式背景下，而小豆子与小石头告别是在逃离即将完成之际发生的最后互动。根据叙事顺序，逃离并被捉回的过程早于告别的发生，因此主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0f09d0d8e5e5",
+    "subject_id": "ep_c1bda018910e8484",
+    "object_id": "ep_0132c667bff5b0a9",
+    "relation_type": "contrasts_with",
+    "reason": "小癞子与小豆子成功策划并实施逃跑，脱离练功棚；而小石头与小豆子的逃跑尝试则在戏班选拔仪式中被立即叫停，凸显了两次逃跑行动在结果上的对立：一次成功逃脱，一次被迅速遏制，形成行动自由与制度压制之间的对比。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_705503fc7214",
+    "subject_id": "ep_92bf1ae7da5b383e",
+    "object_id": "ep_90c31c53a1cfcadb",
+    "relation_type": "precedes",
+    "reason": "小豆子在仪式前的恐惧与逃避发生在戏班选拔或分配角色的仪式之前，而小豆子安慰小石头并被带离发生在该仪式中，因此前者在叙事时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5eb9249e27e4",
+    "subject_id": "ep_92bf1ae7da5b383e",
+    "object_id": "ep_0132c667bff5b0a9",
+    "relation_type": "precedes",
+    "reason": "小豆子在仪式前的恐惧与逃避（ep_92bf1ae7da5b383e）发生在戏班选拔仪式的背景下，而小石头与小豆子逃离并被捉回（ep_0132c667bff5b0a9）同样发生在该仪式过程中，但描述中显示前者是后者中逃跑行为的早期阶段。相关事件如小豆子试图逃跑和被追逐，与后续在走廊逃跑被叫停形成时间上的先后顺序，支持前者在叙事上早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_db1e359881cb",
+    "subject_id": "ep_cb6ed04888381d8a",
+    "object_id": "ep_97219ad2f5691db2",
+    "relation_type": "precedes",
+    "reason": "根据描述，小石头为小豆子洗澡并提醒护手发生在小豆子将受伤的手浸入水中之前，因为提醒护手是引发小豆子抗拒行为的上下文前提，且两个情节共享同一场景（scene_19）中的连续动作序列，支持明确的时间先后顺序。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_66605bb1abcb",
+    "subject_id": "ep_97219ad2f5691db2",
+    "object_id": "ep_2b32c3e5286cde00",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'小豆子将受伤的手浸入水中并抗拒拉出' 发生在 scene_19，而 '小豆子与小石头告别' 发生在 scene_21，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7af941a43989",
+    "subject_id": "ep_0e4a17bbb45178de",
+    "object_id": "ep_2b32c3e5286cde00",
+    "relation_type": "precedes",
+    "reason": "小豆子坚持陪伴小石头入睡发生在故事早期阶段，而小豆子与小石头告别发生在逃离即将完成之际，属于后续情节，文本中叙事顺序明确支持前者早于后者。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bc39dd973c93",
+    "subject_id": "ep_8d204674f36c2309",
+    "object_id": "ep_2b32c3e5286cde00",
+    "relation_type": "contrasts_with",
+    "reason": "小石头介入冲突并安抚小豆子展现关怀与和解努力，而小豆子与小石头告别则体现关系断裂与离别，两者在情感走向和关系状态上形成明显逆转与对比。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_803101b03677",
+    "subject_id": "ep_c4b5d8c3b267b28e",
+    "object_id": "ep_db60f3435d40a3c5",
+    "relation_type": "elaborates",
+    "reason": "小石头在院中受寒修炼的情节提供了他修炼火丹功需在外受寒的背景，这一信息在小石头归来并宣泄悲愤时被明确解释，表明前者为后者的动机和行为提供补充说明。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_08b16279eeb2",
+    "subject_id": "ep_4903446c577e9f1e",
+    "object_id": "ep_2b32c3e5286cde00",
+    "relation_type": "contrasts_with",
+    "reason": "小豆子为小石头披被照料展现亲密关怀，而小豆子与小石头告别则体现关系断裂与离别，两者在情感状态和互动性质上形成明显对比：前者是主动照料与抗拒，后者是告别与象征性决裂，构成情感与行为上的逆转。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a47ce43ea3ed",
+    "subject_id": "ep_92bf1ae7da5b383e",
+    "object_id": "ep_2b32c3e5286cde00",
+    "relation_type": "precedes",
+    "reason": "小豆子在仪式前的恐惧与逃避（doc_8）发生在故事早期拜师仪式场景，而小豆子与小石头告别（doc_20）发生在逃离即将完成之际，属于叙事后期。根据文档ID和情节内容，前者在叙事顺序上明显早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d2a5c79eabb9",
+    "subject_id": "ep_8d204674f36c2309",
+    "object_id": "ep_4903446c577e9f1e",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'小石头介入冲突并安抚小豆子' 发生在 scene_10，而 '小豆子为小石头披被照料' 发生在 scene_12，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a0027428dcfe",
+    "subject_id": "ep_c4b5d8c3b267b28e",
+    "object_id": "ep_4903446c577e9f1e",
+    "relation_type": "precedes",
+    "reason": "小石头在院中受寒修炼（scene_12）后，因寒冷归来，小豆子才为其披被照料，两个情节共享同一场景编号（scene_12），但逻辑上受寒修炼在前，披被照料是对其后果的响应，因此存在明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_85fe59dc31ce",
+    "subject_id": "ep_8d204674f36c2309",
+    "object_id": "ep_3bd8ef5f7f7fe364",
+    "relation_type": "contrasts_with",
+    "reason": "小石头介入冲突并安抚小豆子展现其关怀与调解意图，而小石头求情并激化冲突则显示其干预导致暴力升级；两情节在行为意图与结果上形成明显对比：前者试图缓和关系，后者导致矛盾加剧。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ec499b86f310",
+    "subject_id": "ep_5d5f295df3bbc35d",
+    "object_id": "ep_8d204674f36c2309",
+    "relation_type": "contrasts_with",
+    "reason": "小石头实施惩戒以纠正小豆子体现暴力规训机制，而小石头介入冲突并安抚小豆子展现关怀与和解意图；两个情节通过小石头对小豆子的不同行为方式形成情感与行为上的对比，前者为强制纠正，后者为安抚修复，构成叙事上的对比关系。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2a47c534ba7f",
+    "subject_id": "ep_8d204674f36c2309",
+    "object_id": "ep_0e4a17bbb45178de",
+    "relation_type": "precedes",
+    "reason": "小石头介入冲突并安抚小豆子（ep_8d204674f36c2309）发生在小豆子坚持陪伴小石头入睡（ep_0e4a17bbb45178de）之前，因为安抚行为是小豆子产生依恋并决定共眠的前提。文本中，小石头先递送棉被并坚持关怀，随后小豆子才搂着他入睡，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4d7a391bd75c",
+    "subject_id": "ep_5d5f295df3bbc35d",
+    "object_id": "ep_c1bda018910e8484",
+    "relation_type": "precedes",
+    "reason": "小石头实施惩戒以纠正小豆子的情节（ep_5d5f295df3bbc35d）发生在练功棚内，而小癞子与小豆子策划并实施逃跑的情节（ep_c1bda018910e8484）紧随其后，从小癞子和小豆子逃离练功棚的事件可见时间上的直接延续。文本中两个情节在场景顺序上连续，且后者是前者压迫环境的直接结果，但因果关系未被明确陈述；然而，叙事顺序明确支持前者早于后者。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0f123d8bb939",
+    "subject_id": "ep_92bf1ae7da5b383e",
+    "object_id": "ep_338fcd5afcb7cddb",
+    "relation_type": "precedes",
+    "reason": "小豆子在仪式前的恐惧与逃避（ep_92bf1ae7da5b383e）发生在拜师仪式场景（scene_8），而小豆子挺身代罚（ep_338fcd5afcb7cddb）发生在场景26，scene_8在叙事顺序上早于scene_26，因此该关系为precedes。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_69beb77a8d37",
+    "subject_id": "ep_069c77905e3444eb",
+    "object_id": "ep_338fcd5afcb7cddb",
+    "relation_type": "causes",
+    "reason": "小石头暗中援助小豆子并辩解这一情节中，小石头移除砖块的行为被师傅察觉并引发质问，这直接导致后续小豆子为保护师哥而挺身代罚。文本虽未明说师傅因小石头行为而惩罚，但两情节在因果链上紧密衔接：援助行为暴露风险，进而触发小豆子代罚的牺牲举动，构成直接后果。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_d9a9eaff1b6c",
+    "subject_id": "ep_51e8721edaa2d714",
+    "object_id": "ep_7c309a900f868a87",
+    "relation_type": "precedes",
+    "reason": "重逢并准备复出排练发生在体育馆，是段晓楼与程蝶衣为后续舞台表演所做的准备活动；展开《霸王别姬》的舞台表演发生在舞台演出场景，时间与叙事顺序上紧随其后。相关事件和场合表明前者为排练准备，后者为正式表演，具有明确的先后顺序。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f7179e2c91aa",
+    "subject_id": "ep_2861826f84b04aae",
+    "object_id": "ep_6f3a7e2e10bfb7b4",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，蝶衣和晓楼被学生围堵发生在场景41，而完成登台前准备并响应催场发生在场景42，两个情节按顺序连续展开。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e6dca6535718",
+    "subject_id": "ep_069c77905e3444eb",
+    "object_id": "ep_5d5f295df3bbc35d",
+    "relation_type": "contrasts_with",
+    "reason": "小石头在第一个情节中以隐蔽而机智的方式援助小豆子，体现同伴间的温情；而在第二个情节中，他转而使用暴力手段惩戒小豆子，执行戏班规训。两个情节并置，突显小石头角色在关怀与权威之间的行为对比，反映戏班内部复杂的人际与权力动态。这种对立行为模式在描述中形成明确的基调与功能对比。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_e0d3f9f3f365",
+    "subject_id": "ep_6f3a7e2e10bfb7b4",
+    "object_id": "ep_7c309a900f868a87",
+    "relation_type": "precedes",
+    "reason": "完成登台前准备并响应催场发生在舞台表演开始之前，根据描述，晓楼和蝶衣在完成勾脸、回应催场并离开化妆间后，才进入舞台表演环节。因此，该情节在叙事和时间顺序上直接早于《霸王别姬》的舞台表演。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_70fe513ee825",
+    "subject_id": "ep_6f3a7e2e10bfb7b4",
+    "object_id": "ep_549c93ce1356184f",
+    "relation_type": "precedes",
+    "reason": "根据描述，'完成登台前准备并响应催场'发生在演出前的化妆间场景（scene_42），而'卸妆中表达艺术尊严'发生在演出后的化妆间里（scene_44），因此前者在叙事时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ed8249470a05",
+    "subject_id": "ep_e0e3c604128ec9b3",
+    "object_id": "ep_7c309a900f868a87",
+    "relation_type": "elaborates",
+    "reason": "追忆首次演出《霸王别姬》的发祥地这一情节通过回顾二人艺术生涯的起点，为后续舞台表演提供了历史背景和情感铺垫，扩展了对当前表演意义的理解。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_058d36c6b6ad",
+    "subject_id": "ep_92bf1ae7da5b383e",
+    "object_id": "ep_5d5f295df3bbc35d",
+    "relation_type": "precedes",
+    "reason": "小豆子在仪式前的恐惧与逃避（ep_92bf1ae7da5b383e）发生在拜师仪式场景（scene_8），而小石头实施惩戒以纠正小豆子（ep_5d5f295df3bbc35d）发生在练功棚场景（scene_27__2），文档时序表明scene_8早于scene_27__2，因此前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_259c494935a6",
+    "subject_id": "ep_6f3a7e2e10bfb7b4",
+    "object_id": "ep_94d919091a30fe20",
+    "relation_type": "precedes",
+    "reason": "完成登台前准备并响应催场发生在晓楼和蝶衣登台之前，而演绎霸王别姬的悲情离别是他们在舞台上的演出内容，根据叙事顺序，准备登台的情节在时间上直接早于舞台表演情节。相关事件的时间戳（scene_42 vs scene_47）也支持这一先后顺序。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3aef8b66571e",
+    "subject_id": "ep_7c309a900f868a87",
+    "object_id": "ep_549c93ce1356184f",
+    "relation_type": "precedes",
+    "reason": "《霸王别姬》的舞台表演发生在演出后的化妆间对话之前，根据相关场合的场景编号（scene_43 在 scene_44 之前），表明该情节在叙事顺序上早于卸妆中的对话。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dd2eca34b377",
+    "subject_id": "ep_7c309a900f868a87",
+    "object_id": "ep_39f4b97e95d06dad",
+    "relation_type": "precedes",
+    "reason": "《霸王别姬》的舞台表演（scene_43）发生在袁四爷赠礼与评价的会面（scene_44）之前，根据相关场景编号的顺序，情节在叙事时间上明确先后发生。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b3a1bb50c08f",
+    "subject_id": "ep_ab4e7c4a37f3dc77",
+    "object_id": "ep_7c309a900f868a87",
+    "relation_type": "precedes",
+    "reason": "抵达戏园接受群众欢迎与捧场介绍（scene_41）发生在舞台表演开始之前，是演出前的准备与入场环节，而《霸王别姬》的舞台表演（scene_43）在后续场景中展开，具有明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e1edaf49fdac",
+    "subject_id": "ep_51e8721edaa2d714",
+    "object_id": "ep_6f3a7e2e10bfb7b4",
+    "relation_type": "precedes",
+    "reason": "主体情节'重逢并准备复出排练'发生在体育馆，标志着段晓楼与程蝶衣中断二十二年后的重逢和艺术生涯的重新开启；客体情节'完成登台前准备并响应催场'发生在化妆间，涉及登台前的最后准备和催场上场，明显在叙事顺序上紧随其后。两个情节共享复出演出的短期目标，且时间上连续，前者为后者提供上下文，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_1_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_74d672beaaec",
+    "subject_id": "ep_39f4b97e95d06dad",
+    "object_id": "ep_531e462c3f1af980",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中袁四爷通过赠礼和评价确立其戏曲权威地位，第二个情节进一步通过揭示剑的来历和情感寄托深化了他与程蝶衣之间的关系，提供了关于两人情感联结的额外背景，扩展了前一情节的情感与人际维度。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_51_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_67b4189912cb",
+    "subject_id": "ep_20f80d56d3e8302c",
+    "object_id": "ep_531e462c3f1af980",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间和场景顺序，'邀请与婉拒中的社交周旋'（scene_44）发生在'揭示剑的来历并建立情感联结'（scene_51）之前，两者在不同文档和场景编号中呈现明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_51_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1c7dcc525bac",
+    "subject_id": "ep_94d919091a30fe20",
+    "object_id": "ep_d1efd918eeb8f1af",
+    "relation_type": "contrasts_with",
+    "reason": "演绎霸王别姬的悲情离别呈现戏中人物情感的极致投入与艺术化表达，而现实劝解与最终离去展现现实中人物对执念的割舍与沉默决裂，二者在艺术沉浸与现实疏离之间形成情感基调和行为结果上的明显对比。",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e875433aca9d",
+    "subject_id": "ep_7c309a900f868a87",
+    "object_id": "ep_94d919091a30fe20",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述蝶衣与晓楼共同演绎《霸王别姬》选段，构成表演的核心艺术呈现；第二个情节聚焦于同一剧目中霸王与虞姬诀别的悲情离别，通过更具体的情感表达推进叙事。第二个情节在角色情感层面深化了第一个情节的表演内容，提供了更细致的情感叙事单元，因此主体情节被客体情节进一步扩展和丰富。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_10ae2b6f41c1",
+    "subject_id": "ep_20f80d56d3e8302c",
+    "object_id": "ep_83924ff6ba2ac507",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节内容，'邀请与婉拒中的社交周旋'（doc_41）发生在'质问与回避：揭开情感裂痕'（doc_43）之前，且两情节之间无直接因果或对比描述，但叙事时间线上存在明确先后顺序。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fab41bfca140",
+    "subject_id": "ep_83924ff6ba2ac507",
+    "object_id": "ep_92fd097ff98244b5",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中程蝶衣因段晓楼在八大胡同的传闻而表现出情感裂痕，第二个情节中他重提‘从一而终’并跪求共演一生，进一步揭示其将艺术承诺与情感依恋融合的深层心理。第二个情节通过扩展程蝶衣的情感动机和执念，为前一情节中的情绪反应提供更深层解释，构成对前一情节情感内涵的深化与补充。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0371b2f2dab0",
+    "subject_id": "ep_ab4e7c4a37f3dc77",
+    "object_id": "ep_6f3a7e2e10bfb7b4",
+    "relation_type": "precedes",
+    "reason": "根据描述，'抵达戏园接受群众欢迎与捧场介绍'（ep_ab4e7c4a37f3dc77）发生在戏园门口，包含群众迎接、小孩叫卖冰糖葫芦和戏园老板介绍袁四爷捧场等事件；而'完成登台前准备并响应催场'（ep_6f3a7e2e10bfb7b4）发生在化妆间内，涉及勾脸完成、回应催场并准备登台。这两个情节在空间和叙事顺序上连续：先抵达戏园，随后进入后台准备登台。文本中相关事件的时间和场景逻辑支持前者在后者之前发生。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_af9e8c1fe6c3",
+    "subject_id": "ep_92fd097ff98244b5",
+    "object_id": "ep_cf73bee00aacefaf",
+    "relation_type": "precedes",
+    "reason": "根据描述，程蝶衣先重申誓言并跪下恳求（ep_92fd097ff98244b5），随后在段晓楼继续说笑时愤怒离席（ep_cf73bee00aacefaf），两个情节发生在同一场景（scene_46）中，且行为顺序明确，前者在叙事上直接早于后者。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_322b7fc073f3",
+    "subject_id": "ep_83924ff6ba2ac507",
+    "object_id": "ep_601fcccc05a26c30",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，'质问与回避：揭开情感裂痕'发生在段晓楼与菊仙定亲之前，程蝶衣因晓楼在八大胡同的传闻而质问，表现出两人关系的早期裂痕；而'晓楼要求蝶衣接受菊仙并担任证婚人'发生在定亲礼现场，是关系公开化的节点。因此，前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5b3ef1fe9eab",
+    "subject_id": "ep_087daa0b692e539b",
+    "object_id": "ep_83924ff6ba2ac507",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节描绘蝶衣与晓楼在卸妆过程中通过身体接触和镜中相依展现亲密情感联结，氛围细腻柔和；第二个情节则展现蝶衣因晓楼在八大胡同的传闻而质问，情感裂痕初现，晓楼轻描淡写回应，形成情感亲密与疏离的对比。两个情节在情感状态和互动质量上形成明显逆转，支持'contrasts_with'关系。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_5683ef344aa4",
+    "subject_id": "ep_087daa0b692e539b",
+    "object_id": "ep_6f3a7e2e10bfb7b4",
+    "relation_type": "precedes",
+    "reason": "根据描述，'调整姿势中的亲密互动'发生在蝶衣为晓楼卸妆过程中，而'完成登台前准备并响应催场'涉及蝶衣为晓楼勾脸完毕并准备登台。勾脸是登台前的准备步骤，卸妆则发生在演出后，因此前者在时间顺序上晚于后者。但由于主体情节是卸妆时的互动，客体是登台前准备，故客体情节在叙事时间上早于主体情节。然而，关系方向应为客体到主体，而'precedes'为有向关系，若以主体为起点则不能成立。因此，正确方向应为 object -> subject，但当前 subject -> object 不成立，故不能选'precedes'。无其他明确支持的关系，因此最终应为 NONE。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0a5eb84412dd",
+    "subject_id": "ep_92fd097ff98244b5",
+    "object_id": "ep_d1efd918eeb8f1af",
+    "relation_type": "precedes",
+    "reason": "程蝶衣重申誓言与情感恳求发生在段晓楼现实劝解与最终离去之前，两个情节均发生在scene_46，且叙事顺序上前者为后者提供直接话语前提：程蝶衣恳求后，段晓楼才回应并劝解，随后程蝶衣离去。文本支持明确的时间和话语顺序。",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5b12b7ab2abd",
+    "subject_id": "ep_549c93ce1356184f",
+    "object_id": "ep_d1efd918eeb8f1af",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节内容，'卸妆中表达艺术尊严'发生在演出后的化妆间对话中（doc_41），而'现实劝解与最终离去'发生在后续场景中（doc_43），段晓楼劝解程蝶衣并以沉默决裂，叙事时间线上前者早于后者，具有明确的先后顺序。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b236993e121d",
+    "subject_id": "ep_087daa0b692e539b",
+    "object_id": "ep_d1efd918eeb8f1af",
+    "relation_type": "contrasts_with",
+    "reason": "‘调整姿势中的亲密互动’描绘蝶衣与晓楼之间细腻的情感与身体联结，而‘现实劝解与最终离去’则展现二人因现实立场分歧导致的情感决裂与距离固化。两个情节在情感基调与关系状态上形成明显对比：前者是亲密的交融，后者是沉默的疏离，构成情感走向上的逆转。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_f7f19f7be3a1",
+    "subject_id": "ep_733d9f99cb6251d0",
+    "object_id": "ep_e15e6c15349ca5fc",
+    "relation_type": "precedes",
+    "reason": "小豆子向母亲诉说寒冷发生在母亲对其实施恐吓或惩罚之前，文本中事件顺序清晰：先表达困境，后遭遇惩罚，构成叙事上的先后关系。",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_13d4d7a8a652",
+    "subject_id": "ep_20f80d56d3e8302c",
+    "object_id": "ep_549c93ce1356184f",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号（scene_44）及事件顺序，'邀请与婉拒中的社交周旋'发生在蝶衣为晓楼卸妆之前，四爷离场后后台对话展开，叙事顺序明确支持该关系。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_862ea4f7ee5d",
+    "subject_id": "ep_ab4e7c4a37f3dc77",
+    "object_id": "ep_549c93ce1356184f",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，蝶衣和晓楼抵达戏园并接受群众欢迎（ep_ab4e7c4a37f3dc77）发生在演出后的化妆间对话之前（ep_549c93ce1356184f），且相关事件分别位于scene_41和scene_44，支持该时间顺序。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_465cab283b4e",
+    "subject_id": "ep_ab4e7c4a37f3dc77",
+    "object_id": "ep_39f4b97e95d06dad",
+    "relation_type": "precedes",
+    "reason": "‘抵达戏园接受群众欢迎与捧场介绍’发生在戏园门口，介绍袁四爷即将捧场，而‘赠礼与艺术评价中的地位确认’发生在戏园内，包含四爷实际赠送头面和评价表演的具体互动。根据叙事顺序，先有抵达和介绍，后有赠礼与评价，因此前者在时间上先于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2b11118d0b29",
+    "subject_id": "ep_e0e3c604128ec9b3",
+    "object_id": "ep_39f4b97e95d06dad",
+    "relation_type": "elaborates",
+    "reason": "情节'追忆首次演出《霸王别姬》的发祥地'中提及张公公府上堂会为蝶衣与晓楼的艺术起点，为后续'赠礼与艺术评价中的地位确认'中袁四爷对蝶衣演技的高度评价提供历史背景和艺术资历的铺垫，表明后者在前者的艺术发展脉络中获得认可，构成背景扩展关系。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_aca24ee065b7",
+    "subject_id": "ep_9cc5889aea83a327",
+    "object_id": "ep_930f0c8ba6e6fe1e",
+    "relation_type": "precedes",
+    "reason": "小豆子与小癞子在戏园门前的街头互动（买糖葫芦、闪避骡车）发生在他们进入戏园观看京剧演出之前，根据相关场合的描述，前者属于'戏园演出前的迎接活动'，后者属于'戏园京剧演出'，具有明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e50943c0a2b0",
+    "subject_id": "ep_c1bda018910e8484",
+    "object_id": "ep_43ec4385e8e97c39",
+    "relation_type": "precedes",
+    "reason": "小癞子与小豆子策划并实施逃跑发生在逃场归来被老师爷发现之前。根据描述，二人先逃离练功棚进入胡同，之后在演出结束后返回胡同时被老师爷发现，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_892b698195f1",
+    "subject_id": "ep_20f80d56d3e8302c",
+    "object_id": "ep_ab4e7c4a37f3dc77",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'抵达戏园接受群众欢迎与捧场介绍'（scene_41）发生在'邀请与婉拒中的社交周旋'（scene_44）之前。戏园老板在scene_41介绍袁四爷前来捧场，为后续四爷邀请二人赴府细谈（scene_44）建立上下文，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4753d6f4e70e",
+    "subject_id": "ep_9cc5889aea83a327",
+    "object_id": "ep_43ec4385e8e97c39",
+    "relation_type": "precedes",
+    "reason": "小豆子与小癞子在戏园门前的日常互动（买糖葫芦、闪避骡车）发生在演出前的迎接活动期间，而逃场归来被老师爷发现则发生在演出结束后。因此，根据叙事时间顺序，'小豆子与小癞子街头互动'在'逃场归来被老师爷发现'之前。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6dd565e291b0",
+    "subject_id": "ep_733d9f99cb6251d0",
+    "object_id": "ep_68417670b36f3451",
+    "relation_type": "precedes",
+    "reason": "根据描述，小豆子先向母亲诉说寒冷并指出水已结冰，随后在母亲施加压力后转身拉下围巾，表达反抗情绪。这两个情节均发生在同一场景（scene_7），但逻辑和叙事顺序上，表达需求的行为早于反抗行为，构成先后关系。",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4dc0eaacc9f8",
+    "subject_id": "ep_39f4b97e95d06dad",
+    "object_id": "ep_549c93ce1356184f",
+    "relation_type": "contrasts_with",
+    "reason": "赠礼与艺术评价中的地位确认强调袁四爷通过赠礼和权威评价确立戏曲地位，获得蝶衣和晓楼的敬重；而卸妆中表达艺术尊严则展现晓楼在后台明确表达对权贵捧场的不屑，坚持艺术独立性。两个情节在同一场景（scene_44）中相继发生，通过态度对比凸显艺术与权势关系的不同立场，构成明确的对比关系。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b8e0b02decc7",
+    "subject_id": "ep_0821a1601aed067c",
+    "object_id": "ep_c1bda018910e8484",
+    "relation_type": "precedes",
+    "reason": "小癞子安慰小豆子并自我逞强发生在练功训练场景中，而小癞子与小豆子策划并实施逃跑是后续脱离练功棚的行动。根据叙事顺序，安慰行为发生在逃跑之前，且二者共享同一上下文场景的延续性，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c063b1185ae7",
+    "subject_id": "ep_20f80d56d3e8302c",
+    "object_id": "ep_1025c1473da96501",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，'邀请与婉拒中的社交周旋'（scene_44）发生在蝶衣与晓楼关系破裂后独自离去（scene_50）之前。scene_44中晓楼婉拒袁四爷邀请时关系尚存，而scene_50中蝶衣已因晓楼拒绝袁四爷栽培并划清关系而绝望离去，表明前者在时间线上早于后者。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_276ac4fbc738",
+    "subject_id": "ep_087daa0b692e539b",
+    "object_id": "ep_601fcccc05a26c30",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节描绘蝶衣与晓楼之间细腻、亲密的身体与情感交流，体现出二人深厚的情感联结；而第二个情节中，晓楼公开要求蝶衣接受菊仙并担任证婚人，导致蝶衣抗拒并引发情感冲突，体现出关系的断裂与张力。两个情节在情感基调上形成明显对比：前者是私密、温柔的依恋，后者是公开、强硬的疏离，构成情感状态的逆转。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_9a1580f43ced",
+    "subject_id": "ep_e15e6c15349ca5fc",
+    "object_id": "ep_68417670b36f3451",
+    "relation_type": "causes",
+    "reason": "母亲对小豆子实施恐吓或惩罚（将手按在磨刀石上并用力按刀）构成直接的压迫性行为，这一行为在时间与因果上先于小豆子反抗并表达情绪（拉下围巾），且描述中明确指出该反抗是‘对之前强制行为的情绪回应’，因此前者直接触发后者，构成强因果关系。",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_70802f989e6c",
+    "subject_id": "ep_c1bda018910e8484",
+    "object_id": "ep_9cc5889aea83a327",
+    "relation_type": "precedes",
+    "reason": "情节'小癞子与小豆子策划并实施逃跑'发生在戏园练功棚内，而'小豆子与小癞子街头互动'发生在戏园门前的迎接活动中，且相关事件（如逃跑、追赶）在叙事顺序上早于二人在街头买糖葫芦和闪避骡车的场景。文档中场景编号scene_21（逃跑）在scene_22（街头互动）之前，支持该时间顺序。",
+    "source_documents": [
+      "scene_22_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b91c16446df0",
+    "subject_id": "ep_9c3e2780adc445fe",
+    "object_id": "ep_087be9e3feb7c172",
+    "relation_type": "precedes",
+    "reason": "戏园老板考察小豆子资质发生在张太监寿辰堂会之前，文本中考察是在戏班排练期间，而小豆子独唱赢得喝彩是在堂会上的公开演出，两者在叙事时间线上有明确先后顺序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3b1a325c268e",
+    "subject_id": "ep_1fca83581f916a5d",
+    "object_id": "ep_ab4e7c4a37f3dc77",
+    "relation_type": "precedes",
+    "reason": "蝶衣和晓楼乘车途经游行发表愤慨评论发生在抵达戏园之前，根据叙事顺序，他们先在车上目睹游行并评论，随后抵达戏园门口接受欢迎，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_41_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9d365fc0a3e0",
+    "subject_id": "ep_9c3e2780adc445fe",
+    "object_id": "ep_5d5f295df3bbc35d",
+    "relation_type": "precedes",
+    "reason": "戏园老板考察小豆子资质的情节中，要求其表演《思凡》片段，直接引出小豆子在表演中出错，从而触发小石头实施惩戒的情节。两个情节发生在同一场景（scene_27__2），且考察资质在叙事顺序上先于惩戒行动。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c540159b0305",
+    "subject_id": "ep_b0b152c7d883d11d",
+    "object_id": "ep_37e819fb2310c735",
+    "relation_type": "precedes",
+    "reason": "菊仙求助晓楼并表白心迹发生在定亲仪式之前，其情感表达和晓楼披衣的默许直接促成了后续定亲喜讯的宣告，时间顺序和叙事逻辑上明确早于共饮定亲酒的情节。",
+    "source_documents": [
+      "scene_42__2_part_1",
+      "scene_42__2_part_2",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2d09db5fdd77",
+    "subject_id": "ep_556dafeaffc36720",
+    "object_id": "ep_65b6ae9b21cc1557",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场合（妓院接客场合），且描述中晓楼先打听菊仙下落并展示野心，随后才以自残方式敬酒示决心，事件序列在场景中具有明确的先后顺序。",
+    "source_documents": [
+      "scene_42__2_part_1",
+      "scene_42__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9af8df6476b4",
+    "subject_id": "ep_1030328041d4ec14",
+    "object_id": "ep_2f4eb99e3b003bae",
+    "relation_type": "causes",
+    "reason": "小豆子表演失误引发危机直接导致戏园老板在离开时评价其未来发展，文本中失误在前，评价在后，且评价内容是对该失误情境的直接回应，构成即时因果关系。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5d9f1a71b0ee",
+    "subject_id": "ep_4a8c983557f59ec8",
+    "object_id": "ep_fb9d059f1bbb1b50",
+    "relation_type": "precedes",
+    "reason": "启动接客与安排陪客发生在菊仙被围困危机之前：晓楼在接客场合中先被介绍彩凤作陪，之后才在楼下介入菊仙跳楼事件。两个情节共享同一场合（妓院接客场合），但事件序列显示前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_42__2_part_1",
+      "scene_42__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dc93d564d283",
+    "subject_id": "ep_556dafeaffc36720",
+    "object_id": "ep_fb9d059f1bbb1b50",
+    "relation_type": "precedes",
+    "reason": "晓楼向彩凤打探菊仙下落并展示其野心的情节发生在菊仙被围困、晓楼介入救援之前。两个情节共享同一场合（妓院接客场合），且事件序列显示晓楼先表达对菊仙的兴趣，随后在危机中采取行动，叙事顺序明确支持前者早于后者。",
+    "source_documents": [
+      "scene_42__2_part_1",
+      "scene_42__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_13e2b94f9f22",
+    "subject_id": "ep_94d919091a30fe20",
+    "object_id": "ep_836618496b3dd81a",
+    "relation_type": "precedes",
+    "reason": "演绎霸王别姬的悲情离别发生在观众对舞台表演喝彩之前，因为观众的喝彩是对刚刚完成的戏剧表演的情感回应，文本中明确描述喝彩是表演后的反应，支持叙事顺序上的先后关系。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_390bbd08fbc7",
+    "subject_id": "ep_1dec0e4dab2aca07",
+    "object_id": "ep_abe08df002daacfe",
+    "relation_type": "contrasts_with",
+    "reason": "小石头抬头望向小豆子寻求情感连接，表现出孤独中的依恋与求助；而小豆子母子在练功棚前观望，表现出保护与外部关切。两个情节并置，突显了被动观察与主动情感诉求之间的对比，以及不同角色在相同场景下的情感立场差异。",
+    "source_documents": [
+      "scene_2__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_08506efac4e0",
+    "subject_id": "ep_836618496b3dd81a",
+    "object_id": "ep_996b0d8bf23735ba",
+    "relation_type": "contrasts_with",
+    "reason": "观众对舞台表演喝彩体现对演出的情感共鸣和认可，而菊仙在台下嗑瓜子并俗气一笑则反映其与舞台情感的疏离和不同的观赏态度，二者在情感投入和反应基调上形成明显对比。",
+    "source_documents": [
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e43b54146f09",
+    "subject_id": "ep_92bf1ae7da5b383e",
+    "object_id": "ep_387861dc4de5baab",
+    "relation_type": "precedes",
+    "reason": "小豆子在仪式前的恐惧与逃避发生在小豆子拜师仪式进行期间，而仪式结束后环境氛围的渲染明确发生在仪式彻底结束后，门外天空再次飘起雪花。根据描述的时间顺序，前者在叙事上早于后者。",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_eac4110f51d4",
+    "subject_id": "ep_2ce8f9f42a4db9ac",
+    "object_id": "ep_6a7f4729e6a0c864",
+    "relation_type": "precedes",
+    "reason": "小石头和小豆子围绕真剑进行角色扮演和情感交流后，戏园老板才介入警告使用真剑的危险。两个情节均发生在scene_33，但逻辑和叙事顺序上，戏谑与承诺的行为先发生，随后老板因意识到危险而干预，因此主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0a85ecd889d4",
+    "subject_id": "ep_f6c8fda42bba7231",
+    "object_id": "ep_d21b70dccba3f681",
+    "relation_type": "precedes",
+    "reason": "老鸨表达愤怒与控制的情节包含其扫落桌上物品和辱骂菊仙的行为，表明冲突正在进行；而老鸨重拾金钱回归常态的情节描述冲突结束后她重新清点洋钱，回归物质利益导向的日常状态。因此，表达愤怒与控制在叙事顺序上先于重拾金钱回归常态。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_364b93340f1c",
+    "subject_id": "ep_107cec3787311e4d",
+    "object_id": "ep_136d18d90d508f25",
+    "relation_type": "causes",
+    "reason": "程蝶衣陷入情绪爆发的表演性高潮（抽出宝剑横于颈上）直接触发了袁四爷的回应行为，即制止其危险举动并完成亲密的情感确认。文本描述中明确将袁四爷的行动置于程蝶衣情绪崩溃之后，且其行为是对该危机状态的直接反应，构成即时因果链。",
+    "source_documents": [
+      "scene_51_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5e47f13e58b8",
+    "subject_id": "ep_b9a4d76bf4dc8f87",
+    "object_id": "ep_387861dc4de5baab",
+    "relation_type": "precedes",
+    "reason": "‘应对小豆子的突然闯入和尖叫’是小豆子母子进入练功棚并引发混乱的事件，属于拜师仪式中的突发插曲；而‘仪式结束后环境氛围的渲染’明确发生在‘仪式彻底结束后’，以雪花再次飘起烘托离别氛围。因此，前者在叙事时间顺序上明显早于后者。",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_183f249d2a85",
+    "subject_id": "ep_1cf441196469cd3c",
+    "object_id": "ep_588c586aab93adfe",
+    "relation_type": "precedes",
+    "reason": "关师傅向张太监致贺寿礼发生在张太监寿辰堂会期间（scene_31），而接受太监府赏赐由大管家在scene_32传达，两情节分别关联连续场景scene_31与scene_32，叙事顺序上前者早于后者，构成直接的时间先后关系。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_777d65660042",
+    "subject_id": "ep_3c0547ea5a6609bc",
+    "object_id": "ep_dfa933a2fe886d5e",
+    "relation_type": "precedes",
+    "reason": "恳求并交付小豆子入戏班发生在老师爷带领小豆子进入西厢房之前，文本中交付完成后才由老师爷接手带入训诫场所，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_744adffee7df",
+    "subject_id": "ep_387861dc4de5baab",
+    "object_id": "ep_f7ddbc2ab6141624",
+    "relation_type": "precedes",
+    "reason": "根据描述，'母亲见证仪式并告别小豆子'包含小豆子娘在仪式结束后离开以及小豆子呼唤母亲的情节，而'仪式结束后环境氛围的渲染'描述的是在小豆子娘离开后，门外天空再次飘雪，用以烘托离别氛围。因此，'母亲见证仪式并告别小豆子'在叙事顺序上先发生，随后是环境氛围的渲染，支持'precedes'关系。",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0d30b1b130a4",
+    "subject_id": "ep_dfa933a2fe886d5e",
+    "object_id": "ep_05f6c179f7618c84",
+    "relation_type": "precedes",
+    "reason": "老师爷先将小豆子带入西厢房以开启训诫流程，随后才对小癞子进行体罚以儆效尤。根据描述，前者为后者建立场景，暗示叙事上的先后顺序。",
+    "source_documents": [
+      "scene_17-13_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_59f8700b2fd5",
+    "subject_id": "ep_05f6c179f7618c84",
+    "object_id": "ep_c32626c30a521133",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均描绘了师徒体罚场景，但发生在不同人物和上下文中：一个是老师爷惩罚小癞子以儆效尤，另一个是关师傅训诫小石头并质疑其能力。两者并置可能强调不同师傅的管教风格或学徒处境的差异，形成叙事对比。",
+    "source_documents": [
+      "scene_17-13_part_1",
+      "scene_2__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_e560480dad96",
+    "subject_id": "ep_05f6c179f7618c84",
+    "object_id": "ep_3bd8ef5f7f7fe364",
+    "relation_type": "precedes",
+    "reason": "情节 '惩罚小癞子以儆效尤' 发生在 '小石头求情并激化冲突' 之前，因为前者是体罚的开始，后者是小石头介入求情导致冲突升级的后续发展，叙事上具有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_17-13_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3a8b443c049a",
+    "subject_id": "ep_05f6c179f7618c84",
+    "object_id": "ep_7e6b70139d85fe6f",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均发生在戏曲学徒训练背景下，但呈现了老师爷对待错误的两种不同方式：对小癞子因犯错遭受严厉体罚以儆效尤，而对小石头虽正确背诵仍被轻微惩戒以警示。这种并置突显了纪律执行中的差异与张力，形成教育手段上的对比。",
+    "source_documents": [
+      "scene_17-13_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a46d2211fd4e",
+    "subject_id": "ep_05f6c179f7618c84",
+    "object_id": "ep_d3ffa30f3d51ca3e",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节都涉及老师爷对学徒的体罚以强化纪律，但对象和具体情境不同：一个是小癞子因犯错被公开惩罚以儆效尤，另一个是小豆子因背诵出错被纠正并遭受严重体罚。两者并置突显了训练环境的严酷性，同时在受害对象和错误性质上形成对比，暗示不同角色的命运差异。",
+    "source_documents": [
+      "scene_17-13_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ce165b5f0464",
+    "subject_id": "ep_05f6c179f7618c84",
+    "object_id": "ep_0960085cdbd4b0c8",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均涉及惩罚仪式，但方式和上下文形成对比：前者是老师爷对小癞子的体罚，具有公开震慑性质；后者是小石头在仪式化流程中执行自我惩戒，强调纪律内化。两者在执行方式、权力动态和表现形式上构成并置对比。",
+    "source_documents": [
+      "scene_17-13_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_0c87b0c46292",
+    "subject_id": "ep_dfa933a2fe886d5e",
+    "object_id": "ep_0c7be6444af84db5",
+    "relation_type": "precedes",
+    "reason": "‘带领小豆子进入训诫场所’在叙事顺序上早于‘纠正小豆子的《思凡》唱词’，因为老师爷先将小豆子带入西厢房建立训诫场景，随后才进行唱词纠正，二者在时间与场景上紧密衔接，符合直接的先后顺序。",
+    "source_documents": [
+      "scene_17-13_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d701f1b57a71",
+    "subject_id": "ep_05f6c179f7618c84",
+    "object_id": "ep_a58f36ea19b6dd6b",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均涉及对学徒的体罚，但实施者、具体情境和结果不同：前者是老师爷为儆效尤而公开惩罚小癞子，后者是关师傅因小石头未开门而引发追逐。两者并置突显了不同权威人物在纪律执行方式上的差异，一个强调震慑，另一个导致失控的追逐，形成叙事对比。",
+    "source_documents": [
+      "scene_17-13_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_975b2f3fb8e4",
+    "subject_id": "ep_dfa933a2fe886d5e",
+    "object_id": "ep_d3ffa30f3d51ca3e",
+    "relation_type": "precedes",
+    "reason": "带领小豆子进入训诫场所是开启训诫与惩罚流程的第一步，为后续的纠正错误和体罚行为建立场景，叙事上明确早于纠正小豆子的错误并施加惩罚。",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8ef8527aa743",
+    "subject_id": "ep_d3ffa30f3d51ca3e",
+    "object_id": "ep_f98caa7fe667e8a9",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均涉及戏曲学徒因背诵错误而遭受体罚，但发生在不同人物（小豆子 vs 小癞子）和不同场景（doc_17 vs doc_15）中，文本通过相似的纪律场景并置突显个体遭遇的共性与差异，形成对比关系。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5ba7c3f32e5f",
+    "subject_id": "ep_43ec4385e8e97c39",
+    "object_id": "ep_dfa933a2fe886d5e",
+    "relation_type": "precedes",
+    "reason": "逃场归来被老师爷发现发生在老师爷带领小豆子进入训诫场所之前，因为老师爷是在发现小癞子与小豆子擅自离场后，才将小豆子带入西厢房进行训诫，叙事顺序上具有明确的先后关系。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_051e6fc01c57",
+    "subject_id": "ep_05f6c179f7618c84",
+    "object_id": "ep_5d5f295df3bbc35d",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均涉及戏班内部通过体罚实施规训，但前者是老师爷对小癞子的公开惩罚以震慑他人，后者是小石头对小豆子的强制纠正以维护表演规范。两者在施罚者身份（师长 vs. 同辈）、场合（后景中的惩戒 vs. 练功棚内的仪式化惩罚）和目的（维护纪律 vs. 纠正艺术错误）上形成对比，体现规训机制的不同面向。",
+    "source_documents": [
+      "scene_17-13_part_1",
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6f2486c79f5a",
+    "subject_id": "ep_7e6b70139d85fe6f",
+    "object_id": "ep_d3ffa30f3d51ca3e",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节分别描述了小石头因正确背诵而被认可但仍受惩罚，与小豆子因错误背诵而遭严厉体罚的对比。两者在结果和对待方式上形成并置：一个表现完美却仍被打手心以示警示，另一个因失误导致严重伤害。这种处理方式突出了训练环境中的严苛纪律，并通过结果的差异强调了对比。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_cce05037c83e",
+    "subject_id": "ep_dfa933a2fe886d5e",
+    "object_id": "ep_338fcd5afcb7cddb",
+    "relation_type": "precedes",
+    "reason": "‘带领小豆子进入训诫场所’描述了老师爷将小豆子带入西厢房，为后续的训诫与惩罚建立场景，而‘小豆子挺身代罚’发生在同一训诫流程中，包括接受体罚的具体行为。根据叙事顺序，进入场所是惩罚开始的前提，因此该情节在话语和事件流程上早于代罚行为。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7a48ec6a1943",
+    "subject_id": "ep_dfa933a2fe886d5e",
+    "object_id": "ep_5d5f295df3bbc35d",
+    "relation_type": "precedes",
+    "reason": "‘带领小豆子进入训诫场所’发生在西厢房，为后续在练功棚内‘小石头实施惩戒以纠正小豆子’提供空间与程序上的前置步骤；两个情节共享纠正小豆子行为的总体目标，但‘进入训诫场所’在叙事顺序上早于实际惩戒行为，构成情节发展的前导阶段。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1791b3a4df0b",
+    "subject_id": "ep_a58f36ea19b6dd6b",
+    "object_id": "ep_f98caa7fe667e8a9",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均涉及戏曲学徒因失误遭受体罚，但情境和施罚者不同：一个是关师傅因小石头未开门而愤怒追打，另一个是老师爷在训练课上纠正小癞子背诵错误。二者并置突显了不同场合下权威人物对学徒的管教方式，形成情境与人物关系上的对比。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_d4f06f67121e",
+    "subject_id": "ep_dfa933a2fe886d5e",
+    "object_id": "ep_c1294c56a58e1f2f",
+    "relation_type": "precedes",
+    "reason": "‘带领小豆子进入训诫场所’发生在西厢房，为后续的强制纠正行为建立场景，且‘老师爷带领小豆子进入西厢房 (scene_18)’在文档顺序和叙事流程上早于‘老师爷抓起小豆子的手狠狠抽打 (scene_16)’所归属的纠正事件，尽管scene编号异常，但根据情节描述，进入场所是训诫流程的开端，逻辑上先于强制纠正行为。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a9f4ccd5507c",
+    "subject_id": "ep_dfa933a2fe886d5e",
+    "object_id": "ep_f7fa42feb37fd294",
+    "relation_type": "precedes",
+    "reason": "‘带领小豆子进入训诫场所’描述的是老师爷将小豆子带入西厢房，为后续惩罚建立场景，而‘强制小豆子开始受罚训练’发生在练功棚，涉及实际的身体惩罚和训练开始。根据叙事逻辑和场景推进，进入训诫场所是进入练功棚并开始受罚的前置步骤，且两个情节共享训诫与惩罚的上下文，因此前者在话语顺序上明确早于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_28c3f39ab70d",
+    "subject_id": "ep_5d5f295df3bbc35d",
+    "object_id": "ep_f98caa7fe667e8a9",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均涉及戏曲学徒因戏文错误而遭受体罚，但实施者和具体情境不同：一个是师兄小石头在练功棚内以烟袋暴力惩戒小豆子，另一个是老师爷在课堂上用戒尺惩罚小癞子。二者并置突显了戏班内部不同权威角色（同辈与师长）在规训方式上的差异，形成对惩戒机制的对比刻画。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8be888fcb95e",
+    "subject_id": "ep_3bd8ef5f7f7fe364",
+    "object_id": "ep_3f706dc89bf1cc84",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'小石头求情并激化冲突' 发生在 '小癞子之死引发集体震惊' 之前，两个情节均发生在 scene_26，但小石头冲突结束后的紧接着老师爷报告小癞子上吊，表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2266f17dd015",
+    "subject_id": "ep_8e38df2f3e841ed1",
+    "object_id": "ep_ce059e28c4420bad",
+    "relation_type": "elaborates",
+    "reason": "‘小石头练习戏曲唱腔’这一情节通过具体展示小石头背诵《垓下歌》的发声与姿态细节，为‘展现戏曲学徒的成长与才艺’这一更广泛的情节提供了表演技艺层面的具体化和补充说明，后者包含前者作为其组成部分之一，且描述中明确将小石头的演唱行为纳入学徒成长的整体叙事中。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ae8040ee5a40",
+    "subject_id": "ep_6861a033d239fda1",
+    "object_id": "ep_8e38df2f3e841ed1",
+    "relation_type": "elaborates",
+    "reason": "‘进行喊嗓练习’描述了孩子们在野塘子边集体喊嗓的场景，其中小石头唱出‘力拔山兮气盖世’；而‘小石头练习戏曲唱腔’进一步聚焦并扩展了小石头背诵《垓下歌》这一具体行为，提供了更详细的个体练习背景，表明后者对前者中特定行为的细化和补充。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_65297d66713b",
+    "subject_id": "ep_6861a033d239fda1",
+    "object_id": "ep_ce059e28c4420bad",
+    "relation_type": "elaborates",
+    "reason": "‘进行喊嗓练习’是‘展现戏曲学徒的成长与才艺’中的一个具体组成部分，后者通过包括喊嗓练习、外貌成长和才艺展示等多方面信息，扩展并丰富了前者所体现的训练场景，构成对集体训练活动在成长与技艺层面的进一步阐释。",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a492bc5c27c7",
+    "subject_id": "ep_cb6ed04888381d8a",
+    "object_id": "ep_edab8d19e07f4a1c",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在大木盆中为小豆子洗澡并提醒护手，客体情节则是在处理手部伤口的同时提醒仪式准备。根据相关事件的场景编号（scene_19 在 scene_20 之前），主体情节在叙事顺序上早于客体情节，且两者均涉及对小豆子手部的关切，具有时间上的连续性。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9532be36de3d",
+    "subject_id": "ep_035f55373cad3c27",
+    "object_id": "ep_dcd36a5b94ec6675",
+    "relation_type": "precedes",
+    "reason": "根据描述，'迎接小豆子并表达关切' 发生在小豆子刚出门后，而 '小石头用脚踢灭油灯结束夜晚' 明确发生在安抚小豆子之后，且标志着夜晚活动的结束。因此，主体情节在叙事时间顺序上早于客体情节。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9debba149a09",
+    "subject_id": "ep_c32626c30a521133",
+    "object_id": "ep_db60f3435d40a3c5",
+    "relation_type": "precedes",
+    "reason": "关师傅惩戒并训诫小石头发生在小石头归来并宣泄悲愤之前，文本中师徒训导场景为早期事件，而小石头撞门而入表达悲愤是后续对其内心挣扎的展现，具有明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_2__2_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_529b307aba14",
+    "subject_id": "ep_1dec0e4dab2aca07",
+    "object_id": "ep_2b32c3e5286cde00",
+    "relation_type": "precedes",
+    "reason": "小石头抬头望向小豆子寻求情感连接发生在练功棚被打骂后，而小豆子与小石头告别发生在逃离即将完成之际的场景21，叙事时间线上明显前者早于后者。",
+    "source_documents": [
+      "scene_2__2_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c893fb1dcd86",
+    "subject_id": "ep_1dec0e4dab2aca07",
+    "object_id": "ep_338fcd5afcb7cddb",
+    "relation_type": "causes",
+    "reason": "小石头抬头望向小豆子寻求情感连接表现出其孤独与依恋，这一情感展示触发了小豆子挺身代罚的行为，文本中描述小豆子为保护师哥而主动受罚，表明前一情节直接促成了后一情节的发生。",
+    "source_documents": [
+      "scene_2__2_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_457550e5a5d6",
+    "subject_id": "ep_1dec0e4dab2aca07",
+    "object_id": "ep_3bd8ef5f7f7fe364",
+    "relation_type": "precedes",
+    "reason": "小石头抬头望向小豆子寻求情感连接发生在练功棚内被打骂后的孤独时刻，而小石头求情并激化冲突发生在后续跪地求饶和暴力升级的场景中，根据叙事顺序，前者在时间上早于后者。",
+    "source_documents": [
+      "scene_2__2_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5357defb1155",
+    "subject_id": "ep_1dec0e4dab2aca07",
+    "object_id": "ep_0e4a17bbb45178de",
+    "relation_type": "elaborates",
+    "reason": "小石头抬头望向小豆子寻求情感连接这一情节表现了他在受创后对小豆子的依恋与求助，为后续小豆子坚持陪伴其入睡提供了情感动机和背景解释，说明了小豆子行为的情感触发点，因此该情节扩展并深化了对主体行为的理解。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_2__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5c8e3b1eea52",
+    "subject_id": "ep_8dde1d40cad2913a",
+    "object_id": "ep_5d5f295df3bbc35d",
+    "relation_type": "elaborates",
+    "reason": "小石头在门外偷听训诫过程这一情节通过提供小石头的观察视角，扩展了对小石头实施惩戒以纠正小豆子这一事件的理解，揭示了前者作为后者的间接见证，补充了叙事背景。尽管两者在时间上可能接近，但偷听行为并未直接导致或先于惩戒，而是为该惩戒场景提供了额外的心理和情感上下文。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_977a35aee14a",
+    "subject_id": "ep_0960085cdbd4b0c8",
+    "object_id": "ep_1dec0e4dab2aca07",
+    "relation_type": "precedes",
+    "reason": "小石头执行惩罚仪式（ep_0960085cdbd4b0c8）包含在练功棚中被打骂的事件（如趴上板凳、刀胚子落下导致痛苦叫喊），而小石头抬头望向小豆子寻求情感连接（ep_1dec0e4dab2aca07）发生在遭受打骂后立即抬头望向小豆子的时刻。根据描述中的时间顺序和事件流，惩罚仪式中的体罚行为直接先于其后的情感反应，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_2__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7d88c191d366",
+    "subject_id": "ep_8dde1d40cad2913a",
+    "object_id": "ep_3bd8ef5f7f7fe364",
+    "relation_type": "precedes",
+    "reason": "小石头在门外偷听训诫过程（ep_8dde1d40cad2913a）发生在关师傅对小豆子施加惩罚的早期阶段，而小石头求情并激化冲突（ep_3bd8ef5f7f7fe364）涉及后续的跪地求情、反抗和受伤，叙事顺序上明显后续。相关事件scene_18早于scene_26，支持该时间顺序。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b726dac638fd",
+    "subject_id": "ep_0960085cdbd4b0c8",
+    "object_id": "ep_db60f3435d40a3c5",
+    "relation_type": "precedes",
+    "reason": "小石头执行惩罚仪式发生在场景11，而小石头归来并宣泄悲愤发生在场景12，文档顺序和场景编号表明前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f46a0b617a53",
+    "subject_id": "ep_0960085cdbd4b0c8",
+    "object_id": "ep_4903446c577e9f1e",
+    "relation_type": "precedes",
+    "reason": "小石头执行惩罚仪式（scene_11）发生在小豆子为其披被照料（scene_12）之前，文档顺序和场景编号表明明确的叙事时间先后关系。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_746bac782b15",
+    "subject_id": "ep_a58f36ea19b6dd6b",
+    "object_id": "ep_db60f3435d40a3c5",
+    "relation_type": "precedes",
+    "reason": "情节 '惩罚小石头并引发追逐' 描述了关师傅因小石头未开门而抽打并追赶他，导致小石头逃跑；随后在 '小石头归来并宣泄悲愤' 中，小石头重新出现并表达内心的悲愤与修炼火丹功的原因。叙事顺序上，逃跑是归来前的必要前提，且相关事件发生在不同文档场景中（scene_26 与 scene_12），支持该时间先后关系。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_448d1a6c574c",
+    "subject_id": "ep_338fcd5afcb7cddb",
+    "object_id": "ep_046f702ce82f9548",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，小豆子挺身代罚发生在武戏排练衔接惩戒仪式之前。小豆子接受体罚是惩戒环节的高潮，随后‘急急风’鼓点响起，小石头接枪投入排练，标志惩戒结束与训练重启。因此，'小豆子挺身代罚'在话语和事件流程上直接早于'武戏排练衔接惩戒仪式'。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3168e7dd4e56",
+    "subject_id": "ep_6f3a7e2e10bfb7b4",
+    "object_id": "ep_17c303964970f369",
+    "relation_type": "precedes",
+    "reason": "完成登台前准备并响应催场发生在演出开始前，而程蝶衣多次行礼致谢是对观众的演出后回应，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_42bd840ce76c",
+    "subject_id": "ep_92bf1ae7da5b383e",
+    "object_id": "ep_0960085cdbd4b0c8",
+    "relation_type": "precedes",
+    "reason": "小豆子在仪式前的恐惧与逃避（ep_92bf1ae7da5b383e）发生在拜师仪式场景（scene_8），而小石头执行惩罚仪式（ep_0960085cdbd4b0c8）发生在练功棚场景（scene_11），根据文档顺序和场景编号，scene_8在scene_11之前，因此该关系在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_57934efdb43b",
+    "subject_id": "ep_7c309a900f868a87",
+    "object_id": "ep_1025c1473da96501",
+    "relation_type": "contrasts_with",
+    "reason": "《霸王别姬》的舞台表演展现蝶衣与晓楼艺术上的和谐共演，而关系破裂后蝶衣独自离去则呈现二人现实关系的决裂与情感孤立，二者在艺术合作与现实疏离之间形成强烈对比。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8ed89f822912",
+    "subject_id": "ep_3bd8ef5f7f7fe364",
+    "object_id": "ep_046f702ce82f9548",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，小石头求情并激化冲突（ep_3bd8ef5f7f7fe364）发生在武戏排练衔接惩戒仪式（ep_046f702ce82f9548）之前。前者描述的是在练功棚内惩戒过程中的冲突升级，后者描述的是惩戒结束后立即转入武戏排练，二者共享同一场景上下文（练功棚内的惩戒与排练仪式），且‘急急风’鼓点标志惩戒结束与训练重启的转换，表明时间上的先后顺序。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8f4ce20e7b70",
+    "subject_id": "ep_0960085cdbd4b0c8",
+    "object_id": "ep_046f702ce82f9548",
+    "relation_type": "precedes",
+    "reason": "小石头执行惩罚仪式（ep_0960085cdbd4b0c8）发生在武戏排练衔接惩戒仪式（ep_046f702ce82f9548）之前，因为前者是小石头因结党受罚的完整流程，而后者描述的是小石头完成对小豆子的惩戒后立即投入武戏排练，表明前一惩戒事件结束，集体训练恢复。文本中‘急急风’鼓点骤起标志训练重启，暗示此前的惩戒场合已结束，因此存在明确的叙事时序先后。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4638afe8a755",
+    "subject_id": "ep_1025c1473da96501",
+    "object_id": "ep_107cec3787311e4d",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，蝶衣与晓楼关系破裂后独自离去（scene_50）发生在程蝶衣陷入情绪爆发的表演性高潮（scene_51）之前，两个情节分别关联连续场景，叙事顺序明确。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2",
+      "scene_51_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dcafb9293c86",
+    "subject_id": "ep_107cec3787311e4d",
+    "object_id": "ep_d1efd918eeb8f1af",
+    "relation_type": "contrasts_with",
+    "reason": "程蝶衣陷入情绪爆发的表演性高潮展现其以戏入真、自我献祭式的投入，而现实劝解与最终离去中段晓楼强调戏与现实的分离并劝解程蝶衣，二者在对待戏剧与现实关系的态度上形成强烈对比，构成情感与理念的对立张力。",
+    "source_documents": [
+      "scene_51_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_34339b488411",
+    "subject_id": "ep_39f4b97e95d06dad",
+    "object_id": "ep_107cec3787311e4d",
+    "relation_type": "causes",
+    "reason": "袁四爷赠剑并高度评价程蝶衣的表演，营造了强烈的情感语境，直接触发程蝶衣在后续场景中醉唱《霸王别姬》并横剑于颈，表现出由戏入真的情绪爆发。描述中明确指出‘在袁四爷赠剑的强烈情感语境下’，支持该因果关系。",
+    "source_documents": [
+      "scene_51_part_1",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_77b4a74e5e1a",
+    "subject_id": "ep_1025c1473da96501",
+    "object_id": "ep_94d919091a30fe20",
+    "relation_type": "contrasts_with",
+    "reason": "蝶衣与晓楼关系破裂后独自离去（现实中的情感决绝与孤立）与舞台上演绎霸王别姬的悲情离别（戏曲中的艺术化诀别）形成并置，二者在情感基调上呼应，但在情境上区分现实破裂与舞台表演，构成现实与戏剧之间的张力与对比。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_7004bd5a8a97",
+    "subject_id": "ep_107cec3787311e4d",
+    "object_id": "ep_94d919091a30fe20",
+    "relation_type": "contrasts_with",
+    "reason": "程蝶衣陷入情绪爆发的表演性高潮（ep_107cec3787311e4d）是在袁四爷赠剑后以戏入真、横剑于颈的自我献祭式行为，体现现实与戏剧界限的崩溃；而演绎霸王别姬的悲情离别（ep_94d919091a30fe20）是舞台上的戏曲演出，呈现的是程式化的戏剧表演。两者并置，突显了真实情感崩溃与舞台程式化表演之间的张力，构成基调与状态的对比。",
+    "source_documents": [
+      "scene_51_part_1",
+      "scene_47_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_97c2d4439c31",
+    "subject_id": "ep_83924ff6ba2ac507",
+    "object_id": "ep_1025c1473da96501",
+    "relation_type": "precedes",
+    "reason": "情节 '质问与回避：揭开情感裂痕' 描述了蝶衣与晓楼之间矛盾的初现，发生在晓楼拒绝袁四爷栽培并导致关系彻底破裂之前。根据叙事逻辑和情感发展脉络，情感裂痕的揭示在时间顺序上早于关系破裂后蝶衣独自离去，且两情节分别位于不同文档场景（scene_46 与 scene_50），支持前者先于后者。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_58be31d9d4e7",
+    "subject_id": "ep_087daa0b692e539b",
+    "object_id": "ep_1025c1473da96501",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节描绘蝶衣与晓楼之间亲密、细腻的身体与情感交流，二人在镜中相依，体现情感联结；而第二个情节展现晓楼划清关系后蝶衣的绝望与孤立，独自离去，情感状态形成强烈逆转。两个情节通过情感亲密度与疏离的并置，构成明显的基调对比。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bbc4d30ad134",
+    "subject_id": "ep_edab8d19e07f4a1c",
+    "object_id": "ep_844af06a3389775e",
+    "relation_type": "precedes",
+    "reason": "处理伤口并提醒仪式准备（scene_20）发生在行礼与自我惩戒（scene_29）之前，两个情节均关联祖师爷相关仪式，且scene_20在文档时序上早于scene_29，构成明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3429bb525a53",
+    "subject_id": "ep_e15e6c15349ca5fc",
+    "object_id": "ep_edab8d19e07f4a1c",
+    "relation_type": "precedes",
+    "reason": "母亲对小豆子实施恐吓或惩罚这一情节发生在小石头为小豆子处理伤口并提醒仪式准备之前，因为伤口的存在是前一情节的直接结果，且处理伤口的情节紧随其后，具有明确的时间顺序。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5df1a73cd6b9",
+    "subject_id": "ep_37eb3f80e635365f",
+    "object_id": "ep_edab8d19e07f4a1c",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节内容，小豆子表达死亡忧虑并留下遗言（doc_18）发生在小石头为他处理伤口并提醒仪式准备（doc_19）之前，两者在叙事流中连续出现，且无重叠事件，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_39852e8d40e4",
+    "subject_id": "ep_92fd097ff98244b5",
+    "object_id": "ep_601fcccc05a26c30",
+    "relation_type": "contrasts_with",
+    "reason": "情节'重申誓言与情感恳求'中，程蝶衣强调与段晓楼从一而终的艺术与情感承诺，表现出对二人关系的执着；而'晓楼要求蝶衣接受菊仙并担任证婚人'中，晓楼公开推进与菊仙的关系，迫使蝶衣承认现实，二者在情感忠诚与现实背叛之间形成强烈对比。两个情节在情感基调和人物立场上构成明显逆转，支持'contrasts_with'关系。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_2656eed1f19f",
+    "subject_id": "ep_d3ffa30f3d51ca3e",
+    "object_id": "ep_edab8d19e07f4a1c",
+    "relation_type": "precedes",
+    "reason": "情节 '纠正小豆子的错误并施加惩罚' 发生在场景18，而 '处理伤口并提醒仪式准备' 发生在场景20，且前者导致小豆子手部受伤，后者由小石头为其处理该伤口并继续准备仪式，叙事顺序明确，前者在时间上直接早于后者。",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1995e6cd812d",
+    "subject_id": "ep_92fd097ff98244b5",
+    "object_id": "ep_1025c1473da96501",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，程蝶衣重申誓言与情感恳求（ep_92fd097ff98244b5）发生在蝶衣与晓楼关系破裂后独自离去（ep_1025c1473da96501）之前。前者是蝶衣试图维系关系的高潮，后者则是晓楼拒绝后的直接结果，文本中事件发展具有明确的时间先后和情感递进。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c6feb2f4f387",
+    "subject_id": "ep_549c93ce1356184f",
+    "object_id": "ep_1025c1473da96501",
+    "relation_type": "contrasts_with",
+    "reason": "‘卸妆中表达艺术尊严’展现晓楼坚持艺术独立、拒绝权贵捧场的坚定立场，而‘蝶衣与晓楼关系破裂后独自离去’则呈现蝶衣在被晓楼划清关系后的绝望与孤立。两情节在情感基调（坚定 vs 绝望）和人物关系状态（主张独立 vs 被动决裂）上形成明显对比，构成叙事上的逆转与张力。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fb4841281a75",
+    "subject_id": "ep_a2157a89aef85a6f",
+    "object_id": "ep_edab8d19e07f4a1c",
+    "relation_type": "precedes",
+    "reason": "完成拜师仪式的关键步骤发生在关师傅主持的场景8，而处理伤口并提醒仪式准备发生在场景20，根据文档顺序和场景编号，情节ep_a2157a89aef85a6f在叙事顺序上早于ep_edab8d19e07f4a1c。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3bb1ce0fa1dc",
+    "subject_id": "ep_601fcccc05a26c30",
+    "object_id": "ep_1025c1473da96501",
+    "relation_type": "precedes",
+    "reason": "根据描述，晓楼要求蝶衣接受菊仙并担任证婚人（ep_601fcccc05a26c30）发生在定亲礼场景中，随后晓楼拒绝袁四爷栽培并划清与蝶衣的关系，直接导致蝶衣独自离去（ep_1025c1473da96501）。两个情节共享同一场景编号（scene_50），但事件序列显示关系破裂在先，蝶衣离开在后，因此存在明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_587b41d88044",
+    "subject_id": "ep_3c0547ea5a6609bc",
+    "object_id": "ep_ce059e28c4420bad",
+    "relation_type": "precedes",
+    "reason": "主体情节'恳求并交付小豆子入戏班'描述小豆子被送入戏班的初始事件，是其学艺生涯的起点；客体情节'展现戏曲学徒的成长与才艺'则呈现包括小豆子在内的学徒在戏班中成长与训练的过程。根据叙事逻辑，只有在小豆子被交付入戏班之后，才可能发生后续的训练与成长，因此主体情节在时间顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_65eee1a4fa3f",
+    "subject_id": "ep_33023486108f7443",
+    "object_id": "ep_92bf1ae7da5b383e",
+    "relation_type": "precedes",
+    "reason": "评估小豆子的学戏条件并拒收发生在小豆子拜师仪式之前，而小豆子在仪式前的恐惧与逃避发生在拜师仪式场景中。根据叙事顺序，拒收决定先于仪式场景中的行为，因此主体情节在时间上早于客体情节。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6864086ef2bb",
+    "subject_id": "ep_809f0490e6a02f83",
+    "object_id": "ep_035f55373cad3c27",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'以生理需求为借口试图逃离' 发生在 scene_35，而 '迎接小豆子并表达关切' 发生在 scene_36，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2286122bf1fb",
+    "subject_id": "ep_abe08df002daacfe",
+    "object_id": "ep_3c0547ea5a6609bc",
+    "relation_type": "precedes",
+    "reason": "小豆子母子在练功棚前观望发生在母亲决定将小豆子送入戏班之前，是情感铺垫阶段；随后才是恳求并交付小豆子入戏班的情节，具有明确的时间顺序推进。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_2__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2fb0dcaf7e1e",
+    "subject_id": "ep_3c0547ea5a6609bc",
+    "object_id": "ep_0132c667bff5b0a9",
+    "relation_type": "precedes",
+    "reason": "情节'恳求并交付小豆子入戏班'描述了小豆子被送入戏班的初始交付过程，发生在戏班选拔仪式的背景下；而'小石头与小豆子逃离并被捉回'发生在后续的选拔仪式期间，表明角色已进入戏班程序。因此，交付情节在叙事顺序上早于逃离与捉回情节。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5a6ea29ba5f9",
+    "subject_id": "ep_3c0547ea5a6609bc",
+    "object_id": "ep_68417670b36f3451",
+    "relation_type": "precedes",
+    "reason": "情节 '恳求并交付小豆子入戏班' 发生在母亲将小豆子强行带离庭院的场景中（scene_6），而 '小豆子反抗并表达情绪' 发生在随后的 scene_7，其中小豆子拉下围巾作为对之前强制行为的情绪回应。文本明确将后者标记为对前者压力的回应，表明清晰的叙事时序先后关系。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3c4735bcd115",
+    "subject_id": "ep_3c0547ea5a6609bc",
+    "object_id": "ep_e15e6c15349ca5fc",
+    "relation_type": "precedes",
+    "reason": "根据描述，'恳求并交付小豆子入戏班' 发生在戏班庭院中，母亲将小豆子交给关师傅；而 '母亲对小豆子实施恐吓或惩罚' 发生在后续场景（doc_7），涉及将小豆子按在磨刀石上进行威慑。两个情节在叙事上连续，且文档ID顺序（doc_6 到 doc_7）支持时间先后。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9beb5ebff133",
+    "subject_id": "ep_3c0547ea5a6609bc",
+    "object_id": "ep_930f0c8ba6e6fe1e",
+    "relation_type": "precedes",
+    "reason": "恳求并交付小豆子入戏班发生在小豆子进入戏园观看演出之前，因为小豆子必须先被送入戏班成为学徒，之后才可能与小癞子一同潜入戏园观看演出。文本中交付情节是小豆子进入戏班的起点，而观看演出是其后发生的外部活动，具有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4a057982e68f",
+    "subject_id": "ep_3c0547ea5a6609bc",
+    "object_id": "ep_f7ddbc2ab6141624",
+    "relation_type": "precedes",
+    "reason": "主体情节'恳求并交付小豆子入戏班'描述母亲将小豆子送入戏班并完成交付的过程，客体情节'母亲见证仪式并告别小豆子'发生在拜师仪式期间，包含母亲最后的告别行为。根据叙事逻辑和事件顺序，交付行为必须先于仪式见证与告别，因此主体情节在时间顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e516ee1c6d87",
+    "subject_id": "ep_3c0547ea5a6609bc",
+    "object_id": "ep_92bf1ae7da5b383e",
+    "relation_type": "precedes",
+    "reason": "主体情节‘恳求并交付小豆子入戏班’描述小豆子被母亲交付给戏班的过程，发生在堂屋之外；客体情节‘小豆子在仪式前的恐惧与逃避’发生在堂屋内，围绕拜师仪式展开，且涉及小豆子已被控制在戏班场景中。根据叙事逻辑和空间推进，交付完成后才可能进入仪式环节，因此主体情节在话语顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0ab723e86786",
+    "subject_id": "ep_3c0547ea5a6609bc",
+    "object_id": "ep_b9a4d76bf4dc8f87",
+    "relation_type": "precedes",
+    "reason": "主体情节‘恳求并交付小豆子入戏班’发生在小豆子被带入戏班的初始阶段，包括母亲恳求收留和物理移交；客体情节‘应对小豆子的突然闯入和尖叫’描述了小豆子进入练功棚引发的混乱反应，包含孩子们跌落和集体进入堂屋等事件。根据叙事顺序，交付完成后才可能发生闯入和尖叫事件，且‘related_occasions’中‘小豆子拜师仪式’出现在客体情节中，表明其发生在交付之后。因此，主体情节在话语顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_6_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8b4dd27815f2",
+    "subject_id": "ep_0132c667bff5b0a9",
+    "object_id": "ep_809f0490e6a02f83",
+    "relation_type": "precedes",
+    "reason": "小石头与小豆子逃离并被捉回发生在戏班选拔仪式的背景下，而以生理需求为借口试图逃离发生在后续场景中，涉及小豆子向张太监请求离开。两个情节均体现逃避行为，但根据场景编号（scene_34 先于 scene_35）和上下文推进，前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_68597ff2e6b0",
+    "subject_id": "ep_0132c667bff5b0a9",
+    "object_id": "ep_f7fa42feb37fd294",
+    "relation_type": "precedes",
+    "reason": "小石头与小豆子逃离并被捉回发生在戏班选拔仪式的背景下，标志着角色安排程序的开始；而强制小豆子开始受罚训练是后续在练功棚中实施的惩罚性训练，二者在叙事流程中呈现连续顺序，前者为后者提供了情境铺垫。尽管没有明确时间戳，但逃离失败后进入正式训练符合逻辑与叙事发展顺序。",
+    "source_documents": [
+      "scene_34_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4d9c9f93c99f",
+    "subject_id": "ep_92bf1ae7da5b383e",
+    "object_id": "ep_6b493bc869bc5944",
+    "relation_type": "precedes",
+    "reason": "小豆子在仪式前的恐惧与逃避发生在关家科班香堂的拜师仪式（scene_8），而聆听霸王别姬的教诲发生在同一科班的后续教学仪式（scene_29）中。根据相关场景编号和事件上下文，scene_8在叙事顺序上早于scene_29，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_467d505799ec",
+    "subject_id": "ep_92bf1ae7da5b383e",
+    "object_id": "ep_844af06a3389775e",
+    "relation_type": "precedes",
+    "reason": "小豆子在仪式前的恐惧与逃避（scene_8）发生在行礼与自我惩戒（scene_29）之前，两个情节分别关联于不同的场景编号（scene_8 和 scene_29），且scene_8在叙事顺序上早于scene_29，因此主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_29_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d0a5e03e0a3d",
+    "subject_id": "ep_0c7be6444af84db5",
+    "object_id": "ep_6c80e18e7cee2e2a",
+    "relation_type": "precedes",
+    "reason": "根据叙事顺序，老师爷纠正小豆子《思凡》唱词的情节发生在练功棚内，而小豆子完成情感爆发式演唱发生在后续场景（doc_27），且后者描述为在‘经历惩戒与沉默后’的突破，表明该事件紧随前者之后发生。因此，主体情节在时间顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_17-13_part_1",
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ed1af7a22af5",
+    "subject_id": "ep_abe08df002daacfe",
+    "object_id": "ep_e15e6c15349ca5fc",
+    "relation_type": "precedes",
+    "reason": "小豆子母子在练功棚前观望发生在母亲对小豆子实施恐吓或惩罚之前，根据叙事顺序，观望行为是后续惩罚场景的前置情境，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_2__2_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ae2e462cf8d3",
+    "subject_id": "ep_abe08df002daacfe",
+    "object_id": "ep_c1bda018910e8484",
+    "relation_type": "precedes",
+    "reason": "小豆子母子在练功棚前观望发生在小癞子与小豆子策划并实施逃跑之前，前者是初始观察状态，后者是后续的逃离行动，叙事顺序上明确先后。",
+    "source_documents": [
+      "scene_2__2_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6e2dc2623de0",
+    "subject_id": "ep_844af06a3389775e",
+    "object_id": "ep_6c80e18e7cee2e2a",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和场景编号，'行礼与自我惩戒'（scene_29）发生在'小豆子完成情感爆发式演唱'（scene_27__2）之前，scene_29的编号晚于scene_27__2，但scene_27__2属于doc_27，而scene_29属于doc_26，表明doc_26在叙事时间上早于doc_27，因此该关系为precedes。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2",
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ee34d509aae9",
+    "subject_id": "ep_abe08df002daacfe",
+    "object_id": "ep_f7ddbc2ab6141624",
+    "relation_type": "precedes",
+    "reason": "小豆子母子在练功棚前观望发生在拜师仪式之前，而母亲见证仪式并告别小豆子发生在仪式过程中及结束时，文本中事件的时间顺序支持这一先后关系。",
+    "source_documents": [
+      "scene_2__2_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0ea786163cdf",
+    "subject_id": "ep_abe08df002daacfe",
+    "object_id": "ep_b9a4d76bf4dc8f87",
+    "relation_type": "precedes",
+    "reason": "小豆子母子在练功棚前观望发生在小豆子尖叫并闯入之前，根据描述，观望是外部观察行为，而尖叫和冲入是后续的突发行动，具有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_2__2_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_273c765ee753",
+    "subject_id": "ep_abe08df002daacfe",
+    "object_id": "ep_f7fa42feb37fd294",
+    "relation_type": "precedes",
+    "reason": "小豆子母子在练功棚前观望发生在老师爷强制小豆子开始受罚训练之前，根据叙事顺序，观望是进入训练前的准备场景，且相关事件分别位于不同文档场景中（scene_2 和 scene_11），支持时间上的先后关系。",
+    "source_documents": [
+      "scene_2__2_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5fac4fb90dd0",
+    "subject_id": "ep_1025c1473da96501",
+    "object_id": "ep_d1efd918eeb8f1af",
+    "relation_type": "precedes",
+    "reason": "根据描述，'现实劝解与最终离去'（ep_d1efd918eeb8f1af）发生在段晓楼劝解蝶衣的场景（scene_46），而'蝶衣与晓楼关系破裂后独自离去'（ep_1025c1473da96501）发生在scene_50。scene_46在叙事顺序上早于scene_50，因此ep_d1efd918eeb8f1af在话语顺序上先于ep_1025c1473da96501。然而，由于主体是ep_1025c1473da96501，客体是ep_d1efd918eeb8f1af，该方向不成立；反向关系成立，故应为object precedes subject。但precedes为有向关系，且题目要求以给定主客体顺序判断，无法支持subject->object的precedes，亦无其他模式支持。经重新评估，两情节分别基于scene_50与scene_46，scene_46在前，ep_d1efd918eeb8f1af应为前，ep_1025c1473da96501为后，因此在当前主客体设定下（主体为后发情节，客体为先发情节），不能成立precedes（A precedes B 要求A在前）。故原判断错误。重新分析：两情节描述的是同一关系破裂过程的两个阶段，ep_d1efd918eeb8f1af为晓楼劝解、蝶衣沉默离去，ep_1025c1473da96501为蝶衣在袁四爷场景中进一步展现孤立，后者在叙事时间上可能紧随前者，且scene_46早于scene_50，因此ep_d1efd918eeb8f1af在前，ep_1025c1473da96501在后。因此，若主体是ep_1025c1473da96501，客体是ep_d1efd918eeb8f1af，则主体在时间上晚于客体，故主体不precede客体，而客体precede主体。由于precedes是有向关系，且仅当主体在前时才能成立，当前顺序不满足。无证据表明二者存在因果、对比或扩展关系。因此，尽管存在时间顺序，但方向与输入主客体相反，不能合法赋值。最终，无允许的关系类型可适用于此主客体顺序，输出NONE。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_827d18e7f121",
+    "subject_id": "ep_d3ffa30f3d51ca3e",
+    "object_id": "ep_97219ad2f5691db2",
+    "relation_type": "causes",
+    "reason": "情节'纠正小豆子的错误并施加惩罚'导致小豆子手部受伤（描述中明确指出'最终导致小豆子手部血肉模糊'），而后续情节'小豆子将受伤的手浸入水中并抗拒拉出'直接涉及该受伤的手的处理。因此，前一情节直接引发后一情节的身体反应和情绪宣泄，构成明确的因果关系。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_54dfba98a0c4",
+    "subject_id": "ep_d3ffa30f3d51ca3e",
+    "object_id": "ep_6c80e18e7cee2e2a",
+    "relation_type": "precedes",
+    "reason": "纠正小豆子的错误并施加惩罚发生在小豆子完成情感爆发式演唱之前，文本中描述的体罚和训斥是导致小豆子后续突破心理障碍演唱《思凡》的背景，且两个情节在叙事顺序上呈现先惩戒后爆发的清晰时间线。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2",
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e318d1a0cadb",
+    "subject_id": "ep_e15e6c15349ca5fc",
+    "object_id": "ep_f7ddbc2ab6141624",
+    "relation_type": "precedes",
+    "reason": "主体情节‘母亲对小豆子实施恐吓或惩罚’发生在文档7的场景中，而客体情节‘母亲见证仪式并告别小豆子’发生在文档8的场景中，文档顺序表明前者在叙事时间上早于后者，且两个情节分别属于小豆子被送入戏班前的威慑与正式分离的仪式，具有明确的先后顺序。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f198fa4f3013",
+    "subject_id": "ep_68417670b36f3451",
+    "object_id": "ep_f7ddbc2ab6141624",
+    "relation_type": "precedes",
+    "reason": "小豆子反抗并表达情绪发生在母亲见证仪式并告别小豆子之前，根据相关场景的叙事顺序，前者在母亲施加压力后立即发生，而后者发生在拜师仪式期间及结束时，构成后续事件。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6f2f7456d9d6",
+    "subject_id": "ep_9c3e2780adc445fe",
+    "object_id": "ep_c1294c56a58e1f2f",
+    "relation_type": "precedes",
+    "reason": "戏园老板考察小豆子资质发生在小豆子背诵《思凡》并出错之前，根据叙事顺序，考察资质是触发其表演的前置环节，而强制纠正发生在表演出错之后，因此前者在时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6a086e849a3e",
+    "subject_id": "ep_37eb3f80e635365f",
+    "object_id": "ep_2b32c3e5286cde00",
+    "relation_type": "precedes",
+    "reason": "小豆子表达死亡忧虑并留下遗言发生在逃离前的洗澡过程中（doc_18, scene_19），而小豆子与小石头告别发生在逃离即将完成之际（doc_20, scene_21），根据文档顺序和场景发展，前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cac825274b1a",
+    "subject_id": "ep_37eb3f80e635365f",
+    "object_id": "ep_c1bda018910e8484",
+    "relation_type": "precedes",
+    "reason": "小豆子在洗澡时表达死亡忧虑并留下遗言的情节发生在其与小癞子策划逃跑之前，根据叙事逻辑和人物行为转变，情绪积累的绝望状态为后续逃跑行动提供了动机铺垫，且文档中两个情节分别位于不同场景编号（scene_19 与 scene_21），支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3e2af4687227",
+    "subject_id": "ep_c1294c56a58e1f2f",
+    "object_id": "ep_6c80e18e7cee2e2a",
+    "relation_type": "precedes",
+    "reason": "强制纠正小豆子的性别认同表达发生在练功棚内的惩戒与排练仪式之前，而小豆子完成情感爆发式演唱是同一惩戒场景中的后续行为。根据叙事顺序，老师爷的强制纠正直接先于小豆子完整演唱《思凡》，标志着从被迫服从到情感突破的转变，因此该关系在时间顺序上明确支持。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7097ea237db0",
+    "subject_id": "ep_809f0490e6a02f83",
+    "object_id": "ep_2b32c3e5286cde00",
+    "relation_type": "precedes",
+    "reason": "以生理需求为借口试图逃离发生在小豆子与小石头告别的之前，因为前者是逃离计划的初步行动，而后者是逃离完成前的最后互动，叙事顺序上具有明确的先后关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_798f39c1eb3e",
+    "subject_id": "ep_54fd34aa27778018",
+    "object_id": "ep_c1bda018910e8484",
+    "relation_type": "precedes",
+    "reason": "小豆子持续承受痛苦并担忧同伴发生在练功训练场景中（scene_11），而小癞子与小豆子策划并实施逃跑发生在后续的scene_21，文档时序明确显示前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bd9df264af9d",
+    "subject_id": "ep_809f0490e6a02f83",
+    "object_id": "ep_c1bda018910e8484",
+    "relation_type": "precedes",
+    "reason": "小豆子以生理需求为借口试图逃离发生在练功棚内压抑情境下的个体逃避行为，而小癞子与小豆子策划并实施逃跑是后续两人共同冲出大门的集体行动。根据叙事逻辑和事件发展顺序，个体的逃离尝试早于有组织的联合逃跑，且后者标志着实际脱离现场的开始，因此前者在话语顺序上先于后者。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8bf36b07a4ab",
+    "subject_id": "ep_09ab786b696cc698",
+    "object_id": "ep_4903446c577e9f1e",
+    "relation_type": "contrasts_with",
+    "reason": "小豆子焚烧棉袍展现其在遭受集体欺凌时的愤怒与尊严维护，而为小石头披被照料则表现其温柔关怀的一面，两个情节通过行为态度的强烈反差凸显人物情感的复杂性，形成情感与互动模式上的对比。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_6dbabf7131a1",
+    "subject_id": "ep_54fd34aa27778018",
+    "object_id": "ep_2b32c3e5286cde00",
+    "relation_type": "precedes",
+    "reason": "情节 '小豆子持续承受痛苦并担忧同伴' 发生在梨园行练功训练场景（scene_11），而 '小豆子与小石头告别' 发生在逃离即将完成之际的场景（scene_21），scene_11 在叙事顺序上早于 scene_21，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f58c6d4de7ef",
+    "subject_id": "ep_54fd34aa27778018",
+    "object_id": "ep_4903446c577e9f1e",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'小豆子持续承受痛苦并担忧同伴' 发生在 scene_11，而 '小豆子为小石头披被照料' 发生在 scene_12，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ef8703095aa8",
+    "subject_id": "ep_54fd34aa27778018",
+    "object_id": "ep_0e4a17bbb45178de",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'小豆子持续承受痛苦并担忧同伴' 发生在 scene_11，而 '小豆子坚持陪伴小石头入睡' 发生在 scene_12，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1d123da585f2",
+    "subject_id": "ep_930f0c8ba6e6fe1e",
+    "object_id": "ep_6c80e18e7cee2e2a",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节内容，小豆子和小癞子潜入戏园观看京剧演出（doc_22）发生在小豆子在练功棚完成情感爆发式演唱之前（doc_27），前者是其戏剧启蒙的关键时刻，后者是其突破心理障碍的首次表现，叙事时间线上有明确先后顺序。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_57862c07cda8",
+    "subject_id": "ep_4c2492e7f83b21ca",
+    "object_id": "ep_8d204674f36c2309",
+    "relation_type": "contrasts_with",
+    "reason": "实施羞辱性排尿仪式体现对小豆子的压迫与控制，而小石头介入并安抚小豆子则展现关怀与支持，两者在对待小豆子的态度和行为上形成情感与人际互动的对比。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_5d1eb2895e0f",
+    "subject_id": "ep_4c2492e7f83b21ca",
+    "object_id": "ep_f7ddbc2ab6141624",
+    "relation_type": "precedes",
+    "reason": "实施羞辱性排尿仪式发生在小豆子娘见证仪式并告别小豆子之前，根据相关场景编号（scene_35 vs scene_8）可判断叙事顺序为先发生排尿仪式，随后是母亲的见证与告别。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2d5e5afe0ff7",
+    "subject_id": "ep_92bf1ae7da5b383e",
+    "object_id": "ep_809f0490e6a02f83",
+    "relation_type": "precedes",
+    "reason": "情节 '小豆子在仪式前的恐惧与逃避' 发生在拜师仪式场景（scene_8），而 '以生理需求为借口试图逃离' 发生在后续场景（scene_35），文档中 scene_8 在叙事顺序上早于 scene_35，因此前者在时间上先于后者。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_34f11d1a3c12",
+    "subject_id": "ep_18969d9f9dee83b7",
+    "object_id": "ep_8d204674f36c2309",
+    "relation_type": "contrasts_with",
+    "reason": "暴力追捕与身体制服体现张太监对小豆子的压迫升级，而小石头介入并安抚小豆子则展现同伴间的关怀与缓和意图。两者在行为基调（暴力 vs. 安抚）和人际关系性质（控制 vs. 支持）上形成明显对比，文本通过并置强化了这种对立。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_897d9bef9085",
+    "subject_id": "ep_1030328041d4ec14",
+    "object_id": "ep_809f0490e6a02f83",
+    "relation_type": "precedes",
+    "reason": "小豆子表演失误引发危机（ep_1030328041d4ec14）发生在戏园排练场景中（doc_27），而以生理需求为借口试图逃离（ep_809f0490e6a02f83）发生在后续的doc_32，且事件逻辑上是表演失误后心理压力的延续，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a9c7f99f5c9c",
+    "subject_id": "ep_09ab786b696cc698",
+    "object_id": "ep_f7fa42feb37fd294",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和场景编号，'小豆子遭受欺凌并焚毁棉袍'发生在scene_10，而'强制小豆子开始受罚训练'发生在scene_11，表明前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6f881d28442c",
+    "subject_id": "ep_92bf1ae7da5b383e",
+    "object_id": "ep_4c2492e7f83b21ca",
+    "relation_type": "precedes",
+    "reason": "小豆子在仪式前的恐惧与逃避发生在堂屋内，涉及钻桌、逃跑和被按倒在祖师爷像前，属于拜师仪式场景（scene_8）；而实施羞辱性排尿仪式发生在张太监提供水晶壶并指令排尿的场景（scene_35），时间上明显靠后。两个情节在叙事顺序上清晰分离，且‘相关事件’的scene编号从8到35递增，支持前者在时间上先于后者。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0c3756f42ab5",
+    "subject_id": "ep_92bf1ae7da5b383e",
+    "object_id": "ep_18969d9f9dee83b7",
+    "relation_type": "precedes",
+    "reason": "小豆子在仪式前的恐惧与逃避（ep_92bf1ae7da5b383e）发生在拜师仪式场景中（doc_8），而暴力追捕与身体制服（ep_18969d9f9dee83b7）发生在后续的室内场景（doc_32），文档ID的顺序和事件发展的叙事逻辑表明前者在时间上早于后者，构成明确的叙事先后关系。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4e2a0dafb92b",
+    "subject_id": "ep_92bf1ae7da5b383e",
+    "object_id": "ep_087be9e3feb7c172",
+    "relation_type": "precedes",
+    "reason": "小豆子在仪式前的恐惧与逃避（scene_8）发生在小豆子独唱赢得观众喝彩（scene_31）之前，根据相关场景编号（scene_8 vs scene_31）可明确判断叙事时间顺序。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fa8938803f06",
+    "subject_id": "ep_92bf1ae7da5b383e",
+    "object_id": "ep_f7fa42feb37fd294",
+    "relation_type": "precedes",
+    "reason": "小豆子在仪式前的恐惧与逃避（scene_8）发生在强制小豆子开始受罚训练（scene_11）之前，根据场景编号的顺序和叙事流程，前者为拜师仪式中的行为，后者为仪式后的训练惩罚，存在明确的时间先后关系。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1a7bb040f88a",
+    "subject_id": "ep_92bf1ae7da5b383e",
+    "object_id": "ep_54fd34aa27778018",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节内容，小豆子在仪式前的恐惧与逃避（doc_8）发生在小豆子持续承受痛苦并担忧同伴（doc_10）之前，且两个情节分别关联于不同场景（scene_8 vs scene_11），表明前者在叙事时间线上早于后者。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7c997fadf5c9",
+    "subject_id": "ep_54fd34aa27778018",
+    "object_id": "ep_5d5f295df3bbc35d",
+    "relation_type": "precedes",
+    "reason": "小豆子在身心受创状态下持续担忧小石头的处境，发生在小石头实施惩戒之前，根据叙事上下文，小豆子的担忧是对小石头即将采取惩罚行动的反应前状态，且相关事件在场景顺序中早于惩戒行为。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c05ff1e699ac",
+    "subject_id": "ep_b9a4d76bf4dc8f87",
+    "object_id": "ep_f7fa42feb37fd294",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对小豆子的突然闯入和尖叫'发生在练功棚外的突发场景，导致孩子们惊慌并进入堂屋，该事件在叙事顺序上紧接其后引出老师爷对小豆子采取惩罚性训练。客体情节'强制小豆子开始受罚训练'发生在scene_11，而主体情节发生在scene_8，文档顺序和事件发展逻辑表明前者在时间上明确早于后者，构成直接的前后叙事序列。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c856860de7db",
+    "subject_id": "ep_6c80e18e7cee2e2a",
+    "object_id": "ep_087be9e3feb7c172",
+    "relation_type": "precedes",
+    "reason": "小豆子完成情感爆发式演唱（ep_6c80e18e7cee2e2a）发生在练功棚内的惩戒与排练仪式中，是其突破心理障碍的起点；而小豆子独唱赢得观众喝彩（ep_087be9e3feb7c172）发生在张太监寿辰堂会的公开演出场合，属于后续舞台表现。两个情节共享小豆子表演成长的叙事脉络，且文本中惩戒与觉醒先于公开成功，具有明确的时间与叙事顺序支持。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a78094aa980e",
+    "subject_id": "ep_1030328041d4ec14",
+    "object_id": "ep_6c80e18e7cee2e2a",
+    "relation_type": "precedes",
+    "reason": "小豆子表演失误引发危机发生在练功棚内惩戒之前，随后在惩戒过程中小豆子完成情感爆发式演唱，二者在同一场景（scene_27__2）中按时间顺序先后发生，文本描述支持前者为后者的叙事前序。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6af99ca002dc",
+    "subject_id": "ep_0821a1601aed067c",
+    "object_id": "ep_6c80e18e7cee2e2a",
+    "relation_type": "precedes",
+    "reason": "小癞子安慰小豆子并自我逞强发生在练功训练场景（scene_11），而小豆子完成情感爆发式演唱发生在后续的惩戒与排练仪式（scene_27__2），文档中scene_11早于scene_27__2，因此该关系在叙事顺序上明确支持。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2eea3547883b",
+    "subject_id": "ep_54fd34aa27778018",
+    "object_id": "ep_6c80e18e7cee2e2a",
+    "relation_type": "precedes",
+    "reason": "小豆子持续承受痛苦并担忧同伴发生在练功训练场景（scene_11），而小豆子完成情感爆发式演唱发生在后续的惩戒与排练仪式（scene_27__2），文档中scene_11早于scene_27__2，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_758127568b04",
+    "subject_id": "ep_92bf1ae7da5b383e",
+    "object_id": "ep_6c80e18e7cee2e2a",
+    "relation_type": "precedes",
+    "reason": "小豆子在仪式前的恐惧与逃避（ep_92bf1ae7da5b383e）发生在拜师仪式场景（doc_8），而小豆子完成情感爆发式演唱（ep_6c80e18e7cee2e2a）发生在练功棚惩戒与排练场景（doc_27），文档编号27在8之后，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_02eabc92dfca",
+    "subject_id": "ep_ab4e7c4a37f3dc77",
+    "object_id": "ep_c62933a0d034ae9e",
+    "relation_type": "precedes",
+    "reason": "蝶衣和晓楼抵达戏园并接受群众欢迎（ep_ab4e7c4a37f3dc77）发生在晓楼宣布为菊仙举办定亲礼（ep_c62933a0d034ae9e）之前，根据叙事顺序，前者在doc_38，后者在doc_47，文档编号顺序支持时间先后，且事件发展符合线性叙事流程。",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1ddcf9e1454e",
+    "subject_id": "ep_af33228c346c7f44",
+    "object_id": "ep_f17b5df510b7b12a",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述观众因表演精彩而热烈反响，客体情节进一步提供观众情绪高涨、投掷鲜花和涌向舞台等具体行为，扩展了主体情节中‘热烈反响’的细节，构成对同一场景的深化描述。",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_73417d59e8e3",
+    "subject_id": "ep_4a8c983557f59ec8",
+    "object_id": "ep_37e819fb2310c735",
+    "relation_type": "precedes",
+    "reason": "启动接客与安排陪客发生在晓楼与菊仙定亲之前，因为晓楼最初试图见菊仙但被告知她外出应酬，而定亲仪式是后续在同一场景中发生的事件。根据描述顺序和事件流，接客安排先于定亲喜讯的宣告。",
+    "source_documents": [
+      "scene_42__2_part_1",
+      "scene_42__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_56b93d3111eb",
+    "subject_id": "ep_556dafeaffc36720",
+    "object_id": "ep_601fcccc05a26c30",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在晓楼打听菊仙下落并展示其追求头牌的野心，属于早期接触阶段；第二个情节发生在晓楼公开要求蝶衣接受菊仙并担任证婚人，标志着关系的正式确立。两个情节在叙事时间线上呈现清晰的先后顺序，且文档ID（doc_42早于doc_47）支持这一时序。",
+    "source_documents": [
+      "scene_42__2_part_1",
+      "scene_42__2_part_2",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d5e4e965285a",
+    "subject_id": "ep_556dafeaffc36720",
+    "object_id": "ep_b0b152c7d883d11d",
+    "relation_type": "precedes",
+    "reason": "晓楼打探菊仙下落并展示其追求头牌的野心发生在菊仙被赶出花满楼后向晓楼求助之前。根据叙事逻辑和事件发展顺序，晓楼主动打听菊仙位置表明此时他正在追求她，而后续菊仙求助并表白心迹是这一追求关系发展的结果。因此，'打探菊仙下落并展示野心'在时间顺序上明确早于'菊仙求助晓楼并表白心迹'。",
+    "source_documents": [
+      "scene_42__2_part_1",
+      "scene_42__2_part_2",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8e195b8f0baa",
+    "subject_id": "ep_05f6c179f7618c84",
+    "object_id": "ep_c1bda018910e8484",
+    "relation_type": "causes",
+    "reason": "老师爷对小癞子的公开体罚及其带来的恐惧氛围，可能直接促使小癞子与小豆子策划并实施逃跑，作为对严酷纪律的反应。描述中虽未明言因果，但体罚情节作为震慑手段的失败自然导向后续逃跑行为，构成直接触发关系。",
+    "source_documents": [
+      "scene_17-13_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_85a33bf8690c",
+    "subject_id": "ep_930f0c8ba6e6fe1e",
+    "object_id": "ep_593fc29621bc65de",
+    "relation_type": "elaborates",
+    "reason": "情节'潜入戏园观看京剧演出'描述了小豆子和小癞子初次观看霸王与虞姬表演的场景，提供了关于演出如何被观众感知的背景和细节；而'霸王虞姬对手戏引发全场喝彩'则聚焦于该演出中的具体高潮段落。前者通过展示观众视角和沉浸过程，为后者所呈现的表演效果和反响提供了上下文解释，构成对后者情境的扩展说明。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_92ae9032653c",
+    "subject_id": "ep_1d11746da1cdd528",
+    "object_id": "ep_3f706dc89bf1cc84",
+    "relation_type": "precedes",
+    "reason": "情节 '被表演震撼并情绪崩溃' 发生在戏园京剧演出期间（scene_23），而 '小癞子之死引发集体震惊' 发生在后续场景（scene_26），根据文档中场景编号的顺序，前者在叙事时间上明确早于后者。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_26_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_50c8589980b0",
+    "subject_id": "ep_c1bda018910e8484",
+    "object_id": "ep_3f706dc89bf1cc84",
+    "relation_type": "precedes",
+    "reason": "小癞子与小豆子策划并实施逃跑发生在小癞子之死引发集体震惊之前，根据叙事顺序，逃跑事件（scene_21）早于小癞子上吊的噩耗报告（scene_26），且小癞子的死亡是逃跑后的结果，因此该关系在时间顺序上明确支持。",
+    "source_documents": [
+      "scene_26_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_baea544cdbf3",
+    "subject_id": "ep_c62933a0d034ae9e",
+    "object_id": "ep_37e819fb2310c735",
+    "relation_type": "precedes",
+    "reason": "晓楼宣布为菊仙举办定亲礼（ep_c62933a0d034ae9e）发生在戏园场景中，确立了定亲仪式的公共场合；而宣告定亲喜讯与共饮定亲酒（ep_37e819fb2310c735）是该仪式的具体执行环节，包含倒酒、宣布喜讯和共饮等事件。根据叙事顺序，宣布举办定亲礼在先，实际进行定亲庆祝在后，二者属于同一故事线中前后衔接的情节，前者为后者提供场合框架。因此，'precedes' 关系成立，且方向为宣布仪式先于仪式性庆祝。",
+    "source_documents": [
+      "scene_42__2_part_1",
+      "scene_42__2_part_2",
+      "scene_50_part_1",
+      "scene_50_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_75fae369cbb4",
+    "subject_id": "ep_3e5815f418c2951b",
+    "object_id": "ep_3758d8bd66dc881d",
+    "relation_type": "precedes",
+    "reason": "袁四爷入场并接扇观演（scene_42）发生在演出过程中四爷观看并赞赏表演（scene_49）之前，根据场景编号的顺序和事件流，前者为观众就位，后者为演出结束时的反应，具有明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f708b1b3b7b5",
+    "subject_id": "ep_59a403fc18809e3c",
+    "object_id": "ep_3758d8bd66dc881d",
+    "relation_type": "precedes",
+    "reason": "袁四爷专注品评蝶衣演技（scene_43）发生在四爷观看并赞赏表演（scene_49）之前，根据相关场景编号的顺序，scene_43早于scene_49，表明前者在叙事时间上先于后者。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f0e9cc176717",
+    "subject_id": "ep_59a403fc18809e3c",
+    "object_id": "ep_1ff663f9377a4731",
+    "relation_type": "precedes",
+    "reason": "袁四爷专注品评蝶衣演技发生在舞台演出期间（scene_43），而袁四爷突访化妆间发生在演出后的后台会面（scene_44），根据相关场合的时间顺序，前者在叙事时序上明确早于后者。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0560dd8993d5",
+    "subject_id": "ep_3e5815f418c2951b",
+    "object_id": "ep_20f80d56d3e8302c",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，袁四爷入场并接扇观演（scene_42）发生在邀请与婉拒中的社交周旋（scene_44）之前，scene_42在文档中早于scene_44，因此该关系在叙事顺序上有明确支持。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f904a2837520",
+    "subject_id": "ep_59a403fc18809e3c",
+    "object_id": "ep_39f4b97e95d06dad",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'袁四爷专注品评蝶衣演技' 发生在 scene_43，而 '赠礼与艺术评价中的地位确认' 发生在 scene_44，scene_43 在叙事顺序上早于 scene_44，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_62e597acd9fa",
+    "subject_id": "ep_59a403fc18809e3c",
+    "object_id": "ep_136d18d90d508f25",
+    "relation_type": "elaborates",
+    "reason": "袁四爷专注品评蝶衣演技展示了他对蝶衣艺术层面的深度关注，为后续袁四爷回应并完成亲密的情感确认提供了情感和评价上的铺垫，后者在亲密互动中进一步深化了前者所建立的欣赏与张力，因此前者通过扩展背景和情感基调来丰富后者的意义。",
+    "source_documents": [
+      "scene_51_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_7f0a44a262cb",
+    "subject_id": "ep_59a403fc18809e3c",
+    "object_id": "ep_20f80d56d3e8302c",
+    "relation_type": "precedes",
+    "reason": "袁四爷在包厢内专注品评蝶衣演技（scene_43）发生在蝶衣与晓楼婉拒四爷邀请（scene_44）之前，根据场景编号的顺序，scene_43在叙事时间上早于scene_44，因此该关系为precedes。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ca9e9ad7a43c",
+    "subject_id": "ep_1ff663f9377a4731",
+    "object_id": "ep_136d18d90d508f25",
+    "relation_type": "contrasts_with",
+    "reason": "袁四爷突访打断蝶衣与晓楼的私密时刻，与后续袁四爷与程蝶衣之间充满张力的亲密情感确认形成情绪和氛围上的对比，前者引入外部社交压力，后者则深化私人情感张力。",
+    "source_documents": [
+      "scene_51_part_1",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_2af73ad8ad5e",
+    "subject_id": "ep_3758d8bd66dc881d",
+    "object_id": "ep_136d18d90d508f25",
+    "relation_type": "precedes",
+    "reason": "四爷观看并赞赏表演发生在程蝶衣情绪崩溃之前，根据叙事顺序，观看表演（scene_49）在先，随后是袁四爷制止程蝶衣并完成亲密确认（scene_51），因此该关系在时间顺序上明确支持 precedes。",
+    "source_documents": [
+      "scene_51_part_1",
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1643568dcf0c",
+    "subject_id": "ep_3e5815f418c2951b",
+    "object_id": "ep_59a403fc18809e3c",
+    "relation_type": "precedes",
+    "reason": "袁四爷入场并接扇观演（ep_3e5815f418c2951b）发生在其专注品评蝶衣演技（ep_59a403fc18809e3c）之前，因为前者描述其进入包厢并就座的初始动作，后者描述其在演出进行中持续凝视和被征求评价的行为，二者在叙事时序上具有明确的先后顺序。",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bd2b8393bdde",
+    "subject_id": "ep_7c309a900f868a87",
+    "object_id": "ep_af33228c346c7f44",
+    "relation_type": "causes",
+    "reason": "《霸王别姬》的舞台表演直接引发观众热烈反响，文本明确指出观众因演出精彩而多次狂热叫好，构成直接的因果关系。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c3bf705f7f1a",
+    "subject_id": "ep_3e5815f418c2951b",
+    "object_id": "ep_39f4b97e95d06dad",
+    "relation_type": "precedes",
+    "reason": "袁四爷入场并接扇观演（ep_3e5815f418c2951b）发生在戏园中的会面与交流场景（scene_42），而赠礼与艺术评价中的地位确认（ep_39f4b97e95d06dad）发生在后续的scene_44，相关事件明确标注在不同场景中，且scene_42在叙事顺序上早于scene_44，因此该关系为precedes。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_06f0429fbe20",
+    "subject_id": "ep_1ff663f9377a4731",
+    "object_id": "ep_20f80d56d3e8302c",
+    "relation_type": "precedes",
+    "reason": "袁四爷突访打破私密氛围发生在化妆间内，紧接着引发后续的邀请与婉拒互动。根据描述，袁四爷进入并致意后，随即发出邀请，构成明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_246ed7bd1ded",
+    "subject_id": "ep_59a403fc18809e3c",
+    "object_id": "ep_7c309a900f868a87",
+    "relation_type": "elaborates",
+    "reason": "袁四爷专注品评蝶衣演技这一情节通过提供戏园老板征求权威评价的细节，扩展了《霸王别姬》舞台表演这一核心艺术呈现的背景和意义，二者共享同一场合且前者为后者增添了外部视角的解读，构成对表演的深化阐释。",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_1cacc871bb9c",
+    "subject_id": "ep_39f4b97e95d06dad",
+    "object_id": "ep_136d18d90d508f25",
+    "relation_type": "precedes",
+    "reason": "赠礼与艺术评价中的地位确认（ep_39f4b97e95d06dad）发生在戏园会面场景（scene_44），而袁四爷回应并完成亲密的情感确认（ep_136d18d90d508f25）发生在后续场景（scene_51），文本中scene_44早于scene_51，因此该关系在叙事顺序上明确 precedes。",
+    "source_documents": [
+      "scene_51_part_1",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_974c390864f8",
+    "subject_id": "ep_1ff663f9377a4731",
+    "object_id": "ep_39f4b97e95d06dad",
+    "relation_type": "precedes",
+    "reason": "根据描述，袁四爷突访打破私密氛围发生在蝶衣与晓楼亲密相依时，随后才发生赠礼与艺术评价中的地位确认。两个情节共享同一场合（scene_44），且事件序列显示突访在先，赠礼和评价在后，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f5dae6a35494",
+    "subject_id": "ep_39f4b97e95d06dad",
+    "object_id": "ep_3758d8bd66dc881d",
+    "relation_type": "precedes",
+    "reason": "赠礼与艺术评价中的地位确认（ep_39f4b97e95d06dad）发生在戏园会面场景（scene_44），而四爷观看并赞赏表演（ep_3758d8bd66dc881d）发生在演出过程及结尾（scene_49），scene_44在叙事顺序上早于scene_49，因此该关系为precedes。",
+    "source_documents": [
+      "scene_49_part_1",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ac90b1c2b8db",
+    "subject_id": "ep_cb6ed04888381d8a",
+    "object_id": "ep_37eb3f80e635365f",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_19）中，且描述的事件具有明确的时序逻辑：小石头为小豆子洗澡并提醒护手是洗澡过程中的行为，而小豆子表达死亡忧虑并留下遗言是在此过程中后续的情感表达。因此，'小石头为小豆子洗澡并提醒护手'在叙事顺序上先于'小豆子表达死亡忧虑并留下遗言'。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2e419ef88719",
+    "subject_id": "ep_75caa3034c6bab05",
+    "object_id": "ep_f17b5df510b7b12a",
+    "relation_type": "causes",
+    "reason": "推动程蝶衣登台谢幕直接引发了观众表达狂热赞赏，因为谢幕动作启动了观众热烈反应的开始，文本明确将观众反应与登台动作关联。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0ff32247726d",
+    "subject_id": "ep_902a99f8bf67fa62",
+    "object_id": "ep_f6c8fda42bba7231",
+    "relation_type": "contrasts_with",
+    "reason": "菊仙短暂返回缓和气氛以言语软化冲突情绪，与老鸨表达愤怒与控制通过激烈动作和辱骂形成情绪与行为上的对比，二者在基调上呈现明显逆转，构成并置对比关系。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_91a012f34209",
+    "subject_id": "ep_75caa3034c6bab05",
+    "object_id": "ep_5f8f0d7b3bfb64d6",
+    "relation_type": "precedes",
+    "reason": "推动程蝶衣登台谢幕启动了谢幕仪式，剪纸飘落作为后续的视觉点缀，增强仪式感，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fc5f53a3a0ae",
+    "subject_id": "ep_caf3da20377e7026",
+    "object_id": "ep_cb788aad084829e9",
+    "relation_type": "precedes",
+    "reason": "菊仙揭露羞辱经历并驱散施暴者发生在妓院接客场合（scene_42__2），而菊仙决裂妓院身份发生在后续场景（scene_45）。根据文档顺序和场景编号，scene_42 在 scene_45 之前，表明前一情节在叙事顺序上早于后一情节。",
+    "source_documents": [
+      "scene_42__2_part_1",
+      "scene_42__2_part_2",
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e366b9095a1a",
+    "subject_id": "ep_1ff663f9377a4731",
+    "object_id": "ep_1025c1473da96501",
+    "relation_type": "precedes",
+    "reason": "袁四爷突访打断蝶衣与晓楼的私密时刻（ep_1ff663f9377a4731），随后晓楼拒绝袁四爷并划清与蝶衣的关系，最终导致蝶衣独自离去（ep_1025c1473da96501）。叙事顺序上，突访事件早于关系破裂与离去情节，且文本中场景编号（scene_44 先于 scene_50）提供明确时间先后支持。",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_50_part_2",
+      "scene_44_part_1",
+      "scene_44_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_576f4c3b2182",
+    "subject_id": "ep_cb788aad084829e9",
+    "object_id": "ep_d21b70dccba3f681",
+    "relation_type": "contrasts_with",
+    "reason": "菊仙通过扔掉首饰和鞋、清点洋钱来决裂妓院身份，表达脱离过去身份的决心；而老鸨在冲突结束后重新清点洋钱，回归物质利益导向的日常状态。两个情节并置，突显菊仙追求身份解放与老鸨执着于金钱利益之间的价值观对比，形成强烈反差。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_849f3133f367",
+    "subject_id": "ep_cb788aad084829e9",
+    "object_id": "ep_f6c8fda42bba7231",
+    "relation_type": "causes",
+    "reason": "菊仙决裂妓院身份的行为（清点洋钱、扔掉首饰和鞋）直接触发了老鸨的愤怒反应，包括吸烟、扫落物品和辱骂，文本中两个情节发生在同一场景（scene_45），且老鸨的回应是对菊仙叛离行为的即时情绪和权力上的反击，具有明确的因果时序和动因支持。",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1b1e98d886d0",
+    "subject_id": "ep_2f4eb99e3b003bae",
+    "object_id": "ep_5d5f295df3bbc35d",
+    "relation_type": "precedes",
+    "reason": "戏园老板评价小豆子有潜力发生在小石头实施惩戒之前，根据场景顺序，老板的评价为后续惩戒行为提供上下文，但未直接引发该行为。两个情节共享同一场合（戏班排练视察），但评价在叙事时间上先于惩戒行动。",
+    "source_documents": [
+      "scene_27__2_part_1",
+      "scene_27__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c5383761fcf7",
+    "subject_id": "ep_65b6ae9b21cc1557",
+    "object_id": "ep_caf3da20377e7026",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均发生在同一场合（妓院接客场合），晓楼以自残方式敬酒展示控制力，而菊仙揭露被强迫喂酒的羞辱并驱散施暴者，二者在权力展示与受辱反抗之间形成情感与行为上的对比。",
+    "source_documents": [
+      "scene_42__2_part_1",
+      "scene_42__2_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_b95d632a14d0",
+    "subject_id": "ep_37e819fb2310c735",
+    "object_id": "ep_caf3da20377e7026",
+    "relation_type": "contrasts_with",
+    "reason": "‘宣告定亲喜讯与共饮定情酒’是一个仪式性、正面的情感表达场景，涉及自愿和尊严的结合；而‘揭露羞辱经历并驱散施暴者’则揭示了菊仙过去在类似饮酒行为中的非自愿与受辱经历，二者通过相似行为（饮酒）在情感基调和权力关系上形成强烈对比，文本中并置呈现以突出尊严与羞辱的逆转。",
+    "source_documents": [
+      "scene_42__2_part_1",
+      "scene_42__2_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_b7de5824c740",
+    "subject_id": "ep_75caa3034c6bab05",
+    "object_id": "ep_17c303964970f369",
+    "relation_type": "precedes",
+    "reason": "根据描述，戏园老板推动程蝶衣登台谢幕是启动谢幕仪式的动作，而程蝶衣多次行礼致谢是该仪式中的后续行为。related_events 中的事件顺序也支持‘推上舞台’发生在‘行万福礼’之前。因此，‘推动程蝶衣登台谢幕’在叙事顺序上早于‘程蝶衣多次行礼致谢’。",
+    "source_documents": [
+      "scene_49_part_1"
+    ],
+    "confidence": 0.95
+  }
+]

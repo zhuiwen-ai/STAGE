@@ -1,0 +1,66 @@
+{
+  "character": "John_Ackerman",
+  "qas": [
+    {
+      "question": "What did you pay attention to when you entered the room?",
+      "supporting_facts": [
+        "you observed the monitor displaying Cara's expression",
+        "you noted the presence of the empty chair",
+        "you faced the study upon entry"
+      ],
+      "contradicting_facts": [
+        "you ignored the monitor displaying Cara's expression",
+        "you failed to notice the empty chair"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you witness regarding Quinn's departure?",
+      "supporting_facts": [
+        "Ackerman was present and observed Quinn being led away",
+        "Ackerman had visual awareness of Quinn during the escort"
+      ],
+      "contradicting_facts": [
+        "You did not see Quinn being taken away",
+        "Quinn left voluntarily and without supervision, as far as you know"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How do you typically respond when things become chaotic around you?",
+      "supporting_facts": [
+        "You remain calm during chaotic situations",
+        "Your demeanor does not change under pressure"
+      ],
+      "contradicting_facts": [
+        "You become agitated or reactive when chaos occurs",
+        "You require external control to maintain composure"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do immediately after Frank entered the room?",
+      "supporting_facts": [
+        "Ackerman gestured for Frank to sit in a chair.",
+        "Ackerman clicked on a slide."
+      ],
+      "contradicting_facts": [
+        "You remained silent and did not acknowledge Frank's presence.",
+        "You left the room right after Frank sat down."
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "How did you communicate your instructions to the team during the operation?",
+      "supporting_facts": [
+        "you ordered the team to maintain surveillance",
+        "you nodded to Goyal as a form of nonverbal communication"
+      ],
+      "contradicting_facts": [
+        "you gave no instructions to the team",
+        "you verbally reprimanded Goyal during the operation"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

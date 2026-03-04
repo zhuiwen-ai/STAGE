@@ -1,0 +1,4588 @@
+[
+  {
+    "id": "rel_ep_ep_f37a46db577d",
+    "subject_id": "ep_ab4ac153e6a4aa02",
+    "object_id": "ep_edae988de8dece10",
+    "relation_type": "precedes",
+    "reason": "处理战友伤亡并缓和紧张关系发生在以包饺子为喻重建战友信任之前，描述中明确指出后者是在前者紧张气氛缓和后发生的，且两个情节共享同一场景编号(scene_7__2)，表明其在叙事顺序上的先后关系。",
+    "source_documents": [
+      "scene_7__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_31e5b7717944",
+    "subject_id": "ep_dfd9cc9d20ef9001",
+    "object_id": "ep_463dd40709be68de",
+    "relation_type": "precedes",
+    "reason": "谷子地借火点烟并分发香烟发生在劝说战士铭记战争代价并带领队伍转移之前，相关事件序列显示分发香烟后紧接着劝说与转移行动，叙事顺序明确。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b942f6dae0f3",
+    "subject_id": "ep_bfd48f68186022ca",
+    "object_id": "ep_6e61ac3df06124eb",
+    "relation_type": "elaborates",
+    "reason": "部署防御任务并争取资源这一情节包含了刘泽水赠烟和叮嘱的上下文，而接受赠烟并感知永别意味则进一步揭示了谷子地对同一行为的情感解读和深层含义，后者为前者提供了情感和心理层面的扩展说明。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_27_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_644d558d4e24",
+    "subject_id": "ep_545ef0088f3d8099",
+    "object_id": "ep_da6f6d3f9c9f807f",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，谷子地先安抚王金存并重建其战斗意志，随后组织转移龚良国遗体并完成告别仪式，两个情节均发生在scene_36，但对话安抚逻辑上早于遗体处理动作。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b0c8c83c5372",
+    "subject_id": "ep_51865cfba883f89d",
+    "object_id": "ep_545ef0088f3d8099",
+    "relation_type": "precedes",
+    "reason": "谷子地先发现王金存陷入心理崩溃，随后才进行安抚并重建其战斗意志。两个情节发生在同一场景（scene_36），且描述中的动作顺序表明‘发现’在‘安抚’之前，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7131981c9d7b",
+    "subject_id": "ep_26acc69b19af2769",
+    "object_id": "ep_e6abc8e0d249d4e4",
+    "relation_type": "precedes",
+    "reason": "九连残部休整与伤亡清点情节中，焦大棚报告伤亡情况是处理文书职责的冲突与确认情节的直接前提；后者发生在前者报告之后，谷子地随即指派焦大棚继续负责文书工作，叙事顺序明确且连续。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_53c2136d0be2",
+    "subject_id": "ep_7a74c0fb1f3ac18f",
+    "object_id": "ep_0d8903bfae3bf7ad",
+    "relation_type": "precedes",
+    "reason": "部署伏击并等待敌军进入射程发生在发起全面火力阻击压制敌军冲锋之前，文本描述了先等待敌军接近、保持冷静，随后在烟头烫手时下令开火，构成明确的叙事时间顺序。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_80b19cd50fc3",
+    "subject_id": "ep_1970f71aca75ea83",
+    "object_id": "ep_dfd9cc9d20ef9001",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_16，但根据事件序列，谷子地取水并了解部队损失中的事件（如报告九连伤亡、命令整理阵亡名单）在叙事逻辑上早于借火点烟和分发香烟的行为，后者体现战后片刻的松弛，构成时间顺序上的直接前导。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_27fb755a7727",
+    "subject_id": "ep_d2038e24248b9cad",
+    "object_id": "ep_4a1a5037f589783e",
+    "relation_type": "precedes",
+    "reason": "‘寻找并发现重伤的指导员’在叙事顺序上早于‘救助指导员并理解其遗愿’，因为必须先发现指导员才能进行救助和临终互动，且两个情节均发生在scene_10中，描述了连续的动作序列。",
+    "source_documents": [
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fd203ec2f0ff",
+    "subject_id": "ep_ee289296b098f700",
+    "object_id": "ep_bfd48f68186022ca",
+    "relation_type": "precedes",
+    "reason": "根据描述，'完成用餐并展现粗犷习性'发生在刘团长与谷子地的战前任务商议会初期，紧随其后的是'部署防御任务并争取资源'，二者共享同一场合(scene_27)，且用餐行为在叙事顺序上明显早于任务布置与资源谈判。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_27_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8fb74696619d",
+    "subject_id": "ep_7d88cfc0b67a41de",
+    "object_id": "ep_0fcf1a558f7fef1a",
+    "relation_type": "precedes",
+    "reason": "执行炮击并确认击落敌机后，谷子地立即带领部队离开坟地奔向新的爆炸区域，表明该情节在叙事顺序上先于追击新出现的战场目标。描述中‘在成功击落飞机后’明确支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3a36be8e3aac",
+    "subject_id": "ep_001074bea4fddc77",
+    "object_id": "ep_6a9d6da4768e898c",
+    "relation_type": "precedes",
+    "reason": "谷子地组织撤离并激励战士的情节包含他指挥战士撤离和对王金存进行心理开导的事件，之后文本明确指出在所有战士撤离、谷子地离开后，王金存独自留在窑场中承受心理压力，表明第一个情节在叙事顺序上直接早于第二个情节。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4641e357bd34",
+    "subject_id": "ep_51865cfba883f89d",
+    "object_id": "ep_da6f6d3f9c9f807f",
+    "relation_type": "precedes",
+    "reason": "谷子地先发现王金存陷入心理崩溃，随后才组织转移龚良国遗体并完成告别仪式。两个情节发生在同一场景（scene_36），但逻辑和叙事顺序上，发现王金存状态异常在前，干预并推进遗体转移在后，因此主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d62e9c275e3d",
+    "subject_id": "ep_1970f71aca75ea83",
+    "object_id": "ep_463dd40709be68de",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_16，但'谷子地取水并了解部队损失'包含信息收集与命令下达（如整理阵亡名单），而'谷子地反思战争代价并带领队伍转移'包含后续的劝说、丢弃烟蒂和队伍转移行动，表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8750cf675246",
+    "subject_id": "ep_bfd48f68186022ca",
+    "object_id": "ep_ba732e58a3de3c80",
+    "relation_type": "precedes",
+    "reason": "在刘团长与谷子地的战前任务商议会中，先部署防御任务并争取资源，随后确认作战指令与撤退条件，两个情节按时间顺序先后发生，且均属于同一场合下的连续叙事单元。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_27_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b2f4965cd620",
+    "subject_id": "ep_3bee2e390ed49a33",
+    "object_id": "ep_aeb60cc1413e63c4",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序和叙事流程，'迎接并介绍新任代理指导员' 发生在敌军炮击之前。描述中两个情节均发生在 scene_30，但介绍王金存及相关互动（如请求写信）为后续炮击发生时王金存的反应提供了上下文，表明其发生在前。文本中事件的排列顺序支持该情节顺序。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_858f80004593",
+    "subject_id": "ep_8e596f282a18eb10",
+    "object_id": "ep_36e58986742f81fd",
+    "relation_type": "precedes",
+    "reason": "确认坠机现场铁盒安全发生在组织收集并分发食物之前，因为只有在谷子地确认铁盒无害并试吃后，士兵们才开始兴奋地收集和搬运食物。两个情节均发生在scene_22，且描述中的动作顺序支持这一时间先后关系。",
+    "source_documents": [
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8ef2d4e25062",
+    "subject_id": "ep_26acc69b19af2769",
+    "object_id": "ep_84d1fb3d4ac16f13",
+    "relation_type": "precedes",
+    "reason": "九连残部休整与伤亡清点发生在敌机挑衅之前，根据叙事顺序，部队在战斗后进行休整和损失统计，随后才遭遇敌方运输机低空飞过并撒下传单的事件。两个情节在时间线上连续，且前者为战后评估阶段，后者为新一轮敌情应对的开始，具有明确的先后顺序。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_28cc7bdf1937",
+    "subject_id": "ep_592b11883e4ae9a9",
+    "object_id": "ep_84d1fb3d4ac16f13",
+    "relation_type": "precedes",
+    "reason": "主体情节'稳定炮架并指定瞄准手准备射击'发生在敌机飞过并撒下传单之前，为应对敌机挑衅做准备；客体情节'应对敌机挑衅并组织反击'包含重新架设炮位和士气反应，明显在敌机出现后发生。两个情节通过连续战斗场景连接，主体情节在叙事时间上早于客体情节。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f3a9071fbfa5",
+    "subject_id": "ep_91b7414763649df1",
+    "object_id": "ep_ea8048bfc1f374b0",
+    "relation_type": "precedes",
+    "reason": "根据描述，罗广田执行机枪压制任务发生在谷子地下令调整射速之前，且后者明确以罗广田的过度扫射为干预前提，表明前者在叙事和因果时序上直接早于后者。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3323fa1c1b46",
+    "subject_id": "ep_592b11883e4ae9a9",
+    "object_id": "ep_d8748870612e37dd",
+    "relation_type": "precedes",
+    "reason": "稳定炮架并指定瞄准手准备射击发生在排除装填故障并完成紧急射击之前，因为必须先确保火炮稳定并指定瞄准手，才能进行后续的装填和射击操作。两个情节均发生在scene_19，且逻辑上前者为后者的准备阶段。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b4ee9d0e842c",
+    "subject_id": "ep_001074bea4fddc77",
+    "object_id": "ep_7f7556d7642e4caf",
+    "relation_type": "elaborates",
+    "reason": "谷子地组织撤离并激励战士克服恐惧这一情节，通过具体的心理干预和指挥行为，扩展和深化了战士们在窑场避炮并维持战备状态这一更广泛情境中的反应与状态。两个情节共享同一场合（窑场中的避炮集结），且前者聚焦于领导行为对后者中集体心理状态的调节与影响，提供了关于士气管理和个体反应的额外细节。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_945d21e3bb32",
+    "subject_id": "ep_84d1fb3d4ac16f13",
+    "object_id": "ep_0fcf1a558f7fef1a",
+    "relation_type": "precedes",
+    "reason": "在敌机飞过并撒下传单后，谷子地组织反击（应对敌机挑衅并组织反击），随后带领部队奔向远处爆炸发生地（追击新出现的战场目标）。两个情节均发生在scene_21，但根据描述顺序和战场逻辑，组织反击在先，追击新目标在后。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ffa28eb14e3b",
+    "subject_id": "ep_545ef0088f3d8099",
+    "object_id": "ep_ab15e3794b113b92",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，谷子地先安抚王金存并重建其战斗意志（scene_36中的对话），随后在王金存背负尸体离开后目送并独自哀悼（scene_36中的后续动作），两个情节在同一场景中按先后顺序发生，叙事上前者早于后者。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c80525827604",
+    "subject_id": "ep_ba732e58a3de3c80",
+    "object_id": "ep_42f102b4a321e259",
+    "relation_type": "precedes",
+    "reason": "确认作战指令与撤退条件发生在会谈过程中，明确设定了以集结号为唯一撤退信号的规则；结束会谈并响应集结号则描述了会谈结束后集结号响起、任务进入执行阶段的情节。根据叙事顺序，确认指令在前，响应集结号在后，且后者标志着任务执行的开始，因此前者在话语和时间顺序上先于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_27_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c9c4b161ee9a",
+    "subject_id": "ep_182752f8cfff120f",
+    "object_id": "ep_93a908243d097d02",
+    "relation_type": "precedes",
+    "reason": "谷子地在战火中寻找并发现重伤的指导员这一情节在时间顺序上明确早于他尝试救助并回应指导员临终遗愿的情节。描述中指出，发现重伤垂死的指导员是后续救助尝试和倾听遗愿的前提，且两个情节共享同一场景（scene_9__2），构成连续的叙事流程。",
+    "source_documents": [
+      "scene_9__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fff81f86e18f",
+    "subject_id": "ep_57e9af9f9c320522",
+    "object_id": "ep_b1ecc3238cf01fe8",
+    "relation_type": "precedes",
+    "reason": "根据描述，谷子地与指导员的对峙争吵发生在同一场景（scene_5）中，且为谷子地随后突袭行动前的指挥层冲突。争吵揭示战术分歧，为后续谷子地独自出击提供叙事铺垫，表明该对峙在时间顺序上先于突袭行动。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3af661a5faeb",
+    "subject_id": "ep_84d1fb3d4ac16f13",
+    "object_id": "ep_7d88cfc0b67a41de",
+    "relation_type": "precedes",
+    "reason": "‘应对敌机挑衅并组织反击’描述了谷子地带领战士重新架设炮位以反击敌机，而‘执行炮击并确认击落敌机’则是实际开炮并击落敌机的结果。根据描述中的事件顺序，组织反击发生在实际炮击之前，且两个情节共享同一场景（scene_21）和连续的叙事流程，因此前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_89d85b99e04e",
+    "subject_id": "ep_da6f6d3f9c9f807f",
+    "object_id": "ep_ab15e3794b113b92",
+    "relation_type": "precedes",
+    "reason": "组织转移遗体并完成战友告别发生在目送遗体转移后独自哀悼之前，因为谷子地先指挥并参与遗体整理与告别，随后王金存背负尸体离开，谷子地才目送并陷入哀伤。两个情节共享scene_36的时序上下文，且事件流显示前者为后者的直接前置。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_562d1b836bed",
+    "subject_id": "ep_6d7c978fce81e38a",
+    "object_id": "ep_14866eaf7c88a812",
+    "relation_type": "precedes",
+    "reason": "情节 '谷子地与部下短暂休整并传递默契' 发生在战斗早期阶段，包含谷子地与指导员互动的场景；而 '应对指导员牺牲的瞬间' 明确描述指导员已牺牲后的反应。根据叙事逻辑和事件发展，前者在时间顺序上早于后者，且 'related_events' 中指导员在后者中已死亡，表明前者必须先发生。",
+    "source_documents": [
+      "scene_13__2_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_715c0804c3e0",
+    "subject_id": "ep_26acc69b19af2769",
+    "object_id": "ep_04d57c6f6900cccd",
+    "relation_type": "precedes",
+    "reason": "九连残部休整与伤亡清点发生在战后立即的静止状态，包括清点人数和检查装备，而战后物资交换与队伍重新集结涉及主动的物资交换和队伍移动，叙述上紧随其后。两个情节共享同一场景编号（scene_14__2），但休整与清点行为逻辑上先于集体行动的恢复，因此在叙事顺序中前者早于后者。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e05da376fbc2",
+    "subject_id": "ep_6d7c978fce81e38a",
+    "object_id": "ep_02a7a061a51b5377",
+    "relation_type": "precedes",
+    "reason": "根据描述，'谷子地与部下短暂休整并传递默契' 发生在战场掩体后的相对平静时刻，涉及指导员尚在生还的互动；而 '残存连队发起冲锋并发现指导员阵亡' 明确包含指导员已阵亡的情节。因此，休整情节在叙事时间上早于指导员阵亡的发现，构成明确的先后顺序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_95176c333bfe",
+    "subject_id": "ep_51865cfba883f89d",
+    "object_id": "ep_ab15e3794b113b92",
+    "relation_type": "precedes",
+    "reason": "根据描述，谷子地先发现王金存陷入心理崩溃并进行干预，之后王金存背负尸体离开，谷子地目送并独自哀悼。两个情节均发生在scene_36，但事件顺序上‘发现王金存陷入心理崩溃’在‘目送遗体转移后独自哀悼’之前，具有明确的叙事时序。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dbacb91655a1",
+    "subject_id": "ep_02a7a061a51b5377",
+    "object_id": "ep_14866eaf7c88a812",
+    "relation_type": "elaborates",
+    "reason": "两个情节均描述指导员阵亡后谷子地和焦大棚的反应，核心事件高度重合。'残存连队发起冲锋并发现指导员阵亡' 包含冲锋和发现牺牲的完整场景，而 '应对指导员牺牲的瞬间' 聚焦于情感反应的细节，提供了对前一情节中人物心理的进一步扩展和深化，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_13__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_48d96e7343ba",
+    "subject_id": "ep_26acc69b19af2769",
+    "object_id": "ep_7d5c02d739b2ee74",
+    "relation_type": "precedes",
+    "reason": "九连残部休整与伤亡清点发生在点燃香烟与战后感受的训话之前，因为清点人数和整理阵亡名单是战斗刚结束后的初步行动，而点烟和谷子地的训话是在部队初步稳定后进行的反思性活动，且两个情节共享同一场景编号(scene_14__2)，表明其顺序性。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d52536bef638",
+    "subject_id": "ep_6d7c978fce81e38a",
+    "object_id": "ep_b0434dd44dd83be1",
+    "relation_type": "elaborates",
+    "reason": "情节'谷子地与部下短暂休整并传递默契'发生在同一场景（scene_3）中，通过展示人物间的非语言交流和状态，为'指导员主张强攻而谷子地坚持等待战机'这一战术分歧提供了情感和情境背景，增强了对谷子地决策时部队疲惫状态和内部张力的理解，因此该情节扩展并丰富了后者的情境。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_aa4c3f01fa05",
+    "subject_id": "ep_0d8903bfae3bf7ad",
+    "object_id": "ep_ea8048bfc1f374b0",
+    "relation_type": "precedes",
+    "reason": "主体情节'发起全面火力阻击压制敌军冲锋'描述了谷子地下令开火并组织火力网的初始战斗阶段，客体情节'谷子地调整火力并移交指挥'则描述了后续的战术调整与指挥权转移。根据描述中的行动顺序，先有全面开火，后有对火力过猛的纠正和指挥交接，因此主体情节在叙事时序上明确早于客体情节。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_82d79fb17475",
+    "subject_id": "ep_e65a9578afea9542",
+    "object_id": "ep_a15053fe0479255d",
+    "relation_type": "precedes",
+    "reason": "情节'应对从天而降的炸药包'中，尉官拾起炸药包并准备投掷，是后续姜茂财开枪击中尉官、导致炸药包持续喷出火花的前提。叙事上，炸药包落下并被尉官控制发生在先，随后才发生枪击与爆炸危机升级，因此该情节在话语顺序上明确早于'阻止尉官并引发爆炸危机'。",
+    "source_documents": [
+      "scene_11__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d199be7fba37",
+    "subject_id": "ep_45459ebd760d9ea9",
+    "object_id": "ep_f7cf50c18cee2498",
+    "relation_type": "precedes",
+    "reason": "主体情节描述将火炮搬运并架设在坟地制高点，为对空射击做准备；客体情节描述敌机返回后引发对空反击并维持火力，包含操作火炮追踪敌机和指挥开火。两个情节均发生在scene_19，且主体情节中的架设火炮是后续应对敌机攻击的前提，叙事顺序上明确先完成火炮部署，再应对敌机再袭，因此主体情节在话语和行动顺序上早于客体情节。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fb9fdb5c8fea",
+    "subject_id": "ep_262918edd52b8601",
+    "object_id": "ep_c3f87e7c768d6c82",
+    "relation_type": "elaborates",
+    "reason": "团长表现出对事件的内心不安这一情节通过展示刘泽水在会议中的焦虑行为，进一步揭示了处理吕庄哄抢战利品事件所带来的心理影响，从而为该事件的纪律宣布环节提供了情感层面的补充和扩展。两个情节共享同一场合（139团作战会议），且‘内心不安’并非独立目标驱动的情节，而是对‘处理哄抢事件’这一核心情节的情感深化。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_25cba55b1b17",
+    "subject_id": "ep_c3f87e7c768d6c82",
+    "object_id": "ep_65dd3623b456e61d",
+    "relation_type": "precedes",
+    "reason": "在139团作战会议中，张政委先宣布对吕庄哄抢战利品事件的处理决定，随后宣布团党委的紧急决定并安排作战地图和指令的交接。两个情节共享同一场合（scene_23），且从描述的逻辑顺序推断，纪律通报在作战任务布置之前，因此'处理吕庄哄抢战利品事件'在叙事顺序上早于'宣布紧急决定并交接后续指令'。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f82e8119d625",
+    "subject_id": "ep_26acc69b19af2769",
+    "object_id": "ep_284160eec1ebadcb",
+    "relation_type": "elaborates",
+    "reason": "实体 #1 '九连残部休整与伤亡清点' 包含了比实体 #2 '九连幸存士兵战后休整' 更详细的行动和人物行为，包括焦大棚清点人数并报告、谷子地检查军靴并下令整理阵亡名单等额外事件。这些细节扩展并深化了对同一战后休整场景的描述，表明实体 #1 在信息内容上对实体 #2 进行了具体化和补充，符合 'elaborates' 关系的定义。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e704d87c6397",
+    "subject_id": "ep_22ea4164526e6692",
+    "object_id": "ep_7d5c02d739b2ee74",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，谷子地获取香烟并分发给部下发生在焦大棚使用缴获打火机为战友们点烟以及谷子地训话之前。相关事件序列显示，香烟和打火机的获取是后续点烟和反思行为的前提，且两个情节共享同一场景编号(scene_14__2)，表明其在叙事顺序中的先后关系。因此，'谷子地获取香烟并分发给部下'在叙事上早于'点燃香烟与战后感受的训话'。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_baac214f2d59",
+    "subject_id": "ep_182752f8cfff120f",
+    "object_id": "ep_02a7a061a51b5377",
+    "relation_type": "precedes",
+    "reason": "谷子地在战火中寻找并发现重伤的指导员发生在指导员阵亡之前，因为发现重伤是阵亡的前序状态，且两个情节共享同一事件链，叙事上从发现重伤推进到确认死亡。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_9__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6d0cf369099e",
+    "subject_id": "ep_d2038e24248b9cad",
+    "object_id": "ep_02a7a061a51b5377",
+    "relation_type": "precedes",
+    "reason": "寻找并发现重伤的指导员这一情节在叙事上早于残存连队发起冲锋并发现指导员阵亡。根据描述，发现重伤指导员是后续事件的前提，且在时间顺序上，指导员被发现后才可能在其阵亡后引发冲锋与悲痛反应。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1a60503fe115",
+    "subject_id": "ep_3b690fd400fa3dd0",
+    "object_id": "ep_da6f6d3f9c9f807f",
+    "relation_type": "precedes",
+    "reason": "抢救龚良国并应对重伤危机发生在龚良国死亡之前，而组织转移遗体并完成战友告别是在其死亡后的处理过程，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_504109d9320c",
+    "subject_id": "ep_3b690fd400fa3dd0",
+    "object_id": "ep_51865cfba883f89d",
+    "relation_type": "precedes",
+    "reason": "抢救龚良国并应对重伤危机发生在王金存心理崩溃之前，因为王金存是在救治失败后陷入崩溃状态，而谷子地随后才发现其异常。叙事上，事件顺序明确：先有抢救失败，再有心理崩溃的发现。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1c8437b78b68",
+    "subject_id": "ep_4a1a5037f589783e",
+    "object_id": "ep_02a7a061a51b5377",
+    "relation_type": "precedes",
+    "reason": "情节 '救助指导员并理解其遗愿' 描述了指导员濒死时传达遗言的过程，而 '残存连队发起冲锋并发现指导员阵亡' 明确指出指导员已经阵亡，且谷子地抱着其遗体。因此，救助与理解遗愿的情节在叙事顺序上必然早于发现阵亡的情节。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_def80171eade",
+    "subject_id": "ep_57e9af9f9c320522",
+    "object_id": "ep_02a7a061a51b5377",
+    "relation_type": "precedes",
+    "reason": "谷子地与指导员对峙争吵发生在指导员阵亡之前，逻辑上争吵作为指挥层冲突的情节早于指导员死亡及其后续情绪反应。描述中两事件分别位于scene_5和scene_15，支持叙事时间顺序上的先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_80d4a6018a4d",
+    "subject_id": "ep_b0434dd44dd83be1",
+    "object_id": "ep_02a7a061a51b5377",
+    "relation_type": "precedes",
+    "reason": "情节 '指导员主张强攻而谷子地坚持等待战机' 发生在战场决策阶段（scene_3），而 '残存连队发起冲锋并发现指导员阵亡' 发生在后续战斗结果阶段（scene_15），文本通过场景编号和事件发展顺序明确支持前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d813a2a60c23",
+    "subject_id": "ep_04d57c6f6900cccd",
+    "object_id": "ep_285c3a4f9889f2d3",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述战后在街道上进行物资交换并汇入大部队，属于战斗结束后的整顿阶段；第二个情节描述谷子地率领部队携带重装备穿越低地，在风雪中行军，属于向下一作战区域转移的行军阶段。从叙事逻辑和军事行动流程推断，队伍必须先完成集结和整编，才能进行长途行军，因此前者在时间顺序上先于后者。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_14cb05eba61d",
+    "subject_id": "ep_285c3a4f9889f2d3",
+    "object_id": "ep_7a74c0fb1f3ac18f",
+    "relation_type": "precedes",
+    "reason": "谷子地带领队伍穿越低地并运送重装备（ep_285c3a4f9889f2d3）发生在部队部署伏击并等待敌军进入射程（ep_7a74c0fb1f3ac18f）之前，根据相关事件的时间顺序，行军穿越低地（scene_28）早于敌军接近阵地和伏击部署（scene_32），因此该关系在叙事顺序上明确支持precedes。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8e4bda231214",
+    "subject_id": "ep_3b690fd400fa3dd0",
+    "object_id": "ep_545ef0088f3d8099",
+    "relation_type": "causes",
+    "reason": "抢救龚良国并应对重伤危机导致王金存因无法承受场面而心理崩溃，这一结果直接触发了谷子地随后安抚王金存并重建其战斗意志的情节。文本中王金存的崩溃与后续被安慰形成明确的因果链条，支持该关系。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8eab8ee5aa56",
+    "subject_id": "ep_2260349f64ddc83e",
+    "object_id": "ep_02a7a061a51b5377",
+    "relation_type": "precedes",
+    "reason": "情节'争论是否立即强攻并坚持战术等待'发生在指导员还活着并参与战术决策时，而'残存连队发起冲锋并发现指导员阵亡'明确描述了指导员已阵亡，因此前者在叙事时间顺序上必然早于后者。两个情节通过指导员的生死状态形成清晰的时间先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_5__2_part_1",
+      "scene_5__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_19d61e01d870",
+    "subject_id": "ep_02a7a061a51b5377",
+    "object_id": "ep_dfd9cc9d20ef9001",
+    "relation_type": "precedes",
+    "reason": "残存连队发起冲锋并发现指导员阵亡（scene_15）在叙事顺序上早于谷子地借火点烟并分发战利品香烟（scene_16），根据相关事件的时间戳和场景编号，scene_15发生在scene_16之前，且前者为战斗高潮，后者为战后松弛场景，符合叙事上的先后顺序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7e4a4fbc77fc",
+    "subject_id": "ep_02a7a061a51b5377",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "残存连队发起冲锋并发现指导员阵亡的情节发生在统计伤亡并部署遗体安置之前。描述中，谷子地在指导员阵亡后悲痛跪地，而后续在篝火旁与焦大棚评估损失并下令转移尸体，表明前者在叙事顺序上直接早于后者。相关事件的时间上下文（scene_15 vs scene_36）也支持这一时间先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9d6614d1322a",
+    "subject_id": "ep_02a7a061a51b5377",
+    "object_id": "ep_3bee2e390ed49a33",
+    "relation_type": "precedes",
+    "reason": "残存连队发起冲锋并发现指导员阵亡这一情节中，原指导员阵亡导致了指导员职位空缺；随后在迎接并介绍新任代理指导员的情节中，王金存被任命为新任代理指导员，填补该空缺。文本通过事件逻辑顺序明确支持这一时间先后关系，且两个情节共享连队政治领导权更替的叙事线索。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_482810defa0d",
+    "subject_id": "ep_02a7a061a51b5377",
+    "object_id": "ep_26acc69b19af2769",
+    "relation_type": "precedes",
+    "reason": "残存连队发起冲锋并发现指导员阵亡的情节包含激烈的战斗场景和人员伤亡，而九连残部休整与伤亡清点发生在战斗结束后，涉及战后状态评估、清点人数和整理阵亡名单。根据军事行动的常规流程和描述中的上下文，战斗冲锋与人员阵亡必然在休整和清点之前发生，因此该关系在叙事顺序上为直接先行。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_14__2_part_1",
+      "scene_14__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a080f2b1b73d",
+    "subject_id": "ep_3b690fd400fa3dd0",
+    "object_id": "ep_6a9d6da4768e898c",
+    "relation_type": "precedes",
+    "reason": "抢救龚良国并应对重伤危机发生在战斗现场，涉及谷子地和王金存等人的集体行动；而王金存独自面对恐惧与内疚的情节发生在所有战士撤离、谷子地离开后的寂静窑场中。根据叙事顺序，集体救援事件在前，王金存独处承受心理压力在后，具有明确的时间先后关系。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c8b5fb2b28e6",
+    "subject_id": "ep_6dccf25638b04ce2",
+    "object_id": "ep_02a7a061a51b5377",
+    "relation_type": "precedes",
+    "reason": "指导员下令一排推进并引发跟进（ep_6dccf25638b04ce2）发生在战斗初期，推动进攻展开；而残存连队发起冲锋并发现指导员阵亡（ep_02a7a061a51b5377）描述的是后续战场上指导员已牺牲的结局场景。根据叙事逻辑和事件发展顺序，进攻命令的情节在时间上早于指导员阵亡及后续反应，因此前者在叙事顺序上 precedes 后者。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_3__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e899375d9e30",
+    "subject_id": "ep_4602726ef07d67ea",
+    "object_id": "ep_02a7a061a51b5377",
+    "relation_type": "precedes",
+    "reason": "指导员发起突击导致部队失控（ep_4602726ef07d67ea）在叙事顺序上早于残存连队发起冲锋并发现指导员阵亡（ep_02a7a061a51b5377），因为指导员的突击行动直接导致其阵亡，随后残存连队在冲锋中发现其遗体。文本中描述的事件链条支持这一时间顺序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5b1544f77233",
+    "subject_id": "ep_02a7a061a51b5377",
+    "object_id": "ep_04d57c6f6900cccd",
+    "relation_type": "precedes",
+    "reason": "主体情节描述的是战斗过程中残存连队冲锋并发现指导员阵亡，情绪悲痛的场景；客体情节描述的是战后物资交换与队伍重新集结的过程。从叙事顺序看，战斗中的牺牲事件必然发生在战后重整之前，且两个情节分别属于不同场景（scene_15 与 scene_14__2），但根据事件逻辑和战争进程，冲锋与阵亡发生在战斗高潮阶段，而物资交换和队伍集结发生在战斗结束后，因此主体情节在时间上先于客体情节。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_14__2_part_1",
+      "scene_14__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_41acef286318",
+    "subject_id": "ep_02a7a061a51b5377",
+    "object_id": "ep_1970f71aca75ea83",
+    "relation_type": "precedes",
+    "reason": "残存连队发起冲锋并发现指导员阵亡（ep_02a7a061a51b5377）发生在战斗激烈进行时，指导员已阵亡，谷子地悲痛抱遗体；而谷子地取水并了解部队损失（ep_1970f71aca75ea83）发生在战后，通过清点人数和报告战果体现战后情境。scene_15 事件在文档顺序和叙事逻辑上早于 scene_16，且两情节分别属于连续的场景编号，支持明确的时间先后顺序。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_19527eb5c6bc",
+    "subject_id": "ep_02a7a061a51b5377",
+    "object_id": "ep_e6abc8e0d249d4e4",
+    "relation_type": "precedes",
+    "reason": "残存连队发起冲锋并发现指导员阵亡（ep_02a7a061a51b5377）发生在战斗激烈进行时，指导员阵亡是触发后续战后管理任务（如处理文书职责）的前提；处理文书职责的冲突与确认（ep_e6abc8e0d249d4e4）聚焦于战后伤亡名单整理，逻辑上紧随前者之后，且相关事件（scene_15 vs scene_14__2）暗示前者在叙事顺序上早于后者。因此，该关系为‘precedes’。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_14__2_part_1",
+      "scene_14__2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a667e3947cff",
+    "subject_id": "ep_02a7a061a51b5377",
+    "object_id": "ep_463dd40709be68de",
+    "relation_type": "precedes",
+    "reason": "残存连队发起冲锋并发现指导员阵亡（ep_02a7a061a51b5377）发生在战场激烈交火和人员伤亡的背景下，而谷子地反思战争代价并带领队伍转移（ep_463dd40709be68de）描述的是战后撤离阶段，包括分发香烟、铭记代价和队伍重组。根据叙事顺序，前者为战斗高潮中的悲痛时刻，后者为战斗结束后的收束行为，且两个情节分别位于文档 doc_14 和 doc_15 中，表明时间上的先后顺序。因此，主体情节在叙事和话语顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_59e49b0322af",
+    "subject_id": "ep_d2038e24248b9cad",
+    "object_id": "ep_14866eaf7c88a812",
+    "relation_type": "precedes",
+    "reason": "‘寻找并发现重伤的指导员’这一情节在叙事顺序上早于‘应对指导员牺牲的瞬间’，因为只有在发现指导员重伤后，才会发生其牺牲及战友们的情感反应。描述中明确指出前者是后者的前提。",
+    "source_documents": [
+      "scene_13__2_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1eadf6754183",
+    "subject_id": "ep_182752f8cfff120f",
+    "object_id": "ep_14866eaf7c88a812",
+    "relation_type": "precedes",
+    "reason": "谷子地在战火中寻找并发现重伤的指导员发生在指导员牺牲之后、战友们对其牺牲做出情感反应之前。根据描述，发现指导员重伤是导致后续应对牺牲情节的直接前序事件，叙事时间顺序明确。",
+    "source_documents": [
+      "scene_13__2_part_1",
+      "scene_9__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_01a8fac54fed",
+    "subject_id": "ep_93a908243d097d02",
+    "object_id": "ep_14866eaf7c88a812",
+    "relation_type": "precedes",
+    "reason": "根据描述，谷子地尝试救助并回应指导员的临终遗愿发生在指导员牺牲前的垂死时刻，而应对指导员牺牲的瞬间则聚焦于其死亡后的即时反应。因此，救助与临终回应的情节在叙事顺序上早于对牺牲的悲痛反应。",
+    "source_documents": [
+      "scene_13__2_part_1",
+      "scene_9__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6ba3186705de",
+    "subject_id": "ep_4a1a5037f589783e",
+    "object_id": "ep_14866eaf7c88a812",
+    "relation_type": "precedes",
+    "reason": "情节'救助指导员并理解其遗愿'描述了指导员临终前传达遗言的过程，而'应对指导员牺牲的瞬间'则聚焦于指导员牺牲后战友的情感反应。根据叙事逻辑和事件顺序，救助与遗愿理解必须发生在牺牲被确认之前，因此前者在时间上先于后者。",
+    "source_documents": [
+      "scene_13__2_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e83156d10076",
+    "subject_id": "ep_b0434dd44dd83be1",
+    "object_id": "ep_14866eaf7c88a812",
+    "relation_type": "precedes",
+    "reason": "情节 '指导员主张强攻而谷子地坚持等待战机' 发生在战斗早期阶段，涉及战术分歧，而 '应对指导员牺牲的瞬间' 是指导员死亡后的直接情感反应。根据叙事逻辑和事件发展，战术争论在时间上先于指导员牺牲的结果，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_13__2_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2f893e4ea587",
+    "subject_id": "ep_6dccf25638b04ce2",
+    "object_id": "ep_14866eaf7c88a812",
+    "relation_type": "precedes",
+    "reason": "情节 '指导员下令一排推进并引发跟进' 发生在战斗初期，推动进攻行动展开；而 '应对指导员牺牲的瞬间' 描述的是指导员牺牲后的即时情感反应，逻辑上和叙事上均紧随其后。根据事件序列，指导员的命令与行动发生在其牺牲之前，因此该情节在叙事顺序上明确早于牺牲后的情感反应情节。",
+    "source_documents": [
+      "scene_13__2_part_1",
+      "scene_3__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_29831cc66247",
+    "subject_id": "ep_2260349f64ddc83e",
+    "object_id": "ep_14866eaf7c88a812",
+    "relation_type": "precedes",
+    "reason": "情节'争论是否立即强攻并坚持战术等待'发生在指导员牺牲之前，是导致其牺牲的直接前序事件；而'应对指导员牺牲的瞬间'聚焦于牺牲后的即时反应，二者在叙事时间线上紧密衔接，前者在话语和事件顺序上明确早于后者。",
+    "source_documents": [
+      "scene_13__2_part_1",
+      "scene_5__2_part_1",
+      "scene_5__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_41ebd9aad34c",
+    "subject_id": "ep_57e9af9f9c320522",
+    "object_id": "ep_14866eaf7c88a812",
+    "relation_type": "precedes",
+    "reason": "谷子地与指导员对峙争吵发生在指导员牺牲之前，根据叙事逻辑和事件顺序，争吵情节在时间上先于应对牺牲的情节。描述中前者聚焦战术冲突，后者聚焦牺牲后的悲痛反应，支持前者在时间线上早于后者。",
+    "source_documents": [
+      "scene_13__2_part_1",
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_36ad586b00df",
+    "subject_id": "ep_14866eaf7c88a812",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "‘应对指导员牺牲的瞬间’描述了指导员刚牺牲后谷子地和焦大棚的即时情感反应，而‘统计伤亡并部署遗体安置’发生在阵地篝火旁，涉及对伤亡的系统性评估和尸体处理，逻辑上在情感反应之后。尽管没有明确时间戳，但叙事顺序和行为复杂性支持前者在时间上先于后者。",
+    "source_documents": [
+      "scene_13__2_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7561fba4ff88",
+    "subject_id": "ep_14866eaf7c88a812",
+    "object_id": "ep_e6abc8e0d249d4e4",
+    "relation_type": "precedes",
+    "reason": "情节 '应对指导员牺牲的瞬间' 发生在战斗刚结束、指导员牺牲后的即时情感反应阶段，而 '处理文书职责的冲突与确认' 发生在战后管理阶段，焦大棚报告伤亡之后。根据叙事顺序，对牺牲的反应在时间上先于后续的文书任务分配和职责确认。",
+    "source_documents": [
+      "scene_13__2_part_1",
+      "scene_14__2_part_1",
+      "scene_14__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4174842d41e6",
+    "subject_id": "ep_14866eaf7c88a812",
+    "object_id": "ep_7d5c02d739b2ee74",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序，'应对指导员牺牲的瞬间'（doc_28）发生在'点燃香烟与战后感受的训话'（doc_29）之前。两个情节均发生在战斗结束后，且后者涉及对战争意义的反思，逻辑上紧随前者的情感冲击之后，叙事顺序支持该关系。",
+    "source_documents": [
+      "scene_13__2_part_1",
+      "scene_14__2_part_1",
+      "scene_14__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f800d6d83d6c",
+    "subject_id": "ep_bc2a70186893b59d",
+    "object_id": "ep_d2038e24248b9cad",
+    "relation_type": "precedes",
+    "reason": "处理战友牺牲引发的冲突发生在谷子地与指导员争执的场景中（scene_8），而寻找并发现重伤的指导员发生在后续的scene_10，叙事顺序明确显示前者早于后者。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_719909d6fe81",
+    "subject_id": "ep_14866eaf7c88a812",
+    "object_id": "ep_3bee2e390ed49a33",
+    "relation_type": "precedes",
+    "reason": "情节 '应对指导员牺牲的瞬间' 描述了指导员牺牲后战友的即时情感反应，而 '迎接并介绍新任代理指导员' 展现了新指导员接任的场景。逻辑上，只有在原指导员牺牲之后，才会引入新任代理指导员，且两事件分别位于不同文档（doc_28 和 doc_43），叙事顺序支持前者早于后者。",
+    "source_documents": [
+      "scene_13__2_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f41f1226810e",
+    "subject_id": "ep_bc2a70186893b59d",
+    "object_id": "ep_14866eaf7c88a812",
+    "relation_type": "precedes",
+    "reason": "情节'处理战友牺牲引发的冲突'（ep_bc2a70186893b59d）描述的是指导员还活着时谷子地与其因指挥争执而产生矛盾，而'应对指导员牺牲的瞬间'（ep_14866eaf7c88a812）则明确发生在指导员牺牲之后，聚焦于其死亡后的即时反应。因此，前者在叙事时间顺序上早于后者。",
+    "source_documents": [
+      "scene_13__2_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8b858cce4564",
+    "subject_id": "ep_d2038e24248b9cad",
+    "object_id": "ep_93a908243d097d02",
+    "relation_type": "precedes",
+    "reason": "寻找并发现重伤的指导员这一情节在叙事顺序上早于谷子地尝试救助并回应指导员的临终遗愿。描述中明确指出前者构成了后者的前提，且相关事件在不同场景中按时间顺序排列（scene_10 在 scene_9__2 之前），支持该时间先后关系。",
+    "source_documents": [
+      "scene_9__2_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_809659c174a6",
+    "subject_id": "ep_14866eaf7c88a812",
+    "object_id": "ep_1970f71aca75ea83",
+    "relation_type": "precedes",
+    "reason": "情节 '应对指导员牺牲的瞬间' 发生在战斗刚结束的背景下，聚焦于指导员牺牲后的即时情感反应；而 '谷子地取水并了解部队损失' 发生在战后稍晚阶段，包含对伤亡人数的清点和战果汇报，表明时间上紧随其后。尽管没有明确的时间戳，但 'related_events' 中的场景编号（scene_13__2 早于 scene_16）支持该顺序，因此主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_13__2_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f1686c494b17",
+    "subject_id": "ep_4602726ef07d67ea",
+    "object_id": "ep_d2038e24248b9cad",
+    "relation_type": "precedes",
+    "reason": "指导员发起突击导致部队失控的情节发生在谷子地寻找并发现重伤指导员之前。根据叙事逻辑和事件发展，指导员的突击行为直接导致其身受重伤，随后谷子地才在战场上寻找并发现他。因此，第一个情节在时间顺序上明确早于第二个情节。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dac34badc7bb",
+    "subject_id": "ep_14866eaf7c88a812",
+    "object_id": "ep_463dd40709be68de",
+    "relation_type": "precedes",
+    "reason": "情节 '应对指导员牺牲的瞬间' 描述了指导员牺牲后战友的即时情感反应，包含事件如谷子地跪在血泊中抱着牺牲的指导员，而 '谷子地反思战争代价并带领队伍转移' 发生在后续场景中，涉及分发香烟、劝说铭记疼痛及队伍转移，属于战后撤离的延续。根据叙事顺序，对牺牲的即时反应必然早于后续的反思与转移行动，且两个情节分别位于 scene_13__2 和 scene_16，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_13__2_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_99a13d010c70",
+    "subject_id": "ep_14866eaf7c88a812",
+    "object_id": "ep_26acc69b19af2769",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对指导员牺牲的瞬间'聚焦于指导员牺牲后的即时情感反应，包含谷子地悲痛和焦大棚发现指导员已死的事件；客体情节'九连残部休整与伤亡清点'描述战斗后部队的休整与伤亡统计，包括焦大棚清点人数和谷子地整理阵亡名单。从叙事顺序看，情感反应发生在战后评估之前，且焦大棚从发现牺牲到报告伤亡具有时间连贯性，表明前者在话语和事件流上早于后者。",
+    "source_documents": [
+      "scene_13__2_part_1",
+      "scene_14__2_part_1",
+      "scene_14__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_64689dd33d82",
+    "subject_id": "ep_14866eaf7c88a812",
+    "object_id": "ep_04d57c6f6900cccd",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'应对指导员牺牲的瞬间'（doc_28，scene_13__2）发生在战斗刚结束的悲痛时刻，而'战后物资交换与队伍重新集结'（doc_29，scene_14__2）描述的是战斗后队伍恢复行动的后续场景。文档编号和场景编号（scene_13 vs scene_14）表明前者在叙事顺序上早于后者，且情感冲击后的集体行动恢复符合时间与逻辑顺序。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2",
+      "scene_13__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_843d714c1fde",
+    "subject_id": "ep_4602726ef07d67ea",
+    "object_id": "ep_14866eaf7c88a812",
+    "relation_type": "causes",
+    "reason": "指导员发起突击导致部队失控（ep_4602726ef07d67ea）直接引发战斗中指导员牺牲的结果，进而触发谷子地和焦大棚面对牺牲的悲痛反应（ep_14866eaf7c88a812）。描述中明确指出后者聚焦于‘指导员牺牲后战友们的即时情感反应’，而前者以指导员的突击为核心并导致战士死亡，构成直接因果链。因此，前一情节直接导致后一情节的发生。",
+    "source_documents": [
+      "scene_13__2_part_1",
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_346972e115cc",
+    "subject_id": "ep_57e9af9f9c320522",
+    "object_id": "ep_d2038e24248b9cad",
+    "relation_type": "precedes",
+    "reason": "谷子地与指导员对峙争吵发生在寻找并发现重伤指导员之前。根据叙事逻辑，两人在战斗中因战术分歧激烈争吵后，指导员受伤，随后谷子地开始寻找并最终发现其重伤。该时间顺序由情节描述中的行动流支持：争吵发生在隐蔽期间，而寻找与发现是后续行动。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cc08e6c79957",
+    "subject_id": "ep_182752f8cfff120f",
+    "object_id": "ep_4a1a5037f589783e",
+    "relation_type": "precedes",
+    "reason": "谷子地在战火中寻找并发现重伤的指导员这一情节在时间顺序上先于救助指导员并理解其遗愿。发现指导员重伤是后续试图救助和接收遗言的前提，且两个情节分别由连续场景（scene_9__2 和 scene_10）支持，表明明确的叙事先后顺序。",
+    "source_documents": [
+      "scene_9__2_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_16f9f42c1923",
+    "subject_id": "ep_6d7c978fce81e38a",
+    "object_id": "ep_4a1a5037f589783e",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'谷子地与部下短暂休整并传递默契' 发生在场景3，而 '救助指导员并理解其遗愿' 发生在场景10，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5d0f4d2d00e1",
+    "subject_id": "ep_57e9af9f9c320522",
+    "object_id": "ep_4a1a5037f589783e",
+    "relation_type": "precedes",
+    "reason": "谷子地与指导员对峙争吵发生在指导员濒死之前，叙事上前者为冲突升级，后者为冲突终结与遗愿交接，时间顺序明确，且文档场景编号（scene_5 vs scene_10）支持该顺序。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_64237060eb84",
+    "subject_id": "ep_6dccf25638b04ce2",
+    "object_id": "ep_4a1a5037f589783e",
+    "relation_type": "precedes",
+    "reason": "情节'指导员下令一排推进并引发跟进'发生在战斗初期（scene_3__2），而'救助指导员并理解其遗愿'发生在指导员濒死之际（scene_10），文本中scene_3__2早于scene_10，因此该关系在叙事顺序上明确支持precedes。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_3__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c08a7ddace80",
+    "subject_id": "ep_7f7556d7642e4caf",
+    "object_id": "ep_bd7f0bc2c6ddbb54",
+    "relation_type": "precedes",
+    "reason": "主体情节'战士们在窑场避炮并维持战备状态'（doc_44）发生在客体情节'构筑防御工事并准备作战物资'（doc_43）之后的叙事顺序中。根据相关事件的时间上下文，构筑工事和准备物资（scene_30）在先，随后是进入窑场避炮（scene_31），因此客体在时间上先于主体。但由于关系方向要求从主体到客体，实际应为'ep_bd7f0bc2c6ddbb54 precedes ep_7f7556d7642e4caf'。由于'precedes'是有向关系，且主体不能先于一个实际上更早发生的情节，故此处方向反向成立。但根据输入顺序，主体为ep_7f7556d7642e4caf，客体为ep_bd7f0bc2c6ddbb54，因此主体并不先于客体。相反，客体情节（doc_43, scene_30）在叙事上早于主体情节（doc_44, scene_31），所以正确的关系应为客体precedes主体。但由于关系必须从主体到客体判断，而主体并未在时间上早于客体，故不能成立precedes。然而，若从整体叙事流看，doc_43在前，doc_44在后，scene_30在前，scene_31在后，因此'构筑防御工事'发生在'避炮'之前。因此，'战士们在窑场避炮'这一情节不能precedes'构筑防御工事'，反而被其precede。因此，若以主体为ep_7f7556d7642e4caf，客体为ep_bd7f0bc2c6ddbb54，则主体不precedes客体。但若存在反向precedes，则说明客体precedes主体。因此，在主体→客体方向上，precedes不成立。无证据表明主体causes客体，或contrasts_with，或elaborates客体。因此，尽管存在时间顺序，但方向相反，不能合法使用precedes。由于关系模式是有向的，且方向不匹配，不能强行赋值。因此，无充分支持的关系成立。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_862b27665057",
+    "subject_id": "ep_4602726ef07d67ea",
+    "object_id": "ep_4a1a5037f589783e",
+    "relation_type": "precedes",
+    "reason": "指导员发起突击导致部队失控（ep_4602726ef07d67ea）发生在谷子地救助指导员并理解其遗愿（ep_4a1a5037f589783e）之前，因为指导员在突击中受伤，最终导致其濒死状态，叙事顺序上前者早于后者，且文档场景编号scene_5早于scene_10。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ec03b23ea455",
+    "subject_id": "ep_57e9af9f9c320522",
+    "object_id": "ep_6dccf25638b04ce2",
+    "relation_type": "precedes",
+    "reason": "谷子地与指导员对峙争吵发生在指导员下令一排推进并引发跟进之前，根据描述，争吵揭示了战术分歧，随后指导员主动下令推进，表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2",
+      "scene_3__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_54d56eed72ba",
+    "subject_id": "ep_6dccf25638b04ce2",
+    "object_id": "ep_4602726ef07d67ea",
+    "relation_type": "precedes",
+    "reason": "指导员下令一排推进并引发跟进（scene_3__2）发生在指导员发起突击导致部队失控（scene_5）之前，根据场景编号的顺序（scene_3__2 在 scene_5 之前），表明前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2",
+      "scene_3__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_71b28d79d81e",
+    "subject_id": "ep_4602726ef07d67ea",
+    "object_id": "ep_182752f8cfff120f",
+    "relation_type": "precedes",
+    "reason": "指导员发起突击导致部队失控（ep_4602726ef07d67ea）发生在谷子地寻找并发现重伤指导员（ep_182752f8cfff120f）之前，因为指导员在突击中受伤，随后谷子地才在废墟中找到他。叙事逻辑和事件因果链支持这一时间顺序。",
+    "source_documents": [
+      "scene_9__2_part_1",
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e8cd54a99332",
+    "subject_id": "ep_bc2a70186893b59d",
+    "object_id": "ep_e49c219e50e10342",
+    "relation_type": "precedes",
+    "reason": "根据相关事件均发生在scene_8，且‘处理战友牺牲引发的冲突’中谷子地责备指导员、指导员压抑情绪并提出战后谈心，随后谷子地以包饺子玩笑缓和气氛并恢复警戒，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aa0c39aacadd",
+    "subject_id": "ep_2260349f64ddc83e",
+    "object_id": "ep_182752f8cfff120f",
+    "relation_type": "precedes",
+    "reason": "根据文档上下文，争论战术的场景（ep_2260349f64ddc83e）发生在指导员还活着并能与谷子地争执时，而谷子地在战火中发现重伤指导员的场景（ep_182752f8cfff120f）必然发生在此之后，因为指导员此时已濒临死亡。因此，争论情节在叙事时间顺序上早于发现重伤的情节。",
+    "source_documents": [
+      "scene_9__2_part_1",
+      "scene_5__2_part_1",
+      "scene_5__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0f21f920eb9c",
+    "subject_id": "ep_02a7a061a51b5377",
+    "object_id": "ep_93a908243d097d02",
+    "relation_type": "precedes",
+    "reason": "残存连队发起冲锋并发现指导员阵亡的情节中，指导员已被确认阵亡，而谷子地尝试救助并回应指导员临终遗愿的情节前提是指导员尚在垂死状态但未完全死亡。因此，从事件逻辑和状态转换来看，指导员必须先处于垂死状态（被救助与回应遗愿），然后才被确认阵亡（冲锋与悲痛）。但根据描述，ep_02a7a061a51b5377中指导员已明确阵亡且谷子地跪抱遗体，而ep_93a908243d097d02中谷子地尚在倾听遗言并承诺回应，这表明后者应在前者之前发生。然而，叙事顺序上，先发现阵亡（ep_02a7a061a51b5377）后才可能回溯临终时刻（ep_93a908243d097d02），但文本未提供明确时间重排或闪回证据。相反，'发现阵亡'与'尝试救助'在状态上矛盾：一人不能同时被确认死亡又被尝试救助。因此，唯一合理的解释是ep_93a908243d097d02在时间上先于ep_02a7a061a51b5377。故关系为ep_93a908243d097d02 precedes ep_02a7a061a51b5377，但因输入顺序为前者作subject，后者作object，故实际应为object precedes subject。由于precedes是有向关系，且输入方向不支持，因此不能输出precedes。鉴于状态矛盾且无明确因果、对比或扩展关系，输出NONE。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_9__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ec88795b24d7",
+    "subject_id": "ep_2260349f64ddc83e",
+    "object_id": "ep_ab4ac153e6a4aa02",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在指导员要求强攻并与谷子地争执的场景（doc_20），而第二个情节涉及地雷爆炸导致战友死亡后两人关系缓和（doc_22），文档编号递增且事件发展具有时间顺序，表明前者在叙事上早于后者。",
+    "source_documents": [
+      "scene_5__2_part_1",
+      "scene_5__2_part_2",
+      "scene_7__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f90615c4e9da",
+    "subject_id": "ep_bc2a70186893b59d",
+    "object_id": "ep_edae988de8dece10",
+    "relation_type": "precedes",
+    "reason": "情节'处理战友牺牲引发的冲突'描述了谷子地与指导员因战斗指挥产生争执，情绪紧张；而后续情节'以包饺子为喻重建战友信任'发生在紧张气氛缓和后，通过日常对话重建情感连接。根据叙事逻辑和上下文发展，冲突发生于前，和解重建于后，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_7__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d5e22d21c3ce",
+    "subject_id": "ep_93a908243d097d02",
+    "object_id": "ep_bc2a70186893b59d",
+    "relation_type": "precedes",
+    "reason": "根据描述，'处理战友牺牲引发的冲突'（ep_bc2a70186893b59d）发生在指导员重伤之前，涉及战斗指挥争执和情绪压抑；而'谷子地尝试救助并回应指导员的临终遗愿'（ep_93a908243d097d02）明确发生在指导员重伤垂死后。因此，前者在叙事时间顺序上早于后者，支持'precedes'关系。",
+    "source_documents": [
+      "scene_9__2_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_41c9a9f9e287",
+    "subject_id": "ep_4602726ef07d67ea",
+    "object_id": "ep_93a908243d097d02",
+    "relation_type": "precedes",
+    "reason": "指导员发起突击导致部队失控（ep_4602726ef07d67ea）在叙事顺序上早于谷子地尝试救助并回应指导员的临终遗愿（ep_93a908243d097d02），因为指导员在突击中受伤后才出现重伤垂死状态，进而触发后续救助与临终告别情节。该时间顺序由事件因果链和场景发展明确支持。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2",
+      "scene_9__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_90f1a664f19b",
+    "subject_id": "ep_57e9af9f9c320522",
+    "object_id": "ep_edae988de8dece10",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节展现谷子地与指导员在战火中的激烈对峙，情绪紧张，凸显指挥层冲突；第二个情节则通过包饺子的日常对话重建战友信任，氛围缓和。两者在情感基调和人际关系状态上形成明显对比，构成叙事上的逆转与对照。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2",
+      "scene_7__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b1a172d293a4",
+    "subject_id": "ep_6d7c978fce81e38a",
+    "object_id": "ep_93a908243d097d02",
+    "relation_type": "precedes",
+    "reason": "情节 '谷子地与部下短暂休整并传递默契' 发生在西桥头掩体后，涉及饮水与眼神交流，属于战斗中的短暂间歇；而 '谷子地尝试救助并回应指导员的临终遗愿' 发生在指导员重伤垂死之际，标志着战斗接近尾声或已结束。根据叙事逻辑和事件发展顺序，休整与默契交流必然早于临终救助与遗愿托付，因此该关系在时间顺序上明确支持 'precedes'。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_9__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a1786ae6b576",
+    "subject_id": "ep_57e9af9f9c320522",
+    "object_id": "ep_ab4ac153e6a4aa02",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述谷子地与指导员因战术分歧而激烈争吵，第二个情节进一步展示争吵的后果，包括因战友死亡引发的责备以及随后通过对话缓和紧张关系。第二个情节提供了关于冲突如何发展和缓解的额外细节，扩展了第一个情节的情感和叙事维度，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2",
+      "scene_7__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_fe02007d485f",
+    "subject_id": "ep_57e9af9f9c320522",
+    "object_id": "ep_bc2a70186893b59d",
+    "relation_type": "elaborates",
+    "reason": "两个情节均描述谷子地与指导员因战斗指挥产生争执，但'处理战友牺牲引发的冲突'提供了更多背景细节，如谷子地责备指导员急躁导致伤亡及指导员提出战后谈心，扩展了'谷子地与指导员对峙争吵'中的情绪和动机。因此，后者为前者的核心冲突提供了进一步解释。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_7ff148d41ecc",
+    "subject_id": "ep_4602726ef07d67ea",
+    "object_id": "ep_bc2a70186893b59d",
+    "relation_type": "causes",
+    "reason": "指导员发起突击导致部队失控（ep_4602726ef07d67ea）直接引发战友牺牲，进而导致谷子地与指导员之间因指挥问题产生冲突（ep_bc2a70186893b59d）。描述中明确指出伤亡事件是争执的背景，且谷子地责备指导员急躁导致伤亡，构成直接因果链。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e4d7cc211945",
+    "subject_id": "ep_4602726ef07d67ea",
+    "object_id": "ep_edae988de8dece10",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节描述指导员冲动发起突击导致部队失控，谷子地震怒并恢复纪律，基调紧张且充满冲突；第二个情节展现战后谷子地与指导员通过轻松的包饺子对话重建信任，氛围缓和、情感修复。两者在情绪基调、人物关系状态和叙事功能上形成明显对比，构成冲突与和解的对立项。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2",
+      "scene_7__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1181c9da4041",
+    "subject_id": "ep_6d7c978fce81e38a",
+    "object_id": "ep_6dccf25638b04ce2",
+    "relation_type": "precedes",
+    "reason": "根据描述，'谷子地与部下短暂休整并传递默契' 发生在西桥头掩体后，涉及饮水与眼神交流，属于战斗前的静默状态；而 '指导员下令一排推进并引发跟进' 描述了指导员因不安于寂静而下令推进，标志着进攻行动的开始。两个情节均发生在 scene_3 及其扩展中，且休整与默契交流在叙事顺序上明显早于推进命令的下达，因此主体情节在话语和叙事顺序上先于客体情节。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_3__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5001b6b1b661",
+    "subject_id": "ep_ab4ac153e6a4aa02",
+    "object_id": "ep_bc2a70186893b59d",
+    "relation_type": "elaborates",
+    "reason": "两个情节均围绕谷子地与指导员因战友牺牲而产生的冲突展开。ep_ab4ac153e6a4aa02 描述了争执后的缓和过程，包含地雷爆炸、遗体观察和对话缓和；ep_bc2a70186893b59d 聚焦于争执本身及指导员的情绪压抑和战后谈心意愿。前者在事件细节和情感发展上扩展了后者，提供了冲突升级后的解决路径，构成对冲突情境的进一步阐述。",
+    "source_documents": [
+      "scene_7__2_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_df3c41579de2",
+    "subject_id": "ep_2260349f64ddc83e",
+    "object_id": "ep_4a1a5037f589783e",
+    "relation_type": "precedes",
+    "reason": "情节 '争论是否立即强攻并坚持战术等待' 发生在文档 doc_20，而 '救助指导员并理解其遗愿' 发生在文档 doc_9。根据文档编号顺序（doc_20 在 doc_9 之后），该顺序看似逆序，但结合典型叙事结构和事件内容判断，'争论战术' 发生在战斗推进阶段，而 '救助濒死指导员' 是其后续结果。此外，'争论' 情节中指导员仍具行动能力并下达命令，而 '救助' 情节中指导员已濒死，表明前者在时间线上早于后者。因此，'争论是否立即强攻并坚持战术等待' 在叙事顺序上 precedes '救助指导员并理解其遗愿'。",
+    "source_documents": [
+      "scene_5__2_part_1",
+      "scene_5__2_part_2",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3af5f223f3b4",
+    "subject_id": "ep_84d1fb3d4ac16f13",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "情节 '应对敌机挑衅并组织反击' 发生在战斗过程中，战士们正在应对敌方传单和空中威胁，而 '统计伤亡并部署遗体安置' 发生在战斗后，于阵地篝火旁进行伤亡清点和尸体处理，具有明确的战后特征。因此，前者在叙事时序上直接早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2af7b650b046",
+    "subject_id": "ep_84d1fb3d4ac16f13",
+    "object_id": "ep_d8748870612e37dd",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'应对敌机挑衅并组织反击'中描述的重新架设炮位和士气波动发生在'排除装填故障并完成紧急射击'之前，后者涉及实际射击动作和故障处理，逻辑上在准备就绪后发生。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_13bbe097ce01",
+    "subject_id": "ep_4602726ef07d67ea",
+    "object_id": "ep_ab4ac153e6a4aa02",
+    "relation_type": "precedes",
+    "reason": "情节 '指导员发起突击导致部队失控' 中的事件（如战士被击倒、谷子地震怒）发生在敌方火力下，而情节 '处理战友伤亡并缓和紧张关系' 涉及地雷爆炸导致的死亡及后续冲突缓和。根据叙事逻辑和事件发展，部队在突击中失控并造成伤亡是后续处理伤亡、引发内部冲突并最终缓和关系的前提。因此，第一个情节在叙事顺序上明确早于第二个情节，构成 'precedes' 关系。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2",
+      "scene_7__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_25eba6da9d03",
+    "subject_id": "ep_93a908243d097d02",
+    "object_id": "ep_edae988de8dece10",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述谷子地回应指导员临终遗愿，承诺包茴香馅饺子；客体情节展示此前谷子地提议包饺子并得知指导员喜好，通过日常对话重建信任。客体情节为包饺子承诺提供了背景和情感铺垫，扩展了主体情节中承诺的由来，因此客体向主体提供解释性细节，构成 elaborates 关系（方向为 object -> subject），但因关系模式中 elaborates 为 directed 且允许单向，故以主体为起点时关系不成立；然而根据事件逻辑，客体情节在时间与语义上为前导，为主体中承诺提供基础，因此主体情节可视为对客体中提议的后续实现，反向 elaborates 成立。综合判断，主体情节 elaborates 客体情节中包饺子提议的情感延续与完成，有较强语义支持。",
+    "source_documents": [
+      "scene_9__2_part_1",
+      "scene_7__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6d51645bee47",
+    "subject_id": "ep_9d63fe8122f27d14",
+    "object_id": "ep_c9ecc4c19f32b745",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，王金存唤醒谷子地并恢复日常交流发生在谷子地追问王金存隐私并转为安慰之前。描述中两个情节均发生在scene_25，但第一个情节涉及唤醒和初始对话，第二个情节紧随其后发展为更深层的情感互动，叙事顺序明确。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_25_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_590c0e60f9f4",
+    "subject_id": "ep_9d63fe8122f27d14",
+    "object_id": "ep_3bee2e390ed49a33",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'唤醒谷子地并恢复日常交流'发生在scene_25，而'迎接并介绍新任代理指导员'发生在scene_30，scene_25在叙事顺序上早于scene_30，因此该关系为precedes。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_25_part_1",
+      "scene_25_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cfb6a914781b",
+    "subject_id": "ep_9d63fe8122f27d14",
+    "object_id": "ep_aeb60cc1413e63c4",
+    "relation_type": "precedes",
+    "reason": "唤醒谷子地并恢复日常交流的情节发生在敌军炮击之前，根据叙事顺序，谷子地被唤醒后恢复交流，随后才发生炮击事件，相关事件均出现在不同场景编号中（scene_25 先于 scene_30），支持该时间顺序。",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_25_part_2",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_655bb413be82",
+    "subject_id": "ep_7a74c0fb1f3ac18f",
+    "object_id": "ep_66b9b207fbd90553",
+    "relation_type": "precedes",
+    "reason": "部署伏击并等待敌军进入射程发生在持续投弹与战场观察维持火力压制之前，因为敌军需先接近阵地并进入射程，随后才触发火力交战和手榴弹投掷等压制行动，时间顺序在相关事件中明确支持。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_384e7f99e6b8",
+    "subject_id": "ep_7a74c0fb1f3ac18f",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "部署伏击并等待敌军进入射程（scene_32）发生在敌军进攻之后，而统计伤亡并部署遗体安置（scene_36）发生在战斗结束后，根据场景编号的顺序和事件的自然时间流，前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5170763f7b46",
+    "subject_id": "ep_6d7c978fce81e38a",
+    "object_id": "ep_84d1fb3d4ac16f13",
+    "relation_type": "precedes",
+    "reason": "主体情节‘谷子地与部下短暂休整并传递默契’发生在西桥头掩体后，包含战士间传递水壶和眼神交流，体现短暂休整状态；客体情节‘应对敌机挑衅并组织反击’涉及敌机飞过、撒传单后谷子地组织重新架设炮位，属于战斗升级行动。两个情节均涉及谷子地和焦大棚等同一群体，且从休整到应对敌机挑衅的叙事顺序符合战场节奏推进，scene_3早于scene_21，因此主体情节在叙事时间上明确早于客体情节。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_766d8e5d4e35",
+    "subject_id": "ep_7a74c0fb1f3ac18f",
+    "object_id": "ep_1662de4432c4118c",
+    "relation_type": "precedes",
+    "reason": "部署伏击并等待敌军进入射程发生在处理爆破时机并应对人员伤亡之前，因为前者描述的是敌军接近时的战术准备和等待开火时机，而后者涉及具体引爆决策和战斗中人员伤亡的应对，二者均发生在scene_32，但逻辑上伏击部署在前，引爆决策和伤亡应对在敌军进入射程并交火后发生。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7cfa0e97704a",
+    "subject_id": "ep_7a74c0fb1f3ac18f",
+    "object_id": "ep_aeb60cc1413e63c4",
+    "relation_type": "precedes",
+    "reason": "部署伏击并等待敌军进入射程发生在敌军接近阵地时，而应对敌军炮击并组织紧急撤离始于敌军突然发动炮击，导致阵地陷入混乱。根据战场事件的自然顺序，伏击部署和等待阶段在敌军实际开火（炮击）之前，因此该情节在叙事和时间顺序上先于后者。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ee07d4c498d2",
+    "subject_id": "ep_0d8903bfae3bf7ad",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "‘发起全面火力阻击压制敌军冲锋’发生在战斗过程中，由谷子地下令开火并实施火力压制，而‘统计伤亡并部署遗体安置’发生在战斗后，于阵地篝火旁评估损失并处理尸体，根据叙事顺序和事件上下文，前者在时间上明确早于后者。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0985fe0a905a",
+    "subject_id": "ep_c9ecc4c19f32b745",
+    "object_id": "ep_6a9d6da4768e898c",
+    "relation_type": "precedes",
+    "reason": "谷子地追问并安慰王金存的情节（ep_c9ecc4c19f32b745）发生在窑场避炮集结期间（scene_25），而王金存独自面对恐惧与内疚的情节（ep_6a9d6da4768e898c）发生在所有战士撤离、谷子地离开后的寂静窑场中（scene_31），scene_25在叙事顺序上早于scene_31，因此该关系为precedes。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_25_part_1",
+      "scene_25_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4e17177f60e6",
+    "subject_id": "ep_c9ecc4c19f32b745",
+    "object_id": "ep_545ef0088f3d8099",
+    "relation_type": "elaborates",
+    "reason": "谷子地追问王金存隐私并转为安慰（ep_c9ecc4c19f32b745）展示了谷子地如何察觉王金存情绪低落并开始提供心理支持，而安抚王金存并重建其战斗意志（ep_545ef0088f3d8099）进一步扩展了这一过程，明确其目标为恢复王金存的心理稳定和作战功能。后者在叙事上承接并深化了前者的共情互动，提供了更明确的目的和功能解释，因此前者被后者所扩展。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_25_part_1",
+      "scene_25_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_39cf4b98c8f1",
+    "subject_id": "ep_592b11883e4ae9a9",
+    "object_id": "ep_1662de4432c4118c",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'稳定炮架并指定瞄准手准备射击'（scene_19）发生在'处理爆破时机并应对人员伤亡'（scene_32）之前，scene_19早于scene_32，因此该关系在叙事顺序上具有明确的先后性。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3c0aeaa40466",
+    "subject_id": "ep_3cec55b281647765",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_36，且'处理冻粮并察觉异常动向'中谷子地起身离开的动作由远处异样引起警觉，这为后续'统计伤亡并部署遗体安置'提供了叙事上的时间顺序和上下文过渡，表明前者在话语和叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_589db9dca474",
+    "subject_id": "ep_0d8903bfae3bf7ad",
+    "object_id": "ep_66b9b207fbd90553",
+    "relation_type": "precedes",
+    "reason": "‘发起全面火力阻击压制敌军冲锋’描述谷子地在烟头烫手后立即下令开火，触发各火力点同时射击；而‘持续投弹与战场观察维持火力压制’描述谷子地在火力交战期间沿壕沟移动投弹并观察敌情，表明该行为发生在开火指令下达之后。两个情节均发生在scene_32，但前者为初始开火动作，后者为后续维持压制行为，存在明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f40e713818ec",
+    "subject_id": "ep_1662de4432c4118c",
+    "object_id": "ep_26acc69b19af2769",
+    "relation_type": "precedes",
+    "reason": "处理爆破时机并应对人员伤亡发生在战斗进行中，涉及吕宽沟请示引爆和龚良国阵亡后的岗位接替；而九连残部休整与伤亡清点发生在战斗结束后，包括清点人数、报告伤亡和整理阵亡名单。根据叙事顺序，战斗中的事件在时间上明确早于战后评估与休整，因此前者在话语顺序上 precedes 后者。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_14__2_part_1",
+      "scene_14__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6f8be43038d1",
+    "subject_id": "ep_1970f71aca75ea83",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述谷子地在战后初步了解部队损失情况，包括九连伤亡七十一人并命令整理阵亡名单；第二个情节发生在阵地篝火旁，进一步展示对伤亡的系统统计及遗体安置部署。第二个情节在相同战后背景下深化了损失处理的细节和行动，提供了更具体的后续措施，因此主体情节为客体情节提供了背景和初步状态，客体对主体进行了扩展和细化。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_20d17111dae9",
+    "subject_id": "ep_6d7c978fce81e38a",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "主体情节'谷子地与部下短暂休整并传递默契'发生在西桥头掩体后，属于战斗中的短暂间歇，而客体情节'统计伤亡并部署遗体安置'发生在阵地篝火旁，涉及战后损失评估与尸体处理，具有明显的后续秩序恢复特征。根据叙事逻辑和场景发展，休整与默契交流早于伤亡统计与遗体安置，因此主体情节在时间顺序上先于客体情节。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5d519cbf025e",
+    "subject_id": "ep_aeb60cc1413e63c4",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对敌军炮击并组织紧急撤离'描述了炮击发生时的紧急反应和撤离行动，客体情节'统计伤亡并部署遗体安置'发生在炮击之后的战后秩序恢复阶段，包含对伤亡的统计和尸体处理，逻辑上和叙事上紧随其后。相关事件的时间上下文（scene_30 vs scene_36）支持这一顺序。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4847e6f9bef5",
+    "subject_id": "ep_0d8903bfae3bf7ad",
+    "object_id": "ep_463dd40709be68de",
+    "relation_type": "precedes",
+    "reason": "‘发起全面火力阻击压制敌军冲锋’描述的是战斗中的即时交火场景，包含开火命令、机枪扫射和火力封锁等战斗动作，发生在敌军冲锋时；而‘谷子地反思战争代价并带领队伍转移’描述的是战斗后阶段，包括分发香烟、反思战争、丢弃烟蒂及队伍转移，明确标志战后撤离的收束。两个情节在叙事时间线上连续，前者为战斗高潮，后者为战斗结束后的反思与撤退，因此主体情节在时间顺序上先于客体情节。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f7715ba8fc9d",
+    "subject_id": "ep_286f1116d619e3e1",
+    "object_id": "ep_ab15e3794b113b92",
+    "relation_type": "precedes",
+    "reason": "根据描述，谷子地先巡视阵地并分发物资安抚士气，随后在王金存背负遗体离开后目送并独自哀悼，两个情节在scene_36中按时间顺序先后发生，前者为后者提供叙事前提。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7eb2eee3c516",
+    "subject_id": "ep_286f1116d619e3e1",
+    "object_id": "ep_545ef0088f3d8099",
+    "relation_type": "elaborates",
+    "reason": "巡视阵地并分发物资安抚士气这一情节中，谷子地通过整体行为维持部队士气；而安抚王金存并重建其战斗意志则是该过程中的具体实例，聚焦于对个体的心理干预，提供了更详细的背景和情感深度，扩展了主体情节的内涵。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_90b1e8ed947b",
+    "subject_id": "ep_51865cfba883f89d",
+    "object_id": "ep_6a9d6da4768e898c",
+    "relation_type": "precedes",
+    "reason": "谷子地发现王金存陷入心理崩溃发生在谷子地介入并随后离开之前，而王金存独自面对恐惧与内疚的情节明确发生在谷子地离开之后、窑场陷入寂静之时。根据related_events和描述中的时间线索，前者在叙事顺序上直接早于后者。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_df9c8ca02962",
+    "subject_id": "ep_3bee2e390ed49a33",
+    "object_id": "ep_51865cfba883f89d",
+    "relation_type": "precedes",
+    "reason": "主体情节'迎接并介绍新任代理指导员'中王金存刚到任并开始融入连队，客体情节'发现王金存陷入心理崩溃'中王金存因战友龚良国阵亡而精神崩溃，文本中龚良国的死亡发生在介绍之后，且两个情节涉及同一人物状态的演变，叙事顺序明确支持前者早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_54b9002776b4",
+    "subject_id": "ep_3bee2e390ed49a33",
+    "object_id": "ep_545ef0088f3d8099",
+    "relation_type": "precedes",
+    "reason": "主体情节'迎接并介绍新任代理指导员'发生在王金存刚到连队时，客体情节'安抚王金存并重建其战斗意志'发生在龚良国死亡后王金存情绪崩溃时，相关事件分别位于scene_30和scene_36，叙事顺序明确，前者早于后者。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b5a4b74e2193",
+    "subject_id": "ep_45459ebd760d9ea9",
+    "object_id": "ep_d8748870612e37dd",
+    "relation_type": "precedes",
+    "reason": "命令搬运火炮并抢占坟地制高点发生在排除装填故障并完成紧急射击之前，因为架设火炮是后续射击操作的前提，且两个情节均发生在scene_19，叙事顺序上先布置阵地再进行射击操作。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b29a5b910103",
+    "subject_id": "ep_26acc69b19af2769",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "elaborates",
+    "reason": "两个情节均围绕战后伤亡统计与遗体处理展开，具有相似的叙事目标。ep_26acc69b19af2769 描述九连在掩体旁清点伤亡并整理阵亡名单，而 ep_e9d47b5631ba1535 进一步描述谷子地部署尸体转移至窑内，提供了后续处置细节。后者在功能上扩展了前者所启动的战后秩序维护行动，构成对同一战后处理过程的进一步阐述。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_f59dc11b27ef",
+    "subject_id": "ep_286f1116d619e3e1",
+    "object_id": "ep_da6f6d3f9c9f807f",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_36，但‘巡视阵地并分发物资安抚士气’是谷子地对整体战场状态的巡视与士气管理，属于战后初步处理；而‘组织转移遗体并完成战友告别’涉及具体遗体处理和仪式行为，逻辑上在巡视并发现伤亡情况后展开。因此，巡视与安抚行为在叙事时序上先于遗体转移和告别仪式。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_91ca0c65db17",
+    "subject_id": "ep_3bee2e390ed49a33",
+    "object_id": "ep_da6f6d3f9c9f807f",
+    "relation_type": "precedes",
+    "reason": "主体情节'迎接并介绍新任代理指导员'发生在文档doc_43，客体情节'组织转移遗体并完成战友告别'发生在文档doc_49，叙事时间顺序上前者早于后者；且相关事件中龚良国在主体情节中尚在请求写信，而在客体情节中已牺牲，表明主体情节在时间线上先于客体情节。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d961c7a64bb9",
+    "subject_id": "ep_592b11883e4ae9a9",
+    "object_id": "ep_f7cf50c18cee2498",
+    "relation_type": "precedes",
+    "reason": "主体情节描述的是稳定炮架并指定瞄准手准备射击，这是在敌机再次来袭前的准备工作；客体情节描述的是敌机重新返回并引发对空反击，包含炮弹发射后的反应和持续指挥射击。根据描述，准备射击发生在敌机再袭之前，且两个情节均发生在同一场景（scene_19），具有明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4e9e83947265",
+    "subject_id": "ep_aeb60cc1413e63c4",
+    "object_id": "ep_da6f6d3f9c9f807f",
+    "relation_type": "precedes",
+    "reason": "应对敌军炮击并组织紧急撤离（ep_aeb60cc1413e63c4）发生在组织转移遗体并完成战友告别（ep_da6f6d3f9c9f807f）之前，依据事件序列：炮击造成伤亡（scene_30）后，才在后续场景（scene_36）中处理阵亡者遗体，文本支持明确的时间顺序。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5dc5cd340159",
+    "subject_id": "ep_0752802a4ead47b1",
+    "object_id": "ep_45459ebd760d9ea9",
+    "relation_type": "precedes",
+    "reason": "主体情节'躲避扫射并寻找防御阵地'中，谷子地观察并注意到高大新坟，为后续抢占该地形建立火力点提供决策依据；客体情节'命令搬运火炮并抢占坟地制高点'紧随其后，执行基于该观察的战术行动。两个情节在相同场景(scene_19)中连续发生，且前者为后者的实施创造条件，支持明确的时间先后顺序。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_61f2649c24c3",
+    "subject_id": "ep_0752802a4ead47b1",
+    "object_id": "ep_f7cf50c18cee2498",
+    "relation_type": "precedes",
+    "reason": "主体情节'躲避扫射并寻找防御阵地'中，谷子地观察到新坟并为后续反击做准备，该情节发生在敌机再次俯冲和组织对空射击之前。客体情节'应对敌机再袭并维持火力反击'明确描述敌机盘旋后重新返回并引发反击，表明这是后续发生的事件。两个情节共享同一战场场景（scene_19），且时间顺序清晰：先躲避并寻找阵地，再应对再袭并反击。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d7d864083ded",
+    "subject_id": "ep_aeb60cc1413e63c4",
+    "object_id": "ep_51865cfba883f89d",
+    "relation_type": "precedes",
+    "reason": "应对敌军炮击并组织紧急撤离（ep_aeb60cc1413e63c4）中描述了王金存因恐惧崩溃、被焦大棚拖行等事件，这些构成了其心理状态恶化的直接前因；随后在发现王金存陷入心理崩溃（ep_51865cfba883f89d）中，谷子地观察到王金存跪在尸体旁、双袖染血、神情呆滞，并介入干预，表明后者在叙事上紧随前者之后发生。因此，前者在时间顺序上先于后者。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5a557abbd324",
+    "subject_id": "ep_45459ebd760d9ea9",
+    "object_id": "ep_592b11883e4ae9a9",
+    "relation_type": "precedes",
+    "reason": "主体情节‘命令搬运火炮并抢占坟地制高点’描述了将火炮运至坟地并架设在坟头上的过程，而客体情节‘稳定炮架并指定瞄准手准备射击’则发生在火炮架设之后，涉及稳定炮架和指定炮手以准备射击。两个情节均发生在scene_19，且从动作流程上看，架设火炮必须先于稳定炮架和指定瞄准手，因此存在明确的叙事顺序。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a0a8580de336",
+    "subject_id": "ep_d8748870612e37dd",
+    "object_id": "ep_f7cf50c18cee2498",
+    "relation_type": "precedes",
+    "reason": "根据描述，'排除装填故障并完成紧急射击' 发生在敌机重新返回并再次发起攻击之前，且两个情节均发生在 scene_19。文本中谷子地先处理卡弹并成功开火，随后敌机盘旋后再次袭来，触发后续反击。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c7d629b53d93",
+    "subject_id": "ep_6d7c978fce81e38a",
+    "object_id": "ep_ea8048bfc1f374b0",
+    "relation_type": "precedes",
+    "reason": "根据相关事件所在的场景编号，'谷子地与部下短暂休整并传递默契' 发生在 scene_3，而 '谷子地调整火力并移交指挥' 发生在 scene_5，scene_3 在叙事顺序上早于 scene_5，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c757f1aec27b",
+    "subject_id": "ep_3bee2e390ed49a33",
+    "object_id": "ep_001074bea4fddc77",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'迎接并介绍新任代理指导员'发生在scene_30，而'谷子地组织撤离并激励战士克服恐惧'发生在scene_31，scene_30在叙事顺序上早于scene_31，因此该关系为precedes。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_75c7b09e0865",
+    "subject_id": "ep_6d7c978fce81e38a",
+    "object_id": "ep_aeb60cc1413e63c4",
+    "relation_type": "precedes",
+    "reason": "情节 '谷子地与部下短暂休整并传递默契' 发生在西桥头掩体后，事件序列位于 scene_3；而 '应对敌军炮击并组织紧急撤离' 发生在 scene_30，包含炮击堑壕和撤往窑内的行动。scene_3 明显早于 scene_30，因此该关系在叙事顺序上具有明确的先后性。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d68644f5a856",
+    "subject_id": "ep_aeb60cc1413e63c4",
+    "object_id": "ep_545ef0088f3d8099",
+    "relation_type": "precedes",
+    "reason": "情节'应对敌军炮击并组织紧急撤离'（ep_aeb60cc1413e63c4）中描述的炮击事件和王金存因恐惧崩溃，直接导致了后续情节'安抚王金存并重建其战斗意志'（ep_545ef0088f3d8099）中谷子地对其进行心理安抚的行动。相关事件如王金存剧烈颤抖、被焦大棚拖行等显示其心理崩溃，为后续安抚行为提供了直接叙事前提，且文本中该心理干预发生在炮击危机之后，具有明确的时间顺序。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_38739f5bae78",
+    "subject_id": "ep_6d7c978fce81e38a",
+    "object_id": "ep_04d57c6f6900cccd",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'谷子地与部下短暂休整并传递默契' 发生在 scene_3，而 '战后物资交换与队伍重新集结' 发生在 scene_14__2，scene_3 明确早于 scene_14__2，因此该关系在叙事顺序上具有明确的先后性。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5cff74a89a28",
+    "subject_id": "ep_2260349f64ddc83e",
+    "object_id": "ep_b0434dd44dd83be1",
+    "relation_type": "contrasts_with",
+    "reason": "两个情节均描述谷子地与指导员在战术决策上的分歧：一个聚焦于是否立即强攻与等待的争执，另一个强调基于战场判断的暂缓进攻策略。两者在相似冲突框架下呈现不同叙事细节（如打赌、怀表查看、兵力清点），形成对同一类战术矛盾的不同表现，突出人物立场的对比。",
+    "source_documents": [
+      "scene_5__2_part_1",
+      "scene_5__2_part_2",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4ceef07f86b9",
+    "subject_id": "ep_57e9af9f9c320522",
+    "object_id": "ep_6d7c978fce81e38a",
+    "relation_type": "contrasts_with",
+    "reason": "谷子地与指导员激烈对峙争吵的情节展现了指挥层之间的紧张与冲突，而在另一情节中，谷子地与部下在掩体后通过眼神传递默契，表现出团结与理解。两个情节在人际关系基调上形成明显对比：前者是高层间的对抗，后者是基层间的默契，文本通过并置强化了这种关系动态的差异。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_532e885ec2ae",
+    "subject_id": "ep_b0434dd44dd83be1",
+    "object_id": "ep_4602726ef07d67ea",
+    "relation_type": "causes",
+    "reason": "指导员在战术分歧中坚持强攻并下令爆破组上前，其激进态度和行动意图为后续擅自发起突击埋下伏笔；在下一情节中，指导员情绪激动下直接发起突击导致部队失控，构成前一情节中冲突的直接后果。文本显示指导员的主张未被采纳但仍坚持行动，最终引发失控，具有明确的因果链条。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f388aaa2d47c",
+    "subject_id": "ep_b0434dd44dd83be1",
+    "object_id": "ep_57e9af9f9c320522",
+    "relation_type": "precedes",
+    "reason": "指导员主张强攻而谷子地坚持等待战机（ep_b0434dd44dd83be1）发生在两人在战火中隐蔽并对峙争吵（ep_57e9af9f9c320522）之前，根据相关事件的时间顺序和叙事流程，前者为战术分歧的提出与坚持，后者为分歧升级为情绪化对峙，具有明确的先后顺序。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_465411b91761",
+    "subject_id": "ep_26acc69b19af2769",
+    "object_id": "ep_dfd9cc9d20ef9001",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'九连残部休整与伤亡清点'发生在scene_14__2，而'谷子地借火点烟并分发战利品香烟'发生在scene_16，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3a64a38f7499",
+    "subject_id": "ep_1970f71aca75ea83",
+    "object_id": "ep_26acc69b19af2769",
+    "relation_type": "elaborates",
+    "reason": "两个情节均围绕九连战后伤亡清点与部队状态评估展开，共享焦大棚报告伤亡、谷子地命令整理阵亡名单等核心事件。'谷子地取水并了解部队损失'聚焦于信息传递的瞬间，而'九连残部休整与伤亡清点'提供了更广泛的背景，包括士兵状态和战场细节，从而扩展和丰富了前者的情境。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_14__2_part_1",
+      "scene_14__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c9b77100225c",
+    "subject_id": "ep_1970f71aca75ea83",
+    "object_id": "ep_e6abc8e0d249d4e4",
+    "relation_type": "elaborates",
+    "reason": "第一个情节中，焦大棚报告九连伤亡并表达对报丧工作的厌倦，谷子地命令整理阵亡名单；第二个情节进一步展现谷子地坚持由焦大棚继续负责文书工作，强调识字者的责任。第二个情节扩展了第一个情节中已启动的文书任务分配问题，提供了关于职责冲突的更多细节和人物互动的深化，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_14__2_part_1",
+      "scene_14__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ee6da1e7bec2",
+    "subject_id": "ep_aeb60cc1413e63c4",
+    "object_id": "ep_001074bea4fddc77",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'应对敌军炮击并组织紧急撤离'（scene_30）发生在'谷子地组织撤离并激励战士克服恐惧'（scene_31）之前。前者描述炮击中战士撤往窑内，后者描述在窑场中谷子地进一步安抚情绪并组织撤离，叙事顺序连贯且场景编号递增，支持前一情节在时间上先于后一情节。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8b15a3a647c6",
+    "subject_id": "ep_26acc69b19af2769",
+    "object_id": "ep_463dd40709be68de",
+    "relation_type": "precedes",
+    "reason": "九连残部休整与伤亡清点发生在谷子地反思战争代价并带领队伍转移之前，文本中先描述休整和清点阵亡名单，随后谷子地分发香烟、强调战争代价并下令转移，体现明确的叙事时序推进。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8b64dbda6b49",
+    "subject_id": "ep_04d57c6f6900cccd",
+    "object_id": "ep_1970f71aca75ea83",
+    "relation_type": "precedes",
+    "reason": "根据事件发生顺序，'战后物资交换与队伍重新集结'中谷子地扔掉烟蒂、队伍追赶并汇入大部队后，紧接着在后续场景中谷子地取水并听取部队损失报告。两个情节均发生在战后清理阶段，且'取水'行为在叙事逻辑上需以队伍到达河边为前提，而前一情节结尾处队伍正汇入大部队行进途中，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_60605b7904c1",
+    "subject_id": "ep_aeb60cc1413e63c4",
+    "object_id": "ep_6a9d6da4768e898c",
+    "relation_type": "precedes",
+    "reason": "应对敌军炮击并组织紧急撤离（ep_aeb60cc1413e63c4）发生在窑场中的炮击场景（scene_30），而王金存独自面对恐惧与内疚（ep_6a9d6da4768e898c）发生在所有战士撤离、谷子地离开后的寂静窑场（scene_31），scene_30在叙事顺序上明确早于scene_31，因此该关系为precedes。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e531e2be7d31",
+    "subject_id": "ep_dfd9cc9d20ef9001",
+    "object_id": "ep_7d5c02d739b2ee74",
+    "relation_type": "elaborates",
+    "reason": "‘谷子地借火点烟并分发战利品香烟’描述了焦大棚使用打火机为战友们点烟的初始场景，而‘点燃香烟与战后感受的训话’在此基础上扩展，加入了谷子地命令士兵咬舌头、反思痛感与战利品价值的深层训话，提供了对前一情节中行为意义的进一步解释和深化，因此构成 elaborates 关系。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_013adf978884",
+    "subject_id": "ep_eba4bb7a7f6c3d42",
+    "object_id": "ep_9dce00373bbd48c2",
+    "relation_type": "precedes",
+    "reason": "‘应对雷区爆炸与火力暴露’中描述的爆炸、士兵伤亡和谷子地组织救援是‘重组兵力并部署后续救援’的直接前因；后者涉及谷子地重新下达指令和三排开展救援，逻辑上紧随前者之后，且两个情节共享同一场景（scene_5__2）中的连续行动，支持叙事上的先后顺序。",
+    "source_documents": [
+      "scene_5__2_part_1",
+      "scene_5__2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_220224f6bdf2",
+    "subject_id": "ep_7d5c02d739b2ee74",
+    "object_id": "ep_463dd40709be68de",
+    "relation_type": "precedes",
+    "reason": "‘点燃香烟与战后感受的训话’发生在谷子地分发香烟并进行训话的场景（scene_14__2），而‘谷子地反思战争代价并带领队伍转移’发生在后续场景（scene_16），其中包括丢弃烟蒂和队伍转移。文本中‘丢弃烟蒂后带领队伍转移’的动作紧接在训话行为之后，表明前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_14__2_part_1",
+      "scene_14__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3a2fe3f100c3",
+    "subject_id": "ep_bfd48f68186022ca",
+    "object_id": "ep_42f102b4a321e259",
+    "relation_type": "precedes",
+    "reason": "部署防御任务并争取资源发生在会谈过程中，而结束会谈并响应集结号标志着会谈结束和任务执行的开始，二者共享同一场合'刘团长与谷子地的战前任务商议会'，且响应集结号的行为紧随任务部署之后，构成明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_27_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3bed278b2214",
+    "subject_id": "ep_ee289296b098f700",
+    "object_id": "ep_6e61ac3df06124eb",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述，'完成用餐并展现粗犷习性'发生在战前任务商议会的早期阶段，而'接受赠烟并感知永别意味'发生在分别前，属于同一场合中的后续环节。因此，'完成用餐'在叙事顺序上早于'接受赠烟'，有明确的时间先后支持。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_27_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_98be2835de09",
+    "subject_id": "ep_4602726ef07d67ea",
+    "object_id": "ep_57e9af9f9c320522",
+    "relation_type": "causes",
+    "reason": "指导员发起突击导致部队失控，直接引发谷子地与指导员在战场上的对峙争吵。描述中明确指出谷子地因部队擅自行动而震怒，随后与指导员发生激烈争执，表明前者是后者的直接导火索。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_717f27b793a9",
+    "subject_id": "ep_6923ef4318eb8b68",
+    "object_id": "ep_4602726ef07d67ea",
+    "relation_type": "precedes",
+    "reason": "敌方火力压制与战场初始状态在叙事中构成后续行动的背景条件，指导员发起突击发生在该高压状态下，因此在时间顺序上前者早于后者。描述中明确指出前者为‘后续所有行动的背景条件’，支持其在叙事顺序上的优先性。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_36fb7af5a860",
+    "subject_id": "ep_2260349f64ddc83e",
+    "object_id": "ep_4602726ef07d67ea",
+    "relation_type": "causes",
+    "reason": "第一个情节中，谷子地与指导员因战术分歧发生激烈争执，指导员在情绪激动下带头发起突击，直接导致第二个情节中部队失控、战士伤亡和谷子地震怒。文本描述指导员在争执后‘情绪激动下扣上弹夹’并发起突击，表明争执是突击行动的直接诱因，具有明确的因果链条。",
+    "source_documents": [
+      "scene_5__2_part_1",
+      "scene_5__2_part_2",
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3d63e847f89a",
+    "subject_id": "ep_e8bab4bbf9d7c1d6",
+    "object_id": "ep_1acaa708b9e203e4",
+    "relation_type": "precedes",
+    "reason": "潜行穿越暗道并躲避守军发生在爆炸事件之前，因为两人在暗道中潜行并躲藏后，才遭遇爆炸的冲击波和浓烟涌入，叙事上具有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_01b4966147ed",
+    "subject_id": "ep_4602726ef07d67ea",
+    "object_id": "ep_ea8048bfc1f374b0",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_5，但‘指导员发起突击导致部队失控’中谷子地因部队擅自行动而震怒，随后才出现‘谷子地调整火力并移交指挥’中的指挥权转移和战术调整行为。叙事顺序上，部队失控在前，谷子地重新建立控制在后，构成明确的时间先后关系。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d4dabbf50aaf",
+    "subject_id": "ep_e8bab4bbf9d7c1d6",
+    "object_id": "ep_091b5ae194dec27e",
+    "relation_type": "precedes",
+    "reason": "潜行穿越暗道并躲避守军发生在执行突袭并投掷炸药包之前，因为渗透是突袭的前提，且相关事件的时间顺序和叙事逻辑表明先隐蔽接近，再发动攻击。",
+    "source_documents": [
+      "scene_10__2_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c45105dfb68b",
+    "subject_id": "ep_6d7c978fce81e38a",
+    "object_id": "ep_d111c0cd04082ef3",
+    "relation_type": "precedes",
+    "reason": "根据相关事件发生场景的顺序，'谷子地与部下短暂休整并传递默契' 发生在 scene_3，而 '应对突发敌情并确认战场变化' 发生在 scene_5，scene_3 在叙事顺序上早于 scene_5，因此该关系为 precedes。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0f68acc8a64f",
+    "subject_id": "ep_ee289296b098f700",
+    "object_id": "ep_42f102b4a321e259",
+    "relation_type": "precedes",
+    "reason": "根据描述，'完成用餐并展现粗犷习性'发生在会谈前，而'结束会谈并响应集结号'发生在会谈结束前及雪夜中集结号响起时，表明前者在叙事顺序上早于后者。两个情节共享同一场合'刘团长与谷子地的战前任务商议会'，且行为顺序符合时间逻辑：先完成用餐，再结束会谈并响应集结信号。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_27_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e75e427fb735",
+    "subject_id": "ep_bc2a70186893b59d",
+    "object_id": "ep_ff466d2e6b03434a",
+    "relation_type": "causes",
+    "reason": "谷子地与指导员因战友牺牲产生争执，导致指导员情绪压抑，这种情绪波动直接引发他在更换弹夹时分心、警觉性下降，构成安全隐患。两个情节共享同一场景（scene_8），且情绪压抑作为中间状态连接了争执与疏忽警戒，文本支持因果链。",
+    "source_documents": [
+      "scene_8_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_24c66f8a00ae",
+    "subject_id": "ep_091b5ae194dec27e",
+    "object_id": "ep_1acaa708b9e203e4",
+    "relation_type": "causes",
+    "reason": "执行突袭并投掷炸药包直接导致爆炸的冲击波和浓烟涌入暗道，从而触发了吕宽沟扑向姜茂财进行保护并共同遭遇爆炸的情节。文本中明确描述了炸药包投掷与后续爆炸及两人被吞没之间的因果链。",
+    "source_documents": [
+      "scene_10__2_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7cfce622718a",
+    "subject_id": "ep_04d57c6f6900cccd",
+    "object_id": "ep_463dd40709be68de",
+    "relation_type": "precedes",
+    "reason": "主体情节'战后物资交换与队伍重新集结'中，谷子地扔掉烟蒂离开并引发队伍追赶，客体情节'谷子地反思战争代价并带领队伍转移'中，谷子地在分发香烟后丢弃烟蒂并正式带领队伍转移，且两情节均描述队伍最终汇入大部队的过程。根据叙事顺序，物资交换与重新集结发生在谷子地进行反思并正式带领转移之前，且'扔掉烟蒂'动作在主体情节中为离开的开始，在客体情节中为转移的启动，表明前者在时间上先于后者。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_468c4181970f",
+    "subject_id": "ep_091b5ae194dec27e",
+    "object_id": "ep_284160eec1ebadcb",
+    "relation_type": "precedes",
+    "reason": "执行突袭并投掷炸药包发生在战斗过程中，而九连幸存士兵战后休整明确描述的是战斗结束后的状态，时间顺序上前者早于后者，叙事顺序也支持这一先后关系。",
+    "source_documents": [
+      "scene_10__2_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d60575e1ba2f",
+    "subject_id": "ep_d111c0cd04082ef3",
+    "object_id": "ep_4602726ef07d67ea",
+    "relation_type": "causes",
+    "reason": "客体情节‘指导员发起突击导致部队失控’的直接导火索是主体情节中下游传来的枪炮声和冲锋号，以及指导员据此判断战机并决定突击。描述中明确指出‘指导员确认枪声来源后决定突击’，表明主体情节中的战场变化感知直接引发了客体中的突击行动和后续失控，构成清晰的因果链。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d82401b7db1a",
+    "subject_id": "ep_04d57c6f6900cccd",
+    "object_id": "ep_7d5c02d739b2ee74",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的事件序列，'战后物资交换与队伍重新集结'中的行为（如交换军用品、抬炮车追赶谷子地）发生在谷子地扔掉烟蒂并离开之后，而'点燃香烟与战后感受的训话'以点烟和训话为核心，逻辑上紧随队伍集结完成之后。两个情节共享scene_14__2的时间背景，但物资交换和追赶动作先于点烟和训话，构成清晰的叙事先后顺序。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_34cf78e526ac",
+    "subject_id": "ep_1acaa708b9e203e4",
+    "object_id": "ep_b6e42f1acaa90b5d",
+    "relation_type": "contrasts_with",
+    "reason": "情节 '保护同伴并共同遭遇爆炸' 描绘了生死关头的牺牲与紧张，而 '吕宽沟与姜茂财在篝火旁打趣未婚妻话题' 展现了战友情谊中的轻松亲密时刻。两者在基调（危急 vs. 轻松）和情境（生存威胁 vs. 日常互动）上形成鲜明对比，构成叙事上的对比关系。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_11020d97c16e",
+    "subject_id": "ep_79890baf45a63455",
+    "object_id": "ep_ab4ac153e6a4aa02",
+    "relation_type": "precedes",
+    "reason": "指导员在与谷子地交谈中因换弹匣导致警戒松懈（ep_79890baf45a63455）发生在地雷爆炸导致士兵死亡之前，而士兵死亡直接引发了谷子地责备指导员并随后缓和关系的情节（ep_ab4ac153e6a4aa02）。根据相关事件的时间逻辑，警戒松懈暴露战场风险在叙事顺序上先于处理战友伤亡并缓和紧张关系。",
+    "source_documents": [
+      "scene_7__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6e4f7cb1de31",
+    "subject_id": "ep_1acaa708b9e203e4",
+    "object_id": "ep_284160eec1ebadcb",
+    "relation_type": "precedes",
+    "reason": "主体情节'保护同伴并共同遭遇爆炸'发生在爆炸冲击波吞没两人的危急时刻，而客体情节'九连幸存士兵战后休整'描述的是战斗结束后的休整状态，包括吕宽沟和姜茂财满身泥污发呆，这表明他们从爆炸事件中幸存并进入后续恢复阶段。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ff31d4af7e94",
+    "subject_id": "ep_a21c7812aa174f79",
+    "object_id": "ep_1acaa708b9e203e4",
+    "relation_type": "precedes",
+    "reason": "突击队员潜近并突入敌方目标（ep_a21c7812aa174f79）在叙事顺序上发生在保护同伴并共同遭遇爆炸（ep_1acaa708b9e203e4）之前，因为突入暗道是引发后续爆炸场景的前提行动，且两个情节共享同一组人物和连续的场景（scene_4 早于 scene_14）。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7adb0f282dbb",
+    "subject_id": "ep_a21c7812aa174f79",
+    "object_id": "ep_091b5ae194dec27e",
+    "relation_type": "precedes",
+    "reason": "根据描述，突击队员潜近并突入敌方目标（ep_a21c7812aa174f79）发生在执行突袭并投掷炸药包（ep_091b5ae194dec27e）之前。前者涉及接近和进入敌方阵地，后者则是进入后实施的攻击行动，具有明确的叙事时序先后。",
+    "source_documents": [
+      "scene_10__2_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_664c550c7a4b",
+    "subject_id": "ep_7616f6c1b7f914ee",
+    "object_id": "ep_1acaa708b9e203e4",
+    "relation_type": "precedes",
+    "reason": "引爆装置并掀开铁篦子（ep_7616f6c1b7f914ee）在叙事顺序上直接早于保护同伴并共同遭遇爆炸（ep_1acaa708b9e203e4），因为点燃导火索和顶起铁篦子是引发爆炸冲击波和两人被吞没的直接前提，且事件链条在描述中呈现连续的因果时序。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_57ec18d1b3e6",
+    "subject_id": "ep_a21c7812aa174f79",
+    "object_id": "ep_e8bab4bbf9d7c1d6",
+    "relation_type": "precedes",
+    "reason": "主体情节描述突击队员利用船体残骸接近并突入敌方目标，包括钻入排污口和被拽入暗道，这在叙事顺序上直接早于客体情节中两人已在暗道中潜行并躲避守军。related_events 中的 scene_4 发生在 scene_6 之前，支持该时间顺序。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b9cb5282378d",
+    "subject_id": "ep_e8bab4bbf9d7c1d6",
+    "object_id": "ep_7616f6c1b7f914ee",
+    "relation_type": "precedes",
+    "reason": "根据描述，'潜行穿越暗道并躲避守军' 发生在袭击者执行渗透任务的早期阶段（scene_6），而 '引爆装置并掀开铁篦子' 是后续的爆炸行动（scene_11），二者在叙事顺序上存在明确的时间先后关系，且属于同一行动的不同阶段，前者为后者铺垫。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7750a544ebb0",
+    "subject_id": "ep_a21c7812aa174f79",
+    "object_id": "ep_7616f6c1b7f914ee",
+    "relation_type": "precedes",
+    "reason": "突击队员潜近并突入敌方目标发生在引爆装置并掀开铁篦子之前，因为突入行动是准备阶段，而引爆是后续的同归于尽行为，叙事上具有明确的时间先后顺序。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ceedc1d4e648",
+    "subject_id": "ep_1acaa708b9e203e4",
+    "object_id": "ep_26acc69b19af2769",
+    "relation_type": "precedes",
+    "reason": "主体情节'保护同伴并共同遭遇爆炸'发生在爆炸瞬间，涉及吕宽沟和姜茂财被冲击波吞没，是战斗中的紧急反应事件；客体情节'九连残部休整与伤亡清点'描述战斗结束后幸存者的状态评估与损失统计，包括同一人物吕宽沟和姜茂财的后续表现。根据叙事逻辑和事件发展顺序，遭遇爆炸必然在战后休整与清点之前，且两个情节共享场景连续性和人物连续性，支持明确的时间先后关系。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_14__2_part_1",
+      "scene_14__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6a363f7583cb",
+    "subject_id": "ep_2260349f64ddc83e",
+    "object_id": "ep_57e9af9f9c320522",
+    "relation_type": "elaborates",
+    "reason": "实体 #1 '争论是否立即强攻并坚持战术等待' 描述了谷子地与指导员因战术分歧而发生争执的完整上下文，包括双方立场、具体论点及最终谷子地揭示爆破组已派出的关键信息。实体 #2 '谷子地与指导员对峙争吵' 聚焦于该争执的紧张对峙场景，突出情绪状态和空间位置（隐蔽于路灯后），是对前一情节中冲突的细节补充和情绪渲染。因此，实体 #2 通过提供情境细节和情感张力，扩展并丰富了实体 #1 中所述争论的表现层面，构成 elaborates 关系（即 #1 被 #2 所详述）。",
+    "source_documents": [
+      "scene_5__2_part_1",
+      "scene_5__2_part_2",
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a9ca97abaa03",
+    "subject_id": "ep_7616f6c1b7f914ee",
+    "object_id": "ep_284160eec1ebadcb",
+    "relation_type": "precedes",
+    "reason": "引爆装置并掀开铁篦子（ep_7616f6c1b7f914ee）是战斗中的行动事件，发生在九连幸存士兵战后休整（ep_284160eec1ebadcb）之前，后者描述的是战斗结束后士兵们疲惫休整的状态，叙事顺序上前者早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_11_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_63250a2659fa",
+    "subject_id": "ep_a21c7812aa174f79",
+    "object_id": "ep_9521467c68d792fe",
+    "relation_type": "precedes",
+    "reason": "根据文档中的场景编号，'突击队员潜近并突入敌方目标'发生在scene_4，而'执行水塔狙击清除任务'发生在scene_5__2，scene_4在叙事顺序上早于scene_5__2，因此该关系为precedes。",
+    "source_documents": [
+      "scene_5__2_part_1",
+      "scene_5__2_part_2",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8fc11a330846",
+    "subject_id": "ep_aa19f5bbbf9d70f4",
+    "object_id": "ep_aeb60cc1413e63c4",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在scene_30，但'纠正炸药包绑扎并揭穿玩笑'描述的是炮击前的准备活动，而'应对敌军炮击并组织紧急撤离'以炮击开始为起点，叙事上存在明确的时间先后顺序。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cd910d244d36",
+    "subject_id": "ep_7f7556d7642e4caf",
+    "object_id": "ep_6a9d6da4768e898c",
+    "relation_type": "precedes",
+    "reason": "战士们在窑场避炮并维持战备状态发生在王金存独自面对恐惧与内疚之前，因为后者是在所有战士撤离、谷子地离开后的情节，而前者描述的是集体在场时的活动，时间顺序明确。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1d9172de1502",
+    "subject_id": "ep_f1151d007339cb41",
+    "object_id": "ep_29f6037b0480e99d",
+    "relation_type": "precedes",
+    "reason": "部署平射炮并准备反击发生在瞄准并锁定敌方目标之前，因为准备反击是射击前的必要步骤，且两个情节均发生在同一战斗场景（scene_7）中，叙事顺序上先完成部署和装填，然后进行瞄准锁定。",
+    "source_documents": [
+      "scene_7_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_44b725e7b417",
+    "subject_id": "ep_ca67aa59b8261595",
+    "object_id": "ep_65dd3623b456e61d",
+    "relation_type": "precedes",
+    "reason": "布置汶河阻击作战任务发生在作战会议的前半部分，而宣布紧急决定并交接后续指令发生在会议结束前，两者均属于同一场合'139团作战会议 (scene_23)'，根据叙事顺序，任务布置在先，决定宣布与指令交接在后。",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_77568c7903b9",
+    "subject_id": "ep_aeb60cc1413e63c4",
+    "object_id": "ep_7f7556d7642e4caf",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'应对敌军炮击并组织紧急撤离'发生在scene_30，而'战士们在窑场避炮并维持战备状态'发生在scene_31，表明前者在叙事顺序上紧接在后者之前。撤离行动导致战士们进入窑场，从而自然过渡到在窑场中避炮和维持战备的状态。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bd2c5f011a7b",
+    "subject_id": "ep_284160eec1ebadcb",
+    "object_id": "ep_04d57c6f6900cccd",
+    "relation_type": "precedes",
+    "reason": "九连幸存士兵战后休整发生在战后物资交换与队伍重新集结之前。描述中，休整场景展现士兵疲惫发呆、擦拭炮弹的静态状态，而物资交换情节包含主动行为如换鞋、交换物品、追赶队伍并汇入大部队，具有更进一步的行动推进，表明其在叙事顺序上紧随休整之后。两个情节均发生在战斗结束后，但休整为后续行动提供了情境起点，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2f1ed3cd5be5",
+    "subject_id": "ep_14866eaf7c88a812",
+    "object_id": "ep_6352e9f2c4536f5a",
+    "relation_type": "precedes",
+    "reason": "根据描述，'应对指导员牺牲的瞬间'聚焦于指导员牺牲后战友的即时情感反应，而'残存连队发起战场冲锋'描述的是部队继续推进的战斗行动。在叙事逻辑和战场情境中，情感反应通常紧接牺牲事件之后，而冲锋作为后续作战行动，应在情感反应之后发生，因此前者在话语顺序上先于后者。",
+    "source_documents": [
+      "scene_13__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8896359df3c6",
+    "subject_id": "ep_dfd9cc9d20ef9001",
+    "object_id": "ep_04d57c6f6900cccd",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'谷子地借火点烟并分发战利品香烟'发生在scene_16，而'战后物资交换与队伍重新集结'发生在scene_14__2，scene_16在叙事顺序上晚于scene_14__2，因此该关系方向为ep_dfd9cc9d20ef9001（主体）在ep_04d57c6f6900cccd（客体）之后，但precedes关系要求主体早于客体，故实际应为客体早于主体。然而，由于关系方向由subject->object定义，且此处主体情节实际晚于客体，因此正确的关系应为object precedes subject。但由于precedes是有向关系，且当前主体并不早于客体，因此不能成立。重新判断：两个情节分别属于不同文档（doc_15和doc_29）且scene_14__2早于scene_16，因此ep_04d57c6f6900cccd早于ep_dfd9cc9d20ef9001，即subject（ep_dfd9cc9d20ef9001）并未precede object（ep_04d57c6f6900cccd），相反是object precedes subject。由于关系方向错误，不能选precedes。无其他明确因果、对比或扩展关系证据，因此输出NONE。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_add4627f2b19",
+    "subject_id": "ep_285c3a4f9889f2d3",
+    "object_id": "ep_7c1c54ac1a7be568",
+    "relation_type": "precedes",
+    "reason": "带领队伍穿越低地并运送重装备发生在启动并执行炸药包连环攻击之前，因为部队必须先抵达作战位置并部署装备，才能执行后续的爆炸攻击。相关事件的时间顺序和逻辑依赖支持这一叙事先后关系。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6d12ead2e77e",
+    "subject_id": "ep_45459ebd760d9ea9",
+    "object_id": "ep_badfc1882c5e4055",
+    "relation_type": "causes",
+    "reason": "主体情节中将火炮架设在坟头上作为高射炮的行动，构成了对空威胁，直接导致客体情节中飞机在俯冲时遭遇地面亮光并紧急规避。文本指出飞机因发现坟地中的火炮和人员而颤抖并拉高规避，表明前者是后者的直接触发原因。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_53c34f571a45",
+    "subject_id": "ep_3a06cd553caeaec1",
+    "object_id": "ep_142371881116b0d5",
+    "relation_type": "precedes",
+    "reason": "组织防御并准备平射炮反击（ep_3a06cd553caeaec1）包括部署火炮、装填弹药和准备射击的步骤，这些是实施锁定并瞄准街口敌方目标（ep_142371881116b0d5）的前提。描述中显示，平射炮炮口从射击孔伸出并锁定目标是准备行动的一部分，表明准备行为在精确瞄准之前发生。因此，该关系在叙事顺序上具有明确的先后性。",
+    "source_documents": [
+      "scene_6__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_25d4f64d0a0e",
+    "subject_id": "ep_0fcf1a558f7fef1a",
+    "object_id": "ep_badfc1882c5e4055",
+    "relation_type": "precedes",
+    "reason": "根据描述，'应对地面突袭威胁并紧急规避'（飞机在俯冲中遭遇亮光并规避）发生在'追击新出现的战场目标'（谷子地带领部队奔向爆炸区域）之前，因为飞机规避后未实施扫射，随后爆炸声和浓烟出现，表明追击是对该空袭未完成的结果的响应。因此，'应对地面突袭威胁并紧急规避'在叙事顺序上先于'追击新出现的战场目标'。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_52c34c580247",
+    "subject_id": "ep_3bee2e390ed49a33",
+    "object_id": "ep_c9ecc4c19f32b745",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'迎接并介绍新任代理指导员' 发生在 scene_30，而 '谷子地追问王金存隐私并转为安慰' 发生在 scene_25。scene_25 在叙事顺序上早于 scene_30，因此主体情节在时间上晚于客体情节，即客体情节 precedes 主体情节。但由于关系方向要求 subject -> object，此处应为 ep_c9ecc4c19f32b745 precedes ep_3bee2e390ed49a33。然而输入中主体是 ep_3bee2e390ed49a33，客体是 ep_c9ecc4c19f32b745，故该方向不成立。反向关系未被允许模式覆盖，因此不能断言。综上，正确的时间顺序是客体在前、主体在后，但给定方向无法支持任何允许的关系类型，因此输出 NONE。但重新评估：precedes 是有向关系，若主体在后，客体在前，则主体不能 precedes 客体。因此正确判断是：没有支持 subject -> object 的 precedes 关系。但若存在反向时间顺序，则应考虑是否可推断为 object precedes subject，但任务要求判断的是给定 subject 和 object 之间的关系，即 subject -> object。由于实际时间顺序是 object 发生在 subject 之前，因此 subject 并不 precedes object；相反，若要用 precedes，则应是 object precedes subject，但该方向与输入角色相反。因此在当前 subject 和 object 指定下，precedes 不成立。其他关系：causes 无明确因果证据；contrasts_with 无并置对比基调或状态的证据；elaborates 无扩展或解释关系。因此所有关系均无充分支持。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_25_part_1",
+      "scene_25_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2eacac886057",
+    "subject_id": "ep_285c3a4f9889f2d3",
+    "object_id": "ep_eba4bb7a7f6c3d42",
+    "relation_type": "precedes",
+    "reason": "谷子地带领队伍穿越低地并运送重装备发生在进入雷区并遭遇爆炸之前，文本中行军过程为后续雷区暴露和爆炸事件提供了时间与情境上的前序动作，且无证据表明两者同时或逆序发生。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_5__2_part_1",
+      "scene_5__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9fda9fb32cdc",
+    "subject_id": "ep_bfd48f68186022ca",
+    "object_id": "ep_285c3a4f9889f2d3",
+    "relation_type": "precedes",
+    "reason": "部署防御任务并争取资源（ep_bfd48f68186022ca）发生在刘团长与谷子地的战前任务商议会（scene_27），而带领队伍穿越低地并运送重装备（ep_285c3a4f9889f2d3）发生在scene_28，根据场景编号顺序，scene_27在叙事顺序上早于scene_28，因此该关系为precedes。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_27_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9043d59a10d1",
+    "subject_id": "ep_02a7a061a51b5377",
+    "object_id": "ep_286f1116d619e3e1",
+    "relation_type": "precedes",
+    "reason": "残存连队发起冲锋并发现指导员阵亡的情节中，谷子地跪在血泊中悲痛抱遗体，情绪低落；而巡视阵地并分发物资安抚士气的情节中，谷子地已恢复冷静并主动维持士气，行为上呈现从悲痛到恢复的叙事 progression。两个情节均发生在同一战役背景下，且后者在行为逻辑和情绪状态上紧随前者之后，构成明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c90b23ca176b",
+    "subject_id": "ep_02a7a061a51b5377",
+    "object_id": "ep_ab15e3794b113b92",
+    "relation_type": "precedes",
+    "reason": "残存连队发起冲锋并发现指导员阵亡的情节中，谷子地跪在血泊中悲痛地抱着指导员遗体，而目送遗体转移后独自哀悼的情节发生在王金存背负尸体离开之后，表明遗体已被转移。因此，指导员遗体被发现并被悲痛悼念的事件在时间顺序上早于遗体被转移和后续哀悼，叙事顺序清晰。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e2eea0a9fd38",
+    "subject_id": "ep_d2038e24248b9cad",
+    "object_id": "ep_3b690fd400fa3dd0",
+    "relation_type": "precedes",
+    "reason": "寻找并发现重伤的指导员这一情节构成后续抢救龚良国的前提，且在叙事逻辑上先发现伤员才能展开救援。尽管两个情节涉及不同人物（指导员 vs 龚良国），但‘发现重伤员’作为战场救援的通用前奏，为‘抢救伤员’提供了上下文和行动起点，支持时间顺序上的先后关系。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_29b542aea3fe",
+    "subject_id": "ep_02a7a061a51b5377",
+    "object_id": "ep_9dce00373bbd48c2",
+    "relation_type": "precedes",
+    "reason": "残存连队发起冲锋并发现指导员阵亡的情节中，谷子地处于悲痛沉默状态，而重组兵力并部署后续救援的情节中，谷子地已恢复并主动下达战术指令。两个情节均涉及谷子地在战场上的行动，且后者包含组织性和目的性行为，逻辑上应在情绪崩溃之后发生，因此在叙事时序上，主体情节早于客体情节。",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_5__2_part_1",
+      "scene_5__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5914fd189d20",
+    "subject_id": "ep_3b690fd400fa3dd0",
+    "object_id": "ep_ab15e3794b113b92",
+    "relation_type": "precedes",
+    "reason": "抢救龚良国并应对重伤危机发生在王金存背负尸体离开之前，而目送遗体转移后独自哀悼的情节紧随其后。根据描述，谷子地在抢救失败后目送王金存背尸离去，表明前一情节在叙事顺序上直接早于后一情节。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f97d54cbc599",
+    "subject_id": "ep_7d88cfc0b67a41de",
+    "object_id": "ep_badfc1882c5e4055",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间顺序，'应对地面突袭威胁并紧急规避'（scene_20）发生在'执行炮击并确认击落敌机'（scene_21）之前。scene_20中飞机因地面亮光紧急规避，而scene_21中谷子地指挥炮击成功击落运输机，叙事顺序明确，因此主体情节在客体情节之后发生，关系为客体先于主体。但由于关系方向由subject->object定义，此处subject为ep_7d88cfc0b67a41de，object为ep_badfc1882c5e4055，故应为precedes的反向不成立；然而precedes关系允许方向性判断，根据scene编号，ep_badfc1882c5e4055（scene_20）在ep_7d88cfc0b67a41de（scene_21）之前，因此ep_7d88cfc0b67a41de不能precedes ep_badfc1882c5e4055。故方向错误，不能成立precedes。重新判断：两个情节分别描述不同场景（scene_20与scene_21），无直接因果、对比或扩展关系。无文本支持causes、contrasts_with或elaborates。因此无充分支持任何有向或对称关系。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7bcc9d8b2b13",
+    "subject_id": "ep_3b690fd400fa3dd0",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "抢救龚良国并应对重伤危机发生在战斗紧急情况下，涉及对伤员的即时救治尝试；而统计伤亡并部署遗体安置发生在阵地篝火旁，体现战后秩序维护，包含尸体和重伤员的后续处理。根据叙事逻辑和事件发展顺序，抢救行动在时间上先于伤亡统计与遗体安置，且后者处理的重伤员可能包括前一情节中的伤者，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3bb173007fee",
+    "subject_id": "ep_1662de4432c4118c",
+    "object_id": "ep_3b690fd400fa3dd0",
+    "relation_type": "precedes",
+    "reason": "主体情节描述吕宽沟请示引爆投送器及龚良国中弹阵亡，随后有战士接替岗位；客体情节描述谷子地转移伤员并尝试抢救龚良国，王金存因救治失败而心理崩溃。龚良国在主体情节中阵亡，其抢救过程在客体情节中展开，表明主体情节中的伤亡事件在时间上先于抢救行动，且抢救情节基于同一人物的伤情发展，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_46_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_55922526aea5",
+    "subject_id": "ep_285c3a4f9889f2d3",
+    "object_id": "ep_45459ebd760d9ea9",
+    "relation_type": "precedes",
+    "reason": "主体情节描述谷子地率领部队穿越低地并运送重装备（scene_28），而客体情节描述谷子地下令搬运火炮并抢占坟地制高点（scene_19）。根据相关事件的场景编号，scene_28 在 scene_19 之后发生，因此客体情节在叙事顺序上早于主体情节。但由于关系方向要求从主体到对象，此处实际应为 object -> subject，不满足 directed 关系的正确方向。然而，若按叙事时间线，ep_45459ebd760d9ea9（scene_19）发生在 ep_285c3a4f9889f2d3（scene_28）之前，因此主体情节在时间上晚于客体情节，故主体并不 precedes 客体。相反，正确的方向应为客体 precedes 主体。由于 'precedes' 是有向关系且当前主体不能 precedes 客体，因此无有效关系成立。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_64b1b49df975",
+    "subject_id": "ep_3b690fd400fa3dd0",
+    "object_id": "ep_463dd40709be68de",
+    "relation_type": "precedes",
+    "reason": "抢救龚良国并应对重伤危机发生在战斗紧急情况下，涉及现场急救和人员心理反应；而谷子地反思战争代价并带领队伍转移发生在战后撤离阶段，包括劝说战士铭记疼痛、丢弃烟蒂后转移队伍等动作。根据叙事顺序，抢救伤员的情节在时间上早于战后反思与转移，且文档中‘战后撤离阶段的延续’表明后者在前者之后发生。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f84bf0e5f67e",
+    "subject_id": "ep_3b690fd400fa3dd0",
+    "object_id": "ep_9dce00373bbd48c2",
+    "relation_type": "precedes",
+    "reason": "抢救龚良国并应对重伤危机发生在战斗紧急情况下，涉及对伤员的即时处理和心理反应；而重组兵力并部署后续救援描述的是谷子地重新组织士兵并继续救援行动。根据叙事逻辑和战场进展，紧急抢救应先于兵力重组和后续部署，且两个情节均发生在不同文档场景中（scene_46 vs scene_5__2），无重叠事件，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_46_part_1",
+      "scene_5__2_part_1",
+      "scene_5__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3958109c925b",
+    "subject_id": "ep_4d2101d94259d29e",
+    "object_id": "ep_f3bb76b09d9fc893",
+    "relation_type": "elaborates",
+    "reason": "实体 #2 '实施劝降并评估敌情' 提供了关于谷子地劝降行动的更详细背景，包括饮水、应对部下担忧和指导员催促等细节，扩展了实体 #1 '谷子地实施心理攻势劝降敌军' 中描述的心理战行为。因此，实体 #2 对实体 #1 进行了内容上的细化和补充，符合 'elaborates' 关系。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_1__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dc960f529dc4",
+    "subject_id": "ep_66b9b207fbd90553",
+    "object_id": "ep_7c1c54ac1a7be568",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'持续投弹与战场观察维持火力压制' 发生在 scene_32，而 '启动并执行炸药包连环攻击' 发生在 scene_35，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a2c3ffa89bd0",
+    "subject_id": "ep_84d1fb3d4ac16f13",
+    "object_id": "ep_7c1c54ac1a7be568",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'应对敌机挑衅并组织反击'（scene_21）发生在'启动并执行炸药包连环攻击'（scene_35）之前，两个情节分别属于文档中不同且有序的场景，scene_21早于scene_35，因此存在明确的叙事顺序。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bc039a78da53",
+    "subject_id": "ep_3a65afb1a67a42b3",
+    "object_id": "ep_f3bb76b09d9fc893",
+    "relation_type": "elaborates",
+    "reason": "实体#2 '实施劝降并评估敌情' 提供了关于谷子地劝降过程的更详细信息，包括使用喇叭喊话、饮水保持状态、应对部下担忧和指导员催促等具体行为，扩展并丰富了实体#1 '谷子地喊话劝降敌方士兵' 中描述的劝降行动。因此，实体#2 对实体#1 进行了细节补充和背景深化，构成 elaborates 关系（从 object 到 subject）。但由于关系方向要求 subject -> object，而此处支持的是 object elaborates subject，故不成立；反向亦无证据。因此最终判断为 NONE。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_1__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ac20be38996c",
+    "subject_id": "ep_1662de4432c4118c",
+    "object_id": "ep_7c1c54ac1a7be568",
+    "relation_type": "precedes",
+    "reason": "情节 '处理爆破时机并应对人员伤亡' 发生在谷子地下令等待敌方二梯队并处理人员伤亡时，而 '启动并执行炸药包连环攻击' 是随后谷子地亲自点燃引信并引发连环爆炸的行动。根据事件序列，前者在叙事和时间顺序上直接早于后者。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bb742999c00d",
+    "subject_id": "ep_b0434dd44dd83be1",
+    "object_id": "ep_7c1c54ac1a7be568",
+    "relation_type": "causes",
+    "reason": "在‘指导员主张强攻而谷子地坚持等待战机’中，谷子地透露爆破组已被提前派出，这一决策直接导致后续‘启动并执行炸药包连环攻击’的发生。文本中明确指出爆破组的预先部署是谷子地等待战术的一部分，因此该情节作为直接前因触发了炸药包攻击的执行。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_12e1152e4e25",
+    "subject_id": "ep_bfd48f68186022ca",
+    "object_id": "ep_7c1c54ac1a7be568",
+    "relation_type": "precedes",
+    "reason": "部署防御任务并争取资源发生在谷子地接受任务并准备作战的阶段（scene_27），而启动并执行炸药包连环攻击是后续在战场上的具体作战行动（scene_35），文本中scene_27早于scene_35，因此该关系在叙事顺序上明确支持。",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_27_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a12fbd53504f",
+    "subject_id": "ep_6c37c5dc99e9d558",
+    "object_id": "ep_7c1c54ac1a7be568",
+    "relation_type": "precedes",
+    "reason": "‘指挥摧毁敌方高处火力点’是谷子地为清除压制火力而下达的战术指令，旨在为后续行动创造条件；‘启动并执行炸药包连环攻击’是实际执行的打击行动，包含连续爆炸并改变战场环境。根据描述，清除高处火力点的指令为后续炸药包攻击提供了战术准备和目标设定，表明前者在叙事和战术顺序上早于后者。",
+    "source_documents": [
+      "scene_5__2_part_1",
+      "scene_5__2_part_2",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2ab0efbb94e0",
+    "subject_id": "ep_14866eaf7c88a812",
+    "object_id": "ep_ab15e3794b113b92",
+    "relation_type": "precedes",
+    "reason": "‘应对指导员牺牲的瞬间’描述了指导员刚牺牲后谷子地和焦大棚的即时反应，发生在战斗现场；而‘目送遗体转移后独自哀悼’发生在王金存背走尸体之后，时间上明显靠后。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_13__2_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bc8947197310",
+    "subject_id": "ep_14866eaf7c88a812",
+    "object_id": "ep_22ea4164526e6692",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序，'应对指导员牺牲的瞬间'发生在doc_28，而'谷子地获取香烟并分发给部下'发生在doc_29，表明前者在叙事顺序上早于后者。两个情节分别属于连续场景，且无重叠事件或倒叙迹象，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_13__2_part_1",
+      "scene_14__2_part_1",
+      "scene_14__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_50fae5f50085",
+    "subject_id": "ep_14866eaf7c88a812",
+    "object_id": "ep_286f1116d619e3e1",
+    "relation_type": "precedes",
+    "reason": "情节 '应对指导员牺牲的瞬间' 描述了指导员牺牲后谷子地和焦大棚的即时情感反应，发生在战斗激烈进行中；而 '巡视阵地并分发物资安抚士气' 描述谷子地在战后巡视、分发烟卷以维持士气，行为更具组织性和稳定性。根据叙事逻辑和状态演进，情感冲击情节应在后续恢复秩序情节之前，且文档场景编号（scene_13__2 vs scene_36）支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_13__2_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a11c81e10017",
+    "subject_id": "ep_142371881116b0d5",
+    "object_id": "ep_29f6037b0480e99d",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述尉官通过瞄准镜追踪街口目标并调整平射炮瞄准点，客体情节进一步提供细节，包括尉官喃喃自语的心理状态以及瞄准镜最终锁定谷子地后衣襟的具体瞬间，表明客体对主体中正在进行的瞄准过程提供了更精细的展开和补充。两个情节共享相似的行动核心（瞄准锁定），但客体在更近的距离和更具体的感知层面上扩展了主体的情节内容。",
+    "source_documents": [
+      "scene_6__2_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_00aa516c8b47",
+    "subject_id": "ep_d2038e24248b9cad",
+    "object_id": "ep_463dd40709be68de",
+    "relation_type": "precedes",
+    "reason": "寻找并发现重伤的指导员发生在谷子地反思战争代价并带领队伍转移之前，因为发现指导员是战中情节，而分发香烟、劝说铭记疼痛及队伍转移属于战后撤离阶段，叙事时间线上前者早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_520bd6cbd9ba",
+    "subject_id": "ep_286f1116d619e3e1",
+    "object_id": "ep_7c1c54ac1a7be568",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'巡视阵地并分发物资安抚士气'发生在scene_36，而'启动并执行炸药包连环攻击'发生在scene_35，因此前者在叙事顺序上晚于后者。但由于关系方向要求主体在前，客体在后，实际时间顺序为客体情节先于主体情节，故应判断为主体情节在叙事上晚于客体，即客体情节先发生。因此，正确方向应为客体 precedes 主体，但当前主体与客体输入顺序不支持此方向。由于precedes是有向关系且方向不可逆，当前主体不能precede客体，故关系不成立。最终，无支持的有向关系成立，输出NONE。然而，重新检查scene编号：ep_7c1c54ac1a7be568相关事件在scene_35，ep_286f1116d619e3e1在scene_36，因此ep_7c1c54ac1a7be568 precedes ep_286f1116d619e3e1。若以ep_286f1116d619e3e1为subject，ep_7c1c54ac1a7be568为object，则subject不能precede object，因实际顺序相反。因此，precedes关系仅在方向正确时成立。由于当前subject在时间上晚于object，不能输出precedes。无其他关系得到支持，故最终为NONE。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ee1964740fc5",
+    "subject_id": "ep_4a1a5037f589783e",
+    "object_id": "ep_463dd40709be68de",
+    "relation_type": "precedes",
+    "reason": "根据文档顺序和情节内容，'救助指导员并理解其遗愿'（doc_9）发生在战争进行中，涉及谷子地与濒死指导员的互动；而'谷子地反思战争代价并带领队伍转移'（doc_15）描述战后撤离阶段，包含队伍汇入大部队的情节，明显在时间线上晚于前者。因此，前者在叙事顺序上先于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3cf2e9cbccc0",
+    "subject_id": "ep_7d88cfc0b67a41de",
+    "object_id": "ep_8e596f282a18eb10",
+    "relation_type": "precedes",
+    "reason": "第一个情节描述炮击导致敌机坠毁，发生在scene_21；第二个情节描述九连抵达坠机现场并检查铁盒，发生在scene_22。scene_21在叙事顺序上早于scene_22，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4440e230b439",
+    "subject_id": "ep_182752f8cfff120f",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "谷子地在战火中寻找并发现重伤的指导员发生在战斗激烈进行时，而统计伤亡并部署遗体安置是在战斗后于阵地篝火旁进行的战后处理，描述中体现为战斗结束后的秩序恢复行动，因此前者在叙事时间顺序上早于后者。",
+    "source_documents": [
+      "scene_9__2_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_50501a4db180",
+    "subject_id": "ep_182752f8cfff120f",
+    "object_id": "ep_3bee2e390ed49a33",
+    "relation_type": "precedes",
+    "reason": "谷子地在战火中寻找并发现重伤的指导员这一情节发生在指导员死亡之后，而迎接新任代理指导员是连队在原指导员牺牲后重组领导的后续行动。根据叙事逻辑和军事常识，新指导员的任命必然在原指导员牺牲并确认死亡后发生。因此，主体情节在时间顺序上明确早于客体情节，构成稳定的先后关系。",
+    "source_documents": [
+      "scene_9__2_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_38de789a4617",
+    "subject_id": "ep_182752f8cfff120f",
+    "object_id": "ep_26acc69b19af2769",
+    "relation_type": "precedes",
+    "reason": "谷子地在战火中寻找并发现重伤的指导员发生在战斗激烈进行时，而九连残部休整与伤亡清点是在战斗阶段性结束后进行的战后处理，包括清点人数和整理阵亡名单。根据叙事逻辑和事件发展顺序，发现指导员的情节在时间上先于部队休整和伤亡统计，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_9__2_part_1",
+      "scene_14__2_part_1",
+      "scene_14__2_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_54d921cb9738",
+    "subject_id": "ep_93a908243d097d02",
+    "object_id": "ep_ab15e3794b113b92",
+    "relation_type": "precedes",
+    "reason": "谷子地尝试救助并回应指导员的临终遗愿发生在目送遗体转移后独自哀悼之前。根据描述，前者涉及指导员垂死时的互动与承诺，后者则发生在王金存背负尸体离开之后，表明指导员遗体已被处理，时间顺序上明确先后。因此，主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_9__2_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_889e3b03734f",
+    "subject_id": "ep_6c37c5dc99e9d558",
+    "object_id": "ep_29f6037b0480e99d",
+    "relation_type": "elaborates",
+    "reason": "指挥摧毁敌方高处火力点为后续的瞄准与锁定行动提供了战术背景和目标来源，说明了为何尉官会将瞄准镜锁定在谷子地暴露的位置，因此该情节扩展并补充了目标捕获的上下文。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_5__2_part_1",
+      "scene_5__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ab4bc6be3e4d",
+    "subject_id": "ep_592b11883e4ae9a9",
+    "object_id": "ep_29f6037b0480e99d",
+    "relation_type": "precedes",
+    "reason": "稳定炮架并指定瞄准手准备射击（ep_592b11883e4ae9a9）发生在炮手通过瞄准镜调整并最终锁定目标之前，是目标捕获的前提准备动作。根据描述，先有谷子地命令姜茂财担任炮手，随后才可能进行瞄准与锁定，因此该关系在叙事和逻辑顺序上成立。",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0a3b6b87c024",
+    "subject_id": "ep_875d508484a14634",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "‘发起报复性射击并暂停交火’发生在战斗激烈进行阶段，而‘统计伤亡并部署遗体安置’是在战斗暂停后于阵地篝火旁进行的战后处理，描述中体现为对战斗后果的评估与善后，叙事顺序上明显后续。因此，主体情节在话语和事件流中早于客体情节。",
+    "source_documents": [
+      "scene_3__2_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3e3d4a3affab",
+    "subject_id": "ep_84d1fb3d4ac16f13",
+    "object_id": "ep_875d508484a14634",
+    "relation_type": "precedes",
+    "reason": "主体情节'应对敌机挑衅并组织反击'描述了敌机飞过、撒传单后谷子地组织重新架设炮位，为反击做准备；客体情节'发起报复性射击并暂停交火'则描述了实际进行报复性射击并随后停止。从叙事顺序看，组织反击是发起射击的前置准备阶段，且相关事件发生在不同文档场景（scene_21 vs scene_3__2），支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_3__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_710ff782874a",
+    "subject_id": "ep_6d7c978fce81e38a",
+    "object_id": "ep_875d508484a14634",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'谷子地与部下短暂休整并传递默契' 发生在 scene_3，而 '发起报复性射击并暂停交火' 发生在 scene_3__2，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_3__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e281a2c87115",
+    "subject_id": "ep_875d508484a14634",
+    "object_id": "ep_26acc69b19af2769",
+    "relation_type": "precedes",
+    "reason": "发起报复性射击并暂停交火发生在战斗初期阶段，而九连残部休整与伤亡清点是在战斗结束后对损失的评估，叙事上明显前者早于后者。根据描述，报复性射击后战场陷入寂静，为后续行动创造条件，而休整与清点则是战斗结束后的结果性情节，时间顺序清晰。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2",
+      "scene_3__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_62105f75230c",
+    "subject_id": "ep_875d508484a14634",
+    "object_id": "ep_9dce00373bbd48c2",
+    "relation_type": "precedes",
+    "reason": "根据描述，'发起报复性射击并暂停交火' 发生在谷子地指挥连队进行火力打击并主动停止，为后续侦察创造条件；而 '重组兵力并部署后续救援' 涉及拦下士兵下达新指令并开展救援行动。两个情节均发生在前线战场，且后者涉及人员重新部署和救援，逻辑上紧随前者停止射击后的寂静阶段。文档ID（doc_18 vs doc_20）也支持时间上的先后顺序，因此该关系为 'precedes'。",
+    "source_documents": [
+      "scene_3__2_part_1",
+      "scene_5__2_part_1",
+      "scene_5__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a993545a1075",
+    "subject_id": "ep_6dccf25638b04ce2",
+    "object_id": "ep_eba4bb7a7f6c3d42",
+    "relation_type": "precedes",
+    "reason": "指导员下令一排推进并引发跟进发生在进入雷区之前，叙事上先于应对雷区爆炸与火力暴露。描述中前者是主动推进行动的开始，后者涉及进入雷区后的突发危险，符合直接的叙事时序。",
+    "source_documents": [
+      "scene_3__2_part_1",
+      "scene_5__2_part_1",
+      "scene_5__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e167077048f5",
+    "subject_id": "ep_bc2a70186893b59d",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "处理战友牺牲引发的冲突发生在战斗过程中，谷子地与指导员因伤亡产生争执；而统计伤亡并部署遗体安置是在阵地篝火旁进行的战后秩序维护行动，包含对伤亡的正式统计和尸体转移命令。根据叙事逻辑和事件发展顺序，冲突发生于伤亡统计与安置之前，因此前者在时间顺序上先于后者。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d826838fca50",
+    "subject_id": "ep_ab4ac153e6a4aa02",
+    "object_id": "ep_e49c219e50e10342",
+    "relation_type": "precedes",
+    "reason": "情节 '处理战友伤亡并缓和紧张关系' 发生在场景 scene_7__2，而 '用幽默转移紧张情绪并恢复警戒' 发生在 scene_8，scene_7__2 在叙事顺序上早于 scene_8，因此前者在话语顺序上先于后者。",
+    "source_documents": [
+      "scene_7__2_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_119e583eaf0e",
+    "subject_id": "ep_e49c219e50e10342",
+    "object_id": "ep_edae988de8dece10",
+    "relation_type": "precedes",
+    "reason": "根据描述，谷子地先以包饺子的玩笑缓和紧张气氛并恢复警戒（ep_e49c219e50e10342），随后在紧张气氛缓和后，进一步通过提议包饺子重建战友信任（ep_edae988de8dece10），两个情节在叙事顺序上呈现明确的先后关系。",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_7__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_20d6019601a3",
+    "subject_id": "ep_57e9af9f9c320522",
+    "object_id": "ep_e49c219e50e10342",
+    "relation_type": "contrasts_with",
+    "reason": "第一个情节展现谷子地与指导员在战火中的激烈对峙，情绪紧张、冲突升级；第二个情节中谷子地主动用幽默缓和气氛并恢复警戒，体现情绪调控与关系修复。两者在基调和互动状态上形成明显对比：从对抗到缓和，从分裂到重新聚焦共同任务。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4563acdfa87f",
+    "subject_id": "ep_eba4bb7a7f6c3d42",
+    "object_id": "ep_ab4ac153e6a4aa02",
+    "relation_type": "precedes",
+    "reason": "情节 '应对雷区爆炸与火力暴露' 发生在 '处理战友伤亡并缓和紧张关系' 之前，依据是前者描述的雷区爆炸和士兵伤亡事件构成了后者中谷子地因战友死亡而责备指导员的直接背景。相关事件的时间顺序和叙事连贯性支持这一先后关系。",
+    "source_documents": [
+      "scene_7__2_part_1",
+      "scene_5__2_part_1",
+      "scene_5__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_97759c604237",
+    "subject_id": "ep_3a65afb1a67a42b3",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "谷子地喊话劝降敌方士兵发生在战斗过程中，旨在结束敌对状态；统计伤亡并部署遗体安置发生在战斗结束后，涉及战后处理。根据叙事逻辑和事件性质，劝降尝试在时间顺序上先于伤亡统计与遗体安置，构成情节上的先后关系。",
+    "source_documents": [
+      "scene_4_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f0e9dde91fff",
+    "subject_id": "ep_84d1fb3d4ac16f13",
+    "object_id": "ep_f7cf50c18cee2498",
+    "relation_type": "precedes",
+    "reason": "主体情节描述敌机首次飞过并撒下传单后谷子地组织重新架设炮位，客体情节描述敌机盘旋后再次返回并发起俯冲攻击，战士们进行对空射击。根据事件序列，敌机首次挑衅与反击准备发生在其重新返回并再次攻击之前，叙事顺序明确支持主体情节在前、客体情节在后。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4f4466dfde2c",
+    "subject_id": "ep_45459ebd760d9ea9",
+    "object_id": "ep_84d1fb3d4ac16f13",
+    "relation_type": "precedes",
+    "reason": "主体情节描述将火炮运送到坟地并架设为高射炮的行动，发生在敌机飞过并撒下传单之前。客体情节中谷子地组织重新架设炮位是对敌机挑衅的直接反应，且相关事件出现在后续场景(scene_21)，而主体情节事件发生在scene_19。因此，主体情节在叙事顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f8ea75612b52",
+    "subject_id": "ep_17c1aac0b78b7e85",
+    "object_id": "ep_7d88cfc0b67a41de",
+    "relation_type": "precedes",
+    "reason": "修复火炮车轮的情节发生在谷子地指挥炮击并击落敌机之前，根据相关事件的时间顺序和叙事流程，改装火炮是为后续成功炮击做准备，且两个情节分别位于 scene_17 和 scene_21，表明明确的先后顺序。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_181de35d5782",
+    "subject_id": "ep_7d88cfc0b67a41de",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "执行炮击并确认击落敌机发生在战斗高潮阶段，随后在阵地篝火旁统计伤亡并部署遗体安置，属于战后秩序恢复行动，叙事顺序上前者明确早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_750ded384a17",
+    "subject_id": "ep_45459ebd760d9ea9",
+    "object_id": "ep_7d88cfc0b67a41de",
+    "relation_type": "precedes",
+    "reason": "命令搬运火炮并抢占坟地制高点发生在执行炮击并确认击落敌机之前，因为架设火炮是实施炮击的前提，且相关事件分别出现在scene_19和scene_21，表明明确的先后顺序。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_771693ce2d70",
+    "subject_id": "ep_592b11883e4ae9a9",
+    "object_id": "ep_7d88cfc0b67a41de",
+    "relation_type": "precedes",
+    "reason": "稳定炮架并指定瞄准手准备射击发生在执行炮击并确认击落敌机之前，文本中描述的事件顺序显示准备射击是炮击行动的前置步骤，且相关事件分别位于scene_19和scene_21，支持明确的时间先后顺序。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_702c45e9f673",
+    "subject_id": "ep_f7cf50c18cee2498",
+    "object_id": "ep_7d88cfc0b67a41de",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'应对敌机再袭并维持火力反击'（scene_19）发生在'执行炮击并确认击落敌机'（scene_21）之前。敌机在scene_19中被追踪并遭反击，而在scene_21中则被成功击落，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c4b49cc5f888",
+    "subject_id": "ep_0752802a4ead47b1",
+    "object_id": "ep_7d88cfc0b67a41de",
+    "relation_type": "precedes",
+    "reason": "情节'躲避扫射并寻找防御阵地'发生在敌机仍在扫射的阶段，谷子地在此过程中观察到新坟地形；而'执行炮击并确认击落敌机'发生在后续场景中，利用了此前发现的地形进行反击并成功击落敌机。两个情节在叙事顺序上连续，且相关事件分别位于scene_19和scene_21，表明前者在话语顺序上明确早于后者。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6e359bc3a9af",
+    "subject_id": "ep_d8748870612e37dd",
+    "object_id": "ep_7d88cfc0b67a41de",
+    "relation_type": "precedes",
+    "reason": "排除装填故障并完成紧急射击（ep_d8748870612e37dd）发生在执行炮击并确认击落敌机（ep_7d88cfc0b67a41de）之前，因为前者描述了谷子地排除卡弹故障并完成瞄准射击的过程，而后者描述了炮击命中敌机及后续确认战果的完整事件。相关事件的时间戳（scene_19 vs scene_21）也支持这一叙事顺序。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c23c3215415d",
+    "subject_id": "ep_0752802a4ead47b1",
+    "object_id": "ep_0fcf1a558f7fef1a",
+    "relation_type": "precedes",
+    "reason": "‘躲避扫射并寻找防御阵地’发生在敌机扫射期间，谷子地利用新坟作为防御阵地；而‘追击新出现的战场目标’发生在击落飞机之后，谷子地带领部队离开坟地奔向新的战场区域。根据叙事顺序，前者在时间上明确早于后者。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e0a162ab9b6b",
+    "subject_id": "ep_7d88cfc0b67a41de",
+    "object_id": "ep_463dd40709be68de",
+    "relation_type": "precedes",
+    "reason": "执行炮击并确认击落敌机（ep_7d88cfc0b67a41de）发生在谷子地反思战争代价并带领队伍转移（ep_463dd40709be68de）之前，依据事件描述中的叙事顺序：击落敌机后战斗阶段结束，随后进入战后撤离与反思阶段，队伍开始转移。文本中‘战后撤离阶段的延续与收束’支持该情节在炮击事件之后发生。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_af22fe5dbdff",
+    "subject_id": "ep_45459ebd760d9ea9",
+    "object_id": "ep_0fcf1a558f7fef1a",
+    "relation_type": "precedes",
+    "reason": "根据描述，谷子地先命令搬运火炮并抢占坟地制高点（ep_45459ebd760d9ea9），随后在击落飞机后立即带领部队离开坟地追击新目标（ep_0fcf1a558f7fef1a），表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_51b9c436fa03",
+    "subject_id": "ep_0fcf1a558f7fef1a",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "主体情节'追击新出现的战场目标'描述谷子地在击落飞机后立即带领部队奔向爆炸区域，属于战斗进行中的主动进攻行动；客体情节'统计伤亡并部署遗体安置'发生在阵地篝火旁，涉及战后评估与尸体处理，具有明显的战后秩序恢复特征。根据军事行动的一般时序逻辑，追击行动早于伤亡统计与遗体安置，且描述中'成功击落飞机后'与'评估当前战斗损失'表明前者为战斗阶段，后者为战斗结束后的阶段，因此主体情节在叙事顺序上先于客体情节。",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_63b7bb199a8f",
+    "subject_id": "ep_17c1aac0b78b7e85",
+    "object_id": "ep_45459ebd760d9ea9",
+    "relation_type": "precedes",
+    "reason": "修复火炮车轮的情节（scene_17）在叙事顺序上早于命令搬运火炮并抢占坟地制高点的情节（scene_19），且两个情节均围绕火炮的使用展开，前者为后者中火炮的可用性提供准备，但无直接因果或解释性联系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3b0c7363aa15",
+    "subject_id": "ep_17c1aac0b78b7e85",
+    "object_id": "ep_d8748870612e37dd",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的场景编号，'修复火炮车轮以恢复装备功能' 发生在 scene_17，而 '排除装填故障并完成紧急射击' 发生在 scene_19，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4b09a9a87165",
+    "subject_id": "ep_17c1aac0b78b7e85",
+    "object_id": "ep_f7cf50c18cee2498",
+    "relation_type": "precedes",
+    "reason": "修复火炮车轮的情节发生在应对敌机再袭之前，文本中描述的事件序列显示，谷子地在修整车轮时察觉空中异响，为后续敌机返回并引发对空射击提供了时间顺序上的前导。两个情节分别位于 scene_17 和 scene_19，支持叙事顺序上的先后关系。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2574b89ecdb3",
+    "subject_id": "ep_17c1aac0b78b7e85",
+    "object_id": "ep_592b11883e4ae9a9",
+    "relation_type": "precedes",
+    "reason": "修复火炮车轮的情节（scene_17）在叙事顺序上早于稳定炮架并指定瞄准手的情节（scene_19），且两个情节均围绕火炮准备展开，具有连续的作战准备逻辑。scene_17中完成车轮改装后，scene_19进一步处理炮架稳定和瞄准，构成时间与功能上的先后顺序。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_334b11ca2c4f",
+    "subject_id": "ep_04d57c6f6900cccd",
+    "object_id": "ep_17c1aac0b78b7e85",
+    "relation_type": "precedes",
+    "reason": "情节 '战后物资交换与队伍重新集结' 发生在 '修复火炮车轮以恢复装备功能' 之前，依据是前者发生在 scene_14__2，后者发生在 scene_17，文档顺序和场景编号表明明确的叙事时间先后。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7e404a42a439",
+    "subject_id": "ep_17c1aac0b78b7e85",
+    "object_id": "ep_463dd40709be68de",
+    "relation_type": "precedes",
+    "reason": "修复火炮车轮的情节（ep_17c1aac0b78b7e85）发生在谷子地带领队伍转移之前，根据相关事件的时间顺序和叙事流程，改装车轮是战中应急维修，而转移队伍并汇入大部队属于战后撤离阶段，文本明确将后者标记为‘战后撤离阶段的延续与收束’，表明其发生在前一情节之后。",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5fd176fc8fe8",
+    "subject_id": "ep_0d8903bfae3bf7ad",
+    "object_id": "ep_286f1116d619e3e1",
+    "relation_type": "precedes",
+    "reason": "‘发起全面火力阻击压制敌军冲锋’发生在场景32，而‘巡视阵地并分发物资安抚士气’发生在场景36，文档中场景编号递增表明叙事顺序上前者早于后者，因此该关系为precedes。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_cf9688aa3204",
+    "subject_id": "ep_001074bea4fddc77",
+    "object_id": "ep_7a74c0fb1f3ac18f",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在窑场避炮集结（scene_31），谷子地组织战士撤离并进行心理疏导；第二个情节发生在敌军接近阵地时指挥部署伏击（scene_32），时间顺序上紧随其后。文本中scene_31在前，scene_32在后，支持‘谷子地组织撤离并激励战士克服恐惧’在叙事顺序上早于‘部署伏击并等待敌军进入射程’。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2ab055f8923c",
+    "subject_id": "ep_bfd48f68186022ca",
+    "object_id": "ep_7a74c0fb1f3ac18f",
+    "relation_type": "precedes",
+    "reason": "部署防御任务并争取资源（ep_bfd48f68186022ca）发生在谷子地接受任务并进行资源协商的场景（scene_27），而部署伏击并等待敌军进入射程（ep_7a74c0fb1f3ac18f）发生在敌军接近后的战斗执行阶段（scene_32）。scene_27在叙事顺序上早于scene_32，因此前者在时间上先于后者。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_27_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_488165f209a4",
+    "subject_id": "ep_001074bea4fddc77",
+    "object_id": "ep_0d8903bfae3bf7ad",
+    "relation_type": "precedes",
+    "reason": "谷子地组织撤离并激励战士的情节发生在窑场避炮集结场景（scene_31），而发起全面火力阻击的情节始于谷子地被烟头烫伤后下令开火（scene_32），scene_31在叙事顺序上明确早于scene_32，因此该关系为'precedes'。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e0db39235db7",
+    "subject_id": "ep_bfd48f68186022ca",
+    "object_id": "ep_0d8903bfae3bf7ad",
+    "relation_type": "precedes",
+    "reason": "部署防御任务并争取资源发生在谷子地接受任务并进行资源协商的阶段，而发起全面火力阻击压制敌军冲锋是该任务执行过程中的具体作战行动。根据叙事逻辑和事件发展顺序，任务部署在前，火力阻击作为其后续执行环节紧随其后，因此主体情节在时间顺序上早于客体情节。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_27_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_62c1c05da14b",
+    "subject_id": "ep_0752802a4ead47b1",
+    "object_id": "ep_0d8903bfae3bf7ad",
+    "relation_type": "precedes",
+    "reason": "情节 '躲避扫射并寻找防御阵地' 发生在敌机俯冲扫射的紧急情况下，谷子地躲避火力并观察战场环境，注意到高大新坟，为后续反击做准备；而 '发起全面火力阻击压制敌军冲锋' 发生在谷子地被烟头烫手后下令开火，触发全面射击。两个情节均按场景顺序（scene_19 早于 scene_32）和叙事逻辑依次发生，前者为后者提供战术观察基础，因此在话语和叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7f60a9e65e92",
+    "subject_id": "ep_1662de4432c4118c",
+    "object_id": "ep_51865cfba883f89d",
+    "relation_type": "precedes",
+    "reason": "情节 '处理爆破时机并应对人员伤亡' 发生在场景32，而 '发现王金存陷入心理崩溃' 发生在场景36，场景编号的递增表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f1fe1e09df67",
+    "subject_id": "ep_1662de4432c4118c",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "处理爆破时机并应对人员伤亡发生在战斗进行中，涉及实时战术决策和战斗岗位接替；而统计伤亡并部署遗体安置发生在战斗阶段性结束后，涉及战后秩序维护。根据描述中的情境发展逻辑，前者在叙事和时间顺序上明确早于后者。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bc03491f6555",
+    "subject_id": "ep_001074bea4fddc77",
+    "object_id": "ep_66b9b207fbd90553",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在窑场避炮集结期间（scene_31），包含谷子地组织撤离和心理疏导；客体情节发生在火力交战期间沿壕沟投弹（scene_32），时间顺序上紧随其后。文档中scene_31在前，scene_32在后，支持主体情节在叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_375543e3b133",
+    "subject_id": "ep_66b9b207fbd90553",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "主体情节'持续投弹与战场观察维持火力压制'发生在战斗进行期间，涉及谷子地在交火中投弹和观察敌情；客体情节'统计伤亡并部署遗体安置'发生在战斗后，于阵地篝火旁评估损失并处理遗体。根据叙事逻辑和事件性质，火力压制为战斗阶段，伤亡统计与遗体安置为战后阶段，因此主体情节在时间顺序上明确早于客体情节。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3ce3047e06b3",
+    "subject_id": "ep_45459ebd760d9ea9",
+    "object_id": "ep_1662de4432c4118c",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间上下文，'命令搬运火炮并抢占坟地制高点'（scene_19）发生在'处理爆破时机并应对人员伤亡'（scene_32）之前。scene_19在文档中早于scene_32，且两个情节均属于同一叙事流程中的连续阶段，前者为阵地准备，后者为后续战斗决策与伤亡应对，因此存在明确的叙事顺序。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_55efc6332d16",
+    "subject_id": "ep_1662de4432c4118c",
+    "object_id": "ep_da6f6d3f9c9f807f",
+    "relation_type": "precedes",
+    "reason": "处理爆破时机并应对人员伤亡（ep_1662de4432c4118c）中龚良国中弹阵亡，是组织转移遗体并完成战友告别（ep_da6f6d3f9c9f807f）的前提；遗体处理情节在叙事顺序上紧随其后，由同一事件链驱动，且文档场景编号（scene_32 → scene_36）支持时间先后关系。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_1f2d2252d0a2",
+    "subject_id": "ep_b0434dd44dd83be1",
+    "object_id": "ep_1662de4432c4118c",
+    "relation_type": "elaborates",
+    "reason": "情节 '指导员主张强攻而谷子地坚持等待战机' 中提到谷子地透露爆破组已被提前派出，这为后续情节 '处理爆破时机并应对人员伤亡' 提供了背景和上下文。后者详细展示了爆破组在执行任务过程中遭遇的实际情况，包括请示引爆时机和人员伤亡后的应对，从而扩展和具体化了前一情节中提及的决策后果。因此，第二个情节对第一个情节中战略决策的实施进行了细节补充。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_1cbae78d6297",
+    "subject_id": "ep_2260349f64ddc83e",
+    "object_id": "ep_1662de4432c4118c",
+    "relation_type": "precedes",
+    "reason": "情节'争论是否立即强攻并坚持战术等待'中，谷子地表明爆破组已提前派出，这为后续'处理爆破时机并应对人员伤亡'提供了前提条件；后者涉及吕宽沟请示引爆投送器，属于爆破组行动的展开。因此，争论战术的情节在叙事顺序上早于爆破时机的处理。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_5__2_part_1",
+      "scene_5__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a6de74e06e57",
+    "subject_id": "ep_51865cfba883f89d",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "谷子地发现王金存心理崩溃发生在同一场景（scene_36）中对伤亡进行统计和部署遗体安置之前，根据叙事顺序，干预个体心理危机先于整体战后秩序处理，且两个情节共享同一场景编号但事件逻辑上前者为后者的前置条件。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_24b815f5199e",
+    "subject_id": "ep_286f1116d619e3e1",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "谷子地巡视阵地并分发物资安抚士气发生在阵地篝火旁统计伤亡之前，两个情节均发生在scene_36，但巡视阵地是战后初步稳定行为，而统计伤亡和部署遗体安置是后续更具体的战后处理行动，具有清晰的叙事时序推进。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f4878ef310de",
+    "subject_id": "ep_ba732e58a3de3c80",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "确认作战指令与撤退条件发生在阵地战斗前，而统计伤亡并部署遗体安置发生在战斗后，根据叙事顺序，前者在时间上明确早于后者。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_27_part_3",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_764bc3d0022f",
+    "subject_id": "ep_d8748870612e37dd",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "排除装填故障并完成紧急射击（scene_19）发生在统计伤亡并部署遗体安置（scene_36）之前，根据文档中场景编号的顺序，scene_19早于scene_36，表明前者在叙事时间上先于后者。",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6fc9a25ac212",
+    "subject_id": "ep_e9d47b5631ba1535",
+    "object_id": "ep_ab15e3794b113b92",
+    "relation_type": "precedes",
+    "reason": "在统计伤亡并部署遗体安置后，谷子地目送王金存背尸离去并独自哀悼。文本中两个情节均发生在scene_36，且遗体安置命令执行后，目送与哀悼行为自然发生于其后，具有明确的叙事时序先后关系。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7e59c459efcc",
+    "subject_id": "ep_545ef0088f3d8099",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "根据相关事件均发生在scene_36，且安抚王金存属于个体心理恢复行动，而统计伤亡并部署遗体安置属于整体战后秩序管理，前者在叙事逻辑上先于后者，因个体情绪处理通常早于集体事务安排，但文本未明确时间先后，故为强但略微间接支持。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d36d2c42cc72",
+    "subject_id": "ep_bfd48f68186022ca",
+    "object_id": "ep_1662de4432c4118c",
+    "relation_type": "precedes",
+    "reason": "部署防御任务并争取资源（ep_bfd48f68186022ca）发生在刘团长与谷子地的战前密谈中（scene_27），而处理爆破时机并应对人员伤亡（ep_1662de4432c4118c）发生在后续战斗场景（scene_32）。scene_27在叙事顺序上早于scene_32，因此前者在话语顺序上先于后者。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_27_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_209578794dd5",
+    "subject_id": "ep_9dce00373bbd48c2",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "重组兵力并部署后续救援发生在前线战斗进行中，而统计伤亡并部署遗体安置发生在战斗后于阵地篝火旁，根据描述中的情境（战斗中 vs 战后）可推断前者在叙事时间上早于后者。",
+    "source_documents": [
+      "scene_5__2_part_1",
+      "scene_5__2_part_2",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0cdbdd717d41",
+    "subject_id": "ep_e9d47b5631ba1535",
+    "object_id": "ep_da6f6d3f9c9f807f",
+    "relation_type": "precedes",
+    "reason": "统计伤亡并部署遗体安置在叙事顺序上早于组织转移遗体并完成战友告别。前者包含谷子地下令转移尸体的决策（scene_36），后者则是该命令的具体执行过程，包括整理遗容、传递遗物和实际背运，两者发生在同一场景但存在明确的先后逻辑，部署命令先于具体告别行动。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0c6650bcfdb9",
+    "subject_id": "ep_286f1116d619e3e1",
+    "object_id": "ep_463dd40709be68de",
+    "relation_type": "precedes",
+    "reason": "谷子地先巡视阵地并分发物资安抚士气，随后在劝说战士铭记战争代价后带领队伍转移，两个情节在叙事顺序上连续，且后者包含撤离行动的延续与收束，明确晚于前者。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3ca91453d2ff",
+    "subject_id": "ep_286f1116d619e3e1",
+    "object_id": "ep_9dce00373bbd48c2",
+    "relation_type": "precedes",
+    "reason": "谷子地巡视阵地并分发物资安抚士气的行为发生在其重组兵力并部署后续救援之前，前者为稳定部队状态，后者为组织进一步战术行动，叙事上呈现连续的战场指挥流程，且相关事件在文档中按时间顺序先后出现。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_5__2_part_1",
+      "scene_5__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_08544130a361",
+    "subject_id": "ep_6e61ac3df06124eb",
+    "object_id": "ep_286f1116d619e3e1",
+    "relation_type": "precedes",
+    "reason": "刘泽水赠烟并叮嘱谷子地保重发生在战前任务商议会（scene_27），而谷子地巡视阵地分发物资安抚士气发生在后续场景（scene_36），根据相关事件的时间顺序，前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_27_part_3"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dc4a685ee284",
+    "subject_id": "ep_bfd48f68186022ca",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "部署防御任务并争取资源（ep_bfd48f68186022ca）发生在战前任务商议会（scene_27），而统计伤亡并部署遗体安置（ep_e9d47b5631ba1535）发生在阵地篝火旁的战斗后场景（scene_36），scene_27在叙事顺序上早于scene_36，因此该关系为precedes。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_27_part_3",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_6c8b2ffea79b",
+    "subject_id": "ep_22ea4164526e6692",
+    "object_id": "ep_286f1116d619e3e1",
+    "relation_type": "elaborates",
+    "reason": "第一个情节描述谷子地通过获取并分发香烟体现对部下的关怀和心理掌控，第二个情节进一步展示他沿堑壕分发烟卷以安抚士气的行为，两者在行为模式和功能上一致，后者扩展了前者所体现的领导风格和士气维持主题。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_3598f0e0ab36",
+    "subject_id": "ep_286f1116d619e3e1",
+    "object_id": "ep_aeb60cc1413e63c4",
+    "relation_type": "precedes",
+    "reason": "巡视阵地并分发物资安抚士气（ep_286f1116d619e3e1）发生在敌军炮击之前，作为战前稳定部队状态的行为，而应对敌军炮击并组织紧急撤离（ep_aeb60cc1413e63c4）是炮击发生后的应急反应，文本中两个情节在时间线上连续且前者为后者前序状态，支持precedes关系。",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e1b107ac0d4c",
+    "subject_id": "ep_286f1116d619e3e1",
+    "object_id": "ep_3cec55b281647765",
+    "relation_type": "precedes",
+    "reason": "两个情节均发生在同一场景（scene_36）中，且‘巡视阵地并分发物资安抚士气’描述谷子地沿堑壕行动、分发烟卷，属于阵地内维持士气的行为；而‘处理冻粮并察觉异常动向’包含尝试进食、被烫、交出工具后离开的动作序列，其中‘起身离开’暗示行动阶段的推进。叙事逻辑上，先完成巡视与分发，再处理个人生存需求并转向警觉，具有连贯的时间顺序。文本虽未明确时间标记，但行为的自然流程支持前者早于后者。",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2642ec9bdd85",
+    "subject_id": "ep_26acc69b19af2769",
+    "object_id": "ep_286f1116d619e3e1",
+    "relation_type": "precedes",
+    "reason": "情节 '九连残部休整与伤亡清点' 描述战斗刚结束后谷子地组织清点伤亡、整理阵亡名单，属于战后即时处置；而 '巡视阵地并分发物资安抚士气' 描述谷子地沿堑壕分发烟卷、观察现场，行为更具巡视与心理安抚性质，逻辑上发生在初步整顿时序之后。两个情节均发生在同一战场阶段，但前者聚焦于信息汇总与损失确认，后者聚焦于士气维持，叙事上呈现先后顺序。文档中相关事件的时间上下文支持这一顺序，但无明确因果或对比表述。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1faff5d0ae53",
+    "subject_id": "ep_0752802a4ead47b1",
+    "object_id": "ep_592b11883e4ae9a9",
+    "relation_type": "precedes",
+    "reason": "在敌机扫射的紧急情况下，谷子地先带领战士躲避并观察地形（如新坟位置），随后才稳定炮架并指定瞄准手准备反击。两个情节均发生在scene_19，但躲避扫射和寻找防御阵地在叙事逻辑和动作顺序上早于稳定炮架和准备射击，构成明确的先后顺序。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_004641792481",
+    "subject_id": "ep_001074bea4fddc77",
+    "object_id": "ep_0752802a4ead47b1",
+    "relation_type": "precedes",
+    "reason": "主体情节发生在窑场中的避炮集结（scene_31），而客体情节发生在敌机扫射的战场环境（scene_19）。根据相关事件的场景编号，scene_31在叙事顺序上晚于scene_19，因此主体情节在时间上晚于客体情节，故客体情节在叙事顺序上先于主体情节。但由于关系方向由subject到object，此处应判断主体是否在客体之前。scene_31在scene_19之后，因此主体情节实际发生在客体之后，故主体并不先于客体。重新判断：客体情节（scene_19）在叙事顺序上早于主体情节（scene_31），因此正确的关系应为object precedes subject。但由于关系模式precedes是定向的，且要求subject -> object方向成立，而此处不成立，故不能选precedes。无其他明确因果、对比或扩展关系证据，因此输出NONE。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fce221c790db",
+    "subject_id": "ep_b0434dd44dd83be1",
+    "object_id": "ep_4d2101d94259d29e",
+    "relation_type": "elaborates",
+    "reason": "情节'指导员主张强攻而谷子地坚持等待战机'中，谷子地透露爆破组已被提前派出，并持续监视河中破船接近排污口，表明其心理战策略的一部分；而'谷子地实施心理攻势劝降敌军'具体展现了该策略的执行方式，即通过喇叭喊话劝降。前者为后者提供了战术背景和决策依据，后者是对前者中所述心理战意图的进一步展开和细节补充。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_067b241940ef",
+    "subject_id": "ep_6d7c978fce81e38a",
+    "object_id": "ep_b1ecc3238cf01fe8",
+    "relation_type": "precedes",
+    "reason": "情节 '谷子地与部下短暂休整并传递默契' 发生在西桥头掩体后，包含多个在 scene_3 中记录的事件；而 '谷子地突袭并压制对岸火力' 发生在 scene_5，包含后续的战斗行动。根据文档中 scene_3 在 scene_5 之前的顺序，该关系在叙事时间线上有明确支持。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_98253d59b32a",
+    "subject_id": "ep_ba732e58a3de3c80",
+    "object_id": "ep_001074bea4fddc77",
+    "relation_type": "precedes",
+    "reason": "根据相关场景编号，'确认作战指令与撤退条件'发生在scene_27，而'谷子地组织撤离并激励战士克服恐惧'发生在scene_31，scene_27在叙事顺序上早于scene_31，因此该关系为precedes。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_27_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_0c2f98715072",
+    "subject_id": "ep_b0434dd44dd83be1",
+    "object_id": "ep_b1ecc3238cf01fe8",
+    "relation_type": "precedes",
+    "reason": "第一个情节发生在谷子地与指导员讨论战术决策期间，涉及对是否立即进攻的争论，并透露爆破组已被派出；第二个情节描述谷子地亲自出击压制对岸火力，属于后续战场行动。叙事上，决策讨论发生在突袭行动之前，且相关事件在不同场景（scene_3 与 scene_5）中按时间顺序排列，支持‘precedes’关系。",
+    "source_documents": [
+      "scene_3_part_1",
+      "scene_3_part_2",
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fa9b8cad33c2",
+    "subject_id": "ep_463dd40709be68de",
+    "object_id": "ep_6a9d6da4768e898c",
+    "relation_type": "precedes",
+    "reason": "谷子地带领队伍转移的情节发生在王金存独自留在窑场之前，文本明确指出王金存在谷子地离开后才独自承受情绪折磨，因此存在清晰的叙事时序先后关系。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ec9f49187062",
+    "subject_id": "ep_1970f71aca75ea83",
+    "object_id": "ep_9dce00373bbd48c2",
+    "relation_type": "precedes",
+    "reason": "根据情节描述，'谷子地取水并了解部队损失'发生在谷子地获取战场信息并下令整理阵亡名单的阶段，而'重组兵力并部署后续救援'涉及谷子地重新部署士兵并开展伤员救治，属于后续战术响应。两个情节共享战场清理与人员管理的上下文，且后者在叙事逻辑上紧随前者之后，但无明确因果或对比证据。因此，'precedes' 是最符合叙事顺序的有向关系。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_5__2_part_1",
+      "scene_5__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_df53b470d37d",
+    "subject_id": "ep_22ea4164526e6692",
+    "object_id": "ep_463dd40709be68de",
+    "relation_type": "precedes",
+    "reason": "谷子地获取香烟并分发给部下发生在谷子地反思战争代价并带领队伍转移之前，描述中明确提到分发香烟后紧接着劝说部下铭记战争代价并丢弃烟蒂，表明清晰的叙事时序。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ecc34e564e20",
+    "subject_id": "ep_ba732e58a3de3c80",
+    "object_id": "ep_aeb60cc1413e63c4",
+    "relation_type": "precedes",
+    "reason": "确认作战指令与撤退条件发生在敌军炮击并组织紧急撤离之前，因为前者是战前任务交接，后者是战斗爆发后的应急反应，叙事上逻辑顺序清晰。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_27_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2d93d43735da",
+    "subject_id": "ep_bfd48f68186022ca",
+    "object_id": "ep_aeb60cc1413e63c4",
+    "relation_type": "precedes",
+    "reason": "部署防御任务并争取资源（ep_bfd48f68186022ca）发生在敌军炮击和紧急撤离（ep_aeb60cc1413e63c4）之前，因为任务部署是战前准备，而炮击是该任务执行期间遭遇的直接战斗事件，叙事上逻辑顺序清晰。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_27_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b1ed0a99d10c",
+    "subject_id": "ep_6e61ac3df06124eb",
+    "object_id": "ep_463dd40709be68de",
+    "relation_type": "precedes",
+    "reason": "刘泽水赠烟并传递永别意味的情节发生在谷子地反思战争代价并带领队伍转移之前，文本中刘泽水的赠烧行为是战前场景（scene_27），而谷子地分发香烟并转移队伍是战后撤离阶段（scene_16），尽管scene编号异常，但根据叙事逻辑和事件内容，赠烟为战前告别，反思与转移为战后行为，因此前者在时间顺序上先于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_27_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_2c10cfc062d6",
+    "subject_id": "ep_bfd48f68186022ca",
+    "object_id": "ep_463dd40709be68de",
+    "relation_type": "precedes",
+    "reason": "部署防御任务并争取资源（ep_bfd48f68186022ca）发生在谷子地与刘团长的战前会面中，属于任务接受与布置阶段；而谷子地反思战争代价并带领队伍转移（ep_463dd40709be68de）描述的是战后撤离场景，包含队伍汇入大部队的收束动作。两个情节在叙事时间线上明显先后有序，前者为战前准备，后者为战斗结束后的结果性行动，因此前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_27_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c54f07e7fa0e",
+    "subject_id": "ep_ba732e58a3de3c80",
+    "object_id": "ep_463dd40709be68de",
+    "relation_type": "precedes",
+    "reason": "情节 '确认作战指令与撤退条件' 发生在战前任务商议会场景（scene_27），而 '谷子地反思战争代价并带领队伍转移' 发生在战后撤离阶段（scene_16），尽管 scene_16 编号小于 scene_27，但根据描述，前者为战斗前的部署，后者为战斗后的收束，叙事时间线上后者必然发生在前者之后。因此，'确认作战指令与撤退条件' 在叙事顺序上早于 '谷子地反思战争代价并带领队伍转移'。",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_16_part_2",
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_27_part_3"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8850051e136d",
+    "subject_id": "ep_57e9af9f9c320522",
+    "object_id": "ep_9dce00373bbd48c2",
+    "relation_type": "precedes",
+    "reason": "谷子地与指导员对峙争吵发生在重组兵力并部署后续救援之前，前者聚焦于战术分歧的爆发，后者则是分歧后谷子地自主采取的战术执行，叙事上呈现从冲突到行动的推进顺序。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2",
+      "scene_5__2_part_1",
+      "scene_5__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5ad5b9bbc87a",
+    "subject_id": "ep_6c37c5dc99e9d558",
+    "object_id": "ep_9dce00373bbd48c2",
+    "relation_type": "precedes",
+    "reason": "‘指挥摧毁敌方高处火力点’中谷子地命令焦大棚组织清除行动，该指令为后续战术部署设定目标；紧接着在‘重组兵力并部署后续救援’中，谷子地拦下姜茂财与吕宽沟下达新指令，同时三排展开救援。两个情节均发生在同一场景（scene_5__2），但摧毁火力点的命令逻辑上先于兵力重组与救援部署，构成叙事上的先后顺序。",
+    "source_documents": [
+      "scene_5__2_part_1",
+      "scene_5__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b65fc111d1c3",
+    "subject_id": "ep_2260349f64ddc83e",
+    "object_id": "ep_9dce00373bbd48c2",
+    "relation_type": "precedes",
+    "reason": "争论是否立即强攻并坚持战术等待发生在谷子地与指导员激烈争执期间，随后谷子地在前线拦下士兵并重新部署兵力，表明战术争论之后进入兵力重组与救援部署阶段。两个情节共享同一场景（scene_5__2），且事件序列显示争执结束后谷子地立即采取行动重组部队，支持叙事上的先后顺序。",
+    "source_documents": [
+      "scene_5__2_part_1",
+      "scene_5__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a5d4f12a46cc",
+    "subject_id": "ep_4602726ef07d67ea",
+    "object_id": "ep_9dce00373bbd48c2",
+    "relation_type": "precedes",
+    "reason": "指导员发起突击导致部队失控的情节中，谷子地因部队擅自行动而震怒并下令全体卧倒，这一反应发生在重组兵力并部署后续救援之前。后者描述了谷子地重新控制局势、拦下士兵并下达新指令，以及三排士兵展开救援，这些行动是在部队失控后的恢复性举措。因此，主体情节在叙事和逻辑顺序上先于客体情节，构成清晰的先后关系。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2",
+      "scene_5__2_part_1",
+      "scene_5__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_51c36d03d07f",
+    "subject_id": "ep_26acc69b19af2769",
+    "object_id": "ep_9dce00373bbd48c2",
+    "relation_type": "precedes",
+    "reason": "情节 '九连残部休整与伤亡清点' 描述战斗后部队在掩体旁进行休整、清点伤亡并整理阵亡名单，属于战后评估阶段；而 '重组兵力并部署后续救援' 描述谷子地重新下达战术指令并组织救援行动，属于战斗中或战斗刚结束后的主动部署。根据军事行动逻辑和场景描述，休整与清点发生在重组与部署之前，且两个情节分别位于不同文档场景（scene_14__2 与 scene_5__2），但结合叙事上下文推断，伤亡清点为后续兵力重组提供信息基础，支持时间上的先后顺序。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2",
+      "scene_5__2_part_1",
+      "scene_5__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_63b5c9b10778",
+    "subject_id": "ep_ab3b997a3fcb09ae",
+    "object_id": "ep_182752f8cfff120f",
+    "relation_type": "causes",
+    "reason": "炮击情节中爆炸冲击导致指导员身体被抛起，直接造成其重伤垂死状态，从而触发谷子地后续在废墟中寻找并发现重伤指导员的情节。文本明确将指导员的伤势与爆炸冲击关联，构成直接因果链。",
+    "source_documents": [
+      "scene_9__2_part_1",
+      "scene_8__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9fa4046378e5",
+    "subject_id": "ep_79890baf45a63455",
+    "object_id": "ep_ab3b997a3fcb09ae",
+    "relation_type": "precedes",
+    "reason": "指导员在对话中警戒松懈（更换弹匣、注意力分散）发生在炮击事件之前，因为其警觉性下降的状态为后续被炮击时未能及时反应提供了上下文，且叙事上先呈现战时情绪波动，再呈现攻击行动。",
+    "source_documents": [
+      "scene_7__2_part_1",
+      "scene_8__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b73c2e1db715",
+    "subject_id": "ep_b1ecc3238cf01fe8",
+    "object_id": "ep_ea8048bfc1f374b0",
+    "relation_type": "precedes",
+    "reason": "根据两个情节的描述及其相关事件均发生在scene_5，且谷子地先完成突袭并压制对岸火力的动作，随后才进行火力调整与指挥移交，叙事顺序上存在明确先后。突袭行动结束后，谷子地转入战术指挥角色，表明前一情节在时间与行动流程上早于后一情节。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_153e68d4dab2",
+    "subject_id": "ep_ab3b997a3fcb09ae",
+    "object_id": "ep_d2038e24248b9cad",
+    "relation_type": "causes",
+    "reason": "炮击事件导致街角砖墙爆炸并产生冲击波，使指导员受伤并被抛起，随后谷子地在碎砖堆中发现重伤的指导员。文本明确描述了爆炸对指导员造成的物理后果，构成‘锁定目标并发动炮击’直接引发‘寻找并发现重伤的指导员’的情节链条。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f282ec894a92",
+    "subject_id": "ep_22ea4164526e6692",
+    "object_id": "ep_26acc69b19af2769",
+    "relation_type": "precedes",
+    "reason": "根据描述，谷子地获取香烟并分发给部下发生在战斗刚结束后对俘虏的互动中，而九连残部休整与伤亡清点紧随其后，涉及清点人数和整理阵亡名单等战后评估行为。两个情节均发生在同一场景（scene_14__2），但资源获取与分发逻辑上先于系统性休整和伤亡统计，体现出叙事上的先后顺序。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7d7058c1dfe8",
+    "subject_id": "ep_142371881116b0d5",
+    "object_id": "ep_ab3b997a3fcb09ae",
+    "relation_type": "precedes",
+    "reason": "主体情节描述尉官通过瞄准镜追踪目标并调整炮火瞄准，为发动炮击做准备；客体情节描述实际锁定目标并发动炮击，包含爆炸和人员受伤的结果。根据描述，瞄准和追踪发生在炮击之前，构成直接的前序动作，因此主体情节在叙事和时间顺序上先于客体情节。",
+    "source_documents": [
+      "scene_6__2_part_1",
+      "scene_8__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a4b08135665f",
+    "subject_id": "ep_ff466d2e6b03434a",
+    "object_id": "ep_ab3b997a3fcb09ae",
+    "relation_type": "causes",
+    "reason": "指导员在更换弹夹时因情绪波动分心导致枪口晃动，暴露出安全隐患，这一疏忽可能直接引发敌方锁定并发动炮击，形成因果链条。尽管未明说敌方因该暴露而攻击，但枪口晃动作为战场信号与后续立即发生的炮击在情境上构成直接触发关系，支持causes关系。",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_92ef86dab2f3",
+    "subject_id": "ep_79890baf45a63455",
+    "object_id": "ep_14866eaf7c88a812",
+    "relation_type": "precedes",
+    "reason": "情节'对话中警戒松懈暴露战场风险'描述了指导员在牺牲前与谷子地交谈并换弹匣的瞬间，而'应对指导员牺牲的瞬间'则明确发生在指导员牺牲之后，聚焦于战友们的情感反应。因此，前者在叙事时间顺序上早于后者，构成直接的先后关系。",
+    "source_documents": [
+      "scene_13__2_part_1",
+      "scene_7__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_448d6a359123",
+    "subject_id": "ep_22ea4164526e6692",
+    "object_id": "ep_04d57c6f6900cccd",
+    "relation_type": "precedes",
+    "reason": "谷子地获取香烟并分发给部下（ep_22ea4164526e6692）发生在战后物资交换与队伍重新集结（ep_04d57c6f6900cccd）之前，依据两个情节中描述的事件序列：谷子地先点燃香烟并分发，随后扔掉烟蒂离开，战友们簇拥炮车追赶并发生物资交换骚动。文本中‘谷子地扔掉烟蒂后走向街口’连接了这两个情节，表明时间上的先后顺序。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5639b4b0705d",
+    "subject_id": "ep_57e9af9f9c320522",
+    "object_id": "ep_ff466d2e6b03434a",
+    "relation_type": "causes",
+    "reason": "谷子地与指导员的激烈争吵导致指导员情绪波动，进而使其在更换弹夹时分心并降低警觉性，构成直接的因果链条。争吵作为压力源在描述中明确关联到指导员后续的疏忽行为。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_aab7b648aace",
+    "subject_id": "ep_4a1a5037f589783e",
+    "object_id": "ep_79890baf45a63455",
+    "relation_type": "precedes",
+    "reason": "根据事件上下文，指导员在与谷子地交谈中警戒松懈（ep_79890baf45a63455）发生在其濒死前传达遗愿（ep_4a1a5037f589783e）之前，叙事顺序上前者早于后者，构成直接的时间先后关系。",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_7__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6d2f1bacd53f",
+    "subject_id": "ep_ab4ac153e6a4aa02",
+    "object_id": "ep_ff466d2e6b03434a",
+    "relation_type": "precedes",
+    "reason": "情节 '处理战友伤亡并缓和紧张关系' 发生在指导员情绪波动之前，因其直接描述了指导员因目睹阵亡士兵遗体而情绪低落，为后续 '指导员在情绪波动中疏忽警戒' 提供了情感背景和时间顺序上的前因。两个情节通过指导员的情绪状态连接，且事件序列在叙事上连贯，支持时间上的先后关系。",
+    "source_documents": [
+      "scene_7__2_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_c3b36fc16958",
+    "subject_id": "ep_79890baf45a63455",
+    "object_id": "ep_4602726ef07d67ea",
+    "relation_type": "elaborates",
+    "reason": "对话中警戒松懈暴露战场风险这一情节展示了指导员在情绪波动下的战斗状态失常，为后续其冲动发起突击导致部队失控提供了行为背景和心理铺垫，说明其缺乏稳定战术纪律的连续性，因此该情节扩展了对指导员行为模式的理解。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2",
+      "scene_7__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_46bc4000386a",
+    "subject_id": "ep_a15053fe0479255d",
+    "object_id": "ep_1acaa708b9e203e4",
+    "relation_type": "causes",
+    "reason": "姜茂财击中尉官导致炸药包持续喷出火花，引发爆炸危机，进而导致爆炸冲击波和浓烟涌入暗道，触发吕宽沟扑向姜茂财进行保护并共同遭遇爆炸。该因果链在事件时序和物理机制上紧密衔接，且由两个情节的描述和相关事件共同支持。",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_11__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4892a43d46be",
+    "subject_id": "ep_79890baf45a63455",
+    "object_id": "ep_ff466d2e6b03434a",
+    "relation_type": "elaborates",
+    "reason": "两个情节均描述指导员在更换弹匣/弹夹时因情绪波动或对话分心导致警觉性下降，枪口晃动，暴露战场风险。实体#1聚焦于与谷子地对话中的警戒松懈，实体#2强调情绪波动中的疏忽，内容高度重叠但细节互补，表明其中一个为另一个提供额外说明。鉴于两者描述同一类行为且无明确时间或因果指向，更符合一个情节对另一个的细节扩展，故判断为elaborates关系。",
+    "source_documents": [
+      "scene_7__2_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4fda8113c583",
+    "subject_id": "ep_8c326d00e27b959c",
+    "object_id": "ep_a21c7812aa174f79",
+    "relation_type": "elaborates",
+    "reason": "主体情节描述姜茂财通过下水口的隐蔽行动，而客体情节详细展示了包括姜茂财被拽入暗道在内的突入过程，包含主体情节的行动细节。因此，主体情节中的行为在客体情节中得到扩展和具体化，表明主体向客体提供背景或细节，形成 elaborates 关系。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_4_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5732ffaee863",
+    "subject_id": "ep_8c326d00e27b959c",
+    "object_id": "ep_7616f6c1b7f914ee",
+    "relation_type": "precedes",
+    "reason": "姜茂财秘密通过下水口（ep_8c326d00e27b959c）发生在吕宽沟和姜茂财引爆装置并掀开铁篦子（ep_7616f6c1b7f914ee）之前，依据场景编号scene_9早于scene_11的时间顺序，且前者为后者中行动的前置隐蔽行动。",
+    "source_documents": [
+      "scene_11_part_1",
+      "scene_9_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e909dfcfbcf8",
+    "subject_id": "ep_8c326d00e27b959c",
+    "object_id": "ep_e8bab4bbf9d7c1d6",
+    "relation_type": "elaborates",
+    "reason": "主体情节'姜茂财秘密通过下水口'描述了姜茂财从下水道铁篦子下方穿过的行为，而客体情节'潜行穿越暗道并躲避守军'提供了更详细的背景，包括姜茂财和吕宽沟在暗道中潜行、持枪警戒、保护炸药包以及躲避守军的具体行动。客体情节扩展并丰富了主体情节中隐含的渗透任务的执行过程，表明主体情节是客体情节中的一个简化或概括性表述。因此，主体情节被客体情节所详述。",
+    "source_documents": [
+      "scene_9_part_1",
+      "scene_6_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_bd8075634286",
+    "subject_id": "ep_7f7556d7642e4caf",
+    "object_id": "ep_1662de4432c4118c",
+    "relation_type": "precedes",
+    "reason": "根据相关事件的时间和场景顺序，'战士们在窑场避炮并维持战备状态'（scene_31）发生在'处理爆破时机并应对人员伤亡'（scene_32）之前。两个情节分别关联到连续的场景编号scene_31和scene_32，表明前者在叙事顺序上早于后者。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_31_part_1",
+      "scene_31_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_5e4a313d34d2",
+    "subject_id": "ep_1662de4432c4118c",
+    "object_id": "ep_284160eec1ebadcb",
+    "relation_type": "precedes",
+    "reason": "处理爆破时机并应对人员伤亡发生在战斗进行中，涉及引爆决策和战斗岗位接替；而九连幸存士兵战后休整明确发生在战斗结束后，表现为士兵在倒塌掩体旁疲惫休整、发呆和擦拭炮弹。两个情节在叙事时间线上有清晰的先后顺序，前者为战斗高潮阶段，后者为战斗结束后的状态，因此主体情节在话语顺序上早于客体情节。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_16_part_1",
+      "scene_16_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_dd7d1c1e3b70",
+    "subject_id": "ep_65dd3623b456e61d",
+    "object_id": "ep_ca804d0291837754",
+    "relation_type": "precedes",
+    "reason": "主体情节'宣布紧急决定并交接后续指令'发生在139团作战会议(scene_23)，而客体情节'传达9连建制调整并看守禁闭室'发生在团直禁闭室(scene_24)，scene_23在叙事顺序上早于scene_24，因此该关系为precedes。",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_37c0e18d72ff",
+    "subject_id": "ep_bd7f0bc2c6ddbb54",
+    "object_id": "ep_7a74c0fb1f3ac18f",
+    "relation_type": "precedes",
+    "reason": "构筑防御工事并准备作战物资发生在部署伏击并等待敌军进入射程之前，因为部队必须先完成阵地建设和物资准备，才能进入伏击待命状态。相关事件的时间顺序和逻辑依赖支持这一叙事先后关系。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bb0adcaa88e3",
+    "subject_id": "ep_285c3a4f9889f2d3",
+    "object_id": "ep_bd7f0bc2c6ddbb54",
+    "relation_type": "precedes",
+    "reason": "主体情节'带领队伍穿越低地并运送重装备'发生在部队抵达作战区域途中的行军阶段（scene_28），而客体情节'构筑防御工事并准备作战物资'发生在部队到达阵地后进行战备的阶段（scene_30）。根据场景编号的顺序和叙事逻辑，行军穿越低地在时间上明确早于构筑防御工事，因此主体情节在叙事顺序上先于客体情节。",
+    "source_documents": [
+      "scene_28_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_9380ab793242",
+    "subject_id": "ep_6c37c5dc99e9d558",
+    "object_id": "ep_655b4ac2bc0e202d",
+    "relation_type": "elaborates",
+    "reason": "指挥摧毁敌方高处火力点的情节中，谷子地命令清除高处火力，为后续狙击手反制行动提供了战术背景和目标指向；应对敌方狙击手袭击的情节则具体展现了在该指令背景下发生的实际狙击对抗细节，因此前者通过设定战术目标扩展了后者的作战语境。",
+    "source_documents": [
+      "scene_2__2_part_1",
+      "scene_5__2_part_1",
+      "scene_5__2_part_2"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_4fcca3abb97f",
+    "subject_id": "ep_bd7f0bc2c6ddbb54",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "构筑防御工事并准备作战物资发生在战斗之前，为即将到来的战斗做准备；而统计伤亡并部署遗体安置发生在战斗之后，处理战斗造成的损失。根据叙事逻辑和事件内容，防御准备自然早于战后伤亡统计，因此主体情节在时间顺序上先于客体情节。",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_30_part_2",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e9933194bbe4",
+    "subject_id": "ep_7f7556d7642e4caf",
+    "object_id": "ep_e9d47b5631ba1535",
+    "relation_type": "precedes",
+    "reason": "主体情节描述战士们在窑场躲避炮击并维持战备状态，发生在战斗进行中，相关事件集中在scene_31；客体情节描述谷子地与焦大棚统计伤亡并部署遗体安置，发生在战斗后阶段，相关事件在scene_36。scene_31在叙事顺序上早于scene_36，因此主体情节在话语顺序上先于客体情节。",
+    "source_documents": [
+      "scene_31_part_1",
+      "scene_31_part_2",
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4918551e2f02",
+    "subject_id": "ep_a827f9323de0fbe1",
+    "object_id": "ep_2c34333dfcdc5ef9",
+    "relation_type": "precedes",
+    "reason": "铁桥两岸激烈交火发生在上游桥梁爆炸之前，而爆炸导致铁桥区域陷入短暂寂静，因此激烈交火在叙事顺序上早于寂静状态。",
+    "source_documents": [
+      "scene_2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_327b96bf7e67",
+    "subject_id": "ep_875d508484a14634",
+    "object_id": "ep_5f638a784238e3e9",
+    "relation_type": "precedes",
+    "reason": "发起报复性射击并暂停交火后，战场陷入寂静，为后续的阵地侦察与占领创造条件，因此该行动在叙事和功能上先于全连队向敌阵地逼近。",
+    "source_documents": [
+      "scene_3__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3d51ea94bd47",
+    "subject_id": "ep_91b7414763649df1",
+    "object_id": "ep_0d8903bfae3bf7ad",
+    "relation_type": "precedes",
+    "reason": "罗广田执行机枪压制任务发生在谷子地下令全面火力阻击之前，根据描述，该行为构成火力控制前的原始状态，且在谷子地下令调整射速之前，因此在时序上早于全面火力阻击情节。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a64bb5dca0f8",
+    "subject_id": "ep_6dccf25638b04ce2",
+    "object_id": "ep_5f638a784238e3e9",
+    "relation_type": "precedes",
+    "reason": "指导员下令一排推进并引发跟进的情节中，各排依次展开行动，随后连队整体逼近敌阵地。文本描述表明前者是后者的直接前置行动，具有清晰的叙事时序。",
+    "source_documents": [
+      "scene_3__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b4bf65c66af0",
+    "subject_id": "ep_91b7414763649df1",
+    "object_id": "ep_26acc69b19af2769",
+    "relation_type": "precedes",
+    "reason": "罗广田执行机枪压制任务发生在谷子地下令调整射速之前，属于战斗进行中的事件；而九连残部休整与伤亡清点发生在战斗结束后，涉及阵亡名单整理和战后评估。因此，机枪压制任务在叙事时序上明确早于战后休整情节。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2",
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a6f66038da6c",
+    "subject_id": "ep_592b11883e4ae9a9",
+    "object_id": "ep_3157b90d09e5f4b5",
+    "relation_type": "precedes",
+    "reason": "稳定炮架并指定瞄准手准备射击发生在火炮发射前，而炮击后谷子地衣物挂满纸钱的外形变化是发射后的结果，因此前者在叙事顺序上明确早于后者。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_afb0b2bcc206",
+    "subject_id": "ep_3c171ffc7084e0b2",
+    "object_id": "ep_0a76deda32e4f622",
+    "relation_type": "precedes",
+    "reason": "镜头从水下缓缓推进并展现炮弹入水爆炸（ep_3c171ffc7084e0b2），随后立即切换到镜头出水后战场声音骤然响起、铁桥遭受攻击的激烈场景（ep_0a76deda32e4f622），表明水下突变在叙事顺序上直接先于水面战场的激烈交火。",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_bcbe37a41fb2",
+    "subject_id": "ep_45459ebd760d9ea9",
+    "object_id": "ep_3157b90d09e5f4b5",
+    "relation_type": "causes",
+    "reason": "命令搬运火炮并抢占坟地制高点导致火炮发射引发震动和纸钱飞舞，进而使谷子地的衣物挂满纸钱、外形如魔鬼，文本中两个情节在同一个场景(scene_19)中具有直接的因果链条。",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d74da2562afe",
+    "subject_id": "ep_0d8903bfae3bf7ad",
+    "object_id": "ep_bd7f0bc2c6ddbb54",
+    "relation_type": "precedes",
+    "reason": "‘发起全面火力阻击压制敌军冲锋’发生在战斗过程中，而‘构筑防御工事并准备作战物资’描述的是战前准备活动，根据叙事逻辑和场景顺序（doc_43 scene_30 在 doc_45 scene_32 之前），该准备情节在时间上早于火力阻击情节。因此，主体情节在叙事顺序上晚于客体情节，即客体 precedes 主体。但由于关系方向由 subject -> object 定义，此处 subject (ep_0d8903bfae3bf7ad) 在时间上晚于 object (ep_bd7f0bc2c6ddbb54)，故 relation_type 为 precedes 且方向为 object → subject，符合 precedes 的有向定义。",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_30_part_1",
+      "scene_30_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ef2439f8f5f7",
+    "subject_id": "ep_7a74c0fb1f3ac18f",
+    "object_id": "ep_8c4500c4175b6a3d",
+    "relation_type": "precedes",
+    "reason": "部署伏击并等待敌军进入射程发生在精准狙杀敌方指挥官之前，因为伏击部署是准备阶段，而狙杀是在敌军进入射程后的具体打击行动，两者均发生在scene_32，但逻辑和战术顺序上伏击等待先于开火击杀。",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c25f64d15cec",
+    "subject_id": "ep_22ea4164526e6692",
+    "object_id": "ep_ebc286f605d6a4a4",
+    "relation_type": "precedes",
+    "reason": "谷子地获取香烟并分发给部下的情节发生在战场撤离与战斗结束的场景之前，依据文本中事件的叙事顺序：资源获取和互动发生在战斗刚结束后但撤离开始前，而撤离和战利品展示标志着战斗正式结束后的集体移动。因此，该关系在话语顺序上有明确支持。",
+    "source_documents": [
+      "scene_14__2_part_1",
+      "scene_14__2_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e3fa911eb113",
+    "subject_id": "ep_d111c0cd04082ef3",
+    "object_id": "ep_ea8048bfc1f374b0",
+    "relation_type": "precedes",
+    "reason": "在文本中，'应对突发敌情并确认战场变化' 描述了前线士兵对下游枪炮声和冲锋号的反应，焦大棚在咀嚼烙饼时做出判断，指导员确认枪声来源。紧接着，'谷子地调整火力并移交指挥' 描述了谷子地命令罗广田减少射速，并将望远镜交给焦大棚，指派其接替指挥。这两个情节均发生在 scene_5，但根据叙事顺序，对战场变化的感知与确认先于谷子地进行战术调整和指挥权移交。因此，主体情节在话语和叙事顺序上早于客体情节。",
+    "source_documents": [
+      "scene_5_part_1",
+      "scene_5_part_2"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_fdd69e0e0dda",
+    "subject_id": "ep_bfd48f68186022ca",
+    "object_id": "ep_ca67aa59b8261595",
+    "relation_type": "precedes",
+    "reason": "部署防御任务并争取资源发生在刘团长与谷子地的私下会面中，而布置汶河阻击作战任务是在正式作战会议上向全体干部宣布的。根据军事行动逻辑和叙事常理，正式作战会议（scene_23）应早于私人任务布置（scene_27），因此‘布置汶河阻击作战任务’在时间顺序上先于‘部署防御任务并争取资源’。尽管没有直接时间戳，但相关场合的上下文支持这一顺序。",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_27_part_2",
+      "scene_27_part_3",
+      "scene_23_part_1"
+    ],
+    "confidence": 0.85
+  }
+]

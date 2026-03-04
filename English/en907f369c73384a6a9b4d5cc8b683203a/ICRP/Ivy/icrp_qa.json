@@ -1,0 +1,65 @@
+{
+  "character": "Ivy",
+  "qas": [
+    {
+      "question": "What did you do after realizing your mom didn't answer your call?",
+      "supporting_facts": [
+        "You shook your head",
+        "You went inside after calling for your mom and getting no response"
+      ],
+      "contradicting_facts": [
+        "You stayed at the top of the stairs indefinitely",
+        "You left the house immediately after calling for your mom"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were involved in restraining Barbara—can you confirm whether you did that entirely on your own?",
+      "supporting_facts": [
+        "Ivy did not act alone in restraining Barbara",
+        "The action of restraining Barbara involved at least one other person alongside Ivy"
+      ],
+      "contradicting_facts": [
+        "Ivy was solely responsible for restraining Barbara",
+        "No one else was present or involved when Ivy restrained Barbara"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you see Johnna when you passed through the kitchen area?",
+      "supporting_facts": [
+        "You had not seen Johnna at the kitchen table",
+        "You were moving through the space where the kitchen table is located"
+      ],
+      "contradicting_facts": [
+        "You saw Johnna sitting at the kitchen table",
+        "You spoke to Johnna in the kitchen"
+      ],
+      "final_score": 7.777777777777779
+    },
+    {
+      "question": "What did you do when you arrived at Violet's bedroom?",
+      "supporting_facts": [
+        "You found Violet in her bedroom",
+        "You pulled back the drape and the shade"
+      ],
+      "contradicting_facts": [
+        "You left Barbara in the bedroom",
+        "You drove away before finding Violet"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "What did you do immediately after leaving the house?",
+      "supporting_facts": [
+        "you accelerated rapidly and drove away from the driveway",
+        "you did not remain in the house after leaving"
+      ],
+      "contradicting_facts": [
+        "you lingered near the house after exiting",
+        "you returned to the house shortly after leaving"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "character": "Holmes",
+  "qas": [
+    {
+      "question": "What was your action upon receiving the envelope from the Diogenes Club?",
+      "supporting_facts": [
+        "You read a letter from the Diogenes Club",
+        "You examined the envelope before proceeding"
+      ],
+      "contradicting_facts": [
+        "You discarded the envelope without inspection",
+        "You did not look at the return address"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You entered the courtyard with Gabrielle and Watson, so who accompanied you at that moment?",
+      "supporting_facts": [
+        "You entered the courtyard with Gabrielle and Watson",
+        "You did not enter the courtyard alone"
+      ],
+      "contradicting_facts": [
+        "You entered the courtyard by yourself",
+        "You arrived at the courtyard before Gabrielle and Watson"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "How did you determine the actual cause of Monsieur Valladon's death?",
+      "supporting_facts": [
+        "Holmes determined that Monsieur Valladon died of asphyxiation rather than drowning",
+        "Holmes relies on forensic observation to distinguish cause of death"
+      ],
+      "contradicting_facts": [
+        "Holmes concluded Valladon drowned due to water in the lungs",
+        "Holmes believed the cause of death was a heart attack"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Why did you choose to hold up the photo instead of responding verbally after the accusation?",
+      "supporting_facts": [
+        "Holmes held up a photo as a deliberate response to the accusation",
+        "Holmes did not engage in conversation after the accusation",
+        "Holmes used non-verbal action to communicate following the accusation"
+      ],
+      "contradicting_facts": [
+        "Holmes verbally defended himself immediately after the accusation",
+        "Holmes left the room right after the accusation was made",
+        "Holmes remained silent but made no physical gesture or presentation of evidence"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Did you leave the shadowy corner before completing your work with the bellows?",
+      "supporting_facts": [
+        "you remained in the shadowy corner until finishing work with the bellows",
+        "you do not depart before completing your current task"
+      ],
+      "contradicting_facts": [
+        "you left the corner before finishing with the bellows",
+        "you interrupted your work to move elsewhere"
+      ],
+      "final_score": 8.88888888888889
+    },
+    {
+      "question": "You mentioned being fond of Watson in your own way—what is your stance toward his decision to move out?",
+      "supporting_facts": [
+        "Holmes identifies himself as fond of Watson in a cold, unemotional manner",
+        "Holmes expresses surprise at Watson's decision to move out"
+      ],
+      "contradicting_facts": [
+        "Holmes is indifferent to Watson's decision to move out",
+        "Holmes openly expresses joy about Watson moving out"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Are you familiar with the location of Inverness?",
+      "supporting_facts": [
+        "you are aware of the location Inverness, Scotland",
+        "you possess knowledge of geographical locations including Inverness"
+      ],
+      "contradicting_facts": [
+        "you do not know where Inverness is",
+        "Inverness is unfamiliar to you"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why did you ask Gabrielle what was the matter?",
+      "supporting_facts": [
+        "Holmes observed a change in Gabrielle's state or behavior prompting inquiry",
+        "Holmes initiated a conversation to assess or address a concern with Gabrielle"
+      ],
+      "contradicting_facts": [
+        "You asked Gabrielle about the weather",
+        "You were confirming a schedule with Gabrielle when you spoke"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You noticed something on the desk—what detail did you observe that others might have missed?",
+      "supporting_facts": [
+        "you observed a small feather on the desk",
+        "you do not overlook minor physical evidence in your environment"
+      ],
+      "contradicting_facts": [
+        "you did not notice any small objects on the desk",
+        "the feather was too insignificant for you to register"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You are often described as cold and unemotional—how do you respond to that characterization?",
+      "supporting_facts": [
+        "Holmes acknowledges frequent accusations of being cold and unemotional",
+        "Holmes does not deny the perception of emotional detachment"
+      ],
+      "contradicting_facts": [
+        "Holmes denies ever being accused of emotional coldness",
+        "Holmes claims to always express emotions openly"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why did you ask Mycroft about the authority behind the directive?",
+      "supporting_facts": [
+        "Holmes questioned the legitimacy or source of a directive by asking Mycroft about its authority",
+        "Holmes seeks to understand the chain of command or justification before accepting instructions"
+      ],
+      "contradicting_facts": [
+        "Holmes accepted the directive without question",
+        "Holmes asked Mycroft for emotional support regarding the directive"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

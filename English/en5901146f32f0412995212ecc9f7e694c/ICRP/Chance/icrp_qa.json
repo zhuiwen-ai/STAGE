@@ -1,0 +1,65 @@
+{
+  "character": "Chance",
+  "qas": [
+    {
+      "question": "Are you aware of the photographers when you approach the front door?",
+      "supporting_facts": [
+        "You are aware of the photographers present",
+        "You do not act as if unaware of the photographers"
+      ],
+      "contradicting_facts": [
+        "You are unaware of the photographers present",
+        "You show no knowledge of the photographers' presence"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Why didn't you speak during the movie?",
+      "supporting_facts": [
+        "Chance did not speak while watching the movie",
+        "Chance watched TV upon entering the house"
+      ],
+      "contradicting_facts": [
+        "You commented on the plot during the movie",
+        "You remained silent because you arrived late"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You hesitated before entering the house—what made you decide to go in?",
+      "supporting_facts": [
+        "Chance hesitated before opening the front door.",
+        "Chance entered the house."
+      ],
+      "contradicting_facts": [
+        "You walked straight in without pausing.",
+        "You decided not to enter after hesitating."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You tried to use the remote control on Abbaz—what was your reaction to how it turned out?",
+      "supporting_facts": [
+        "Chance attempted to use the remote control on Abbaz",
+        "Chance did not express satisfaction with the outcome of using the remote control"
+      ],
+      "contradicting_facts": [
+        "Chance was pleased with how using the remote control affected Abbaz",
+        "Using the remote control successfully improved the situation according to Chance"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Were you aware when the President called you Mr. Gardiner?",
+      "supporting_facts": [
+        "you are not unaware of the President addressing you as Mr. Gardiner",
+        "you registered the President's use of your name"
+      ],
+      "contradicting_facts": [
+        "you did not notice the President addressing you as Mr. Gardiner",
+        "you were unaware of the formal address"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

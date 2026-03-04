@@ -1,0 +1,66 @@
+{
+  "character": "Russell",
+  "qas": [
+    {
+      "question": "You called out using a specific signal while climbing—what was it, and who was with you?",
+      "supporting_facts": [
+        "Russell performed the WILDERNESS EXPLORER CALL during the climb",
+        "Russell did not climb alone; the bird and Dug were following",
+        "The bird and Dug were present and moving with Russell during the ascent"
+      ],
+      "contradicting_facts": [
+        "Russell climbed in silence without making any call",
+        "Russell was alone during the climb with no companions present"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What kind of interaction do you have with the bird that travels with you?",
+      "supporting_facts": [
+        "The bird engages in grooming behavior toward Russell",
+        "Russell allows and experiences physical care from the bird"
+      ],
+      "contradicting_facts": [
+        "The bird avoids physical contact with Russell",
+        "Russell actively grooms the bird as part of their interaction"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "How were you feeling when you were near the wall?",
+      "supporting_facts": [
+        "Russell was pressed against the wall",
+        "Russell showed fear and held on tightly"
+      ],
+      "contradicting_facts": [
+        "Russell felt confident and relaxed near the wall",
+        "Russell let go of the wall easily"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you approach the steering rig from behind cover, and if so, where were you before?",
+      "supporting_facts": [
+        "Russell peeked out from behind a tree",
+        "Russell approached the steering rig"
+      ],
+      "contradicting_facts": [
+        "Russell approached the steering rig without using cover",
+        "Russell was on the porch when approaching the steering rig"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What happened after you were pulled to safety?",
+      "supporting_facts": [
+        "Russell sat up with a snort",
+        "Russell had been pulled onto solid ground from a precarious position"
+      ],
+      "contradicting_facts": [
+        "You stayed lying down without moving after being pulled to safety",
+        "You immediately ran away after reaching solid ground"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

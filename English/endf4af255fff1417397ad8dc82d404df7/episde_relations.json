@@ -1,0 +1,1824 @@
+[
+  {
+    "id": "rel_ep_ep_d11cc580b59a",
+    "subject_id": "ep_a3eb2c8fd63a97db",
+    "object_id": "ep_624a6080a2f452ae",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in the same scene (scene_44) and share the same occasion (hospital stay), but Ted's confrontation with Elaine about Simon's conspiracy logically precedes Elaine's revelation that she is leaving him, as her response appears to be a reaction to his accusations, establishing a local narrative order.",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ff9b9c5d3fdd",
+    "subject_id": "ep_7e36b90da7aebd95",
+    "object_id": "ep_c8cdc031ce6438d7",
+    "relation_type": "precedes",
+    "reason": "The first episode involves the interrogation and release of the first peasant, which is followed by the interrogation of the second peasant who then flees and is shot. The sequence of events in scene_33 supports a clear narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_aa11818594f5",
+    "subject_id": "ep_1ad74c547001635e",
+    "object_id": "ep_251cb31cf6e80d64",
+    "relation_type": "elaborates",
+    "reason": "The object episode provides additional detail about Ted Striker's actions during the high-speed flight described in the subject episode, specifically his response to a bird distraction and his cocky maneuver, thereby expanding on the initial context of piloting under adverse conditions.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_77fed3ba7c36",
+    "subject_id": "ep_a3eb2c8fd63a97db",
+    "object_id": "ep_75f71b7fcbb71113",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_44 and share the same occasion, but the confrontation about Simon's conspiracy logically precedes the rejection of Elaine's farewell and the subsequent electro-shock, as the former sets up the emotional and narrative tension resolved in the latter. The sequence of related events in the descriptions supports a temporal progression from accusation and debate to final interaction and shock.",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3acb31f16298",
+    "subject_id": "ep_44eb4c3268c6d5bf",
+    "object_id": "ep_49890d0768d8cfbe",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Kruger and the Commissioner ascending an escalator while discussing political pressures, while the object episode involves them descending an escalator to report press scrutiny. The physical movement (ascend then descend) implies a natural temporal sequence, supporting that the first episode precedes the second in narrative order.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e8a5c9dddf34",
+    "subject_id": "ep_c8cdc031ce6438d7",
+    "object_id": "ep_90d0a4a1e8b8b104",
+    "relation_type": "precedes",
+    "reason": "The episode 'Second peasant flees and is shot by soldiers' includes the event 'Second peasant panics and flees from soldiers', which directly precedes the event 'Peasant enters Hotel Montenegro to escape soldiers' in the same scene (scene_33), establishing a clear temporal sequence where the fleeing and shooting occur before the escape to the hotel.",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_18c89ef496b3",
+    "subject_id": "ep_624a6080a2f452ae",
+    "object_id": "ep_75f71b7fcbb71113",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Elaine delivers care and reveals she is leaving Ted, directly precedes the object episode where Ted rejects her farewell and suffers electro-shock, as both occur in scene_44 and the events of Elaine's confession logically and temporally precede Ted's refusal and the subsequent accidental activation of the electro-shock device.",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3647c03618a5",
+    "subject_id": "ep_c16eddce3e0ba2ba",
+    "object_id": "ep_fd6215dfbf3d3741",
+    "relation_type": "precedes",
+    "reason": "The first episode involves the porter initiating contact and questioning Scraps' travel, which directly sets up the subsequent prank in the second episode where the porter pretends to shoot Scraps. The events occur in the same scene (scene_23) and the escalation from concern to prank implies a clear temporal sequence: the questioning precedes the fake shooting.",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b43a9ec8e27e",
+    "subject_id": "ep_89e5691a757d4508",
+    "object_id": "ep_daf1252b6c3295e5",
+    "relation_type": "causes",
+    "reason": "The subject episode 'Confront Elaine and reject reconciliation' directly triggers the object episode 'Detain and discredit Ted publicly', as Ted's outburst and aggressive behavior (grabbing design plans, lashing out) lead immediately to his forcible apprehension and sedation, which are described as the 'immediate aftermath' in the object episode's description.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4d002760c83c",
+    "subject_id": "ep_adc4a647f50d180b",
+    "object_id": "ep_052523aca9bf8c37",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs in doc_13 (scene_14), while the object episode occurs in doc_14 (scene_15), indicating a narrative sequence where the routine actions and expressed concerns in scene_14 precede the shoe shine and discussion of political pressure in scene_15.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_873006b7fbd7",
+    "subject_id": "ep_052523aca9bf8c37",
+    "object_id": "ep_79e9619f6e6cdcb1",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Kruger and the Commissioner receiving a shoe shine and discussing political pressure, which occurs in scene_15. The second episode involves their concluding discussion and departure, occurring in scene_17. The sequential scene numbers indicate a clear narrative order where the shoe shine discussion precedes their departure after the political exchange.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_dbc2eece2f78",
+    "subject_id": "ep_49890d0768d8cfbe",
+    "object_id": "ep_79e9619f6e6cdcb1",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs during scene_16, where Kruger and the Commissioner descend the escalator and discuss press scrutiny. The object episode occurs in scene_17, involving a subsequent conversation and their departure to the limo. The sequential scene numbering and narrative progression indicate that the descent and initial report precede the concluding exchange and departure.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d2ddda0763e2",
+    "subject_id": "ep_44eb4c3268c6d5bf",
+    "object_id": "ep_79e9619f6e6cdcb1",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Kruger and the Commissioner discussing political pressures while ascending an escalator, and the second episode involves them concluding their discussion, pausing dramatically, and departing in their limo. The narrative flow indicated by the escalation of tension and subsequent departure strongly suggests a sequential order where the political pressure discussion precedes the conclusion and departure.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_86c84398dc71",
+    "subject_id": "ep_213b88110a6be658",
+    "object_id": "ep_75f71b7fcbb71113",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Confront Elaine and express urgent need to be heard' occurs in scene_43, while the object episode 'Ted rejects Elaine's farewell and suffers electro-shock' occurs in scene_44, indicating a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_789e9386675f",
+    "subject_id": "ep_84adec6be2157ede",
+    "object_id": "ep_ac6a4cf4b498dac1",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode features a tense ideological clash over gender roles and professional ambition, where Simon asserts authority over Elaine's future, while the second episode portrays a tender, affectionate reaffirmation of their relationship. These episodes are juxtaposed within the same scene (scene_20) and contrast in tone and thematic focus—one emphasizing conflict and power dynamics, the other emphasizing emotional connection and gratitude—supporting a deliberate contrast.",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fabffaaf5199",
+    "subject_id": "ep_213b88110a6be658",
+    "object_id": "ep_9b597ba74fba5998",
+    "relation_type": "causes",
+    "reason": "The subject episode, where Elaine leaves after Ted's persistent confrontation, directly triggers the object episode, in which Ted experiences a flashback due to emotional distress from her departure. The description of the second episode explicitly states that it is a psychological response to Elaine's exit, indicating a direct causal link.",
+    "source_documents": [
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_71c62c2674f4",
+    "subject_id": "ep_052523aca9bf8c37",
+    "object_id": "ep_44eb4c3268c6d5bf",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, involving a shoe shine and discussion of political pressure from Washington, provides additional contextual detail that expands upon the object episode's theme of confronting political pressures on safety decisions. Both episodes feature Kruger and the Commissioner discussing political influence on decision-making, with the first offering a more grounded, detailed setting that elaborates on the broader conflict introduced in the escalator conversation.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ca540f372bf8",
+    "subject_id": "ep_41646b2529498c7a",
+    "object_id": "ep_bbf6a2c6757300c8",
+    "relation_type": "causes",
+    "reason": "The chaotic taxi crash and pile-up (subject) directly results in the entangled state of vehicles, which enables the escape in an entangled taxi (object). The description of the object episode explicitly references the crash pile as the starting point and the dragging of damaged taxis, indicating a direct causal link from the crash to the escape.",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2a2902f5d9c6",
+    "subject_id": "ep_48bda3c5d2297d1d",
+    "object_id": "ep_1977e1d51ca45e72",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ted interrupts and demands urgent conversation' occurs immediately before 'Ted questions Elaine's mission role and Simon reveals wedding plans', as the interruption initiates the interaction that leads directly into the questioning and revelation, both taking place within the same scene (scene_39) and occasion.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_65ccb78b403b",
+    "subject_id": "ep_bbf6a2c6757300c8",
+    "object_id": "ep_f598bd250e87bc3e",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Provide navigation instructions during escape' adds specific details about how the escape initiated in 'Escape from crash site in entangled taxi' is being carried out, including route planning and in-the-moment direction-giving, which expands on the ongoing escape narrative. Both episodes occur in the same scene (scene_36) and share the immediate goal of escaping, with the navigation actions providing elaborative detail on the execution of the escape.",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8587bb7dc5ce",
+    "subject_id": "ep_213b88110a6be658",
+    "object_id": "ep_a3eb2c8fd63a97db",
+    "relation_type": "elaborates",
+    "reason": "The subject episode involves Ted's urgent need to be heard as he declares intent to go to mission control, while the object episode provides specific content of what he insists on being heard about—namely, Simon's conspiracy. The object episode expands on the subject by detailing the substance of Ted's urgent message, thus elaborating the earlier episode's unstated claims.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b3fa4d108dc5",
+    "subject_id": "ep_052523aca9bf8c37",
+    "object_id": "ep_49890d0768d8cfbe",
+    "relation_type": "precedes",
+    "reason": "The shoe shine episode (ep_052523aca9bf8c37) occurs in scene_15, while the report during descent episode (ep_49890d0768d8cfbe) occurs in scene_16, indicating a clear narrative sequence where the first episode precedes the second based on scene ordering in the document.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b6a56faeca57",
+    "subject_id": "ep_33e9aa5d98f723a7",
+    "object_id": "ep_a3eb2c8fd63a97db",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode shows Elaine affirming her commitment to Simon based on his stability and reliability, while the second episode features Ted accusing Simon of a conspiracy and Elaine urging Ted to accept his mental health diagnosis. These episodes juxtapose Elaine's trust in Simon against Ted's claims of a conspiracy, creating a clear contrast in perspectives on Simon's character and Ted's mental state.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_0e9b61e89224",
+    "subject_id": "ep_0c5b43f2e00efaa0",
+    "object_id": "ep_acc44dbf584b1f31",
+    "relation_type": "causes",
+    "reason": "The first episode involves Sarg receiving a work emergency and Marge declaring a marital crisis and requesting divorce, which leads directly to Sarg's emotionally charged actions in the second episode—lighting a cigar and discarding it near prohibited signs, triggering an explosion. The description of the second episode states that the explosion results from Sarg's actions 'following the breakdown of the phone call,' indicating a direct causal link from the emotional climax of the first episode to the physical consequences in the second.",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2cc5ede3b293",
+    "subject_id": "ep_87f2d6704a43a2e4",
+    "object_id": "ep_daf1252b6c3295e5",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur during the same occasion (Rocket Engine Test Operation in scene_40), but the rejection of uniform designs involves Jacobs presenting designs and exiting in anger, while the detention of Ted involves a subsequent sequence where guards apprehend Ted, he is sedated, and Elaine reacts. The narrative flow within the scene implies a chronological sequence where the uniform dispute precedes the public detention and sedation of Ted, with no indication of overlap or reversal in order.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4230d7e5bd3d",
+    "subject_id": "ep_1f846107a90f584d",
+    "object_id": "ep_61980be737bf45ac",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode, where Ted seeks mission control through surreal and absurd interactions, contrasts with the object episode, which highlights class-based disparities in service and treatment during check-in. Both episodes occur during the same occasion (Mercury Shuttle Departure, scene_38) and are juxtaposed to emphasize social stratification and bureaucratic absurdity, with the object episode grounding systemic inequality and the subject episode escalating into irrationality and violence. This tonal and thematic reversal supports a contrast relation.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_848306ca9134",
+    "subject_id": "ep_75f71b7fcbb71113",
+    "object_id": "ep_9e7fcc084965b11a",
+    "relation_type": "precedes",
+    "reason": "The electro-shock event in 'Ted rejects Elaine's farewell and suffers electro-shock' (scene_44) directly precedes Ted's visible distress and recovery behavior at the terminal in 'Ted recovers from trauma at terminal' (scene_44), as both occur in the same scene and the latter depicts the immediate aftermath of the former.",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_61315ee72c67",
+    "subject_id": "ep_624a6080a2f452ae",
+    "object_id": "ep_9e7fcc084965b11a",
+    "relation_type": "causes",
+    "reason": "Elaine's departure, as described in the subject episode, directly triggers Ted's visible distress and physical reaction at the terminal in the object episode. The emotional trauma from Elaine delivering devastating news and leaving is causally linked to Ted's subsequent state of pain and mental strain, as both occur in the same scene and institutional setting, with the object episode depicting the immediate aftermath.",
+    "source_documents": [
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_da3f8e78f162",
+    "subject_id": "ep_7e36b90da7aebd95",
+    "object_id": "ep_90d0a4a1e8b8b104",
+    "relation_type": "causes",
+    "reason": "The interrogation and detention of peasants in the town square (ep_7e36b90da7aebd95) leads directly to the second peasant panicking and fleeing, which initiates the pursuit to Hotel Montenegro (ep_90d0a4a1e8b8b104), as both episodes occur in scene_33 and the description of the second episode explicitly links the flight to the prior confrontation.",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4f0600a4cf36",
+    "subject_id": "ep_0bff8bdf7e88e0f9",
+    "object_id": "ep_8271a87df808bd0e",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Porters acknowledge Dr. Barrington's legacy' provides additional context about the recognition of Dr. Barrington's public reputation, which elaborates on the earlier moment in 'Stella and her father navigate the terminal' where porters interact with the pair and one recognizes him. The second porter's inquiry and confirmation occur after the initial interaction, adding background on the ripple of his fame, thus expanding the narrative context of the first episode without introducing a new goal or causal development.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_d4fc649dc852",
+    "subject_id": "ep_33e9aa5d98f723a7",
+    "object_id": "ep_75f71b7fcbb71113",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs while Elaine is waiting for Simon near a photo booth (scene_41), whereas the object episode takes place during a later scene (scene_44) at the Ronald Reagan Institute. The progression from scene_41 to scene_44 in the narrative order indicates that Elaine resisting Ted's emotional appeal happens before Ted rejects her farewell and suffers electro-shock.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_28c79962eb78",
+    "subject_id": "ep_adc4a647f50d180b",
+    "object_id": "ep_79e9619f6e6cdcb1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Kruger and Commissioner engage in routine actions while tension mounts' (doc_13, scene_14) occurs earlier in the narrative than 'Conclude discussion and depart after political exchange' (doc_16, scene_17), as indicated by the document and scene ordering. The former sets up rising tension through dialogue about accountability, which culminates in the latter episode's dramatic pause and departure, supporting a clear narrative sequence.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1671b61f6f70",
+    "subject_id": "ep_2acefd76b26f7082",
+    "object_id": "ep_a3eb2c8fd63a97db",
+    "relation_type": "elaborates",
+    "reason": "The second episode elaborates on the consequences and interpretation of the first, where Ted's suppression and removal (in ep_2acefd76b26f7082) are reframed by Ted as part of a political conspiracy, which he discusses with Elaine. The second episode provides additional context about Ted's perspective and the institutional response, expanding on the implications of the first episode's events.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_cc05dc6d542f",
+    "subject_id": "ep_279eaa5fd9aaba11",
+    "object_id": "ep_b1b2f4795d825749",
+    "relation_type": "precedes",
+    "reason": "The secret rendezvous between Frank and Jane, where they discuss marital tensions, occurs before the confrontation in which Carol appears, shoots, and flees. Both episodes are grounded in scene_45 and depict a sequential narrative progression: the private conversation sets up the emotional context, which is immediately followed by the violent escalation when Carol arrives. The events in the first episode (e.g., discussing divorce and fears of violence) precede the triggering event in the second episode (Frank calling out to Carol), establishing a clear temporal order.",
+    "source_documents": [
+      "scene_45_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d27f97d2cddd",
+    "subject_id": "ep_0c5b43f2e00efaa0",
+    "object_id": "ep_8a837d0237a40316",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Sarg informing his wife about a work emergency over the car phone, leading to her emotional confrontation and divorce request. The second episode occurs in a different scene (scene_22 vs. scene_21) and depicts Sarg preparing to leave amid ongoing marital tension, including an accusation from Marge. The progression from phone call to physical departure, along with the scene numbering, supports a narrative sequence where the phone exchange precedes the departure scene.",
+    "source_documents": [
+      "scene_21_part_1",
+      "scene_22_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_66775e9bacfc",
+    "subject_id": "ep_2acefd76b26f7082",
+    "object_id": "ep_daf1252b6c3295e5",
+    "relation_type": "causes",
+    "reason": "The suppression of Ted's safety concerns (ep_2acefd76b26f7082), including his growing insistence and public outburst, directly triggers the immediate detention and public discrediting episode (ep_daf1252b6c3295e5), as Simon signals guards and a doctor to sedate Ted. The related events in both episodes occur in the same scene (scene_40) and show a direct causal sequence: Ted's attempt to expose the flaw leads to his forcible apprehension and sedation.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_89b5440ba757",
+    "subject_id": "ep_89e5691a757d4508",
+    "object_id": "ep_75f71b7fcbb71113",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Elaine and reject reconciliation' (scene_40) occurs during the Rocket Engine Test Operation, while 'Ted rejects Elaine's farewell and suffers electro-shock' (scene_44) takes place later at the Ronald Reagan Institute. The progression from scene_40 to scene_44 in the narrative order indicates that the confrontation precedes the final electro-shock incident.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5aeae345c83e",
+    "subject_id": "ep_213b88110a6be658",
+    "object_id": "ep_89e5691a757d4508",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Confront Elaine and express urgent need to be heard' involves Ted persistently following Elaine and insisting she listen, while the object episode 'Confront Elaine and reject reconciliation' depicts a later, more escalated confrontation where Ted rejects Elaine's concern and is detained. The progression from seeking to be heard to outright rejection and emotional breakdown indicates a temporal sequence supported by increasing intensity in Ted's behavior and Elaine's shifting responses across the described events.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e1c7d9336e81",
+    "subject_id": "ep_41646b2529498c7a",
+    "object_id": "ep_f598bd250e87bc3e",
+    "relation_type": "precedes",
+    "reason": "The chaotic taxi crash episode begins with Ted hailing a taxi and results in a pile-up, which sets the immediate context for the subsequent escape. The navigation instructions episode occurs during the same scene (scene_36) but involves actions (throwing map, giving directions) that logically follow the crash and pile-up, as the escape is now underway. The shared scene and causal continuity support a clear narrative order where the crash precedes the in-taxi navigation during the escape.",
+    "source_documents": [
+      "scene_36_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1b2a667808e2",
+    "subject_id": "ep_2acefd76b26f7082",
+    "object_id": "ep_89e5691a757d4508",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Confront Elaine and reject reconciliation' includes Ted's rejection of Elaine's concern and his lashing out during the same sequence in which he is attempting to expose the safety concerns, including seizing the design plans. This adds personal and emotional context to the broader episode of suppressing Ted's safety concerns, elaborating on his state of mind and interpersonal breakdown during the same scene. Both episodes occur in scene_40 and share the event of Ted seizing design plans, indicating overlapping narrative content where the confrontation with Elaine expands on the emotional and relational dimensions of Ted's resistance.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_0c8a69359830",
+    "subject_id": "ep_213b88110a6be658",
+    "object_id": "ep_daf1252b6c3295e5",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Confront Elaine and express urgent need to be heard' involves Ted attempting to communicate with Elaine before being apprehended, which directly sets up the object episode 'Detain and discredit Ted publicly' where guards seize him following his outburst. The related events and narrative flow indicate a clear temporal sequence: Ted's persistent confrontation leads immediately to his detention, with no intervening episodes described. This local narrative order supports a directed 'precedes' relation from the confrontation to the detention.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2e6d0850ce04",
+    "subject_id": "ep_1f846107a90f584d",
+    "object_id": "ep_5b551899f4de3a8d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ted seeks mission control through escalating absurdity' involves Ted attempting to locate mission control and being interrupted by violence, while 'Ted resolves to stop the Mercury shuttle' describes Ted observing the shuttle departure time and deciding to act. The related events in both episodes occur in scene_38, but the decision to stop the shuttle logically follows Ted's failed attempt to get information, as the absurd interactions culminate in violence, prompting his resolution. The narrative flow within the shared occasion supports a local order where seeking information precedes forming the intent to intervene.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_211e70126218",
+    "subject_id": "ep_89e5691a757d4508",
+    "object_id": "ep_624a6080a2f452ae",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Elaine and reject reconciliation' occurs during a rocket engine test operation (scene_40), while 'Elaine delivers care and delivers devastating news' takes place in the hospital setting (scene_44). The progression from scene_40 to scene_44 indicates a narrative sequence where Ted's rejection of Elaine precedes her later visit to deliver the news of her leaving him, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d88e79841fd8",
+    "subject_id": "ep_daf1252b6c3295e5",
+    "object_id": "ep_75f71b7fcbb71113",
+    "relation_type": "precedes",
+    "reason": "The episode 'Detain and discredit Ted publicly' occurs during scene_40, where Ted is apprehended and sedated, while 'Ted rejects Elaine's farewell and suffers electro-shock' occurs in scene_44, indicating a clear chronological sequence. The related_occasions also differ, with the former at 'Rocket Engine Test Operation' and the latter at the 'Ronald Reagan Institute', supporting a narrative progression. Thus, the first episode precedes the second.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a4945f480dd5",
+    "subject_id": "ep_213b88110a6be658",
+    "object_id": "ep_624a6080a2f452ae",
+    "relation_type": "precedes",
+    "reason": "The subject episode, in which Ted confronts Elaine and insists on being heard while declaring his intent to go to mission control, occurs in doc_42 and is temporally prior to the object episode in doc_43, where Elaine delivers the news of her departure. The progression from Ted's urgent attempt to communicate to Elaine's emotional revelation suggests a narrative sequence where the confrontation sets the stage for the subsequent breakdown, supported by the document order and the escalating tension in their interaction.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_708b68faad4a",
+    "subject_id": "ep_51ea088f8541d2b1",
+    "object_id": "ep_e5b1c6b429e75193",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Recall the loss of squadron at Macho Grande' provides background context that explains the origin of Ted's psychological trauma, which is further manifested in the episode 'Confront fear of winged things after war'. The description of the second episode explicitly links his fear of winged things to post-war trauma, and the first episode details a specific traumatic event (loss of squadron) that grounds this phobia. Thus, the first episode elaborates on the cause of the psychological state depicted in the second.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_fecda8138684",
+    "subject_id": "ep_565f82fd820bb983",
+    "object_id": "ep_79e9619f6e6cdcb1",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Report and react to the murder' involves Kruger reporting a murder and questioning federal response, followed by the Commissioner asserting jurisdiction. The object episode 'Conclude discussion and depart after political exchange' involves the resolution of their interaction and departure. The events in the first episode establish the conflict that culminates in the departure in the second, and the narrative flow suggests a sequence where the confrontation precedes the conclusion and exit. Although exact timestamps are not provided, the causal and temporal progression implied by the goal of resolving the interaction in the second episode supports that the first precedes it.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c82ce9b90fd6",
+    "subject_id": "ep_4bfe80c90a5128bc",
+    "object_id": "ep_597dcceca01be12b",
+    "relation_type": "precedes",
+    "reason": "The Controller's announcement of condition green and the launch countdown occurs first, and the description of the second episode explicitly states that Doctor Rumack responds to the Controller's state 'following the launch announcement,' establishing a clear temporal order.",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_b0bb09d94535",
+    "subject_id": "ep_1fa242be8d64b198",
+    "object_id": "ep_2c4ff8c17f38619a",
+    "relation_type": "contrasts_with",
+    "reason": "Detective Hallick's serious, procedural investigation contrasts with the police photographer's stylized, enthusiastic documentation of the same crime scene, creating a satirical juxtaposition in tone and purpose as described in the episodes' descriptions.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_85cb48a369d6",
+    "subject_id": "ep_1977e1d51ca45e72",
+    "object_id": "ep_85feb4d2a7df59e6",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur during the same occasion (Mercury Mission Pre-Launch Gathering in scene_39), and the description of Ted questioning Elaine and Simon revealing wedding plans logically precedes Ted's urgent warning about the mission's safety, as the latter represents an escalation in tension following the personal and professional revelations. The narrative flow within the shared scene supports a temporal ordering.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c002694332dd",
+    "subject_id": "ep_5e32bf8787c2ca5b",
+    "object_id": "ep_daf1252b6c3295e5",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Group walks and Elaine confronts Ted about his escape' occurs during scene_39, while the object episode 'Detain and discredit Ted publicly' occurs in scene_40, indicating a clear sequential order where the confrontation precedes the public detention and sedation of Ted.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_750878b63491",
+    "subject_id": "ep_33e9aa5d98f723a7",
+    "object_id": "ep_89e5691a757d4508",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Elaine resists Ted's emotional appeal' occurs in scene_41, while the object episode 'Confront Elaine and reject reconciliation' occurs in scene_40. Since scene_40 precedes scene_41 in narrative order, the object episode occurs before the subject episode. Therefore, reversing the input order, the correct directed relation is object -> subject, but since the schema requires subject -> object directionality and the subject episode is later, the relation 'precedes' is not valid in the given direction. However, based on scene numbering, the object episode clearly precedes the subject episode, so if direction were ignored, 'precedes' would apply. Given the directional constraint and the requirement to use subject->object, no valid directed 'precedes' relation exists. Thus, after careful reconsideration, no supported relation exists in the required direction with sufficient evidence. Final decision: NONE.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_91797246aa6b",
+    "subject_id": "ep_00b5bc484297dd0d",
+    "object_id": "ep_ac6a4cf4b498dac1",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Engage with businessman in Chrysler bailout stunt' occurs first, as Simon purchases the rose from the businessman, which is then immediately used in the object episode where he gives it to Elaine. The shared scene (scene_20) and the sequential use of the rose—a purchase followed by a gift—support a clear narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f72cb2aeb0df",
+    "subject_id": "ep_6f180adff213ed61",
+    "object_id": "ep_79e9619f6e6cdcb1",
+    "relation_type": "precedes",
+    "reason": "The first episode involves Kruger and the Commissioner arriving and discussing shuttle readiness, with events occurring in scene_12. The second episode involves their concluding conversation and departure in scene_17. The sequential scene numbers indicate a clear narrative order where the safety discussion precedes the final exchange and departure.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_17_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_2dca46a5d4e2",
+    "subject_id": "ep_48bda3c5d2297d1d",
+    "object_id": "ep_85feb4d2a7df59e6",
+    "relation_type": "causes",
+    "reason": "Ted's interruption and demand for an urgent conversation (ep_48bda3c5d2297d1d) directly leads to his subsequent warning that the Mercury flight is unsafe and must be stopped (ep_85feb4d2a7df59e6), with both episodes occurring in the same scene and the first initiating the confrontation that enables the second. The shift in tone and immediate escalation support a causal link.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b8b83266b2c7",
+    "subject_id": "ep_5e32bf8787c2ca5b",
+    "object_id": "ep_a3eb2c8fd63a97db",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs during the Mercury Mission Pre-Launch Gathering (scene_39), while the object episode takes place during a stay at the Ronald Reagan Institute (scene_44), indicating a later setting. Scene numbers (39 before 44) and distinct occasions support a clear narrative order where Elaine's confrontation about Ted's escape precedes Ted's counter-accusation about the conspiracy.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_deac4085f5ad",
+    "subject_id": "ep_3c5b9affbbd51c0d",
+    "object_id": "ep_5e32bf8787c2ca5b",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur during the same occasion (Mercury Mission Pre-Launch Gathering in scene_39). The subject episode involves Elaine responding to Ted's warning after invitations have been sent, while the object episode involves the group walking and Elaine confronting Ted about his escape, which logically follows the initial response. The narrative flow within the shared scene supports a local precedence of the subject before the object.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_254904f87342",
+    "subject_id": "ep_1456ffac3e8f695c",
+    "object_id": "ep_7e36b90da7aebd95",
+    "relation_type": "contrasts_with",
+    "reason": "The episode of nuns and soldiers dragging each other away in chaotic role reversals is juxtaposed with the episode of soldiers systematically detaining and interrogating peasants, highlighting a contrast in power dynamics and order versus lawlessness. Both occur in the same location (town square) and scene, but one shows structured political violence while the other shows surreal, inverted authority, supporting a deliberate contrast.",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d0235b8d5582",
+    "subject_id": "ep_ff487b4c8205876e",
+    "object_id": "ep_c31f76a1995aca47",
+    "relation_type": "precedes",
+    "reason": "The episode 'Simon receives and questions the anti-fear pills' occurs before 'Simon takes the pills and tests their effect' in the narrative sequence, as Simon must first receive and inquire about the pills before ingesting and testing them. The related events in both episodes are listed in the same scene (scene_42), but the logical and causal order of actions—receiving and questioning before taking and testing—supports a clear temporal precedence.",
+    "source_documents": [
+      "scene_42_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_b9c594f3128c",
+    "subject_id": "ep_3dc6e0a002d6e7e1",
+    "object_id": "ep_54660809245895a9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Simon spots Ted and decides to delay boarding' involves Simon making a decision to postpone boarding, which immediately precedes the episode 'Oveur and Simon hurry while exchanging explanations' where they are already moving together along a pathway. The shift in Simon's priorities initiates a temporary separation, but the subsequent episode shows them traveling together again, indicating a chronological sequence supported by the narrative flow in the same scene (scene_50).",
+    "source_documents": [
+      "scene_50_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c616e333c353",
+    "subject_id": "ep_057bca52844dc77c",
+    "object_id": "ep_11aef0511cb37cb3",
+    "relation_type": "causes",
+    "reason": "The explosion in the subject episode directly triggers the emergency response in the object episode, as Sarg initiates departure immediately after the explosion, using the lava lamp as a makeshift siren. The description of the object episode explicitly states it occurs 'in the aftermath of the explosion,' providing clear causal and temporal linkage.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ad41b679d887",
+    "subject_id": "ep_614260ba659ad9a8",
+    "object_id": "ep_90d0a4a1e8b8b104",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes the boy retrieving a newspaper and running through the town square, while the object episode involves a peasant (potentially the same character) being pursued by a soldier to Hotel Montenegro after a shooting. Both occur in scene_33 and in the town square, but the retrieval and initial flight precede the escalation involving the shooting and chase to the hotel, indicating a local narrative sequence.",
+    "source_documents": [
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_41dfcf8cd2bd",
+    "subject_id": "ep_5e32bf8787c2ca5b",
+    "object_id": "ep_b4c6e3661b4410e6",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Group walks and Elaine confronts Ted about his escape' involves the group beginning to walk with Ted and Elaine expressing concern, while the object episode 'Simon dismisses Ted and separates from him' involves Simon pulling Elaine away and ending the encounter. The sequence of events in the same scene (scene_39) and the progression from confrontation to physical separation indicate a clear temporal order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bf78712ffc01",
+    "subject_id": "ep_7351afe0d5705f64",
+    "object_id": "ep_1977e1d51ca45e72",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur during the same occasion (Mercury Mission Pre-Launch Gathering in scene_39), but the episode where Elaine shares her excitement and Simon teases her logically precedes the episode where Ted questions Elaine's mission role and Simon reveals wedding plans, as personal revelations typically follow initial expressions of emotion in narrative flow. The description of the second episode includes a direct question from Ted and a significant announcement, suggesting it occurs later in the scene.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d3f0bc490792",
+    "subject_id": "ep_1f846107a90f584d",
+    "object_id": "ep_5842347d09ca462d",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode involves Ted's increasingly absurd and tense attempt to locate mission control, culminating in violence, while the object episode depicts a brief, mundane exchange between businessmen about a low-risk business deal. The description of the object episode explicitly states it serves as 'mundane professional banter contrasting the rising urgency of Ted’s mission,' directly supporting a contrast relation in tone and narrative function.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_98837b8d144b",
+    "subject_id": "ep_acc44dbf584b1f31",
+    "object_id": "ep_11aef0511cb37cb3",
+    "relation_type": "causes",
+    "reason": "The explosion triggered by Sarg's actions in 'Escalate confrontation and trigger explosion' directly leads to the emergency response in 'Initiate emergency departure', as the latter is described as occurring 'in the aftermath of the explosion'. This causal sequence is explicitly supported by the temporal and narrative linkage in the description of the second episode.",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_aca385c9f77f",
+    "subject_id": "ep_1fa242be8d64b198",
+    "object_id": "ep_664acc3ceb526e78",
+    "relation_type": "elaborates",
+    "reason": "The second episode, where Detective Hallick confronts investigation futility by questioning the senseless killings directly to the camera, provides a meta-narrative reflection that elaborates on the emotional and existential stakes established in the first episode's procedural investigation. The absurd orders in the first episode (e.g., evacuating Hawaii) set up the tone of escalating frustration, which is then explicitly thematized in the second episode's direct-to-audience moment, thus expanding its meaning.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6c37a69d1b1a",
+    "subject_id": "ep_49890d0768d8cfbe",
+    "object_id": "ep_6f180adff213ed61",
+    "relation_type": "precedes",
+    "reason": "The subject episode, 'Report press investigation during descent', occurs while Kruger and the Commissioner are descending an escalator, which is a transitional movement toward the space center. The object episode, 'Confront safety concerns and assert launch schedule', begins when they arrive at the space center and exit the limousine. The descent (subject) logically and temporally precedes their arrival and subsequent discussion at the space center (object), establishing a clear narrative sequence.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b2194eecd095",
+    "subject_id": "ep_87f2d6704a43a2e4",
+    "object_id": "ep_89e5691a757d4508",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur during the same occasion (Rocket Engine Test Operation in scene_40), but the rejection of uniform designs by Simon involves Technician Jacobs and sets an early tone of tension, while Ted's confrontation with Elaine occurs afterward as he storms off, suggesting a sequential narrative flow within the scene. The description of Ted 'storming off' after a prior interaction implies a temporal progression following earlier conflicts, supporting that the first episode precedes the second.",
+    "source_documents": [
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3917d6499df6",
+    "subject_id": "ep_057bca52844dc77c",
+    "object_id": "ep_fcb7b706f72a1ff6",
+    "relation_type": "causes",
+    "reason": "The explosion in the subject episode is a direct consequence of Sarg's actions following the concealment of the wiring scandal described in the object episode. The object episode establishes the damaged wiring and decision to cover it up, which sets the conditions for the subject episode's explosion. Sarg's contempt and the triggering of the explosion are causally linked to the unresolved hazard from the concealed wiring failure, making this a direct causal chain supported by narrative continuity across scenes.",
+    "source_documents": [
+      "scene_25_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_27853b9c2e76",
+    "subject_id": "ep_38a3e79ca988c7d4",
+    "object_id": "ep_9ead45e09755f5e7",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode depicts Ted's public acclaim and media fame, while the object episode reflects his professional rise and subsequent downfall due to reporting design flaws, leading to disillusionment. These episodes are thematically juxtaposed, contrasting external success and recognition with internal professional betrayal and decline, supported by the reflective and contrasting nature of Ted's recollections in both episodes.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_bff262930ceb",
+    "subject_id": "ep_251cb31cf6e80d64",
+    "object_id": "ep_e5b1c6b429e75193",
+    "relation_type": "contrasts_with",
+    "reason": "The episode 'Handle bird distraction and maintain flight control' shows Ted Striker confidently interacting with a bird on the aircraft, while 'Confront fear of winged things after war' depicts his phobia of winged creatures. These episodes are in direct psychological and behavioral contrast, highlighting a reversal in Ted's relationship with birds and flight, one of overconfidence versus fear, supported by the narrative transformation described in the latter episode.",
+    "source_documents": [
+      "scene_27_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_84686ac2ac6c",
+    "subject_id": "ep_1f846107a90f584d",
+    "object_id": "ep_9ead45e09755f5e7",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Recall Ted's rise and fall with the XR-2300' provides background on Ted's professional history and disillusionment, which contextualizes his current desperate and absurd attempt to reach mission control in the present narrative. This internal reflection elaborates on the motivations and emotional state underlying the actions in the other episode, even though it occurs in a different temporal and scene context.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_fb3559f81dfa",
+    "subject_id": "ep_1ad74c547001635e",
+    "object_id": "ep_4f99a7346e70e7c3",
+    "relation_type": "elaborates",
+    "reason": "The 'Consume beer during high-speed flight' episode provides additional detail about Ted Striker's behavior during the already established high-speed flight in 'Pilot aircraft at extreme speed through adverse conditions', thereby expanding on the context of that episode. The shared scene (scene_27) and overlapping action confirm temporal co-occurrence, and the beer consumption serves to elaborate on the recklessness during the piloting episode rather than preceding or causing it.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_cd700528b068",
+    "subject_id": "ep_5b551899f4de3a8d",
+    "object_id": "ep_9ead45e09755f5e7",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Recall Ted's rise and fall with the XR-2300' provides background context on Ted's professional history and motivations, which elaborates on his current determination in 'Ted resolves to stop the Mercury shuttle'. The reflection on his past with the XR-2300 explains his urgency and personal stake in preventing the shuttle launch, as it connects his prior experience and disillusionment to his present actions.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8e38b5af1327",
+    "subject_id": "ep_2acefd76b26f7082",
+    "object_id": "ep_9ead45e09755f5e7",
+    "relation_type": "elaborates",
+    "reason": "The object episode, in which Ted recalls his rise and fall with the XR-2300, provides background context that elaborates on the subject episode, where Ted raises safety concerns and is suppressed. The prior experience of being discredited after reporting flaws in the XR-2300 explains Ted's current accusations of a smear campaign and his insistence on proving his claims, thus expanding the narrative context of his current actions.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_35_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_9bcc82f360b0",
+    "subject_id": "ep_53856046adee0927",
+    "object_id": "ep_85feb4d2a7df59e6",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'React to the XR-2300 launch alert' occurs in scene_35, while the object episode 'Ted warns mission is unsafe and must be stopped' occurs in scene_39, indicating a clear narrative sequence where the alert and realization precede Ted's warning about mission safety. The progression from discovering the launch to declaring it unsafe supports a local narrative order.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6c0c6f25d8f3",
+    "subject_id": "ep_0c5b43f2e00efaa0",
+    "object_id": "ep_11aef0511cb37cb3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Exchange urgent work and marital crises over phone' involves Sarg informing his wife about a 'condition red' emergency and Marge responding with a marital crisis declaration, which sets up the personal conflict before Sarg's physical response. The episode 'Initiate emergency departure' describes Sarg's actions immediately after the explosion, including using the lava lamp as a siren and driving away, which occurs after the phone conversation. The narrative sequence in the shared scene (scene_21) and the causal setup (responding to 'condition red') support that the phone exchange precedes the emergency departure.",
+    "source_documents": [
+      "scene_21_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7b24b1f9916e",
+    "subject_id": "ep_53856046adee0927",
+    "object_id": "ep_9ead45e09755f5e7",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Recall Ted's rise and fall with the XR-2300' provides background on Ted's history with the spacecraft program, which contextualizes his emotional and professional stakes during the 'React to the XR-2300 launch alert' episode. This internal monologue elaborates on the significance of the launch event by revealing prior experiences that shape Ted's reaction, as both episodes occur in the same scene and are thematically linked through Ted's relationship with the XR-2300.",
+    "source_documents": [
+      "scene_35_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_9e36a5062f3f",
+    "subject_id": "ep_53856046adee0927",
+    "object_id": "ep_5b551899f4de3a8d",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'React to the XR-2300 launch alert' occurs in doc_34 and involves Ted reacting to a launch alert, while the object episode 'Ted resolves to stop the Mercury shuttle' occurs in doc_37 and shows Ted initiating action to prevent a shuttle launch. The progression from reacting to a launch event to actively deciding to stop another shuttle suggests a narrative sequence where the first episode precedes the second, supported by the document order and the escalating urgency in Ted's actions.",
+    "source_documents": [
+      "scene_35_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b31f96a1d6a7",
+    "subject_id": "ep_052523aca9bf8c37",
+    "object_id": "ep_6f180adff213ed61",
+    "relation_type": "precedes",
+    "reason": "The shoe shine conversation (ep_052523aca9bf8c37) occurs in scene_15, while the confrontation at the space center (ep_6f180adff213ed61) occurs in scene_12. Despite the reverse scene numbering, the description of the shoe shine episode includes a discussion of political pressure that informs the Commissioner's later insistence on the launch schedule, suggesting narrative progression. However, the scene numbers conflict with this interpretation. Given that narrative order is determined by discourse and not necessarily scene numbers, and the thematic flow from political pressure in the shoe shine to its application in the launch decision, the shoe shine episode is best interpreted as preceding the confrontation in narrative time.",
+    "source_documents": [
+      "scene_15_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d00903c7bea6",
+    "subject_id": "ep_a3eb2c8fd63a97db",
+    "object_id": "ep_daf1252b6c3295e5",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ted confronts Elaine about Simon's conspiracy' occurs in scene_44, while 'Detain and discredit Ted publicly' occurs in scene_40. Since scene_40 precedes scene_44 in document order, the object episode actually occurs earlier than the subject episode. However, the narrative logic and causal buildup imply that Ted's confrontation follows his public outburst and detention. Given that the detention episode (scene_40) includes Ted already struggling and being sedated, it directly precedes the confrontation with Elaine, which involves reflection and argument about the prior event. Thus, the correct temporal order is object precedes subject, but since the relation 'precedes' is directed and the subject is listed first, the relation should be reversed. However, based on standard narrative progression and the content of the episodes—where confrontation leads to escalation—the confrontation must precede the full detention and sedation. This creates a contradiction. Resolving based on scene numbers: scene_40 (detention) comes before scene_44 (confrontation), so 'Detain and discredit Ted publicly' precedes 'Ted confronts Elaine about Simon's conspiracy'. Therefore, the subject episode does not precede the object episode. Hence, no valid directed relation can be established in the subject->object direction. Given the conflict between scene order and narrative inference, and the requirement for strict evidence, the safest conclusion is that the temporal order is object before subject, so the subject does not precede the object. Thus, the relation 'precedes' cannot be asserted in the given direction. No other relation is supported. Therefore, output is NONE.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_70403a6874ef",
+    "subject_id": "ep_33e9aa5d98f723a7",
+    "object_id": "ep_daf1252b6c3295e5",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Elaine resists Ted's emotional appeal' occurs while Elaine is waiting for Simon near a photo booth (scene_41), whereas the object episode 'Detain and discredit Ted publicly' takes place during the rocket engine test operation (scene_40) where Ted is apprehended and sedated. Scene numbers (40 before 41) and the narrative flow indicate that the detention of Ted precedes Elaine's rejection of his emotional appeal, which happens afterward while she waits for Simon. Therefore, the object episode precedes the subject episode, but since the relation is directed and the subject is listed first, the correct directional assignment is that the subject episode follows the object episode, so 'precedes' is not valid in subject->object direction. Re-evaluating: the description of the object episode includes 'immediate aftermath of Ted's outburst', and the subject episode involves a calm but firm rejection during a later scene. Thus, the subject episode occurs after the object episode, meaning the object precedes the subject. Since the relation 'precedes' is directed and we are evaluating subject->object, this would require the subject to occur before the object, which is not supported. Therefore, no valid directed relation exists in the subject->object direction. Given the scene order (scene_40 before scene_41), the only valid temporal relation is object precedes subject, but that contradicts the required subject->object direction. Hence, no allowed relation fits in the correct direction. Output: NONE.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5f7c835f27e4",
+    "subject_id": "ep_44eb4c3268c6d5bf",
+    "object_id": "ep_6f180adff213ed61",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs while Kruger and the Commissioner are ascending an escalator, which is described in scene_13, while the object episode takes place at the space center upon their arrival in scene_12. Since scene_12 precedes scene_13 in the narrative order, the object episode occurs before the subject episode. However, the relation 'precedes' is directed, and the subject must precede the object. Given that the object episode (at the space center) happens earlier in the scene sequence than the subject episode (escalator conversation), the correct directional relation is object -> subject. Since the subject is listed first and the relation must be directed, the required subject -> object 'precedes' relation is not supported. Therefore, no valid directed 'precedes' relation can be asserted from subject to object, and no other relation type is supported. Thus, the correct output is 'NONE'.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_451e7a2e98e8",
+    "subject_id": "ep_a3eb2c8fd63a97db",
+    "object_id": "ep_9b597ba74fba5998",
+    "relation_type": "causes",
+    "reason": "The confrontation between Ted and Elaine ends with Elaine leaving and refusing further engagement, which directly triggers Ted's emotional response and subsequent flashback. The description of the second episode explicitly states that Elaine's departure 'results in a sudden flashback,' indicating a direct causal link from the confrontation (and its outcome) to the flashback episode.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b1837332fe3a",
+    "subject_id": "ep_213b88110a6be658",
+    "object_id": "ep_85feb4d2a7df59e6",
+    "relation_type": "elaborates",
+    "reason": "The subject episode, where Ted insists Elaine must listen to him and declares his intent to go to mission control, provides contextual motivation for the object episode, where he warns that the Mercury flight is unsafe. The urgency in the first episode elaborates on the emotional and narrative drive behind the warning in the second, though the connection is not explicitly causal or chronological in the provided information.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "id": "rel_ep_ep_12f9151d2bda",
+    "subject_id": "ep_48bda3c5d2297d1d",
+    "object_id": "ep_9b597ba74fba5998",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Ted interrupts and demands urgent conversation' occurs during scene_39, while the object episode 'React to Elaine's departure with a flashback' occurs in scene_43, indicating a clear temporal sequence where the interruption and confrontation precede Elaine's departure and Ted's subsequent flashback.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3dde78b06c6e",
+    "subject_id": "ep_89e5691a757d4508",
+    "object_id": "ep_9b597ba74fba5998",
+    "relation_type": "causes",
+    "reason": "The first episode, in which Ted confronts Elaine and is rejected, directly triggers the second episode where he reacts to her departure with a flashback. The description of the second episode explicitly states that Ted is 'emotionally triggered' after Elaine leaves, indicating a causal link from the confrontation and rejection to the psychological response in the form of a flashback.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ccc17f32de9a",
+    "subject_id": "ep_48bda3c5d2297d1d",
+    "object_id": "ep_213b88110a6be658",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ted interrupts and demands urgent conversation' (scene_39) occurs during the Mercury Mission Pre-Launch Gathering and involves Ted initiating a conversation with Elaine, while the episode 'Confront Elaine and express urgent need to be heard' (scene_43) involves Ted persistently following Elaine and occurs in a later scene. The progression from scene_39 to scene_43 in the document sequence indicates a narrative order where the interruption precedes the sustained confrontation.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7ae602fd22e8",
+    "subject_id": "ep_33e9aa5d98f723a7",
+    "object_id": "ep_9b597ba74fba5998",
+    "relation_type": "causes",
+    "reason": "Elaine's rejection and departure in 'Elaine resists Ted's emotional appeal' directly trigger Ted's emotional response and subsequent flashback in 'React to Elaine's departure with a flashback', as explicitly stated in the object episode's description: 'After Elaine leaves the scene and refuses further engagement, Ted is emotionally triggered, resulting in a sudden flashback.' This establishes a clear causal link from the subject to the object episode.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_351a787ee72e",
+    "subject_id": "ep_9b597ba74fba5998",
+    "object_id": "ep_51ea088f8541d2b1",
+    "relation_type": "elaborates",
+    "reason": "The episode 'React to Elaine's departure with a flashback' involves Ted experiencing a flashback triggered by emotional distress, and the content of that flashback is the loss of his squadron at Macho Grande. The flashback episode provides contextual expansion of the earlier traumatic event, grounding the memory as a psychological response to current stimuli. Thus, the subject episode elaborates on the object episode by revealing its emotional reactivation in a later context.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_63ee4b1a8b87",
+    "subject_id": "ep_1977e1d51ca45e72",
+    "object_id": "ep_33e9aa5d98f723a7",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs during scene_39 at the Mercury Mission Pre-Launch Gathering, while the second episode occurs in scene_41 at the Photo Booth Session At The Drugstore. The progression from scene_39 to scene_41 indicates a clear narrative order where Ted questions Elaine's mission role and Simon reveals wedding plans before Elaine resists Ted's emotional appeal.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_fb57b9360950",
+    "subject_id": "ep_624a6080a2f452ae",
+    "object_id": "ep_9b597ba74fba5998",
+    "relation_type": "causes",
+    "reason": "Elaine's departure, as described in ep_624a6080a2f452ae, directly triggers Ted's emotional response and subsequent flashback in ep_9b597ba74fba5998. The description of the second episode explicitly states that Ted's flashback occurs 'after Elaine leaves the scene' and is a result of being 'emotionally triggered,' providing clear causal evidence that the first episode causes the second.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_1256633df214",
+    "subject_id": "ep_e5b1c6b429e75193",
+    "object_id": "ep_011112ae7ba51df9",
+    "relation_type": "contrasts_with",
+    "reason": "The episode 'Confront fear of winged things after war' depicts Ted's trauma-induced aversion to flight, while 'Return to flight through unexpected piloting' shows his reengagement with aviation and transformation into a hero. These episodes are juxtaposed to emphasize a reversal in Ted's psychological state and narrative arc, supported by the descriptions highlighting his phobia and subsequent heroic action.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_242de6fe6643",
+    "subject_id": "ep_011112ae7ba51df9",
+    "object_id": "ep_51ea088f8541d2b1",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode depicts Ted's heroic return to flight, actively piloting a plane despite past trauma, while the object episode recalls the traumatic origin of his fear—the loss of his squadron at Macho Grande. These episodes are thematically juxtaposed, highlighting a reversal from cowardice to heroism, supported by the narrative transformation described in the subject episode and the traumatic memory in the object episode.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_cf57a384067f",
+    "subject_id": "ep_38a3e79ca988c7d4",
+    "object_id": "ep_daf1252b6c3295e5",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts Ted's public acclaim and rise to fame through media attention, highlighting his heroic status, while the second episode shows his public detention, sedation, and discrediting, framed as a danger. These episodes are juxtaposed in tone and outcome—celebrity versus downfall—emphasizing a reversal of fortune, which supports a contrast relation.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3918aba06b00",
+    "subject_id": "ep_1977e1d51ca45e72",
+    "object_id": "ep_213b88110a6be658",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs during the Mercury Mission Pre-Launch Gathering (scene_39), while the second episode takes place in scene_43, indicating a later point in the narrative. The progression from pre-launch dialogue to Ted following Elaine suggests a sequence in which the announcement and questioning precede Ted's urgent attempt to be heard, supporting a 'precedes' relation from ep_1977e1d51ca45e72 to ep_213b88110a6be658.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8f2e8e7f1351",
+    "subject_id": "ep_daf1252b6c3295e5",
+    "object_id": "ep_9b597ba74fba5998",
+    "relation_type": "precedes",
+    "reason": "The episode 'Detain and discredit Ted publicly' (scene_40) includes events where Ted is apprehended and sedated, and Elaine collapses in tears. The episode 'React to Elaine's departure with a flashback' (scene_43) occurs after Elaine leaves the scene, indicating a later point in narrative time. The flashback is triggered by Elaine's departure, which follows her emotional collapse in the prior episode. Thus, the detention episode precedes the flashback episode in local narrative order.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c2cd8e9d85aa",
+    "subject_id": "ep_9b597ba74fba5998",
+    "object_id": "ep_9e7fcc084965b11a",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'React to Elaine's departure with a flashback' involves Ted's immediate psychological response upon Elaine leaving, supported by a flashback event in scene_43. The object episode 'Ted recovers from trauma at terminal' occurs in scene_44, where Ted is seen physically and mentally distressed after the departure and an electro-shock. The sequential order of scenes (43 before 44) and the continuity of Ted's reaction support that the flashback episode precedes the recovery-at-terminal episode.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_65525622b041",
+    "subject_id": "ep_011112ae7ba51df9",
+    "object_id": "ep_38a3e79ca988c7d4",
+    "relation_type": "precedes",
+    "reason": "The episode 'Return to flight through unexpected piloting' describes Ted's heroic act of flying the plane to Chicago, which directly leads to the media attention and public recognition described in 'Relive rise to fame through media headlines'. The related events in both episodes occur in scene_32, but the piloting event must logically precede the reflection on fame, as the fame is a consequence of the landing. This temporal order is supported by the narrative cause-effect flow in the descriptions.",
+    "source_documents": [
+      "scene_32_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_96121deaf9bc",
+    "subject_id": "ep_48bda3c5d2297d1d",
+    "object_id": "ep_a3eb2c8fd63a97db",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ted interrupts and demands urgent conversation' occurs during the Mercury Mission Pre-Launch Gathering (scene_39), while 'Ted confronts Elaine about Simon's conspiracy' takes place at the Ronald Reagan Institute (scene_44), indicating a later setting. The shift in location and progression from interruption to confrontation supports a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4365b5eda45e",
+    "subject_id": "ep_daf1252b6c3295e5",
+    "object_id": "ep_9e7fcc084965b11a",
+    "relation_type": "precedes",
+    "reason": "The episode 'Detain and discredit Ted publicly' (scene_40) involves Ted's apprehension and sedation, which immediately precedes his subsequent state of recovering from trauma at a terminal (scene_44), as evidenced by the chronological order of scenes and the causal continuity of physical and emotional aftermath following sedation and detention.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ac8557632662",
+    "subject_id": "ep_2acefd76b26f7082",
+    "object_id": "ep_624a6080a2f452ae",
+    "relation_type": "precedes",
+    "reason": "The suppression of Ted's safety concerns (ep_2acefd76b26f7082) occurs during the Rocket Engine Test Operation (scene_40), while Elaine's visit and revelation take place in scene_44 at the hospital. The scene numbers indicate a clear narrative sequence: scene_40 precedes scene_44. Therefore, the subject episode occurs earlier than the object episode.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5f24a9f3400b",
+    "subject_id": "ep_5b551899f4de3a8d",
+    "object_id": "ep_2acefd76b26f7082",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ted resolves to stop the Mercury shuttle' (scene_38) occurs in an earlier scene than 'Expose and suppress Ted's safety concerns' (scene_40), indicating a clear temporal order where Ted's decision to act precedes the suppression of his concerns. The narrative progression from scene 38 to scene 40 supports this local ordering.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_41ea3ce624de",
+    "subject_id": "ep_5b551899f4de3a8d",
+    "object_id": "ep_89e5691a757d4508",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Ted resolves to stop the Mercury shuttle' occurs in scene_38, while the object episode 'Confront Elaine and reject reconciliation' occurs in scene_40. The progression from scene_38 to scene_40 in the narrative order indicates that the resolution to stop the shuttle precedes the confrontation with Elaine.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d29a2f7b9c89",
+    "subject_id": "ep_5b551899f4de3a8d",
+    "object_id": "ep_85feb4d2a7df59e6",
+    "relation_type": "precedes",
+    "reason": "The first episode describes Ted making a decision and moving toward the shuttle gate (scene_38), while the second episode involves Ted issuing an urgent warning at a pre-launch gathering (scene_39). The progression from scene_38 to scene_39 indicates a clear narrative order where Ted's resolution and movement precede his verbal warning.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_dde5d9aecba0",
+    "subject_id": "ep_1977e1d51ca45e72",
+    "object_id": "ep_624a6080a2f452ae",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs during the Mercury Mission Pre-Launch Gathering (scene_39), where Simon announces wedding plans with Elaine, indicating their relationship is intact. The second episode takes place later in scene_44, where Elaine reveals she is leaving Ted for Simon, which implies the relationship has progressed to a point of commitment and departure. The narrative progression from pre-launch to hospital setting, along with the emotional escalation, supports a temporal sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3eb67a8f2ec3",
+    "subject_id": "ep_1f846107a90f584d",
+    "object_id": "ep_89e5691a757d4508",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs during scene_38 (Mercury Shuttle Departure), while the object episode occurs during scene_40 (Rocket Engine Test Operation), indicating a clear narrative sequence where Ted's failed attempt to locate mission control precedes his confrontation with Elaine. The progression across scenes supports a directed 'precedes' relation.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_d0c07a8799e4",
+    "subject_id": "ep_1f846107a90f584d",
+    "object_id": "ep_daf1252b6c3295e5",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs during scene_38 at the Mercury Shuttle Departure, where Ted attempts to locate mission control before being interrupted by violence. The object episode occurs in scene_40 during the Rocket Engine Test Operation, where Ted is apprehended and sedated following his outburst. The progression from scene_38 to scene_40 indicates a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ddbf0e5b2435",
+    "subject_id": "ep_5b551899f4de3a8d",
+    "object_id": "ep_daf1252b6c3295e5",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Ted resolves to stop the Mercury shuttle' occurs in scene_38, where Ted observes the shuttle departure and decides to intervene. The object episode 'Detain and discredit Ted publicly' occurs in scene_40, involving Ted's apprehension and sedation after his outburst. Scene numbers indicate a clear narrative sequence: scene_38 precedes scene_40. The events in the object episode are a direct continuation of Ted's actions initiated in the subject episode, establishing a local narrative order.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_7745db739a2b",
+    "subject_id": "ep_1f846107a90f584d",
+    "object_id": "ep_48bda3c5d2297d1d",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs during scene_38 at the Mercury Shuttle Departure, while the object episode occurs in scene_39 at the Mercury Mission Pre-Launch Gathering. The progression from scene_38 to scene_39 indicates a direct narrative sequence, with Ted's failed attempt to locate mission control preceding his urgent interruption of Elaine. This local narrative order supports a 'precedes' relation from the subject to the object.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_de44675c91fe",
+    "subject_id": "ep_1f846107a90f584d",
+    "object_id": "ep_85feb4d2a7df59e6",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs during scene_38 at the Mercury Shuttle Departure, where Ted attempts to locate mission control before the information agent is shot. The object episode occurs in scene_39 during the Mercury Mission Pre-Launch Gathering, where Ted declares the flight unsafe. The progression from scene_38 to scene_39 indicates a clear narrative sequence, with the subject episode preceding the object episode.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_5fcc69e2f7a2",
+    "subject_id": "ep_48bda3c5d2297d1d",
+    "object_id": "ep_2acefd76b26f7082",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ted interrupts and demands urgent conversation' (scene_39) occurs during the 'Mercury Mission Pre-Launch Gathering', while 'Expose and suppress Ted's safety concerns' (scene_40) occurs during the 'Rocket Engine Test Operation'. The scene numbers and narrative progression indicate that the interruption precedes the suppression of Ted's concerns, with the former initiating a sequence that leads into the latter.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c9cbcdf6c683",
+    "subject_id": "ep_213b88110a6be658",
+    "object_id": "ep_33e9aa5d98f723a7",
+    "relation_type": "precedes",
+    "reason": "The related_events in ep_213b88110a6be658 reference scene_43, while ep_33e9aa5d98f723a7 references scene_41. Since scene_41 occurs before scene_43 in narrative order, the subject episode (occurring in scene_43) follows the object episode (occurring in scene_41), meaning the object episode precedes the subject episode. However, the relation is directional and must be correctly oriented: ep_33e9aa5d98f723a7 occurs earlier than ep_213b88110a6be658, so the correct direction is object -> subject. Since the schema requires the relation to be expressed as subject -> object unless otherwise supported, and the reverse direction is what's supported, the relation 'precedes' cannot be correctly asserted in the subject->object direction. Therefore, no valid directed relation fits, and the output is NONE. Wait — correction: the subject is ep_213b88110a6be658 (scene_43), object is ep_33e9aa5d98f723a7 (scene_41). Since scene_43 occurs after scene_41, the subject episode occurs after the object episode, so the object precedes the subject. But the relation 'precedes' in subject->object direction would mean ep_213b88110a6be658 precedes ep_33e9aa5d98f723a7 — which is false. Therefore, the correct temporal order is object precedes subject, but we cannot reverse the relation direction arbitrarily. Since the schema does not allow reversing direction for 'precedes' when the subject is later, and no other relation is supported, the only valid output is NONE. However, reconsider: if the subject episode happens later, then it does NOT precede the object. So 'precedes' cannot be used in subject->object direction. No other relation (causes, contrasts_with, elaborates) is supported by evidence. Therefore, despite clear chronology, the direction is wrong for 'precedes' in subject->object. Hence, no valid relation can be asserted.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d6df54124db8",
+    "subject_id": "ep_1977e1d51ca45e72",
+    "object_id": "ep_89e5691a757d4508",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs during scene_39 at the Mercury Mission Pre-Launch Gathering, while the second episode occurs in scene_40 during the Rocket Engine Test Operation, indicating a clear narrative sequence where Ted's questioning of Elaine and Simon's wedding announcement precede Ted's confrontation with Elaine and rejection of reconciliation.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8710948ef13b",
+    "subject_id": "ep_85feb4d2a7df59e6",
+    "object_id": "ep_2acefd76b26f7082",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ted warns mission is unsafe and must be stopped' occurs during scene_39 at the 'Mercury Mission Pre-Launch Gathering', while 'Expose and suppress Ted's safety concerns' occurs in scene_40 during the 'Rocket Engine Test Operation'. The clear scene ordering (39 before 40) and the escalation from warning to suppression support a direct temporal precedence from the warning to the suppression episode.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4ead69427c64",
+    "subject_id": "ep_48bda3c5d2297d1d",
+    "object_id": "ep_daf1252b6c3295e5",
+    "relation_type": "causes",
+    "reason": "The subject episode, in which Ted interrupts and demands an urgent conversation, directly triggers the object episode where he is detained and discredited, as described by the immediate sequence of events: Ted's outburst leads to his apprehension, sedation, and Simon's narrative manipulation. The description of the object episode explicitly states it captures the 'immediate aftermath of Ted's outburst,' providing clear causal evidence.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ebbc91237c21",
+    "subject_id": "ep_85feb4d2a7df59e6",
+    "object_id": "ep_daf1252b6c3295e5",
+    "relation_type": "causes",
+    "reason": "The subject episode, in which Ted warns that the Mercury flight is unsafe and must be stopped, directly triggers the object episode, where Ted is detained and discredited, as described in the object's description stating it captures the 'immediate aftermath of Ted's outburst' and involves an 'orchestrated effort to neutralize him'—indicating a clear causal link from Ted's warning to his detention.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_ebecc6a86627",
+    "subject_id": "ep_85feb4d2a7df59e6",
+    "object_id": "ep_89e5691a757d4508",
+    "relation_type": "precedes",
+    "reason": "The Mercury mission safety warning (ep_85feb4d2a7df59e6) occurs during scene_39, while the confrontation with Elaine (ep_89e5691a757d4508) occurs in scene_40, indicating a clear narrative sequence where the first episode precedes the second based on scene ordering.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a158f1054b86",
+    "subject_id": "ep_48bda3c5d2297d1d",
+    "object_id": "ep_89e5691a757d4508",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ted interrupts and demands urgent conversation' occurs during the Mercury Mission Pre-Launch Gathering (scene_39), while 'Confront Elaine and reject reconciliation' occurs during the Rocket Engine Test Operation (scene_40). The scene numbers indicate a clear narrative sequence, with scene_39 preceding scene_40, supporting a 'precedes' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4e8273047d1b",
+    "subject_id": "ep_3dc6e0a002d6e7e1",
+    "object_id": "ep_daf1252b6c3295e5",
+    "relation_type": "causes",
+    "reason": "The subject episode, where Simon spots Ted and decides to delay boarding, directly triggers the object episode, in which Simon signals for Ted's detention and discrediting. The description of the object episode states it occurs 'Following Simon's signal,' which is initiated by his observation and decision in the subject episode, establishing a clear causal link.",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e64c591364a1",
+    "subject_id": "ep_864424e4cc79e479",
+    "object_id": "ep_54660809245895a9",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate covert rendezvous and immediate departure' (doc_47, scene_48) occurs before 'Oveur and Simon hurry while exchanging explanations' (doc_49, scene_50), as evidenced by the document and scene ordering. The rendezvous marks the beginning of their movement together, which continues into the subsequent episode involving further travel and dialogue, indicating a direct narrative sequence.",
+    "source_documents": [
+      "scene_50_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0f6f919d17b8",
+    "subject_id": "ep_1977e1d51ca45e72",
+    "object_id": "ep_84adec6be2157ede",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode presents Simon announcing marriage plans as a unifying personal-professional moment, while the second episode reveals a conflict where Simon imposes traditional gender roles on Elaine despite her professional advancement, creating a clear ideological and tonal contrast between the two episodes.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4e5ebbe9ba89",
+    "subject_id": "ep_2acefd76b26f7082",
+    "object_id": "ep_3dc6e0a002d6e7e1",
+    "relation_type": "precedes",
+    "reason": "The suppression of Ted's safety concerns (ep_2acefd76b26f7082) occurs during scene 40, while Simon spotting Ted and deciding to delay boarding (ep_3dc6e0a002d6e7e1) occurs in scene 50, indicating a clear narrative sequence where the first episode precedes the second based on scene ordering.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_50_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_308be1ae6238",
+    "subject_id": "ep_ac6a4cf4b498dac1",
+    "object_id": "ep_1977e1d51ca45e72",
+    "relation_type": "precedes",
+    "reason": "The episode 'Exchange affection and affirm relationship' (scene_20) occurs earlier in the narrative sequence than 'Ted questions Elaine's mission role and Simon reveals wedding plans' (scene_39), as indicated by their respective scene numbers. This establishes a clear temporal order where the romantic interlude precedes the later confrontation and announcement.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f591c21b049a",
+    "subject_id": "ep_2acefd76b26f7082",
+    "object_id": "ep_fcb7b706f72a1ff6",
+    "relation_type": "contrasts_with",
+    "reason": "Both episodes involve the suppression of critical safety concerns about shuttle wiring, but differ in agency and outcome: in ep_2acefd76b26f7082, Simon suppresses Ted's concerns by discrediting him personally, while in ep_fcb7b706f72a1ff6, Kruger suppresses Sarg's report through institutional cover-up. The parallel structure highlights a contrast in methods of concealment—individual scapegoating vs. systemic corruption—supporting a deliberate juxtaposition.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_24_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_58a3ad1df50e",
+    "subject_id": "ep_3ae1b1591ba974b7",
+    "object_id": "ep_ff487b4c8205876e",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Simon departs to gather supplies' includes Simon entering the drugstore and interacting with the clerk, which sets up the context for the object episode 'Simon receives and questions the anti-fear pills' where he is given the pills and asks about the meaning of 'fear.' The events in the first episode (entering the store, being offered substances) directly precede the events in the second (receiving the pills, reading the label, asking about fear), establishing a clear temporal sequence in the narrative.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_703de4bd2300",
+    "subject_id": "ep_5e32bf8787c2ca5b",
+    "object_id": "ep_75f71b7fcbb71113",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs during scene_39 at the Mercury Mission Pre-Launch Gathering, while the object episode occurs in scene_44 at the Ronald Reagan Institute, indicating a clear narrative sequence where the group walk and confrontation precede Ted's rejection and electro-shock incident.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_364bd09eddaa",
+    "subject_id": "ep_1f4a6783c0ff9e23",
+    "object_id": "ep_c37b1196eb83aeb1",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode depicts the child's isolated immersion in a video game explosion effect and obliviousness to the external chaos, while the object episode describes the real-world emergency response to the actual explosion. The juxtaposition emphasizes a contrast between simulated in-game experience and real-world crisis response, supported by the child's unawareness versus the controllers' urgent actions.",
+    "source_documents": [
+      "scene_11_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8ed876c78f51",
+    "subject_id": "ep_5e32bf8787c2ca5b",
+    "object_id": "ep_89e5691a757d4508",
+    "relation_type": "precedes",
+    "reason": "The first episode occurs during scene_39 at the Mercury Mission Pre-Launch Gathering, while the second occurs in scene_40 during the Rocket Engine Test Operation, indicating a clear narrative sequence where the group walk and initial confrontation precede Ted's later rejection of reconciliation after storming off.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4375ec892b01",
+    "subject_id": "ep_5e32bf8787c2ca5b",
+    "object_id": "ep_2acefd76b26f7082",
+    "relation_type": "precedes",
+    "reason": "The 'Group walks and Elaine confronts Ted about his escape' episode (scene_39) occurs during the Mercury Mission Pre-Launch Gathering, which precedes the 'Expose and suppress Ted's safety concerns' episode (scene_40) that takes place during the Rocket Engine Test Operation. The scene numbers and narrative progression indicate a clear temporal order where Ted's escape and confrontation happen before the public suppression of his safety concerns.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3291fac01bab",
+    "subject_id": "ep_7351afe0d5705f64",
+    "object_id": "ep_84adec6be2157ede",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode features a light, enthusiastic interaction between Elaine and Simon before a mission, establishing a tone of camaraderie and shared purpose. The second episode reveals a sharp ideological and personal clash, where Simon imposes traditional gender roles on Elaine despite her professional ambitions. The juxtaposition of a hopeful, collaborative moment against a later scene of patriarchal assertion and professional suppression creates a clear tonal and thematic contrast, supported by the shift from mutual engagement to conflict over roles and agency.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_1239b02f4239",
+    "subject_id": "ep_213b88110a6be658",
+    "object_id": "ep_5e32bf8787c2ca5b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront Elaine and express urgent need to be heard' involves Ted actively pursuing Elaine to be heard, while 'Group walks and Elaine confronts Ted about his escape' depicts a later moment where the group is already walking together and Elaine addresses Ted's escape. The progression from Ted initiating contact to a shared walk with established group dynamics suggests a narrative sequence where the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_08d904a8a86e",
+    "subject_id": "ep_5e32bf8787c2ca5b",
+    "object_id": "ep_624a6080a2f452ae",
+    "relation_type": "precedes",
+    "reason": "The first episode involves the group walking and Elaine confronting Ted about his escape, which occurs during a pre-launch gathering (scene_39), while the second episode takes place in the hospital setting where Elaine delivers news of leaving Ted (scene_44). The progression from scene_39 to scene_44 indicates a narrative sequence where the confrontation precedes the emotional climax of the relationship breakdown.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c9623b913efc",
+    "subject_id": "ep_b4c6e3661b4410e6",
+    "object_id": "ep_daf1252b6c3295e5",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Simon dismisses Ted and separates from him' occurs during the 'Mercury Mission Pre-Launch Gathering (scene_39)', while the object episode 'Detain and discredit Ted publicly' takes place during the 'Rocket Engine Test Operation (scene_40)'. The scene numbers (39 before 40) and the narrative flow—where Simon's dismissal immediately precedes the guards' apprehension of Ted in the next scene—support a clear temporal ordering.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a0dcf9be7ea2",
+    "subject_id": "ep_b4c6e3661b4410e6",
+    "object_id": "ep_2acefd76b26f7082",
+    "relation_type": "precedes",
+    "reason": "The episode 'Simon dismisses Ted and separates from him' occurs during scene_39 at the 'Mercury Mission Pre-Launch Gathering', while 'Expose and suppress Ted's safety concerns' occurs in scene_40 during the 'Rocket Engine Test Operation'. The clear scene ordering (39 before 40) and progression of events—where Ted is first dismissed and separated, then later escalates his accusations and is sedated—support a direct narrative precedence from the earlier to the later episode.",
+    "source_documents": [
+      "scene_40_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3daf4b41884b",
+    "subject_id": "ep_3c5b9affbbd51c0d",
+    "object_id": "ep_89e5691a757d4508",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs during the Mercury Mission Pre-Launch Gathering (scene_39), while the object episode occurs during the Rocket Engine Test Operation (scene_40), indicating a clear sequential order in the narrative. The subject episode involves Elaine responding to Ted's warning before the confrontation in the object episode, where Ted rejects reconciliation and is detained. The scene numbers and contextual progression support that the subject episode precedes the object episode.",
+    "source_documents": [
+      "scene_39_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_61f80ba34b88",
+    "subject_id": "ep_7948238e214655ca",
+    "object_id": "ep_864424e4cc79e479",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Complete flight insurance purchase' occurs before any interaction with Simon, as stated in its description, while the object episode 'Initiate covert rendezvous and immediate departure' begins with Simon locating Captain Oveur and confirming identity. Since the purchase is completed prior to the interaction, it precedes the rendezvous episode based on explicit temporal ordering in the narrative.",
+    "source_documents": [
+      "scene_48_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1eb97f9514a2",
+    "subject_id": "ep_3ae1b1591ba974b7",
+    "object_id": "ep_ac6a4cf4b498dac1",
+    "relation_type": "precedes",
+    "reason": "Simon's departure to gather supplies occurs in scene_41, while the exchange of affection and affirmation of their relationship takes place in scene_20. Since scene_20 precedes scene_41 in narrative order, the object episode occurs earlier than the subject episode. However, the subject episode describes Simon initiating the errand before reuniting with Elaine, implying that the affectionate exchange happens after his return, which would reverse the scene order. Given the goal-driven coherence of episodes and the mention of reuniting post-errand, it is most plausible that the supply-gathering episode precedes the romantic interlude, despite the scene numbering discrepancy. This ordering is supported by the narrative logic in the descriptions.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_76ed976a57d4",
+    "subject_id": "ep_7745aecf7d9f6ae3",
+    "object_id": "ep_ee75516caa697630",
+    "relation_type": "contrasts_with",
+    "reason": "The two episodes are separated by different scenes and documents, but both involve surreal, absurd imagery involving luggage and control—caged human transport vs. suitcases behaving as aggressive dogs. The second episode is described as a 'final exaggerated commentary on the scene's chaotic tone,' suggesting a deliberate tonal and thematic juxtaposition that highlights absurdity through contrast. This supports a symmetric contrast relation based on tone and narrative function.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a47d6b75e055",
+    "subject_id": "ep_85feb4d2a7df59e6",
+    "object_id": "ep_3c5b9affbbd51c0d",
+    "relation_type": "causes",
+    "reason": "Ted's warning that the Mercury flight is unsafe and must be stopped directly prompts Elaine to respond by defending the wedding plans and questioning the meaning of the warning, indicating a causal link where Elaine's reaction is an immediate consequence of Ted's declaration.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_92afb41fce60",
+    "subject_id": "ep_878448b53f7b54a6",
+    "object_id": "ep_1fa242be8d64b198",
+    "relation_type": "precedes",
+    "reason": "The sergeant's expression of concern occurs at the crime scene and directly precedes Detective Hallick's investigation and response, as indicated by the description stating the exchange 'directly precedes Hallick's response'. This establishes a clear local narrative order where the sergeant's moment of lament comes before Hallick's active investigation.",
+    "source_documents": [
+      "scene_46_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e8b1a0d34df3",
+    "subject_id": "ep_48bda3c5d2297d1d",
+    "object_id": "ep_b4c6e3661b4410e6",
+    "relation_type": "precedes",
+    "reason": "Ted's interruption and demand for an urgent conversation occurs before Simon dismisses Ted and pulls Elaine away, as both episodes take place during the same occasion (Mercury Mission Pre-Launch Gathering) and the sequence of related events indicates a temporal progression from interruption to rejection.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_3244b5e833d0",
+    "subject_id": "ep_c280a089c966e996",
+    "object_id": "ep_ee75516caa697630",
+    "relation_type": "contrasts_with",
+    "reason": "Both episodes occur in the same scene (scene_20) and share a comedic, absurd tone, but the first establishes the couple's normal arrival juxtaposed with minor absurdity (a man collapsing under cameras), while the second presents a fully surreal event (suitcases behaving like dogs and fighting). The escalation in absurdity suggests a deliberate contrast in the degree of surrealism, reinforcing a comedic commentary on the airport setting.",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_ee3582d06c6d",
+    "subject_id": "ep_56b2731603876dfb",
+    "object_id": "ep_c16eddce3e0ba2ba",
+    "relation_type": "precedes",
+    "reason": "The Wilson family heading to Mercury shuttle processing (ep_56b2731603876dfb) sets the scene and establishes the beginning of their journey, which is immediately followed by the porter engaging them and questioning Scraps' travel (ep_c16eddce3e0ba2ba), as both episodes occur in scene_23 and the sequence of actions implies a temporal order where arrival precedes interaction.",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_db80671f6571",
+    "subject_id": "ep_3c5b9affbbd51c0d",
+    "object_id": "ep_b4c6e3661b4410e6",
+    "relation_type": "precedes",
+    "reason": "Elaine's defense of the wedding plans and concern about Ted's warning occurs before Simon dismisses Ted and separates from him, as both episodes occur in scene_39 and Elaine's response logically precedes Simon's physical intervention to end the encounter.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a941b8a51a67",
+    "subject_id": "ep_48bda3c5d2297d1d",
+    "object_id": "ep_7351afe0d5705f64",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ted interrupts and demands urgent conversation' shifts the tone from casual to urgent and initiates a confrontation, occurring after Elaine shares her excitement and Simon teases her during the same gathering; the descriptions and shared occasion indicate a sequence where the light personal moment (Elaine's excitement) is interrupted by Ted's urgent call, supporting a clear narrative order.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ab491b53b856",
+    "subject_id": "ep_1977e1d51ca45e72",
+    "object_id": "ep_3c5b9affbbd51c0d",
+    "relation_type": "elaborates",
+    "reason": "The subject episode introduces Ted's questioning of Elaine's mission role and Simon's revelation of wedding plans; the object episode expands on this by showing Elaine's defense of those plans and her reaction to Ted's warning, providing further detail on her commitment and concern, thus elaborating the narrative initiated in the subject episode.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_76c936ad4795",
+    "subject_id": "ep_7745aecf7d9f6ae3",
+    "object_id": "ep_c16eddce3e0ba2ba",
+    "relation_type": "contrasts_with",
+    "reason": "The two episodes occur in the same scene (scene_23) and are juxtaposed: one involves a man in a dehumanizing dog cage being treated like luggage, while the other involves a family's concern for their pet's humane treatment on the shuttle. The parallel setting with Jimmy's dog highlights a reversal in moral tone—abuse of a human in a cage versus care for an animal—creating a deliberate contrast in how caged beings are treated.",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_160c76437e88",
+    "subject_id": "ep_85feb4d2a7df59e6",
+    "object_id": "ep_b4c6e3661b4410e6",
+    "relation_type": "precedes",
+    "reason": "Ted's warning occurs just before Simon dismisses him and separates from him, as both events take place during the same Mercury Mission Pre-Launch Gathering in scene_39, with the sequence implied by the narrative flow: first Ted issues the warning, then Simon reacts by dismissing and physically removing Elaine from the interaction.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3a1281f59d83",
+    "subject_id": "ep_48bda3c5d2297d1d",
+    "object_id": "ep_5e32bf8787c2ca5b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Ted interrupts and demands urgent conversation' occurs first, as it initiates the interaction by interrupting Elaine and Simon, which is immediately followed by the group walking away together in the second episode. Both episodes occur in the same occasion (Mercury Mission Pre-Launch Gathering, scene_39), and the sequence of related events suggests a direct narrative progression from interruption to walking and confrontation.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0f2e272266d4",
+    "subject_id": "ep_48bda3c5d2297d1d",
+    "object_id": "ep_3c5b9affbbd51c0d",
+    "relation_type": "precedes",
+    "reason": "Ted's interruption and demand for an urgent conversation (ep_48bda3c5d2297d1d) initiates the interaction, after which Elaine responds by defending her wedding plans and expressing concern about Ted's warning (ep_3c5b9affbbd51c0d), indicating a clear temporal sequence supported by the narrative flow in scene_39.",
+    "source_documents": [
+      "scene_39_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_678d60647fc5",
+    "subject_id": "ep_0bff8bdf7e88e0f9",
+    "object_id": "ep_46574cb886190e94",
+    "relation_type": "precedes",
+    "reason": "The episode 'Stella and her father navigate the terminal' occurs during scene_38 and involves events leading up to boarding the Mercury shuttle, while 'Encounter Stella and abruptly exit' occurs in scene_40 and involves Ted's interaction with Stella after the main confrontation. The scene numbers indicate a clear narrative sequence, with ep_0bff8bdf7e88e0f9 preceding ep_46574cb886190e94.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_07e448b00147",
+    "subject_id": "ep_624a6080a2f452ae",
+    "object_id": "ep_daf1252b6c3295e5",
+    "relation_type": "precedes",
+    "reason": "Elaine delivers devastating news to Ted in his hospital bed, which emotionally severs their relationship; this occurs before the episode where Ted is publicly detained and discredited during the rocket engine test, suggesting a narrative sequence where personal betrayal precedes institutional neutralization. The hospital setting (scene_44) likely follows the test operation (scene_40) in production order, but the narrative causality and emotional progression imply that Elaine's revelation happens after Ted's outburst, yet the episode descriptions position Elaine's decision as a consequence of Ted's prior behavior, making the temporal order ambiguous. However, the scene numbers (scene_40 before scene_44) and the fact that Simon's signal triggers the detention suggest that the detention episode (scene_40) precedes the hospital confrontation (scene_44). Therefore, the correct order is object precedes subject, but since the relation must be directed and the schema requires subject -> object, and the subject episode cannot precede the object episode given scene numbering and causal setup, the only justifiable directed relation is that the object episode precedes the subject episode. But as the relation_type 'precedes' must be evaluated as subject -> object, and that direction is not supported, the relation cannot be confidently assigned. Thus, despite strong evidence of sequence, the directionality cannot be resolved per schema requirements, leading to a fallback. However, upon re-evaluation, the description of Elaine leaving due to Ted's refusal to accept reality implies that his outburst (in scene_40) has already occurred, making ep_daf1252b6c3295e5 the earlier event. Therefore, ep_624a6080a2f452ae (Elaine's departure) happens after, meaning the object episode precedes the subject episode. Since the relation_type 'precedes' is directed and we are evaluating subject -> object, and the subject does not precede the object, the correct output cannot be 'precedes' in this direction. No other relation type fits. Hence, after careful analysis, the only defensible conclusion is that the temporal order is established but in the reverse direction, so the directed relation 'precedes' cannot be applied from subject to object. Therefore, no valid directed relation can be asserted from subject to object, and no symmetric or other relation is supported. Final decision: NONE. But wait — the scene numbers (scene_40 before scene_44) and narrative logic confirm that the detention (ep_daf1252b6c3295e5) happens before the hospital bed conversation (ep_624a6080a2f452ae). Thus, if we are to assign a relation from subject to object, and the subject is ep_624a6080a2f452ae, which occurs later, it cannot precede the object. Therefore, 'precedes' is invalid. Does the later episode elaborate on the earlier? No — the hospital scene does not explain the detention. Does it contrast? Possibly — the intimate betrayal contrasts with the public discrediting — both involve Elaine and Ted's downfall, but one is public and forceful, the other private and emotional. The tone and setting contrast sharply: public spectacle vs. private confession. Both episodes depict turning points in Ted's isolation — one through institutional force, the other through personal abandonment. This juxtaposition emphasizes a reversal in Elaine's role: from protester to collaborator. Thus, 'contrasts_with' is symmetric and fits: the public detention with Elaine pleading, versus the private moment where she abandons him, aligning with Simon. This contrast in setting, tone, and Elaine's shifting allegiance is supported. Confidence: 0.75.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_40_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e82349f60296",
+    "subject_id": "ep_a3eb2c8fd63a97db",
+    "object_id": "ep_b4c6e3661b4410e6",
+    "relation_type": "precedes",
+    "reason": "The confrontation between Ted and Elaine (ep_a3eb2c8fd63a97db) occurs in scene_44 at the Ronald Reagan Institute, while Simon dismissing Ted and separating from him (ep_b4c6e3661b4410e6) occurs in scene_39 at the Mercury Mission Pre-Launch Gathering. Scene numbers indicate that the object episode (scene_39) precedes the subject episode (scene_44), so the correct temporal order is object -> subject. However, since the relation 'precedes' is directed and the subject is ep_a3eb2c8fd63a97db and the object is ep_b4c6e3661b4410e6, and the subject occurs later, the relation ep_a3eb2c8fd63a97db precedes ep_b4c6e3661b4410e6 is not valid. Therefore, the reverse temporal order is supported, but the schema requires directionality alignment. Since the relation must be directed and the subject does not precede the object, the only justifiable conclusion is that the subject episode does not precede the object. Given the scene numbering (39 before 44), the object episode precedes the subject, but the required direction (subject -> object) is not supported. Thus, no valid directed 'precedes' relation exists in the subject->object direction. No other relation type is supported. Therefore, the correct output is NONE.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4f81aeb6795b",
+    "subject_id": "ep_33e9aa5d98f723a7",
+    "object_id": "ep_5e32bf8787c2ca5b",
+    "relation_type": "precedes",
+    "reason": "The subject episode occurs during scene_41, while the object episode occurs during scene_39, and the document order (doc_40 vs doc_38) and scene numbering indicate that Elaine resisting Ted's emotional appeal happens after the group walk and confrontation about his escape. Therefore, the object episode precedes the subject episode. However, since the relation type 'precedes' is directed and the subject is earlier than the object, the correct direction is object -> subject. But given the schema requires subject -> object direction unless supported, and the reverse is true, no directed 'precedes' relation can be validly asserted from subject to object. Thus, the correct output is 'NONE' due to directionality mismatch. Wait — correction: scene_39 (object) occurs before scene_41 (subject), so ep_5e32bf8787c2ca5b precedes ep_33e9aa5d98f723a7. But the subject is ep_33e9aa5d98f723a7 and object is ep_5e32bf8787c2ca5b, so subject occurs after object. Therefore, 'precedes' cannot be asserted from subject to object. No other relation is supported. Hence, 'NONE' is required. However, reconsider: if we interpret 'precedes' as subject precedes object, it would be false. But if the narrative order is clear, and we are allowed to infer temporal order, then the object episode (scene_39) precedes the subject (scene_41), so the subject does not precede the object. Thus, 'precedes' in subject->object direction is false. No evidence for causation, contrast, or elaboration. Therefore, no valid relation can be asserted from subject to object. Final decision: NONE.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_39_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_32338fac67a3",
+    "subject_id": "ep_75f71b7fcbb71113",
+    "object_id": "ep_9b597ba74fba5998",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Ted rejects Elaine's farewell and suffers electro-shock' occurs in scene_44, while the object episode 'React to Elaine's departure with a flashback' occurs in scene_43. Despite the emotional continuity, the scene numbering indicates that the flashback precedes the electro-shock event. Therefore, the object episode precedes the subject episode. However, since the relation_type 'precedes' is directed and the subject is ep_75f71b7fcbb71113, which comes later, the correct directional assignment is that the object precedes the subject. But per schema usage, we assign the relation only if subject -> object is supported. Since the subject does not precede the object, and no other relation is justified, the correct output is 'NONE'—but this contradicts the scene order interpretation. Re-evaluating: if we strictly follow the narrative order implied by scene numbers, ep_9b597ba74fba5998 (scene_43) precedes ep_75f71b7fcbb71113 (scene_44). Thus, if the subject is ep_75f71b7fcbb71113 and the object is ep_9b597ba74fba5998, then subject does NOT precede object. No other relation is supported: no causal link is stated, no contrast is described, and no elaboration is indicated. Therefore, despite the chronological proximity, the directionality of 'precedes' cannot be satisfied as subject -> object, and no reverse-direction relations are allowed in the schema. Hence, no valid directed relation exists from subject to object. Final decision: NONE. But wait—scene_43 occurs before scene_44, so ep_9b597ba74fba5998 precedes ep_75f71b7fcbb71113. That means the object precedes the subject. But the relation 'precedes' requires subject -> object to mean subject occurs before object. Here, subject occurs after object. So 'precedes' does not hold. No other relation is supported: 'causes' lacks explicit causal language; 'contrasts_with' lacks juxtaposition evidence; 'elaborates' lacks explanatory expansion. Therefore, no valid relation can be asserted from subject to object. However, the description of ep_9b597ba74fba5998 says it occurs 'after Elaine leaves', and ep_75f71b7fcbb71113 includes Elaine attempting to leave—so the rejection and shock must occur before she fully leaves, placing ep_75f71b7fcbb71113 before ep_9b597ba74fba5998. But scene_44 (subject) is after scene_43 (object), which contradicts the narrative logic. This inconsistency cannot be resolved. Given that scene_43 is before scene_44, and ep_9b597ba74fba5998 is in scene_43, it precedes ep_75f71b7fcbb71113 in scene_44. Therefore, the object episode precedes the subject episode. Since the relation 'precedes' is directed and we are evaluating subject -> object, and the subject does not precede the object, the relation cannot be 'precedes'. No other relation is supported. Final decision: NONE. But reconsider: the description of ep_9b597ba74fba5998 says 'after Elaine leaves', and in ep_75f71b7fcbb71113, Elaine is still present and activates the shock. So Elaine leaves after the shock. Therefore, the flashback (ep_9b597ba74fba5998) must occur after Elaine leaves, which is after ep_75f71b7fcbb71113. But it is placed in scene_43, which is before scene_44. This is a contradiction. Given this conflict between scene order and narrative logic, we cannot reliably infer temporal order. Therefore, we cannot assert 'precedes'. No other relation is supported. Thus, confidence in any relation is low. Output: NONE.",
+    "source_documents": [
+      "scene_44_part_1",
+      "scene_43_part_1"
+    ],
+    "confidence": 0.85
+  }
+]

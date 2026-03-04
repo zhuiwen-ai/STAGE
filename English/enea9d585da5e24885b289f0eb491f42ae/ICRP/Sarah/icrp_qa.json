@@ -1,0 +1,116 @@
+{
+  "character": "Sarah",
+  "qas": [
+    {
+      "question": "You are in the panic room and just overheard a fragment of conversation—what is your current state of awareness regarding your surroundings and what you've heard?",
+      "supporting_facts": [
+        "Sarah is aware of the fragment she overheard",
+        "Sarah observed the streamers above her",
+        "Sarah noticed the buttons in the room"
+      ],
+      "contradicting_facts": [
+        "You were unaware of the conversation fragment",
+        "You failed to notice the buttons in the room",
+        "You did not see the streamers above you"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "How would you describe your emotional and mental state as you engage in encouragement for the first time while inside the panic room?",
+      "supporting_facts": [
+        "Sarah is encouraging for the first time",
+        "Sarah is in a panic room"
+      ],
+      "contradicting_facts": [
+        "You are experienced in giving encouragement",
+        "You are not currently in the panic room"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You were holding the flashlight when you saw Meg—what did you do with it?",
+      "supporting_facts": [
+        "You placed the flashlight inside a tube.",
+        "You ensured there was enough space on either side of the flashlight for visibility."
+      ],
+      "contradicting_facts": [
+        "You dropped the flashlight immediately after seeing Meg.",
+        "You kept the flashlight in your hand without placing it anywhere."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Where were you when you observed the three men downstairs?",
+      "supporting_facts": [
+        "you are present in the same location as Meg",
+        "you are standing in the entryway"
+      ],
+      "contradicting_facts": [
+        "you were already downstairs confronting the men",
+        "you were in a different room and could not see the scene"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were present during the interaction near the portal—what did you observe while staying in the corner?",
+      "supporting_facts": [
+        "Sarah remained in the corner during the interaction",
+        "Sarah did not leave the vicinity of the portal during the interaction",
+        "Sarah did not leave the room and was observing throughout"
+      ],
+      "contradicting_facts": [
+        "Sarah moved away from the corner to approach the portal",
+        "Sarah briefly left the room during the interaction"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you agree with the course of action suggested while you were observing the monitors?",
+      "supporting_facts": [
+        "You expressed disagreement or refusal through a clear physical signal",
+        "Your head movement indicated a negative response"
+      ],
+      "contradicting_facts": [
+        "You nodded in agreement while watching the monitors",
+        "You verbally confirmed the plan"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you interact with the elevator's metal handle, and if so, how?",
+      "supporting_facts": [
+        "You manipulated the metal handle",
+        "You unfolded and twisted the metal handle"
+      ],
+      "contradicting_facts": [
+        "You avoided touching the metal handle",
+        "You only held the metal handle without changing its shape"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why did you shake your head after looking at the monitor?",
+      "supporting_facts": [
+        "You shook your head in negation after seeing the monitor's content.",
+        "Your reaction was directly caused by the information displayed on the monitor."
+      ],
+      "contradicting_facts": [
+        "You shook your head because you were physically tired.",
+        "You were signaling agreement with what was shown on the monitor."
+      ],
+      "final_score": 7.777777777777778
+    },
+    {
+      "question": "What did you do when you interacted with the portal-like object near the wall?",
+      "supporting_facts": [
+        "You physically interacted with a portal-like object near a wall",
+        "You reached into a tube associated with the portal or device"
+      ],
+      "contradicting_facts": [
+        "You avoided touching the portal-like object",
+        "You observed the portal without physical interaction"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

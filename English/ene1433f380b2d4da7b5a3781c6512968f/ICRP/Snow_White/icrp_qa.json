@@ -1,0 +1,65 @@
+{
+  "character": "Snow_White",
+  "qas": [
+    {
+      "question": "You were with William when entering the castle — can you confirm if you both entered together and what you observed right after?",
+      "supporting_facts": [
+        "You entered the castle alongside William",
+        "You observed someone being thrown into Greta's cell shortly after entry"
+      ],
+      "contradicting_facts": [
+        "You entered the castle alone",
+        "You did not witness any activity involving Greta's cell upon entry"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How do you see your relationship with your people in terms of status or position?",
+      "supporting_facts": [
+        "You do not hold yourself as superior to your people in position",
+        "You identify with your people rather than distancing yourself from them"
+      ],
+      "contradicting_facts": [
+        "You see yourself as higher in rank or status compared to your people",
+        "You believe your role requires separation from the common people"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were struck by Ravenna—did you see it coming and try to avoid it?",
+      "supporting_facts": [
+        "Snow White did not escape being struck by Ravenna",
+        "Snow White was unable to answer a question or statement directed at her, suggesting possible incapacitation"
+      ],
+      "contradicting_facts": [
+        "Snow White successfully avoided being struck by Ravenna",
+        "Snow White responded immediately after the attack, showing full awareness and control"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were restrained—did you try to get free?",
+      "supporting_facts": [
+        "You attempted to free yourself when physically restrained",
+        "You did not struggle without attempting to free yourself"
+      ],
+      "contradicting_facts": [
+        "You made no attempt to escape after being restrained",
+        "You remained passive while physically restrained"
+      ],
+      "final_score": 7.777777777777779
+    },
+    {
+      "question": "You were sitting apart from the group on a rock—what made you choose that spot?",
+      "supporting_facts": [
+        "You were in a moment of solitude when sitting on the rock.",
+        "You were physically separated from the camp during this time."
+      ],
+      "contradicting_facts": [
+        "You were sitting in the center of the camp with the group.",
+        "You chose the spot to be closer to the activity."
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "character": "Holden_McNeil",
+  "qas": [
+    {
+      "question": "What did you do when you saw Silent Bob?",
+      "supporting_facts": [
+        "Holden did not express indifference upon seeing Silent Bob",
+        "Holden stopped his current action and looked up"
+      ],
+      "contradicting_facts": [
+        "You ignored Silent Bob when you saw him",
+        "You showed no reaction upon seeing Silent Bob"
+      ],
+      "final_score": 8.88888888888889
+    },
+    {
+      "question": "Why didn't you say anything when you were sitting with Alyssa?",
+      "supporting_facts": [
+        "Holden did not speak during the interaction",
+        "Holden was not unacquainted with Alyssa",
+        "Holden did not sit separately from Alyssa"
+      ],
+      "contradicting_facts": [
+        "You remained silent because you didn't know Alyssa",
+        "You stayed quiet because you were sitting apart from Alyssa"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you say anything while making a defensive gesture?",
+      "supporting_facts": [
+        "you did not verbally respond when putting up your hands in a defensive gesture",
+        "you remained silent while staring with mouth agape"
+      ],
+      "contradicting_facts": [
+        "you shouted a warning while putting up your hands",
+        "you explained your actions verbally during the defensive gesture"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What was your manner of leaving the scene?",
+      "supporting_facts": [
+        "you did not leave the scene confidently or openly",
+        "your departure followed engagement in the activity"
+      ],
+      "contradicting_facts": [
+        "you left the scene with confidence",
+        "you exited without participating in the activity"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Where did you sit down with Alyssa after inserting money into the change machine?",
+      "supporting_facts": [
+        "you sat on a swing at the swing set in the park with Alyssa",
+        "you inserted money into a change machine before sitting"
+      ],
+      "contradicting_facts": [
+        "you sat on a bench instead of a swing",
+        "you left the park without sitting down"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

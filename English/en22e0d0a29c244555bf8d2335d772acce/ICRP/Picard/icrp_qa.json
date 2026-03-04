@@ -1,0 +1,79 @@
+{
+  "character": "Picard",
+  "qas": [
+    {
+      "question": "Why did you allocate all available power to moving the ship away from the Scimitar without consulting your senior officers?",
+      "supporting_facts": [
+        "You made the decision to use all available power to move away from the Scimitar independently.",
+        "You did not seek approval from Riker or Deanna before taking this action.",
+        "You prioritized immediate evasive action over command consultation."
+      ],
+      "contradicting_facts": [
+        "You waited for Riker's approval before redirecting the ship's power systems.",
+        "You believed Deanna needed to confirm the maneuver before execution."
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What did you observe about Shinzon when you first saw him?",
+      "supporting_facts": [
+        "Picard was stunned by the sight of Shinzon's face",
+        "Picard noticed something immediately upon seeing Shinzon"
+      ],
+      "contradicting_facts": [
+        "You remained completely composed when seeing Shinzon's face",
+        "You did not react or notice anything unusual about Shinzon upon first sight"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were in command during the engagement with the Remans—what did you do to ensure the security of the ship?",
+      "supporting_facts": [
+        "You personally kept the Remans at bay",
+        "You successfully stunned Remans during the engagement",
+        "You did not delegate the tactical analysis order to another officer"
+      ],
+      "contradicting_facts": [
+        "You assigned another officer to handle tactical analysis during the engagement",
+        "You allowed the Remans to board critical sections of the ship"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you continue to command the bridge after handing over control to Troi?",
+      "supporting_facts": [
+        "You did not retain command authority after transferring bridge control to Troi.",
+        "You explicitly relinquished ongoing command responsibility at that time."
+      ],
+      "contradicting_facts": [
+        "You remained in overall command while allowing Troi to manage console operations.",
+        "You expected to resume command immediately after the handover."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you initiate a social interaction with Deanna recently?",
+      "supporting_facts": [
+        "You requested a dance with Deanna.",
+        "Requesting a dance constitutes initiating a social interaction."
+      ],
+      "contradicting_facts": [
+        "You avoided or declined interaction with Deanna.",
+        "Deanna was the one who requested the dance from you."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Were you focused on your surroundings when you reached for the carafe?",
+      "supporting_facts": [
+        "You were displaying an intense demeanor at the time of reaching for the carafe.",
+        "You were engaged in observing a star chart, indicating situational awareness."
+      ],
+      "contradicting_facts": [
+        "You were distracted and not paying attention when reaching for the carafe.",
+        "Your demeanor was relaxed when you reached for the water."
+      ],
+      "final_score": 7.777777777777778
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "character": "Ron",
+  "qas": [
+    {
+      "question": "You were handling electronic equipment—can you describe what you did with the camera and TV?",
+      "supporting_facts": [
+        "You connected the camera to Kale's TV using wires",
+        "You did not avoid interacting with electronic equipment"
+      ],
+      "contradicting_facts": [
+        "You refused to touch any electronic devices",
+        "You left the camera disconnected from the TV"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you retain possession of the binoculars after taking them back?",
+      "supporting_facts": [
+        "You reacquired the binoculars by grabbing them back",
+        "You had physical control of the binoculars after the action"
+      ],
+      "contradicting_facts": [
+        "You immediately dropped the binoculars after grabbing them",
+        "You handed the binoculars to someone else right after reclaiming them"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you stay in the room after the interaction with Kale?",
+      "supporting_facts": [
+        "you exited the room at some point",
+        "your presence in the room ended before Kale's control of the DV CAM"
+      ],
+      "contradicting_facts": [
+        "you remained in the room throughout the entire event",
+        "you were still in the room when Kale attempted to use the DV CAM"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you completely dismiss the idea that Ashley might have been involved?",
+      "supporting_facts": [
+        "You acknowledged the possibility that Ashley might have done something",
+        "You did not fully reject Ashley's potential involvement"
+      ],
+      "contradicting_facts": [
+        "You dismissed any possibility of Ashley's involvement",
+        "You refused to consider Ashley as having any role"
+      ],
+      "final_score": 7.777777777777778
+    },
+    {
+      "question": "Did you open the passenger door yourself, and if so, how?",
+      "supporting_facts": [
+        "Ron lifted the passenger door latch",
+        "Lifting the latch is a necessary action to open the passenger door"
+      ],
+      "contradicting_facts": [
+        "The passenger door opened without manual intervention",
+        "You used the handle instead of the latch to open the door"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

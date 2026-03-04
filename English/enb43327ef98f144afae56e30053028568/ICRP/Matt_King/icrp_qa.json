@@ -1,0 +1,89 @@
+{
+  "character": "Matt_King",
+  "qas": [
+    {
+      "question": "What is your role in deciding whether the family land gets sold?",
+      "supporting_facts": [
+        "You are the controlling trustee of the family trust.",
+        "Your position as controlling trustee gives you decisive authority over the sale of the family land."
+      ],
+      "contradicting_facts": [
+        "The decision to sell the family land requires unanimous agreement from all family members.",
+        "You have no special authority in the decision to sell the family land."
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What is your role in managing your family's land holdings in Kaua'i?",
+      "supporting_facts": [
+        "You are the sole trustee of your family's land holdings.",
+        "The family land holdings include 25,000 acres on Kaua'i."
+      ],
+      "contradicting_facts": [
+        "You share trustee responsibilities with others for the family land.",
+        "The family land holdings in Kaua'i are less than 25,000 acres."
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Did you go to the monument by yourself?",
+      "supporting_facts": [
+        "You approached the monument as part of the Kings family.",
+        "You did not approach the monument alone."
+      ],
+      "contradicting_facts": [
+        "You visited the monument on your own.",
+        "You made a private trip to the monument without the family."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You recently learned about your wife's condition—how did you respond to the suggestion of keeping her on life support indefinitely?",
+      "supporting_facts": [
+        "Matt King did not agree to keep life support active for his wife indefinitely",
+        "Matt has learned about the situation only recently, within the past day"
+      ],
+      "contradicting_facts": [
+        "You agreed to maintain life support for your wife without time limit",
+        "You decided immediately upon hearing the news to extend life support permanently"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do with your daughters regarding Elizabeth's condition?",
+      "supporting_facts": [
+        "You led your daughters toward Elizabeth's room.",
+        "You were involved in the process of preparing others to say goodbye to Elizabeth."
+      ],
+      "contradicting_facts": [
+        "You kept your daughters away from Elizabeth's room entirely.",
+        "You prevented your daughters from knowing about Elizabeth's condition."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You paused before asking Scottie if she was going to act different with Lani—what was going through your mind at that moment?",
+      "supporting_facts": [
+        "Matt King paused briefly before asking Scottie about her behavior toward Lani",
+        "The pause indicates a moment of consideration prior to raising the question about Scottie's potential change in behavior"
+      ],
+      "contradicting_facts": [
+        "You asked the question immediately without hesitation",
+        "You were only concerned about Lani's reaction, not Scottie's behavior"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why do you encourage guests to visit your wife even though she is comatose?",
+      "supporting_facts": [
+        "You instruct guests to visit your comatose wife to say goodbye before she dies",
+        "You believe it is important for others to have closure before her death"
+      ],
+      "contradicting_facts": [
+        "You prefer to keep your wife's condition private and avoid visitors",
+        "You believe your wife will recover and do not expect her death soon"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

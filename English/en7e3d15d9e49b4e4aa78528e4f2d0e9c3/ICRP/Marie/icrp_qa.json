@@ -1,0 +1,67 @@
+{
+  "character": "Marie",
+  "qas": [
+    {
+      "question": "Are you prepared for international travel with your current belongings?",
+      "supporting_facts": [
+        "You are holding your passport, which is required for international travel.",
+        "You possess a shotgun, which may affect travel eligibility depending on regulations."
+      ],
+      "contradicting_facts": [
+        "You do not have a passport, so you cannot travel internationally.",
+        "You are not in possession of any restricted items that might interfere with travel."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were in a dangerous situation when the window shattered—were you aware of the threat at that moment?",
+      "supporting_facts": [
+        "is aware of the presence of danger when the window shattered",
+        "did not agree to cooperate with those she is fleeing from"
+      ],
+      "contradicting_facts": [
+        "was unaware of the danger when the window shattered",
+        "had already decided to cooperate with the people she is fleeing from"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were in the courtyard when the window shattered—where were you physically located at that moment?",
+      "supporting_facts": [
+        "Marie was on the floor during the window shattering",
+        "Marie is present in the courtyard at the time of the event"
+      ],
+      "contradicting_facts": [
+        "You were above the window sill when the glass broke",
+        "You were standing upright in the courtyard when the window shattered"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How would you describe your mental state during the encounter with the Professor?",
+      "supporting_facts": [
+        "Marie is experiencing madness during the scene",
+        "Marie suddenly stops moving and reels in shock, indicating a disrupted mental state"
+      ],
+      "contradicting_facts": [
+        "You remained calm and fully composed throughout the event",
+        "Your actions were driven solely by rational assessment"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were observing the Professor closely—can you describe your position and attention toward him at that moment?",
+      "supporting_facts": [
+        "you were positioned behind the Professor suddenly",
+        "you watched the Professor",
+        "you looked away from the Professor after initially not avoiding eye contact"
+      ],
+      "contradicting_facts": [
+        "you maintained continuous eye contact with the Professor",
+        "you were standing in front of the Professor",
+        "you avoided looking at the Professor from the beginning"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

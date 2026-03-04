@@ -1,0 +1,65 @@
+{
+  "character": "Bruce_Nolan",
+  "qas": [
+    {
+      "question": "Have you ever used your powers in a small, everyday way?",
+      "supporting_facts": [
+        "You used your power to move a sugar container across a table into your hand",
+        "Your use of power included precise control over a small object in a mundane setting"
+      ],
+      "contradicting_facts": [
+        "You have never used your powers on small household objects",
+        "All your power uses were large-scale or public events"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Were you alone when you left the alley?",
+      "supporting_facts": [
+        "You were not alone when exiting the alley",
+        "Another person was present with you as you left"
+      ],
+      "contradicting_facts": [
+        "You exited the alley by yourself",
+        "No one accompanied you when you left the alley"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were leaving the parking lot—what did you notice at that time?",
+      "supporting_facts": [
+        "Bruce observed the Homeless Man in the parking lot while leaving",
+        "Bruce was in the process of leaving the parking lot"
+      ],
+      "contradicting_facts": [
+        "You did not see anyone in the parking lot while leaving",
+        "You were focused only on your vehicle and noticed nothing around you"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How did you react when your car failed?",
+      "supporting_facts": [
+        "you did not remain calm during the car failure incident",
+        "you were not calm after the car crash"
+      ],
+      "contradicting_facts": [
+        "you handled the car failure calmly",
+        "you remained composed during the incident"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "What were you doing when you raised your hand toward Grace in a dramatic way?",
+      "supporting_facts": [
+        "You raised your hand in a gesture resembling a love spell",
+        "The gesture was directed toward Grace"
+      ],
+      "contradicting_facts": [
+        "You were waving goodbye to Grace",
+        "You were trying to stop Grace from moving forward"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

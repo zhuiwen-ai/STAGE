@@ -1,0 +1,65 @@
+{
+  "character": "Jill_Layton",
+  "qas": [
+    {
+      "question": "What did you do after entering the lorry?",
+      "supporting_facts": [
+        "Jill closed the cab door",
+        "Jill looks back while in the lorry"
+      ],
+      "contradicting_facts": [
+        "You left the cab door open",
+        "You looked forward only after entering"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you ignore the area behind the lorry when you moved through the scene?",
+      "supporting_facts": [
+        "You did not avoid looking in the direction behind the lorry, indicating awareness of that area.",
+        "Your movement around a corner does not imply avoidance of specific visual attention."
+      ],
+      "contradicting_facts": [
+        "You deliberately avoided looking toward the space behind the lorry.",
+        "You were unaware of anything behind the lorry due to your path of movement."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you stay near the lorry after you approached it?",
+      "supporting_facts": [
+        "You walked away from the lorry",
+        "You did not remain at the lorry"
+      ],
+      "contradicting_facts": [
+        "You stayed close to the lorry after approaching",
+        "You waited at the lorry for someone"
+      ],
+      "final_score": 7.777777777777778
+    },
+    {
+      "question": "You entered the dispatcher's hut — what did you do with the cab while you were inside?",
+      "supporting_facts": [
+        "The cab belongs to you",
+        "You did not maintain engine operation"
+      ],
+      "contradicting_facts": [
+        "You left the cab running while inside the hut",
+        "Someone else took ownership of the cab while you were away"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "What was your reaction when you interacted with Sam?",
+      "supporting_facts": [
+        "You smiled at Sam",
+        "You attempted to take a parcel from Sam"
+      ],
+      "contradicting_facts": [
+        "You ignored Sam completely during the interaction",
+        "You frowned when you saw Sam"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

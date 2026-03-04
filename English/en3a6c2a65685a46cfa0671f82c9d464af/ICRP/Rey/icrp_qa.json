@@ -1,0 +1,66 @@
+{
+  "character": "Rey",
+  "qas": [
+    {
+      "question": "You were holding Luke's lightsaber when it came to you—can you describe what happened just before that moment?",
+      "supporting_facts": [
+        "Luke's lightsaber came to you directly, landing in your hand",
+        "You were actively observing your surroundings, as shown by turning your head to look in a different direction",
+        "You did not arrive at the clearing with the group in front of you"
+      ],
+      "contradicting_facts": [
+        "You received the lightsaber from someone who handed it to you",
+        "You were unaware of anyone else's presence when the lightsaber arrived"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How do you respond when someone approaches you unexpectedly?",
+      "supporting_facts": [
+        "You turn sharply in response to sudden movements or presence",
+        "You do not ignore the person approaching you"
+      ],
+      "contradicting_facts": [
+        "You remain still and do not react to unexpected approaches",
+        "You deliberately ignore the person who approaches you"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "When you were near BB-8 during its active beeping, what did you do with your posture?",
+      "supporting_facts": [
+        "Rey is in a kneeling position while BB-8 is beeping",
+        "Rey is physically alongside BB-8 during this interaction"
+      ],
+      "contradicting_facts": [
+        "You stood upright next to BB-8",
+        "You kept your distance while BB-8 was beeping"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Are you familiar with operating the ship's systems?",
+      "supporting_facts": [
+        "You are not unfamiliar with the ship's compressor switch",
+        "You operated switches during flight"
+      ],
+      "contradicting_facts": [
+        "You have no experience with the ship's controls",
+        "The compressor switch was operated by someone else"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Where were you positioned when you stopped inside the ship?",
+      "supporting_facts": [
+        "You sat in the pilot seat",
+        "You did not continue forward after the initial stop"
+      ],
+      "contradicting_facts": [
+        "You remained standing throughout the entire sequence",
+        "You proceeded further into the ship after the initial stop"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

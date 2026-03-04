@@ -1,0 +1,115 @@
+{
+  "character": "George",
+  "qas": [
+    {
+      "question": "How would you describe your demeanor during the encounter with Andy in the market?",
+      "supporting_facts": [
+        "you were rattled during the encounter",
+        "you were aware of Andy's presence in the market",
+        "you did not remain silent during the encounter"
+      ],
+      "contradicting_facts": [
+        "you remained calm and composed throughout the encounter",
+        "you were unaware of Andy being present in the market"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You are staring at Andy and reacting with physical discomfort—what about him is affecting you this way?",
+      "supporting_facts": [
+        "George is staring at Andy.",
+        "George reacted with physical discomfort or pain."
+      ],
+      "contradicting_facts": [
+        "George is not looking at Andy.",
+        "George showed no sign of pain or discomfort."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How were you positioned when you spoke to Andy?",
+      "supporting_facts": [
+        "you were seated while interacting with Andy",
+        "you maintained a physical presence near Andy without immediate movement"
+      ],
+      "contradicting_facts": [
+        "you were standing when speaking to Andy",
+        "you kept distance from Andy by stepping away"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Would you say your manner of speaking was intense?",
+      "supporting_facts": [
+        "you expressed yourself in a quietly emphatic manner",
+        "your communication style conveyed urgency without volume"
+      ],
+      "contradicting_facts": [
+        "you spoke in a detached or indifferent tone",
+        "your manner of speaking was calm and understated"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You seemed upset during the discussion with Zmuda—did you try to conceal your reaction from others?",
+      "supporting_facts": [
+        "you did not hide your physical distress from others present",
+        "you are not unaware of the topic discussed with Zmuda"
+      ],
+      "contradicting_facts": [
+        "you concealed your physical state from those present",
+        "you were unaware of what was being discussed with Zmuda"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How are you feeling about the current situation?",
+      "supporting_facts": [
+        "You are experiencing respiratory distress.",
+        "You do not fully understand what is happening around you.",
+        "You are not calm or composed when checking your watch."
+      ],
+      "contradicting_facts": [
+        "You are calm and in control of your breathing.",
+        "You have a clear understanding of the current situation."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you stay seated and calm at your desk when you became agitated?",
+      "supporting_facts": [
+        "you did not remain still during your agitated state",
+        "you did not remain seated at your desk"
+      ],
+      "contradicting_facts": [
+        "you remained seated at your desk during the agitation",
+        "you remained physically still while agitated"
+      ],
+      "final_score": 7.222222222222222
+    },
+    {
+      "question": "Are you aware of Andy being in the room during the meeting with the network suits?",
+      "supporting_facts": [
+        "You are aware of Andy's presence",
+        "You are seated across from the network suits, a setting where Andy is also present"
+      ],
+      "contradicting_facts": [
+        "You were unaware of Andy's presence during the meeting",
+        "You only noticed Andy after the meeting ended"
+      ],
+      "final_score": 7.222222222222222
+    },
+    {
+      "question": "How do you react when you hear the network suits' proposal?",
+      "supporting_facts": [
+        "You frown, indicating disapproval or concern",
+        "You raise an eyebrow, signaling skepticism or curiosity about the proposal"
+      ],
+      "contradicting_facts": [
+        "You smiled in approval of the network suits' proposal",
+        "You showed no facial reaction to the proposal"
+      ],
+      "final_score": 7.222222222222222
+    }
+  ]
+}

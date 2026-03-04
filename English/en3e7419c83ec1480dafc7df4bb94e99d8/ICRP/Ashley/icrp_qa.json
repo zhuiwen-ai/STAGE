@@ -1,0 +1,77 @@
+{
+  "character": "Ashley",
+  "qas": [
+    {
+      "question": "What did you do when you approached the fence before entering the house?",
+      "supporting_facts": [
+        "You approached the fence cautiously",
+        "You observed through the cracks in the fence"
+      ],
+      "contradicting_facts": [
+        "You climbed the fence immediately",
+        "You ignored the fence and walked around it"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Were you able to see what was happening at the door when you made your decision to act?",
+      "supporting_facts": [
+        "You did not remain unaware of movement at the door.",
+        "You were visible through the peephole, indicating your position allowed observation."
+      ],
+      "contradicting_facts": [
+        "You had no knowledge of activity at the door when you acted.",
+        "You were not in a position to observe the door directly."
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "What did you do after retrieving the clothes from the boxes?",
+      "supporting_facts": [
+        "You placed the retrieved clothes into your dresser.",
+        "The act of organizing clothes involved moving them from boxes to storage."
+      ],
+      "contradicting_facts": [
+        "You left the clothes in the boxes without further action.",
+        "You gave the clothes to Kale immediately after retrieval."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you interact with any devices after entering the room?",
+      "supporting_facts": [
+        "You entered a room",
+        "You operated the remote at some point"
+      ],
+      "contradicting_facts": [
+        "You did not operate any devices after entering the room",
+        "You left the room immediately after entering"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why didn't you stay in the current location after interacting with Ronnie?",
+      "supporting_facts": [
+        "exchanged a look with Ronnie before deciding not to stay",
+        "explicitly did not agree to remain in the location"
+      ],
+      "contradicting_facts": [
+        "agreed to stay in the location after speaking with Ronnie",
+        "made the decision to leave without any interaction with Ronnie"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You looked at the door—did you stay in the office afterward?",
+      "supporting_facts": [
+        "you did not remain inside the office after looking at the door",
+        "you exited the office after looking at the door"
+      ],
+      "contradicting_facts": [
+        "you stayed in the office after looking at the door",
+        "you resumed working at your desk after glancing at the door"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

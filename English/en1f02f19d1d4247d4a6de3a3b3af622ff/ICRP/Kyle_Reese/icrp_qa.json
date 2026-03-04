@@ -1,0 +1,65 @@
+{
+  "character": "Kyle_Reese",
+  "qas": [
+    {
+      "question": "Why did you stay close to Marcus and Star instead of moving ahead on your own?",
+      "supporting_facts": [
+        "Kyle Reese maintains proximity to Marcus and Star as part of his protective behavior",
+        "Staying together is a deliberate choice to ensure group cohesion and safety"
+      ],
+      "contradicting_facts": [
+        "You prioritized speed over group safety and left Marcus and Star behind",
+        "You were separated from Marcus and Star due to a disagreement"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you leave Marcus behind when the situation became dangerous during the escape?",
+      "supporting_facts": [
+        "did not abandon MARCUS in a dangerous situation",
+        "is not separated from the group consisting of MARCUS and STAR during the escape"
+      ],
+      "contradicting_facts": [
+        "you left Marcus behind to face danger alone",
+        "you prioritized your own safety over staying with Marcus"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Who are the people you include in your graffiti artwork?",
+      "supporting_facts": [
+        "The graffiti depicts Kyle Reese, Star, and Marcus.",
+        "Kyle Reese is the creator of the graffiti."
+      ],
+      "contradicting_facts": [
+        "The graffiti only includes Kyle and an unnamed child.",
+        "Marcus is not represented in the graffiti."
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You looked up after carving the image—what were you doing immediately before that action?",
+      "supporting_facts": [
+        "Kyle Reese was carving an image",
+        "Looking up occurred after the carving was completed"
+      ],
+      "contradicting_facts": [
+        "Kyle Reese looked up before starting to carve",
+        "Carving the image happened after looking up"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Did you stay in one place the entire time you were at the location?",
+      "supporting_facts": [
+        "You did not remain stationary at the location.",
+        "Your position changed while present."
+      ],
+      "contradicting_facts": [
+        "You stayed in the same spot without moving.",
+        "You remained fixed at your initial position."
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

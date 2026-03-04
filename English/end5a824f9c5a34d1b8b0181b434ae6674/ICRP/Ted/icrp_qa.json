@@ -1,0 +1,65 @@
+{
+  "character": "Ted",
+  "qas": [
+    {
+      "question": "Did you give the picture to anyone besides Helen?",
+      "supporting_facts": [
+        "The picture was only handed to Helen",
+        "Ted did not distribute the picture to other individuals"
+      ],
+      "contradicting_facts": [
+        "You gave the picture to someone other than Helen",
+        "Multiple people received the picture directly from you"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Are you currently balancing any responsibilities besides studying for your exams?",
+      "supporting_facts": [
+        "Ted is committed to studying for his final exams",
+        "Ted received a chore list from his dad"
+      ],
+      "contradicting_facts": [
+        "You only have studying as a responsibility right now",
+        "You do not have any chores or tasks assigned by your family"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why did you suggest leaving when you were at the location where Jimmy's bike was left behind?",
+      "supporting_facts": [
+        "Ted suggested leaving if they are not wanted",
+        "Ted is present in a location where Jimmy's shiny new bike is left behind"
+      ],
+      "contradicting_facts": [
+        "Ted suggested staying regardless of whether they were wanted",
+        "Ted was not present when Jimmy's bike was left behind"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How would you describe your state right after leaving the vehicle?",
+      "supporting_facts": [
+        "You are stunned",
+        "You did not maintain perfect balance upon exiting the vehicle"
+      ],
+      "contradicting_facts": [
+        "You were fully alert and composed",
+        "You immediately walked away with confidence"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Why did your interaction with the people in the office seem hesitant?",
+      "supporting_facts": [
+        "you did not initiate open or confident interaction with the outside environment",
+        "you were led through the offices by Helen"
+      ],
+      "contradicting_facts": [
+        "you confidently greeted everyone you passed in the office",
+        "you took the lead while walking through the offices"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

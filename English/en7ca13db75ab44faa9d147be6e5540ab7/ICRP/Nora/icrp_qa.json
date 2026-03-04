@@ -1,0 +1,65 @@
+{
+  "character": "Nora",
+  "qas": [
+    {
+      "question": "Did you allow Randolph to stay on your couch?",
+      "supporting_facts": [
+        "You did not agree to let Randolph remain on your couch",
+        "Your decision regarding Randolph's stay was explicitly negative"
+      ],
+      "contradicting_facts": [
+        "You permitted Randolph to stay on your couch",
+        "You welcomed Randolph to use the couch indefinitely"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "How did you respond physically when confronted by Randolph, and what did you do afterward in terms of collaboration?",
+      "supporting_facts": [
+        "You punched Randolph in the jaw",
+        "You did not agree to cooperate with Randolph following the assault"
+      ],
+      "contradicting_facts": [
+        "You avoided physical confrontation with Randolph",
+        "You agreed to work with Randolph after the incident"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You were moving down Broadway after leaving the Kidnet building—what was happening with your physical state at that time?",
+      "supporting_facts": [
+        "You were not standing perfectly steady while moving down Broadway",
+        "You were in motion after departing the Kidnet building"
+      ],
+      "contradicting_facts": [
+        "You were standing perfectly still or steady during your movement down Broadway",
+        "You had not yet left the Kidnet building when moving down Broadway"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Where did you go after entering the scene?",
+      "supporting_facts": [
+        "Nora arrived after the scene began",
+        "Nora went to the bar"
+      ],
+      "contradicting_facts": [
+        "You stayed near the entrance after arriving",
+        "You approached Sheldon directly after entering"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "You saw what happened during the incident involving Merv Green—what makes you certain about his involvement?",
+      "supporting_facts": [
+        "Nora witnessed a tragic event",
+        "Nora is not unaware of the incident with Merv Green"
+      ],
+      "contradicting_facts": [
+        "You were not present during the incident with Merv Green",
+        "You only heard about Merv Green's involvement secondhand"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

@@ -1,0 +1,1905 @@
+[
+  {
+    "id": "rel_ep_ep_fef7c8c57da5",
+    "subject_id": "ep_ca543271c6708b8d",
+    "object_id": "ep_08e3911a323d6d1d",
+    "relation_type": "precedes",
+    "reason": "The exchange of bullets and expression of gratitude occurs before the sudden approach of the car and the urgent instruction to hide, as the calm, deliberate interaction in the first episode is interrupted by the threat in the second, indicating a clear temporal sequence within scene_20.",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_580d0626d98c",
+    "subject_id": "ep_a2470620e755925a",
+    "object_id": "ep_24fb2ab95276f0de",
+    "relation_type": "causes",
+    "reason": "The arrival of survivors introduces a humanitarian crisis and immediate strain on resources, which directly prompts Tuvia to plan securing supplies and weapons. The description of the second episode explicitly states it centers on the 'immediate logistical response' to the survivors' needs, indicating a causal link from the response to the planning episode.",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_063ae500fac1",
+    "subject_id": "ep_6623e1afe227b263",
+    "object_id": "ep_e127bc429e1cf12b",
+    "relation_type": "precedes",
+    "reason": "The confrontation about Tuvia's return and plans occurs before Tuvia inquires about missing family members, as the initial exchange establishes the context for the subsequent inquiry, with both episodes occurring in the same scene (scene_13) and the logical flow suggesting a sequence where questioning intentions precedes seeking family updates.",
+    "source_documents": [
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4b97a4c9a5fe",
+    "subject_id": "ep_33b4b21f654bf017",
+    "object_id": "ep_6fc24075023940e0",
+    "relation_type": "causes",
+    "reason": "The physical threat and emotional confrontation in the subject episode, where Tuvia forces the Police Captain to kneel and invokes his murdered family, directly triggers the object episode in which resistance from the family and the Captain leads to immediate lethal force. The escalation from threat to execution is causally linked by the narrative progression of resistance under duress.",
+    "source_documents": [
+      "scene_33__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_822841566639",
+    "subject_id": "ep_2ddd00ce977db3fc",
+    "object_id": "ep_3fd152dcf2222e8d",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts escalating tension and hostility among the brothers due to food scarcity, culminating in a hostile glare between Tuvia and Zus. The second episode shows a moment of shared laughter and familial bonding over stolen food, despite grief. These episodes are juxtaposed in tone—one of conflict and scarcity, the other of levity and connection—supporting a contrast relation.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_b55e7af047f6",
+    "subject_id": "ep_a3acb6e44c36019f",
+    "object_id": "ep_0dcf37bfac3f3346",
+    "relation_type": "precedes",
+    "reason": "The episode 'Zus raises concerns about group mobility' includes Tuvia proposing to leave others behind as a diversion, which is then further developed and finalized in the subsequent episode 'Tuvia and Zus finalize the escape plan' where Zus adds a condition and Tuvia confirms it. The narrative progression in scene_38 supports a temporal sequence where concerns and initial proposal precede final agreement.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7cda92486637",
+    "subject_id": "ep_f032552975d18df3",
+    "object_id": "ep_33b4b21f654bf017",
+    "relation_type": "precedes",
+    "reason": "The episode 'Tuvia confronts the Police Captain at home' establishes the initial confrontation and power imbalance, which is followed by the escalation in 'Tuvia demands retribution and forces submission' where Tuvia physically threatens the Captain and invokes his murdered family. The events in the second episode build directly on the setting and interaction initiated in the first, indicating a clear narrative sequence.",
+    "source_documents": [
+      "scene_33__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6def88e5301e",
+    "subject_id": "ep_79162dd4dd630b62",
+    "object_id": "ep_a3acb6e44c36019f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Zus assesses the group and retrieves the pistol' occurs immediately before 'Zus raises concerns about group mobility' within the same scene (scene_38), as evidenced by the sequence of related events: first Zus surveys the group and takes the pistol, then voices concerns about mobility. This local narrative order supports a clear 'precedes' relation.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4cba77469c08",
+    "subject_id": "ep_3cdd3a6467f85ed4",
+    "object_id": "ep_d2935da7eea7dad5",
+    "relation_type": "contrasts_with",
+    "reason": "The two episodes are set in the same scene and involve the brothers debating different aspects of resistance, with the first focusing on confronting a suspected murderer based on personal grudge and the second on arming for broader resistance; the shift from personal vengeance to strategic militancy highlights a contrast in goals and tones, emphasizing divergent coping mechanisms and escalating ambitions.",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_99210b5f5226",
+    "subject_id": "ep_3fd152dcf2222e8d",
+    "object_id": "ep_3cdd3a6467f85ed4",
+    "relation_type": "precedes",
+    "reason": "The episode 'Share a moment of levity amid grief' occurs before 'Confront suspicions about their father's killer' in the narrative sequence, as indicated by the shift in tone and topic from humor and shared laughter to a serious discussion about their father's death and accusations against Police Captain Bernicki, all within scene_19 of doc_19.",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_a3e25675a7d6",
+    "subject_id": "ep_f032552975d18df3",
+    "object_id": "ep_6fc24075023940e0",
+    "relation_type": "precedes",
+    "reason": "The confrontation initiated in 'Tuvia confronts the Police Captain at home' sets up the tense situation that escalates into the violent climax in 'Family resists and Tuvia executes final vengeance', where resistance is met with lethal force. The events in the second episode, including the shooting of the sons and the Police Captain, occur after and as a progression of the confrontation established in the first episode, indicating a clear temporal sequence.",
+    "source_documents": [
+      "scene_33__2_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_e903d9c5af5e",
+    "subject_id": "ep_fcf63d125d7d5865",
+    "object_id": "ep_653489c2111abb2d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate intimidation and assert authority' occurs at the beginning of the interaction, establishing the tense dynamic, while 'Conclude encounter with ironic farewell' marks the end of the same encounter, as indicated by their descriptions and event sequences in scene_27. The narrative order is explicitly supported by the opening and closing nature of the respective episodes.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_d74cfb142f60",
+    "subject_id": "ep_886a21ccbcb3ea26",
+    "object_id": "ep_243648c287337d24",
+    "relation_type": "precedes",
+    "reason": "The episode 'Aron discovers the small girl and attempts contact' directly precedes 'Aron follows the girl to a grove and uncovers a horrific scene' because the description of the second episode includes Aron pursuing the girl after she flees, which is the immediate narrative progression from the first episode where she runs away after being approached.",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_90f401dfc0bc",
+    "subject_id": "ep_e127bc429e1cf12b",
+    "object_id": "ep_1d0ac7a692565705",
+    "relation_type": "precedes",
+    "reason": "The episode 'Inquire about missing family members' occurs when Zus reveals Sonia and the baby are hiding in Horodysze, which establishes their prior survival. This must precede the later episode where survivors reveal the Horodyszcze massacre and Zus learns of his wife's likely death, as the latter represents the emotional aftermath of that revelation. The narrative progression from hope to devastating loss is supported by the sequence of events in the related scenes.",
+    "source_documents": [
+      "scene_40A_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4e4979df4e6f",
+    "subject_id": "ep_fcf63d125d7d5865",
+    "object_id": "ep_b1377cd0b19c349f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate intimidation and assert authority' sets the initial tone of dominance and confrontation, directly followed by the 'Exchange veiled bribes and accusations,' where the interaction shifts to veiled corruption and mutual testing. The sequence of events in scene_27 supports a clear narrative order: threats and power assertion occur before the bribe exchange and joking accusations, indicating a direct temporal precedence.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_0856a8213ad1",
+    "subject_id": "ep_fa18152cb7534b17",
+    "object_id": "ep_fbf380bfe3dd7393",
+    "relation_type": "precedes",
+    "reason": "The elderly man's fixation on the cab driver's hack license (ep_fa18152cb7534b17) immediately precedes the confrontation where he recognizes the driver as Bielski (ep_fbf380bfe3dd7393), as both occur in scene_1 and the recognition logically follows the act of scrutinizing the license.",
+    "source_documents": [
+      "scene_1_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_84f8c97a9478",
+    "subject_id": "ep_f877f4e395729e5e",
+    "object_id": "ep_031882e42bfe11c7",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate confrontation and seize supplies' (doc_16) occurs in scene_16, while 'Confront anti-Semites with violent resolve' (doc_17) occurs in scene_17, indicating a clear narrative sequence where the former precedes the latter.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_bef74f49f4f1",
+    "subject_id": "ep_79162dd4dd630b62",
+    "object_id": "ep_e506498e44edc931",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in scene_38 and involve Zus interacting with the group after awakening. The episode 'Zus assesses the group and retrieves the pistol' involves physical actions (surveying, taking the pistol, checking ammunition) that logically and sequentially precede the emotionally charged dialogue in 'Zus probes Tuvia about killing his sons'. The narrative flow within the scene supports a temporal ordering where assessment and weapon handling come before direct confrontation.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8ab03f44326d",
+    "subject_id": "ep_d4eb4180c0355034",
+    "object_id": "ep_653489c2111abb2d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Defy inspection and escalate mockery' involves Koscik challenging the Police Captain and the officer laughing and returning to his vehicle, which immediately sets up the final exchange where the Captain gives instructions and Koscik responds with 'good hunting.' The narrative flow in the shared scene indicates that the defiance and mockery occur before the ironic farewell, establishing a clear temporal order.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9c7ae042162b",
+    "subject_id": "ep_c6f267336ceed81f",
+    "object_id": "ep_293097b6e7f902c2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reconnect and recognize from the past' involves Shimon recognizing Tuvia and their initial reunion, which sets the context for the subsequent conversation in 'Confront shifting roles and moral doubt' where they reflect on their changed dynamics. The narrative flow in scene_30 implies a temporal sequence where recognition and reunion occur before the deeper existential discussion, supporting a 'precedes' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9659f257eea7",
+    "subject_id": "ep_3fd152dcf2222e8d",
+    "object_id": "ep_a2470620e755925a",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode features a moment of familial humor and shared laughter among the brothers amid grief, providing emotional respite, while the object episode involves a serious, cautious response to traumatized survivors and a humanitarian crisis. The juxtaposition of lightheartedness and emotional bonding against tension, vigilance, and trauma creates a clear tonal and thematic contrast supported by the descriptions and related events of both episodes.",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_62c45af3099f",
+    "subject_id": "ep_c58cd8158c1bdb11",
+    "object_id": "ep_a3208a80d4cb27f1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Demand the hidden weapon and inflict violence' involves Zus escalating violence to force the farmer to reveal the rifle's location, which directly sets up the subsequent episode 'Extract the rifle and enforce silence' where the rifle is retrieved and silence is enforced. The sequence of events in the descriptions and related events shows a clear temporal order: the violence and demands precede the extraction and command to deny the encounter.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_4784cd6f723f",
+    "subject_id": "ep_6efe0d1655679b1b",
+    "object_id": "ep_bc4fa87f3cbd7cc0",
+    "relation_type": "precedes",
+    "reason": "Both episodes occur in the same scene (scene_38__2) and involve Tuvia and Zus reacting to the arrival of newcomers. The observation of the dark-haired woman by Tuvia and Zus is a moment of personal interest that immediately precedes Zus's concern about resources, as the narrative moves from individual reactions to broader group dynamics. The sequence of related events in the description supports a local narrative order where noticing the woman comes before the confrontation about food supplies.",
+    "source_documents": [
+      "scene_38__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d16322c188b2",
+    "subject_id": "ep_666f2828cce65547",
+    "object_id": "ep_a7f94193fd7ae9dc",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves the proposal and debate of raiding a farm, including discussion of risks and alternative targets. The object episode concludes the debate by showing Tuvia recognizing he has been outvoted and Asael affirming their forest advantage, indicating a narrative progression where decision-making is followed by acceptance and resolution. This sequential flow is supported by the shared scene context (scene_14) and the logical closure in the object episode, confirming the subject episode precedes it.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f0268ad0faca",
+    "subject_id": "ep_fcf63d125d7d5865",
+    "object_id": "ep_d4eb4180c0355034",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate intimidation and assert authority' establishes the initial power struggle with the Police Captain's threats and Koscik's defiant response, which directly sets up the subsequent escalation in 'Defy inspection and escalate mockery' where Koscik actively challenges the Captain. The narrative flow and event sequence in the shared scene (scene_27) indicate a clear temporal order: first the Captain asserts authority, then Koscik escalates the defiance.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_16daa4fc7081",
+    "subject_id": "ep_c6f267336ceed81f",
+    "object_id": "ep_2dcf86cbfa613886",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reconnect and recognize from the past' involves Shimon recognizing Tuvia and initiating a reunion, which logically precedes the subsequent exchange in 'Acknowledge loss and inquire about family' where Shimon offers condolences and asks about Tuvia's brothers. Both episodes occur in the same scene (scene_30) and are part of a continuous narrative sequence, with recognition naturally coming before deeper personal conversation. The related events in the second episode depend on the reconnection established in the first.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1b5767c6f4d8",
+    "subject_id": "ep_0dcf37bfac3f3346",
+    "object_id": "ep_79162dd4dd630b62",
+    "relation_type": "precedes",
+    "reason": "The episode 'Tuvia and Zus finalize the escape plan' involves a discussion and agreement between Tuvia and Zus about the group's strategy, which logically precedes Zus's subsequent actions in 'Zus assesses the group and retrieves the pistol', where he awakens, surveys the group, and checks the pistol. Both episodes occur in scene_38, but the finalization of the plan must occur before Zus's individual actions of checking the pistol, indicating a clear temporal sequence supported by the narrative flow.",
+    "source_documents": [
+      "scene_38_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_43f0bbbdae4d",
+    "subject_id": "ep_2ddd00ce977db3fc",
+    "object_id": "ep_666f2828cce65547",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assess dwindling food supplies and confront scarcity' directly precedes 'Propose and debate raiding a farm for food' in narrative sequence, as the realization of food scarcity (including worms in potatoes and conflict over consumed provisions) sets the immediate context for Zus's proposal to raid a farm. The events in the first episode establish the urgent need that motivates the decision-making in the second, with both episodes occurring in the same scene (scene_14) and showing a clear temporal progression from problem recognition to action planning.",
+    "source_documents": [
+      "scene_14_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ebc3fd8e3248",
+    "subject_id": "ep_2dcf86cbfa613886",
+    "object_id": "ep_5268ed986bb4b8a0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Acknowledge loss and inquire about family' involves Shimon offering condolences and asking about Tuvia's brothers, which establishes a personal and empathetic context. This is followed by 'Confirm hiding and probe its causes', where Shimon shifts to questioning their current fugitive status and its origins. The narrative flow in the shared scene (scene_30) suggests a sequential order where personal connection precedes inquiry into their situation, supporting a 'precedes' relation from the first to the second episode.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_0d5994e2637e",
+    "subject_id": "ep_031882e42bfe11c7",
+    "object_id": "ep_f613ca0849c44a85",
+    "relation_type": "elaborates",
+    "reason": "The second episode elaborates on the moral and ideological dimensions introduced in the first episode, expanding the discussion of vengeance and killing from a strategic confrontation to a deeper ethical debate. The first episode establishes Zus's violent resolve and Tuvia's challenge to it, while the second episode deepens this conflict by exploring justifications for vengeance, appeals to family memory, and accusations of moral overreach, indicating a directed expansion of the initial conflict.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_02b6ab53e7ba",
+    "subject_id": "ep_5268ed986bb4b8a0",
+    "object_id": "ep_293097b6e7f902c2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confirm hiding and probe its causes' involves Shimon questioning Tuvia about their hiding and prior trouble with the police, which establishes the factual context of their fugitive status. This is immediately followed by 'Confront shifting roles and moral doubt,' where the conversation shifts to a reflective, existential level involving sarcasm and moral uncertainty. The narrative flow in scene_30 supports a clear temporal sequence: first confirming the situation, then reflecting on its implications, making 'precedes' the best-supported relation.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_a39733189edb",
+    "subject_id": "ep_b1377cd0b19c349f",
+    "object_id": "ep_d4eb4180c0355034",
+    "relation_type": "precedes",
+    "reason": "The exchange of veiled bribes and accusations (ep_b1377cd0b19c349f) occurs before Koscik's direct challenge and mockery during the inspection (ep_d4eb4180c0355034), as the bribe discussion sets up the tension that culminates in the defiance. The sequence of related_events in the same scene (scene_27) supports a clear temporal order where veiled interactions precede open provocation.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_feb84b8c16bb",
+    "subject_id": "ep_b1377cd0b19c349f",
+    "object_id": "ep_653489c2111abb2d",
+    "relation_type": "precedes",
+    "reason": "The exchange of veiled bribes and accusations (ep_b1377cd0b19c349f) occurs during the interaction between the Police Captain and Koscik, while the ironic farewell (ep_653489c2111abb2d) marks the conclusion of the encounter. The narrative order implied by 'as the interaction ends' in the latter episode's description indicates it follows the prior exchange, supporting a 'precedes' relation from the bribe exchange to the farewell.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_da1de85f7836",
+    "subject_id": "ep_ca543271c6708b8d",
+    "object_id": "ep_ff335a0f8845640f",
+    "relation_type": "precedes",
+    "reason": "The bullet exchange episode (ep_ca543271c6708b8d) occurs in doc_20 and establishes the initial meeting context between Koscik and Tuvia, while the confrontation about sheltering refugees (ep_ff335a0f8845640f) occurs in doc_28 and involves a later development in their interaction, including the emergence of refugees and a moral dilemma. The narrative progression from doc_20 to doc_28 supports a local narrative order where the exchange precedes the confrontation.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a0a704db33d7",
+    "subject_id": "ep_ca484925e529f6d7",
+    "object_id": "ep_f613ca0849c44a85",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront and eliminate the truck owner' (scene_43) occurs after the moral debate between Zus and Tuvia in 'Confront the morality of vengeance' (scene_42), as indicated by the sequential scene numbers in their related_events. The debate directly precedes the execution of the killing, establishing a clear narrative order where the moral discussion sets the ideological stage for the subsequent act of vengeance.",
+    "source_documents": [
+      "scene_43_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_cdcef5c1b02d",
+    "subject_id": "ep_635652bc2798ec98",
+    "object_id": "ep_ca543271c6708b8d",
+    "relation_type": "precedes",
+    "reason": "The silent hostility from Koscik's wife is observed by Tuvia at the beginning of the interaction, setting the atmosphere before the exchange of bullets and expressions of gratitude, indicating a temporal sequence where navigating tension precedes the bullet exchange.",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_36ed8f06db62",
+    "subject_id": "ep_1d0ac7a692565705",
+    "object_id": "ep_1b8ad88503c4375b",
+    "relation_type": "causes",
+    "reason": "The emotional outburst by Zus in 'Retreat and confront the neighborhood' is explicitly grounded in his personal grief following the revelation of his wife's likely death in 'Survivors reveal Horodyszcze massacre and Zus learns of his wife's fate'. The second episode provides the direct emotional catalyst for Zus's defiant and aggressive behavior in the first, with Asael explaining the outburst as a result of Zus's grief, establishing a clear causal link.",
+    "source_documents": [
+      "scene_43A_part_1",
+      "scene_40A_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_085e4923d918",
+    "subject_id": "ep_3cdd3a6467f85ed4",
+    "object_id": "ep_f613ca0849c44a85",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode centers on the brothers' practical disagreement about confronting a suspected killer based on evidence, while the second episode escalates to a moral and ideological clash about vengeance and justice. The shift from a tactical dispute to a deeper ethical conflict creates a contrast in narrative focus and tone, highlighting divergent coping mechanisms and values, which is supported by the descriptions and related events of both episodes.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_24c175a2b9f6",
+    "subject_id": "ep_564a9280a988bc30",
+    "object_id": "ep_6cee746a8ce9c8b4",
+    "relation_type": "elaborates",
+    "reason": "The 'Exchange about wartime experiences' episode provides reflective depth on Tuvia's psychological state following his return, which was initially depicted in the 'Reunite and confront after Tuvia's return' episode. The discussion between Asael and Tuvia about the nature of war elaborates on the emotional and moral ambiguity introduced during the reunion, particularly Tuvia's silent demeanor and Zus's cautious confrontation. This constitutes a narrative expansion of the earlier episode's emotional context.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_a99476a688e3",
+    "subject_id": "ep_6cee746a8ce9c8b4",
+    "object_id": "ep_7b31d8d0381218d1",
+    "relation_type": "precedes",
+    "reason": "The reunion and emotional confrontation in 'Reunite and confront after Tuvia's return' must occur before the discussion about resource strain from new arrivals, as Tuvia's return with additional people is the triggering condition for the conflict in the second episode. The related events in the first episode establish Tuvia's return and familial reintegration, which logically precedes the subsequent critique of his decision to bring others instead of supplies.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_6f99f63171c9",
+    "subject_id": "ep_6cee746a8ce9c8b4",
+    "object_id": "ep_6623e1afe227b263",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reunite and confront after Tuvia's return' describes the immediate emotional reunion and recognition among the brothers, including Zus's confrontation and symbolic return of the mezuzah. The episode 'Confrontation about Tuvia's return and plans' involves Zus questioning Tuvia's intentions after his return, which logically follows the initial reunion and recognition. The narrative flow indicated by the descriptions and related events supports a clear temporal sequence where the reunion precedes the discussion about plans.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_12_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_7927b987c274",
+    "subject_id": "ep_64036e5d85c60ec8",
+    "object_id": "ep_f613ca0849c44a85",
+    "relation_type": "contrasts_with",
+    "reason": "The two episodes are set in the same scene (scene_42) and present opposing dimensions of the conflict between Zus and Tuviya: one centers on power struggle and authority, the other on moral justification for violence. The leadership challenge (asserting control) contrasts with the moral debate (questioning ethical boundaries), highlighting a thematic tension between authority and morality in resistance, supported by their co-occurring yet distinct narrative focuses.",
+    "source_documents": [
+      "scene_42_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_abbefe1ba27d",
+    "subject_id": "ep_deb97dd86b12188b",
+    "object_id": "ep_595d31cf048e14ce",
+    "relation_type": "precedes",
+    "reason": "The episode 'Tuvia prepares to leave and confronts familial separation' (doc_6, scene_7) occurs earlier than 'Clarify Tuvia's marital status and Rifka's location' (doc_13, scene_13), as the former depicts the active separation decision and departure, while the latter reports on the ongoing status of that separation, implying a later point in narrative time. Document order (doc_6 before doc_13) and the progression from decision to consequence support this temporal precedence.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3486cf889851",
+    "subject_id": "ep_79162dd4dd630b62",
+    "object_id": "ep_64036e5d85c60ec8",
+    "relation_type": "precedes",
+    "reason": "The episode 'Zus assesses the group and retrieves the pistol' occurs in doc_37 and scene_38, while 'Challenge leadership and assert authority' occurs in doc_41 and scene_42, indicating a clear narrative sequence where Zus's re-engagement and retrieval of the pistol precede the later confrontation over leadership. The progression across documents and scenes supports a directed 'precedes' relation.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_458d08609050",
+    "subject_id": "ep_24fb2ab95276f0de",
+    "object_id": "ep_ca543271c6708b8d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Plan to secure supplies and weapons' involves Tuvia deciding to seek food and a pistol from Koscik, which sets up the subsequent meeting where Koscik hands over bullets and Tuvia expresses gratitude. The planning and departure occur before the exchange, establishing a clear narrative sequence supported by the event flow across scenes 19 and 20.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_20_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_214065111c84",
+    "subject_id": "ep_e506498e44edc931",
+    "object_id": "ep_f613ca0849c44a85",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Zus probes Tuvia about killing his sons' provides emotional and psychological context that expands on the broader moral debate in 'Confront the morality of vengeance'. The silence and emotional distress shown when Tuvia is questioned about killing his sons inform the later ideological clash, where Tuviya argues against vengeance and becoming like their enemies. This supports the interpretation that the first episode elaborates on the moral and emotional stakes central to the second.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6a9e60a087ab",
+    "subject_id": "ep_24fb2ab95276f0de",
+    "object_id": "ep_08e3911a323d6d1d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Plan to secure supplies and weapons' (doc_19) occurs in document 19, while 'Respond to approaching danger' (doc_20) occurs in document 20, indicating a narrative sequence where planning and initiating the mission precedes the subsequent reaction to immediate danger. The document IDs provide clear evidence of local narrative order.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5ac806c34d9b",
+    "subject_id": "ep_f877f4e395729e5e",
+    "object_id": "ep_1b8ad88503c4375b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate confrontation and seize supplies' involves Zus and Tuvia entering a farmer's home to demand food and gather provisions, which reflects an early assertive action to secure resources. The episode 'Retreat and confront the neighborhood' occurs afterward, showing Zus and Peretz retreating under fire and publicly declaring their identity, indicating a subsequent escalation. The progression from securing supplies to a violent confrontation and public proclamation suggests a temporal sequence where the first episode sets the stage for the later, more intense episode, supported by the narrative flow of increasing tension and visibility of the Bielski Otriad.",
+    "source_documents": [
+      "scene_43A_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4bf765fb405d",
+    "subject_id": "ep_d2935da7eea7dad5",
+    "object_id": "ep_1b8ad88503c4375b",
+    "relation_type": "precedes",
+    "reason": "The debate about arming for resistance (ep_d2935da7eea7dad5) involves strategic discussion about obtaining weapons and reflects early tension between the brothers, while the retreat and confrontation episode (ep_1b8ad88503c4375b) depicts an actual violent escalation and public assertion of identity. The planning and argumentation in the first episode logically precede the execution of violent resistance in the second, as the latter represents a concrete manifestation of the ambitions Zus expresses earlier. This narrative progression is supported by the shift from deliberation to action, indicating a temporal sequence.",
+    "source_documents": [
+      "scene_43A_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_688bce266644",
+    "subject_id": "ep_6cee746a8ce9c8b4",
+    "object_id": "ep_e127bc429e1cf12b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reunite and confront after Tuvia's return' involves Tuvia's immediate reunion with his brothers, including emotional reactions and symbolic gestures of acceptance, which logically precedes the subsequent inquiry about missing family members. The narrative flow from reuniting with siblings to asking about other family members is supported by the goal-driven sequence: first confirming Tuvia's return and safety, then seeking information about others. The related events in the first episode occur in scene_12 and the second in scene_13, indicating a direct temporal order.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_270faa5fa232",
+    "subject_id": "ep_64036e5d85c60ec8",
+    "object_id": "ep_d2935da7eea7dad5",
+    "relation_type": "contrasts_with",
+    "reason": "The two episodes highlight opposing leadership styles and strategic approaches between Zus and Tuviya: one centers on asserting authority and control, while the other focuses on a tactical disagreement about armed resistance. The descriptions emphasize tension and ideological divergence, with Zus advocating militancy and decision-making authority, and Tuviya resisting both the leadership shift and the feasibility of armed confrontation, creating a clear contrast in tone, goals, and narrative function.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7b7b3887b1b4",
+    "subject_id": "ep_6cee746a8ce9c8b4",
+    "object_id": "ep_a7f94193fd7ae9dc",
+    "relation_type": "precedes",
+    "reason": "The reunion and confrontation after Tuvia's return (ep_6cee746a8ce9c8b4) involves emotional reconnection and restoration of familial bonds immediately following his return, while the affirmation of forest knowledge and acceptance of group decision (ep_a7f94193fd7ae9dc) occurs during a tactical discussion about a raid, where Tuvia is already integrated and participating. The narrative progression suggests the reunion must occur before Tuvia can be part of the group decision-making, supporting a 'precedes' relation.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_311c32b8a0df",
+    "subject_id": "ep_6623e1afe227b263",
+    "object_id": "ep_666f2828cce65547",
+    "relation_type": "precedes",
+    "reason": "The confrontation about Tuvia's return (ep_6623e1afe227b263) occurs in doc_13, while the proposal and debate about raiding a farm for food (ep_666f2828cce65547) occurs in doc_14, indicating a narrative sequence where the former precedes the latter based on document order. No causal, contrasting, or elaborative link is explicitly supported.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_84f8ac8ec676",
+    "subject_id": "ep_6623e1afe227b263",
+    "object_id": "ep_d2935da7eea7dad5",
+    "relation_type": "precedes",
+    "reason": "The confrontation about Tuvia's return and plans occurs earlier in the narrative than the debate about arming themselves for resistance, as the former establishes the emotional and interpersonal context that sets the stage for the subsequent strategic disagreement. The tension around Tuvia's intentions in the first episode is later reflected in the more concrete conflict over resistance planning in the second, suggesting a chronological progression supported by the narrative flow.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c19545c0e833",
+    "subject_id": "ep_2ddd00ce977db3fc",
+    "object_id": "ep_f877f4e395729e5e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Assess dwindling food supplies and confront scarcity' involves the group discovering their food shortage and internal tension, which logically precedes the subsequent episode 'Initiate confrontation and seize supplies' where Zus and Tuvia take direct action to obtain food from a farmer. The progression from internal realization to external action supports a narrative sequence, with no evidence of overlap or reversal.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_71a2b8198735",
+    "subject_id": "ep_6623e1afe227b263",
+    "object_id": "ep_7b31d8d0381218d1",
+    "relation_type": "elaborates",
+    "reason": "The second episode elaborates on the first by expanding the confrontation between Zus and Tuvia to include concrete consequences of Tuvia's return—specifically, the strain on resources and ammunition. While the first episode focuses on the emotional and intentional uncertainty of Tuvia's return, the second provides specific details about the practical fallout, such as Zus criticizing the lack of food and assessing ammunition, thereby adding contextual depth to the initial confrontation.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_86aff88fa7a6",
+    "subject_id": "ep_df26a451ab94e320",
+    "object_id": "ep_f877f4e395729e5e",
+    "relation_type": "precedes",
+    "reason": "The episode 'Intervene against excessive brutality' occurs after 'Initiate confrontation and seize supplies' in the narrative sequence, as the confrontation and seizure of supplies (including Zus's escalation) must first occur before Tuvia can respond by attempting to stop the violence. The related events in both episodes are part of the same scene (scene_16), and the intervention logically follows the initiation of the confrontation.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7ab28c4ee052",
+    "subject_id": "ep_666f2828cce65547",
+    "object_id": "ep_f877f4e395729e5e",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves the proposal and debate about raiding a farm for food, including the decision to target Wilencki's farm and the defiance of concerns about police. The object episode describes the actual confrontation at a farmer's home and seizure of supplies, which logically follows the planning and decision-making phase. The related events in the subject episode set the stage for the actions in the object episode, indicating a clear temporal sequence where planning precedes execution.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_61d5deab4cb2",
+    "subject_id": "ep_3fd152dcf2222e8d",
+    "object_id": "ep_e506498e44edc931",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts a moment of familial humor and shared laughter among the brothers, providing emotional respite amid grief, while the second episode reveals emotional distress and silence in response to a probing question about killing his sons. These episodes are juxtaposed in tone and emotional state—levity versus psychological weight—highlighting a contrast in the brothers' interactions and inner turmoil.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_174815b818a5",
+    "subject_id": "ep_79162dd4dd630b62",
+    "object_id": "ep_bc4fa87f3cbd7cc0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Zus assesses the group and retrieves the pistol' occurs in doc_37, while 'Zus confronts Tuvia about resource strain' occurs in doc_38, indicating a narrative sequence where the former precedes the latter. Both episodes involve Zus engaging with group dynamics and resource scarcity, with the pistol-checking event setting a tone of tension that contextualizes his later concern about feeding new arrivals.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_350838e5785f",
+    "subject_id": "ep_d2935da7eea7dad5",
+    "object_id": "ep_a7f94193fd7ae9dc",
+    "relation_type": "precedes",
+    "reason": "The debate about arming for resistance (ep_d2935da7eea7dad5) sets up the strategic disagreement among the brothers, which is then resolved in the subsequent episode where Tuvia recognizes he has been outvoted and the group commits to the raid (ep_a7f94193fd7ae9dc). The shift in power dynamics and conclusion of the debate in the second episode implies a temporal sequence where the debate must occur before the group decision is solidified.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_eb2074ae6127",
+    "subject_id": "ep_a3acb6e44c36019f",
+    "object_id": "ep_bc4fa87f3cbd7cc0",
+    "relation_type": "contrasts_with",
+    "reason": "Both episodes involve Zus expressing concern about group sustainability, but the first focuses on mobility and speed while the second centers on resource scarcity and feeding new arrivals. The recurrence of conflict between survival and compassion, combined with different dimensions of strain (mobility vs. resources), creates a thematic contrast in how the same core tension manifests in different contexts.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38__2_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_f291918e4544",
+    "subject_id": "ep_f877f4e395729e5e",
+    "object_id": "ep_7b31d8d0381218d1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate confrontation and seize supplies' involves securing food and resources from the farmer, which establishes the baseline of limited provisions. The subsequent episode 'Confront resource strain from new arrivals' directly responds to the scarcity of resources, including ammunition, implying a narrative progression where the earlier resource acquisition sets the stage for later strain. The textual focus on assessing and conserving bullets after returning with new people suggests a chronological sequence supported by the narrative context.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e8bc208b62dd",
+    "subject_id": "ep_24fb2ab95276f0de",
+    "object_id": "ep_79162dd4dd630b62",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Tuvia deciding to seek the pistol from Koscik and departing, which sets up the context for the object episode where Zus later retrieves the same pistol from Tuvia's belt. The narrative sequence implies that Tuvia must first obtain (or attempt to obtain) the pistol before Zus can take it, supporting a 'precedes' relation from the planning/seeking phase to the retrieval phase.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bc210cbdff43",
+    "subject_id": "ep_24fb2ab95276f0de",
+    "object_id": "ep_f877f4e395729e5e",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Plan to secure supplies and weapons' involves Tuvia deciding to seek food and a pistol from Koscik, which sets up the subsequent action in the object episode 'Initiate confrontation and seize supplies' where Zus and Tuvia burst into the farmer's home to demand provisions. The planning and decision-making in the first episode directly precede the execution of the confrontation in the second, as supported by the narrative sequence in their descriptions and related events.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_85e98fab8ad4",
+    "subject_id": "ep_2ddd00ce977db3fc",
+    "object_id": "ep_24fb2ab95276f0de",
+    "relation_type": "precedes",
+    "reason": "The assessment of dwindling food supplies (ep_2ddd00ce977db3fc) directly leads to the plan to secure supplies and weapons (ep_24fb2ab95276f0de), as the realization of scarcity prompts Tuvia to take action. The events in the first episode—discovering worms in potatoes, Zus consuming the last sausage, and the hostile exchange—establish the problem that the second episode seeks to resolve. This temporal and narrative sequence is supported by the descriptions and related events of both episodes.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_36d12fc84fda",
+    "subject_id": "ep_24fb2ab95276f0de",
+    "object_id": "ep_666f2828cce65547",
+    "relation_type": "precedes",
+    "reason": "The episode 'Plan to secure supplies and weapons' involves Tuvia deciding to seek food and a pistol from Koscik, which reflects an initial response to food shortages. The episode 'Propose and debate raiding a farm for food' depicts a later, more escalated plan to forcibly take food from a farm, indicating a progression in response to ongoing scarcity. The shift from seeking aid diplomatically to planning raids suggests a chronological and strategic escalation, with the former episode setting the stage for the latter. This narrative progression supports the 'precedes' relation.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_14_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d93f0ad896b2",
+    "subject_id": "ep_79162dd4dd630b62",
+    "object_id": "ep_6efe0d1655679b1b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Zus assesses the group and retrieves the pistol' occurs in doc_37 and contains events from scene_38, while 'Tuvia and Zus notice the dark-haired woman' occurs in doc_38 and also references scene_38__2. Given that doc_37 precedes doc_38 and the latter episode references a more specific sub-scene (scene_38__2) that follows the general scene_38 events, it is strongly supported that the pistol retrieval episode precedes the observation of the dark-haired woman.",
+    "source_documents": [
+      "scene_38__2_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_fd909c6daa6f",
+    "subject_id": "ep_bc4fa87f3cbd7cc0",
+    "object_id": "ep_0dcf37bfac3f3346",
+    "relation_type": "precedes",
+    "reason": "The confrontation about resource strain (ep_bc4fa87f3cbd7cc0) occurs when new people arrive, prompting Tuvia to propose practical measures like watering the soup. The escape plan finalization (ep_0dcf37bfac3f3346) includes Tuvia agreeing to no further additions, which directly responds to Zus's earlier concern about group size and resources. This sequence implies the confrontation precedes the finalization of the plan as a narrative response to the raised issue.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_38__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_8a38856eaeeb",
+    "subject_id": "ep_3fd152dcf2222e8d",
+    "object_id": "ep_bc4fa87f3cbd7cc0",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts a moment of familial warmth and shared humor amid grief, while the second shows tension and conflict between the brothers over resource strain, creating a narrative contrast in tone and interpersonal dynamics. This juxtaposition highlights a shift from emotional unity to practical discord, supported by the descriptions of bonding through humor versus disagreement over survival decisions.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_38__2_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_227d40cb014c",
+    "subject_id": "ep_0dcf37bfac3f3346",
+    "object_id": "ep_7b31d8d0381218d1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Tuvia and Zus finalize the escape plan' involves a strategic agreement about group size and escape logistics, which sets a rule that no more people will be added. The subsequent episode 'Confront resource strain from new arrivals' shows Zus challenging Tuvia for bringing additional people, directly referencing the violation of the earlier agreement. This indicates a clear temporal sequence where the plan is made first, then later breached, supporting a 'precedes' relation from the plan-finalization episode to the resource-confrontation episode.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_df0720b0e6ac",
+    "subject_id": "ep_57e7811bc6ec69e3",
+    "object_id": "ep_6efe0d1655679b1b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Tuvia arrives and initiates group integration' involves Tuvia actively introducing newcomers and assigning tasks, which sets the stage for the subsequent observation by Tuvia and Zus of the dark-haired woman as the newcomers settle. The narrative flow in the shared scene (scene_38__2) implies a temporal sequence where integration efforts precede the moment of personal observation, supporting a 'precedes' relation.",
+    "source_documents": [
+      "scene_38__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5186d0208f98",
+    "subject_id": "ep_24fb2ab95276f0de",
+    "object_id": "ep_3cdd3a6467f85ed4",
+    "relation_type": "precedes",
+    "reason": "The episode 'Plan to secure supplies and weapons' occurs before 'Confront suspicions about their father's killer' in the narrative sequence, as indicated by the description stating the brothers shift to discussing their father's death 'following the moment of levity' from the prior episode. This establishes a clear local narrative order.",
+    "source_documents": [
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c930b21e2878",
+    "subject_id": "ep_57e7811bc6ec69e3",
+    "object_id": "ep_bc4fa87f3cbd7cc0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Tuvia arrives and initiates group integration' involves Tuvia introducing newcomers and instructing Asael to provide food, which directly sets the context for 'Zus confronts Tuvia about resource strain', where Zus reacts to the arrival and raises concerns about feeding the group. The sequence of events—arrival and integration followed by concern over resources—indicates a clear temporal order supported by the shared scene (scene_38__2) and causal context, with the integration efforts preceding the confrontation.",
+    "source_documents": [
+      "scene_38__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_4b7e7a91d62a",
+    "subject_id": "ep_7b31d8d0381218d1",
+    "object_id": "ep_bc4fa87f3cbd7cc0",
+    "relation_type": "elaborates",
+    "reason": "The subject episode includes Zus challenging Tuvia over new arrivals and assessing ammunition, while the object episode details Zus's earlier confrontation focused on food concerns and Tuvia's response about family and resource management. The object episode provides additional context and background to the broader resource strain issue, expanding on the interpersonal conflict and practical considerations that inform the more focused ammunition-conservation resolution in the subject episode. This supports an elaboration relation where the object episode enriches the narrative context of the subject.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_38__2_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_4c722cbe32ea",
+    "subject_id": "ep_2dcf86cbfa613886",
+    "object_id": "ep_bbbf8c76e50fe528",
+    "relation_type": "precedes",
+    "reason": "The episode 'Acknowledge loss and inquire about family' involves Shimon offering condolences and asking about Tuvia's brothers, which establishes a personal connection that immediately precedes and sets up Tuvia's subsequent invitation for Shimon to join the group. The narrative flow in the shared scene (scene_30) supports a clear temporal sequence where recognition and emotional exchange precede the call to action.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c965c95f6f14",
+    "subject_id": "ep_5268ed986bb4b8a0",
+    "object_id": "ep_bbbf8c76e50fe528",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confirm hiding and probe its causes' involves Shimon questioning Tuvia about their fugitive status and prior police trouble, which establishes the context for Tuvia's subsequent invitation of Shimon to join the group. The probing and confirmation logically precede the invitation, as the invitation depends on the established recognition and shared understanding of their situation, indicating a clear narrative sequence in scene_30.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6d1f3d31961a",
+    "subject_id": "ep_c6f267336ceed81f",
+    "object_id": "ep_bbbf8c76e50fe528",
+    "relation_type": "precedes",
+    "reason": "The episode 'Reconnect and recognize from the past' describes the initial recognition and emotional reunion between Tuvia and Shimon, which logically and chronologically precedes the subsequent episode 'Invite Shimon to join the group', where Tuvia actively includes Shimon into the group. The sequence is supported by the narrative flow in the description: recognition occurs first, followed by the invitation to join, with both episodes grounded in the same scene and document.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_f18c0d62d9e2",
+    "subject_id": "ep_bc4fa87f3cbd7cc0",
+    "object_id": "ep_24fb2ab95276f0de",
+    "relation_type": "precedes",
+    "reason": "The episode 'Zus confronts Tuvia about resource strain' involves immediate concerns about feeding the new survivors and Tuvia proposing to water the soup, which sets up the logistical crisis. The subsequent episode 'Plan to secure supplies and weapons' shows Tuvia deciding to seek food and a pistol from Koscik, directly responding to the earlier concern. The narrative progression from expressing the problem to planning a solution supports a 'precedes' relation, with the confrontation logically and chronologically preceding the plan.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_38__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bd885e3bb536",
+    "subject_id": "ep_a2470620e755925a",
+    "object_id": "ep_bc4fa87f3cbd7cc0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to the arrival of survivors' describes the immediate actions upon the survivors' arrival, including Tuvia providing food and Asael questioning them. The episode 'Zus confronts Tuvia about resource strain' depicts Zus reacting to the presence of the new arrivals with concern about resources, which logically follows after their arrival and initial reception. The narrative sequence implied by the causal chain of events—arrival, response, then concern over consequences—supports a 'precedes' relation from the first episode to the second.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_38__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_3270a96e6771",
+    "subject_id": "ep_c6fc84268b0f096a",
+    "object_id": "ep_0d8e7ca00d32aac5",
+    "relation_type": "precedes",
+    "reason": "The episode 'Exchange greetings and discuss Jewish persecution' includes the initial greeting and conversation about hunting Jews, which sets the context for the subsequent act of offering alcohol in 'Offer alcohol to celebrate violent activities'. The narrative flow within the same scene (scene_23) and the logical progression from discussion to celebratory gesture strongly support a temporal ordering where the exchange of greetings and discussion precedes the offer of alcohol.",
+    "source_documents": [
+      "scene_23_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_089a62f3c0b3",
+    "subject_id": "ep_8ed77686412c7754",
+    "object_id": "ep_b68a9a2ff3d18103",
+    "relation_type": "causes",
+    "reason": "The arrival of the young men with a rifle and their demand for food (ep_8ed77686412c7754) directly triggers the distribution of food to new arrivals (ep_b68a9a2ff3d18103), as Tuvia de-escalates the situation by offering food, which initiates the food distribution act described in the second episode.",
+    "source_documents": [
+      "scene_40A_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_489a6309ba2d",
+    "subject_id": "ep_24fb2ab95276f0de",
+    "object_id": "ep_7b31d8d0381218d1",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Plan to secure supplies and weapons' involves Tuvia deciding to seek food and a pistol from Koscik, which sets up the retrieval of the gun. The object episode 'Confront resource strain from new arrivals' includes the event where Tuvia shows Zus the retrieved gun, indicating the gun was obtained after the plan was made. This sequence implies the planning episode precedes the confrontation episode, based on the causal-temporal dependency of the gun being retrieved before it can be shown and assessed.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_54fbb0fed109",
+    "subject_id": "ep_6a94c65437d9c16d",
+    "object_id": "ep_ca543271c6708b8d",
+    "relation_type": "precedes",
+    "reason": "The toast occurs after the bullet exchange in the scene order, as the bullet handover establishes the tense mood that frames the subsequent toast. The description of the bullet exchange notes it 'establishes the stakes and the tense, somber mood of their meeting,' implying it comes first, while the toast builds upon that established tension. Both episodes occur in the same scene (scene_20), supporting a local narrative sequence.",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2e78c7b1f46f",
+    "subject_id": "ep_293097b6e7f902c2",
+    "object_id": "ep_bbbf8c76e50fe528",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront shifting roles and moral doubt' involves a reflective conversation between Tuvia and Shimon that sets the emotional and interpersonal context immediately before Tuvia invites Shimon to join the group. The shift in dynamics described in the first episode logically precedes the physical gesture and invitation in the second, as the renewed connection mentioned in the second episode builds upon the interaction detailed in the first. Both episodes occur in scene_30, but the dialogue and reflection must occur before the invitation can be meaningfully extended.",
+    "source_documents": [
+      "scene_30_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_abfb189ee07e",
+    "subject_id": "ep_a2470620e755925a",
+    "object_id": "ep_57e7811bc6ec69e3",
+    "relation_type": "precedes",
+    "reason": "The arrival of Aron and the survivors (ep_a2470620e755925a) introduces the new group to the camp, including actions by Tuvia and Asael in responding to their condition. Tuvia's subsequent return with provisions and formal integration of new arrivals, including Tamara, Lazar, and Isaac Malbin (ep_57e7811bc6ec69e3), suggests a chronological sequence where the initial response to survivors precedes their structured integration. The shared focus on Tuvia's leadership and newcomer processing supports a narrative order, though exact timing is not specified.",
+    "source_documents": [
+      "scene_38__2_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e668535e503e",
+    "subject_id": "ep_a2470620e755925a",
+    "object_id": "ep_7b31d8d0381218d1",
+    "relation_type": "precedes",
+    "reason": "The arrival of survivors (ep_a2470620e755925a) introduces new people into the camp, which directly prompts Zus to confront Tuvia about the strain of additional mouths to feed and the need to conserve ammunition in ep_7b31d8d0381218d1. The causal and temporal dependency is supported by the narrative flow: the survivors' arrival creates the resource strain that the second episode addresses. Thus, the first episode precedes the second.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_eb8db4055522",
+    "subject_id": "ep_e8b8fdd9c161c85c",
+    "object_id": "ep_c5116971954cd743",
+    "relation_type": "precedes",
+    "reason": "The episode 'Attempt to secure food at a location' represents the brothers' first attempt to obtain food, as explicitly stated in its description, while 'Confrontation at the barnyard' involves a subsequent encounter at a farm with a specific farmer, indicating a later event in the narrative sequence. The goal of obtaining food is shared, but the former is described as the initial attempt, supporting a temporal precedence.",
+    "source_documents": [
+      "scene_6A_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a2b189db14b7",
+    "subject_id": "ep_666f2828cce65547",
+    "object_id": "ep_e8b8fdd9c161c85c",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves proposing and debating a raid on a farm for food, culminating in the decision to take action. The object episode describes the actual attempt to secure food at a location, which logically follows the decision-making process. The related_events in the subject episode show planning and commitment to action, while the object episode depicts the execution of such an action in a subsequent scene (scene_15), indicating a clear temporal sequence.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_6435705e0619",
+    "subject_id": "ep_3fd152dcf2222e8d",
+    "object_id": "ep_83f357c95ff53d83",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts a moment of shared humor and emotional connection among the brothers amid grief, while the second shows a breakdown in emotional control and a need for physical intervention. These episodes are juxtaposed in tone and emotional state—one showing resilience through laughter, the other showing collapse under grief—supporting a contrast relation.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_10_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_b0cca7bba80a",
+    "subject_id": "ep_c5116971954cd743",
+    "object_id": "ep_852bbe22a101b1f9",
+    "relation_type": "precedes",
+    "reason": "The confrontation at the barnyard (ep_c5116971954cd743) occurs in doc_5, while discovering the aftermath of the massacre (ep_852bbe22a101b1f9) occurs in doc_7, indicating a narrative sequence where the barnyard encounter precedes the discovery of the massacre. The progression from seeking food to encountering a broader atrocity supports a local narrative order.",
+    "source_documents": [
+      "scene_8_part_1",
+      "scene_6A_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a29e0e8d86bf",
+    "subject_id": "ep_83f357c95ff53d83",
+    "object_id": "ep_f0d0bb9a1e5a69a0",
+    "relation_type": "precedes",
+    "reason": "The escape episode (ep_f0d0bb9a1e5a69a0) occurs in doc_9, while the intervention in Asael's breakdown occurs in doc_10, indicating a narrative sequence where the escape precedes the emotional aftermath. The shared characters and escalating tension support a local narrative order where fleeing the dwelling sets the stage for Asael's subsequent breakdown.",
+    "source_documents": [
+      "scene_10_part_1",
+      "scene_9A_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a24b770c1a70",
+    "subject_id": "ep_852bbe22a101b1f9",
+    "object_id": "ep_6cee746a8ce9c8b4",
+    "relation_type": "precedes",
+    "reason": "The discovery of the massacre by Zus and Asael (ep_852bbe22a101b1f9) establishes the context of trauma and loss that precedes Tuvia's return and the brothers' emotional reunion (ep_6cee746a8ce9c8b4). The narrative logic and shared characters suggest a temporal sequence where the massacre aftermath is learned prior to Tuvia rejoining his brothers, making 'precedes' the best-supported relation.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5186513f0729",
+    "subject_id": "ep_2ddd00ce977db3fc",
+    "object_id": "ep_e8b8fdd9c161c85c",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves the group realizing their food supplies are nearly exhausted, which establishes the motivation for the subsequent attempt by Zus and Asael to secure food in the object episode. The discovery of scarcity (ep_2ddd00ce977db3fc) logically precedes and motivates the action to obtain food (ep_e8b8fdd9c161c85c), with narrative coherence supported by the causal sequence of events across scenes 14 and 15.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3be251af8f7d",
+    "subject_id": "ep_f0d0bb9a1e5a69a0",
+    "object_id": "ep_6cee746a8ce9c8b4",
+    "relation_type": "precedes",
+    "reason": "The escape episode (ep_f0d0bb9a1e5a69a0) involves Zus removing the mezuzah from the dwelling, which is later returned to Tuvia in the reunion episode (ep_6cee746a8ce9c8b4). This reuse of the mezuzah as a symbolic object implies a temporal sequence where the escape must occur before the reunion, as the mezuzah's removal precedes its return. The shared symbolic artifact and familial context support a coherent narrative order.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_9A_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8f30a31fefc4",
+    "subject_id": "ep_852bbe22a101b1f9",
+    "object_id": "ep_1d0ac7a692565705",
+    "relation_type": "elaborates",
+    "reason": "The discovery of the massacre aftermath (ep_852bbe22a101b1f9) provides the immediate sensory and situational context that is later elaborated upon in the episode where survivors reveal the Horodyszcze massacre and Zus learns of his wife's fate (ep_1d0ac7a692565705). The second episode includes emotional and personal details—such as Zus's desperate inquiry about his wife and his subsequent breakdown—that expand on the initial discovery, grounding the horror in personal loss. This expansion of the initial scene with deeper narrative and emotional context supports an 'elaborates' relation from the earlier discovery to the later revelation.",
+    "source_documents": [
+      "scene_40A_part_1",
+      "scene_8_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_21ec1bf1ef9e",
+    "subject_id": "ep_666f2828cce65547",
+    "object_id": "ep_c5116971954cd743",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves the group proposing and debating a raid on Wilencki's farm for food, culminating in Zus declaring intent to take action. The object episode depicts Zus and Asael confronting Farmer Walencki at a barnyard, which aligns with Wilencki's farm, and ends with Zus warning they will return. The planning and decision-making in the subject episode directly precede the execution of the attempted raid in the object episode, as supported by the narrative progression from discussion to action at the same target location.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_6A_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_aacf640eb607",
+    "subject_id": "ep_a2470620e755925a",
+    "object_id": "ep_ccec9a867498a91a",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Address Aron's trauma and silence' provides additional explanation about Aron's psychological state, specifically his silence due to trauma, which was first observed during the earlier episode 'Respond to the arrival of survivors'. This later episode elaborates on a key detail (Aron's unresponsiveness) introduced in the subject episode, grounding the elaboration in Asael's explanation to Shimon.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_bcf30f2511a3",
+    "subject_id": "ep_7601772fe46d47ec",
+    "object_id": "ep_fcf63d125d7d5865",
+    "relation_type": "contrasts_with",
+    "reason": "The episode 'Reveal fatigue and personal strain' shows the Police Captain's exhaustion and personal vulnerabilities, contrasting with his earlier authoritative and intimidating behavior in 'Initiate intimidation and assert authority'. The shift from dominance to weariness creates a juxtaposition in tone and character state, supported by the description noting a contrast with his earlier posture.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_5f6604441d03",
+    "subject_id": "ep_19b75081690c58d3",
+    "object_id": "ep_886a21ccbcb3ea26",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Aron noticing a dark blur and beginning to follow it, while the object episode reveals the blur to be a small girl and depicts his attempt to contact her. The events unfold sequentially within the same scene, with the discovery logically and temporally following the initial observation and pursuit, establishing a clear narrative order.",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_45df7ff81171",
+    "subject_id": "ep_7601772fe46d47ec",
+    "object_id": "ep_d4eb4180c0355034",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode reveals the Police Captain's fatigue and personal strain, humanizing him during a lull, while the object episode shows Koscik defying the Captain and escalating mockery, with the Captain choosing disengagement. These episodes contrast in tone and character dynamics: one emphasizes vulnerability and personal cost, the other emphasizes defiance and power reversal, creating a juxtaposition supported by the shift from introspection to confrontation.",
+    "source_documents": [
+      "scene_27_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_baf8088734ed",
+    "subject_id": "ep_c5116971954cd743",
+    "object_id": "ep_a3208a80d4cb27f1",
+    "relation_type": "precedes",
+    "reason": "The 'Confrontation at the barnyard' episode ends with Zus warning the farmer they will return, indicating an unresolved encounter with the intent to come back. The subsequent episode, 'Extract the rifle and enforce silence,' involves Zus retrieving a rifle from above the stove and asserting control over the same farmer, implying a later return. The narrative progression from a threatened return to a renewed, more forceful interaction supports a clear temporal sequence where the confrontation precedes the rifle extraction.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_6A_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8c646272b63c",
+    "subject_id": "ep_79725bfb80ca7d44",
+    "object_id": "ep_6cee746a8ce9c8b4",
+    "relation_type": "precedes",
+    "reason": "The discovery of Aron in the root cellar (ep_79725bfb80ca7d44) involves the family reuniting with Aron in a traumatized state, while the later episode (ep_6cee746a8ce9c8b4) depicts Tuvia's return and emotional reunion with his brothers, including Aron. The narrative sequence implies that Aron must be present before Tuvia returns, making the root cellar discovery episode precede the reunion with Tuvia.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_8__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_f9a32f36a95a",
+    "subject_id": "ep_f877f4e395729e5e",
+    "object_id": "ep_c58cd8158c1bdb11",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate confrontation and seize supplies' involves Zus and Tuvia entering the farmer's home, demanding food, and beginning to gather provisions, which establishes initial control. This is immediately followed by 'Demand the hidden weapon and inflict violence', where Zus escalates the assault after the farmer denies possessing a gun. The events in the first episode set the stage and occur before the intensified violence in the second, with both episodes sharing scene_16 and forming a coherent, temporally ordered sequence.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_8bec0d481a97",
+    "subject_id": "ep_f77cc57bb89111ed",
+    "object_id": "ep_f032552975d18df3",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront the lit windows in the storm' depicts Tuvia outside in the rain, fixating on the lit windows of the Police Captain's home, immediately before entering and confronting him, as described in the subsequent episode. The related events and physical progression (outside to inside) support a clear temporal sequence where the former directly precedes the latter.",
+    "source_documents": [
+      "scene_33__2_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_e3010e61127e",
+    "subject_id": "ep_f877f4e395729e5e",
+    "object_id": "ep_a3208a80d4cb27f1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Initiate confrontation and seize supplies' involves Zus and Tuvia bursting into the farmer's home, demanding food, and beginning to gather provisions, which is followed by 'Extract the rifle and enforce silence' where Zus retrieves the rifle and asserts control. The sequence of events in the shared scene (scene_16) indicates a clear temporal order: first asserting dominance and gathering supplies, then extracting the rifle and enforcing silence, with no overlapping actions, supporting a direct 'precedes' relation.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_454a1a4e4986",
+    "subject_id": "ep_cac840f935f7248c",
+    "object_id": "ep_3bc2a44003e58bb2",
+    "relation_type": "precedes",
+    "reason": "The episode 'Anchor the wire' describes securing one end of a wire to a post, which is an initial step in setting up a trap. The episode 'Set trap for approaching bike' involves tightening the wire across the road as a trap, which logically follows the anchoring step. The descriptions indicate a sequential setup process where anchoring must occur before the trap can be fully positioned, supporting a 'precedes' relation from anchoring to setting the trap.",
+    "source_documents": [
+      "scene_47_part_1",
+      "scene_44_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3b0198d3d7ef",
+    "subject_id": "ep_f77cc57bb89111ed",
+    "object_id": "ep_280b7bca7827cae1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront the lit windows in the storm' describes Tuvia standing in the rain and fixating on the lit windows, which implies a moment of hesitation or emotional intensity before taking action. The episode 'Flee the house in the rain' involves Tuvia running away from the house during heavy rain. Given the narrative logic of confrontation preceding flight, and both occurring in the context of a storm, it is strongly supported that the confrontation episode occurs just before the flight episode.",
+    "source_documents": [
+      "scene_36A_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_443bf2dc3e24",
+    "subject_id": "ep_c5116971954cd743",
+    "object_id": "ep_c58cd8158c1bdb11",
+    "relation_type": "precedes",
+    "reason": "The confrontation at the barnyard (ep_c5116971954cd743) occurs in scene_6A, where the brothers seek food and are met with resistance, ending with a warning they will return. The subsequent episode (ep_c58cd8158c1bdb11) in scene_16 involves escalated violence centered on demanding a hidden weapon, indicating a later, more intense interaction. The narrative progression from initial confrontation to later violent escalation, supported by the scene numbering (6A before 16), establishes a clear temporal order.",
+    "source_documents": [
+      "scene_6A_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_873eadecfdf9",
+    "subject_id": "ep_deb97dd86b12188b",
+    "object_id": "ep_280b7bca7827cae1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Tuvia prepares to leave and confronts familial separation' involves Tuvia's decision to depart and his emotional farewell with Rifka, which logically and narratively precedes the episode 'Flee the house in the rain' where he is already in motion during heavy rainfall. The preparation and decision to leave (in doc_6, scene_7) provide the immediate antecedent context for the subsequent act of fleeing (in doc_35, scene_36A), supporting a directed temporal order.",
+    "source_documents": [
+      "scene_36A_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_5daa42c97f4c",
+    "subject_id": "ep_19b75081690c58d3",
+    "object_id": "ep_243648c287337d24",
+    "relation_type": "precedes",
+    "reason": "Aron first notices mysterious movement and begins following it, which leads directly to his discovery of the girl and the horrific scene in the grove. The sequence of related_events in both episodes supports a clear temporal order: spotting the blur and following it (ep_19b75081690c58d3) occurs before the full revelation of the corpse-filled trench and the reunion in the grove (ep_243648c287337d24).",
+    "source_documents": [
+      "scene_18_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_cc3fd3339a34",
+    "subject_id": "ep_f77cc57bb89111ed",
+    "object_id": "ep_33b4b21f654bf017",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront the lit windows in the storm' depicts Tuvia outside in the rain, fixating on the lit windows, which sets the stage for the subsequent confrontation indoors. The physical and emotional buildup in this scene directly precedes the escalation in 'Tuvia demands retribution and forces submission', where he confronts the Police Captain at gunpoint. The narrative flow and scene continuity (scene_33 followed by scene_33__2) support a clear temporal order.",
+    "source_documents": [
+      "scene_33__2_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_9f3ee6c47472",
+    "subject_id": "ep_f77cc57bb89111ed",
+    "object_id": "ep_6fc24075023940e0",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront the lit windows in the storm' depicts Tuvia outside in the rain, fixating on the lit windows, which sets the stage for the violent confrontation indoors. The subsequent episode 'Family resists and Tuvia executes final vengeance' occurs inside the house and represents the climax of the confrontation, implying a temporal sequence where Tuvia's external approach and psychological buildup precede the violent events inside. The shared context (scene_33) and progression from exterior to interior action support a clear narrative order.",
+    "source_documents": [
+      "scene_33__2_part_1",
+      "scene_33_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c9126fd9617f",
+    "subject_id": "ep_a2470620e755925a",
+    "object_id": "ep_ff335a0f8845640f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Respond to the arrival of survivors' involves the immediate reception of survivors and provision of aid, which logically precedes the subsequent argument in 'Confront the dilemma of sheltering refugees' about the risks and challenges of hosting them. The second episode reflects a later stage in the narrative where the initial response has concluded and the group faces the ongoing implications, supported by the shift from action-focused events to deliberative conflict.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_28_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d6fffe404c1d",
+    "subject_id": "ep_8951b16acf4909fc",
+    "object_id": "ep_6cee746a8ce9c8b4",
+    "relation_type": "precedes",
+    "reason": "The episode 'Seek refuge and pray for forgiveness' depicts Tuvia alone in the forest, immediately after killing, seeking absolution, which logically precedes his return to his brothers in the episode 'Reunite and confront after Tuvia's return'. The emotional and physical state in the forest episode aligns with an earlier point in the narrative timeline before reunion, supported by the progression from isolation to reintegration with family.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a1a88c28244e",
+    "subject_id": "ep_6fc24075023940e0",
+    "object_id": "ep_8951b16acf4909fc",
+    "relation_type": "precedes",
+    "reason": "The violent climax in which Tuvia executes the family and the police captain occurs before Tuvia flees into the forest and prays for forgiveness, as the act of killing must precede the need for spiritual absolution. The sequence is supported by the causal and temporal logic in the descriptions: the execution episode involves the immediate aftermath of resistance, while the prayer episode reflects on the killings as past actions, indicating a clear narrative order.",
+    "source_documents": [
+      "scene_33__2_part_1",
+      "scene_37_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_f735b0c6bf33",
+    "subject_id": "ep_3a0dcb3c8cc617a8",
+    "object_id": "ep_6fc24075023940e0",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves Tuvia demanding the perpetrator's identity while the wife pleads for death, occurring in scene_36, whereas the object episode, involving the final executions, occurs in scene_33__2. Despite the numerical proximity, the narrative flow and event progression suggest the confrontation and plea precede the final violent climax. The shift from interrogation to lethal response indicates a temporal sequence where the plea and demand set up the final confrontation, supporting a 'precedes' relation from ep_3a0dcb3c8cc617a8 to ep_6fc24075023940e0.",
+    "source_documents": [
+      "scene_36_part_1",
+      "scene_33__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7092a0590660",
+    "subject_id": "ep_0f6cad91f3b13982",
+    "object_id": "ep_1b8ad88503c4375b",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves the formal naming and definition of the Bielski Otriad during a discussion, which establishes the group's identity. The object episode depicts Zus publicly declaring their identity as the Bielski Otriad during a violent retreat, indicating that the naming must have occurred prior. The naming event logically precedes its public proclamation in action, and the related_events in the object episode reference the group by the name established in the subject episode, supporting a clear temporal order.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_43A_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_711d086b1ffc",
+    "subject_id": "ep_deb97dd86b12188b",
+    "object_id": "ep_6cee746a8ce9c8b4",
+    "relation_type": "precedes",
+    "reason": "Tuvia's decision to leave his wife Rifka and return to his family (ep_deb97dd86b12188b) logically precedes his reunion with his brothers after his return (ep_6cee746a8ce9c8b4), as the departure sets up the journey that culminates in the emotional confrontation upon arrival. The narrative sequence implied by the events—preparing to leave, then reuniting—supports a directed 'precedes' relation from the separation episode to the reunion episode.",
+    "source_documents": [
+      "scene_12_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_e4cc02134ef3",
+    "subject_id": "ep_deb97dd86b12188b",
+    "object_id": "ep_e127bc429e1cf12b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Tuvia prepares to leave and confronts familial separation' involves Tuvia departing from his wife Rifka, establishing the context of family separation. The subsequent episode 'Inquire about missing family members' occurs after this separation, where Tuvia seeks information about Sonia and the baby, indicating a narrative progression where the inquiry follows the initial act of leaving. The temporal sequence is supported by the shift from immediate departure to later reconnection efforts, making 'precedes' the best-supported relation.",
+    "source_documents": [
+      "scene_7_part_1",
+      "scene_13_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c62b187e2390",
+    "subject_id": "ep_deb97dd86b12188b",
+    "object_id": "ep_6623e1afe227b263",
+    "relation_type": "precedes",
+    "reason": "The episode 'Tuvia prepares to leave and confronts familial separation' involves Tuvia's decision to leave his wife and return to his family, which logically precedes the 'Confrontation about Tuvia's return and plans' where he is already reunited with his brothers and being questioned about his intentions. The narrative flow implied by the events—leaving his wife to rejoin his family, then being confronted by Zus—supports a temporal sequence where the preparation and departure precede the confrontation upon return.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_7_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_74fbe370ff30",
+    "subject_id": "ep_7e9c437adfa8e8d3",
+    "object_id": "ep_8036630d4249727c",
+    "relation_type": "precedes",
+    "reason": "The decision to delay action until nightfall (ep_7e9c437adfa8e8d3) establishes a plan to wait for darkness before moving, which is then interrupted by the immediate need to respond to approaching headlights (ep_8036630d4249727c), indicating a temporal sequence where the delay precedes the emergency response.",
+    "source_documents": [
+      "scene_42_part_1",
+      "scene_48_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_264016640696",
+    "subject_id": "ep_64036e5d85c60ec8",
+    "object_id": "ep_7e9c437adfa8e8d3",
+    "relation_type": "precedes",
+    "reason": "The challenge to leadership and assertion of authority by Zus occurs first, followed by Tuviya's decision to delay action until nightfall, which reasserts his strategic control. Both episodes occur in scene_42, and the sequence of events in the description implies that the leadership conflict precedes Tuviya's tactical decision to wait for darkness.",
+    "source_documents": [
+      "scene_42_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8d6169f0fa98",
+    "subject_id": "ep_33b4b21f654bf017",
+    "object_id": "ep_f613ca0849c44a85",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode depicts Tuvia enacting physical vengeance and emotional domination over the Police Captain, grounded in personal trauma. The second episode features a moral debate between Zus and Tuviya about the ethics of vengeance, where Tuviya questions the righteousness of killing despite invoking family memory. These episodes contrast in tone and outcome: one shows vengeance carried out, while the other critically examines its moral cost, creating a thematic juxtaposition around retribution.",
+    "source_documents": [
+      "scene_33__2_part_1",
+      "scene_42_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_984d1d61fbca",
+    "subject_id": "ep_031882e42bfe11c7",
+    "object_id": "ep_df26a451ab94e320",
+    "relation_type": "precedes",
+    "reason": "The episode 'Intervene against excessive brutality' (doc_16) occurs during scene_16, where Tuvia attempts to stop Zus's violence, while 'Confront anti-Semites with violent resolve' (doc_17) occurs in scene_17, where Zus escalates his stance and declares intent to kill. The document IDs and scene numbers indicate a clear narrative sequence: the intervention attempt precedes the subsequent confrontation where the strategy is debated. This local narrative order supports a 'precedes' relation from ep_df26a451ab94e320 to ep_031882e42bfe11c7, but since the subject is ep_031882e42bfe11c7 and the object is ep_df26a451ab94e320, the reverse order is not supported. Therefore, no directed relation in the given subject-to-object direction is justified, but based on scene order, the correct temporal precedence is object precedes subject. However, since 'precedes' is directed and the subject must precede the object for the relation to hold as stated, and it does not, the relation cannot be confidently asserted in the given direction. Thus, after re-evaluation, the evidence does not support 'precedes' in the subject->object direction. No other relation is clearly supported. Therefore, the correct output is NONE.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_c42546a8795a",
+    "subject_id": "ep_635652bc2798ec98",
+    "object_id": "ep_ba2ae05dca737550",
+    "relation_type": "contrasts_with",
+    "reason": "The silent hostility and tense atmosphere in Koscik's home (ep_635652bc2798ec98) contrasts with the portrayal of love and human connection in Zus's introduction of his 'forest wife' (ep_ba2ae05dca737550), where affection persists despite oppression. The episodes juxtapose strained versus resilient interpersonal dynamics under duress, supported by the descriptions emphasizing contempt versus love.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_40A_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_95682cb9d17c",
+    "subject_id": "ep_d2935da7eea7dad5",
+    "object_id": "ep_ca543271c6708b8d",
+    "relation_type": "precedes",
+    "reason": "The debate about arming for resistance (ep_d2935da7eea7dad5) occurs in doc_19, where the brothers discuss obtaining weapons, including reference to Koscik's pistol. The exchange of bullets and expression of gratitude (ep_ca543271c6708b8d) occurs in doc_20, where Koscik hands over bullets to Tuvia. The document order (19 before 20) and narrative progression—discussing the need for arms before receiving ammunition—support that the debate precedes the exchange.",
+    "source_documents": [
+      "scene_20_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_76a9c27c04f2",
+    "subject_id": "ep_6623e1afe227b263",
+    "object_id": "ep_df26a451ab94e320",
+    "relation_type": "precedes",
+    "reason": "The confrontation about Tuvia's return and plans (ep_6623e1afe227b263) occurs in doc_13, while the intervention against excessive brutality (ep_df26a451ab94e320) occurs in doc_16, indicating a narrative sequence where the former precedes the latter based on document order and the progression of brotherly tension.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_20d6e1e20827",
+    "subject_id": "ep_564a9280a988bc30",
+    "object_id": "ep_df26a451ab94e320",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode centers on reflection about the moral and psychological weight of Tuvia's wartime experiences, where he distinguishes his past from conventional war. The second episode depicts a moment where Tuvia intervenes to stop Zus's brutality, highlighting a moral boundary. These episodes contrast in tone and moral stance: one involves introspective dialogue about the nature of violence, while the other shows a direct action against excessive violence, underscoring a divergence in how the brothers process and enact morality. This juxtaposition emphasizes a contrast in response to trauma and ethical limits.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_422ee2121e65",
+    "subject_id": "ep_564a9280a988bc30",
+    "object_id": "ep_e506498e44edc931",
+    "relation_type": "contrasts_with",
+    "reason": "The first episode involves a reflective discussion about the nature of wartime experiences, where Tuvia describes his suffering as 'something else' beyond war, while the second episode features Zus directly probing Tuvia about the traumatic act of killing his sons, met with silence. These episodes are thematically linked but differ in tone and focus—one centers on conceptual ambiguity of war, the other on unspoken guilt and emotional withdrawal—creating a contrast in how trauma is confronted or avoided. The symmetry in emotional weight and the brothers' attempts to engage Tuvia support a contrastive relationship.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_feaa99a74b6a",
+    "subject_id": "ep_595d31cf048e14ce",
+    "object_id": "ep_ba2ae05dca737550",
+    "relation_type": "contrasts_with",
+    "reason": "The two episodes contrast in tone and thematic focus: the first centers on Tuvia's unresolved marital status and class tension, while the second highlights Zus's pragmatic yet defiant forest relationship, with reflective commentary on love under oppression. The sarcastic references to 'rich wife' versus 'forest wife' create a deliberate juxtaposition emphasizing differing personal responses to war and separation.",
+    "source_documents": [
+      "scene_13_part_1",
+      "scene_40A_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_db5f839c2ba2",
+    "subject_id": "ep_3cdd3a6467f85ed4",
+    "object_id": "ep_f032552975d18df3",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves the brothers discussing suspicions about their father's killer and Zus proposing a confrontation with Police Captain Bernicki, which sets up the subsequent action in the object episode where Tuvia actually confronts the Police Captain at his home. The proposal to confront in the first episode directly precedes the execution of the confrontation in the second, supported by the narrative progression from planning to action across the episodes.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_33__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2eb87beb35a5",
+    "subject_id": "ep_6fc24075023940e0",
+    "object_id": "ep_e506498e44edc931",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Zus probes Tuvia about killing his sons' provides psychological elaboration on the emotional aftermath of the violent events in 'Family resists and Tuvia executes final vengeance', particularly Tuvia's internal distress as revealed through his silence and gaze into the fire, thus expanding the narrative context of the prior violence.",
+    "source_documents": [
+      "scene_33__2_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_8f49be5eb375",
+    "subject_id": "ep_3cdd3a6467f85ed4",
+    "object_id": "ep_6fc24075023940e0",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves the brothers discussing suspicions about their father's killer and proposing a confrontation, which sets up the subsequent violent climax in the object episode where Tuvia executes the Police Captain and his family. The narrative progression from planning confrontation to carrying out lethal action indicates a clear temporal sequence supported by the causal buildup in the descriptions.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_33__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_1a9c13576035",
+    "subject_id": "ep_8ed77686412c7754",
+    "object_id": "ep_f877f4e395729e5e",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode shows Tuvia de-escalating a tense situation by offering food peacefully after a threat is raised, while the object episode depicts Zus and Tuvia initiating confrontation and seizing supplies through intimidation. These episodes contrast in tone and method: one resolves conflict through restraint and hospitality, the other begins with aggression and dominance, highlighting a reversal in behavioral approach to securing resources.",
+    "source_documents": [
+      "scene_40A_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "id": "rel_ep_ep_56b810d6c2fd",
+    "subject_id": "ep_3cdd3a6467f85ed4",
+    "object_id": "ep_33b4b21f654bf017",
+    "relation_type": "precedes",
+    "reason": "The episode 'Confront suspicions about their father's killer' involves the brothers discussing and planning a confrontation with Police Captain Bernicki, including Zus proposing direct action. This logically precedes the episode 'Tuvia demands retribution and forces submission', where Tuvia enacts a physical confrontation with the Police Captain, suggesting a narrative progression from deliberation to execution. The shared focus on confronting Bernicki and the escalation in intensity support a 'precedes' relation from the planning episode to the enacted confrontation.",
+    "source_documents": [
+      "scene_33__2_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_99ceb9cd3919",
+    "subject_id": "ep_79162dd4dd630b62",
+    "object_id": "ep_8ed77686412c7754",
+    "relation_type": "precedes",
+    "reason": "The episode 'Zus assesses the group and retrieves the pistol' occurs in doc_37 and involves events from scene_38, while 'Young men arrive with rifle and demand food' occurs in doc_39 and involves events from scene_40A. The document and scene numbering indicate a clear narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_38_part_1",
+      "scene_40A_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_8deb4fcd8f8f",
+    "subject_id": "ep_24fb2ab95276f0de",
+    "object_id": "ep_57e7811bc6ec69e3",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Plan to secure supplies and weapons' involves Tuvia deciding to seek food and a pistol from Koscik, while the object episode 'Tuvia arrives and initiates group integration' describes Tuvia returning to camp with provisions and introducing new arrivals. The planning and departure precede the return and integration, as supported by the narrative sequence in the descriptions and related events.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_38__2_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_c891ced65eda",
+    "subject_id": "ep_57e7811bc6ec69e3",
+    "object_id": "ep_b68a9a2ff3d18103",
+    "relation_type": "precedes",
+    "reason": "The subject episode 'Tuvia arrives and initiates group integration' includes Tuvia instructing Asael to provide food for newcomers, which sets up the subsequent distribution of food in the object episode. The instruction occurs in scene_38__2, while the food distribution occurs in scene_40A, indicating a local narrative order where integration efforts precede the actual food distribution.",
+    "source_documents": [
+      "scene_38__2_part_1",
+      "scene_40A_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_47a4795756a2",
+    "subject_id": "ep_57e7811bc6ec69e3",
+    "object_id": "ep_7b31d8d0381218d1",
+    "relation_type": "precedes",
+    "reason": "Tuvia's arrival and integration of new members (ep_57e7811bc6ec69e3) directly sets the context for Zus's concern about resource strain (ep_7b31d8d0381218d1), as the new arrivals prompt Zus's criticism about lack of food and ammunition. The narrative sequence implied by the events—introducing newcomers followed by a reaction to their arrival—supports a 'precedes' relation from integration to resource strain.",
+    "source_documents": [
+      "scene_38__2_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b222d851ae0a",
+    "subject_id": "ep_bbbf8c76e50fe528",
+    "object_id": "ep_bc4fa87f3cbd7cc0",
+    "relation_type": "causes",
+    "reason": "The invitation of Shimon to join the group (ep_bbbf8c76e50fe528) introduces new arrivals, which directly triggers Zus's concern about resource strain and his confrontation with Tuvia (ep_bc4fa87f3cbd7cc0), as evidenced by the description stating that Zus reacts to the arrival of new people. This constitutes a clear causal link supported by the narrative.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_38__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_09f4c29653bf",
+    "subject_id": "ep_8ed77686412c7754",
+    "object_id": "ep_bc4fa87f3cbd7cc0",
+    "relation_type": "precedes",
+    "reason": "The arrival of the young men with a rifle (ep_8ed77686412c7754) directly prompts Zus's concern about food resources, which is expressed in his confrontation with Tuvia (ep_bc4fa87f3cbd7cc0). The narrative sequence shows the arrival first, followed by Zus pulling Tuvia aside to discuss the strain, indicating a clear temporal order supported by the scene structure and causal context.",
+    "source_documents": [
+      "scene_40A_part_1",
+      "scene_38__2_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_ebc3424ed827",
+    "subject_id": "ep_2dcf86cbfa613886",
+    "object_id": "ep_7b31d8d0381218d1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Acknowledge loss and inquire about family' occurs in doc_30 and involves Shimon and Tuvia exchanging personal news, while 'Confront resource strain from new arrivals' occurs in doc_31 and involves Zus challenging Tuvia about the consequences of bringing more people. The shift from personal dialogue to a conflict over resources and the progression across document IDs (30 to 31) support a narrative sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7bb2336b6a16",
+    "subject_id": "ep_a2470620e755925a",
+    "object_id": "ep_b68a9a2ff3d18103",
+    "relation_type": "elaborates",
+    "reason": "The subject episode 'Respond to the arrival of survivors' includes the act of Tuvia providing food to the survivors, which is a specific instance of food distribution to new arrivals. The object episode generalizes this into a routine act of communal support. Thus, the object episode elaborates on the subject by presenting a broader, repeated context for a specific action that occurs within the subject episode.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_40A_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_6a4df270e34b",
+    "subject_id": "ep_2dcf86cbfa613886",
+    "object_id": "ep_3cdd3a6467f85ed4",
+    "relation_type": "precedes",
+    "reason": "The episode 'Acknowledge loss and inquire about family' involves an exchange of personal news and empathy, setting a reflective and connective tone. The episode 'Confront suspicions about their father's killer' follows it in narrative flow, shifting to tension and conflict over their father's death, as indicated by the phrase 'Following the moment of levity' in the latter's description. This establishes a clear local narrative order where the first episode precedes the second.",
+    "source_documents": [
+      "scene_30_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_d695039852bc",
+    "subject_id": "ep_0d8e7ca00d32aac5",
+    "object_id": "ep_b1377cd0b19c349f",
+    "relation_type": "precedes",
+    "reason": "The episode 'Offer alcohol to celebrate violent activities' involves Koscik offering a bottle to the police captain and his sons, which sets up the context for the subsequent episode 'Exchange veiled bribes and accusations' where the captain attempts to return the bottle and a tense, ritualized exchange ensues. The sequence of events—offering the bottle followed by its attempted return and related accusations—indicates a clear narrative progression, with the first episode occurring before the second in the local discourse order.",
+    "source_documents": [
+      "scene_23_part_1",
+      "scene_27_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_00f4e9eee6de",
+    "subject_id": "ep_e8b8fdd9c161c85c",
+    "object_id": "ep_c58cd8158c1bdb11",
+    "relation_type": "precedes",
+    "reason": "The episode 'Attempt to secure food at a location' occurs in doc_15 and scene_15, while 'Demand the hidden weapon and inflict violence' occurs in doc_16 and scene_16, indicating a clear narrative sequence where the food attempt precedes the violent interrogation over the weapon.",
+    "source_documents": [
+      "scene_16_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_64f5bd00a546",
+    "subject_id": "ep_24fb2ab95276f0de",
+    "object_id": "ep_8ed77686412c7754",
+    "relation_type": "precedes",
+    "reason": "The episode 'Plan to secure supplies and weapons' involves Tuvia deciding to seek food and a pistol due to concerns about sustaining survivors, which sets up a logistical and security response. The subsequent episode 'Young men arrive with rifle and demand food' depicts an immediate threat from armed newcomers, resolved by Tuvia offering food. The planning of food and weapon acquisition logically precedes the arrival of armed men demanding food, and the narrative flow suggests a temporal sequence where preparation follows need but precedes the crisis it partially anticipates. While causality is not explicitly stated, the local narrative order and contextual dependency support a 'precedes' relation.",
+    "source_documents": [
+      "scene_19_part_1",
+      "scene_40A_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_a9fd9ea48354",
+    "subject_id": "ep_e8b8fdd9c161c85c",
+    "object_id": "ep_7b31d8d0381218d1",
+    "relation_type": "precedes",
+    "reason": "The episode 'Attempt to secure food at a location' involves Tuvia and Zus's group in an early effort to obtain provisions, occurring before the conflict in 'Confront resource strain from new arrivals' where Zus challenges Tuvia for returning with more people instead of food. The latter episode references Tuvia's return with additional people, implying the food attempt preceded the strain over resources, establishing a clear narrative sequence.",
+    "source_documents": [
+      "scene_32_part_1",
+      "scene_15_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_4b08b742ca29",
+    "subject_id": "ep_c58cd8158c1bdb11",
+    "object_id": "ep_031882e42bfe11c7",
+    "relation_type": "precedes",
+    "reason": "The episode 'Demand the hidden weapon and inflict violence' (doc_16) occurs in scene_16, while 'Confront anti-Semites with violent resolve' (doc_17) occurs in scene_17, indicating a clear narrative sequence where the former precedes the latter.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_672d2bc513ab",
+    "subject_id": "ep_a3208a80d4cb27f1",
+    "object_id": "ep_031882e42bfe11c7",
+    "relation_type": "precedes",
+    "reason": "The episode 'Extract the rifle and enforce silence' (doc_16) occurs in scene_16, while 'Confront anti-Semites with violent resolve' (doc_17) occurs in scene_17, indicating a clear narrative sequence where the retrieval of the rifle precedes the confrontation. The events in doc_16 directly set up Zus's possession of the rifle, which is then used symbolically in the subsequent confrontation in doc_17.",
+    "source_documents": [
+      "scene_17_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9e693d3ab0f3",
+    "subject_id": "ep_2a4d228dee62a327",
+    "object_id": "ep_1b8ad88503c4375b",
+    "relation_type": "precedes",
+    "reason": "The episode 'Zus issues combat challenge to join the fight' (doc_40, scene_41) occurs in an earlier document and scene than 'Retreat and confront the neighborhood' (doc_43, scene_43A), indicating a prior narrative position. The challenge sets a condition for joining armed resistance, while the retreat episode shows active engagement and public declaration, suggesting a progression from recruitment to action. This local narrative order supports a 'precedes' relation from the challenge to the confrontation.",
+    "source_documents": [
+      "scene_43A_part_1",
+      "scene_41_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_2c26c3cb3270",
+    "subject_id": "ep_79162dd4dd630b62",
+    "object_id": "ep_2a4d228dee62a327",
+    "relation_type": "precedes",
+    "reason": "Episode 'Zus assesses the group and retrieves the pistol' (scene_38) occurs in an earlier scene than 'Zus issues combat challenge to join the fight' (scene_41), establishing a clear narrative sequence where Zus's re-engagement and assessment precede his later challenge to the group. The scene numbers (38 before 41) provide explicit chronological evidence supporting the 'precedes' relation.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_38_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_3c023e7cd8f7",
+    "subject_id": "ep_666f2828cce65547",
+    "object_id": "ep_c58cd8158c1bdb11",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves planning and debating a raid on a farm for food, including target selection and addressing concerns about risks, while the object episode depicts the violent execution of a raid, including demands for a weapon and physical assault. The planning and decision-making in the subject logically precede the violent actions in the object, as supported by the narrative progression from deliberation to action across the related events and descriptions.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_dc205cc5200a",
+    "subject_id": "ep_c5116971954cd743",
+    "object_id": "ep_f877f4e395729e5e",
+    "relation_type": "precedes",
+    "reason": "The confrontation at the barnyard (ep_c5116971954cd743) involves only Zus and Asael and ends with Zus warning they will return, suggesting unresolved tension. The second episode (ep_f877f4e395729e5e) involves Zus and Tuvia entering the farmer's home aggressively to seize supplies, indicating a subsequent escalation. The shared goal of obtaining food, the progression from external confrontation to forced entry, and the increasing intensity suggest a temporal sequence where the first episode precedes the second.",
+    "source_documents": [
+      "scene_6A_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_7f08dd83328a",
+    "subject_id": "ep_d2935da7eea7dad5",
+    "object_id": "ep_2a4d228dee62a327",
+    "relation_type": "precedes",
+    "reason": "The debate about arming themselves (ep_d2935da7eea7dad5) establishes the strategic disagreement over weaponry, which is followed by Zus issuing a direct combat challenge to prove courage through rifle use (ep_2a4d228dee62a327), indicating a narrative progression from discussion to action. The latter episode occurs in scene_41, while the former occurs in scene_19, supporting a clear temporal order.",
+    "source_documents": [
+      "scene_41_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_82d0b0b39bbd",
+    "subject_id": "ep_666f2828cce65547",
+    "object_id": "ep_a3208a80d4cb27f1",
+    "relation_type": "precedes",
+    "reason": "The subject episode involves proposing and debating a raid on Wilencki's farm due to starvation, culminating in the decision to take action. The object episode depicts the actual execution of the raid at Wilencki's farm, where Zus retrieves a rifle and enforces silence. The events in the object episode (retrieving the rifle, confronting the farmer) logically follow and enact the plan decided in the subject episode, establishing a clear temporal sequence supported by the shared target (Wilencki's farm) and narrative progression from planning to action.",
+    "source_documents": [
+      "scene_14_part_1",
+      "scene_16_part_1"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "id": "rel_ep_ep_9d063ae180fb",
+    "subject_id": "ep_635652bc2798ec98",
+    "object_id": "ep_dc724a7f35d52438",
+    "relation_type": "contrasts_with",
+    "reason": "The tense, hostile atmosphere in 'Navigate tension with Koscik's wife' contrasts with the moment of mutual respect and emotional depth in 'Recall the past and acknowledge loss,' creating a juxtaposition of discomfort and connection within the same encounter.",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_63e00ff755d5",
+    "subject_id": "ep_c58cd8158c1bdb11",
+    "object_id": "ep_df26a451ab94e320",
+    "relation_type": "contrasts_with",
+    "reason": "The subject episode involves Zus escalating violence against the farmer, while the object episode captures Tuvia intervening to stop the brutality, highlighting a moral and behavioral contrast between the brothers during the same confrontation. This juxtaposition emphasizes divergent approaches, supporting a 'contrasts_with' relation.",
+    "source_documents": [
+      "scene_16_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_aff7369eef91",
+    "subject_id": "ep_79725bfb80ca7d44",
+    "object_id": "ep_ccec9a867498a91a",
+    "relation_type": "elaborates",
+    "reason": "The episode 'Address Aron's trauma and silence' provides explanatory context for Aron's behavior first observed in 'Respond to disturbance and discover Aron in root cellar', specifically elaborating on the cause of his silence and emotional withdrawal as resulting from witnessed trauma. This constitutes a directed expansion of the earlier episode's events through character explanation.",
+    "source_documents": [
+      "scene_8__2_part_1",
+      "scene_32_part_1"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "id": "rel_ep_ep_0f235f208e9a",
+    "subject_id": "ep_61cdeea3980a1cf0",
+    "object_id": "ep_f524f91dd49e853f",
+    "relation_type": "precedes",
+    "reason": "The description of ep_61cdeea3980a1cf0 states that Tuvia confronts Koscik and they share an emotional moment, and 'after the emotional exchange with Koscik, Tuvia assumes leadership' in ep_f524f91dd49e853f, which explicitly indicates a narrative sequence where the first episode occurs before the second.",
+    "source_documents": [
+      "scene_29_part_1"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "id": "rel_ep_ep_ca3f975cbc8a",
+    "subject_id": "ep_635652bc2798ec98",
+    "object_id": "ep_6a94c65437d9c16d",
+    "relation_type": "precedes",
+    "reason": "The episode 'Navigate tension with Koscik's wife' involves Tuvia noticing the wife's silent hostility, which sets the atmosphere before Koscik produces vodka and offers a toast in the second episode. The sequence of events—glaring and tension preceding the toast gesture—suggests a local narrative order where the tension is established prior to the toast, making 'precedes' the best-supported relation.",
+    "source_documents": [
+      "scene_20_part_1"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "id": "rel_ep_ep_b3a4b91e1856",
+    "subject_id": "ep_243648c287337d24",
+    "object_id": "ep_a2470620e755925a",
+    "relation_type": "precedes",
+    "reason": "The subject episode describes Aron discovering the survivors in the grove, which directly sets up the object episode where Aron brings those survivors out of the forest and the group responds. The related events in the object episode, such as 'Aron leads survivors from the trees', presuppose the discovery in the subject episode. This establishes a clear narrative sequence where the discovery must occur before the response, supporting a 'precedes' relation from subject to object.",
+    "source_documents": [
+      "scene_18_part_1",
+      "scene_19_part_1"
+    ],
+    "confidence": 0.95
+  }
+]

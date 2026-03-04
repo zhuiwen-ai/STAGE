@@ -1,0 +1,138 @@
+{
+  "character": "Jason_Bourne",
+  "qas": [
+    {
+      "question": "Did you take any hostile action against the people in the sedan?",
+      "supporting_facts": [
+        "You did not aim at the sedan's occupants",
+        "Your actions did not involve targeting anyone inside the vehicle"
+      ],
+      "contradicting_facts": [
+        "You fired at or attempted to disable the sedan's occupants",
+        "You targeted the sedan with intent to harm"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "You were at Threshers and had to leave quickly—what did you do immediately after exiting?",
+      "supporting_facts": [
+        "You exited through the silver door behind Threshers",
+        "You made a physical movement involving spinning after exiting"
+      ],
+      "contradicting_facts": [
+        "You remained in place after starting the car",
+        "You walked directly toward a stationary vehicle without evasive action"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What were you doing immediately before entering the SEWELL and MARBURY building?",
+      "supporting_facts": [
+        "You began running up a set of steps prior to entry.",
+        "You were not openly visible, indicating movement under concealment."
+      ],
+      "contradicting_facts": [
+        "You arrived at the building by car using authorized vehicle access.",
+        "You were standing in plain sight near the building entrance."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How did you respond when you became aware of the imminent threat from the vehicle tailing you?",
+      "supporting_facts": [
+        "Bourne reacted instantaneously to the imminent threat",
+        "Bourne recognized the CRI sedan as part of a known surveillance tactic"
+      ],
+      "contradicting_facts": [
+        "You delayed your response to assess the situation further",
+        "The threat was ignored initially due to uncertainty"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you use any tactics to prevent the driver from getting a clear shot during the pursuit?",
+      "supporting_facts": [
+        "You maintained control of the vehicle in a way that disrupted the driver's ability to fire accurately.",
+        "Your actions during the pursuit directly interfered with the driver's weapon accuracy."
+      ],
+      "contradicting_facts": [
+        "You allowed the driver to fire without interference from vehicle handling.",
+        "The driver was able to take accurate shots during the pursuit."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "You experienced a flashback involving someone leading you down a corridor—what do you recall about that moment?",
+      "supporting_facts": [
+        "You had a flashback memory of a corridor led by Daniels",
+        "You did not complete the intended action during the flashback"
+      ],
+      "contradicting_facts": [
+        "You completed the mission objective during the flashback",
+        "The person leading you in the corridor was Desh"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why did you decide to leave the cafe even though you hadn't finished your meal?",
+      "supporting_facts": [
+        "You decided to move from the cafe based on your own choice.",
+        "You were aware of police presence while moving onto a landing, indicating a need for caution."
+      ],
+      "contradicting_facts": [
+        "You stayed at the cafe until finishing your meal before leaving.",
+        "You only left the cafe after receiving a direct threat or attack."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you use official or legal methods to begin driving the car you took?",
+      "supporting_facts": [
+        "You did not use authorized means to start the car.",
+        "Your method of starting the car bypassed standard authorization procedures."
+      ],
+      "contradicting_facts": [
+        "You started the car using a key or other authorized method.",
+        "You had official permission to operate the vehicle."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Why did you point your gun at Abbott when you confronted him?",
+      "supporting_facts": [
+        "You perceived Abbott as a direct threat due to his involvement in the Blackbriar program.",
+        "You opened the 'TREADSTONE: Blackbriar' folder and learned critical information that implicated Abbott.",
+        "You were not maintaining a non-threatening posture toward Hirsch, indicating a readiness to use force against program associates."
+      ],
+      "contradicting_facts": [
+        "You pointed the gun at Abbott as a defensive reaction to an immediate physical attack from him.",
+        "You avoided all confrontational actions because you were trying to remain undetected by government personnel."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "What did you do with Marie's belongings, and why?",
+      "supporting_facts": [
+        "Bourne deliberately destroyed Marie's belongings by burning them",
+        "The act of burning was a conscious choice to eliminate traces of identity or connection"
+      ],
+      "contradicting_facts": [
+        "You kept Marie's belongings for safekeeping or sentimental reasons",
+        "You handed Marie's belongings over to someone else for protection"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "How did you manage to get away from those chasing you?",
+      "supporting_facts": [
+        "Bourne used knowledge of the corridor layout to evade pursuers",
+        "Escape was achieved by moving through connected interior pathways to avoid direct confrontation"
+      ],
+      "contradicting_facts": [
+        "You escaped by confronting and subduing all pursuers directly",
+        "You waited in place until the pursuers lost interest and left"
+      ],
+      "final_score": 8.333333333333334
+    }
+  ]
+}

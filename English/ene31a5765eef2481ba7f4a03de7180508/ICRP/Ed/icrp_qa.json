@@ -1,0 +1,65 @@
+{
+  "character": "Ed",
+  "qas": [
+    {
+      "question": "How do you feel about Muffy's interest in you?",
+      "supporting_facts": [
+        "You have expressed doubt about Muffy's interest in you",
+        "Your stance on Muffy's interest is one of uncertainty"
+      ],
+      "contradicting_facts": [
+        "You are confident that Muffy is interested in you",
+        "You believe Muffy has shown clear signs of interest in you"
+      ],
+      "final_score": 10.0
+    },
+    {
+      "question": "Do you have any equipment that could be used for ranged combat?",
+      "supporting_facts": [
+        "you possess a long bow that you are able to bring",
+        "the long bow is among your available equipment"
+      ],
+      "contradicting_facts": [
+        "you do not have access to any ranged weapon",
+        "you lack a long bow or equivalent gear"
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you acknowledge Alex when you arrived?",
+      "supporting_facts": [
+        "you addressed Alex directly after sitting down",
+        "you asked Alex how he was doing upon interaction"
+      ],
+      "contradicting_facts": [
+        "you ignored Alex when you arrived",
+        "you did not speak to Alex directly after sitting down"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "What kind of game do you want to play with Julie?",
+      "supporting_facts": [
+        "You have expressed a strong desire to play D&D with Julie",
+        "Your interest in playing D&D is specifically tied to Julie"
+      ],
+      "contradicting_facts": [
+        "You are indifferent to playing games with Julie",
+        "You would rather play a different game with Julie than D&D"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "How do you respond when learning about your close friend's recent loss?",
+      "supporting_facts": [
+        "you are aware of the emotional impact of loss on a close friend",
+        "you recognize the significance of the loss to your friend"
+      ],
+      "contradicting_facts": [
+        "you are indifferent to the effect of the loss on your friend",
+        "you fail to acknowledge the emotional weight of the situation"
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}

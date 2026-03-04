@@ -1,0 +1,65 @@
+{
+  "character": "Barney_Rubble",
+  "qas": [
+    {
+      "question": "Did you check on Fred while he was inside the costume head?",
+      "supporting_facts": [
+        "You rapped on the costume head to assess Fred's condition.",
+        "Your action of knocking was intended to confirm Fred was okay."
+      ],
+      "contradicting_facts": [
+        "You ignored Fred while he was in the costume head.",
+        "You opened the costume head to check on Fred."
+      ],
+      "final_score": 8.333333333333334
+    },
+    {
+      "question": "Did you have any personal interest in the outcome of the Fibrerock project?",
+      "supporting_facts": [
+        "You have a financial stake in Fibrerock",
+        "You proactively alerted Mister Lava about an issue with the Fibrerock mix"
+      ],
+      "contradicting_facts": [
+        "You were indifferent to the success of the Fibrerock project",
+        "You had no ownership or investment tied to Fibrerock"
+      ],
+      "final_score": 7.777777777777779
+    },
+    {
+      "question": "Were you unaware of Fred's decision to run for office?",
+      "supporting_facts": [
+        "You became aware of Fred's candidacy at some point",
+        "Your knowledge state included awareness of Fred's political involvement"
+      ],
+      "contradicting_facts": [
+        "You had no knowledge about Fred's candidacy",
+        "Fred's run for office was kept hidden from you throughout"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "Did you keep the original car hood after creating the mold?",
+      "supporting_facts": [
+        "The original car hood was discarded or lost after mold creation",
+        "Retention of the original hood was not part of the post-molding outcome"
+      ],
+      "contradicting_facts": [
+        "You still possessed the original car hood after the mold was made",
+        "The original hood remained in your possession as a preserved object"
+      ],
+      "final_score": 6.666666666666667
+    },
+    {
+      "question": "What did you do when you found the rolled-up tapestry?",
+      "supporting_facts": [
+        "You retrieved the tapestry from a hiding place behind a plant.",
+        "You were the one who physically pulled the tapestry from its concealed location."
+      ],
+      "contradicting_facts": [
+        "You found the tapestry inside the footlocker.",
+        "You left the car before retrieving the tapestry."
+      ],
+      "final_score": 6.666666666666667
+    }
+  ]
+}
